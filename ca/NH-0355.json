@@ -1,0 +1,763 @@
+{
+ "ma_ca": "NH-0355",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Lê Ngọc Mai",
+  "tuoi": 10,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 5",
+  "can_nang": 28,
+  "chieu_cao": 135,
+  "xung_ho": "Mai 10 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'; trả lời ngắn, lễ phép, hay nói 'dạ con không sao ạ'. Bà nội (bà Tám, 68 tuổi) đi cùng: bà xưng 'bà' hoặc 'tôi' với bác sĩ và gọi bác sĩ là 'bác sĩ'; bác sĩ gọi bà là 'bà'. Bà gọi Mai là 'cháu' hoặc 'con Mai'.",
+  "tinh_cach": "Mai ngoan, chín chắn hơn tuổi, không muốn làm người lớn thêm lo vì bố đang bệnh. Bà Tám hay lo xa, nói nhiều, hoảng khi thấy cháu có biểu hiện giống con trai mình.",
+  "kieu_nhieu": "Mai phủ nhận triệu chứng nặng: hỏi cảm giác ('con có đau tai không?', 'đau lắm không?') thì đáp 'dạ không đau, chỉ hơi nặng nặng thôi ạ', 'con đỡ rồi ạ'. Chỉ lộ mức khó chịu thật khi bác sĩ hỏi câu chức năng cụ thể: đêm qua thức giấc mấy lần, nằm nghiêng bên nào ngủ được, nhai cơm bên nào, nghe cô giảng bài có rõ không, hôm nay đi học được không. Bà Tám không tự kể chuyện bố Mai bị nhồi máu cơ tim; chỉ nói khi được hỏi điều bà lo nhất hoặc trong nhà có ai bị bệnh tim.",
+  "nguoi_nha": "Bà nội (bà Tám, 68 tuổi) đi cùng vì mẹ Mai đang ở viện chăm bố. Hầu hết câu hỏi về bệnh sử do bà trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng Mai thì Mai trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Bà nội (bà Tám)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#8fb8de",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e3b08a",
+    "toc": "#c9c9c9",
+    "kieuToc": "hoi",
+    "ao": "#a56d8f",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nhức hàm và nửa đầu bên trái, sốt nhẹ",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 10 tuổi, 28 kg, học sinh lớp 5, bà nội đưa đến vì nhức hàm và nửa đầu bên trái 3 ngày, mệt, sốt nhẹ. Gia đình đi du lịch Sa Pa về cách đây 8 ngày. Sinh hiệu: nhiệt 38,4 °C, mạch 102 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, nói 'con không sao'.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, cháu nhà tôi kêu nhức cái hàm với nhức nửa đầu bên trái mấy hôm nay, người lại hâm hấp sốt. Hỏi thì nó cứ bảo 'con không sao', mà tôi thấy không yên tâm chút nào. Bác sĩ khám kỹ cho cháu giùm tôi.",
+   "sinh_hieu": {
+    "mach": 102,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà kể: 3 ngày nay cháu kêu nhức hàm và nửa đầu bên trái, mệt, bỏ cơm chiều qua; sốt nhẹ 2 ngày nay (đo ở nhà 37,8–38,4 °C); sáng nay nôn 1 lần. Bà lo cháu mắc bệnh nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (đau lan hàm, nhức nửa đầu: biểu hiện không điển hình)"
+    },
+    {
+     "id": "dau_tai",
+     "noi_dung": "Hỏi 'đau tai không': Mai nói 'dạ không đau tai ạ, chỉ hơi nặng nặng, như bị bịt trong tai trái thôi'. Hỏi 'đau lắm không': 'dạ không sao ạ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau tai (bé giảm nhẹ triệu chứng)"
+    },
+    {
+     "id": "chuc_nang_dem",
+     "noi_dung": "Hỏi theo chức năng: 2 đêm nay Mai thức giấc 2–3 lần vì nhức bên trái đầu và hàm, phải nằm nghiêng sang phải, lấy tay ép vào tai trái mới ngủ lại được. Bà thấy bé hay đưa tay áp tai trái. Bà cho uống paracetamol nửa viên 500 mg 2 lần, đỡ được vài giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ, đau kéo dài trên 48 giờ (tiêu chuẩn nặng AAP 2013)"
+    },
+    {
+     "id": "chuc_nang_an",
+     "noi_dung": "Hỏi nhai cơm: Mai chỉ nhai bên phải vì nhai bên trái thấy tức và nhức hàm; bỏ bữa chiều qua. Nghỉ học 2 buổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chức năng ăn nhai, đi học"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Hỏi nghe: từ 3 ngày nay tai trái nghe kém; bạn nói bên trái phải bảo nhắc lại, nghe cô giảng phải xoay tai phải về phía cô; hơi ù. Không chóng mặt quay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghe kém, ù tai bên trái"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cả nhà đi Sa Pa 4 ngày, về cách đây 8 ngày. Ở đó đang có đợt cúm mùa: hướng dẫn viên và hai bạn cùng đoàn ho sốt. Về nhà ngày thứ 2 Mai sổ mũi, ngạt mũi, ho; sổ mũi hết sau khoảng 4 ngày thì chuyển sang tai trái bị bịt. Chưa tiêm phòng cúm năm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau nhiễm virus hô hấp (đi du lịch vùng dịch)"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Từ ngày thứ 2 sau khi về, bà mua siro ambroxol (thuốc ho long đờm) ở nhà thuốc cho Mai uống 3 lần/ngày vì ho có đờm; nay vẫn uống, ho đỡ. Không dùng thuốc nhỏ tai, không ngoáy tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (thuốc ho long đờm)"
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Nhức đầu âm ỉ nửa đầu trái, không dữ dội; không sợ ánh sáng, không cứng cổ, không co giật, không lơ mơ, không chóng mặt quay, miệng không méo, không nhìn đôi. Nôn 1 lần sáng nay sau bữa sáng, không vọt, không nôn lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng nội sọ, viêm màng não (WHO 2013 mục 6.3.1)"
+    },
+    {
+     "id": "sau_tai",
+     "noi_dung": "Bà không thấy sưng, đỏ hay chảy nước sau tai; vành tai không bị đẩy ra; không chảy mủ hay nước ở tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm xương chũm, thủng màng nhĩ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng viêm tai giữa hay chảy mủ tai, không đặt ống tai, không ngáy to. Không dị ứng thuốc; năm 7 tuổi từng uống amoxicillin khi viêm họng, không phản ứng gì. Không dùng kháng sinh trong 30 ngày qua. Tiêm chủng đầy đủ theo chương trình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, dị ứng penicillin, kháng sinh 30 ngày (AAP 2013 KAS 4A)"
+    },
+    {
+     "id": "boi_rang",
+     "noi_dung": "Không đi bơi, không ngoáy tai; không đau răng, không sâu răng, há miệng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ viêm ống tai ngoài, đau răng, khớp thái dương hàm"
+    },
+    {
+     "id": "bo_nhoi_mau",
+     "noi_dung": "Bố Mai (42 tuổi) bị nhồi máu cơ tim cách đây 5 tuần, phải đặt stent; lúc khởi phát bố 'đau lan lên hàm trái và nhức đầu'. Mẹ Mai đang ở viện chăm bố nên bà đưa cháu đi. Bà thấy cháu đau hàm trái giống hệt bố nên hoảng, sợ cháu bị nhồi máu cơ tim.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi nhẹ nhàng điều bà lo nhất, vì sao hôm nay bà đưa cháu đi ngay, hoặc trong nhà có ai bị bệnh tim; bác sĩ ghi nhận nỗi lo thì bà mới kể.",
+     "k": 1,
+     "y": "Lý do thật đến khám (sợ nhồi máu cơ tim)"
+    },
+    {
+     "id": "mai_so",
+     "noi_dung": "Mai giấu mức đau vì không muốn bà và mẹ thêm lo, lại sợ phải nằm viện như bố. Thật ra đau nhiều về đêm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng riêng Mai 'con sợ điều gì nhất?' và nói rõ khám để biết chữa chứ chưa chắc phải vào viện.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: phủ nhận triệu chứng nặng"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch, màng nhĩ xám hồng bình thường, thấy tam giác sáng. Tai trái: ống tai không phù nề, không mủ; màng nhĩ đỏ, phồng rõ nhất ở phần sau, mất tam giác sáng và mất mốc cán búa, kém di động khi thổi hơi; không thủng. Ấn bình tai và kéo vành tai không đau. Rãnh sau tai nguyên vẹn, không sưng đỏ, vành tai không bị đẩy ra trước; ấn xương chũm trái chỉ hơi tức. Nghiệm pháp Weber lệch về tai trái, Rinne âm tính bên trái: nghe kém dẫn truyền. Mũi: niêm mạc phù, ít dịch nhầy. Họng đỏ nhẹ. Răng hàm trái không sâu, không gõ đau.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, tiếp xúc tốt. Cổ mềm, cúi cằm chạm ngực được. Kernig và Brudzinski âm tính. Không sợ ánh sáng. Mặt cân đối, nhắm mắt kín hai bên, không liệt dây VII. Không rung giật nhãn cầu, đi thẳng hàng vững.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. Niêm mạc hồng, ẩm, không mất nước, không vẻ nhiễm trùng nặng. Mai ngồi nghiêng đầu sang trái, tay hay đưa lên áp tai trái dù miệng nói 'con không sao'.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai và dưới hàm trái nhỏ, di động, hơi đau; không có hạch sau tai. Không sưng vùng chũm hay mang tai. Cổ mềm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 102 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 102 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Khớp thái dương hàm hai bên không đau, há miệng đủ rộng, không lạo xạo. Cổ vai gáy không co cứng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 10,9 G/L · Neutrophil 66% · Hb 126 g/L · TC 290 G/L",
+     "bang": {
+      "wbc": 10.9,
+      "neu_pct": 66.0,
+      "neu": 7.2,
+      "lym_pct": 26.0,
+      "lym": 2.83,
+      "mono_pct": 6.0,
+      "mono": 0.65,
+      "eos_pct": 1.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.5,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 84.4,
+      "mch": 28.0,
+      "mchc": 332,
+      "rdw": 13.0,
+      "plt": 290
+     },
+     "n": "Không cần: chẩn đoán dựa vào soi tai (AAP 2013 KAS 1A–1C); xét nghiệm khác không cần trừ khi nghi biến chứng (AWaRe 2022, mục 5 Viêm tai giữa cấp, tr. 38–39)."
+    },
+    "crp": {
+     "r": "12 mg/L",
+     "bang": {
+      "crp": 12
+     },
+     "n": "Không cần (như công thức máu)."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Âm tính cúm A/B và SARS-CoV-2.",
+     "n": "Chấp nhận, không bắt buộc: có tiếp xúc vùng cúm nhưng kết quả không đổi xử trí viêm tai giữa (AWaRe 2022, mục 5, tr. 38–39: xét nghiệm vi sinh không cần trừ khi nghi biến chứng)."
+    },
+    "ecg": {
+     "r": "Nhịp xoang 100 l/p, không biến đổi ST–T.",
+     "n": "Không có chỉ định: không đau ngực, không đau khi gắng sức, tim đều, không âm thổi; giải thích để trấn an. Tài liệu đã tải không có khuyến cáo làm điện tim cho trẻ trong tình huống này."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai trái, thể nặng, sau nhiễm virus hô hấp (cảm lạnh/cúm), ở trẻ 10 tuổi; biểu hiện không điển hình: bé không kêu đau tai mà nhức hàm và nửa đầu bên trái",
+     "ok": 1,
+     "n": "Khởi phát cấp, màng nhĩ phồng, đỏ, mất mốc, kém di động (AAP 2013 KAS 1A; QĐ 5643 Viêm tai giữa cấp trẻ em mục 3.1.1, tr. 210–211); nguyên nhân thường là viêm đường hô hấp trên, cúm (mục 2, tr. 210); đau có thể lan ra thái dương hoặc xuống răng (mục 3.1.1, tr. 210). Thể nặng vì đau trên 48 giờ (AAP 2013 KAS 3A; Table 4 chú thích b)."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Chưa nghĩ: không sưng đỏ sau tai, không dấu phập phều, vành tai không bị đẩy ra trước (QĐ 5643 Viêm xương chũm cấp tính trẻ em mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182: sốt cao và sưng đau sau tai). Ấn xương chũm hơi tức là phản ứng xương chũm, không đáng ngại (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211)."
+    },
+    {
+     "t": "Viêm màng não, biến chứng nội sọ",
+     "n": "Nhức đầu, sốt, nôn buộc phải khám loại trừ: Mai tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không co giật, không liệt dây VII (WHO 2013 mục 6.3.1, tr. 167; QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214)."
+    },
+    {
+     "t": "Viêm ống tai ngoài",
+     "n": "Ấn bình tai và kéo vành tai không đau, ống tai không phù nề, thấy rõ màng nhĩ (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212); không bơi, không ngoáy tai."
+    },
+    {
+     "t": "Viêm tai giữa ứ dịch (không phải viêm cấp)",
+     "n": "Màng nhĩ phồng, đỏ, khởi phát cấp kèm sốt: đủ chẩn đoán viêm tai giữa cấp (AAP 2013 KAS 1A–1C); ứ dịch đơn thuần không có dấu viêm cấp."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Mới 5–6 ngày từ lúc sổ mũi, đang hết sổ mũi, không đau mặt, không chảy mủ mũi: chưa đủ tiêu chuẩn (IDSA ABRS 2012 khuyến cáo I.1, tr. 1042)."
+    },
+    {
+     "t": "Đau hàm do răng hoặc khớp thái dương hàm",
+     "n": "Răng không sâu, không gõ đau; khớp thái dương hàm không đau, há miệng đủ. Đau lan xuống hàm, răng là triệu chứng của viêm tai giữa (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 210)."
+    },
+    {
+     "t": "Nhồi máu cơ tim, bệnh tim (nỗi lo của bà)",
+     "n": "Không nghĩ: bé khỏe, đau không liên quan gắng sức, không đau ngực, tim đều không âm thổi, tổn thương tai giải thích đủ triệu chứng. Tài liệu đã tải không có mục về nhồi máu cơ tim ở trẻ em; loại trừ bằng lâm sàng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kê amoxicillin 90 mg/kg/ngày (28 kg: 2.520 mg/ngày, chia 2 lần ≈ 1.260 mg/lần), uống 10 ngày",
+     "v": "c",
+     "n": "Nặng (đau trên 48 giờ): kháng sinh ngay (AAP 2013 KAS 3A); sốt, nôn, mệt là triệu chứng toàn thân (Italian Consensus 2025 khuyến cáo 2.1). Amoxicillin 80–90 mg/kg/ngày (AAP 2013 KAS 4A, Table 5; Italian Consensus 2025 khuyến cáo 3.2), chia 2 lần (AAP 2013 Table 5); Italian Consensus 2025 khuyến cáo 3.3 khuyên chia 3 lần (khuyến cáo yếu) nhưng cho phép 2 lần khi uống 3 lần gây khó khăn cho gia đình, để tăng tuân thủ – Mai đi học cả ngày nên chọn 2 lần; chia 3 lần cũng đúng. Ca nặng dùng 10 ngày (AAP 2013, mục Duration of Therapy, tr. e985); Italian Consensus 2025 khuyến cáo 4.1: 7 hoặc 10 ngày."
+    },
+    {
+     "t": "Amoxicillin liều thấp hơn: 500 mg × 3 lần/ngày hoặc 1 g × 2 lần/ngày (khoảng 50–70 mg/kg/ngày), 5–7 ngày",
+     "v": "a",
+     "n": "Theo NICE NG91 2018 (Table 1, tr. 9: 5–17 tuổi 500 mg × 3 lần/ngày, 5–7 ngày) và AWaRe 2022 (mục 5, tr. 39: ≥ 20 kg 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ, 5 ngày). Chấp nhận; đáp án chính theo Italian Consensus 2025 và AAP 2013 (80–90 mg/kg/ngày, ca nặng 10 ngày)."
+    },
+    {
+     "t": "Amoxicillin-clavulanate ngay từ đầu",
+     "v": "a",
+     "n": "AAP 2013 Table 5 xếp là lựa chọn đầu tay thứ hai; Italian Consensus 2025 (tóm tắt) chỉ dùng khi nguy cơ vi khuẩn tiết β-lactamase. Bé chưa dùng amoxicillin 30 ngày, không viêm kết mạc mủ (AAP 2013 KAS 4A–4B): không phải đáp án chính."
+    },
+    {
+     "t": "Giảm đau, hạ sốt: paracetamol 10–15 mg/kg/lần (28 kg: 280–420 mg, chọn 300 mg) mỗi 6 giờ khi đau hoặc sốt; có thể thay ibuprofen 200 mg mỗi 8 giờ",
+     "v": "c",
+     "n": "Đánh giá đau và điều trị đau (AAP 2013 KAS 2; Table 3: acetaminophen, ibuprofen là nền tảng); NICE NG91 2018 khuyến cáo 1.1.4. Liều theo cân nặng: AWaRe 2022 (mục 5, tr. 39): paracetamol 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; ibuprofen 5–10 mg/kg mỗi 6–8 giờ, 20–< 30 kg 200 mg mỗi 8 giờ."
+    },
+    {
+     "t": "Ngưng siro ambroxol (thuốc ho long đờm); không dùng thuốc ho, thuốc co mạch hay kháng histamin cho tai",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): ho, cảm lạnh không dùng mucolytic hay thuốc ho chứa atropin, codein. Thuốc co mạch và kháng histamin không giúp triệu chứng viêm tai giữa cấp, thuốc co mạch tăng tác dụng phụ (NICE NG91 2018 khuyến cáo 1.1.6 và phần tóm tắt bằng chứng, tr. 13). Hiệu quả riêng của ambroxol: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng nỗi lo của bà, nói rõ đau hàm và nhức đầu của Mai do viêm tai giữa, không phải bệnh tim; trấn an",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ nếu chưa đỡ (sớm hơn nếu nặng lên); đưa đến ngay khi có dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "Đánh giá lại khi triệu chứng nặng lên hoặc không đáp ứng trong 48–72 giờ (AAP 2013 KAS 4C; tr. e984: sau 48–72 giờ phải đỡ). NICE NG91 2018 khuyến cáo 1.1.12; chuyển bệnh viện khi có biến chứng viêm xương chũm, viêm màng não (khuyến cáo 1.1.14, tr. 8). Dấu hiệu sưng sau tai: WHO 2013 mục 6.7.1, tr. 182."
+    },
+    {
+     "t": "Chích rạch màng nhĩ ngay tại phòng khám",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp trẻ em mục 4.3.1 (tr. 213) chỉ định chích rạch khi toàn thân xấu, nhức nửa bên đầu, nghe kém, màng nhĩ căng phồng; AAP 2013 Table 3 ghi thủ thuật này cần kỹ năng và có nguy cơ, Table 5 chú thích b chỉ nêu khi thất bại điều trị. Không bắt buộc ở lượt đầu; chấp nhận."
+    },
+    {
+     "t": "Chỉ theo dõi 48–72 giờ, chưa dùng kháng sinh (chờ đợi có kiểm soát)",
+     "v": "w",
+     "n": "Chờ đợi chỉ phù hợp ca không nặng (AAP 2013 KAS 3D; Italian Consensus 2025 khuyến cáo 1.4–1.5, 2.2). Mai đau trên 48 giờ, sốt, nôn, nghe kém: là ca nặng cần kháng sinh ngay (AAP 2013 KAS 3A khuyến cáo mạnh; Italian Consensus 2025 khuyến cáo 2.1 khuyến cáo mạnh khi có triệu chứng toàn thân)."
+    },
+    {
+     "t": "Cho thuốc co mạch hoặc kháng histamin 'để thông vòi tai'",
+     "v": "w",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.6: không giúp triệu chứng; tóm tắt bằng chứng (tr. 13): thuốc co mạch làm tăng tác dụng phụ."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch ngay",
+     "v": "w",
+     "n": "Chỉ cần chuyển bệnh viện khi có nhiễm khuẩn nặng toàn thân hoặc biến chứng (NICE NG91 2018 khuyến cáo 1.1.14, tr. 8); Mai uống được, chưa có biến chứng. Điều trị ngoại trú (WHO 2013 mục 6.7.2, tr. 183)."
+    },
+    {
+     "t": "Dặn bé xì mũi thật mạnh, bịt cả hai lỗ mũi để 'thông tai'",
+     "v": "h",
+     "n": "QĐ 5643 Viêm tai giữa cấp trẻ em mục 6 (tr. 214): tuyệt đối không xì mũi bằng cách bịt cả hai lỗ mũi vì đẩy dịch mũi lên tai giữa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai trái, thể nặng (đau trên 48 giờ, sốt, nôn 1 lần), giai đoạn màng nhĩ chưa thủng",
+     "Nguyên nhân khởi phát: nhiễm virus hô hấp (cảm lạnh/cúm) sau đi vùng có dịch cúm; bệnh nhân khỏe mạnh, 10 tuổi",
+     "Biểu hiện không điển hình: đau lan hàm và nửa đầu trái, bé phủ nhận đau tai",
+     "Nghe kém dẫn truyền tai trái (Weber lệch trái, Rinne âm tính)",
+     "Chưa có biến chứng: không viêm xương chũm, không dấu màng não, không liệt dây VII",
+     "Đang dùng thuốc ho long đờm tự mua (ngưng); lý do thật khiến bà đưa đi khám: sợ cháu nhồi máu cơ tim vì bố mới bị"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: sốt, khởi phát sau nhiễm virus và đi vùng dịch, triệu chứng tai, thuốc đang dùng, dị ứng, kháng sinh 30 ngày qua; bé giảm nhẹ nên hỏi theo chức năng (thức giấc ban đêm, nằm nghiêng, nhai bên nào, nghe cô giảng, đi học). (2) Khám: soi tai hai bên, sau tai, xương chũm, dấu màng não, tim phổi, răng khớp. (3) Cận lâm sàng: không cần. (4) Chẩn đoán, loại trừ biến chứng. (5) Xử trí, dặn dò (AAP 2013 KAS 1A–1C, 2, 3A, 4A–4C).",
+     "Vì sao là viêm tai giữa cấp: chẩn đoán dựa vào màng nhĩ phồng rõ hoặc đỏ rực kèm khởi phát cấp (AAP 2013 KAS 1A–1B; Italian Consensus 2025 mục Diagnosis: khởi phát cấp, màng nhĩ viêm, có dịch trong hòm nhĩ). Mai có màng nhĩ trái đỏ, phồng, mất mốc, kém di động, kèm sốt và nghe kém. Không điển hình ở chỗ bé không kêu đau tai; đau thật lan lên thái dương, xuống hàm, nhức nửa đầu (QĐ 5643 Viêm tai giữa cấp trẻ em mục 3.1.1, tr. 210). Bài học: nhức hàm hoặc nhức đầu ở trẻ có sốt và ngạt mũi vẫn phải soi tai. AAP 2013 áp cho trẻ khỏe 6 tháng–12 tuổi (tr. e966): Mai 10 tuổi nên áp dụng được.",
+     "Vì sao là thể nặng: AAP 2013 KAS 3A định nghĩa nặng khi đau tai vừa hoặc nặng, đau từ 48 giờ trở lên hoặc sốt từ 39 °C; Table 4 chú thích b: đau kéo dài trên 48 giờ. Mai phủ nhận 'đau' nhưng thức giấc 2–3 đêm, nhai một bên, bỏ học 2 buổi: đau thực chất kéo dài 3 ngày. Theo thang Italian Consensus 2025 (Table 1) sốt 38,0–38,9 °C 1 điểm, màng nhĩ đỏ rực 2 điểm, phồng rõ 4 điểm: 7 điểm, từ 4 điểm trở lên là nặng.",
+     "Vì sao loại trừ viêm xương chũm: viêm xương chũm luôn kèm viêm tai giữa cấp, biểu hiện sốt, chảy mủ tai, nghe kém, sưng nề viêm tấy đỏ sau tai, đẩy vành tai ra trước, dấu phập phều (QĐ 5643 Viêm xương chũm cấp tính trẻ em mục 1, 3.1.1, tr. 195); WHO 2013 mục 6.7.1 (tr. 182): sốt cao, sưng đau sau tai. Mai chưa có sưng sau tai; ấn xương chũm chỉ hơi tức, là phản ứng xương chũm không đáng ngại (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Cơ sở không có siêu âm, CT: dựa vào lâm sàng; hình ảnh không cần khi chưa nghi biến chứng (AWaRe 2022 mục 5, tr. 38–39).",
+     "Vì sao loại trừ viêm màng não: nhức đầu, nôn, sốt buộc phải tìm dấu màng não vì viêm tai giữa có thể gây biến chứng viêm màng não, áp xe não (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214). Dấu cần tìm: nhức đầu, đau cổ gáy, nôn, li bì, cứng cổ, co giật (WHO 2013 mục 6.3.1, tr. 167). Mai tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không sợ ánh sáng, không co giật, mặt cân đối: chưa có dấu màng não; vẫn dặn quay lại ngay.",
+     "Vì sao không phải viêm ống tai ngoài, viêm xoang, đau răng: ấn bình tai và kéo vành tai không đau, ống tai sạch (QĐ 5643 mục 3.2, tr. 212); xoang chưa đủ tiêu chuẩn ≥ 10 ngày, nặng từ đầu hoặc 'xấu đi lần hai' kèm đau mặt, chảy mủ mũi (IDSA ABRS 2012 khuyến cáo I.1, tr. 1042); răng và khớp thái dương hàm bình thường.",
+     "Vì sao phải hỏi riêng nỗi lo: bà đưa đi gấp vì bố Mai vừa nhồi máu cơ tim, lúc đầu cũng 'đau lan lên hàm trái, nhức đầu'. Không hỏi 'điều bà lo nhất' thì chữa tai xong bà vẫn hoảng và Mai vẫn giấu đau vì sợ nằm viện. Giải thích đau hàm do viêm tai (QĐ 5643 mục 3.1.1, tr. 210), không cần cận lâm sàng tim."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay: AAP 2013 KAS 3A (mạnh) cho viêm tai giữa nặng; Italian Consensus 2025 khuyến cáo 2.1: dùng ngay khi có triệu chứng toàn thân. Chờ đợi 48–72 giờ chỉ cho ca không nặng (AAP 2013 KAS 3D; Italian 2025 khuyến cáo 1.4–1.5, 2.2); NICE NG91 2018 khuyến cáo 1.1.8 cho phép không kê hoặc kê dự phòng ở ca ít có lợi.",
+     "Thuốc và liều: amoxicillin là lựa chọn đầu (AAP 2013 KAS 4A; Italian Consensus 2025 khuyến cáo 3.1), 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian 2025 khuyến cáo 3.2). Số lần chia: AAP 2013 Table 5 chia 2 lần; Italian Consensus 2025 khuyến cáo 3.3 (mới hơn) khuyên chia 3 lần (khuyến cáo yếu, chất lượng bằng chứng thấp) nhưng cho phép 2 lần khi chia 3 lần gây khó khăn cho gia đình và giúp tuân thủ tốt hơn. Mai 28 kg: 90 mg/kg = 2.520 mg/ngày = 1.260 mg/lần; chia 2 lần vì Mai đi học, khó uống buổi trưa. Thời gian: ca nặng 10 ngày (AAP 2013, tr. e985); Italian 2025 khuyến cáo 4.1: 7 hoặc 10 ngày. Liều thấp hơn và 5–7 ngày theo NICE NG91 2018/AWaRe 2022 chấm chấp nhận.",
+     "Giảm đau là điều trị bắt buộc: AAP 2013 KAS 2 (khuyến cáo mạnh), NICE NG91 2018 khuyến cáo 1.1.4. Paracetamol 10–15 mg/kg mỗi 6 giờ hoặc ibuprofen 5–10 mg/kg mỗi 6–8 giờ (AWaRe 2022 tr. 39); dùng một thuốc là đủ vì phối hợp không hiệu quả hơn (NICE NG91 2018, tóm tắt bằng chứng, tr. 12). Thuốc nhỏ tai gây tê chỉ dùng khi không kê kháng sinh ngay (NICE NG91 2018 khuyến cáo 1.1.5): ca này không dùng.",
+     "Ngưng thuốc ho long đờm: ho cảm lạnh không dùng mucolytic (WHO 2013 mục 4.4, tr. 90–91); thuốc co mạch, kháng histamin không giúp viêm tai (NICE NG91 2018 khuyến cáo 1.1.6). Hiệu quả riêng của ambroxol: không có trong tài liệu đã tải.",
+     "Chích rạch màng nhĩ (QĐ 5643 mục 4.3.1, tr. 213) cần kỹ năng tai mũi họng và dụng cụ; AAP 2013 Table 3 ghi nguy cơ; không bắt buộc ở lượt đầu, chấm chấp nhận. Corticoid toàn thân không có khuyến cáo trong NICE NG91 2018 (tr. 15–16, không đủ bằng chứng lợi ích) dù QĐ 5643 mục 4.3.3 (tr. 214) có nêu kháng viêm corticoid: không dùng ở ca này.",
+     "Tái khám và chuyển tuyến: hẹn lại sau 48–72 giờ nếu chưa đỡ (AAP 2013 KAS 4C); đến ngay khi sưng đỏ sau tai, vành tai đẩy ra trước (WHO 2013 mục 6.7.1; QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195), cứng cổ, nôn nhiều, li bì, co giật (WHO 2013 mục 6.3.1, tr. 167); các biến chứng này cần chuyển bệnh viện (NICE NG91 2018 khuyến cáo 1.1.14). Không có lịch khám lại thường quy bắt buộc sau khi đã khỏi (AAP 2013, tr. e984).",
+     "Mâu thuẫn nguồn: QĐ 5643/2015 (mục 4.1, 4.3.3) dùng kháng sinh cho mọi viêm tai giữa cấp, không ghi liều; Italian Consensus 2025 (mới nhất) và AAP 2013 phân tầng theo độ nặng, chờ đợi ở ca không nặng. Ca nặng có triệu chứng toàn thân: mọi nguồn cùng hướng kháng sinh ngay. Liều: đáp án 80–90 mg/kg/ngày theo Italian 2025 và AAP 2013; WHO 2013 (40 mg/kg × 2 = 80 mg/kg/ngày, khớp), NICE 2018 (500 mg × 3) và AWaRe 2022 (1 g × 2) thấp hơn: chấm chấp nhận."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Viên 500 mg hoặc gói/siro 250 mg/5 mL (theo dạng sẵn có)",
+      "lieu": "1.260 mg/lần (≈ 45 mg/kg/lần; 90 mg/kg/ngày × 28 kg = 2.520 mg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau 12 giờ, uống trong bữa ăn",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "AAP 2013 Table 5: 80–90 mg/kg/ngày chia 2 lần; Italian Consensus 2025 khuyến cáo 3.2 (liều) và 3.3 (khuyên chia 3 lần, cho phép 2 lần khi giúp tuân thủ – chia 3 lần × 840 mg cũng đúng); ca nặng 10 ngày (AAP 2013, tr. e985). Làm tròn liều theo dạng bào chế: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg (chia nhỏ) hoặc gói 150–250 mg",
+      "lieu": "300 mg/lần (≈ 10,7 mg/kg; cho phép 10–15 mg/kg = 280–420 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hoặc sốt, các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn đau hoặc sốt, thường 2–3 ngày",
+      "ghi_chu": "WHO 2013 Annex 2 và AWaRe 2022 mục 5 (tr. 39): 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; NICE NG91 2018 khuyến cáo 1.1.4. Có thể thay bằng ibuprofen 200 mg mỗi 8 giờ (AWaRe 2022 tr. 39), không dùng cùng lúc hai thuốc vì không hiệu quả hơn (NICE NG91 2018, tr. 12)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh là viêm tai giữa bên trái: đau hàm và nhức đầu là do tai viêm lan ra; không phải bệnh tim. Tim của Mai đều, không có tiếng thổi.",
+     "Uống amoxicillin đủ 10 ngày, 2 lần/ngày, kể cả khi đã đỡ; đừng tự ngưng (AAP 2013, tr. e985). Bà giữ thuốc và ghi giờ uống.",
+     "Paracetamol 300 mg khi đau hoặc sốt, cách nhau ít nhất 6 giờ (AWaRe 2022). Ngưng siro ho long đờm. Không tự mua thuốc ho, thuốc thông mũi, thuốc nhỏ tai cho cháu.",
+     "Xì mũi từng bên một, không bịt cả hai lỗ mũi (QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214). Không ngoáy tai.",
+     "Hỏi Mai mỗi sáng bằng câu cụ thể: đêm qua thức mấy lần, nhai được bên trái không; Mai cứ nói thật, bác sĩ chỉ muốn chữa cho khỏi, không phải vì Mai mà phải nằm viện.",
+     "Đưa đến ngay nếu: sưng, đỏ hoặc đau sau tai, vành tai bị đẩy ra trước; nhức đầu dữ dội, cứng cổ, nôn nhiều, li bì, co giật; méo miệng, chóng mặt quay; chảy mủ tai kèm sốt cao (WHO 2013 mục 6.7.1, 6.3.1; NICE NG91 2018 khuyến cáo 1.1.12, 1.1.14; QĐ 5643).",
+     "Tái khám sau 48–72 giờ nếu sốt và đau chưa giảm, sớm hơn nếu nặng lên (AAP 2013 KAS 4C). Nghỉ học khi còn sốt. Sau khi khỏi nên tiêm phòng cúm hằng năm (AAP 2013 KAS 6B)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám sau 3 ngày uống amoxicillin theo đơn. Bà nội đưa Mai đến vì vẫn sốt, nhức đầu nhiều hơn, tai trái chưa nghe lại. Sinh hiệu: nhiệt 38,6 °C, mạch 108 l/p, nhịp thở 22 l/p, SpO₂ 99%. Mai nói 'con đỡ nhiều rồi ạ'.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Dạ con đỡ nhiều rồi ạ, chắc con không cần uống thuốc nữa đâu bác sĩ. (Bà xen vào: Nó nói đỡ chứ tôi thấy vẫn nóng, vẫn bỏ cơm, tối qua lại nhức đầu.)",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "Không đo",
+    "nhiet": "38,6",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà nói Mai vẫn sốt (đo ở nhà chiều qua 38,5 °C), bỏ cơm, nhức đầu trái tăng từ hôm qua. Mai nói đỡ nhiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 3 ngày kháng sinh"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bà giữ thuốc và ghi sổ: amoxicillin pha đúng hướng dẫn, uống đủ 2 lần/ngày, 6 liều trong 3 ngày, đúng giờ 7 giờ sáng và 7 giờ tối, Mai không nôn sau uống, không tiêu chảy. Bà tự tay cho uống nên không bỏ liều nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị (liều, giờ, nôn)"
+    },
+    {
+     "id": "chuc_nang_dem",
+     "noi_dung": "Hỏi theo chức năng: đêm qua Mai thức 3 lần vì nhức đầu và hàm trái, vẫn phải nằm nghiêng phải. Hôm nay chưa đi học. Tai trái vẫn bịt, nghe kém không đỡ. Paracetamol 300 mg uống 2 lần, mỗi lần đỡ 3–4 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức khó chịu thật (câu hỏi chức năng)"
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Nhức đầu trái tăng dần, không dữ dội, không sợ ánh sáng, không cứng cổ, không nôn lại, không lơ mơ, không co giật, không chóng mặt quay, miệng không méo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Biến chứng nội sọ (WHO 2013 mục 6.3.1)"
+    },
+    {
+     "id": "sau_tai",
+     "noi_dung": "Bà không thấy sưng hay đỏ sau tai, vành tai không bị đẩy ra, không chảy mủ tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm xương chũm"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Bà vẫn còn cho uống siro ambroxol 3 lần/ngày vì chai chưa hết và 'ho cũng chưa hết'; ho đỡ nhiều, còn ho nhẹ buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc ho long đờm"
+    },
+    {
+     "id": "mai_so",
+     "noi_dung": "Mai nói 'đỡ nhiều rồi' vì sợ bác sĩ cho nhập viện giống bố; thật ra nhức đầu nhiều hơn, đêm nằm khóc thầm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chức năng cụ thể (đêm qua thức mấy lần, hôm nay đi học được không) và nói rõ sẽ không nhập viện nếu chưa có dấu hiệu nặng.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: phủ nhận triệu chứng nặng"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai trái: màng nhĩ đỏ sẫm, phồng nhiều hơn lần trước, màu đục hơi vàng, mất hoàn toàn mốc, không thủng, không chảy mủ. Tai phải bình thường. Sau tai trái: không sưng, không đỏ, không phập phều, rãnh sau tai còn nguyên, vành tai không bị đẩy ra trước; ấn xương chũm chỉ hơi tức, không đau chói. Weber vẫn lệch trái. Mũi ít dịch nhầy.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không sợ ánh sáng, mặt cân đối, nhìn ngang hai mắt đều (không liệt dây VI), đi vững, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Mệt hơn lần trước, môi hơi khô, nhưng tỉnh, tiếp xúc tốt, không mất nước nặng. Vẫn hay đưa tay áp tai trái; trả lời 'dạ con đỡ rồi' nhưng ngồi gục đầu.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 15,2 G/L · Neutrophil 78% · Hb 122 g/L · TC 360 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.2,
+      "neu_pct": 78.0,
+      "neu": 11.86,
+      "lym_pct": 15.0,
+      "lym": 2.28,
+      "mono_pct": 6.0,
+      "mono": 0.91,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.4,
+      "hgb": 122,
+      "hct": 0.37,
+      "mcv": 84.1,
+      "mch": 27.7,
+      "mchc": 330,
+      "rdw": 13.2,
+      "plt": 360
+     },
+     "n": "Chấp nhận, không bắt buộc: bạch cầu tăng, trung tính ưu thế khi nhiễm trùng và khi nghi viêm xương chũm (QĐ 5643 Viêm xương chũm mục 3.1.2, tr. 195). Không quyết định việc đổi thuốc (AAP 2013 KAS 4C dựa vào đánh giá lâm sàng)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "46 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 46
+     },
+     "n": "Chấp nhận, không bắt buộc. Ngưỡng CRP ở viêm tai giữa: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai trái nặng, không đáp ứng sau 72 giờ amoxicillin liều cao, tuân thủ tốt, chưa biến chứng; nghĩ vi khuẩn kháng hoặc tiết β-lactamase hoặc phối hợp virus–vi khuẩn",
+     "ok": 1,
+     "n": "Sau 48–72 giờ kháng sinh phải đỡ sốt và đau; không đỡ thì xét có bệnh khác, nhiễm virus phối hợp hoặc vi khuẩn kháng thuốc (AAP 2013, tr. e984). Màng nhĩ còn phồng đục, triệu chứng nặng lên: đổi kháng sinh (AAP 2013 KAS 4C, Table 5; Italian Consensus 2025 khuyến cáo 5)."
+    },
+    {
+     "t": "Không tuân thủ điều trị hoặc dùng sai liều",
+     "n": "Bà ghi sổ, 6/6 liều đúng giờ, liều 90 mg/kg/ngày đúng đơn, không nôn: loại trừ. Phải hỏi tuân thủ trước khi kết luận thất bại (AAP 2013, tr. e984: trẻ có thể nhổ thuốc khó uống)."
+    },
+    {
+     "t": "Sai chẩn đoán (ứ dịch, viêm ống tai ngoài, viêm xoang, bệnh khác)",
+     "n": "Màng nhĩ trái phồng, đục vàng, kém di động và khởi phát cấp: vẫn đúng viêm tai giữa cấp (AAP 2013 KAS 1A–1C). Ống tai sạch, không đau khi kéo vành tai (QĐ 5643 mục 3.2, tr. 212). Xoang: nhức đầu một bên không kèm đau mặt, chảy mủ mũi (IDSA ABRS 2012 khuyến cáo I.1, tr. 1042 – 'xấu đi lần hai' chưa đủ vì không có triệu chứng mũi xoang nặng lên)."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Không sưng đỏ sau tai, vành tai không đẩy ra trước, không phập phều (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182). Bạch cầu và CRP tăng phù hợp viêm tai giữa nặng, không đặc hiệu. Không có CT tại cơ sở: dựa vào lâm sàng và hẹn tái khám sát; chuyển ngay khi có sưng sau tai."
+    },
+    {
+     "t": "Viêm màng não, biến chứng nội sọ",
+     "n": "Nhức đầu tăng cần loại trừ lại: cổ mềm, Kernig và Brudzinski âm tính, không li bì, không co giật, không liệt dây thần kinh sọ (WHO 2013 mục 6.3.1, tr. 167; QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214). Theo dõi sát vì đau đầu tăng; dặn quay lại ngay."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đổi sang amoxicillin-clavulanate: tổng amoxicillin 90 mg/kg/ngày (28 kg: 2.520 mg/ngày), clavulanate khoảng 6 mg/kg/ngày, chia 2 lần, 10 ngày",
+     "v": "c",
+     "n": "Đã dùng amoxicillin mà không đỡ sau 48–72 giờ thì dùng amoxicillin-clavulanate (AAP 2013, tr. e984 và Table 5: 90 mg/kg/ngày amoxicillin, 6,4 mg/kg/ngày clavulanate, 2 lần/ngày; Italian Consensus 2025 khuyến cáo 5: clavulanate dưới 10 mg/kg/ngày, bổ sung amoxicillin đơn để đủ liều, chia 3 lần theo khuyến cáo 3.3 – chia 2 lần chấp nhận để tuân thủ). 10 ngày vì ca nặng (AAP 2013, tr. e985; Italian 2025 khuyến cáo 4.1). Cách tính ngày từ lúc đổi thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đánh giá thất bại có hệ thống trước khi đổi thuốc: tuân thủ (liều, giờ, nôn), xác nhận lại chẩn đoán, tìm biến chứng, hỏi thuốc khác",
+     "v": "c",
+     "n": "AAP 2013 KAS 4C (tr. e965, e984): đánh giá lại khi không đáp ứng sau 48–72 giờ và quyết định có cần đổi thuốc; không đỡ có thể do bệnh khác, virus phối hợp hoặc vi khuẩn kháng thuốc (tr. e984)."
+    },
+    {
+     "t": "Tiếp tục paracetamol 300 mg mỗi 6 giờ khi đau hoặc sốt; ngưng siro ambroxol",
+     "v": "c",
+     "n": "AAP 2013 KAS 2; NICE NG91 2018 khuyến cáo 1.1.4; liều theo AWaRe 2022 mục 5, tr. 39. Ngưng ambroxol: WHO 2013 mục 4.4, tr. 90–91 (không dùng mucolytic ở ho, cảm lạnh)."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ; chuyển tai mũi họng nếu vẫn sốt, đau; chuyển bệnh viện ngay nếu sưng sau tai hoặc có dấu màng não",
+     "v": "c",
+     "n": "AAP 2013 Table 5 chú thích b: chích rạch hoặc hội chẩn tai mũi họng khi thất bại thuốc thứ hai; NICE NG91 2018 khuyến cáo 1.1.14 (tr. 8): chuyển bệnh viện khi viêm xương chũm, viêm màng não, áp xe nội sọ, liệt dây VII; WHO 2013 mục 6.7.1 (tr. 182): sưng đau sau tai."
+    },
+    {
+     "t": "Hỏi chức năng, trấn an Mai rằng chưa cần nhập viện nếu uống thuốc đúng và tái khám, khuyến khích nói thật mức khó chịu",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn. Mai phủ nhận vì sợ nhập viện; lời trấn an làm bé khai thật."
+    },
+    {
+     "t": "Ceftriaxone 50 mg/kg tiêm bắp hoặc tĩnh mạch mỗi ngày × 3 ngày thay cho amoxicillin-clavulanate",
+     "v": "a",
+     "n": "AAP 2013 Table 5 và tr. e984: ceftriaxone 3 ngày là lựa chọn khi thuốc đường uống thất bại hoặc trẻ nôn không uống được; tốt hơn 1 ngày. Mai uống được nên chưa cần tiêm; Italian 2025 (mới hơn) khuyến cáo 5 chọn amoxicillin-clavulanate đường uống; chấp nhận."
+    },
+    {
+     "t": "Hội chẩn tai mũi họng để chích rạch màng nhĩ, lấy dịch cấy",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.1 (tr. 213) và AAP 2013 Table 5 chú thích b. Chưa bắt buộc ở thất bại thuốc đầu tiên; cần khi đã thất bại thuốc thứ hai."
+    },
+    {
+     "t": "Giữ nguyên amoxicillin, chờ thêm 2–3 ngày",
+     "v": "w",
+     "n": "Italian Consensus 2025 khuyến cáo 5 (mạnh): nặng lên sau 2–3 ngày amoxicillin thì dùng amoxicillin-clavulanate. AAP 2013 tr. e984 cho phép giữ nguyên chỉ khi triệu chứng dai dẳng nhẹ; Mai sốt 38,6 °C, nhức đầu tăng, màng nhĩ phồng hơn: chậm đổi thuốc ở ca nặng lên."
+    },
+    {
+     "t": "Chuyển sang macrolid (azithromycin) hoặc trimethoprim-sulfamethoxazole",
+     "v": "w",
+     "n": "AAP 2013 tr. e984–e985: macrolid hiệu quả hạn chế với phế cầu và H. influenzae; trimethoprim-sulfamethoxazole và erythromycin-sulfisoxazole không phù hợp khi thất bại amoxicillin."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện ngay, truyền kháng sinh tĩnh mạch, chụp CT",
+     "v": "w",
+     "n": "Chưa có biến chứng, uống được: chuyển viện khi viêm xương chũm, viêm màng não, nhiễm khuẩn nặng (NICE NG91 2018 khuyến cáo 1.1.14). Chẩn đoán hình ảnh không cần trừ khi nghi biến chứng (AWaRe 2022 mục 5, tr. 39). Cơ sở không có CT."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai trái nặng, thất bại điều trị amoxicillin sau 72 giờ (tuân thủ tốt, liều đúng)",
+     "Nguyên nhân thất bại nghĩ nhiều: vi khuẩn kháng hoặc tiết β-lactamase, hoặc phối hợp virus–vi khuẩn; không do sai chẩn đoán, không do không tuân thủ",
+     "Chưa có biến chứng: không viêm xương chũm, không dấu màng não, không liệt dây thần kinh",
+     "Bạch cầu 15,2 G/L, CRP 46 mg/L phù hợp nhiễm khuẩn tai giữa nặng",
+     "Mai vẫn phủ nhận triệu chứng vì sợ nhập viện; bà đã bớt lo chuyện bố",
+     "Còn dùng siro ho long đờm (ngưng)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm khi tái khám không đỡ: (1) Hỏi diễn tiến theo chức năng (đêm qua thức mấy lần, đi học được không), hỏi tuân thủ: số liều, giờ, nôn, cách pha, thuốc khác. (2) Khám lại tai trái và tai phải, sau tai, thần kinh. (3) Cận lâm sàng chọn lọc. (4) Chạy quy trình thất bại điều trị: sai chẩn đoán? sai thuốc hoặc kháng thuốc? không tuân thủ? biến chứng? (5) Quyết định đổi thuốc hay chuyển.",
+     "Sai chẩn đoán? Không: màng nhĩ trái phồng, đục vàng, kém di động, khởi phát cấp, vẫn thỏa tiêu chuẩn viêm tai giữa cấp (AAP 2013 KAS 1A–1C). Ống tai sạch, kéo vành tai không đau (QĐ 5643 mục 3.2, tr. 212).",
+     "Không tuân thủ? Không: bà tự cho uống, ghi sổ 6/6 liều, đúng giờ, không nôn. Đây là bước phải hỏi trước khi đổi thuốc (AAP 2013, tr. e984).",
+     "Sai thuốc hoặc kháng thuốc? Có khả năng: sau 48–72 giờ vẫn sốt, đau, màng nhĩ còn phồng thì có thể do bệnh khác, virus phối hợp hoặc vi khuẩn kháng thuốc đã chọn (AAP 2013, tr. e984). Một số H. influenzae và M. catarrhalis tiết β-lactamase làm amoxicillin đơn thất bại nhưng vẫn nhạy amoxicillin-clavulanate (AAP 2013, tr. e983). Mai không dùng amoxicillin trong 30 ngày trước đó, nên đây là thất bại điều trị lần đầu.",
+     "Biến chứng? Viêm xương chũm: không sưng đỏ sau tai, vành tai không đẩy ra trước (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182). Viêm màng não: cổ mềm, Kernig và Brudzinski âm tính, không li bì (WHO 2013 mục 6.3.1, tr. 167). Cần hẹn tái khám sát và cảnh báo nguy hiểm. Không có siêu âm, CT: dựa vào tiêu chí lâm sàng.",
+     "Vì sao Mai nói 'đỡ': bé sợ nhập viện như bố, không phải triệu chứng hết. Câu hỏi chức năng (thức giấc, nằm nghiêng, đi học) cho kết quả khác lời bé. Nếu chỉ tin lời bé, bác sĩ sẽ cho ngưng kháng sinh và bỏ sót thất bại điều trị."
+    ],
+    "phan_tich_xu_tri": [
+     "Đổi sang amoxicillin-clavulanate: AAP 2013 (tr. e984, Table 5) – trẻ đã dùng amoxicillin không đỡ thì dùng amoxicillin-clavulanate 90 mg/kg/ngày amoxicillin kèm 6,4 mg/kg/ngày clavulanate, chia 2 lần. Italian Consensus 2025 khuyến cáo 5 (mạnh) cùng hướng, giữ clavulanate dưới 10 mg/kg/ngày bằng cách dùng chế phẩm 40 mg/kg/ngày amoxicillin kèm amoxicillin đơn 50 mg/kg/ngày.",
+     "Tính liều Mai 28 kg: amoxicillin tổng 2.520 mg/ngày; chế phẩm amoxicillin-clavulanate tỉ lệ 7:1 cho 1.120 mg amoxicillin/ngày (560 mg/lần, kèm clavulanate 80 mg/lần = 160 mg/ngày ≈ 5,7 mg/kg/ngày); bổ sung amoxicillin đơn 1.400 mg/ngày (700 mg/lần). Tỉ lệ 7:1 là chế phẩm thông dụng (Italian Consensus 2025, phần giải thích khuyến cáo 5). Chia 2 lần theo AAP 2013 Table 5 vì Mai đi học. Dạng bào chế và tên thương phẩm tại Việt Nam: không có trong tài liệu đã tải.",
+     "Thời gian 10 ngày vì ca nặng (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1: 7 hoặc 10 ngày). Cách tính từ ngày đổi thuốc hay tổng thời gian: không có trong tài liệu đã tải, chọn tính từ ngày đổi thuốc theo hướng thận trọng.",
+     "Tái khám 48–72 giờ: phải hết sốt, đỡ đau trong 48–72 giờ nữa (AAP 2013, tr. e984). Nếu thất bại thuốc thứ hai: ceftriaxone 3 ngày, chích rạch màng nhĩ hoặc hội chẩn tai mũi họng (AAP 2013 Table 5, chú thích b). Chuyển bệnh viện ngay khi có biến chứng (NICE NG91 2018 khuyến cáo 1.1.14).",
+     "Không giữ nguyên amoxicillin, không dùng macrolid hoặc trimethoprim-sulfamethoxazole: AAP 2013, tr. e984–e985. Ceftriaxone chỉ khi không uống được: chấm chấp nhận. Corticoid không có khuyến cáo (NICE NG91 2018, tr. 15–16).",
+     "Mâu thuẫn nguồn: QĐ 5643/2015 (mục 4.3.3, tr. 214) ghi kháng sinh beta-lactam, cephalosporin, macrolid và chụp X-quang xương chũm trong khi dùng kháng sinh để tìm viêm xương chũm tiềm tàng; AWaRe 2022 (mục 5, tr. 39) mới hơn: không chụp hình ảnh trừ khi nghi biến chứng; AAP 2013 (tr. e984–e985): macrolid không phù hợp. Đáp án theo AAP 2013, Italian Consensus 2025 và AWaRe 2022; chụp X-quang xương chũm thường quy chấm chấp nhận (cơ sở không có)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin-clavulanate (tỉ lệ 7:1)",
+      "ham_luong": "Dạng có 500–875 mg amoxicillin/lần tùy chế phẩm có sẵn",
+      "lieu": "560 mg amoxicillin (kèm clavulanate 80 mg)/lần ≈ 20 mg/kg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau 12 giờ, uống đầu bữa ăn",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "Italian Consensus 2025 khuyến cáo 5: chế phẩm tương ứng 40 mg/kg/ngày amoxicillin; AAP 2013 Table 5: 2 lần/ngày (Italian 2025 khuyến cáo 3.3 khuyên 3 lần, cho phép 2 lần khi giúp tuân thủ). Làm tròn theo dạng bào chế: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (đơn thuần, bổ sung)",
+      "ham_luong": "Viên 500 mg hoặc gói/siro theo cơ sở",
+      "lieu": "700 mg/lần (50 mg/kg/ngày × 28 kg = 1.400 mg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng giờ với amoxicillin-clavulanate",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "Italian Consensus 2025 khuyến cáo 5: bổ sung amoxicillin đơn để đủ 80–90 mg/kg/ngày mà clavulanate dưới 10 mg/kg/ngày. Nếu có chế phẩm 14:1 theo AAP 2013 Table 5 (90 mg/kg/ngày amoxicillin, 6,4 mg/kg/ngày clavulanate) thì dùng một thuốc."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg (chia nhỏ) hoặc gói 150–250 mg",
+      "lieu": "300 mg/lần (10–15 mg/kg = 280–420 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hoặc sốt, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn đau hoặc sốt",
+      "ghi_chu": "WHO 2013 Annex 2 và AWaRe 2022 mục 5 (tr. 39): 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; NICE NG91 2018 khuyến cáo 1.1.4."
+     }
+    ],
+    "dan_do": [
+     "Thuốc cũ chưa đủ mạnh với vi khuẩn trong tai; đổi sang thuốc khác để diệt được vi khuẩn. Đây là điều thường gặp, không phải do bà hay Mai uống sai (AAP 2013, tr. e984).",
+     "Uống đủ 2 loại thuốc, 2 lần/ngày, đủ 10 ngày dù đã đỡ (AAP 2013, tr. e985). Bà tiếp tục ghi sổ giờ uống. Ngưng siro ho long đờm.",
+     "Paracetamol 300 mg khi sốt hoặc đau, cách nhau ít nhất 6 giờ (AWaRe 2022).",
+     "Mai cứ nói thật mức đau; bác sĩ hỏi mỗi ngày bằng câu cụ thể (đêm thức mấy lần, đi học được không). Chưa cần nhập viện nếu uống được thuốc và tái khám đúng hẹn.",
+     "Tái khám sau 48–72 giờ để xem hết sốt, đỡ đau chưa; nếu chưa đỡ sẽ hội chẩn tai mũi họng hoặc dùng ceftriaxone (AAP 2013 Table 5).",
+     "Đưa đến ngay nếu sưng, đỏ, đau sau tai, vành tai đẩy ra trước; nhức đầu dữ dội, cứng cổ, nôn nhiều, li bì, co giật, méo miệng, chóng mặt quay (WHO 2013 mục 6.7.1, 6.3.1; NICE NG91 2018 khuyến cáo 1.1.12, 1.1.14).",
+     "Sau khi khỏi: tai trái có thể còn nghe kém một thời gian; tiêm phòng cúm hằng năm (AAP 2013 KAS 6B). Lịch khám lại thường quy sau khi đã khỏi: không bắt buộc (AAP 2013, tr. e984)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau khi đổi amoxicillin-clavulanate, Mai hết sốt sau khoảng 36 giờ, nhức đầu và nhức hàm hết dần trong 3 ngày, ngủ được cả đêm, nhai được hai bên. Tái khám sau 3 ngày: màng nhĩ trái hết phồng, còn hồng; không sưng sau tai, không dấu màng não. Mai uống đủ 10 ngày, đi học lại. Khi hết thuốc, màng nhĩ trái xám hồng, nghe cải thiện. Bố Mai hồi phục tốt; bà hết hoảng và đưa Mai đi tiêm phòng cúm. Không biến chứng.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: Mai nói 'không sao', 'đỡ rồi' vì không muốn người nhà lo và sợ nhập viện như bố. Câu hỏi cảm giác ('đau không?') cho đáp án sai; câu hỏi chức năng (thức giấc mấy lần, nằm nghiêng bên nào, nhai bên nào, nghe cô giảng, đi học) lộ mức đau thật.",
+  "Lý do thật đến khám: bà nội sợ cháu bị nhồi máu cơ tim vì bố cháu mới bị, khởi phát cũng 'đau lan lên hàm trái, nhức đầu'. Bà không tự kể; chỉ lộ khi bác sĩ hỏi điều bà lo nhất.",
+  "Thuốc đang dùng (siro ambroxol long đờm tự mua) không liên quan bệnh tai nhưng phải hỏi và ngưng; không có trong chẩn đoán.",
+  "Không có siêu âm: CT và nội soi bị khóa theo; ca dựa vào soi tai, khám xương chũm, dấu màng não."
+ ],
+ "bai_hoc_bien": [
+  "Viêm tai giữa cấp không điển hình ở trẻ lớn: có thể không kêu đau tai, chỉ nhức hàm, nhức nửa đầu, nghe kém. Trẻ sốt kèm ngạt mũi mà đau lan thì phải soi tai (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 210).",
+  "Bé giảm nhẹ triệu chứng: dùng câu hỏi chức năng thay câu hỏi cảm giác. Mức đau 'nặng' theo AAP 2013 (đau trên 48 giờ) xác định bằng giấc ngủ, ăn nhai, đi học.",
+  "Phân tầng độ nặng quyết định kháng sinh ngay hay chờ 48–72 giờ (AAP 2013 KAS 3A–3D; Italian Consensus 2025 khuyến cáo 1–2). Ca nặng có triệu chứng toàn thân: kháng sinh ngay, amoxicillin 80–90 mg/kg/ngày.",
+  "Tái khám không đỡ sau 48–72 giờ: chạy quy trình thất bại điều trị theo thứ tự tuân thủ, chẩn đoán, biến chứng, đề kháng; ở đây tuân thủ tốt, chẩn đoán đúng, không biến chứng, nên đổi sang amoxicillin-clavulanate (AAP 2013 KAS 4C, Table 5).",
+  "Loại trừ biến chứng ở cả hai lượt: viêm xương chũm (sưng đỏ sau tai, vành tai đẩy ra trước) và viêm màng não (cứng cổ, Kernig, Brudzinski, li bì); nhức đầu, nôn phải khám dù chưa chắc là biến chứng.",
+  "Hỏi điều người nhà lo nhất: lý do thật (sợ nhồi máu cơ tim) quyết định lời trấn an và việc bé có dám nói thật hay không."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm tai giữa cấp: khởi phát cấp, màng nhĩ phồng rõ hoặc đỏ rực, có dịch trong hòm nhĩ (AAP 2013 KAS 1A–1C; Italian Consensus 2025).",
+  "Nặng: đau tai vừa hoặc nặng, đau từ 48 giờ, hoặc sốt từ 39 °C (AAP 2013 KAS 3A) → kháng sinh ngay. Italian Consensus 2025: nặng khi từ 4 điểm trở lên theo thang Table 1.",
+  "Amoxicillin 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian 2025 khuyến cáo 3.2); ca nặng 10 ngày (AAP 2013, tr. e985), Italian 2025: 7 hoặc 10 ngày; NICE NG91 2018: 5–7 ngày, 500 mg × 3 lần cho 5–17 tuổi (chấp nhận).",
+  "Thất bại sau 48–72 giờ amoxicillin: amoxicillin-clavulanate 90 mg/kg/ngày amoxicillin + 6,4 mg/kg/ngày clavulanate chia 2 lần (AAP 2013 Table 5); thất bại tiếp: ceftriaxone 3 ngày, chích rạch/hội chẩn tai mũi họng.",
+  "Viêm xương chũm: sưng đỏ đau sau tai, vành tai đẩy ra trước (QĐ 5643 tr. 195; WHO 2013 mục 6.7.1). Chuyển bệnh viện khi có biến chứng (NICE NG91 2018 khuyến cáo 1.1.14)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1–6, tr. 195–197)",
+  "AAP 2013 – AAP/AAFP The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C, 2, 3A–3D, 4A–4C, 6A–6B (tr. e965, e968–e980, e987); Table 3 (tr. e973), Table 4 (tr. e976), Table 5 (tr. e983), điều trị thất bại (tr. e984), thời gian điều trị (tr. e985)",
+  "NICE NG91 2018 – NICE Otitis media (acute): antimicrobial prescribing, 2018 (cập nhật 2022) – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.14, Table 1 (tr. 5–10), tóm tắt bằng chứng (tr. 12–16)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children: an Italian intersociety consensus. Ital J Pediatr 2025, PMC11844117 – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Diagnosis, Table 1 (thang nặng), khuyến cáo 1–5",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (tr. 90–91), mục 6.3.1 Bacterial meningitis (tr. 167), mục 6.7.1 Mastoiditis (tr. 182), mục 6.7.2 Acute otitis media (tr. 183–184), Annex 2 (paracetamol, ibuprofen tr. 366–367)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care mục 5 Acute otitis media (tr. 36–39)",
+  "IDSA ABRS 2012 – Acute bacterial rhinosinusitis in children and adults, CID 2012;54:1041 – TL-0159 – ĐÃ ĐỌC: khuyến cáo I.1 (tr. 1042)",
+  "KHÔNG ĐỌC ĐƯỢC NỘI DUNG: QĐ 2341/QĐ-BYT 2024 (IMCI) – bản chữ trong kho chỉ có trang quyết định ban hành, không có nội dung hướng dẫn nên không dùng làm nguồn. Liều tối đa amoxicillin cho trẻ lớn, tên thương phẩm và dạng bào chế sẵn có ở Việt Nam, lịch tiêm cúm ở Việt Nam: không có trong tài liệu đã tải."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-11): viết theo đặc tả sổ cái NH-0355. Tài liệu đã đọc: QĐ 5643 TL-0130 (Viêm tai giữa cấp trẻ em, Viêm xương chũm cấp trẻ em); AAP 2013 TL-0271; NICE NG91 2018; Italian Consensus 2025; WHO 2013 TL-0250 (mục 4.4, 6.3, 6.7); AWaRe 2022 TL-0018 mục 5; IDSA ABRS 2012 TL-0159.",
+  "Tuổi: Mai 10 tuổi nằm trong phạm vi AAP 2013 (6 tháng–12 tuổi), NICE NG91 2018 (dưới 18 tuổi), Italian Consensus 2025 (1 tháng–18 tuổi) và nhóm Học sinh 6–15 tuổi của sổ cái. Cân nặng 28 kg khớp dải 20–< 30 kg của AWaRe 2022.",
+  "Quyết định thiết kế: ca nặng nên kháng sinh ngay ở lượt 1 (chờ đợi chấm w). Lượt 2 tuân thủ tốt, thất bại do vi khuẩn kháng, đổi amoxicillin-clavulanate.",
+  "Mâu thuẫn nguồn (chi tiết NH-0355_mau_thuan.md): chờ đợi hay kháng sinh ngay; liều amoxicillin; thời gian 5–7 hay 10 ngày; chích rạch màng nhĩ; corticoid; X-quang xương chũm.",
+  "Không có trong tài liệu đã tải: IMCI QĐ 2341/2024 (bản chữ rỗng); liều tối đa amoxicillin/ngày cho trẻ lớn; làm tròn liều, tên thương phẩm tại Việt Nam; hiệu quả ambroxol; ngưỡng CRP; cách tính ngày khi đổi thuốc; lịch tiêm cúm; ECG ở trẻ đau hàm.",
+  "Âm thanh: tim AT-TIM-NHANH-01 (mạch 102 và 108 l/p), phổi AT-PHOI-BT-NL-01. Không dùng danh mục mới (nhĩ lượng đồ, thính lực đồ, X-quang Schuller chưa có trong kho; soi tai do điều dưỡng mô tả trong hong_tai_mui)."
+ ]
+}
