@@ -1,0 +1,762 @@
+{
+ "ma_ca": "NH-0435",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_tieu_chay_cap_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Huy",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 102,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', nói ít, hay cúi mặt, chỉ trả lời vài chữ khi được hỏi thẳng (vd 'Con đau bụng'). Mẹ là người kể bệnh chính: bác sĩ gọi mẹ.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán, đi làm về muộn nên đưa bé đi khám tối thứ Bảy. Hay tra mạng, nói nhanh, lo xa, tự ái nhẹ khi bị bác bỏ ý kiến nhưng nghe được lời giải thích có lý. Đã tự kết luận bé bị 'loạn khuẩn ruột, viêm đại tràng do kháng sinh' và muốn xin men vi sinh liều cao, thuốc cầm tiêu, xét nghiệm phân. Bé hiền, hay xấu hổ.",
+  "kieu_nhieu": "Mẹ mang chẩn đoán tự tra trên mạng ('bé bị loạn khuẩn ruột sau kháng sinh, bác sĩ cho men vi sinh liều cao với thuốc cầm tiêu giúp em'). Bác sĩ nên ghi nhận phần đúng (kháng sinh có thể làm rối loạn phân) rồi hỏi lại từ đầu, không bác bỏ thẳng. Mẹ GIẤU việc phân có nhầy lẫn máu và việc bé bị són phân ra quần ở lớp vì ngại và vì tra mạng thấy 'phân có máu là lỵ, trường sẽ cho nghỉ, bị bạn bè chê': lúc đầu chỉ nói 'phân lỏng, hơi nhầy'. Chỉ kể ra khi bác sĩ hỏi riêng về máu/nhầy, xin xem quần lót hoặc ảnh, hoặc nói nhẹ nhàng rằng nhiều bé bị và không có gì xấu hổ.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 33 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé (vd 'Huy đau chỗ nào? Có đi ngoài đau không con?') thì bé trả lời ngắn, thường gật đầu hoặc lí nhí.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1c1411",
+   "kieuToc": "tre",
+   "ao": "#6fb0d8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b894",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#9a7bb5",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đi ngoài phân lỏng 4 ngày, sốt, nôn, uống thuốc kháng sinh 3 ngày không đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên xét nghiệm đã về: mẫu máu, mẫu phân gửi đi chỉ có kết quả vào sáng hôm sau (sau nhiều giờ), không có kết quả để quyết định tại chỗ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ đưa đến lúc 19 giờ 30 tối thứ Bảy (ngoài giờ, phòng khám không có kỹ thuật viên xét nghiệm) vì đi ngoài phân lỏng 4 ngày, sốt, nôn, đã uống thuốc kháng sinh 3 ngày không đỡ. Sinh hiệu: nhiệt 38,1 °C, mạch 118 l/p, nhịp thở 26 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, bé nhà em đi ngoài mấy hôm rồi, uống kháng sinh ba ngày mà không đỡ, em nghĩ bé bị loạn khuẩn ruột do kháng sinh. Bác sĩ cho bé men vi sinh liều cao với thuốc cầm tiêu giúp em, rồi làm xét nghiệm phân nữa nha.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "38,1",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng 4 ngày, 8–9 lần mỗi ngày, sốt 38–38,5 °C từ ngày thứ 2, nôn 2 lần ngày đầu rồi hôm nay nôn thêm 1 lần, ăn uống kém. Mẹ đã cho uống kháng sinh 3 ngày không đỡ nên lo bé bị loạn khuẩn ruột.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "mang_chan_doan",
+     "noi_dung": "Mẹ tra mạng thấy 'tiêu chảy sau kháng sinh = loạn khuẩn ruột, có thể viêm đại tràng giả mạc' nên muốn xin men vi sinh liều cao, thuốc cầm tiêu và xét nghiệm phân; mẹ không muốn nghe là 'chỉ cần uống nước'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "so_lan_phan",
+     "noi_dung": "Khoảng 8–9 lần mỗi ngày, đêm qua dậy đi 3 lần. Lúc đầu phân lỏng vàng, hai ngày nay lượng ít hơn mỗi lần nhưng đi nhiều hơn, mùi tanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần, tính chất phân"
+    },
+    {
+     "id": "mau_phan",
+     "noi_dung": "Từ chiều hôm qua có 3–4 lần phân lẫn nhầy và vệt máu đỏ tươi; bé đau quặn bụng, mót rặn, ngồi bô khóc. Hôm thứ Năm bé còn són phân ra quần ở lớp, xấu hổ nên cởi quần giấu mẹ. Mẹ biết nhưng ngại kể vì sợ bị coi là bệnh lỵ lây, trường cho nghỉ, bạn bè chê.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'phân thế nào' thì mẹ chỉ nói 'lỏng, hơi nhầy'. Chỉ kể khi bác sĩ hỏi riêng về nhầy/máu (đỏ, đen), hoặc xin xem quần lót/ảnh phân, hoặc nói nhẹ nhàng rằng nhiều bé bị và không có gì xấu hổ. Hỏi thẳng bé 'đi ngoài có đau, có thấy đỏ đỏ không con?' thì bé gật đầu và nói 'đau, có đỏ'. Mẹ ngập ngừng, đỏ mặt rồi mới kể.",
+     "k": 1,
+     "y": "Phân có nhầy máu, mót rặn"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Sốt 38–38,5 °C từ ngày thứ 2; nôn tổng 3 lần trong 4 ngày, không nôn ra mật (không xanh, không vàng đậm), không nôn vọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Bé khát, uống nước háo hức khi đưa cốc; tiểu ít, lần cuối khoảng 6 giờ chiều (cách 1,5 giờ); bé vẫn chơi được nhưng quấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khát, nước tiểu"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ngày thứ 2 bé sốt, mẹ nghĩ viêm họng nên lấy kháng sinh cefixime còn dư trong đơn cũ cho uống 3 ngày, mỗi ngày 1 lần (hết hôm qua); mẹ không nhớ hàm lượng. Không có kháng sinh nào khác, không thuốc cầm tiêu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng: kháng sinh 3 ngày"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Sáng ngày bệnh đầu tiên bé bắt đầu uống 'siro men tiêu hóa, kẽm, tăng đề kháng' mẹ mua qua livestream, 2 lần mỗi ngày; tối hôm đó bé đi ngoài lần đầu. Mẹ vẫn cho uống tiếp đến sáng nay, không nhớ thành phần trên nhãn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thực phẩm chức năng, khởi phát"
+    },
+    {
+     "id": "khong_khoc_con",
+     "noi_dung": "Không có cơn khóc thét từng cơn rồi hết, không xanh xao từng cơn, không co chân lên bụng từng đợt rồi nằm yên, không nôn mật, bụng không chướng; giữa các lần đi ngoài bé chơi được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng từng cơn (lồng ruột)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Lớp mẫu giáo có 2 bạn cũng đi ngoài mấy hôm nay. Nhà không ai tiêu chảy nước vo gạo, không đi vùng có dịch tả, nước uống đun sôi; bé ăn cơm trường, ăn thêm kem ở cổng trường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi quấy, mệt, ngồi trong lòng mẹ. Mắt trũng nhẹ, môi khô, niêm mạc miệng hơi khô, khát: uống nước háo hức khi đưa cốc. Nếp véo da ở bụng mất chậm (sau khoảng 2 giây). Chi ấm, hồng, thời gian đổ đầy mao mạch dưới 2 giây. Cân nặng 16 kg. Có mất nước (2 dấu: mắt trũng, khát uống háo hức; thêm nếp véo da chậm), chưa mất nước nặng.",
+     "k": 1,
+     "hien": "Tỉnh, quấy, mệt. Cân nặng 16 kg."
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, amidan không to, không giả mạc. Hai màng nhĩ bình thường. Không chảy mũi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p, không co lõm lồng ngực, rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 26 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng không chướng, mềm. Ấn nhẹ đau âm ỉ vùng hạ vị và hố chậu trái, bé nhăn mặt; nhu động ruột tăng. Không khối u sờ được, không có phản ứng thành bụng hay cảm ứng phúc mạc, hố chậu phải không đau, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng không chướng."
+    },
+    "truc_trang": {
+     "a": "Hậu môn đỏ nhẹ do đi nhiều, không nứt hậu môn. Thăm trực tràng bằng ngón út: không khối, không polyp, trên găng có nhầy lẫn ít máu đỏ tươi, không máu đỏ sẫm dạng thạch nho.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không vàng da, không tím tái.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "u",
+     "r": "Siêu âm bụng do bác sĩ tự làm tại giường: các quai ruột non và đại tràng giãn nhẹ, nhu động tăng, thành đại tràng xuống/sigma dày nhẹ; không thấy hình bia (target) hay hình bánh donut; không dịch tự do trong ổ bụng; ruột thừa không thấy rõ, hố chậu phải không điểm đau.",
+     "ab": 1,
+     "n": "Hữu ích để loại trừ lồng ruột khi trẻ có phân nhầy máu ngoài giờ không xét nghiệm được; không bắt buộc nếu khám bụng và hỏi bệnh sử đủ để loại trừ. (WHO 2013 mục 9.4.4, tr. 284). Tài liệu đã tải không nêu tiêu chuẩn siêu âm chẩn đoán lồng ruột (TL-0056 chưa có toàn văn): không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 14,8 G/L · Neutrophil 76% · Hb 134 g/L · TC 310 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.8,
+      "neu_pct": 76.0,
+      "neu": 11.2,
+      "lym_pct": 16.0,
+      "lym": 2.4,
+      "mono_pct": 7.0,
+      "mono": 1.04,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 81.6,
+      "mch": 27.3,
+      "mchc": 335,
+      "rdw": 13.0,
+      "plt": 310
+     },
+     "thay_the": "abdus",
+     "n": "Ngoài giờ không có kết quả trước sáng mai: không chờ mà quyết định theo lâm sàng. QĐ 3312 (Tiêu chảy cấp mục 3.2, tr. 320) chỉ làm CTM, CRP khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng; bé có sốt, phân nhầy máu nên làm ở tuyến có điều kiện là hợp lý, nhưng không làm thay đổi xử trí đêm nay. Bạch cầu tăng ưu thế trung tính phù hợp nhiễm khuẩn xâm nhập (QĐ 5642 Tiêu chảy do vi khuẩn mục 4.2.1, tr. 75)."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Soi phân: nhiều bạch cầu, hồng cầu, không thấy đơn bào. Cấy phân: Shigella sonnei, nhạy ciprofloxacin, ceftriaxone, azithromycin; kháng ampicillin và co-trimoxazole (trả lời sau 48–72 giờ).",
+     "ab": 1,
+     "thay_the": "abdus",
+     "n": "Chỉ định cấy phân khi tiêu chảy phân máu (QĐ 3312 Tiêu chảy cấp mục 3.2, tr. 320; QĐ 5642 Tiêu chảy do vi khuẩn mục 3.3–3.4, tr. 74–75). Lấy mẫu đêm nay (trước khi đổi kháng sinh) nhưng kết quả muộn nên kháng sinh phải theo kinh nghiệm: ciprofloxacin (WHO 2024 khuyến cáo 2, Remarks). Mã cận lâm sàng này chưa có trong danh mục: đã ghi đề xuất."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nhầy máu (hội chứng lỵ), nghi nhiễm khuẩn xâm nhập (Shigella), có mất nước, đã dùng cefixime 3 ngày không đáp ứng",
+     "ok": 1,
+     "n": "Tiêu chảy 4 ngày (cấp, dưới 14 ngày: QĐ 3312 Tiêu chảy cấp mục 1, tr. 316), sốt, mót rặn, đau quặn, phân nhầy lẫn máu (hội chứng lỵ: sốt, đau bụng quặn từng cơn, mót rặn, phân lỏng lẫn nhầy máu: QĐ 5642 Tiêu chảy do vi khuẩn mục 3.2, tr. 74); WHO 2013 mục 5.1 Bảng 11: phân lẫn máu = dysentery. Mất nước: 2 dấu mắt trũng, khát uống háo hức, kèm nếp véo da chậm: Có mất nước (QĐ 3312 mục 3.1c, tr. 318)."
+    },
+    {
+     "t": "Tả",
+     "n": "Loại trừ bằng lâm sàng và dịch tễ: tả điển hình tiêu chảy toàn nước như nước vo gạo, không nhầy máu, thường không sốt, ít đau bụng (QĐ 4178/2007 mục II.1a); khởi phát rất nhanh, 20–50 lần/ngày, không sốt, không mót rặn, không đau quặn (QĐ 5642 Tiêu chảy do vi khuẩn mục 3.2, tr. 74). Bé có sốt, mót rặn, phân nhầy máu, 8–9 lần/ngày, không ở vùng dịch (WHO 2013 Bảng 11: cholera khi tiêu chảy nước nhiều + mất nước nặng trong vụ dịch). Cấy phân V. cholerae không làm được đêm nay."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Ở trẻ có phân máu phải nghĩ tới (QĐ 4068 ô [1] mục 1; QĐ 3312 mục 2.1, tr. 316). Lồng ruột: cơn khóc từng cơn kèm xanh xao, nôn, khối u ở bụng, phân nhầy máu \"thạch nho\" (WHO 2013 mục 5.1 Bảng 11, tr. 127; mục 9.4.4, tr. 284: thường < 2 tuổi nhưng có thể gặp ở trẻ lớn). Bé 4 tuổi, sốt, mót rặn, không cơn khóc, bụng mềm không khối, siêu âm không thấy hình bia: ít nghĩ."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Chưa đủ tiêu chuẩn SIRS nhi: cần ≥ 2/4 tiêu chuẩn (ít nhất 1 là nhiệt độ hoặc bạch cầu); nhóm > 1–5 tuổi: sốt > 38,5 °C, tim > 140 l/p, thở > 22 l/p, bạch cầu > 15,5 hoặc < 6 G/L (QĐ 3312/2015, Nhiễm trùng huyết, Bảng 1). Bé 38,1 °C (chưa > 38,5), mạch 118 (< 140), thở 26 (> 22 – đạt 1 tiêu chuẩn), tỉnh, chi ấm, đổ đầy mao mạch dưới 2 giây, không ban xuất huyết. Tiêu chảy xâm nhập có thể biến chứng nhiễm khuẩn huyết (QĐ 4068 ô [1] mục 4) nên hẹn tái khám sớm. Không loại trừ tuyệt đối vì ngoài giờ không làm được xét nghiệm máu."
+    },
+    {
+     "t": "Tiêu chảy liên quan kháng sinh (loạn khuẩn ruột sau cefixime) như mẹ tra mạng",
+     "n": "Mẹ có phần đúng: tiêu chảy gắn với đợt kháng sinh gần đây là một chẩn đoán phân biệt (WHO 2013 mục 5.1 Bảng 11: diarrhoea associated with recent antibiotic use; QĐ 3312 Tiêu chảy cấp mục 2.1: tiêu chảy do thuốc, kể cả kháng sinh). Nhưng tiêu chảy khởi phát TRƯỚC khi dùng kháng sinh (tối ngày bệnh đầu, kháng sinh từ ngày thứ 2) và bé sốt, mót rặn, phân nhầy máu, nên kháng sinh không giải thích được toàn bộ bệnh cảnh. C. difficile ở trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu chảy do thực phẩm chức năng (siro men tiêu hóa, kẽm, tăng đề kháng)",
+     "n": "Khởi phát sau khi dùng, nhưng sốt, nhầy máu và mót rặn không phải bệnh cảnh thường thấy của tiêu chảy do thực phẩm bổ sung. Bằng chứng về tiêu chảy do thực phẩm chức năng: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch theo Phác đồ B: ORS giảm thẩm thấu 75 ml/kg = 1.200 ml trong 4 giờ, uống từng thìa/ngụm nhỏ ngay tại phòng khám, đánh giá lại sau 4 giờ",
+     "v": "c",
+     "n": "Có mất nước vừa/nhẹ: Phác đồ B, số lượng nước uống trong 4 giờ = cân nặng × 75 ml; nôn thì ngừng 10 phút rồi cho uống chậm hơn; sau 4 giờ đánh giá lại (QĐ 3312 Tiêu chảy cấp mục 4.1 Phác đồ B, tr. 321; QĐ 4068 ô [4]: 2–4 tuổi, 11–15,9 kg: 800–1.200 ml; WHO 2013 mục 5.2 Phác đồ B, tr. 135). ORS giảm thẩm thấu là loại tốt nhất (QĐ 3312 mục 4.1; WHO 2024 khuyến cáo 5, mạnh; ESPGHAN 2014 mục 8). Dùng Oresol thường nếu không có ORS giảm thẩm thấu cũng chấp nhận (QĐ 4068 mục 1.2)."
+    },
+    {
+     "t": "Ciprofloxacin 15 mg/kg/lần = 240 mg × 2 lần/ngày × 3 ngày (uống) vì tiêu chảy phân nhầy máu",
+     "v": "c",
+     "n": "Tiêu chảy phân máu có chỉ định kháng sinh (QĐ 3312 mục 4.2, tr. 322: lỵ trực khuẩn ciprofloxacin 15 mg/kg/lần × 2 lần/ngày × 3 ngày); WHO 2024 khuyến cáo 2 (mạnh, Remarks): ciprofloxacin 15 mg/kg/lần × 2 lần/ngày × 3 ngày, tuyến hai ceftriaxone 50–80 mg/kg/ngày × 3 ngày; QĐ 4068 ô \"Chỉ định kháng sinh\": ciprofloxacin 15 mg/kg/lần × 2 lần/ngày × 3 ngày (uống) hoặc ceftriaxone 50–100 mg/kg/ngày × 2–5 ngày (TB, TMC). Cefixime đã dùng 3 ngày không đáp ứng: WHO 2013 mục 5.4 (tr. 144): Shigella kháng rộng rãi cephalosporin thế hệ 1–2; cần chọn thuốc theo độ nhạy địa phương (WHO 2024 Remarks)."
+    },
+    {
+     "t": "Kẽm 20 mg mỗi ngày × 10–14 ngày (trẻ ≥ 6 tháng)",
+     "v": "c",
+     "n": "QĐ 3312/2015 mục 4.3 (tr. 323): trẻ ≥ 6 tháng kẽm 20 mg/ngày × 10–14 ngày; WHO 2013 mục 5.4 (tr. 144): lỵ \"give zinc as for watery diarrhoea\". Khuyến cáo kẽm 5 mg/ngày của WHO 2024 (3a, 3c) chỉ nói cho tiêu chảy phân nước hoặc kéo dài, không nói cho tiêu chảy phân máu → khác đối tượng, không phải mâu thuẫn; dùng 5 mg/ngày (liều thấp, ít nôn hơn theo WHO 2024 Remarks) chấm a. Xem sổ mâu thuẫn, mục kẽm."
+    },
+    {
+     "t": "Không dùng thuốc cầm tiêu (loperamide), không dùng thuốc giảm đau-giảm co thắt tự ý",
+     "v": "c",
+     "n": "Tuyệt đối không cho thuốc giảm triệu chứng đau bụng hay giảm số lần đi ngoài vì có thể làm bệnh nặng hơn (WHO 2013 mục 5.4 Supportive care, tr. 145); QĐ 3312 mục 4.5: không dùng thuốc cầm nôn, cầm đi ngoài; ESPGHAN 2014 mục 9.3.2: loperamide không khuyến cáo (mạnh)."
+    },
+    {
+     "t": "Cho uống men vi sinh liều cao như mẹ đề nghị",
+     "v": "a",
+     "n": "Chấp nhận nhưng không phải đáp án chính: QĐ 4068 ô [7B]: probiotics không dùng nếu có hội chứng lỵ; WHO 2024 khuyến cáo 4a: không dùng probiotics cho tiêu chảy cấp nước (có điều kiện); ESPGHAN 2023 (TL-0258) có khuyến cáo một số chủng (LGG, S. boulardii) cho viêm dạ dày ruột cấp và dự phòng tiêu chảy do kháng sinh (khi bắt đầu cùng lúc với kháng sinh, ≥ 5 tỷ CFU/ngày): bé phân nhầy máu, đã hết kháng sinh nên không thuộc chỉ định đó."
+    },
+    {
+     "t": "Hẹn tái khám sau 24–48 giờ (sớm hơn nếu có dấu hiệu nặng), dặn dấu hiệu quay lại ngay",
+     "v": "c",
+     "n": "QĐ 4068 ô [8]: ngoại trú, tái khám mỗi 1–2 ngày, khám ngay khi có dấu hiệu nặng; WHO 2013 mục 5.4 (tr. 144): theo dõi sau 2 ngày (hết sốt, đi ít hơn, ít máu hơn, ăn khá hơn); QĐ 3312 mục 5.2, tr. 324."
+    },
+    {
+     "t": "Paracetamol 10–15 mg/kg/lần = 160–240 mg khi bé sốt có vẻ khó chịu, cách ít nhất 6 giờ",
+     "v": "c",
+     "n": "Liều: QĐ 3312/2015 (paracetamol 10–15 mg/kg/lần mỗi 4–6 giờ). Khi nào dùng: theo sổ mâu thuẫn (mục \"Hạ sốt ở trẻ\", từ NH-0199) đáp án theo NICE NG143 2021 mục 1.6.1–1.6.5 (dùng khi trẻ sốt có vẻ khó chịu, không dùng chỉ để hạ nhiệt độ); hạ sốt theo ngưỡng ≥ 38,5 °C chấm a. Liều tối đa mỗi ngày: không có trong tài liệu đã tải. Khoảng cách ≥ 6 giờ vì bé đang mất nước."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay",
+     "v": "w",
+     "n": "Không cần: mất nước vừa còn uống được; ORS là điều trị đầu tay, tĩnh mạch khi sốc, rối loạn ý thức, thất bại bù dịch uống, nôn dai dẳng, chướng bụng nặng (ESPGHAN 2014 mục 8.4, tr. 140; QĐ 3312 mục 4.1 Phác đồ C chỉ cho mất nước nặng). Bù dịch tĩnh mạch chấp nhận khi có dấu mất nước kèm nôn không uống đủ (QĐ 4068 mục 1.2): bé chỉ nôn 1 lần hôm nay."
+    },
+    {
+     "t": "Azithromycin uống thay ciprofloxacin (12 mg/kg ngày 1 rồi 6 mg/kg × 4 ngày)",
+     "v": "a",
+     "n": "ESPGHAN/ESPID 2014 mục 9.4, Bảng 7 (tr. 147–148): đầu tay uống cho Shigella; WHO 2024 khuyến cáo 2 Remarks và QĐ 3312 mục 4.2 dùng ciprofloxacin; WHO 2024 mới hơn nên ciprofloxacin là đáp án chính."
+    },
+    {
+     "t": "Lặp lại cefixime hoặc kháng sinh cephalosporin uống khác",
+     "v": "w",
+     "n": "Đã dùng 3 ngày không đáp ứng; Shigella kháng cephalosporin thế hệ 1–2 (WHO 2013 mục 5.4, tr. 144); không có chỉ định lặp lại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp (4 ngày, dưới 14 ngày) có hội chứng lỵ: phân nhầy lẫn máu, sốt, mót rặn, đau quặn; nghi nhiễm khuẩn xâm nhập (Shigella)",
+     "Mất nước: Có mất nước (mắt trũng, khát uống háo hức, nếp véo da chậm; chưa nặng) → Phác đồ B",
+     "Đã dùng cefixime 3 ngày không đáp ứng (kháng sinh không thích hợp với tiêu chảy phân máu do Shigella)",
+     "Yếu tố khởi phát: thực phẩm chức năng (không rõ vai trò); tiêu chảy liên quan kháng sinh chỉ là chẩn đoán phân biệt",
+     "Đã loại trừ lâm sàng: Tả, Lồng ruột, Nhiễm khuẩn huyết (chưa loại tuyệt đối vì không có xét nghiệm ngoài giờ)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: bắt đầu từ bao giờ, số lần đi ngoài, có máu không, số lần nôn, sốt, ăn uống, thuốc đã dùng, tiêm chủng, dịch tễ (QĐ 3312 mục 3.1a, tr. 317). Hỏi riêng nhẹ nhàng về nhầy/máu và hỏi thẳng bé; ghi nhận phần đúng của mẹ (kháng sinh có thể làm rối loạn phân) rồi hỏi lại từ đầu, không bác bỏ thẳng. (2) Khám: tri giác, mắt, khát, nếp véo da, mạch, nhịp thở, bụng (khối, điểm đau, nhu động), thăm trực tràng (QĐ 3312 mục 3.1b–c, tr. 317–318). (3) Cận lâm sàng chọn lọc: ngoài giờ không có kỹ thuật viên, quyết định không chờ kết quả; siêu âm bụng tại giường loại trừ lồng ruột. (4) Chẩn đoán và phân loại mất nước. (5) Xử trí.",
+     "Vì sao là tiêu chảy cấp có hội chứng lỵ: phân lỏng ≥ 3 lần/24 giờ, dưới 14 ngày (QĐ 3312 mục 1, tr. 316); sốt, mót rặn, đau quặn, nhầy lẫn máu = hội chứng lỵ (QĐ 5642 Tiêu chảy do vi khuẩn mục 3.2, tr. 74); WHO 2013 Bảng 11: dysentery khi có máu trong phân (thấy hoặc được báo). Bạch cầu tăng ưu thế trung tính (nếu có kết quả) ủng hộ vi khuẩn xâm nhập.",
+     "Loại trừ Tả: phân không phải nước vo gạo, có nhầy máu, có sốt, mót rặn, không dịch tễ, số lần < 20 (QĐ 4178/2007 mục II.1a; QĐ 5642 mục 3.2; QĐ 4068 ô [1] mục 5). Loại trừ Lồng ruột: không cơn khóc/xanh xao từng cơn, không khối, bụng mềm, siêu âm không có hình bia; thường < 2 tuổi nhưng có thể gặp ở trẻ lớn (WHO 2013 mục 9.4.4, tr. 284; Bảng 11 tr. 127). Loại trừ Nhiễm khuẩn huyết: bé tỉnh, tưới máu tốt, không ban xuất huyết, không đủ hơn hai dấu (QĐ 3312 NTH mục 2.2). Cả ba còn nằm trong danh sách \"tình huống cần phân biệt\" của QĐ 4068 ô [1].",
+     "Điểm mấu chốt then chốt: sự thật phân có máu bị giấu vì ngại; nếu bác sĩ chỉ hỏi chung sẽ phân loại nhầm là tiêu chảy phân nước và không kê kháng sinh (WHO 2024 khuyến cáo 1a: không kháng sinh cho tiêu chảy phân nước; khuyến cáo 2: có máu thì phải dùng kháng sinh). Thăm trực tràng và hỏi riêng bé là cách tìm ra."
+    ],
+    "phan_tich_xu_tri": [
+     "Ưu tiên 1: bù dịch Phác đồ B 75 ml/kg × 16 kg = 1.200 ml ORS trong 4 giờ tại phòng khám để quan sát khả năng uống (QĐ 3312 mục 4.1 Phác đồ B; QĐ 4068 ô [4]; WHO 2013 tr. 135); sau 4 giờ hết dấu mất nước thì sang Phác đồ A (2–10 tuổi: 100–200 ml ORS sau mỗi lần đi ngoài, tại nhà 1.000 ml/ngày: QĐ 3312 mục 4.1 Phác đồ A, tr. 321).",
+     "Kháng sinh: ciprofloxacin 15 mg/kg × 2 lần × 3 ngày (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 2). Cefixime đã dùng không phù hợp: Shigella kháng cephalosporin thế hệ 1–2 (WHO 2013 tr. 144). Kháng sinh không cần chờ cấy phân.",
+     "Kẽm: 20 mg/ngày × 10–14 ngày (QĐ 3312/2015 mục 4.3) vì bé lỵ, mà khuyến cáo liều 5 mg của WHO 2024 (3c) chỉ dành cho tiêu chảy phân nước hoặc kéo dài; ai kê 5 mg/ngày vẫn chấp nhận (a). WHO 2024 ghi kẽm làm tăng nguy cơ nôn: cho uống sau ăn, khi bé đỡ nôn.",
+     "Không dùng thuốc cầm tiêu, kể cả loperamide mẹ muốn xin: có thể làm bệnh nặng hơn (WHO 2013 tr. 145). Men vi sinh không phải đáp án chính ở hội chứng lỵ (QĐ 4068 ô [7B]).",
+     "Ngoài giờ: không có kết quả xét nghiệm trước sáng mai; do đó quyết định dựa trên lâm sàng, bù dịch tại chỗ, kê kháng sinh theo kinh nghiệm, và hẹn tái khám sớm với tiêu chí chuyển tuyến rõ ràng. Lấy mẫu phân đêm nay gửi cấy (nếu có thể giữ mẫu đúng cách) để tuyến sau có kết quả; cách bảo quản mẫu: không có trong tài liệu đã tải.",
+     "Cho về khi: hết dấu mất nước sau 4 giờ, uống bù dịch hiệu quả, mẹ được hướng dẫn Phác đồ A, có điều kiện quay lại (QĐ 4068 ô [8]). Nếu bé không uống được hay nôn nhiều thì xử trí như lượt 2."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol giảm thẩm thấu (ORS)",
+      "ham_luong": "1 gói pha theo hướng dẫn trên gói",
+      "lieu": "Tại phòng khám: 1.200 ml trong 4 giờ (75 ml/kg). Sau đó: 100–200 ml sau mỗi lần đi ngoài, ở nhà khoảng 1.000 ml/ngày",
+      "duong": "Uống từng thìa/ngụm nhỏ",
+      "thoi_diem": "Liên tục trong 4 giờ đầu; sau đó sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1 Phác đồ A, B (tr. 320–321); QĐ 4068 ô [4]; WHO 2024 khuyến cáo 5. Nôn: dừng 10 phút rồi cho uống chậm lại."
+     },
+     {
+      "thuoc": "Ciprofloxacin",
+      "ham_luong": "Viên 250 mg (dạng bào chế cho trẻ: không có trong tài liệu đã tải)",
+      "lieu": "15 mg/kg/lần = 240 mg (≈ 1 viên 250 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Ngày 2 lần, cách nhau 12 giờ, liều đầu tại phòng khám",
+      "so_ngay": "3 ngày",
+      "ghi_chu": "QĐ 3312 mục 4.2 (tr. 322); WHO 2024 khuyến cáo 2 Remarks; QĐ 4068 ô kháng sinh. Theo dõi hết sốt, ít máu hơn sau 2 ngày (WHO 2013 tr. 144)."
+     },
+     {
+      "thuoc": "Kẽm gluconate",
+      "ham_luong": "Theo dạng sẵn có (siro/viên tan)",
+      "lieu": "20 mg kẽm nguyên tố/ngày",
+      "duong": "Uống",
+      "thoi_diem": "1 lần/ngày, sau khi bé hết nôn",
+      "so_ngay": "10–14 ngày",
+      "ghi_chu": "QĐ 3312/2015 mục 4.3 (tr. 323): trẻ ≥ 6 tháng 20 mg/ngày × 10–14 ngày. WHO 2024 (3c) 5 mg/ngày chỉ nói cho tiêu chảy phân nước/kéo dài; dùng 5 mg/ngày ở bé lỵ chấm a. Kẽm có thể gây nôn (WHO 2024, Remarks khuyến cáo 3)."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "10–15 mg/kg/lần = 160–240 mg (≈ 200 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu; cách ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt",
+      "ghi_chu": "QĐ 3312 (mục 4.2.1.4 Sốt: 10–15 mg/kg/lần mỗi 4–6 giờ). Liều tối đa 24 giờ: không có trong tài liệu đã tải. Thời điểm dùng theo NICE NG143 2021 mục 1.6 (sổ mâu thuẫn, mục hạ sốt ở trẻ)."
+     }
+    ],
+    "dan_do": [
+     "Mẹ nói đúng một phần: kháng sinh có thể làm rối loạn phân, nhưng bé tiêu chảy trước khi uống kháng sinh, lại sốt, đau quặn, mót rặn và có máu trong phân nên nhiều khả năng là nhiễm khuẩn đường ruột cần kháng sinh KHÁC loại đã dùng. Rất nhiều bé bị như vậy, đây không phải lỗi của mẹ; trường mẫu giáo cần biết để phòng lây, rửa tay.",
+     "Cho bé uống ORS đủ lượng: từng thìa nhỏ, nôn thì nghỉ 10 phút rồi cho uống chậm; không thay ORS bằng nước ngọt, nước trái cây (QĐ 3312 mục 4.1). Tiếp tục cho ăn đồ mềm, quen thuộc; không kiêng ăn.",
+     "Không cho bé thuốc cầm tiêu, thuốc giảm đau bụng, men tiêu hóa hay thực phẩm chức năng nào khác khi chưa hỏi bác sĩ (WHO 2013 tr. 145).",
+     "Uống ciprofloxacin đủ 3 ngày, mỗi ngày 2 lần (QĐ 3312 mục 4.2); nếu bé nôn ra ngay sau uống thì báo lại.",
+     "Phải đưa bé đến ngay (không chờ lịch hẹn) nếu: bé nôn nhiều hoặc nôn ra mật, uống kém hoặc không uống được, li bì, khóc thét từng cơn, bụng chướng, sốt cao hơn, đi ngoài nhiều hơn hoặc máu nhiều hơn, không tiểu quá 6 giờ (QĐ 3312 mục 5.1–5.2, tr. 324; WHO 2013 mục 5.2 Phác đồ A). Tái khám dù khá hơn sau 24–48 giờ.",
+     "Rửa tay xà phòng sau khi đi vệ sinh và trước khi ăn; chưa cho bé đi học đến khi hết tiêu chảy (khoảng thời gian nghỉ học: không có trong tài liệu đã tải; ESPGHAN 2014 mục 8.2 khuyến cáo đề phòng lây tiếp xúc)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Tái khám sáng Chủ nhật (ngoài giờ, vẫn không có kỹ thuật viên xét nghiệm), sau 2 ngày điều trị. Mẹ báo bé không đỡ: nôn nhiều, sốt, đi ngoài nhiều hơn. Cân nặng 15,2 kg (sụt 0,8 kg, 5%). Sinh hiệu: nhiệt 38,4 °C, mạch 128 l/p, nhịp thở 30 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Bác sĩ ơi, bé không đỡ gì hết, còn nôn nhiều hơn, uống nước là ói, cho uống thuốc cũng ói ra mất mấy liều. Em đã nói là loạn khuẩn ruột rồi, bác sĩ cho bé men vi sinh đi, hay là truyền nước cho bé.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 30,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Hai ngày nay bé không đỡ: đi ngoài 10–12 lần/ngày, phân nhầy máu nhiều hơn, vẫn sốt 38–38,5 °C, đau quặn, mót rặn; nôn 5 lần hôm qua và 3 lần sáng nay, nôn sau gần mỗi lần uống ORS.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 2 ngày"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ pha ORS theo gói, cho uống từng thìa nhỏ như dặn, chỉ cho được khoảng 1/3 lượng cần uống vì bé nôn. Ciprofloxacin 4 liều: nôn ra ngay (trong vòng 10 phút) 2 liều, 2 liều uống trọn. Kẽm uống 1 lần rồi bé nôn. Mẹ đã ngừng siro thực phẩm chức năng và không cho cầm tiêu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thuốc bị nôn ra"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tiểu ít, lần cuối khoảng 8 giờ tối qua (hơn 10 giờ). Bé uống kém, hay lơ mơ ngủ nhưng gọi thì tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước tiểu, uống kém"
+    },
+    {
+     "id": "bung_con",
+     "noi_dung": "Không có cơn khóc thét từng cơn rồi nằm yên, không nôn mật, bụng không chướng thêm, vẫn đau quặn kèm mót rặn mỗi lần đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lồng ruột, tắc ruột"
+    },
+    {
+     "id": "khong_nkh",
+     "noi_dung": "Không co giật, không phát ban, không ho, không khó thở, không đau tai, không cứng cổ; bé gọi thì tỉnh, nhận ra mẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nhiễm khuẩn toàn thân"
+    },
+    {
+     "id": "mang_chan_doan2",
+     "noi_dung": "Mẹ vẫn tin bé 'loạn khuẩn ruột', xin men vi sinh và truyền nước tại phòng khám 'cho nhanh', ngại chuyển viện vì sợ 'nhập viện là nặng', không ai trông bé ở nhà ngày mai (mẹ phải đi làm).",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu, tâm lý ngại chuyển viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Li bì nhẹ, gọi thì mở mắt, đáp ứng chậm, quấy yếu. Mắt trũng rõ, môi khô nứt, lưỡi khô, khát, uống ít và nhổ ra. Nếp véo da mất chậm (khoảng 2 giây, chưa rất chậm). Chi mát nhẹ, đổ đầy mao mạch khoảng 2–3 giây. Cân nặng 15,2 kg. Có mất nước, gần ngưỡng mất nước nặng (li bì + mắt trũng sẽ là 2 dấu: cần xếp loại lại), chưa sốc.",
+     "k": 1,
+     "hien": "Li bì nhẹ, gọi thì tỉnh. Cân nặng 15,2 kg."
+    },
+    "bung": {
+     "a": "Bụng hơi chướng nhẹ, mềm. Đau khắp bụng, nhiều nhất vùng hạ vị và hố chậu trái, không có phản ứng thành bụng. Nhu động tăng, không khối u, không điểm đau khu trú hố chậu phải, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng hơi chướng nhẹ."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 30 l/p, thở hơi sâu, không co lõm lồng ngực, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 30 l/p, thở hơi sâu. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da nhợt, mát ở bàn tay bàn chân, không ban, không chấm xuất huyết, không nổi vân tím.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Li bì nhẹ, đáp ứng khi gọi, không cứng gáy, không co giật, trương lực cơ giảm nhẹ.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nhầy lẫn máu đỏ tươi nhiều hơn lần trước, không khối, không máu thạch nho.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, niêm mạc miệng khô, hai màng nhĩ bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "u",
+     "r": "Siêu âm bụng tại giường: thành đại tràng xuống và sigma dày, quai ruột giãn nhẹ chứa dịch, nhu động tăng; không thấy hình bia, không dịch tự do ổ bụng.",
+     "ab": 1,
+     "n": "Lặp lại khi triệu chứng không đổi hay nặng thêm để chắc chắn không có lồng ruột (WHO 2013 mục 9.4.4); không bắt buộc nếu bụng mềm, không khối, không cơn khóc. Tiêu chuẩn siêu âm: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 17,6 G/L · Neutrophil 82% · Hb 142 g/L · TC 380 G/L",
+     "ab": 1,
+     "thay_the": "abdus",
+     "bang": {
+      "wbc": 17.6,
+      "neu_pct": 82.0,
+      "neu": 14.4,
+      "lym_pct": 11.0,
+      "lym": 1.9,
+      "mono_pct": 6.0,
+      "mono": 1.06,
+      "eos_pct": 0.5,
+      "eos": 0.09,
+      "baso_pct": 0.5,
+      "baso": 0.09,
+      "rbc": 5.3,
+      "hgb": 142,
+      "hct": 0.44,
+      "mcv": 83.0,
+      "mch": 26.8,
+      "mchc": 323,
+      "rdw": 13.2,
+      "plt": 380
+     },
+     "n": "Cần ở lượt này (sốt, nghi nhiễm khuẩn, mất nước tiến triển: QĐ 3312 mục 3.2, tr. 320; QĐ 4068 ô [6] mục 2) nhưng không có kết quả trước sáng mai, nên KHÔNG chờ mà chuyển tuyến để làm. Bạch cầu tăng ưu thế trung tính, Hb/Hct tăng do cô máu. Không dùng để loại trừ nhiễm khuẩn huyết tại chỗ."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 132 · K 3,2 · Cl 98 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 132,
+      "k": 3.2,
+      "cl": 98
+     },
+     "n": "Điện giải đồ khi mất nước, chướng bụng, co giật (QĐ 4068 ô [6] mục 3; QĐ 3312 mục 3.2). Na 132: mất nước đẳng trương hơi thấp (130–150), K < 3,5 hạ kali (QĐ 3312 mục 3.1d, tr. 319–320); chướng bụng nhẹ phù hợp hạ kali. Kết quả này chỉ có ở tuyến nhận, không chờ được."
+    },
+    "abg": {
+     "v": "u",
+     "r": "pH 7,29 · HCO3 14 mmol/L · BE −9",
+     "ab": 1,
+     "bang": {
+      "ph": 7.29,
+      "hco3": 14,
+      "be": -9
+     },
+     "n": "Khí máu cho trẻ thở nhanh/sâu (QĐ 4068 ô [6] mục 1); toan chuyển hóa pH < 7,2, HCO3 < 15 mEq/L (QĐ 3312 mục 3.1d, tr. 320): ở đây HCO3 < 15 nhưng pH 7,29: toan chuyển hóa tiến triển, chưa nặng. Chỉ có ở tuyến nhận."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Cấy máu: kết quả sau 48–72 giờ (Shigella sonnei, hiếm khi vào máu).",
+     "n": "Cấy máu trước khi tiêm kháng sinh khi nghi nhiễm trùng huyết (QĐ 3312 NTH mục 2.1c, tr. 525). Không làm được ngoài giờ: một lý do để chuyển tuyến trước khi dùng thêm kháng sinh."
+    },
+    "cay_phan": {
+     "v": "e",
+     "r": "Cấy phân: Shigella sonnei, kháng ampicillin, co-trimoxazole và cefixime, nhạy ciprofloxacin, ceftriaxone, azithromycin (trả lời sau 48–72 giờ).",
+     "ab": 1,
+     "thay_the": "abdus",
+     "n": "Tiêu chảy phân máu, thất bại điều trị: cấy phân và kháng sinh đồ (QĐ 3312 mục 3.2; QĐ 5642 mục 4.1: điều chỉnh kháng sinh sau kết quả cấy). Mã cận lâm sàng chưa có trong danh mục (đề xuất)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nhầy máu (hội chứng lỵ, nghi Shigella) không đáp ứng điều trị: thất bại bù dịch bằng đường uống do nôn, có mất nước tiến triển, thất bại kháng sinh khởi đầu do thuốc bị nôn ra; cần chuyển tuyến để bù dịch tĩnh mạch/xét nghiệm",
+     "ok": 1,
+     "n": "Không đỡ sau 2 ngày: sốt kéo dài, đi ngoài nhiều hơn, nhầy máu nhiều hơn, nôn tái diễn, uống được < 1/3 lượng ORS, tiểu ít > 10 giờ, sụt 5% cân, li bì nhẹ, mắt trũng, mạch nhanh, nhịp thở sâu (nghi toan chuyển hóa). Thất bại với bù dịch bằng đường uống và nôn tái diễn: chỉ định nhập viện (QĐ 3312 mục 5.1, tr. 323; ESPGHAN 2014 mục 8.1, tr. 139) và bù dịch tĩnh mạch (ESPGHAN 2014 mục 8.4, tr. 140). Theo QĐ 3312 mục 3.1c: 2 dấu (li bì, mắt trũng) = mất nước nặng; bé li bì nhẹ, uống kém, nên chuyển như mất nước nặng cho an toàn."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết (biến chứng của nhiễm khuẩn xâm nhập)",
+     "n": "Phải loại trừ nhưng KHÔNG loại trừ được tại chỗ. Tiêu chuẩn SIRS nhóm > 1–5 tuổi (QĐ 3312/2015, Nhiễm trùng huyết, Bảng 1): sốt > 38,5 °C, tim > 140 l/p, thở > 22 l/p, bạch cầu > 15,5 hoặc < 6 G/L; cần ≥ 2/4, ít nhất 1 là nhiệt độ hoặc bạch cầu. Bé 38,4 °C (sát ngưỡng), thở 30 (đạt), mạch 128 (chưa > 140), li bì nhẹ, chi mát, đổ đầy mao mạch 2–3 giây; bạch cầu 17,6 G/L (đạt, nếu có kết quả – nhưng trong đêm không có) → nếu có công thức máu thì đã đủ SIRS. Các dấu này có thể do mất nước và sốt; chưa có sốc, ban xuất huyết, rối loạn đông máu, cứng cổ. Không có cấy máu, lactate, CRP trong đêm, nên chuyển tuyến sớm là cách an toàn (QĐ 4068 ô [1] mục 4)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Vẫn ít nghĩ: không cơn khóc thét, không khối, không nôn mật, bụng chỉ chướng nhẹ; siêu âm không hình bia. Tuy nhiên \"nôn tái diễn + chướng bụng\" nằm trong tiêu chí nhập viện (ESPGHAN 2014 mục 8.1: nôn dai dẳng, nghi bệnh lý ngoại khoa); tuyến nhận có phẫu thuật nhi nếu cần (WHO 2013 mục 9.4.4: chuyển tuyến nếu không ai có kinh nghiệm tháo lồng)."
+    },
+    {
+     "t": "Tả",
+     "n": "Vẫn loại: có sốt, phân nhầy máu, mót rặn; không phân nước vo gạo, số lần 10–12, không liên quan dịch (QĐ 4178 mục II.1a; QĐ 5642 mục 3.2). Mất nước tiến triển do nôn và mất dịch, không do tiêu chảy khối lượng lớn."
+    },
+    {
+     "t": "Tiêu chảy do kháng sinh/loạn khuẩn ruột (như mẹ tra mạng) là nguyên nhân thất bại điều trị",
+     "n": "Không: sai chẩn đoán (hội chứng lỵ đã rõ), đã có sốt và máu từ trước; kháng sinh chỉ có thể là yếu tố góp phần (WHO 2013 Bảng 11). Men vi sinh không giải quyết mất nước và không dùng cho hội chứng lỵ (QĐ 4068 ô [7B])."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay đến bệnh viện nhi (có xét nghiệm, bù dịch tĩnh mạch, phẫu thuật nhi); đi cùng nhân viên y tế nếu có thể",
+     "v": "c",
+     "n": "Tiêu chí chuyển (nhập viện): thất bại với bù dịch bằng đường uống, nôn tái diễn, mất nước tiến triển có li bì nhẹ, sốt/nhiễm trùng toàn thân nghi ngờ, không thể xét nghiệm tại chỗ (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN 2014 mục 8.1 tr. 139: thất bại bù dịch uống, nôn dai dẳng/mật, nghi bệnh lý ngoại khoa, điều kiện theo dõi tại nhà không đảm bảo; mục 8.4 tr. 140: IV khi cải thiện không đạt dù bù dịch uống/ống thông, nôn dai dẳng). Chuyển trước khi sốc chứ không đợi sốc: \"kịp thời\". Nếu không truyền được: chuyển lên tuyến trên để truyền dịch hoặc đặt ống thông dạ dày cho ORS 20 ml/kg/giờ (QĐ 3312 mục 4.1 Phác đồ C, tr. 322)."
+    },
+    {
+     "t": "Trước chuyển: không bỏ phí thời gian; tiếp tục cho ORS từng thìa nhỏ trên đường đi nếu bé uống được; kiểm tra tri giác, mạch, nhịp thở, tưới máu liên tục",
+     "v": "c",
+     "n": "ORS giữ vai trò đầu tay (ESPGHAN 2014 mục 8.4); nôn thì dừng 5–10 phút rồi cho uống lại chậm (QĐ 3312 mục 4.1 Phác đồ A, B). Nếu mạch quay yếu hay không bắt được: Phác đồ C tại tuyến nhận: Ringer lactate 100 ml/kg (30 ml/kg đầu trong 30 phút (bệnh nhân lớn hơn 12 tháng), 70 ml/kg trong 2 giờ 30 phút) (QĐ 3312 mục 4.1 Phác đồ C, tr. 321–322; QĐ 4068 ô [3])."
+    },
+    {
+     "t": "Không tiêm hay đổi kháng sinh tại phòng khám nếu chuyển được ngay; để tuyến nhận cấy phân, cấy máu trước khi dùng ceftriaxone",
+     "v": "c",
+     "n": "Cấy máu trước khi tiêm kháng sinh (QĐ 3312 NTH mục 2.1c, tr. 525); thất bại kháng sinh ban đầu: chuyển kháng sinh tuyến hai ceftriaxone 50–80 mg/kg/ngày × 3 ngày (WHO 2024 khuyến cáo 2 Remarks; WHO 2013 tr. 144–145; QĐ 4068: 50–100 mg/kg/ngày × 2–5 ngày). Cipro uống đã bị nôn nửa số liều."
+    },
+    {
+     "t": "Tiêm ceftriaxone ngay tại phòng khám trước khi chuyển (liều 50 mg/kg ≈ 760 mg tiêm bắp)",
+     "v": "a",
+     "n": "Chấp nhận nếu việc chuyển bị trì hoãn (không có xe, phải chờ): WHO 2013 mục 5.4 dùng ceftriaxone cho trẻ bệnh nặng hoặc tuyến hai; nhưng làm mất cơ hội cấy trước kháng sinh."
+    },
+    {
+     "t": "Bàn giao: gọi điện cho bệnh viện nhận, giao thư chuyển ghi diễn biến, thuốc đã dùng, sinh hiệu, cân nặng, thời điểm đi tiểu lần cuối, kết quả siêu âm, cam kết người đi cùng",
+     "v": "c",
+     "n": "Nội dung bàn giao theo SBAR: bối cảnh (4 tuổi, 15,2 kg, tiêu chảy phân máu 6 ngày), diễn tiến, đánh giá (mất nước tiến triển, thất bại ORS và kháng sinh), đề nghị (bù dịch tĩnh mạch, điện giải, cấy phân/máu, đổi ceftriaxone). Khung SBAR: không có trong tài liệu đã tải; nội dung theo QĐ 3312 mục 3.1a."
+    },
+    {
+     "t": "Cho thuốc cầm nôn ondansetron 1 liều trước chuyển",
+     "v": "a",
+     "n": "ESPGHAN 2014 mục 9.3.1 (tr. 144): ondansetron có thể có hiệu quả ở trẻ nhỏ nôn do viêm dạ dày ruột nhưng cần xác nhận an toàn, liều không có trong tài liệu đã tải; QĐ 3312 mục 4.5: không sử dụng thuốc cầm nôn, cầm đi ngoài (2015). Chấp nhận, không phải đáp án chính; ondansetron làm tăng lượng phân (ESPGHAN 2014)."
+    },
+    {
+     "t": "Cho men vi sinh liều cao hoặc thuốc cầm tiêu rồi về nhà theo dõi, hẹn tái khám 24 giờ",
+     "v": "w",
+     "n": "Sai: thất bại bù dịch uống + nôn + li bì = chỉ định nhập viện (QĐ 3312 mục 5.1; ESPGHAN 2014 mục 8.1); cầm tiêu có thể làm bệnh nặng hơn (WHO 2013 tr. 145; ESPGHAN 2014 mục 9.3.2); probiotics không dùng khi có hội chứng lỵ (QĐ 4068 ô [7B])."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nhầy máu (hội chứng lỵ, nghi Shigella) ngày thứ 6, THẤT BẠI điều trị ngoại trú",
+     "Mất nước tiến triển (sụt 5% cân, mắt trũng, li bì nhẹ, tiểu ít, mạch nhanh), có thể toan chuyển hóa và hạ kali (chưa có xét nghiệm)",
+     "Nguyên nhân thất bại: bù dịch uống thất bại do nôn và thuốc kháng sinh uống bị nôn ra; cefixime ban đầu không thích hợp; KHÔNG do sai chẩn đoán, KHÔNG do không tuân thủ",
+     "Đã loại trừ lâm sàng Tả, Lồng ruột; Nhiễm khuẩn huyết chưa loại trừ được tại chỗ nên cần chuyển tuyến"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm khi tái khám không đỡ: (1) Hỏi diễn tiến theo chức năng (số lần đi ngoài/nôn, lượng ORS thực uống, nước tiểu lần cuối, tri giác), hỏi tuân thủ và số liều thuốc bị nôn ra. (2) Cân lại, khám tri giác, mất nước, tưới máu, bụng. (3) Cận lâm sàng: siêu âm bụng tại chỗ; các xét nghiệm máu và phân chỉ có sau nhiều giờ nên không chờ. (4) Chạy quy trình thất bại điều trị. (5) Quyết định chuyển tuyến.",
+     "Quy trình thất bại điều trị: Sai chẩn đoán? Không: phân nhầy máu, sốt, mót rặn vẫn là hội chứng lỵ; loại trừ lồng ruột bằng bụng mềm, không khối, không cơn khóc, siêu âm không hình bia; tả loại trừ ở trên. Sai thuốc hoặc kháng thuốc? Có thể: cefixime không đủ phủ Shigella (WHO 2013 tr. 144); ciprofloxacin mới uống trọn 2/4 liều, chưa đủ 2 ngày điều trị đầy đủ để kết luận kháng. Không tuân thủ? Không: mẹ làm đúng, bé nôn. Biến chứng? Có: mất nước tiến triển, nghi toan chuyển hóa, hạ kali, và nguy cơ nhiễm khuẩn huyết.",
+     "Phân loại mất nước: tại QĐ 3312 mục 3.1c, mất nước nặng khi có hai dấu trong: li bì, mắt trũng, không uống được hoặc uống kém, nếp véo da mất rất chậm. Bé có li bì nhẹ, mắt trũng rõ, uống kém: xếp mất nước nặng hoặc sát ngưỡng. Phác đồ C cần bù tĩnh mạch (QĐ 3312 mục 4.1) nên không thể làm tại phòng khám ngoài giờ không kỹ thuật viên.",
+     "Nhiễm khuẩn huyết: không thể loại trừ vì không có cấy máu, CRP, lactate trong đêm; dấu hiệu lâm sàng có thể do mất nước. Đây là lý do thứ hai khiến phải chuyển tuyến sớm và không dùng kháng sinh mới trước khi lấy cấy (QĐ 3312 NTH mục 2.1c)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay vì: (a) đã thất bại bù dịch bằng đường uống, (b) nôn tái diễn không uống thuốc được, (c) mất nước tiến triển có rối loạn tri giác nhẹ, (d) nghi nhiễm trùng toàn thân không loại trừ được, (e) không thể làm điện giải, đường huyết, khí máu, cấy máu/phân trong đêm (QĐ 3312 mục 5.1; ESPGHAN 2014 mục 8.1, 8.4).",
+     "Chuẩn bị trước chuyển: cân nặng; ORS từng thìa nhỏ nếu uống được; theo dõi tri giác, mạch, nhịp thở, tưới máu (đổ đầy mao mạch, nhiệt độ chi), nước tiểu lần cuối; ghi giờ liều ciprofloxacin cuối và số liều bị nôn; lấy mẫu phân nếu bé đi ngoài trước khi đi (bảo quản mẫu: không có trong tài liệu đã tải); không tiêm kháng sinh mới nếu chuyển được ngay (để cấy trước), trừ khi chuyển bị trì hoãn.",
+     "Vận chuyển an toàn: xe có nhân viên y tế nếu có; mẹ đi cùng; nằm nghiêng đầu cao thấp để tránh sặc khi nôn; mang theo thư chuyển, cân nặng, thuốc đã dùng, thời điểm tiểu cuối. An toàn vận chuyển nhi: không có trong tài liệu đã tải.",
+     "Bàn giao: gọi điện cho khoa Nhi/cấp cứu nhận bệnh, nêu SBAR (bối cảnh, diễn tiến, đánh giá, đề nghị). Đề nghị tuyến nhận: bù dịch tĩnh mạch theo Phác đồ C hoặc 20 ml/kg/giờ NaCl 0,9% 2–4 giờ (ESPGHAN 2014 mục 8.5), điện giải đồ/khí máu/đường huyết/CTM/CRP/cấy máu/cấy phân, ceftriaxone sau khi cấy (WHO 2024 khuyến cáo 2 Remarks), kẽm tiếp tục khi hết nôn, hội chẩn ngoại nhi nếu chướng bụng tăng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol giảm thẩm thấu (ORS)",
+      "ham_luong": "1 gói pha theo hướng dẫn trên gói",
+      "lieu": "Từng thìa nhỏ (5–10 ml), tăng dần",
+      "duong": "Uống",
+      "thoi_diem": "Trong lúc chờ xe và trên đường chuyển, nôn thì nghỉ 5–10 phút rồi cho uống chậm lại",
+      "so_ngay": "Đến khi tuyến nhận bù dịch tĩnh mạch",
+      "ghi_chu": "QĐ 3312 mục 4.1 Phác đồ A, B (nôn: dừng 10 phút rồi cho uống chậm); ESPGHAN 2014 mục 8.4: ORS đầu tay, chuyển sang IV khi có chỉ định."
+     },
+     {
+      "thuoc": "Dịch truyền tĩnh mạch (Ringer lactate hoặc NaCl 0,9%)",
+      "ham_luong": "Theo chỉ định tuyến nhận",
+      "lieu": "Do tuyến nhận quyết định. Nếu mất nước nặng: 100 ml/kg Ringer lactate (30 ml/kg đầu tiên trong 30 phút, 70 ml/kg trong 2 giờ 30 phút cho trẻ > 12 tháng); không sốc: ESPGHAN 20 ml/kg/giờ NaCl 0,9% trong 2–4 giờ",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Khi đến bệnh viện nhi",
+      "so_ngay": "Đến khi uống được",
+      "ghi_chu": "QĐ 3312 mục 4.1 Phác đồ C (tr. 321–322); ESPGHAN 2014 mục 8.5 (tr. 140). Không bắt buộc kê tại phòng khám."
+     },
+     {
+      "thuoc": "Ceftriaxone (kháng sinh tuyến hai) — dành cho tuyến nhận",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "50–80 mg/kg/ngày (≈ 760–1.200 mg/ngày với 15,2 kg), 1 lần/ngày",
+      "duong": "Tiêm bắp hoặc tĩnh mạch",
+      "thoi_diem": "Sau khi lấy cấy máu và cấy phân",
+      "so_ngay": "3 ngày (QĐ 4068: 2–5 ngày)",
+      "ghi_chu": "WHO 2024 khuyến cáo 2 Remarks (50–80 mg/kg/ngày × 3 ngày); WHO 2013 mục 5.4; QĐ 4068 (50–100 mg/kg/ngày). Tuyến nhận quyết định; không tiêm tại phòng khám nếu chuyển ngay."
+     },
+     {
+      "thuoc": "Kẽm gluconate",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "20 mg kẽm nguyên tố/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi bé hết nôn",
+      "so_ngay": "10–14 ngày",
+      "ghi_chu": "QĐ 3312/2015 mục 4.3; 5 mg/ngày chấm a (WHO 2024 3c chỉ cho tiêu chảy phân nước). Kẽm làm tăng nôn (WHO 2024): dùng khi hết nôn."
+     }
+    ],
+    "dan_do": [
+     "Giải thích với mẹ: bé đang mất nước nhiều hơn khả năng uống bù, uống thuốc cũng bị nôn ra, bé cần được truyền dịch và xét nghiệm máu, phân ngay trong bệnh viện; đây là biện pháp an toàn, không phải mẹ chăm sai.",
+     "Mẹ không cần tự cho thêm kháng sinh, thuốc cầm tiêu, men vi sinh, thực phẩm chức năng trước khi bệnh viện khám (WHO 2013 tr. 145).",
+     "Chuyển ngay, không chờ đến sáng mai; không cho bé ăn uống nhiều một lúc, chỉ cho ORS từng thìa nhỏ; nếu bé co giật, li bì nhiều hơn, thở nhanh hoặc tím, khóc thét từng cơn hoặc nôn mật thì báo ngay nhân viên đi cùng.",
+     "Mang theo: hộp thuốc đã dùng (cefixime, ciprofloxacin, siro thực phẩm chức năng), thư chuyển, sổ tiêm chủng. Nói với bác sĩ bệnh viện chính xác: bé có máu trong phân từ hôm thứ Sáu, són phân, uống kháng sinh nào và nôn ra mấy liều.",
+     "Khi về: tiếp tục ORS, ăn lại sớm bữa thường ngày, kẽm đủ ngày, rửa tay, nghỉ học đến khi hết tiêu chảy, tái khám sau xuất viện theo hẹn (QĐ 3312 mục 4.4, 6; QĐ 4068 ô [8])."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được chuyển bằng xe cứu thương tới bệnh viện nhi tỉnh sau 40 phút, mẹ đi cùng, thư chuyển và SBAR qua điện thoại. Tại đây bé được bù dịch tĩnh mạch Ringer lactate; điện giải: Na 132, K 3,2, HCO3 14 mmol/L; cấy máu âm tính; cấy phân: Shigella sonnei, kháng cefixime, nhạy ciprofloxacin và ceftriaxone. Bé điều trị ceftriaxone 3 ngày, bù kali, hết sốt sau 36 giờ, ăn lại ngày thứ 3, ra viện sau 4 ngày với kẽm 5 mg/ngày (đủ 10–14 ngày). Mẹ nói: \"Em cứ sợ nói ra là bé bị lỵ thì cô giáo cho nghỉ, giờ mới biết nói sớm bé đỡ khổ.\" Bé khỏe, đi học lại sau 7 ngày.",
+ "nhieu": [
+  "Mẹ mang chẩn đoán tự tra trên mạng (\"loạn khuẩn ruột do kháng sinh\") và đòi men vi sinh liều cao, thuốc cầm tiêu: có một phần đúng (kháng sinh có thể gây tiêu chảy), nhưng không giải thích sốt, nhầy máu và mót rặn; kháng sinh dùng sau khi tiêu chảy đã bắt đầu.",
+  "Mẹ giấu phân có nhầy máu và việc bé són phân ở lớp vì ngại và sợ bạn bè chê: thông tin then chốt chỉ hiện khi hỏi riêng, thăm trực tràng hoặc hỏi thẳng bé.",
+  "Thực phẩm chức năng \"men tiêu hóa, kẽm\" là yếu tố khởi phát đáng nghi nhưng không giải thích sốt, nhầy máu: red herring.",
+  "Kháng sinh cefixime đã dùng 3 ngày làm mẹ tin \"đã trị rồi mà không khỏi\": thực ra loại kháng sinh không phù hợp với tiêu chảy phân máu."
+ ],
+ "bai_hoc_bien": [
+  "Mẹ mang chẩn đoán tự tra trên mạng: ghi nhận phần đúng, hỏi lại từ đầu như chưa có chẩn đoán nào; không hạ thấp mẹ nhưng không theo yêu cầu thuốc không có chỉ định (men vi sinh, thuốc cầm tiêu).",
+  "Giấu triệu chứng vì ngại: hỏi riêng về nhầy máu, nói rõ \"nhiều bé bị, không có gì xấu hổ\", hỏi thẳng bé, xin xem quần lót/tã, thăm trực tràng. Phân máu đổi cả hướng điều trị: kháng sinh (WHO 2024 khuyến cáo 2) so với không kháng sinh cho phân nước (khuyến cáo 1a).",
+  "Tiêu chảy nhưng có sốt, phân nhầy máu, mót rặn: nghĩ hội chứng lỵ; cefixime không phải lựa chọn; ciprofloxacin 15 mg/kg × 2 × 3 ngày theo QĐ 3312/WHO 2024.",
+  "Tiêu chảy kèm kháng sinh dùng trước đó: xem thời gian khởi phát (tiêu chảy trước kháng sinh), không vội quy cho kháng sinh.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị (sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng); ở đây thất bại là do nôn không bù dịch và uống thuốc được.",
+  "Chuyển tuyến kịp thời: tiêu chí (thất bại bù dịch uống, nôn dai dẳng, mất nước tiến triển, nghi nhiễm khuẩn toàn thân, không xét nghiệm được); chuẩn bị trước chuyển (ORS từng thìa, theo dõi, không đổi kháng sinh trước khi cấy nếu chuyển ngay); bàn giao SBAR."
+ ],
+ "diem_nho": [
+  "Tiêu chảy: phân lỏng hoặc toé nước ≥ 3 lần/24 giờ; cấp: không quá 14 ngày (QĐ 3312 Tiêu chảy cấp mục 1, tr. 316).",
+  "Phân loại mất nước trẻ 2 tháng–5 tuổi: nặng (2 trong: li bì/khó đánh thức, mắt trũng, không uống được/uống kém, nếp véo da mất rất chậm); có mất nước (2 trong: vật vã/kích thích, mắt trũng, khát uống háo hức, nếp véo da mất chậm) (QĐ 3312 mục 3.1c, tr. 318).",
+  "Phác đồ B: ORS 75 ml/kg trong 4 giờ, đánh giá lại sau 4 giờ (QĐ 3312 mục 4.1, tr. 321; QĐ 4068 ô [4]).",
+  "Phác đồ C: Ringer lactate 100 ml/kg; trên 12 tháng: 30 ml/kg trong 30 phút rồi 70 ml/kg trong 2 giờ 30 phút (QĐ 3312 mục 4.1, tr. 321–322).",
+  "Kháng sinh trong tiêu chảy: chỉ khi phân máu, nghi tả, Giardia, nhiễm khuẩn khác kèm (QĐ 3312 mục 4.2, tr. 322); WHO 2024 khuyến cáo 1a: không kháng sinh cho tiêu chảy nước; khuyến cáo 2: kháng sinh khi có máu trong phân (mạnh).",
+  "Ciprofloxacin 15 mg/kg/lần × 2 lần/ngày × 3 ngày; ceftriaxone 50–80 mg/kg/ngày × 3 ngày tuyến hai (WHO 2024 khuyến cáo 2 Remarks; QĐ 3312 mục 4.2).",
+  "Kẽm: lỵ ở trẻ ≥ 6 tháng dùng 20 mg/ngày × 10–14 ngày (QĐ 3312/2015 mục 4.3); liều 5 mg/ngày của WHO 2024 (3c) dành cho tiêu chảy phân nước hoặc kéo dài.",
+  "Chỉ định nhập viện: mất nước nặng/sốc, thần kinh, nôn tái diễn hay nôn mật, thất bại bù dịch uống, nhiễm trùng toàn thân, cha mẹ không đảm bảo uống đủ nước (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN 2014 mục 8.1, tr. 139).",
+  "Lồng ruột: khóc từng cơn, xanh xao, nôn, khối ở bụng, phân thạch nho; thường < 2 tuổi nhưng có thể trẻ lớn (WHO 2013 mục 9.4.4, tr. 284; Bảng 11, tr. 127)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp mục 1, 2.1, 3.1–3.2, 4.1–4.5, 5.1–5.2 (tr. 316–324); Nhiễm trùng huyết mục 2.1–2.3 (tr. 524–525); Sốt mục 4.2.1.4 (paracetamol); xuất huyết tiêu hóa dưới (nguyên nhân lồng ruột)",
+  "QĐ 4068/QĐ-BYT – Bộ Y tế, Quy trình chuyên môn chẩn đoán, điều trị, chăm sóc tiêu chảy cấp ở trẻ em (tệp kho cũ ghi 2024, bản chữ ghi \"Phiên bản 1.0, …/2016\" nên năm ban hành chưa xác định) – tltk-10000-ca/03 Nhi ngoại trú/BYT – ĐÃ ĐỌC: lưu đồ CP-01 ô [1] tình huống cần phân biệt, [2]–[4] mất nước và phác đồ, [6] chỉ định cận lâm sàng, kháng sinh, [7]–[7B] kẽm/probiotics/racecadotril/diosmectite, [8] tiêu chuẩn ngoại trú; trang 2/3 các biến đổi chấp nhận được",
+  "QĐ 5642/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh tiêu chảy do vi khuẩn mục 3.1–3.4, 4.1–4.2 (tr. 73–76)",
+  "QĐ 4178/QĐ-BYT 2007 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a (lâm sàng tả)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 2, khuyến cáo 1a, 2, 3a, 3c, 4a, 5 và Remarks (tr. xi, 19–21)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 5.1 Bảng 11 (tr. 127), mục 5.2 Phác đồ A, B, C (tr. 131–138) và kẽm (tr. 133–134), mục 5.4 Dysentery (tr. 144–145), mục 9.4.4 Intussusception (tr. 284)",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 8.1 chỉ định nhập viện (tr. 139), 8.4–8.5 bù dịch tĩnh mạch (tr. 140), 9.3.1–9.3.3 thuốc cầm nôn/loperamide/diosmectite (tr. 144), 9.4 kháng sinh, Bảng 7 (tr. 147–148)",
+  "ESPGHAN 2023 – Szajewska H, et al. Probiotics for the management of pediatric gastrointestinal disorders – TL-0258 – ĐÃ ĐỌC: viêm dạ dày ruột cấp, dự phòng tiêu chảy do kháng sinh (khuyến cáo LGG, S. boulardii ≥ 5 tỷ CFU/ngày)",
+  "NICE NG143 2021 – Fever in under 5s: assessment and initial management – TL-0262 – mục 1.6.1–1.6.5 (dùng theo sổ mâu thuẫn, mục hạ sốt ở trẻ)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-11: viết bản 1 theo sổ cái NH-0435 (lô 35, thứ tự 6); số lượt 2, không đỡ, chuyển tuyến kịp thời, ngoài giờ không kỹ thuật viên (khoa_cls nhom xn: kéo theo X-quang, CT, nội soi; siêu âm bụng bác sĩ tự làm được), mang chẩn đoán tự tra mạng, giấu phân nhầy máu vì ngại, khởi phát sau thực phẩm chức năng, kháng sinh (cefixime) 3 ngày.",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp, Nhiễm trùng huyết); QĐ 4068 lưu đồ (kho cũ); TL-0038 (Tiêu chảy do vi khuẩn); TL-0176; TL-0245; TL-0250; TL-0268; TL-0258.",
+  "Chỗ không có trong tài liệu đã tải: dạng bào chế ciprofloxacin cho trẻ; liều tối đa/ngày và ngưỡng sốt dùng paracetamol; liều ondansetron; thành phần và mối liên quan tiêu chảy của thực phẩm chức năng; tiêu chuẩn chẩn đoán C. difficile ở trẻ em; tiêu chuẩn siêu âm lồng ruột (TL-0056 chưa có toàn văn); thời gian nghỉ học; khung SBAR; an toàn vận chuyển nhi; bảo quản mẫu phân.",
+  "Mã cận lâm sàng đề xuất mới: cay_phan (soi phân, cấy phân); xem NH-0435_de_xuat_danh_muc.json."
+ ]
+}
