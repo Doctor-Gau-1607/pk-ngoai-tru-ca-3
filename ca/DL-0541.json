@@ -1,0 +1,544 @@
+{
+ "ma_ca": "DL-0541",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_vay_nen_the_mang",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Vảy nến",
+  "chan_doan_phai_loai_tru": [
+   "Viêm da tiết bã",
+   "Nấm da",
+   "Lupus"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Lập trình viên",
+  "yeu_to_khoi_phat": "Sau dùng thuốc chống viêm không steroid (NSAID)",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khoa",
+  "tuoi": 28,
+  "gioi": "Nam",
+  "nghe": "Lập trình viên (phần mềm), ngồi máy tính 10–12 giờ/ngày, hay tì hai khuỷu tay lên mặt bàn",
+  "can_nang": 68,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh' (hoặc 'em' nếu bác sĩ lớn tuổi hơn). Anh xưng 'em', gọi 'bác sĩ'.",
+  "tinh_cach": "Lý trí, nói nhanh, hay chen thuật ngữ tiếng Anh ('flare', 'trigger', 'biologic'). Đã đọc nhiều bài trên mạng và hội nhóm người bệnh, chụp ảnh tổn thương theo từng ngày trong điện thoại, ghi sẵn danh sách câu hỏi. Lịch sự nhưng hay phản biện bằng 'em đọc thấy…'. Ngầm lo sợ lupus và sợ phải dùng thuốc suốt đời. Hiểu biết y khoa khá, tin số liệu, không thích bị nói 'đừng tin mạng'.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mở đầu bằng khẳng định mình bị vảy nến do thuốc giảm đau phòng khám kê lần trước, đòi xét nghiệm ANA và 'tầm soát tự miễn' cho chắc không phải lupus, rồi xin thuốc sinh học 'tiêm cho sạch hẳn' như hội nhóm khoe. Nếu bác sĩ gạt đi ('mạng nói linh tinh') thì anh phòng thủ, trả lời cộc lốc, chỉ trả lời đúng câu được hỏi. Nếu bác sĩ ghi nhận phần anh tra đúng rồi giải thích bằng tiêu chí cụ thể thì anh hợp tác, kể thêm chi tiết. Anh không coi thuốc bắc là 'thuốc' nên hỏi chung 'đang uống thuốc gì' chỉ trả lời 'hết thuốc giảm đau rồi ạ'.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e2b48f",
+   "toc": "#1a1411",
+   "kieuToc": "ngan",
+   "ao": "#3b4a5a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mảng đỏ bong vảy ở khuỷu tay, cẳng chân; tự tra mạng là vảy nến",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Minh Khoa, 28 tuổi, lập trình viên, đến vì các mảng đỏ bong vảy ở hai khuỷu tay và hai cẳng chân, nhiều lên khoảng 2 tuần nay. Có hồ sơ khám tại phòng khám 3 tuần trước (đau thắt lưng). Sinh hiệu: mạch 78 l/p, HA 122/76 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 68 kg, chiều cao 172 cm.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Em tra kỹ rồi, em bị vảy nến, mà là do thuốc giảm đau bên mình kê lần trước đấy ạ. Em muốn làm xét nghiệm ANA với mấy cái tự miễn cho chắc không phải lupus, rồi bác sĩ cho em thuốc sinh học luôn được không ạ?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "122/76",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai khuỷu tay và hai cẳng chân có những mảng đỏ, bong vảy trắng, ngứa nhẹ. Khoảng 2 tuần nay mảng ở cẳng chân mọc thêm, mảng ở khuỷu to ra. Anh tra mạng và tin là vảy nến.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tổn thương chính"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mảng ở khuỷu tay có từ khoảng 2 năm, nhỏ bằng đồng xu, sần, bong vảy; anh tưởng là chai do tì tay lên bàn làm việc nên kệ. Khoảng 2 tuần nay mảng khuỷu to ra, đỏ hơn; hai cẳng chân mọc thêm 5–6 mảng tròn, to dần từ hạt đậu lên cỡ đồng xu. Vảy trắng, khô, dày, gãi ra thì bong từng lớp như vụn sáp nến. Không chảy dịch, không có mụn nước, không mụn mủ, không đau rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, tính chất vảy (mạn tính, có từ trước khi dùng thuốc giảm đau)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Ba tuần trước anh khám đau thắt lưng ở phòng khám này sau khi khuân đồ chuyển nhà, được kê meloxicam 7,5 mg uống 2 viên/ngày trong 7 ngày và thuốc giãn cơ. Uống đủ 7 ngày, hết đau lưng từ ngày thứ 5. Khoảng 8–10 ngày sau khi bắt đầu thuốc thì thấy các mảng ở cẳng chân. Anh đọc trên mạng 'thuốc giảm đau làm bùng vảy nến' nên tin là do thuốc. Hiện không còn uống thuốc giảm đau.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Thuốc chống viêm không steroid trước đợt bùng (yếu tố khởi phát theo sổ cái)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra hôm nay là ngày hẹn tái khám lưng (bác sĩ lần trước dặn 3 tuần quay lại kiểm tra), phòng khám nhắn tin nhắc lịch nên anh mới đến. Nếu không có hẹn thì anh định đặt mua 'kem bôi vảy nến' theo hội nhóm trên mạng chứ không đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh không tự kể. Chỉ nói khi bác sĩ hỏi vì sao hôm nay đến, có hẹn tái khám không, lần khám trước dặn gì, hoặc hỏi về đau lưng hiện giờ.",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn (phải khép lại cả vấn đề đau thắt lưng)"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Mẹ ở quê gửi lên thuốc bắc dạng viên hoàn đen, đựng trong túi ni lông không nhãn, mua của một ông lang, nói là 'bổ thận, mạnh gân cốt, chữa đau lưng'. Anh uống ngày 2 lần, mỗi lần 10 viên, được 2 tuần, vẫn đang uống. Không biết thành phần. Không thấy ăn ngon bất thường, không tăng cân, mặt không tròn ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc bắc không rõ thành phần (chỉ kể khi hỏi cụ thể thuốc nam, thuốc bắc, thực phẩm chức năng)"
+    },
+    {
+     "id": "da_dau",
+     "noi_dung": "Từ hồi sinh viên đã bị 'gàu' ở gáy, gội dầu trị gàu không hết hẳn. Hai tuần nay vùng gáy dày lên, bong vảy nhiều, ngứa nhẹ. Không rụng tóc thành mảng. Mặt, lông mày, cánh mũi không bong vảy, không nhờn đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Da đầu (phân biệt viêm da dầu, nấm da đầu)"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Không đau, không sưng khớp ngón tay, ngón chân, cổ tay, gối; không có ngón sưng to cả ngón; không đau gót, không đau gân gót. Đau lưng lần trước xuất hiện ngay sau khuân đồ, đau khi cúi, nghỉ thì đỡ, không cứng lưng buổi sáng, không đau về đêm; nay hết hẳn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát viêm khớp vảy nến; đau lưng kiểu cơ học"
+    },
+    {
+     "id": "lupus_tc",
+     "noi_dung": "Không sốt, không sụt cân, không mệt kéo dài. Không ban đỏ hai má, không nổi ban sau khi đi nắng (anh làm trong phòng, các mảng không nặng hơn sau khi ra nắng). Không loét miệng, không rụng tóc, không đau ngực khi hít sâu, không phù, nước tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân, ánh nắng, niêm mạc, tóc (loại trừ lupus)"
+    },
+    {
+     "id": "nam_da",
+     "noi_dung": "Không nuôi chó mèo. Đá bóng mỗi tuần, ra nhiều mồ hôi. Mảng không lành ở giữa, bờ không mụn nước. Không ngứa bẹn, không bong da kẽ chân. Tuần đầu tưởng nấm nên tự mua kem trị nấm (không nhớ tên) bôi 5 ngày, không thay đổi, tra tiếp mới ra vảy nến. Chưa bôi thuốc có corticoid, chưa bôi 'kem trộn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ và thuốc bôi đã dùng (loại trừ nấm da)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố anh 58 tuổi bị 'á sừng' ở khuỷu tay và đầu gối nhiều năm, thỉnh thoảng bôi thuốc mỡ ở trạm y tế xã; chưa ai nói là vảy nến.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình (yếu tố di truyền)"
+    },
+    {
+     "id": "chat_luong_song",
+     "noi_dung": "Ngứa nhẹ, chủ yếu buổi tối, không gãi đến trầy. Ngại mặc áo cộc tay, quần đùi; nghỉ đá bóng 2 tuần nay vì sợ người khác nhìn. Không ảnh hưởng công việc, không mất ngủ, bạn gái không ngại. Nếu bác sĩ dùng bộ câu hỏi DLQI thì tổng điểm 6.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ảnh hưởng chất lượng cuộc sống (DLQI) để xếp mức độ"
+    },
+    {
+     "id": "stress",
+     "noi_dung": "Ba–bốn tuần nay chạy hạn chót phát hành phần mềm, thức tới 2 giờ sáng, ngủ khoảng 5 tiếng, uống 3–4 ly cà phê mỗi ngày; cùng lúc chuyển nhà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố thuận lợi khác: stress"
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Trong 1–2 tháng trước không đau họng, không sốt, không viêm amidan.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễm khuẩn trước đợt bùng (thể giọt)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe mạnh, không tăng huyết áp, không đái tháo đường, không bệnh gan. Không dị ứng thuốc. Không hút thuốc lá; uống bia 2–3 lon mỗi tuần. Chưa từng được chẩn đoán bệnh da.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Muốn 'tiêm thuốc sinh học một lần cho sạch hẳn' như người trong hội nhóm khoe; muốn xét nghiệm ANA, 'tầm soát tự miễn toàn bộ'. Lo nhất: sợ là lupus vì đọc thấy lupus cũng có mảng bong vảy giống vảy nến; sợ phải dùng thuốc suốt đời.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn và nỗi lo (nhiễu: chẩn đoán tự tra)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Mặt duỗi hai khuỷu: mỗi bên một mảng đỏ hồng ranh giới rõ khoảng 4 × 5 cm, vảy trắng khô dễ bong. Mặt trước – ngoài hai cẳng chân: 5–6 mảng tròn 1–3 cm, nền đỏ, vảy trắng đục dày nhiều lớp, viền đỏ ngoại vi, vài sẩn nhỏ cùng tính chất. Không mụn nước, mụn mủ, không lành giữa, không teo, không sẹo, không vết gãi trầy. Gáy sát chân tóc: mảng đỏ ranh giới rõ 3 × 4 cm, vảy trắng dày, tóc không rụng. Móng: 4–5 chấm lõm trên móng ngón II, III tay phải (rỗ móng), không tách móng. Cạo vảy Brocq (nếu làm): vảy bong lớp trắng như sáp nến, màng bong, điểm rớm máu (Auspitz) – dương tính. BSA ước (một bàn tay ≈ 1%): khoảng 4%.",
+     "k": 1,
+     "hien": "Mặt duỗi hai khuỷu tay: mỗi bên một đám tổn thương khoảng 4 × 5 cm (ảnh 1). Mặt trước – ngoài hai cẳng chân: 5–6 tổn thương tròn đường kính 1–3 cm và vài tổn thương nhỏ vài mm (ảnh 2). Gáy, sát chân tóc: một đám khoảng 3 × 4 cm, đỏ, ranh giới rõ, phủ vảy trắng dày; tóc không rụng. Móng tay: 4–5 chấm lõm nhỏ trên móng ngón II, III tay phải; không tách móng. Mặt, lông mày, rãnh mũi má, vành tai, nếp bẹn, nách: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Khuỷu tay (mặt duỗi)",
+       "id": "HA-DA-0003",
+       "chu": "Mảng đỏ hồng ranh giới rõ, khoảng 4 × 5 cm, phủ vảy trắng mịn khô ở mặt duỗi khuỷu tay."
+      },
+      {
+       "vi_tri": "Cẳng chân (mặt trước – ngoài)",
+       "id": "HA-DA-0004",
+       "chu": "Nhiều mảng tròn 1–3 cm, nền đỏ, phủ vảy trắng đục dày nhiều lớp, viền đỏ ngoại vi; vài sẩn nhỏ cùng tính chất."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Mặt không có ban đỏ hai má, không mảng đỏ có vảy dính, không teo da, không sẹo; lông mày, rãnh mũi má, vành tai và rãnh sau tai không đỏ, không vảy nhờn. Da đầu: chỉ có mảng ở gáy như mô tả ở khám da, vùng trán – thái dương – đỉnh sạch; không rụng tóc. Không sờ thấy hạch cổ. Tuyến giáp không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp bàn ngón, liên đốt gần và xa ở tay chân, cổ tay, khuỷu, gối, cổ chân không sưng, không nóng, không đau. Không có ngón sưng toàn bộ (khúc dồi). Gân gót và điểm bám gân gan chân không đau. Cột sống thắt lưng không điểm đau, cúi – ngửa bình thường, không co cứng cơ cạnh sống.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng, khẩu cái cứng không loét, không dát đỏ. Lưỡi bình thường. Họng không đỏ, amidan không to.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. BMI ≈ 23 kg/m². Vòng eo 80 cm. Da niêm hồng, không phù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "u",
+     "r": "5,1 mmol/L",
+     "bang": {
+      "glu": 5.1
+     },
+     "n": "Nên làm: QĐ 4416 (Vảy nến thể thông thường mục 2.2) đưa glucose vào xét nghiệm tầm soát rối loạn chuyển hóa ở người vảy nến; mục 3.1: tầm soát bệnh chuyển hóa."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 4,8 · LDL-C 2,9 · HDL-C 1,2 · TG 1,5 mmol/L",
+     "n": "Nên làm: mỡ máu nằm trong nhóm tầm soát rối loạn chuyển hóa (QĐ 4416, Vảy nến mục 2.2, 3.1)."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 22 · ALT 25 U/L",
+     "n": "Chấp nhận: QĐ 4416 (Vảy nến mục 2.2) liệt kê AST, ALT trong xét nghiệm máu để tầm soát và theo dõi điều trị; ca chỉ dùng thuốc bôi nên không bắt buộc, nhưng hợp lý vì đang uống thuốc bắc không rõ thành phần."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,9 G/L · Neutrophil 58% · Lympho 32% · Hb 152 g/L · TC 265 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 58,
+      "lym_pct": 32,
+      "hgb": 152,
+      "plt": 265
+     },
+     "n": "Chấp nhận: QĐ 4416 (Vảy nến mục 2.2) có công thức máu trong nhóm xét nghiệm tầm soát và theo dõi điều trị; ca điều trị bôi tại chỗ nên không bắt buộc."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 114 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 114
+     },
+     "n": "Chấp nhận: có trong danh sách của QĐ 4416 (Vảy nến mục 2.2), cần khi tính tới thuốc toàn thân; ca này chưa có chỉ định thuốc toàn thân."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "5,2%",
+     "n": "Chấp nhận: QĐ 4416 (Vảy nến mục 2.2) chỉ ghi glucose; HbA1c thay hoặc thêm vào không gây hại, không bắt buộc."
+    },
+    "crp": {
+     "r": "2 mg/L",
+     "n": "Không cần: không có viêm khớp; CRP tăng trong giai đoạn viêm khớp cấp của viêm khớp vảy nến (QĐ 361/2014, Viêm khớp vảy nến mục 2.2)."
+    },
+    "acid_uric": {
+     "r": "350 µmol/L",
+     "n": "Không cần: acid uric có thể tăng khi tổn thương da nặng và lan tỏa (QĐ 361/2014, Viêm khớp vảy nến mục 2.2); ca này mức độ nhẹ, không đau khớp."
+    },
+    "test_lien_cau": {
+     "r": "Âm tính",
+     "n": "Không cần: ASLO hay nuôi cấy ngoáy họng chỉ đặt ra ở vảy nến thể giọt (QĐ 4416, Vảy nến mục 2.2); ca này thể mảng, không đau họng."
+    },
+    "cxr": {
+     "r": "Tim phổi bình thường",
+     "n": "Không cần: X-quang ngực để tầm soát lao trước khi dùng thuốc sinh học (QĐ 4416, Vảy nến mục 2.2); ca nhẹ, không có chỉ định thuốc sinh học."
+    },
+    "ua": {
+     "n": "Không cần: không phù, không triệu chứng gợi ý tổn thương thận do lupus."
+    },
+    "tsh": {
+     "n": "Không có triệu chứng tuyến giáp; không có trong danh sách xét nghiệm của QĐ 4416 (Vảy nến mục 2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Vảy nến thể thông thường – thể mảng, mức độ nhẹ (BSA ≈ 4%, PASI ước < 10, DLQI 6), có tổn thương da đầu vùng gáy và rỗ móng, đang đợt bùng phát; chưa có biểu hiện viêm khớp vảy nến",
+     "ok": 1,
+     "n": "Mảng đỏ ranh giới rõ, vảy trắng dày dễ bong ở vị trí tỳ đè, mặt duỗi (khuỷu, cẳng chân), có khuynh hướng đối xứng, kèm rỗ móng (QĐ 4416, Vảy nến mục 2.1); chẩn đoán chủ yếu dựa vào lâm sàng (mục 2.3); Brocq dương tính (QĐ 75/2015, Bệnh vảy nến mục 3c). Nhẹ: PASI < 10, DLQI < 10, BSA < 10 (QĐ 4416 mục 2.5 và sơ đồ điều trị; S3 2026 khuyến cáo II-1). ICD-10 L40.0 (TL-0001, Phụ lục ICD-10)."
+    },
+    {
+     "t": "Viêm da dầu (viêm da tiết bã)",
+     "n": "Vảy trắng mỏng hoặc vảy mỡ vàng ở trán, thái dương, đỉnh, lông mày, rãnh mũi má, sau tai, nếp gấp (QĐ 4416, Viêm da dầu mục 2.1.2). Anh: vảy trắng dày ranh giới rõ ở gáy, mặt sạch, kèm mảng mặt duỗi, rỗ móng. Vảy nến đứng đầu chẩn đoán phân biệt của viêm da dầu người lớn (mục 2.3.2)."
+    },
+    {
+     "t": "Nấm da (nấm thân)",
+     "n": "Nấm sợi: mảng tròn hay nhiều cung, lành giữa, lan ra ngoại vi, ngứa nhiều, có thể mụn nước (QĐ 4416, Bệnh da do nấm sợi mục 2.1). Anh: không lành giữa, bờ không mụn nước, vảy dày khắp mặt mảng, đối xứng, kèm da đầu, móng. Soi tươi (mục 2.2) chấp nhận nếu còn nghi (danh mục chưa có)."
+    },
+    {
+     "t": "Lupus ban đỏ (dạng đĩa, bán cấp hoặc hệ thống)",
+     "n": "Dạng đĩa: vảy dính, sẩn sừng nang lông, teo, sẹo; bán cấp: dát sẩn dạng vảy nến ở ngực, lưng, cánh tay vùng phơi nắng (QĐ 4416, Lupus ban đỏ hệ thống mục 2.1.2; EULAR/ACR 2019 Bảng 1). Anh: vảy dễ bong, không sẹo, không ban má, không loét miệng, không rụng tóc, không triệu chứng toàn thân → không làm ANA."
+    },
+    {
+     "t": "Dị ứng thuốc (do meloxicam)",
+     "n": "Có trong chẩn đoán phân biệt (QĐ 4416, Vảy nến mục 2.6). Không nghĩ: mảng khuỷu có trước khi dùng thuốc 2 năm, mảng vảy dày ở chỗ tỳ đè kèm da đầu, móng; không sốt, không ban lan tỏa."
+    },
+    {
+     "t": "Vảy nến thể giọt",
+     "n": "Thể giọt có tổn thương dưới 1 cm (QĐ 4416, Vảy nến mục 2.4); phần lớn tổn thương của anh 1–5 cm, không nhiễm khuẩn họng trước đó."
+    },
+    {
+     "t": "Viêm khớp vảy nến",
+     "n": "Chưa có: không viêm khớp, không ngón khúc dồi, không viêm điểm bám gân; đau lưng kiểu cơ học đã hết (QĐ 361/2014, Viêm khớp vảy nến mục 2.1). Hỏi lại mỗi lần tái khám."
+    },
+    {
+     "t": "Vảy phấn hồng Gibert",
+     "n": "Mảng tròn, bầu dục vảy phấn ở thân, ít ở đầu mặt, tự khỏi 4–8 tuần (QĐ 75/2015, Bệnh vảy nến mục 3d); anh có mảng 2 năm, da đầu, móng."
+    },
+    {
+     "t": "Giang mai thời kỳ II",
+     "n": "Sẩn hồng thâm nhiễm, Brocq âm tính, huyết thanh dương tính (QĐ 75/2015 mục 3d); anh Brocq dương tính, tổn thương 2 năm: không cần xét nghiệm."
+    },
+    {
+     "t": "Đau thắt lưng cấp do nguyên nhân cơ học (lý do hẹn tái khám) – đã khỏi",
+     "n": "Đau sau khuân vác, kiểu cơ học, nghỉ đỡ, không triệu chứng toàn thân, nay hết, khám cột sống bình thường (QĐ 361/2014, Hội chứng đau thắt lưng mục 2.1, 3.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận chẩn đoán vảy nến bằng tiêu chí lâm sàng, ghi nhận phần anh tự tra là đúng; giải thích bệnh viêm mạn tính, tiến triển từng đợt, không lây, kiểm soát được nhưng chưa có thuốc chữa khỏi hoàn toàn",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 1.1, 2.3, 3.1: quản lý bệnh thường xuyên); QĐ 75/2015 (Bệnh vảy nến mục 4a, 5a, 6): tư vấn để người bệnh hiểu bệnh và tuân thủ."
+    },
+    {
+     "t": "Calcipotriol + betamethason dipropionat dạng thuốc mỡ, bôi 1 lần/ngày lên các mảng ở khuỷu tay, cẳng chân, 4 tuần",
+     "v": "c",
+     "n": "Thể nhẹ: thuốc bôi đơn thuần hoặc phối hợp (QĐ 4416, Vảy nến sơ đồ điều trị; mục 3.2.1: dạng mỡ cho thân mình, bôi 1 lần/ngày, điều trị tấn công); AAD-NPF 2021 khuyến cáo 3.4, 3.5. Liệu trình 4 tuần, tối đa 15 g/ngày, không quá 30% diện tích da (tờ thông tin sản phẩm Dovobet thuốc mỡ – nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Calcipotriol + betamethason dipropionat dạng gel, bôi 1 lần/ngày lên mảng da đầu vùng gáy, 4 tuần",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1): dạng gel dùng cho da đầu; AAD-NPF 2021 khuyến cáo 3.2: 4–12 tuần cho vảy nến da đầu nhẹ – vừa; tờ thông tin sản phẩm Dovobet gel (nguồn bổ sung tự tìm): da đầu 4 tuần, thường 1–4 g/ngày."
+    },
+    {
+     "t": "Dưỡng ẩm nhiều lần trong ngày, tránh gãi, chà xát",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1): giảm ngứa, ngăn Koebner, bôi nhiều lần/ngày; QĐ 75/2015 mục 3a: tổn thương mọc ở chỗ sang chấn, vết cào gãi; AAD-NPF 2021 KC 5.1."
+    },
+    {
+     "t": "Ngưng thuốc bắc không rõ thành phần; không tự ý dùng thuốc, kể cả thuốc 'gia truyền' trị vảy nến",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 4): không tự ý dùng thuốc; QĐ 75/2015 (mục 2): đông, nam dược không rõ nguồn gốc là yếu tố thuận lợi. Corticoid ẩn dùng dưới 3–4 tuần thì ngưng ngay được (ESE/ES 2024 R 2.1). Tỷ lệ thuốc bắc trộn corticoid ở VN: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tầm soát rối loạn chuyển hóa: glucose máu, mỡ máu",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.1: bệnh phối hợp tim mạch, rối loạn chuyển hóa; mục 2.2; mục 3.1: tầm soát các bệnh lý chuyển hóa)."
+    },
+    {
+     "t": "Hỏi, khám tầm soát viêm khớp vảy nến; dặn báo ngay khi đau sưng khớp, ngón sưng to cả ngón, đau gót, đau lưng kiểu viêm",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.1: tổn thương khớp); QĐ 361/2014 (Viêm khớp vảy nến mục 1: 10–30% người vảy nến có viêm khớp, 80% xuất hiện sau tổn thương da; mục 2.1)."
+    },
+    {
+     "t": "Khép lại hồ sơ đau thắt lưng: đã khỏi, không kê thêm thuốc giảm đau; hướng dẫn tư thế ngồi làm việc, bê vật nặng, tập cơ lưng – bụng",
+     "v": "c",
+     "n": "QĐ 361/2014 (Hội chứng đau thắt lưng mục 3.3, 5: làm việc đúng tư thế, tư thế đúng khi mang vật nặng, tránh xoắn vặn, tập cơ bụng, cơ lưng)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; dặn không tự ngưng thuốc đột ngột khi vừa sạch",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 4): khám định kì theo hẹn; mốc 4 tuần theo một đợt bôi (AAD-NPF 2021 KC 1.1; tờ thông tin Dovobet). Ngưng đột ngột có thể bùng lại, nên giảm dần (AAD-NPF 2021, mục corticoid bôi)."
+    },
+    {
+     "t": "Giải thích vì sao chưa làm ANA, xét nghiệm tự miễn, sinh thiết da",
+     "v": "c",
+     "n": "Không có tiêu chí lâm sàng lupus (EULAR/ACR 2019 Bảng 1); vảy nến chẩn đoán chủ yếu lâm sàng, mô bệnh học khi không điển hình (QĐ 4416, Vảy nến mục 2.3). Đáp ứng nỗi lo bằng việc hỏi, khám đủ rồi nói rõ kết quả."
+    },
+    {
+     "t": "Corticoid bôi mạnh đơn thuần (vd. betamethason dipropionat 0,05%), 1–2 lần/ngày, không quá 4 tuần, thay cho dạng phối hợp",
+     "v": "a",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1, sơ đồ điều trị: corticosteroid đơn thuần là một lựa chọn); AAD-NPF 2021 khuyến cáo 1.1 (tối đa 4 tuần), 1.2 (da đầu)."
+    },
+    {
+     "t": "Acid salicylic phối hợp corticoid bôi",
+     "v": "a",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1): salicylic phối hợp corticoid vừa bạt sừng vừa chống viêm; AAD-NPF 2021 KC 6.1–6.2. Không bôi salicylic toàn thân (QĐ 75/2015 mục 4b)."
+    },
+    {
+     "t": "Gửi khám chuyên khoa Da liễu để xác nhận chẩn đoán",
+     "v": "a",
+     "n": "Không bắt buộc vì lâm sàng điển hình (QĐ 4416, Vảy nến mục 2.3); hợp lý nếu người bệnh muốn hoặc cần dermoscopy, sinh thiết (mục 2.2)."
+    },
+    {
+     "t": "Kê thuốc sinh học hoặc chuyển tuyến để dùng thuốc sinh học theo yêu cầu",
+     "v": "w",
+     "n": "Thể nhẹ dùng thuốc bôi; thuốc sinh học chỉ đặt ra ở thể vừa – nặng hoặc đáp ứng kém thuốc toàn thân (QĐ 4416, Vảy nến sơ đồ điều trị; S3 2026 khuyến cáo II-1, IX-2)."
+    },
+    {
+     "t": "Kê methotrexat, acitretin hoặc ciclosporin",
+     "v": "w",
+     "n": "Thuốc toàn thân cho thể vừa – nặng (QĐ 4416, Vảy nến sơ đồ điều trị, mục 3.2.3; S3 2026 khuyến cáo IX-2); ca này nhẹ, chưa thử thuốc bôi."
+    },
+    {
+     "t": "Làm bộ tầm soát trước thuốc sinh học (X-quang ngực, Quantiferon, viêm gan B, C, HIV)",
+     "v": "w",
+     "n": "Chỉ làm trước khi dùng thuốc sinh học (QĐ 4416, Vảy nến mục 2.2); không có chỉ định thuốc sinh học."
+    },
+    {
+     "t": "Bôi tiếp hoặc đổi sang kháng nấm (bôi hay uống) 'cho chắc'",
+     "v": "w",
+     "n": "Không có bằng chứng nấm (QĐ 4416, Bệnh da do nấm sợi mục 2.1); điều trị theo kiểu thử làm chậm điều trị đúng. Nếu thật sự nghi nấm thì soi tươi trước (mục 2.2)."
+    },
+    {
+     "t": "Dặn tuyệt đối không bao giờ dùng thuốc chống viêm không steroid vì 'gây vảy nến'",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải: không tài liệu nào nêu NSAID là yếu tố khởi phát vảy nến; QĐ 4416 (mục 1.3) và QĐ 75/2015 (mục 2) chỉ ghi chung 'sử dụng thuốc'. NSAID còn là thuốc đầu tay cho viêm khớp vảy nến (QĐ 361/2014, Viêm khớp vảy nến mục 4.2)."
+    },
+    {
+     "t": "Để người bệnh tiếp tục uống thuốc bắc không rõ thành phần",
+     "v": "w",
+     "n": "QĐ 4416 (Vảy nến mục 4): không tự ý dùng thuốc; QĐ 75/2015 (Bệnh vảy nến mục 2): đông, nam dược không rõ nguồn gốc là yếu tố thuận lợi."
+    },
+    {
+     "t": "Corticoid toàn thân (uống hoặc tiêm) để 'sạch nhanh'",
+     "v": "h",
+     "n": "Gây đỏ da toàn thân, bùng phát khi đang dùng hay vừa ngừng (QĐ 361/2014, Viêm khớp vảy nến mục 4.2), vảy nến thể mủ (QĐ 75/2015 mục 4c); đỏ da toàn thân có thể do corticosteroid toàn thân (QĐ 4416 mục 2.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Vảy nến thể thông thường – thể mảng (ICD-10 L40.0)",
+     "Vị trí: mặt duỗi hai khuỷu tay, hai cẳng chân; da đầu vùng gáy; móng (rỗ móng 2 ngón)",
+     "Mức độ nhẹ: BSA ≈ 4%, PASI ước < 10, DLQI 6; không đạt tiêu chí nâng mức",
+     "Đang đợt bùng phát trên nền tổn thương có từ 2 năm",
+     "Chưa có biểu hiện viêm khớp vảy nến",
+     "Yếu tố thuận lợi: stress (hạn chót, thiếu ngủ), dùng thuốc (meloxicam trước đợt bùng – mối liên quan chưa có trong tài liệu đã tải), thuốc bắc không rõ thành phần; tiền sử gia đình nghi vảy nến",
+     "Đã loại trừ trên lâm sàng: viêm da dầu, nấm da, lupus ban đỏ, dị ứng thuốc, vảy nến thể giọt",
+     "Đau thắt lưng cấp do nguyên nhân cơ học (lý do hẹn tái khám) – đã khỏi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận chẩn đoán anh tự tra → hỏi vì sao hôm nay đến, lần khám trước (ra buổi tái khám đau lưng) → bệnh sử tổn thương (thời gian, vảy, ngứa, da đầu, móng, khớp, ánh nắng, toàn thân) → thuốc đã dùng, kể cả thuốc bắc, thuốc bôi tự mua → gia đình → ảnh hưởng cuộc sống → khám toàn bộ da, da đầu, móng, mặt, miệng, khớp → glucose, mỡ máu → chẩn đoán, xếp mức độ → điều trị.",
+     "Vì sao là vảy nến: mảng đỏ ranh giới rõ, vảy trắng dày dễ bong, ở chỗ tỳ đè, mặt duỗi, đối xứng, kèm rỗ móng (QĐ 4416, Vảy nến mục 2.1); vảy nhiều lớp trắng đục chừa viền đỏ ngoại vi, Brocq có màng bong và hạt sương máu (QĐ 75/2015, Bệnh vảy nến mục 3a). Chẩn đoán chủ yếu lâm sàng, mô bệnh học khi không điển hình (QĐ 4416 mục 2.3). Bố 'á sừng' ở khuỷu, gối gợi ý yếu tố di truyền (mục 1.3), không phải tiêu chuẩn.",
+     "Người bệnh tự tra đúng: không gạt đi, nhưng vẫn tự kiểm chứng bằng tiêu chí, vì chẩn đoán tự tra đầu tiên của anh (nấm) đã sai. Kem kháng nấm 5 ngày không đỡ chưa loại được nấm vì liệu trình bôi 2–4 tuần (QĐ 4416, Bệnh da do nấm sợi mục 3.2.1); căn cứ là hình thái và phân bố tổn thương.",
+     "Thể và mức độ: tổn thương 1–5 cm là thể mảng (thể giọt dưới 1 cm – QĐ 4416 mục 2.4). Một bàn tay ≈ 1% BSA (AAD-NPF 2021, mục BSA): khuỷu ~2%, cẳng chân ~1,5%, gáy ~0,5% → BSA ≈ 4%. DLQI 6, PASI ước < 10 (QĐ 4416 mục 2.5). Nhẹ theo QĐ 4416 (sơ đồ: PASI, DLQI, BSA đều < 10) và S3 2026 khuyến cáo II-1. Không đạt tiêu chí nâng mức của S3 2026 II-1: da đầu chỉ ở gáy, móng chỉ rỗ (không tách móng, không loạn dưỡng ≥ 2 móng), ngứa không gãi trầy, chưa điều trị nên chưa thể gọi là kháng trị.",
+     "Viêm da dầu: vảy trắng mỏng hoặc vảy mỡ vàng ở trán, thái dương, đỉnh, lông mày, rãnh mũi má, sau tai, nếp gấp (QĐ 4416, Viêm da dầu mục 2.1.2). Anh có mảng vảy trắng dày ranh giới rõ ở gáy, mặt và nếp gấp sạch, thêm mảng mặt duỗi và rỗ móng. 'Gàu' lâu năm không đồng nghĩa viêm da dầu.",
+     "Nấm da: mảng tròn hay nhiều cung, lành giữa, lan ra ngoại vi, ngứa nhiều, có thể có mụn nước (QĐ 4416, Bệnh da do nấm sợi mục 2.1). Mảng của anh phủ vảy khắp mặt, không lành giữa, đối xứng ở vị trí tỳ đè, kèm da đầu, móng. Còn nghi thì soi tươi (mục 2.2) trước khi bôi corticoid, vì corticoid bôi có thể làm nặng nấm (AAD-NPF 2021, mục corticoid bôi).",
+     "Lupus: dạng đĩa có vảy dính, sẩn sừng nang lông, sẹo, teo da (QĐ 4416, Lupus ban đỏ hệ thống mục 2.1.2; QĐ 75/2015 mục 3d); bán cấp có thể giống vảy nến nhưng ở ngực, lưng, cánh tay, theo vùng phơi nắng (QĐ 4416 mục 2.1.2; EULAR/ACR 2019 Bảng 1). Anh không ban má, không nhạy nắng, không loét miệng, không rụng tóc, không đau khớp, không triệu chứng toàn thân; vảy dễ bong, không sẹo. Không có tiêu chí lâm sàng nào nên không làm ANA (EULAR/ACR 2019: ANA ≥ 1:80 là tiêu chuẩn đầu vào khi đã nghi). Danh sách thuốc gây bệnh giống lupus của QĐ 4416 (mục 1.3) không có NSAID.",
+     "Thuốc giảm đau: tài liệu chỉ ghi chung 'sử dụng thuốc' là yếu tố môi trường (QĐ 4416 mục 1.3; QĐ 75/2015 mục 2). NSAID làm khởi phát hay bùng vảy nến: không có trong tài liệu đã tải; NSAID lại là thuốc đầu tay cho viêm khớp vảy nến (QĐ 361/2014, Viêm khớp vảy nến mục 4.2). Mảng khuỷu có trước khi dùng meloxicam 2 năm, cùng lúc có stress, thiếu ngủ (QĐ 4416 mục 1.3) nên trùng thời gian chưa đủ kết luận. Nói: 'anh nhận ra mốc thời gian là đúng, nhưng tài liệu chuyên môn hiện có chưa xác nhận thuốc này là nguyên nhân'. Dị ứng thuốc (QĐ 4416 mục 2.6) không nghĩ vì tổn thương có từ trước, mảng vảy dày kèm da đầu, móng, không sốt.",
+     "Viêm khớp vảy nến: 10–30% người vảy nến có, đa số sau tổn thương da (QĐ 361/2014, Viêm khớp vảy nến mục 1); hỏi đau sưng khớp, ngón khúc dồi, viêm gân bám, đau lưng kiểu viêm (mục 2.1). Đau lưng của anh kiểu cơ học, đã hết (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3).",
+     "Lý do thật đến khám là tái khám đau lưng theo hẹn: phải hỏi ra để đánh giá lại lưng, khép hồ sơ cũ, và biết anh đã dùng meloxicam bao lâu, nay đang dùng thuốc gì (thuốc bắc)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, thuốc bôi, hẹn tái khám (ve_hen); không cần chuyển tuyến vì thể nhẹ, lâm sàng rõ (QĐ 4416, Vảy nến mục 2.3, sơ đồ điều trị).",
+     "Thể nhẹ dùng thuốc bôi đơn thuần hoặc phối hợp (QĐ 4416, sơ đồ). Calcipotriol + corticosteroid 1 lần/ngày để tấn công, mỡ cho thân mình, gel cho da đầu (mục 3.2.1); phối hợp vitamin D – corticoid được khuyến cáo mạnh (AAD-NPF 2021 KC 3.4, 3.5); có trong danh mục BHYT (TT 20/2022, TL-0010, dòng 607).",
+     "Giới hạn: tối đa 15 g/ngày, ≤ 30% diện tích da, không bôi mặt, sinh dục (tờ thông tin sản phẩm Dovobet – nguồn bổ sung tự tìm); calcipotriol tránh quá 100 g/tuần vì nguy cơ tăng calci máu (AAD-NPF 2021, mục vitamin D). QĐ 4416 mục 3.2.1 ghi '100mg/tuần' – nghi lỗi đơn vị (đề xuất sổ mâu thuẫn). BSA 4% thì lượng dùng thấp hơn nhiều.",
+     "Corticoid bôi mạnh dùng hằng ngày tới 4 tuần nhìn chung an toàn; khi đỡ thì giảm dần (cách ngày, rồi 2 lần/tuần) vì ngưng đột ngột có thể bùng lại (AAD-NPF 2021, mục corticoid bôi). Duy trì: vitamin D ngày thường, corticoid cuối tuần (KC 3.6) hoặc bôi chủ động 2 lần/tuần vùng hay tái – quyết ở lần tái khám.",
+     "Dưỡng ẩm là điều trị thật: giảm ngứa, ngăn Koebner (QĐ 4416 mục 3.2.1), giúp tránh tái phát nhanh (AAD-NPF 2021 KC 5.1).",
+     "Không thuốc toàn thân, không sinh học: dành cho thể vừa – nặng (QĐ 4416 sơ đồ; S3 2026 KC II-1, IX-2). Giải thích bằng con số của anh (BSA 4%, DLQI 6); thuốc sinh học cần tầm soát lao, viêm gan, HIV trước (QĐ 4416 mục 2.2); đáp ứng kém thuốc bôi thì bước tiếp là chiếu ánh sáng (sơ đồ).",
+     "Không corticoid toàn thân: gây đỏ da toàn thân, bùng phát hoặc thể mủ khi đang dùng hay vừa ngừng (QĐ 361/2014, Viêm khớp vảy nến mục 4.2; QĐ 75/2015 mục 4c). Vì vậy phải hỏi thuốc bắc – đông, nam dược không rõ thành phần là yếu tố thuận lợi (QĐ 75/2015 mục 2). Anh không có dấu gợi ý dùng corticoid; nếu có corticoid ẩn mà dùng dưới 3–4 tuần thì ngưng ngay được (ESE/ES 2024 R 2.1).",
+     "Xét nghiệm: glucose, mỡ máu để tầm soát chuyển hóa (QĐ 4416 mục 2.2, 3.1). Không ANA, sinh thiết, ASLO, CRP, acid uric, X-quang ngực, bộ tầm soát trước sinh học: không có chỉ định (lý do ở từng mục). Nguồn lực đầy đủ không có nghĩa là làm hết.",
+     "Khép vấn đề đau lưng: đã khỏi, không thêm thuốc; phòng tái phát bằng tư thế làm việc, bê vật nặng, tập cơ bụng – lưng (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3, 5). Giảm đau sau này: paracetamol là một lựa chọn (mục 4.2.1); phải tránh NSAID ở người vảy nến: không có trong tài liệu đã tải.",
+     "Tái khám 4 tuần: mốc cụ thể không có trong tài liệu đã tải; chọn theo thời gian một đợt bôi (AAD-NPF 2021 KC 1.1; tờ thông tin Dovobet); thăm khám định kì theo hẹn (QĐ 4416 mục 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (thuốc mỡ)",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g (dạng dipropionat)",
+      "lieu": "Bôi lớp mỏng phủ vừa đủ các mảng ở khuỷu tay và cẳng chân",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "1 lần/ngày",
+      "so_ngay": "4 tuần, rồi tái khám để giảm dần và chuyển duy trì",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1: phối hợp bôi 1 lần/ngày, dạng mỡ cho thân mình); AAD-NPF 2021 khuyến cáo 3.4, 3.5. Hàm lượng, liệu trình 4 tuần, tối đa 15 g/ngày, ≤ 30% diện tích da, không bôi mặt, sinh dục: tờ thông tin sản phẩm Dovobet thuốc mỡ (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/1609/smpc). Calcipotriol: tránh quá 100 g/tuần (AAD-NPF 2021, mục vitamin D)."
+     },
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (gel)",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g (dạng dipropionat)",
+      "lieu": "Lắc lọ, bôi lên mảng da đầu vùng gáy, thường 1–4 g mỗi lần",
+      "duong": "Bôi da đầu",
+      "thoi_diem": "1 lần/ngày; để thuốc lưu trên da qua đêm hoặc trong ngày, không gội đầu, không tắm ngay sau khi bôi",
+      "so_ngay": "4 tuần",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1: dạng gel cho da đầu); AAD-NPF 2021 khuyến cáo 3.2 (4–12 tuần cho da đầu nhẹ – vừa). Lượng dùng, 4 tuần, không gội ngay: tờ thông tin sản phẩm Dovobet gel (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/5690/smpc). Tổng hai dạng không quá 15 g/ngày."
+     },
+     {
+      "thuoc": "Kem hoặc thuốc mỡ dưỡng ẩm không mùi",
+      "ham_luong": "Loại sẵn có (vd. vaselin, kem dưỡng ẩm không hương liệu)",
+      "lieu": "Bôi lớp mỏng lên vùng da tổn thương và da khô xung quanh",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Nhiều lần/ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1: dưỡng ẩm giảm ngứa, ngăn Koebner, bôi nhiều lần/ngày); AAD-NPF 2021 KC 5.1. Tên sản phẩm, cách xếp giờ với thuốc điều trị: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh tra đúng: vảy nến thể mảng mức độ nhẹ, không lây, tiến triển từng đợt; điều trị để kiểm soát, chưa có thuốc chữa khỏi hẳn (QĐ 4416, Vảy nến mục 1.1, 3.1; QĐ 75/2015 mục 6).",
+     "Không phải lupus: đã hỏi, khám đủ các dấu hiệu, không có dấu hiệu nào nên không cần ANA (EULAR/ACR 2019 Bảng 1).",
+     "Thuốc mỡ cho khuỷu và cẳng chân, gel cho da đầu, mỗi thứ 1 lần/ngày, 4 tuần; bôi gel thì không gội đầu ngay; không bôi mặt, sinh dục; tổng không quá 15 g/ngày (tờ thông tin Dovobet). Không tự ngưng đột ngột khi vừa sạch – bác sĩ sẽ hướng dẫn giảm dần (AAD-NPF 2021).",
+     "Dưỡng ẩm nhiều lần mỗi ngày (QĐ 4416 mục 3.2.1); tránh gãi, cạy vảy vì tổn thương có thể mọc ở chỗ trầy xước, vết gãi (QĐ 75/2015 mục 3a – dấu hiệu Koebner).",
+     "Ngưng thuốc bắc không nhãn; không tự mua thuốc 'gia truyền', thuốc tiêm, thuốc uống trị vảy nến trên mạng – có thể chứa corticoid làm bệnh bùng nặng (QĐ 4416 mục 4; QĐ 75/2015 mục 2, 4c).",
+     "Thuốc giảm đau: tài liệu chuyên môn hiện có chưa xác nhận meloxicam là nguyên nhân; lần sau cần giảm đau thì hỏi bác sĩ, có thể dùng paracetamol (QĐ 361/2014, đau thắt lưng mục 4.2.1).",
+     "Giảm stress, ngủ đủ trong mùa chạy dự án (QĐ 4416 mục 1.3, 4); số giờ ngủ cụ thể: không có trong tài liệu đã tải.",
+     "Lưng đã khỏi: ngồi đúng tư thế, bê vật nặng đúng cách, tập cơ bụng – lưng (QĐ 361/2014, đau thắt lưng mục 5).",
+     "Quay lại sớm nếu sưng đau khớp, ngón sưng to cả ngón, đau gót, đau lưng về đêm hoặc cứng lưng buổi sáng (QĐ 361/2014, Viêm khớp vảy nến mục 2.1); da đỏ lan toàn thân hoặc nổi mụn mủ (QĐ 4416 mục 2.4; QĐ 75/2015 mục 3d).",
+     "Tái khám sau 4 tuần, mang ảnh tổn thương đã chụp; vảy nến cần khám định kì kể cả khi da đã sạch (QĐ 4416 mục 4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tái khám sau 4 tuần: các mảng phẳng, còn dát hồng nhạt, da đầu hết vảy; bác sĩ hướng dẫn giảm dần, bôi duy trì 2 lần/tuần ở khuỷu, hẹn 3 tháng. Anh Khoa thấy sạch nên ngưng hẳn mọi thuốc kể cả dưỡng ẩm, bỏ hẹn 3 tháng, và tránh hẳn thuốc nhóm NSAID. Mười tuần sau, giữa đợt chạy dự án cuối năm, thức khuya, lại uống thuốc bắc 'giải độc gan' mẹ gửi: mảng ở khuỷu, cẳng chân và da đầu tái phát. Anh tự quay lại; BSA khoảng 3%, không viêm khớp; được cho đợt bôi tấn công mới rồi duy trì chủ động 2 lần/tuần ở vùng hay tái, ngưng thuốc bắc, khám định kì. Tái phát dù không dùng NSAID: do bản chất bệnh tiến triển từng đợt, ngưng thuốc đột ngột, bỏ hẹn, stress, thuốc không rõ thành phần – không phải chẩn đoán sai.",
+ "nhieu": [
+  "Chẩn đoán tự tra: đúng về bệnh, sai về đòi hỏi (ANA, thuốc sinh học), chưa có bằng chứng về nguyên nhân (NSAID). Ghi nhận phần đúng, tự kiểm chứng, giải thích bằng con số của người bệnh.",
+  "Mốc thời gian sau meloxicam: dễ kết luận 'do thuốc' hoặc nghĩ dị ứng thuốc; mảng khuỷu có từ 2 năm trước.",
+  "Kem kháng nấm 5 ngày không đỡ: chưa đủ loại trừ nấm (liệu trình 2–4 tuần).",
+  "'Gàu' nhiều năm ở gáy: dễ ghi nhầm viêm da dầu.",
+  "Nguồn lực đầy đủ: cám dỗ làm 'toàn bộ tự miễn', tầm soát trước thuốc sinh học."
+ ],
+ "bai_hoc_bien": [
+  "Thanh niên khỏe mạnh vẫn có bệnh mạn: mảng 'chai' ở khuỷu 2 năm là vảy nến chứ không phải do tì tay; bố 'á sừng' là manh mối gia đình.",
+  "Nghề lập trình viên: tì khuỷu lên bàn hằng ngày là vị trí tỳ đè, cọ xát (QĐ 4416 mục 2.1); thói quen tra mạng, thức khuya chạy hạn chót là gốc của nhiễu và của yếu tố stress.",
+  "Yếu tố khởi phát người bệnh nêu (NSAID) phải được kiểm chứng bằng tài liệu: không có trong tài liệu đã tải; tài liệu chỉ ghi chung 'sử dụng thuốc', và NSAID lại là thuốc đầu tay cho viêm khớp vảy nến (QĐ 361/2014).",
+  "Thuốc bắc không rõ thành phần: chỉ lộ khi hỏi đích danh 'thuốc nam, thuốc bắc'; là yếu tố thuận lợi được QĐ 75/2015 nêu rõ và là một nguyên nhân tái phát ở kết cục.",
+  "Lý do thật là tái khám theo hẹn: hỏi 'vì sao hôm nay anh đến' giúp khép lại vấn đề cũ (đau lưng) và tìm ra thuốc đã dùng.",
+  "Kết cục tái phát: không phải do chẩn đoán sai mà do bệnh tiến triển từng đợt, ngưng thuốc đột ngột, bỏ hẹn, stress, thuốc không rõ thành phần. Dặn duy trì và tái khám định kì ngay từ lần đầu."
+ ],
+ "diem_nho": [
+  "Vảy nến thể thông thường: mảng đỏ ranh giới rõ, vảy trắng dày dễ bong, ở chỗ tỳ đè, mặt duỗi, đối xứng; móng rỗ; chẩn đoán chủ yếu lâm sàng (QĐ 4416, Vảy nến mục 2.1, 2.3).",
+  "Mức độ: nhẹ khi PASI < 10, DLQI < 10, BSA < 10 (QĐ 4416 sơ đồ); tiêu chí nâng mức: vùng lộ, phần lớn da đầu, sinh dục, lòng bàn tay chân, tách móng/loạn dưỡng ≥ 2 móng, ngứa phải gãi, mảng kháng trị (S3 2026 khuyến cáo II-1). Một bàn tay ≈ 1% BSA (AAD-NPF 2021).",
+  "Thể nhẹ: thuốc bôi; calcipotriol + corticoid 1 lần/ngày, mỡ cho thân, gel cho da đầu (QĐ 4416 mục 3.2.1); corticoid mạnh tới 4 tuần (AAD-NPF 2021 KC 1.1); calcipotriol không quá 100 g/tuần (AAD-NPF 2021).",
+  "Không corticoid toàn thân trong vảy nến: đỏ da toàn thân, vảy nến thể mủ (QĐ 75/2015 mục 4c; QĐ 361/2014).",
+  "Tầm soát chuyển hóa (glucose, mỡ máu) cho người vảy nến (QĐ 4416 mục 2.2, 3.1); hỏi khớp mỗi lần khám (QĐ 361/2014: 10–30% có viêm khớp).",
+  "Lupus: ANA ≥ 1:80 là tiêu chuẩn đầu vào khi đã nghi lâm sàng (EULAR/ACR 2019); không làm ANA khi không có biểu hiện nào."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Vảy nến thể thông thường mục 1.1–1.3, 2.1–2.6, 3.1, 3.2.1–3.2.3, sơ đồ điều trị, mục 4; Viêm da dầu mục 2.1.2, 2.3; Bệnh da do nấm sợi mục 2.1–2.5, 3.2; Lupus ban đỏ hệ thống mục 1.3, 2.1.2, 2.2.1.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015, Bệnh vảy nến (TL-0241; kho cũ) – mục 2, 3a, 3c, 3d, 4b, 4c, 5a, 6.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 (TL-0286) – Viêm khớp vảy nến mục 1, 2.1, 2.2, 3, 4.2; Hội chứng đau thắt lưng mục 2.1, 3.3, 4.2.1, 5.",
+  "AAD-NPF 2021 thuốc bôi và đo mức độ vảy nến (TL-0425) – KC 1.1, 1.2, 3.2, 3.4–3.6, 5.1, 6.2; mục corticoid bôi, vitamin D, BSA, PASI.",
+  "S3 2026 vảy nến thông thường, thích ứng EuroGuiDerm, phần 1 (TL-0404) – KC II-1, III-1–III-3, IX-2; EuroGuiDerm 2020 phần 1 (TL-0427) – mục Defining disease severity.",
+  "EULAR/ACR 2019 phân loại lupus (TL-0375) – tiêu chuẩn đầu vào ANA, Bảng 1; ESE/ES 2024 (TL-0063) – R 2.1.",
+  "TT 20/2022 danh mục thuốc BHYT (TL-0010) – dòng 607; ICD-10 (TL-0001) – L40.0.",
+  "Nguồn bổ sung tự tìm: tờ thông tin sản phẩm Dovobet thuốc mỡ https://www.medicines.org.uk/emc/product/1609/smpc và gel https://www.medicines.org.uk/emc/product/5690/smpc – mục 2, 4.2, 4.4.",
+  "Không có trong tài liệu đã tải: NSAID khởi phát/làm nặng vảy nến; tránh NSAID ở người vảy nến; tỷ lệ thuốc bắc trộn corticoid ở VN; mốc tái khám vảy nến nhẹ; tên dưỡng ẩm, cách xếp giờ với thuốc; số giờ ngủ."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-11): lý do thật 'tái khám theo hẹn' dựng thành buổi tái khám đau thắt lưng (đã kê meloxicam = NSAID trước đợt bùng); mức độ tự quyết là nhẹ (BSA ≈ 4%, DLQI 6) để dạy không làm xét nghiệm thừa, không dùng thuốc sinh học; mảng khuỷu có từ 2 năm để NSAID không thành kết luận.",
+  "Ảnh SCIN đã xem: dùng HA-DA-0003 (khuỷu), HA-DA-0004 (cẳng chân); loại HA-DA-0002 (lộ một phần mặt), không dùng HA-DA-0001 (nhiều vảy tiết máu do gãi). Khai báo ảnh: nhap/DL-0541_media.json, cần thêm vào danh_muc_media.json trước khi xuất.",
+  "Đã rà toàn kho bằng rg: không tài liệu nào nói NSAID khởi phát vảy nến. TL-0435 (lupus da EDF/EADV 2017) chưa có toàn văn.",
+  "Danh mục chưa có soi tươi nấm, sinh thiết, soi da, ANA, tầm soát lao/viêm gan/HIV, ASLO, khám da đầu – móng, cạo vảy Brocq: đề xuất ở nhap/DL-0541_de_xuat_danh_muc.json; trong ca ghi kết quả Brocq, móng, da đầu ở mục khám 'da'. Mâu thuẫn: nhap/DL-0541_mau_thuan.md."
+ ]
+}
