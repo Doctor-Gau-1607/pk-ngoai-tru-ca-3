@@ -1,0 +1,511 @@
+{
+ "ma_ca": "NH-1368",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_sot_khong_ro_o_nhiem",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sốt không rõ ổ nhiễm (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm khuẩn huyết",
+   "SXH",
+   "Nhiễm trùng tiểu"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau khi ăn phở vỉa hè",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 104,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', nói ít, hay rên và đòi mẹ bế. Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 31 tuổi, bán hàng online, mất ngủ bốn đêm liền, mệt và bực. Đã đưa bé đi ba nơi mà sốt vẫn không hết nên mất niềm tin, nói nhanh, hay hỏi 'sao khám hoài mà không ra bệnh', không muốn làm lại xét nghiệm đã làm. Bé quấy khóc, bám mẹ.",
+  "kieu_nhieu": "Mẹ mất niềm tin sau ba lần khám: ngắt lời, than phiền, đòi 'bác sĩ cho thuốc cho bé ngủ được là đỡ'. Không tự kể chuyện đã cho bé uống prednisolon vì sợ bị trách; chỉ kể khi bác sĩ hỏi cụ thể từng loại thuốc đã cho uống (kể cả thuốc mua ngoài tiệm), hỏi nhẹ nhàng không phán xét. Chỉ tin khi bác sĩ nhắc đúng những gì các nơi trước đã làm và giải thích vì sao lần này khác.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 31 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng bé thì bé trả lời rất ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#efc19b",
+   "toc": "#1b1411",
+   "kieuToc": "tre",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6b48c",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#b5838d",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt 5 ngày, khám ba nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, không có kỹ thuật viên: không làm được xét nghiệm máu, X-quang, siêu âm. Còn que thử nước tiểu, đường huyết mao mạch, điện tim tại giường."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 17 kg, mẹ đưa đến lúc 19 giờ 30 vì sốt 5 ngày, khám ba nơi chưa hết. Sinh hiệu: nhiệt 38,6 °C, mạch 142 l/p, nhịp thở 26 l/p, SpO₂ 98%. Bé tỉnh, mệt, quấy, bám mẹ.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Khôi về với thuốc hạ sốt và hẹn mai tái khám là bỏ qua việc bé đã sốt đủ 5 ngày, có nhịp tim nhanh, môi khô, tiểu ít và chưa có chẩn đoán sau ba lần khám; đây là nhóm có dấu hiệu 'vàng' mà NICE yêu cầu hoặc dặn dò có hẹn giờ và nơi khám lại hoặc chuyển chuyên khoa nhi (NICE NG143 2021, Bảng 2; mục 1.4.4). Ngoài giờ, phòng khám không có xét nghiệm nên không ai kiểm tra được tiểu cầu, hematocrit, CRP hay tình trạng viêm trong khi bé đang ở ngày 5, đúng vào giai đoạn nguy hiểm của sốt xuất huyết (ngày 3–7, QĐ 2760/2023 mục II.2) và cũng là ngày 5 của sốt có thể là Kawasaki chưa đủ triệu chứng (NICE NG143 mục 1.2.25; AHA 2024). Sáng hôm sau bé có thể uống kém hơn, đi tiểu thưa hơn và mẹ phải chạy tiếp một nơi thứ tư giữa đêm, mất thêm nửa ngày điều trị.",
+    "theo_doi": "Giữ Khôi lại phòng khám vài giờ để 'xem diễn biến' là chấp nhận được về an toàn nhưng không giải quyết được vấn đề: cơ sở ngoài giờ không có xét nghiệm máu, siêu âm hay cấy máu, nên sau vài giờ bác sĩ vẫn chỉ có đúng những dữ kiện hiện tại và nhiệt độ có thể hạ do paracetamol nên không dựa vào đó để phân biệt bệnh nặng hay nhẹ (NICE NG143 mục 1.4.8, 1.5.15). Chị Hạnh mất thêm một buổi tối, bé tiếp tục thiếu nước và ngày 6 của sốt trôi qua mà chưa có CTM, cấy máu hay siêu âm tim để loại nhiễm khuẩn huyết, sốt xuất huyết và Kawasaki; IVIG nếu cần phải bắt đầu trong 10 ngày đầu của bệnh (QĐ 3312/2015, Kawasaki mục 4.2b).",
+    "cap_cuu": "Gọi xe cấp cứu 115 và chuyển khẩn là quá tay với Khôi: bé tỉnh, không co giật, không li bì, không nôn tất cả mọi thứ, mao mạch phục hồi dưới 3 giây, SpO₂ 98%, không ban xuất huyết, cổ mềm nên không có dấu hiệu 'đỏ' hay đe dọa tính mạng ngay (NICE NG143 2021, Bảng 2; mục 1.4.2–1.4.3). Phương tiện cấp cứu và đội ngũ không đổi được xử trí cho bé mà làm chị Hạnh hoảng sợ, thêm chi phí; chuyển tuyến bằng phương tiện thường có nhân viên đi kèm sau khi đã gọi báo trước là đủ."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu sốt năm ngày rồi, em đi ba chỗ rồi mà chỗ nào cũng nói virus, về nhà cho uống hạ sốt. Giờ nó sốt lại, quấy cả đêm, em cũng không ngủ nổi. Bác sĩ khám giúp em, cho cháu uống thuốc gì cho ngủ được là em cảm ơn lắm.",
+   "sinh_hieu": {
+    "mach": 142,
+    "ha": "Không đo",
+    "nhiet": "38,6",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 5 ngày, nhiệt 38,5–39,5 °C, khám ba nơi chưa khỏi. Mẹ mất ngủ, muốn bé uống thuốc cho ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "so_ngay",
+     "noi_dung": "Bé bắt đầu sốt từ chiều thứ Hai sau khi đi học về (38,3 °C), từ đó sốt hằng ngày, đỉnh 39,5 °C, cắt sốt bằng paracetamol được vài giờ rồi sốt lại. Hôm nay là ngày thứ 5 của sốt. Mẹ ghi nhiệt độ trong sổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian sốt (đủ 5 ngày)"
+    },
+    {
+     "id": "pho",
+     "noi_dung": "Tối thứ Ba cả nhà ăn phở vỉa hè, đêm đó bé nôn 1 lần rồi tiêu chảy phân sệt 3–4 lần/ngày hai ngày (thứ Tư, thứ Năm). Từ sáng thứ Sáu chỉ 1 lần phân sệt, không có máu, không có nhầy. Các nơi khám đều cho là ngộ độc thức ăn vì mẹ nhớ 'sốt sau khi ăn phở'; thật ra bé đã sốt từ trước bữa phở một ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ăn phở: sốt có trước, tiêu chảy đến sau",
+     "nhieu": 1
+    },
+    {
+     "id": "tieu_hoa_nhe",
+     "noi_dung": "Không nôn ra mật hay máu, không đau bụng dữ dội, không chướng bụng. Bé uống ít hơn bình thường, hay đòi uống nước nhiều ngụm rồi nôn trớ nhẹ, nhưng vẫn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ tiêu hóa và uống nước"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Bé đi tiểu 2 lần từ sáng, lần cuối khoảng 8 giờ trước, nước tiểu vàng sậm, bé không khóc ra nước mắt nhiều như thường. Không tiểu buốt, không tiểu rắt, không tiểu đục hay có mùi, không đau bụng dưới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiểu ít; không có triệu chứng tiết niệu (loại trừ nhiễm trùng tiểu)"
+    },
+    {
+     "id": "no_hh",
+     "noi_dung": "Không ho, không sổ mũi, không đau họng, không kêu đau tai, không đau đầu, không thở nhanh hay khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp, tai, họng (không có ổ nhiễm khu trú)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không co giật, không li bì khó đánh thức, không nôn ra tất cả mọi thứ, không nói nhảm. Ban ngày vẫn chơi được vài phút khi hạ sốt, chiều nay lả đi và quấy nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "ban_mat_chan",
+     "noi_dung": "Từ lúc sốt không thấy mắt đỏ, không nứt môi, không đỏ lưỡi, không phát ban, không sưng bàn tay bàn chân, không thấy hạch cổ. Mẹ chụp ảnh bé mỗi ngày nên xem lại cũng không thấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi các đặc điểm Kawasaki từ lúc khởi phát (NICE mục 1.2.26)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Cùng hẻm có 2 nhà có người bị sốt xuất huyết tháng trước. Nhà có chậu cây, không nằm màn ban ngày. Bé không chảy máu mũi, chảy máu chân răng, không đi ngoài phân đen, không đau bụng nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ sốt xuất huyết, dấu hiệu xuất huyết"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Sáng nay ở bệnh viện quận, bác sĩ cho làm xét nghiệm: bạch cầu 12,1 G/L, bạch cầu đa nhân 70%, hemoglobin 118 g/L, tiểu cầu 290 G/L; CRP 42 mg/L; nước tiểu tổng phân tích bình thường; test nhanh cúm A/B âm tính. Mẹ có cầm tờ kết quả, bác sĩ kết luận 'nhiễm virus', cho về. Dengue NS1 chưa làm, cấy máu chưa làm, chưa siêu âm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả đã có sáng nay (không lặp lại vô ích) và những gì chưa làm"
+    },
+    {
+     "id": "khám_3_noi",
+     "noi_dung": "Thứ Tư khám phòng khám nhi tư: nghi ngộ độc thức ăn, cho men vi sinh, oresol, hạ sốt. Thứ Năm khám phòng khám đa khoa: nghi viêm họng, dặn theo dõi. Sáng thứ Sáu khám bệnh viện quận (kết quả như trên). Chỗ nào cũng nói 'virus', mẹ thấy bé không đỡ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ba nơi đã khám, kết luận trước đó",
+     "nhieu": 1
+    },
+    {
+     "id": "prednisolon",
+     "noi_dung": "Thứ Năm mẹ nghe người quen bảo 'cho uống prednisolon vài ngày sẽ hết sốt' nên cho bé uống viên prednisolon 5 mg, mỗi lần 1 viên, 3 lần/ngày, trong 2 ngày (Năm và Sáu, ngưng sáng nay). Sốt có xuống hơn hôm Năm rồi lại lên 39 °C chiều nay. Mẹ không kể ở các nơi đã khám vì sợ bị mắng.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Corticoid tự mua (thuốc đang dùng)",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể từng loại thuốc đã cho uống kể cả thuốc mua ngoài tiệm hay người quen đưa, hoặc hỏi 'chị có cho bé uống thuốc kháng viêm, thuốc steroid nào không' bằng giọng không phán xét."
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Bé uống paracetamol 160 mg lần cuối lúc 15 giờ chiều nay (khoảng 9,4 mg/kg/lần), mẹ cho 4–5 lần mỗi ngày cách nhau 4 giờ. Không cho ibuprofen, aspirin, kháng sinh hay thuốc ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ sốt đã dùng, giờ cuối"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Bốn đêm nay bé quấy khóc, ngủ chập chờn, mẹ không ngủ, ngày mai mẹ phải giao hàng. Mẹ hy vọng bác sĩ cho siro 'ngủ ngoan' để bé và mẹ ngủ được; đó là lý do thật mẹ chạy thêm một chỗ nữa tối nay.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật sự đến khám: muốn thuốc ngủ",
+     "dieu_kien_lo": "Mẹ không nói thẳng. Chỉ thừa nhận khi bác sĩ hỏi 'đêm qua bé và chị ngủ thế nào', 'chị đang lo nhất điều gì' hoặc 'chị muốn tôi giúp gì nhất tối nay'.",
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, bình thường, tiêm chủng đủ theo lịch, chưa từng co giật do sốt, chưa nằm viện, không mắc bệnh mạn tính. Đi học mẫu giáo, lớp có vài bạn ho sổ mũi tuần trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, quấy khóc, bám mẹ, vẫn đáp ứng khi gọi. Môi khô, lưỡi hơi khô, mắt trũng nhẹ, khóc ít nước mắt. Uống nước háo hức khi đưa ly. Véo da bụng trở lại bình thường nhưng hơi chậm. Mao mạch phục hồi 2 giây. Không tím, không vàng da, không phù.",
+     "k": 1,
+     "hien": "Bé tỉnh, mệt, quấy. Mắt trũng nhẹ, uống háo hức. Thời gian đầy mao mạch 2 giây."
+    },
+    "dau_mat_co": {
+     "a": "Không cứng gáy, hạch dưới hàm và hạch cổ vài hạch nhỏ dưới 1 cm, di động, không đau. Không hạch cổ một bên to trên 1,5 cm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không xuất tiết, không giả mạc. Môi không đỏ nứt, lưỡi không đỏ dâu tây, niêm mạc miệng khô nhẹ. Màng nhĩ hai bên bình thường, không đau khi ấn xương chũm. Mũi không dịch.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt không đỏ, không ghèn. Mắt trũng nhẹ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 142 l/p, T1 T2 rõ, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 142 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p. Không co lõm ngực, không phập phồng cánh mũi. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p. Không co lõm ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau khu trú, không phản ứng thành bụng. Gan không to, lách không sờ thấy. Nhu động ruột tăng nhẹ.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da nóng, khô nhẹ, không ban, không chấm xuất huyết, không bầm. Bàn tay, bàn chân không phù, không đỏ, không bong da. Không mụn mủ, không vết thương nhiễm trùng. Nghiệm pháp dây thắt: không làm vì bé quấy, chưa cần.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, đáp ứng khi gọi, không cứng gáy, không dấu thần kinh khu trú, trương lực bình thường, không co giật.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp không sưng nóng đỏ, bé vận động cả bốn chi, không tránh đặt chân xuống đất, không đau cột sống.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau khi gõ, trên xương mu mềm, không đau khi ấn, không cầu bàng quang.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "que_nt": {
+     "v": "a",
+     "r": "Bạch cầu âm tính, nitrit âm tính, hồng cầu âm tính, protein vết, ceton ++, tỷ trọng 1.030.",
+     "ab": 1,
+     "n": "Làm được tại giường dù ngoài giờ. Bạch cầu và nitrit đều âm tính nên coi như không phải nhiễm trùng tiểu, tìm nguyên nhân khác (NICE NG224 2022 mục 1.1.20, Bảng 2). Ceton dương và tỷ trọng cao phù hợp ăn uống kém, mất nước. Nước tiểu tổng phân tích sáng nay cũng bình thường nên không cần cấy nước tiểu ở đây."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "4,3 mmol/L",
+     "n": "Hợp lý ở trẻ ăn uống kém và có dùng prednisolon vài ngày; không có trong tài liệu đã tải một ngưỡng đường huyết riêng cho tình huống này nên không chấm điểm cao cũng không trừ."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Nếu ở nơi có: BC 14,0 G/L · Neutrophil 78% · Hb 120 g/L · TC 305 G/L (so với sáng nay BC 12,1; TC 290).",
+     "ab": 1,
+     "n": "Ngoài giờ không có kỹ thuật viên nên không làm được. Sáng nay mới làm, lặp lại ngay không thêm giá trị; cần lặp lại theo dõi tiểu cầu và hematocrit ở tuyến trên khi bé vào ngày 5–7 (QĐ 2760/2023 mục II.2) và tiểu cầu thường tăng sau ngày 7 nếu là Kawasaki (QĐ 3312/2015, Kawasaki mục 3.2a)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "Nếu ở nơi có: CRP 58 mg/L",
+     "ab": 1,
+     "n": "Không làm được ngoài giờ. CRP sáng nay 42 mg/L; xin kết quả cũ thay vì lặp lại. CRP tăng không phân biệt được virus và vi khuẩn một mình, càng không loại được nhiễm khuẩn huyết; không có ngưỡng trong tài liệu đã tải cho trường hợp này."
+    },
+    "ns1": {
+     "v": "u",
+     "r": "Nếu ở nơi có: NS1 âm tính, IgM âm tính, IgG âm tính (ngày 5).",
+     "n": "Nên làm vì xét nghiệm này ưu tiên trong 5 ngày đầu (QĐ 2760/2023 mục chẩn đoán căn nguyên, 1.1). Không làm được ngoài giờ ở đây: đưa vào thư chuyển tuyến. Âm tính cũng chưa loại hẳn sốt xuất huyết ở ngày 5 vì tiểu cầu, hematocrit mới là theo dõi chính."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Nếu ở nơi có: cấy máu chưa có kết quả sau 48 giờ.",
+     "n": "Cấy máu nên lấy trước khi dùng kháng sinh (QĐ 3312/2015, Nhiễm trùng huyết mục 2.1c; WHO 2013 mục 6.1.2). Không làm được ở đây: chuyển tuyến để lấy. Không cho kháng sinh uống trước khi có chẩn đoán (NICE NG143 mục 1.4.9)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Không ho, thở 26 l/p, SpO₂ 98%, phổi không ran: chưa gợi ý viêm phổi (NICE NG143 Bảng 3: thở nhanh trên 40 l/p, ran, rút lõm, SpO₂ ≤ 95%). Ngoài giờ cũng không có."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Nếu ở nơi có: động mạch vành bình thường, không tràn dịch màng tim.",
+     "n": "Để tuyến trên làm nếu còn nghi Kawasaki không điển hình (QĐ 3312/2015, Kawasaki mục 3.2b, 3.3b; AHA 2024). Không làm được ở đây."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Bụng mềm, không điểm đau, không nghi áp xe sâu; để tuyến trên làm nếu cần tìm ổ nhiễm (QĐ 3312/2015, Nhiễm trùng huyết mục 2.1c). Không làm được ngoài giờ."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Không cần.",
+     "n": "Tim nhanh do sốt và thiếu nước, không âm thổi; không có chỉ định điện tim ở lượt này."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt không rõ ổ nhiễm kéo dài 5 ngày ở trẻ 4 tuổi, có dấu hiệu 'vàng' (sốt ≥ 5 ngày, tim nhanh, niêm mạc khô, tiểu ít), chưa có dấu hiệu 'đỏ', cần chuyển tuyến làm thêm xét nghiệm",
+     "ok": 1,
+     "n": "Sau hỏi bệnh và khám toàn thân đủ hệ cơ quan không tìm thấy ổ nhiễm khu trú; xét nghiệm sáng nay chưa nói được nguyên nhân. Nhóm 'vàng': sốt ≥ 5 ngày, mạch > 140 l/p ở trẻ 2–5 tuổi, niêm mạc khô, tiểu ít (NICE NG143 2021, Bảng 2; mục 1.2.15). Một số nguyên nhân sốt kéo dài không có dấu khu trú như nhiễm khuẩn huyết, nhiễm Salmonella, nhiễm trùng tiểu (WHO 2013 mục 6.1.2, tr. 153)."
+    },
+    {
+     "t": "Viêm dạ dày ruột cấp nhẹ sau ăn phở, mất nước mức vừa (đồng thời)",
+     "ok": 1,
+     "n": "Bé nôn, tiêu chảy 2 ngày (nay giảm), mắt trũng nhẹ, uống háo hức, hai dấu hiệu theo WHO 2013 mục 5.2.2 là mất nước mức vừa. Nhưng viêm dạ dày ruột này không giải thích được: sốt bắt đầu trước bữa phở một ngày, còn sốt đến ngày 5 khi tiêu chảy gần hết, CRP 42 mg/L. Phần sốt kéo dài vẫn chưa có lời giải."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Chưa có bằng chứng: bé tỉnh, mao mạch 2 giây, SpO₂ 98%, thở 26 l/p, không ban xuất huyết, không li bì; nhưng nhiễm khuẩn huyết nhi thường không có dấu khu trú và dùng corticoid là yếu tố nguy cơ (QĐ 3312/2015, Nhiễm trùng huyết mục 1.3, 2.2, tr. 524–526; WHO 2013 mục 6.1.2). Không loại hẳn được ngoài giờ vì không có cấy máu, nên là một lý do chuyển tuyến. Phoenix 2024 cần điểm ≥ 2 về hô hấp, tim mạch, đông máu, thần kinh: không có trên lâm sàng."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue (có dấu hiệu cảnh báo)",
+     "n": "Chưa loại được: ngày 5 là giai đoạn nguy hiểm (ngày 3–7), có dịch tễ cùng hẻm, tiểu ít là một dấu cảnh báo, (QĐ 2760/2023 mục II.1–II.2; Phụ lục 2). Phía không ủng hộ: tiểu cầu 290 G/L và bạch cầu 12,1 G/L sáng nay không giảm (giai đoạn sốt bạch cầu thường giảm, tiểu cầu giảm dần, mục II.1.2), không chảy máu, không đau bụng nhiều, gan không to. NS1 chưa làm và không làm được ngoài giờ; cần theo dõi tiểu cầu và hematocrit nối tiếp. Do đó không cho ibuprofen, aspirin (QĐ 2760 Điều trị triệu chứng)."
+    },
+    {
+     "t": "Nhiễm trùng tiểu",
+     "n": "Không triệu chứng tiết niệu, hố thắt lưng và trên xương mu không đau; que thử nước tiểu hôm nay âm tính bạch cầu và nitrit, tổng phân tích nước tiểu sáng nay bình thường (NICE NG224 2022 mục 1.1.20, Bảng 2: cả hai âm tính thì xem như không có nhiễm trùng tiểu). Cũng là một nguyên nhân sốt không có dấu khu trú ở trẻ (WHO 2013 mục 6.1.2)."
+    },
+    {
+     "t": "Kawasaki (thể không điển hình)",
+     "n": "Không đủ tiêu chuẩn: không đỏ mắt, môi, ban, phù tay chân hay hạch cổ ≥ 1,5 cm từ lúc khởi phát (QĐ 3312/2015, Kawasaki mục 3.3a: ít nhất 5 trong 6 biểu hiện). Nhưng sốt ≥ 5 ngày phải nghĩ tới dù chưa đủ biểu hiện (NICE NG143 mục 1.2.14, 1.2.25; AHA 2024 – mục Diagnosis); thể không điển hình cần CRP, bạch cầu, tiểu cầu, albumin, men gan, nước tiểu và siêu âm tim (QĐ 3312 mục 3.3b), không làm được ngoài giờ. IVIG nên dùng trong 10 ngày đầu (QĐ 3312 mục 4.2b; AHA 2024)."
+    },
+    {
+     "t": "Viêm họng/viêm tai giữa/viêm phổi",
+     "n": "Họng đỏ nhẹ không xuất tiết, màng nhĩ bình thường, phổi sạch, thở 26 l/p (dưới 40 l/p theo NICE NG143 Bảng 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có nhi khoa và xét nghiệm trong đêm nay (nhập viện nhi hoặc cấp cứu nhi), gọi báo trước và gửi kèm thư tóm tắt, không chờ sáng mai",
+     "v": "c",
+     "n": "Có dấu hiệu 'vàng' mà không có chẩn đoán thì hoặc dặn dò có hẹn hoặc chuyển chuyên khoa nhi (NICE NG143 mục 1.4.4); ở đây chọn chuyển vì ngoài giờ không xét nghiệm được, bé đã ba nơi không chẩn đoán, có dùng corticoid (QĐ 3312/2015, Nhiễm trùng huyết mục 1.3), ngày 5 trong giai đoạn nguy hiểm của sốt xuất huyết (QĐ 2760/2023 mục II.2) và còn khả năng Kawasaki (AHA 2024; QĐ 3312 mục 4.2b: IVIG trong 10 ngày đầu), cùng thiếu nước. Quan sát tại bệnh viện, kèm hoặc không xét nghiệm, cũng được khuyến cáo (NICE NG143 mục 1.5.14)."
+    },
+    {
+     "t": "Bù nước uống ORS từng thìa, từng ngụm: khoảng 75 ml/kg (≈ 1.300 ml cho 17 kg) trong 4 giờ, bắt đầu tại phòng khám và tiếp tục trên đường đi",
+     "v": "c",
+     "n": "Mất nước mức vừa: ORS 75 ml/kg trong 4 giờ, bé 12–19 kg: 900–1.400 ml (WHO 2013, mục 5.2.2 và Chart 14, tr. 132, 135); nôn thì chờ 10 phút rồi cho chậm hơn."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 10–15 mg/kg (khoảng 200 mg) khi bé khó chịu vì sốt, cách liều trước ít nhất 6 giờ",
+     "v": "c",
+     "n": "Liều lần trước 15 giờ nên được dùng lại sau 21 giờ (cách ≥ 6 giờ, AWaRe 2022 – Viêm họng trẻ em) hoặc 4–6 giờ theo QĐ 2760/2023 (Điều trị triệu chứng); dùng khi bé khó chịu, không chỉ để hạ nhiệt độ (NICE NG143 mục 1.6.4–1.6.5). Mâu thuẫn hạ sốt đã có trong sổ: ghi cả hai cách."
+    },
+    {
+     "t": "Không dùng ibuprofen, aspirin; không dùng kháng sinh đường uống khi chưa có chẩn đoán",
+     "v": "c",
+     "n": "QĐ 2760/2023 (Điều trị triệu chứng): không dùng aspirin, analgin, ibuprofen khi còn nghi sốt xuất huyết; NICE NG143 mục 1.4.9: không cho kháng sinh uống với sốt không rõ ổ. NICE mục 1.6.4 cho phép paracetamol hoặc ibuprofen nhưng không áp dụng khi sốt xuất huyết chưa loại trừ."
+    },
+    {
+     "t": "Không cho thuốc ngủ, an thần; giải thích với mẹ và tìm cách để mẹ và bé nghỉ ngơi",
+     "v": "c",
+     "n": "Thuốc an thần làm khó đánh giá tri giác; trẻ ngủ li bì hoặc chỉ thức khi kích thích kéo dài là dấu hiệu 'vàng' (NICE NG143 Bảng 2). WHO 2013 ghi 'không dùng thuốc an thần' trong ho và viêm phổi (mục 4). Khuyến cáo thuốc ngủ riêng cho trẻ sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và ghi rõ cho tuyến trên việc đã dùng prednisolon (liều, ngày), và xin lại kết quả xét nghiệm sáng nay thay vì làm lại tại đây",
+     "v": "c",
+     "n": "Corticoid là yếu tố nguy cơ nhiễm khuẩn huyết (QĐ 3312/2015, Nhiễm trùng huyết mục 1.3, 2.1a). Ảnh hưởng của vài ngày prednisolon lên đường sốt hay CRP: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấy máu, tìm NS1, siêu âm tim và theo dõi tiểu cầu/hematocrit nối tiếp ở tuyến trên",
+     "v": "a",
+     "n": "Cần làm ở nơi có điều kiện, đưa vào thư chuyển tuyến (QĐ 3312/2015, Nhiễm trùng huyết mục 2.1c; QĐ 2760/2023 mục chẩn đoán căn nguyên 1.1; AHA 2024). Không bắt buộc trong lượt khám này."
+    },
+    {
+     "t": "Cho bé về, hạ sốt, hẹn mai tái khám",
+     "v": "h",
+     "n": "Dấu hiệu 'vàng' chưa có chẩn đoán, không xét nghiệm được ngoài giờ: dặn dò có hẹn chỉ là phương án khi phòng khám có thể kiểm tra lại đủ nhanh (NICE NG143 mục 1.4.4); ở đây ngoài giờ, không có phương tiện nên có thể bỏ sót bệnh nặng (sốt xuất huyết ngày 5, nhiễm khuẩn huyết, Kawasaki)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay tại phòng khám",
+     "v": "w",
+     "n": "Bé uống được; mất nước mức vừa điều trị bằng ORS (WHO 2013 mục 5.2.2). Truyền dịch thường ở tuyến trên khi cần; sốt xuất huyết dùng dịch phải theo hematocrit và tiểu cầu (QĐ 2760/2023), không làm được ở đây."
+    },
+    {
+     "t": "Cho kháng sinh uống hoặc tiêm 'phòng nhiễm khuẩn'",
+     "v": "w",
+     "n": "NICE NG143 mục 1.4.9: không cho kháng sinh uống trẻ sốt không rõ ổ. Kháng sinh sớm chỉ khi nghi nhiễm khuẩn huyết nặng hoặc sốc (QĐ 3312/2015); bé không có dấu hiệu đó."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt không rõ ổ nhiễm kéo dài 5 ngày ở trẻ nam 4 tuổi, 17 kg, nhóm 'vàng' theo NICE NG143 (sốt ≥ 5 ngày, tim nhanh 142 l/p, niêm mạc khô, tiểu ít)",
+     "Đồng thời: viêm dạ dày ruột cấp nhẹ sau ăn phở với mất nước mức vừa (đang thiếu nước, nhưng không giải thích được sốt)",
+     "Chưa loại được: sốt xuất huyết Dengue ở giai đoạn nguy hiểm (ngày 5), nhiễm khuẩn huyết, Kawasaki không điển hình",
+     "Đã loại trên lâm sàng và que thử: nhiễm trùng tiểu, viêm phổi, viêm tai giữa, viêm họng, viêm màng não",
+     "Đã dùng prednisolon tự mua 2 ngày (yếu tố nguy cơ nhiễm khuẩn huyết); lý do thật khi đến khám: muốn thuốc ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'hai chẩn đoán cùng lúc': ba nơi trước đều dừng ở 'ngộ độc thức ăn/virus' vì mẹ nhớ 'sốt sau khi ăn phở'. Dữ kiện không được giải thích bởi viêm dạ dày ruột (theo hỏi bệnh và CRP sáng nay): (1) sốt bắt đầu trước bữa phở một ngày; (2) sốt vẫn 39 °C ngày 5 khi tiêu chảy chỉ còn 1 lần/ngày; (3) CRP 42 mg/L; (4) không tìm thấy ổ nhiễm nào. Viêm dạ dày ruột giải thích nôn, tiêu chảy, mất nước, nhưng phần sốt kéo dài còn chưa có lời giải.",
+     "Sốt không rõ ổ: sau hỏi bệnh và khám đủ họng, tai, phổi, bụng, tiết niệu, da, khớp, thần kinh đều không có ổ nhiễm khu trú. Một số nguyên nhân sốt không có dấu khu trú: nhiễm khuẩn huyết, Salmonella, lao kê, nhiễm trùng tiểu (WHO 2013 mục 6.1.2, tr. 153).",
+     "Phân tầng nguy cơ (NICE NG143 2021, Bảng 2): 'vàng' vì sốt ≥ 5 ngày, mạch > 140 l/p ở tuổi 2–5 (mục 1.2.15, Bảng 1), niêm mạc khô, tiểu ít. Chưa có dấu 'đỏ': không ban không mất huyết, không cứng gáy, tri giác tốt, mao mạch 2 giây (dưới 3 giây). Không dùng thời gian sốt để dự đoán bệnh nặng, nhưng sốt ≥ 5 ngày phải nghĩ Kawasaki (mục 1.2.14).",
+     "Vì sao không dừng ở 'virus': NICE mục 1.4.4 yêu cầu có amber mà chưa chẩn đoán thì hoặc dặn dò có hẹn giờ và nơi khám lại, hoặc chuyển chuyên khoa nhi. Ở đây dặn dò có hẹn không an toàn vì ngoài giờ, không xét nghiệm, bé đã ba nơi chưa chẩn đoán và đã dùng corticoid (yếu tố nguy cơ nhiễm khuẩn huyết, QĐ 3312/2015 mục 1.3).",
+     "Sốt xuất huyết: ngày 5 nằm trong giai đoạn nguy hiểm (ngày 3–7), có dịch tễ cùng hẻm, tiểu ít là một dấu cảnh báo (QĐ 2760/2023 mục II.2); chống lại: bạch cầu 12,1 và tiểu cầu 290 G/L, giai đoạn sốt thường bạch cầu giảm, tiểu cầu giảm dần (mục II.1.2). Vì vậy xét nghiệm sáng nay không loại hẳn sốt xuất huyết ở ngày 5; cần theo dõi tiểu cầu, hematocrit nối tiếp và NS1 (ưu tiên 5 ngày đầu, mục chẩn đoán căn nguyên 1.1).",
+     "Nhiễm trùng tiểu: dữ kiện hỏi bệnh âm tính, hố thắt lưng và trên xương mu không đau, que thử nước tiểu bạch cầu và nitrit đều âm tính (NICE NG224 2022 mục 1.1.20, Bảng 2) cộng nước tiểu sáng nay bình thường: coi như loại trừ.",
+     "Kawasaki: không đủ 5/6 biểu hiện (QĐ 3312/2015 mục 3.3a); thể không điển hình vẫn có thể gặp ở trẻ sốt ≥ 5 ngày, cần CRP, bạch cầu, tiểu cầu sau ngày 7, albumin, men gan, nước tiểu và siêu âm tim (mục 3.3b); AHA 2024: điều trị sớm trong 10 ngày kể từ khi sốt làm giảm nguy cơ giãn mạch vành. Hỏi đặc điểm từ lúc khởi phát vì có thể đã biến mất (NICE mục 1.2.26).",
+     "Nhiễm khuẩn huyết: lâm sàng tại giường chưa đủ (tỉnh, SpO₂ 98%, thở 26, mao mạch 2 giây, không ban). Nghi ngờ khi có trên hai dấu hiệu: sốt, tim nhanh, thở nhanh, bạch cầu > 12.000 hoặc < 4.000 /mm³ (QĐ 3312/2015, Nhiễm trùng huyết mục 2.2): bé sốt, tim nhanh, bạch cầu 12.100 sáng nay, nhưng sốt và tim nhanh cũng do mất nước nên không chẩn đoán, chỉ chưa loại được; Phoenix 2024 (≥ 2 điểm về hô hấp, tim mạch, đông máu, thần kinh) không có trên lâm sàng.",
+     "Ca bẫy 'hai chẩn đoán': anchoring vào bữa phở (3 nơi trước); bẫy thứ hai là corticoid mẹ giấu: làm sốt thất thường, khó đánh giá đáp ứng với hạ sốt. Không dựa vào nhiệt độ giảm sau antipyretic để phân biệt nặng nhẹ (NICE mục 1.4.8)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến đêm nay (không chờ sáng): quyết định trước khi có kết quả vì xét nghiệm chỉ có sau nhiều giờ hoặc không có; chuẩn bị trước chuyển là đáp án của ca. Nguồn: NICE NG143 mục 1.4.4 và 1.5.14; QĐ 2760/2023 mục II.2; QĐ 3312/2015 (Nhiễm trùng huyết mục 1.3; Kawasaki mục 4.2b).",
+     "Trước khi đi: bắt đầu ORS đúng cách (75 ml/kg trong 4 giờ, nôn thì nghỉ 10 phút rồi cho chậm lại; WHO 2013 mục 5.2.2, Chart 14); paracetamol nếu bé khó chịu; theo dõi mạch, nhịp thở, tri giác, tiểu; xin kết quả xét nghiệm cũ, ghi liều prednisolon, giờ cuối uống paracetamol.",
+     "Bàn giao theo SBAR (tình huống: sốt 5 ngày không rõ ổ, tim nhanh, mất nước vừa; bối cảnh: ba nơi khám, prednisolon, đã có CTM/CRP/UA sáng nay; đánh giá: chưa loại sốt xuất huyết, nhiễm khuẩn huyết, Kawasaki; đề nghị: cấy máu, NS1, Hct/tiểu cầu nối tiếp, siêu âm tim, theo dõi ở khoa nhi). Mẫu giấy chuyển tuyến kèm tóm tắt: QĐ 2760/2023 (Phụ lục: giấy tóm tắt kèm giấy chuyển tuyến); SBAR không có trong tài liệu đã tải.",
+     "Hạ sốt: NICE NG143 mục 1.6.4–1.6.5: cân nhắc paracetamol hoặc ibuprofen khi bé khó chịu, không chỉ để hạ nhiệt độ; QĐ 2760/2023: chỉ paracetamol đơn chất 10–15 mg/kg/lần, 4–6 giờ, không dùng ibuprofen. Khác bối cảnh (sốt xuất huyết chưa loại trừ), nên ở bé này chọn paracetamol.",
+     "Không cho thuốc ngủ: chỉ tìm nhu cầu thật của mẹ (ngủ), giải thích rằng thuốc an thần có thể che giấu dấu hiệu tri giác xấu đi; đây là chỗ thu hoạch động cơ ẩn.",
+     "Không dùng kháng sinh uống (NICE NG143 mục 1.4.9); kháng sinh tĩnh mạch sau khi lấy cấy máu nếu tuyến trên thấy cần (QĐ 3312/2015, Nhiễm trùng huyết mục 2.1c: cấy máu trước khi tiêm kháng sinh)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS) pha theo hướng dẫn",
+      "ham_luong": "Gói pha sẵn theo nhà sản xuất",
+      "lieu": "75 ml/kg ≈ 1.300 ml trong 4 giờ đầu (khoảng 900–1.400 ml cho trẻ 12–19 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu ngay, từng thìa hoặc ngụm nhỏ; tiếp tục trong lúc chuyển tuyến",
+      "so_ngay": "4 giờ đầu, sau đó đánh giá lại",
+      "ghi_chu": "WHO 2013 mục 5.2.2, Chart 14 (tr. 132, 135): nôn thì chờ 10 phút rồi cho chậm hơn."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột)",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "200 mg/lần (≈ 11,8 mg/kg; cho phép 10–15 mg/kg = 170–255 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi bé khó chịu vì sốt; lần trước 15 giờ nên dùng lại từ 21 giờ; cách ít nhất 6 giờ (AWaRe 2022) hoặc 4–6 giờ (QĐ 2760/2023)",
+      "so_ngay": "Trong lúc còn sốt gây khó chịu; tối đa 4 lần/24 giờ",
+      "ghi_chu": "AWaRe 2022 (Viêm họng trẻ em): 10–15 mg/kg mỗi 6 giờ; QĐ 2760/2023 (Điều trị triệu chứng): paracetamol đơn chất 10–15 mg/kg/lần mỗi 4–6 giờ; QĐ 3312/2015 (Co giật do sốt mục 4.1): ≤ 60 mg/kg/24 giờ ≈ 1.020 mg, chọn mức này vì thận trọng hơn; NICE NG143 mục 1.6.4–1.6.6."
+     }
+    ],
+    "dan_do": [
+     "Với mẹ (lời giao tiếp, không cần nguồn): 'Chị đã đưa bé đi ba nơi mà vẫn chưa ra bệnh nên chị mệt và nghi ngờ là đúng. Lần này tôi không bảo bé bị virus rồi cho về, vì bé sốt đã 5 ngày, tim đập nhanh, hơi thiếu nước, và ở đây tối nay không làm được xét nghiệm cần thiết. Tôi muốn bé được theo dõi ở nơi làm được ngay.'",
+     "Hỏi mẹ về prednisolon bằng giọng không phán xét: 'Chị cho bé uống gì mà các bác sĩ khác chưa biết, kể cả thuốc người quen đưa'. Giải thích vì sao tuyến trên cần biết loại, liều, ngày; không tự cho corticoid hay kháng sinh nữa (QĐ 3312/2015, Nhiễm trùng huyết mục 1.3).",
+     "Về thuốc ngủ: giải thích không dùng thuốc ngủ cho bé; bé quấy vì sốt và thiếu nước. Nếu tuyến trên giữ bé, mẹ được hướng dẫn nghỉ xen kẽ với người nhà.",
+     "Chuẩn bị đi: mang theo sổ nhiệt độ, tờ kết quả sáng nay, các đơn thuốc ba nơi, vỉ prednisolon, nước ORS và ly nhỏ; đi ngay trong đêm; đưa bé bằng xe có người lớn đi kèm, gọi báo trước cho nơi nhận.",
+     "Trên đường đi, gọi cấp cứu 115 hoặc dừng xe vào cơ sở y tế gần nhất nếu bé co giật, li bì khó đánh thức, nôn tất cả mọi thứ, nổi ban không biến mất khi ấn, thở nhanh hoặc rút lõm ngực, tay chân lạnh, không đi tiểu trên 8 giờ, hoặc mẹ thấy bé nặng hơn (NICE NG143 mục 1.7.3, Bảng 2).",
+     "Mẹ cũng cần nghỉ: nhờ người thân thay phiên chăm bé; nếu mệt mỏi quá, nói với bác sĩ khoa nhi (NICE NG143 mục 1.7.3: phụ huynh quá lo lắng, không thể tự chăm con là lý do tìm trợ giúp)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chuyển tuyến bệnh viện nhi trong đêm. Bé được bù nước, theo dõi: cấy máu không mọc vi khuẩn, NS1 âm tính, tiểu cầu đo nối tiếp không giảm, siêu âm tim bình thường; sốt tự hạ vào ngày thứ 7, kết luận sốt do virus chưa xác định, bé ổn và xuất viện sau vài ngày. Mẹ được dặn không tự cho corticoid và hẹn tái khám nhi. Đây là kết cục thiết kế của ca, không phải số liệu từ tài liệu.",
+ "nhieu": [
+  "Mẹ mất niềm tin sau ba nơi khám: ngắt lời, than phiền, không muốn làm lại xét nghiệm cũ; bác sĩ phải nhắc đúng những gì các nơi trước đã làm, hỏi nhẹ nhàng.",
+  "Corticoid tự mua (prednisolon) mẹ giấu vì sợ bị trách: chỉ lộ khi hỏi cụ thể từng loại thuốc.",
+  "Lý do thật: muốn thuốc ngủ cho bé và cho mẹ ngủ; không phải triệu chứng của bé.",
+  "Ngoài giờ, không có kỹ thuật viên: không có xét nghiệm máu, X-quang, siêu âm; còn que thử nước tiểu, đường huyết mao mạch, điện tim.",
+  "Bữa phở vỉa hè là mỏ neo gây lệch chẩn đoán: tiêu chảy đến sau sốt."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: tìm ra viêm dạ dày ruột sau ăn phở rồi đóng hồ sơ là premature closure. Dữ kiện không được giải thích: sốt có trước bữa phở, sốt kéo dài khi tiêu chảy đã giảm, CRP tăng, không có ổ nhiễm.",
+  "Từng khám 3 nơi không khỏi: tái lập niềm tin bằng cách nhắc lại những gì các nơi trước đã làm và nói rõ vì sao lần này khác; dùng lại kết quả xét nghiệm cũ thay vì lặp lại vô ích.",
+  "Ngoài giờ không có xét nghiệm: quyết định chuyển tuyến trước khi có kết quả, dựa vào phân tầng nguy cơ lâm sàng (NICE NG143) chứ không chờ cận lâm sàng.",
+  "Thuốc đang dùng: hỏi từng loại thuốc, kể cả thuốc mua ngoài; corticoid là yếu tố nguy cơ nhiễm khuẩn huyết (QĐ 3312/2015).",
+  "Lý do thật sự đến khám (thuốc ngủ) quyết định sự hài lòng nhiều hơn nhiệt độ của bé; hỏi 'chị cần tôi giúp gì nhất tối nay'.",
+  "Sốt ngày thứ 5 trở đi: nghĩ Kawasaki dù chưa đủ biểu hiện, hỏi đặc điểm từ lúc khởi phát (NICE NG143 mục 1.2.25–1.2.26)."
+ ],
+ "diem_nho": [
+  "NICE NG143 2021: nhóm 'vàng' gồm sốt ≥ 5 ngày, mạch > 140 l/p (2–5 tuổi), niêm mạc khô, tiểu ít, mao mạch ≥ 3 giây; có dấu 'vàng' mà chưa có chẩn đoán thì dặn dò có hẹn giờ và nơi khám lại hoặc chuyển chuyên khoa nhi (mục 1.4.4); không cho kháng sinh uống với sốt không rõ ổ (mục 1.4.9).",
+  "Mất nước mức vừa: từ hai dấu (bứt rứt, khát uống háo hức, mắt trũng, véo da chậm) cho ORS 75 ml/kg trong 4 giờ (WHO 2013 mục 5.2.2, Chart 14).",
+  "Sốt xuất huyết Dengue: giai đoạn nguy hiểm thường ngày 3–7; NS1 ưu tiên trong 5 ngày đầu; không dùng aspirin, ibuprofen (QĐ 2760/2023).",
+  "Nhiễm trùng huyết trẻ em: nghi khi trên hai dấu (sốt hoặc hạ thân nhiệt, tim nhanh, thở nhanh, bạch cầu bất thường); corticoid là yếu tố nguy cơ; cấy máu trước kháng sinh (QĐ 3312/2015).",
+  "Kawasaki: IVIG nên dùng trong 10 ngày đầu của bệnh (QĐ 3312/2015 mục 4.2b; AHA 2024).",
+  "Nước tiểu: que thử cả bạch cầu và nitrit âm tính thì xem như không có nhiễm trùng tiểu ở trẻ ≥ 3 tuổi (NICE NG224 2022 mục 1.1.20, Bảng 2)."
+ ],
+ "nguon": [
+  "NICE NG143 2021 (Fever in under 5s) – TL-0262 – ĐÃ ĐỌC: Bảng 2 (đèn giao thông), mục 1.2.14–1.2.16, 1.2.25–1.2.26, 1.4.1–1.4.9, 1.5.14–1.5.15, 1.6.4–1.6.6, 1.7.2–1.7.3, Bảng 3",
+  "NICE NG224 2022 (Urinary tract infection in under 16s) – TL-0259 – ĐÃ ĐỌC: mục 1.1.20, Bảng 2",
+  "WHO 2013 Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 6.1.1–6.1.2 (tr. 150–153), mục 5.2.2 và Chart 14 (tr. 132, 135), mục 4 (không dùng thuốc an thần)",
+  "QĐ 3312/QĐ-BYT 2015 (Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em) – TL-0037 – ĐÃ ĐỌC: Nhiễm trùng huyết mục 1.3, 2.1–2.2 (tr. 524–526); Kawasaki mục 3.2–3.3, 4.2 (tr. 312–314); Co giật do sốt mục 4.1 (liều paracetamol)",
+  "QĐ 2760/QĐ-BYT 2023 (Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue) – TL-0029 – ĐÃ ĐỌC: mục II.1–II.2 (diễn biến lâm sàng), chẩn đoán căn nguyên 1.1, điều trị triệu chứng, Phụ lục 2",
+  "AHA 2024 (Update on diagnosis and management of Kawasaki disease) – TL-0068 – ĐÃ ĐỌC: mục Diagnosis, Key Points; điều trị trong 10 ngày",
+  "Phoenix 2024 – TL-0065, TL-0277: tiêu chuẩn nhiễm khuẩn huyết nhi (điểm ≥ 2)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018: liều paracetamol (Viêm họng trẻ em)"
+ ],
+ "phien_ban_ca": "1 – viết 2026-10-12",
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-12 – viết: Sonnet. Đặc tả sổ cái NH-1368 (lô 44, thứ tự 101).",
+  "Tài liệu đã đọc: TL-0262 (NICE NG143: Bảng 2, mục 1.2, 1.4, 1.5, 1.6, 1.7); TL-0259 (NICE NG224 mục 1.1.20); TL-0250 (WHO 2013 mục 6.1, 5.2.2, Chart 14); TL-0037 (QĐ 3312: Nhiễm trùng huyết, Kawasaki); TL-0029 (QĐ 2760); TL-0068 (AHA 2024 Kawasaki); TL-0065/0277 (Phoenix).",
+  "Không có trong tài liệu đã tải: tác động của vài ngày prednisolon lên đường sốt hay CRP; khuyến cáo thuốc ngủ riêng cho trẻ sốt; ngưỡng CRP/bạch cầu giúp phân biệt virus và vi khuẩn ở ca này; SBAR; lượng ORS bù thêm sau mỗi lần tiêu chảy (đã bỏ).",
+  "Kết cục (tiểu cầu theo ngày, cấy máu âm, siêu âm tim bình thường) là thiết kế ca, không phải số liệu từ tài liệu.",
+  "Mâu thuẫn paracetamol 4–6 giờ (QĐ 2760) và 6 giờ (AWaRe), paracetamol/ibuprofen (NICE) và không ibuprofen (QĐ 2760): theo sổ mâu thuẫn mục 'Hạ sốt ở trẻ' (NH-0199); đã ghi cả hai; ibuprofen khác bối cảnh vì sốt xuất huyết chưa loại trừ."
+ ]
+}
