@@ -1,0 +1,754 @@
+{
+ "ma_ca": "DL-0416",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_choc_viem_mo_te_bao_nhe",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Chốc / nhiễm khuẩn da (viêm mô tế bào nhẹ)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mô tế bào nặng",
+   "Zona",
+   "Nấm da"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau dùng thuốc chống viêm không steroid (NSAID)",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Sáu",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa và làm vườn, hằng ngày lội ruộng, nhiều hôm đi chân đất hoặc đi ủng cao su ẩm",
+  "can_nang": 56,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác' (hoặc 'ông'). Ông xưng 'tôi', gọi 'bác sĩ', hay thêm 'à' 'nghen' cuối câu.",
+  "tinh_cach": "Gầy, rám nắng, nói chậm giọng quê, chịu đau giỏi, ngại tốn tiền và ngại làm phiền. Tin điện thoại do thằng cháu nội cài sẵn (Zalo, Google) hơn tin lời người lớn; sợ 'thuốc tây hại gan thận'. Không coi thuốc bắc và thuốc giảm đau mua ở tiệm là 'thuốc' nên hỏi chung 'đang uống thuốc gì' chỉ trả lời 'tôi có uống thuốc gì đâu'.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mở đầu bằng khẳng định 'tôi bị giời leo', vì thằng cháu tra điện thoại thấy 'giời leo mà leo giáp vòng là chết người', rồi xin thuốc uống 'diệt siêu vi' và thuốc chích. Nếu bác sĩ gạt đi ('giời leo gì, đừng tin mạng') thì ông im lặng, trả lời ngắn, không kể thêm chuyện thuốc. Nếu bác sĩ ghi nhận nỗi sợ rồi chỉ ra từng điểm khác với giời leo trên chính cái chân của ông thì ông hợp tác, kể đủ.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#c9996b",
+   "toc": "#bdbdbd",
+   "kieuToc": "ngan",
+   "ao": "#6b7a4f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Vết lở, mụn nước, vảy vàng ở cẳng chân phải khoảng 1 tuần; cháu tra mạng nghi giời leo",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Văn Sáu, 67 tuổi, nông dân, đến vì vết lở ở cẳng chân phải khoảng 1 tuần. Hồ sơ cũ: khám đau gối 4 tuần trước, được dặn tái khám sau 4 tuần (hôm nay đúng hẹn). Sinh hiệu: mạch 80 l/p, HA 134/82 mmHg, nhiệt độ 37,3 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 56 kg, chiều cao 163 cm.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Cái chân tôi nó lở, rát rát, có mụn nước với vảy vàng. Thằng cháu nội tra điện thoại nói tôi bị giời leo, mà giời leo leo giáp vòng là chết người. Bác sĩ cho tôi thuốc uống diệt siêu vi với thuốc chích cho nhanh nghen.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "134/82",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Cẳng chân phải có vết lở, rát, có mụn nước và vảy vàng, khoảng 1 tuần. Thằng cháu nội tra điện thoại bảo là giời leo nên ông sợ, xin thuốc uống 'diệt siêu vi' và thuốc chích.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, chẩn đoán tự tra (zona)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 7 ngày trước, lúc làm cỏ ngoài ruộng thấy ngứa chỗ cẳng chân, nghĩ muỗi hay kiến cắn, gãi và cạy. Khoảng 4 ngày trước nổi vài mụn nước nhỏ, vỡ ra chảy nước vàng rồi đóng vảy vàng như mật. Hai ngày nay chỗ đó đỏ lan ra khoảng bàn tay nhỏ, nóng, ấn hơi đau, mọc thêm vài mụn nhỏ bên cạnh. Ban đầu ngứa nhiều hơn rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ vết cắn, gãi; mụn nước, vảy tiết vàng mật ong; quầng viêm lan"
+    },
+    {
+     "id": "khong_zona",
+     "noi_dung": "Không có đợt đau, tê, châm chích hay nóng rát chạy dọc một dải da trước khi nổi mụn. Không đau như dao đâm, ban đêm ngủ được. Mụn nước không mọc thành chùm dọc một đường, chỉ có một chỗ ở cẳng chân phải. Hồi nhỏ ông có bị thủy đậu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ zona: không có đau thần kinh, không theo dải dây thần kinh"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không ớn lạnh, ăn cơm bình thường, chỉ hơi mỏi người. Không đau căng bắp chân, không thấy đường đỏ chạy lên đùi, không bọng nước lớn, không tím bầm, không đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu toàn thân, dấu hiệu nhiễm khuẩn sâu"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Mấy tuần nay đau gối khi lội ruộng, nên 10 ngày trước ra tiệm thuốc mua vỉ thuốc giảm đau 'xương khớp' viên trắng, không nhớ tên (là thuốc chống viêm không steroid). Uống ngày 2 viên khoảng 6 ngày, ngưng 4 ngày nay vì hết đau và hơi cồn cào bụng. Chân lở bắt đầu 3 ngày sau khi bắt đầu uống, nên ông nghĩ 'thuốc làm nổi mụn'. Mỗi lần làm ruộng nặng ông đều mua uống như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát theo sổ cái: dùng NSAID trước khi nổi tổn thương (mối liên quan nhân quả không có trong tài liệu)"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Gần 3 tuần nay mỗi ngày uống một thang thuốc bắc của ông thầy lang trong xóm, nói 'bổ gân cốt, trị nhức mỏi', không biết thành phần; ông không kể vì không coi là thuốc. Không có thuốc tây nào khác (không thuốc huyết áp, tiểu đường, không corticoid hay thuốc ức chế miễn dịch).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc bắc không rõ thành phần (chỉ kể khi hỏi đích danh thuốc nam, thuốc bắc)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra hôm nay ông đến vì phòng khám nhắn tin nhắc lịch tái khám đau gối (hẹn 4 tuần). Vết ở chân ông định 'tiện thể' hỏi luôn; nếu không có hẹn thì ông tự mua thuốc bôi hoặc nhờ thầy lang, vì ngại tốn tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông không tự kể. Chỉ nói khi bác sĩ hỏi vì sao hôm nay đến, có hẹn tái khám không, hoặc lần khám trước dặn gì.",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn (phải khép lại cả vấn đề đau gối và NSAID)"
+    },
+    {
+     "id": "di_ung_tien_su",
+     "noi_dung": "Không dị ứng thuốc nào (chưa từng dị ứng penicillin, kháng sinh). Không biết mình có tiểu đường; thỉnh thoảng đo huyết áp thấy cao nhưng chưa uống thuốc. Không bệnh thận, gan đã biết. Chưa từng bị giời leo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc (an toàn khi kê kháng sinh), bệnh nền"
+    },
+    {
+     "id": "chan_dat",
+     "noi_dung": "Ông hay đi chân đất hoặc ủng cao su ẩm lội ruộng, về chỉ rửa nước giếng. Kẽ ngón chân phải hay trắng, ẩm, hơi ngứa. Ban đầu ông cạy vảy và bôi dầu cù là lên vết lở; không tự uống kháng sinh, không bôi kem corticoid hay kem kháng nấm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố thuận lợi nhiễm khuẩn: ẩm, kẽ ngón, gãi, cạy"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ông ngủ chung giường với cháu nội 4 tuổi, cháu hay ôm chân ông; dùng chung khăn tắm. Cháu và người nhà chưa có mụn lở.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguy cơ lây trong gia đình, lời dặn vệ sinh"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân phải, mặt trước – ngoài 1/3 giữa: một tổn thương chính khoảng 1,5 × 2 cm, trợt nông, phủ vảy tiết vàng mật ong lốm đốm, rìa có dịch vàng đục, nền đỏ ướt. Quanh đó có quầng đỏ không đều, ranh giới không sắc nét, khoảng 5 × 6 cm, hơi nề, nóng, ấn đau nhẹ; trong và sát rìa quầng có 3 sẩn – mụn mủ nhỏ 2–3 mm. Cạnh tổn thương có một đốm nâu phẳng khoảng 1 cm đã có từ lâu. Không bọng nước lớn, không xuất huyết, không bầm tím, không hoại tử hay bóc tách da, không ấn lép bép, không đường đỏ lan lên đùi. Không mụn nước thành chùm, không theo dải thần kinh, không lành giữa, không bờ vảy hình vòng. Chân trái, thân mình, tay, mặt, da đầu: không tổn thương.",
+     "k": 1,
+     "hien": "Cẳng chân phải, mặt trước – ngoài 1/3 giữa: một tổn thương chính khoảng 1,5 × 2 cm phủ vảy tiết màu vàng và vết trợt (ảnh 1); quầng da đỏ quanh tổn thương khoảng 5 × 6 cm, vài mụn nhỏ 2–3 mm cạnh bên và một đốm nâu phẳng (ảnh 2). Chân trái, thân mình, hai tay, mặt: không có tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng chân phải (cận cảnh tổn thương chính)",
+       "id": "HA-DA-0006",
+       "chu": "Tổn thương trợt nông phủ vảy tiết vàng lốm đốm, nền đỏ ướt, quầng đỏ xung quanh ở cẳng chân."
+      },
+      {
+       "vi_tri": "Cẳng chân phải (nhìn rộng)",
+       "id": "HA-DA-0007",
+       "chu": "Tổn thương chính phủ vảy tiết vàng, quầng đỏ khoảng 5 cm, vài sẩn đỏ nhỏ cạnh bên và một đốm nâu phẳng."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai cẳng chân không phù, không giãn tĩnh mạch nổi, không loét ứ trệ. Cẳng chân phải: bắp chân mềm, ấn không đau, không đau không tương xứng với tổn thương da. Mạch mu chân hai bên bắt rõ. Kẽ ngón 4 – 5 bàn chân phải: da trắng ngâm nước, ẩm, nứt nhẹ, hơi bong; kẽ ngón chân trái bình thường. Hạch bẹn phải: một hạch 1 cm, mềm, di động, hơi đau; hạch bẹn trái không sờ thấy.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy, BMI ≈ 21 kg/m², da rám nắng, niêm hồng. Không vẻ mặt nhiễm độc, không lơ mơ. Không phù.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối: lạo xạo khi gấp duỗi, không sưng, không nóng, không đỏ, không tràn dịch; đau nhẹ khi ấn khe khớp trong bên phải. Các khớp khác bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "a",
+     "r": "Nhuộm Gram dịch tổn thương: nhiều bạch cầu đa nhân, cầu khuẩn Gram dương xếp chùm và từng đám. Cấy: trả lời sau 48 – 72 giờ (xem lượt 2).",
+     "n": "Chấp nhận, không bắt buộc: ca điển hình có thể điều trị không cần Gram, cấy (IDSA 2014, chốc KC 1); viêm mô tế bào điển hình không cấy thường quy (KC 12). QĐ 4416 (Chốc mục 2.2): Gram, cấy, kháng sinh đồ giúp điều trị ca khó."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,6 G/L · Neutrophil 66% · Lympho 24% · Hb 134 g/L · TC 248 G/L",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 66,
+      "lym_pct": 24,
+      "hgb": 134,
+      "plt": 248
+     },
+     "n": "Chấp nhận: QĐ 4416 (Chốc mục 2.2) ghi bạch cầu có thể tăng; không bắt buộc khi không có dấu hiệu toàn thân. Bạch cầu bất thường là một tiêu chí SIRS (IDSA 2014, chú thích Hình 1)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "14 mg/L",
+     "bang": {
+      "crp": 14
+     },
+     "n": "Chấp nhận: QĐ 4416 (Chốc mục 2.2) ghi CRP có thể tăng; không quyết định kháng sinh, vì chẩn đoán chủ yếu dựa vào lâm sàng (mục 2.3)."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose máu đói 5,6 mmol/L",
+     "bang": {
+      "glu": 5.6
+     },
+     "n": "Chấp nhận: người cao tuổi chưa biết đường huyết; QĐ 4416 (Nhọt, áp xe mục 1.2) nêu tiểu đường là đối tượng hay gặp nhiễm khuẩn da. Mục Chốc không có chỉ định đường huyết."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,1 mmol/L · Creatinin 84 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.1,
+      "creat": 84,
+      "egfr": 82
+     },
+     "n": "Chấp nhận: người 67 tuổi vừa dùng NSAID, cần biết chức năng thận trước khi kê thuốc; NICE NG153 2020 (Bảng 1) trỏ đến BNF để chỉnh liều khi suy thận; liều chỉnh theo eGFR: không có trong tài liệu đã tải."
+    },
+    "soi_nam": {
+     "v": "a",
+     "r": "Soi tươi KOH (vảy rìa tổn thương cẳng chân và kẽ ngón 4 – 5 chân phải): không thấy sợi nấm, không thấy bào tử nấm.",
+     "n": "Chấp nhận, không bắt buộc: nấm da dựa vào lâm sàng và soi tươi (QĐ 4416, Nấm sợi mục 2.2, 2.3); ca này không lành giữa nên không cần. Kẽ ngón trắng ẩm là ngâm nước (IDSA 2014, KC 17)."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: không có trong xét nghiệm của QĐ 4416 (Chốc mục 2.2); không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc (chốc không bọng nước) ở cẳng chân phải kèm viêm mô tế bào nhẹ quanh tổn thương, ngoại trú, không có dấu hiệu toàn thân",
+     "ok": 1,
+     "n": "Sau vết cắn, gãi: vảy tiết vàng mật ong trên nền đỏ ướt, thêm sẩn – mụn mủ (QĐ 4416, Chốc mục 2.1); chẩn đoán chủ yếu dựa vào lâm sàng (mục 2.3). Quầng đỏ nóng đau, không mủ lớn, không SIRS (nhiệt 37,3 °C, mạch 80, nhịp thở 18, bạch cầu 9,6 G/L) là viêm mô tế bào điển hình mức nhẹ (IDSA 2014, chú thích Hình 1). Yếu tố thuận lợi: côn trùng cắn, gãi, ẩm (QĐ 4416, Chốc mục 1.2)."
+    },
+    {
+     "t": "Viêm mô tế bào nặng, viêm cân cơ hoại tử",
+     "n": "Loại trừ: không sốt, mạch 80, nhịp thở 18, không lơ mơ, không đau không tương xứng, không cứng như gỗ, không bọng nước xuất huyết, không hoại tử, không khí dưới da (IDSA 2014, phần viêm cân cơ hoại tử; KC 27). Nặng khi thất bại kháng sinh uống, có dấu hiệu toàn thân, bọng nước, bóc tách da, tụt huyết áp (chú thích Hình 1); ca này chưa dùng kháng sinh."
+    },
+    {
+     "t": "Zona",
+     "n": "Loại trừ: zona là ban đỏ, mụn nước chùm dọc một dây thần kinh, thường một bên, sau 1 – 5 ngày đau bỏng, châm chích (QĐ 4416, Zona mục 1.1, 2.1). Ông không đau thần kinh trước, không chùm mụn nước; chẩn đoán chủ yếu bằng lâm sàng (mục 2.3), không cần Tzanck, PCR."
+    },
+    {
+     "t": "Nấm da (nấm thân, nấm bàn chân)",
+     "n": "Loại trừ: nấm thân là mảng đỏ hình tròn hay nhiều cung, có vảy, lành giữa, ngứa nhiều (QĐ 4416, Nấm sợi mục 2.1); ca này vảy tiết vàng, không lành giữa, KOH không thấy sợi nấm (mục 2.2). Kẽ ngón ẩm trắng là da ngâm nước (IDSA 2014, KC 17)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh uống phủ tụ cầu và liên cầu (cephalexin) vì chốc kèm quầng viêm mô tế bào: 250 mg × 4 lần/ngày hoặc 500 mg × 4 lần/ngày",
+     "v": "c",
+     "n": "Cách A: 250 mg × 4 lần/ngày (QĐ 4416, Chốc mục 3.2.2; IDSA 2014, Bảng 2, dòng chốc). Cách B: 500 mg × 4 lần/ngày (IDSA 2014, Bảng 2, dòng nhiễm tụ cầu nhạy methicillin). IDSA 2014 KC 14: viêm mô tế bào điển hình dùng kháng sinh tác động liên cầu. Dòng 'chốc' dành tổn thương nông, dòng 'nhiễm tụ cầu' gồm cả viêm mô tế bào; ca có cả hai nên 500 mg hợp lý (suy luận từ hai dòng bảng). Chỉnh liều theo eGFR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thời gian kháng sinh uống: 5 ngày rồi đánh giá, kéo dài đến 7 ngày nếu chưa cải thiện hoặc theo mức nặng",
+     "v": "c",
+     "n": "5 ngày, kéo dài nếu chưa cải thiện (IDSA 2014, viêm mô tế bào KC 15; NICE NG153 2020, Bảng 1: 5 ngày, có thể 7). 7 ngày cho chốc (IDSA 2014, chốc KC 2b). QĐ 4416 (Chốc mục 3.2.2) không ghi số ngày. IDSA tách chốc (7 ngày) khỏi viêm mô tế bào (5 ngày), NICE gộp 5 ngày; đều đúng."
+    },
+    {
+     "t": "Chỉ dùng kháng sinh uống, không bôi thêm; hoặc uống kết hợp mupirocin, acid fusidic bôi lên tổn thương",
+     "v": "c",
+     "n": "Cách A: không kết hợp bôi và uống (NICE NG153 2020, mục 1.1.6; dùng kháng sinh bôi lặp lại dễ kháng thuốc, mục 1.1.4). Cách B: kết hợp tại chỗ và toàn thân (QĐ 4416, Chốc mục 3.1); mupirocin, acid fusidic hoặc retapamulin bôi 2 lần/ngày, thường 7 ngày (mục 3.2.1)."
+    },
+    {
+     "t": "Chăm sóc tại chỗ: đắp gạc nước muối sinh lý 9‰ cho mềm vảy, hoặc ngâm nước thuốc tím loãng 1/10.000 mỗi ngày một lần",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 3.2.1): ngâm tắm 1 lần/ngày bằng thuốc tím 1/10.000; nhiều vảy tiết thì đắp nước muối 9‰ hay Jarish đến khi bong vảy. Hydrogen peroxide 1% cho chốc khu trú (NICE NG153 2020, mục 1.1.2) không đủ khi có quầng viêm (mục 1.1.5: kháng sinh uống)."
+    },
+    {
+     "t": "Kê cao chân; giữ khô kẽ ngón; nghỉ lội ruộng, không đi chân đất; không gãi, cạy; rửa tay, khăn riêng, không ôm chân cho cháu nhỏ",
+     "v": "c",
+     "n": "Kê cao, điều trị yếu tố thuận lợi (IDSA 2014, KC 16); khám kẽ ngón vì nứt, ẩm là nơi liên cầu ẩn (KC 17). Tránh nơi ẩm, tránh gãi, côn trùng đốt (QĐ 4416, Chốc mục 4). Số ngày nghỉ ruộng: không có trong tài liệu đã tải. Vệ sinh tránh lây: NICE NG153 2020 (mục 1.1.1)."
+    },
+    {
+     "t": "Giải thích vì sao không phải zona, ghi nhận nỗi sợ, không kê thuốc kháng virus",
+     "v": "c",
+     "n": "Zona: đau bỏng, châm chích 1 – 5 ngày trước, rồi mụn nước chùm dọc một dây thần kinh, thường một bên (QĐ 4416, Zona mục 2.1); ca này không có, vảy vàng mật ong (Chốc mục 2.1)."
+    },
+    {
+     "t": "Dặn dấu hiệu nặng quay lại ngay: sốt, ớn lạnh, quầng lan nhanh, đau dữ dội hơn bề ngoài, bọng nước xuất huyết, tím đen, lơ mơ",
+     "v": "c",
+     "n": "Gợi viêm cân cơ hoại tử: đau không tương xứng, nhiễm độc, bọng nước, hoại tử, khí dưới da, không đáp ứng kháng sinh (IDSA 2014, phần viêm cân cơ hoại tử; KC 27). NICE NG153 2020 (mục 1.1.7): quay lại khi xấu nhanh."
+    },
+    {
+     "t": "Ngưng NSAID tự mua; NSAID chưa được chứng minh gây bệnh này; đau gối dùng paracetamol 1 – 2 g/ngày",
+     "v": "c",
+     "n": "Liên quan NSAID – chốc, viêm mô tế bào: không có trong tài liệu đã tải. Người cao tuổi: tránh NSAID kéo dài trừ khi hết lựa chọn và có thuốc bảo vệ dạ dày (AGS Beers 2023, Bảng 2); acetaminophen < 3 g/ngày, tránh NSAID nếu có thể (QĐ 361/2014, Phụ lục NSAID mục 3.3). Thoái hóa khớp gối: paracetamol 1 – 2 g/ngày (QĐ 361/2014, mục 4.2.2). Giới hạn 4 g/ngày (AHA/ACC 2025, Bảng 11); 3 g/ngày thận trọng hơn. QĐ 361/2014 xếp ≥ 65 tuổi là nguy cơ vừa: nếu bắt buộc dùng NSAID thì celecoxib 1 lần/ngày kèm PPI (Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Hỏi thuốc bắc, khuyên ngưng trong thời gian điều trị, mang gói thuốc đến khám lại",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải: nguy cơ của thuốc bắc không rõ thành phần. Lời dặn thận trọng; QĐ 4416 (Chốc mục 1.2) coi thuốc ức chế miễn dịch là yếu tố thuận lợi, chưa biết thuốc bắc có thuộc nhóm này không."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày (sớm hơn nếu xấu đi)",
+     "v": "c",
+     "n": "Đánh giá ở ngày 5, kéo dài kháng sinh nếu chưa cải thiện (IDSA 2014, KC 15). Mốc 48 – 72 giờ: không có trong tài liệu đã tải. NICE NG153 2020 (mục 1.1.8, 1.1.9): đánh giá lại khi xấu đi, chưa cải thiện; xét chẩn đoán khác và dấu hiệu bệnh nặng."
+    },
+    {
+     "t": "Điều trị ngoại trú ngay hôm nay; hoặc gửi bệnh viện, tuyến trên đánh giá",
+     "v": "c",
+     "n": "Cách A: ngoại trú khi không có SIRS, rối loạn ý thức, huyết động không ổn (IDSA 2014, KC 18, mức nhẹ). Cách B: chuyển bệnh viện người chốc kèm dấu hiệu bệnh nặng hơn như viêm mô tế bào (NICE NG153 2020, mục 1.1.15). IDSA coi viêm mô tế bào điển hình không SIRS là nhẹ; NICE (Anh) xếp vào nhóm cần bác sĩ bệnh viện. QĐ 4416 không ghi tiêu chí chuyển."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch (ceftriaxon)",
+     "v": "w",
+     "n": "Không cần: viêm mô tế bào nhẹ không SIRS điều trị ngoại trú (IDSA 2014, KC 18). Ceftriaxon có trong bảng QĐ 4416 (Chốc mục 3.2.2) cho tổn thương nhiều, lan tỏa."
+    },
+    {
+     "t": "Kê acyclovir hoặc valacyclovir theo yêu cầu 'diệt siêu vi'",
+     "v": "w",
+     "n": "Không phải zona (QĐ 4416, Zona mục 2.1, 2.3); thuốc kháng virus không trị chốc, viêm mô tế bào."
+    },
+    {
+     "t": "Bôi hoặc uống kháng nấm 'cho chắc'",
+     "v": "w",
+     "n": "Không lành giữa, KOH âm (QĐ 4416, Nấm sợi mục 2.1, 2.2); kẽ ngón ẩm trắng chỉ cần giữ khô (IDSA 2014, KC 17)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc không bọng nước ở cẳng chân phải sau vết cắn côn trùng và gãi, kèm viêm mô tế bào nhẹ (quầng 5 × 6 cm, hạch bẹn phải 1 cm), không SIRS, không dấu hiệu nhiễm khuẩn sâu",
+     "Yếu tố thuận lợi: lội ruộng ẩm, đi chân đất, cạy gãi, kẽ ngón 4 – 5 chân phải ngâm nước",
+     "Đã loại trừ trên lâm sàng: viêm mô tế bào nặng hoặc hoại tử, zona, nấm da (KOH âm)",
+     "Thuốc trước đó: NSAID tự mua (liên quan nhân quả không có trong tài liệu đã tải); thuốc bắc không rõ thành phần",
+     "Đau gối do thoái hóa (lý do hẹn tái khám): đã đỡ, không dùng lại NSAID"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi khởi phát, diễn tiến (cắn, gãi, mụn nước, vảy vàng) → hỏi đau thần kinh, dải da (loại zona) → hỏi sốt, đường đỏ, đau dữ dội (loại thể nặng) → hỏi thuốc đã dùng, kể cả thuốc bắc, thuốc ở tiệm → hỏi vì sao hôm nay đến → khám da, kẽ ngón, hạch bẹn → xét nghiệm tối thiểu.",
+     "Chốc không bọng nước: vảy tiết vàng mật ong trên nền đỏ ướt, thường nhiều tổn thương (QĐ 4416, Chốc mục 2.1); chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). Mức viêm mô tế bào: nhẹ khi quầng điển hình, không mủ, không SIRS; nặng khi thất bại kháng sinh uống, dấu hiệu toàn thân, bọng nước, bóc tách da, tụt huyết áp (IDSA 2014, chú thích Hình 1). NSAID có thể che sốt: không có trong tài liệu đã tải, nên xét thêm mạch, nhịp thở, bạch cầu.",
+     "Xét nghiệm (nguồn lực đầy đủ): không cần để quyết định (IDSA 2014, KC 1, 12; QĐ 4416, Chốc mục 2.3). Gram, cấy, công thức máu, CRP, glucose, creatinin, KOH chấp nhận được nhưng không bắt buộc; ASLO, sinh thiết không có chỉ định."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, hẹn tái khám 5 ngày (ve_hen), không chuyển tuyến vì không SIRS (IDSA 2014, KC 18); NICE NG153 2020 (mục 1.1.15) chuyển bệnh viện khi chốc kèm viêm mô tế bào: hai nguồn khác bối cảnh, ghi cả hai.",
+     "Kháng sinh uống vì có quầng viêm; chốc ít tổn thương đơn thuần có thể chỉ bôi mupirocin, retapamulin (IDSA 2014, KC 2a) hoặc hydrogen peroxide 1% (NICE NG153 2020, mục 1.1.2). Thuốc: cephalexin hoặc dicloxacillin (QĐ 4416, Chốc mục 3.2.2); flucloxacillin 500 mg × 4 lần/ngày × 5 ngày (NICE, Bảng 1); dị ứng penicillin: clarithromycin 250 mg × 2 lần/ngày × 5 ngày (NICE, Bảng 1), clindamycin (IDSA 2014, Bảng 2).",
+     "NSAID, thuốc bắc: hỏi rõ, ngưng NSAID (Beers 2023, Bảng 2); không quy kết NSAID gây chốc vì không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (viên 500 mg)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 4 lần/ngày, mỗi 6 giờ (IDSA 2014, Bảng 2, dòng nhiễm tụ cầu nhạy methicillin) hoặc 250 mg × 4 lần/ngày (QĐ 4416, Chốc mục 3.2.2; IDSA 2014, Bảng 2, dòng chốc)",
+      "duong": "Uống",
+      "thoi_diem": "Chia đều 4 lần trong ngày, cách nhau khoảng 6 giờ, không bỏ liều. Tương quan với bữa ăn: không có trong tài liệu đã tải.",
+      "so_ngay": "5 ngày rồi đánh giá, kéo dài nếu chưa cải thiện (IDSA 2014, viêm mô tế bào KC 15; NICE NG153 2020, Bảng 1: 5 ngày, có thể 7 ngày) hoặc 7 ngày (IDSA 2014, chốc KC 2b)",
+      "ghi_chu": "Thay thế: dicloxacillin 500 mg × 4 lần/ngày (QĐ 4416, Chốc mục 3.2.2); flucloxacillin 500 mg × 4 lần/ngày × 5 ngày (NICE NG153 2020, Bảng 1). eGFR 82: chỉnh liều theo eGFR không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 9‰ (hoặc thuốc tím 1/10.000 để ngâm)",
+      "ham_luong": "NaCl 0,9%; KMnO₄ pha loãng 1/10.000",
+      "lieu": "Đắp gạc ẩm lên tổn thương cho mềm vảy; hoặc ngâm chân trong nước thuốc tím loãng",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Ngâm thuốc tím ngày 1 lần; đắp nước muối đến khi bong hết vảy tiết (QĐ 4416, Chốc mục 3.2.1)",
+      "so_ngay": "Đến khi bong hết vảy, thường tới khi hết đợt kháng sinh",
+      "ghi_chu": "QĐ 4416 (Chốc mục 3.2.1). Dung dịch Jarish 30 phút/lần × 2 lần/ngày khi có bọng nước, mủ (cùng mục); số phút với nước muối: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (viên 500 mg), chỉ khi đau gối",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg/lần, tối đa 2 – 4 lần/ngày tùy đau; tổng 1 – 2 g/ngày (QĐ 361/2014, Thoái hóa khớp gối mục 4.2.2)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau ít nhất 4 – 6 giờ",
+      "so_ngay": "Khi cần, ngắn ngày; đau gối kéo dài hẹn khám riêng",
+      "ghi_chu": "Giới hạn: < 3 g/ngày ở người cao tuổi, gầy yếu (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc < 4 g/ngày (AHA/ACC 2025, Bảng 11); 3 g/ngày thận trọng hơn. Thay NSAID tự mua (AGS Beers 2023, Bảng 2)."
+     }
+    ],
+    "dan_do": [
+     "Bác không bị giời leo; đây là nhiễm trùng ngoài da do vi khuẩn từ vết cắn bị gãi, kèm đỏ lan nhẹ. Giời leo đau bỏng rát thành dải một bên người, không giống chỗ chân của bác (QĐ 4416, Zona mục 2.1).",
+     "Uống kháng sinh đúng 4 lần/ngày, mỗi 6 giờ, không bỏ liều, đủ ngày dù thấy đỡ (IDSA 2014, KC 15). Đắp nước muối cho mềm vảy, không cạy vảy, không bôi dầu cù là lên vết.",
+     "Kê cao chân khi nghỉ; nghỉ lội ruộng, không đi chân đất, lau khô kẽ ngón, thay ủng khô (IDSA 2014, KC 16, 17; QĐ 4416, Chốc mục 4). Rửa tay, khăn riêng, tránh ôm chân cho cháu (NICE NG153 2020, mục 1.1.1).",
+     "Quay lại ngay nếu sốt, ớn lạnh, đỏ lan nhanh, đau dữ dội, bọng nước đỏ tím, da đen, lơ mơ (IDSA 2014, KC 27). Hẹn tái khám sau 5 ngày, mang gói thuốc bắc và vỉ thuốc giảm đau đã mua.",
+     "Không tự mua thuốc giảm đau chống viêm; đau gối dùng paracetamol theo liều dặn (AGS Beers 2023, Bảng 2; QĐ 361/2014, Thoái hóa khớp gối mục 4.2.2). Tạm ngưng thuốc bắc không rõ thành phần (không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Ông Sáu tái khám đúng hẹn sau 5 ngày. Ông nói vết đỡ rồi nhưng chưa hết hẳn. Sinh hiệu: mạch 78 l/p, HA 132/80 mmHg, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 56 kg.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Cái chân tôi đỡ rồi, vảy khô bớt, bớt nóng, mà còn chưa hết hẳn, lại thấy mọc thêm một chỗ nhỏ trên mắt cá. Thằng cháu nó nói vậy là thuốc không hợp, là giời leo nó lan, phải đổi thuốc uống siêu vi mới đúng.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "132/80",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "So với 5 ngày trước, ông thấy đỡ khoảng 6 – 7 phần: vảy khô và bong từng mảng, quầng đỏ nhỏ lại, hết nóng, chỉ còn hơi rát khi chạm. Từ ngày thứ 3 – 4 mọc thêm một chỗ lở nhỏ ở trên mắt cá ngoài cùng chân, có vảy vàng. Không sốt, không ớn lạnh, không đau nhiều hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 5 ngày: đỡ một phần, một tổn thương nhỏ mới"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông uống thuốc 3 lần/ngày vì nghĩ 'ngày ăn 3 bữa', quên mấy lần, tổng cộng uống khoảng 13 viên chứ không phải 20 viên. Ngâm nước muối chỉ được vài lần, hay quên. Hai ngày đầu nghỉ ruộng, ngày 3 – 4 đã ra ruộng lại, đi ủng ẩm; chỗ chân vẫn để thòng, ít kê cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng thuốc thiếu liều, sinh hoạt vẫn ẩm: giải thích đỡ một phần (không phải thất bại điều trị)"
+    },
+    {
+     "id": "khong_toan_than",
+     "noi_dung": "Không sốt, ăn uống bình thường. Không thấy đường đỏ chạy lên, không đau căng bắp chân, không thấy bọng nước, không đen tím. Quầng đỏ nhỏ lại chứ không lan thêm. Không có chỗ nào đau nhiều hơn vẻ ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu thất bại điều trị, nhiễm khuẩn sâu"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Ngày thứ 2 hơi buồn nôn, phân sệt một lần, sau đó bình thường. Không nổi mẩn khắp người, không ngứa toàn thân, không phù môi, mắt, không khó thở, không tiêu chảy kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tác dụng phụ kháng sinh, dị ứng"
+    },
+    {
+     "id": "nsaid_thuoc_bac",
+     "noi_dung": "Từ lần khám trước ông không uống lại thuốc giảm đau chống viêm; đau gối còn nhưng chịu được, đỡ hơn khi nghỉ ruộng. Thuốc bắc vẫn uống mỗi ngày một thang vì 'bỏ uổng tiền'; ông có mang theo gói thuốc, là bột nâu sẫm, không nhãn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "NSAID, thuốc bắc không rõ thành phần: theo dõi sau lượt 1"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân phải: tổn thương chính 1,5 cm khô, vảy tiết dày, đang bong từng mảng, nền dưới hồng, không ướt, không chảy dịch. Quầng đỏ thu còn khoảng 2 – 3 cm, ranh giới mờ, không nóng, ấn đau rất nhẹ. Ba mụn nhỏ cũ khô, vảy mỏng. Có một tổn thương mới 5 mm phía trên mắt cá ngoài, cách tổn thương chính khoảng 10 cm, trợt nông, vảy tiết vàng mỏng, chưa có quầng. Không bọng nước, không bầm tím, không hoại tử, không đường đỏ lan lên, không đau tương xứng.",
+     "k": 1,
+     "hien": "Cẳng chân phải: tổn thương chính khoảng 1,5 cm, vảy khô dày đang bong; quầng đỏ còn khoảng 2 – 3 cm; một tổn thương mới nhỏ khoảng 5 mm phía trên mắt cá ngoài phủ vảy vàng mỏng. Chân trái và nơi khác: không có tổn thương."
+    },
+    "chi_duoi": {
+     "a": "Cẳng chân phải không phù, bắp chân mềm, không đau căng. Kẽ ngón 4 – 5 bàn chân phải còn trắng ẩm, ít nứt hơn. Hạch bẹn phải còn sờ thấy 5 mm, mềm, không đau.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, không sốt, không nhiễm độc, niêm hồng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "a",
+     "r": "Kết quả cấy dịch tổn thương làm lượt 1: Staphylococcus aureus nhạy methicillin (MSSA); nhạy cefalexin, oxacillin, clindamycin, cotrimoxazol; kháng penicillin G.",
+     "n": "Kết quả có sau 48 – 72 giờ nên không ảnh hưởng quyết định lượt 1. MSSA nên không cần phủ MRSA; đổi theo kết quả nếu chưa cải thiện (NICE NG153 2020, mục 1.1.14). Tụ cầu từ chốc thường nhạy methicillin (IDSA 2014, KC 2b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc kèm viêm mô tế bào nhẹ do tụ cầu vàng nhạy methicillin, đáp ứng một phần sau 5 ngày do dùng thiếu liều, kèm một tổn thương chốc mới nhỏ; không thất bại điều trị",
+     "ok": 1,
+     "n": "Quầng nhỏ lại, hết nóng, vảy khô bong, không sốt: đang đáp ứng; chậm vì uống 3 lần/ngày thiếu liều, ẩm ướt, không kê cao chân (IDSA 2014, KC 15, 16). Chốc dai dẳng do tự lây truyền, vệ sinh kém (QĐ 4416, Chốc mục 2.1): giải thích tổn thương mới ở mắt cá. Cấy MSSA phù hợp thuốc đang dùng."
+    },
+    {
+     "t": "Thất bại kháng sinh, viêm mô tế bào tiến triển hoặc nhiễm khuẩn sâu",
+     "n": "Loại trừ: quầng nhỏ lại, không sốt, không đau không tương xứng, không bọng nước, hoại tử. Thất bại gợi ý khi không đáp ứng sau thử kháng sinh hợp lý, nhiễm độc (IDSA 2014, chú thích Hình 1; phần viêm cân cơ hoại tử). Đỡ một phần khi thiếu liều chưa phải thất bại."
+    },
+    {
+     "t": "Zona",
+     "n": "Loại trừ lại: không tổn thương mới theo dải, không đau thần kinh, vảy khô bong sau 5 ngày; zona thường 2 – 4 tuần mới lành (QĐ 4416, Zona mục 2.1). Kháng virus trong 3 ngày đầu 'kẻo đau dai dẳng': không có trong tài liệu đã tải; không đúng chẩn đoán nên không áp dụng."
+    },
+    {
+     "t": "Dị ứng cephalexin, tác dụng phụ kháng sinh",
+     "n": "Loại trừ: chỉ buồn nôn nhẹ ngày thứ 2, không mẩn, không ngứa, không phù mạch, không khó thở. Buồn nôn nhẹ không cần ngưng thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích 'đỡ một phần' là đáp ứng nhưng chưa đủ liều: uống đủ 4 lần/ngày, kéo dài thêm 2 – 3 ngày (tổng 7 – 8 ngày)",
+     "v": "c",
+     "n": "Kéo dài nếu chưa cải thiện hết trong 5 ngày (IDSA 2014, viêm mô tế bào KC 15); chốc uống 7 ngày (IDSA 2014, KC 2b); NICE NG153 2020 (Bảng 1): 5 ngày, có thể 7. Số ngày chính xác phải thêm: không có trong tài liệu đã tải (lấy tổng ≥ 7 ngày theo KC 2b)."
+    },
+    {
+     "t": "Giữ nguyên cephalexin, không đổi thuốc vì cấy MSSA và đang đáp ứng",
+     "v": "c",
+     "n": "Tụ cầu từ chốc thường nhạy methicillin: dicloxacillin hoặc cephalexin (IDSA 2014, chốc KC 2b); đổi theo cấy nếu chưa cải thiện, ưu tiên thuốc phổ hẹp (NICE NG153 2020, mục 1.1.14). Đang cải thiện nên không đổi."
+    },
+    {
+     "t": "Tổn thương mới nhỏ ở mắt cá: tiếp tục ngâm, đắp nước muối; chỉ kháng sinh uống hoặc thêm kháng sinh bôi",
+     "v": "c",
+     "n": "Cách A: không kết hợp bôi và uống (NICE NG153 2020, mục 1.1.6). Cách B: mupirocin, acid fusidic, retapamulin bôi 2 lần/ngày, thường 7 ngày, kết hợp toàn thân (QĐ 4416, Chốc mục 3.1, 3.2.1)."
+    },
+    {
+     "t": "Sửa nguyên nhân chậm lành: uống đủ 4 lần/ngày mỗi 6 giờ, ngâm hoặc đắp mỗi ngày, kê cao chân, nghỉ ruộng, ủng khô, lau khô kẽ ngón",
+     "v": "c",
+     "n": "Chăm sóc tại chỗ, tránh ẩm (QĐ 4416, Chốc mục 3.2.1, 4); kê cao, điều trị yếu tố thuận lợi (IDSA 2014, KC 16, 17). Số ngày nghỉ ruộng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhắc dấu hiệu thất bại cần quay lại ngay; hẹn tái khám sau khi hết thuốc",
+     "v": "c",
+     "n": "Quầng lan, nhiễm độc, đau không tương xứng, không đáp ứng kháng sinh là dấu hiệu nặng (IDSA 2014, phần viêm cân cơ hoại tử, KC 27); NICE NG153 2020 (mục 1.1.7, 1.1.8): quay lại khi xấu nhanh hoặc chưa cải thiện sau khi hết thuốc. Khoảng cách tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gỡ nỗi lo giời leo bằng bằng chứng trên chân ông, không kê thuốc kháng virus",
+     "v": "c",
+     "n": "Zona theo một dây thần kinh, đau thần kinh, mụn nước chùm (QĐ 4416, Zona mục 2.1); ca này không có và đáp ứng kháng sinh ủng hộ nhiễm khuẩn."
+    },
+    {
+     "t": "Nhắc ngưng NSAID tự mua, đau gối dùng paracetamol; mang gói thuốc bắc; khuyên ngưng",
+     "v": "c",
+     "n": "AGS Beers 2023 (Bảng 2); QĐ 361/2014 (Phụ lục NSAID mục 3.3; Thoái hóa khớp gối mục 4.2.2): paracetamol < 3 g/ngày ở người cao tuổi (AHA/ACC 2025, Bảng 11: < 4 g/ngày; 3 g/ngày thận trọng hơn). Thành phần thuốc bắc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi sang kháng sinh phủ MRSA hoặc vancomycin vì 'đỡ chậm'",
+     "v": "w",
+     "n": "Không cần: cấy MSSA, quầng nhỏ lại, không SIRS; chỉ phủ MRSA khi có yếu tố nguy cơ hoặc SIRS (IDSA 2014, KC 14)."
+    },
+    {
+     "t": "Ngưng kháng sinh vì đã đỡ nhiều, chỉ bôi dầu, uống thuốc bắc",
+     "v": "w",
+     "n": "Chưa đủ thời gian, liều: 5 ngày, kéo dài nếu chưa cải thiện (IDSA 2014, KC 15); chốc 7 ngày (KC 2b)."
+    },
+    {
+     "t": "Kê acyclovir theo yêu cầu 'cho chắc'",
+     "v": "w",
+     "n": "Không phải zona (QĐ 4416, Zona mục 2.1, 2.3); đang đáp ứng kháng sinh."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc kèm viêm mô tế bào nhẹ ở cẳng chân phải do tụ cầu vàng nhạy methicillin, đang đáp ứng một phần sau 5 ngày",
+     "Một tổn thương chốc mới nhỏ ở mắt cá ngoài (tự lây)",
+     "Lý do chậm: uống kháng sinh 3 lần/ngày, thiếu liều (≈ 13/20 viên), ra ruộng sớm, đi ủng ẩm, ít kê cao chân",
+     "Không có dấu hiệu thất bại điều trị, nhiễm khuẩn sâu; không dị ứng thuốc",
+     "Đã loại trừ lại: zona, nấm da, viêm mô tế bào nặng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi đỡ thế nào, cách dùng thuốc thực tế (mấy lần/ngày, bỏ bao nhiêu viên) → hỏi sốt, quầng lan, đường đỏ, đau → hỏi tác dụng phụ, dị ứng → hỏi NSAID, thuốc bắc → khám da, chi dưới, hạch → xem kết quả cấy.",
+     "Phân biệt 'hồi phục chậm bình thường' với 'thất bại sớm': đỡ rõ về quầng, nhiệt, vảy, không dấu hiệu toàn thân, không đau không tương xứng và có lý do chậm giải thích được (thiếu liều) thì là đỡ một phần (IDSA 2014, KC 15; chú thích Hình 1). Thất bại hay nặng gợi ý khi quầng lan, sốt, nhiễm độc, bọng nước, đau không tương xứng (IDSA 2014, phần viêm cân cơ hoại tử). MSSA nhạy: chậm do thiếu liều chứ không do kháng thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: giữ cephalexin, đủ liều, tổng ≥ 7 ngày; tái khám sau khi hết thuốc (ve_hen). Không đổi thuốc, không nhập viện. Số ngày thêm chính xác: không có trong tài liệu đã tải; IDSA 2014 ghi 'kéo dài nếu chưa cải thiện' (KC 15), chốc 7 ngày (KC 2b); NICE NG153 2020: 5 ngày, tăng lên 7 tùy mức nặng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (viên 500 mg)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 4 lần/ngày, mỗi 6 giờ (IDSA 2014, Bảng 2, dòng nhiễm tụ cầu nhạy methicillin) hoặc 250 mg × 4 lần/ngày (QĐ 4416, Chốc mục 3.2.2)",
+      "duong": "Uống",
+      "thoi_diem": "Đúng 4 lần/ngày, cách nhau khoảng 6 giờ (ví dụ 6 giờ, 12 giờ, 18 giờ, 24 giờ), đặt nhắc giờ trên điện thoại",
+      "so_ngay": "Thêm 2 – 3 ngày, tổng ≥ 7 ngày (IDSA 2014, chốc KC 2b; viêm mô tế bào KC 15 kéo dài nếu chưa cải thiện)",
+      "ghi_chu": "Giữ nguyên thuốc vì cấy MSSA nhạy cephalexin (NICE NG153 2020, mục 1.1.14; IDSA 2014, KC 2b)."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 9‰ (hoặc ngâm thuốc tím 1/10.000)",
+      "ham_luong": "NaCl 0,9%; KMnO₄ 1/10.000",
+      "lieu": "Đắp gạc ẩm hoặc ngâm chân",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Mỗi ngày, ngâm thuốc tím 1 lần/ngày (QĐ 4416, Chốc mục 3.2.1)",
+      "so_ngay": "Đến khi bong hết vảy tiết",
+      "ghi_chu": "QĐ 4416 (Chốc mục 3.2.1). Bôi mupirocin, acid fusidic cho tổn thương mới: QĐ 4416; NICE NG153 2020 (mục 1.1.6) không kết hợp với uống."
+     }
+    ],
+    "dan_do": [
+     "Chân bác đang đỡ nhưng dùng thuốc chưa đủ liều nên chưa hết. Uống đúng 4 lần/ngày, đặt nhắc giờ, đủ tổng ít nhất 7 ngày (IDSA 2014, KC 2b, 15).",
+     "Ngâm hoặc đắp nước muối mỗi ngày, không cạy vảy, kê cao chân, lau khô kẽ ngón, thay ủng khô, tránh lội ruộng ẩm (QĐ 4416, Chốc mục 3.2.1, 4; IDSA 2014, KC 16, 17). Không phải giời leo: vết khô dần dưới kháng sinh, không có dải đau (QĐ 4416, Zona mục 2.1).",
+     "Quay lại ngay nếu sốt, đỏ lan nhanh, đau dữ dội, bọng nước, da đen tím, mẩn khắp người (IDSA 2014, KC 27). Tái khám sau khi hết thuốc, mang gói thuốc bắc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 14 ngày",
+   "tiep_don": "Ông Sáu tái khám sau 14 ngày (khoảng 6 ngày sau khi hết kháng sinh). Ông nói đã hết lở. Sinh hiệu: mạch 76 l/p, HA 130/80 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 56 kg.",
+   "ket_luan": "theo_doi",
+   "loi_mo": "Chào bác sĩ. Cái chân tôi hết lở rồi, chỉ còn vết thâm. Tôi uống thuốc đủ rồi. Bác sĩ coi giùm xem còn bị giời leo ngầm gì không, thằng cháu nó nói siêu vi nó ẩn trong người đó.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "130/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lần khám trước ông uống đúng 4 lần/ngày thêm 3 ngày (tổng 8 ngày), nhờ nhắc giờ trên điện thoại. Hết rát từ ngày thứ 8, vảy bong hết ngày 10, từ đó không còn chảy dịch, không mụn mới. Chỗ mắt cá khô sau 3 ngày. Không sốt, không đau, không ngứa, chỉ còn vết thâm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị: khỏi"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông ngâm nước muối đều đến khi bong vảy, kê cao chân buổi tối, đi ủng khô và lau kẽ ngón mỗi chiều. Hết thuốc khoảng 6 ngày nay, không uống thêm kháng sinh hay bôi gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, không tái phát sau khi hết thuốc"
+    },
+    {
+     "id": "khong_tai_phat",
+     "noi_dung": "Không có mụn, vảy mới ở chân hay nơi khác; thằng cháu nội và người nhà không có vết lở. Không đau thần kinh, không rát dọc người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không tái phát, không lây gia đình, không dấu hiệu zona"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ông không uống lại thuốc giảm đau chống viêm mua ở tiệm; đau gối thỉnh thoảng uống 1 viên paracetamol khi đau, đỡ. Thuốc bắc: ngưng 1 tuần rồi uống lại vì 'quen', gói thuốc ông vẫn không biết thành phần. Không có tác dụng phụ khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "NSAID, thuốc bắc không rõ thành phần sau điều trị"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Ông hỏi có cần uống thuốc gì để khỏi bị lại không; cháu ông nói virus giời leo 'ngủ' trong người; ông hỏi có nên chích ngừa. Ông sợ vụ sau lội ruộng lại bị.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo tái phát, giời leo ngầm; phòng bệnh"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân phải: tổn thương chính đã liền, còn dát thâm màu nâu hồng nhạt khoảng 1,5 cm, không vảy, không trợt, không đỏ viền, không nóng, không đau. Chỗ mắt cá ngoài: vảy đã bong, còn dát hồng nhạt 5 mm. Không mụn nước, mụn mủ, không tổn thương mới ở chân trái, thân mình, tay. Không vùng da nào theo dải thần kinh.",
+     "k": 1,
+     "hien": "Cẳng chân phải: một dát thâm màu nâu hồng nhạt khoảng 1,5 cm ở nơi tổn thương cũ, không vảy; một dát hồng nhạt 5 mm trên mắt cá ngoài. Nơi khác: không có tổn thương."
+    },
+    "chi_duoi": {
+     "a": "Không phù, không đau bắp chân. Kẽ ngón 4 – 5 chân phải khô, không nứt, không bong. Không sờ thấy hạch bẹn hai bên.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, không sốt, niêm hồng, BMI ≈ 21 kg/m².",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: đã khỏi. Chỉ gửi cấy, ngoáy mũi tìm mang trùng khi chốc tái phát nhiều lần (NICE NG153 2020, mục 1.1.13) hoặc chưa cải thiện sau khi hết kháng sinh uống (mục 1.1.12)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: theo dõi bằng lâm sàng (QĐ 4416, Chốc mục 2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc kèm viêm mô tế bào nhẹ ở cẳng chân phải đã khỏi sau kháng sinh uống 8 ngày; còn dát tăng sắc tố sau viêm; không tái phát",
+     "ok": 1,
+     "n": "Hết nóng, đau, vảy, trợt, không mụn mới, không dấu hiệu toàn thân; tổn thương chốc lành sau 1 – 2 tuần nhưng có thể dai dẳng do tự lây (QĐ 4416, Chốc mục 2.1). Thời gian mờ vết thâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn dai dẳng, tái phát, viêm mô tế bào tái phát",
+     "n": "Loại trừ: 6 ngày sau khi hết thuốc không có tổn thương mới, kẽ ngón khô. Tái phát thường xuyên mới cần gửi cấy, ngoáy mũi (NICE NG153 2020, mục 1.1.13); dự phòng kháng sinh khi 3 – 4 đợt viêm mô tế bào mỗi năm (IDSA 2014, KC 21)."
+    },
+    {
+     "t": "Zona (kể cả 'zona ngầm')",
+     "n": "Loại trừ: chưa từng có tổn thương theo dải thần kinh; zona chẩn đoán bằng lâm sàng (QĐ 4416, Zona mục 2.3). Virus tiềm ẩn ở hạch thần kinh sau thủy đậu (mục 1.3) không có nghĩa đang bị bệnh; chủng ngừa zona: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nấm da, nấm bàn chân",
+     "n": "Loại trừ: KOH âm ở lượt 1, kẽ ngón khô sau khi giữ khô; không lành giữa (QĐ 4416, Nấm sợi mục 2.1, 2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi: ngưng kháng sinh, không cần thuốc bôi thêm, không kê kháng sinh dự phòng",
+     "v": "c",
+     "n": "Khỏi lâm sàng, không tổn thương mới (QĐ 4416, Chốc mục 2.3). Dự phòng kháng sinh chỉ xét khi 3 – 4 đợt viêm mô tế bào mỗi năm dù đã chữa yếu tố thuận lợi (IDSA 2014, KC 21)."
+    },
+    {
+     "t": "Phòng tái phát: giữ khô, lau kẽ ngón, thay ủng khô, rửa sạch vết xước, côn trùng cắn, không gãi",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 4): vệ sinh, tránh nơi ẩm, tránh côn trùng đốt, tránh gãi; IDSA 2014 (KC 17, 20): xử lý nứt, ẩm kẽ ngón, điều trị yếu tố thuận lợi."
+    },
+    {
+     "t": "Dặn khi nào quay lại; nếu tái phát thường xuyên sẽ gửi cấy và xử lý mang trùng",
+     "v": "c",
+     "n": "NICE NG153 2020 (mục 1.1.7, 1.1.13): quay lại khi xấu nhanh; tái phát thường xuyên thì gửi cấy da, cân nhắc ngoáy mũi và tẩy khuẩn."
+    },
+    {
+     "t": "Gỡ nỗi lo 'giời leo ngầm': chưa từng bị zona; nếu sau này đau bỏng một dải da rồi nổi mụn chùm thì đến khám sớm",
+     "v": "c",
+     "n": "Zona: bỏng, nóng rát, châm chích 1 – 5 ngày trước khi nổi mụn nước chùm theo một dây thần kinh (QĐ 4416, Zona mục 2.1). Chủng ngừa zona: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khép hồ sơ đau gối và NSAID: không dùng NSAID tự mua; đau gối dùng paracetamol; đau nhiều tái khám riêng",
+     "v": "c",
+     "n": "Paracetamol 1 – 2 g/ngày (QĐ 361/2014, Thoái hóa khớp gối mục 4.2.2); < 3 g/ngày ở người cao tuổi, gầy (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc < 4 g/ngày (AHA/ACC 2025, Bảng 11); AGS Beers 2023 (Bảng 2) tránh NSAID kéo dài."
+    },
+    {
+     "t": "Tiếp tục kháng sinh uống hoặc bôi mupirocin kéo dài 'cho chắc'",
+     "v": "w",
+     "n": "Đã khỏi; kháng sinh bôi kéo dài hoặc lặp lại làm kháng thuốc nhanh (NICE NG153 2020, mục 1.1.4); kháng sinh uống 5 – 7 ngày (IDSA 2014, KC 2b, 15)."
+    },
+    {
+     "t": "Làm thêm xét nghiệm (cấy, HIV, huyết thanh VZV) để 'chắc không có giời leo ngầm'",
+     "v": "w",
+     "n": "Không chỉ định: zona chẩn đoán dựa vào lâm sàng, HIV chỉ khi zona nặng, lan tỏa, dai dẳng (QĐ 4416, Zona mục 2.2, 2.3); cấy chỉ khi tái phát nhiều lần (NICE NG153 2020, mục 1.1.13). Huyết thanh VZV: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc kèm viêm mô tế bào nhẹ ở cẳng chân phải đã khỏi sau kháng sinh uống (tổng 8 ngày)",
+     "Tăng sắc tố sau viêm ở vị trí tổn thương cũ",
+     "Không tái phát sau khi hết thuốc khoảng 6 ngày; không lây trong gia đình",
+     "Không có zona, không nấm da",
+     "Yếu tố nguy cơ còn lại: lội ruộng ẩm, kẽ ngón dễ ngâm nước, thói quen gãi, tự mua NSAID, dùng thuốc bắc không rõ thành phần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi diễn tiến, đủ thuốc, tái phát, lây người nhà → hỏi NSAID, thuốc bắc → khám da, kẽ ngón, hạch → kết luận khỏi, không cần xét nghiệm.",
+     "Khỏi: hết nóng, đau, vảy, trợt, không mụn mới. Dát thâm là tăng sắc tố sau viêm, không phải bệnh hoạt động (thời gian mờ: không có trong tài liệu đã tải). Quỹ đạo: chậm ở lượt 2 do thiếu liều rồi khỏi khi sửa cách dùng, là hồi phục chậm chứ không phải thất bại (IDSA 2014, KC 15); nếu xấu đi dù đủ thuốc: xét chẩn đoán khác, gửi cấy (NICE NG153 2020, mục 1.1.9, 1.1.12)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngưng thuốc, dặn dò, không hẹn định kỳ (theo_doi); không kháng sinh dự phòng (IDSA 2014, KC 21). Xét nghiệm thêm không giúp ích; chỉ cấy, ngoáy mũi khi tái phát thường xuyên (NICE NG153 2020, mục 1.1.13)."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Chân bác đã khỏi, không cần uống hay bôi thêm. Vết thâm sẽ nhạt dần, không phải bệnh (thời gian mờ: không có trong tài liệu đã tải).",
+     "Phòng tái phát: lau khô kẽ ngón mỗi chiều, đi ủng khô, rửa sạch ngay vết xước, côn trùng cắn và không gãi (QĐ 4416, Chốc mục 4; IDSA 2014, KC 17). Quay lại nếu lở nhiều lần, đỏ nóng đau lan, sốt (NICE NG153 2020, mục 1.1.7, 1.1.13).",
+     "Không có 'giời leo ngầm': nếu sau này đau bỏng một dải da rồi nổi mụn chùm thì đến khám sớm (QĐ 4416, Zona mục 2.1). Chích ngừa: không có trong tài liệu đã tải.",
+     "Đau gối: dùng paracetamol, tập đi nhẹ, không mua thuốc giảm đau chống viêm ở tiệm (AGS Beers 2023, Bảng 2; QĐ 361/2014, Thoái hóa khớp gối mục 4.2.2). Thuốc bắc không rõ thành phần: mang đến cho bác sĩ xem trước khi uống chung với thuốc tây."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 2 đỡ một phần vì uống 3 lần/ngày thay vì 4 và ra ruộng sớm; kháng sinh được dặn lại cách dùng, kéo dài đủ 7 – 8 ngày, cấy MSSA phù hợp. Lượt 3 sau 14 ngày: khỏi hẳn, còn dát thâm, không tái phát, không lây gia đình. Ông Sáu thỉnh thoảng vẫn uống lại thuốc bắc vì 'quen' nhưng không mua lại NSAID; đau gối dùng paracetamol.",
+ "nhieu": [
+  "Chẩn đoán tự tra (giời leo): nỗi sợ thật, tra từ điện thoại của cháu. Gạt đi thì ông im lặng, giấu thuốc bắc; ghi nhận rồi chỉ từng điểm khác zona trên chân ông thì ông hợp tác.",
+  "NSAID trước đợt lở: dễ kết luận 'thuốc làm nổi mụn'; liên quan nhân quả không có trong tài liệu đã tải, chỉ là trình tự thời gian.",
+  "Thuốc bắc không rõ thành phần: chỉ lộ khi hỏi đích danh thuốc nam, thuốc bắc.",
+  "Quầng viêm mô tế bào kèm chốc ít tổn thương: cám dỗ chỉ bôi mupirocin, hoặc truyền kháng sinh, nhập viện vì sợ.",
+  "Nguồn lực đầy đủ: cám dỗ cấy, HIV, huyết thanh VZV, sinh thiết; phần lớn không cần ở ca điển hình (IDSA 2014, KC 1, 12).",
+  "Lượt 2 'đỡ một phần': dễ nghĩ thất bại rồi đổi sang kháng sinh phủ MRSA; thật ra là thiếu liều."
+ ],
+ "bai_hoc_bien": [
+  "Chốc kèm viêm mô tế bào nhẹ ở người lội ruộng: vảy vàng mật ong trên nền đỏ ướt sau vết cắn, gãi; quầng lan nhẹ, không SIRS thì điều trị ngoại trú (QĐ 4416, Chốc mục 2.1; IDSA 2014, KC 18).",
+  "Sợ 'giời leo' là nỗi sợ chính đáng, cần trả lời bằng bằng chứng trên da người bệnh: không đau thần kinh trước, không chùm mụn dọc dây thần kinh (QĐ 4416, Zona mục 2.1).",
+  "Đỡ một phần ở lượt 2: hỏi cách dùng thuốc; ở đây là thiếu liều, không phải thất bại (IDSA 2014, KC 15).",
+  "Hai nguồn lệch ở chỗ kết hợp bôi và uống, 5 hay 7 ngày, ngoại trú hay chuyển bệnh viện: ghi cả hai, không chọn một bên.",
+  "Người cao tuổi tự mua NSAID: tránh dùng kéo dài (AGS Beers 2023, Bảng 2); đau gối dùng paracetamol (QĐ 361/2014, Thoái hóa khớp gối mục 4.2.2)."
+ ],
+ "diem_nho": [
+  "Chốc không bọng nước: vảy tiết vàng mật ong trên nền đỏ ướt; chẩn đoán chủ yếu bằng lâm sàng (QĐ 4416, Chốc mục 2.1, 2.3). Nhiều tổn thương, lan tỏa dùng kháng sinh uống (mục 3.2.2); ít tổn thương bôi mupirocin, retapamulin 5 ngày (IDSA 2014, KC 2a), hydrogen peroxide 1% hoặc kháng sinh bôi 5 ngày (NICE NG153 2020, Bảng 1).",
+  "Viêm mô tế bào nhẹ: kháng sinh tác động liên cầu, 5 ngày, kéo dài nếu chưa cải thiện; kê cao chân; khám kẽ ngón; ngoại trú nếu không SIRS (IDSA 2014, KC 14 – 18).",
+  "Nghi viêm cân cơ hoại tử: đau không tương xứng, nhiễm độc, bọng nước, hoại tử, khí dưới da, không đáp ứng kháng sinh (IDSA 2014, KC 27). Phủ MRSA khi chấn thương xuyên, MRSA nơi khác, định cư mũi, tiêm chích, mủ chảy hoặc SIRS (KC 14).",
+  "NSAID người cao tuổi: tránh dùng kéo dài trừ khi hết lựa chọn và có thuốc bảo vệ dạ dày (AGS Beers 2023, Bảng 2); paracetamol < 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc < 4 g/ngày (AHA/ACC 2025, Bảng 11)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Chốc mục 1.2, 2.1 – 2.4, 3.1, 3.2.1, 3.2.2, 4; Zona mục 1.1, 1.3, 2.1 – 2.3; Bệnh da do nấm sợi mục 2.1 – 2.3; Nhọt, áp xe da mục 1.2.",
+  "IDSA – Practice guidelines for skin and soft tissue infections 2014 (TL-0270; Clin Infect Dis 2014;59:e10–52) – chốc KC 1, 2a, 2b; viêm quầng, viêm mô tế bào KC 12, 14 – 19, 21; viêm cân cơ hoại tử KC 27; Bảng 2; chú thích Hình 1.",
+  "NICE NG153 2020 – Impetigo: antimicrobial prescribing (TL-0428) – mục 1.1.1 – 1.1.15, Bảng 1.",
+  "AGS Beers Criteria 2023 (TL-0022) – Bảng 2, nhóm thuốc giảm đau, NSAID không chọn lọc COX-2 đường uống.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, bệnh cơ xương khớp (TL-0286) – Thoái hóa khớp gối mục 4.2.2; Phụ lục NSAID mục 3.3.",
+  "AHA/ACC 2025, tăng huyết áp (TL-0297) – Bảng 11 (acetaminophen < 4 g/ngày).",
+  "Không có trong tài liệu đã tải: liên quan NSAID – chốc, viêm mô tế bào; nguy cơ thuốc bắc không rõ thành phần; mốc tái khám 48 – 72 giờ; số ngày nghỉ ruộng; thời gian mờ dát thâm; chỉnh liều cephalexin theo eGFR; chủng ngừa zona; tỉ lệ MRSA ở cơ sở."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (12/10/2026, viết: Sonnet). Tài liệu đã đọc: TL-0397 (QĐ 4416: Chốc mục 1–4; Zona mục 1–2; Nấm sợi mục 1–3; Nhọt mục 1.2); TL-0270 (IDSA 2014: KC 1, 2, 12 – 19, 21, 27, Bảng 2, chú thích Hình 1); TL-0428 (NICE NG153: 1.1.1 – 1.1.15, Bảng 1); TL-0022 (Beers 2023, Bảng 2); TL-0286 (QĐ 361/2014: Thoái hóa khớp gối 4.2.2, Phụ lục NSAID 3.3); mau_thuan.md (liều paracetamol người cao tuổi).",
+  "Thiết kế: lý do thật là tái khám đau gối theo hẹn; NSAID tự mua chỉ là trình tự thời gian, không quy kết; thuốc bắc ẩn dưới câu hỏi chung; lượt 2 'đỡ một phần' do thiếu liều và sinh hoạt ẩm, không phải thất bại. Mức c/a/w tự quyết, lý do ở trường n.",
+  "Ảnh: SCIN case 4526601686447943043 (nhãn Impetigo 0,67, FST1, cẳng chân), HA-DA-0006, HA-DA-0007; da người trong ảnh sáng hơn nông dân Việt (SCIN không có ảnh phù hợp hơn); đã loại ảnh lộ mặt, trẻ em, mờ. Khai báo: DL-0416_media.json.",
+  "Danh mục đề xuất: cay_dich_da. Mâu thuẫn mới: DL-0416_mau_thuan.md. Chỗ thiếu tài liệu: xem trường nguon."
+ ]
+}
