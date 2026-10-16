@@ -1,0 +1,746 @@
+{
+ "ma_ca": "NH-1273",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết ngày 16/10/2026",
+ "benh": "NH_cham_tang_can_sdd_nhe",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Chậm tăng cân / suy dinh dưỡng nhẹ",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh lý nền",
+   "Lao"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Khánh Vy",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 6.9,
+  "chieu_cao": 68,
+  "xung_ho": "Bé gái 8 tháng, chưa nói được, nhìn người lạ rồi bám bố. Bố kể bệnh: bác sĩ gọi bố là 'anh', bố xưng 'em' với bác sĩ và gọi bé là 'bé Vy' hoặc 'cháu'.",
+  "tinh_cach": "Bố 33 tuổi, tài xế xe công nghệ, hay lo, nói nhanh, cầm điện thoại có ghi sẵn những điều đã tra mạng. Nể bác sĩ nhưng muốn 'làm cho chắc' nên đòi chụp CT, siêu âm tim. Nghe giải thích bằng con số và tiêu chí cụ thể thì dịu lại. Mười hai ngày nay mất ngủ vì chuyện của ông nội nhưng không tự nói ra.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: bố mở đầu bằng 'em tra mạng thấy con em bị suy dinh dưỡng nặng, hoặc tim bẩm sinh, hoặc lao', xin chụp CT ngực và siêu âm tim 'cho em yên tâm'. Bố đúng một phần (bé thật sự chậm tăng cân, và lao cần được loại trừ) nhưng sai ở mức độ và ở lựa chọn xét nghiệm. Bố không tự kể ông nội ho, bà cho bé uống thuốc an thần (bố không biết), và nỗi sợ riêng: chỉ nói khi được hỏi đúng chỗ.",
+  "nguoi_nha": "Bố bé, anh Tuấn, 33 tuổi, đi cùng (mẹ đi làm ca). Mọi câu hỏi do bố trả lời (nguoi_noi = nguoi_nha); bé chỉ quấy hoặc cười khi được khám.",
+  "ten_nguoi_nha": "Bố bé (anh Tuấn)",
+  "ngoai_hinh": {
+   "da": "#f3d2b5",
+   "toc": "#20150f",
+   "kieuToc": "tre",
+   "ao": "#bfe3d0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#dfae85",
+    "toc": "#1c1410",
+    "kieuToc": "ngan",
+    "ao": "#4d6a8f",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Con 8 tháng không lên cân, ho vặt, bố lo bé bệnh nặng",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT (có X-quang ngực, siêu âm và xét nghiệm cơ bản)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 8 tháng, 6,9 kg, dài 68 cm, bố đưa đến vì bé 'đứng cân' và ho vặt mấy tuần nay. Sinh hiệu: nhiệt 36,9 °C, mạch 126 l/p, nhịp thở 38 l/p, SpO₂ 98%. Bé tỉnh, nhìn quanh, hơi bám bố.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Vy về hẹn 1–2 tuần mà không đưa đi xét nghiệm lao: bé dưới 2 tuổi, không tăng cân, ho đã ba tuần, ông nội ho hai tháng chưa được thử đờm; trẻ dưới 2 tuổi thuộc nhóm nguy cơ nên phải chụp X-quang ngực đồng thời xét nghiệm sinh học phân tử (QĐ 162/2024, Sơ đồ 3, tr. 32), và X-quang bình thường cũng không loại trừ lao (mục 3.4.1b). Ông vẫn bế bé mỗi chiều, bà vẫn cho uống siro an thần khiến bé bỏ bú đêm, nên nếu bé thật sự nhiễm thì bị chậm chẩn đoán, còn nếu không thì cân nặng vẫn tụt dần.",
+    "cap_cuu": "Đưa bé Vy vào cấp cứu trong đêm là quá tay: bé tỉnh, bú được, SpO₂ 98%, thở 38 l/p, không co giật, không li bì, không phù, không mất nước nên không có dấu hiệu nguy hiểm (QĐ 2989/2026, mục II.6 Bước 1) và chưa đủ tiêu chuẩn SDD cấp tính để nhập viện (mục III.2.1). Bố mất một đêm chờ ở nơi đông bệnh nhân, bé phơi nhiễm thêm lây chéo, trong khi việc cần làm là hẹn có kế hoạch để lấy bệnh phẩm lao và sửa cách nuôi. Lấy bệnh phẩm ở trẻ dưới 5 tuổi vốn cần nơi chuyên khoa, có thể phải nhập viện (QĐ 162/2024, mục 3.4.1a)."
+   },
+   "loi_mo": "Bác sĩ ơi, con em tám tháng mà cứ đứng cân hoài, lại ho vặt mấy tuần nay. Em tra mạng thấy nói suy dinh dưỡng nặng, hay tim bẩm sinh, rồi lao nữa. Bác sĩ cho cháu chụp CT với siêu âm tim cho em yên tâm.",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai tháng nay bé gần như không lên cân (6 tháng nặng 7,0 kg, nay 6,9 kg), ho vặt khoảng ba tuần. Bố tra mạng, lo bé suy dinh dưỡng nặng, tim bẩm sinh hoặc lao, muốn chụp CT và siêu âm tim.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; chậm tăng cân"
+    },
+    {
+     "id": "tang_truong",
+     "noi_dung": "Sổ theo dõi: sinh đủ tháng 38 tuần, 3,2 kg; 2 tháng 5,2 kg; 4 tháng 6,3 kg; 6 tháng 7,0 kg; nay 6,9 kg. Đường cân nặng đi ngang hai tháng nay. Bé chơi, cười, lật, ngồi có đỡ, bi bô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không tăng cân: triệu chứng nghi lao ở trẻ tiếp xúc (QĐ 162/2024 mục IV.1.2)"
+    },
+    {
+     "id": "an_dam",
+     "noi_dung": "Từ tháng thứ 6, bà nội trông bé ban ngày và nấu bột gạo nhạt, nửa chén nhỏ, 2 bữa/ngày, không thêm dầu, thịt hay trứng vì 'sợ bé đầy bụng'. Bé ăn được vài thìa thì ngậm, đẩy thìa ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn dặm: số bữa, đậm độ năng lượng (WHO 2013 Chart 16)"
+    },
+    {
+     "id": "bu_sua",
+     "noi_dung": "Mẹ đi làm lại từ khi bé 5 tháng rưỡi (ca 7 giờ–16 giờ 30). Ban ngày bé uống sữa công thức 4 cữ, bà pha loãng hơn hộp hướng dẫn 'cho đỡ tốn'. Tối và đêm bé bú mẹ, trước đây 2–3 lần mỗi đêm; hai tuần nay bé ngủ một mạch đến sáng nên mẹ không đánh thức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú mẹ giảm, sữa công thức pha loãng"
+    },
+    {
+     "id": "thuoc_an_than",
+     "noi_dung": "Khoảng 5 tuần nay bà cho bé uống siro 'an thần cho bé ngủ ngoan' mua ở tiệm thuốc, nửa muỗng cà phê buổi trưa và buổi tối, vì ông nội bệnh nên bà cần bé ngủ yên. Bà không nhớ tên thuốc. Bố không biết chuyện này.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé uống thuốc gì' chỉ nghe 'dạ không, chỉ vitamin'. Chỉ lộ khi bác sĩ hỏi riêng về thuốc ngủ, siro an thần, hoặc hỏi ai trông bé ban ngày rồi hỏi bố gọi hỏi bà có cho bé uống gì.",
+     "k": 1,
+     "y": "Thuốc an thần tự cho (làm bé ngủ li bì, bỏ bú đêm)"
+    },
+    {
+     "id": "ho_be",
+     "noi_dung": "Bé ho khan vài tiếng mỗi lần, hay vào sáng sớm, khoảng ba tuần nay. Không khò khè, không tím, không nôn sau ho, không ho thành cơn, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho từ 2 tuần trở lên (WHO 2013 mục 4.7)"
+    },
+    {
+     "id": "ong_ho",
+     "noi_dung": "Ông nội 68 tuổi, hút thuốc lá nhiều năm, ho khạc đờm khoảng hai tháng nay, gầy đi mấy ký; chưa ai cho ông thử đờm. Ông ở cùng nhà và bế bé mỗi chiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc hộ gia đình với người ho kéo dài (nguồn lây nghi lao)"
+    },
+    {
+     "id": "toan_than_lao",
+     "noi_dung": "Bé không sốt kéo dài, không ra mồ hôi trộm ban đêm, không nổi hạch hay sưng khớp, không tiêu chảy, không nôn trớ nhiều; phân vàng thành khuôn 1–2 lần/ngày, tiểu nhiều lần, nước tiểu trong.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân gợi ý lao; nhiễm khuẩn tiết niệu; kém hấp thu"
+    },
+    {
+     "id": "tim_bu",
+     "noi_dung": "Bú và ăn không phải nghỉ giữa chừng, không thở nhanh, không tím, không phù mặt. Thỉnh thoảng trán bé ướt mồ hôi khi phòng nóng, người không ướt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tim bẩm sinh (WHO 2013 Bảng 6, tr. 78)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, bú mẹ hoàn toàn đến 5 tháng rưỡi. Tiêm chủng theo chương trình, đã tiêm BCG sơ sinh. Không dị ứng sữa, chưa nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ong_nmct",
+     "noi_dung": "Mười hai ngày trước ông nội lên cơn đau ngực, vào viện được chẩn đoán nhồi máu cơ tim, đã đặt stent và ra viện. Cả nhà xáo trộn, bố nhiều đêm không ngủ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều bố lo nhất: sau chuyện ông, bố sợ bệnh tim 'di truyền' sang bé, nên mới đòi siêu âm tim; bố cũng sợ chính mình bị nhồi máu vì hay nặng ngực, hồi hộp khi căng thẳng nhưng chưa đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bố không tự nói. Chỉ lộ khi bác sĩ hỏi 'anh còn lo điều gì khác không', hỏi trong nhà có ai bệnh tim, hoặc ghi nhận bố đang căng thẳng và hỏi về sức khỏe của bố.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 6,9 kg, dài 68 cm. Chu vi vòng cánh tay (MUAC) 130 mm. Bé tỉnh, linh hoạt, cười đáp; mắt không trũng, niêm mạc ẩm, khóc có nước mắt. Lớp mỡ dưới da mông và đùi mỏng nhẹ, không phù hai mu bàn chân, tóc thưa nhẹ. Không loét miệng.",
+     "k": 1,
+     "hien": "Cân 6,9 kg, dài 68 cm, MUAC 130 mm. Tỉnh, cười đáp, mắt không trũng, không phù."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, rộng 1,5 cm. Không sờ thấy hạch cổ, nách, bẹn. Không nấm miệng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, mũi khô, màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 126 l/p, T1 T2 rõ, không âm thổi, không tiếng T3. Mỏm tim đập bình thường, không nhô vùng trước tim. Gan bờ sườn.",
+     "k": 1,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh theo tuổi, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch đùi hai bên bắt rõ, đều, hai bên như nhau. Thời gian đổ đầy mao mạch dưới 2 giây. Môi hồng, không tím.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p, êm, không co lõm lồng ngực, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối. Gan bờ sườn, lách không sờ thấy.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không ban, không chấm xuất huyết. Sẹo BCG vai trái 5 mm, không loét.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Trương lực cơ bình thường, vận động đều bốn chi, ngồi có đỡ, đáp ứng tiếng động.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Không chuỗi hạt sườn, cổ tay không nở, không biến dạng xương.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "Linh mô tả phim: bóng tim không to, rốn phổi hai bên không to, nhu mô không đông đặc, không hang, không nốt, không tràn dịch màng phổi, không thấy hạch trung thất to.",
+     "n": "Cần làm: trẻ dưới 2 tuổi nghi lao được chụp X-quang ngực đồng thời xét nghiệm SHPT (QĐ 162/2024, Sơ đồ 3, tr. 32). Phim bình thường chưa loại trừ lao (QĐ 162/2024, mục 3.4.1b)."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Bé 8 tháng chưa khạc được đờm. Cần dịch dạ dày, dịch hút tỵ hầu hoặc phân; phòng khám không thu được bệnh phẩm này nên chưa có kết quả hôm nay.",
+     "n": "Cần làm: Xpert Ultra là xét nghiệm đầu tiên ở trẻ có triệu chứng, trên đờm, dịch hút tỵ hầu, dịch dạ dày hoặc phân (WHO 2022 Module 5, Bảng 1, khuyến cáo 1); QĐ 162/2024 mục 3.4.1a: ưu tiên SHPT, trẻ dưới 5 tuổi có thể cần nhập viện để lấy bệnh phẩm. Việc lấy bệnh phẩm là lý do chuyển tuyến."
+    },
+    "ct_nguc": {
+     "v": "u",
+     "r": "Không thấy hạch rốn phổi hay trung thất to; nhu mô phổi bình thường.",
+     "thay_the": "cxr",
+     "n": "Không phải bước đầu: CT chỉ định khi trẻ nghi lao mà X-quang không rõ tổn thương, hoặc tìm biến chứng (QĐ 162/2024, mục 3.4.1b); trẻ chưa có kết quả SHPT. Cơ sở không có CT: nếu SHPT âm tính mà vẫn nghi thì chuyển tuyến chụp. Liều tia CT ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,6 G/L · Neutrophil 38% · Hb 112 g/L · TC 360 G/L",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 38.0,
+      "neu": 3.65,
+      "lym_pct": 52.0,
+      "lym": 5.0,
+      "mono_pct": 7.0,
+      "mono": 0.67,
+      "eos_pct": 2.5,
+      "eos": 0.24,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.3,
+      "hgb": 112,
+      "hct": 0.34,
+      "mcv": 78.0,
+      "mch": 26.0,
+      "mchc": 330,
+      "rdw": 13.5,
+      "plt": 360
+     },
+     "n": "Hữu ích, không bắt buộc: CTM đánh giá thiếu máu, nhiễm khuẩn (QĐ 2989/2026, mục II.2.1, II.2.2); không trì hoãn xử trí chờ xét nghiệm. Hb 112 g/L, trên ngưỡng thiếu máu 105 g/L của trẻ 6 tháng–2 tuổi (QĐ 3312/2015, bài Thiếu máu thiếu sắt)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Bạch cầu, nitrit, protein đều âm tính.",
+     "n": "Chấp nhận để loại nhiễm khuẩn tiết niệu tiềm ẩn gây chậm tăng cân; bé không sốt, không tiểu bất thường nên không bắt buộc (QĐ 2989/2026, mục II.2.2)."
+    },
+    "echo": {
+     "v": "a",
+     "r": "Cấu trúc tim bình thường, không thông liên thất hay liên nhĩ, ống động mạch đã đóng, EF 68%.",
+     "n": "Không bắt buộc: bé không âm thổi, mạch đùi rõ, SpO₂ 98%, bú không mệt, không có dấu hiệu tim bẩm sinh (WHO 2013, Bảng 6, tr. 78). Tài liệu đã tải không nêu chỉ định siêu âm tim sàng lọc cho trẻ chậm tăng cân không dấu hiệu tim: chỉ chấp nhận để trấn an bố rất lo, tốn 250.000 đồng."
+    },
+    "igra": {
+     "v": "u",
+     "r": "Mantoux sau 72 giờ: nốt sẩn 2 mm (dưới 5 mm: âm tính).",
+     "n": "Hữu ích khi không tìm thấy bằng chứng vi khuẩn, cần quay lại đọc sau 48–72 giờ; (QĐ 162/2024, mục 3.4.1a; âm tính khi nốt sẩn dưới 5 mm, mục IV.1.2). Chỉ bổ sung khi chưa có bằng chứng vi khuẩn; độ nhạy ở trẻ chậm tăng cân: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chậm tăng cân ở nhũ nhi 8 tháng do khẩu phần chưa đủ năng lượng (bột loãng, sữa công thức pha loãng, giảm bú đêm sau khi uống siro an thần); cân nặng theo chiều dài giữa −2 và −1 SD, MUAC 130 mm, chưa là SDD cấp tính",
+     "ok": 1,
+     "n": "Cân nặng đi ngang hai tháng; 6,9 kg ở chiều dài 68 cm nằm giữa −2 SD (6,5 kg) và −1 SD (7,1 kg) (WHO 2013, Bảng A5.2.2 bé gái); MUAC 130 mm ≥ 125 mm, không phù nên chưa đủ SDDCT (QĐ 2989/2026, mục II.3, Bảng 2). Thiếu cung cấp dinh dưỡng là nhóm nguyên nhân hàng đầu (mục II.5). Định nghĩa 'chậm tăng cân' bằng con số: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lao phổi / lao sơ nhiễm ở trẻ",
+     "n": "Chưa loại trừ được tại phòng khám: bé dưới 2 tuổi, ho ba tuần, cân nặng đi ngang, tiếp xúc hộ gia đình với ông nội ho hai tháng (nguồn nghi lao). Triệu chứng nghi lao gồm ho, sốt, sụt hoặc không tăng cân, ra mồ hôi trộm (QĐ 162/2024, mục IV.1.2; WHO 2013 mục 4.7, Bảng 10). Không sốt, không hạch, X-quang ngực bình thường làm giảm khả năng nhưng chưa loại trừ (mục 3.4.1b): cần Xpert dịch dạ dày/tỵ hầu/phân."
+    },
+    {
+     "t": "SDD cấp tính vừa hoặc nặng",
+     "n": "Chưa đủ tiêu chuẩn: cân nặng theo chiều dài chưa dưới −2 SD, MUAC 130 mm, không phù (QĐ 2989/2026, mục II.3, Bảng 2; WHO 2023, định nghĩa wasting)."
+    },
+    {
+     "t": "Bệnh lý nền: tim bẩm sinh",
+     "n": "Ít nghĩ: không âm thổi, mạch đùi bắt rõ, môi hồng, SpO₂ 98%, bú không mệt, không thở nhanh khi bú; tim bẩm sinh gây chậm tăng cân thường kèm khó bú, vã mồ hôi trán, âm thổi, suy tim (WHO 2013, Bảng 6, tr. 78; QĐ 2989/2026, mục II.5)."
+    },
+    {
+     "t": "Bệnh lý nền: nhiễm khuẩn tiết niệu, kém hấp thu (dị ứng đạm sữa bò, bệnh celiac, bệnh gan mật)",
+     "n": "Ít nghĩ: không sốt, tiểu nước trong, phân vàng thành khuôn, không nôn trớ, không tiêu chảy, bé chưa ăn gluten (QĐ 2989/2026, mục II.5). Chỉ làm xét nghiệm kém hấp thu khi lâm sàng gợi ý hoặc khi đã sửa khẩu phần mà bé vẫn không tăng cân."
+    },
+    {
+     "t": "Tác dụng của thuốc an thần làm bé bỏ bú",
+     "n": "Bé ngủ li bì, bỏ bú đêm từ khi bà cho siro; trẻ bệnh, đau hoặc dùng thuốc an thần có thể bú kém (WHO 2013, 'Refusal or reluctance to breastfeed', tr. 297). Tên thành phần thuốc: không rõ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có thư giới thiệu, trong vài ngày tới (không cấp cứu), đến cơ sở nhi hoặc lao có thể thu dịch dạ dày/tỵ hầu/phân làm Xpert, chụp CT ngực khi cần",
+     "v": "c",
+     "n": "Trẻ dưới 2 tuổi có ho và không tăng cân, tiếp xúc người nghi lao: X-quang ngực + SHPT (QĐ 162/2024, Sơ đồ 3, tr. 32); trẻ dưới 5 tuổi có thể cần nhập viện để lấy bệnh phẩm (mục 3.4.1a); CT ngực khi X-quang bình thường mà vẫn nghi lao (tình huống 4, mục 3.4.1d1) mà phòng khám không có CT. Theo sổ mâu thuẫn (chuẩn của trưởng nhóm): ho trên 2 tuần + tiếp xúc người nghi lao ở trẻ dưới 2 tuổi thì làm SHPT. Thời hạn chuyển cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích vì sao CT chưa phải bước đầu, siêu âm tim chưa cần",
+     "v": "c",
+     "n": "CT chỉ khi X-quang không rõ mà vẫn nghi lao (QĐ 162/2024, mục 3.4.1b); khám tim bình thường nên chưa nghĩ tim bẩm sinh (WHO 2013, Bảng 6). Giải thích bằng tiêu chí cụ thể làm bố bớt lo hơn từ chối; không cần nguồn cho phần giao tiếp."
+    },
+    {
+     "t": "Ông nội đi khám phổi ngay (X-quang ngực, xét nghiệm đờm Xpert); trong lúc chờ kết quả ông không bế, không chăm bé",
+     "v": "c",
+     "n": "Người ho trên 2 tuần là người nghi lao (QĐ 162/2024, Sơ đồ 3); người mắc bệnh truyền nhiễm không được chăm sóc trẻ (QĐ 2989/2026, mục III.3.3). Thời gian cách ly cụ thể khi chưa có kết quả: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng siro an thần của bà; giải thích với bà và bố, mua thuốc cho bé chỉ khi bác sĩ kê",
+     "v": "c",
+     "n": "Bé ngủ li bì và bỏ bú đêm từ khi dùng (WHO 2013 tr. 297: trẻ bị an thần có thể từ chối bú). An toàn và chỉ định thuốc an thần ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng đậm độ năng lượng bữa ăn: bột đặc hơn thêm dầu, thịt/cá/trứng, rau, 3 bữa/ngày; pha sữa công thức đúng hướng dẫn hộp; bú mẹ theo nhu cầu cả ngày lẫn đêm, mẹ vắt sữa khi đi làm",
+     "v": "c",
+     "n": "Trẻ 6–12 tháng bú mẹ ít nhất 8 lần/24 giờ, ăn thức ăn đặc, giàu dinh dưỡng, 3 bữa/ngày nếu còn bú; bữa ăn nên có thức ăn giàu năng lượng (bột đặc thêm dầu), thịt, cá, trứng hoặc đậu, rau quả (WHO 2013, Chart 16, tr. 302); tư vấn khẩu phần và khuyến khích bú mẹ cho trẻ dưới 24 tháng (QĐ 2989/2026, mục III.1). Số muỗng, gam cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám cân đo (cân nặng, chiều dài, MUAC) khi có kết quả tuyến trên, tối đa 2–4 tuần; đến ngay nếu bú kém, li bì, thở nhanh hoặc rút lõm ngực, tiêu chảy, sốt, phù",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm (không bú được, nôn tất cả, li bì, co giật, thở rít, mất nước nặng, thiếu máu nặng): QĐ 2989/2026, mục II.1; theo dõi sau 1–2 tuần khi chưa đủ tiêu chuẩn chẩn đoán lao (QĐ 162/2024, Sơ đồ 3) và khám lại sau 1 tháng nếu CT không bất thường (tình huống 4). Lịch cân riêng cho trẻ chậm tăng cân chưa SDD: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi thăm và khuyên bố đi khám tim mạch (huyết áp, điện tim) vì bố đang lo sợ, nặng ngực",
+     "v": "c",
+     "n": "Lo âu của người chăm sóc ảnh hưởng đến việc tuân thủ và an toàn của bé; đây là phần giao tiếp, không phải chỉ định điều trị bé."
+    },
+    {
+     "t": "Không chuyển, cho về hẹn tái khám sau 1–2 tuần, theo dõi cân tại nhà",
+     "v": "a",
+     "n": "Chỉ chấp nhận nếu bố từ chối chuyển; theo sổ mâu thuẫn, theo dõi 1–2 tuần là mức tối thiểu chấp nhận được (QĐ 162/2024, Sơ đồ 3) nhưng không phải đáp án chính vì bé có yếu tố nguy cơ (dưới 2 tuổi) và nguồn lây chưa loại trừ."
+    },
+    {
+     "t": "Bổ sung ngay sản phẩm dinh dưỡng y học dạng đặc năng lượng cao",
+     "v": "a",
+     "n": "Chấp nhận, chưa cần: bé chưa đủ SDDCT; sản phẩm này dùng cho SDDCT vừa khi khẩu phần nhà không đảm bảo (QĐ 2989/2026, mục III.4.2). Chỉ định cho trẻ chưa SDDCT: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh thử hoặc thuốc ho, long đờm cho bé ho vặt",
+     "v": "w",
+     "n": "Ho khan không dùng kháng sinh (WHO 2013, mục 4.4: không dùng kháng sinh, thuốc long đờm); ho trên 14 ngày cần nghĩ lao, ho gà, hen (WHO 2013 mục 4.4, 4.7)."
+    },
+    {
+     "t": "Cho isoniazid dự phòng hoặc điều trị lao thử ngay tại phòng khám",
+     "v": "w",
+     "n": "Lao tiềm ẩn ở trẻ dưới 5 tuổi tiếp xúc chỉ chẩn đoán sau khi loại trừ lao hoạt động (QĐ 162/2024, mục IV.1.2.1); bé có triệu chứng nên phải làm SHPT trước. Điều trị lao thử không có trong chỉ định của Sơ đồ 3 khi chưa có kết quả."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chậm tăng cân (đường cân nặng đi ngang 2 tháng) ở nhũ nhi gái 8 tháng, nguyên nhân thiếu cung cấp: bột loãng, sữa pha loãng, giảm bú đêm",
+     "Cân nặng theo chiều dài giữa −2 và −1 SD, MUAC 130 mm, không phù: chưa phải SDD cấp tính",
+     "Thuốc an thần tự cho (bà nội) làm bé bỏ bú đêm",
+     "Ho khan ba tuần + tiếp xúc hộ gia đình với ông nội ho hai tháng: phải loại trừ lao hoạt động; X-quang ngực bình thường, chưa có SHPT",
+     "Không có dấu hiệu tim bẩm sinh, nhiễm khuẩn tiết niệu hay kém hấp thu trên khám và xét nghiệm tại chỗ",
+     "Bố lo sợ nhồi máu cơ tim sau biến cố của ông nội"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao chậm tăng cân: sổ cân nặng 7,0 kg lúc 6 tháng, nay 6,9 kg (không tăng cân là triệu chứng nghi lao ở trẻ tiếp xúc, QĐ 162/2024 mục IV.1.2). Khẩu phần thực tế lệch xa khuyến cáo: bột nhạt 2 bữa, không dầu, thịt, trứng; bú mẹ giảm (WHO 2013, Chart 16, tr. 302). Thiếu cung cấp dinh dưỡng là nhóm nguyên nhân thứ nhất (QĐ 2989/2026, mục II.5).",
+     "Vì sao chưa là SDD cấp tính: tra bảng bé gái, chiều dài 68,0 cm có −2 SD = 6,5 kg và −1 SD = 7,1 kg (WHO 2013, Bảng A5.2.2); bé 6,9 kg nằm giữa. SDDCT vừa cần cân nặng theo chiều dài từ −3 đến dưới −2 SD hoặc MUAC 115 đến dưới 125 mm (QĐ 2989/2026, mục II.3, Bảng 2; WHO 2023). MUAC 130 mm, không phù. Bé đang ở sát ngưỡng nên là bé cần theo sát.",
+     "Vì sao phải loại trừ lao: ho trên 2 tuần và không tăng cân là hai triệu chứng nghi lao ở trẻ; ông nội ho trên 2 tuần là người nghi lao; bé dưới 2 tuổi là yếu tố nguy cơ, nên X-quang ngực và SHPT làm đồng thời (QĐ 162/2024, Sơ đồ 3, tr. 32). Ở trẻ dưới 5 tuổi bệnh phẩm là dịch dạ dày, tỵ hầu, phân và có thể phải nhập viện lấy mẫu (mục 3.4.1a; WHO 2022 Module 5, Bảng 1, khuyến cáo 1). X-quang bình thường chưa loại trừ lao; CT ngực khi X-quang không rõ mà vẫn nghi (mục 3.4.1b, tình huống 4), phòng khám không có CT nên đây là lý do thứ hai để chuyển tuyến.",
+     "Vì sao ít nghĩ bệnh lý nền: khám tim không âm thổi, mạch đùi rõ, SpO₂ 98%, bú không mệt; tim bẩm sinh không tím thường có khó bú, vã mồ hôi trán, tim nhô, âm thổi (WHO 2013, Bảng 6, tr. 78). Không sốt, nước tiểu trong, phân thành khuôn: ít nghĩ nhiễm khuẩn tiết niệu hay kém hấp thu. Bố tra mạng đúng một phần: bé thật sự thiếu cân và lao cần được loại trừ; sai ở chỗ 'suy dinh dưỡng nặng' và CT.",
+     "Vì sao nhắc nỗi sợ của bố: bố đòi siêu âm tim vì sợ bệnh tim 'di truyền' sau cơn nhồi máu của ông; hỏi 'anh còn lo điều gì khác' mở được nỗi lo thật và việc bố đang nặng ngực, hồi hộp. Khuyên bố đi khám là bước xử trí quan trọng cho cả nhà."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có kế hoạch chứ không cấp cứu: không có dấu hiệu nguy hiểm (QĐ 2989/2026, mục II.6 Bước 1); lý do chuyển là lấy bệnh phẩm lao ở trẻ nhỏ và CT khi cần (QĐ 162/2024, mục 3.4.1). Cho về hẹn 1–2 tuần chấm chấp nhận nếu bố từ chối, không phải đáp án chính (sổ mâu thuẫn).",
+     "Giải thích CT: CT ngực không phải bước đầu, liều tia ở nhũ nhi không có trong tài liệu đã tải; giải thích bằng tiêu chí giúp bố tin vào kế hoạch.",
+     "Ông nội đi khám phổi cùng lúc: tìm nguồn lây vừa bảo vệ bé vừa cho ông; người mắc bệnh truyền nhiễm không chăm sóc trẻ (QĐ 2989/2026, mục III.3.3).",
+     "Ngưng siro an thần và sửa khẩu phần: bé bỏ bú đêm vì thuốc (WHO 2013, tr. 297); đậm độ năng lượng, 8 cữ bú, 3 bữa đặc (WHO 2013, Chart 16, tr. 302); khuyến khích bú mẹ dưới 24 tháng (QĐ 2989/2026, mục III.1).",
+     "Chưa dùng sản phẩm dinh dưỡng y học, chưa kê vi chất: bé chưa SDDCT; QĐ 2989/2026 (mục III.4.2) chỉ nêu cho SDDCT vừa khi khẩu phần nhà không đảm bảo.",
+     "Không kháng sinh, thuốc ho, isoniazid thử (WHO 2013 mục 4.4; QĐ 162/2024 mục IV.1.2.1). Hẹn khám lại có mốc, đến ngay khi có dấu hiệu nguy hiểm (QĐ 2989/2026, mục II.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ở lượt này (không kháng sinh, không thuốc ho/long đờm, không thuốc an thần, không isoniazid thử, không vitamin liều cao)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến khi có kết quả từ tuyến trên",
+      "ghi_chu": "WHO 2013 mục 4.4 (ho khan không dùng kháng sinh, thuốc long đờm); QĐ 162/2024 mục IV.1.2.1 (isoniazid sau khi loại trừ lao hoạt động); QĐ 2989/2026 mục III.4.2 (sản phẩm dinh dưỡng y học chỉ khi SDDCT vừa). Việc cần làm là sửa khẩu phần và ngưng siro an thần."
+     }
+    ],
+    "dan_do": [
+     "Bé chưa suy dinh dưỡng nặng như bố tra: bé thiếu cân vì ăn chưa đủ năng lượng và vì thuốc an thần làm bé bỏ bú đêm; cân nặng giữa −2 và −1 SD, vòng cánh tay 130 mm (QĐ 2989/2026, mục II.3; WHO 2013, Bảng A5.2.2).",
+     "Ngưng ngay siro an thần của bà; không tự cho thuốc ngủ, thuốc ho, kháng sinh cho bé; chỉ dùng thuốc bác sĩ kê.",
+     "Ăn dặm 3 bữa/ngày, bột đặc, thêm dầu ăn và thịt, cá, trứng hoặc đậu, rau quả, nghiền nhuyễn; vẫn bú mẹ ít nhất 8 lần mỗi 24 giờ cả đêm; pha sữa công thức đúng theo hộp (WHO 2013, Chart 16, tr. 302).",
+     "Mẹ vắt sữa khi đi làm để bà cho bé uống (khuyến khích bú mẹ dưới 24 tháng, QĐ 2989/2026, mục III.1); số lần vắt, số ml mỗi cữ: không có trong tài liệu đã tải.",
+     "Đưa bé đến cơ sở nhi hoặc lao theo thư giới thiệu để lấy dịch dạ dày hoặc tỵ hầu làm Xpert và cân nhắc chụp CT (QĐ 162/2024, mục 3.4.1); mang theo kết quả X-quang hôm nay.",
+     "Ông nội đi khám phổi và thử đờm; trong lúc chờ, ông không bế, không chăm bé và đeo khẩu trang nếu ở gần.",
+     "Đến ngay nếu bé bú kém hoặc bỏ bú, li bì, nôn hết, co giật, thở nhanh hay rút lõm ngực, sốt, tiêu chảy, phù chân (QĐ 2989/2026, mục II.1).",
+     "Anh Tuấn nên đi khám tim mạch: đo huyết áp, điện tim; không để nỗi sợ làm anh mất ngủ thêm."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần, bố mang giấy kết quả của Bệnh viện Nhi. Bé bị tiêu chảy 5 ngày ở tuần thứ hai, nay đã hết. Cân 6,6 kg, dài 69,0 cm. Sinh hiệu: nhiệt 37,0 °C, mạch 132 l/p, nhịp thở 40 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt, vẫn bú.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bé Vy vì tụt 300 g là không cần: bé tỉnh, bú và ăn bột khá, không phù, không dấu hiệu nguy hiểm, tiêu chảy đã hết, nên là SDD cấp tính vừa không biến chứng, điều trị ngoại trú (QĐ 2989/2026, mục II.6 Bước 6; tiêu chuẩn nhập viện ở mục III.2.1 bé không có). Nằm viện sau chuỗi chuyển viện vừa qua làm mẹ phải xin nghỉ làm, bé tiếp xúc thêm nhiễm khuẩn bệnh viện, bố càng tin con bệnh nặng như đã tra.",
+    "chuyen_tuyen": "Chuyển bé Vy lên tuyến trên lần nữa chỉ vì sụt cân là lãng phí: tuyến trên đã làm Xpert và CT, kết quả không có bằng chứng lao; QĐ 2989/2026 (mục IV.3) giao cho cơ sở ban đầu quản lý SDD cấp tính vừa không biến chứng, chỉ chuyển khi có biến chứng, dấu hiệu nguy hiểm hoặc thất bại điều trị. Gia đình thêm một chuyến đi, mất ngày công của bố, bé không được bổ sung ăn uống ở nhà trong lúc chờ."
+   },
+   "loi_mo": "Bác sĩ ơi, bệnh viện nói không thấy lao rồi, nhưng bé lại sụt thêm gần ba trăm gam. Em tra thì thấy ghi suy dinh dưỡng, em lo quá, có phải bé nặng thêm không?",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 40,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ket_qua_bv",
+     "noi_dung": "Bệnh viện Nhi đã làm Xpert Ultra dịch dạ dày hai mẫu: không phát hiện vi khuẩn lao. CT ngực không thấy hạch rốn phổi, tổn thương nhu mô hay hang. Mantoux 2 mm. Bác sĩ ở đó kết luận chưa có bằng chứng lao, hẹn khám lại sau một tháng và sửa khẩu phần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả loại trừ lao ở tuyến trên"
+    },
+    {
+     "id": "ong_ket_qua",
+     "noi_dung": "Ông nội đã đi khám phổi: Xpert đờm hai mẫu âm tính, X-quang ngực khí phế thũng, kết luận viêm phế quản mạn kèm suy tim sau nhồi máu; ông đã bỏ thuốc lá và không bế bé nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây được loại trừ"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Tuần thứ hai sau lần khám trước, bé tiêu chảy phân nước 5 ngày, 5–6 lần/ngày, không máu, không sốt cao, nôn ít. Bà cho uống ORS pha theo gói, không đi khám. Hết từ 4 ngày nay, phân vàng thành khuôn 2 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nhiễm khuẩn xen kẽ gây sụt cân (QĐ 2989/2026, mục I.1)"
+    },
+    {
+     "id": "khau_phan",
+     "noi_dung": "Sau lần khám trước, bà ngưng siro (mẹ thu hết thuốc), bột đặc hơn, thêm trứng và dầu, bé ăn khá hơn trước đó. Tuần tiêu chảy bé bỏ bú và ăn rất ít; mấy ngày nay ăn lại nhưng chưa bằng lúc chưa bệnh. Bú mẹ tối 3 lần, đêm 1–2 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khẩu phần sau tư vấn; bú mẹ đã trở lại"
+    },
+    {
+     "id": "thom_an",
+     "noi_dung": "Khi cho ăn thử trong phòng yên tĩnh: bé há miệng ngay khi thấy thìa bột, ăn hết khoảng ba phần tư chén, không nôn, không khó chịu; bú mẹ ngay khi được bế lên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cảm giác thèm ăn còn (QĐ 2989/2026, Phụ lục 5)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không nôn mọi thứ, không li bì, không co giật, không thở rít, không phù. Tiểu 5–6 tã mỗi ngày. Ho vặt gần như hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm (QĐ 2989/2026, mục II.1)"
+    },
+    {
+     "id": "bo_kham",
+     "noi_dung": "Bố đã đi khám: huyết áp hơi cao, điện tim bình thường, bác sĩ nói do căng thẳng và dặn theo dõi. Bố bớt mất ngủ từ khi biết bé không bị lao.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật của bố đã được xử lý"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 6,6 kg, dài 69,0 cm, MUAC 123 mm. Bé tỉnh, đáp ứng, hơi mệt. Mắt không trũng, niêm mạc ẩm, nếp véo mất ngay. Lớp mỡ dưới da mông và đùi mỏng rõ hơn lần trước. Không phù hai mu bàn chân.",
+     "k": 1,
+     "hien": "Cân 6,6 kg, dài 69,0 cm, MUAC 123 mm. Tỉnh, mắt không trũng, không phù."
+    },
+    "tim": {
+     "a": "Tim đều 132 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh theo tuổi, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p, êm, không co lõm lồng ngực, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 40 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối. Gan bờ sườn.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không ban, không bong da từng mảng, không chấm xuất huyết.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch. Thóp trước phẳng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,9 G/L · Neutrophil 36% · Hb 108 g/L · TC 330 G/L",
+     "bang": {
+      "wbc": 8.9,
+      "neu_pct": 36.0,
+      "neu": 3.2,
+      "lym_pct": 54.0,
+      "lym": 4.8,
+      "mono_pct": 7.0,
+      "mono": 0.62,
+      "eos_pct": 2.5,
+      "eos": 0.22,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.2,
+      "hgb": 108,
+      "hct": 0.33,
+      "mcv": 77.0,
+      "mch": 25.7,
+      "mchc": 328,
+      "rdw": 13.8,
+      "plt": 330
+     },
+     "n": "Hữu ích: đánh giá thiếu máu và nhiễm khuẩn khi tìm nguyên nhân (QĐ 2989/2026, mục II.2.1). Hb 108 g/L còn trên ngưỡng thiếu máu 105 g/L (trẻ 6 tháng–2 tuổi, QĐ 3312/2015, bài Thiếu máu thiếu sắt)."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 28 ng/mL · sắt huyết thanh 10 µmol/L · bão hòa transferrin 18%",
+     "n": "Chấp nhận nếu khẩu phần thiếu sắt kéo dài; ferritin có thể tăng giả tạo khi viêm (QĐ 2989/2026, mục II.2.2). Ngưỡng thiếu sắt: không có trong tài liệu đã tải."
+    },
+    "xpert": {
+     "n": "Đã có kết quả âm tính hai mẫu từ tuyến trên; làm lại khi lâm sàng xấu đi (QĐ 162/2024, mục 3.4.1a: lần đầu âm tính vẫn cần xét lại bằng mẫu khác nếu triệu chứng còn)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chậm tăng cân kèm SDD cấp tính mức độ vừa không biến chứng (cân nặng theo chiều dài giữa −3 và −2 SD, MUAC 123 mm), sau tiêu chảy cấp, trên nền khẩu phần chưa đủ; đã loại trừ lao",
+     "ok": 1,
+     "n": "Chiều dài 69,0 cm: −3 SD = 6,1 kg, −2 SD = 6,7 kg (WHO 2013, Bảng A5.2.2); bé 6,6 kg nằm giữa; MUAC 123 mm nằm trong 115 đến dưới 125 mm; không phù (QĐ 2989/2026, mục II.3, Bảng 2; WHO 2023 B11). Gầy còm thường gặp sau tiêu chảy (mục I.1). Không biến chứng: còn thèm ăn, không dấu hiệu nguy hiểm (mục II.6 Bước 5–6)."
+    },
+    {
+     "t": "SDD cấp tính nặng hoặc có biến chứng",
+     "n": "Không: cân nặng theo chiều dài không dưới −3 SD, MUAC không dưới 115 mm, không phù, còn thèm ăn, không dấu hiệu nguy hiểm (QĐ 2989/2026, mục II.3, III.2.1)."
+    },
+    {
+     "t": "Lao phổi / lao sơ nhiễm",
+     "n": "Đã loại trừ ở mức hiện tại: Xpert hai mẫu âm tính, CT ngực bình thường, nguồn lây (ông nội) Xpert âm tính; điểm lâm sàng thấp (QĐ 162/2024, Sơ đồ 3, Bảng 4, tr. 32–33). Hẹn khám lại sau một tháng đã đến hạn (tình huống 4, mục 3.4.1d1)."
+    },
+    {
+     "t": "Bệnh lý nền (tim bẩm sinh, kém hấp thu, nhiễm khuẩn tiết niệu)",
+     "n": "Ít nghĩ: khám tim phổi bình thường, SpO₂ 98%, phân thành khuôn sau tiêu chảy, cân nặng tụt giải thích đủ bằng đợt tiêu chảy cấp trên khẩu phần thấp (QĐ 2989/2026, mục II.5). Nếu sau 2–4 tuần điều trị đúng mà vẫn không tăng cân thì tìm nguyên nhân sâu hơn (mục III.3.4)."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt",
+     "n": "Chưa đủ: Hb 108 g/L ≥ 105 g/L (QĐ 3312/2015, bài Thiếu máu thiếu sắt); ferritin chấp nhận làm, giá trị dễ nhiễu khi viêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Quản lý ngoại trú tại cơ sở ban đầu (điều trị dự phòng chuyển nặng): tư vấn khẩu phần 100–130 kcal/kg/ngày, đa dạng thực phẩm giàu năng lượng, protein, vi chất, tiếp tục bú mẹ",
+     "v": "c",
+     "n": "SDD cấp tính vừa không biến chứng điều trị ở y tế cơ sở, mục tiêu 100–130 kcal/kg/ngày từ thức ăn gia đình, thực phẩm bổ sung và sữa mẹ (QĐ 2989/2026, mục II.6 Bước 6, mục III.4.1–III.4.2); WHO 2023 B11–B12: chế độ giàu dinh dưỡng và đánh giá, xử lý các vấn đề y tế, tâm lý xã hội. 6,6 kg × 100–130 kcal = 660–858 kcal/ngày (tính từ nguồn)."
+    },
+    {
+     "t": "Bổ sung sản phẩm dinh dưỡng y học (TPDDYH hoặc thực phẩm bổ sung dạng LNS) liều bổ sung, cho 40–60% nhu cầu năng lượng mỗi ngày",
+     "v": "c",
+     "n": "Hai nguồn cùng hướng, khác ở mức chắc chắn: WHO 2023 B13 (khuyến cáo mạnh): ưu tiên sản phẩm dinh dưỡng đặc biệt kèm tư vấn cho trẻ dưới 24 tháng, và trẻ tái phát/không hồi phục sau chỉ tư vấn; B16: 40–60% nhu cầu 100–130 kcal/kg/ngày. QĐ 2989/2026 mục III.4.2: dùng liều bổ sung 'trong trường hợp cần thiết, đặc biệt khi khẩu phần gia đình không đảm bảo'. Bé 8 tháng, khẩu phần mới sửa và vừa tụt cân nên dùng; chỉ tư vấn cũng chấp nhận (mục dưới)."
+    },
+    {
+     "t": "Bổ sung vi chất (vitamin A, sắt, kẽm hoặc đa vi chất) theo hướng dẫn; không bổ sung thêm nếu sản phẩm dinh dưỡng đã có vi chất",
+     "v": "c",
+     "n": "QĐ 2989/2026, mục III.4.3. Liều từng vi chất cho SDDCT vừa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám cân đo (cân, chiều dài, MUAC) sau 2 tuần, sau đó mỗi tháng đến khi hết SDDCT; ghi biểu đồ",
+     "v": "c",
+     "n": "Theo dõi dự phòng ít nhất mỗi tháng một lần: cân, chiều dài, MUAC, thực hành nuôi dưỡng (QĐ 2989/2026, mục III.4.4); mốc 2 tuần để đánh giá đáp ứng sớm là thiết kế của ca, tài liệu đã tải không nêu."
+    },
+    {
+     "t": "Tiêm chủng đủ theo chương trình, vệ sinh ăn uống và nước sạch, điều trị sớm khi bé bệnh; dặn dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "QĐ 2989/2026, mục III.4.3 (tiêm chủng, nước sạch, vệ sinh, điều trị kịp thời); dấu hiệu nguy hiểm mục II.1."
+    },
+    {
+     "t": "Chỉ tư vấn khẩu phần, chưa dùng sản phẩm dinh dưỡng y học, đánh giá lại sau 2 tuần rồi mới thêm nếu không tăng cân",
+     "v": "a",
+     "n": "QĐ 2989/2026, mục III.4.2: tư vấn là nền tảng, sản phẩm dinh dưỡng y học 'khi cần thiết'; chấp nhận vì cùng nguồn không bắt buộc, nhưng WHO 2023 B13 ưu tiên dùng cho trẻ dưới 24 tháng."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến vì SDDCT vừa",
+     "v": "w",
+     "n": "Không có tiêu chuẩn: không biến chứng, còn thèm ăn, không dấu hiệu nguy hiểm (QĐ 2989/2026, mục III.2.1, mục IV.3)."
+    },
+    {
+     "t": "Kê kháng sinh thường quy cho trẻ SDD vừa",
+     "v": "w",
+     "n": "Kháng sinh thường quy nêu cho điều trị ngoại trú SDDCT nặng (QĐ 2989/2026, mục III.3.2); không nêu cho SDDCT vừa và bé không có nhiễm khuẩn."
+    },
+    {
+     "t": "Cho isoniazid dự phòng khi nguồn lây đã loại trừ",
+     "v": "w",
+     "n": "Lao tiềm ẩn chỉ điều trị khi có tiếp xúc với người bệnh lao phổi (QĐ 162/2024, mục IV.1.1–1.2); nguồn lây (ông nội) Xpert âm tính nên không có chỉ định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chậm tăng cân, nay SDD cấp tính vừa không biến chứng: cân nặng theo chiều dài giữa −3 và −2 SD, MUAC 123 mm, không phù",
+     "Nguyên nhân: khẩu phần chưa đủ kéo dài, thêm đợt tiêu chảy cấp tuần thứ hai",
+     "Lao đã loại trừ ở mức hiện tại: Xpert dịch dạ dày hai mẫu âm tính, CT ngực bình thường, nguồn lây (ông nội) Xpert âm tính",
+     "Không dấu hiệu nguy hiểm, còn thèm ăn, không mất nước",
+     "Không phát hiện bệnh lý nền; tim phổi bình thường",
+     "Nỗi lo của bố đã được xử lý: bé không bị lao; bố được khám tim mạch"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'nặng hơn' nhưng chỉ ở mức vừa: cân 6,6 kg tụt 300 g sau tiêu chảy; tra bảng bé gái chiều dài 69,0 cm có −3 SD = 6,1 kg và −2 SD = 6,7 kg (WHO 2013, Bảng A5.2.2) nên bé từ khoảng −1,5 SD (lượt 1) xuống −2,x SD; MUAC 123 mm trong khoảng 115–125 mm. Hai tiêu chí cùng cho SDDCT vừa (QĐ 2989/2026, mục II.3, Bảng 2). Có nhiều tiêu chí thì phân loại theo tiêu chí nặng hơn: ở đây hai tiêu chí cùng mức vừa.",
+     "Vì sao không biến chứng: không phù, tỉnh, không dấu hiệu nguy hiểm, thèm ăn còn (ăn 3/4 chén, không nôn: QĐ 2989/2026, Phụ lục 5: ăn trên 70% khẩu phần mà không khó chịu hay nôn), không mất nước. Đủ cho điều trị ngoại trú/dự phòng (mục II.6 Bước 5–6).",
+     "Vì sao lao đã loại trừ: Xpert hai mẫu âm tính (lần đầu âm tính thì làm mẫu khác, kết quả lần sau dùng quyết định, QĐ 162/2024 mục 3.4.1a), CT không bất thường, ông nội Xpert âm tính nên không còn nguồn lây; điểm lâm sàng thấp (ho trên 2 tuần +2, sụt cân +3 = 5 điểm, dưới 10, Bảng 4). Theo tình huống 4 (mục 3.4.1d1): CT không bất thường thì xem xét chẩn đoán khác, theo dõi và khám lại sau 1 tháng; lượt này đúng mốc đó.",
+     "Vì sao sụt cân: tiêu chảy, nhiễm khuẩn tái diễn làm gầy còm (QĐ 2989/2026, mục I.1) trên nền khẩu phần mới sửa; không cần tìm nguyên nhân sâu hơn lúc này vì đủ giải thích. Nếu sau điều trị đúng 2–4 tuần vẫn không tăng cân thì khám kỹ, thăm nhà tìm nguyên nhân (mục III.3.4).",
+     "Vì sao không thiếu máu: Hb 108 g/L ≥ 105 g/L (QĐ 3312/2015, bài Thiếu máu thiếu sắt). Ferritin 28 ng/mL chỉ mang tính tham khảo, vì viêm làm sai lệch (QĐ 2989/2026, mục II.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú tại cơ sở ban đầu: SDDCT vừa không biến chứng thuộc điều trị dự phòng chuyển nặng (QĐ 2989/2026, mục II.6 Bước 6, mục IV.3). Mục tiêu năng lượng 100–130 kcal/kg/ngày: 660–858 kcal/ngày cho 6,6 kg (tính từ nguồn).",
+     "Sản phẩm dinh dưỡng y học: WHO 2023 B13 (mạnh) ưu tiên cho trẻ dưới 24 tháng; B16 cho 40–60% nhu cầu, tức khoảng 264–515 kcal/ngày (tính từ nguồn, ≈ 0,5–1 đơn vị 500 kcal, QĐ 2989/2026 mục IV.3). QĐ 2989/2026 (mục III.4.2) dùng khi khẩu phần nhà không đảm bảo. Hai nguồn không mâu thuẫn mà khác ở mức độ chỉ định; ghi cả hai, cả chỉ tư vấn lẫn thêm sản phẩm đều được chấm đúng.",
+     "Vi chất: vitamin A, sắt, kẽm hoặc đa vi chất; nếu sản phẩm đã có vi chất thì không thêm (QĐ 2989/2026, mục III.4.3). Không có liều trong tài liệu đã tải nên không kê liều.",
+     "Không kháng sinh thường quy: nêu cho SDDCT nặng ngoại trú (QĐ 2989/2026, mục III.3.2); không nhập viện: không đủ tiêu chuẩn (mục III.2.1).",
+     "Theo dõi cân, chiều dài, MUAC và khẩu phần ít nhất mỗi tháng (QĐ 2989/2026, mục III.4.4), ca hẹn 2 tuần. Kết thúc dự phòng, thường 2–4 tháng, khi không còn SDDCT theo nhân trắc và tăng trưởng phù hợp tuổi (mục III.4.5). Nếu sụt cân hoặc xuất hiện phù, dấu hiệu nguy hiểm: chuyển nhập viện (mục III.2.1b)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sản phẩm dinh dưỡng y học dạng đặc năng lượng cao hoặc thực phẩm bổ sung dạng LNS (tên sản phẩm theo sẵn có tại cơ sở)",
+      "ham_luong": "Theo bao bì của sản phẩm dùng",
+      "lieu": "Cung cấp khoảng 264–515 kcal/ngày (40–60% nhu cầu 100–130 kcal/kg/ngày, bé 6,6 kg), chia 2–3 lần cùng với bữa ăn gia đình",
+      "duong": "Uống/ăn bằng thìa, sạch tay, thìa riêng",
+      "thoi_diem": "Giữa hoặc sau bữa bột; không thay bữa chính, không thay bú mẹ",
+      "so_ngay": "Đến khi hết SDDCT, thường 2–4 tháng; tái khám 2 tuần đánh giá",
+      "ghi_chu": "WHO 2023 B13, B16; QĐ 2989/2026 mục III.4.2, III.4.1 (thời gian), IV.3 (1 đơn vị ≈ 500 kcal). Liều theo gam sản phẩm và tên thương mại: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Vi chất (vitamin A, sắt, kẽm hoặc đa vi chất)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không kê liều ở ca này; nếu sản phẩm dinh dưỡng đã có vi chất thì không bổ sung thêm",
+      "duong": "Uống",
+      "thoi_diem": "Theo hướng dẫn của sản phẩm",
+      "so_ngay": "Theo hướng dẫn",
+      "ghi_chu": "QĐ 2989/2026, mục III.4.3. Hàm lượng và liều từng vi chất cho SDDCT vừa: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé thiếu cân ở mức vừa, chưa nặng; không phải lao, kết quả bệnh viện đã rõ, ông nội cũng đã được thử đờm âm tính.",
+     "Ăn đủ năng lượng: bột đặc có dầu, thịt cá trứng, rau, 3 bữa/ngày; tiếp tục bú mẹ cả đêm; mỗi tuần ghi bé ăn bao nhiêu (WHO 2013, Chart 16; QĐ 2989/2026, mục III.4.2).",
+     "Dùng sản phẩm dinh dưỡng bổ sung đúng lượng hướng dẫn, không thay bú mẹ, không pha loãng; giữ sạch tay và dụng cụ.",
+     "Rửa tay, nước sạch, đồ ăn nấu chín; đưa bé đi tiêm chủng đủ mũi (QĐ 2989/2026, mục III.4.3).",
+     "Đến ngay nếu bé bỏ bú hoặc không ăn, nôn mọi thứ, tiêu chảy lại, li bì, co giật, thở nhanh hay rút lõm ngực, phù chân, sốt cao (QĐ 2989/2026, mục II.1).",
+     "Tái khám sau 2 tuần để cân đo lại; sau đó mỗi tháng đến khi hết SDD (QĐ 2989/2026, mục III.4.4); nếu không lên cân sau 2–4 tuần, bé sẽ được tìm nguyên nhân kỹ hơn.",
+     "Anh Tuấn tiếp tục theo dõi huyết áp theo hẹn, ngủ đủ và nhờ mẹ hoặc người nhà thay phiên chăm bé."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Vy được chuyển tuyến, loại trừ lao. Bà ngưng siro, bột đặc hơn, mẹ vắt sữa lúc đi làm. Bé tiêu chảy một đợt nên tụt xuống SDDCT vừa; sau lượt 2 bé dùng sản phẩm dinh dưỡng bổ sung và được theo dõi mỗi 2–4 tuần. Hai tháng sau bé lên cân đều, hết SDDCT theo nhân trắc: ví dụ cân 7,8 kg ở chiều dài 72 cm (−1 SD = 7,8 kg, WHO 2013 Bảng A5.2.2), MUAC trên 125 mm; tăng trưởng đạt theo tuổi và gia đình tự theo dõi được thì kết thúc dự phòng (QĐ 2989/2026, mục III.4.5). Con số 7,8 kg là thiết kế của ca, tài liệu đã tải không nêu tốc độ tăng cân mong đợi. Ông nội điều trị bệnh phổi và tim ổn định; bố đi khám tim mạch, bớt lo.",
+ "nhieu": [
+  "Bố tra mạng ra ba chẩn đoán (SDD nặng, tim bẩm sinh, lao) và đòi CT, siêu âm tim: đúng một phần, sai ở mức độ và xét nghiệm. Cách xử lý: ghi nhận phần đúng, giải thích tiêu chí, dùng chính số cân đo của bé.",
+  "Bà cho siro an thần mà bố không biết: chỉ lộ khi hỏi riêng thuốc ngủ hoặc hỏi ai trông bé ban ngày.",
+  "Lý do thật của bố là sợ nhồi máu cơ tim sau biến cố của ông; chỉ lộ khi hỏi 'anh còn lo điều gì khác'.",
+  "Không có CT: lao ở nhũ nhi vẫn được loại trừ bằng X-quang, Xpert dịch dạ dày/tỵ hầu/phân và chuyển tuyến có lý do khi cần CT."
+ ],
+ "bai_hoc_bien": [
+  "Chậm tăng cân là một dấu hiệu cần có con số: cân, chiều dài, MUAC rồi tra bảng WHO (QĐ 2989/2026, mục II.3, Bảng 2; WHO 2013, Bảng A5.2.2). Đừng gọi 'suy dinh dưỡng nặng' khi chưa tra.",
+  "Không tăng cân cũng là triệu chứng nghi lao ở trẻ; trẻ dưới 2 tuổi ho trên 2 tuần có tiếp xúc người ho kéo dài thì X-quang ngực cùng SHPT; bệnh phẩm ở nhũ nhi là dịch dạ dày, tỵ hầu hoặc phân (QĐ 162/2024, Sơ đồ 3, mục 3.4.1a).",
+  "Hỏi thuốc đang dùng theo từng người trông bé: bà nội cho siro an thần là nguyên nhân bị quên kể.",
+  "Giải thích vì sao chưa chụp CT, thay vì từ chối; hỏi thêm nỗi lo thật của người nhà (nhồi máu của ông) làm giảm mong muốn xét nghiệm thừa.",
+  "Lượt 2 'nặng hơn': tiêu chảy xen kẽ làm tụt cân; xếp đúng mức (vừa, không biến chứng) để chọn đúng nơi điều trị, không nhập viện, không chuyển lần nữa (QĐ 2989/2026, mục II.6)."
+ ],
+ "diem_nho": [
+  "SDD cấp tính (gầy còm): cân nặng theo chiều dài/cao dưới −2 SD, hoặc MUAC dưới 125 mm (trẻ 6–59 tháng), hoặc phù hai bên. Vừa: −3 đến dưới −2 SD hoặc MUAC 115 đến dưới 125 mm; nặng: dưới −3 SD hoặc MUAC dưới 115 mm hoặc có phù (QĐ 2989/2026, mục II.3, Bảng 2; WHO 2023).",
+  "Quyết định nơi điều trị: nhập viện khi có phù, dấu hiệu nguy hiểm, biến chứng, mất thèm ăn; SDDCT nặng không biến chứng điều trị ngoại trú; SDDCT vừa không biến chứng điều trị dự phòng (QĐ 2989/2026, mục II.6 Bước 6).",
+  "Mục tiêu năng lượng giai đoạn dự phòng: 100–130 kcal/kg/ngày; sản phẩm dinh dưỡng đặc biệt cho 40–60% (QĐ 2989/2026, mục III.4.2; WHO 2023 B16).",
+  "Trẻ dưới 2 tuổi nghi lao: X-quang ngực đồng thời SHPT; bệnh phẩm dịch dạ dày, tỵ hầu, phân; Xpert lần đầu âm tính thì làm mẫu khác (QĐ 162/2024, Sơ đồ 3, mục 3.4.1a).",
+  "Ăn dặm 6–12 tháng: bú mẹ ít nhất 8 lần/24 giờ, thức ăn đặc giàu dinh dưỡng 3 bữa/ngày nếu còn bú (WHO 2013, Chart 16, tr. 302).",
+  "Dấu hiệu tim bẩm sinh không tím: khó bú, chậm tăng cân, vã mồ hôi trán, tim nhô, âm thổi (WHO 2013, Bảng 6, tr. 78)."
+ ],
+ "nguon": [
+  "QĐ 2989/2026 – Bộ Y tế, QĐ 2989/QĐ-BYT ngày 22/09/2026, Hướng dẫn chẩn đoán và điều trị bệnh SDD cấp tính trẻ 0–59 tháng (thay QĐ 4487/2016) – kho tltk-10000-ca (BYT 2026 - QĐ 2989) – ĐÃ ĐỌC: mục I.1–2, II.1, II.2, II.3 (Bảng 2), II.5, II.6, III.1, III.2.1, III.3.2–3.5, III.4.1–4.5, IV.3, Phụ lục 5",
+  "WHO 2023 – WHO guideline on the prevention and management of wasting and nutritional oedema – TL-0246 – ĐÃ ĐỌC: định nghĩa wasting (phần Introduction), khuyến cáo B11–B16",
+  "QĐ 162/2024 – Bộ Y tế, QĐ 162/QĐ-BYT, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – ĐÃ ĐỌC: mục 3.4.1 (a–d), Sơ đồ 3 và Bảng 4 (tr. 32–33), phần IV mục 1.1–1.2, Sơ đồ 7",
+  "WHO 2022 Module 5 – WHO consolidated guidelines on tuberculosis, Module 5: children and adolescents – TL-0247 – ĐÃ ĐỌC: Table 1, khuyến cáo 1–2",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 (tr. 90–91), 4.7 và Bảng 10 (tr. 109–110), Bảng 6 (tr. 77–79), Chart 16 (tr. 302), 'Refusal or reluctance to breastfeed' (tr. 297), Annex 5 Bảng A5.2.2 (bé gái, cân nặng theo chiều dài)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015 – TL-0037 – ĐÃ ĐỌC: bài Thiếu máu thiếu sắt (ngưỡng Hb theo tuổi)",
+  "QĐ 4487/2016 (TL-0240) – ĐÃ ĐỌC lướt: đã bị QĐ 2989/2026 thay thế (Điều 1), không dùng làm đáp án.",
+  "Không có trong tài liệu đã tải: định nghĩa số cho 'chậm tăng cân', liều vi chất cho SDDCT vừa, lịch cân cho trẻ chậm tăng cân chưa SDD, thời gian cách ly người nghi lao chưa có kết quả, độ nhạy Mantoux ở trẻ SDD."
+ ],
+ "ghi_chu_bien_tap": [
+  "16/10/2026 – bản 1. Đọc: QĐ 2989/2026 (kho tltk-10000-ca) mục I–IV; WHO 2023 B11–B16; QĐ 162/2024 mục 3.4.1, Sơ đồ 3/Bảng 4, phần IV mục 1; WHO 2022 Module 5 Table 1; WHO 2013 mục 4.4, 4.7, Bảng 6, Chart 16, Bảng A5.2.2; QĐ 3312 Thiếu máu thiếu sắt.",
+  "Thiết kế: lượt 1 đáp án chuyển tuyến vì trẻ dưới 2 tuổi + ho trên 2 tuần + tiếp xúc người nghi lao (sổ mâu thuẫn, ghi chú trưởng nhóm 'Ghi chú thống nhất cho mọi ca sau') và phòng khám không có CT. Lượt 2 (nặng hơn) do tiêu chảy xen kẽ, đáp án ve_hen với điều trị dự phòng.",
+  "Mâu thuẫn: QĐ 2989/2026 và WHO 2023 không mâu thuẫn thật về sản phẩm dinh dưỡng cho SDDCT vừa (khác mức chắc chắn); ghi cả hai ở lượt 2. QĐ 4487/2016 đã bị thay thế.",
+  "Con số thiết kế không có trong nguồn: sổ cân nặng các tháng, 6,9/6,6 kg, MUAC 130/123 mm, kết quả xét nghiệm, ông nội bệnh phổi, mốc tái khám 2 tuần.",
+  "Chưa dùng ảnh/âm thanh đặc biệt: tim dùng AT-TIM-NHANH-01 (mạch 126, 132), phổi dùng AT-PHOI-BT-NL-01."
+ ]
+}
