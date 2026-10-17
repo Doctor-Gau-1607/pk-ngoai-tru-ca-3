@@ -1,0 +1,614 @@
+{
+ "ma_ca": "DL-0134",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_viem_da_tiep_xuc",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Viêm da tiếp xúc",
+  "chan_doan_phai_loai_tru": [
+   "Chàm",
+   "Nấm da",
+   "Zona"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau sinh",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Ngọc Hân",
+  "tuoi": 13,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 8, có tiết thể dục ngoài sân hai buổi mỗi tuần, đang phụ mẹ trông em bé mới sinh",
+  "can_nang": 41,
+  "chieu_cao": 153,
+  "xung_ho": "Bé 13 tuổi, xưng 'con', gọi 'bác sĩ'. Mẹ xưng 'em', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Hân ít nói, trả lời cụt, hay nhìn xuống chân và né ánh mắt; tỏ ra bị mẹ kéo đi khám. Mẹ 34 tuổi, mới sinh em được 5 tuần, mệt, thiếu ngủ, nói nhanh và tính toán từng đồng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ mở đầu bằng chuyện nhà vừa tốn tiền sinh em, xin 'chỉ cho thuốc thôi, đừng thử gì'. Khi bác sĩ đề nghị cạo da hay lấy máu, mẹ lắc đầu vì tiền, Hân từ chối vì sợ đau. Mẹ chịu nghe khi bác sĩ giải thích xét nghiệm nào đổi được cách điều trị, xét nghiệm nào bỏ được và ghi nhận quyết định của hai mẹ con.",
+  "nguoi_nha": "Mẹ bé, chị Vũ Thị Hạnh, 34 tuổi, đi cùng. Mẹ trả lời hầu hết câu hỏi chung (nguoi_noi = nguoi_nha); Hân tự trả lời các câu về cảm giác, thuốc đã bôi và chuyện ở trường khi bác sĩ hỏi thẳng bé (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e3b690",
+   "toc": "#1c1411",
+   "kieuToc": "dai",
+   "ao": "#8aa8d6",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#dfb28c",
+    "toc": "#2a1d16",
+    "kieuToc": "bui",
+    "ao": "#c47a7a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "met"
+   }
+  }
+ },
+ "ly_do_kham": "Nổi mẩn đỏ, rát ngứa ở chân trái khoảng 6 ngày (mẹ đưa đi khám)",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Đặng Ngọc Hân, 13 tuổi, học sinh lớp 8, đi cùng mẹ vì nổi mẩn đỏ, rát ngứa ở chân trái khoảng 6 ngày. Sinh hiệu: mạch 84 l/p, HA 104/66 mmHg, nhiệt độ 37,0 °C, nhịp thở 18 l/p, SpO₂ 99%. Cân nặng 41 kg, chiều cao 153 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển Hân đi Da liễu ngay để làm test áp là chưa đúng lúc: da đang viêm cấp, nên hoãn khi viêm nặng và khi vừa bôi corticoid (ESCD 2026 mục 2.2.1). Với BSA khoảng 2%, không mặt, bàn tay, bàn chân, sinh dục, Hân được điều trị tại chỗ ngay ở phòng khám (QĐ 4416, Viêm da tiếp xúc mục 3.2.1); đi tuyến trên làm bé nghỉ học thêm, gia đình đang eo hẹp tốn tiền đi lại, bé vẫn từ chối xét nghiệm mà ban chưa được bôi thuốc.",
+    "nhap_vien": "Nhập viện cho Hân vì sợ zona hoặc phản ứng thuốc là quá tay: bé tỉnh, không sốt, sinh hiệu ổn, ban khu trú một vệt ở cẳng chân với BSA khoảng 2%, không có đau thần kinh trước ban (QĐ 4416, Zona mục 2.1; Viêm da tiếp xúc mục 3.2.1). Tài liệu đã tải không nêu chỉ định nhập viện cho thể khu trú này; nằm viện chỉ làm mẹ vừa sinh 5 tuần phải bỏ em ở nhà, tốn tiền, bé nghỉ học dài và tăng áp lực với bài kiểm tra mà vẫn từ chối mọi xét nghiệm."
+   },
+   "loi_mo": "Bác sĩ ơi, em đưa cháu đi khám cho yên tâm thôi. Cháu nổi mẩn đỏ ở chân mấy hôm nay, ngứa rát lắm, chắc ở trường dính gì. Nhà em mới sinh em bé, tiền bạc eo hẹp lắm, bác sĩ cứ cho thuốc thôi, đừng bắt cháu thử máu, thử gì nhé. Mà bệnh này có lây sang em bé nhà em không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "104/66",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể: chân trái của bé nổi mẩn đỏ, rát và ngứa khoảng 6 ngày nay, vài hôm nay nổi thêm mụn nước nhỏ; bé gãi nhiều về tối. Bé vẫn đi học, không sốt, ăn ngủ bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian, triệu chứng chính"
+    },
+    {
+     "id": "dau_chan",
+     "noi_dung": "Khoảng 9 ngày trước, sau tiết thể dục chạy và nhảy ở sân, Hân bị đau nhẹ ở cổ chân trái, không sưng bầm, vẫn đi được. Đến nay chỗ đau đã đỡ nhiều, còn hơi mỏi khi chạy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do dùng thuốc bôi: đau khớp cổ chân nhẹ, dễ làm bác sĩ nghĩ sang khớp"
+    },
+    {
+     "id": "thuoc_boi",
+     "noi_dung": "Thấy mẹ có tuýp gel giảm đau khớp mua ở quầy thuốc (mẹ hay đau lưng, đau khớp sau sinh), Hân tự lấy bôi lên cẳng chân – cổ chân trái, ngày 2–3 lần, bôi liền 5 ngày (mới ngưng cách đây khoảng 3 ngày), bôi thành vệt rồi xoa. Bé không kể vì 'đó là thuốc bôi, không phải thuốc uống'. Mẹ nhớ nhãn ghi 'giảm đau, kháng viêm, dùng ngoài da', không nhớ tên hoạt chất; tuýp còn ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: gel giảm đau khớp tự mua (của người nhà) là dị nguyên nghi ngờ"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày bôi thứ hai Hân ra sân chơi và học thể dục dưới nắng, mặc váy đồng phục ngắn. Chiều ngày thứ ba bắt đầu rát bỏng và đỏ; ngày thứ tư nổi cụm mụn nước theo vệt đã bôi. Hân tưởng đau chân chưa hết nên bôi thêm hai ngày, đến khi ngứa rát nhiều mới ngưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc thời gian: khởi phát sau bôi thuốc và nắng, bôi tiếp làm nặng thêm"
+    },
+    {
+     "id": "cam_giac",
+     "noi_dung": "Rát bỏng và ngứa chỉ ở vùng chân bôi, không đau dọc theo đường nào, không tê, không lan lên đùi; đêm Hân gãi nên thức giấc một lần. Ban nổi cùng lúc ở cả vùng bôi, không có giai đoạn đau trước rồi mới nổi mụn nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt zona: không có đau thần kinh trước ban"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Hân từng bị thủy đậu lúc 5 tuổi. Không bị hen, viêm mũi dị ứng; da không khô, không nổi mẩn ở nếp khuỷu, khoeo từ nhỏ. Bố mẹ không có bệnh dị ứng. Không dị ứng thuốc hay thức ăn. Tiêm chủng đủ theo lịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử thủy đậu (zona), cơ địa dị ứng (chàm)"
+    },
+    {
+     "id": "khong_toan_than",
+     "noi_dung": "Không sốt, không đau đầu, không đau họng, không loét miệng, không sưng mặt, môi, không khó thở, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân: loại trừ phản ứng thuốc lan tỏa, nhiễm khuẩn"
+    },
+    {
+     "id": "tx_khac",
+     "noi_dung": "Không đi bụi cỏ, không côn trùng cắn, không đụng chanh, cần tây hay rau thơm. Không đổi xà phòng, sữa tắm; không ai trong nhà nổi mẩn. Hân từng quấn băng thun cổ chân nhiều lần trong đội văn nghệ, chưa bao giờ nổi; đợt này quấn băng thun lên trên gel trong 2 ngày đầu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Tiếp xúc khác: thực vật, băng thun cao su (nhiễu), bụi cỏ, côn trùng"
+    },
+    {
+     "id": "sau_sinh",
+     "noi_dung": "Mẹ mới sinh em trai 5 tuần, mệt, ít ngủ, không hay Hân bôi gel. Hân phụ giặt tã, pha sữa nên hay thiếu ngủ. Em bé khỏe, chưa nổi mẩn; mẹ sợ bệnh của chị 'lây sang em'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Hoàn cảnh sau sinh: người mẹ có thuốc, nỗi lo lây cho em bé"
+    },
+    {
+     "id": "tien_bac",
+     "noi_dung": "Nhà vừa tốn tiền sinh em, bố làm thợ xây theo công trình; mẹ đang nghỉ thai sản, chỉ muốn 'khám cho yên tâm', xin thuốc, không muốn làm xét nghiệm nào. Khi nghe đề nghị lấy máu hoặc cạo da, Hân lắc đầu, nói 'con sợ đau, con không làm đâu'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu tài chính và từ chối xét nghiệm của bé và mẹ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra Hân muốn xin giấy nghỉ ốm: cô giáo thể dục báo tuần sau kiểm tra chạy 800 m, bạn cùng lớp thấy chân bé 'ghê' và trêu, bé muốn nghỉ cả tuần. Mẹ không biết chuyện này, chỉ nghĩ con 'ngại đi học vì ngứa'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bé không tự kể. Chỉ nói khi bác sĩ hỏi riêng bé còn lo lắng gì, ở trường có chuyện gì, hoặc bé mong bác sĩ giúp điều gì; mẹ ra ngoài hoặc có điều dưỡng Linh ở cạnh thì bé nói dễ hơn.",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy nghỉ ốm, liên quan quyết định giấy xác nhận và tham gia thể dục"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân trái đoạn dưới, mặt trước – ngoài, cách nếp cổ chân khoảng 3 cm: một vệt đỏ dài khoảng 12 cm theo hướng chéo, bề mặt có vảy tiết và vài trầy xước, bên cạnh là cụm mụn nước – sẩn nhỏ tập trung trên nền đỏ phù nhẹ, vài mụn nước đã vỡ rỉ dịch; xung quanh vài sẩn đỏ nhỏ rải rác cách vệt khoảng 2–4 cm (vượt khỏi vùng bôi). Không có luống ghẻ, không có vảy viền ở bờ, không lành giữa. Mu bàn chân, bàn chân, bàn tay, mặt, thân mình, vùng bẹn – sinh dục: da bình thường, không tổn thương. Chân phải bình thường. BSA khoảng 2% (một bàn tay của bé khoảng 1%). Hạch bẹn, khoeo không to.",
+     "k": 1,
+     "hien": "Cẳng chân trái đoạn dưới, mặt trước – ngoài, cách nếp cổ chân khoảng 3 cm: một vệt đỏ dài khoảng 12 cm có vảy tiết, bên cạnh cụm mụn nước – sẩn nhỏ trên nền đỏ phù nhẹ, vài chỗ rỉ dịch (ảnh 1); vài sẩn đỏ nhỏ rải rác quanh vệt. Mu bàn chân, bàn chân, bàn tay, mặt, thân mình: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng chân trái đoạn dưới",
+       "id": "HA-DA-0028",
+       "chu": "Vệt đỏ dài, có vảy tiết, kèm cụm mụn nước – sẩn nhỏ trên nền đỏ ở cẳng chân đoạn dưới; vài sẩn đỏ rải rác xung quanh."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Cổ chân trái: không sưng, không bầm, không nóng, ấn không đau điểm xương; vận động đủ tầm, đau rất nhẹ khi gập mu chân tối đa. Gối, háng hai bên bình thường. Đi lại bình thường, không khập khiễng.",
+     "k": 1,
+     "hien": "Cổ chân trái không sưng, không bầm; vận động đủ tầm, đau rất nhẹ khi gập mu chân tối đa. Đi lại bình thường."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc cộc lốc, hay nhìn xuống chân. Cân nặng 41 kg, chiều cao 153 cm, BMI ≈ 17,5 kg/m². Da niêm hồng, không phù, không ban toàn thân.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Mặt, mi mắt, môi không phù, không ban. Hạch cổ, hạch nách không to.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng, họng bình thường, không loét.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không tiếng thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p."
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Phổi thông khí đều hai bên, nhịp thở 18 l/p."
+    }
+   },
+   "cls": {
+    "soi_nam": {
+     "v": "u",
+     "r": "Hân từ chối cạo da vì sợ đau, mẹ từ chối vì tốn tiền. Chưa có kết quả; ghi nhận từ chối vào hồ sơ.",
+     "n": "Nên làm nếu đồng ý: nấm da nằm trong chẩn đoán phân biệt (QĐ 4416, Viêm da tiếp xúc mục 2.1.4; Bệnh da do nấm sợi mục 2.2) và corticoid bôi có thể làm nặng nấm (AAD-NPF 2021, mục Risks/Harms). Từ chối: tôn trọng, giải thích một lần, ghi vào hồ sơ; phương án B là chẩn đoán lâm sàng (vệt, không lành giữa, không vảy viền), bôi corticoid ngắn ngày, tái khám và soi lại nếu không đỡ. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hân và mẹ từ chối lấy máu. Không có kết quả.",
+     "n": "Không cần: viêm da tiếp xúc chẩn đoán bằng lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.1.3); không sốt, không ban lan tỏa nên không có chỉ định tìm bất thường huyết học."
+    },
+    "test_ap": {
+     "v": "n",
+     "r": "Hân từ chối, mẹ chưa muốn. Cơ sở không làm được; làm ở tuyến trên.",
+     "n": "Chưa làm hôm nay: test áp xác định dị nguyên (QĐ 4416, Viêm da tiếp xúc mục 2.1.2, 2.2.2) nhưng nên hoãn khi viêm cấp và nơi vừa bôi corticoid cần ngưng 7 ngày (nhóm thấp – trung bình) hoặc 14 ngày (nhóm mạnh) (ESCD 2026 mục 2.2.1). Nghi thành phần ánh sáng thì làm test áp ánh sáng (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 2.1.2; ESCD 2026 mục 5.5). Đề cập lại khi da lành."
+    },
+    "sinh_thiet_da": {
+     "v": "n",
+     "n": "Không cần: mô bệnh học chỉ giúp chẩn đoán phân biệt, không phải xét nghiệm thường quy (QĐ 4416, Viêm da tiếp xúc mục 2.1.2, 2.2.2); không có đặc điểm không điển hình đòi hỏi sinh thiết."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc (nghi thể dị ứng) cẳng chân trái do thuốc bôi giảm đau khớp (gel, hoạt chất chưa rõ), có thể kèm thành phần ánh sáng; giai đoạn cấp, BSA ≈ 2%; không liên quan mặt, bàn tay, bàn chân, sinh dục; chưa xác định dị nguyên bằng test áp",
+     "ok": 1,
+     "n": "Dát đỏ ranh giới rõ, phù nề, mụn nước, sẩn, rỉ dịch, ngứa rát (QĐ 4416, Viêm da tiếp xúc mục 2.1.1); chẩn đoán dựa lâm sàng và yếu tố tiếp xúc (mục 2.1.3). Khởi phát ngày 2–3 sau bôi gel và đi nắng, nặng thêm khi bôi tiếp; thuốc bôi là dị nguyên chính (mục 1.3); tổn thương có thể vượt vùng tiếp xúc (mục 2.1.1). Thuốc kháng viêm không steroid gây viêm da tiếp xúc do ánh sáng (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 1.3), thể dị ứng lan ra vùng da cạnh đó (mục 2.1.2); hoạt chất chưa biết nên chỉ nghi. Thuốc bôi do người chăm sóc dùng là nguồn mẫn cảm ở trẻ (ESCD 2026 mục 9.1.1). ICD-10 L23 (DDG 2022 mục 1.1)."
+    },
+    {
+     "t": "Viêm da cơ địa (chàm thể tạng)",
+     "n": "Cần ngứa, hình thái và vị trí điển hình, mạn tính hoặc tái phát, tiền sử dị ứng: ≥ 3 tiêu chuẩn chính và ≥ 3 phụ (Hanifin–Rajka, QĐ 4416, Viêm da cơ địa mục 2.3.1) hoặc ngứa kèm ≥ 3/5 (tiêu chuẩn Anh, mục 2.3.2). Hân: đợt đầu, ban khu trú một chân, da không khô, không tiền sử dị ứng, không tổn thương nếp khuỷu, khoeo."
+    },
+    {
+     "t": "Nấm da (nấm thân)",
+     "n": "Nấm sợi: dát, mảng đỏ tròn hay nhiều cung, có vảy, xu hướng lành giữa và lan rộng, ngứa nhiều (QĐ 4416, Bệnh da do nấm sợi mục 2.1); viêm da tiếp xúc nằm trong chẩn đoán phân biệt (mục 2.5). Hân: vệt và cụm mụn nước theo vùng bôi, không lành giữa, không vảy viền; soi tươi từ chối nên chẩn đoán loại trừ dựa lâm sàng, hẹn tái khám đề phòng."
+    },
+    {
+     "t": "Zona",
+     "n": "Ban đỏ, mụn nước chùm như chùm nho sắp xếp dọc đường phân bố thần kinh, thường có cảm giác bỏng rát, dị cảm vài ngày trước khi nổi ban (QĐ 4416, Zona mục 2.1); viêm da tiếp xúc có bọng nước phải phân biệt zona (Viêm da tiếp xúc mục 2.1.4). Hân từng thủy đậu nên không loại trừ bằng tiền sử mà bằng hình thái: ban nổi ngay vùng bôi, không có đau thần kinh trước ban, không theo dải da, có sẩn rải rác ngoài vệt, không sốt, không mệt."
+    },
+    {
+     "t": "Viêm da tiếp xúc kích ứng (gel, băng thun, nắng, mồ hôi)",
+     "n": "Biểu hiện giống thể dị ứng, đôi khi rất khó phân biệt, khu trú vùng tiếp xúc, lành nhanh sau ngừng chất kích ứng (QĐ 4416, Viêm da tiếp xúc mục 2.2.1); không loại trừ hẳn, cách xử trí ban đầu như nhau, phân biệt bằng test áp (mục 2.2.2) mà Hân từ chối. Băng thun cao su là dị nguyên có thể gặp (mục 1.3) nhưng Hân quấn nhiều lần không nổi. Thể do ánh sáng và do thực vật (vệt theo vị trí tiếp xúc, Viêm da tiếp xúc do ánh sáng mục 2.1.1) cùng nhóm tiếp xúc; Hân không tiếp xúc thực vật."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Loại bỏ căn nguyên: ngưng bôi gel giảm đau khớp ngay, không dùng thêm thuốc bôi khác chưa rõ thành phần; mang tuýp gel (hoặc chụp nhãn thành phần) đến lần tái khám",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.1: tìm và loại bỏ căn nguyên; mục 1.1: dai dẳng, hay tái phát nếu không loại trừ); DDG 2022 (mục 3.2: tránh nghiêm ngặt). Hỏi đúng thuốc bôi của người nhà là bước then chốt."
+    },
+    {
+     "t": "Rà tiêu chí nặng: BSA, mặt, bàn tay, bàn chân, vùng sinh dục; không có → điều trị tại chỗ, không dùng corticoid toàn thân",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): > 20% diện tích cơ thể hoặc mặt, bàn tay, bàn chân, sinh dục thì corticosteroid toàn thân là lựa chọn thứ nhất. Hân: BSA ≈ 2%, ngoài các vị trí đó. Mục mâu thuẫn một phần giữa QĐ 4416 và DDG 2022 đã có (xem ghi chú biên tập)."
+    },
+    {
+     "t": "Corticoid bôi tại cẳng chân, lớp mỏng 2 lần/ngày, tới khi lành, tối đa 14 ngày: betamethason valerat 0,1% kem (hiệu lực trung bình, hợp thiếu niên theo DDG 2022) hoặc loại mạnh như betamethason dipropionat 0,05% kem (mặt duỗi theo QĐ 4416)",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1): mặt duỗi, bàn tay, bàn chân dùng loại mạnh, 1–2 lần/ngày trong 2–4 tuần hoặc tới khi lành, chú ý teo da, giãn mạch. DDG 2022 (mục 3.3.1.2, 3.3.4.1): ở trẻ em chọn nhóm TIX ≥ 2, giai đoạn cấp đủ mạnh để dập viêm; betamethason-17-valerat 0,1% thuộc nhóm thấp – trung bình (mục 3.3.1.3). AAD-NPF 2021: betamethason valerat 0,1% kem Class 5, betamethason dipropionat 0,05% kem Class 3. Hai nguồn khác mức hiệu lực cho chi ở thiếu niên, cả hai đúng; chọn đoạn ngắn của 2–4 tuần vì là trẻ em."
+    },
+    {
+     "t": "Cetirizin 10 mg uống 1 viên mỗi tối khi ngứa, tối đa 7 ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): kháng histamin uống để giảm ngứa. > 12 tuổi liều như người lớn: cetirizin 10 mg/viên, 1 viên/ngày (QĐ 3942/2014 Bảng 3, kho cũ), có thể an thần nhẹ nên uống tối. Thời gian: không có trong tài liệu đã tải; chọn tối đa 7 ngày."
+    },
+    {
+     "t": "Dưỡng ẩm không hương liệu cho vùng da quanh tổn thương; che chắn chân khỏi nắng (quần dài, tránh tập ngoài sân) tới khi lành",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.1, 3.2.1: hồi phục hàng rào da, kem dưỡng ẩm không dị nguyên); DDG 2022 (mục 3.3.1.1). Che nắng: QĐ 4416 (Viêm da tiếp xúc do ánh sáng mục 3.1). Thời gian dưỡng ẩm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận Hân và mẹ từ chối soi nấm, xét nghiệm máu; giải thích lợi ích một lần; phương án B: điều trị theo lâm sàng, tái khám sau 7–10 ngày, soi tươi hoặc chuyển Da liễu nếu không đỡ, nặng thêm hay ban có tính chất nấm",
+     "v": "c",
+     "n": "Chẩn đoán dựa lâm sàng và yếu tố tiếp xúc, test áp chỉ xác định dị nguyên (QĐ 4416, Viêm da tiếp xúc mục 2.1.3); không đỡ hoặc xấu đi thì nghĩ dị ứng với corticoid hay thành phần khác (DDG 2022 mục 3.3.1.2). Mốc 7–10 ngày và thủ tục ghi nhận từ chối: không có trong tài liệu đã tải (QĐ 4416 chỉ nêu bôi 2–4 tuần hoặc tới khi lành)."
+    },
+    {
+     "t": "Hỏi riêng bé về lý do thật, giải thích tình trạng thật của chân, cấp giấy xác nhận khám bệnh ghi đúng chẩn đoán, khuyên không tập thể dục ngoài nắng tới khi da lành; không ghi sai bệnh để bé nghỉ kéo dài",
+     "v": "c",
+     "n": "Khuyên che nắng khi da đang viêm: QĐ 4416 (Viêm da tiếp xúc do ánh sáng mục 3.1). Điều kiện cấp giấy nghỉ ốm, số ngày nghỉ: không có trong tài liệu đã tải; quyết định theo tình trạng thật của da."
+    },
+    {
+     "t": "Chuyển Da liễu ngay để làm test áp hoặc test áp ánh sáng",
+     "v": "a",
+     "n": "Hợp lý khi muốn biết dị nguyên (QĐ 4416 mục 2.1.2; ESCD 2026 mục 5.5, 9.1.1) nhưng nên hoãn khi viêm cấp và vừa bôi corticoid (ESCD 2026 mục 2.2.1); bé và mẹ đang từ chối xét nghiệm; cơ sở không làm được."
+    },
+    {
+     "t": "Corticoid bôi rất mạnh (clobetasol propionat 0,05%) cho Hân",
+     "v": "w",
+     "n": "AAD-NPF 2021 xếp clobetasol 0,05% vào Class 1 (rất mạnh); ở trẻ em DDG 2022 (mục 3.3.4.1) chọn nhóm TIX ≥ 2, loại mạnh dùng kéo dài phải hạn chế (mục 3.3.1.2); vệt nhỏ ở thiếu niên không cần."
+    },
+    {
+     "t": "Tiếp tục bôi gel giảm đau khớp, hoặc thay bằng thuốc bôi giảm đau khác chưa biết thành phần cho cổ chân",
+     "v": "w",
+     "n": "Tiếp tục tiếp xúc làm bệnh dai dẳng, hay tái phát (QĐ 4416, Viêm da tiếp xúc mục 1.1); loại bỏ căn nguyên là nguyên tắc đầu tiên (mục 3.1). Thuốc bôi và thuốc kháng viêm không steroid là nhóm nguyên nhân (mục 1.3; Viêm da tiếp xúc do ánh sáng mục 1.3)."
+    },
+    {
+     "t": "Prednisolon uống hoặc tiêm cho Hân",
+     "v": "w",
+     "n": "Chưa đủ tiêu chí: BSA ≈ 2%, không mặt, bàn tay, bàn chân, sinh dục (QĐ 4416, Viêm da tiếp xúc mục 3.2.1); DDG 2022 (mục 3.3.3.1, 3.3.4.3) chỉ dùng cho thể lan rộng hoặc nặng, ở trẻ em tối đa 7 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc (nghi thể dị ứng, ICD-10 L23), giai đoạn cấp, cẳng chân trái đoạn dưới; BSA ≈ 2%",
+     "Dị nguyên nghi: gel giảm đau khớp bôi ngoài da của mẹ (hoạt chất chưa biết, chưa xác định bằng test áp), bôi 5 ngày; yếu tố ánh sáng (nắng ngày bôi thứ 2–3) có thể góp phần; bôi tiếp làm nặng thêm",
+     "Không thuộc nhóm cần corticoid toàn thân: BSA < 20%, không mặt, bàn tay, bàn chân, sinh dục",
+     "Đã loại trừ trên lâm sàng: viêm da cơ địa (chàm), nấm da (không soi được vì từ chối), zona, ghẻ, phản ứng thuốc toàn thân; đau cổ chân nhẹ đã đỡ, không phải bệnh khớp",
+     "Nhiễu và lý do thật: gia đình eo hẹp sau sinh, bé và mẹ từ chối xét nghiệm; bé xin giấy nghỉ vì sợ kiểm tra chạy và bị bạn trêu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận hoàn cảnh nhà (tiền, em bé) → mốc thời gian và diễn tiến ban, có đau trước ban không → hỏi tiếp xúc có hệ thống, nhất là thuốc bôi, kể cả thuốc của người nhà vì bé coi thuốc bôi là 'không phải thuốc' → tiền sử thủy đậu, cơ địa → toàn thân → hỏi riêng bé còn lo gì (lý do thật) → khám da toàn thân, mu bàn chân, bàn tay, bẹn, cổ chân → chẩn đoán, xếp mức độ → điều trị.",
+     "Vì sao viêm da tiếp xúc: dát đỏ ranh giới rõ, phù nề, mụn nước, sẩn, rỉ dịch, ngứa (QĐ 4416, Viêm da tiếp xúc mục 2.1.1); chẩn đoán dựa lâm sàng và yếu tố tiếp xúc (mục 2.1.3). Khởi phát ngày 2–3 sau gel, ban đúng vùng bôi, nặng thêm khi bôi tiếp. Mẫn cảm 5–21 ngày, tái tiếp xúc 48–72 giờ lên phản ứng (mục 1.3); dị ứng hay kích ứng chỉ phân biệt chắc bằng test áp (mục 2.1.2, 2.2.2).",
+     "Điểm không điển hình: (1) ban dạng vệt và cụm mụn nước rỉ dịch, rát hơn ngứa, vượt vùng bôi, khiến nghĩ zona hoặc nấm; (2) lý do dễ nhầm là 'đau khớp' nhẹ, còn thuốc nguyên nhân là thuốc bôi bé không kể; (3) có thể có thành phần ánh sáng (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 1.3, 2.1.2); (4) bé dùng thuốc của mẹ (ESCD 2026 mục 9.1.1). Điều vẫn gợi ý: ban nổi ngay vùng bôi, sau bôi, không đau thần kinh trước ban.",
+     "Phân biệt zona: ban đỏ, mụn nước chùm theo đường thần kinh, bỏng rát hay dị cảm 1–5 ngày trước ban (QĐ 4416, Zona mục 2.1); Hân không đau trước, ban theo vệt bôi, có sẩn ngoài vệt. Nấm: dát tròn hay nhiều cung, có vảy, lành giữa (Bệnh da do nấm sợi mục 2.1). Chàm: Hanifin–Rajka (Viêm da cơ địa mục 2.3.1), Hân đợt đầu, không nền dị ứng.",
+     "Cờ đỏ của ca: (1) ban mụn nước chùm một chân giống zona, loại bằng hỏi đau thần kinh và hình thái; (2) tiêu chí nặng (QĐ 4416, mục 3.2.1): > 20% BSA, mặt, bàn tay, bàn chân, sinh dục thì corticoid toàn thân, phải khám mu bàn chân, bàn tay, bẹn mới biết; (3) không lấy 'xin giấy nghỉ' làm cớ bỏ khám đầy đủ.",
+     "Từ chối xét nghiệm: tôn trọng quyết định của bé và mẹ, giải thích một lần xét nghiệm nào đổi được quyết định (soi nấm: nên làm vì corticoid có thể làm nặng nấm; công thức máu, IgE: không đổi xử trí), ghi vào hồ sơ; phương án B: chẩn đoán lâm sàng, hẹn tái khám, mốc chuyển hướng khi không đỡ. Thủ tục ghi nhận: không có trong tài liệu đã tải.",
+     "Hạn chế tài liệu: hoạt chất gel, nguy cơ của từng thuốc bôi giảm đau và phản ứng chéo giữa chúng không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, thuốc bôi tại chỗ, hẹn tái khám (ve_hen). Không chuyển tuyến, không nhập viện vì BSA ≈ 2%, ban khu trú, sinh hiệu ổn, không sốt (QĐ 4416, Viêm da tiếp xúc mục 3.2.1); tài liệu đã tải không có chỉ định nhập viện cho thể khu trú này.",
+     "Gốc điều trị là loại bỏ dị nguyên (QĐ 4416 mục 3.1; DDG 2022 mục 3.2): ngưng gel, giữ tuýp, chụp nhãn; test áp hoặc test áp ánh sáng ở tuyến trên khi da lành nếu muốn xác định (ESCD 2026 mục 5.5, 9.1.1).",
+     "Corticoid bôi là bậc 1 (QĐ 4416 mục 3.2.1; DDG 2022 mục 3.3.1.2). Mặt duỗi dùng loại mạnh theo QĐ 4416 (betamethason dipropionat 0,05% kem, Class 3, AAD-NPF 2021) hoặc trung bình theo DDG 2022 ở trẻ em (betamethason valerat 0,1% kem, Class 5); đơn chọn betamethason valerat 0,1% 2 lần/ngày, tối đa 14 ngày (đoạn ngắn của 2–4 tuần), ngừng khi lành.",
+     "Kháng histamin uống giảm ngứa (QĐ 4416 mục 3.2.1): cetirizin 10 mg mỗi tối, 1 viên/ngày cho > 12 tuổi (QĐ 3942/2014 Bảng 3), có thể buồn ngủ nhẹ; thời gian: không có trong tài liệu đã tải, chọn tối đa 7 ngày. Không bôi kháng histamin tại chỗ vì có thể gây mẫn cảm (DDG 2022 mục 3.3.1.7).",
+     "Dưỡng ẩm (QĐ 4416 mục 3.1, 3.2.1; DDG 2022 mục 3.3.1.1). Che nắng bằng quần dài, tránh tập ngoài sân tới khi lành (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 3.1); không khuyên kem chống nắng vì thành phần chống nắng là một nguyên nhân của viêm da tiếp xúc do ánh sáng (mục 1.3).",
+     "Không corticoid toàn thân: QĐ 4416 (mục 3.2.1) chỉ định khi > 20% BSA hoặc mặt, bàn tay, bàn chân, sinh dục; DDG 2022 (mục 3.3.3.1, 3.3.4.3) hẹp hơn, ở trẻ tối đa 7 ngày. Ca này không chạm ngưỡng nào.",
+     "Giấy xác nhận ghi đúng chẩn đoán, khuyên không tập ngoài nắng tới khi lành; nỗi sợ kiểm tra chạy và bị trêu trao đổi riêng với bé, không kéo dài ngày nghỉ vượt tình trạng thật (điều kiện giấy nghỉ ốm: không có trong tài liệu đã tải).",
+     "Hẹn tái khám 7–10 ngày (mốc không có trong tài liệu đã tải; QĐ 4416 nêu corticoid 2–4 tuần hoặc tới khi lành)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Betamethason valerat (kem)",
+      "ham_luong": "0,1% (dạng kem)",
+      "lieu": "Bôi lớp mỏng lên vệt và cụm mụn nước ở cẳng chân trái, không bôi lên da lành rộng",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "2 lần/ngày, sáng và tối sau khi rửa sạch",
+      "so_ngay": "Tối đa 14 ngày, ngừng khi lành",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: 1–2 lần/ngày, 2–4 tuần hoặc tới khi lành; chú ý teo da, giãn mạch); DDG 2022 (mục 3.3.1.3: nhóm thấp – trung bình; mục 3.3.4.1: trẻ em TIX ≥ 2); AAD-NPF 2021 (Class 5). Loại mạnh theo QĐ 4416 (betamethason dipropionat 0,05% kem, Class 3) là cách khác chấp nhận được. Chế phẩm bán tại Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Cetirizin (viên)",
+      "ham_luong": "10 mg/viên",
+      "lieu": "1 viên khi ngứa, không quá 1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Tối đa 7 ngày",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: kháng histamin uống để giảm ngứa); liều > 12 tuổi như người lớn, 1 viên/ngày (QĐ 3942/2014, Bảng 3). Có thể buồn ngủ nhẹ. Số ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không hương liệu",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Bôi vùng da quanh tổn thương và vùng đã khô",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Nhiều lần trong ngày, bôi sau khi corticoid ít nhất vài phút",
+      "so_ngay": "Đến khi lành; thời gian dùng sau khi lành: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 4416 (mục 3.1, 3.2.1: kem dưỡng ẩm dùng nhiều lần trong ngày, không có dị nguyên); DDG 2022 (mục 3.3.1.1). Khoảng cách vài phút giữa hai thuốc: lời dặn chung, không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn gel và không dùng thuốc bôi giảm đau, kháng viêm khác cho tới khi bác sĩ xem nhãn thành phần (QĐ 4416, Viêm da tiếp xúc mục 3.1; DDG 2022 mục 3.2). Mang tuýp gel hoặc ảnh nhãn đến tái khám.",
+     "Đây là viêm da do tiếp xúc, không phải bệnh nhiễm trùng, mẹ không cần lo lây sang em (phản ứng quá mẫn của da, QĐ 4416 mục 1.1, 1.3). Cất thuốc bôi của mẹ ngoài tầm tay trẻ (lời dặn chung, không có trong tài liệu đã tải).",
+     "Bôi thuốc đúng liều, không quá 14 ngày, không bôi ra da lành rộng; không gãi, cắt móng tay; không đắp lá, dầu nóng, thuốc không rõ thành phần (QĐ 4416, Viêm da tiếp xúc mục 2.2.1: chất kích ứng).",
+     "Mặc quần dài, tránh tập ngoài sân đến khi da lành (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 3.1); đau cổ chân nhẹ nghỉ ngơi, không bôi thuốc giảm đau (lời dặn chung, không có trong tài liệu đã tải).",
+     "Quay lại ngay nếu sốt, ban lan lên đùi, mặt, tay hoặc nhiều nơi, mụn nước thành dải kèm đau thần kinh, mủ vàng hoặc loét (QĐ 4416, Viêm da tiếp xúc mục 3.2.1; Zona mục 2.1).",
+     "Tái khám sau 7–10 ngày (mốc không có trong tài liệu đã tải). Bé và mẹ có quyền từ chối xét nghiệm; đổi ý thì soi nấm hoặc test áp ở tuyến trên sau khi lành."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 10 ngày",
+   "tiep_don": "Tái khám sau 10 ngày. Mẹ báo bé hết ngứa rát, da đỡ nhiều, đã ngưng gel, mang tuýp gel theo. Sinh hiệu: mạch 80 l/p, HA 102/64 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%. Cân nặng 41 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi Hân đi Da liễu làm test áp ngay trong tuần này vẫn hợp lý nếu muốn biết chắc hoạt chất (ESCD 2026 mục 9.1.1, 5.5), nhưng chưa cần ngay: da đã lành, chưa tái phát sau khi ngưng gel, nên chỉ cần tránh gel và ghi nhãn (QĐ 4416 mục 1.1, 3.1; DDG 2022 mục 3.2). Đi tuyến trên làm mẹ tốn thêm tiền khi nhà đang eo hẹp, bé phải dán lưng nhiều ngày và nghỉ học, vốn đã từ chối; vùng vừa dùng corticoid còn phải ngưng đủ 7–14 ngày trước test (ESCD 2026 mục 2.2.1)."
+   },
+   "loi_mo": "Dạ bác sĩ, cháu hết ngứa rồi, da cũng nhìn đỡ lắm. Em mang cả tuýp gel theo đây. Mà bác sĩ ơi, cho cháu xin giấy nghỉ thể dục thêm tuần nữa được không ạ, chân cháu còn thâm...",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "102/64",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hân kể: hết rát ngứa sau 3–4 ngày bôi thuốc, mụn nước khô lại ngày thứ 6, vảy bong dần; khoảng ngày thứ 10 da phẳng, chỉ còn vệt thâm nhạt. Không nổi thêm ở chỗ khác, không sốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị: đỡ hoàn toàn"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Hân bôi betamethason hai lần mỗi ngày, ngưng ở ngày thứ 9 vì thấy da hết đỏ và hết ngứa; cetirizin uống 4 tối đầu rồi ngưng vì hết ngứa; dưỡng ẩm bôi lúc nhớ lúc quên. Hân không bôi lại gel, không quấn băng thun, mặc quần dài khi ra sân, tập thể dục ngoài nắng chỉ vài buổi. Bé không thấy da mỏng, rạn, nổi mạch đỏ hay mụn ở chỗ bôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thời gian dùng thuốc, tác dụng phụ corticoid bôi"
+    },
+    {
+     "id": "tuyp_gel",
+     "noi_dung": "Mẹ mang tuýp gel theo. Nhãn ghi 'gel giảm đau, kháng viêm không steroid, dùng ngoài da', thành phần ghi chữ nhỏ; mẹ cũng chụp ảnh nhãn. Mẹ cho biết mẹ vẫn bôi gel này cho lưng của mình, chưa bị nổi mẩn lần nào, và hỏi có phải đổ bỏ không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuýp thuốc nghi ngờ: ghi nhãn vào hồ sơ, hướng dẫn tránh"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hân xin nghỉ thể dục thêm một tuần vì kiểm tra chạy 800 m dời sang tuần sau; bé thấy vệt thâm 'xấu', sợ bạn trêu, và do chăm em ban đêm nên chạy mệt. Bé chưa bao giờ nói với cô giáo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật vẫn còn: xin giấy nghỉ, nỗi sợ kiểm tra chạy và bị trêu"
+    },
+    {
+     "id": "test_lai",
+     "noi_dung": "Khi bác sĩ giải thích có thể thử bằng test áp ở Da liễu sau khi lành để biết hoạt chất nào gây dị ứng, mẹ hỏi giá (khoảng 1,2 triệu đồng) và nói chưa có tiền. Hân vẫn sợ bị dán lưng nhiều ngày, không tắm được, phải nghỉ học, nên từ chối lần nữa; hai mẹ con nhờ ghi vào sổ để đổi ý sau.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Từ chối xét nghiệm lần hai và nhiễu tài chính"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Em bé 6 tuần khỏe, không nổi mẩn, đang bú mẹ. Mẹ đỡ mệt hơn, chồng về nhà được vài ngày mỗi tuần. Đau cổ chân của Hân đã hết hẳn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tình hình gia đình và cổ chân: đỡ"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân trái đoạn dưới, mặt trước – ngoài: da phẳng, không đỏ, không sẩn, không mụn nước, không rỉ dịch, không vảy; còn vệt sậm màu hơn da xung quanh khoảng 12 × 1,5 cm cùng vài chấm thâm nhỏ ở chỗ sẩn cũ (tăng sắc tố sau viêm nhẹ). Không teo da, không rạn, không giãn mạch, không mụn, không lông mọc dày chỗ đã bôi. Mu bàn chân, bàn chân, bàn tay, mặt, thân mình, chân phải: không tổn thương mới. Hạch bẹn, khoeo không to.",
+     "k": 1,
+     "hien": "Cẳng chân trái đoạn dưới: da phẳng, không đỏ, không sẩn, không mụn nước, không vảy; còn vệt sậm màu khoảng 12 cm và vài chấm thâm nhỏ. Không rạn, không mạch giãn, không mụn. Mu bàn chân, bàn chân, bàn tay, mặt, thân mình: không tổn thương."
+    },
+    "co_xuong_khop": {
+     "a": "Cổ chân trái bình thường, không sưng, không đau khi ấn hay vận động; đi, chạy nhẹ tại chỗ không đau.",
+     "k": 0,
+     "hien": "Cổ chân trái không sưng, không đau khi vận động."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tự trả lời nhiều hơn lần trước. Cân nặng 41 kg. Da niêm hồng, không ban toàn thân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_ap": {
+     "v": "a",
+     "r": "Cơ sở không làm được test áp. Hân và mẹ từ chối chuyển Da liễu lần này; ghi nhận từ chối vào hồ sơ, đề nghị lại khi tái phát.",
+     "n": "Chấp nhận, không bắt buộc: test áp (và test áp ánh sáng nếu nghi thành phần ánh sáng) xác định dị nguyên và phân biệt thể dị ứng với kích ứng (QĐ 4416, Viêm da tiếp xúc mục 2.1.2, 2.2.2; Viêm da tiếp xúc do ánh sáng mục 2.1.2; ESCD 2026 mục 5.5). Làm khi da đã lành; ngưng corticoid bôi ở vị trí test ≥ 7 ngày (nhóm thấp – trung bình) hoặc 14 ngày (nhóm mạnh), tránh nắng vùng test 2–4 tuần (ESCD 2026 mục 2.2.1); sản phẩm của bệnh nhân được thử cùng bộ chuẩn, không thử chất không rõ thành phần (ESCD 2026 mục 6). Hân bị từ chối: tôn trọng, ghi vào hồ sơ; phương án B là tránh gel và ghi lại nhãn."
+    },
+    "soi_nam": {
+     "v": "n",
+     "n": "Không cần: không còn tổn thương để lấy bệnh phẩm, da lành sau điều trị đúng cho viêm da tiếp xúc; đáp ứng với corticoid bôi không phù hợp với nấm da (QĐ 4416, Bệnh da do nấm sợi mục 2.1)."
+    },
+    "ctm": {
+     "v": "n",
+     "n": "Không cần: đã khỏi, không sốt, không biểu hiện toàn thân (QĐ 4416, Viêm da tiếp xúc mục 2.1.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc (nghi thể dị ứng, có thể kèm thành phần ánh sáng) do gel giảm đau khớp, đã lành; còn tăng sắc tố sau viêm nhẹ; dị nguyên chưa xác định bằng test áp (bé và mẹ từ chối)",
+     "ok": 1,
+     "n": "Hết ngứa rát, tổn thương lành, không tổn thương mới sau ngưng gel và bôi corticoid ngắn ngày (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 3.2.1). Nhiễm sắc tố là biểu hiện được mô tả ở viêm da tiếp xúc (mục 2.1.1) và viêm da tiếp xúc do ánh sáng có thể để lại thâm kéo dài (Viêm da tiếp xúc do ánh sáng mục 2.1.1); thời gian mờ thâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dị ứng với chính corticoid hoặc thành phần nền của kem",
+     "n": "Cân nhắc khi da xấu đi hoặc không đỡ dưới điều trị (DDG 2022 mục 3.3.1.2). Hân đỡ đều, hết ngứa sau 3–4 ngày → không nghĩ."
+    },
+    {
+     "t": "Tác dụng phụ tại chỗ của corticoid bôi (teo da, giãn mạch, rạn)",
+     "n": "Teo da, giãn mạch là tác dụng phụ hay gặp (QĐ 4416, Viêm da tiếp xúc mục 3.2.1; DDG 2022 mục 3.3.1.2). Khám sau 9 ngày dùng không có, không có lý do kéo dài thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng: hết ngứa rát, không còn đỏ, sẩn, mụn nước, rỉ dịch, vảy, không tổn thương mới, không teo da; vệt sậm màu còn lại là thâm sau viêm, không cần thuốc",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: bôi tới khi lành thương tổn; chú ý teo da, giãn mạch). Thời gian mờ thâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng corticoid bôi và cetirizin (đã đủ liệu trình); không bôi 'cho chắc' hay để mờ thâm",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): dùng tới khi lành, 2–4 tuần, tối thiểu hóa dùng kéo dài trên 2–4 tuần để tránh teo da; DDG 2022 (mục 3.3.1.2): teo da, giãn mạch là tác dụng phụ hay gặp. Không giảm dần vì chỉ dùng chưa đầy 2 tuần."
+    },
+    {
+     "t": "Tiếp tục dưỡng ẩm không hương liệu vùng vừa viêm 2–4 tuần",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.1: hồi phục hàng rào da; mục 3.2.1); DDG 2022 (mục 3.3.1.1). Thời gian 2–4 tuần: không có trong tài liệu đã tải, chọn theo khoảng 2–4 tuần của corticoid."
+    },
+    {
+     "t": "Tránh dị nguyên: không dùng lại gel này; ghi nhãn (hoặc giữ ảnh nhãn) vào hồ sơ; trước khi dùng thuốc bôi giảm đau khác thì đưa nhãn cho bác sĩ hoặc dược sĩ xem",
+     "v": "c",
+     "n": "QĐ 4416 (mục 1.1, 3.1); DDG 2022 (mục 3.2, 4.1.3): tránh nghiêm ngặt là cách an toàn duy nhất. Phản ứng chéo với thuốc bôi khác và hoạt chất của gel: không có trong tài liệu đã tải; mẹ dùng gel không nổi mẩn vì dị ứng chỉ xảy ra ở người đã mẫn cảm (QĐ 4416, mục 1.3)."
+    },
+    {
+     "t": "Đề nghị test áp hoặc test áp ánh sáng ở Da liễu một lần để xác định hoạt chất; Hân và mẹ từ chối: tôn trọng, ghi vào hồ sơ, phương án B là tránh gel và quay lại khi tái phát",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 2.1.2, 2.1.3); ESCD 2026 (mục 9.1.1: test áp ở trẻ an toàn, khuyến cáo khi nghi viêm da tiếp xúc dị ứng; mục 5.5: test áp ánh sáng). Chưa tái phát nên chưa bắt buộc. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho Hân đi học và tập thể dục bình thường; không cấp thêm ngày nghỉ vì da đã lành; trao đổi riêng về nỗi sợ kiểm tra chạy và bị trêu, gợi ý nói với cô giáo",
+     "v": "c",
+     "n": "Da lành, không còn hạn chế do bệnh (QĐ 4416, Viêm da tiếp xúc mục 3.2.1). Điều kiện cấp giấy nghỉ ốm: không có trong tài liệu đã tải. Phần hỗ trợ tâm lý và giao tiếp: kỹ năng khám, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không hẹn tái khám định kỳ; quay lại khi tái phát hoặc trước khi dùng thuốc bôi mới",
+     "v": "c",
+     "n": "Lịch tái khám sau khi khỏi: không có trong tài liệu đã tải; chọn theo bản chất bệnh khu trú, hết khi hết tiếp xúc."
+    },
+    {
+     "t": "Chuyển Da liễu làm test áp ngay trong tuần này",
+     "v": "a",
+     "n": "ESCD 2026 (mục 9.1.1, 5.5): hợp lý nếu muốn biết chắc; vẫn cần ngưng corticoid bôi và tránh nắng vùng test (mục 2.2.1); bé từ chối, chưa tái phát nên chưa bắt buộc; cơ sở không làm được."
+    },
+    {
+     "t": "Kéo dài corticoid bôi thêm 2–4 tuần 'cho chắc' hoặc để mờ thâm",
+     "v": "w",
+     "n": "Tối thiểu hóa dùng corticoid kéo dài 2–4 tuần (QĐ 4416 mục 3.2.1); teo da, giãn mạch (DDG 2022 mục 3.3.1.2). Thâm không phải viêm đang hoạt động."
+    },
+    {
+     "t": "Cho Hân bôi lại gel 'thử xem còn dị ứng không' hoặc cho dùng tiếp thuốc bôi giảm đau khác cho cổ chân",
+     "v": "w",
+     "n": "Tái tiếp xúc với dị nguyên nghi ngờ làm bệnh tái phát (QĐ 4416 mục 1.1, 1.3: tái tiếp xúc 48–72 giờ lên phản ứng); tránh nghiêm ngặt (DDG 2022 mục 3.2, 4.1.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc (nghi thể dị ứng, ICD-10 L23) do gel giảm đau khớp, đã lành; còn tăng sắc tố sau viêm nhẹ ở cẳng chân trái",
+     "Dị nguyên nghi: gel giảm đau khớp (nhãn: kháng viêm không steroid dùng ngoài da); chưa xác định bằng test áp vì bé và mẹ từ chối; yếu tố ánh sáng không loại trừ",
+     "Không có tác dụng phụ của corticoid bôi; không tổn thương mới; đau cổ chân đã hết",
+     "Lý do thật vẫn còn: nỗi sợ kiểm tra chạy và bị trêu; từ chối xét nghiệm lần hai ghi vào hồ sơ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến (hết ngứa khi nào) → cách dùng thuốc, thời gian, tác dụng phụ → có tái tiếp xúc gel hay nắng không → xem tuýp gel, ghi nhãn → hỏi lý do xin nghỉ thể dục → khám chân, mu bàn chân, bàn tay, cổ chân → ngưng thuốc, dặn phòng tái phát.",
+     "Tiêu chí xác nhận khỏi: hết ngứa rát, không còn dát đỏ, sẩn, mụn nước, rỉ dịch, không tổn thương mới (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 3.2.1: dùng thuốc tới khi lành thương tổn). Vệt thâm là tăng sắc tố sau viêm, không phải bệnh đang hoạt động; thời gian mờ: không có trong tài liệu đã tải.",
+     "Quỹ đạo dự kiến: corticoid bôi 2–4 tuần hoặc tới khi lành (QĐ 4416, mục 3.2.1); mốc bớt ngứa theo ngày: không có trong tài liệu đã tải. Hân hết ngứa ngày 3–4, sạch ngày 10: đúng quỹ đạo. Quỹ đạo cần lo: không đỡ hoặc xấu đi dù tránh gel và bôi đúng → nghĩ dị ứng corticoid hoặc thành phần nền (DDG 2022 mục 3.3.1.2), dị nguyên khác, nấm, chàm.",
+     "Khi nào xét nghiệm dù đã khỏi: không cần xét nghiệm máu. Test áp hoặc test áp ánh sáng ở Da liễu khi muốn biết chắc hoạt chất, khi tái phát hoặc dị nguyên khó tránh (QĐ 4416 mục 2.1.2; ESCD 2026 mục 9.1.1, 5.5), làm lúc da lành, ngưng corticoid bôi tại vị trí test ≥ 7 ngày (nhóm thấp – trung bình) hoặc 14 ngày (nhóm mạnh), tránh nắng vùng test 2–4 tuần (ESCD 2026 mục 2.2.1), mang sản phẩm đến thử (mục 6). Bé từ chối: không ép, ghi hồ sơ.",
+     "Từ chối lần hai: tôn trọng quyền tự quyết, nêu lợi ích (biết chắc hoạt chất), chi phí và thời gian trung thực, ghi vào hồ sơ, giữ cánh cửa mở; phương án B: tránh gel, ghi nhãn, quay lại khi tái phát hoặc trước khi dùng thuốc bôi mới. Thủ tục ghi nhận: không có trong tài liệu đã tải.",
+     "Phòng tái phát: thuốc bôi là nhóm dị nguyên gây viêm da tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 1.3); thuốc kháng viêm không steroid cũng gây viêm da tiếp xúc do ánh sáng (Viêm da tiếp xúc do ánh sáng mục 1.3). Tiên lượng tốt khi dị nguyên dễ nhận diện và tránh được (DDG 2022 mục 3.2).",
+     "Lý do thật (xin giấy nghỉ): da lành nên không có chỉ định y khoa nghỉ thêm; ghi nhận nỗi sợ, giải thích vệt thâm là bình thường sau viêm, gợi ý nói với cô giáo; không ghi sai bệnh (điều kiện giấy nghỉ ốm: không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngưng thuốc, dặn dò, không hẹn định kỳ (ve_hen). Không chuyển tuyến vì đã lành, không tái phát sau khi tránh gel.",
+     "Ngưng corticoid: QĐ 4416 (mục 3.2.1) dùng tới khi lành, 2–4 tuần; DDG 2022 (mục 3.3.1.2): teo da, giãn mạch hay gặp. Không giảm dần vì dùng chưa đầy 2 tuần và da đã lành.",
+     "Dưỡng ẩm duy trì hàng rào da (QĐ 4416 mục 3.1; DDG 2022 mục 3.3.1.1); thời gian: không có trong tài liệu đã tải.",
+     "Không xét nghiệm máu: phản ứng typ IV không phát hiện bằng xét nghiệm máu, test áp xác định dị nguyên (ESCD 2026 mục 2.2).",
+     "Tránh dị nguyên nghiêm ngặt (DDG 2022 mục 3.2, 4.1.3): không dùng lại gel, ghi nhãn vào hồ sơ; mẹ vẫn dùng cho lưng mình được vì chưa mẫn cảm (QĐ 4416 mục 1.3), nhưng tránh để con dùng chung (lời dặn chung, không có trong tài liệu đã tải).",
+     "Không hẹn tái khám định kỳ vì bệnh khu trú, hết khi hết tiếp xúc (lịch tái khám sau khỏi: không có trong tài liệu đã tải).",
+     "Đi học và tập bình thường vì da đã lành; vùng thâm tránh nắng gắt (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 2.1.1, 3.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem dưỡng ẩm không hương liệu",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Bôi vùng da vừa viêm",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "1–2 lần/ngày, sau khi tắm",
+      "so_ngay": "2–4 tuần (thời gian dùng sau khi lành: không có trong tài liệu đã tải)",
+      "ghi_chu": "QĐ 4416 (mục 3.1, 3.2.1); DDG 2022 (mục 3.3.1.1). Ngưng betamethason và cetirizin vì đã đủ liệu trình, không kê thêm."
+     }
+    ],
+    "dan_do": [
+     "Da đã lành; vệt sậm màu là thâm sau viêm, sẽ nhạt dần, không cần thuốc (thời gian mờ: không có trong tài liệu đã tải).",
+     "Không dùng lại gel này; lưu ảnh nhãn; trước khi dùng thuốc bôi giảm đau hay kháng viêm khác, đưa nhãn cho bác sĩ hoặc dược sĩ xem (QĐ 4416, Viêm da tiếp xúc mục 3.1; DDG 2022 mục 3.2).",
+     "Nếu ban tái phát (đỏ, rát, ngứa, mụn nước) dù đã tránh gel, hoặc nổi ở chỗ lộ nắng sau khi bôi thuốc khác, quay lại sớm và cân nhắc test áp ở Da liễu (QĐ 4416, mục 2.1.2; ESCD 2026 mục 9.1.1).",
+     "Muốn xác định chắc hoạt chất: test áp lúc da lành, ngưng corticoid bôi ở vị trí test 7–14 ngày, tránh nắng vùng test 2–4 tuần (ESCD 2026 mục 2.2.1); hai mẹ con có quyền đổi ý bất cứ lúc nào.",
+     "Với Hân: vệt thâm sẽ nhạt dần; nỗi lo kiểm tra chạy và bị trêu nên nói với cô giáo hoặc mẹ (lời dặn chung, không có trong tài liệu đã tải).",
+     "Không cần tái khám định kỳ; quay lại khi tái phát hoặc cần thuốc bôi mới."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hân hết ngứa rát sau 3–4 ngày, mụn nước khô ngày 6 và da phẳng khoảng ngày 10, còn vệt thâm nhạt (thời gian mờ thâm không có trong tài liệu đã tải). Bé ngưng corticoid, cetirizin, dưỡng ẩm tiếp; gel không dùng lại, nhãn được ghi vào hồ sơ. Dị nguyên chưa xác định bằng test áp vì bé và mẹ hai lần từ chối, đã ghi nhận vào hồ sơ; phương án B là tránh gel và quay lại khi tái phát. Đây là quỹ đạo chấp nhận được; khác với quỹ đạo không đỡ hoặc xấu đi sau điều trị đúng, cần nghĩ dị ứng corticoid, dị nguyên khác, chẩn đoán khác và chuyển test áp. Bé được đi học và tập lại bình thường; lý do thật (sợ kiểm tra chạy, bị trêu) được trao đổi riêng.",
+ "nhieu": [
+  "Mẹ sau sinh mệt, nhiều lo toan, đặt điều kiện 'cho thuốc thôi, đừng thử gì': kỹ thuật ghi nhận hoàn cảnh, giải thích xét nghiệm nào đổi được cách điều trị, xét nghiệm nào bỏ được.",
+  "Hân từ chối cạo da và lấy máu vì sợ đau: tôn trọng, giải thích một lần, ghi vào hồ sơ, đưa phương án B.",
+  "Hân không kể chuyện bôi gel vì coi đó 'không phải thuốc uống': phải hỏi riêng về thuốc bôi, kể cả của người nhà.",
+  "Đau cổ chân nhẹ và 'đau khớp' làm dễ nghĩ sang khớp; vệt và cụm mụn nước khiến nghĩ zona hoặc nấm."
+ ],
+ "bai_hoc_bien": [
+  "Thuốc bôi và thuốc của người nhà là dị nguyên dễ bị bỏ sót: bé không coi thuốc bôi là thuốc; phải hỏi riêng 'có bôi gì lên chỗ đau không'.",
+  "Ban nổi đúng vùng bôi, theo thời gian sau bôi và có thể nặng thêm khi bôi tiếp là chìa khóa; không có đau thần kinh trước ban loại zona; không lành giữa, không vảy viền loại nấm.",
+  "Hoạt chất không rõ thì ghi nhãn, giữ tuýp, hỏi lại khi tái phát; thuốc kháng viêm không steroid nằm trong nhóm gây viêm da tiếp xúc do ánh sáng nên cần hỏi nắng sau bôi.",
+  "Từ chối xét nghiệm: tôn trọng quyền tự quyết, giải thích một lần xét nghiệm nào đổi quyết định, ghi hồ sơ, phương án B là điều trị theo lâm sàng và tái khám có mốc chuyển hướng.",
+  "Test áp chọn đúng thời điểm: khi da lành, sau 7–14 ngày ngưng corticoid bôi tại vị trí test, tránh nắng vùng test 2–4 tuần (ESCD 2026 mục 2.2.1)."
+ ],
+ "diem_nho": [
+  "Viêm da tiếp xúc dị ứng: quá mẫn typ IV, mẫn cảm 5–21 ngày, tái tiếp xúc 48–72 giờ lên phản ứng; thuốc bôi, kim loại, cao su, chất dẻo là dị nguyên chính (QĐ 4416, Viêm da tiếp xúc mục 1.3).",
+  "Chẩn đoán dựa lâm sàng và yếu tố tiếp xúc; test áp xác định dị nguyên (QĐ 4416 mục 2.1.2, 2.1.3); test áp trẻ em an toàn (ESCD 2026 mục 9.1.1).",
+  "Điều trị: loại dị nguyên; corticoid bôi 1–2 lần/ngày, 2–4 tuần hoặc tới khi lành; kháng histamin để giảm ngứa; Jarish cho vùng rỉ dịch (QĐ 4416 mục 3.1, 3.2.1).",
+  "Viêm da tiếp xúc do ánh sáng: nguyên nhân gồm thuốc kháng viêm không steroid, thành phần chống nắng, hương liệu; thể dị ứng 24–48 giờ sau ánh sáng, có thể lan ra vùng da cạnh đó (QĐ 4416, Viêm da tiếp xúc do ánh sáng mục 1.3, 2.1.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Viêm da tiếp xúc mục 1.1, 1.3, 2.1.1–2.1.4, 2.2.1, 2.2.2, 3.1, 3.2.1; Viêm da tiếp xúc do ánh sáng mục 1.3, 2.1.1, 2.1.2, 3.1; Viêm da cơ địa mục 2.3.1, 2.3.2; Bệnh da do nấm sợi mục 2.1, 2.2, 2.5; Zona mục 2.1.",
+  "DDG – German S1 guideline: Contact dermatitis 2022 (TL-0422) – mục 1.1, 1.3.1.2, 3.2, 3.3.1.1, 3.3.1.2, 3.3.1.3, 3.3.1.7, 3.3.3.1, 3.3.4.1, 3.3.4.3, 4.1.3.",
+  "ESCD – Guideline for diagnostic patch testing, update 2026 (TL-0401) – mục 2.2, 2.2.1, 5.5, 6, 9.1.1.",
+  "AAD-NPF 2021 (TL-0425) – bảng hiệu lực corticoid bôi (Class 1–7), mục Risks/Harms của corticoid bôi.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho cũ tltk-10000-ca) – Bảng 3: liều thuốc kháng histamin H1 thế hệ 2.",
+  "Không có trong tài liệu đã tải: hoạt chất và nguy cơ viêm da tiếp xúc của từng gel giảm đau khớp; phản ứng chéo giữa thuốc bôi giảm đau; thời gian dùng kháng histamin trong viêm da tiếp xúc; thời gian mờ thâm; mốc tái khám cụ thể; thời gian dưỡng ẩm; điều kiện cấp giấy nghỉ ốm; thủ tục ghi nhận từ chối xét nghiệm; chế phẩm bán tại Việt Nam."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (17/10/2026, viết: Sonnet): 'Sau sinh' = mẹ mới sinh em 5 tuần, mẹ có gel giảm đau khớp, bé dùng nhầm 'thuốc của mẹ'; 'Thuốc giảm đau khớp tự mua' = gel bôi ngoài da (hoạt chất chưa biết) là dị nguyên nghi; 'Xin giấy nghỉ ốm' = bé sợ kiểm tra chạy 800 m và bị bạn trêu; 'Không điển hình' = ban dạng vệt và cụm mụn nước, rát hơn ngứa, vượt vùng bôi, có thể kèm thành phần ánh sáng, giống zona và nấm; 'Bệnh nhân từ chối xét nghiệm' + 'Không đủ tiền' = bé sợ đau, mẹ sợ tốn kém; 'Đỡ hoàn toàn khi tái khám' = lượt 2 sau 10 ngày da lành, còn thâm nhạt.",
+  "Nguồn lực: khoa_cls = null; mọi xét nghiệm bị từ chối bằng chữ trong r (soi nấm 'u' có phương án B). Không cần mục danh mục mới (test_ap, soi_nam đã có).",
+  "Mâu thuẫn: corticoid toàn thân (mục DL-0085 đã có) áp dụng không chạm ngưỡng; mức hiệu lực corticoid bôi cho mặt duỗi chi ở thiếu niên: mục mới 'Mức hiệu lực corticoid bôi cho cẳng chân (mặt duỗi) ở thiếu niên' (xem DL-0134_mau_thuan.md).",
+  "Đã đọc: QĐ 4416 (TL-0397) các mục ở phần nguồn; DDG 2022 (TL-0422); ESCD 2026 (TL-0401); AAD-NPF 2021 (TL-0425, bảng hiệu lực); QĐ 3942/2014 Bảng 3 (kho cũ). Thiếu tài liệu: hoạt chất gel và phản ứng chéo, lịch tái khám, thời gian mờ thâm.",
+  "Ảnh SCIN: HA-DA-0028 (khai báo DL-0134_media.json); đã xem trước và loại HA-DA-0027 (hai dải sẩn ở đùi, hình như dải quần), HA-DA-0029 (mảng tròn kèm hình sẹo, vùng đen che ảnh), HA-DA-0030 (hai dát nhạt ở đùi, không mụn nước)."
+ ]
+}
