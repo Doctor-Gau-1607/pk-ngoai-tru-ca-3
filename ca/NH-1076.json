@@ -1,0 +1,762 @@
+{
+ "ma_ca": "NH-1076",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới, đối chiếu kho tài liệu (2026-10-17)",
+ "benh": "NH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Táo bón chức năng (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Phình đại tràng bẩm sinh (Hirschsprung)",
+   "Suy giáp"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Ngọc Hân",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.2,
+  "chieu_cao": 70,
+  "xung_ho": "Bé gái 8 tháng, chưa nói được, khóc to khi bị khám, bám mẹ. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em', gọi bé là 'bé Hân' hoặc 'con'. Bà nội trông bé ban ngày không đi cùng.",
+  "tinh_cach": "Mẹ 30 tuổi, nhân viên ngân hàng, nói nhanh, hay đọc diễn đàn mẹ bỉm, đi làm lại từ khi bé 4 tháng rưỡi và tự trách vì giao con cho bà nội. Ba chị mới mất đột ngột nên chị rất sợ chuyện tim và đi ngoài. Bé Hân hiền, hay quấy khi mệt.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mẹ vào khám với sẵn 'phình đại tràng bẩm sinh' và đòi CT 'cho chắc'. Bị gạt đi bằng 'mẹ lo xa' thì mẹ nghi và đi chỗ khác; giải thích từng dấu hiệu bằng kết quả khám của chính bé thì mẹ dịu lại. Chẩn đoán đó không vô lý (phân su khoảng 30 giờ) nên phải đối chiếu nghiêm túc.",
+  "nguoi_nha": "Mẹ bé, chị Thùy, 30 tuổi, bế bé đi khám; mẹ trả lời mọi câu hỏi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thùy)",
+  "ngoai_hinh": {
+   "da": "#f3d2b3",
+   "toc": "#1a1410",
+   "kieuToc": "tre",
+   "ao": "#f7c6d0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6b996",
+    "toc": "#231a15",
+    "kieuToc": "dai",
+    "ao": "#a7c4a0",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 8 tháng 4 ngày chưa đi ngoài, rặn đỏ tím mặt, mẹ lo bị phình đại tràng bẩm sinh",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Thùy bế bé Hân, 8 tháng, 8,2 kg, đến phòng khám nhi tư vì bé 4 ngày chưa đi ngoài, bú kém, quấy đêm, mỗi lần rặn thì đỏ rồi tím cả mặt. Chị nói đã đọc trên mạng về 'bệnh phình đại tràng bẩm sinh' và xin bác sĩ xem có phải không. Sinh hiệu: nhiệt 36,9 °C, mạch 116 l/p, nhịp thở 34 l/p, SpO₂ 99%. Bé tỉnh, bám mẹ, hơi nghẹt mũi.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện thụt tháo hoặc theo dõi nội trú là quá tay: bé còn bú, khóc có nước mắt, tã còn ướt, không nôn mật, không chướng bụng, không sốt. Làm sạch phân ứ bằng PEG uống hiệu quả ngang thụt và uống được nên được ưu tiên (ESPGHAN 2014, khuyến cáo 31–32, tr. 269). Mẹ vốn đang rất lo, thấy con phải nằm viện sẽ càng tin con mắc bệnh nặng, còn chi phí và ngày nghỉ làm đều tăng.",
+    "chuyen_tuyen": "Chuyển tuyến ngay để sinh thiết trực tràng hoặc khám ngoại nhi trong ngày là chưa cần: phân su ra lúc khoảng 30 giờ nhưng bé không chướng bụng, không nôn mật, táo bón chỉ bắt đầu sau 4 tháng tuổi, tăng trưởng bình thường, bóng trực tràng đầy phân và không phân phụt thành tia. Sinh thiết dành cho bộ ba chậm phân su, chướng bụng, nôn mật (ERNICA 2020, Bảng 1), táo bón khởi phát sớm kèm chậm lớn, hoặc táo bón khó chữa sau điều trị tối ưu ít nhất 3 tháng (ESPGHAN 2014, tr. 262 và khuyến cáo 14–15). Chuyến đi tốn một ngày, bé ho nghẹt mũi phải đi xa mà vẫn chưa được thử PEG, thuốc nền của bệnh này."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em 4 hôm nay chưa đi ngoài, cứ rặn là đỏ rồi tím cả mặt, em sợ lắm. Em đọc trên mạng nói trẻ chậm đi phân su rồi táo bón từ nhỏ là bị phình đại tràng bẩm sinh, bác sĩ xem giúp em bé có bị không, có phải chụp CT không ạ?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé 4 ngày nay chưa đi ngoài, bú giảm còn khoảng một nửa, quấy đêm. Mỗi lần rặn bé gồng người, khóc, mặt đỏ rồi tím sau vài chục giây, xong thì mệt lả. Mẹ đọc trên mạng nên nghi bé bị phình đại tràng bẩm sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, rặn tím mặt"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Từ khoảng 4 tháng rưỡi bé đi ngoài 3–4 ngày mới một lần (trước đó bú mẹ hoàn toàn, vàng mềm 1–2 lần mỗi ngày). Phân thành cục tròn, cứng như phân dê, to; bé khóc, rặn rất lâu mới ra. Không có máu trong phân, không dính nhầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất, tính chất phân (Rome III)"
+    },
+    {
+     "id": "phan_su",
+     "noi_dung": "Bé sinh thường đủ tháng, 3,2 kg. Giấy ra viện ghi phân su ra lúc khoảng 30 giờ sau sinh (không phải trong ngày đầu); lúc đó bé không chướng bụng, không nôn mật, bú tốt, ra viện sau 3 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm đi phân su (dấu hiệu gợi ý Hirschsprung)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mẹ đi làm lại khi bé 4 tháng rưỡi; bà nội trông ban ngày và pha sữa công thức thay phần lớn các cữ bú; từ 5 tháng rưỡi bé ăn bột loãng 2 bữa, ít rau. Táo bón bắt đầu ngay sau đó. Bé chưa dùng thuốc nhuận tràng hay thụt hậu môn nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuổi khởi phát, yếu tố thúc đẩy (đổi chế độ ăn)"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nôn mật, không nôn nhiều, không sốt, không đi phân đen hay có máu, không đi phân dẹt như dải. Bụng chưa bao giờ chướng to. Bé tăng cân đều theo sổ theo dõi ở trạm y tế, lẫy từ 5 tháng, ngồi có vịn từ 7 tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động, tăng trưởng, phát triển vận động"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Bé đã thử máu gót chân sàng lọc sơ sinh, giấy báo bình thường (mẹ chụp ảnh giấy). Vàng da sau sinh hết trước 2 tuần. Bé không ngủ li bì, vẫn đòi bú, khóc to, da không khô. Trong nhà không ai bị bệnh tuyến giáp, phình đại tràng, xơ nang hay bệnh celiac.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng suy giáp, tiền sử gia đình"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Hai đêm nay bé ho, quấy không ngủ nên bà nội cho uống khoảng nửa muỗng cà phê siro 'ngủ ngon' mua ở quầy thuốc đầu ngõ. Mẹ mang chai theo: nhãn ghi hoạt chất promethazin, 'an thần, chống dị ứng'. Bé không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (an thần tự mua)"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Bé không chàm, không nôn trớ nhiều, không phân đàm máu, không ban sau khi uống sữa; nhà không ai dị ứng sữa bò.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dị ứng đạm sữa bò"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bé uống khoảng 600 mL sữa công thức mỗi ngày chia 4–5 cữ, bú mẹ 2 cữ đêm, bột loãng 2 bữa. Ba ngày nay nghẹt mũi nên bú giảm còn khoảng một nửa; vẫn ướt tã ít nhất 4 lần mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chế độ ăn, lượng dịch, mất nước"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Chị gái 3 tuổi đi nhà trẻ ho, sổ mũi hơn một tuần. Bốn ngày nay bé nghẹt mũi, ho khan nhẹ, không sốt, không khò khè, không thở nhanh hay rút lõm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc người ho, bệnh hô hấp kèm"
+    },
+    {
+     "id": "mang_chan_doan",
+     "noi_dung": "Mẹ đọc trên mạng: 'chậm đi phân su, táo bón từ nhỏ, bụng tròn là phình đại tràng bẩm sinh, phải chụp CT hoặc cản quang mới biết'. Mẹ muốn chụp CT 'cho chắc'. Nghe giải thích từng dấu hiệu bằng kết quả khám của bé thì mẹ dịu lại; bị gạt đi thì mẹ nghi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ba chị (ông ngoại bé) mất đột ngột cách đây 3 tháng vì nhồi máu cơ tim ngay trong nhà vệ sinh, lúc đang rặn đi ngoài. Từ đó, mỗi lần thấy con rặn đỏ rồi tím mặt, chị hình dung tim bé sẽ ngừng; ban đêm chị không dám ngủ sâu. Chị chưa kể với ai, kể cả chồng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ lộ khi bác sĩ hỏi 'điều chị lo nhất là gì', hỏi chị sợ gì khi thấy bé rặn tím mặt, hoặc khám tim cho bé rồi hỏi chị có lo về tim không, và nghe chị bằng thái độ không phán xét.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám (sợ nhồi máu cơ tim khi rặn)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, bám mẹ, khóc to khi bị khám, có nước mắt. Da niêm hồng, niêm mạc ẩm, thóp trước phẳng, tã ướt. Không phù mặt, da không khô, không tím trung ương.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,2 kg, chiều dài 70 cm, vòng đầu 44 cm. Theo sổ theo dõi tăng trưởng, cân nặng và chiều dài tăng đều, không chậm lớn.",
+     "k": 1,
+     "hien": "Cân nặng 8,2 kg, chiều dài 70 cm, vòng đầu 44 cm."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Lưỡi bình thường, không dày, miệng không há. Không hạch cổ.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi nghẹt, dịch trong; họng hơi đỏ; màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 116 l/p, T1 T2 rõ, không âm thổi. Môi hồng, không tím lúc nghỉ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p. Không co lõm lồng ngực, không khò khè. Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng tròn, mềm, không chướng căng, không quai ruột nổi. Hố chậu trái sờ thấy khối chắc, ấn lõm, bé nhăn mặt khi ấn sâu. Gan lách không to. Nhu động ruột bình thường.",
+     "k": 1,
+     "hien": "Bụng không chướng; hố chậu trái bé nhăn mặt khi ấn sâu."
+    },
+    "truc_trang": {
+     "a": "Hậu môn đúng vị trí, không nứt kẽ, không rò. Thăm trực tràng bằng ngón út có bôi trơn: cơ thắt bình thường, không hẹp; bóng trực tràng giãn, đầy khối phân cứng. Rút ngón tay ra không có phân hay hơi phụt thành tia; găng không máu.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Thắt lưng cùng: không lõm xương cùng, không chùm lông, nếp liên mông cân đối. Phản xạ hậu môn có. Trương lực, phản xạ chi dưới bình thường, đạp hai chân đều.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "xq_bung": {
+     "v": "n",
+     "r": "Hơi và phân ở đại tràng trái, không giãn quai ruột, không mực nước hơi.",
+     "n": "Không cần: X-quang chỉ khi nghi ứ phân mà khám không tin cậy hoặc không khám được (ESPGHAN 2014, khuyến cáo 6–7, tr. 265; QĐ 3312/2015, Táo bón mục 3.2.1, tr. 331). Đã thăm trực tràng và sờ được khối phân."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH và FT4 trong giới hạn bình thường theo phòng xét nghiệm.",
+     "n": "Chấp nhận, không bắt buộc: không xét nghiệm thường quy khi không có dấu báo động (ESPGHAN 2014, khuyến cáo 13, tr. 266); QĐ 3312/2015 (mục 3.2.4, tr. 332) làm T4, TSH khi nghi thực thể. Bé sàng lọc sơ sinh bình thường, giáp và tăng trưởng bình thường; làm để mẹ yên tâm thì chấp nhận được."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Tim cấu trúc bình thường.",
+     "n": "Không cần: tim đều, không âm thổi, SpO₂ 99%, không tím lúc nghỉ. Chỉ định siêu âm tim chỉ vì mẹ lo: không có trong tài liệu đã tải; nỗi lo của mẹ cần được nghe và trả lời bằng khám tim."
+    },
+    "ct_bung": {
+     "v": "n",
+     "n": "Không cần, dù có CT: hình ảnh không dùng để chẩn đoán táo bón chức năng (ESPGHAN 2014 khuyến cáo 6, 8, 10); chuẩn vàng loại trừ Hirschsprung là sinh thiết trực tràng, thụt barium không làm đầu tiên (khuyến cáo 15–16, tr. 266); QĐ 3312/2015 (mục 3.2.4, tr. 332) nêu CT hoặc MRI cho nguyên nhân thần kinh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng ở nhũ nhi 8 tháng, có ứ phân ở trực tràng và đại tràng trái",
+     "ok": 1,
+     "n": "Đạt ≥ 2/6 tiêu chuẩn Rome III cho trẻ < 4 tuổi trong ≥ 1 tháng: đi ≤ 2 lần/tuần, phân cứng khó đi, khối phân lớn trong trực tràng (ESPGHAN 2014 Bảng 2, tr. 261; QĐ 3312/2015 mục 4.1, tr. 332). Khởi phát sau vài tháng tuổi, có yếu tố thúc đẩy là đổi chế độ ăn, tăng trưởng bình thường, hậu môn và thắt lưng cùng bình thường (ESPGHAN Bảng 4, tr. 264). Chẩn đoán dựa vào hỏi bệnh và khám (khuyến cáo 2). Rome V cho trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phình đại tràng bẩm sinh (Hirschsprung)",
+     "n": "Không bỏ qua vì có hai dấu hiệu gợi ý: dưới 1 tuổi và phân su ra khoảng 30 giờ (QĐ 3312/2015 mục 4.3, tr. 333). Ngưỡng chậm phân su: > 24 giờ ở trẻ đủ tháng theo ERNICA 2020 (Bảng 1, tr. 2), > 48 giờ theo ESPGHAN 2014 (Bảng 5, tr. 265); 30 giờ vượt ngưỡng ERNICA nhưng không vượt ESPGHAN nên phải khám kỹ. Đối chiếu: không chướng bụng, không nôn mật, khởi phát sau 4 tháng, tăng trưởng bình thường, bóng trực tràng đầy phân (không rỗng), không phân hay hơi phụt thành tia khi rút tay (ESPGHAN Bảng 4–5; tr. 262–263). Chuẩn vàng là sinh thiết trực tràng (khuyến cáo 15), chỉ khi nghi hoặc táo bón khó chữa."
+    },
+    {
+     "t": "Suy giáp (bẩm sinh hoặc mắc phải)",
+     "n": "Ít nghĩ: sàng lọc sơ sinh bình thường, không vàng da kéo dài, không ngủ li bì, vẫn đòi bú, lẫy 5 tháng, ngồi vịn 7 tháng, tuyến giáp và lưỡi bình thường (QĐ 3312/2015, Suy giáp trạng bẩm sinh mục 3.1, tr. 641). Không xét nghiệm thường quy khi không có dấu báo động (ESPGHAN khuyến cáo 13); QĐ 3312 mục 3.2.4 (tr. 332) làm T4, TSH khi nghi thực thể."
+    },
+    {
+     "t": "Dị ứng đạm sữa bò gây táo bón",
+     "n": "Ít nghĩ: không chàm, không nôn trớ, không phân đàm máu, không dị ứng trong gia đình (ESPGHAN Bảng 4). Không thử dị ứng thường quy (khuyến cáo 11); thử bỏ đạm sữa bò 2–4 tuần chỉ khi táo bón khó chữa (khuyến cáo 12, tr. 266)."
+    },
+    {
+     "t": "Rặn khó đi ngoài ở nhũ nhi (infant dyschezia)",
+     "n": "Không phải: mẹ tả rặn lâu, khóc, đỏ hoặc tím mặt giống dyschezia, nhưng dyschezia đi phân mềm hằng ngày và tự hết sau vài tuần (ESPGHAN 2014, tr. 262), còn bé đi phân cục cứng 3–4 ngày/lần, có khối phân trong trực tràng, đã hơn 3 tháng. Rome V 2026 (Bảng 2, tr. 1085) xếp H2a táo bón chức năng và H2c dyschezia thành hai mục riêng."
+    },
+    {
+     "t": "Viêm hô hấp trên nhẹ và siro an thần chứa promethazin làm nặng thêm táo bón",
+     "n": "Là yếu tố làm nặng, không phải nguyên nhân: táo bón có từ 4 tháng rưỡi, trước 2 đêm dùng siro. ESPGHAN Bảng 3 (tr. 263) nêu opiates, anticholinergics trong nhóm thuốc gây táo bón; tác dụng kháng cholinergic của promethazin: không có trong tài liệu đã tải. Nhịp thở 34 l/p dưới ngưỡng thở nhanh ≥ 50 l/p của viêm phổi ở trẻ 2–12 tháng (QĐ 3312/2015 Viêm phổi mục 1, tr. 262), SpO₂ 99%, phổi trong."
+    },
+    {
+     "t": "Dị tật hậu môn, bất thường tủy sống hoặc bệnh thần kinh",
+     "n": "Không: hậu môn đúng vị trí, không hẹp; thắt lưng cùng, phản xạ hậu môn, trương lực và phản xạ chi dưới bình thường (ESPGHAN Bảng 3–5). CT hoặc MRI chỉ khi nghi nguyên nhân thần kinh (QĐ 3312/2015 mục 3.2.4, tr. 332)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi điều mẹ lo nhất và chị sợ gì khi thấy bé rặn tím mặt; ghi nhận nỗi sợ nhồi máu cơ tim, khám tim cho bé và nói đúng điều đã biết, điều chưa biết",
+     "v": "c",
+     "n": "Tim đều, không âm thổi, SpO₂ 99%, không tím lúc nghỉ. ESPGHAN 2014 (tr. 262) mô tả trẻ rặn lâu, khóc, đỏ hoặc tím mặt trong dyschezia, không nêu như dấu hiệu bệnh tim. Nguy cơ tim mạch của rặn ở nhũ nhi: không có trong tài liệu đã tải, nên không hứa hẹn quá mức. QĐ 3312/2015 (Táo bón mục 5.2a, tr. 333): tư vấn cho cha mẹ."
+    },
+    {
+     "t": "Trả lời nỗi lo phình đại tràng nghiêm túc: dấu hiệu nào làm bác sĩ cân nhắc (phân su khoảng 30 giờ, dưới 1 tuổi), dấu hiệu nào đã đối chiếu và không có, vì sao hôm nay chưa cần CT hay sinh thiết, mốc nào sẽ xét lại",
+     "v": "c",
+     "n": "QĐ 3312/2015 mục 4.3 (tr. 333): dưới 1 tuổi, chậm phân su là dấu hiệu gợi ý, cần thăm khám tìm nguyên nhân thực thể. ERNICA 2020 Bảng 1 (tr. 2): bộ ba chậm phân su > 24 giờ, chướng bụng, nôn mật. ESPGHAN 2014 Bảng 4–5, khuyến cáo 5, 14–16."
+    },
+    {
+     "t": "Làm sạch phân ứ bằng PEG 4000 không điện giải uống 1–1,5 g/kg/ngày (8–12 g/ngày), chọn 10 g/ngày chia 2 lần, 3 ngày",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 31, Bảng 6 (tr. 269): 1–1,5 g/kg/ngày, 3–6 ngày, tối đa 6 ngày liên tiếp; QĐ 3312/2015 (mục 5.2b, tr. 333): 1–1,5 g/kg/ngày × 3 ngày. Có ứ phân vì sờ khối phân hố chậu trái và trực tràng đầy phân (ESPGHAN tr. 262). Tuổi tối thiểu dùng PEG ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì bằng PEG uống mỗi ngày: khởi đầu 0,4 g/kg/ngày (3 g/ngày), chỉnh trong 0,2–0,8 g/kg/ngày (1,6–6,6 g) hoặc 1 g/kg/ngày (8 g)",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 33, Bảng 6 (tr. 269–270): khởi đầu 0,4, duy trì 0,2–0,8 g/kg/ngày; QĐ 3312/2015 (mục 5.2c, tr. 334): PEG 3350 không điện giải 1 g/kg/ngày. Hai nguồn khác liều, 0,4 thận trọng hơn (sổ mâu thuẫn, ca NH-1091)."
+    },
+    {
+     "t": "Duy trì thuốc ít nhất 2 tháng; chỉ giảm dần khi hết mọi triệu chứng ít nhất 1 tháng; không tự ngưng sớm",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 37 (tr. 270); khoảng 50% trẻ tái phát ít nhất 1 lần trong 5 năm đầu (phần 9, tr. 271)."
+    },
+    {
+     "t": "Hỏi mọi thuốc và siro bé đã uống; dặn bà nội ngừng siro 'ngủ ngon' chứa promethazin, không tự cho bé uống thuốc an thần hay thuốc ho",
+     "v": "c",
+     "n": "ESPGHAN 2014 (tr. 262): hỏi tiền sử dùng thuốc; Bảng 3: opiates, anticholinergics. QĐ 3312/2015 (Nhức đầu ở trẻ em, tr. 453) nêu promethazin dùng cho trẻ trên 2 tuổi; chống chỉ định và an toàn ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn uống bình thường: tiếp tục bú, bột có rau quả mịn, không đổi sữa; không dùng xơ liều cao thay thuốc",
+     "v": "c",
+     "n": "QĐ 3312/2015 (mục 5.2c, tr. 334): tăng dịch, carbohydrate, chất xơ; ESPGHAN 2014 khuyến cáo 21–23 (tr. 268): xơ, dịch, vận động ở mức bình thường, không ủng hộ bổ sung xơ (sổ mâu thuẫn, ca NH-1091). Lượng nước, xơ cho nhũ nhi 8 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhật ký đi ngoài (ngày giờ, hình dạng phân, số gam PEG) và hẹn tái khám sau 2 tuần; đến ngay nếu nôn mật, bụng chướng to, phân có máu, sốt, bỏ bú, li bì, thở nhanh từ 50 l/p, co lõm ngực",
+     "v": "c",
+     "n": "ESPGHAN 2014 Hình 2 (tr. 261): giáo dục, nhật ký, đánh giá sau 2 tuần; Bảng 5 (tr. 265). ERNICA 2020 Bảng 1. QĐ 3312/2015 Viêm phổi mục 1 (tr. 262). Không đáp ứng sau điều trị tối ưu ≥ 3 tháng hoặc có dấu báo động thì chuyển tiêu hóa nhi, sinh thiết trực tràng (khuyến cáo 14–15)."
+    },
+    {
+     "t": "Lactulose làm thuốc duy trì nếu mẹ không mua được hoặc không chấp nhận PEG",
+     "v": "a",
+     "n": "ESPGHAN 2014 khuyến cáo 35, Bảng 6: lactulose 1–2 g/kg, 1–2 lần/ngày khi không có PEG; QĐ 3312/2015 (mục 5.2c): 1–3 mL/kg/ngày chia 2 lần (khác đơn vị mL và g, sổ mâu thuẫn ca NH-1074)."
+    },
+    {
+     "t": "Thụt phosphate natri (Fleet) làm sạch phân ứ",
+     "v": "w",
+     "n": "QĐ 3312/2015 (mục 5.2b, tr. 333) giới hạn cho trẻ > 2 tuổi; bé 8 tháng chưa đủ tuổi. Tác hại cụ thể ở nhũ nhi: không có trong tài liệu đã tải. PEG uống ngang thụt và được ưu tiên (ESPGHAN khuyến cáo 31–32)."
+    },
+    {
+     "t": "Cho bé tiếp tục siro an thần hoặc kê thêm thuốc an thần, thuốc ho",
+     "v": "w",
+     "n": "Không có chỉ định cho nhũ nhi; QĐ 3312/2015 (tr. 453) nêu promethazin cho trẻ trên 2 tuổi. Tác hại cụ thể ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến ngay để sinh thiết trực tràng hoặc chụp đại tràng cản quang",
+     "v": "w",
+     "n": "Chưa có chỉ định: không đủ bộ ba của ERNICA, tăng trưởng bình thường, chưa điều trị tối ưu ≥ 3 tháng (ESPGHAN khuyến cáo 14–15; ERNICA 2020 Bảng 1). Không khuyến cáo thụt barium làm xét nghiệm đầu tiên (khuyến cáo 16)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng ở nhũ nhi gái 8 tháng (Rome III), có ứ phân ở trực tràng và đại tràng trái",
+     "Yếu tố thúc đẩy: đổi chế độ ăn khi mẹ đi làm lại; bú giảm do nhiễm hô hấp trên nhẹ làm phân khô thêm",
+     "Dấu hiệu gợi ý thực thể đã cân nhắc: dưới 1 tuổi, phân su khoảng 30 giờ; đã đối chiếu, chưa đủ để chuyển tuyến",
+     "Đã loại trừ lâm sàng ở mức hiện tại: Hirschsprung, suy giáp, dị ứng đạm sữa bò, dị tật hậu môn – tủy sống",
+     "Yếu tố kèm: siro an thần chứa promethazin không có chỉ định; mẹ sợ nhồi máu cơ tim khi con rặn tím mặt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi bệnh sử: số ngày giữa các lần đi ngoài, hình dạng phân, tuổi khởi phát, thời điểm đi phân su, dấu báo động, giáp, dị ứng, thuốc đang dùng, mẹ lo gì nhất; (2) khám tăng trưởng, giáp, bụng, hậu môn, thăm trực tràng, thắt lưng cùng, thần kinh chi dưới, tim phổi; (3) cận lâm sàng chỉ khi có chỉ định; (4) chẩn đoán; (5) xử trí.",
+     "Chẩn đoán bằng hỏi bệnh và khám (ESPGHAN 2014 khuyến cáo 2; QĐ 3312/2015 mục 4): đạt ≥ 2/6 tiêu chuẩn Rome III trong ≥ 1 tháng (Bảng 2, tr. 261).",
+     "Cờ đỏ có thật nhưng được đối chiếu: dưới 1 tuổi và chậm phân su (QĐ 3312 mục 4.3, tr. 333); phân su 30 giờ vượt ngưỡng 24 giờ của ERNICA 2020 nhưng không vượt 48 giờ của ESPGHAN 2014. Giảm khả năng Hirschsprung: khởi phát sau 4 tháng, không chướng bụng, không nôn mật, tăng trưởng bình thường, bóng trực tràng đầy phân, không phân phụt tia. Ghi cả hai ngưỡng.",
+     "Mẹ tra đúng một chẩn đoán cần nghĩ tới: đối chiếu từng dấu hiệu với chính bé, nói rõ mốc xét lại. Hình ảnh không khuyến cáo (khuyến cáo 6, 8, 10, 16); chuẩn vàng là sinh thiết (khuyến cáo 15). Cơ sở không có CT cũng không thiếu gì ở ca này.",
+     "Lý do thật của mẹ là sợ con ngừng tim khi rặn như ba chị mất vì nhồi máu cơ tim: cần hỏi ra, khám tim và nói điều biết, điều chưa biết (nguy cơ tim mạch của rặn ở nhũ nhi: không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám 2 tuần (ESPGHAN 2014 Hình 2, hộp 10): không dấu báo động nặng, chưa thử điều trị nên không nhập viện, không chuyển tuyến.",
+     "PEG làm sạch rồi duy trì: ESPGHAN khuyến cáo 31, 33, Bảng 6; QĐ 3312 mục 5.2b–c. Liều duy trì hai nguồn khác nhau: ghi cả hai, khởi đầu 0,4 g/kg/ngày vì thận trọng hơn. Duy trì ≥ 2 tháng, giảm khi hết triệu chứng ≥ 1 tháng (khuyến cáo 37); không thêm thụt (khuyến cáo 34).",
+     "Ngừng siro an thần; ăn uống mức bình thường, không dùng xơ thay thuốc (khuyến cáo 21–23).",
+     "Mốc xét lại Hirschsprung: không đáp ứng sau điều trị tối ưu ≥ 3 tháng hoặc có dấu báo động thì chuyển tiêu hóa nhi (khuyến cáo 14–15; QĐ 3312 mục 3.2.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG 4000 không điện giải (làm sạch phân ứ)",
+      "ham_luong": "Gói bột pha uống; hàm lượng mỗi gói theo chế phẩm có sẵn (không có trong tài liệu đã tải), tính liều theo gam",
+      "lieu": "10 g/ngày (≈ 1,2 g/kg × 8,2 kg; khoảng đúng 8,2–12,3 g/ngày), chia 2 lần sáng và chiều",
+      "duong": "Uống, pha với nước hoặc sữa theo hướng dẫn trên gói; cách pha cho nhũ nhi: không có trong tài liệu đã tải",
+      "thoi_diem": "Ngày 1 đến ngày 3, bắt đầu ngay hôm nay; cách chia lần: không có trong tài liệu đã tải, chọn 2 lần cho dễ uống",
+      "so_ngay": "3 ngày; còn ứ phân thì kéo dài tối đa 6 ngày liên tiếp rồi chuyển sang liều duy trì",
+      "ghi_chu": "ESPGHAN 2014 khuyến cáo 31, Bảng 6; QĐ 3312/2015 (Táo bón mục 5.2b, tr. 333). Vài ngày đầu bé đi nhiều lần, phân lỏng. Tuổi tối thiểu dùng PEG ở nhũ nhi: không có trong tài liệu đã tải; nhờ dược sĩ chia gam chính xác."
+     },
+     {
+      "thuoc": "PEG 4000 không điện giải (duy trì)",
+      "ham_luong": "Gói bột pha uống; theo chế phẩm có sẵn, tính liều theo gam",
+      "lieu": "Khởi đầu 3 g/ngày (0,4 g/kg × 8,2 kg = 3,3 g), 1 lần; chỉnh trong 1,6–6,6 g/ngày (0,2–0,8 g/kg/ngày). Theo QĐ 3312: 1 g/kg/ngày = 8,2 g/ngày",
+      "duong": "Uống, pha với nước hoặc sữa",
+      "thoi_diem": "1 lần mỗi sáng, nối tiếp sau 3 ngày làm sạch; uống đều cả khi bé đã đi tốt",
+      "so_ngay": "Ít nhất 2 tháng; chỉ giảm dần khi hết triệu chứng ≥ 1 tháng; tái khám 2 tuần để chỉnh liều",
+      "ghi_chu": "ESPGHAN 2014 khuyến cáo 33, 37, Bảng 6; QĐ 3312/2015 (mục 5.2c, tr. 334). Chọn 0,4 g/kg/ngày vì thận trọng hơn (sổ mâu thuẫn, ca NH-1091)."
+     }
+    ],
+    "dan_do": [
+     "Phân cứng do ứ phân; PEG làm mềm phân và làm sạch ruột. Uống đều mỗi ngày, không tự ngưng khi bé thấy đỡ (ESPGHAN 2014 khuyến cáo 37). Vài ngày đầu bé đi nhiều lần, phân lỏng là bình thường.",
+     "Liều: 3 ngày đầu 10 g/ngày chia 2 lần, sau đó 3 g mỗi sáng; ghi nhật ký đi ngoài và số gam đã uống, mang đến tái khám (ESPGHAN 2014 Hình 2).",
+     "Ngừng ngay siro 'ngủ ngon'; không cho bé uống thuốc an thần hay thuốc ho khi chưa hỏi bác sĩ (QĐ 3312/2015, tr. 453: promethazin dùng cho trẻ trên 2 tuổi; an toàn ở nhũ nhi: không có trong tài liệu đã tải).",
+     "Tiếp tục bú, ăn bột có rau quả nghiền mịn, không đổi sữa; ho nghẹt mũi nhẹ theo dõi tại nhà.",
+     "Đưa bé đến ngay nếu nôn mật hoặc nôn nhiều, bụng chướng to, phân có máu, sốt, bỏ bú, li bì, thở nhanh từ 50 l/p hoặc co lõm ngực (ESPGHAN Bảng 5; ERNICA 2020 Bảng 1; QĐ 3312/2015 Viêm phổi mục 1, tr. 262).",
+     "Hẹn tái khám sau 2 tuần (ESPGHAN 2014 Hình 2). Nếu điều trị đúng ≥ 3 tháng vẫn không đáp ứng, bác sĩ chuyển bé khám tiêu hóa nhi (khuyến cáo 14–15)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Chị Thùy mang bé Hân đến tái khám sau 2 tuần. Chị nói bé đỡ một phần chứ chưa hẳn, và chị lại lên mạng tìm hiểu thêm. Cân nặng 8,4 kg. Sinh hiệu: nhiệt 36,8 °C, mạch 112 l/p, nhịp thở 32 l/p, SpO₂ 99%. Bé tỉnh, chơi, bú khá hơn.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển tuyến sinh thiết vì 'chưa khỏi hẳn sau 2 tuần' là quá tay: bé mới điều trị 2 tuần và chưa dùng thuốc đều, trong khi táo bón khó chữa là không đáp ứng điều trị tối ưu ít nhất 3 tháng (ESPGHAN 2014, tr. 262, khuyến cáo 14–15). Bé tăng cân, bụng mềm, bóng trực tràng không rỗng. Mẹ mất thêm một ngày làm, bé bị can thiệp mà nguyên nhân thật (bỏ thuốc, liều thấp) vẫn chưa được sửa.",
+    "nhap_vien": "Nhập viện thụt tháo là sai hướng: không còn khối phân cứng đầy trực tràng cần làm sạch, và ESPGHAN không khuyến cáo thêm thụt vào PEG dùng dài hạn (khuyến cáo 34, tr. 270). Việc cần làm là sửa tuân thủ và chỉnh liều tại nhà (Hình 2, hộp 11); nằm viện làm mẹ càng nghĩ con bệnh nặng và tốn kém."
+   },
+   "loi_mo": "Bác sĩ ơi, bé đỡ hơn chút rồi mà vẫn chưa đều. Có hôm 2 ngày mới đi, phân lúc mềm lúc vẫn thành cục. Em đọc thấy bệnh phình đại tràng cũng 'đỡ rồi lại tái', mình có nên làm gì thêm cho chắc không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Sau 3 ngày uống 10 g PEG mỗi ngày như bác sĩ dặn, bé đi ngoài nhiều lần, phân nhão vàng, hết rặn đỏ tím. Sau đó mẹ cho uống 3 g mỗi sáng. Tuần đầu bé đi cách ngày, phân mềm sệt; tuần thứ hai đi 2 ngày một lần, 2–3 lần phân cục nhỏ cứng, bé rặn khóc nhưng mặt chỉ đỏ nhẹ, không còn tím.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng điều trị, diễn tiến"
+    },
+    {
+     "id": "bo_thuoc",
+     "noi_dung": "Ngày thứ 2 sau khi uống PEG làm sạch, bé đi phân lỏng một lần và hăm đỏ quanh hậu môn; mẹ sợ 'nhờn thuốc, hại ruột' nên giữa tuần thứ hai tự bỏ thuốc 4 ngày rồi cho uống lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ khai 'cho uống đều'. Chỉ lộ khi bác sĩ hỏi cụ thể mấy ngày uống đủ liều, có ngày nào bỏ hoặc giảm không, hoặc hỏi mẹ nghĩ gì về việc dùng thuốc lâu dài.",
+     "k": 1,
+     "y": "Tuân thủ điều trị"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nôn mật, không chướng bụng, không sốt, không máu trong phân; bú tốt trở lại, ho nghẹt mũi đã hết sau 1 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động, bệnh kèm"
+    },
+    {
+     "id": "siro",
+     "noi_dung": "Bà nội đã ngưng siro 'ngủ ngon' từ hôm khám trước, bé vẫn ngủ được; mẹ không cho thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "mang_chan_doan",
+     "noi_dung": "Mẹ đọc thêm: 'đỡ khi dùng thuốc chưa loại được phình đại tràng'. Mẹ hỏi thẳng có phải chụp hay sinh thiết ngay không. Mẹ chấp nhận chờ nếu bác sĩ nêu rõ mốc xem lại bằng dấu hiệu cụ thể và thời gian cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chẩn đoán tự tra trên mạng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, chơi, cười. Da niêm hồng, niêm mạc ẩm, tã ướt, hăm đỏ quanh hậu môn đã khô.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,4 kg (tăng 0,2 kg sau 2 tuần), chiều dài 71 cm.",
+     "k": 1,
+     "hien": "Cân nặng 8,4 kg, chiều dài 71 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Hố chậu trái sờ thấy ít phân mềm, không còn khối chắc.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "truc_trang": {
+     "a": "Hậu môn bình thường, không nứt kẽ. Ngón út vào dễ: cơ thắt bình thường, bóng trực tràng chứa ít phân mềm, không còn khối phân cứng đầy trực tràng. Rút tay ra không có phân hay hơi phụt thành tia; găng không máu.",
+     "k": 1
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng nhũ nhi đáp ứng điều trị một phần: đã hết ứ phân, còn do tuân thủ chưa đủ (bỏ thuốc 4 ngày) và liều khởi đầu 0,4 g/kg/ngày còn thấp",
+     "ok": 1,
+     "n": "ESPGHAN 2014 Hình 2 (tr. 261, hộp 10–13): sau 2 tuần chưa hiệu quả thì tái đánh giá tuân thủ, liều, thuốc, ứ phân chưa điều trị. Khuyến cáo 33: khởi đầu 0,4 g/kg/ngày, chỉnh theo đáp ứng. Đây là hồi phục chậm do dùng thuốc chưa đủ, chưa phải thất bại: mới 2 tuần (táo bón khó chữa là không đáp ứng điều trị tối ưu ≥ 3 tháng, tr. 262)."
+    },
+    {
+     "t": "Táo bón thực thể (Hirschsprung) chưa được phát hiện",
+     "n": "Chưa đủ cơ sở: bé tăng cân, không chướng bụng, không nôn mật, bóng trực tràng không rỗng, mới điều trị 2 tuần và chưa dùng thuốc đều (QĐ 3312/2015 mục 4.3, tr. 333; ERNICA 2020 Bảng 1; ESPGHAN Bảng 5). Tài liệu đã tải không nêu đáp ứng nhuận tràng có loại trừ Hirschsprung hay không; chuẩn vàng là sinh thiết (khuyến cáo 15), nên giữ mốc chuyển tuyến rõ."
+    },
+    {
+     "t": "Còn ứ phân chưa được điều trị",
+     "n": "Không: trực tràng không còn khối phân cứng, hố chậu trái không còn khối chắc (định nghĩa ứ phân, ESPGHAN tr. 262; Hình 2 hộp 11)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng việc dùng thuốc (mấy ngày uống đủ, có bỏ không, vì sao); nghe nỗi sợ 'nhờn thuốc' và giải thích cần dùng đều ít nhất 2 tháng, ngưng sớm dễ tái phát",
+     "v": "c",
+     "n": "ESPGHAN 2014 Hình 2 (hộp 11); khuyến cáo 37 (tr. 270); phần 9 (tr. 271): khoảng 50% tái phát trong 5 năm đầu. An toàn dài hạn của PEG ở nhũ nhi, 'nhờn thuốc': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục PEG, không đổi thuốc, không làm sạch lại; tăng liều duy trì lên 0,6 g/kg/ngày (≈ 5 g/ngày) trong khoảng 0,2–0,8 g/kg/ngày, hoặc 1 g/kg/ngày (8 g) theo QĐ 3312",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 33 và Bảng 6 (tr. 269–270): chỉnh liều theo đáp ứng trong 0,2–0,8 g/kg/ngày; QĐ 3312/2015 (mục 5.2c, tr. 334): 1 g/kg/ngày. Chọn 0,6 vì trong khoảng ESPGHAN, thận trọng hơn 1 g/kg/ngày (sổ mâu thuẫn, ca NH-1091)."
+    },
+    {
+     "t": "Trả lời nghiêm túc câu hỏi về phình đại tràng: dấu hiệu đã đối chiếu, vì sao chưa chuyển tuyến hôm nay, mốc sẽ chuyển (không đáp ứng sau điều trị tối ưu ≥ 3 tháng, chướng bụng, nôn mật, chậm tăng cân, bóng trực tràng rỗng)",
+     "v": "c",
+     "n": "ESPGHAN 2014 tr. 262 (định nghĩa táo bón khó chữa), khuyến cáo 14–15; ERNICA 2020 Bảng 1; QĐ 3312/2015 mục 4.3 (tr. 333), 3.2.4 (tr. 332)."
+    },
+    {
+     "t": "Ghi nhật ký đi ngoài và số gam PEG; ăn uống mức bình thường, không dùng xơ liều cao thay thuốc",
+     "v": "c",
+     "n": "ESPGHAN 2014 Hình 2; khuyến cáo 21–23 (tr. 268); QĐ 3312/2015 mục 5.2c (sổ mâu thuẫn, ca NH-1091)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần; đến ngay nếu nôn mật, chướng bụng, phân có máu, sốt, bỏ bú",
+     "v": "c",
+     "n": "ESPGHAN 2014 Hình 2 (hộp 10), Bảng 5 (tr. 265); ERNICA 2020 Bảng 1."
+    },
+    {
+     "t": "Chuyển sang lactulose nếu mẹ không chấp nhận PEG",
+     "v": "a",
+     "n": "ESPGHAN 2014 khuyến cáo 35; QĐ 3312/2015 mục 5.2c (sổ mâu thuẫn, ca NH-1074). Chấp nhận, nhưng bé chưa dùng PEG đủ để kết luận PEG thất bại."
+    },
+    {
+     "t": "Thụt tháo bổ sung vào PEG duy trì",
+     "v": "w",
+     "n": "ESPGHAN 2014 khuyến cáo 34 (tr. 270): không khuyến cáo thêm thụt vào PEG dùng dài hạn; bé không còn ứ phân."
+    },
+    {
+     "t": "Chụp đại tràng cản quang (thụt barium) hoặc chuyển tuyến sinh thiết ngay để 'chắc chắn'",
+     "v": "w",
+     "n": "ESPGHAN 2014 khuyến cáo 16 (tr. 266): không khuyến cáo thụt barium làm xét nghiệm đầu tiên; chưa có chỉ định sinh thiết (khuyến cáo 14–15)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng nhũ nhi, đáp ứng điều trị một phần sau 2 tuần, đã hết ứ phân",
+     "Nguyên nhân đáp ứng chưa trọn: mẹ tự bỏ thuốc 4 ngày vì sợ nhờn thuốc; liều duy trì khởi đầu 0,4 g/kg/ngày còn thấp",
+     "Chưa có dấu hiệu báo động; Hirschsprung chưa cần chuyển tuyến, giữ mốc xét lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi diễn tiến, số ngày uống thuốc đủ liều, phản ứng với thuốc, dấu báo động; (2) khám tăng trưởng, bụng, hậu môn, thăm trực tràng xem còn ứ phân không; (3) không cần cận lâm sàng; (4) chẩn đoán; (5) xử trí.",
+     "Phân biệt hồi phục chậm với thất bại: ESPGHAN 2014 Hình 2 (hộp 10–13) tái đánh giá tuân thủ, liều, ứ phân chưa điều trị trước khi đổi thuốc hoặc chuyển tuyến. Bé mới 2 tuần, bỏ thuốc 4 ngày, liều ở mức thấp: chưa gọi là thất bại.",
+     "Hirschsprung giữ bằng mốc cụ thể thay vì xét nghiệm hôm nay (ESPGHAN khuyến cáo 14–15; ERNICA 2020 Bảng 1), cũng là cách trả lời mẹ không hạ thấp nỗi lo."
+    ],
+    "phan_tich_xu_tri": [
+     "Tăng PEG duy trì lên 0,6 g/kg/ngày: nằm trong 0,2–0,8 g/kg/ngày (ESPGHAN khuyến cáo 33), thận trọng hơn 1 g/kg/ngày (QĐ 3312 mục 5.2c); không làm sạch lại vì không còn ứ phân; không thêm thụt (khuyến cáo 34).",
+     "Quan trọng nhất là nói chuyện về tuân thủ: mẹ bỏ thuốc vì sợ nhờn thuốc nên nghe nỗi sợ trước khi dặn lại.",
+     "Hẹn 2 tuần (ESPGHAN 2014 Hình 2, hộp 10); nêu sẵn mốc chuyển tuyến để mẹ không phải tự tra mạng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG 4000 không điện giải (duy trì, tăng liều)",
+      "ham_luong": "Gói bột pha uống; theo chế phẩm có sẵn, tính liều theo gam",
+      "lieu": "5 g/ngày (0,6 g/kg × 8,4 kg = 5,0 g), 1 lần; khoảng chỉnh 1,7–6,7 g/ngày (0,2–0,8 g/kg). Theo QĐ 3312: 1 g/kg/ngày = 8,4 g/ngày",
+      "duong": "Uống, pha với nước hoặc sữa",
+      "thoi_diem": "1 lần mỗi sáng, uống đều mỗi ngày, kể cả khi bé đã đi tốt",
+      "so_ngay": "Tiếp tục; tổng thời gian ít nhất 2 tháng kể từ lúc bắt đầu, tái khám 2 tuần",
+      "ghi_chu": "ESPGHAN 2014 khuyến cáo 33, 37, Bảng 6; QĐ 3312/2015 (mục 5.2c, tr. 334); sổ mâu thuẫn, ca NH-1091."
+     }
+    ],
+    "dan_do": [
+     "Uống PEG đều mỗi ngày, không bỏ dù bé phân mềm; nếu phân lỏng nhiều lần thì báo bác sĩ để giảm liều (an toàn dài hạn ở nhũ nhi: không có trong tài liệu đã tải).",
+     "Tiếp tục nhật ký đi ngoài và số gam thuốc đã uống; mang đến tái khám (ESPGHAN 2014 Hình 2).",
+     "Đến ngay nếu nôn mật, bụng chướng to, phân có máu, sốt, bỏ bú, li bì (ESPGHAN Bảng 5; ERNICA 2020 Bảng 1).",
+     "Hẹn tái khám sau 2 tuần (ESPGHAN 2014 Hình 2). Chuyển tiêu hóa nhi nếu điều trị đúng ≥ 3 tháng vẫn không đáp ứng hoặc có dấu báo động (khuyến cáo 14–15)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 6 tuần",
+   "tiep_don": "Chị Thùy bế bé Hân (10 tháng) đến tái khám sau 6 tuần, tức khoảng 2 tháng kể từ lần khám đầu. Chị nói bé đi ngoài đều và muốn hỏi có ngưng thuốc được chưa. Cân nặng 9 kg. Sinh hiệu: nhiệt 36,8 °C, mạch 108 l/p, nhịp thở 30 l/p, SpO₂ 99%. Bé tỉnh, linh hoạt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé đi sinh thiết hay khám tiêu hóa nhi để 'chắc chắn loại phình đại tràng' khi bé đã đi đều, tăng cân, phát triển tốt chỉ vì mẹ còn lo là không có chỉ định: sinh thiết dành cho nghi ngờ lâm sàng hoặc táo bón khó chữa sau điều trị tối ưu ≥ 3 tháng (ESPGHAN 2014, khuyến cáo 14–15; ERNICA 2020 Bảng 1). Bé bị can thiệp không cần, mẹ tốn kém, còn kế hoạch giảm thuốc từ từ thì chưa ai hướng dẫn."
+   },
+   "loi_mo": "Bác sĩ ơi, bé giờ đi ngoài mỗi ngày, phân mềm. Em cho uống thuốc đều 2 tháng rồi, giờ em ngưng luôn được không bác sĩ? Em sợ uống mãi thì ruột lười, mà ngưng thì lại sợ nó tái.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 30,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Từ khoảng 1 tuần sau lần tái khám trước (uống 5 g mỗi sáng, không bỏ ngày nào), bé đi ngoài mỗi ngày 1 lần, phân mềm thành khuôn, không rặn đỏ mặt, không quấy, không máu. Đã hơn 5 tuần như vậy. Tổng cộng bé uống thuốc được khoảng 8 tuần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng, thời gian điều trị và hết triệu chứng"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nôn mật, không chướng bụng, không máu, không sốt; ăn bột 3 bữa có rau quả, bú tốt, tăng cân đều, bò và vịn đứng được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động, tăng trưởng, phát triển"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Mẹ lo hai chuyện: ngưng thuốc ngay có tái hay không, và uống lâu có làm 'lười ruột'. Mẹ vẫn chưa hết nghĩ tới phình đại tràng nhưng đỡ lo hơn vì bé đi đều; mẹ ngủ được hơn từ khi hiểu bé rặn tím mặt là do phân cứng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo còn lại, tuân thủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, linh hoạt, cười. Da niêm hồng, niêm mạc ẩm.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 9 kg, chiều dài 73 cm. Tăng đều so với lần khám trước.",
+     "k": 1,
+     "hien": "Cân nặng 9 kg, chiều dài 73 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không sờ thấy khối phân.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "truc_trang": {
+     "a": "Hậu môn bình thường. Ngón út vào dễ: cơ thắt bình thường, bóng trực tràng có ít phân mềm, không khối cứng; găng không máu.",
+     "k": 0
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng nhũ nhi, ổn định sau 2 tháng điều trị, đủ điều kiện giảm thuốc dần",
+     "ok": 1,
+     "n": "ESPGHAN 2014 khuyến cáo 37 (tr. 270): duy trì ≥ 2 tháng, hết mọi triệu chứng ≥ 1 tháng rồi giảm dần. Bé uống khoảng 8 tuần, hết triệu chứng hơn 5 tuần. Khoảng 50% tái phát ít nhất 1 lần trong 5 năm đầu (phần 9, tr. 271)."
+    },
+    {
+     "t": "Hirschsprung hoặc suy giáp bị bỏ sót",
+     "n": "Không có dấu hiệu mới: tăng cân, phát triển vận động tốt, đi đều (QĐ 3312/2015 mục 4.3, tr. 333; Suy giáp bẩm sinh mục 3.1, tr. 641; ERNICA 2020 Bảng 1). Tái phát nhanh khi giảm thuốc hoặc không đáp ứng sau điều trị đúng ≥ 3 tháng thì xét lại (ESPGHAN khuyến cáo 14–15)."
+    },
+    {
+     "t": "Táo bón tái phát sớm sau khi giảm thuốc (nguy cơ cần nói trước)",
+     "n": "Chưa xảy ra nhưng là nguy cơ: khoảng 50% tái phát trong 5 năm đầu; theo dõi sát, dùng lại thuốc kịp thời (ESPGHAN 2014 phần 9, tr. 270–271)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giảm PEG dần, không ngưng đột ngột: 5 g → 4 g → 3 g → 2 g mỗi sáng, mỗi bước 2 tuần, rồi ngưng nếu bé vẫn đi mềm mỗi ngày",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 37 (tr. 270): giảm dần. Lịch giảm cụ thể: không có trong tài liệu đã tải; chọn các bước còn nằm trong 0,2–0,8 g/kg/ngày (1,8–7,2 g ở 9 kg, Bảng 6)."
+    },
+    {
+     "t": "Giải thích cho mẹ: ngưng đột ngột dễ tái, giảm từ từ để theo dõi; nỗi lo 'lười ruột' nói thật là tài liệu đã tải không có số liệu",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 37 và phần 9 (tr. 271): khoảng 50% tái phát; 'lười ruột' do dùng PEG kéo dài: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dạy mẹ nhận biết tái phát sớm (2 ngày không đi, phân cục cứng, rặn khóc) và dùng lại thuốc ngay, báo bác sĩ",
+     "v": "c",
+     "n": "ESPGHAN 2014 phần 9 (tr. 271): theo dõi sát, bắt đầu lại thuốc kịp thời. Tiêu chí '2 ngày không đi' là chọn của người soạn theo Rome III (≤ 2 lần/tuần, Bảng 2, tr. 261); ngưỡng riêng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn uống bình thường theo tuổi ăn dặm, rau quả, không dùng xơ liều cao thay thuốc; ghi nhật ký tiếp",
+     "v": "c",
+     "n": "ESPGHAN 2014 khuyến cáo 21–23 (tr. 268); QĐ 3312/2015 mục 5.2c (sổ mâu thuẫn, ca NH-1091)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần (khi đã giảm thuốc), đến sớm nếu tái phát hoặc có dấu báo động; nhắc mẹ đưa bé ngay nếu nôn mật, chướng bụng, phân máu, sốt",
+     "v": "c",
+     "n": "ESPGHAN 2014 Bảng 5 (tr. 265), phần 9; ERNICA 2020 Bảng 1. Mốc 4 tuần là chọn của người soạn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì liều hiện tại thêm vài tuần rồi mới giảm",
+     "v": "a",
+     "n": "Chấp nhận: ESPGHAN 2014 khuyến cáo 37 nêu thời gian tối thiểu, không nêu tối đa."
+    },
+    {
+     "t": "Ngưng PEG hoàn toàn ngay hôm nay",
+     "v": "w",
+     "n": "ESPGHAN 2014 khuyến cáo 37: thuốc cần giảm dần; khoảng 50% tái phát trong 5 năm (phần 9)."
+    },
+    {
+     "t": "Chuyển tuyến sinh thiết trực tràng dù bé đáp ứng tốt",
+     "v": "w",
+     "n": "Chưa có chỉ định: không dấu báo động, đáp ứng điều trị (ESPGHAN khuyến cáo 14–15; ERNICA 2020 Bảng 1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng nhũ nhi (Rome III), đã ổn định sau 2 tháng PEG, hết triệu chứng hơn 5 tuần",
+     "Đủ điều kiện giảm thuốc dần (ESPGHAN khuyến cáo 37); nguy cơ tái phát khoảng 50% trong 5 năm",
+     "Không có dấu hiệu gợi ý Hirschsprung hay suy giáp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi đáp ứng, số ngày dùng thuốc, dấu báo động, nỗi lo của mẹ; (2) khám tăng trưởng, bụng; (3) không cần cận lâm sàng; (4) chẩn đoán; (5) xử trí.",
+     "Tiêu chí giảm thuốc: ≥ 2 tháng và hết triệu chứng ≥ 1 tháng (ESPGHAN 2014 khuyến cáo 37), cả hai đều đạt.",
+     "Kết thúc tốt nhờ quy trình: đối chiếu cờ đỏ (lượt 1), sửa tuân thủ (lượt 2), giảm thuốc từ từ (lượt 3); không cần CT hay sinh thiết."
+    ],
+    "phan_tich_xu_tri": [
+     "Giảm dần thay vì ngưng đột ngột (ESPGHAN 2014 khuyến cáo 37); lịch giảm cụ thể không có trong tài liệu đã tải.",
+     "Nói thật với mẹ: tái phát gặp ở khoảng một nửa số trẻ (ESPGHAN 2014 phần 9, tr. 271), nên có kế hoạch trước.",
+     "Hẹn tái khám có mốc và giao cho mẹ cách nhận biết tái phát sớm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG 4000 không điện giải (giảm dần)",
+      "ham_luong": "Gói bột pha uống; theo chế phẩm có sẵn, tính liều theo gam",
+      "lieu": "Bước 1: 4 g/ngày; bước 2: 3 g/ngày; bước 3: 2 g/ngày; mỗi bước 2 tuần; sau đó ngưng nếu bé vẫn đi mềm mỗi ngày (0,2–0,8 g/kg/ngày ở 9 kg là 1,8–7,2 g)",
+      "duong": "Uống, pha với nước hoặc sữa",
+      "thoi_diem": "1 lần mỗi sáng",
+      "so_ngay": "6 tuần giảm dần; tái khám sau 4 tuần",
+      "ghi_chu": "ESPGHAN 2014 khuyến cáo 37, Bảng 6. Lịch giảm cụ thể: không có trong tài liệu đã tải, là lựa chọn của người soạn. Nếu tái phát: quay lại liều trước đó và báo bác sĩ."
+     }
+    ],
+    "dan_do": [
+     "Giảm thuốc từng bước như đơn, không tự ngưng; nếu bé 2 ngày không đi hoặc phân cục cứng, rặn khóc thì quay lại liều trước và báo bác sĩ (ESPGHAN 2014 khuyến cáo 37, phần 9).",
+     "Tiếp tục nhật ký đi ngoài; ăn bột, rau quả đa dạng theo tuổi, bú bình thường.",
+     "Đến ngay nếu nôn mật, bụng chướng to, phân có máu, sốt, bỏ bú, li bì (ESPGHAN Bảng 5; ERNICA 2020 Bảng 1).",
+     "Tái khám sau 4 tuần; nếu bé đi mềm đều thì ngưng hẳn và theo dõi tại nhà, tái phát thì dùng lại thuốc sớm (ESPGHAN 2014 phần 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ổn định, khỏi bệnh: bé Hân được làm sạch phân ứ rồi duy trì PEG, lượt 2 sửa việc mẹ bỏ thuốc và nâng liều, lượt 3 giảm thuốc từng bước; sau khoảng 2 tháng bé đi mềm mỗi ngày, tăng cân đều, không dấu báo động, không cần CT hay sinh thiết. Kết cục tốt nhờ quy trình: đối chiếu cờ đỏ bằng khám, nghe nỗi sợ của mẹ, hỏi thuốc, sửa tuân thủ, đặt mốc xét lại Hirschsprung. Khoảng 50% trẻ tái phát ít nhất một lần trong 5 năm (ESPGHAN 2014, phần 9, tr. 270–271) nên mẹ cần biết nhận ra và dùng lại thuốc sớm.",
+ "nhieu": [
+  "Mang chẩn đoán tự tra trên mạng: 'phình đại tràng bẩm sinh', đòi CT. Không vô lý (phân su khoảng 30 giờ, dưới 1 tuổi) nên đối chiếu từng dấu hiệu, không gạt đi; kết luận vẫn là táo bón chức năng.",
+  "Lý do thật: sợ nhồi máu cơ tim khi con rặn tím mặt (ba mẹ mất vì nhồi máu cơ tim 3 tháng trước); chỉ lộ khi hỏi 'điều chị lo nhất là gì'.",
+  "Thuốc an thần tự mua: bà nội cho uống siro chứa promethazin; chỉ lộ khi hỏi mọi thuốc và siro.",
+  "Yếu tố khởi phát: chị gái ho lây cho bé, bú giảm làm khô phân thêm; dễ nhầm là nguyên nhân chính trong khi táo bón có từ 4 tháng rưỡi.",
+  "Lượt 2: mẹ tự bỏ thuốc 4 ngày vì sợ nhờn thuốc nhưng khai 'uống đều'; chỉ lộ khi hỏi số ngày cụ thể."
+ ],
+ "bai_hoc_bien": [
+  "Cờ đỏ có thật không có nghĩa là chuyển tuyến ngay: đếm dấu hiệu theo cả hai nguồn (QĐ 3312/2015 mục 4.3; ERNICA 2020: > 24 giờ + chướng bụng + nôn mật; ESPGHAN 2014: > 48 giờ), đối chiếu bằng thăm trực tràng và tăng trưởng, đặt mốc xét lại.",
+  "Nói với mẹ: 'Chị đọc đúng một bệnh cần nghĩ tới. Tôi đã kiểm từng dấu hiệu trên bé: bụng không chướng, không nôn mật, bé tăng cân đều, trực tràng đầy phân chứ không rỗng. Phân su ra hơi muộn nên tôi không bỏ qua, nhưng hôm nay chưa cần chụp hay sinh thiết. Nếu điều trị đúng 3 tháng mà không đỡ, hoặc bé nôn mật, chướng bụng, tôi chuyển bé ngay.'",
+  "Hỏi 'điều chị lo nhất là gì': lý do thật là sợ nhồi máu cơ tim. Khám tim, nói điều đã biết và nhận điều chưa biết (nguy cơ tim mạch của rặn ở nhũ nhi: không có trong tài liệu đã tải).",
+  "Hồi phục chậm khác thất bại điều trị: sau 2 tuần chưa khỏi hẳn thì hỏi tuân thủ, kiểm liều, thăm trực tràng xem còn ứ phân, rồi mới nghĩ tới đổi thuốc hoặc chuyển tuyến (ESPGHAN Hình 2); táo bón khó chữa là điều trị tối ưu ≥ 3 tháng.",
+  "Không có CT không thiếu gì ở ca này: CT không dùng để chẩn đoán táo bón chức năng hay loại trừ Hirschsprung; công cụ là hỏi, khám, thăm trực tràng, theo dõi đáp ứng, sinh thiết khi có chỉ định.",
+  "Hỏi mọi thứ bé đã uống: siro an thần cho nhũ nhi cần dừng ngay, không bỏ qua vì 'chỉ là siro'."
+ ],
+ "diem_nho": [
+  "Rome III cho trẻ < 4 tuổi: ≥ 2 trong 6 mục trong ≥ 1 tháng (≤ 2 lần/tuần, són phân sau tập vệ sinh, nín nhịn, phân đau hoặc cứng, khối phân lớn trong trực tràng, phân to tắc bồn cầu); Rome V cho trẻ: không có trong tài liệu đã tải (ESPGHAN 2014 Bảng 2; QĐ 3312/2015 mục 4.1).",
+  "Dấu hiệu gợi ý thực thể/báo động: khởi phát < 1 tháng, chậm phân su (> 24 giờ ERNICA, > 48 giờ ESPGHAN), máu trong phân khi không có nứt kẽ, chậm lớn, chướng bụng nặng, nôn mật, bóng trực tràng rỗng, phân hay hơi phụt tia khi rút tay (ESPGHAN Bảng 4–5; ERNICA Bảng 1; QĐ 3312 mục 4.3).",
+  "Chuẩn vàng Hirschsprung là sinh thiết trực tràng; thụt barium không làm đầu tiên; không X-quang, CT, siêu âm thường quy cho táo bón chức năng (ESPGHAN khuyến cáo 6, 8, 10, 15, 16).",
+  "PEG đầu tay: làm sạch 1–1,5 g/kg/ngày 3–6 ngày; duy trì 0,4 g/kg/ngày chỉnh trong 0,2–0,8 (ESPGHAN) hoặc 1 g/kg/ngày (QĐ 3312); duy trì ≥ 2 tháng, hết triệu chứng ≥ 1 tháng mới giảm từ từ; đánh giá lại sau 2 tuần.",
+  "Rặn đỏ tím mặt gặp trong dyschezia (phân mềm, hằng ngày, tự hết) và trong táo bón (phân cứng, cách ngày): phân biệt bằng độ cứng, tần suất phân (ESPGHAN tr. 262).",
+  "Cặp tương phản P-0257 (NH-1051, rôm sảy/hăm tã, chưa viết): điểm phân biệt then chốt của ca này là khối phân trong trực tràng và tần suất phân."
+ ],
+ "nguon": [
+  "QĐ 3312/2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Táo bón (mục 1, 3.1, 3.2, 4, 4.1, 4.3, 5.1–5.3, tr. 330–334); Suy giáp trạng bẩm sinh (mục 3.1–3.2, tr. 641–642); Viêm phổi do vi khuẩn ở trẻ em (mục 1, tr. 262); Nhức đầu ở trẻ em, điều trị Migraine (tr. 453)",
+  "ESPGHAN/NASPGHAN 2014 – Tabbers MM et al., J Pediatr Gastroenterol Nutr 2014;58:258–74 – TL-0269 – ĐÃ ĐỌC: định nghĩa (tr. 262), Bảng 2–6, khuyến cáo 1–16, 21–23, 31–38, Hình 1–2, phần 9 (tr. 270–271)",
+  "ERNICA 2020 – Kyrklund K et al., Orphanet J Rare Dis 2020;15:164 – TL-0264 – ĐÃ ĐỌC: phần Results và Bảng 1 (tr. 2)",
+  "Rome V 2026 – Drossman DA et al., Gastroenterology 2026;170:1083–98 – TL-0252 – ĐÃ ĐỌC: Bảng 2 (tr. 1085, phân loại H2a, H2c). Tiêu chuẩn Rome V cho trẻ: không có trong tài liệu đã tải"
+ ],
+ "ghi_chu_bien_tap": [
+  "17/10/2026: viết mới. Tài liệu đã đọc: TL-0037 (Táo bón mục 1–5, tr. 330–334; Suy giáp bẩm sinh mục 3, tr. 641–642; Viêm phổi mục 1, tr. 262; Nhức đầu tr. 453), TL-0269 (định nghĩa tr. 262, Bảng 2–6, khuyến cáo 1–16, 21–23, 31–38, Hình 2, phần 9), TL-0264 (Bảng 1), TL-0252 (Bảng 2).",
+  "Chỗ thiếu tài liệu: Rome V cho trẻ; tuổi tối thiểu và an toàn dài hạn của PEG ở nhũ nhi; cách pha, hàm lượng gói PEG; lượng nước, xơ cho nhũ nhi; an toàn promethazin ở nhũ nhi và tác dụng kháng cholinergic; nguy cơ tim mạch của rặn; lịch giảm PEG; ngưỡng 'tái phát sớm'. Đã ghi 'không có trong tài liệu đã tải' tại từng chỗ.",
+  "Mâu thuẫn đã có trong sổ, ca ghi theo đúng mục: liều PEG duy trì (NH-1091), nước và chất xơ (NH-1091), ngưỡng chậm phân su (NH-1091), Rome V nhi thiếu tài liệu (NH-1091), táo bón dưới 1 tuổi (QĐ 3312 so với ESPGHAN, TH-0914), lactulose (NH-1074). Không có mâu thuẫn thật mới.",
+  "Ràng buộc 'không có CT': khoa_cls (nhom ct) và mục ct_bung (v n); CT không được chỉ định cho táo bón chức năng; chiến lược thay thế là hỏi, khám, thăm trực tràng, theo dõi đáp ứng, mốc chuyển tuyến sinh thiết.",
+  "Số liệu tăng trưởng là số liệu thiết kế; không đối chiếu bách phân vị vì tài liệu đã tải không có bảng tăng trưởng.",
+  "Lựa chọn của người soạn không có nguồn: lịch giảm PEG lượt 3 (5 → 4 → 3 → 2 g mỗi 2 tuần), mốc tái khám 4 tuần; đã ghi rõ trong n."
+ ]
+}
