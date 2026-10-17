@@ -1,0 +1,735 @@
+{
+ "ma_ca": "NH-0874",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_thuy_dau",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thủy đậu",
+  "chan_doan_phai_loai_tru": [
+   "Tay chân miệng",
+   "Chốc"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 104,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời rất ngắn, hay khóc khi bị chạm. Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 30 tuổi, bán hàng trực tuyến, rất lo cho con, hay đọc tin bệnh trên mạng và hỏi bạn bè. Bé mệt, bám mẹ, ngứa và hay gãi, nói ngắn.",
+  "kieu_nhieu": "Sợ hãi quá mức: mẹ run, nói nhanh, hỏi dồn 'bé có chết không bác sĩ', ôm chặt con, ban đầu không muốn cởi áo cho khám, dễ khóc, đòi kháng sinh 'cho chắc'. Mẹ chỉ nghe được khi bác sĩ giải thích từng bước, gọi tên điều mẹ đang sợ và đưa ra dấu hiệu cụ thể để theo dõi. Mẹ không kể chuyện bé ho khò khè và tự ngưng thuốc xịt hen vì tưởng liên quan thủy đậu, và không nhớ chuyện chuyển nhà, người cậu bệnh là có liên quan.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 30 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'Khôi có đau không?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1c1412",
+   "kieuToc": "ngan",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b992",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#d98b8b",
+    "aoKieu": "somi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé nổi mụn nước khắp người, sốt nhẹ",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: phòng khám không làm được xét nghiệm tối nay, X-quang khóa cửa; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau, cấy sau 48 giờ. Còn dùng được: ống nghe, nhiệt kế, máy đo SpO₂, buồng đệm và thuốc xịt hen."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Tối thứ Bảy, 19 giờ 30, phòng khám ngoài giờ (kỹ thuật viên đã về). Bé trai 4 tuổi, 17 kg, mẹ ôm đến vì nổi mụn nước khắp người từ hôm qua, sốt nhẹ. Mẹ run, nói nhanh, mắt đỏ hoe. Sinh hiệu: nhiệt 38,2 °C, mạch 112 l/p, nhịp thở 28 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khôi nhập viện vì mẹ hoảng loạn là không có chỉ định: bé tỉnh, uống được, SpO₂ 96%, ban chưa bội nhiễm; thủy đậu ở trẻ khỏe thường lành tính nên ít khi cần nhập viện (QĐ 5642, Thủy đậu mục 5a, tr. 24), còn khò khè mức nhẹ (nói được cả câu, SpO₂ ≥ 94%) xử trí được ngoại trú (GINA 2026 Box 12-1, 12-5). Bé đang lây đến khi các nốt đóng vảy nên phải cách ly hô hấp và tiếp xúc, nằm chung khoa với bệnh nhi suy giảm miễn dịch là nhóm có nguy cơ thủy đậu nặng (CDC 2024, mục Who is at risk, Isolation). Mẹ thấy con phải nằm viện sẽ càng tin bé bệnh rất nặng, khó yên tâm về nhà ở những lần sau.",
+    "chuyen_tuyen": "Chuyển bé Khôi lên tuyến trên với lý do 'ngoài giờ không làm được xét nghiệm' là quá tay: thủy đậu chẩn đoán bằng lâm sàng, không cần xét nghiệm khẳng định (QĐ 5642, Thủy đậu mục 3.3, tr. 23), bé không có tiêu chí chuyển viện của hen ở trẻ ≤ 5 tuổi như tím, không nói hay uống được, thở > 40 l/p, SpO₂ < 92% (GINA 2026 Box 12-3). Cả nhà phải chờ ở phòng cấp cứu đông người trong lúc bé còn lây, chi phí đi lại và mất một đêm, mà việc cần làm (xịt salbutamol, giải thích, dặn tái khám) phòng khám làm được ngay. Mẹ vẫn chưa được trấn an bằng tiêu chí cụ thể."
+   },
+   "loi_mo": "Bác sĩ ơi cứu con em với! Bé nổi mụn nước khắp người, có cái đục đục như mủ, em sợ nhiễm trùng lắm. Bác sĩ cho bé uống kháng sinh liền giùm em nha!",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "38,2",
+    "nhip_tho": 28,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ sáng thứ Sáu bé nổi mụn nước, sốt nhẹ, mẹ hoảng vì thấy nhiều nốt đục như mủ và sợ nhiễm trùng. Mẹ muốn bác sĩ cho kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ban_dien_tien",
+     "noi_dung": "Ban đầu chỉ vài nốt đỏ ở lưng và ngực, mấy giờ sau thành mụn nước trong như giọt sương; từ hôm qua đến nay nốt mới mọc thêm từng đợt, lan lên mặt, da đầu, tay chân. Có nốt dịch đã đục, vài nốt đã đóng vảy nâu. Bé ngứa, hay gãi. Bé đau nhẹ trong miệng nhưng vẫn ăn cháo, uống nước được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến ban: nhiều giai đoạn, mọc từng đợt"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Khoảng 2 tuần trước nhà chuyển chỗ ở. Hôm đó cậu của bé đến khiêng đồ giúp, người cậu đang có vài mụn nước (sau này mới biết cậu bị thủy đậu); bé cũng phụ bê thùng đồ chơi nặng, nhà mới nhiều bụi. Mẹ không nghĩ chuyện đó liên quan.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi có ai quanh bé nổi mụn nước, tiếp xúc người bệnh trong 3 tuần qua, hoặc hoạt động, sự kiện gần đây (chuyển nhà).",
+     "k": 1,
+     "y": "Tiếp xúc nguồn lây 10–21 ngày trước; yếu tố khởi phát"
+    },
+    {
+     "id": "vaccine",
+     "noi_dung": "Bé tiêm đủ các mũi trong chương trình tiêm chủng mở rộng, chưa tiêm vắc xin thủy đậu vì chi phí. Em gái 20 tháng của bé cũng chưa tiêm, chưa mắc thủy đậu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử vắc xin thủy đậu"
+    },
+    {
+     "id": "ho_khoe_khe",
+     "noi_dung": "Hai đêm nay bé ho nhiều về đêm, thở có tiếng khò khè, ngủ không sâu. Tối qua và chiều nay mẹ phải xịt thuốc cắt cơn (salbutamol) 3 lần, xịt xong bé đỡ. Mẹ nghĩ ho khò khè là do 'thủy đậu lên họng' nên không nhắc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi về ho, thở, khò khè, giấc ngủ ban đêm, hoặc về việc dùng thuốc xịt, hoặc khi khám phổi.",
+     "k": 1,
+     "y": "Khò khè, ho đêm: không giải thích được bằng thủy đậu"
+    },
+    {
+     "id": "thuoc_xit_hen",
+     "noi_dung": "Bé được chẩn đoán hen ở bệnh viện nhi lúc gần 3 tuổi sau một đợt khò khè phải nằm viện; đợt nặng gần nhất cách đây 14 tháng, 12 tháng qua không phải uống thuốc corticoid. Đang dùng fluticasone propionat xịt 50 mcg/nhát, 1 nhát mỗi sáng qua buồng đệm có mặt nạ, và salbutamol xịt 100 mcg/nhát khi khò khè. Từ 4 ngày trước mẹ tự ngưng fluticasone vì đọc trên mạng 'thuốc có corticoid làm thủy đậu nặng hơn'; vẫn dùng salbutamol.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé có bệnh gì, đang dùng thuốc gì' thì mẹ chỉ nói 'bé có hen, có thuốc xịt'. Chỉ nói đã tự ngưng thuốc dự phòng khi bác sĩ hỏi cụ thể tên thuốc, cách dùng, lần xịt gần nhất, hoặc hỏi nhẹ nhàng không trách móc.",
+     "k": 1,
+     "y": "Hen đang điều trị; mẹ tự ngưng thuốc dự phòng"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé vẫn chơi, uống nước được, không nôn tất cả mọi thứ, không co giật, không li bì, tiểu bình thường. Không đau đầu, không đi loạng choạng, không cứng cổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân, thần kinh"
+    },
+    {
+     "id": "ha_sot",
+     "noi_dung": "Mẹ cho uống paracetamol 160 mg hai lần trong ngày hôm nay. Không dùng aspirin hay thuốc hạ sốt nào khác, không bôi gì lên nốt ban ngoài phấn rôm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc hạ sốt, thuốc bôi"
+    },
+    {
+     "id": "dich_te_lop",
+     "noi_dung": "Ở lớp mẫu giáo không nghe có bạn bị tay chân miệng hay thủy đậu. Bé chưa từng bị nổi mụn nước như vậy.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "me_so_hai",
+     "noi_dung": "Mẹ kể bạn của mẹ có con bị thủy đậu 'nhiễm trùng máu' phải nằm viện, và mẹ đọc trên mạng thấy ảnh nốt mủ rất đáng sợ. Mẹ hỏi dồn 'bé có chết không bác sĩ', ôm chặt bé, không muốn cởi áo cho khám lúc đầu, dễ khóc. Mẹ bình tĩnh dần khi được giải thích từng bước bằng dấu hiệu cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều mẹ thật sự muốn là bé được uống kháng sinh 'cho chắc', 'khỏi nhiễm trùng, khỏi để sẹo'. Mẹ ít nói thẳng, chỉ nói khi được hỏi chị mong muốn bé được điều trị gì.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi mẹ mong muốn hay đang lo điều gì nhất, muốn bé được điều trị gì.",
+     "k": 0,
+     "y": "Lý do thật: muốn kháng sinh"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Khoảng 80–100 tổn thương rải rác ở mặt, da đầu, ngực, bụng, lưng, hai tay, hai chân; kích thước 3–8 mm. Tổn thương ở nhiều giai đoạn trên cùng một vùng: dát sẩn đỏ, mụn nước trong như giọt sương có viền đỏ, mụn nước dịch đục, vài nốt lõm giữa và vài nốt đã đóng vảy nâu. Lòng bàn tay, bàn chân da bình thường. Vài nốt do gãi bị trợt, không có vảy tiết vàng mật ong, không đỏ lan quanh nốt, không sưng nóng đau.",
+     "k": 1,
+     "hien": "Bé cởi áo khám hết người. Tổn thương rải rác ở mặt, da đầu, ngực, bụng, lưng, hai tay, hai chân; kích thước 3–8 mm, nhiều nốt ở các giai đoạn khác nhau; vài nốt trợt do gãi. Lòng bàn tay, bàn chân da bình thường.",
+     "media": [
+      {
+       "vi_tri": "Bụng quanh rốn",
+       "id": "HA-DA-0026",
+       "chu": "Nhiều sẩn đỏ nhỏ, vài nốt có chấm mụn nước hoặc vảy nhỏ ở đỉnh, rải rác ở bụng; các tổn thương ở những giai đoạn khác nhau."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ; khẩu cái mềm có 2 nốt loét nông 2 mm viền đỏ. Không giả mạc, amidan không to. Mũi hơi nghẹt, dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Không co lõm lồng ngực, nói được cả câu. Thông khí giảm nhẹ ở hai đáy; ran rít thì thở ra rải rác hai bên, không ran nổ, không ran ẩm.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Không co lõm lồng ngực. Bé nói được cả câu.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, không ran nổ."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, không ran nổ."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p (có sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, mệt nhẹ. Niêm hồng, môi ẩm, khóc có nước mắt: không mất nước. Cân nặng 17 kg.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, đi đứng vững, không run, không thất điều, không giật mình, cổ mềm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch nhỏ ở góc hàm hai bên, di động, không đau. Cổ mềm.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,1 G/L · Hb 122 g/L · TC 245 G/L (chỉ có kết quả nếu gửi mẫu: sáng hôm sau).",
+     "n": "Không cần: thủy đậu chẩn đoán bằng lâm sàng; bạch cầu bình thường hoặc giảm (QĐ 5642, Thủy đậu mục 3.2, 3.3, tr. 23). Tối nay cũng không làm được."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L (chỉ có kết quả nếu gửi mẫu: sáng hôm sau).",
+     "n": "Không cần: chưa có dấu hiệu bội nhiễm; nhiễm trùng da mô mềm nhẹ không bắt buộc xét nghiệm (QĐ 5642, Nhiễm trùng da và mô mềm mục 3.2, tr. 66)."
+    },
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Không mọc vi khuẩn gây bệnh (chỉ có kết quả nếu gửi mẫu: sau 48 giờ).",
+     "n": "Không cần: nốt dịch đục là diễn tiến bình thường của nốt thủy đậu (QĐ 5642, Thủy đậu mục 3.1, tr. 22), chưa có tổn thương mủ nhiễm khuẩn."
+    },
+    "pcr_ho_hap": {
+     "v": "u",
+     "r": "Âm tính (chỉ có kết quả nếu gửi mẫu: sáng hôm sau).",
+     "n": "Không đổi xử trí: khò khè mức nhẹ điều trị theo GINA 2026 Box 12-5 dù tác nhân nào."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp tối nay (phòng X-quang đã khóa).",
+     "n": "Không cần: SpO₂ 96%, phổi không ran nổ, thở 28 l/p; chẩn đoán hen ở trẻ ≤ 5 tuổi thường không cần hình ảnh hay xét nghiệm (GINA 2026 tiêu chuẩn chẩn đoán hen ≤ 5 tuổi, ghi chú cuối)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ngày 2 của ban ở trẻ 4 tuổi khỏe, chưa tiêm vắc xin, chưa biến chứng",
+     "ok": 1,
+     "n": "Ban rải rác toàn thân, nhiều giai đoạn (dát sẩn, mụn nước, vảy) cùng vùng da, nốt mọc từng đợt, có tổn thương niêm mạc họng, tiếp xúc nguồn lây 2 tuần trước (QĐ 5642, Thủy đậu mục 3.1, 3.3, tr. 22–23; ủ bệnh 10–21 ngày: CDC 2024)."
+    },
+    {
+     "t": "Đợt kịch phát nhẹ của hen ở trẻ ≤ 5 tuổi do nhiễm virus, sau 4 ngày mẹ ngưng thuốc xịt dự phòng",
+     "ok": 1,
+     "n": "Ho đêm, khò khè, ran rít thì thở ra, phải xịt salbutamol 3 lần, SpO₂ 96%, thở 28 l/p, nói được cả câu: mức nhẹ (GINA 2026 Box 12-1). Thủy đậu không gây khò khè (QĐ 5642 mục 3.1 không nêu), viêm phổi thủy đậu thường bắt đầu 3–5 ngày sau phát ban, hay gặp ở người lớn (QĐ 5642 mục 5b, tr. 24), nên khò khè ở bé là dữ kiện thứ hai. Ngưng thuốc dự phòng là yếu tố nguy cơ đợt kịch phát (GINA 2026 Box 12-6)."
+    },
+    {
+     "t": "Tay chân miệng",
+     "n": "Ban thủy đậu rải rác ở mặt, thân, da đầu, nhiều giai đoạn; tay chân miệng ban nhỏ hơn, tập trung ở tay chân, mông, kể cả lòng bàn tay, bàn chân (QĐ 5642 mục 3.4, tr. 23). Bé lòng bàn tay chân bình thường, tỉnh, không giật mình, không sốt cao > 39 °C: không thuộc độ 2a (QĐ 292/2024 mục II.6.2.1; mục II.4.2: 'thủy đậu: phỏng nước nhiều lứa tuổi, rải rác toàn thân')."
+    },
+    {
+     "t": "Chốc",
+     "n": "Chốc có vảy tiết vàng mật ong, thường quanh các hốc tự nhiên và chi (QĐ 4416/2023, Chốc mục 2.1, tr. 10); bọng nước vàng, vỏ dày (QĐ 5642, Nhiễm trùng da và mô mềm mục 3.1, tr. 65). Bé không có vảy vàng mật ong, nốt dịch đục là diễn tiến bình thường, vài nốt gãi trợt chưa đỏ lan."
+    },
+    {
+     "t": "Thủy đậu bội nhiễm vi khuẩn (chốc hóa, viêm mô tế bào)",
+     "n": "Chưa: không đỏ lan, không sưng nóng đau, không mủ. Đây là biến chứng thường gặp nhất ở trẻ (CDC 2024; QĐ 5642 mục 5b, tr. 24) nên dặn theo dõi, chưa kê kháng sinh (QĐ 5642 mục 4.3: kháng sinh khi bội nhiễm)."
+    },
+    {
+     "t": "Viêm phổi do thủy đậu",
+     "n": "Thở 28 l/p, dưới ngưỡng thở nhanh ≥ 40 l/p ở trẻ 1–5 tuổi (QĐ 708, Viêm phổi cộng đồng trẻ em mục 3.1); không rút lõm, không ran nổ, SpO₂ 96%."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị thủy đậu hỗ trợ (hạ sốt, chăm sóc da), không cần thuốc kháng virus ở trẻ khỏe",
+     "v": "c",
+     "n": "Ở người miễn dịch bình thường chủ yếu điều trị hỗ trợ (QĐ 5642, Thủy đậu mục 4.1, tr. 23); WHO 2025 (mục Treatment and post-exposure prophylaxis): người khỏe thường xử trí hỗ trợ, thuốc kháng virus tĩnh mạch dành cho nhóm nguy cơ cao."
+    },
+    {
+     "t": "Acyclovir uống 20 mg/kg/lần mỗi 6 giờ (17 kg: 340 mg), 5–7 ngày",
+     "v": "a",
+     "n": "QĐ 5642 mục 4.2, tr. 23: trẻ dưới 12 tuổi 'có thể dùng' 20 mg/kg mỗi 6 giờ, 5–7 ngày, tốt nhất khi bắt đầu trong 24 giờ đầu sau phát ban; bé đã sang ngày 2 của ban. Chấp nhận, không bắt buộc. Liều tối đa mỗi lần: không có trong tài liệu đã tải. Chỉ định thường quy cho trẻ khỏe theo CDC: trang riêng chưa đọc, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích nốt dịch đục không phải mủ nhiễm khuẩn, kháng sinh chỉ khi có bội nhiễm",
+     "v": "c",
+     "n": "QĐ 5642 mục 3.1 (dịch nốt phỏng chuyển đục là bình thường, tr. 22), mục 4.3 (kháng sinh khi bội nhiễm da hoặc cơ quan khác, tr. 24); bội nhiễm vi khuẩn là biến chứng thường gặp ở trẻ nên dặn dấu hiệu (CDC 2024). Tác hại cụ thể của kháng sinh không cần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol 10–15 mg/kg/lần (17 kg: 170–255 mg, chọn 200 mg) mỗi 4–6 giờ khi sốt làm bé khó chịu, tối đa 60 mg/kg/ngày; không dùng aspirin",
+     "v": "c",
+     "n": "QĐ 5642 mục 4.3, tr. 24: hạ nhiệt bằng paracetamol, tránh aspirin để ngừa hội chứng Reye (cùng WHO 2013, mục Pain control). Liều: QĐ 292/2024 mục 3.1 (10–15 mg/kg mỗi 4–6 giờ), tối đa 60 mg/kg/ngày (mục 3.2.1); AWaRe 2022 mỗi 6 giờ; dùng khi trẻ khó chịu (NICE NG143 mục 1.6.4–1.6.5). Theo sổ mâu thuẫn: ghi theo QĐ 292."
+    },
+    {
+     "t": "Xịt salbutamol 100 mcg/nhát, 4 nhát qua buồng đệm tại phòng khám (mỗi lần một nhát, 5–6 nhịp thở sau mỗi nhát), đánh giá lại sau đó",
+     "v": "c",
+     "n": "GINA 2026 Box 12-4: SABA ≥ 4 nhát 100 mcg qua buồng đệm, từng nhát một; Box 12-5: đánh giá đáp ứng sau lần xịt đầu, đánh giá lại lúc 1 giờ hoặc sớm hơn; đợt nhẹ đủ đặc điểm Box 12-1 có thể cho về."
+    },
+    {
+     "t": "Tiếp tục fluticasone xịt dự phòng như đơn cũ, không ngưng vì sợ corticoid; salbutamol 2 nhát khi cần, không dùng đều đặn; đến cơ sở cấp cứu nếu phải xịt lại trong vòng 4 giờ",
+     "v": "c",
+     "n": "GINA 2026 Box 12-5, 12-6: salbutamol khi cần chứ không đều đặn; ICS bắt đầu hoặc tiếp tục; dùng ICS không đủ do kém tuân thủ là yếu tố nguy cơ đợt kịch phát. Liều fluticasone 50 mcg/ngày thuộc mức thấp cho trẻ ≥ 4 tuổi (Box 11-3). Tác động riêng của ICS lên thủy đậu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé nghỉ học, ở nhà cho đến khi tất cả nốt đã đóng vảy; tránh tiếp xúc người suy giảm miễn dịch, phụ nữ có thai chưa miễn dịch, trẻ sơ sinh",
+     "v": "c",
+     "n": "Lây từ 1–2 ngày trước ban đến khi tất cả nốt đóng vảy (CDC 2024, mục How it spreads; QĐ 5642 mục 2, tr. 22); nhóm nguy cơ thủy đậu nặng (CDC 2024); tránh tiếp xúc người bệnh (QĐ 5642 mục 6.3)."
+    },
+    {
+     "t": "Chăm sóc da: giữ sạch, làm ẩm, thuốc chống ngứa tại chỗ, dung dịch sát khuẩn chứa muối nhôm acetat; không gãi hay bóc nốt",
+     "v": "c",
+     "n": "QĐ 5642 mục 4.3, tr. 24: làm ẩm tổn thương hàng ngày, thuốc chống ngứa tại chỗ, thuốc sát khuẩn tại chỗ (muối nhôm acetat). Tên sản phẩm, số lần bôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày; đến ngay nếu thở nhanh, rút lõm ngực, nói từng chữ, không uống được, nôn tất cả, li bì, co giật, đi loạng choạng; hoặc nốt đỏ lan, sưng nóng, đau tăng, chảy mủ, sốt lại sau khi đã hạ",
+     "v": "c",
+     "n": "Tái khám trong 1–3 ngày sau đợt kịch phát (GINA 2026 Box 12-6, tr. 223). Chuyển ngay khi tím, không nói hay uống được, thở > 40 l/p, SpO₂ < 92% (GINA Box 12-3). Dấu hiệu nguy hiểm: WHO 2024 (TL-0245), QĐ 708 mục 4.4. Bội nhiễm da: QĐ 5642 mục 5b, Nhiễm trùng da và mô mềm mục 3.1; đau không tương xứng với da gợi viêm cân hoại tử, hiếm ở trẻ nhưng gặp sau thủy đậu (AWaRe 2022 mục 37). Biến chứng thần kinh thường khoảng 21 ngày sau phát ban (QĐ 5642 mục 5b)."
+    },
+    {
+     "t": "Prednisolone hoặc dexamethasone uống cho khò khè",
+     "v": "w",
+     "n": "Không có chỉ định ở đợt nhẹ: corticoid toàn thân dành cho đợt vừa, nặng (GINA 2026 Box 12-4). QĐ 3312/2015, Xử trí khó thở thanh quản trẻ em mục 2, nêu thủy đậu là chống chỉ định corticoid toàn thân (nguồn nói trong bối cảnh khó thở thanh quản)."
+    },
+    {
+     "t": "Kê kháng sinh uống cho yên tâm vì mẹ yêu cầu",
+     "v": "w",
+     "n": "Chưa bội nhiễm, kháng sinh chỉ khi có biến chứng bội nhiễm (QĐ 5642 mục 4.3); đáp ứng mong muốn thật của mẹ bằng tiêu chí cụ thể và lịch tái khám."
+    },
+    {
+     "t": "Ngưng hẳn thuốc xịt hen trong lúc bị thủy đậu",
+     "v": "w",
+     "n": "Dùng ICS không đủ do kém tuân thủ là yếu tố nguy cơ đợt kịch phát (GINA 2026 Box 12-6); là nguyên nhân của đợt này. Không có tài liệu đã tải nói ICS gây hại khi thủy đậu."
+    },
+    {
+     "t": "Aspirin hạ sốt",
+     "v": "h",
+     "n": "Tránh aspirin ở trẻ thủy đậu vì hội chứng Reye (QĐ 5642 mục 4.3; WHO 2013, mục Pain control)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu ngày 2 của ban, trẻ khỏe mạnh miễn dịch bình thường, chưa tiêm vắc xin, chưa biến chứng, đang trong giai đoạn lây",
+     "Đợt kịch phát nhẹ của hen ở trẻ ≤ 5 tuổi, do nhiễm virus, sau khi tự ngưng thuốc xịt dự phòng 4 ngày",
+     "Không có dấu hiệu nguy hiểm, không mất nước, chưa bội nhiễm da",
+     "Không phải tay chân miệng, không phải chốc",
+     "Mẹ lo sợ quá mức, muốn kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thủy đậu: sốt nhẹ, ban rải rác ở mặt, da đầu, thân, chi; mọc từng đợt trong 2–4 ngày, cùng một vùng có dát sẩn, mụn nước, vảy; nốt phỏng 5–10 mm có viền đỏ, dịch trong rồi đục, lõm giữa (QĐ 5642, Thủy đậu mục 3.1, tr. 22). Ủ bệnh 10–21 ngày (QĐ 5642; CDC 2024): bé tiếp xúc cậu bị bệnh cách đây khoảng 2 tuần. Chẩn đoán dựa lâm sàng, không cần xét nghiệm (mục 3.3, tr. 23).",
+     "Dữ kiện KHÔNG được thủy đậu giải thích: ho đêm, khò khè, ran rít thì thở ra hai bên, phải xịt salbutamol 3 lần. Thủy đậu không có biểu hiện này; viêm phổi thủy đậu bắt đầu 3–5 ngày sau phát ban và hay gặp ở người lớn (QĐ 5642 mục 5b, tr. 24), còn bé thở 28 l/p, không ran nổ. Bé có hen đã chẩn đoán, đang ngưng thuốc dự phòng, nhiễm virus là yếu tố khởi phát đợt kịch phát (GINA 2026 Box 12-6). Mẹ coi khò khè là 'thủy đậu lên họng' nên không kể: dừng ở chẩn đoán thứ nhất là đóng hồ sơ sớm.",
+     "Mức độ đợt kịch phát: nói được cả câu, không rút lõm, thở 28 l/p (≤ 40), SpO₂ 96% (≥ 94%), khò khè nhẹ thì thở ra: mức nhẹ (GINA 2026 Box 12-1). Không có tiêu chí chuyển viện (Box 12-3).",
+     "Vì sao không phải tay chân miệng: ban rải rác toàn thân nhiều giai đoạn, lòng bàn tay chân bình thường (QĐ 5642 mục 3.4; QĐ 292/2024 mục II.4.2); không giật mình, không sốt > 39 °C, tỉnh: không thuộc độ 2a (QĐ 292 mục II.6.2.1). Hai bệnh đều có nốt loét niêm mạc miệng (QĐ 5642 mục 3.1, QĐ 292 mục II.1.1) nên cần xem phân bố ban.",
+     "Vì sao không phải chốc: không vảy tiết vàng mật ong, không bọng nước vàng vỏ dày (QĐ 4416/2023, Chốc mục 2.1; QĐ 5642, Nhiễm trùng da và mô mềm mục 3.1). Dịch đục là diễn tiến bình thường của nốt thủy đậu (QĐ 5642 mục 3.1). Chưa bội nhiễm: không đỏ lan, không đau, không sốt tăng; bội nhiễm là biến chứng thường gặp ở trẻ (CDC 2024; QĐ 5642 mục 5b) nên dặn theo dõi.",
+     "Ngoài giờ, không có kỹ thuật viên: không có công thức máu, CRP, cấy, X-quang tối nay; mẫu gửi đi chỉ có kết quả sáng hôm sau. Không cần: thủy đậu và hen nhẹ đều quyết định bằng lâm sàng (QĐ 5642 mục 3.3; GINA 2026 tiêu chuẩn chẩn đoán hen ≤ 5 tuổi, ghi chú cuối), nên cứ quyết định ngay, không chờ kết quả."
+    ],
+    "phan_tich_xu_tri": [
+     "Thủy đậu ở trẻ khỏe: chủ yếu hỗ trợ (QĐ 5642 mục 4.1; WHO 2025). Acyclovir uống 20 mg/kg mỗi 6 giờ chỉ 'có thể dùng', hiệu quả tốt nhất trong 24 giờ đầu (QĐ 5642 mục 4.2) nên bé ngày 2 chấp nhận được, không bắt buộc. Aspirin chống chỉ định vì Reye (mục 4.3).",
+     "Không kháng sinh: nốt đục chưa phải bội nhiễm; kháng sinh khi có biến chứng bội nhiễm (QĐ 5642 mục 4.3). Giải thích cho mẹ bằng tiêu chí: không đỏ lan, không đau, không mủ vàng; nếu xuất hiện thì quay lại ngay.",
+     "Khò khè nhẹ: salbutamol 4 nhát qua buồng đệm, đánh giá lại (GINA 2026 Box 12-4, 12-5). Không corticoid uống (đợt nhẹ không có chỉ định; thủy đậu là chống chỉ định corticoid toàn thân theo QĐ 3312). Về nhà: salbutamol 2 nhát khi cần, không đều đặn; cần lại trong 4 giờ thì đến cấp cứu (Box 12-5, 12-6).",
+     "Thuốc xịt dự phòng: tiếp tục fluticasone như đơn cũ vì ngưng là nguyên nhân đợt này; sửa quan niệm sai của mẹ bằng giải thích rằng thuốc xịt liều thấp khác với corticoid uống; tài liệu đã tải không có khuyến cáo riêng về ICS khi thủy đậu (ghi rõ để mẹ không hiểu lầm là đã chứng minh an toàn). Kiểm tra kỹ thuật dùng buồng đệm (Box 12-6).",
+     "Cách ly: nghỉ học đến khi tất cả nốt đóng vảy (CDC 2024; QĐ 5642 mục 2); tránh tiếp xúc người nguy cơ cao. Em gái 20 tháng chưa tiêm, chưa mắc: hỏi bác sĩ tiêm chủng (xem dặn dò).",
+     "Tái khám sau 3 ngày: vừa là hẹn hen 1–3 ngày (GINA 2026 Box 12-6) vừa theo dõi ban. Ngoài giờ không có xét nghiệm nên các tiêu chí 'quay lại ngay' phải rõ, mẹ sợ hãi cần bản ghi cụ thể."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "200 mg/lần (≈ 11,8 mg/kg; cho phép 10–15 mg/kg = 170–255 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu; các lần cách nhau 4–6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 60 mg/kg/ngày (≈ 1.020 mg, tức không quá 5 lần 200 mg)",
+      "ghi_chu": "QĐ 5642 (Thủy đậu mục 4.3); QĐ 292/2024 (mục 3.1, 3.2.1); AWaRe 2022; không dùng aspirin."
+     },
+     {
+      "thuoc": "Salbutamol xịt định liều kèm buồng đệm có mặt nạ",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát mỗi lần, xịt từng nhát, 5–6 nhịp thở sau mỗi nhát",
+      "duong": "Xịt hít",
+      "thoi_diem": "Chỉ khi ho khò khè, khó thở; không dùng đều đặn",
+      "so_ngay": "Đến khi tái khám sau 3 ngày",
+      "ghi_chu": "GINA 2026 Box 12-5, 12-6: 2 nhát khi cần; xịt lại trong 4 giờ thì đến cơ sở cấp cứu."
+     },
+     {
+      "thuoc": "Fluticasone propionat xịt định liều kèm buồng đệm có mặt nạ (đang dùng)",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát mỗi sáng (50 mcg/ngày), giữ nguyên đơn cũ",
+      "duong": "Xịt hít",
+      "thoi_diem": "Mỗi sáng, đều đặn, súc miệng hoặc uống nước sau xịt",
+      "so_ngay": "Dùng tiếp; xem lại ở lần tái khám hen",
+      "ghi_chu": "GINA 2026 Box 12-6 (tiếp tục ICS), Box 11-3 (50 mcg/ngày là liều thấp cho ≥ 4 tuổi). Chuyên gia chỉnh liều khi cần."
+     },
+     {
+      "thuoc": "Dung dịch sát khuẩn tại chỗ chứa muối nhôm acetat",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Thoa nhẹ lên nốt đã vỡ hoặc trợt; số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Khi nốt vỡ, trợt hoặc ngứa nhiều",
+      "so_ngay": "Đến khi các nốt đóng vảy",
+      "ghi_chu": "QĐ 5642 (Thủy đậu mục 4.3, tr. 24). Không bôi kháng sinh khi chưa bội nhiễm."
+     }
+    ],
+    "dan_do": [
+     "Bé bị thủy đậu: bệnh do virus, thường lành tính ở trẻ khỏe, nốt đục đục là diễn tiến bình thường chứ chưa phải nhiễm trùng, không cần kháng sinh (QĐ 5642). Nốt mọc thêm trong 2–4 ngày rồi đóng vảy; vảy rụng sau 1–2 tuần, để lại sẹo lõm nông nếu gãi hoặc bóc.",
+     "Bé còn khò khè: đó là đợt hen nhẹ do virus, không phải thủy đậu lên họng. Hãy xịt fluticasone mỗi sáng như cũ; thuốc xịt liều thấp khác với thuốc corticoid uống, không nên tự ngưng; xịt salbutamol 2 nhát khi khò khè (GINA 2026).",
+     "Cách xịt: lắp buồng đệm có mặt nạ úp kín mặt, xịt từng nhát một, để bé thở 5–6 nhịp sau mỗi nhát; dỗ bé trước, bé khóc thì thuốc không vào phổi (GINA 2026 Box 12-4, 12-6).",
+     "Đến ngay khi: thở nhanh, rút lõm ngực, nói từng chữ, không uống được, nôn tất cả, li bì, co giật, tím tái, đi loạng choạng; cần xịt salbutamol lại trong vòng 4 giờ (GINA 2026 Box 12-3, 12-5; WHO 2024).",
+     "Đến ngay khi nốt đỏ lan rộng, sưng nóng, đau tăng, chảy mủ vàng, hoặc sốt lại sau khi đã hạ: có thể bội nhiễm vi khuẩn (QĐ 5642 mục 5b; CDC 2024).",
+     "Hạ sốt bằng paracetamol 200 mg khi bé khó chịu, cách 4–6 giờ, không quá 5 lần/ngày. Không dùng aspirin (QĐ 5642 mục 4.3).",
+     "Cho bé nghỉ học và ở nhà đến khi tất cả nốt đã đóng vảy (CDC 2024); tránh tiếp xúc với người có bệnh suy giảm miễn dịch, phụ nữ có thai, trẻ sơ sinh. Cho bé uống nước đều, ăn cháo lỏng vì còn nốt trong miệng. Giữ móng tay ngắn.",
+     "Tái khám sau 3 ngày (GINA 2026 Box 12-6), mang theo thuốc xịt và buồng đệm để bác sĩ xem lại cách dùng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tối thứ Ba, tái khám sau 3 ngày. Bé hết sốt, ăn chơi lại, không còn khò khè. Mẹ vẫn lo vì còn vài nốt, hỏi có cần thuốc gì nữa và có đi học lại được chưa. Sinh hiệu: nhiệt 36,9 °C, mạch 88 l/p, nhịp thở 22 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khôi nằm viện 'cho chắc' khi bé đã hết sốt, không còn khò khè, SpO₂ 98%, thở 22 l/p, ban đang khô vảy là không có chỉ định: thủy đậu ở trẻ khỏe ít khi cần nhập viện (QĐ 5642, Thủy đậu mục 5a, tr. 24), bé không có tiêu chí hen nặng (GINA 2026 Box 12-3). Bé còn nốt nước nên vẫn đang lây, nằm viện buộc phải cách ly hô hấp và tiếp xúc cho đến khi đóng vảy (CDC 2024, Isolation), tốn giường và tiền. Việc bé cần là sửa kỹ thuật xịt thuốc và hẹn tái khám hen, những việc làm ngoại trú.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện để 'làm xét nghiệm kiểm tra' dù bé đã khỏi lâm sàng là quá tay: thủy đậu chẩn đoán và theo dõi bằng lâm sàng, không cần xét nghiệm khẳng định (QĐ 5642, Thủy đậu mục 3.3, tr. 23), hen ở trẻ ≤ 5 tuổi thường không cần hình ảnh hay xét nghiệm (GINA 2026 tiêu chuẩn chẩn đoán hen ≤ 5 tuổi, ghi chú cuối). Bé còn nốt nước, đưa vào phòng chờ đông là lây cho trẻ khác (CDC 2024), cả nhà mất thêm ngày công. Chưa có chỉ định chuyên khoa hen vì 12 tháng trước đợt này bé chưa có đợt nào (GINA 2026 Box 12-6)."
+   },
+   "loi_mo": "Bác sĩ ơi bé hết sốt rồi, hết khò khè rồi, nhưng còn mấy cái nốt nước sau lưng em sợ lắm. Bác sĩ cho bé uống kháng sinh phòng sẹo, rồi thử máu xem virus hết chưa nha. Mai bé đi học lại được chưa bác sĩ?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_sot",
+     "noi_dung": "Hết sốt từ chiều hôm qua, chỉ dùng paracetamol 1 lần ở ngày đầu. Ăn uống được, chơi lại. Từ sáng hôm qua không thấy nốt mới mọc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến thủy đậu, ngưng mọc nốt mới"
+    },
+    {
+     "id": "khoe_khe_het",
+     "noi_dung": "Từ sau lần xịt hôm khám, bé hết ho khò khè, hai đêm ngủ yên. Đã hơn 36 giờ không phải xịt salbutamol.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hen đã ổn"
+    },
+    {
+     "id": "ky_thuat_xit",
+     "noi_dung": "Mẹ đã xịt lại fluticasone mỗi sáng. Khi xịt, bé khóc, mẹ cầm buồng đệm không áp kín mặt nạ, xịt hai ba nhát liền rồi bé thở ít nhịp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cách xịt, nhờ làm mẫu với buồng đệm, hoặc hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Kỹ thuật dùng buồng đệm, tuân thủ"
+    },
+    {
+     "id": "nguc_khong_mu",
+     "noi_dung": "Các nốt cũ đã khô, đóng vảy nâu. Không nốt nào đỏ lan, sưng đau, chảy mủ; bé không kêu đau tại chỗ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không bội nhiễm"
+    },
+    {
+     "id": "em_gai",
+     "noi_dung": "Em gái 20 tháng ngủ chung phòng, chưa tiêm vắc xin thủy đậu, hiện chưa nổi nốt nào. Mẹ chưa hỏi ai về chuyện tiêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người tiếp xúc chưa miễn dịch"
+    },
+    {
+     "id": "me_xin_ks",
+     "noi_dung": "Mẹ vẫn sợ sẹo và nhiễm trùng, xin kháng sinh 'phòng', xin thử máu 'xem virus còn không'. Mẹ bình tĩnh hơn lần trước, nghe được khi bác sĩ giải thích từng ý.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức, muốn kháng sinh"
+    },
+    {
+     "id": "di_hoc",
+     "noi_dung": "Mẹ bận đi làm, mong cho bé đi học lại ngày mai vì cô giáo nói 'hết sốt là đi được'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Phần lớn nốt đã khô, đóng vảy nâu; còn khoảng 10 nốt mụn nước nhỏ ở lưng, đang xẹp. Không nốt mới, không đỏ lan, không sưng nóng đau, không mủ vàng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng bình thường, hai nốt loét ở khẩu cái đã liền. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không co lõm lồng ngực, phổi không ran, không ran rít.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, ăn được. Niêm hồng, không mất nước.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Đi đứng vững, không run, không thất điều.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 124 g/L · TC 260 G/L (chỉ có kết quả nếu gửi mẫu: sáng hôm sau).",
+     "n": "Không giúp quyết định: bé đã khỏi lâm sàng, thủy đậu theo dõi bằng lâm sàng (QĐ 5642, Thủy đậu mục 3.3, tr. 23). Cho đi học dựa vào đóng vảy, không dựa xét nghiệm virus (CDC 2024)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 3 mg/L (chỉ có kết quả nếu gửi mẫu: sáng hôm sau).",
+     "n": "Không giúp quyết định: không có dấu hiệu bội nhiễm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ngày 5 của ban, đang đóng vảy, còn vài nốt nước nên còn lây, không biến chứng; đã đỡ hoàn toàn về sốt và toàn trạng",
+     "ok": 1,
+     "n": "Hết sốt, nốt mới ngừng mọc, phần lớn đã vảy, còn ~10 nốt nước (QĐ 5642, Thủy đậu mục 3.1, tr. 22). Lây đến khi tất cả nốt đóng vảy (CDC 2024; QĐ 5642 mục 2)."
+    },
+    {
+     "t": "Hen ở trẻ ≤ 5 tuổi: đợt kịch phát nhẹ đã qua; cần xem lại tuân thủ thuốc dự phòng và kỹ thuật buồng đệm để tránh tái phát",
+     "ok": 1,
+     "n": "Hết khò khè, phổi sạch, SpO₂ 98%, không dùng salbutamol 36 giờ. Kỹ thuật xịt chưa đúng; kém tuân thủ hoặc kỹ thuật sai là yếu tố nguy cơ (GINA 2026 Box 12-6; Box 11-1)."
+    },
+    {
+     "t": "Thủy đậu bội nhiễm vi khuẩn",
+     "n": "Không đỏ lan, không đau, không mủ vàng, không sốt lại (QĐ 5642 mục 5b; CDC 2024)."
+    },
+    {
+     "t": "Viêm phổi do thủy đậu",
+     "n": "Thở 22 l/p, SpO₂ 98%, phổi không ran, hết ho (QĐ 5642 mục 5b: thường 3–5 ngày sau phát ban, hay gặp ở người lớn; QĐ 708 mục 3.1)."
+    },
+    {
+     "t": "Biến chứng thần kinh của thủy đậu (thất điều tiểu não, viêm màng não)",
+     "n": "Bé tỉnh, đi vững, không run (QĐ 5642 mục 5b: thường khoảng 21 ngày sau phát ban, hiếm khi trước ban); chưa tới thời điểm nhưng dặn người nhà."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không xét nghiệm, không X-quang thêm vì đã khỏi lâm sàng; chẩn đoán và theo dõi thủy đậu bằng lâm sàng",
+     "v": "c",
+     "n": "QĐ 5642 mục 3.3, tr. 23; hen ở trẻ ≤ 5 tuổi thường không cần hình ảnh, xét nghiệm (GINA 2026 tiêu chuẩn chẩn đoán hen ≤ 5 tuổi, ghi chú cuối). Tiêu chí khỏi và cho đi học dựa vào đóng vảy (CDC 2024)."
+    },
+    {
+     "t": "Không kê kháng sinh; không bóc vảy, không gãi để hạn chế sẹo",
+     "v": "c",
+     "n": "Chưa bội nhiễm, kháng sinh chỉ khi có bội nhiễm (QĐ 5642 mục 4.3, tr. 24); vảy rụng sau 1–2 tuần, để lại sẹo lõm nông (QĐ 5642 mục 3.1)."
+    },
+    {
+     "t": "Chưa cho đi học: ở nhà đến khi tất cả nốt đã đóng vảy; còn nốt nước thì vẫn lây",
+     "v": "c",
+     "n": "Lây đến khi tất cả nốt đóng vảy (CDC 2024, mục How it spreads; QĐ 5642 mục 2, tr. 22). Số ngày cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hen: tiếp tục fluticasone mỗi sáng; sửa kỹ thuật buồng đệm (mặt nạ áp kín, xịt từng nhát, 5–6 nhịp thở), cho bé bình tĩnh trước khi xịt; salbutamol khi cần; viết kế hoạch hành động hen",
+     "v": "c",
+     "n": "GINA 2026 Box 12-6, tr. 223: kiểm tra, sửa kỹ thuật dùng ống hít; xem lại cách mẹ dùng thuốc trước và trong đợt; lập hoặc xem lại bản kế hoạch hành động bằng văn bản; xác nhận trẻ tiếp tục dùng ICS, đánh giá tuân thủ."
+    },
+    {
+     "t": "Hẹn tái khám hen sau 2–3 tháng; trở lại sớm nếu khò khè lại",
+     "v": "c",
+     "n": "GINA 2026 Box 12-6, tr. 223: hẹn khám lại 2–3 tháng vì một đợt kịch phát làm tăng nguy cơ đợt kế tiếp trong 12 tháng; chuyển chuyên gia nếu đã có ≥ 1 đợt trong 12 tháng trước, ở bé chưa có."
+    },
+    {
+     "t": "Hướng dẫn tiêm vắc xin thủy đậu cho em gái 20 tháng và các thành viên chưa mắc, chưa tiêm; bé Khôi đã mắc thì không cần tiêm",
+     "v": "c",
+     "n": "Có hai cách nêu liều: QĐ 5642 mục 6.1, tr. 25: trẻ > 1 tuổi chưa mắc, một liều (2015); CDC 2024: hai liều cho mọi trẻ chưa có miễn dịch (khác thời điểm, khác chương trình tiêm chủng). WHO 2025: vắc xin dùng sau phơi nhiễm trong 3–5 ngày có hiệu quả 79–100% ngừa thể vừa và nặng; nhiễm tự nhiên thường cho miễn dịch suốt đời. Lịch cụ thể ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại: nốt đỏ lan, sưng nóng, đau, chảy mủ, sốt lại; về sau 3 tuần chú ý đi loạng choạng, nôn, đau đầu; khò khè, thở nhanh, rút lõm",
+     "v": "c",
+     "n": "QĐ 5642 mục 5b, tr. 24 (bội nhiễm; biến chứng thần kinh khoảng 21 ngày sau ban); CDC 2024; GINA 2026 Box 12-3."
+    },
+    {
+     "t": "Kê kháng sinh phòng sẹo hoặc phòng nhiễm trùng",
+     "v": "w",
+     "n": "Không có chỉ định khi chưa bội nhiễm (QĐ 5642 mục 4.3); sẹo liên quan gãi, bóc vảy (mục 3.1: vảy rụng để lại sẹo lõm nông)."
+    },
+    {
+     "t": "Lấy máu, PCR hoặc kiểm tra virus để quyết định cho đi học",
+     "v": "w",
+     "n": "Không cần: đi học dựa vào các nốt đã đóng vảy (CDC 2024); QĐ 5642 mục 3.3: xét nghiệm khẳng định ít khi dùng. Tối nay cũng không làm được."
+    },
+    {
+     "t": "Acyclovir uống ở ngày 5 của ban",
+     "v": "w",
+     "n": "Hiệu quả tốt nhất khi bắt đầu trong 24 giờ đầu sau phát ban (QĐ 5642 mục 4.2); bé đã hết sốt, nốt ngừng mọc, đang khỏi, không có chỉ định thêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu ngày 5 của ban, đã hết sốt, hầu hết nốt đóng vảy, còn ~10 nốt nước nên còn lây, không biến chứng",
+     "Hen ở trẻ ≤ 5 tuổi, đợt kịch phát nhẹ đã qua; kỹ thuật dùng buồng đệm chưa đúng, tuân thủ dự phòng cần củng cố",
+     "Không bội nhiễm da, không viêm phổi, không dấu thần kinh",
+     "Người tiếp xúc chưa miễn dịch: em gái 20 tháng",
+     "Mẹ vẫn lo, xin kháng sinh và xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thủy đậu đỡ: hết sốt chiều hôm qua, nốt mới ngừng mọc từ sáng hôm qua, phần lớn nốt khô vảy nâu, còn ~10 nốt nước (QĐ 5642, Thủy đậu mục 3.1: ban xuất hiện từng đợt trong 2–4 ngày). Còn nốt nước nên còn lây, lây đến khi tất cả nốt đóng vảy (CDC 2024).",
+     "Không bội nhiễm: không đỏ lan, không đau, không mủ vàng, không sốt lại; bội nhiễm là biến chứng thường gặp nhất ở trẻ (CDC 2024; QĐ 5642 mục 5b). Không viêm phổi: thở 22 l/p, SpO₂ 98%, phổi sạch (QĐ 708 mục 3.1). Biến chứng thần kinh thường khoảng 21 ngày sau ban (QĐ 5642 mục 5b): chưa tới, dặn người nhà.",
+     "Hen ổn sau đợt nhẹ: hết khò khè, phổi sạch, 36 giờ không dùng salbutamol. Nhưng dữ kiện 'xịt khi bé khóc, mặt nạ không áp kín' cho thấy kỹ thuật kém, một yếu tố nguy cơ đợt kịch phát (GINA 2026 Box 12-6). Đây là điều cần xử lý để bệnh không tái phát; đánh giá kiểm soát hen theo Box 11-1.",
+     "Tiêu chí xác nhận khỏi và khi nào không cần làm thêm gì: hết sốt, nốt mới ngừng mọc, không dấu hiệu bội nhiễm, phổi sạch, SpO₂ bình thường: không cần xét nghiệm hay hình ảnh kiểm tra (QĐ 5642 mục 3.3; GINA 2026 tiêu chuẩn chẩn đoán hen ≤ 5 tuổi, ghi chú cuối). Đi học khi tất cả nốt đã đóng vảy (CDC 2024).",
+     "Người nhà: em gái 20 tháng ở chung phòng chưa tiêm, chưa mắc, nguy cơ rất cao vì khoảng 90% người chưa miễn dịch tiếp xúc gần sẽ mắc (CDC 2024; QĐ 5642 mục 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không xét nghiệm, không kháng sinh (QĐ 5642 mục 3.3, 4.3). Giải thích bằng tiêu chí cụ thể: bé đã hết sốt, không nốt mới, không nốt đỏ lan hay mủ; mẹ đã bình tĩnh hơn nên nghe được từng ý.",
+     "Hen: sửa kỹ thuật ngay tại chỗ cho mẹ làm mẫu với buồng đệm (GINA 2026 Box 12-6); xác nhận tiếp tục ICS hàng ngày; lập bản kế hoạch hành động hen; hẹn 2–3 tháng. Chưa chuyển chuyên gia vì bé chưa có đợt nào trong 12 tháng trước đợt này (Box 12-6).",
+     "Nghỉ học đến khi tất cả nốt đóng vảy (CDC 2024; QĐ 5642 mục 2). Tài liệu đã tải không nêu số ngày; cô giáo nói 'hết sốt là đi học' không đúng với tiêu chí này.",
+     "Tiêm vắc xin thủy đậu cho em gái: QĐ 5642 mục 6.1 (một liều, trẻ > 1 tuổi chưa mắc, 2015) khác CDC 2024 (hai liều); ghi cả hai, bác sĩ tiêm chủng quyết theo lịch hiện hành. Vắc xin sau phơi nhiễm trong 3–5 ngày có hiệu quả 79–100% ngừa thể vừa, nặng (WHO 2025). Bé Khôi đã mắc thì không cần tiêm (WHO 2025: nhiễm tự nhiên thường cho miễn dịch suốt đời).",
+     "Tái khám thủy đậu không cần hẹn cố định: quay lại khi có dấu hiệu bội nhiễm; chú ý các dấu thần kinh khoảng 3 tuần sau ban (QĐ 5642 mục 5b)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fluticasone propionat xịt định liều kèm buồng đệm có mặt nạ (đang dùng)",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát mỗi sáng (50 mcg/ngày), giữ nguyên",
+      "duong": "Xịt hít",
+      "thoi_diem": "Mỗi sáng, đều đặn, kể cả khi bé không khò khè",
+      "so_ngay": "Dùng tiếp đến lần tái khám hen sau 2–3 tháng",
+      "ghi_chu": "GINA 2026 Box 12-6 (tiếp tục ICS), Box 11-3. Giữ nguyên đơn cũ, không đổi liều."
+     },
+     {
+      "thuoc": "Salbutamol xịt định liều kèm buồng đệm có mặt nạ (đang dùng)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát mỗi lần khi khò khè, không dùng đều đặn",
+      "duong": "Xịt hít",
+      "thoi_diem": "Chỉ khi ho khò khè, khó thở",
+      "so_ngay": "Khi cần; cần lại trong 4 giờ thì đến cơ sở cấp cứu",
+      "ghi_chu": "GINA 2026 Box 12-5, 12-6."
+     }
+    ],
+    "dan_do": [
+     "Thủy đậu đã đỡ nhiều: hết sốt, nốt ngừng mọc, đang khô vảy. Không cần kháng sinh, không cần xét nghiệm kiểm tra (QĐ 5642). Đừng bóc vảy, giữ móng tay ngắn để ít sẹo; vảy rụng sau 1–2 tuần.",
+     "Chưa cho bé đi học: ở nhà đến khi tất cả nốt đã đóng vảy vì còn nốt nước là còn lây (CDC 2024). Tránh cho bé gặp người có bệnh suy giảm miễn dịch, phụ nữ có thai, trẻ sơ sinh.",
+     "Em gái 20 tháng chưa mắc, chưa tiêm: đưa em đi hỏi bác sĩ tiêm chủng sớm, vì tiêm trong 3–5 ngày sau tiếp xúc có thể ngừa thể vừa và nặng (WHO 2025). Người lớn chưa mắc cũng hỏi (QĐ 5642 mục 6.1).",
+     "Thuốc xịt hen: xịt fluticasone mỗi sáng đều, kể cả khi bé khỏe; tập làm mẫu cách úp mặt nạ kín, xịt từng nhát, đếm 5–6 nhịp thở; dỗ bé trước (GINA 2026 Box 12-6).",
+     "Khi khò khè: xịt salbutamol 2 nhát; cần lại trong vòng 4 giờ thì đến cơ sở cấp cứu; đến ngay nếu thở nhanh, rút lõm ngực, nói từng chữ, tím tái (GINA 2026 Box 12-3, 12-5).",
+     "Quay lại khi nốt đỏ lan, sưng nóng, đau, chảy mủ, hoặc sốt lại (QĐ 5642 mục 5b). Khoảng 3 tuần sau nổi ban, nếu bé đi loạng choạng, nôn, đau đầu thì đưa đi khám ngay (QĐ 5642 mục 5b).",
+     "Tái khám hen sau 2–3 tháng để xem lại cách xịt và kiểm soát hen (GINA 2026 Box 12-6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé khỏi thủy đậu: các nốt đóng vảy hết sau khoảng một tuần nữa, bé đi học lại sau khi hết nốt nước, chỉ còn vài vết thâm nhạt. Em gái được tiêm vắc xin, không bị bệnh. Sáu tuần sau, bé về quê nghỉ hè, mẹ thấy bé khỏe nên ngưng fluticasone; mười ngày sau bé khò khè đêm trở lại, mẹ đưa đến khám sớm, được điều trị ngoại trú và dặn giữ thuốc dự phòng đều. Đợt tái phát này là hen, không phải thủy đậu (thủy đậu thường cho miễn dịch suốt đời, WHO 2025): nguyên nhân là chưa duy trì thuốc dự phòng. Hẹn tái khám hen 2–3 tháng, đo mức kiểm soát và xem lại kỹ thuật buồng đệm.",
+ "nhieu": [
+  "Sợ hãi quá mức: mẹ sợ biến chứng nặng và nhiễm trùng, nên xin kháng sinh. Trấn an có cấu trúc: gọi tên nỗi sợ, nói bé đang ở mức nào, nói dấu hiệu cụ thể nào thì quay lại.",
+  "Ngoài giờ, không có kỹ thuật viên: không làm được xét nghiệm tối nay; ca này không cần xét nghiệm, quyết định bằng lâm sàng ngay.",
+  "Khiêng vật nặng (chuyển nhà): chính hôm chuyển nhà bé tiếp xúc cậu đang bị thủy đậu (khoảng 2 tuần trước, đúng thời gian ủ bệnh) và hít bụi nhà mới, nên đây là chỗ để hỏi dịch tễ.",
+  "Muốn được kê kháng sinh: lý do thật của mẹ là sợ nhiễm trùng, sợ sẹo; không có chỉ định, cần giải thích bằng tiêu chí chứ không chỉ từ chối."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: tìm ra thủy đậu rồi dừng là đóng hồ sơ sớm. Dữ kiện không được thủy đậu giải thích: ho đêm, khò khè, ran rít thì thở ra và phải xịt salbutamol 3 lần. Luôn hỏi 'còn triệu chứng nào chưa được chẩn đoán đầu giải thích?', khám phổi, hỏi thuốc đang dùng.",
+  "Mẹ tự ngưng thuốc xịt dự phòng vì sợ corticoid: hỏi tên thuốc, cách dùng, lần xịt gần nhất, không trách móc. Corticoid uống khác corticoid xịt liều thấp; không dùng corticoid uống cho đợt nhẹ.",
+  "Thủy đậu ở trẻ khỏe: hỗ trợ, tránh aspirin, kháng sinh chỉ khi bội nhiễm; dịch đục không phải mủ. Dạy mẹ dấu hiệu bội nhiễm cụ thể.",
+  "Ngoài giờ không xét nghiệm: quyết định ngay bằng lâm sàng; thủy đậu và hen nhẹ không cần xét nghiệm hay X-quang.",
+  "Đỡ hoàn toàn khi tái khám: tiêu chí khỏi là hết sốt, ngừng mọc nốt mới, không bội nhiễm, phổi sạch; không xét nghiệm kiểm tra; đi học khi tất cả nốt đóng vảy, không phải khi hết sốt.",
+  "Tái phát: hen tái phát vì ngưng thuốc dự phòng khi hết triệu chứng và kỹ thuật dùng buồng đệm kém; là nguyên nhân nền cần xử lý ngay từ khi bé 'đã khỏi'.",
+  "Người tiếp xúc: em gái chưa tiêm vắc xin; nhắc tiêm sớm trong vài ngày sau tiếp xúc."
+ ],
+ "diem_nho": [
+  "Thủy đậu: ủ bệnh 10–21 ngày; lây từ khoảng 48 giờ trước ban đến khi tất cả nốt đóng vảy; ban nhiều giai đoạn cùng vùng da, rải rác toàn thân; chẩn đoán bằng lâm sàng (QĐ 5642, Thủy đậu mục 2, 3.1, 3.3; CDC 2024).",
+  "Điều trị thủy đậu ở người khỏe: hỗ trợ; acyclovir uống 20 mg/kg mỗi 6 giờ ở trẻ < 12 tuổi, tốt nhất trong 24 giờ đầu sau ban, không bắt buộc (QĐ 5642 mục 4.1–4.2); không aspirin (Reye).",
+  "Biến chứng thủy đậu ở trẻ thường là bội nhiễm da (CDC 2024; QĐ 5642 mục 5b); viêm cân hoại tử hiếm nhưng có thể sau thủy đậu: đau không tương xứng với da (AWaRe 2022 mục 37).",
+  "Phân biệt: tay chân miệng ban tập trung tay chân mông, kể cả lòng bàn tay chân (QĐ 5642 mục 3.4); chốc có vảy tiết vàng mật ong, ở quanh hốc tự nhiên và chi (QĐ 4416/2023, Chốc mục 2.1).",
+  "Hen ở trẻ ≤ 5 tuổi: đợt nhẹ khi nói được câu, thở ≤ 40 l/p, SpO₂ ≥ 94%; salbutamol 4 nhát qua buồng đệm; tái khám 1–3 ngày, rồi 2–3 tháng (GINA 2026 Box 12-1, 12-4, 12-6).",
+  "Chuyển viện hen ở trẻ ≤ 5 tuổi: tím, không nói hay uống được, thở > 40 l/p, SpO₂ < 92%, ngực im (GINA 2026 Box 12-3)."
+ ],
+ "nguon": [
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh thủy đậu (mục 1–6, tr. 22–25); Nhiễm trùng da và mô mềm (mục 3.1–4.2, tr. 65–67)",
+  "QĐ 292 – Bộ Y tế, QĐ 292/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị bệnh Tay chân miệng – TL-0239 – ĐÃ ĐỌC: mục II.1.1, II.4.2, II.6.1–6.2, III.2.1, III.3.1, 3.2.1 (paracetamol)",
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu – kho tltk-10000-ca – ĐÃ ĐỌC: Bệnh chốc (mục 1–3.1, tr. 10–11)",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella), cập nhật 15/07/2024 – TL-0255 – ĐÃ ĐỌC: toàn bộ (mục Who is at risk, Incubation period, How it spreads, Clinical features, Patient management – Isolation)",
+  "WHO 2025 – WHO position paper on varicella vaccines, WER 47, 21/11/2025 – kho tltk-10000-ca – ĐÃ ĐỌC: mục Treatment and post-exposure prophylaxis; Infection-acquired immunity; Post-exposure vaccination",
+  "GINA 2026 – Global Strategy for Asthma Management and Prevention – TL-0137 – ĐÃ ĐỌC: tiêu chuẩn chẩn đoán hen ≤ 5 tuổi (ghi chú cuối), 11-1, 11-3, 12-1, 12-3, 12-4, 12-5, 12-6 (tr. 217–223)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Xử trí khó thở thanh quản trẻ em, mục 2 (corticoid, thủy đậu)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC (theo ca NH-0199): Viêm phổi cộng đồng ở trẻ em (mục 3.1, 4.4)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 37 Skin and soft tissue infections – necrotizing fasciitis; Viêm họng – trẻ em (liều paracetamol)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục Pain control (aspirin, thủy đậu)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC (theo ca NH-0199): chú thích dấu hiệu nguy hiểm",
+  "NICE NG143 – Fever in under 5s – TL-0262 – ĐÃ ĐỌC (theo ca NH-0199): mục 1.6.4–1.6.5",
+  "CHƯA ĐỌC ĐƯỢC: CDC, trang 'Guidance for People at High Risk' (chỉ định acyclovir thường quy cho trẻ khỏe); lịch tiêm chủng thủy đậu ở Việt Nam (TT 10/2024/TT-BYT, TL-0005, bản chữ trống)."
+ ],
+ "phien_ban_ca": "1 – viết ngày 17/10/2026",
+ "ghi_chu_bien_tap": [
+  "17/10/2026: viết ca mới NH-0874, 2 lượt. Tài liệu đã đọc: TL-0038 (Thủy đậu, Nhiễm trùng da mô mềm), TL-0239, TL-0255, TL-0137 (GINA 2026), TL-0037, WHO 2025 vắc xin thủy đậu, QĐ 4416, TL-0018, TL-0250.",
+  "Thiết kế: chẩn đoán đích thủy đậu; chẩn đoán thứ hai (bẫy hai chẩn đoán cùng lúc) là đợt kịch phát nhẹ của hen (liên quan thuốc xịt hen đang dùng); tay chân miệng và chốc có trong chan_doan với lý do loại trừ. Yếu tố khởi phát 'khiêng vật nặng' gắn với hôm chuyển nhà: tiếp xúc cậu bị thủy đậu và bụi nhà mới.",
+  "Ảnh da HA-DA-0026 (SCIN, nhãn Chicken pox exanthem, da sáng FST2, ảnh gần như duy nhất trong bảng SCIN khớp nhãn): bụng, sẩn đỏ, vài nốt có chấm nước hoặc vảy; không lộ mặt, không hình xăm, không chữ.",
+  "Ngoài giờ, không có kỹ thuật viên: khoa_cls.nhom = [xn] (app tự khóa X-quang, CT, nội soi); CLS khai v u/n có kết quả 'chỉ có nếu gửi mẫu'.",
+  "Chỗ không có trong tài liệu đã tải: chỉ định acyclovir thường quy cho trẻ khỏe theo CDC; tác động của ICS lên thủy đậu; tên và số lần bôi dung dịch muối nhôm acetat; liều tối đa acyclovir mỗi lần; số ngày cụ thể nghỉ học sau đóng vảy; lịch tiêm vắc xin thủy đậu ở Việt Nam; tác hại cụ thể của kháng sinh không cần thiết.",
+  "Paracetamol theo QĐ 292 (mỗi 4–6 giờ, ≤ 60 mg/kg/ngày) theo mục sổ mâu thuẫn từ NH-0666. Số liều vắc xin thủy đậu (QĐ 5642: 1 liều; CDC 2024: 2 liều): ghi cả hai (xem NH-0874_mau_thuan.md)."
+ ]
+}
