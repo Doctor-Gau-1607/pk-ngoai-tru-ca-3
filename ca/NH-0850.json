@@ -1,0 +1,560 @@
+{
+ "ma_ca": "NH-0850",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-18)",
+ "benh": "NH_soi_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sởi",
+  "chan_doan_phai_loai_tru": [
+   "Rubella",
+   "Kawasaki",
+   "Sốt xuất huyết"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh 24 ngày tuổi)",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục (bố mẹ bé gần gũi lại một lần ngày bố đi xa về, khi mẹ còn ra sản dịch; mẹ ngại kể; không phải đường lây của sởi, bệnh lây qua không khí, giọt bắn)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (bà ngoại cho nửa gói bột 150 mg, khoảng 75 mg/lần, ngày 5 lần kể cả ban đêm, 3 ngày; khoảng 100 mg/kg/ngày)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (dì Lan, em gái mẹ, đang mang thai 22 tuần, ở chung nhà ngoại và đã bế bé nhiều lần)"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Anh Khoa",
+  "tuoi": 0.07,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi (sơ sinh)",
+  "can_nang": 3.7,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai 24 ngày tuổi, chỉ khóc, ngủ, bú. Bà ngoại (bà Tám, 58 tuổi) bế bé và trả lời thay: bà gọi bác sĩ là 'bác sĩ', xưng 'tôi' hoặc 'bà', gọi bé là 'thằng cu' hoặc 'cháu'. Mẹ bé (chị Thảo, 25 tuổi) ngồi cạnh bà, xưng 'em', gọi bé là 'con'.",
+  "tinh_cach": "Bà Tám: nói nhiều, quyết đoán, tin kinh nghiệm nuôi con cháu, ngại bệnh viện vì tốn tiền và 'nhiều bệnh lây', hay tự mua thuốc theo lời bà bán thuốc quen. Mẹ Thảo: 25 tuổi, con đầu lòng, ở cữ tại nhà ngoại, mệt, im lặng trước mẹ, tự trách; nói rõ khi được hỏi riêng, nhẹ nhàng.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bà ngoại trả lời mọi câu và rút gọn ('chắc rôm sảy', 'chút thuốc hạ sốt là đỡ'), gạt lời mẹ. Chuyện bố bé nổi mẩn, số gói thuốc, giờ gói cuối, chuyện vợ chồng, nỗi lo thật cho dì Lan chỉ lộ khi bác sĩ hỏi thẳng người nhà có ai bệnh hoặc nổi ban, hỏi từng gói từng giờ, mời bà ra ngoài hỏi riêng mẹ, hoặc hỏi 'bà lo điều gì nhất'. Bà dịu xuống khi được giải thích cụ thể, không bị chê trách.",
+  "nguoi_nha": "Bà ngoại (bà Tám); mẹ bé (chị Thảo) đi cùng. Hầu hết câu hỏi do bà trả lời (nguoi_noi = nguoi_nha); mẹ chỉ nói khi được hỏi riêng; bé chỉ khóc.",
+  "ten_nguoi_nha": "Bà ngoại (bà Tám); mẹ bé (chị Thảo) đi cùng",
+  "ngoai_hinh": {
+   "da": "#f1cba7",
+   "toc": "#1f1612",
+   "kieuToc": "tre",
+   "ao": "#f5e6a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d9a77c",
+    "toc": "#c9c9c9",
+    "kieuToc": "bui",
+    "ao": "#7f9c8b",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 24 ngày tuổi nóng mấy hôm, nổi mẩn đỏ ở mặt; bà ngoại hỏi bệnh có lây không",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư nhân chỉ làm xét nghiệm cơ bản (công thức máu, CRP, men gan, nước tiểu, đường huyết mao mạch); không X-quang, siêu âm, CT, nội soi; không cấy máu, chọc dò tủy, IgM hoặc PCR sởi, NS1. Bệnh viện Nhi tỉnh (có khu cách ly sởi) cách 30 km, khoảng 40 phút."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · nóng, nổi mẩn mặt, bé 24 ngày tuổi",
+   "tiep_don": "Bé trai 24 ngày tuổi, bà ngoại bế đến lúc 8 giờ 40, mẹ bé ngồi cạnh. Bà kể cháu nóng ba, bốn hôm, hôm qua nổi mẩn đỏ ở mặt, hỏi bệnh có lây không. Cân nặng 3,7 kg. Sinh hiệu: nhiệt độ nách 37,9 °C, mạch 152 l/p, nhịp thở 52 l/p, SpO₂ 97%. Bé tỉnh khi kích thích, khóc yếu, ngủ nhiều hơn thường ngày.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Khoa chỉ nách 37,9 °C và 'nổi mẩn' nên dễ cho về theo hướng sởi nhẹ ngoại trú, nhưng hậu môn 38,3 °C bị paracetamol che; dưới 1 tháng có sốt cần cấy máu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6), bú kém và sốt > 38 °C là dấu hiệu nguy hiểm (WHO Pocket book 2013 mục 3.6). Bà tiếp tục paracetamol vì thấy nhiệt độ 'hạ' (NICE mục 1.5.15), men gan còn tăng thêm trong 48–72 giờ (QĐ 3610/2015 mục 3.2), bé bú kém thêm. Dì Lan mang thai vẫn bế bé, mất thêm 1–2 ngày trong 3–6 ngày dự phòng sau phơi nhiễm (QĐ 1019/2025 mục 5.1.3).",
+    "theo_doi": "Giữ bé vài giờ ở phòng khám không thay được bệnh viện: không cấy máu, chọc dò tủy, PCR sởi, phòng cách ly, điều dưỡng sơ sinh (WHO Pocket book 2013 mục 3.8). Sởi lây qua không khí (QĐ 1019 mục 1, 3.1) nên trẻ nhỏ và phụ nữ có thai ở phòng chờ bị phơi nhiễm; mỗi giờ chờ là một giờ trễ kháng sinh nếu có nhiễm khuẩn huyết hay viêm màng não.",
+    "nhap_vien": "Giữ bé 'nhập viện tại chỗ' vô ích: phòng khám không có nội trú sơ sinh, cấy máu, chọc dò tủy, khu cách ly sởi (QĐ 1019 mục 3.1, 5.1.1; WHO Pocket book 2013 mục 6.4.1). Bé mất thêm thời gian trước khi tới nơi làm được NICE NG143 mục 1.5.3–1.5.6, trong khi đang lây cho người xung quanh."
+   },
+   "loi_mo": "Chào bác sĩ. Thằng cu nhà tôi nóng mấy hôm nay, hôm qua nổi mẩn đỏ trên mặt, chắc rôm sảy vì nóng trong, tôi cho uống thuốc hạ sốt là đỡ liền. Bác sĩ cho thuốc bôi mẩn với thuốc ho về là xong, khỏi xét nghiệm gì cho tốn kém nha.",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "Không đo",
+    "nhiet": "37,9 (nách)",
+    "nhip_tho": 52,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "benh_su",
+     "noi_dung": "Bà kể bé nóng ba, bốn hôm, hay lên cơn chiều tối. Hôm qua nổi mẩn đỏ nhỏ ở trán và hai má, sáng nay xuống cổ. Bà cho là rôm sảy vì ủ ấm, cho uống thuốc hạ sốt, muốn 'thuốc bôi mẩn với thuốc ho về là xong, khỏi xét nghiệm'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và bệnh sử qua người nuôi"
+    },
+    {
+     "id": "sot_ghi_nhan",
+     "noi_dung": "Mẹ đo nách bằng nhiệt kế điện tử: 38,2 °C tối kia, 38,6 °C sáng qua, 38,4 °C tối qua, 38,3 °C lúc 6 giờ sáng nay trước gói thuốc cuối. Sau mỗi gói xuống 37,3–37,6 °C rồi lên lại sau 3–4 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt ghi nhận ở nhà (bị thuốc che)"
+    },
+    {
+     "id": "thuoc_ha_sot",
+     "noi_dung": "Ba hôm nay bà cho uống gói bột paracetamol 150 mg mua ở tiệm thuốc, mỗi lần nửa gói (khoảng 75 mg, 20 mg/kg), cách 4–5 giờ, ngày 5 lần kể cả đêm (khoảng 100 mg/kg/ngày); gói cuối lúc 6 giờ 30 sáng nay. Bà làm theo lời bà bán thuốc quen.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà chỉ nói 'cho thuốc hạ sốt, đỡ liền'. Loại thuốc, hàm lượng, số lần, giờ gói cuối chỉ lộ khi bác sĩ hỏi thẳng từng gói, từng giờ.",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài, che sốt và có thể gây độc gan"
+    },
+    {
+     "id": "bu_ngu",
+     "noi_dung": "Hai ngày nay bé bú 6–7 cữ thay vì 9–10 cữ, mỗi cữ ngắn, hay thôi giữa chừng rồi ngủ gật; ngủ nhiều hơn, khóc yếu hơn. Tã ướt 5 cái/ngày. Không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém, ngủ nhiều: dấu hiệu nguy hiểm sớm ở sơ sinh"
+    },
+    {
+     "id": "mat_ho",
+     "noi_dung": "Từ hôm kia bé ho vài tiếng khẽ, sổ mũi trong, hai mắt đỏ có ghèn trong, bà tưởng 'cảm lạnh'. Không khò khè, không thở rút lõm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, sổ mũi, mắt đỏ (viêm long)"
+    },
+    {
+     "id": "nguon_lay",
+     "noi_dung": "Bố bé (anh Hùng, 29 tuổi, lái xe tải đường dài) về nhà ngoại thăm vợ con lúc bé 9 ngày tuổi, ở 6 ngày. Anh nóng, ho, đỏ mắt rồi nổi mẩn khắp người; trạm y tế xã bảo 'dị ứng', cho thuốc, anh về nhà riêng cách 20 km, nay hết mẩn. Bà không nghĩ liên quan vì 'dị ứng sao lây cho con nít'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người bệnh nổi ban 7–21 ngày trước (ca nghi ngờ sởi)"
+    },
+    {
+     "id": "bo_chi_tiet",
+     "noi_dung": "Mẹ (hỏi riêng) kể anh Hùng sốt khoảng 39 °C, mắt đỏ, ho, 4 ngày sau nổi ban từ mặt xuống ngực, lưng, tay chân (khoảng 10 ngày trước). Trạm không xét nghiệm. Anh không nhớ có tiêm sởi, chưa từng bị sởi; hai đồng nghiệp cùng đội xe cũng 'nổi mẩn'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ khi bà ra ngoài và bác sĩ hỏi riêng mẹ, hoặc hỏi thẳng 'anh ấy sốt bao nhiêu, mắt có đỏ, ho không, mẩn bắt đầu từ đâu'.",
+     "k": 1,
+     "y": "Chi tiết ca nguồn: sốt, đỏ mắt, ho, ban từ mặt xuống, chưa tiêm"
+    },
+    {
+     "id": "tiem_chung_nguoi_nha",
+     "noi_dung": "Mẹ có sổ tiêm lúc nhỏ: một mũi sởi lúc 9 tháng, không rõ mũi hai. Bà ngoại (sinh năm 1968) nghe mẹ bà kể 'hồi nhỏ có lên sởi'. Dì Lan không giữ sổ, không nhớ đã tiêm chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Miễn dịch sởi của người nhà"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Mẹ ngại, chỉ nói khi hỏi riêng: hôm bố về (bé 9 ngày tuổi) vợ chồng gần gũi một lần khi mẹ còn ra sản dịch; anh chưa có triệu chứng. Mẹ sợ bà mắng và sợ 'sữa độc'. Mẹ hiện không sốt, không ban, sản dịch hồng nhạt không hôi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ khi bà ra ngoài và bác sĩ hỏi riêng mẹ, nhẹ nhàng, không chê trách.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát đã khai báo (quan hệ vợ chồng sớm sau sinh); không phải đường lây của sởi"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà thật ra sợ bệnh lây cho dì Lan, con gái út của bà (27 tuổi, mang thai 22 tuần, ở chung nhà, ngủ cùng phòng với bà), đã bế bé nhiều lần mấy hôm nay. Bà nghe hàng xóm nói 'sởi lây nguy hiểm cho bà bầu', thấy bé 'nổi mẩn giống bố nó', nhưng ngại nói vì sợ bị bảo phải nhập viện.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự nói. Chỉ lộ khi bác sĩ hỏi 'bà lo điều gì nhất', hỏi trong nhà còn ai (trẻ nhỏ, người mang thai, người già yếu), hoặc giải thích bệnh có thể lây.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ lây cho người thân (người mang thai)"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường đủ tháng 39 tuần, nặng 3,3 kg, không ngạt. Mẹ không sốt hay phát ban cuối thai kỳ và lúc sinh. Đã tiêm vitamin K, viêm gan B và BCG sơ sinh. Bú mẹ hoàn toàn. Rốn rụng ngày thứ 8.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, tiêm chủng của bé"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không co giật, không tím, không ngưng thở, không rên rỉ, không nôn, không bụng chướng, không vàng da, không chảy dịch tai. Chưa tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm khác: chưa có"
+    },
+    {
+     "id": "dich_te_sxh",
+     "noi_dung": "Khu dân cư nhà ngoại không có ca sốt xuất huyết gần đây, ít muỗi. Mẹ không sốt quanh sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dịch tễ sốt xuất huyết"
+    },
+    {
+     "id": "u_am",
+     "noi_dung": "Bà tắm bé bằng lá khế, quấn kín hai lớp tã lót, đóng cửa sổ vì sợ gió; cho là 'rôm sảy do nóng trong'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: ủ ấm quá mức, gợi 'rôm sảy'"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,7 kg (sinh 3,3 kg). Nhiệt độ nách 37,9 °C; đo hậu môn bằng nhiệt kế điện tử 38,3 °C, đo lại sau 5 phút 38,2 °C: sốt, bị che bởi gói paracetamol cách 2 giờ 30. Bé tỉnh khi kích thích, khóc yếu hơn bình thường, dỗ nín được, cử động tự nhiên; môi hồng, mao mạch hồi sắc 2 giây, tay chân ấm, niêm mạc ẩm, không vàng da.",
+     "k": 1,
+     "hien": "Cân 3,7 kg. Tỉnh khi kích thích, khóc yếu, dỗ nín. Môi hồng. Nách 37,9 °C."
+    },
+    "da": {
+     "a": "Ban dát sẩn hồng nhạt, đường kính 2–4 mm, thưa (khoảng 30–40 nốt) ở trán, hai má, sau tai và cổ; vài nốt ở ngực trên; vài nốt nhỏ hợp lại ở má trái. Bụng, lưng, tay, chân, lòng bàn tay và bàn chân chưa có ban; bàn tay, bàn chân không phù, không đỏ, không bong da. Ban mờ đi khi căng da. Không chấm xuất huyết, không bóng nước, không mụn mủ, không vàng da, không nổi vân tím. Quanh cổ có vài hạt rôm nhỏ trong do ủ ấm.",
+     "k": 1,
+     "hien": "Ban hồng nhạt, thưa, 2–4 mm ở trán, hai má, sau tai, cổ; vài nốt ở ngực trên. Bụng, tay, chân chưa thấy ban. Không bóng nước, không chấm xuất huyết."
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt đỏ nhẹ, ít ghèn trong, không mủ, mi không phù, giác mạc trong, đồng tử đều. Dấu sợ ánh sáng khó đánh giá ở sơ sinh.",
+     "k": 1,
+     "hien": "Hai mắt đỏ nhẹ, ít ghèn trong, không mủ."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi chảy dịch trong. Môi không nứt, lưỡi hồng không đỏ dâu. Niêm mạc má và lợi hồng, không thấy hạt Koplik, không loét, không tưa (soi bằng đèn pin khi bé khóc há miệng). Họng đỏ nhẹ. Màng nhĩ không khám rõ do ống tai nhỏ.",
+     "k": 1,
+     "hien": "Mũi chảy dịch trong. Niêm mạc miệng hồng, không loét, không tưa. Họng đỏ nhẹ."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, đập theo mạch. Cổ mềm. Không hạch sau tai, sau chẩm, cổ; không phù nề cổ.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm. Không hạch."
+    },
+    "tim": {
+     "a": "Tim đều nhanh 152 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên đều, bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 152 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, đều, dưới 60 l/p. Không rút lõm, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối. Gan bờ dưới 1 cm, lách không to. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 0,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "than_kinh": {
+     "a": "Tỉnh khi kích thích, nhìn theo mặt mẹ, khóc yếu hơn bình thường. Trương lực hơi giảm nhưng tay chân co duỗi đối xứng; phản xạ bú nuốt còn nhưng yếu, Moro đối xứng. Không co giật.",
+     "k": 1,
+     "hien": "Nhìn theo mặt mẹ, khóc yếu. Trương lực hơi giảm, cử động đối xứng. Không co giật."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,3 G/L (neu 72% = 3,10 G/L, lym 20% = 0,86 G/L) · Hb 152 g/L · TC 128 G/L",
+     "bang": {
+      "wbc": 4.3,
+      "neu_pct": 72.0,
+      "neu": 3.1,
+      "lym_pct": 20.0,
+      "lym": 0.86,
+      "mono_pct": 6.0,
+      "mono": 0.26,
+      "eos_pct": 2.0,
+      "eos": 0.09,
+      "hgb": 152,
+      "plt": 128
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu bạch cầu, lympho, tiểu cầu của sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Phù hợp sởi: thường giảm bạch cầu, giảm lympho, có thể giảm tiểu cầu (QĐ 1019/2025 mục 2.2.1). Không loại trừ nhiễm khuẩn nặng, không dùng để bỏ cấy máu, chọc dò tủy, kháng sinh (NICE NG143 mục 1.5.3–1.5.6). Tiểu cầu 128 G/L cũng nằm trong giai đoạn sốt của sốt xuất huyết (QĐ 2760/2023, Giai đoạn sốt mục 1.2) nên không phân biệt được hai bệnh."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 12 mg/L",
+     "n": "NICE NG143 mục 1.5.3 đòi CRP. Ngưỡng 20 mg/L của AAP 2021 chỉ dùng cho bé nhìn khỏe 8–60 ngày; bé này bú kém, ngủ nhiều nên không áp dụng (AAP 2021, phần đối tượng). CRP thấp không đổi hướng chuyển."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 88 · ALT 54 U/L",
+     "ab": 1,
+     "n": "Cao hơn khoảng người lớn in trên phiếu; tham chiếu men gan sơ sinh: không có trong tài liệu đã tải. Sau paracetamol ~100 mg/kg/ngày × 3 ngày: AST/ALT đạt đỉnh sau 48–72 giờ, viêm gan nhiễm độc khi > 1000 (QĐ 3610/2015 mục 3.2): chưa phải viêm gan nhiễm độc nhưng phải xét nghiệm lại; ghi vào giấy chuyển."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Mẫu hứng bằng bao nước tiểu (phòng khám không thông tiểu được cho sơ sinh): bạch cầu esterase âm, nitrit âm, protein âm.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "Chỉ tầm soát: NICE NG143 mục 1.5.3 đòi nước tiểu. Âm tính trên mẫu bao không loại trừ nhiễm trùng tiểu; tuyến trên lấy lại."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 3,8 mmol/L",
+     "n": "Chưa dưới ngưỡng điều trị 2,2 mmol/L (WHO Pocket book 2013 mục 3.6); bé bú kém nên cho bú trước và trên đường chuyển (QĐ 2341/2024, Bảng kiểm 1 mục 19a)."
+    },
+    "igm_soi": {
+     "v": "e",
+     "r": "Phòng khám không làm được IgM sởi huyết thanh hay RT-PCR sởi dịch tỵ hầu.",
+     "n": "Xác định cần IgM hoặc PCR dương (QĐ 1019/2025 mục 2.4.3). Bé mới ban ngày thứ hai: IgM làm từ ngày thứ 3 sau ban (mục 2.2.3; mục 1: 50–70% dương ngày đầu, 100% sau 3 ngày); PCR trong 72 giờ đầu từ ban. Ghi vào giấy chuyển để bệnh viện lấy dịch tỵ hầu ngay; không chờ kết quả mới cách ly vì ca lâm sàng đã đủ tiêu chuẩn (mục 2.4.2)."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Phòng khám không cấy máu được.",
+     "n": "Ghi vào giấy chuyển: tuyến trên cấy máu trước kháng sinh (NICE NG143 mục 1.5.3, 1.5.5; WHO Pocket book 2013 mục 3.8)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "e",
+     "r": "Phòng khám không chọc dò tủy được.",
+     "n": "Dưới 1 tháng có sốt: chọc dò tủy trừ chống chỉ định (NICE NG143 mục 1.5.4); WHO Pocket book 2013 mục 3.8: khi có thể làm trước kháng sinh. Làm ở tuyến trên."
+    },
+    "ns1": {
+     "v": "e",
+     "r": "Phòng khám không làm được NS1, IgM Dengue.",
+     "n": "NS1 làm từ ngày 1–7 của bệnh (QĐ 2760/2023, Chẩn đoán căn nguyên mục 1.1). Không cần ở bé này: khu vực không có ca, sốt xuất huyết sơ sinh do mẹ truyền sốt ngày 1–6 sau sinh (mục C.2.6), bé sốt từ ngày 20."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sởi, thể không điển hình, ở sơ sinh 24 ngày tuổi (ca bệnh lâm sàng, chờ PCR hoặc IgM), kèm sốt ở sơ sinh dưới 1 tháng và bú kém: chưa phân loại được là sởi không biến chứng, cần nhập viện cách ly",
+     "ok": 1,
+     "n": "Sốt, viêm kết mạc, ho, sổ mũi, phát ban dạng sởi mọc từ mặt, sau tai xuống cổ, ngực, mờ khi căng da (QĐ 1019/2025 mục 2.1.1, 2.4.2), tiếp xúc bố bệnh nổi ban 9–15 ngày trước (mục 2.4.1, ủ bệnh 7–21 ngày). Không điển hình vì ban ít, không thấy Koplik, sốt bị paracetamol che, tuổi sơ sinh (mục 2.1.2). Bé bú kém, ngủ nhiều nên không thuộc 'không biến chứng' (mục 2.6.1); trẻ < 12 tháng nguy cơ nặng (mục 2.3). Xác định cần IgM hoặc PCR (mục 2.4.3)."
+    },
+    {
+     "t": "Ngộ độc paracetamol mạn do người nhà tự cho liều cao kéo dài (khoảng 100 mg/kg/ngày × 3 ngày), AST/ALT tăng nhẹ, cần theo dõi ở bệnh viện",
+     "ok": 1,
+     "n": "Nửa gói 150 mg ≈ 20 mg/kg/lần × 5 lần/ngày, vượt 10–15 mg/kg/lần và tối đa 60 mg/kg/ngày (QĐ 1019 mục 3.2.1; QĐ 708/2015, Viêm màng não mủ mục 4.2). AST 88, ALT 54 U/L; đỉnh men gan sau 48–72 giờ (QĐ 3610/2015 mục 3.2); ngộ độc mạn: định lượng paracetamol máu, ALT, quyết định NAC (mục 4.3.2). Liều an toàn và ngưỡng độc gan ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng đồng nhiễm (nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu)",
+     "ok": 0,
+     "n": "Chưa loại trừ ở phòng khám (không cấy máu, chọc dò tủy). Sởi giải thích sốt nhưng không cho bỏ quy trình sốt sơ sinh: dưới 1 tháng cần cấy máu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6); bú kém, sốt > 38 °C là dấu hiệu nguy hiểm (WHO Pocket book 2013 mục 3.6)."
+    },
+    {
+     "t": "Rubella",
+     "n": "Rubella: phát ban không có trình tự, ít khi viêm long (QĐ 1019 mục 2.5). Bé có viêm long và ban mọc từ mặt xuống đúng trình tự (mục 2.1.1); chưa loại hẳn khi chưa có PCR hoặc IgM. Bài rubella của QĐ 5642/2015: không có trong tài liệu đã tải (bản chữ thiếu)."
+    },
+    {
+     "t": "Kawasaki",
+     "n": "Kawasaki cổ điển cần sốt ≥ 5 ngày và ≥ 4/5 tiêu chuẩn (AHA 2017, Principal Clinical Findings, Bảng 3); bé sốt mới 4 ngày, không phù tay chân, không nứt môi, không hạch cổ, mắt đỏ không mủ (QĐ 1019 mục 2.5; NICE NG143 mục 1.2.25). Trẻ ≤ 6 tháng có thể chỉ sốt kéo dài thiếu tiêu chuẩn (AHA 2017, lưu đồ chẩn đoán, chú thích 3): sốt ≥ 5 ngày thì đánh giá lại."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Khu vực không có ca; sốt xuất huyết sơ sinh do mẹ truyền sốt ngày 1–6 sau sinh (QĐ 2760/2023 mục C.2.6), bé sốt từ ngày 20; không xuất huyết; ban mọc từ mặt kèm ho, đỏ mắt (QĐ 1019 mục 2.1.1). Tiểu cầu 128 G/L vẫn nằm trong giai đoạn sốt (QĐ 2760 mục 1.2) nên không phân biệt được."
+    },
+    {
+     "t": "Ban dị ứng thuốc (paracetamol)",
+     "n": "Ban dị ứng kèm ngứa, tăng bạch cầu ái toan (QĐ 1019 mục 2.5): bé không ngứa rõ, ái toan 2%, ban mọc theo trình tự mặt xuống thân sau 3 ngày sốt và 2 ngày dùng thuốc, kèm viêm long và nguồn lây là bố có ban tương tự."
+    },
+    {
+     "t": "Biến chứng sởi: viêm phổi, viêm tai giữa, tiêu chảy, viêm não, mất nước",
+     "n": "Chưa có: thở 52 l/p dưới 60 (WHO Pocket book 2013 mục 3.6), không rút lõm, phổi sạch; không tiêu chảy, co giật, thóp phẳng, tã ướt 5 cái/ngày (QĐ 1019 mục 2.7). Màng nhĩ không khám rõ; không có X-quang phổi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra bé đang sốt dù nách 37,9 °C: đo hậu môn hoặc nách bằng nhiệt kế điện tử, hỏi thẳng loại thuốc hạ sốt, số lần, giờ cuối; không dựa vào nhiệt độ 'đã hạ' hay việc bé còn bú",
+     "v": "c",
+     "n": "Hai cách đo đều đúng (sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần', NH-0217): nách bằng nhiệt kế điện tử (NICE NG143 mục 1.1.2) hoặc hậu môn ≥ 38,0 °C (AAP 2021, phần đối tượng). Dưới 3 tháng, từ 38 °C là nhóm nguy cơ cao (NICE mục 1.2.12); đã dùng thuốc hạ sốt thì không dựa vào mức hạ hay không hạ để phân biệt nặng nhẹ (NICE mục 1.5.15)."
+    },
+    {
+     "t": "Nghi sởi: đưa bé vào phòng riêng ngay (không ngồi phòng chờ), bà và mẹ đeo khẩu trang, báo trước cho bệnh viện để bé vào thẳng khu cách ly; lau bề mặt phòng khám bằng dung dịch clo hoạt tính 0,05% sau khi bé rời đi",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 3.1 (cách ly ngay khi nghi ngờ), mục 5.1.1 (cách ly kiểu lây qua không khí, giọt bắn; ít nhất 4 ngày sau phát ban), mục 5.1.2 (khẩu trang, clo hoạt tính 0,05% lau bề mặt); WHO Pocket book 2013 mục 6.4.1. Thời gian thông khí phòng sau khi bé rời đi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cho về, không giữ lại phòng khám: chuyển gấp bé đến bệnh viện Nhi tỉnh (có khu cách ly sởi, điều dưỡng sơ sinh, cấy máu, chọc dò tủy, PCR sởi)",
+     "v": "c",
+     "n": "Sốt dưới 1 tháng: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6); WHO Pocket book 2013 mục 3.6 (sốt > 38 °C, bú kém là dấu hiệu nguy hiểm), mục 3.8 (nhập viện); QĐ 2341/2024 mục 2.2.2 (sốt hoặc bú kém ở trẻ 0–2 tháng: chuyển gấp). Sởi ngoại trú (QĐ 1019 mục 3.2.1, 3.3) chỉ cho ca không biến chứng (tỉnh, ăn bú tốt: mục 2.6.1); bé này bú kém nên không thuộc nhóm đó (sổ mâu thuẫn 'Sởi nhẹ ngoại trú so với sơ sinh sốt')."
+    },
+    {
+     "t": "Trước khi chuyển: cho liều kháng sinh tiêm bắp đầu tiên rồi chuyển gấp (ampicillin cộng gentamicin), hoặc chuyển ngay không tiêm tại chỗ để tuyến trên cấy máu và chọc dò tủy trước kháng sinh",
+     "v": "c",
+     "n": "A: QĐ 2341/2024 Bảng kiểm 1 mục 19a (liều kháng sinh tiêm bắp đầu, phòng hạ đường huyết, chuyển gấp, giữ ấm); WHO Pocket book 2013 mục 3.8, 3.14 (ampicillin 50 mg/kg mỗi 8 giờ ở tuần 2–4; gentamicin 7,5 mg/kg/ngày; AAP 2021 Bảng 3 nhóm 22–28 ngày dùng ceftriaxone 50 mg/kg mỗi 24 giờ ở bệnh viện, ampicillin cộng gentamicin 4 mg/kg mỗi 24 giờ là phác đồ nhóm 8–21 ngày). B: NICE NG143 mục 1.5.5; WHO mục 3.8 (khi có thể lấy bệnh phẩm trước kháng sinh). Sổ mâu thuẫn NH-1378 mục 1–2: phòng khám không cấy được, chuyển 40 phút nên cả hai cách đều đúng."
+    },
+    {
+     "t": "Ngưng ngay paracetamol và mọi thuốc hạ sốt; không dùng ibuprofen; cởi bớt quần áo, không ủ kín, không lau ấm; ghi số gói, giờ gói cuối vào giấy chuyển",
+     "v": "c",
+     "n": "Sổ mâu thuẫn 'Thuốc hạ sốt cho sơ sinh có sốt' (NH-1378): WHO Pocket book 2013 mục 3.10.4 (không dùng paracetamol kiểm soát sốt ở young infants) hoặc NICE NG143 mục 1.6.2–1.6.6 (không lau ấm, không ủ kín; chỉ cân nhắc khi trẻ khó chịu, không để hạ số đo). Nửa gói 150 mg mỗi 4–5 giờ gấp khoảng 1,7 lần trần 60 mg/kg/ngày (QĐ 708/2015) nên bị ngưng ở cả hai cách. QĐ 1019 mục 3.2.1 (paracetamol 10–15 mg/kg × 4 lần/ngày; ibuprofen nếu sốt > 38,5 °C) viết cho trẻ sởi nói chung, không nêu sơ sinh; WHO mục 8.7.1: dưới 3 tháng chỉ dùng paracetamol. Liều an toàn cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vitamin A 50.000 IU uống, hai liều cách nhau 24 giờ (liều đầu cho tại phòng khám nếu có sẵn, hoặc ngay khi vào bệnh viện; ghi giờ vào giấy chuyển)",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 3.2.1 và Bảng 1: tất cả trẻ bị sởi, < 6 tháng 50.000 IU, hai liều cách nhau 24 giờ; WHO Pocket book 2013 mục 6.4.1–6.4.2: 50.000 IU cho trẻ < 6 tháng, trừ khi đã dùng đủ trong đợt bệnh. Dạng bào chế phù hợp sơ sinh và chống chỉ định riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mời bà ra ngoài, hỏi riêng mẹ: nguồn lây, bố bé bệnh thế nào, tiền sử tiêm sởi, chuyện vợ chồng, mẹ có sốt hay ban; hỏi 'bà lo điều gì nhất' và trong nhà còn ai là trẻ nhỏ, người mang thai, người suy giảm miễn dịch",
+     "v": "c",
+     "n": "QĐ 1019 mục 2.4.1 (ca nghi ngờ: tiếp xúc người bệnh sởi trong 7–21 ngày), mục 5.1.3 (truy vết, hỏi kỹ yếu tố nguy cơ, tiền sử tiêm). Tách người trả lời thay ra để hỏi riêng: nhận xét lâm sàng; không chê trách bà."
+    },
+    {
+     "t": "Giấy chuyển và gọi báo trước: sốt sơ sinh, nghi sởi cần cách ly, paracetamol liều cao (số gói, giờ cuối), AST 88/ALT 54, CTM, CRP, nước tiểu, đường huyết 3,8; mẹ đi cùng, giữ ấm vừa phải, cho bú từng ít trên đường",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 1 mục 19a (giữ ấm, phòng hạ đường huyết); QĐ 1019 mục 3.2.1 (tiếp tục bú mẹ), mục 2.2.3 (PCR sớm); QĐ 3610/2015 mục 4.3.2 (ngộ độc paracetamol mạn: tuyến trên định lượng paracetamol máu, ALT, quyết định NAC; phác đồ NAC cho sơ sinh: không có trong tài liệu đã tải, WHO Pocket book 2013 phần Poisoning ghi thể tích dịch phác đồ chuẩn quá lớn cho trẻ nhỏ)."
+    },
+    {
+     "t": "Dặn người nhà đã tiếp xúc: dì Lan (mang thai 22 tuần) đi khám sản hoặc bệnh viện trong ngày để xét immune globulin; ai chưa tiêm hoặc chỉ 1 mũi: kiểm tra sổ tiêm, vắc xin sởi trong 72 giờ sau tiếp xúc nếu trên 9 tháng; mẹ, bà theo dõi sốt, ban 21 ngày",
+     "v": "c",
+     "n": "QĐ 1019 mục 5.1.3: phơi nhiễm là tiếp xúc trực tiếp hoặc ở chung phòng ≥ 15 phút với người bệnh trong 4 ngày trước hoặc sau phát ban; vắc xin sởi trong 72 giờ cho người > 9 tháng chưa tiêm hoặc đã 1 mũi trên 28 ngày; immune globulin: suy giảm miễn dịch nặng, trẻ < 9 tháng bệnh nền nặng, 'xem xét' phụ nữ mang thai, trong 3–6 ngày đầu phơi nhiễm. Liều immune globulin, xét nghiệm IgG sởi, xử trí mẹ đang cho con bú, khai báo ca bệnh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm tại chỗ công thức máu, CRP, men gan, nước tiểu, đường huyết nếu không làm chậm việc chuyển",
+     "v": "a",
+     "n": "NICE NG143 mục 1.5.3 (công thức máu, CRP, nước tiểu); QĐ 3610/2015 mục 3.3 (công thức máu, sinh hóa, AST, ALT khi nghi ngộ độc paracetamol). Kết quả không đổi hướng chuyển; bệnh viện làm lại cùng cấy máu, chọc dò tủy."
+    },
+    {
+     "t": "Cho về nhà theo hướng điều trị sởi ngoại trú: cách ly tại nhà, tái khám sau 2–3 ngày, tiếp tục thuốc hạ sốt khi bé sốt",
+     "v": "w",
+     "n": "QĐ 1019 mục 3.2.1 chỉ cho sởi không biến chứng (mục 2.6.1); bé bú kém, sốt dưới 1 tháng: NICE NG143 mục 1.5.3–1.5.6, WHO Pocket book 2013 mục 3.6, 3.8, QĐ 2341/2024 mục 2.2.2 yêu cầu cấy, kháng sinh tiêm, nhập viện. Tiếp tục paracetamol như cũ vượt 60 mg/kg/ngày (QĐ 708/2015)."
+    },
+    {
+     "t": "Chờ công thức máu, CRP rồi mới quyết chuyển; hoặc giữ bé lại phòng khám theo dõi vài giờ; hoặc cho về vì CRP thấp",
+     "v": "w",
+     "n": "NICE NG143 mục 1.5.3–1.5.6, 1.5.15 (kết quả bình thường không bỏ quy trình); phòng khám không cấy máu, chọc dò tủy, cách ly (WHO Pocket book 2013 mục 3.8); bé chờ là nguồn lây qua không khí (QĐ 1019 mục 1, 3.1)."
+    },
+    {
+     "t": "Cho kháng sinh uống (amoxicillin…), ibuprofen, hoặc corticoid toàn thân rồi cho về",
+     "v": "w",
+     "n": "Kháng sinh uống cho sơ sinh sốt: không có trong tài liệu đã tải; NICE NG143 mục 1.5.6–1.5.7 là kháng sinh tiêm. Ibuprofen: dưới 3 tháng chỉ dùng paracetamol (WHO Pocket book 2013 mục 8.7.1). Corticoid toàn thân: không dùng khi chưa loại trừ sởi (QĐ 1019 mục 3.1)."
+    },
+    {
+     "t": "Tiêm vắc xin sởi cho bé hoặc cho immune globulin cho bé",
+     "v": "w",
+     "n": "Vắc xin sau phơi nhiễm dành cho người > 9 tháng (QĐ 1019 mục 5.1.3); bé đã mắc bệnh, không cần dự phòng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sởi thể không điển hình, ca bệnh lâm sàng (sốt, viêm kết mạc, ho, sổ mũi, ban dạng sởi từ mặt xuống) ở sơ sinh 24 ngày tuổi, nguồn lây là bố bé; chờ PCR hoặc IgM",
+     "Sốt ở sơ sinh dưới 1 tháng kèm bú kém: nhóm nguy cơ cao, chưa loại trừ nhiễm khuẩn nặng đồng nhiễm; chưa phải sởi không biến chứng",
+     "Ngộ độc paracetamol mạn do tự cho liều cao (khoảng 100 mg/kg/ngày × 3 ngày), men gan tăng nhẹ, che sốt",
+     "Chưa có biến chứng hô hấp, mất nước, thần kinh; đã loại trừ tạm Kawasaki, sốt xuất huyết, dị ứng thuốc",
+     "Người nhà phơi nhiễm: dì Lan mang thai 22 tuần, mẹ (1 mũi sởi), bà, cần truy vết"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (sốt ghi nhận ở nhà, thuốc từng gói, bú, ai trong nhà bệnh, tiền sử sinh) → khám (nhiệt độ hậu môn và nách, da, mắt, miệng, thóp, phổi) → CLS (công thức máu, CRP, men gan, nước tiểu, đường huyết) → hỏi riêng mẹ → chẩn đoán → chuyển tuyến có cách ly.",
+     "Vì sao nghĩ tới sởi dù không điển hình: bé có đủ ba nhóm ý của ca bệnh lâm sàng (sốt; ho, sổ mũi, viêm kết mạc; phát ban dạng sởi) và tiếp xúc bố bị 'dị ứng' có ban, ủ bệnh khoảng 10 ngày (QĐ 1019 mục 2.1.1, 2.4.1, 2.4.2). Điểm suýt bỏ qua: ban thưa, mới ở mặt và cổ, không thấy Koplik, sốt bị paracetamol che (nách 37,9 °C), bà gọi 'rôm sảy'; thể không điển hình dễ bị bỏ qua và lây cho người xung quanh (mục 2.1.2).",
+     "Vì sao chưa gọi là sởi không biến chứng: bú giảm còn 6–7 cữ, ngủ nhiều, khóc yếu, nên không còn 'tỉnh táo, ăn bú tốt' (mục 2.6.1); WHO 2013 mục 3.6: bú kém, sốt > 38 °C là dấu hiệu nguy hiểm ở sơ sinh; trẻ < 12 tháng có nguy cơ nặng (QĐ 1019 mục 2.3).",
+     "Vì sao vẫn làm quy trình sốt sơ sinh: sởi giải thích ban và viêm long nhưng không loại trừ nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu; dưới 1 tháng có sốt cần cấy máu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6). AAP 2021 chỉ dành cho bé nhìn khỏe nên không áp dụng.",
+     "Vì sao loại trừ: Rubella (ban không trình tự, ít viêm long: QĐ 1019 mục 2.5); Kawasaki (sốt 4 ngày < 5 ngày: AHA 2017); sốt xuất huyết (sốt ngày 20, không ca trong vùng: QĐ 2760 mục C.2.6); ban dị ứng (không ngứa, ái toan 2%, ban theo trình tự).",
+     "Vì sao paracetamol là chẩn đoán: 75 mg ≈ 20 mg/kg/lần × 5 lần/ngày × 3 ngày, AST 88, ALT 54 U/L; men gan đạt đỉnh 48–72 giờ (QĐ 3610/2015 mục 3.2). Ngưỡng độc gan ở sơ sinh và khoảng tham chiếu men gan sơ sinh: không có trong tài liệu đã tải.",
+     "Lý do thật: bà sợ lây cho dì Lan mang thai; phụ nữ mang thai là nhóm nguy cơ (QĐ 1019 mục 2.3), được xem xét immune globulin (mục 5.1.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển gấp, không giữ lại, không cho về: sốt sơ sinh dưới 1 tháng, bú kém (WHO Pocket book 2013 mục 3.6, 3.8; QĐ 2341/2024 mục 2.2.2; NICE NG143 mục 1.2.12, 1.5.3–1.5.6). Cách ly ngay: phòng riêng, khẩu trang, báo trước bệnh viện, lau clo 0,05% (QĐ 1019 mục 3.1, 5.1.1, 5.1.2).",
+     "Kháng sinh: tiêm liều đầu rồi chuyển (QĐ 2341/2024; WHO) hoặc chuyển ngay để cấy trước (NICE mục 1.5.5) đều đúng; tuyến trên: cephalosporin thế hệ ba cộng ampicillin (NICE 1.5.7), hoặc ampicillin cộng gentamicin (WHO), hoặc ceftriaxone 50 mg/kg mỗi 24 giờ cho trẻ 22–28 ngày không rõ ổ nhiễm (AAP 2021 Bảng 3; ampicillin cộng ceftazidime hay gentamicin 4 mg/kg là phác đồ nhóm 8–21 ngày).",
+     "Paracetamol: ngưng, không thay bằng ibuprofen (WHO mục 3.10.4, 8.7.1; NICE mục 1.6.5); tuyến trên định lượng paracetamol máu, ALT, quyết định NAC (QĐ 3610/2015 mục 4.3.2). Vitamin A 50.000 IU × 2 liều cách 24 giờ (QĐ 1019 mục 3.2.1, Bảng 1; WHO mục 6.4); tiếp tục bú mẹ.",
+     "Truy vết: dì Lan mang thai còn trong 3–6 ngày đầu phơi nhiễm để xem xét immune globulin; người nhà > 9 tháng chưa tiêm hoặc chỉ 1 mũi: vắc xin sởi trong 72 giờ (QĐ 1019 mục 5.1.3). QĐ 1019 hạn chế chuyển cấp vì sởi lây cao (mục 3.3), nhưng chỉ ca không biến chứng, tỉnh, ăn bú tốt mới ở lại; bé này không đạt (mục 2.6.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Vitamin A (dạng uống phù hợp sơ sinh)",
+      "ham_luong": "Dạng có sẵn tại cơ sở",
+      "lieu": "50.000 IU/lần (trẻ < 6 tháng), hai liều cách nhau 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Liều 1 tại phòng khám nếu có sẵn hoặc ngay khi vào bệnh viện; liều 2 sau 24 giờ",
+      "so_ngay": "2 liều; liều 3 sau 4–6 tuần chỉ khi có suy dinh dưỡng nặng, thiếu vitamin A hoặc biến chứng nặng",
+      "ghi_chu": "QĐ 1019/2025 mục 3.2.1, Bảng 1; WHO Pocket book 2013 mục 6.4.1–6.4.2. Dạng bào chế riêng cho sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ampicillin (liều đầu trước chuyển, hoặc không tiêm tại chỗ)",
+      "ham_luong": "Lọ 250 mg",
+      "lieu": "50 mg/kg = 185 mg (bé 3,7 kg), mỗi 8 giờ ở tuần 2–4 tuổi (WHO Pocket book 2013, bảng liều thuốc sơ sinh: tuần đầu mỗi 12 giờ, tuần 2–4 mỗi 8 giờ)",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một liều trước khi lên xe",
+      "so_ngay": "Chỉ liều đầu; tuyến trên quyết định thời gian",
+      "ghi_chu": "WHO Pocket book 2013 mục 3.14 (tr. 69); QĐ 2341/2024 Bảng kiểm 1 mục 19a. Không tiêm tại chỗ cũng chấp nhận (NICE NG143 mục 1.5.5)."
+     },
+     {
+      "thuoc": "Gentamicin (liều đầu trước chuyển)",
+      "ham_luong": "Ống 80 mg/2 mL, pha thành 10 mg/mL",
+      "lieu": "7,5 mg/kg = 28 mg một lần/ngày (WHO 2013 mục 3.14)",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Cùng lúc ampicillin, vị trí khác",
+      "so_ngay": "Chỉ liều đầu tại phòng khám",
+      "ghi_chu": "WHO Pocket book 2013 mục 3.14 (tr. 71). AAP 2021 Bảng 3 (trẻ 22–28 ngày): ceftriaxone 50 mg/kg mỗi 24 giờ ở bệnh viện. NICE NG143 mục 1.5.7 thay bằng cephalosporin thế hệ ba cộng ampicillin."
+     },
+     {
+      "thuoc": "Paracetamol bột 150 mg (nhà đang dùng)",
+      "ham_luong": "150 mg/gói",
+      "lieu": "NGỪNG",
+      "duong": "Không dùng",
+      "thoi_diem": "Từ nay",
+      "so_ngay": "Không dùng hạ sốt ở bé dưới 1 tháng",
+      "ghi_chu": "WHO Pocket book 2013 mục 3.10.4 (tr. 58); NICE NG143 mục 1.6.5. Liều an toàn cho sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Sữa mẹ",
+      "ham_luong": "Sữa mẹ",
+      "lieu": "Cho bú từng ít một trên đường đi",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi lên xe và trên đường",
+      "so_ngay": "Đến khi vào bệnh viện; tiếp tục bú mẹ",
+      "ghi_chu": "QĐ 1019 mục 3.2.1 (tiếp tục bú mẹ); QĐ 2341/2024 Bảng kiểm 1 mục 19a (đề phòng hạ đường huyết); đường huyết 3,8 mmol/L."
+     }
+    ],
+    "dan_do": [
+     "Bé 24 ngày mà sốt, bú kém, nổi ban là dấu hiệu bệnh nặng cho đến khi chứng minh khác, dù bé còn tỉnh (NICE NG143 mục 1.2.12; WHO Pocket book 2013 mục 3.6). Hôm nay vào bệnh viện Nhi để lấy máu, nước tiểu, chọc dò tủy, tiêm kháng sinh, thử sởi.",
+     "Nghi sởi, lây qua không khí và giọt bắn (QĐ 1019 mục 1): bà và mẹ đeo khẩu trang suốt đường đi, không ghé nơi đông người; bé cách ly đến ít nhất 4 ngày sau khi ban mọc (mục 5.1.1).",
+     "Gói paracetamol cách 4–5 giờ là quá nhiều, ngưng hẳn, không tự mua thuốc hạ sốt hay thuốc nam cho bé; mang gói còn lại và nói đúng giờ gói cuối (WHO 2013 mục 3.10.4). Bà không có lỗi vì làm theo lời tiệm thuốc.",
+     "Dì Lan cần đi khám sản hoặc bệnh viện trong hôm nay hoặc sáng mai để xem có cần immune globulin, vì còn trong 3–6 ngày đầu sau tiếp xúc (QĐ 1019 mục 5.1.3); không chờ kết quả của bé. Người chưa mắc, chưa tiêm không nên tiếp xúc bé; nếu bắt buộc thì khẩu trang, rửa tay (mục 5.1.2).",
+     "Gọi cấp cứu ngay trên đường nếu bỏ bú, nôn mọi thứ, tím tái, thở nhanh hoặc rên, li bì, co giật (QĐ 1019 mục 3.2.1; WHO 2013 mục 3.6). Mẹ tiếp tục cho bú mẹ.",
+     "Ở nhà: lau bề mặt bằng clo hoạt tính 0,05%, mở cửa thông khí, không quấn kín bé (NICE 1.6.3). Bố bé đã qua 4 ngày sau ban nên không còn lây (QĐ 1019 mục 5.1.1). Mẹ hoặc bà sốt, ban, đỏ mắt trong 3 tuần tới thì đi khám ngay."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được xe có nhân viên y tế đưa lại bệnh viện Nhi tỉnh ngay sáng đó, vào thẳng phòng cách ly. Cấy máu, nước tiểu thông tiểu, dịch não tủy lấy trước kháng sinh; ampicillin và gentamicin bắt đầu ngay, vitamin A hai liều. RT-PCR sởi dịch tỵ hầu dương tính; cấy máu và dịch não tủy âm, kháng sinh ngưng sau khoảng 36 giờ. Bé bú tốt dần, ban lan xuống thân rồi nhạt, sốt hết sau 3 ngày; AST/ALT đạt đỉnh sau 48 giờ rồi giảm, không cần NAC kéo dài. Ra viện sau 7 ngày, cân 3,95 kg. Dì Lan được khám sản kịp thời gian dự phòng và mẹ, bà được theo dõi, không ai bị bệnh. Bà ngoại không còn tự mua thuốc hạ sốt cho cháu.",
+ "nhieu": [
+  "Bà ngoại trả lời thay, rút gọn 'rôm sảy', 'chút thuốc hạ sốt', gạt lời mẹ; chuyện bố bé nổi mẩn, số gói, giờ cuối, chuyện vợ chồng, nỗi lo cho dì Lan chỉ lộ khi hỏi thẳng hoặc hỏi riêng mẹ.",
+  "Paracetamol khoảng 100 mg/kg/ngày × 3 ngày che sốt (nách 37,9 °C), làm men gan tăng, làm bà yên tâm vì nhiệt độ 'hạ'. Ban thưa, không Koplik, 'rôm sảy' của bà và 'dị ứng' của trạm y tế làm lệch khỏi sởi.",
+  "Lý do thật của bà: sợ lây cho dì Lan mang thai. Chuyện vợ chồng sớm sau sinh mẹ ngại kể, không phải đường lây của sởi."
+ ],
+ "bai_hoc_bien": [
+  "Sởi không điển hình ở sơ sinh: ban thưa, không Koplik, sốt bị thuốc che vẫn đủ ca bệnh lâm sàng khi có tiếp xúc người bệnh 7–21 ngày (QĐ 1019/2025 mục 2.1.2, 2.4.1–2.4.2). Suýt bỏ qua vì chữ 'dị ứng' của trạm và 'rôm sảy' của bà; hỏi 'trong nhà ai bệnh hoặc nổi ban' mới ra nguồn lây.",
+  "Sởi nhẹ ngoại trú chỉ cho ca tỉnh, ăn bú tốt, không khó thở (QĐ 1019 mục 2.6.1, 3.2.1). Sơ sinh sốt, bú kém: chuyển bệnh viện có cách ly, vẫn làm đủ quy trình sốt sơ sinh (NICE NG143 mục 1.5.3–1.5.6; WHO Pocket book 2013 mục 3.6, 3.8).",
+  "Thuốc hạ sốt người nhà tự cho che sốt và tăng men gan: hỏi thẳng loại, số lần, giờ cuối; không dựa vào mức hạ nhiệt (NICE mục 1.5.15); ngưng thuốc, không thay ibuprofen (WHO mục 3.10.4, 8.7.1).",
+  "Tách người trả lời thay ra để hỏi riêng; hỏi 'bà lo điều gì nhất' mở ra lý do thật. Sởi phải truy vết: cách ly ngay, báo trước bệnh viện, dì mang thai cần đánh giá immune globulin trong 3–6 ngày (QĐ 1019 mục 3.1, 5.1.1–5.1.3)."
+ ],
+ "diem_nho": [
+  "Sởi điển hình: ủ bệnh 7–21 ngày; viêm long 2–4 ngày (sốt cao, ho, sổ mũi, viêm kết mạc, Koplik); ban dát sẩn mọc sau tai, trán, mặt, cổ rồi thân, tứ chi, mất khi căng da (QĐ 1019 mục 2.1.1). Không điển hình: sốt nhẹ, viêm long nhẹ, ban ít (mục 2.1.2).",
+  "Ca nghi ngờ: tiếp xúc 7–21 ngày + sốt, viêm long; ca lâm sàng: sốt + ho, sổ mũi hoặc viêm kết mạc + Koplik hoặc ban dạng sởi; xác định khi IgM hoặc PCR dương (IgM từ ngày 3 sau ban; PCR trong 72 giờ đầu: QĐ 1019 mục 2.2.3, 2.4).",
+  "Sởi không biến chứng: tỉnh, ăn bú tốt, không khó thở, điều trị ngoại trú được (mục 2.6.1, 3.2.1). Vitamin A: < 6 tháng 50.000 IU, 6–11 tháng 100.000 IU, ≥ 12 tháng 200.000 IU, hai liều cách 24 giờ (Bảng 1).",
+  "Cách ly đến ít nhất 4 ngày sau ban (QĐ 1019 mục 5.1.1); sau phơi nhiễm: vắc xin trong 72 giờ cho người > 9 tháng; immune globulin trong 3–6 ngày cho suy giảm miễn dịch nặng, trẻ < 9 tháng bệnh nền nặng, xem xét cho phụ nữ mang thai (mục 5.1.3).",
+  "Sốt sơ sinh: dưới 3 tháng từ 38 °C là nguy cơ cao (NICE NG143 mục 1.2.12); dưới 1 tháng: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm (mục 1.5.3–1.5.6); 0–2 tháng sốt hoặc bú kém: chuyển gấp (QĐ 2341/2024 mục 2.2.2).",
+  "Ngộ độc paracetamol: > 150 mg/kg một lần là ngưỡng độc; men gan đỉnh 48–72 giờ; ngộ độc mạn: NAC rồi định lượng paracetamol máu, ALT (QĐ 3610/2015 mục 3, 3.2, 4.3.2). Liều an toàn cho sơ sinh: không có trong tài liệu đã tải."
+ ],
+ "nguon": [
+  "QĐ 1019/QĐ-BYT 2025 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh Sởi – TL-0238 – ĐÃ ĐỌC: mục 1, 2.1.1–2.1.2, 2.2.1–2.2.3, 2.3, 2.4.1–2.4.3, 2.5, 2.6, 2.7, 3.1, 3.2.1 (Bảng 1), 3.3, 5.1.1–5.1.3",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.2.25–1.2.27, 1.5.2–1.5.7, 1.5.15, 1.6.2–1.6.6",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52), 3.8 (tr. 54), 3.10.4 (tr. 58), 3.14 (tr. 69–71), 6.4.1–6.4.2 (tr. 175–178), 8.7.1; phần Poisoning (paracetamol)",
+  "QĐ 2341/QĐ-BYT 2024 – Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) – kho cũ tltk-10000-ca – ĐÃ ĐỌC: mục 2.2.2, Phụ lục Bảng kiểm 1 mục 19a",
+  "AAP 2021 – Pantell RH et al., Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics 2021;148(2):e2021052228 – TL-0261 – ĐÃ ĐỌC: phần đối tượng (Population addressed), Bảng 3",
+  "QĐ 3610/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và xử trí ngộ độc – TL-0035 – ĐÃ ĐỌC: Ngộ độc paracetamol, mục 1–4.3.2",
+  "QĐ 2760/QĐ-BYT 2023 – Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: Giai đoạn sốt (mục 1.1–1.2), Chẩn đoán căn nguyên (mục 1.1), mục C.2.6",
+  "AHA 2017 – Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease – TL-0095 – ĐÃ ĐỌC: Principal Clinical Findings (Bảng 3), lưu đồ chẩn đoán chú thích 3",
+  "QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ ở trẻ em (mục 4.2, paracetamol ≤ 60 mg/kg/ngày)",
+  "Không có trong tài liệu đã tải: liều paracetamol an toàn, ngưỡng độc gan, khoảng tham chiếu công thức máu và men gan sơ sinh; dạng vitamin A cho sơ sinh; liều immune globulin; phác đồ NAC sơ sinh; IgG sởi cho người mang thai; xử trí mẹ cho con bú sau phơi nhiễm; khai báo ca sởi; bài rubella (QĐ 5642/2015, bản chữ thiếu)."
+ ],
+ "ghi_chu_bien_tap": [
+  "18/10/2026 – viết bản 1. Sơ sinh nam 24 ngày, 1 lượt, bà ngoại trả lời thay, chỉ có xét nghiệm cơ bản; sởi không điển hình; paracetamol liều cao kéo dài; lý do thật sợ lây cho dì mang thai; kết cục ổn, khỏi bệnh.",
+  "Biến 'yếu tố khởi phát: sau quan hệ tình dục' không có nghĩa lâm sàng ở sơ sinh: đặt như yếu tố ẩn của mẹ (vợ chồng gần gũi lại ngày bố về, bố chưa triệu chứng), không phải đường lây (sởi lây qua không khí, giọt bắn: QĐ 1019 mục 1), như cách đã dùng ở NH-1378.",
+  "Tài liệu đã đọc: TL-0238 (QĐ 1019/2025), TL-0262 (NICE NG143), TL-0250 (WHO 2013 mục 3, 6.4, 8.7.1, Poisoning), QĐ 2341/2024, TL-0261 (AAP 2021 phần đối tượng, Bảng 3), TL-0035 (QĐ 3610/2015), TL-0029 (QĐ 2760/2023), TL-0095 (AHA 2017), TL-0015 (QĐ 708).",
+  "Mâu thuẫn: áp dụng mục NH-0217 (đo nhiệt độ) và NH-1378 (kháng sinh, liều đầu trước chuyển, thuốc hạ sốt sơ sinh); mục ghi nhận mới xem NH-0850_mau_thuan.md.",
+  "Không có ảnh da: ảnh SCIN 'Viral Exanthem' xem trước đều không khớp (chi dưới người lớn tổn thương hợp lưu, hoặc 1–2 sẩn ở cổ tay); ban mô tả bằng chữ ở kham.da. Đề xuất danh mục mới: igm_soi. Diễn tiến ở bệnh viện trong ket_cuc là hư cấu hợp lý, không trích nguồn.",
+  "Trưởng nhóm (Opus) duyệt 18/10/2026: sửa trích dẫn AAP 2021 Bảng 3 – bé 24 ngày thuộc nhóm 22–28 ngày (ceftriaxone 50 mg/kg mỗi 24 giờ), không phải ampicillin + gentamicin 4 mg/kg (nhóm 8–21 ngày); liều ampicillin mỗi 8 giờ ở tuần 2–4 dẫn theo bảng liều sơ sinh WHO 2013."
+ ]
+}
