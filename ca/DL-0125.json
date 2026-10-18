@@ -1,0 +1,676 @@
+{
+ "ma_ca": "DL-0125",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_viem_da_tiep_xuc",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Viêm da tiếp xúc",
+  "chan_doan_phai_loai_tru": [
+   "Chàm",
+   "Nấm da",
+   "Zona"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau khi mặc đồ lót, quần đùi và vớ thun mới (biến gốc \"sau quan hệ tình dục\" không áp dụng cho bé 4 tuổi, đã thay bằng tiếp xúc đồ mới ở vùng đùi – bẹn)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (mẹ tự cho)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (mẹ sợ ban gần vùng kín ảnh hưởng đến con sau này)"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Quân",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo (lớp Nhỡ), học bán trú, ngủ trưa ở lớp, tự đi vệ sinh nhưng cô giúp lau và thay đồ",
+  "can_nang": 16,
+  "chieu_cao": 102,
+  "xung_ho": "Bé 4 tuổi xưng 'con', gọi 'bác sĩ' hoặc 'bác'. Mẹ là người kể chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 32 tuổi, công nhân may làm ca xoay, nói nhanh, hay tự trấn an bằng câu 'không sao đâu, nhẹ thôi', cẩn thận nhưng dễ tự trách. Bé hiếu động, nhút nhát với người lạ, hay đưa tay xuống gãi chân khi đứng chờ.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi cảm giác ('bé có ngứa nhiều không?') mẹ đáp 'dạ nhẹ thôi, gãi chút xíu'. Chỉ khi bác sĩ hỏi chức năng (đêm bé tỉnh mấy lần, cô giáo nhắn gì, ngủ trưa được không, mỗi ngày cho thuốc mấy lần, thuốc gì) mới lộ mức độ thật. Mẹ nói 'cho thuốc hạ sốt vài lần' lúc đầu; hỏi từng ngày, từng buổi mới ra 5 lần/ngày. Mẹ chưa dám hỏi chuyện chỗ kín; chỉ nói khi bác sĩ mở lời hoặc khám vùng bẹn – bìu và giải thích.",
+  "nguoi_nha": "Mẹ bé, chị Ngô Thị Hạnh, 32 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé thì bé trả lời rất ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e8c19c",
+   "toc": "#14100d",
+   "kieuToc": "ngan",
+   "ao": "#e8b13b",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e0b48c",
+    "toc": "#1d1612",
+    "kieuToc": "buoc",
+    "ao": "#6d8f7a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nổi mẩn đỏ ở chân khoảng 9 ngày (mẹ đưa đi khám)",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm AST, ALT, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi, soi da, test áp và các thăm dò chuyên sâu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Đặng Minh Quân, 4 tuổi, học mẫu giáo, đi cùng mẹ vì nổi mẩn đỏ ở chân khoảng 9 ngày. Sinh hiệu: mạch 98 l/p, HA 92/58 mmHg, nhiệt độ 37,1 °C, nhịp thở 22 l/p, SpO₂ 99%. Cân nặng 16 kg, chiều cao 102 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Quân lên Da liễu làm test áp ngay lúc da đang viêm là chưa đúng thời điểm: viêm hoạt động và vùng vừa bôi corticoid làm giảm đáp ứng, nên hoãn tới khi lành (ESCD 2026 mục 2.2.1, 8.1). BSA khoảng 3%, mặt, bàn tay, bàn chân, sinh dục không liên quan nên điều trị tại chỗ ngay (QĐ 4416, Viêm da tiếp xúc mục 3.2.1). Chuyển tuyến chỉ làm bé gãi, mất ngủ thêm nhiều ngày, mẹ công nhân phải nghỉ ca đưa con đi xa.",
+    "nhap_vien": "Nhập viện bé Quân để giải độc vì mẹ cho paracetamol nhiều ngày là quá tay: bé tỉnh, không nôn, không vàng da, không đau hạ sườn phải, AST/ALT bình thường; liều ≈ 78 mg/kg/ngày chia nhiều lần, thấp hơn mốc 150 mg/kg của QĐ 3610/2015 (mục 3) và WHO Pocket book 2013 (Poisoning). Ngưỡng liều mạn tính ở trẻ nhỏ: không có trong tài liệu đã tải. Nằm viện làm bé xa mẹ, nghỉ học, tốn kém, mẹ càng tự trách và sợ."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em đưa cháu đi khám cho yên tâm thôi chứ cũng không có gì nặng đâu ạ, chân cháu hơi đỏ đỏ mấy hôm nay. Cháu không ngứa mấy, chỉ gãi chút xíu thôi. Em làm ca nên cũng ngại xin nghỉ, bác sĩ cho em xin ít thuốc bôi là được, không cần thử gì đâu.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "92/58",
+    "nhiet": "37,1",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 9 ngày trước mẹ thấy chân bé đỏ thành vệt ở đùi phải, rồi cổ chân phải, sau đó nhẹ hơn ở chân trái. Có nổi nốt li ti, hôm sau có mấy nốt nước nhỏ ở cổ chân rồi trầy do gãi. Không đau, không sốt, không lan lên bụng, ngực, lưng, tay, mặt. Trước giờ bé chưa từng nổi mẩn kiểu này.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến, vị trí, hình thái tổn thương"
+    },
+    {
+     "id": "do_ngua",
+     "noi_dung": "Thật ra bé ngứa khá nhiều: đêm tỉnh 2–3 lần ngồi dậy gãi chân, khóc nhè, ngủ trưa ở lớp không yên; cô giáo nhắn mấy lần là bé gãi liên tục, cáu, không chịu chơi. Ăn uống bình thường, vẫn đi học. Mẹ nói 'nhẹ thôi' vì sợ bị bảo cho nghỉ học hay nằm viện, mà mẹ không xin nghỉ ca được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ ngứa thật: câu hỏi chức năng (ngủ, lớp học) thay câu hỏi cảm giác; đối phó với phủ nhận triệu chứng"
+    },
+    {
+     "id": "do_moi",
+     "noi_dung": "Khoảng 3 tuần trước mẹ mua online một bộ đồ mới: 3 quần lót ôm đùi, 2 đôi vớ, 1 quần đùi thun, gấu ống và viền cổ vớ có thun bản to, mùi cao su. Mẹ giặt một lần rồi cho bé mặc gần như mỗi ngày. Đồ cũ (cotton, gấu rộng) mặc trước đó không bị. Mẹ chưa nghĩ tới đồ mới vì 'đồ trẻ con thì hiền'. Không ai khác bị; không đổi bột giặt, xà phòng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị nguyên nghi ngờ: thun cao su ở đồ lót, quần đùi, vớ mới; vị trí đúng đường gấu (yếu tố khởi phát với bé)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Mẹ tự cho paracetamol gói 250 mg 'cho bé dịu, ngủ được' vì thấy bé 'hâm hấp nóng' ban đêm (không đo nhiệt độ; hôm nay 37,1 °C). Mỗi ngày 5 lần (sáng, trưa, chiều, tối, nửa đêm), mỗi lần 1 gói, liên tục 8 ngày ≈ 1.250 mg/ngày; lần cuối tối qua. Mẹ không đọc hướng dẫn theo cân nặng. Bé không nôn, không chán ăn, không vàng da, nước tiểu vàng bình thường. Không dùng thuốc khác, chưa bôi gì lên da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài (khoảng 78 mg/kg/ngày, 8 ngày); mẹ khai 'vài lần' lúc đầu"
+    },
+    {
+     "id": "lo_sinh_san",
+     "noi_dung": "Điều mẹ lo nhất là ban nằm gần chỗ kín: mẹ và chồng hiếm muộn 6 năm, làm thụ tinh ống nghiệm mới có Quân, là con một. Đọc trên mạng 'bệnh da vùng bẹn có thể ảnh hưởng tinh hoàn, sau này khó có con', mẹ sợ mà không dám hỏi vì nghĩ mình làm cha mẹ không cẩn thận. Chồng đi làm xa, hôm nay mẹ tự đưa con đi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Lộ khi bác sĩ hỏi mở 'mẹ còn lo lắng điều gì nhất, có điều gì chưa tiện hỏi', hoặc khi khám vùng bẹn – bìu có giải thích cho mẹ.",
+     "k": 1,
+     "y": "Lý do thật: lo khả năng sinh sản của con"
+    },
+    {
+     "id": "loai_tru",
+     "noi_dung": "Bé không sốt, ho, nôn, tiêu chảy. Không ai trong nhà hay lớp bị ngứa hoặc nổi mẩn tương tự; không đi biển, bể bơi, không thú cưng, không côn trùng cắn. Không đau rát dọc dây thần kinh, không chùm mụn nước một bên. Chưa từng chàm sữa, cả nhà không ai hen hay chàm; bé chưa tiêm vắc xin thủy đậu và chưa từng bị thủy đậu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ kiện loại trừ chàm, nấm, zona, ghẻ"
+    },
+    {
+     "id": "nhieu_me",
+     "noi_dung": "Mẹ làm ca xoay, thường nhờ bà ngoại đón bé; mẹ nói nhanh, hỏi 'có phải kê đơn thật nhanh được không bác sĩ, em phải vào ca', và hay nói 'không sao đâu bác sĩ' mỗi khi bác sĩ hỏi sâu hơn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: phủ nhận, vội vã; dạy hỏi chức năng, ghi nhận lo lắng"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Đùi phải mặt trước – ngoài: hai dải đỏ hồng hơi nổi và phù nhẹ, bờ rõ, rộng khoảng 1–1,5 cm, dài 8–10 cm, nằm song song cách nhau khoảng 6 cm, bề mặt có nhiều sẩn li ti dày đặc, theo đường gấu thun của quần lót và quần đùi. Cổ chân phải: một dải đỏ mảnh chếch dài khoảng 6 cm có vảy nhỏ ở mép; cạnh đó mảng đỏ 2 × 3 cm có sẩn, vài mụn nước nhỏ, vài vết trầy do gãi, rỉ dịch trong ít, không có mày vàng. Đùi trái: một dải đỏ mờ ngắn khoảng 4 cm; cổ chân trái: dải đỏ nhẹ, không sẩn. Da giữa các dải bình thường. Không bọng nước, không tổn thương thành dải theo dây thần kinh, không mảng tròn lành giữa, không viền vảy; kẽ ngón tay chân, lòng bàn tay, bàn chân, thân, tay, mặt, da đầu: bình thường; không thấy luống ghẻ. BSA ước khoảng 3% (một bàn tay của bé ≈ 1%).",
+     "k": 1,
+     "hien": "Đùi phải mặt trước – ngoài: hai dải đỏ hồng hơi nổi, rộng khoảng 1–1,5 cm, dài 8–10 cm, song song cách nhau khoảng 6 cm, nhiều sẩn li ti. Cổ chân phải: một dải đỏ mảnh chếch có vảy nhỏ và một mảng đỏ 2 × 3 cm có sẩn, mụn nước nhỏ, vài vết trầy. Đùi trái và cổ chân trái: dải đỏ nhạt hơn. Kẽ ngón, lòng bàn tay, bàn chân, thân, tay, mặt, da đầu: không tổn thương. Bé dùng tay gãi chân khi đang khám."
+    },
+    "bui_tinh_hoan": {
+     "a": "Nếp bẹn phải: dải đỏ nhẹ rộng khoảng 1 cm theo đường gấu quần lót, không trợt, không mày; nếp bẹn trái bình thường. Bìu: da bình thường, không đỏ, không phù, không vảy; hai tinh hoàn nằm trong bìu, kích thước hai bên cân nhau, không đau, không sưng; mào tinh, thừng tinh bình thường. Hạch bẹn hai bên không to.",
+     "k": 1,
+     "hien": "Nếp bẹn phải: dải đỏ nhẹ rộng khoảng 1 cm, không trợt, không mày. Nếp bẹn trái bình thường. Da bìu bình thường, hai tinh hoàn trong bìu, không đau. Không sờ thấy hạch bẹn."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Da dương vật, bao quy đầu bình thường, không đỏ, không phù, không trợt, không tiết dịch niệu đạo.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 16 kg, chiều cao 102 cm (dùng để tính liều thuốc theo cân).",
+     "k": 1,
+     "hien": "Cân nặng 16 kg, chiều cao 102 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không sờ thấy to, không ấn đau hạ sườn phải.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng, không sờ thấy gan lách to, bé không kêu đau khi ấn hạ sườn phải."
+    },
+    "toan_than": {
+     "a": "Tỉnh, linh hoạt, hay đưa tay xuống gãi chân; da niêm hồng, không vàng da, không phù, không sốt.",
+     "k": 0,
+     "hien": "Tỉnh, linh hoạt, da niêm hồng, không vàng da, không phù."
+    },
+    "dau_mat_co": {
+     "a": "Mặt, mi mắt, môi không phù, không ban. Hạch cổ, hạch nách không to.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng, họng bình thường, không loét, không đỏ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không tiếng thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p."
+    },
+    "phoi": {
+     "a": "Phổi thông khí rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Phổi thông khí rõ hai bên, nhịp thở 22 l/p."
+    },
+    "da_dau_mong": {
+     "a": "Da đầu không vảy, không rụng tóc từng mảng; móng tay chân bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,6 G/L · Neutrophil 52% · Lympho 38% · Eosinophil 4% · Hb 131 g/L · TC 310 G/L",
+     "bang": {
+      "wbc": 8.6,
+      "neu_pct": 52,
+      "lym_pct": 38,
+      "eos_pct": 4,
+      "hgb": 131,
+      "plt": 310
+     },
+     "n": "Chấp nhận, không bắt buộc: viêm da tiếp xúc chẩn đoán bằng lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.1.3); CTM là xét nghiệm đầu của QĐ 3610/2015 (mục 3.3) khi nghi ngộ độc paracetamol."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 31 U/L · ALT 24 U/L (bình thường theo khoảng tham chiếu của phòng xét nghiệm, bé không có triệu chứng gan).",
+     "n": "Nên làm: bé dùng paracetamol ≈ 78 mg/kg/ngày × 8 ngày, hơn mức tối đa 60 mg/kg/ngày (QĐ 292/2024 mục 3.2.1). QĐ 3610/2015 (mục 3.3) dùng AST, ALT làm xét nghiệm đầu; AST/ALT lên đỉnh 48–72 giờ (mục 3.2). Bình thường cho phép xử trí ngoại trú; ngưỡng liều mạn tính ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    "soi_nam": {
+     "v": "a",
+     "r": "Không thấy sợi nấm, không thấy bào tử nấm (cạo vảy mảng ở cổ chân phải).",
+     "n": "Chấp nhận: nấm sợi có mảng đỏ tròn, vảy, lành giữa (QĐ 4416, Bệnh da do nấm sợi mục 2.1); soi tươi là cận lâm sàng của bệnh (mục 2.2). Không bắt buộc vì hình thái theo đường gấu thun."
+    },
+    "chuc_nang_gan": {
+     "v": "n",
+     "r": "Cơ sở không làm được bộ chức năng gan mở rộng (bilirubin, ALP, GGT, albumin, PT/INR).",
+     "n": "Không cần: AST, ALT bình thường, bé không vàng da, không đau hạ sườn phải. QĐ 3610/2015 (Ngộ độc paracetamol mục 3.3) chỉ thêm đông máu, bilan khi có tăng AST, ALT hay triệu chứng."
+    },
+    "ige_tong": {
+     "v": "n",
+     "r": "Cơ sở không làm được IgE toàn phần.",
+     "n": "Không cần: IgE toàn phần không xác định dị nguyên của viêm da tiếp xúc dị ứng (type IV); test áp mới có vai trò (QĐ 4416, Viêm da tiếp xúc mục 1.3, 2.1.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc (nghi thể dị ứng) ở đùi – cổ chân hai bên, nhiều hơn bên phải, thêm nếp bẹn phải; giai đoạn cấp, BSA ≈ 3%, chưa liên quan mặt, bàn tay, bàn chân, sinh dục, chưa bội nhiễm; dị nguyên nghi từ thun cao su ở đồ lót, quần đùi và vớ mới, chưa xác định; kèm việc mẹ tự cho paracetamol quá liều khuyến cáo (khoảng 78 mg/kg/ngày × 8 ngày), AST, ALT bình thường",
+     "ok": 1,
+     "n": "Dát đỏ ranh giới rõ, phù, sẩn, mụn nước, ngứa; dựa lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 2.1.3). Dải đúng đường gấu thun, hai bên, sau 3 tuần mặc đồ mới: mẫn cảm 5–21 ngày rồi tái tiếp xúc 48–72 giờ (mục 1.3); dị nguyên chính gồm chất dẻo, cao su (mục 1.3). Dị ứng hay kích ứng: chỉ test áp phân biệt (mục 2.1.2, 2.2.2). ICD-10 L23 (DDG 2022 mục 1.1). Paracetamol: tối đa 60 mg/kg/ngày (QĐ 292/2024 mục 3.2.1); liều gây ngộ độc > 150 mg/kg (QĐ 3610/2015 mục 3)."
+    },
+    {
+     "t": "Viêm da cơ địa (chàm thể tạng)",
+     "n": "Cần ≥ 3 tiêu chuẩn chính và ≥ 3 phụ (Hanifin–Rajka, QĐ 4416, Viêm da cơ địa mục 2.3.1). Bé: đợt đầu, không chàm sữa, không tiền sử gia đình, tổn thương không ở nếp khuỷu, khoeo mà theo đường gấu thun; DDG 2022 (mục 2.4) nhắc nghĩ cả viêm da tiếp xúc ở trẻ."
+    },
+    {
+     "t": "Nấm da (nấm thân, nấm bẹn)",
+     "n": "Nấm sợi: mảng đỏ tròn hay nhiều cung, vảy, lành giữa, lan ra (QĐ 4416, Bệnh da do nấm sợi mục 2.1). Bé: dải thẳng theo gấu thun, không viền vảy; soi tươi âm tính (mục 2.2)."
+    },
+    {
+     "t": "Zona",
+     "n": "Zona: đau rát trước, mụn nước chùm theo một dây thần kinh, một bên (QĐ 4416, Zona mục 2.1); phân biệt khi viêm da tiếp xúc có bọng nước (mục 2.1.4). Bé: hai bên, dạng dải theo đồ mặc, không chùm mụn nước, không đau; chưa thủy đậu nên loại bằng hình thái."
+    },
+    {
+     "t": "Viêm da tiếp xúc kích ứng (cọ xát, mồ hôi, độ ẩm dưới viền thun)",
+     "n": "Giống thể dị ứng, rất khó phân biệt, lành nhanh sau vài ngày hoặc vài tuần ngừng tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.2.1); xử trí giống nhau, phân biệt bằng test áp (mục 2.2.2)."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Ghẻ: mụn nước rải rác ở kẽ ngón, cổ tay, quanh thắt lưng, mặt trong đùi, sinh dục; nhiều người trong nhà có biểu hiện tương tự (QĐ 4416, Bệnh ghẻ mục 2.1). Bé: dải thẳng, hai bên, cả nhà không ngứa, kẽ ngón sạch."
+    },
+    {
+     "t": "Chốc / bội nhiễm thứ phát",
+     "n": "Chốc: bọng nước nông hóa mủ, vảy tiết vàng mật ong (QĐ 4416, Bệnh chốc mục 2.1). Bé: vài vết trầy, rỉ dịch trong ít, không mày vàng, không sốt, không hạch → chưa bội nhiễm."
+    },
+    {
+     "t": "Phản ứng thuốc (paracetamol đang dùng), kể cả DRESS",
+     "n": "DRESS: 2–8 tuần sau thuốc, ban lan tỏa, hạch to, bất thường huyết học, tổn thương nội tạng (QĐ 4416, DRESS mục 1.1, 2.1). Bé: ban khu trú theo đồ mặc, có trước khi cho paracetamol, không sốt, hạch, eosinophil 4%, AST/ALT bình thường. QĐ 4416 không có bài phát ban do thuốc đơn thuần."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng về triệu chứng bằng câu hỏi chức năng, khám đủ chân, bẹn, bìu, dương vật; xác định không thuộc nhóm cần corticoid toàn thân (mặt, bàn tay, bàn chân, sinh dục, > 20% BSA)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): > 20% BSA hoặc mặt, bàn tay, bàn chân, sinh dục thì corticosteroid toàn thân là lựa chọn thứ nhất. Bé BSA ≈ 3%, sinh dục không liên quan → điều trị tại chỗ."
+    },
+    {
+     "t": "Tìm và loại bỏ dị nguyên: ngưng toàn bộ quần lót, quần đùi, vớ mới; mặc đồ cotton cũ gấu rộng",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.1; mục 1.1: dai dẳng, tái phát nếu không loại dị nguyên); DDG 2022 (mục 3.2): tránh dị nguyên nghiêm ngặt."
+    },
+    {
+     "t": "Ngưng paracetamol tự cho; hướng dẫn liều đúng theo cân nặng nếu thật sự sốt hay khó chịu: 10–15 mg/kg/lần (160–240 mg cho bé 16 kg), cách 4–6 giờ, tối đa 60 mg/kg/ngày (960 mg); ngứa không điều trị bằng paracetamol",
+     "v": "c",
+     "n": "QĐ 292/2024 (TL-0239, mục 3.1: 10–15 mg/kg/lần mỗi 4–6 giờ; mục 3.2.1: tối đa 60 mg/kg/ngày). WHO 2013 (Annex 2): tối đa 6 lần/ngày (cao hơn); chọn 60 mg/kg/ngày vì thận trọng (xem sổ mâu thuẫn). QĐ 4416 (mục 3.2.1) không liệt kê paracetamol cho ngứa."
+    },
+    {
+     "t": "Betamethason valerat 0,1% dạng kem bôi lên các dải ở đùi và cổ chân 2 lần/ngày, tối đa 10 ngày, ngừng khi lành",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): 1–2 lần/ngày, 2–4 tuần hoặc tới khi lành; chú ý teo da, giãn mạch. Trẻ em nhóm TIX ≥ 2 (DDG 2022 mục 3.3.1.2, 3.3.4.1); Class 5 (AAD-NPF 2021). Chọn đoạn ngắn vì bé 4 tuổi."
+    },
+    {
+     "t": "Hydrocortison 1% dạng kem bôi nếp bẹn phải 2 lần/ngày, 7 ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): mặt gấp dùng nhóm trung bình tới nhẹ, 1–2 tuần; DDG 2022 (mục 3.3.1.2): thấp ở nếp gấp; Class 7 (AAD-NPF 2021). Bôi lên bìu, dương vật: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loratadin siro 5 mg/5 mL, uống 5 mL (5 mg) mỗi tối, 5–7 ngày để giảm ngứa, ngủ yên",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): kháng histamin uống giảm ngứa; liều 2–5 tuổi 5 mL/ngày (QĐ 3942/2014, Bảng 3); không an thần ở liều thông thường. Thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kem hoặc mỡ dưỡng ẩm không hương liệu bôi nhiều lần/ngày trên da lành quanh tổn thương; cắt móng tay, hạn chế gãi, tắm nhẹ, giữ khô",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1, 3.1; Bệnh chốc mục 3.1, 4); DDG 2022 (mục 3.3.4.1): tránh xà phòng kiềm, ure ở trẻ nhỏ."
+    },
+    {
+     "t": "Ghi nhận và trả lời nỗi lo của mẹ về chuyện sinh sản: bìu, tinh hoàn, dương vật khám bình thường, ban là ở da đùi – bẹn do đồ mặc",
+     "v": "c",
+     "n": "Nhận định lâm sàng dựa trên khám. Liên quan viêm da đùi – bẹn với sinh sản sau này: không có trong tài liệu đã tải. Kỹ năng giao tiếp: hỏi mở, khám có giải thích."
+    },
+    {
+     "t": "Hẹn tái khám sau 10 ngày; quay lại sớm nếu sốt, nổi mủ, mày vàng, ban lan nhanh hoặc lan sang bìu – dương vật, mặt, tay; mẹ không tự cho thuốc hạ sốt quá liều",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1: 1–2 tuần, 2–4 tuần; Bệnh chốc mục 2.1). Mốc 10 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Betamethason dipropionat 0,05% (hiệu lực mạnh) cho các dải ở đùi",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1) dùng loại mạnh ở mặt duỗi; trẻ em nên nhóm TIX ≥ 2, đoạn ngắn (DDG 2022 mục 3.3.4.1); Class 5, như valerat 0,1% (AAD-NPF 2021) nên không sai."
+    },
+    {
+     "t": "Nhập viện hoặc truyền N-acetylcystein để 'giải độc' vì lo paracetamol quá liều",
+     "v": "a",
+     "n": "QĐ 3610/2015 (mục 4.3.1): NAC khi liều cấp > 150 mg/kg hoặc có tổn thương gan; mục 4.3.2 (ngộ độc mạn): NAC rồi định lượng paracetamol máu, ALT. Bé ước 78 mg/kg/ngày, không triệu chứng, AST/ALT bình thường, cơ sở không định lượng được paracetamol máu: thận trọng quá mức, không cần."
+    },
+    {
+     "t": "Prednisolon uống 0,5–1 mg/kg/ngày hoặc tiêm corticoid một mũi 'cho mau hết'",
+     "v": "w",
+     "n": "Chỉ khi > 20% BSA hoặc mặt, bàn tay, bàn chân, sinh dục (QĐ 4416 mục 3.2.1); ở trẻ chỉ khi nặng, dai dẳng, tối đa 7 ngày (DDG 2022 mục 3.3.4.3). Bé BSA ≈ 3%. Liều tiêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh uống (cephalexin) hoặc mupirocin cho vết trầy do gãi",
+     "v": "w",
+     "n": "Chưa bội nhiễm: không mày vàng, mủ, sốt, hạch (QĐ 4416, Bệnh chốc mục 2.1); kháng sinh toàn thân chỉ khi tổn thương nhiều, lan tỏa (mục 3.2.2)."
+    },
+    {
+     "t": "Chuyển Da liễu làm test áp ngay lúc đang viêm cấp",
+     "v": "w",
+     "n": "Test áp xác định dị nguyên (QĐ 4416 mục 2.1.2) nhưng hoãn khi viêm da hoạt động và vùng vừa bôi corticoid, ngưng 7 ngày (thấp – trung bình) hoặc 14 ngày (mạnh) (ESCD 2026 mục 2.2.1, 8.1); cơ sở không có."
+    },
+    {
+     "t": "Tiếp tục cho paracetamol 4–5 lần/ngày mỗi lần 250 mg 'cho bé dịu và ngủ được'",
+     "v": "w",
+     "n": "Bé 16 kg: 1.250 mg/ngày ≈ 78 mg/kg/ngày, vượt tối đa 60 mg/kg/ngày (QĐ 292/2024 mục 3.2.1); paracetamol không trị ngứa (QĐ 4416 mục 3.2.1 dùng kháng histamin); dùng kéo dài tăng nguy cơ ngộ độc (QĐ 3610/2015 mục 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc, nghi thể dị ứng (ICD-10 L23), giai đoạn cấp",
+     "Vị trí: đùi phải (hai dải), cổ chân phải, nhẹ hơn ở đùi trái, cổ chân trái và nếp bẹn phải; BSA ≈ 3%; mặt, bàn tay, bàn chân, bìu, dương vật không liên quan",
+     "Dị nguyên nghi: thun cao su (kèm vật liệu của vải, thuốc nhuộm) ở đồ lót, quần đùi, vớ mới, mặc liên tục 3 tuần; kích ứng do cọ xát, mồ hôi có thể chồng lên; chưa xác định bằng test áp",
+     "Chưa bội nhiễm; chưa có sốt, hạch",
+     "Việc dùng paracetamol quá mức khuyến cáo (khoảng 78 mg/kg/ngày × 8 ngày, mẹ tự cho), AST và ALT bình thường, không triệu chứng; không nhập viện",
+     "Đã loại trừ trên lâm sàng và soi tươi: viêm da cơ địa (chàm), nấm da, zona, ghẻ, chốc nguyên phát, phản ứng thuốc / DRESS",
+     "Không thuộc nhóm cần corticoid toàn thân: BSA < 20%, không mặt, bàn tay, bàn chân, sinh dục"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận lo lắng và vội vã của mẹ, tóm tắt → hỏi chức năng (đêm tỉnh mấy lần, ngủ trưa, cô giáo nhắn gì) thay vì cảm giác → diễn tiến, vị trí, hình thái → hỏi tiếp xúc có hệ thống (đồ mặc, vớ, bột giặt, thuốc bôi) → thuốc đang dùng đến tận hàm lượng, số lần, số ngày, lần cuối → tiền sử cơ địa, thủy đậu → toàn thân (sốt, vàng da, nôn, đau hạ sườn) → hỏi mở mẹ còn lo gì → khám chân, nếp bẹn, bìu, dương vật, bụng, cân nặng → soi tươi, AST/ALT → chẩn đoán → xử trí.",
+     "Vì sao viêm da tiếp xúc: dát đỏ ranh giới rõ, phù, sẩn, mụn nước, ngứa (QĐ 4416, Viêm da tiếp xúc mục 2.1.1); chẩn đoán dựa lâm sàng và yếu tố tiếp xúc (mục 2.1.3). Dải đúng đường gấu thun, hai bên, bắt đầu sau 3 tuần mặc đồ mới, đồ cũ không bị (mẫn cảm 5–21 ngày, tái tiếp xúc 48–72 giờ, mục 1.3); dị nguyên chính gồm chất dẻo, cao su (mục 1.3). Dị ứng hay kích ứng khó phân biệt (mục 2.2.1), chỉ test áp xác định (mục 2.1.2). Chàm cần ≥ 3 tiêu chuẩn chính và ≥ 3 phụ (Viêm da cơ địa mục 2.3.1), bé đợt đầu; DDG 2022 (mục 2.4) nhắc nghĩ cả viêm da tiếp xúc ở trẻ có tổn thương dạng chàm. Nấm: soi tươi âm tính. Zona: một bên theo dây thần kinh (Zona mục 2.1). Ghẻ: dịch tễ, vị trí kẽ (mục 2.1).",
+     "Paracetamol: mẹ cho vì thấy bé 'hâm hấp nóng' do ngứa, bé không sốt. 5 gói × 250 mg = 1.250 mg/ngày, bé 16 kg → 78 mg/kg/ngày: hơn mức 60 mg/kg/ngày (QĐ 292/2024 mục 3.2.1) nhưng thấp hơn mốc 150 mg/kg (QĐ 3610/2015 mục 3; WHO Pocket book 2013, Poisoning). Giai đoạn 1 thường im lặng, AST/ALT lên đỉnh 48–72 giờ (QĐ 3610 mục 3.2) nên xét nghiệm là hợp lý; bình thường và không triệu chứng thì dừng thuốc, dặn liều đúng. Ngưỡng liều mạn tính ở trẻ nhỏ: không có trong tài liệu đã tải.",
+     "Phủ nhận triệu chứng nặng: mẹ giảm nhẹ vì sợ bị bắt nghỉ học hay nằm viện; hỏi chức năng mới lộ mức ngứa thật và paracetamol (kỹ năng giao tiếp, không có trong tài liệu).",
+     "Lý do thật: mẹ sợ ban gần vùng kín hại khả năng sinh sản của con (mẹ hiếm muộn 6 năm). Không mở lời thì mẹ về mà vẫn lo, có thể đi khám xét nhiều nơi. Khám bìu, tinh hoàn có giải thích là cách đáp ứng; liên quan này không có trong tài liệu nên chỉ nói điều khám thấy."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, thuốc bôi tại chỗ, hẹn tái khám (ve_hen). Không nhập viện, không chuyển tuyến: BSA ≈ 3%, sinh dục không liên quan, chưa bội nhiễm, AST/ALT bình thường (QĐ 4416, Viêm da tiếp xúc mục 3.2.1).",
+     "Gốc điều trị là loại bỏ dị nguyên (QĐ 4416 mục 3.1; DDG 2022 mục 3.2): ngưng toàn bộ đồ mới, mặc đồ cotton cũ.",
+     "Corticoid bôi bậc 1 (QĐ 4416 mục 3.2.1; DDG 2022 mục 3.3.1.2): đùi, cổ chân betamethason valerat 0,1% kem (Class 5), tối đa 10 ngày; nếp bẹn hydrocortison 1% (Class 7), 7 ngày (nếp gấp: nhóm trung bình tới nhẹ, 1–2 tuần). Không bôi lên bìu, dương vật: không có trong tài liệu đã tải.",
+     "Loratadin siro 5 mL (5 mg) mỗi tối theo liều 2–5 tuổi (QĐ 3942/2014, Bảng 3); dưỡng ẩm, cắt móng tay để hạn chế gãi và bội nhiễm (QĐ 4416, Bệnh chốc mục 3.1).",
+     "Paracetamol: ngưng cho thường quy; khi sốt hay khó chịu thật: 10–15 mg/kg/lần mỗi 4–6 giờ, tối đa 60 mg/kg/ngày (QĐ 292/2024 mục 3.1, 3.2.1) = 160–240 mg/lần, không quá 960 mg/ngày. WHO 2013 (Annex 2) cho tối đa 6 lần/ngày (cao hơn); ca lấy mức thận trọng hơn.",
+     "Corticoid toàn thân không có chỉ định: QĐ 4416 (mục 3.2.1) cần > 20% BSA hoặc mặt, bàn tay, bàn chân, sinh dục; DDG 2022 (mục 3.3.3.1, 3.3.4.3) ở trẻ chỉ khi nặng, dai dẳng, tối đa 7 ngày (đã có mục sổ mâu thuẫn từ DL-0085). Test áp hoãn khi da đang viêm và tại vùng bôi corticoid (ESCD 2026 mục 2.2.1, 8.1), cơ sở không có; quyết ở lần tái khám (QĐ 4416 mục 2.1.2; ESCD 2026 mục 9.1.1). Hẹn 10 ngày: mốc cụ thể không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Betamethason valerat (kem)",
+      "ham_luong": "0,1% (dạng kem)",
+      "lieu": "Bôi lớp mỏng lên hai dải ở đùi và vùng cổ chân; không bôi nếp bẹn, bìu",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "2 lần/ngày, sáng và tối sau tắm",
+      "so_ngay": "Tối đa 10 ngày, ngừng khi lành",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: 1–2 lần/ngày, 2–4 tuần hoặc tới khi lành; chú ý teo da, giãn mạch). Class 5 (AAD-NPF 2021); trẻ em nhóm TIX ≥ 2 (DDG 2022 mục 3.3.4.1). Chế phẩm bán tại Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Hydrocortison (kem)",
+      "ham_luong": "1% (dạng kem)",
+      "lieu": "Bôi lớp mỏng lên dải đỏ ở nếp bẹn phải",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "2 lần/ngày, sáng và tối",
+      "so_ngay": "7 ngày (kéo dài tối đa 14 ngày nếu chưa lành)",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1): vùng mặt gấp dùng nhóm trung bình tới nhẹ, 1–2 lần/ngày, 1–2 tuần; DDG 2022 (mục 3.3.1.2): hiệu lực thấp ở nếp gấp. Hydrocortison 0,5–2,5% là Class 7 (AAD-NPF 2021)."
+     },
+     {
+      "thuoc": "Loratadin (siro)",
+      "ham_luong": "5 mg/5 mL",
+      "lieu": "5 mL (5 mg) cho bé 4 tuổi, 16 kg",
+      "duong": "Uống",
+      "thoi_diem": "1 lần/ngày, buổi tối",
+      "so_ngay": "5–7 ngày hoặc tới khi hết ngứa",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1): kháng histamin uống để giảm ngứa; liều 2–5 tuổi 5 mL/ngày (QĐ 3942/2014, Bảng 3). Thời gian: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem hoặc mỡ dưỡng ẩm không hương liệu",
+      "ham_luong": "—",
+      "lieu": "Bôi lớp vừa phải lên da lành quanh tổn thương và lên vùng vừa lành",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Nhiều lần trong ngày, nhất là sau tắm",
+      "so_ngay": "Cho tới khi da hồi phục",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1, 3.1). DDG 2022 (mục 3.3.4.1): tránh sản phẩm chứa ure ở trẻ nhỏ. Tên sản phẩm: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro 160 mg/5 mL hoặc gói chia đúng liều) – CHỈ khi thật sự sốt hay khó chịu, không dùng thường quy",
+      "ham_luong": "160 mg/5 mL (cách ghi ví dụ; chế phẩm bán tại Việt Nam: không có trong tài liệu đã tải)",
+      "lieu": "10–15 mg/kg/lần = 160–240 mg (5–7,5 mL) cho bé 16 kg",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau ≥ 4–6 giờ, khi cần",
+      "so_ngay": "Ngắn ngày; tối đa 60 mg/kg/ngày = 960 mg/ngày",
+      "ghi_chu": "QĐ 292/2024 (TL-0239, mục 3.1, 3.2.1); WHO 2013 (Annex 2) tối đa 6 lần/ngày (cao hơn), ca theo mức thận trọng. Gói 250 mg của mẹ không chia đúng liều 160–240 mg: dặn không tự cho."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn đồ mới (3 quần lót, 2 vớ, quần đùi), kể cả giặt kỹ; mặc đồ cotton gấu rộng cũ; mua đồ mới chọn loại không có thun cao su bản to sát da, mặc thử vài ngày (DDG 2022 mục 3.2). Số ngày theo dõi: không có trong tài liệu đã tải.",
+     "Không cho paracetamol thường quy; khi sốt hay khó chịu thật: 160–240 mg mỗi lần, cách ≥ 4–6 giờ, không quá 960 mg/ngày (QĐ 292/2024 mục 3.1, 3.2.1); đo nhiệt độ trước; dùng siro có vạch chia, không dùng gói 250 mg; tránh thuốc trùng paracetamol (QĐ 3610/2015 mục 2). Quay lại ngay nếu nôn, đau bụng bên phải, vàng da, nước tiểu sẫm (mục 3.2).",
+     "Thuốc bôi đúng chỗ, đúng số ngày; không bôi corticoid lên bìu, dương vật; không bôi dầu, lá. Cắt móng tay, hạn chế gãi (QĐ 4416, Bệnh chốc mục 3.1, 4).",
+     "Về nỗi lo của mẹ: bìu, tinh hoàn, dương vật của bé khám bình thường; ban ở da đùi và nếp bẹn do đồ mặc. Liên quan với sinh sản sau này: không có trong tài liệu đã tải, không hứa hơn điều khám thấy.",
+     "Tái khám sau 10 ngày; quay lại sớm nếu sốt, mủ, mày vàng, ban lan nhanh, hoặc lên bìu, dương vật, mặt, tay (QĐ 4416, Viêm da tiếp xúc mục 3.2.1; Bệnh chốc mục 2.1). Mẹ không có lỗi; bé đi học bình thường."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 10 ngày",
+   "tiep_don": "Tái khám sau 10 ngày. Mẹ báo bé hết ngứa, hết đỏ, nhưng chân còn nhiều vệt sậm màu, mẹ lo. Sinh hiệu: mạch 94 l/p, HA 92/58 mmHg, nhiệt độ 36,8 °C, nhịp thở 22 l/p, SpO₂ 99%. Cân nặng 16,2 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi bé Quân đi nam khoa hoặc Da liễu ngay vì vệt thâm và nỗi lo của mẹ không có chỉ định: bìu, tinh hoàn khám bình thường, còn thâm sau viêm thường tự mất, trung bình 2–4 năm ở chi dưới (QĐ 4416, Tăng sắc tố sau viêm mục 2.1). Test áp có thể làm sau khi lành nếu tái phát (ESCD 2026 mục 9.1.1) nhưng chưa cần gấp; đi tuyến trên làm mẹ nghỉ ca, tốn kém và càng tin con bệnh nặng.",
+    "nhap_vien": "Nhập viện bé Quân vì thâm hoặc để 'thử gan' sau đợt paracetamol là quá tay: bé khỏe, hết ngứa, da lành, không sốt, không vàng da, AST/ALT lần trước bình thường và đã ngưng quá liều 10 ngày. Tài liệu đã tải không có chỉ định nằm viện ở tình huống này; chỉ làm bé xa mẹ, nghỉ học, mẹ lo thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hết ngứa rồi, hết đỏ rồi mà sao chân cháu còn đen đen thế này, có phải tại thuốc bôi không bác sĩ? Hay cháu bị bệnh gì nặng? Chồng em nghe vậy muốn đưa cháu lên bệnh viện lớn khám nam khoa với thử dị ứng hết một lượt cho chắc. Em thì... em vẫn lo chuyện hôm trước, em ngại hỏi lại.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "92/58",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mẹ kể: bé hết ngứa từ ngày thứ 3, ngủ suốt đêm từ ngày thứ 4; hết đỏ ngày thứ 6–7; mụn nước và vết trầy ở cổ chân khô, bong vảy nhỏ rồi sạch; bé đi học đủ, không còn gãi. Còn vệt sậm màu thì mẹ thấy từ ngày thứ 5 và đậm dần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị, tiêu chí xác nhận khỏi"
+    },
+    {
+     "id": "do_moi",
+     "noi_dung": "Mẹ cất hết đồ mới vào túi, cho bé mặc quần lót và vớ cotton cũ, bé không bị lại. Ngày thứ 6, mẹ thử cho bé mặc một đôi vớ mới đúng một buổi sáng 'cho biết dị ứng cái nào': chiều bé gãi cổ chân, tối đỏ nhẹ quanh viền thun; mẹ cởi ra, hai ngày sau hết, mẹ không thử nữa. Mẹ không cho mặc lại quần lót mới và quần đùi mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái tiếp xúc ngẫu nhiên: củng cố chẩn đoán, nhưng không phải xét nghiệm chuẩn"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Kem betamethason bôi 2 lần/ngày, hầu như đủ, ngừng ở ngày thứ 8 khi hết đỏ (đủ 8 ngày, không dùng tới ngày 10). Hydrocortison nếp bẹn 7 ngày. Loratadin 5 tối. Dưỡng ẩm lúc nhớ lúc quên. Không bôi gì khác. Bé không thấy da mỏng, rạn, nổi mạch đỏ, mụn hay lông mọc dày chỗ bôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thời gian dùng thuốc (ngưng thuốc), tác dụng phụ corticoid bôi"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Từ hôm khám mẹ không cho paracetamol thường quy nữa, cất gói 250 mg đi. Hôm kia bé sốt 38,1 °C buổi tối sau khi đi học về, hôm sau hết sốt không cần thuốc; mẹ chỉ cho một lần siro 160 mg/5 mL, 7,5 mL (240 mg ≈ 15 mg/kg) và không cho lần thứ hai. Bé không nôn, không vàng da, ăn ngủ tốt. Họng không đỏ, không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Paracetamol sau tư vấn: mẹ cho đúng liều khi sốt thật; không cần xét nghiệm lại men gan"
+    },
+    {
+     "id": "lo_sinh_san",
+     "noi_dung": "Mẹ vẫn băn khoăn dù hôm trước đã được khám bìu, bẹn: 'mẹ ngại hỏi lại, sợ bác sĩ cho là hay lo'. Mẹ hỏi vệt thâm có hết không, bao lâu, có để lại sẹo, và bé có bị dị ứng đồ khác nữa không. Chồng muốn đưa lên bệnh viện lớn nên mẹ giằng co, sợ nếu không đi mà sau này có chuyện thì mình có lỗi. Mẹ nhận 'nghe bác sĩ giải thích thì đỡ lo hơn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo sinh sản, sức ép của chồng; khỏi lệch hướng thành khám xét nam khoa không cần"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Đùi phải mặt trước – ngoài: hai dải phẳng sậm màu nâu nhạt hơn da xung quanh, rộng 1–1,5 cm, dài 8–10 cm, không đỏ, không sẩn, không vảy, không rỉ dịch, không ấn đau. Cổ chân phải: dải nâu nhạt mảnh và mảng 2 × 3 cm sậm màu nhẹ, không đỏ, không mụn nước, không trầy. Đùi trái và cổ chân trái: vệt thâm rất nhạt. Không teo da, không rạn, không giãn mạch, không mụn, không rậm lông chỗ đã bôi; không tổn thương mới ở thân, tay, mặt, kẽ ngón.",
+     "k": 1,
+     "hien": "Đùi phải: hai dải phẳng sậm màu nâu nhạt, rộng 1–1,5 cm, dài 8–10 cm, không đỏ, không sẩn, không vảy. Cổ chân phải: dải nâu nhạt mảnh và mảng 2 × 3 cm sậm màu nhẹ, không đỏ, không trầy. Đùi trái, cổ chân trái: thâm rất nhạt. Không rạn, không mạch giãn, không mụn. Thân, tay, mặt, kẽ ngón: không tổn thương."
+    },
+    "bui_tinh_hoan": {
+     "a": "Nếp bẹn phải: hết đỏ, da khô nhẹ, sậm màu rất nhạt; nếp bẹn trái bình thường. Bìu, hai tinh hoàn, mào tinh, thừng tinh bình thường, không đau, không sưng. Hạch bẹn không to.",
+     "k": 1,
+     "hien": "Nếp bẹn phải hết đỏ, sậm màu rất nhạt. Da bìu bình thường, hai tinh hoàn trong bìu, không đau. Không sờ thấy hạch bẹn."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 16,2 kg, chiều cao 102 cm.",
+     "k": 1,
+     "hien": "Cân nặng 16,2 kg, chiều cao 102 cm."
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui, chơi tốt; da niêm hồng, không vàng da; không phù.",
+     "k": 0,
+     "hien": "Tỉnh, vui, da niêm hồng, không vàng da."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không ấn đau hạ sườn phải.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không loét, hai tai bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_ap": {
+     "v": "a",
+     "r": "Cơ sở không làm được test áp; kết quả không có trong ca (làm ở tuyến trên).",
+     "n": "Chấp nhận, không bắt buộc ngay: test áp xác định dị nguyên gây viêm da tiếp xúc dị ứng (QĐ 4416, Viêm da tiếp xúc mục 2.1.2, 2.1.3); chỉ định ở trẻ giống người lớn khi nghi viêm da tiếp xúc dị ứng (ESCD 2026 mục 9.1.1). Làm khi da đã lành, ngưng corticoid bôi tại vị trí test ≥ 7 ngày với nhóm thấp – trung bình, 14 ngày với nhóm mạnh (ESCD 2026 mục 2.2.1, 8.1). Cần cân nhắc nhất nếu tái phát dù tránh đúng, hoặc khi gia đình muốn biết chắc dị nguyên để phòng lâu dài."
+    },
+    "liver": {
+     "v": "n",
+     "r": "AST 27 U/L · ALT 20 U/L (bình thường).",
+     "n": "Không cần lặp lại: bé không triệu chứng, không vàng da; lần trước bình thường; đã ngưng paracetamol quá liều 10 ngày và chỉ dùng 1 lần đúng liều khi sốt (QĐ 292/2024 mục 3.1). Ngưỡng liều mạn tính và thời gian theo dõi men gan ở trẻ nhỏ: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc (nghi thể dị ứng) vùng đồ lót – quần đùi – vớ thun mới đã lành hoàn toàn sau tránh dị nguyên và corticoid bôi; còn tăng sắc tố sau viêm (thâm) ở đùi, cổ chân, nếp bẹn; không có tác dụng phụ của corticoid bôi; dị nguyên nghi từ thun cao su, chưa xác định bằng test áp; đã ngưng paracetamol quá liều, không triệu chứng",
+     "ok": 1,
+     "n": "Hết ngứa, tổn thương lành, không tổn thương mới; thử tiếp xúc lại một lần cho tổn thương nhẹ quanh viền thun củng cố nghi ngờ dị nguyên nhưng không thay thế test áp (QĐ 4416, Viêm da tiếp xúc mục 1.3, 2.1.2). Tăng sắc tố sau viêm: dát tăng sắc tố xuất hiện trên nền tổn thương viêm trước đó (QĐ 4416, Tăng sắc tố sau viêm mục 2.1, 2.3); đa số tự biến mất không cần điều trị, trung bình 2–4 năm ở chi dưới, 1–2 năm ở thân và chi trên (mục 2.1)."
+    },
+    {
+     "t": "Tác dụng phụ corticoid bôi (teo da, giãn mạch, mụn, rậm lông)",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1): chú ý teo da, giãn mạch. Bé: đủ 8 ngày vừa phải, không teo, không rạn, không giãn mạch."
+    },
+    {
+     "t": "Bệnh còn hoạt động hoặc tái phát (còn tiếp xúc dị nguyên)",
+     "n": "Không đỏ, không sẩn, không ngứa; lần tái tiếp xúc có chủ đích chỉ gây đỏ nhẹ quanh viền thun, đã tự hết sau khi cởi ra. Đây là kết quả tái tiếp xúc ngắn, không phải thất bại điều trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng: hết ngứa, không còn đỏ, sẩn, mụn nước, trợt; không tổn thương mới; không teo da; vệt sậm màu còn lại là thâm sau viêm",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: bôi tới khi lành thương tổn; Tăng sắc tố sau viêm mục 2.1). Tiêu chí khỏi: không có trong tài liệu đã tải; ở đây theo lâm sàng."
+    },
+    {
+     "t": "Ngưng betamethason, hydrocortison, loratadin (đã đủ liệu trình, không kéo dài)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): dùng tới khi lành thương tổn, 2–4 tuần; nếp gấp 1–2 tuần; không kéo dài để tránh teo da (mục 3.2.1, phần mạn tính)."
+    },
+    {
+     "t": "Tiếp tục tránh dị nguyên: không mặc lại quần lót, quần đùi, vớ mới; khi cần mua đồ mới chọn cotton không thun cao su bản to sát da; giữ đồ mới thử một món, mặc vài ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 1.1, 3.1); DDG 2022 (mục 3.2). Số ngày theo dõi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích thâm sau viêm: không phải do thuốc bôi, thường tự nhạt dần; tránh nắng vùng thâm; không bôi thuốc làm sáng da cho bé",
+     "v": "c",
+     "n": "QĐ 4416 (Tăng sắc tố sau viêm mục 2.1: đa số tự biến mất, chi dưới 2–4 năm; mục 3.1: tránh nắng). Hydroquinon cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi lo sinh sản và áp lực khám xét: khám bìu, tinh hoàn bình thường lần này; không cần nam khoa, siêu âm bìu",
+     "v": "c",
+     "n": "Nhận định lâm sàng dựa trên khám; liên quan sinh sản: không có trong tài liệu đã tải. Kỹ năng giao tiếp."
+    },
+    {
+     "t": "Nhắc lại liều paracetamol đúng cân nặng khi sốt thật: 10–15 mg/kg/lần mỗi 4–6 giờ, tối đa 60 mg/kg/ngày; không dùng cho ngứa; hẹn lại khi tái phát",
+     "v": "c",
+     "n": "QĐ 292/2024 (TL-0239, mục 3.1, 3.2.1); WHO 2013 (Annex 2) tối đa 6 lần/ngày (cao hơn), ca nêu mức thận trọng."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu ngứa, đỏ lại đúng chỗ đồ chạm, hoặc lan rộng, mủ, sốt, lên bìu – dương vật – mặt – tay – chân; không tự bôi corticoid kéo dài",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1; Bệnh chốc mục 2.1); không bôi corticoid quá 2–4 tuần (mục 3.2.1)."
+    },
+    {
+     "t": "Hẹn Da liễu làm test áp khi tái phát dù đã tránh đúng, hoặc khi gia đình muốn xác định dị nguyên",
+     "v": "a",
+     "n": "ESCD 2026 (mục 9.1.1; mục 2.2.1, 8.1: ngưng corticoid bôi 7–14 ngày). Không bắt buộc vì bé hết bệnh, chưa tái phát."
+    },
+    {
+     "t": "Hydroquinon 2–4% bôi vệt thâm cho bé",
+     "v": "a",
+     "n": "QĐ 4416 (Tăng sắc tố sau viêm mục 3.2): hydroquinon 2–4% là lựa chọn đầu tay. Dùng cho trẻ 4 tuổi: không có trong tài liệu đã tải; thâm thường tự nhạt."
+    },
+    {
+     "t": "Chuyển nam khoa hoặc siêu âm Doppler bìu để 'chắc ăn về sinh sản'",
+     "v": "w",
+     "n": "Khám bìu, tinh hoàn, mào tinh bình thường; không có chỉ định (không có trong tài liệu đã tải); tốn kém, mẹ càng lo; cơ sở không có siêu âm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc (nghi thể dị ứng) đã lành hoàn toàn sau tránh dị nguyên và điều trị tại chỗ, không tái phát",
+     "Còn tăng sắc tố sau viêm ở đùi phải (hai dải), cổ chân phải, nhạt hơn ở đùi trái, cổ chân trái, nếp bẹn phải",
+     "Không có tác dụng phụ của corticoid bôi; bìu, tinh hoàn, dương vật bình thường",
+     "Dị nguyên nghi: thun cao su ở đồ mới; thử tiếp xúc lại một lần gây đỏ nhẹ quanh viền thun nhưng chưa xác định bằng test áp",
+     "Đã ngưng paracetamol quá liều; sốt một lần hôm kia đã tự hết, đã dùng đúng liều một lần; không triệu chứng gan"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận lo lắng của mẹ, chồng → hỏi chức năng (ngủ, gãi, đi học), mốc diễn tiến → hỏi tránh dị nguyên hay tái tiếp xúc → tuân thủ, thời gian từng thuốc, tác dụng phụ corticoid → paracetamol sau tư vấn → mở lời về nỗi lo → khám da, nếp bẹn, bìu, cân nặng → kết luận khỏi, ngưng thuốc.",
+     "Tiêu chí khỏi theo lâm sàng: hết ngứa, đỏ, sẩn, mụn nước, trợt, không tổn thương mới, không teo da. Vệt sậm màu là tăng sắc tố sau viêm, không phải bệnh hoạt động (QĐ 4416, Tăng sắc tố sau viêm mục 2.1, 2.3). Không cần lặp CTM hay men gan.",
+     "Kết cục 'xấu' là thâm kéo dài (2–4 năm ở chi dưới, QĐ 4416, PIH mục 2.1) và nỗi lo của gia đình, không phải thất bại điều trị: xử trí lượt 1 đúng, bệnh lành hoàn toàn. Đừng dựa vào kết cục (thâm, mẹ trách, chồng đòi đi bệnh viện) để kết luận lượt 1 sai (outcome bias).",
+     "Thử tiếp xúc lại một buổi gây đỏ nhẹ quanh viền thun củng cố nghi ngờ thun cao su nhưng không xác định dị nguyên, có thể chỉ là kích ứng; chỉ test áp phân biệt (QĐ 4416 mục 2.1.2, 2.2.2). Không khuyến khích thử."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc, trấn an, dặn tránh dị nguyên, hẹn lại khi tái phát (ve_hen); không chuyển tuyến, không nhập viện, không xét nghiệm lặp.",
+     "Ngưng betamethason, hydrocortison, loratadin: đã lành, không kéo dài để tránh teo da (QĐ 4416, Viêm da tiếp xúc mục 3.2.1).",
+     "Thâm: tránh nắng (QĐ 4416, PIH mục 3.1); hydroquinon 2–4% là lựa chọn đầu tay (mục 3.2) nhưng chỉ định cho bé 4 tuổi không có trong tài liệu đã tải; giải thích số liệu: chi dưới trung bình 2–4 năm, không hứa mờ nhanh (mục 2.1).",
+     "Test áp: không bắt buộc ngay; nếu tái phát dù tránh đúng hoặc muốn biết chắc thì hẹn Da liễu khi da lành (ESCD 2026 mục 9.1.1, 2.2.1, 8.1).",
+     "Paracetamol: mẹ đã dùng đúng 15 mg/kg một lần (QĐ 292/2024 mục 3.1); không cần theo dõi men gan thêm vì không triệu chứng, AST/ALT lần trước bình thường; thời gian theo dõi sau quá liều mạn: không có trong tài liệu đã tải. Không nam khoa, không siêu âm bìu: khám bình thường."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem hoặc mỡ dưỡng ẩm không hương liệu",
+      "ham_luong": "—",
+      "lieu": "Bôi lớp vừa phải lên vùng da vừa lành ở đùi, cổ chân, nếp bẹn",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "1–2 lần/ngày, sau tắm",
+      "so_ngay": "Vài tuần, tới khi da hồi phục hoàn toàn",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.1, 3.2.1). Thời gian dùng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro) – CHỈ khi sốt hay khó chịu thật sự",
+      "ham_luong": "160 mg/5 mL (ví dụ; chế phẩm bán tại Việt Nam: không có trong tài liệu đã tải)",
+      "lieu": "10–15 mg/kg/lần = 160–240 mg (5–7,5 mL) cho bé 16,2 kg",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau ≥ 4–6 giờ, khi cần",
+      "so_ngay": "Ngắn ngày; tối đa 60 mg/kg/ngày = 972 mg/ngày",
+      "ghi_chu": "QĐ 292/2024 (TL-0239, mục 3.1, 3.2.1); WHO 2013 (Annex 2) tối đa 6 lần/ngày (cao hơn), ca theo mức thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Bé đã lành. Vệt sậm màu là thâm sau viêm, không do thuốc bôi, không phải bệnh hoạt động; mờ dần, thường chậm (chi dưới trung bình 2–4 năm, QĐ 4416, PIH mục 2.1); không bôi thêm thuốc, tránh nắng vùng thâm (mục 3.1).",
+     "Tiếp tục tránh dị nguyên: không cho mặc lại đồ mới, kể cả giặt kỹ hay 'thử một buổi' (DDG 2022 mục 3.2). Mua đồ mới chọn cotton, gấu và viền vớ không thun cao su bản to sát da, mỗi lần một món, mặc thử vài ngày; số ngày: không có trong tài liệu đã tải.",
+     "Ngứa, đỏ lại đúng chỗ đồ chạm thì quay lại ngay; không tự bôi corticoid kéo dài; quay lại cả khi lan rộng, mủ, sốt, hoặc lên bìu, dương vật, mặt, tay, chân (QĐ 4416, Viêm da tiếp xúc mục 3.2.1).",
+     "Nếu tái phát dù tránh đúng, hoặc muốn biết chắc dị nguyên, hẹn Da liễu làm test áp khi da lành; ngưng corticoid bôi tại vùng test 7–14 ngày (ESCD 2026 mục 2.2.1, 8.1).",
+     "Bìu, tinh hoàn, dương vật của bé khám bình thường hai lần; liên quan với sinh sản sau này: không có trong tài liệu đã tải. Không cần bệnh viện nam khoa; còn lo thì hỏi lại bác sĩ.",
+     "Paracetamol chỉ khi sốt hay khó chịu thật: 160–240 mg mỗi lần, cách ≥ 4–6 giờ, không quá khoảng 970 mg/ngày (QĐ 292/2024 mục 3.1, 3.2.1); siro có vạch chia."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Quân hết ngứa ngày thứ 3, sạch tổn thương ngày thứ 7, tái khám ngày 10 da lành hoàn toàn, không teo da, AST/ALT bình thường, đã ngưng paracetamol quá liều. Tuy vậy, thâm sau viêm ở đùi, cổ chân, nếp bẹn rõ và dai dẳng (trung bình 2–4 năm ở chi dưới, QĐ 4416, Tăng sắc tố sau viêm mục 2.1); mẹ tự trách, chồng muốn đưa bé lên bệnh viện nam khoa, tốn kém. Xử trí đúng (loại dị nguyên, corticoid bôi hiệu lực vừa, ngưng paracetamol quá liều, khám và giải thích vùng sinh dục) vẫn có kết cục khó chịu do đặc điểm bệnh, không do quyết định sai: đừng suy ngược từ kết cục để kết luận xử trí sai (outcome bias). Dị nguyên chưa xác định bằng test áp; tái phát dù tránh đúng thì nghĩ dị nguyên khác và hẹn test áp.",
+ "nhieu": [
+  "Mẹ phủ nhận triệu chứng nặng ('nhẹ thôi, gãi chút xíu', 'không sao đâu'): hỏi chức năng (ngủ, lớp học, số lần cho thuốc) thay câu hỏi cảm giác.",
+  "Paracetamol tự cho 5 lần/ngày × 8 ngày: mẹ ban đầu khai 'vài lần'; hỏi từng ngày, từng buổi, hàm lượng gói; dễ nhầm với sốt do viêm da hoặc phát ban thuốc (DRESS).",
+  "Mẹ sợ ban gần vùng kín làm hại khả năng sinh sản của con (hiếm muộn, con một): nếu không khám bẹn – bìu có giải thích và hỏi mở thì mẹ về mà vẫn lo, có thể đi khám xét nam khoa không cần.",
+  "Siro thảo dược tháng trước (nhiễu nhỏ về thuốc); mẹ vội vì vào ca, đòi 'kê nhanh', 'không cần thử gì'; chồng đòi bệnh viện lớn ở lượt 2."
+ ],
+ "bai_hoc_bien": [
+  "Dị nguyên không tự lộ: mẹ không nối dải ban ở đùi, cổ chân với đồ thun mới; hỏi tiếp xúc có hệ thống (quần áo mới, vớ, thun, bột giặt, thuốc bôi). Hình dạng tổn thương theo đường gấu thun là chìa khóa.",
+  "Ngứa ở trẻ nhỏ biểu hiện qua giấc ngủ, lớp học, cáu gắt: hỏi chức năng cho phép thấy mức nặng thật khi người nhà giảm nhẹ.",
+  "Hỏi thuốc đang dùng đến tận hàm lượng, số lần, số ngày, lần cuối: paracetamol 250 mg × 5 lần cho bé 16 kg là ≈ 78 mg/kg/ngày, hơn mức tối đa 60 mg/kg/ngày nhưng thấp hơn mốc 150 mg/kg của liều gây ngộ độc; xét nghiệm AST, ALT bình thường cho phép xử trí ngoại trú, vẫn dặn liều đúng.",
+  "Lý do thật đến khám không nằm trong lời mở: mở lời hỏi mẹ còn lo gì và khám có giải thích vùng bìu, bẹn; nói rõ điều tài liệu không có thay vì hứa suông.",
+  "Xử trí đúng vẫn có thể ra kết cục xấu (thâm sau viêm kéo dài, nỗi lo, chi phí): không dùng kết cục để đánh giá chất lượng quyết định."
+ ],
+ "diem_nho": [
+  "Viêm da tiếp xúc dị ứng: quá mẫn type IV; mẫn cảm 5–21 ngày, tái tiếp xúc 48–72 giờ lên phản ứng; dị nguyên chính gồm kim loại, chất dẻo, cao su (QĐ 4416, Viêm da tiếp xúc mục 1.3).",
+  "Chẩn đoán dựa lâm sàng và yếu tố tiếp xúc; test áp xác định dị nguyên, hoãn khi viêm da hoạt động và khi vừa bôi corticoid (QĐ 4416 mục 2.1.2, 2.1.3; ESCD 2026 mục 2.2.1, 8.1).",
+  "Điều trị: loại dị nguyên; corticoid bôi 1–2 lần/ngày 2–4 tuần (nếp gấp loại trung bình tới nhẹ 1–2 tuần); kháng histamin; kháng sinh tại chỗ khi bội nhiễm (QĐ 4416 mục 3.1, 3.2.1); trẻ em nhóm TIX ≥ 2 (DDG 2022 mục 3.3.4.1).",
+  "Corticoid toàn thân khi > 20% BSA hoặc mặt, bàn tay, bàn chân, sinh dục (QĐ 4416 mục 3.2.1); ở trẻ chỉ khi nặng và dai dẳng, tối đa 7 ngày (DDG 2022 mục 3.3.4.3).",
+  "Paracetamol cho trẻ: 10–15 mg/kg/lần mỗi 4–6 giờ, tối đa 60 mg/kg/ngày (QĐ 292/2024 mục 3.1, 3.2.1); liều gây ngộ độc > 150 mg/kg (QĐ 3610/2015 mục 3). Tăng sắc tố sau viêm: tự mất, chi dưới 2–4 năm; tránh nắng (QĐ 4416, PIH mục 2.1, 3.1)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Viêm da tiếp xúc mục 1.1, 1.3, 2.1.1–2.1.4, 2.2.1–2.2.4, 3.1, 3.2.1; Viêm da cơ địa mục 2.3.1; Bệnh da do nấm sợi mục 2.1, 2.2; Zona mục 2.1; Bệnh chốc mục 2.1, 2.3, 3.1, 3.2.2, 4; Bệnh ghẻ mục 2.1; DRESS mục 1.1, 2.1; Tăng sắc tố sau viêm mục 2.1, 2.3, 3.1, 3.2.",
+  "DDG – German S1 guideline: Contact dermatitis 2022 (TL-0422) – mục 1.1, 2.4, 3.2, 3.3.1.1, 3.3.1.2, 3.3.3.1, 3.3.4.1, 3.3.4.3.",
+  "ESCD – Guideline for diagnostic patch testing, update 2026 (TL-0401) – mục 2.2.1, 8.1, 9.1.1.",
+  "AAD-NPF 2021 (TL-0425) – bảng hiệu lực corticoid bôi (Class 1–7), dùng để xếp hiệu lực betamethason valerat 0,1% (Class 5), hydrocortison 0,5–2,5% (Class 7), clobetasol (Class 1).",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho cũ tltk-10000-ca) – Bảng 3: liều thuốc kháng histamin H1 thế hệ 2 (loratadin 2–5 tuổi 5 mL/ngày).",
+  "Bộ Y tế – QĐ 292/2024, tay chân miệng (TL-0239) – mục 3.1 (paracetamol 10–15 mg/kg/lần mỗi 4–6 giờ), mục 3.2.1 (tối đa 60 mg/kg/ngày); dùng làm nguồn liều paracetamol cho trẻ. WHO Pocket book of hospital care for children 2013 (TL-0250) – Annex 2 (tối đa 6 lần/ngày), mục Poisoning – Paracetamol (liều ≥ 150 mg/kg).",
+  "Bộ Y tế – QĐ 3610/QĐ-BYT 2015, ngộ độc (kho cũ tltk-10000-ca) – Ngộ độc paracetamol mục 2, 3, 3.2, 3.3, 4.3.1, 4.3.2.",
+  "Không có trong tài liệu đã tải: ngưỡng liều mạn tính gây độc gan ở trẻ nhỏ và thời gian theo dõi men gan; liên quan viêm da đùi – bẹn với sinh sản; chế phẩm, nồng độ thuốc bán tại Việt Nam; thời gian dùng kháng histamin; mốc tái khám 10 ngày; số ngày thử đồ mới; hydroquinon, kem chống nắng cho trẻ 4 tuổi; chất cụ thể gây dị ứng ở đồ lót, vớ."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (18/10/2026, viết: Sonnet). Biến 'Sau quan hệ tình dục' KHÔNG áp dụng cho bé 4 tuổi và không được viết vào ca: thay bằng 'sau khi mặc đồ lót, quần đùi, vớ thun mới ở vùng đùi – bẹn'; đã ghi chú trong so_cai. Đề nghị sửa biến trong sổ cái.",
+  "Các biến khác: 'Phủ nhận triệu chứng nặng' = mẹ giảm nhẹ ngứa, khai mơ hồ số lần paracetamol; 'Paracetamol liều cao kéo dài' = 5 gói 250 mg/ngày × 8 ngày (≈ 78 mg/kg/ngày), AST/ALT bình thường; 'Lo về sinh sản' = mẹ hiếm muộn 6 năm; 'Xử trí đúng nhưng diễn tiến xấu' = lành hoàn toàn nhưng thâm sau viêm kéo dài (QĐ 4416, PIH mục 2.1), chồng đòi đi nam khoa; 'Đỡ hoàn toàn' = hết ngứa ngày 3, sạch ngày 7.",
+  "Nguồn lực: khoa_cls khóa X-quang, siêu âm, thăm dò; xét nghiệm lẻ không làm được ghi trong r (IgE, chức năng gan mở rộng). Không cần mục danh mục mới. Ảnh SCIN: HA-DA-0041 (đùi, case -6781948527342850071), HA-DA-0042 (cổ chân, case -5863256407851897110); loại HA-DA-0043 (sẩn nang lông, không phải dải), HA-DA-0044 (lông dày, đặc điểm người lớn).",
+  "Đã đọc: QĐ 4416 (TL-0397); DDG 2022 (TL-0422); ESCD 2026 (TL-0401); AAD-NPF 2021 (TL-0425, bảng hiệu lực); QĐ 3942/2014 Bảng 3; QĐ 292/2024 (TL-0239); QĐ 3610/2015 (ngộ độc paracetamol); WHO Pocket book 2013 (TL-0250). Đề xuất sổ mâu thuẫn: DL-0125_mau_thuan.md.",
+  "18/10/2026 (duyệt Opus): bỏ hai ảnh SCIN HA-DA-0041/0042 khỏi ca vì là chi của người lớn (có lông chân, tỉ lệ người lớn), không khớp bé 4 tuổi; SCIN không có ảnh trẻ em (age_group chỉ từ 18 tuổi). Tổn thương da mô tả bằng chữ."
+ ]
+}
