@@ -1,0 +1,736 @@
+{
+ "ma_ca": "NH-0678",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_tay_chan_mieng",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tay chân miệng",
+  "chan_doan_phai_loai_tru": [
+   "Thủy đậu",
+   "Herpangina",
+   "Viêm não"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau khi ba uống rượu bia (tiệc nhậu đông trẻ nhỏ, ba cho bé nhấp bia)",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ (siro amoxicillin còn dư, mẹ tự cho uống)",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự (bạn thân cùng lớp vừa nhập viện, mẹ sợ con nặng như bạn)",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 3,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 14.5,
+  "chieu_cao": 96,
+  "xung_ho": "Bé 3 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ nói được vài chữ ('đau', 'con khát'). Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 28 tuổi, công nhân may, nói nhanh, lo lắng, tính toán từng đồng vì nghỉ làm là mất lương ngày. Thương con, làm theo lời dặn nếu hiểu lý do. Bé mệt, bám mẹ, khóc khi bị banh miệng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ chỉ mang theo khoảng 150.000 đồng, gạt đi mọi xét nghiệm, truyền dịch, nằm viện ('cho em xin thuốc uống thôi'). Chịu làm xét nghiệm rẻ khi bác sĩ giải thích rõ xét nghiệm đó có đổi cách xử trí không. Không tự kể chuyện ba cho bé nhấp bia và chuyện bạn cùng lớp nhập viện; chỉ nói khi được hỏi nhẹ nhàng, không trách.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 28 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'Khôi đau chỗ nào?') thì bé trả lời rất ngắn hoặc chỉ tay vào miệng (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#6ec1e4",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#9aa5b1",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt, đau miệng, nổi mụn nước ở tay",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Buổi chiều. Bé trai 3 tuổi, 14,5 kg, mẹ đưa đến vì sốt từ tối qua, đau miệng, chảy dãi, sáng nay nổi mụn nước ở tay. Sinh hiệu: nhiệt 38,3 °C, mạch 118 l/p, nhịp thở 26 l/p, SpO₂ 98%. Bé tỉnh, mệt, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khôi nhập viện là chưa sai hẳn vì QĐ 292/2024 mục 3.1 (tr. 12) cho phép nhập viện độ 1 khi người nhà lo lắng, nhà xa hoặc không đủ điều kiện theo dõi, nhưng bé này tỉnh, uống được, không giật mình, nhà gần, mẹ theo dõi được. Mẹ vốn không đủ tiền sẽ mất thêm viện phí và những ngày nghỉ làm, còn bé nằm chung phòng với nhiều trẻ bệnh khác.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên là quá tay: phòng khám khám và điều trị ngoại trú tay chân miệng độ 1, chỉ chuyển từ độ 2a trở lên, hoặc độ 1 ở trẻ dưới 12 tháng hoặc có bệnh phối hợp (QĐ 292/2024 mục 2.1, tr. 11); bé 3 tuổi, không bệnh nền. Mẹ mất một ngày công và tiền xe để bé chờ ở nơi đông trẻ bệnh, trong khi chẩn đoán và xử trí không thay đổi.",
+    "cap_cuu": "Gọi cấp cứu hay xử trí như ca nặng là sai mức độ: bé tỉnh, thở 26 l/p, SpO₂ 98%, không giật mình, không mạch nhanh, chỉ có ban và loét miệng, tức độ 1 (QĐ 292/2024 mục 6.1, tr. 9). Mẹ hoảng sợ hơn, chi phí tăng vô ích, bé bị chích lấy máu, đặt đường truyền không cần thiết."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt từ tối qua, kêu đau miệng, chảy dãi, sáng nay nổi mụn nước ở tay. Bác sĩ cho bé thuốc thôi nha, đừng bắt xét nghiệm giùm em, em không mang đủ tiền.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "38,3",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt từ tối qua 38–38,5 °C, đau miệng, chảy dãi nhiều, bỏ ăn cháo nhưng còn uống sữa từng ngụm. Sáng nay mẹ thấy lòng bàn tay có mụn nước. Mẹ muốn xin thuốc cho bé mau khỏi và không muốn xét nghiệm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Mụn nước nhỏ ở lòng bàn tay, lòng bàn chân và mông, mọc cùng một đợt từ sáng nay, không ngứa nhiều. Thân mình, mặt, da đầu không có.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí, kiểu phát ban"
+    },
+    {
+     "id": "mieng",
+     "noi_dung": "Bé kêu đau miệng, mẹ thấy trong miệng có chấm đỏ, chảy dãi nhiều, ngại nuốt, không chịu há miệng cho mẹ xem.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loét miệng, chảy dãi"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Bé ngủ yên, không giật mình chới với, không run tay chân, không nhìn ngược, đi đứng vững, chơi được khi hết sốt. Nôn 1 lần chiều qua sau khi ăn cháo vì đau họng, không nôn thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng thần kinh, nôn (Q 292 mục 6.2.1)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Lớp mẫu giáo của bé tuần này có hai bạn nghỉ vì 'nổi bóng nước ở tay chân'. Cô giáo có nhắn trong nhóm phụ huynh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ (Q 292 mục 3.1)"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Từ chiều qua mẹ cho bé uống siro amoxicillin còn dư từ toa viêm họng tháng trước, 2 lần, vì nghĩ 'đau miệng là viêm'. Có cho paracetamol 150 mg một lần lúc trưa. Không dùng thuốc nào khác, không bôi gì lên da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (kháng sinh theo toa cũ)"
+    },
+    {
+     "id": "tiec_nhau",
+     "noi_dung": "Chủ nhật tuần trước (5 ngày trước) cả nhà dự tiệc nhậu ở nhà hàng xóm, rất nhiều trẻ nhỏ chạy chơi chung. Ba bé uống bia và cho bé nhấp một ngụm bia; bé nhăn mặt, không nôn, không buồn ngủ bất thường. Mẹ ngại nói vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi bé đi đâu, tiếp xúc ai, ăn uống gì trong tuần qua, hoặc hỏi nhẹ nhàng, không trách.",
+     "k": 0,
+     "y": "Phơi nhiễm (tiệc đông trẻ, ủ bệnh 3–7 ngày, Q 292 mục 1.1)"
+    },
+    {
+     "id": "uong_tieu",
+     "noi_dung": "Bé uống được sữa và nước từng ngụm nhỏ, hôm nay tiểu 3 lần, nước tiểu vàng nhạt. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Uống, tiểu (mất nước)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không bệnh tim, thần kinh, hô hấp mạn; không dị ứng thuốc. Sinh đủ tháng, tiêm chủng theo lịch. Chưa từng bị tay chân miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền (điều kiện chuyển tuyến)"
+    },
+    {
+     "id": "dieu_kien",
+     "noi_dung": "Nhà cách phòng khám khoảng 1 km, có xe máy, mẹ ở nhà với bé; có điện thoại, hứa quay lại hoặc gọi ngay nếu bé có dấu hiệu nặng. Bé có thẻ bảo hiểm y tế trẻ em nhưng mẹ chưa mang theo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện theo dõi tại nhà (Q 292 mục 3.1)"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Bạn thân cùng lớp của bé (bé Tít) vừa nhập viện nhi sáng qua, mẹ nghe nói 'phải nằm hồi sức'. Mẹ sợ con thành như vậy nên đưa đi khám ngay chiều nay, thật ra chỉ muốn nghe bác sĩ nói bé có nặng không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi 'chị lo điều gì nhất' hoặc hỏi về bạn cùng lớp của bé, bằng giọng nhẹ nhàng.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám (bạn có bệnh tương tự)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mẹ là công nhân may, nghỉ làm là mất lương ngày; trong túi khoảng 150.000 đồng. Mẹ sợ xét nghiệm, truyền dịch, nằm viện tốn kém, nhưng nghe và chấp nhận nếu bác sĩ giải thích xét nghiệm nào cần, xét nghiệm nào chưa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, bám mẹ, khóc có nước mắt. Niêm mạc môi ẩm, mắt không trũng, da véo trở lại nhanh. Tay chân ấm, mao mạch hồi lại dưới 2 giây, không nổi bông. Cân nặng 14,5 kg.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc má, lưỡi, lợi có 5–6 vết loét đỏ hoặc phỏng nước nhỏ 2–3 mm, nền hồng, chảy nhiều nước dãi. Không có giả mạc, không sưng lợi chảy máu.",
+     "k": 1,
+     "hien": "Trong miệng có vài vết loét nhỏ, chảy nhiều nước dãi."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, vài chấm loét nhỏ ở trụ trước amidan. Amidan không to, không mủ. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "da": {
+     "a": "Lòng bàn tay mỗi bên 5–7 nốt phỏng nước nhỏ hình bầu dục 2–4 mm, nền hồng ban. Lòng bàn chân mỗi bên 4–6 nốt tương tự. Mông và mặt sau đùi vài nốt, gối vài chấm hồng ban. Các nốt cùng giai đoạn, không ngứa nhiều. Thân mình, mặt, da đầu không có mụn nước; không sẩn, vảy tiết ở nhiều giai đoạn; không chấm xuất huyết; không bội nhiễm, không vân tím.",
+     "k": 1,
+     "hien": "Lòng bàn tay, lòng bàn chân, mông có nhiều nốt nhỏ chứa nước, nền hồng. Thân mình và mặt không có."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, đáp ứng tốt khi gọi. Không giật mình khi đặt nằm ngửa, không run chi, ngồi đi vững, không thất điều, không rung giật nhãn cầu, không lác. Nuốt được, giọng bình thường. Trương lực cơ bình thường, cổ mềm.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p (đang sốt), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p. Không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 26 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ mềm, không cứng gáy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 9,8 G/L · Neutrophil 48% · Hb 121 g/L · TC 290 G/L",
+     "n": "Không cần hôm nay: chẩn đoán tay chân miệng dựa vào lâm sàng và dịch tễ (QĐ 292/2024 mục 3.1, tr. 8); bạch cầu thường bình thường, chỉ bạch cầu > 16 G/L hoặc tiểu cầu > 400 G/L mới gợi ý biến chứng (mục 2.1, tr. 7), và ở độ 1 kết quả không đổi cách xử trí. Mẹ không đủ tiền: bỏ được, không bị trừ điểm."
+    },
+    "crp": {
+     "r": "4 mg/L",
+     "n": "Không cần: CRP \"nếu có điều kiện\", thường dưới 10 mg/L (QĐ 292/2024 mục 2.1, tr. 7); không đổi xử trí độ 1."
+    },
+    "glu_mm": {
+     "r": "5,1 mmol/L (92 mg/dL)",
+     "n": "Chưa cần ở độ 1. Đường huyết > 8,9 mmol/L (160 mg%) là yếu tố nguy cơ khi bé đã có biến chứng thần kinh độ 2a trở lên (QĐ 292/2024 mục 2.1, 3.2.1, tr. 7, 13). Rẻ và nhanh nên làm lúc tái khám nếu có dấu hiệu mới."
+    },
+    "pcr_entero": {
+     "r": "Phòng khám không làm; gửi mẫu ngoài, kết quả về sau khi bé đã qua giai đoạn quyết định.",
+     "n": "Không cần: RT-PCR/phân lập virus \"nếu có điều kiện\" cho độ 2b trở lên hoặc cần chẩn đoán phân biệt (QĐ 292/2024 mục 2.3, tr. 8). Đắt, không đổi xử trí độ 1. Chi phí lấy mẫu và giá xét nghiệm tại cơ sở khác: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tay chân miệng độ 1, ngày thứ 2 của bệnh, chưa biến chứng",
+     "ok": 1,
+     "n": "Sốt, loét miệng, chảy dãi, nốt phỏng nước lòng bàn tay, lòng bàn chân, mông, gối; có bạn cùng lớp mắc bệnh, ủ bệnh 3–7 ngày sau tiệc đông trẻ (QĐ 292/2024 mục 1.1, 3.1, tr. 6–8). Chỉ có phát ban và loét miệng: độ 1 (mục 6.1, tr. 9)."
+    },
+    {
+     "t": "Thủy đậu",
+     "n": "Thủy đậu: phỏng nước nhiều lứa tuổi, rải rác toàn thân (QĐ 292/2024 mục 4.2, tr. 8); cùng lúc sẩn, mụn nước, mụn mủ và vảy tiết (QĐ 4416/2023 Thủy đậu mục 2.1, tr. 108–109). Bé: nốt tập trung ở bàn tay, bàn chân, mông, cùng giai đoạn, thân mình không có."
+    },
+    {
+     "t": "Herpangina",
+     "n": "Cũng do virus đường ruột (QĐ 292/2024 mục I, tr. 6). Bé có thêm nốt phỏng nước ở da, nên đúng tay chân miệng. Tiêu chuẩn phân biệt riêng với herpangina: không có trong tài liệu đã tải (BYT không có hướng dẫn riêng); cùng cần theo dõi biến chứng."
+    },
+    {
+     "t": "Viêm não – màng não",
+     "n": "Chưa có: tỉnh, không giật mình, không run chi, không thất điều, cổ mềm, không nôn ói nhiều (QĐ 292/2024 mục 4.3, 5.1, tr. 8–9). Giật mình chới với là dấu hiệu báo trước (mục 1.1, tr. 7), nên phải dặn mẹ theo dõi và tái khám."
+    },
+    {
+     "t": "Ban dị ứng do amoxicillin mẹ tự cho",
+     "n": "Dị ứng: hồng ban đa dạng, không có phỏng nước (QĐ 292/2024 mục 4.2, tr. 8). Bé sốt, loét miệng và phỏng nước đúng vị trí, nên không phải dị ứng thuốc; nhưng amoxicillin không có chỉ định."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân độ 1, điều trị ngoại trú, theo dõi tại nhà; giải thích cho mẹ đây là bệnh do virus, chưa có thuốc đặc hiệu, chỉ điều trị hỗ trợ",
+     "v": "c",
+     "n": "Trạm y tế và phòng khám tư nhân khám, điều trị ngoại trú độ 1 (QĐ 292/2024 mục 2.1, tr. 11; mục 3.1, tr. 12). Chưa có thuốc điều trị đặc hiệu, chỉ điều trị hỗ trợ (mục III.1, tr. 11)."
+    },
+    {
+     "t": "Hỏi mẹ lo điều gì nhất, hỏi về bạn cùng lớp; nói rõ bé chưa có dấu hiệu nặng và dấu hiệu nào mới là nặng",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp: giải thích bằng tiêu chí cụ thể thay vì chỉ trấn an. Không có trong tài liệu đã tải. Bạn cùng lớp nhập viện không làm tăng độ của bé (sổ mâu thuẫn: tiếp xúc ca nặng không đổi độ; không có câu nào trong QĐ 292/2024 nói điều này)."
+    },
+    {
+     "t": "Xếp ưu tiên xét nghiệm: hôm nay không làm xét nghiệm nào; nói rõ khi nào mới cần (đường huyết, công thức máu nếu có dấu hiệu mới)",
+     "v": "c",
+     "n": "Chẩn đoán dựa lâm sàng, dịch tễ (mục 3.1, tr. 8); công thức máu, CRP \"nếu có điều kiện\" (mục 2.1, tr. 7); xét nghiệm virus từ độ 2b (mục 2.3, tr. 8). Mẹ không đủ tiền nên bỏ được xét nghiệm không đổi quyết định."
+    },
+    {
+     "t": "Hạ sốt, giảm đau: paracetamol 10–15 mg/kg/lần (14,5 kg: 145–218 mg, chọn 150 mg), mỗi 4–6 giờ, chỉ khi bé sốt khó chịu; tối đa 60 mg/kg/ngày; không aspirin",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.1 (tr. 12): paracetamol 10–15 mg/kg/lần mỗi 4–6 giờ; mục 3.2.1 (tr. 13): tối đa 60 mg/kg/ngày, không dùng aspirin. NICE NG143 mục 1.6.4–1.6.5: cân nhắc khi trẻ khó chịu, không dùng chỉ để hạ con số nhiệt độ."
+    },
+    {
+     "t": "Ngưng siro amoxicillin; không kê kháng sinh",
+     "v": "c",
+     "n": "Chưa có thuốc đặc hiệu, điều trị độ 1 không có kháng sinh (QĐ 292/2024 mục III.1, tr. 11; mục 3.1, tr. 12). Kháng sinh chỉ khi có bội nhiễm hoặc chưa loại trừ nhiễm khuẩn nặng khác (mục 4.4.7, tr. 19, nằm trong phần độ 4). Bé không bội nhiễm da, không dấu hiệu nhiễm khuẩn nặng."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin hoặc loại khác) cho tay chân miệng không bội nhiễm",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 292/2024 mục 3.1, 4.4.7); thêm tác dụng phụ, tốn tiền (mẹ không đủ tiền)."
+    },
+    {
+     "t": "Cho uống phenobarbital hoặc thuốc an thần để bé ngủ yên",
+     "v": "w",
+     "n": "Phenobarbital uống 5–7 mg/kg/ngày chỉ nằm trong điều trị nội trú độ 2a (QĐ 292/2024 mục 3.2.1, tr. 13). Dùng ngoại trú ở độ 1 không có chỉ định; thuốc an thần có thể che dấu hiệu theo dõi (suy luận, sổ mâu thuẫn mục tay chân miệng)."
+    },
+    {
+     "t": "Làm dịu loét miệng bằng thuốc băng niêm mạc/antacid, vệ sinh răng miệng, thức ăn lỏng nguội mát chia nhiều bữa; không làm vỡ mụn nước, mụn vỡ chấm povidone-iodine hoặc xanh methylen",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.1 (tr. 12). Ibuprofen 5–10 mg/kg/lần mỗi 6–8 giờ thay được paracetamol (cùng mục), không dùng đồng thời (NICE NG143 mục 1.6.6): chấm a."
+    },
+    {
+     "t": "Nghỉ học 7–10 ngày; rửa tay xà phòng, không dùng chung đồ cá nhân, lau sàn và đồ chơi",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.1 (tr. 12): nghỉ học, đi học lại sau 7–10 ngày kể từ khi phát bệnh; mục VI.3 (tr. 20): rửa tay bằng xà phòng, rửa sạch đồ chơi, lau sàn bằng Cloramin B 2% hoặc dung dịch khử khuẩn khác."
+    },
+    {
+     "t": "Hẹn tái khám ngày mai và mỗi 1–2 ngày trong 7–10 ngày đầu; sốt thì tái khám mỗi ngày đến khi hết sốt ít nhất 48 giờ; dặn dấu hiệu cần quay lại ngay",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.1 (tr. 12): tái khám mỗi 1–2 ngày trong 7–10 ngày đầu; trẻ sốt tái khám mỗi ngày đến khi hết sốt ít nhất 48 giờ; tái khám ngay khi sốt trên 39 °C hoặc kéo dài trên 48 giờ, nôn nhiều, lừ đừ, kích thích, bỏ bú/ăn, giật mình, thở nhanh, nổi vân tím, hôn mê, co giật."
+    },
+    {
+     "t": "Nhập viện theo dõi vì mẹ quá lo lắng",
+     "v": "a",
+     "n": "QĐ 292/2024 mục 3.1 (tr. 12) cho phép nhập viện độ 1 khi người nhà lo lắng, nhà xa, không đủ điều kiện theo dõi. Bé nhà gần, mẹ theo dõi được nên cho về là hợp lý hơn; nhập viện không bị coi là sai."
+    },
+    {
+     "t": "Chuyển tuyến hoặc cấp cứu ngay cho tay chân miệng độ 1 ở trẻ 3 tuổi không bệnh nền",
+     "v": "w",
+     "n": "Chỉ chuyển từ độ 2a trở lên, hoặc độ 1 dưới 12 tháng hoặc có bệnh phối hợp (QĐ 292/2024 mục 2.1, tr. 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tay chân miệng độ 1, ngày thứ 2 của bệnh (phát ban + loét miệng, sốt nhẹ), có dịch tễ cùng lớp, nghi ủ bệnh sau tiệc đông trẻ",
+     "Chưa biến chứng thần kinh, tim mạch, hô hấp: không giật mình, mạch 118 l/p khi sốt 38,3 °C, thở 26 l/p, SpO₂ 98%",
+     "Không mất nước, uống được; không có bệnh nền; điều kiện theo dõi tại nhà đủ",
+     "Đang dùng amoxicillin theo toa cũ không có chỉ định",
+     "Mẹ lo vì bạn cùng lớp nhập viện; kinh tế hạn chế, không làm được xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: sốt nhẹ, đau miệng, chảy dãi, bỏ ăn; sáng nay nổi nốt ở bàn tay. Chẩn đoán ca lâm sàng dựa vào lâm sàng và dịch tễ: tuổi, mùa, số trẻ mắc cùng lúc, phỏng nước điển hình ở miệng, lòng bàn tay, lòng bàn chân, gối, mông (QĐ 292/2024 mục 3.1, tr. 8). Ủ bệnh 3–7 ngày (mục 1.1, tr. 6): tiệc 5 ngày trước, sốt từ hôm qua.",
+     "Hỏi câu then chốt: giật mình chới với báo biến chứng thần kinh; sốt cao hoặc nôn nhiều dễ có nguy cơ (QĐ 292/2024 mục 1.1, tr. 7). Bé không giật mình, nôn 1 lần, sốt 38,3 °C chưa quá 2 ngày: chưa đủ độ 2a (mục 6.2.1, tr. 9).",
+     "Khám: loét miệng 2–3 mm, nốt phỏng nước 2–4 mm ở bàn tay, bàn chân, mông, gối cùng giai đoạn, thân mình không có (QĐ 292/2024 mục 1.1, tr. 6–7). Thần kinh, tim, phổi bình thường, mao mạch hồi lại dưới 2 giây, không nổi bông: không có dấu hiệu độ 2 trở lên (mục 6.2, 6.3, tr. 9–10).",
+     "Cận lâm sàng: không cần. Công thức máu, CRP chỉ \"nếu có điều kiện\"; đường huyết, điện giải, X-quang phổi dành cho biến chứng từ độ 2b; xét nghiệm virus từ độ 2b (QĐ 292/2024 mục 2.1, tr. 7; mục 2.3, tr. 8). Cơ sở không có X-quang và mẹ không đủ tiền: không xét nghiệm nào đổi quyết định hôm nay.",
+     "Loại trừ: thủy đậu, áp-tơ, dị ứng thuốc, viêm não – màng não (QĐ 292/2024 mục 4.1–4.3, tr. 8). Herpangina: tiêu chuẩn phân biệt không có trong tài liệu đã tải.",
+     "Về mẹ: bạn thân cùng lớp nhập viện không làm tăng độ của bé (tài liệu không có câu nào nói điều đó). Hỏi 'chị lo điều gì nhất' và hỏi chuyện bạn cùng lớp mới lộ ra nỗi sợ thật. Ba cho bé nhấp bia không gây bệnh này, nhưng là phơi nhiễm đông người; tác hại của bia rượu ở trẻ nhỏ: không có trong tài liệu đã tải, vẫn khuyên không cho trẻ uống."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú vì độ 1 ở phòng khám (QĐ 292/2024 mục 2.1, 3.1). Nhập viện khi người nhà lo lắng, nhà xa, không đủ điều kiện theo dõi (mục 3.1, tr. 12): ở đây mẹ lo nhưng nhà gần, theo dõi được nên cho về, chấp nhận nhập viện nếu mẹ vẫn không yên tâm.",
+     "Hạ sốt, giảm đau: paracetamol 10–15 mg/kg/lần uống mỗi 4–6 giờ (QĐ 292 mục 3.1) hoặc chỉ dùng khi trẻ khó chịu, không dùng chỉ để hạ con số nhiệt độ (NICE NG143 mục 1.6.4–1.6.5). Cả hai cách đều đúng: 14,5 kg ⇒ 145–218 mg/lần, chọn 150 mg, tối đa 60 mg/kg/ngày ≈ 870 mg (mục 3.2.1, tr. 13). Ibuprofen 5–10 mg/kg/lần mỗi 6–8 giờ thay thế được (mục 3.1), không cho đồng thời (NICE NG143 mục 1.6.6).",
+     "Ngưng amoxicillin: tay chân miệng do virus, chưa có thuốc đặc hiệu (mục III.1, tr. 11); kháng sinh chỉ khi bội nhiễm hoặc chưa loại trừ nhiễm khuẩn nặng khác (mục 4.4.7, tr. 19).",
+     "Chăm sóc tại chỗ: thuốc băng niêm mạc/antacid làm dịu loét miệng, vệ sinh răng miệng, thức ăn lỏng nguội mát chia nhiều bữa, không làm vỡ mụn nước, chấm povidone-iodine hoặc xanh methylen khi vỡ (mục 3.1, tr. 12).",
+     "Hẹn tái khám ngày mai vì bé còn sốt và dặn rõ dấu hiệu quay lại ngay (QĐ 292/2024 mục 3.1, tr. 12). Biến chứng xuất hiện sớm từ ngày 2 đến ngày 5, có thể đến ngày 7 (mục 1.1, tr. 7): hôm nay mới ngày 2, chưa được yên tâm hoàn toàn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột trẻ em)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "150 mg/lần (≈ 10,3 mg/kg; cho phép 10–15 mg/kg = 145–218 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi bé sốt, khó chịu hoặc đau miệng không ăn được; cách ít nhất 4–6 giờ giữa các lần",
+      "so_ngay": "Những ngày còn sốt hoặc đau; tối đa 60 mg/kg/ngày ≈ 870 mg, nghĩa là không quá 4 lần 150 mg/ngày",
+      "ghi_chu": "QĐ 292/2024 mục 3.1 (tr. 12), mục 3.2.1 (tr. 13); NICE NG143 mục 1.6.4–1.6.5. Không dùng aspirin."
+     },
+     {
+      "thuoc": "Thuốc băng niêm mạc/antacid (làm dịu loét miệng)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Theo nhãn sản phẩm bác sĩ chọn",
+      "duong": "Uống hoặc bôi tại chỗ theo dạng thuốc",
+      "thoi_diem": "Trước bữa ăn để bé đỡ đau khi nuốt",
+      "so_ngay": "Trong 3–5 ngày đầu hoặc đến khi bé ăn được",
+      "ghi_chu": "QĐ 292/2024 mục 3.1 (tr. 12) chỉ nêu nhóm thuốc, không nêu tên thuốc, liều, số ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Povidone-iodine dung dịch (hoặc xanh methylen)",
+      "ham_luong": "Nồng độ không có trong tài liệu đã tải",
+      "lieu": "Chấm lên mụn nước đã vỡ",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Khi có mụn vỡ",
+      "so_ngay": "Đến khi khô",
+      "ghi_chu": "QĐ 292/2024 mục 3.1 (tr. 12): không làm vỡ mụn nước."
+     },
+     {
+      "thuoc": "Ngưng siro amoxicillin",
+      "ham_luong": "—",
+      "lieu": "Không dùng tiếp",
+      "duong": "—",
+      "thoi_diem": "Từ lúc khám",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định kháng sinh (QĐ 292/2024 mục III.1, 3.1, 4.4.7)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị tay chân miệng, do virus; chưa có thuốc chữa riêng, chỉ chăm sóc và theo dõi (QĐ 292/2024 mục III.1, tr. 11).",
+     "Cho bé uống sữa, nước từng ngụm nhỏ, ăn cháo lỏng nguội, chia nhiều bữa; không ép ăn đồ nóng, chua, mặn. Đánh răng nhẹ, súc miệng nước muối loãng nếu bé làm được.",
+     "Không làm vỡ mụn nước. Paracetamol 150 mg mỗi lần khi bé sốt khó chịu, cách nhau ít nhất 4–6 giờ, không quá 4 lần/ngày (QĐ 292/2024 mục 3.1, 3.2.1). Ngưng hẳn amoxicillin còn dư, không tự cho thuốc nào khác, không cho bé uống bia, rượu.",
+     "Cho bé nghỉ học 7–10 ngày kể từ khi phát bệnh; rửa tay bằng xà phòng sau khi thay tã, chạm phân và nước bọt của bé; rửa đồ chơi, lau sàn (QĐ 292/2024 mục 3.1, VI.3).",
+     "Quay lại NGAY nếu bé: sốt trên 39 °C hoặc kéo dài trên 48 giờ, nôn nhiều, lừ đừ hoặc quấy khóc vô cớ, bỏ ăn uống, GIẬT MÌNH chới với, thở nhanh, da nổi vân tím, co giật, hôn mê (QĐ 292/2024 mục 3.1, tr. 12–13). Ban đêm bé giật mình khi vừa chợp mắt thì đừng chờ sáng.",
+     "Tái khám ngày mai, sau đó mỗi 1–2 ngày trong 7–10 ngày đầu, còn sốt thì mỗi ngày (QĐ 292/2024 mục 3.1, tr. 12). Mẹ vẫn lo thì cho bé nằm viện theo dõi được; mang theo thẻ bảo hiểm trẻ em."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Sáng hôm sau, 7 giờ 30, tái khám (ngày thứ 3 của bệnh). Mẹ bồng bé vào: bé sốt cao không giảm, đêm qua giật mình nhiều lần, ngủ li bì, nôn 2 lần. Sinh hiệu: nhiệt 39,4 °C, mạch 152 l/p, HA 98/60 mmHg, nhịp thở 32 l/p, SpO₂ 96%. Bé lừ đừ, mắt nhắm khi không bị kích thích.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Khôi về nhà khi đã giật mình ghi nhận lúc khám, ngủ gà và mạch nhanh là bỏ sót độ 2b (QĐ 292/2024 mục 6.2.2, tr. 10). Biến chứng thần kinh, tim mạch, hô hấp xuất hiện sớm từ ngày 2 đến ngày 5, thể tối cấp có thể diễn tiến suy tuần hoàn, suy hô hấp, hôn mê trong 24–48 giờ (mục 1.1, 1.2, tr. 7); đêm nay bé có thể vã mồ hôi, da nổi vân tím, thở nhanh, rồi phải cấp cứu nửa đêm quãng đường 12 km bằng xe máy. Mẹ vốn ngại tiền sẽ tiếp tục chờ đến sáng, mất thêm nhiều giờ quý giá.",
+    "theo_doi": "Giữ bé tại phòng khám vài giờ để cho thuốc hạ sốt rồi xem tiếp là mất thời gian: độ 2b cần nằm đầu cao 30 độ, oxy, phenobarbital truyền tĩnh mạch, theo dõi mỗi 1–3 giờ ở phòng cấp cứu hoặc hồi sức (QĐ 292/2024 mục 3.2.2, tr. 13–14), những thứ phòng khám không có. Hạ sốt không loại được biến chứng thần kinh; trong lúc chờ, bé có thể chuyển độ 3.",
+    "nhap_vien": "Cho bé nhập viện ở cơ sở không có hồi sức nhi là chọn sai nơi: bệnh viện huyện khám, điều trị độ 1 và 2a; độ 2b trở lên phải chuyển (QĐ 292/2024 mục 2.2, tr. 11). Bé sẽ nằm vài giờ rồi lại phải chuyển lần hai trong tình trạng nặng hơn, chi phí và rủi ro vận chuyển gấp đôi."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt đâu, cả đêm bé giật mình, nằm li bì không chịu dậy. Em lo lắm... mà em chỉ mang theo có chút tiền, bác sĩ coi giúp em bé có sao không.",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "98/60",
+    "nhiet": "39,4",
+    "nhip_tho": 32,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 39–39,5 °C cả đêm, vẫn 39,4 °C sáng nay dù uống paracetamol 150 mg lúc 5 giờ 30, ngủ li bì, giật mình, nôn 2 lần. Mẹ không nghe lời bác sĩ hôm qua 'quay lại ngay nếu giật mình ban đêm' vì đợi đến sáng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "giat_minh",
+     "noi_dung": "Từ khoảng 2 giờ sáng, bé giật mình chới với mỗi khi vừa chợp mắt, mỗi lần 1–2 giây ở tay và chân; có đoạn 3 lần trong nửa giờ, cả đêm khoảng 6–7 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần giật mình (Q 292 mục 6.2.1, 6.2.2)"
+    },
+    {
+     "id": "tri_giac",
+     "noi_dung": "Sáng nay bé ngủ gà, phải gọi mới mở mắt rồi nhắm lại, nằm lì, không đòi sữa. Không co giật, không nhìn ngược, không run tay chân, vẫn nuốt được nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngủ gà, dấu thần kinh khác"
+    },
+    {
+     "id": "non_tieu",
+     "noi_dung": "Nôn 2 lần trong đêm, ít, sau khi uống nước. Từ chiều qua đến giờ tiểu 2 lần, ít, vàng sẫm. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, mất nước"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ đã ngưng amoxicillin từ chiều qua theo lời dặn. Chỉ cho paracetamol 150 mg lúc 0 giờ và 5 giờ 30. Không thuốc nào khác, không bôi gì lên da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã làm theo dặn (ngưng kháng sinh)"
+    },
+    {
+     "id": "tai_sao_cho",
+     "noi_dung": "Mẹ thấy bé giật mình từ 2 giờ sáng nhưng ba đi ca đêm, không có ai chở, mẹ sợ tốn tiền nên đợi trời sáng. Mẹ ân hận vì đã chờ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do chậm đến (tiền, phương tiện)"
+    },
+    {
+     "id": "the_bhyt",
+     "noi_dung": "Lần này mẹ mang theo thẻ bảo hiểm y tế trẻ em của bé. Ba vừa đi ca đêm về, đang chờ ngoài cổng với xe máy; nhà không có ô tô. Bệnh viện nhi của tỉnh cách khoảng 12 km, xe cấp cứu đi khoảng 30–40 phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chi phí, người đi cùng, phương tiện"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Mẹ nghe tin bé Tít, bạn cùng lớp, đang nằm hồi sức. Mẹ sợ bé Khôi cũng vậy. Nếu bác sĩ nói rõ vì sao phải chuyển và có thẻ bảo hiểm, mẹ đồng ý ngay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật của mẹ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Lừ đừ, mắt nhắm, gọi to thì mở mắt rồi nhắm lại, khóc yếu (mức V thang AVPU). Mặt đỏ, môi nứt, niêm mạc hơi khô. Da ấm, mao mạch hồi lại khoảng 2 giây, không nổi vân tím, không vã mồ hôi, tay chân ấm.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Khi đặt bé nằm ngửa, bé giật mình chới với một lần ở cả hai tay và chân (1–2 giây), lặp lại một lần nữa sau vài phút khám. Ngủ gà. Nâng hai tay hai chân đều, không liệt, không run chi, không lác, không rung giật nhãn cầu, nuốt được, giọng bình thường. Trương lực cơ bình thường, cổ mềm.",
+     "k": 1
+    },
+    "da": {
+     "a": "Nốt phỏng nước ở lòng bàn tay, lòng bàn chân, mông tăng nhẹ so với hôm qua, vài nốt đã xẹp. Không chấm xuất huyết, không vân tím, không bội nhiễm.",
+     "k": 0,
+     "hien": "Lòng bàn tay, lòng bàn chân, mông có nhiều nốt nhỏ chứa nước, vài nốt đã xẹp. Không chấm xuất huyết."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 152 l/p, T1 T2 rõ, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, nhanh, tần số 152 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p. Không co lõm lồng ngực, không thở rít, không sùi bọt. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 32 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không chướng.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Vài vết loét nông ở niêm mạc má, lưỡi; chảy ít dãi hơn hôm qua, niêm mạc miệng hơi khô.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "a",
+     "r": "6,8 mmol/L (122 mg/dL)",
+     "n": "Chấp nhận, làm tại giường 3 phút trong lúc gọi xe, không chờ kết quả: đường huyết > 8,9 mmol/L (160 mg%) là yếu tố nguy cơ (QĐ 292/2024 mục 2.1, 3.2.1, tr. 7, 13); bé 6,8 mmol/L nhưng đã đủ chỉ định chuyển. Giá khoảng 20.000 đồng, mẹ trả được."
+    },
+    "ctm": {
+     "r": "BC 13,9 G/L · Neutrophil 66% · Hb 120 g/L · TC 355 G/L",
+     "n": "Không cần để quyết định chuyển; bệnh viện sẽ làm khi nhập viện. Bạch cầu > 16 G/L, tiểu cầu > 400 G/L liên quan biến chứng (QĐ 292/2024 mục 2.1, tr. 7), bé dưới cả hai ngưỡng nhưng điều đó không làm bé an toàn hơn: phân độ dựa vào lâm sàng. Chờ kết quả 30 phút chỉ làm chậm chuyển tuyến và tốn tiền (mẹ không đủ tiền)."
+    },
+    "pcr_entero": {
+     "r": "Phòng khám không làm; bệnh viện lấy bệnh phẩm (hầu họng, phỏng nước, trực tràng) khi nhập viện.",
+     "n": "RT-PCR hoặc phân lập virus nên làm từ độ 2b trở lên (QĐ 292/2024 mục 2.3, tr. 8) nhưng ở bệnh viện, không làm ở đây và không đổi quyết định chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tay chân miệng độ 2b nhóm 1 (có thể nhóm 2), ngày thứ 3 của bệnh",
+     "ok": 1,
+     "n": "Giật mình ghi nhận lúc khám và bệnh sử giật mình > 2 lần/30 phút kèm ngủ gà: độ 2b nhóm 1 (mục 6.2.2, tr. 10). Mạch 152 l/p khi sốt 39,4 °C; sau hiệu chỉnh sốt (mạch tăng 10 nhịp mỗi 1 °C trên 38 °C ≈ 14 nhịp) còn khoảng 138 l/p, vẫn > 130 (không sốt). Sốt > 39 °C chưa hạ dù đã uống paracetamol 2 giờ trước: nghi nhóm 2 (mục 6.2.2b), bệnh viện đánh giá lại."
+    },
+    {
+     "t": "Tay chân miệng độ 2a",
+     "n": "Độ 2a chỉ có giật mình dưới 2 lần/30 phút và không có lúc khám, hoặc sốt trên 2 ngày kèm nôn nhiều, lừ đừ, khó ngủ, quấy khóc vô cớ (QĐ 292/2024 mục 6.2.1, tr. 9). Bé đã vượt: giật mình ghi nhận lúc khám, ngủ gà. Phân độ thấp hơn thực tế dẫn đến chuyển tuyến không đủ gấp."
+    },
+    {
+     "t": "Tay chân miệng độ 3",
+     "n": "Chưa đủ: mạch hiệu chỉnh ≈ 138 l/p (< 170 l/p), HA 98 mmHg (< 115 mmHg ở trẻ ≥ 24 tháng), thở 32 l/p, SpO₂ 96% (≥ 94%), không da nổi bông, vã mồ hôi, chi lạnh (QĐ 292/2024 mục 6.3, tr. 10). Nhưng bé đang ở bờ vực, phải theo dõi sát khi chuyển."
+    },
+    {
+     "t": "Viêm màng não, viêm não do vi khuẩn hoặc virus khác",
+     "n": "Phải nghĩ tới khi trẻ sốt, li bì, giật mình (QĐ 292/2024 mục 4.3, tr. 8). Bé có ban tay chân miệng điển hình và dịch tễ lớp học nên nghiêng về biến chứng thần kinh của tay chân miệng; phân biệt bằng chọc dò dịch não tủy là việc của bệnh viện (mục 2.2, tr. 7). Cổ mềm, không cứng gáy."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết, sốc nhiễm khuẩn, viêm phổi",
+     "n": "Bé không chấm xuất huyết, không sốc (HA 98/60), phổi không ran, thở 32 l/p (QĐ 292/2024 mục 4.2, 4.4, tr. 8)."
+    },
+    {
+     "t": "Mất nước, nôn do bệnh",
+     "n": "Môi nứt, niêm mạc hơi khô, tiểu ít vàng sẫm: mất nước nhẹ. Cần bù dịch ở bệnh viện, không là chẩn đoán chính."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân độ 2b và chuyển ngay bằng xe cấp cứu đến bệnh viện nhi có hồi sức; gọi điện báo trước; mẹ hoặc ba đi cùng, mang thẻ bảo hiểm",
+     "v": "c",
+     "n": "Phòng khám tư nhân chuyển tuyến từ độ 2a trở lên (QĐ 292/2024 mục 2.1, tr. 11); độ 2b sắp xếp điều trị tại phòng cấp cứu hoặc hồi sức (mục 3.2.2, tr. 13). Bé có thể diễn tiến nhanh trong 24–48 giờ (mục 1.2, tr. 7). Phương tiện, tư thế vận chuyển và nội dung điện báo trước: không có trong tài liệu đã tải. Kỹ năng giao tiếp (SBAR) theo thông lệ, không bắt buộc ở đây."
+    },
+    {
+     "t": "Trong lúc chờ xe: nằm đầu cao 30 độ, theo dõi mạch, nhịp thở, SpO₂, tri giác; thở oxy qua mũi tối đa 6 l/phút nếu cơ sở có oxy",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.2.2 (tr. 13): nằm đầu cao 30 độ, thở oxy qua mũi tối đa 6 l/phút. Cơ sở có oxy hay không: không có trong dữ kiện; SpO₂ 96% nên oxy không bắt buộc."
+    },
+    {
+     "t": "Hạ sốt: ibuprofen 5–10 mg/kg/lần (72–145 mg) xen kẽ paracetamol 10–15 mg/kg/lần khi sốt cao không đáp ứng; không dùng đồng thời; không aspirin",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.2.1 (tr. 13): sốt cao không đáp ứng tốt với paracetamol có thể phối hợp ibuprofen 5–10 mg/kg/lần mỗi 6–8 giờ, xen kẽ; tối đa ibuprofen 40 mg/kg/ngày, paracetamol 60 mg/kg/ngày; không aspirin. NICE NG143 mục 1.6.6: không dùng đồng thời, chỉ xen kẽ khi bé còn khó chịu trước liều kế tiếp. Paracetamol lần cuối 5 giờ 30: chờ đủ 4–6 giờ."
+    },
+    {
+     "t": "Đo đường huyết mao mạch tại giường trong lúc gọi xe, không chờ công thức máu hay các xét nghiệm khác",
+     "v": "a",
+     "n": "QĐ 292/2024 mục 2.1 (tr. 7): đường huyết là yếu tố nguy cơ; kết quả không đổi quyết định chuyển. Chấp nhận, không bắt buộc; xét nghiệm đắt hơn (công thức máu 50.000 đồng) bỏ được vì bệnh viện làm lại."
+    },
+    {
+     "t": "Giải thích cho mẹ bằng tiêu chí: giật mình + ngủ gà + mạch nhanh là dấu hiệu biến chứng thần kinh, phải điều trị ở nơi có hồi sức; trấn an về thẻ bảo hiểm; ghi nhận mẹ đã đưa bé đến",
+     "v": "c",
+     "n": "Giật mình chới với là dấu hiệu quan trọng báo biến chứng thần kinh (QĐ 292/2024 mục 1.1, tr. 7). Kỹ năng giao tiếp, không có trong tài liệu đã tải. Quy định bảo hiểm khi chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi lại giờ giật mình, thuốc đã cho, sinh hiệu và giao cho mẹ cùng thẻ bảo hiểm để mang theo",
+     "v": "c",
+     "n": "Thông tin chuyển tuyến; không có tiêu chuẩn riêng trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền phenobarbital hoặc immunoglobulin tại phòng khám trước khi chuyển",
+     "v": "w",
+     "n": "Phenobarbital 10–20 mg/kg truyền tĩnh mạch trong 30 phút, immunoglobulin 1 g/kg cho nhóm 2 là điều trị ở phòng cấp cứu hoặc hồi sức (QĐ 292/2024 mục 3.2.2, tr. 13–14); phòng khám không đủ theo dõi hô hấp, thuốc và nhân lực, làm trễ chuyển tuyến."
+    },
+    {
+     "t": "Giữ bé lại phòng khám vài giờ để hạ sốt, làm công thức máu rồi quyết",
+     "v": "w",
+     "n": "Độ 2b không chờ được (QĐ 292/2024 mục 1.2, tr. 7; mục 3.2.2, tr. 13)."
+    },
+    {
+     "t": "Cho bé về nhà, dặn tái khám chiều nay",
+     "v": "h",
+     "n": "Bé độ 2b, thể tối cấp có thể suy tuần hoàn, suy hô hấp, hôn mê trong 24–48 giờ (QĐ 292/2024 mục 1.2, tr. 7); ở nhà không có theo dõi, oxy, phenobarbital."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tay chân miệng độ 2b nhóm 1, nghi nhóm 2, ngày thứ 3 của bệnh: giật mình ghi nhận lúc khám, bệnh sử giật mình nhiều lần, ngủ gà, mạch nhanh, sốt > 39 °C",
+     "Chưa độ 3: mạch hiệu chỉnh sốt khoảng 138 l/p, HA 98/60 mmHg, SpO₂ 96%, không vân tím, mao mạch hồi lại khoảng 2 giây",
+     "Mất nước nhẹ do sốt, nôn, ăn uống kém",
+     "Không có X-quang tại cơ sở; xét nghiệm, chụp, chọc dò cần làm ở bệnh viện",
+     "Mẹ lo chi phí và đã chậm đưa đi vì thiếu người chở và sợ tốn tiền"
+    ],
+    "phan_tich_chan_doan": [
+     "So với hôm qua: sốt không giảm, xuất hiện giật mình, ngủ gà, nôn 2 lần, mạch từ 118 lên 152 l/p. Đây là diễn tiến đúng thời điểm của biến chứng: thần kinh, tim mạch, hô hấp thường xuất hiện sớm từ ngày 2 đến ngày 5, có thể đến ngày 7 (QĐ 292/2024 mục 1.1, 5, tr. 7–8). Quyết định cho về hôm qua vẫn đúng với độ 1 hôm qua: kết quả này không làm lượt 1 thành sai.",
+     "Phân độ: giật mình ghi nhận lúc khám, bệnh sử giật mình > 2 lần/30 phút, giật mình kèm ngủ gà: độ 2b nhóm 1 (QĐ 292/2024 mục 6.2.2a, tr. 10). Mạch 152 l/p khi sốt 39,4 °C, trừ khoảng 14 nhịp còn khoảng 138 l/p, đạt mạch > 130 (cùng mục). Sốt > 39 °C không đáp ứng hạ sốt cộng nhóm 1 là nhóm 2 (mục 6.2.2b): paracetamol uống 2 giờ trước, chưa đủ để khẳng định nhưng đủ để nghi và báo bệnh viện.",
+     "Tìm độ 3 để biết còn bao xa: mạch hiệu chỉnh < 170, HA < 115 mmHg (≥ 24 tháng), SpO₂ ≥ 94%, không vân tím, vã mồ hôi, chi lạnh (QĐ 292/2024 mục 6.3, tr. 10). Dấu độ 2b nhóm 2 (thất điều, rung giật nhãn cầu, yếu liệt chi, liệt dây sọ, tăng trương lực, rối loạn tri giác; mục 6.2.2b): bé chưa có.",
+     "Cận lâm sàng: công thức máu, đường huyết, điện giải, X-quang phổi, RT-PCR virus là việc từ độ 2b (QĐ 292/2024 mục 2.1, tr. 7; mục 2.3, tr. 8). Phòng khám không có X-quang, mẹ không đủ tiền, và không xét nghiệm nào đổi quyết định chuyển: chuyển ngay, bệnh viện làm. Chỉ đường huyết tại giường là rẻ, nhanh.",
+     "Loại trừ: viêm màng não, viêm não do vi khuẩn hoặc virus khác cần chọc dò dịch não tủy ở bệnh viện (QĐ 292/2024 mục 4.3, tr. 8; 2.2, tr. 7). Thủy đậu, herpangina đã loại ở lượt 1.",
+     "Rút ra: mẹ đợi đến sáng vì tiền và thiếu người chở. Nhắc dấu hiệu nặng bằng ví dụ cụ thể (giật mình ban đêm thì gọi xe ngay) và hỏi trước ai chở, đi đâu."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến: trạm y tế và phòng khám tư nhân chuyển từ độ 2a trở lên (QĐ 292/2024 mục 2.1, tr. 11). Độ 2b sắp xếp điều trị tại phòng cấp cứu hoặc hồi sức (mục 3.2.2, tr. 13). Bệnh viện đa khoa tỉnh, chuyên khoa nhi tuyến tỉnh điều trị mọi độ (mục 2.3, tr. 11).",
+     "Tại bệnh viện: nằm đầu cao 30 độ, oxy qua mũi tối đa 6 l/phút, hạ sốt, phenobarbital 10–20 mg/kg truyền tĩnh mạch 30 phút (14,5 kg: 145–290 mg), lặp lại sau 8–12 giờ khi cần, tổng không quá 40 mg/kg/ngày; nhóm 2: immunoglobulin 1 g/kg (14,5 g) truyền 6–12 giờ, một liều; nhóm 1: không chỉ định immunoglobulin; theo dõi mỗi 1–3 giờ trong 6 giờ đầu (QĐ 292/2024 mục 3.2.2, tr. 13–14).",
+     "Việc ở phòng khám trước chuyển: hạ sốt, đầu cao, theo dõi sinh hiệu, báo trước cho nơi nhận và đưa bé đi ngay. Ibuprofen 5–10 mg/kg/lần xen kẽ paracetamol, tối đa ibuprofen 40 mg/kg/ngày, paracetamol 60 mg/kg/ngày, không aspirin (QĐ 292/2024 mục 3.2.1, tr. 13); không dùng cùng lúc, chỉ xen kẽ nếu bé còn khó chịu trước liều kế tiếp (NICE NG143 mục 1.6.6).",
+     "Không làm ở phòng khám: truyền phenobarbital, immunoglobulin, chọc dò dịch não tủy; không chờ công thức máu. Thể tối cấp có thể tử vong trong 24–48 giờ (QĐ 292/2024 mục 1.2, tr. 7).",
+     "Về mẹ: nói thẳng nguy cơ, không dọa; ghi nhận mẹ đã đến đúng hẹn; hướng dẫn hỏi bệnh viện về thủ tục bảo hiểm khi chuyển tuyến (quy định cụ thể: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ibuprofen (siro hoặc gói trẻ em)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "100 mg/lần (≈ 6,9 mg/kg; cho phép 5–10 mg/kg = 72–145 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Nếu sốt cao khó chịu trước kỳ hạn liều paracetamol kế tiếp; không dùng cùng lúc với paracetamol; lần uống tối thiểu cách nhau 6–8 giờ",
+      "so_ngay": "Chỉ trong thời gian chờ chuyển; tối đa 40 mg/kg/ngày",
+      "ghi_chu": "QĐ 292/2024 mục 3.2.1 (tr. 13); NICE NG143 mục 1.6.6. Bé uống được nước nhưng ngủ gà, nôn: uống từng ngụm nhỏ, nếu nuốt sặc thì ngưng, chờ bệnh viện."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột trẻ em)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "150 mg/lần (10–15 mg/kg = 145–218 mg)",
+      "duong": "Uống hoặc đặt hậu môn 10–15 mg/kg/lần",
+      "thoi_diem": "Lần cuối lúc 5 giờ 30: chờ đủ 4–6 giờ mới lặp lại, xen kẽ ibuprofen nếu cần",
+      "so_ngay": "Tối đa 60 mg/kg/ngày ≈ 870 mg",
+      "ghi_chu": "QĐ 292/2024 mục 3.1 (tr. 12), mục 3.2.1 (tr. 13). Không dùng aspirin."
+     },
+     {
+      "thuoc": "Thuốc do bệnh viện chỉ định (KHÔNG thực hiện ở phòng khám): phenobarbital TM; immunoglobulin 1 g/kg nếu nhóm 2",
+      "ham_luong": "—",
+      "lieu": "Phenobarbital 10–20 mg/kg (145–290 mg) truyền 30 phút; immunoglobulin 1 g/kg (14,5 g) truyền 6–12 giờ",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Tại phòng cấp cứu hoặc hồi sức",
+      "so_ngay": "Immunoglobulin một liều; phenobarbital lặp lại sau 8–12 giờ khi cần",
+      "ghi_chu": "QĐ 292/2024 mục 3.2.2 (tr. 13–14). Ghi để mẹ biết bệnh viện sẽ làm gì, không kê tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Bé có dấu hiệu biến chứng thần kinh nên phải vào bệnh viện có hồi sức ngay hôm nay, không đợi chiều (QĐ 292/2024 mục 2.1, 3.2.2). Đi bằng xe cấp cứu, ba hoặc mẹ ngồi cạnh bé.",
+     "Mang theo thẻ bảo hiểm y tế trẻ em, giấy chuyển tuyến, tờ ghi giờ giật mình, thuốc đã cho (amoxicillin chiều qua, paracetamol 0 giờ và 5 giờ 30); bé nặng khoảng 14,5 kg.",
+     "Trong lúc chờ xe: bế bé nằm đầu cao, đừng ủ ấm; chỉ cho thuốc hạ sốt khi đã đủ giờ và nuốt được, không ép uống khi bé ngủ gà; báo ngay cho nhân viên nếu bé tím, thở nhanh, co giật, tay chân lạnh, da nổi vân tím.",
+     "Đừng tự trách. Hôm qua bác sĩ cho về là đúng với tình trạng của bé hôm qua; hôm nay bé nặng lên và mẹ đã đưa đi kịp lúc.",
+     "Người nhà không đưa bé đến lớp, không đi thăm bạn bè trong 7–10 ngày; rửa tay xà phòng, giặt đồ riêng, lau sàn, rửa đồ chơi (QĐ 292/2024 mục VI, tr. 20).",
+     "Không cho bé uống bia, rượu (tác hại ở trẻ: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được chuyển bằng xe cấp cứu đến bệnh viện nhi tỉnh sau 35 phút. Tại đó bé được xếp độ 2b nhóm 2 (sốt > 39 °C không đáp ứng hạ sốt), nằm phòng cấp cứu, thở oxy, phenobarbital truyền tĩnh mạch và immunoglobulin 1 g/kg một liều (QĐ 292/2024 mục 3.2.2). RT-PCR phết họng dương tính với enterovirus 71. Dù xử trí đúng và đủ sớm, khoảng 14 giờ sau bé vẫn tiến triển độ 3: mạch trên 170 l/p, huyết áp tăng, da nổi vân tím, được chuyển hồi sức, đặt nội khí quản thở máy 3 ngày (mục 3.3.1–3.3.2). Bé hồi phục dần, rút ống ngày thứ 4, ra viện sau 12 ngày, chỉ còn run nhẹ tay phải, hẹn tái khám thần kinh. Bé Tít cùng lớp cũng ra viện cùng tuần. (Kết cục minh họa, không phải số liệu của tài liệu.)",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: lượt 1 không xét nghiệm nào đổi quyết định độ 1; lượt 2 chỉ đường huyết tại giường (rẻ, 3 phút) chấp nhận được, còn lại để bệnh viện làm, không chờ.",
+  "Không có X-quang: không ảnh hưởng ở lượt 1 (X-quang phổi chỉ từ độ 2b, QĐ 292/2024 mục 2.1, tr. 7); ở lượt 2 làm tại bệnh viện, không là lý do trì hoãn chuyển tuyến.",
+  "Kháng sinh theo toa cũ: mẹ tự cho amoxicillin vì nghĩ đau miệng là viêm; không có chỉ định, ngưng ngay.",
+  "Lý do thật đến khám: bạn thân cùng lớp nhập viện, mẹ sợ con nặng như bạn; mẹ chỉ nói khi được hỏi nhẹ nhàng.",
+  "Tiệc nhậu: ba cho bé nhấp bia là chuyện mẹ ngại kể; liên quan phơi nhiễm đông trẻ, không liên quan diễn tiến."
+ ],
+ "bai_hoc_bien": [
+  "Quyết định đúng vẫn có thể ra kết cục xấu: cho về ở lượt 1 là đúng độ 1 (QĐ 292/2024 mục 2.1, 3.1); bé nặng lên sau 24 giờ không làm quyết định hôm qua thành sai, vì không dấu hiệu nào ở lượt 1 báo trước. Đừng đánh giá quyết định theo kết cục (outcome bias); đánh giá theo thông tin có lúc đó và việc đã dặn, hẹn.",
+  "Bệnh có thể xấu rất nhanh: biến chứng đến sớm từ ngày 2 đến 5, thể tối cấp 24–48 giờ (mục 1.1, 1.2, tr. 7). Hẹn tái khám ngắn, dặn dấu hiệu cụ thể, có số điện thoại là phần của xử trí, không phải lời dặn cho có.",
+  "Không đủ tiền xét nghiệm: xếp ưu tiên bằng câu hỏi 'xét nghiệm này có đổi quyết định hôm nay không?'. Tay chân miệng chẩn đoán bằng lâm sàng; độ 1 và chỉ định chuyển tuyến ở độ 2b không cần xét nghiệm; chỉ làm xét nghiệm rẻ, nhanh khi nó thật sự hữu ích.",
+  "Lý do thật của mẹ (sợ vì bạn cùng lớp) và rào cản thật (tiền, người chở, ca đêm của ba) quyết định mẹ có đến kịp không. Hỏi thẳng và hỏi nhẹ, giải thích bằng tiêu chí cụ thể.",
+  "Kháng sinh dư trong nhà: hỏi mọi thuốc đã cho, ngưng nếu không có chỉ định, giải thích vì sao bệnh do virus không cần kháng sinh (mục III.1, tr. 11)."
+ ],
+ "diem_nho": [
+  "Tay chân miệng độ 1: ngoại trú; độ 2a trở lên: chuyển tuyến từ phòng khám tư nhân (QĐ 292/2024 mục 2.1, tr. 11). Độ 2b: giật mình ghi nhận lúc khám, giật mình > 2 lần/30 phút, giật mình kèm ngủ gà hoặc mạch > 130 l/p; nhóm 2: sốt > 39 °C không đáp ứng, mạch > 150 l/p, thất điều, rung giật nhãn cầu, yếu liệt chi, liệt dây sọ, tăng trương lực, rối loạn tri giác (mục 6.2.2, tr. 10).",
+  "Mạch ở trẻ sốt: khi sốt > 38 °C, mạch tăng 10 nhịp mỗi khi nhiệt tăng 1 °C; cần hiệu chỉnh trước khi so với ngưỡng (mục 6.2.2, tr. 10).",
+  "Giật mình chới với là dấu hiệu quan trọng báo biến chứng thần kinh; biến chứng đến sớm từ ngày 2 đến ngày 5, có thể đến ngày 7 (mục 1.1, tr. 7).",
+  "Độ 1: tái khám mỗi 1–2 ngày trong 7–10 ngày; sốt thì mỗi ngày đến khi hết sốt ≥ 48 giờ; nghỉ học 7–10 ngày (QĐ 292/2024 mục 3.1, tr. 12).",
+  "Chưa có thuốc đặc hiệu; không kháng sinh khi không bội nhiễm; không aspirin (mục III.1, 3.2.1, 4.4.7).",
+  "Độ 2b: nằm đầu cao 30 độ, oxy, phenobarbital 10–20 mg/kg TM; nhóm 2 thêm immunoglobulin 1 g/kg một liều (mục 3.2.2, tr. 13–14)."
+ ],
+ "nguon": [
+  "QĐ 292/2024 – Bộ Y tế, Quyết định 292/QĐ-BYT ngày 06/02/2024, Hướng dẫn chẩn đoán, điều trị bệnh Tay chân miệng – TL-0239 – ĐÃ ĐỌC: mục I Đại cương (tr. 6); II.1 Lâm sàng (tr. 6–7); II.2–2.4 Cận lâm sàng (tr. 7–8); II.3–4 Chẩn đoán, chẩn đoán phân biệt (tr. 8); II.5 Biến chứng (tr. 8–9); II.6 Phân độ (tr. 9–11); III.1–2 Nguyên tắc, phân tuyến điều trị (tr. 11); III.3 Điều trị cụ thể độ 1, 2a, 2b, 3 (tr. 12–15); III.4.4.7 Kháng sinh (tr. 19); V Tiêu chuẩn xuất viện (tr. 19); VI Phòng bệnh (tr. 19–20). Số trang là số in ở góc trang.",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC (một đoạn): mục 1.6.1–1.6.6 (thuốc hạ sốt, paracetamol và ibuprofen, không dùng đồng thời)",
+  "QĐ 4416/2023 – Bộ Y tế, Quyết định 4416/QĐ-BYT ngày 06/12/2023, Hướng dẫn chẩn đoán và điều trị các bệnh Da liễu – TL-0397 – ĐÃ ĐỌC (một đoạn): Bệnh thủy đậu mục 2.1, 2.2 (tr. 108–109)"
+ ],
+ "ghi_chu_bien_tap": [
+  "18/10/2026 (viết: Sonnet): ca NH-0678, 2 lượt. Tài liệu đã đọc: TL-0239 (QĐ 292/2024) toàn bộ phần lâm sàng, phân độ, điều trị độ 1–3, tiêu chuẩn xuất viện, phòng bệnh; TL-0262 (NICE NG143) mục 1.6.1–1.6.6; TL-0397 (QĐ 4416/2023) Thủy đậu mục 2.1–2.2.",
+  "Chỗ không có trong tài liệu đã tải: tên, liều thuốc băng niêm mạc/antacid cho trẻ; nồng độ povidone-iodine; tiêu chuẩn phân biệt herpangina với tay chân miệng; tác hại bia rượu ở trẻ nhỏ; phương tiện và tư thế vận chuyển; quy định bảo hiểm khi chuyển tuyến; bạn cùng lớp nhập viện có làm tăng độ hay không (theo sổ mâu thuẫn, ca NH-0701).",
+  "Không có mâu thuẫn mới. Áp dụng mục đã có trong sổ: hạ sốt paracetamol trong tay chân miệng và phenobarbital/thuốc an thần ngoại trú chấm w (NH-0666), tiếp xúc ca nặng không đổi độ (NH-0701). Paracetamol ghi theo QĐ 292 (mỗi 4–6 giờ, ≤ 60 mg/kg/ngày) và NICE NG143 (khi bé khó chịu).",
+  "Ảnh da: SCIN không có người dưới 18 tuổi (age_group từ 18–29, còn lại AGE_UNKNOWN); nhãn Hand foot and mouth disease chỉ ở vị trí thứ 3, 4 case, không khớp tuổi 3: dùng chữ.",
+  "Mạch 152 l/p dùng chung tệp AT-TIM-NHANH-01 (khoảng 115 l/p); tần số ghi bằng chữ ở hien. Kết cục ở ket_cuc là minh họa; không có số liệu thật.",
+  "Đề xuất thêm mục CLS pcr_entero (RT-PCR enterovirus/EV71): xem NH-0678_de_xuat_danh_muc.json."
+ ]
+}
