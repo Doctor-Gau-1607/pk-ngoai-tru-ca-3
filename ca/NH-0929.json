@@ -1,0 +1,876 @@
+{
+ "ma_ca": "NH-0929",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_giun_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm giun (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu máu thiếu sắt",
+   "Đau bụng chức năng"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu (bé ngồi xem máy tính cạnh mẹ cả buổi)",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Huy",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 102,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác', ít nói, hay cựa quậy, lấy tay gãi sau mông khi ngồi; chỉ trả lời khi được hỏi đơn giản.",
+  "tinh_cach": "Mẹ 34 tuổi, bán hàng trực tuyến, ngồi máy tính cả ngày, nói liên tục, nhảy từ chuyện này sang chuyện khác, hay quay về chuyện đường huyết của con.",
+  "kieu_nhieu": "Kể lể lộn xộn: chị Ngọc kể xen kẽ chuyện máy tính, cô giáo, tiêm insulin, nhà ngoại, giá thuốc; câu trả lời thường lạc sang chuyện khác, phải hỏi lại từng ý, chốt thời gian, vị trí và giờ trong ngày thì mới ra dữ kiện. Ý quan trọng (ngứa hậu môn ban đêm, cả nhà chưa uống thuốc) nằm lẫn trong lời kể.",
+  "nguoi_nha": "Mẹ bé (chị Ngọc, 34 tuổi) đi cùng, trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha). Bé chỉ trả lời câu đơn giản.",
+  "ten_nguoi_nha": "Mẹ bé (chị Ngọc)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1c1612",
+   "kieuToc": "tre",
+   "ao": "#7fb6e8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b992",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#c98f9f",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đau bụng quanh rốn, quấy khóc đêm, ăn kém, tiểu dầm 3 tuần nay",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ đưa đến vì đau bụng quanh rốn từng đợt, đêm quấy khóc, ăn kém khoảng 3 tuần. Bé đã bị đái tháo đường typ 1 hai năm nay, đang tiêm insulin do bệnh viện nhi theo dõi. Mẹ lo bé 'lại lên đường' vì mấy hôm nay tiểu dầm. Sinh hiệu ổn, không sốt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy nằm viện nhi vì đau bụng, quấy đêm và tiểu dầm ở bệnh nhi đái tháo đường, trong khi tỉnh, uống được, bụng mềm, đường huyết mao mạch không cao, ceton niệu âm tính. Nguyên nhân tìm được ngay tại phòng khám bằng dán băng keo hậu môn, có thuốc uống đặc hiệu (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b); tài liệu đã tải không nêu tiêu chuẩn nhập viện cho giun kim. Bé bị chích lấy máu, xa nhà, mẹ mất công, còn người nhà vẫn chưa được tẩy giun.",
+    "chuyen_tuyen": "Bé Huy bị gửi lên bệnh viện nhi vì mẹ nghĩ đường huyết rối loạn gây tiểu dầm và quấy khóc. Chạy lại bộ xét nghiệm nội tiết tốn một buổi mà vẫn không điều trị giun kim; ban đêm giun bò ra hậu môn đẻ trứng gây ngứa và khó ngủ (QĐ 3312/2015, mục 3.1b). Bệnh viện nhi cũng chỉ dùng thuốc tẩy giun như tuyến dưới.",
+    "theo_doi": "Bé Huy chỉ được dặn 'theo dõi đường huyết, bớt cho xem máy tính', không có thuốc tẩy giun. Giun kim mang tính chất gia đình, trứng dính móng tay rồi vào miệng gây tái nhiễm (QĐ 3312/2015, mục 3.1b): bé tiếp tục gãi mông, thức đêm, tiểu dầm; chị gái 8 tuổi và bà nội cũng nhiễm. Mẹ càng tin lỗi nằm ở đường huyết nên có nguy cơ tự chỉnh insulin, một quyết định thuộc bệnh viện nhi (liều insulin cho trẻ: không có trong tài liệu đã tải)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em dạo này đau bụng, chiều nào em cũng ngồi bán hàng bên máy tính với bé mấy tiếng liền nên em nghĩ bé ngồi lâu mỏi, mà đêm bé cứ khóc, ăn không được, em lo đường lên vì bé đái tháo đường mà, lại còn tiểu dầm nữa, cô giáo cứ gọi em hoài... à, mà tuần trước nhà ngoại cho bé ăn ổi nữa...",
+   "sinh_hieu": {
+    "mach": 100,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 24,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau bụng quanh rốn từng đợt vài phút, 3 tuần nay, thường vào chiều tối; đêm quấy khóc, ăn ít hơn. Mẹ cho rằng do ngồi máy tính lâu và do đường huyết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tieu_dam",
+     "noi_dung": "Bé từng khô đêm hơn một năm nay nhưng 3 tuần qua tiểu dầm 4–5 đêm. Không uống nhiều nước, không đi tiểu nhiều ban ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiểu dầm lại (gợi ý giun kim, nhưng dễ nhầm với tăng đường huyết)"
+    },
+    {
+     "id": "dem",
+     "noi_dung": "Đêm bé khó ngủ, thức giấc 2–3 lần, khóc rồi đưa tay xuống gãi mông. Mẹ tưởng bé mơ ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quấy khóc đêm, gãi mông"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Bé hay gãi mông, ngồi không yên, chiều hay kéo quần ra gãi trước cô giáo. Mẹ chưa hề liên hệ với bệnh giun vì 'nhà sạch'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa vùng hậu môn (triệu chứng chốt)"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Bé tiêm insulin 2 lần/ngày theo sổ bệnh viện nhi, đường huyết các tuần trước ổn; mẹ đo cách đây 3 ngày được 6 mmol/L. Liều cụ thể mẹ không nhớ, có ghi trong sổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường typ 1 đang dùng insulin"
+    },
+    {
+     "id": "an",
+     "noi_dung": "Bé ăn kém ba tuần, vẫn uống sữa, không sụt cân rõ (cân nặng 16 kg như tháng trước).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ăn uống, cân nặng"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không nôn, không tiêu chảy, phân vàng thành khuôn, không máu, không thấy giun trong phân. Không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động tiêu hóa"
+    },
+    {
+     "id": "lay",
+     "noi_dung": "Bé chơi đất ở sân trường và vườn nhà ngoại, hay mút ngón tay, móng tay dài. Cả nhà 5 người: bố, mẹ, chị gái 8 tuổi, bà nội ngủ chung phòng với bé.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ, người sống cùng"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Mẹ chỉ thật sự muốn xin giấy nghỉ ốm: cô giáo gọi mẹ vì bé gãi mông trong lớp, mẹ ngại nên muốn cho bé nghỉ học vài ngày và xin nghỉ ở nhà trông con.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: xin giấy nghỉ ốm",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ mong muốn gì thêm hôm nay, hoặc hỏi về chuyện đi học, cô giáo."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được nhưng hay cựa quậy. Da niêm hồng nhẹ, không vàng da, không mất nước, hơi thở không mùi ceton.",
+     "k": 1,
+     "hien": "Tỉnh, cựa quậy, da niêm hồng."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 16 kg, cao 102 cm, MUAC bình thường theo tuổi; bé không gầy sút rõ.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn nhẹ quanh rốn hơi khó chịu, không điểm đau khu trú hố chậu phải, không phản ứng thành bụng, gan lách không to, không sờ thấy búi giun.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nhìn quanh hậu môn: nếp da đỏ nhẹ, vài vệt xước do gãi, không nứt kẽ, không rò, không sa trực tràng. Ban ngày không thấy giun trưởng thành.",
+     "k": 1,
+     "hien": "Quanh hậu môn đỏ nhẹ, vài vệt xước."
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết. Vài vệt xước vùng mông.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 100 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 100 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 24 l/p.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p."
+    }
+   },
+   "cls": {
+    "bang_keo_hau_mon": {
+     "v": "e",
+     "r": "Thấy trứng giun kim (Enterobius vermicularis) trên băng keo dán buổi sáng.",
+     "ab": 1,
+     "n": "Giun kim chẩn đoán bằng tìm trứng bằng phương pháp quệt hoặc dán băng keo vùng hậu môn buổi sáng, vài ngày liên tiếp (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b). Độ nhạy của một mẫu: không có trong tài liệu đã tải; phiếu này dương tính nên xác định bệnh."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 7,1 mmol/L (ăn sáng 2 giờ trước).",
+     "n": "Cần thiết ở bệnh nhi đái tháo đường tiểu dầm lại để loại tăng đường huyết; kết quả không cao nên không giải thích được tiểu dầm. Ngưỡng đường huyết mục tiêu ở trẻ đái tháo đường: không có trong tài liệu đã tải."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Không glucose, không ceton, không bạch cầu, không nitrit, không protein.",
+     "n": "Hữu ích: loại nhiễm toan ceton và nhiễm trùng tiết niệu như nguyên nhân tiểu dầm. Tiêu chuẩn chẩn đoán ceton ở trẻ: không có trong tài liệu đã tải."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Không thấy trứng giun đũa, giun móc, giun tóc; không hồng cầu, không bạch cầu.",
+     "n": "Chấp nhận, không bắt buộc: soi phân dùng chẩn đoán giun đũa, giun móc, giun tóc (QĐ 3312/2015, mục 3.1a, 3.1c, 3.1d); tài liệu chỉ nêu băng keo hoặc quệt hậu môn cho giun kim (mục 3.1b). Âm tính ở đây không loại giun kim. Độ nhạy soi phân với giun kim: không có trong tài liệu đã tải. Có thể nhiễm nhiều loại cùng lúc (mục 1)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,4 G/L · EOS 3% · Hb 124 g/L · TC 310 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 52.0,
+      "neu": 4.4,
+      "lym_pct": 36.0,
+      "lym": 3.0,
+      "mono_pct": 8.0,
+      "mono": 0.7,
+      "eos_pct": 3.0,
+      "eos": 0.25,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.7,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 79.0,
+      "mch": 26.4,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 310
+     },
+     "n": "Chấp nhận, không bắt buộc. Hb 124 g/L trên cả hai ngưỡng thiếu máu của bé 4 tuổi: < 115 g/L (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1: 2–6 tuổi) và < 110 g/L (WHO 2024 Bảng 2: 24–59 tháng); không thiếu máu. Bạch cầu ưa acid không tăng (giun kim thường không gây). Các mức tham chiếu in trên phiếu là của người lớn."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 38 ng/mL · sắt huyết thanh 13 µmol/L · bão hòa transferrin 22%",
+     "n": "Chấp nhận, không bắt buộc khi Hb bình thường: thiếu sắt khi ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 3.2); bé trên cả ba ngưỡng."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Quai ruột chứa hơi nhẹ, không búi giun, gan mật tụy bình thường, không dịch ổ bụng.",
+     "n": "Không bắt buộc: không đau khu trú, không nôn, không vàng da nên không nghĩ tắc ruột hay giun chui ống mật (QĐ 3312/2015, mục 3.1a). Làm thì không trừ điểm."
+    },
+    "crp": {
+     "v": "n",
+     "r": "2 mg/L",
+     "n": "Không cần: không sốt, bụng mềm, không dấu nhiễm khuẩn."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun kim (Enterobius vermicularis) ở trẻ mẫu giáo, chưa biến chứng, lây trong gia đình",
+     "ok": 1,
+     "n": "Gãi mông, quấy khóc và thức giấc đêm, tiểu dầm lại, trẻ 3–7 tuổi đi nhà trẻ, mẫu giáo, tiếp xúc người nhà ngủ chung; trứng giun kim trên băng keo (QĐ 3312/2015, mục 3.1b: lứa tuổi 3–7, mang tính gia đình). Nguy cơ tái nhiễm do mút tay, móng dài."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt",
+     "n": "Loại trừ: Hb 124 g/L ≥ 115 (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1) và ≥ 110 (WHO 2024 Bảng 2); ferritin 38 ≥ 12 ng/mL, sắt huyết thanh 13 ≥ 9 µmol/L, bão hòa 22% ≥ 16% (mục 3.2); RDW 13,1% ≤ 14,5%."
+    },
+    {
+     "t": "Đau bụng chức năng",
+     "n": "Loại trừ: tiêu chuẩn cần đau bụng ít nhất 1 lần/tuần kéo dài ít nhất 2 tháng và không có nguyên nhân thực thể; bé mới 3 tuần và có trứng giun kim (QĐ 3312/2015, Đau bụng chức năng mục 3.2 Bảng 2, mục 3 lưu ý). Đau bụng chức năng chỉ được chẩn đoán khi không có dấu hiệu báo động và khám bình thường (mục 3.1)."
+    },
+    {
+     "t": "Tăng đường huyết hoặc nhiễm toan ceton ở bệnh nhi đái tháo đường typ 1",
+     "n": "Loại trừ: đường huyết mao mạch 7,1 mmol/L, ceton niệu âm tính, bé tỉnh, không khát nhiều, không thở sâu. Tiêu chuẩn chẩn đoán nhiễm toan ceton ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm giun đũa, giun móc, giun tóc",
+     "n": "Ít nghĩ: soi phân không có trứng, bạch cầu ưa acid không tăng, không thiếu máu, phân không đen (QĐ 3312/2015, mục 3.1a, 3.1c, 3.1d). Soi phân không loại được giun kim."
+    },
+    {
+     "t": "Tắc ruột do giun, giun chui ống mật hoặc ống tụy",
+     "n": "Không có: bụng mềm, không chướng, không nôn, không vàng da (biến chứng của giun đũa: QĐ 3312/2015, mục 3.1a). Tiêu chuẩn chuyển tuyến chi tiết: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tẩy giun kim: mebendazol 500 mg uống 1 viên duy nhất, lặp lại sau 2 tuần; hoặc albendazol 200 mg × 2 viên (400 mg) duy nhất, lặp lại sau 2 tuần; hoặc pyrantel pamoat 11 mg/kg (16 kg ≈ 176 mg ≈ 1,5 viên 125 mg, tối đa 1 g), lặp lại sau 2 tuần",
+     "v": "c",
+     "n": "QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b (trên 12 tháng): ba thuốc cùng một nguồn, cùng lịch lặp sau 2 tuần nên là các lựa chọn thay thế nhau, không mâu thuẫn. Làm tròn 1,5 viên là của người soạn. Albendazol 400 mg cho trẻ từ 24 tháng cũng là liều tẩy giun cộng đồng (QĐ 6437/2018 mục III.1). Lý do lặp sau 2 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho cả gia đình (bố, mẹ, chị gái, bà nội) uống thuốc cùng lúc",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1b: điều trị cùng lúc cho các thành viên trong gia đình để tránh tái nhiễm. Chống chỉ định tẩy giun theo QĐ 6437/2018 mục II.1b (đang sốt > 38,5 °C, suy thận, suy tim, suy gan, hen, dị ứng thuốc, có thai 3 tháng đầu, đang cho con bú, dưới 12 tháng) phải hỏi từng người; đái tháo đường không nằm trong danh sách đó."
+    },
+    {
+     "t": "Vệ sinh: rửa tay xà phòng trước ăn, sau chơi, sau đi vệ sinh; cắt móng tay, không mút tay; giặt quần áo, ga gối của bé",
+     "v": "c",
+     "n": "QĐ 6437/2018, mục VI.1: rửa tay xà phòng, cắt móng tay sạch, không mút ngón tay. Giặt đồ giường: không có trong tài liệu đã tải, là lời khuyên thông thường của người soạn."
+    },
+    {
+     "t": "Tiếp tục insulin theo sổ bệnh viện nhi, không tự đổi liều vì tiểu dầm hay ăn ít",
+     "v": "c",
+     "n": "Insulin do bệnh viện nhi kê và chỉnh; liều insulin cho trẻ và tương tác mebendazol–insulin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám đúng ngày uống liều lặp (sau 2 tuần), mang theo kết quả quan sát triệu chứng",
+     "v": "c",
+     "n": "Mốc 2 tuần theo lịch lặp thuốc (QĐ 3312/2015, mục 3.1b); thời điểm tái khám cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Soi phân tìm trứng giun",
+     "v": "a",
+     "n": "Không bắt buộc cho giun kim (QĐ 3312/2015, mục 3.1b chỉ nêu băng keo) nhưng hợp lý vì có thể nhiễm nhiều loại (mục 1)."
+    },
+    {
+     "t": "Cho bé nghỉ học vài ngày theo yêu cầu của mẹ, không điều trị người nhà",
+     "v": "w",
+     "n": "Nghỉ học không thay cho thuốc; bệnh mang tính gia đình nên bỏ qua người nhà gây tái nhiễm (QĐ 3312/2015, mục 3.1b). Quy định cho trẻ nghỉ học khi nhiễm giun kim: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tự ý giảm hoặc ngưng insulin để tránh hạ đường huyết khi bé ăn kém",
+     "v": "w",
+     "n": "Quyết định thuộc bệnh viện nhi; hướng dẫn xử trí ở trẻ đái tháo đường: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun kim (Enterobius vermicularis) ở trẻ 4 tuổi, chưa biến chứng, nguy cơ lây và tái nhiễm trong gia đình",
+     "Bệnh nền: đái tháo đường typ 1 đang tiêm insulin, đường huyết hiện không cao",
+     "Không thiếu máu, không thiếu sắt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi ngứa hậu môn và giấc ngủ (hỏi cụ thể vì mẹ chỉ kể đau bụng, máy tính, đường huyết) → khám quanh hậu môn → dán băng keo buổi sáng → đường huyết mao mạch để loại nguyên nhân tiểu dầm khác.",
+     "Vì sao là giun kim: trẻ 3–7 tuổi đi mẫu giáo, khó ngủ, thức đêm, khóc đêm, tiểu dầm, đôi khi phân lỏng do giun bò ra hậu môn đẻ trứng gây ngứa; bệnh mang tính chất gia đình (QĐ 3312/2015, mục 3.1b). Chẩn đoán bằng tìm trứng bằng băng keo vùng hậu môn buổi sáng (mục 3.1b).",
+     "Vì sao dễ bỏ sót: đau bụng quanh rốn, ăn kém, mẹ gán cho ngồi máy tính và đường huyết; bé chưa tự kể ngứa. Tiểu dầm ở bệnh nhi đái tháo đường dễ bị coi là tăng đường huyết, nên phải đo đường huyết và ceton niệu để loại, chứ không bỏ qua giun.",
+     "Vì sao không phải đau bụng chức năng: chưa đủ 2 tháng và có nguyên nhân thực thể (QĐ 3312/2015, Đau bụng chức năng mục 3.2 Bảng 2). Không thiếu máu: Hb 124 ≥ 115 (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1) và ≥ 110 (WHO 2024 Bảng 2); hai ngưỡng khác nhau do năm và nhóm tuổi chia khác, bé trên cả hai."
+    ],
+    "phan_tich_xu_tri": [
+     "Xử trí: cho về, tẩy giun cho bé và cả nhà, hẹn tái khám theo lịch lặp thuốc. Không cần nhập viện hay chuyển tuyến: tài liệu đã tải không nêu tiêu chuẩn nhập viện giun kim; bé tỉnh, bụng mềm, đường huyết và ceton ổn.",
+     "Thuốc: mebendazol 500 mg × 1 viên duy nhất, lặp sau 2 tuần; hoặc albendazol 200 mg × 2 viên duy nhất, lặp sau 2 tuần; hoặc pyrantel pamoat 11 mg/kg tối đa 1 g, lặp sau 2 tuần (QĐ 3312/2015, mục 3.1b). Ba thuốc đều thuộc cùng văn bản, là các lựa chọn thay thế nhau.",
+     "Cả nhà: bố, mẹ, chị gái, bà nội ngủ chung phòng cùng uống thuốc cùng ngày (QĐ 3312/2015, mục 3.1b); hỏi chống chỉ định từng người (QĐ 6437/2018, mục II.1b).",
+     "Giấy nghỉ ốm: lý do thật của mẹ. Nên hỏi mẹ lo điều gì, giải thích bệnh phổ biến, không do 'nhà dơ', và có thể cấp giấy xác nhận đã khám nếu trường yêu cầu; quy định nghỉ học khi nhiễm giun kim: không có trong tài liệu đã tải.",
+     "Insulin: giữ nguyên theo bệnh viện nhi; không tự đổi (liều insulin ở trẻ: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Mebendazol (Fugacar)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên (500 mg), không tính theo cân nặng",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, nghiền nhỏ pha nước cho bé uống",
+      "so_ngay": "Một liều; lặp lại một liều nữa sau 2 tuần",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1b (trên 12 tháng). Cách uống sau ăn, nghiền pha nước: QĐ 6437/2018 mục III.2 (viết cho albendazol/mebendazol tẩy giun cộng đồng). Có thể thay bằng albendazol 200 mg × 2 viên hoặc pyrantel pamoat 11 mg/kg (16 kg ≈ 1,5 viên 125 mg) cùng lịch lặp sau 2 tuần (mục 3.1b)."
+     },
+     {
+      "thuoc": "Mebendazol 500 mg cho người nhà (bố, mẹ, chị gái, bà nội)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi người, uống cùng ngày với bé; lặp sau 2 tuần",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Như của bé",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1b: điều trị cùng lúc các thành viên trong gia đình. Hỏi chống chỉ định từng người (QĐ 6437/2018 mục II.1b). Liều cho người lớn của đơn cá thể: không có trong tài liệu đã tải riêng; QĐ 6437/2018 mục III.1 nêu mebendazol 500 mg cho từ 24 tháng trở lên."
+     },
+     {
+      "thuoc": "Insulin (thuốc sẵn có của bé)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên liều đã ghi",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Theo bệnh viện nhi",
+      "ghi_chu": "Không kê mới, không đổi. Liều insulin và tương tác với thuốc tẩy giun: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: giun kim ban đêm bò ra hậu môn đẻ trứng gây ngứa, nên bé khó ngủ, quấy đêm, có thể tiểu dầm; không do ngồi máy tính hay do 'nhà dơ' (QĐ 3312/2015, mục 3.1b).",
+     "Cả nhà uống thuốc cùng ngày, nhắc bà nội ngủ chung; lặp lại liều thứ hai đúng sau 2 tuần (QĐ 3312/2015, mục 3.1b).",
+     "Rửa tay xà phòng trước ăn, sau chơi đất và sau đi vệ sinh; cắt móng; không mút tay; đi dép (QĐ 6437/2018, mục VI.1).",
+     "Giữ insulin và theo dõi đường huyết như bệnh viện nhi dặn; không tự đổi liều.",
+     "Quay lại ngay nếu đau bụng dữ dội hoặc cả ngày, nôn (nhất là dịch vàng xanh), bụng chướng, sốt, vàng da, tiêu chảy, đi ngoài phân đen, hoặc đường huyết tăng cao: đó là dấu hiệu báo động (QĐ 3312/2015, Đau bụng chức năng mục 3.1 Bảng 1) và biến chứng của giun (mục 3.1a); danh sách dấu hiệu cụ thể để chuyển tuyến: không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 14 ngày",
+   "tiep_don": "Tái khám đúng ngày hẹn. Mẹ than 'bé không đỡ, vẫn gãi mông, vẫn quấy đêm, thuốc không ăn thua'. Bé, bố mẹ và chị gái đã uống liều đầu theo đơn, bà nội chưa uống. Bé chưa uống liều lặp. Mẹ kể lan man về chuyện cô giáo, máy tính, và đòi bác sĩ đổi thuốc mạnh hơn.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy nằm viện nhi vì 'giun kháng thuốc' trong khi bé vẫn tỉnh, ăn chơi, bụng mềm, đường huyết ổn. Nhiễm giun kim còn lại chủ yếu do tái nhiễm trong gia đình và liều lặp chưa uống (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b); tài liệu đã tải không nêu kháng mebendazol hay tiêu chuẩn nhập viện. Bé ở xa nhà, bà nội vẫn không uống thuốc nên về nhà bị nhiễm lại.",
+    "chuyen_tuyen": "Chuyển bé Huy lên bệnh viện nhi để 'đổi thuốc' vì mẹ tin thuốc không hiệu quả. Tuyến trên cũng chỉ dùng mebendazol, albendazol hoặc pyrantel cùng lịch lặp sau 2 tuần như đơn cũ (QĐ 3312/2015, mục 3.1b), mất một ngày đường mà nguyên nhân thật (bà nội chưa uống thuốc, đồ giường chưa giặt) vẫn còn nguyên.",
+    "theo_doi": "Chỉ theo dõi thêm một tuần mà không cho liều lặp. Bé tiếp tục gãi mông và thức đêm; trứng bám móng tay rồi vào miệng gây tái nhiễm (QĐ 3312/2015, mục 3.1b). Mẹ mất lòng tin, tự mua thêm thuốc tẩy giun liều cao, nguy cơ dùng sai liều cho trẻ 16 kg (liều tối đa do tự mua: không có trong tài liệu đã tải)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em uống thuốc rồi mà vẫn y như cũ, ngứa mông, đêm khóc, em mệt lắm, hôm qua cô giáo lại nhắn, rồi em còn phải trả hàng cho khách nữa, bác sĩ đổi cho bé thuốc mạnh hơn được không, loại em nghe nói bên nhà thuốc bán ấy...",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé vẫn gãi mông và khóc đêm, nhưng đã bớt tiểu dầm (còn 1 đêm trong 14 ngày), ăn tạm ổn. Mẹ cho rằng thuốc không có tác dụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bé uống 1 viên mebendazol 500 mg đúng đơn, bố mẹ và chị gái cũng uống cùng ngày. Bé không nôn, không phản ứng gì sau uống, chỉ đau bụng nhẹ vài giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã uống thuốc đúng đơn (liều 1)"
+    },
+    {
+     "id": "ba",
+     "noi_dung": "Bà nội 70 tuổi ngủ chung phòng với bé nhưng không chịu uống thuốc vì nói 'người già không có giun'. Chị gái còn mút móng tay.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Người nhà chưa điều trị: bà nội",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi từng người trong nhà đã uống thuốc chưa, hoặc ai ngủ chung với bé."
+    },
+    {
+     "id": "ve_sinh",
+     "noi_dung": "Mẹ có rửa tay cho bé nhưng móng tay vẫn dài, bé hay mút ngón tay khi xem máy tính; ga gối chưa giặt kỹ vì mẹ bận bán hàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vệ sinh tay, móng, ga gối"
+    },
+    {
+     "id": "keo",
+     "noi_dung": "Mẹ chưa cho liều lặp vì nghĩ thuốc đã vô hiệu, định tự mua thuốc 'mạnh hơn'; đơn cũ ghi lặp sau 2 tuần, hôm nay đúng ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Liều lặp chưa uống"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày bé chơi bình thường, không đau bụng dữ dội, không nôn, không tiêu chảy, không sốt; đường huyết mẹ đo sáng nay 5,9 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu báo động; đường huyết"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Mẹ vẫn muốn có giấy cho bé nghỉ thêm vài ngày vì cô giáo hỏi mãi chuyện gãi mông.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: xin giấy nghỉ",
+     "dieu_kien_lo": "Mẹ không tự kể thêm. Chỉ nói khi bác sĩ hỏi mẹ lo điều gì ở trường."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được, da niêm hồng, không mất nước.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau khu trú, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Quanh hậu môn đỏ nhẹ, vài vệt xước gãi còn mới, không nứt, không rò.",
+     "k": 1,
+     "hien": "Quanh hậu môn đỏ nhẹ, xước mới."
+    },
+    "da": {
+     "a": "Vệt xước vùng mông; móng tay dài, bẩn, mép móng gặm. Không ban.",
+     "k": 1,
+     "hien": "Móng tay dài, bẩn, mép móng gặm."
+    }
+   },
+   "cls": {
+    "bang_keo_hau_mon": {
+     "v": "e",
+     "r": "Thấy trứng giun kim trên băng keo buổi sáng (ít).",
+     "ab": 1,
+     "n": "Còn trứng giun kim sau liều 1; phù hợp tái nhiễm trong gia đình và liều lặp chưa uống (QĐ 3312/2015, mục 3.1b). Tài liệu đã tải không nêu kháng mebendazol ở giun kim; lý do lặp liều sau 2 tuần: không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 6,4 mmol/L.",
+     "n": "Chấp nhận: ca bệnh nhi đái tháo đường, ngưỡng mục tiêu không có trong tài liệu đã tải; kết quả như lượt trước nên không đổi chẩn đoán."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Không thấy trứng giun, không hồng cầu, không bạch cầu.",
+     "n": "Không cần: lượt trước đã âm tính và bé không có triệu chứng thực thể mới (QĐ 3312/2015, mục 3.1b chỉ nêu băng keo cho giun kim)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 125 g/L · EOS 3%",
+     "n": "Không cần: Hb lượt trước 124 g/L trên ngưỡng 115 (QĐ 3312/2015) và 110 (WHO 2024 Bảng 2); không thêm triệu chứng thiếu máu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun kim tái nhiễm trong gia đình, chưa điều trị đủ (liều lặp chưa uống, bà nội chưa uống thuốc)",
+     "ok": 1,
+     "n": "Còn trứng trên băng keo; bé đã uống liều 1 đúng; bà nội ngủ chung chưa uống, chị gái mút tay, móng bé dài (QĐ 3312/2015, mục 3.1b: mang tính chất gia đình, điều trị cùng lúc cả nhà, lặp sau 2 tuần)."
+    },
+    {
+     "t": "Thất bại do thuốc hoặc giun kháng thuốc",
+     "n": "Ít nghĩ: bé uống đúng thuốc, đúng liều, chưa tới hạn liều lặp; tài liệu đã tải không nêu kháng thuốc giun kim."
+    },
+    {
+     "t": "Nhiễm thêm giun đũa, giun móc, giun tóc",
+     "n": "Ít nghĩ: soi phân lượt 1 âm tính, bé không đau bụng nhiều, không nôn giun, không thiếu máu (QĐ 3312/2015, mục 1, 3.1a, 3.1c, 3.1d). Nhiễm nhiều loại cùng lúc có thể gặp."
+    },
+    {
+     "t": "Tăng đường huyết hoặc nhiễm toan ceton",
+     "n": "Loại trừ: đường huyết 6,4 mmol/L, tiểu dầm giảm theo điều trị giun, bé tỉnh, không khát nhiều."
+    },
+    {
+     "t": "Biến chứng giun (tắc ruột, giun chui ống mật)",
+     "n": "Không có: bụng mềm, không nôn dịch vàng xanh, không vàng da (QĐ 3312/2015, mục 3.1a). Tiêu chuẩn chuyển tuyến chi tiết: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho liều thuốc lặp lại ngay hôm nay (mebendazol 500 mg 1 viên, hoặc albendazol 200 mg × 2 viên, hoặc pyrantel pamoat 11 mg/kg tối đa 1 g)",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1b: lặp lại sau 2 tuần cho cả ba thuốc, hôm nay đúng hạn. Dùng cùng thuốc như lượt 1 là hợp lý vì chưa có dấu hiệu thất bại thuốc; tài liệu đã tải không nêu thay thuốc khi còn trứng sau liều 1."
+    },
+    {
+     "t": "Bà nội và mọi người chưa uống thuốc: uống cùng ngày với liều lặp của bé; hỏi chống chỉ định từng người",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1b: điều trị cùng lúc các thành viên trong gia đình; chống chỉ định tẩy giun ở người cao tuổi, có thai, cho con bú, bệnh gan thận tim: QĐ 6437/2018 mục II.1b (người cao tuổi không nằm trong danh sách này; liều tẩy giun cho người trên 70 tuổi: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Cắt móng tay, rửa tay xà phòng, không mút tay, giặt ga gối và quần áo bé",
+     "v": "c",
+     "n": "QĐ 6437/2018, mục VI.1 (rửa tay xà phòng, cắt móng, không mút ngón tay). Giặt đồ giường: lời khuyên của người soạn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích: không phải thuốc vô hiệu mà do chưa điều trị đủ người trong nhà; không tự mua thuốc mạnh hơn hay tăng liều",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1b (bệnh mang tính gia đình; liều theo bảng). Liều tối đa do tự mua và độc tính khi quá liều ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục insulin theo bệnh viện nhi",
+     "v": "c",
+     "n": "Liều insulin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau liều lặp, dặn dán băng keo buổi sáng nếu còn ngứa",
+     "v": "c",
+     "n": "Dán băng keo hậu môn buổi sáng vài ngày liên tiếp (QĐ 3312/2015, mục 3.1b); thời điểm tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Soi phân hoặc công thức máu lại",
+     "v": "a",
+     "n": "Không bắt buộc, làm không trừ điểm."
+    },
+    {
+     "t": "Đổi sang thuốc khác 'mạnh hơn' hoặc tăng liều gấp đôi",
+     "v": "w",
+     "n": "Không có chỉ định trong QĐ 3312/2015 (mục 3.1b): liều cố định theo tuổi, lặp sau 2 tuần; liều cao không được nêu."
+    },
+    {
+     "t": "Chỉ điều trị bé, không điều trị bà nội",
+     "v": "w",
+     "n": "Bỏ sót nguồn tái nhiễm; QĐ 3312/2015, mục 3.1b yêu cầu điều trị cả gia đình."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun kim tái nhiễm trong gia đình ở trẻ 4 tuổi: liều lặp chưa uống, bà nội chưa uống thuốc, vệ sinh tay chưa tốt",
+     "Không phải thất bại thuốc",
+     "Đái tháo đường typ 1 kiểm soát ổn, đường huyết không cao"
+    ],
+    "phan_tich_chan_doan": [
+     "Như lượt 1: chẩn đoán giun kim, loại thiếu máu và đau bụng chức năng (QĐ 3312/2015, mục 3.1b; Thiếu máu thiếu sắt mục 1, 3.2). Lượt này không đỡ phải chạy quy trình thất bại điều trị: sai chẩn đoán? sai thuốc? không tuân thủ? tái nhiễm? kháng thuốc?",
+     "Thứ tự: hỏi thuốc đã uống thế nào, ai trong nhà đã uống, ai ngủ chung, vệ sinh tay móng → khám quanh hậu môn, móng tay → băng keo để xác định vẫn còn giun → đường huyết.",
+     "Đúng chẩn đoán, đúng thuốc, đã uống liều 1, nhưng chưa tới hạn liều lặp và còn nguồn lây trong nhà (bà nội) nên 'không đỡ'. Giun kim mang tính gia đình (QĐ 3312/2015, mục 3.1b). Kháng thuốc ở giun kim: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, không cần nhập viện hay chuyển tuyến. Cho liều lặp hôm nay đúng hạn 2 tuần; bà nội và mọi người chưa uống thì uống cùng ngày (QĐ 3312/2015, mục 3.1b).",
+     "Không đổi thuốc, không tăng liều: tài liệu đã tải không nêu thuốc 'mạnh hơn' hay thất bại thuốc cho giun kim.",
+     "Giấy nghỉ ốm: lý do thật. Hỏi mẹ lo gì; cấp giấy xác nhận khám nếu trường cần; quy định nghỉ học: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Mebendazol (Fugacar) liều lặp lần 2",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên (500 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Hôm nay, sau ăn, nghiền pha nước",
+      "so_ngay": "Một liều (liều lặp, sau liều 1 hai tuần)",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1b: lặp sau 2 tuần. Cách uống: QĐ 6437/2018 mục III.2. Thay thế: albendazol 200 mg × 2 viên hoặc pyrantel pamoat 11 mg/kg (tối đa 1 g) cùng lịch (mục 3.1b)."
+     },
+     {
+      "thuoc": "Mebendazol 500 mg cho bà nội và người nhà chưa uống",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 viên mỗi người; những người đã uống liều 1 thì lặp lần 2",
+      "duong": "Uống",
+      "thoi_diem": "Cùng ngày với bé, sau ăn",
+      "so_ngay": "Một liều",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1b. Chống chỉ định: QĐ 6437/2018 mục II.1b. Liều người trên 70 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin (thuốc sẵn có của bé)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên liều",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Theo bệnh viện nhi",
+      "ghi_chu": "Không đổi. Liều insulin: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Thuốc không vô hiệu: giun kim dễ bị nhiễm lại nếu người nhà chưa uống hoặc tay còn bẩn (QĐ 3312/2015, mục 3.1b).",
+     "Cho cả nhà uống thuốc cùng ngày hôm nay; bà nội ngủ chung phải uống; không tự mua thuốc khác hoặc tăng liều.",
+     "Cắt móng, rửa tay, không mút tay, giặt ga gối, quần áo (QĐ 6437/2018, mục VI.1).",
+     "Giữ insulin và theo dõi đường huyết theo bệnh viện nhi.",
+     "Quay lại ngay nếu đau bụng dữ dội, nôn dịch vàng xanh, bụng chướng, sốt, vàng da, phân đen, hoặc đường huyết tăng cao (QĐ 3312/2015, Đau bụng chức năng mục 3.1 Bảng 1; Nhiễm KST mục 3.1a). Tiêu chuẩn chuyển tuyến cụ thể: không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 4 tuần",
+   "tiep_don": "Tái khám sau liều lặp 4 tuần. Mẹ nói bé ngủ ngon, hết gãi mông, hết tiểu dầm, ăn tốt. Cả nhà đã uống thuốc đủ hai đợt. Mẹ xin giấy xác nhận bé khỏi để cô giáo cho đi học lại, kèm hỏi về tẩy giun định kỳ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy nhập viện 'kiểm tra giun còn sót' khi đã hết ngứa, ngủ yên, ăn tốt, bụng mềm và băng keo âm tính. Giun kim được xác định và theo dõi bằng triệu chứng và dán băng keo (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b); tài liệu đã tải không nêu tiêu chuẩn nhập viện. Bé thêm vài ngày nghỉ học và lấy máu không cần.",
+    "chuyen_tuyen": "Chuyển bé Huy lên bệnh viện nhi để 'xác nhận hết giun' vì mẹ sợ tái phát. Tuyến trên cũng chỉ dựa vào triệu chứng và băng keo (QĐ 3312/2015, mục 3.1b); mẹ mất một ngày làm việc, bé chờ lâu ở bệnh viện, chưa nâng được kiến thức vệ sinh ở nhà.",
+    "theo_doi": "Bắt bé uống thêm thuốc tẩy giun mỗi tháng 'cho chắc' mà không có chỉ định. Tài liệu đã tải chỉ nêu lịch tẩy giun định kỳ cho cộng đồng theo tỉ lệ nhiễm của vùng (QĐ 6437/2018, mục II.2), không nêu lịch cho cá nhân đã khỏi; mẹ tự mua thuốc, nguy cơ dùng sai liều cho trẻ 16 kg (liều tối đa: không có trong tài liệu đã tải)."
+   },
+   "loi_mo": "Bác sĩ ơi, hai tuần nay bé ngủ ngon rồi, hết gãi, hết đái dầm, nhưng em thấy hôm qua bé lại cào mông một cái, em sợ giun còn, mà cô giáo bảo phải có giấy bác sĩ mới cho đi học lại, rồi em nghe người ta nói phải tẩy giun mỗi sáu tháng đúng không bác sĩ, à còn đường huyết dạo này em đo...",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết gãi mông, ngủ suốt đêm, không tiểu dầm 3 tuần qua, ăn uống tốt trở lại. Hôm qua bé cào mông một lần rồi thôi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Cả nhà (bố, mẹ, chị gái, bà nội) đã uống đủ hai đợt cách nhau 2 tuần; bé uống đủ liều lặp, bà nội uống theo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã điều trị đủ"
+    },
+    {
+     "id": "ve_sinh",
+     "noi_dung": "Mẹ cắt móng cho bé mỗi tuần, bé rửa tay xà phòng trước ăn, ga gối giặt nước nóng. Bé vẫn thỉnh thoảng mút tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vệ sinh duy trì"
+    },
+    {
+     "id": "bk",
+     "noi_dung": "Mẹ có dán băng keo vài sáng theo lời dặn, sáng nay dán và đem theo; bác sĩ hỏi mới nhớ nói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Băng keo tại nhà"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Bé tiêm insulin đều; đường huyết sáng nay 6,0 mmol/L, không hạ đường huyết, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường ổn"
+    },
+    {
+     "id": "nghi",
+     "noi_dung": "Mẹ cần giấy xác nhận bé đã khám và khỏi để cô giáo cho đi học lại; mẹ cũng ngại bé bị lây bạn hay bị bạn chê.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: giấy xác nhận để đi học lại",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ còn muốn xin gì thêm, hoặc hỏi về chuyện đi học."
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không đau bụng, không nôn, không tiêu chảy, không sốt, phân vàng thành khuôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu báo động"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui, da niêm hồng, cân nặng 16,4 kg.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Quanh hậu môn bình thường, không đỏ, không xước mới.",
+     "k": 1,
+     "hien": "Quanh hậu môn bình thường."
+    },
+    "da": {
+     "a": "Móng tay ngắn, sạch. Không vệt xước mới.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "bang_keo_hau_mon": {
+     "v": "e",
+     "r": "Không thấy trứng giun kim trên băng keo (mẫu sáng nay); mẹ báo 2 sáng trước cũng không thấy ngứa.",
+     "ab": 0,
+     "n": "Âm tính cùng hết triệu chứng cho thấy điều trị có hiệu quả; tài liệu chỉ nêu dán băng keo vài ngày liên tiếp (QĐ 3312/2015, mục 3.1b); độ nhạy của một mẫu và mốc 'hết bệnh' bằng bao nhiêu mẫu âm: không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 6,0 mmol/L.",
+     "n": "Chấp nhận: theo dõi bệnh nền, không liên quan quyết định tẩy giun."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Không thấy trứng giun.",
+     "n": "Không cần: không triệu chứng tiêu hóa, giun kim theo dõi bằng băng keo (QĐ 3312/2015, mục 3.1b)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 126 g/L",
+     "n": "Không cần: không thiếu máu từ đầu (ngưỡng 115 g/L theo QĐ 3312/2015, Thiếu máu thiếu sắt mục 1; 110 g/L theo WHO 2024 Bảng 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun kim đã điều trị khỏi, không còn trứng giun, cần phòng tái nhiễm",
+     "ok": 1,
+     "n": "Hết ngứa, ngủ yên, hết tiểu dầm, băng keo âm tính sau hai liều cách nhau 2 tuần cho cả nhà (QĐ 3312/2015, mục 3.1b)."
+    },
+    {
+     "t": "Tái nhiễm hoặc còn giun",
+     "n": "Không có: một lần cào mông thoáng qua, quanh hậu môn bình thường, băng keo âm tính; nếu ngứa tái phát ban đêm thì dán băng keo lại (mục 3.1b)."
+    },
+    {
+     "t": "Đau bụng chức năng",
+     "n": "Không có: hết đau bụng cùng với điều trị giun; không có tiêu chuẩn kéo dài ≥ 2 tháng (QĐ 3312/2015, Đau bụng chức năng mục 3.2 Bảng 2)."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt",
+     "n": "Không có: Hb 126 g/L trên ngưỡng 115 (QĐ 3312/2015) và 110 (WHO 2024 Bảng 2); không cần xét nghiệm lại."
+    },
+    {
+     "t": "Rối loạn đường huyết ở bệnh nhi đái tháo đường",
+     "n": "Không có: đường huyết 6,0 mmol/L, không hạ đường huyết, không tiểu dầm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận đã khỏi; không cho thêm thuốc tẩy giun",
+     "v": "c",
+     "n": "Đã hoàn thành lịch điều trị giun kim hai liều cách nhau 2 tuần cho cả gia đình (QĐ 3312/2015, mục 3.1b); tài liệu đã tải không nêu thêm liều khi băng keo âm tính."
+    },
+    {
+     "t": "Duy trì vệ sinh: rửa tay xà phòng, cắt móng, không mút tay, đi dép",
+     "v": "c",
+     "n": "QĐ 6437/2018, mục VI.1–VI.2."
+    },
+    {
+     "t": "Không cần tẩy giun định kỳ riêng lẻ nếu không tái phát; tẩy giun định kỳ là chương trình cộng đồng theo tỉ lệ nhiễm của vùng",
+     "v": "c",
+     "n": "QĐ 6437/2018, mục II.2 (tần suất theo tỉ lệ nhiễm của vùng: ≥ 50% hai lần/năm, 20–50% một lần/năm, < 20% không cần ở vùng chưa triển khai hoặc dưới 5 năm); lịch cho cá nhân đã khỏi: không có trong tài liệu đã tải. WHO 2017 (TL-0248) cũng khuyến cáo ở mức quần thể có nguy cơ."
+    },
+    {
+     "t": "Hẹn quay lại nếu ngứa hậu môn ban đêm tái phát (dán băng keo buổi sáng vài ngày liên tiếp) hoặc có dấu báo động",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1b; Đau bụng chức năng mục 3.1 Bảng 1 (dấu hiệu báo động)."
+    },
+    {
+     "t": "Cấp giấy xác nhận đã khám và đã điều trị để bé đi học lại",
+     "v": "a",
+     "n": "Đáp ứng lý do thật của mẹ; quy định nghỉ học khi nhiễm giun kim: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục insulin theo bệnh viện nhi",
+     "v": "c",
+     "n": "Liều insulin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Soi phân, công thức máu lại",
+     "v": "a",
+     "n": "Không cần; làm không trừ điểm."
+    },
+    {
+     "t": "Cho uống thêm mebendazol mỗi tháng hoặc nhập viện kiểm tra",
+     "v": "w",
+     "n": "Không có chỉ định trong QĐ 3312/2015 (mục 3.1b); tài liệu đã tải không nêu tiêu chuẩn nhập viện cho giun kim."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun kim ở trẻ 4 tuổi đã điều trị khỏi sau hai liều cách nhau 2 tuần, cả nhà đã uống thuốc",
+     "Nguy cơ tái nhiễm còn nếu vệ sinh tay móng không duy trì",
+     "Đái tháo đường typ 1 ổn định"
+    ],
+    "phan_tich_chan_doan": [
+     "Như lượt 1–2: giun kim (QĐ 3312/2015, mục 3.1b). Lượt này khẳng định khỏi bằng hết triệu chứng và băng keo âm tính.",
+     "Một lần cào mông thoáng qua không đủ để kết luận còn giun hay tái nhiễm (quanh hậu môn bình thường, băng keo âm tính); nếu tái phát ban đêm thì dán băng keo lại buổi sáng vài ngày liên tiếp (mục 3.1b).",
+     "Đau bụng quanh rốn và tiểu dầm biến mất cùng điều trị giun, xác nhận nguyên nhân thực thể, không phải đau bụng chức năng hay rối loạn đường huyết."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, không cần thêm thuốc: đã đủ hai liều cho cả nhà (QĐ 3312/2015, mục 3.1b).",
+     "Không tẩy giun định kỳ cho cá nhân: QĐ 6437/2018 mục II.2 là chương trình cộng đồng theo tỉ lệ nhiễm; lịch cá nhân không có trong tài liệu đã tải.",
+     "Giấy xác nhận để đi học lại là lý do thật của mẹ; giải thích trường lớp, bạn bè, vệ sinh tay móng.",
+     "Giữ insulin theo bệnh viện nhi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc tẩy giun mới",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Đã hoàn tất hai liều (QĐ 3312/2015, mục 3.1b). Lịch tẩy giun định kỳ cho cá nhân: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin (thuốc sẵn có của bé)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên liều",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Theo bệnh viện nhi",
+      "ghi_chu": "Liều insulin: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi giun kim; tiếp tục rửa tay xà phòng trước ăn, sau chơi, sau đi vệ sinh; cắt móng; không mút tay (QĐ 6437/2018, mục VI.1).",
+     "Ngứa hậu môn ban đêm quay lại: dán băng keo buổi sáng vài ngày liên tiếp rồi đến khám (QĐ 3312/2015, mục 3.1b).",
+     "Đi dép, không ngồi lê đất (QĐ 6437/2018, mục VI.1); nhà vệ sinh hợp vệ sinh (mục VI.2).",
+     "Quay lại ngay nếu đau bụng dữ dội, nôn, bụng chướng, sốt, vàng da, phân đen (QĐ 3312/2015, Đau bụng chức năng mục 3.1 Bảng 1).",
+     "Giữ insulin và tái khám bệnh viện nhi theo hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Huy khỏi giun kim sau hai liều mebendazol cách nhau 2 tuần, cả nhà cùng uống; hết ngứa, hết tiểu dầm, ngủ yên sau khoảng 2–4 tuần. Ở lượt 2 tưởng thuốc vô hiệu nhưng nguyên nhân là liều lặp chưa uống và bà nội chưa điều trị; bác sĩ giữ nguyên thuốc, điều trị đủ người nên bé khỏi (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1b). Đái tháo đường typ 1 ổn định, insulin không đổi. Mẹ nhận giấy xác nhận để bé đi học lại, hiểu vì sao không cần tẩy giun định kỳ riêng (lịch cá nhân: không có trong tài liệu đã tải). Quyết định hôm nay đúng; thời gian khỏi chậm một đợt là do điều trị cả nhà chưa trọn vẹn.",
+ "nhieu": [
+  "Kể lể lộn xộn: mẹ nhảy từ máy tính sang cô giáo, nhà ngoại, hàng hóa, đường huyết; hỏi ngắn từng ý (ngứa mông? ban đêm? ai ngủ chung?) mới ra dữ kiện then chốt.",
+  "Đái tháo đường typ 1: tiểu dầm bị gán cho tăng đường huyết; đo đường huyết mao mạch và ceton niệu để loại, rồi mới quay lại giun kim. Mebendazol–insulin và liều insulin trẻ: không có trong tài liệu đã tải.",
+  "Ngưỡng thiếu máu hai nguồn khác nhau cho trẻ 4 tuổi: < 115 (QĐ 3312/2015) và < 110 (WHO 2024 Bảng 2); Hb của bé 124–126 trên cả hai nên không phải bẫy.",
+  "Lý do thật xin giấy nghỉ ốm (lượt 1), bà nội chưa uống thuốc (lượt 2), giấy xác nhận đi học lại (lượt 3).",
+  "Không có X-quang: ca này không cần X-quang bụng vì không có dấu tắc ruột; siêu âm bụng chỉ khi nghi giun chui ống mật (QĐ 3312/2015, mục 3.1a)."
+ ],
+ "bai_hoc_bien": [
+  "Giun kim ở mẫu giáo không điển hình: đau bụng quanh rốn, ăn kém, tiểu dầm; hỏi trực tiếp ngứa hậu môn ban đêm, gãi mông, thức giấc (QĐ 3312/2015, mục 3.1b).",
+  "Bệnh nhi đái tháo đường: tiểu dầm là dữ kiện làm lệch hướng; đo đường huyết và ceton loại trừ, không bỏ qua nguyên nhân ký sinh.",
+  "Chẩn đoán giun kim bằng băng keo hậu môn buổi sáng, không dựa vào soi phân; thuốc: mebendazol, albendazol hoặc pyrantel đều lặp sau 2 tuần (QĐ 3312/2015, mục 3.1b).",
+  "Điều trị cả gia đình; ca không đỡ phải rà: ai chưa uống, liều lặp đã tới hạn chưa, vệ sinh tay móng, trước khi nghĩ kháng thuốc.",
+  "Hỏi lý do thật: xin giấy nghỉ ốm là nỗi ngại của mẹ về chuyện bé gãi mông trước lớp; giải thích không do 'nhà dơ'."
+ ],
+ "diem_nho": [
+  "Giun kim: trẻ 3–7 tuổi, mang tính gia đình; triệu chứng khó ngủ, khóc đêm, đái dầm, đôi khi phân lỏng; chẩn đoán bằng quệt hoặc dán băng keo hậu môn buổi sáng vài ngày liên tiếp (QĐ 3312/2015, mục 3.1b).",
+  "Thuốc trên 12 tháng: mebendazol 500 mg × 1 viên, hoặc albendazol 200 mg × 2 viên, hoặc pyrantel pamoat 11 mg/kg (tối đa 1 g); lặp lại sau 2 tuần; điều trị cùng lúc cả gia đình (QĐ 3312/2015, mục 3.1b).",
+  "Chống chỉ định tẩy giun cộng đồng: sốt > 38,5 °C, suy thận, tim, gan, hen, dị ứng thuốc, có thai 3 tháng đầu, cho con bú, dưới 12 tháng (QĐ 6437/2018, mục II.1b).",
+  "Phòng bệnh: rửa tay xà phòng, cắt móng, không mút tay, đi dép (QĐ 6437/2018, mục VI.1).",
+  "Biến chứng giun đũa: tắc ruột, chui ống mật, ống tụy, viêm phúc mạc (QĐ 3312/2015, mục 3.1a).",
+  "Hb thiếu máu trẻ 24–59 tháng < 110 g/L (WHO 2024 Bảng 2); 2–6 tuổi < 115 g/L (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – Nhiễm ký sinh trùng đường ruột ở trẻ em mục 1, 3.1a, 3.1b, 3.1c, 3.1d (khoảng tr. 335–337); Thiếu máu thiếu sắt mục 1, 3.2 (khoảng tr. 539–540); Đau bụng chức năng mục 3.1 (Bảng 1), 3.2 (Bảng 2) (khoảng tr. 344–345).",
+  "BYT – QĐ 6437/QĐ-BYT 2018, Hướng dẫn tẩy giun đường ruột tại cộng đồng – TL-0173 – mục I, II.1b, II.2, III.1, III.2, VI.1–VI.2.",
+  "WHO 2024, Guideline on haemoglobin cutoffs to define anaemia in individuals and populations – TL-0244 – Bảng 2, Bảng 3.",
+  "WHO 2017, Preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – khuyến cáo ở mức quần thể có nguy cơ (chỉ dẫn tham khảo, không dùng liều)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 18/10/2026. Tài liệu đã đọc: TL-0037 (Nhiễm KST đường ruột ở trẻ em mục 1, 3.1–3.2; Thiếu máu thiếu sắt mục 1, 3.2; Đau bụng chức năng mục 3), TL-0173 (toàn văn), TL-0244 (Bảng 2, 3), TL-0248 (chỉ tham khảo).",
+  "Không có trong tài liệu đã tải: liều insulin và tương tác mebendazol–insulin; ngưỡng đường huyết mục tiêu và tiêu chuẩn nhiễm toan ceton ở trẻ; độ nhạy băng keo một mẫu và mốc hết bệnh; lý do lặp sau 2 tuần; kháng thuốc giun kim; tiêu chuẩn nhập viện và chuyển tuyến cho giun kim; quy định nghỉ học; tẩy giun định kỳ cho cá nhân; liều người lớn của đơn cá thể.",
+  "Hai ngưỡng Hb 4 tuổi (115 và 110) không đổi kết quả vì Hb 124–126; đã ghi cả hai.",
+  "Ca không dùng ảnh da; âm thanh tim phổi không dùng (khám bằng chữ).",
+  "Ca đối: NH-0984 (hen phế quản trẻ em)."
+ ]
+}
