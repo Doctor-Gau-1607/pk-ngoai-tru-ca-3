@@ -1,0 +1,777 @@
+{
+ "ma_ca": "NH-0413",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn từ kho tài liệu (2026-10-18)",
+ "benh": "NH_tieu_chay_cap_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh)",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết (đợt lạnh ẩm đầu mùa)",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Khang",
+  "tuoi": 0.07,
+  "gioi": "Nam",
+  "nghe": "Trẻ sơ sinh",
+  "can_nang": 3.45,
+  "chieu_cao": 51,
+  "xung_ho": "Bé 24 ngày tuổi, chưa biết nói; mẹ là người kể bệnh. Bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bé là 'cu Khang'.",
+  "tinh_cach": "Mẹ 25 tuổi, sinh con đầu lòng, thiếu ngủ, mắt thâm quầng. Đã đưa con đi ba nơi mà bé vẫn chưa khỏi nên mất niềm tin, hơi cộc: 'chỗ nào cũng cho thuốc mà con vẫn thế'. Không muốn làm lại xét nghiệm đã làm, chỉ muốn 'khám tổng quát cho chắc'.",
+  "kieu_nhieu": "Mệt mỏi, mất niềm tin sau ba nơi khám. Hỏi chung ('bé sao?') thì mẹ nói 'khám tổng quát thôi, bé đi ngoài sệt sệt như trẻ bú mẹ'. Mẹ hay kể tên thuốc lộn xộn và phàn nàn thay vì trả lời. Chỉ kể đúng khi bác sĩ ghi nhận sự vất vả của mẹ rồi hỏi cụ thể: số tã phân/ướt trong 24 giờ, bé bú thế nào, thuốc từng nơi cho (nhờ mẹ đưa sổ, đơn, chai thuốc). Bác sĩ đòi làm lại mọi xét nghiệm thì mẹ phản ứng.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 25 tuổi, đi cùng. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#cfe3f2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#d9c3a0",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "met"
+   }
+  }
+ },
+ "ly_do_kham": "Khám tổng quát cho bé, đi ngoài nhiều lần",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm được các xét nghiệm chuyên sâu (procalcitonin, tìm tác nhân virus trong phân)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 24 ngày tuổi, 3,45 kg, mẹ đưa đến khám vì 'khám tổng quát', bé đi ngoài nhiều lần 4 ngày, đã khám 3 nơi. Mạch 132 l/p, nhịp thở 48 l/p, nhiệt 37,2 °C, SpO₂ 98%. Bé quấy khóc, bú háo hức khi thử bú.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho về ngay với gói ORS và hẹn tái khám là bỏ qua bước cốt lõi của Phác đồ B: cho uống ORS 75 ml/kg trong 4 giờ dưới sự quan sát rồi đánh giá lại (QĐ 3312/2015 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135). Chị Lan đã có hai lần cho uống oresol thất bại vì bé trớ, chưa được hướng dẫn tận tay cách pha và cho uống từng thìa ở sơ sinh, nên về nhà bé sẽ lại uống không đủ; mẹ thêm một lần mất niềm tin vào phòng khám và sẽ đi nơi thứ tư, trong lúc bé sụt cân 6,8% chưa được bù.",
+    "nhap_vien": "Nhập viện ngay là thận trọng, chấp nhận được vì tuổi dưới 2 tháng (ESPGHAN/ESPID 2014 mục 6.1, tr. 138), nhưng chưa bắt buộc: bé còn bú, tỉnh, không sốt, chưa có tiêu chí nhập viện của QĐ 3312 mục 5.1 (tr. 323–324). Mất nước vừa/nhẹ điều trị bằng ORS theo Phác đồ B; truyền tĩnh mạch dành cho mất nước nặng hoặc thất bại bù dịch uống (QĐ 3312 mục 4.1; ESPGHAN/ESPID 2014 mục 8.4). Bé và mẹ phải ở viện, tăng nguy cơ lây chéo bệnh viện, chi phí và mẹ vốn đã mệt mỏi sau ba nơi, trong khi theo dõi ORS 4 giờ ngay tại phòng khám cho phép quyết định dựa trên đáp ứng thật của bé."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em đưa cu Khang đi khám tổng quát cho chắc thôi ạ. Em đi ba chỗ rồi, chỗ nào cũng cho thuốc mà con vẫn cứ đi ngoài sệt sệt thế này, bác sĩ khám giúp em xem con có bệnh gì không. Xét nghiệm thì con làm rồi, em không muốn làm lại đâu.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 48,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ đưa bé đến 'khám tổng quát cho chắc' vì bé đi ngoài nhiều lần 4 ngày nay, đã khám ba nơi mà chưa khỏi. Mẹ muốn bác sĩ 'xem bé có bệnh gì không', không muốn bị gọi làm lại xét nghiệm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lý do thật: muốn kiểm tra tổng quát)"
+    },
+    {
+     "id": "so_lan",
+     "noi_dung": "Hỏi chung thì mẹ nói 'đi sệt sệt như trẻ bú mẹ'. Đếm lại: 24 giờ qua thay khoảng 10 tã có phân; phân vàng xanh, lỏng như nước, có bọt, vệt nước thấm rộng quanh phân trên tã, mùi chua. Trước ốm bé đi 2–3 lần/ngày, phân vàng sệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số tã phân, tính chất phân (hỏi theo số tã và so với trước khi ốm)",
+     "dieu_kien_lo": "Chỉ kể số tã thật khi bác sĩ hỏi đếm tã trong 24 giờ qua hoặc so với những ngày đầu sau sinh."
+    },
+    {
+     "id": "khong_mau",
+     "noi_dung": "Phân không có máu, không nhầy mũi, không giống nước vo gạo, không dạng thạch nho. Bé không khóc thét từng cơn, không co chân gồng người từng đợt, không nôn mật xanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân máu/nhầy; khóc từng cơn, nôn mật (loại lồng ruột, lỵ)"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Nôn trớ 1–2 lần/ngày sau cữ bú, sữa trắng, không nôn vọt, không nôn xanh vàng. Mẹ gọi là 'trớ sữa'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: số lần, màu, tính chất",
+     "dieu_kien_lo": "Mẹ giảm nhẹ ('trớ sữa'); kể đủ khi hỏi số lần, màu chất nôn."
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Từ sáng đến giờ (khoảng 8 giờ) ướt 2 tã, nước tiểu vàng đậm. Bình thường 6–8 tã ướt/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số tã ướt, màu nước tiểu (câu hỏi chức năng)",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi số tã ướt trong 6–8 giờ qua."
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ là chính, nay mỗi cữ bú ngắn hơn, bú vài phút rồi nhả ra rồi đòi lại, nhưng còn bú được, chưa bỏ cữ; mỗi ngày thêm 1–2 cữ sữa công thức bố pha. Vẫn thức khi đói, khóc to, quấy khóc nhiều hơn mọi hôm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú: lượng, bú có kém không (dấu hiệu nặng ở sơ sinh), thức hay li bì",
+     "dieu_kien_lo": "Chỉ kể chi tiết khi hỏi cụ thể từng cữ bú trong 24 giờ, bé bú thế nào, có đánh thức mới bú không."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Bé không sốt, không lạnh run, không tím tái, không ho, không thở nhanh, không rên. Mẹ đo nách 37,0–37,2 °C. Không co giật, không vàng da, rốn khô đã rụng cuống từ ngày thứ 8.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt/hạ thân nhiệt, dấu hiệu nguy hiểm ở trẻ sơ sinh, nhiễm khuẩn khu trú"
+    },
+    {
+     "id": "kham_3_noi",
+     "noi_dung": "Ba nơi mẹ đã đưa bé đi: (1) trạm y tế xã, ngày 2 của bệnh: gói oresol và men vi sinh dạng gói; (2) phòng khám nhi tư, ngày 3: có làm công thức máu, kê gói tiêu hóa và nhỏ mắt (mẹ nhớ là 'thuốc nhỏ mắt có chữ dex'), đổi sang sữa công thức không lactose cho các cữ bố pha; (3) bệnh viện huyện ngày 3 buổi chiều: bác sĩ bảo 'bé bú mẹ đi phân lỏng là bình thường' và dặn theo dõi. Mẹ phải pha oresol đúng cách chưa chắc, cho uống 2 lần bé nôn trớ nên bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã khám những nơi nào, thuốc từng nơi (nhờ mẹ đưa đơn và chai thuốc)",
+     "dieu_kien_lo": "Hỏi chung 'đã uống thuốc gì' thì mẹ trả lời lộn xộn. Chỉ kể thứ tự ba nơi khi bác sĩ ghi nhận mẹ đã vất vả rồi hỏi từng nơi một."
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Mẹ mang theo phiếu công thức máu của phòng khám nhi tư làm 2 ngày trước: bạch cầu 11,8 G/L, bạch cầu trung tính 40%, lympho 50%, Hb 158 g/L, tiểu cầu 360 G/L; CRP 3 mg/L. Mẹ nói: 'xét nghiệm rồi, giờ làm lại làm gì'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả xét nghiệm đã làm (tránh lặp lại)",
+     "dieu_kien_lo": "Chỉ đưa phiếu khi bác sĩ hỏi đã làm xét nghiệm gì chưa."
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Bé ghèn mắt hai bên từ tuần thứ hai, ghèn vàng nhạt dính mi buổi sáng, mắt không đỏ, không sưng mi. Nơi 2 kê thuốc nhỏ mắt có chứa corticoid (tobramycin–dexamethason), mẹ nhỏ mỗi bên 4 lần/ngày, đã 5 ngày. Mẹ không nghĩ thuốc nhỏ mắt liên quan đến đi ngoài nên không nhắc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc nhỏ mắt đang dùng (hỏi 'có thuốc gì khác không, kể cả nhỏ mắt, bôi, xoa')",
+     "dieu_kien_lo": "Hỏi chung về thuốc thì mẹ chỉ kể thuốc đường uống. Chỉ nhắc thuốc nhỏ mắt khi hỏi mọi loại thuốc nhỏ, bôi."
+    },
+    {
+     "id": "thoi_tiet",
+     "noi_dung": "Cách đây 5 ngày trời chuyển lạnh ẩm, nồm; mẹ quấn bé nhiều lớp, mở quạt sưởi buổi tối nên bé ra mồ hôi, tối hôm đó bé bắt đầu đi lỏng. Mẹ cho rằng 'bé bị lạnh bụng, trúng gió'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khởi phát: thay đổi thời tiết, cách giữ ấm của mẹ"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường đủ tháng 39 tuần, nặng 3,2 kg, không ngạt, không vàng da phải chiếu đèn. Đã tiêm vitamin K và lao, viêm gan B sơ sinh. Cân sổ khám ở 19 ngày tuổi (5 ngày trước): 3,70 kg. Không dị ứng, nhà không ai có bệnh dị ứng đạm sữa bò.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, cân nặng gần nhất trong sổ (để tính sụt cân)",
+     "dieu_kien_lo": "Chỉ lấy ra khi bác sĩ hỏi cân nặng lần khám trước hoặc sổ theo dõi."
+    }
+   ],
+   "kham": {
+    "nhan_tram_tre": {
+     "a": "Cân nặng 3,45 kg (cách 5 ngày trước, 3,70 kg trong sổ: sụt 0,25 kg, khoảng 6,8%; bình thường lẽ ra phải tăng cân). Dài 51 cm, vòng đầu 35 cm.",
+     "k": 1,
+     "hien": "Cân 3,45 kg; dài 51 cm; vòng đầu 35 cm"
+    },
+    "toan_than": {
+     "a": "Bé quấy khóc, vật vã hơn bình thường nhưng nín khi bế, khóc có nước mắt, cử động chân tay tốt, trương lực bình thường. Thân nhiệt 37,2 °C, không tím, không vàng da, môi khô nhẹ. Khi cho thử bú, bé bú háo hức rồi nôn trớ ít. Chưa li bì.",
+     "k": 1,
+     "hien": "Quấy khóc, vật vã, nín khi bế. Môi hơi khô. Thử bú: bú háo hức."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng đến hơi trũng, mắt trũng nhẹ (mẹ xác nhận 'mắt sâu hơn'), cổ mềm, không dấu màng não.",
+     "k": 1,
+     "hien": "Mắt trũng nhẹ, thóp trước hơi trũng."
+    },
+    "da": {
+     "a": "Nếp véo da ở bụng trở lại chậm (khoảng 1–2 giây). Không ban, không vàng da, không mụn mủ, không phù. Hăm đỏ nhẹ vùng mông.",
+     "k": 1,
+     "hien": "Nếp véo da bụng: trở lại chậm. Hăm nhẹ vùng mông."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay bắt được, nhanh, rõ. Đầu chi hơi mát, mao mạch hồi sắc ≤ 2 giây. Chưa có dấu sốc.",
+     "k": 1,
+     "hien": "Mạch quay rõ, nhanh. Đổ đầy mao mạch ≤ 2 giây."
+    },
+    "tim": {
+     "a": "Tim nhanh đều, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 48 l/p, thở êm, không co lõm lồng ngực, không rên, không tím. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 48 l/p, không co lõm lồng ngực, không rên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi lõm, không chướng, không khối, không đề kháng; sờ bụng bé không khóc to hơn. Nhu động ruột tăng nhẹ. Gan lách không to. Rốn khô, không đỏ, không chảy mủ. Bẹn hai bên bình thường.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng, không khối. Rốn khô."
+    },
+    "truc_trang": {
+     "a": "Hậu môn đỏ nhẹ, không nứt, không sa trực tràng. Phân trong tã mới thay: lỏng như nước vàng xanh, có bọt, không máu, không nhầy.",
+     "k": 1,
+     "hien": "Hậu môn đỏ nhẹ. Phân lỏng vàng xanh, không máu."
+    },
+    "mat": {
+     "a": "Hai mắt có ít ghèn vàng nhạt ở khóe, kết mạc không đỏ, không phù mi, không mủ nhiều, giác mạc trong.",
+     "k": 0,
+     "hien": "Ít ghèn khóe mắt hai bên; kết mạc không đỏ, mi không sưng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Chấp nhận khi chưa có kết quả; mẹ đã có phiếu 2 ngày trước (BC 11,8 G/L, trung tính 40%, lympho 50%, Hb 158 g/L, TC 360 G/L).",
+     "n": "Không cần làm lại: kết quả 2 ngày trước không gợi ý nhiễm khuẩn nặng, lâm sàng không đổi theo hướng nặng hơn; QĐ 3312/2015 Tiêu chảy cấp mục 3.2 (tr. 320): phần lớn trẻ tiêu chảy cấp không cần xét nghiệm thường quy, công thức máu/CRP chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng. Khoảng tham chiếu công thức máu sơ sinh: không có trong tài liệu đã tải. Bài học: không lặp lại xét nghiệm vô ích, nhưng phải hỏi ra phiếu cũ."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L (phiếu cũ cùng thời điểm công thức máu).",
+     "n": "Chấp nhận, không bắt buộc (QĐ 3312/2015 mục 3.2). ESPGHAN/ESPID 2014 mục 7.2 (tr. 138): CRP và procalcitonin không khuyến cáo thường quy để xác định nguyên nhân vi khuẩn."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Tổng phân tích nước tiểu (mẫu túi): bạch cầu âm tính, nitrit âm tính, tỷ trọng 1,025.",
+     "n": "Chấp nhận: nhiễm khuẩn tiết niệu là nguyên nhân tiêu chảy ngoài ruột ở trẻ nhỏ (QĐ 3312/2015 mục 2.1b và 3.1b: khám toàn diện tìm nhiễm khuẩn kèm theo), nhưng lâm sàng chưa gợi ý; mẫu nước tiểu sơ sinh lấy bằng túi dễ nhiễm: kỹ thuật lấy mẫu sơ sinh không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 137 · K 3,9 · Cl 104 mmol/L.",
+     "n": "Không cần: điện giải đồ chỉ khi điều trị tại bệnh viện và mất nước vừa/nặng hoặc diễn biến không tương xứng (QĐ 3312/2015 mục 3.2; ESPGHAN/ESPID 2014 mục 7.4, tr. 139: không cần trong mất nước nhẹ–vừa)."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Phân lỏng vàng xanh, không hồng cầu, bạch cầu hiếm, không thấy ký sinh trùng.",
+     "n": "Không cần: tiêu chảy không phân máu không cần soi hay cấy phân thường quy (WHO Pocket book 2013 mục 5.1, tr. 126; QĐ 3312/2015 mục 3.2)."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Không mọc vi khuẩn gây bệnh (kết quả sau 48–72 giờ).",
+     "n": "Không cần: phân nước không máu, không nghi tả, không kéo dài nặng, không suy giảm miễn dịch (QĐ 3312/2015 mục 3.2); WHO 2024 khuyến cáo 1a: không dùng kháng sinh nên không cần cấy để chọn kháng sinh."
+    },
+    "pct": {
+     "v": "u",
+     "r": "Cơ sở không làm được procalcitonin.",
+     "thay_the": "crp",
+     "n": "Procalcitonin không có ở cơ sở (chỉ có xét nghiệm cơ bản). ESPGHAN/ESPID 2014 mục 7.2 (tr. 138) cũng không khuyến cáo thường quy; thay bằng đánh giá lâm sàng và CRP nếu cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước (nhiều khả năng virus, mùa lạnh), ở trẻ sơ sinh 24 ngày tuổi, có mất nước (sụt khoảng 6,8%), chưa có dấu hiệu nguy hiểm của sơ sinh",
+     "ok": 1,
+     "n": "Phân lỏng ≥ 3 lần/24 giờ, dưới 14 ngày (QĐ 3312/2015 mục 1, tr. 316; WHO 2013 Bảng 11, tr. 127: acute watery diarrhoea khi > 3 lần phân lỏng/ngày và không máu). Mất nước theo bảng trẻ 1 tuần–2 tháng: ≥ 2 trong vật vã, mắt trũng, nếp véo chậm = Có mất nước (QĐ 3312 mục 3.1c, tr. 319); sụt 5–10% là mất nước vừa/nhẹ (mục 3.1b, tr. 318). Mùa đông tiêu chảy thường do rotavirus (QĐ 3312 mục 2.1, tr. 317); tác nhân cụ thể cần xét nghiệm không có ở cơ sở."
+    },
+    {
+     "t": "Tả",
+     "n": "Loại trừ: không ở vùng dịch, không nước vo gạo, không mất nước nặng nhanh, bé uống/bú được (WHO 2013 Bảng 11, tr. 127: tả khi tiêu chảy nước nhiều + mất nước nặng trong vụ dịch; QĐ 4178/2007 mục II.1a). Tả ở sơ sinh bú mẹ hoàn toàn: tần suất không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Loại trừ lâm sàng: không khóc từng cơn kèm xanh xao, không khối ở bụng, không phân nhầy máu (WHO 2013 Bảng 11, tr. 127; QĐ 3312 mục 2.1, tr. 316–317 xếp lồng ruột vào nguyên nhân ngoại khoa). Cơ sở không có siêu âm; nếu nghi thì chuyển tuyến. Tuổi mắc lồng ruột điển hình: không có trong tài liệu đã tải (ca này sơ sinh 24 ngày, rất ít nghĩ)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Chưa có dấu hiệu: bé bú còn được, không sốt/hạ thân nhiệt (37,2 °C), không li bì, không thở nhanh/rên, không co giật, rốn sạch (WHO 2013 mục 3.6, tr. 52: dấu hiệu nguy hiểm ở sơ sinh gồm bú kém, li bì, thở nhanh, thân nhiệt > 38 hoặc < 35,5 °C; mục 3.8, tr. 54). Chưa loại trừ tuyệt đối vì sơ sinh biểu hiện kín đáo, nên hẹn đánh giá lại sớm (ESPGHAN/ESPID 2014 mục 6.1, tr. 138: tuổi < 2 tháng nên được đánh giá y tế)."
+    },
+    {
+     "t": "Tiêu chảy sinh lý của trẻ bú mẹ (như bệnh viện huyện nói)",
+     "n": "Không phù hợp: lúc ốm số tã phân tăng gấp 3–4 lần mức nền, phân nước thấm rộng quanh phân, kèm mất nước (sụt cân, mắt trũng, nếp véo chậm, ít tã ướt). Đặc điểm phân bình thường của sơ sinh bú mẹ: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch Phác đồ B: ORS giảm thẩm thấu 75 ml/kg = khoảng 260 ml trong 4 giờ, từng thìa nhỏ ngay tại phòng khám, vẫn cho bú mẹ khi bé đòi, đánh giá lại sau 4 giờ",
+     "v": "c",
+     "n": "Có mất nước: Phác đồ B, lượng ORS 4 giờ = cân nặng × 75 ml (QĐ 3312/2015 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135: < 6 kg 200–400 ml); nôn thì ngừng 10 phút rồi cho chậm hơn; trong 4 giờ đầu không cho gì ngoài sữa mẹ (WHO 2013 mục 5.2.2, tr. 134). ORS giảm thẩm thấu là loại tốt nhất (QĐ 3312 mục 4.1; WHO 2024 khuyến cáo 5; ESPGHAN/ESPID 2014 mục 9.1.1, tr. 142)."
+    },
+    {
+     "t": "Kẽm: 5 mg/ngày × 10–14 ngày hoặc 10 mg/ngày × 10–14 ngày",
+     "v": "c",
+     "n": "Hai nguồn khác liều: WHO 2024 khuyến cáo 3a, 3c + Remarks: kẽm 5 mg/ngày (có điều kiện), thời gian 10–14 ngày, ít nôn hơn 20 mg; QĐ 3312/2015 mục 4.3 (tr. 323): trẻ 1 – < 6 tháng 10 mg/ngày × 10–14 ngày (bé 24 ngày chưa tới 1 tháng tuổi nên bảng của QĐ 3312 không ghi riêng); WHO 2013 mục 5.2.2 (tr. 136): ≤ 6 tháng nửa viên (10 mg) mỗi ngày, hoà tan trong ít nước/sữa vắt/ORS; chương 5 áp dụng cho trẻ từ 1 tuần tuổi (tr. 125). Hai cách đều đúng (xem sổ mâu thuẫn: liều kẽm). Chế phẩm kẽm phù hợp sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh",
+     "v": "c",
+     "n": "Tiêu chảy phân nước không dùng kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312/2015 mục 4.2, tr. 322: chỉ khi phân máu, nghi tả, Giardia hoặc kèm nhiễm trùng khác). Bé chưa có dấu nhiễm khuẩn huyết; nếu xuất hiện thì xử trí như sơ sinh nghi nhiễm khuẩn (WHO 2013 mục 3.8, tr. 54)."
+    },
+    {
+     "t": "Men vi sinh: không dùng (WHO 2024) hoặc dùng chủng có bằng chứng (ESPGHAN 2023, QĐ 3312)",
+     "v": "c",
+     "n": "WHO 2024 khuyến cáo 4a: đề nghị không dùng probiotic ở tiêu chảy cấp phân nước (có điều kiện). ESPGHAN 2023 (Acute Gastroenteritis): LGG ≥ 10^10 CFU/ngày × 5–7 ngày, S. boulardii 250–750 mg/ngày × 5–7 ngày hoặc L. reuteri DSM 17938 10^8–4×10^8 CFU × 5 ngày (yếu, chứng cứ thấp); QĐ 3312 mục 4.5: S. boulardii 200–250 mg/ngày × 5–6 ngày. Hai cách đều đúng (xem sổ mâu thuẫn: probiotic). An toàn riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho tiếp tục bú mẹ nhiều hơn, bố không đổi hay pha loãng sữa công thức, không dùng sữa không lactose thường quy",
+     "v": "c",
+     "n": "Tiếp tục bú mẹ nhiều lần hơn (QĐ 3312/2015 mục 4.4, tr. 323; WHO 2013 mục 5.2.2, tr. 134; ESPGHAN/ESPID 2014 mục 9.2, tr. 143). Không pha loãng sữa, không dùng sữa không lactose thường quy (QĐ 3312 mục 4.4)."
+    },
+    {
+     "t": "Hẹn đánh giá lại sau 4 giờ tại phòng khám; nếu đáp ứng cho về Phác đồ A và tái khám sau 24 giờ; dặn dấu hiệu nguy hiểm quay lại ngay",
+     "v": "c",
+     "n": "Sau 4 giờ đánh giá lại: hết mất nước chuyển Phác đồ A; còn mất nước tiếp tục B; nặng lên chuyển C (QĐ 3312 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135). Phác đồ A cho trẻ < 24 tháng: 50–100 ml ORS sau mỗi lần đi ngoài, 500 ml/ngày dùng tại nhà (QĐ 3312 mục 4.1, tr. 321). Dấu hiệu quay lại: QĐ 3312 mục 5.1–5.2, tr. 324. Mốc tái khám 24 giờ ở sơ sinh: không có trong tài liệu đã tải (WHO 2013 Bảng 12, tr. 128 ghi 'follow up in 5 days if not improving' cho trẻ lớn hơn; tự quyết sớm hơn vì tuổi < 2 tháng, ESPGHAN/ESPID 2014 mục 6.1)."
+    },
+    {
+     "t": "Hỏi lại thuốc nhỏ mắt có corticoid, hướng dẫn mẹ rửa mắt bằng nước sạch/sữa mẹ và tái khám mắt, không tự nhỏ tiếp khi chưa có chỉ định rõ",
+     "v": "a",
+     "n": "Không phải mục chấm chính. Xử trí ghèn/viêm kết mạc nhẹ ở sơ sinh: rửa mắt bằng nước hoặc sữa mẹ, tra thuốc mỡ tetracycline hoặc chloramphenicol 4 lần/ngày × 5 ngày, xem lại sau 48 giờ nếu không đỡ (WHO 2013 mục 3.12.2, tr. 66). Tác dụng của corticoid nhỏ mắt ở sơ sinh và liên quan với tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện ngay ở lượt này",
+     "v": "a",
+     "n": "Thận trọng, chấp nhận được vì tuổi < 2 tháng (ESPGHAN/ESPID 2014 mục 6.1, tr. 138). Chưa bắt buộc: bé còn bú, tỉnh, không sốt, mao mạch hồi sắc ≤ 2 giây, chưa có tiêu chí nhập viện của QĐ 3312 mục 5.1 (tr. 323–324); mất nước vừa/nhẹ điều trị Phác đồ B."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu (loperamid) hoặc thuốc cầm nôn",
+     "v": "w",
+     "n": "Không dùng thuốc cầm nôn, cầm đi ngoài (QĐ 3312/2015 mục 4.5, tr. 323); WHO 2013 chương 5 mở đầu, tr. 125–126: thuốc 'antidiarrhoeal' và chống nôn không nên dùng cho trẻ nhỏ vì có tác dụng phụ nguy hiểm, thậm chí gây tử vong; ESPGHAN/ESPID 2014 mục 9.3.2: loperamid không khuyến cáo."
+    },
+    {
+     "t": "Truyền tĩnh mạch ngay",
+     "v": "w",
+     "n": "Chưa có chỉ định: tĩnh mạch khi sốc, rối loạn ý thức, thất bại bù dịch uống, nôn dai dẳng, chướng bụng/ileus (ESPGHAN/ESPID 2014 mục 8.4, tr. 140; QĐ 3312 mục 4.1 Phác đồ C chỉ cho mất nước nặng)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước (4 ngày, dưới 14 ngày), nhiều khả năng virus theo mùa, trẻ sơ sinh 24 ngày tuổi",
+     "Mất nước vừa/nhẹ (Có mất nước): vật vã, mắt trũng nhẹ, nếp véo chậm; sụt khoảng 6,8% so với cân sổ 5 ngày trước → Phác đồ B",
+     "Chưa có dấu hiệu nguy hiểm của sơ sinh (bú còn được, tỉnh, không sốt/hạ nhiệt, không thở nhanh)",
+     "Yếu tố khởi phát: thay đổi thời tiết lạnh ẩm (mùa rotavirus); đang dùng thuốc nhỏ mắt có corticoid (ghèn mắt), không liên quan trực tiếp",
+     "Đã loại trừ lâm sàng: Tả, Lồng ruột, Nhiễm khuẩn huyết (chưa loại tuyệt đối với nhiễm khuẩn huyết vì tuổi sơ sinh)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh qua mẹ: khởi phát, số tã phân/ướt, máu, nôn, sốt, bú, thuốc đã dùng, tiền sử sinh, cân sổ (QĐ 3312/2015 mục 3.1a, tr. 317). Ghi nhận sự vất vả của mẹ sau ba nơi khám, xin xem đơn thuốc và phiếu xét nghiệm cũ để không làm lại. (2) Khám: cân và so với sổ, tri giác, mắt, thóp, nếp véo, mạch/mao mạch, nhịp thở, bụng, rốn, hậu môn (mục 3.1b–c; WHO 2013 Bảng 12 tr. 128). (3) Cận lâm sàng rất chọn lọc: phần lớn không cần (mục 3.2). (4) Chẩn đoán và phân loại mất nước. (5) Xử trí.",
+     "Vì sao là tiêu chảy cấp phân nước chứ không phải 'phân lỏng sinh lý': số tã phân tăng gấp 3–4 lần mức nền, phân nước thấm rộng, kèm sụt cân, mắt trũng, nếp véo chậm, ít tã ướt (QĐ 3312 mục 1, 3.1; WHO 2013 Bảng 11–12). Phân loại mất nước theo bảng 1 tuần–2 tháng (QĐ 3312 mục 3.1c, tr. 319).",
+     "Loại trừ Tả: không dịch tễ, không mất nước nặng nhanh (QĐ 4178/2007 mục II.1a; WHO 2013 Bảng 11). Loại trừ Lồng ruột: không cơn khóc/xanh xao, không khối, phân không nhầy máu (WHO 2013 Bảng 11, tr. 127). Loại trừ nhiễm khuẩn huyết: không có dấu nguy hiểm (WHO 2013 mục 3.6, tr. 52) nhưng chưa loại tuyệt đối, vì thế đánh giá lại sớm.",
+     "Điểm mấu chốt: bé không có dấu nguy hiểm ở thời điểm này nên điều trị ngoại trú theo dõi sát được; ngưỡng nhập viện ở sơ sinh thấp (tuổi < 2 tháng nên được đánh giá y tế: ESPGHAN/ESPID 2014 mục 6.1). Thuốc nhỏ mắt corticoid là nhiễu: hỏi ra được khi hỏi mọi loại thuốc nhỏ/bôi. Khoảng tham chiếu xét nghiệm sơ sinh: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch: ORS 75 ml/kg × 3,45 kg ≈ 260 ml trong 4 giờ, từng thìa/cốc nhỏ tại phòng khám; nôn thì dừng 10 phút rồi cho chậm; tiếp tục bú mẹ theo nhu cầu (QĐ 3312 mục 4.1 Phác đồ B, tr. 321; WHO 2013 Chart 14, tr. 135). Sau 4 giờ đánh giá lại: hết mất nước thì về Phác đồ A (50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày tại nhà).",
+     "Kẽm 5 mg/ngày (WHO 2024) hoặc 10 mg/ngày (QĐ 3312, WHO 2013) × 10–14 ngày; hoà trong ít sữa vắt/ORS (WHO 2013 tr. 136). Không kháng sinh (WHO 2024 khuyến cáo 1a). Men vi sinh: tuỳ chọn, hai nguồn khác nhau (xem sổ mâu thuẫn). Không thuốc cầm tiêu/cầm nôn. Không đổi sữa, không sữa không lactose thường quy.",
+     "Thuốc nhỏ mắt corticoid: nhắc mẹ không tự nhỏ tiếp, quay lại nơi kê hoặc khám mắt; ghèn nhẹ xử trí theo WHO 2013 mục 3.12.2 (tr. 66). Số liệu về corticoid nhỏ mắt ở sơ sinh: không có trong tài liệu đã tải.",
+     "Cho về chỉ khi bé uống ORS/bú tốt, hết mất nước sau 4 giờ (QĐ 3312 mục 4.1, tr. 321) và mẹ làm lại được cách pha, cho uống; hẹn tái khám 24 giờ (thiết kế tự quyết vì tuổi sơ sinh, ESPGHAN/ESPID 2014 mục 6.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol giảm thẩm thấu (ORS)",
+      "ham_luong": "1 gói pha theo hướng dẫn trên gói",
+      "lieu": "Tại phòng khám: khoảng 260 ml trong 4 giờ (75 ml/kg). Sau đó 50–100 ml sau mỗi lần đi ngoài, khoảng 500 ml/ngày",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Liên tục trong 4 giờ đầu; sau đó sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312/2015 mục 4.1 Phác đồ A, B (tr. 320–321); WHO 2013 Chart 14, tr. 135. Nôn: dừng 10 phút rồi cho chậm. Pha lại dung dịch mới sau 24 giờ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kẽm (gluconat hoặc dạng viên tan)",
+      "ham_luong": "Theo chế phẩm sẵn có, tính theo kẽm nguyên tố",
+      "lieu": "5 mg/ngày (WHO 2024 khuyến cáo 3c) hoặc 10 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 tr. 136)",
+      "duong": "Uống, hoà trong ít sữa vắt hoặc ORS",
+      "thoi_diem": "1 lần/ngày, sau khi bé hết nôn",
+      "so_ngay": "10–14 ngày",
+      "ghi_chu": "Hai cách đều đúng, xem sổ mâu thuẫn (kẽm). WHO 2024 Remarks: kẽm gluconat ít nôn hơn dạng khác."
+     },
+     {
+      "thuoc": "Men vi sinh (tuỳ chọn)",
+      "ham_luong": "S. boulardii hoặc LGG hoặc L. reuteri DSM 17938 đúng chủng",
+      "lieu": "S. boulardii 200–250 mg/ngày (QĐ 3312 mục 4.5) hoặc 250–750 mg/ngày (ESPGHAN 2023); không dùng cũng đúng (WHO 2024 khuyến cáo 4a)",
+      "duong": "Uống",
+      "thoi_diem": "1–2 lần/ngày",
+      "so_ngay": "5–7 ngày",
+      "ghi_chu": "Xem sổ mâu thuẫn (probiotic). An toàn ở sơ sinh: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mẹ đã làm đúng khi đưa bé đi khám; ba nơi cho ba hướng khác nhau nên mẹ rối là dễ hiểu. Bé không bị 'lạnh bụng' vì quấn mỏng: tiêu chảy do nhiễm virus vào mùa lạnh (QĐ 3312 mục 2.1, tr. 317). Quấn vừa phải, giữ ấm nhưng không để ra mồ hôi.",
+     "Đây là tiêu chảy, không phải đi sệt bình thường của trẻ bú mẹ: số lần nhiều hơn, phân nước và bé sụt cân. Cho bú mẹ nhiều lần hơn, mỗi cữ lâu hơn; không cho nước gạo rang hay nước lá (QĐ 3312 mục 4.4).",
+     "Thực hành pha ORS và cho uống từng thìa ngay tại phòng khám (QĐ 3312 mục 4.1, tr. 320); ghi số tã phân và tã ướt vào giấy.",
+     "Từ nay chỉ dùng kẽm và ORS, dừng gói tiêu hoá, sữa không lactose; thuốc nhỏ mắt hỏi lại bác sĩ kê hoặc khám mắt; mang theo đơn và chai thuốc.",
+     "Đưa bé đến ngay (không chờ hẹn) nếu: bú kém hoặc bỏ bú, li bì khó đánh thức, nôn nhiều hoặc nôn xanh vàng, phân có máu, sốt hoặc lạnh người, bụng chướng, ít hơn 4 tã ướt trong 24 giờ, đi ngoài nhiều hơn (QĐ 3312 mục 5.1–5.2, tr. 324; WHO 2013 mục 3.6, tr. 52). Tái khám sau 24 giờ dù bé khá hơn."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bé Khang, 26 ngày tuổi, 3,35 kg, mẹ đưa tái khám theo hẹn sau khoảng 36 giờ: 'đỡ rồi lại nặng hơn, bú kém, đi ngoài nhiều'. Mạch 148 l/p, nhịp thở 54 l/p, nhiệt 37,4 °C, SpO₂ 98%. Bé khóc yếu, lờ đờ xen vật vã.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho về ORS tiếp và hẹn lại là lặp lại cách xử trí đã thất bại: bé đã sụt thêm 0,10 kg trong 36 giờ, nôn 4 lần, uống ORS ít, bú kém và chỉ 3 tã ướt. Thất bại bù dịch đường uống, nôn tái diễn và sơ sinh bú kém đều là tiêu chí nhập viện (QĐ 3312/2015 mục 5.1, tr. 323–324; WHO 2013 mục 3.6, tr. 52). Đêm đó bé nôn nhiều hơn, tã khô, li bì, chân tay lạnh; mẹ chị Lan đưa đi cấp cứu lúc nửa đêm, bé mất nước nặng (ngưỡng ≥ 10%) phải truyền dịch nhanh (QĐ 3312 mục 4.1 Phác đồ C), và mẹ càng mất niềm tin vào y tế ban đầu.",
+    "cap_cuu": "Gọi cấp cứu 115 và chuyển thẳng hồi sức sơ sinh là quá tay: bé tỉnh khi kích thích, mạch quay bắt được, mao mạch hồi sắc khoảng 2 giây, chưa có sốc hay mất nước nặng, không sốt, CRP thấp. Chưa có chỉ định truyền nhanh (QĐ 3312 mục 4.1 Phác đồ C chỉ cho mất nước nặng; ESPGHAN/ESPID 2014 mục 8.4, tr. 140). Nhập viện khoa nhi trong ngày bằng xe nhà vẫn kịp; chuyển cấp cứu tốn thêm chi phí và thời gian, làm gia đình hoảng sợ và chiếm nguồn lực hồi sức."
+   },
+   "loi_mo": "Dạ bác sĩ, em làm đúng hết như bác sĩ dặn mà con cứ nặng thêm. Hôm qua đỡ một chút, tối đến lại đi ngoài nhiều, bú thì nhả ra, em lo quá. Em không biết có phải ở nhà không ổn không.",
+   "sinh_hieu": {
+    "mach": 148,
+    "ha": "Không đo",
+    "nhiet": "37,4",
+    "nhip_tho": 54,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ đưa bé tái khám theo hẹn, nói 'bé đỡ hôm qua rồi hôm nay lại nặng hơn, bú kém, đi ngoài nhiều hơn'. Vẫn lo con không khỏi như ở ba nơi trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt này"
+    },
+    {
+     "id": "lam_theo",
+     "noi_dung": "Sau lượt 1, bé uống hết ORS đợt 4 giờ ở phòng khám, mất nước đỡ nên mẹ được cho về theo Phác đồ A, kẽm mỗi ngày 1 lần, tiếp tục bú mẹ. Ở nhà mẹ làm đúng hướng dẫn: ORS từng thìa sau mỗi lần đi, ghi giấy số tã. Đêm qua trời lạnh ẩm trở lại, mẹ giữ ấm vừa phải.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đã làm theo hướng dẫn lượt trước chưa, ORS và kẽm dùng ra sao"
+    },
+    {
+     "id": "so_lan",
+     "noi_dung": "Đếm tờ giấy mẹ ghi: 24 giờ qua 14 tã phân nước, nhiều hơn hôm trước (10 tã); phân vàng xanh, vẫn không máu, không nhầy. Mẹ nói 'tã nào cũng đầy nước, thay liên tục'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số tã phân so với lượt trước (hỏi theo tờ giấy ghi)",
+     "dieu_kien_lo": "Chỉ kể số liệu khi hỏi tờ giấy theo dõi hoặc số tã 24 giờ qua."
+    },
+    {
+     "id": "non",
+     "noi_dung": "Nôn 4 lần từ tối qua, sau mỗi cữ bú hoặc sau vài thìa ORS, sữa trắng, không xanh vàng, không vọt. ORS uống được ít, chừng 150 ml cả đêm vì bé nhả ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: số lần, tính chất; lượng ORS thực uống"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Từ sáng bé bú ngắn, nhả vú, bỏ 3 cữ đêm qua; chiều nay mẹ phải đánh thức mới bú nhưng bú vài phút rồi ngủ lại. Khóc yếu, ít nước mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém (dấu hiệu nguy hiểm ở sơ sinh), thức hay li bì",
+     "dieu_kien_lo": "Chỉ kể đủ khi hỏi từng cữ bú từ tối qua và bé có phải đánh thức mới bú không."
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Cả ngày chỉ 3 tã ướt, nước tiểu vàng sẫm, tã gần như khô quanh phân. Mẹ nghĩ 'ít đi tiểu vì nước đi hết theo phân'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số tã ướt trong 24 giờ",
+     "dieu_kien_lo": "Chỉ nói số tã ướt khi hỏi."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Bé không sốt (đo nách 37,3–37,4 °C), không lạnh người, không co giật, không thở nhanh, không rên, không tím. Rốn khô, không vàng da. Bụng không chướng, không nôn xanh vàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt/hạ thân nhiệt, co giật, dấu hiệu khác của nhiễm khuẩn huyết"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ba nơi trước đã cho: men vi sinh, gói tiêu hoá, thuốc nhỏ mắt có corticoid (đã dừng theo hướng dẫn lượt 1; mắt hết ghèn). Hai ngày qua không dùng thuốc nào ngoài ORS và kẽm 5–10 mg/ngày theo lượt 1. Mẹ kể thêm: nơi 2 có bán sẵn 'thuốc cầm tiêu', bố định mua nhưng mẹ không cho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng và đã bỏ"
+    }
+   ],
+   "kham": {
+    "nhan_tram_tre": {
+     "a": "Cân nặng 3,35 kg (cân sổ 5 ngày trước lượt 1: 3,70 kg; sụt 0,35 kg, khoảng 9,5%; so với lượt 1 giảm thêm 0,10 kg).",
+     "k": 1,
+     "hien": "Cân 3,35 kg"
+    },
+    "toan_than": {
+     "a": "Bé vật vã xen lẫn lờ đờ, gọi thì tỉnh nhưng khóc yếu, ít nước mắt, cử động ít hơn lượt trước. Môi khô, lưỡi khô. Khi cho thử bú: ngậm vú yếu, bú vài ngụm rồi nhả, nôn trớ. Thân nhiệt 37,4 °C, không tím, không vàng da. Trương lực cơ giảm nhẹ.",
+     "k": 1,
+     "hien": "Khóc yếu, ít nước mắt. Môi lưỡi khô. Thử bú: bú yếu, vài ngụm rồi nhả."
+    },
+    "dau_mat_co": {
+     "a": "Mắt trũng rõ (mẹ: 'mắt lõm hẳn'), thóp trước trũng, cổ mềm, không dấu màng não.",
+     "k": 1,
+     "hien": "Mắt trũng rõ, thóp trước trũng."
+    },
+    "da": {
+     "a": "Nếp véo da ở bụng trở lại chậm (khoảng 2 giây). Da hơi lạnh ở bàn chân, không nổi vân tím, không ban, không vàng da. Hăm mông đỏ nhiều hơn.",
+     "k": 1,
+     "hien": "Nếp véo da bụng: trở lại chậm. Hăm mông đỏ."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay bắt được, nhanh, hơi nhỏ. Bàn chân hơi lạnh, mao mạch hồi sắc khoảng 2 giây, chưa có dấu sốc.",
+     "k": 1,
+     "hien": "Mạch quay nhanh, hơi nhỏ. Mao mạch hồi sắc khoảng 2 giây."
+    },
+    "tim": {
+     "a": "Tim nhanh đều, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 148 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 54 l/p, êm, không co lõm lồng ngực, không rên, không thở sâu kiểu toan. Rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 54 l/p, không co lõm ngực, không rên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi lõm, không chướng, không khối, không đề kháng; không phản ứng khi sờ. Nhu động ruột tăng. Rốn khô, sạch.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng, không khối. Rốn sạch."
+    },
+    "than_kinh": {
+     "a": "Tỉnh khi kích thích, khóc yếu, phản xạ mút yếu, Moro đủ, trương lực giảm nhẹ; không co giật, không dấu thần kinh khu trú.",
+     "k": 1,
+     "hien": "Khóc yếu, phản xạ mút yếu, trương lực giảm nhẹ; không co giật."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,2 G/L · trung tính 44% · lympho 46% · Hb 168 g/L · TC 380 G/L",
+     "bang": {
+      "wbc": 13.2,
+      "neu_pct": 44.0,
+      "neu": 5.81,
+      "lym_pct": 46.0,
+      "lym": 6.07,
+      "mono_pct": 7.0,
+      "mono": 0.92,
+      "eos_pct": 2.0,
+      "eos": 0.26,
+      "baso_pct": 1.0,
+      "baso": 0.13,
+      "rbc": 5.0,
+      "hgb": 168,
+      "hct": 0.5,
+      "mcv": 98.0,
+      "mch": 33.6,
+      "mchc": 340,
+      "rdw": 14.8,
+      "plt": 380
+     },
+     "n": "Chấp nhận trước khi chuyển: sơ sinh có ngưỡng thấp cho đánh giá nhiễm khuẩn (ESPGHAN/ESPID 2014 mục 9.4.4, tr. 149: sơ sinh/nhũ nhi < 3 tháng có sốt cần xem xét sepsis workup; bé không sốt). Công thức máu/CRP làm khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312/2015 mục 3.2). Hb cao nhẹ do cô đặc máu; bạch cầu không nghiêng về nhiễm khuẩn. Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải (bảng tham chiếu của app là người lớn)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 4 mg/L",
+     "n": "Chấp nhận, không bắt buộc (QĐ 3312/2015 mục 3.2). CRP thấp ủng hộ không có nhiễm khuẩn huyết rõ; ESPGHAN/ESPID 2014 mục 7.2 (tr. 138) không khuyến cáo thường quy để phân biệt vi khuẩn."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 · K 3,6 · Cl 105 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 105
+     },
+     "n": "Chấp nhận và có ích: điện giải đồ chỉ định khi trẻ được điều trị tại bệnh viện và mất nước, hoặc diễn biến không tương xứng (QĐ 3312/2015 mục 3.2); ESPGHAN/ESPID 2014 mục 7.4 (tr. 139): làm ở bệnh viện khi mất nước vừa mà bệnh sử/khám không tương xứng hoặc khi bắt đầu truyền tĩnh mạch. Na 138 là đẳng trương (130–150: QĐ 3312 mục 3.1d, tr. 319); K ở ngưỡng thấp bình thường. Không nên chờ kết quả mới chuyển."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 7,8 mmol/L · Creatinin 52 µmol/L",
+     "n": "Chấp nhận: ure hơi cao do mất nước trước thận; suy thận cấp là biến chứng của mất nước nặng (QĐ 3312/2015 mục 3.1d). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Bạch cầu âm tính, nitrit âm tính, tỷ trọng 1,030.",
+     "n": "Chấp nhận: loại nhiễm khuẩn tiết niệu ngoài ruột (QĐ 3312/2015 mục 2.1b, 3.1b); tỷ trọng cao phù hợp mất nước."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 3,1 mmol/L.",
+     "n": "Chấp nhận khi bé bú kém và lờ đờ; ngưỡng can thiệp là < 2,2 mmol/L (< 40 mg/100 ml) cho sơ sinh (WHO 2013 mục 3.6, tr. 53). Bé 3,1 mmol/L chưa dưới ngưỡng, tiếp tục cho ăn và theo dõi tại viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước nặng lên (ngày thứ 6), mất nước vừa kèm thất bại bù dịch đường uống tại nhà và bú kém, ở trẻ sơ sinh 26 ngày tuổi",
+     "ok": 1,
+     "n": "Phân nước 14 tã/24 giờ, nôn 4 lần, uống ORS ít, sụt cân khoảng 9,5% so với sổ (5–10%: mất nước vừa/nhẹ, QĐ 3312/2015 mục 3.1b, tr. 318). Bảng trẻ 1 tuần–2 tháng: vật vã/lờ đờ, mắt trũng, nếp véo chậm = Có mất nước (mục 3.1c, tr. 319), sắp tới ngưỡng nặng (≥ 10%). Thất bại bù dịch uống, nôn tái diễn, tuổi sơ sinh và bú kém là tiêu chí nhập viện (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN/ESPID 2014 mục 6.1, 8.1; WHO 2013 mục 3.6, tr. 52: bú kém là dấu hiệu nguy hiểm ở sơ sinh)."
+    },
+    {
+     "t": "Tả",
+     "n": "Vẫn loại trừ: không dịch tễ, phân vàng xanh không như nước vo gạo, tiến triển 6 ngày chậm hơn tả (WHO 2013 Bảng 11, tr. 127; QĐ 4178/2007 mục II.1a)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Vẫn loại trừ lâm sàng: không khóc thét từng cơn, bụng mềm không khối, không phân nhầy máu, không nôn xanh vàng (WHO 2013 Bảng 11, tr. 127). Cơ sở không có siêu âm; hồi viện sẽ siêu âm nếu có dấu mới."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Chưa có bằng chứng: không sốt hay hạ thân nhiệt, không thở nhanh/rên/co giật, rốn sạch, CRP 4 mg/L, bạch cầu không nghiêng nhiễm khuẩn, đường huyết 3,1 mmol/L (WHO 2013 mục 3.6, 3.8, tr. 52–54). Nhưng bú kém và lờ đờ ở sơ sinh là dấu hiệu nguy hiểm không đặc hiệu có thể gặp trong nhiễm khuẩn huyết, nên không loại tuyệt đối: giữ theo dõi, nếu có thêm dấu hiệu thì cấy máu và kháng sinh tĩnh mạch ampicillin + gentamicin theo WHO 2013 mục 3.8, tr. 54–55."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện (khoa nhi/sơ sinh) trong ngày, chuyển bằng xe có người nhà, không chờ hết giờ khám",
+     "v": "c",
+     "n": "Tiêu chí nhập viện của QĐ 3312/2015 mục 5.1 (tr. 323–324): thất bại bù dịch bằng đường uống, nôn tái diễn, cha mẹ khó đảm bảo cho uống đủ; ESPGHAN/ESPID 2014 mục 6.1 (tuổi < 2 tháng) và mục 8.1 (thất bại bù dịch uống); WHO 2013 mục 3.6 (tr. 52): bú kém là dấu hiệu nguy hiểm ở sơ sinh. Cơ sở không có siêu âm, X-quang."
+    },
+    {
+     "t": "Trong lúc chờ chuyển: tiếp tục ORS từng thìa nhỏ và bú mẹ, giữ ấm, cân và ghi lại, ghi thư chuyển (cân 3,35 kg, tờ ghi tã, lượng ORS, kết quả điện giải/đường huyết/CRP)",
+     "v": "c",
+     "n": "Bù dịch đường uống tiếp tục nếu bé còn uống được (QĐ 3312 mục 4.1: Phác đồ B; WHO 2013 Chart 14, tr. 135); nếu không uống được hoặc nôn dai dẳng thì bù dịch qua ống thông dạ dày hoặc tĩnh mạch tại viện (ESPGHAN/ESPID 2014 mục 8.3–8.4, tr. 139–140). Quy trình giữ ấm, ủ ấm khi vận chuyển sơ sinh: WHO 2013 chương 3 (mục hạ thân nhiệt); chi tiết không ghi ở đây."
+    },
+    {
+     "t": "Làm xét nghiệm có sẵn trước khi chuyển (đường huyết mao mạch, điện giải đồ, công thức máu, CRP), không để chậm chuyển viện",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc: kết quả giúp tuyến sau. Điện giải khi bệnh nhi được điều trị bệnh viện và mất nước (QĐ 3312 mục 3.2; ESPGHAN/ESPID 2014 mục 7.4, tr. 139). Đường huyết kiểm tra khi li bì (WHO 2013 mục 3.6, tr. 53)."
+    },
+    {
+     "t": "Không dùng kháng sinh thường quy; chỉ dùng khi tuyến sau nghi nhiễm khuẩn huyết sơ sinh",
+     "v": "c",
+     "n": "Tiêu chảy phân nước không kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2). Nếu nghi nhiễm khuẩn huyết sơ sinh: ampicillin (hoặc penicillin) + gentamicin, nhập viện (WHO 2013 mục 3.8, tr. 54–55; liều ở tr. 69–72, không trích ở ca này); ESPGHAN/ESPID 2014 mục 9.4.4: sơ sinh < 3 tháng có sốt cần sepsis workup. Bé không sốt, CRP thấp."
+    },
+    {
+     "t": "Tiếp tục kẽm 5 mg/ngày hoặc 10 mg/ngày đến đủ 10–14 ngày",
+     "v": "c",
+     "n": "Như lượt 1: WHO 2024 khuyến cáo 3c (5 mg/ngày); QĐ 3312 mục 4.3 và WHO 2013 tr. 136 (10 mg/ngày). Hai cách đều đúng."
+    },
+    {
+     "t": "Cho về nhà uống ORS tiếp, hẹn lại 24 giờ",
+     "v": "w",
+     "n": "Bé đã thất bại bù dịch uống tại nhà, bú kém và nôn tái diễn: về nhà là chưa đủ an toàn (QĐ 3312 mục 5.1; WHO 2013 mục 3.6, tr. 52). Lặp lại cách xử trí thất bại."
+    },
+    {
+     "t": "Truyền tĩnh mạch dịch tại phòng khám ngoại trú rồi cho về",
+     "v": "w",
+     "n": "Không phù hợp ở sơ sinh nặng lên: truyền cần theo dõi sát tại cơ sở nội trú (ESPGHAN/ESPID 2014 mục 8.4–8.5); cơ sở ngoại trú không đảm bảo theo dõi điện giải/đường huyết sơ sinh."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu hoặc kháng sinh uống 'cho chắc'",
+     "v": "w",
+     "n": "Không dùng thuốc cầm tiêu/cầm nôn (QĐ 3312 mục 4.5); không kháng sinh cho tiêu chảy phân nước (WHO 2024 khuyến cáo 1a)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước nặng lên (ngày 6, dưới 14 ngày), nhiều khả năng virus",
+     "Mất nước vừa (sụt khoảng 9,5%), thất bại bù dịch uống tại nhà, nôn tái diễn, bú kém",
+     "Trẻ sơ sinh 26 ngày tuổi: có dấu hiệu nguy hiểm không đặc hiệu (bú kém, lờ đờ); chưa bằng chứng nhiễm khuẩn huyết (không sốt, CRP 4 mg/L)",
+     "Đã loại trừ lâm sàng: Tả, Lồng ruột; Nhiễm khuẩn huyết chưa loại tuyệt đối, theo dõi tại viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: đã làm đúng hướng dẫn chưa, số tã phân/ướt, ORS thực uống, nôn, bú, sốt, thuốc đã dùng (QĐ 3312/2015 mục 3.1a). (2) Khám: cân và so với sổ, tri giác, mắt, thóp, nếp véo, mạch/mao mạch, nhịp thở, bụng, rốn, thần kinh. (3) CLS cơ bản có chọn lọc, không để chậm chuyển viện. (4) Chẩn đoán và phân loại. (5) Xử trí.",
+     "Vì sao 'nặng hơn': số tã phân tăng từ 10 lên 14/24 giờ, nôn, ORS uống ít, sụt thêm 0,10 kg trong 36 giờ, tã ướt chỉ 3 (QĐ 3312 mục 3.1b–c; ESPGHAN/ESPID 2014 mục 6.2, tr. 138: sụt cân là thước đo tốt nhất của mất nước). Lượt 2 đánh giá lại toàn diện theo cùng bảng phân loại của lượt 1 (WHO 2013 Bảng 12, tr. 128), không dừng ở 'tiêu chảy kéo dài'.",
+     "Sơ sinh thất bại điều trị ngoại trú là lý do nhập viện, dù chưa mất nước nặng ≥ 10% (QĐ 3312 mục 5.1: thất bại với bù dịch đường uống, nôn tái diễn; ESPGHAN/ESPID 2014 mục 6.1, 8.1). Bú kém, li bì ở sơ sinh luôn cần nghĩ tới nhiễm khuẩn huyết nên phải loại trừ bằng theo dõi và xét nghiệm (WHO 2013 mục 3.6, tr. 52). Ngưỡng 14 ngày xác định tiêu chảy cấp (QĐ 3312 mục 1) và tiêu chảy kéo dài ≥ 14 ngày (WHO 2013 Bảng 11, tr. 127); bé mới ngày 6."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện nhi/sơ sinh trong ngày; trên đường đi tiếp tục ORS từng thìa và bú mẹ nếu bé còn bú. Tại viện: bù dịch đường uống/ống thông dạ dày hoặc tĩnh mạch tuỳ đáp ứng (ESPGHAN/ESPID 2014 mục 8.3–8.4, tr. 139–140; QĐ 3312 mục 4.1 Phác đồ B, C), theo dõi cân, điện giải, đường huyết; tuyến sau quyết định kháng sinh nếu nghi nhiễm khuẩn huyết.",
+     "Không kháng sinh khi chưa có chỉ định (WHO 2024 khuyến cáo 1a); không thuốc cầm tiêu/cầm nôn (QĐ 3312 mục 4.5); kẽm tiếp tục đủ 10–14 ngày (5 mg theo WHO 2024 hoặc 10 mg theo QĐ 3312/WHO 2013).",
+     "Lý do không truyền tại ngoại trú rồi cho về hoặc cho về ORS tiếp: bé đã thất bại ORS tại nhà, cơ sở không có siêu âm, không theo dõi điện giải/đường huyết sơ sinh liên tục (xem n các mục w)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol giảm thẩm thấu (ORS)",
+      "ham_luong": "1 gói pha theo hướng dẫn",
+      "lieu": "Trong lúc chờ chuyển: từng thìa nhỏ, 1–2 phút/thìa; tại viện theo Phác đồ B 75 ml/kg (khoảng 250 ml) trong 4 giờ nếu uống được",
+      "duong": "Uống từng thìa (hoặc ống thông dạ dày tại viện)",
+      "thoi_diem": "Liên tục",
+      "so_ngay": "Đến khi hết mất nước",
+      "ghi_chu": "QĐ 3312/2015 mục 4.1, tr. 321; ESPGHAN/ESPID 2014 mục 8.3, tr. 139."
+     },
+     {
+      "thuoc": "Kẽm",
+      "ham_luong": "Theo chế phẩm sẵn có (kẽm nguyên tố)",
+      "lieu": "5 mg/ngày (WHO 2024) hoặc 10 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 tr. 136)",
+      "duong": "Uống, hoà trong sữa vắt/ORS",
+      "thoi_diem": "1 lần/ngày, sau khi hết nôn",
+      "so_ngay": "Đủ 10–14 ngày kể từ lượt 1",
+      "ghi_chu": "QĐ 3312 mục 4.3, tr. 323; WHO 2024 khuyến cáo 3c. Hai cách đều đúng, xem sổ mâu thuẫn (kẽm)."
+     }
+    ],
+    "dan_do": [
+     "Mẹ làm đúng, không phải lỗi của mẹ: ở sơ sinh bệnh có thể nặng lên nhanh dù chăm đúng; cần nhập viện để bù dịch an toàn. Đi cùng bố hoặc bà nội để thay phiên bế, mang sổ, đơn thuốc, tờ ghi tã, ORS và chai thuốc.",
+     "Trên đường: ủ ấm vừa phải, cho bú hoặc ORS từng thìa nếu bé còn tỉnh; không cho nước gạo rang, nước lá, thuốc cầm tiêu bố định mua.",
+     "Báo ngay nhân viên y tế nếu bé li bì khó đánh thức, sốt hoặc lạnh người, tím, thở nhanh, co giật, nôn xanh vàng, bụng chướng (WHO 2013 mục 3.6, tr. 52; QĐ 3312 mục 5.1).",
+     "Ở viện: ghi nhận cách xử trí, khi ra viện nhận hướng dẫn bú mẹ, ORS, kẽm cho đủ ngày; tái khám theo hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: bé uống hết khoảng 260 ml ORS trong 4 giờ ở phòng khám, nôn trớ 1 lần, mắt đỡ trũng, tiểu được 2 lần; đánh giá lại hết mất nước nên về theo Phác đồ A, kẽm hằng ngày, hẹn 24 giờ. Mẹ làm đúng nhưng đêm sau đợt lạnh ẩm thứ hai, tiêu chảy tăng, nôn, bú kém; lượt 2 sụt thêm 0,10 kg, nhập viện nhi. Tại viện bé được bù dịch đường uống/ống thông dạ dày, không cần kháng sinh vì cấy máu và CRP âm tính; hết mất nước sau 2 ngày. Tiêu chảy kéo dài thêm gần một tuần (tổng khoảng 12 ngày, vẫn dưới 14 ngày), tăng cân chậm, ra viện ngày thứ 4 và đạt lại cân sổ sau khoảng 2 tuần nhờ bú mẹ hoàn toàn. Mẹ thôi đi các nơi khác, quay lại tái khám tại một nơi. Bài học: quỹ đạo hồi phục bình thường là hết mất nước trong 24–48 giờ điều trị đúng, phân thành khuôn dần; tiêu chảy kéo dài ≥ 14 ngày, sụt cân tiếp, bú kém hay sốt là lúc phải lo (định nghĩa 14 ngày: QĐ 3312 mục 1; WHO 2013 Bảng 11). Thời gian khỏi điển hình của tiêu chảy cấp virus ở sơ sinh: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Mẹ mệt mỏi, mất niềm tin sau ba nơi: 'chỗ nào cũng cho thuốc mà không khỏi', không muốn làm lại xét nghiệm. Ghi nhận trước, hỏi đơn thuốc và phiếu cũ, đừng yêu cầu làm lại.",
+  "Mẹ trình bày 'đi sệt sệt như trẻ bú mẹ' và bệnh viện huyện từng nói 'bình thường': dễ bỏ sót tiêu chảy; phải đếm tã phân và tã ướt, cân so với sổ.",
+  "Thuốc nhỏ mắt có corticoid là thuốc đang dùng mẹ không nhắc: hỏi mọi loại thuốc kể cả nhỏ mắt, bôi, xoa.",
+  "Không có X-quang, siêu âm: lồng ruột chỉ loại trừ bằng lâm sàng; có dấu mới thì chuyển tuyến."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh: bệnh sử hoàn toàn qua mẹ, dấu hiệu nặng kín đáo (bú kém, li bì), ngưỡng nhập viện thấp (WHO 2013 mục 3.6, tr. 52; ESPGHAN/ESPID 2014 mục 6.1: tuổi < 2 tháng nên được đánh giá y tế).",
+  "Phân loại mất nước theo bảng riêng của trẻ 1 tuần–2 tháng (QĐ 3312/2015 mục 3.1c); sụt cân so với sổ là thước đo tốt nhất (ESPGHAN/ESPID 2014 mục 6.2).",
+  "Phác đồ B ngay tại phòng khám: 75 ml/kg trong 4 giờ, đánh giá lại; bú mẹ liên tục; không kháng sinh, không thuốc cầm tiêu (QĐ 3312 mục 4.1, 4.2, 4.5; WHO 2024 khuyến cáo 1a).",
+  "Tái lập niềm tin: ghi nhận ba nơi đã khám, xin xem đơn/phiếu cũ, không lặp lại xét nghiệm vô ích, cho mẹ thực hành pha ORS tại chỗ.",
+  "Ca diễn tiến: lượt 2 đánh giá lại toàn diện bằng cùng bảng phân loại; thất bại điều trị ngoại trú ở sơ sinh = nhập viện (QĐ 3312 mục 5.1).",
+  "Mâu thuẫn nguồn đã áp dụng: kẽm 5 mg (WHO 2024) hoặc 10 mg (QĐ 3312, WHO 2013); probiotic không dùng (WHO 2024) hoặc dùng chủng có bằng chứng (ESPGHAN 2023, QĐ 3312). Ghi cả hai cách theo sổ mâu thuẫn."
+ ],
+ "diem_nho": [
+  "Tiêu chảy: ≥ 3 lần phân lỏng/24 giờ; cấp ≤ 14 ngày (QĐ 3312 mục 1); kéo dài ≥ 14 ngày (WHO 2013 Bảng 11).",
+  "Mất nước trẻ 1 tuần–2 tháng: ≥ 2 trong ngủ li bì, mắt trũng, nếp véo rất chậm = nặng; ≥ 2 trong vật vã, mắt trũng, nếp véo chậm = có mất nước (QĐ 3312 mục 3.1c).",
+  "Sụt cân < 5% chưa lâm sàng; 5–10% vừa/nhẹ; > 10% nặng (QĐ 3312 mục 3.1b).",
+  "Phác đồ B: ORS 4 giờ = cân nặng × 75 ml; < 6 kg 200–400 ml (QĐ 3312 mục 4.1; WHO 2013 Chart 14). Phác đồ A < 24 tháng: 50–100 ml sau mỗi lần đi ngoài (QĐ 3312 mục 4.1).",
+  "Dấu nguy hiểm ở sơ sinh: bú kém, li bì, thở ≥ 60 l/p, rên, nhiệt > 38 hoặc < 35,5 °C, tím (WHO 2013 mục 3.6, tr. 52).",
+  "Ghèn mắt nhẹ sơ sinh: rửa mắt, thuốc mỡ tetracycline/chloramphenicol 4 lần/ngày × 5 ngày (WHO 2013 mục 3.12.2, tr. 66)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp (mục 1, 2, 3.1a–d, 3.2, 4.1 Phác đồ A/B/C, 4.2, 4.3, 4.4, 4.5, 5.1, 5.2, tr. 316–324)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.8 (tr. 54–55), 3.12.2 (tr. 66); chương 5 (tr. 125–128, 133–136 Chart 14)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 2 (khuyến cáo 1a, 2, 3a, 3c, 4a, 5), Remarks của khuyến cáo 3",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr. 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 6.1–6.2 (tr. 138), 7.2 và 7.4 (tr. 138–139), 8.1–8.4 (tr. 139–140), 9.1.1, 9.2 (tr. 142–143), 9.3, 9.4.4",
+  "ESPGHAN 2023 – Szajewska H, et al. Probiotics for the management of pediatric gastrointestinal disorders: position paper. J Pediatr Gastroenterol Nutr. 2023;76(2):232-247 – TL-0258 – ĐÃ ĐỌC: khuyến cáo tóm tắt mục Acute Gastroenteritis",
+  "QĐ 4178 – Bộ Y tế, QĐ 4178/QĐ-BYT 2007, Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC (đối chiếu qua ca TH-0630/NH-0435): mục II.1a",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): khoảng tham chiếu xét nghiệm sơ sinh; thời gian khỏi điển hình của tiêu chảy cấp virus ở sơ sinh; chế phẩm kẽm cho sơ sinh; an toàn của probiotic và racecadotril riêng cho sơ sinh; tác dụng của corticoid nhỏ mắt ở sơ sinh; đặc điểm phân bình thường của sơ sinh bú mẹ; quy trình ủ ấm khi vận chuyển."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-10-18. Bản 1 (tác tử soạn NH-0413).",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp trọn bài), TL-0250 (mục 3.6, 3.8, 3.12.2, chương 5), TL-0245 (Table 2, Remarks khuyến cáo 3), TL-0268 (mục 6–9), TL-0258 (khuyến cáo tóm tắt), TL-0176 (đối chiếu).",
+  "Thiết kế tự quyết (n): bé 24 ngày 3,45 kg (sổ 3,70 kg, sụt 6,8%); lượt 1 theo dõi ORS 4 giờ (theo_doi), lượt 2 nhập viện do thất bại bù dịch uống tại nhà và bú kém ở sơ sinh (sụt 9,5%); mẹ nhiễu ba nơi không khỏi; thuốc nhỏ mắt corticoid là nhiễu không liên quan trực tiếp; ràng buộc khóa X-quang, siêu âm (kéo theo CT, nội soi); procalcitonin khai thay_the crp.",
+  "Mâu thuẫn dùng đúng mục có trong sổ (liều kẽm, probiotic, ondansetron không dùng trong ca này); ghi cả hai cách chấm c theo quy tắc 12/10/2026.",
+  "Chỗ thiếu tài liệu: xem mục cuối của nguon. Mốc tái khám 24 giờ ở sơ sinh là thiết kế tự quyết, nêu rõ trong n.",
+  "Không có mục danh mục mới: mọi id dùng đã có (nhan_tram_tre, glu_mm, soi_phan, cay_phan, pct...)."
+ ]
+}
