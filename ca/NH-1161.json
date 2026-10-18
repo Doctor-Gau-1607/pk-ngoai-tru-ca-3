@@ -1,0 +1,840 @@
+{
+ "ma_ca": "NH-1161",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_trung_tieu_tre_em_mau_giao",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm trùng tiểu (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm cầu thận",
+   "Trào ngược bàng quang-niệu quản"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Cơn trùng đợt: bé sốt đúng đợt nhiều bạn trong lớp mẫu giáo sốt, ho, sổ mũi",
+  "thuoc_dang_dung": "Tự mua kháng sinh không rõ tên",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 103,
+  "xung_ho": "Bé trai 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời rất ngắn khi được hỏi thẳng (vd 'Con đau', 'Con mắc đi tè'). Mẹ (chị Thảo, 29 tuổi, công nhân thời vụ) kể bệnh chính, xưng 'em', gọi bác sĩ là 'bác sĩ', gọi bé là 'cháu' hoặc 'thằng Khôi'.",
+  "tinh_cach": "Chị Thảo: nói nhanh, lo xa và lo tiền, sợ mất ngày công, hay nhắc 'bà nội bắt em đi'. Bé Khôi: mệt, bám mẹ, hơi ngại bị khám bụng, ngại nói chuyện đi tiểu.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám khoảng 60 km, mỗi ngày hai chuyến xe khách; chị Thảo hay hỏi 'bác sĩ cho thuốc đủ uống cho khỏi, em khỏi phải lên lại được không?'. Chị không tự kể chuyện đường xa, tia tiểu yếu hay táo bón; chỉ nói khi được hỏi cụ thể, và nhận lịch gọi điện, trạm y tế xã nếu bác sĩ nói rõ mốc và dấu hiệu phải quay lại.",
+  "nguoi_nha": "Mẹ bé, chị Thảo, đi cùng; bà nội ở nhà thúc giục qua điện thoại. Hầu hết câu hỏi do mẹ trả lời; hỏi thẳng bé thì bé trả lời ngắn.",
+  "ten_nguoi_nha": "Mẹ bé (chị Thảo)",
+  "ngoai_hinh": {
+   "da": "#e9bd98",
+   "toc": "#1a1411",
+   "kieuToc": "tre",
+   "ao": "#6fa8d6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a77c",
+    "toc": "#241812",
+    "kieuToc": "buoc",
+    "ao": "#c9847a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt 3 ngày, uống thuốc mua ở tiệm không bớt",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (không chụp bàng quang ngược dòng được). Xét nghiệm, siêu âm làm được; cấy nước tiểu gửi phòng xét nghiệm tỉnh, trả kết quả sau 48–72 giờ. Bệnh viện Nhi tỉnh cách khoảng 60 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ đưa đến từ nhà cách phòng khám khoảng 60 km vì sốt 3 ngày chưa hết dù đã uống thuốc mua ở tiệm. Sinh hiệu: nhiệt 38,4 °C, mạch 112 l/p, nhịp thở 24 l/p, SpO₂ 98%, HA 96/58. Bé tỉnh, hơi mệt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khôi sốt 38,4 °C nhưng tỉnh, uống được, không nôn, không đau hông lưng, mạch 112 l/p dưới ngưỡng nhịp nhanh 140 l/p của trẻ 2–5 tuổi (NICE NG143 Bảng 1): thể nhẹ, điều trị uống ngoại trú được (WHO 2013 mục 6.8, tr. 185; AWaRe 2022 tr. 478–479; AAP 2011 Action Statement 4a). Cho nằm viện tiêm nhiều ngày làm mẹ mất công, mất tiền, bé xa nhà, trong khi điều cần là cấy nước tiểu, kháng sinh uống đúng và hẹn có mốc; QĐ 3312 mục 8.1 chỉ nêu rõ nhập viện cho trẻ dưới 1 tuổi.",
+    "chuyen_tuyen": "Chuyển bé Khôi lên bệnh viện Nhi tỉnh ngay hôm nay là quá tay: NICE NG224 (mục 1.2.4) chỉ nói 'cân nhắc' chuyển trẻ trên 3 tháng bị NTĐT trên, mà phòng khám làm được nước tiểu, cấy, siêu âm và kê kháng sinh uống. Mẹ phải ngồi hai chuyến xe khách với bé đang sốt, mất thêm ngày công, chưa có lợi ích rõ hơn điều trị uống có hẹn sát. Chuyển khi nặng, không uống được hoặc không đáp ứng (AWaRe 2022 tr. 478–479).",
+    "theo_doi": "Giữ bé ở phòng khám theo dõi, hạ sốt và chờ kết quả cấy rồi mới cho kháng sinh là sai: bạch cầu esterase dương cùng triệu chứng tiểu rõ đã đủ để điều trị ngay, không chờ cấy (NICE NG224 Bảng 2, mục 1.1.19). Kết quả cấy mất 48–72 giờ trong khi bé đã sốt 3 ngày; chậm điều trị tăng nguy cơ sẹo thận (AAP 2011 Action Statement 1, tr. 597). Cho về không thuốc, nhà cách 60 km, thì mẹ khó quay lại kịp khi bé nặng thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em sốt ba hôm rồi, em có mua thuốc cho uống mà không bớt. Bác sĩ khám giùm cháu nha.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "96/58",
+    "nhiet": "38,4",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 3 ngày, 38,5–39 °C, tối cao nhất; paracetamol hạ được vài giờ. Bé ăn ít, uống ít hơn thường ngày nhưng vẫn uống được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến sốt"
+    },
+    {
+     "id": "tieu_tiet",
+     "noi_dung": "Hai ngày nay bé chạy ra nhà vệ sinh liên tục, mỗi lần tiểu ít, kêu 'rát', khóc nhẹ. Nước tiểu đục như nước vo gạo, mùi khai nồng. Hai đêm nay tè dầm trong khi đã khô đêm hơn một năm. Không thấy nước tiểu đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiểu rát, tiểu nhiều lần, nước tiểu đục hôi, tè dầm mới (NICE NG224 Bảng 1)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Ngày thứ 2 và 3 của bệnh mẹ mua ở tiệm thuốc đầu làng 'thuốc kháng sinh' dạng gói bột, cho uống 2 gói mỗi ngày. Mẹ không nhớ tên, vỏ gói đã bỏ. Uống xong bé vẫn sốt. Có cho paracetamol 160 mg khi sốt cao; không cho ibuprofen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh tự mua không rõ tên, đã 2 ngày vẫn sốt; có thể làm cấy thấp giả"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé không nôn, không co giật, không li bì, uống nước được từng ngụm, chơi được một lúc ngắn. Không kêu đau lưng hay đau hông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm vắng mặt: nôn, li bì, đau hông lưng (WHO 2013 mục 6.8)"
+    },
+    {
+     "id": "tia_tieu",
+     "noi_dung": "Vài tháng nay mỗi lần tiểu bé hay phải rặn, tia nước tiểu yếu, đôi khi són ra quần, tiểu chưa hết đã muốn đi lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể về tia tiểu, rặn khi tiểu, són, tiểu ngắt quãng.",
+     "k": 1,
+     "y": "Tia tiểu yếu: NTĐT không điển hình (NICE NG224 Hộp 1, mục 1.1.24)"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Bé 3–4 ngày mới đi ngoài một lần, phân cứng như viên, đau khi rặn; lần gần nhất cách đây 5 ngày.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không nhắc vì cho là 'bé nóng trong'. Chỉ kể khi bác sĩ hỏi về đại tiện, phân, uống nước.",
+     "k": 1,
+     "y": "Táo bón: yếu tố nguy cơ NTĐT (QĐ 3312 mục 3.2)"
+    },
+    {
+     "id": "nhin_tieu",
+     "noi_dung": "Ở lớp bé hay nhịn tiểu vì nhà vệ sinh của trường hôi, tối; cô giáo nói bé hay ngồi nhịn, chạy ra thì đã són. Ở nhà bé uống ít nước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ hỏi về thói quen đi tiểu ở trường, nhà vệ sinh, uống nước, hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Nhịn tiểu, uống ít nước: yếu tố nền gây tái phát (NICE NG224 mục 1.2.10–1.2.12)"
+    },
+    {
+     "id": "tien_su_sot_tieu",
+     "noi_dung": "Khoảng 8 tháng trước bé có một đợt sốt 2 ngày kèm tiểu đục, mẹ mua thuốc cho uống rồi hết, không xét nghiệm nước tiểu. Chưa siêu âm thận bao giờ. Sinh đủ tháng, không dị ứng thuốc; trong họ không ai bị bệnh thận hay sỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử nghi NTĐT cũ, tiền sử gia đình (NICE NG224 mục 1.1.24)"
+    },
+    {
+     "id": "loai_vct",
+     "noi_dung": "Không phù mi mắt, mặt, chân. Không tiểu đỏ hay nâu như nước trà, không đau đầu. Sáu tuần qua không đau họng kéo dài, không nhọt, ghẻ hay chốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm cầu thận sau nhiễm trùng (QĐ 2388/2024, VCT thứ phát mục 3.1, 4.1)"
+    },
+    {
+     "id": "ho_mui_lop",
+     "noi_dung": "Hai ngày nay bé ho nhẹ, sổ mũi trong. Tuần này lớp có nhiều bạn sốt, ho, sổ mũi nên mẹ nghĩ bé 'lây bạn'. Không đau tai, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát: cơn trùng đợt với bệnh trong lớp"
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Nhà cách phòng khám khoảng 60 km, mỗi ngày hai chuyến xe khách; trạm y tế xã cách nhà 3 km; điện thoại mẹ liên lạc được. Mẹ làm công nhân thời vụ, nghỉ ngày nào mất tiền công ngày đó; chồng đi làm xa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám: hạ ngưỡng an toàn, viết giấy dặn, hẹn gọi điện"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà nội nghe nói trẻ sốt kéo dài mà không đi khám thì 'hư thận', cứ gọi điện bắt mẹ đưa đi bằng được; chồng cũng nhắn hối. Chị Thảo nghĩ bé 'lây của lớp', chỉ muốn xin thêm thuốc rồi về cho kịp chuyến xe chiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: gia đình thúc ép đi khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hơi mệt, bám mẹ nhưng phản ứng bình thường với người lạ. Môi hồng, niêm mạc miệng ẩm, khóc có nước mắt, thời gian đổ đầy mao mạch dưới 3 giây. Không phù mi mắt, không phù chân.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 16 kg, chiều cao 103 cm. Không sụt cân. Ngưỡng đánh giá theo tuổi: không có trong tài liệu đã tải.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không mủ; dịch mũi trong; màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, không co lõm lồng ngực. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn vùng trên xương mu bé nhăn mặt, né tay. Hố chậu trái sờ thấy khối phân cứng, di động. Gan, lách không to, không sờ thấy khối thận hay khối bất thường.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên: ấn và vỗ nhẹ bé không phản ứng. Trên xương mu ấn đau nhẹ, cầu bàng quang không căng.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Mẫu nước tiểu mới: vàng sậm, đục như nước vo gạo, mùi khai nồng, không thấy máu bằng mắt.",
+     "k": 1
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Bao quy đầu lột được hết, quy đầu không đỏ, không sưng, không mủ; miệng sáo ở đầu quy đầu, tròn, không dịch.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không chốc lở, không ghẻ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Tổng phân tích nước tiểu giữa dòng: bạch cầu +++ (≈ 500 Leu/µL), nitrit âm tính, protein âm, hồng cầu âm, glucose âm, tỷ trọng 1,025.",
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 6.0,
+      "u_leu": "+++ (≈ 500 Leu/µL)",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "NICE NG224 Bảng 2 (≥ 3 tuổi): bạch cầu esterase dương, nitrit âm → gửi cấy, cho kháng sinh khi có triệu chứng tiểu rõ (như bé này). Nitrit âm không loại trừ (AAP 2011 Bảng 1, tr. 599: độ nhạy nitrit 53%). Bé 4 tuổi lấy được nước tiểu giữa dòng (QĐ 3312 mục 6; EAU-ESPU 2025 Bảng 1 tr. 198). WHO 2013 mục 6.8: dipstick bạch cầu dương đủ nghĩ NTĐT."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu: bạch cầu esterase +++, nitrit âm tính, protein âm, hồng cầu âm, glucose âm.",
+     "n": "Làm que thử hoặc tổng phân tích đều được (NICE NG224 mục 1.1.19–1.1.20; QĐ 3312 mục 6: que thử là test sàng lọc)."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Đã hứng nước tiểu giữa dòng sau khi rửa sinh dục, gửi phòng xét nghiệm tỉnh. Chưa có kết quả, cần 48–72 giờ; phòng khám sẽ nhận kết quả qua điện thoại.",
+     "n": "Lấy trước liều kháng sinh đầu của phòng khám (NICE NG224 mục 1.1.11); cần cấy vì nghi NTĐT trên, nghi tái phát (mục 1.1.21, 1.1.25); AWaRe 2022 tr. 282: luôn cấy ở trẻ. Dương tính: > 10^5 khuẩn lạc/mL giữa dòng (QĐ 3312 mục 6) hoặc ≥ 50.000 CFU/mL kèm bạch cầu niệu (AAP 2011 Action Statement 3). Kháng sinh tự mua có thể làm cấy thấp giả (AAP 2011 tr. 597)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,6 G/L · Neutrophil 72% · Hb 118 g/L · TC 318 G/L",
+     "bang": {
+      "wbc": 13.6,
+      "neu_pct": 72.0,
+      "neu": 9.79,
+      "lym_pct": 20.0,
+      "lym": 2.72,
+      "mono_pct": 6.0,
+      "mono": 0.82,
+      "eos_pct": 2.0,
+      "eos": 0.27,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.6,
+      "hgb": 118,
+      "hct": 0.35,
+      "mcv": 76.0,
+      "mch": 25.7,
+      "mchc": 337,
+      "rdw": 13.5,
+      "plt": 318
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; tham chiếu Hb, bạch cầu cho trẻ 4 tuổi: không có trong tài liệu đã tải.",
+     "n": "Không bắt buộc ở ca nhẹ (AWaRe 2022 tr. 478: công thức máu, CRP cho ca nặng). BC 13,6 G/L dưới ngưỡng 15.000/mm³ của 'NTĐT cao' (QĐ 3312 mục 7)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 34 mg/L",
+     "bang": {
+      "crp": 34
+     },
+     "n": "CRP 34 mg/L dưới ngưỡng 40 mg/L của 'NTĐT cao' (QĐ 3312 mục 7). Không dùng CRP đơn độc để phân biệt NTĐT trên và dưới (NICE NG224 mục 1.1.27)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 3,4 mmol/L · Creatinin 36 µmol/L",
+     "bang": {
+      "ure": 3.4,
+      "creat": 36
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in là của người lớn nên creatinin trẻ nhỏ hiện '↓'; tham chiếu trẻ 4 tuổi: không có trong tài liệu đã tải.",
+     "n": "Creatinin tăng là dấu NTĐT không điển hình (NICE NG224 Hộp 1) và cần khi nghĩ viêm cầu thận (QĐ 2388/2024 mục 3.2). Làm hay không đều chấp nhận được."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Hai thận kích thước và độ hồi âm nhu mô bình thường, không ứ nước, không sỏi. Bàng quang thành hơi dày, sau khi tiểu còn ít nước tiểu tồn lưu. Trực tràng chứa nhiều phân.",
+     "n": "QĐ 3312 mục 6: siêu âm cho mọi trẻ NTĐT; NICE NG224 mục 1.3.1: ngay khi NTĐT không điển hình (tia tiểu yếu, Hộp 1), còn Bảng 6 (≥ 3 tuổi) không siêu âm khi đáp ứng tốt trong 48 giờ; EAU-ESPU 2025 Bảng 1: trong 24 giờ cho trẻ nhỏ sốt và trẻ ốm nặng. Ngưỡng đo trên siêu âm: không có trong tài liệu đã tải."
+    },
+    "pct": {
+     "n": "Không cần: không làm thường quy vì giá thành (QĐ 3312 mục 6); AWaRe 2022 tr. 478 chỉ cho ca nặng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm trùng đường tiểu có sốt ở bé trai 4 tuổi (thể nhẹ, chưa biến chứng), nghi lần thứ hai; chưa có kết quả cấy",
+     "ok": 1,
+     "n": "Sốt, tiểu rát, tiểu nhiều lần, nước tiểu đục hôi, tè dầm mới (NICE NG224 Bảng 1); bạch cầu esterase +++ (QĐ 3312 mục 6; WHO 2013 mục 6.8). Phân độ khác nhau: QĐ 3312 mục 7 xếp 'thấp' (sốt < 38,5 °C, CRP < 40 mg/L, BC < 15.000/mm³), NICE NG224 mục 1.1.25 coi là NTĐT trên (khuẩn niệu + sốt ≥ 38 °C); cả hai đều cho điều trị uống ở bé này. Tia tiểu yếu và đợt sốt tiểu đục cách 8 tháng gợi thể không điển hình, nguy cơ tái phát."
+    },
+    {
+     "t": "Sốt siêu vi trong đợt dịch của lớp (viêm hô hấp trên)",
+     "n": "Ho nhẹ, sổ mũi có thật nhưng không giải thích tiểu rát, tiểu đục, tè dầm mới và bạch cầu niệu +++; tai, họng, phổi không có dữ kiện làm giảm khả năng NTĐT (NICE NG224 Bảng 1, mục 1.1.4). Đồng nhiễm được, nhưng không bỏ qua nước tiểu."
+    },
+    {
+     "t": "Viêm cầu thận cấp (sau nhiễm trùng)",
+     "n": "Không phù, không tiểu đỏ hay nâu, không protein niệu, hồng cầu niệu âm, creatinin bình thường; không viêm họng hay nhiễm da trước đó (QĐ 2388/2024, VCT sau nhiễm trùng mục 3.1, 3.2, 4.1). Bạch cầu niệu +++ và nước tiểu đục không phải bệnh cảnh cầu thận."
+    },
+    {
+     "t": "Trào ngược bàng quang-niệu quản (VUR) hoặc dị tật đường tiết niệu",
+     "n": "Chưa khẳng định hay loại trừ được ở phòng khám không có X-quang (chụp bàng quang ngược dòng cần X-quang); siêu âm lượt này không ứ nước. Không chụp thường quy sau NTĐT lần đầu (AAP 2011 6a; NICE NG224 mục 1.3.7, Bảng 6); QĐ 3312 mục 6 chỉ chụp khi siêu âm bất thường hoặc NTĐT trên tái phát lần 2, nên 2–6 tuần sau nhiễm trùng. Tái phát hoặc không đáp ứng thì khảo sát thêm (AAP 6b)."
+    },
+    {
+     "t": "Viêm hoặc hẹp bao quy đầu gây tiểu buốt",
+     "n": "Bao quy đầu lột được, quy đầu không đỏ, không mủ (hẹp bao quy đầu là yếu tố nguy cơ NTĐT, QĐ 3312 mục 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hứng nước tiểu giữa dòng sạch, làm que thử hoặc tổng phân tích và gửi cấy TRƯỚC liều kháng sinh đầu tiên",
+     "v": "c",
+     "n": "NICE NG224 mục 1.1.11, 1.1.13, Bảng 2; QĐ 3312 mục 6; AWaRe 2022 tr. 282, 479."
+    },
+    {
+     "t": "Bắt đầu kháng sinh uống ngay, không chờ cấy: cefixim (hoặc cefuroxim, amoxicillin-clavulanat), tổng 7 ngày",
+     "v": "c",
+     "n": "Bạch cầu esterase dương cộng triệu chứng tiểu rõ là đủ điều trị (NICE NG224 Bảng 2; WHO 2013 mục 6.8). Cefixim 8–10 mg/kg/ngày chia 2 (QĐ 3312 mục 8.1) hoặc 8 mg/kg/ngày 1 lần (AAP 2011 Bảng 3, tr. 602). Thời gian: 5–7 ngày (QĐ 3312 mục 8.1, NTĐT dưới), 7–14 (AAP 4b), 4–7 (EAU-ESPU 2025), 7–10 (WHO 2013), 7 ngày (AWaRe 2022 tr. 479): 7 ngày nằm trong mọi khoảng. Chọn thuốc theo kháng sinh đồ khi có (AAP 4a). Xem sổ mâu thuẫn NH-1161."
+    },
+    {
+     "t": "Ngưng gói thuốc kháng sinh tự mua không rõ tên, dặn không tự mua thuốc",
+     "v": "c",
+     "n": "Không biết tên, liều, thời gian; đã uống 2 ngày vẫn sốt. Tác hại cụ thể của thuốc đó: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 200 mg/lần khi bé khó chịu, không dùng ibuprofen hay NSAID",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50: 10–15 mg/kg mỗi 6 giờ, 15–<20 kg: 200 mg; trần 60 mg/kg/24 giờ (QĐ 708/2015, Viêm màng não mủ mục 4.2); NICE NG143 mục 1.6.4–1.6.6; WHO 2013 mục 6.8: tránh NSAID."
+    },
+    {
+     "t": "Uống nước đều, đi tiểu đúng giờ không nhịn, điều trị táo bón",
+     "v": "c",
+     "n": "NICE NG224 mục 1.2.10–1.2.12; QĐ 3312 mục 3.2, mục 10; thuốc nhuận tràng xem đơn thuốc."
+    },
+    {
+     "t": "Kế hoạch trọn gói cho gia đình ở xa: giấy dặn, số điện thoại phòng khám, hẹn gọi điện sau 48 giờ báo tình hình và nhận kết quả cấy, quay lại ngay nếu còn sốt; nhờ trạm y tế xã khi không đi được",
+     "v": "c",
+     "n": "Đáp ứng thường thấy trong 48–72 giờ, nếu không phải tìm biến chứng (AWaRe 2022 tr. 479); không đáp ứng sau 24–48 giờ (NICE NG224 mục 1.1.21; AAP 4a). Nói rõ lý do, mục đích điều trị, phòng ngừa (NICE NG224 mục 1.6.1–1.6.3). Số điện thoại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Siêu âm thận – bàng quang ngay tại phòng khám",
+     "v": "a",
+     "n": "QĐ 3312 mục 6 (mọi trẻ NTĐT); NICE NG224 mục 1.3.1 vì tia tiểu yếu; NICE Bảng 6 không đòi ở trẻ ≥ 3 tuổi đáp ứng tốt; EAU-ESPU 2025 Bảng 1: làm hay không đều chấp nhận được."
+    },
+    {
+     "t": "Làm công thức máu, CRP, ure – creatinin",
+     "v": "a",
+     "n": "QĐ 3312 mục 6 (xác định mức độ); AWaRe 2022 tr. 478 cho ca nặng; không bắt buộc ở ca nhẹ."
+    },
+    {
+     "t": "Cho nitrofurantoin (hoặc co-trimoxazole) uống",
+     "v": "w",
+     "n": "Nitrofurantoin chỉ cho NTĐT dưới không sốt (AWaRe 2022 tr. 283); AAP 2011 tr. 602: không dùng cho NTĐT có sốt vì nồng độ nhu mô, huyết thanh có thể không đủ điều trị viêm thận bể thận hay nhiễm khuẩn huyết. Bé sốt 38,4 °C."
+    },
+    {
+     "t": "Chỉ hạ sốt, nói bé 'lây của lớp', không lấy nước tiểu và không cho kháng sinh",
+     "v": "w",
+     "n": "Bỏ sót NTĐT (NICE NG224 mục 1.1.1, Bảng 1); chẩn đoán muộn dễ để lại sẹo thận (AAP 2011 tr. 597)."
+    },
+    {
+     "t": "Chụp bàng quang ngược dòng hoặc xạ hình thận ngay trong đợt cấp",
+     "v": "w",
+     "n": "AAP 2011 6a; NICE NG224 mục 1.3.7: không chụp thường quy lần đầu; QĐ 3312 mục 6: 2–6 tuần sau nhiễm trùng; DMSA 4–6 tháng sau (NICE mục 1.3.5); phòng khám không có X-quang."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm trùng đường tiểu có sốt ở bé trai 4 tuổi, thể nhẹ, chưa biến chứng, chưa có kết quả cấy",
+     "Yếu tố thuận lợi: táo bón, nhịn tiểu ở lớp, uống ít nước, tia tiểu yếu; đợt sốt tiểu đục cách 8 tháng nghi là NTĐT đầu",
+     "Đã dùng kháng sinh tự mua không rõ tên 2 ngày, không đáp ứng",
+     "Không phải viêm cầu thận; trào ngược bàng quang-niệu quản chưa loại trừ được ở cơ sở không có X-quang",
+     "Gia đình ở xa 60 km: cần kế hoạch theo dõi có mốc, viết giấy"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là NTĐT: sốt 3 ngày, tiểu rát, tiểu nhiều lần, nước tiểu đục hôi, tè dầm mới làm tăng khả năng NTĐT (NICE NG224 Bảng 1); bạch cầu niệu +++ (QĐ 3312 mục 6). Ho, sổ mũi có thật nhưng không giải thích triệu chứng tiểu; 'cơn trùng đợt' với bệnh trong lớp là chỗ dễ neo vào 'cúm lây của lớp'.",
+     "Phân độ có hai cách, cả hai đến điều trị uống: QĐ 3312 mục 7 xếp NTĐT 'thấp' (sốt 38,4 < 38,5; CRP 34 < 40; BC 13,6 < 15.000); NICE NG224 mục 1.1.25 coi là NTĐT trên (khuẩn niệu + sốt ≥ 38 °C) nhưng không đòi nhập viện. Khác nhau do ngưỡng định nghĩa khác.",
+     "Vì sao ngoại trú: WHO 2013 mục 6.8 trừ nhập viện khi sốt cao kèm ói hoặc không uống được, đau hông lưng, nhũ nhi; bé không có. AWaRe 2022 tr. 478–479: thể nhẹ (không nôn, sốt nhẹ) uống được; AAP 4a: uống nếu không nhiễm độc. Vì ở xa nên ngưỡng quay lại phải thấp và rõ.",
+     "Cờ đỏ: tia tiểu yếu (không điển hình, tắc nghẽn: NICE NG224 Hộp 1), đã 2 ngày kháng sinh vẫn sốt, đợt sốt tiểu đục cũ, ở xa. Chưa có dấu nặng nhưng nếu còn sốt sau 48–72 giờ phải tìm biến chứng (AWaRe 2022 tr. 479).",
+     "Loại trừ: viêm cầu thận (không phù, tiểu máu, protein niệu, tăng huyết áp: QĐ 2388/2024 mục 3.1, 4.1). VUR: không chụp thường quy lần đầu (AAP 6a; NICE mục 1.3.7), phòng khám không có X-quang nên theo dõi có mốc; không đáp ứng hay tái phát thì khảo sát thêm (AAP 6b)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nước tiểu giữa dòng trước kháng sinh (NICE NG224 mục 1.1.11) rồi cho kháng sinh ngay (Bảng 2): cefixim 8–10 mg/kg/ngày chia 2 (QĐ 3312 mục 8.1) hoặc 8 mg/kg/ngày 1 lần (AAP Bảng 3). Tổng 7 ngày nằm trong các khoảng của QĐ 3312 (5–7), AAP (7–14), EAU-ESPU 2025 (4–7), WHO (7–10), AWaRe (7); QĐ 3312 mục 8.1 coi NTĐT trên cần 14 ngày (tiêm đến khi hết sốt rồi uống): ghi cả hai, nên mốc 48–72 giờ phải rõ.",
+     "Hạ sốt chỉ khi khó chịu (NICE NG143 mục 1.6.4–1.6.6), tránh NSAID (WHO 2013 mục 6.8). Xử lý nền: nước, tiểu đúng giờ, trị táo bón (NICE NG224 mục 1.2.10–1.2.12). Không dự phòng kháng sinh thường quy sau lần đầu (NICE mục 1.2.13); QĐ 3312 mục 8.3 chỉ khi VUR ≥ độ III, tắc nghẽn hoặc tái phát.",
+     "Theo dõi: hẹn gọi điện 48 giờ (NICE NG224 mục 1.1.21, AAP 4a: 24–48 giờ; AWaRe 2022 tr. 479: 48–72 giờ). Xét nghiệm nước tiểu lại khi hết thuốc: QĐ 3312 mục 8.1 coi theo dõi tế bào nước tiểu là bắt buộc, NICE NG224 mục 1.5.9 không đòi nếu hết triệu chứng: ghi cả hai."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cefixim (gói bột hoặc hỗn dịch cho trẻ)",
+      "ham_luong": "Theo sản phẩm sẵn có (hàm lượng: không có trong tài liệu đã tải)",
+      "lieu": "80 mg/lần × 2 lần/ngày (≈ 10 mg/kg/ngày; QĐ 3312: 8–10 mg/kg/ngày chia 2) hoặc 130 mg × 1 lần/ngày (8 mg/kg/ngày; AAP 2011 Bảng 3)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối cách nhau khoảng 12 giờ",
+      "so_ngay": "7 ngày; đổi hoặc kéo dài theo kháng sinh đồ và đáp ứng",
+      "ghi_chu": "QĐ 3312 mục 8.1; AAP 2011 Bảng 3, 4a, 4b; AWaRe 2022 tr. 479. Thay thế: cefuroxim axetil 20 mg/kg/ngày chia 2 (QĐ 3312; AAP 20–30 mg/kg/ngày chia 2); amoxicillin-clavulanat 50 mg/kg/ngày chia 2 (QĐ 3312) hoặc 20–40 mg/kg/ngày chia 3 (AAP) hoặc amoxicillin 80–90 mg/kg/ngày chia 2, 15–<20 kg: 750 mg mỗi 12 giờ (AWaRe tr. 283)."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "200 mg/lần (10–15 mg/kg = 160–240 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé mệt, quấy; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày)",
+      "ghi_chu": "AWaRe 2022 tr. 50; QĐ 708/2015 (Viêm màng não mủ mục 4.2); NICE NG143 mục 1.6.4–1.6.6; không ibuprofen (WHO 2013 mục 6.8)."
+     },
+     {
+      "thuoc": "Macrogol (PEG 3350 không điện giải)",
+      "ham_luong": "Gói bột pha uống (hàm lượng: không có trong tài liệu đã tải)",
+      "lieu": "Làm sạch phân ứ 1–1,5 g/kg/ngày × 3 ngày (QĐ 3312, Táo bón mục 5.2b) hoặc tối đa 6 ngày liên tiếp (ESPGHAN 2014 Bảng 6); duy trì 0,4 g/kg/ngày (≈ 6,4 g), chỉnh 0,2–0,8 (ESPGHAN 2014, Bảng 6, khuyến cáo 33) hoặc 1 g/kg/ngày (QĐ 3312, mục 5.2c); 0,4 thận trọng hơn",
+      "duong": "Uống, pha nước",
+      "thoi_diem": "Mỗi ngày, cùng giờ",
+      "so_ngay": "Đến khi đi ngoài phân mềm đều; thời gian: không có trong tài liệu đã tải",
+      "ghi_chu": "Hố chậu trái có khối phân, 5 ngày chưa đi ngoài; NICE NG224 mục 1.2.10; QĐ 3312 (Táo bón mục 5.2); ESPGHAN 2014."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay lấy nước tiểu gửi cấy; kết quả sau 48–72 giờ, phòng khám gọi báo (ghi số điện thoại phòng khám vào giấy dặn). Chị gọi lại sau 48 giờ báo bé khá hay không (AWaRe 2022 tr. 479).",
+     "Cho bé uống cefixim đủ 7 ngày, đúng giờ, kể cả khi hết sốt; không tự ngưng, không tự mua thuốc (NICE NG224 mục 1.6.1). Nếu bé nôn ra thuốc, báo lại (liều bù: không có trong tài liệu đã tải).",
+     "Đưa bé đến trạm y tế hoặc quay lại phòng khám ngay nếu: còn sốt sau 48 giờ, nôn, đau lưng hay đau hông, li bì khó đánh thức, uống ít hoặc không uống được, co giật, tiểu ít (WHO 2013 mục 6.8; AWaRe 2022 tr. 478–479; NICE NG143 mục 1.7.3).",
+     "Hạ sốt bằng paracetamol 200 mg khi bé mệt, quấy; không dùng ibuprofen; không ủ quá ấm (NICE NG143 mục 1.6.3).",
+     "Cho bé uống nước đều, nhắc đi tiểu theo giờ, không nhịn; nhờ cô giáo cho bé đi vệ sinh khi bé muốn (NICE NG224 mục 1.2.11–1.2.12). Cho uống macrogol mỗi ngày, ăn rau trái cây, tập ngồi bô sau bữa ăn (QĐ 3312 Táo bón mục 5.2).",
+     "Bệnh có thể tái phát: bé lại sốt, tiểu rát hay tè dầm thì lấy nước tiểu sớm, không tự mua kháng sinh (NICE NG224 mục 1.6.2). Nếu còn sốt sau 48–72 giờ bác sĩ sẽ tìm nguyên nhân và có thể chuyển tuyến.",
+     "Với bà nội và gia đình: đã khám, lấy nước tiểu, cho thuốc đúng; bệnh chữa được nếu đủ thuốc và theo dõi, chưa cần chuyển viện hôm nay."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày điều trị",
+   "tiep_don": "Tái khám sau 3 ngày uống kháng sinh. Chiều qua mẹ gọi điện báo bé vẫn sốt nên được dặn đi chuyến xe sớm nhất; hôm nay mẹ đưa bé lên từ sáng. Bé sốt cao, nôn, kêu đau lưng bên phải. Sinh hiệu: nhiệt 39,3 °C, mạch 132 l/p, nhịp thở 28 l/p, SpO₂ 98%, HA 94/56. Phòng xét nghiệm tỉnh đã trả kết quả cấy nước tiểu của lượt 1.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Đổi sang một kháng sinh uống khác (vd ciprofloxacin) rồi hẹn gọi điện sau 2 ngày là sai với bé Khôi: bé sốt 39,3 °C, nôn, đau hông lưng phải, trong khi cấy nhạy cefixim nên không phải do kháng thuốc. Chỉ thể nhẹ (không nôn, sốt nhẹ) mới uống ngoại trú, còn lại cần tiêm và nhập viện; không đáp ứng sau 48–72 giờ phải tìm biến chứng như áp xe (AWaRe 2022 tr. 478–479; AAP 2011 Action Statement 4a). Nhà cách 60 km, ổ viêm thận có thể thành áp xe, nhiễm khuẩn huyết, về sau tăng huyết áp, suy thận (QĐ 3312 mục 9); tỉ lệ cụ thể: không có trong tài liệu đã tải.",
+    "theo_doi": "Giữ bé Khôi ở phòng khám, tiêm ceftriaxone mỗi ngày rồi theo dõi là không đủ: phòng khám không có giường lưu, không có X-quang để chụp bàng quang ngược dòng, không có CT hay MRI để nhìn ổ mủ, và không dẫn lưu được nếu ổ viêm thành áp xe (QĐ 3312 mục 8.2; EAU-ESPU 2025 Bảng 1: cân nhắc dẫn lưu khi không đáp ứng kháng sinh). Bé đang nôn, môi khô, cần bù dịch và theo dõi liên tục. Mất thêm 1–2 ngày rồi vẫn phải chuyển trong khi bé nặng hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu uống thuốc ba hôm mà vẫn sốt, bữa nay còn ói, kêu đau lưng nữa. Em sợ quá.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "94/56",
+    "nhiet": "39,3",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Uống cefixim đủ 6 liều như dặn, đúng giờ (sáng nay bé nôn ra liều thứ 7). Sốt vẫn 38,5–39,5 °C, hạ rồi tăng lại sau paracetamol. Bé mệt lả hơn, ăn gần như không, uống ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đáp ứng sau 72 giờ kháng sinh uống"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Từ tối qua bé nôn 2 lần, sáng nay nôn ra cả thuốc. Không nôn ra máu hay dịch xanh. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: mất tiêu chuẩn điều trị uống (WHO 2013 mục 6.8; AWaRe 2022 tr. 478)"
+    },
+    {
+     "id": "dau_lung",
+     "noi_dung": "Bé kêu đau bên lưng phải, đau khi cựa quậy hoặc khi mẹ vỗ nhẹ; không đau lưng bên trái. Hôm kia chưa kêu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau hông lưng: dấu hiệu viêm thận – bể thận (WHO 2013 mục 6.8; AWaRe 2022 tr. 478)"
+    },
+    {
+     "id": "tieu_tiet2",
+     "noi_dung": "Bé tiểu đỡ rát hơn nhưng nước tiểu còn đục, ít hơn hôm trước vì uống ít. Không tiểu đỏ, không tiểu ít hẳn trong 12 giờ qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiểu và lượng nước tiểu"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ ghi giờ cho uống trên giấy dặn. Đã ngưng gói thuốc bột mua ở tiệm. Chỉ cho paracetamol 200 mg khi sốt, không cho ibuprofen hay thuốc nào khác. Sau khi uống macrogol 2 ngày bé đi ngoài 1 lần, phân cứng, vẫn đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thuốc đang dùng, loại trừ thất bại do không dùng thuốc"
+    },
+    {
+     "id": "loai_vct2",
+     "noi_dung": "Mi mắt và chân không phù, không tiểu đỏ hay nâu, không đau đầu, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ viêm cầu thận"
+    },
+    {
+     "id": "xa_chuyen",
+     "noi_dung": "Chị Thảo ngại chuyển viện vì nhà xa, chồng ở xa, sợ nằm viện lâu mất tiền công và không ai trông thằng lớn ở nhà; bà nội thì nói 'uống thuốc không hết là thuốc dở, xin tiêm cho nhanh'. Chị đồng ý chuyển khi được giải thích rõ vì sao tiêm tại đây là chưa đủ và bé cần đi cùng nhân viên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám: thuyết phục chuyển tuyến bằng lý do cụ thể"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé mệt lả, lừ đừ hơn nhưng gọi thì mở mắt, trả lời ngắn. Môi khô, khóc ít nước mắt, thời gian đổ đầy mao mạch khoảng 3 giây. Không phù mi mắt, không phù chân.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 132 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p, không co lõm lồng ngực. Rì rào phế nang rõ, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 28 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Ấn vùng mạn sườn phải bé đau, khóc; không sờ thấy khối thận. Hố chậu trái còn khối phân cứng. Gan, lách không to.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng phải: ấn và vỗ nhẹ bé khóc, né tay. Hố thắt lưng trái không đau. Trên xương mu ít đau hơn hôm trước, cầu bàng quang không căng.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Mẫu mới: vàng sậm, còn đục, mùi khai, lượng ít; không thấy máu bằng mắt.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh khi gọi, cổ mềm, không dấu màng não, không co giật.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Kết quả mẫu giữa dòng lấy ở lượt 1 (phòng xét nghiệm tỉnh trả về): Escherichia coli > 10^5 khuẩn lạc/mL. Kháng sinh đồ: nhạy cefixim, cefuroxim, ceftriaxon, amikacin, ciprofloxacin; kháng amoxicillin và co-trimoxazole.",
+     "n": "Dương tính: > 10^5 khuẩn lạc/mL giữa dòng (QĐ 3312 mục 6), ≥ 50.000 CFU/mL kèm bạch cầu niệu (AAP 2011 Action Statement 3). Vi khuẩn nhạy thuốc đã dùng nên không giải thích được việc không đáp ứng: phải tìm biến chứng (AWaRe 2022 tr. 479). E. coli chiếm 90% NTĐT (QĐ 3312 mục 3.1)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tổng phân tích nước tiểu: bạch cầu +++, nitrit dương tính, protein âm, hồng cầu âm, tỷ trọng 1,028.",
+     "bang": {
+      "u_sg": 1.028,
+      "u_ph": 6.0,
+      "u_leu": "+++ (≈ 500 Leu/µL)",
+      "u_nit": "Dương tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Protein, hồng cầu vẫn âm: không hướng viêm cầu thận (QĐ 2388/2024 mục 3.2, 4.1). NICE NG224 mục 1.5.9 chỉ không đòi lặp khi hết triệu chứng."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 19,8 G/L · Neutrophil 84% · Hb 114 g/L · TC 406 G/L",
+     "bang": {
+      "wbc": 19.8,
+      "neu_pct": 84.0,
+      "neu": 16.63,
+      "lym_pct": 10.0,
+      "lym": 1.98,
+      "mono_pct": 5.0,
+      "mono": 0.99,
+      "eos_pct": 1.0,
+      "eos": 0.2,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.5,
+      "hgb": 114,
+      "hct": 0.34,
+      "mcv": 76.0,
+      "mch": 25.3,
+      "mchc": 335,
+      "rdw": 13.8,
+      "plt": 406
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; tham chiếu cho trẻ 4 tuổi: không có trong tài liệu đã tải.",
+     "n": "BC > 15.000/mm³ thuộc 'NTĐT cao' (QĐ 3312 mục 7: sốt > 38,5 °C, CRP > 40 mg/L, BC > 15.000/mm³)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 96 mg/L",
+     "bang": {
+      "crp": 96
+     },
+     "n": "CRP > 40 mg/L (QĐ 3312 mục 7). Không dùng CRP đơn độc để phân biệt NTĐT trên và dưới (NICE NG224 mục 1.1.27)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,8 mmol/L · Creatinin 41 µmol/L",
+     "bang": {
+      "ure": 4.8,
+      "creat": 41
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in là của người lớn nên creatinin trẻ nhỏ hiện '↓'; tham chiếu trẻ 4 tuổi: không có trong tài liệu đã tải.",
+     "n": "Chức năng thận bảo tồn, không hướng viêm cầu thận cấp (QĐ 2388/2024 mục 3.2). Creatinin tăng là NTĐT không điển hình (NICE NG224 Hộp 1)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Thận phải to hơn thận trái, nhu mô tăng âm, cực dưới có vùng giảm âm khu trú ranh giới không rõ, chưa thấy ổ dịch hóa lỏng rõ; bể thận phải giãn nhẹ, không thấy sỏi. Thận trái bình thường. Bàng quang thành dày, còn nước tiểu tồn lưu. Phân ứ ở trực tràng.",
+     "n": "Không đáp ứng sau 48 giờ là NTĐT không điển hình, siêu âm khi còn nhiễm trùng cấp (NICE NG224 mục 1.3.1, Hộp 1). AAP 2011 Action Statement 5 (tr. 603): siêu âm trong 2 ngày đầu khi không đỡ, tìm áp xe thận, quanh thận, ứ mủ bể thận do tắc nghẽn; E. coli có thể gây giãn thoáng qua nên giãn nhẹ chưa đồng nghĩa VUR hay tắc nghẽn. Siêu âm phòng khám không thay CT hoặc MRI; ngưỡng đo: không có trong tài liệu đã tải."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Đã lấy 1 mẫu cấy máu trước kháng sinh tiêm, gửi theo bé lên tuyến trên (kết quả sau 48–72 giờ).",
+     "n": "AWaRe 2022 tr. 478–479: ca nặng cấy máu, tốt nhất trước kháng sinh. Tuyến trên sẽ lấy nếu phòng khám không làm được."
+    },
+    "pct": {
+     "n": "Không cần: không làm thường quy vì giá thành, không đổi hướng xử trí (QĐ 3312 mục 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm trùng đường tiểu trên do E. coli (viêm thận – bể thận cấp bên phải) không đáp ứng sau 72 giờ kháng sinh uống nhạy, nghi biến chứng thận (viêm thận khu trú hay ổ mủ đang hình thành) ± tắc nghẽn hay trào ngược; cần kháng sinh tiêm và khảo sát tại tuyến trên",
+     "ok": 1,
+     "n": "Sốt 39,3 °C, đau hông lưng phải, nôn, bạch cầu niệu +++, nitrit dương, BC 19,8 G/L, CRP 96 mg/L (QĐ 3312 mục 7: NTĐT cao; NICE NG224 mục 1.1.25), cấy E. coli > 10^5. Thuốc nhạy, đủ liều mà không đáp ứng sau 48–72 giờ nghĩa là biến chứng hoặc yếu tố cấu trúc (AWaRe 2022 tr. 479; NICE NG224 Hộp 1; AAP 2011 tr. 603). Chẩn đoán đích không đổi: NTĐT, nay là thể trên có biến chứng."
+    },
+    {
+     "t": "Thất bại do vi khuẩn kháng cefixim",
+     "n": "Cấy nhạy cefixim, ceftriaxon, amikacin (AAP 2011 Action Statement 4a; AWaRe 2022 tr. 479: xem lại cấy xác nhận nhạy)."
+    },
+    {
+     "t": "Thất bại do không dùng thuốc đúng hoặc sai thuốc",
+     "n": "Uống đủ 6 liều, đúng giờ, có ghi giờ; chỉ liều thứ 7 sáng nay nôn ra. Thuốc, liều theo QĐ 3312 mục 8.1 và AAP 2011 Bảng 3. Gói thuốc tự mua đã ngưng."
+    },
+    {
+     "t": "Viêm cầu thận cấp (sau nhiễm trùng)",
+     "n": "Vẫn không phù, tiểu máu, protein niệu; creatinin bình thường (QĐ 2388/2024 mục 3.1, 3.2, 4.1). Sốt cao, đau hông lưng một bên, bạch cầu niệu +++, cấy dương là NTĐT."
+    },
+    {
+     "t": "Trào ngược bàng quang-niệu quản hoặc tắc nghẽn đường niệu (nguyên nhân nền)",
+     "n": "Chưa loại trừ ở phòng khám không có X-quang; bể thận giãn nhẹ có thể do nhiễm trùng cấp (AAP 2011 tr. 602–603). Chụp bàng quang ngược dòng khi siêu âm có bất thường (AAP 6a; QĐ 3312 mục 6, 2–6 tuần sau nhiễm trùng); NICE NG224 Bảng 6 (≥ 3 tuổi) không chụp thường quy; DMSA 4–6 tháng (mục 1.3.5). Tuyến trên quyết định."
+    },
+    {
+     "t": "Viêm màng não hoặc nhiễm khuẩn huyết",
+     "n": "Bé tỉnh khi gọi, cổ mềm, không co giật, HA 94/56, mạch 132 dưới ngưỡng 140 l/p (NICE NG143 Bảng 1); nhưng sốt cao, nôn, lừ đừ, không đáp ứng kháng sinh nên cần theo dõi sát, cấy máu ở tuyến trên (AWaRe 2022 tr. 478)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra không đáp ứng sau 72 giờ (còn sốt 39,3 °C, thêm nôn, đau hông lưng phải) và mở lại hồ sơ: xem cấy, tìm biến chứng, không chỉ đổi thuốc uống",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 479: tìm biến chứng (vd áp xe) và xem lại cấy khi không đáp ứng sau 48–72 giờ; NICE NG224 Hộp 1, mục 1.1.21; AAP 2011 Action Statement 4a."
+    },
+    {
+     "t": "Siêu âm thận – bàng quang ngay hôm nay",
+     "v": "c",
+     "n": "AAP 2011 Action Statement 5 (tr. 603); NICE NG224 mục 1.3.1; AWaRe 2022 tr. 478–479; QĐ 3312 mục 6; EAU-ESPU 2025 Bảng 1."
+    },
+    {
+     "t": "Chuyển bệnh viện Nhi tỉnh ngay hôm nay để dùng kháng sinh tiêm (ceftriaxon ± amikacin), khảo sát hình ảnh biến chứng, tìm tắc nghẽn hoặc trào ngược",
+     "v": "c",
+     "n": "Ceftriaxone: 50 mg/kg/ngày tĩnh mạch chậm = 800 mg (QĐ 3312 mục 8.1, kèm amikacin 15 mg/kg/ngày) hoặc 75 mg/kg mỗi 24 giờ = 1.200 mg (AAP 2011 Bảng 2) hoặc 80 mg/kg mỗi 24 giờ = 1.280 mg (AWaRe 2022 tr. 479, có thể kèm amikacin 15 mg/kg). Tiêm đến khi hết sốt rồi uống đủ 14 ngày (QĐ 3312) hoặc tổng 7–14 ngày (AAP 4b) hoặc 7 ngày (AWaRe). AAP 4a: tiêm khi không giữ được thuốc uống; EAU-ESPU 2025: cân nhắc dẫn lưu khi không đáp ứng; NICE NG224 mục 1.2.4. Xem sổ mâu thuẫn NH-1161."
+    },
+    {
+     "t": "Chuyển có nhân viên đi kèm, gọi điện báo trước, viết giấy chuyển (giờ khám, sinh hiệu, cấy và kháng sinh đồ, siêu âm, thuốc đã dùng) và đưa mẹ kết quả bằng văn bản",
+     "v": "c",
+     "n": "NICE NG224 mục 1.5.4: đưa phụ huynh kết quả xét nghiệm bằng văn bản. Quy trình bàn giao SBAR: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Cho bé uống nước từng ngụm, hạ sốt paracetamol 200 mg khi khó chịu, không dùng ibuprofen",
+     "v": "c",
+     "n": "WHO 2013 mục 6.8; AWaRe 2022 tr. 50; NICE NG143 mục 1.2.16 (dấu mất nước)."
+    },
+    {
+     "t": "Tiêm liều đầu ceftriaxone tại phòng khám trước khi chuyển (đã lấy cấy ở lượt 1)",
+     "v": "a",
+     "n": "Liều đầu trước chuyển: không có trong tài liệu đã tải; cấy đã lấy (AAP 2011 Action Statement 1; NICE NG224 mục 1.1.11, 1.1.12)."
+    },
+    {
+     "t": "Lấy thêm mẫu cấy máu trước kháng sinh tiêm, gửi theo bé",
+     "v": "a",
+     "n": "AWaRe 2022 tr. 478–479: ca nặng cấy máu, tốt nhất trước kháng sinh."
+    },
+    {
+     "t": "Đổi sang kháng sinh uống khác (ciprofloxacin, amoxicillin-clavulanat) hoặc tăng liều cefixim, hẹn gọi điện sau 48 giờ",
+     "v": "w",
+     "n": "AWaRe 2022 tr. 478–479: uống chỉ cho thể nhẹ (không nôn, sốt nhẹ). Bé nôn ra thuốc, sốt 39,3 °C, đau hông lưng, cấy nhạy cefixim nên không phải do thuốc. AAP 4a: tiêm khi không giữ được thuốc."
+    },
+    {
+     "t": "Cho về nhà với thuốc hạ sốt, nói thuốc chưa kịp tác dụng, hẹn tái khám tuần sau",
+     "v": "h",
+     "n": "Không đáp ứng sau 48–72 giờ phải tìm biến chứng (AWaRe 2022 tr. 479); NTĐT không điều trị đúng gây áp xe quanh thận, nhiễm trùng huyết, tăng huyết áp, suy thận (QĐ 3312 mục 9)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm trùng đường tiểu trên do E. coli (viêm thận – bể thận cấp bên phải), thể nghi biến chứng (viêm thận khu trú hay ổ mủ), không đáp ứng sau 72 giờ kháng sinh uống nhạy",
+     "Sốt cao, nôn, mất nước nhẹ; BC 19,8 G/L, CRP 96 mg/L: NTĐT cao theo QĐ 3312 mục 7",
+     "Không do kháng thuốc, không do bỏ thuốc; không phải viêm cầu thận",
+     "Nguyên nhân nền: VUR hay tắc nghẽn chưa loại trừ được ở cơ sở không có X-quang; táo bón, nhịn tiểu, tia tiểu yếu",
+     "Cần chuyển tuyến hôm nay, có người đi kèm vì ở xa"
+    ],
+    "phan_tich_chan_doan": [
+     "Mốc buộc mở lại hồ sơ: lượt 1 sốt nhẹ, uống được, đủ tiêu chuẩn điều trị uống; sau 72 giờ cefixim đúng thuốc, đúng liều mà sốt tăng, thêm nôn và đau hông lưng phải. AWaRe 2022 tr. 479: tìm biến chứng và xem lại cấy; NICE NG224 Hộp 1: không đáp ứng trong 48 giờ là không điển hình. Neo 'bệnh nhẹ đã xử trí xong' là bẫy.",
+     "Rà lý do thất bại: sai chẩn đoán (cấy E. coli > 10^5, bạch cầu niệu +++, nitrit dương: vẫn NTĐT); sai thuốc hay đề kháng (cấy nhạy cefixim); không tuân thủ (đủ 6 liều, đúng giờ); còn lại biến chứng hoặc yếu tố cấu trúc (AWaRe 2022 tr. 479; AAP 2011 tr. 603).",
+     "Siêu âm: thận phải to, nhu mô tăng âm, vùng giảm âm cực dưới, bể thận giãn nhẹ, gợi viêm thận khu trú hay ổ mủ đang hình thành. Giãn nhẹ có thể do nhiễm trùng cấp, chưa đủ để kết luận VUR hay tắc nghẽn (AAP 2011 tr. 602–603). Chụp bàng quang ngược dòng sau 2–6 tuần khi siêu âm bất thường (QĐ 3312 mục 6; AAP 6a), còn NICE NG224 Bảng 6 không chụp thường quy ở trẻ ≥ 3 tuổi: ghi cả hai, tuyến trên quyết định.",
+     "Mức độ: QĐ 3312 mục 7 là NTĐT cao; NICE NG224 mục 1.1.25 NTĐT trên. AWaRe 2022 tr. 478: thể nhẹ mới uống ngoại trú, nôn hoặc sốt cao cần tiêm; AAP 4a: tiêm khi không giữ được thuốc.",
+     "Viêm cầu thận vẫn loại trừ: không phù, tiểu máu, protein niệu, tăng huyết áp (QĐ 2388/2024 mục 3.1, 3.2, 4.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển bệnh viện Nhi tỉnh hôm nay: kháng sinh tiêm (ceftriaxone 50 mg/kg/ngày kèm amikacin 15 mg/kg/ngày theo QĐ 3312 mục 8.1; 75 mg/kg mỗi 24 giờ theo AAP Bảng 2; 80 mg/kg mỗi 24 giờ theo AWaRe 2022 tr. 479), chuyển uống khi hết sốt; tổng 14 ngày (QĐ 3312), 7–14 ngày (AAP 4b) hoặc 7 ngày (AWaRe). Cân nhắc dẫn lưu nếu không đáp ứng (EAU-ESPU 2025; QĐ 3312 mục 8.2).",
+     "Phòng khám chưa đủ: không có giường lưu, CT, MRI, X-quang; bé nôn, môi khô, sốt 39,3 °C. Chuyển có nhân viên đi kèm, báo trước, giấy chuyển và kết quả bằng văn bản cho mẹ (NICE NG224 mục 1.5.4).",
+     "Trước khi chuyển: cấy máu nếu làm được, tiêm liều đầu ceftriaxone chấp nhận được (liều đầu: không có trong tài liệu đã tải), bù nước từng ngụm, paracetamol 200 mg khi khó chịu, tránh NSAID (WHO 2013 mục 6.8).",
+     "Với gia đình: giải thích bằng dữ kiện của bé (sốt 3 ngày dù đủ thuốc, nôn, đau lưng, vùng bất thường trên siêu âm); chậm làm tăng nguy cơ áp xe, nhiễm trùng huyết (QĐ 3312 mục 9)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ceftriaxone (liều đầu trước chuyển, nếu phòng khám có thuốc)",
+      "ham_luong": "Lọ bột pha tiêm (hàm lượng: không có trong tài liệu đã tải)",
+      "lieu": "50 mg/kg/ngày = 800 mg (QĐ 3312 mục 8.1) hoặc 75 mg/kg = 1.200 mg mỗi 24 giờ (AAP 2011 Bảng 2) hoặc 80 mg/kg = 1.280 mg mỗi 24 giờ (AWaRe 2022 tr. 479); 800 mg thận trọng hơn",
+      "duong": "Tiêm tĩnh mạch chậm (hoặc tiêm bắp theo AWaRe)",
+      "thoi_diem": "Một liều trước khi lên xe; tiếp tục tại bệnh viện mỗi 24 giờ",
+      "so_ngay": "Tại tuyến trên: tiêm đến khi hết sốt rồi uống đủ 14 ngày (QĐ 3312) hoặc 7–14 ngày (AAP 4b) hoặc 7 ngày (AWaRe)",
+      "ghi_chu": "Liều đầu trước chuyển: không có trong tài liệu đã tải. QĐ 3312 mục 8.1 kèm amikacin 15 mg/kg/ngày (chỉ khoảng 3 ngày vì độc thận); AWaRe 2022 tr. 479: amikacin 15 mg/kg mỗi 24 giờ khi ESBL phổ biến."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "200 mg/lần (10–15 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé mệt, quấy; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Đến khi tuyến trên hạ sốt bằng kháng sinh; tối đa 4 lần/24 giờ",
+      "ghi_chu": "AWaRe 2022 tr. 50; QĐ 708/2015 (Viêm màng não mủ mục 4.2: ≤ 60 mg/kg/ngày); không ibuprofen (WHO 2013 mục 6.8)."
+     },
+     {
+      "thuoc": "Dung dịch uống bù nước (ORS)",
+      "ham_luong": "Gói pha theo hướng dẫn",
+      "lieu": "Uống từng ngụm nhỏ nhiều lần (liều ORS khi sốt không tiêu chảy: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Suốt đường đi và khi chờ",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "WHO 2013 mục 6.8 (khuyến khích uống đều); AAP 2011 tr. 602 (tiêm khi không giữ được thuốc uống)."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay phải chuyển lên bệnh viện Nhi tỉnh, không về nhà: bé sốt 3 ngày dù uống đủ thuốc, đang nôn, đau lưng phải, siêu âm thấy bất thường ở thận phải; cần tiêm thuốc, theo dõi và chụp thêm mà phòng khám không làm được (AWaRe 2022 tr. 479; QĐ 3312 mục 8.1).",
+     "Bé đi cùng nhân viên phòng khám, không tự đi xe khách; mẹ mang giấy chuyển, kết quả cấy và kháng sinh đồ, siêu âm, giấy dặn lượt 1 (NICE NG224 mục 1.5.4).",
+     "Trên đường đi cho bé uống nước từng ngụm, paracetamol 200 mg khi khó chịu; không ibuprofen (WHO 2013 mục 6.8).",
+     "Báo bác sĩ tuyến trên: đã uống gói thuốc không rõ tên 2 ngày, cefixim 6 liều và nôn liều thứ 7, có đợt sốt tiểu đục cách 8 tháng (NICE NG224 mục 1.1.24).",
+     "Nếu bé li bì, co giật, thở nhanh, tiểu rất ít thì báo ngay (WHO 2013 mục 6.8).",
+     "Uống đủ thuốc đến hết đợt theo bác sĩ tuyến trên, không tự ngưng khi hết sốt (NICE NG224 mục 1.6.1); sau này còn chụp bàng quang ngược dòng hay xạ hình thận theo chỉ định, không tự bỏ.",
+     "Với bà nội, chồng: chuyển lên bệnh viện hôm nay là quyết định đúng và không muộn; chậm thêm có thể thành áp xe thận hay nhiễm trùng huyết (QĐ 3312 mục 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Khôi được chuyển bằng xe có nhân viên đi kèm đến bệnh viện Nhi tỉnh ngay sáng đó, tiêm ceftriaxone, hết sốt sau 48 giờ, chuyển cefixim uống đủ 14 ngày (QĐ 3312 mục 8.1). Siêu âm lặp: vùng giảm âm cực dưới thận phải thu nhỏ, không thành ổ mủ, bể thận hết giãn. Hai tuần sau ra viện, chụp bàng quang ngược dòng không thấy trào ngược; DMSA 5 tháng sau có một vết giảm bắt thuốc nhỏ ở cực dưới thận phải (AAP 2011 6a; NICE NG224 mục 1.3.5). Nguyên nhân nền là rối loạn chức năng bàng quang – ruột: táo bón, nhịn tiểu ở lớp, uống ít nước. Mẹ ngưng macrogol ngày thứ 10 vì 'bé đi được rồi', trường vẫn nhà vệ sinh bẩn. Bảy tuần sau bé tiểu rát, sốt 38,2 °C, nước tiểu đục: NTĐT dưới tái phát. Một đợt NTĐT trên cộng một đợt dưới là NTĐT tái phát (NICE NG224 Hộp 1): cần siêu âm trong 6 tuần, DMSA 4–6 tháng (Bảng 6), xử lý táo bón và đi tiểu; dự phòng kháng sinh không thường quy sau lần đầu (NICE mục 1.2.13), nhưng QĐ 3312 mục 8.3 và EAU-ESPU 2025 cho dự phòng khi có nguy cơ tái phát. Chuyển tuyến ở lượt 2 là đúng; tái phát do nền chưa xử lý và ngưng điều trị sớm vì ở xa (diễn biến tại bệnh viện là hư cấu hợp lý, không trích nguồn).",
+ "nhieu": [
+  "Ở xa, khó tái khám: 60 km, hai chuyến xe khách mỗi ngày, mẹ làm thời vụ mất công theo ngày. Ngưỡng an toàn hạ thấp: giấy dặn, hẹn gọi điện 48 giờ; lượt 2 chuyển tuyến có người đi kèm.",
+  "Lý do thật đến khám: bà nội và chồng thúc ép vì sợ 'hư thận'; mẹ nghĩ chỉ là bệnh lây của lớp. Lộ khi hỏi 'vì sao hôm nay chị đưa cháu đi'.",
+  "Kháng sinh tự mua không rõ tên 2 ngày: có thể làm cấy thấp giả; phải hỏi thẳng tên, liều, giờ cuối.",
+  "Cơn trùng đợt: lớp có nhiều bạn sốt, ho nên dễ gán cho cúm lớp; tiểu rát, tiểu đục, tè dầm mới mới là điểm phân biệt.",
+  "Không có X-quang: không chụp bàng quang ngược dòng; bù bằng siêu âm, theo dõi có mốc, chuyển tuyến khi không đáp ứng."
+ ],
+ "bai_hoc_bien": [
+  "Bẫy mở lại chẩn đoán: lượt 1 NTĐT thể nhẹ đúng, xử trí uống đúng; mốc buộc mở lại hồ sơ là sau 72 giờ thuốc đúng, liều đúng, cấy nhạy mà sốt tăng, thêm nôn và đau hông lưng. Dễ chỉ đổi thuốc uống; phải rà: sai chẩn đoán, sai thuốc hay đề kháng, không tuân thủ, rồi biến chứng (AWaRe 2022 tr. 479; NICE NG224 Hộp 1).",
+  "Trẻ nam sốt kèm tiểu đục, tè dầm mới: nghĩ NTĐT dù cả lớp đang bệnh; lấy nước tiểu giữa dòng trước kháng sinh (NICE NG224 Bảng 1, 2).",
+  "Hỏi dữ kiện nền: tia tiểu yếu, táo bón, nhịn tiểu, uống ít nước, đợt sốt tiểu đục cũ (NICE NG224 mục 1.1.24, Hộp 1).",
+  "Ở xa, khó tái khám: xử trí trọn gói, giấy dặn, hẹn gọi điện 48–72 giờ; chuyển tuyến có người đi kèm khi không đáp ứng.",
+  "Loại trừ viêm cầu thận (phù, tiểu máu, tăng huyết áp, protein niệu: QĐ 2388/2024 mục 3.1, 4.1) và VUR (chờ tuyến trên: AAP 6a, 6b). Tái phát do nền (táo bón, nhịn tiểu) chưa xử lý và ngưng thuốc sớm."
+ ],
+ "diem_nho": [
+  "Bạch cầu esterase dương cộng triệu chứng tiểu rõ là đủ điều trị; cả hai âm thì loại NTĐT (NICE NG224 Bảng 2). Nitrit nhạy chỉ 53% (AAP 2011 Bảng 1, tr. 599). Ngưỡng cấy: > 10^5 khuẩn lạc/mL giữa dòng (QĐ 3312 mục 6) hoặc ≥ 50.000 CFU/mL kèm bạch cầu niệu (AAP Action Statement 3).",
+  "Mức độ: QĐ 3312 mục 7 NTĐT cao khi sốt > 38,5 °C, CRP > 40 mg/L, BC > 15.000/mm³; NICE NG224 mục 1.1.25: khuẩn niệu + sốt ≥ 38 °C là NTĐT trên. Uống ngoại trú khi thể nhẹ; tiêm khi nặng, nôn (WHO 2013 mục 6.8; AWaRe 2022 tr. 478–479).",
+  "Không đáp ứng sau 48–72 giờ: xem lại cấy, siêu âm tìm áp xe, tắc nghẽn (AWaRe 2022 tr. 479; AAP 2011 tr. 603). MCUG chỉ khi siêu âm bất thường, sau 2–6 tuần (QĐ 3312 mục 6; AAP 6a); NICE Bảng 6 không chụp ở ≥ 3 tuổi.",
+  "Phòng bệnh: uống đủ nước, không nhịn tiểu, trị táo bón (NICE NG224 mục 1.2.10–1.2.12). Dự phòng kháng sinh không thường quy sau lần đầu (NICE mục 1.2.13); QĐ 3312 mục 8.3 khi VUR ≥ độ III, tắc nghẽn hay tái phát."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – TL-0037 – ĐÃ ĐỌC: Nhiễm trùng đường tiểu (mục 1–10); Táo bón (mục 5.2b–5.2c)",
+  "NICE NG224 2022 (bản 2025) – Urinary tract infection in under 16s – TL-0259 – ĐÃ ĐỌC: mục 1.1–1.3, 1.5, 1.6; Bảng 1, 2, 6; Hộp 1",
+  "AAP 2011 (tái khẳng định 2016) – UTI in febrile infants and children 2 to 24 months. Pediatrics 128(3):595–610 – TL-0273 – ĐÃ ĐỌC: Action Statement 1–6; Bảng 1–3 (áp dụng cho 2–24 tháng, dùng tham khảo cho trẻ 4 tuổi)",
+  "WHO 2013 – Pocket book of hospital care for children – TL-0250 – ĐÃ ĐỌC: mục 6.8 (tr. 184–186)",
+  "WHO AWaRe antibiotic book 2022 – TL-0018 – ĐÃ ĐỌC: Lower UTI trẻ em (tr. 282–283), Upper UTI trẻ em (tr. 478–479), Viêm họng trẻ em (tr. 50)",
+  "EAU-ESPU 2025 – Guidelines on Paediatric Urology, Summary of 2024 Updates Part II. Eur Urol 88:190–203 – TL-0054 – ĐÃ ĐỌC: mục 3.6, Bảng 1 (tr. 198)",
+  "NICE NG143 2021 (bản 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.2.7–1.2.16, Bảng 1, 1.6, 1.7",
+  "QĐ 2388/QĐ-BYT 2024 – TL-0280 – ĐÃ ĐỌC: Viêm cầu thận thứ phát sau nhiễm trùng (mục 1–4)",
+  "QĐ 708/QĐ-BYT 2015 – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2",
+  "ESPGHAN-NASPGHAN 2014 – Functional constipation – TL-0269 – ĐÃ ĐỌC: Bảng 6, khuyến cáo 33"
+ ],
+ "ghi_chu_bien_tap": [
+  "18/10/2026 – viết: Sonnet. Bản 1. Bé trai 4 tuổi mẫu giáo, 2 lượt; lượt 1 NTĐT thể nhẹ, cho về hẹn; lượt 2 không đáp ứng sau 72 giờ, nghi biến chứng thận, chuyển tuyến; kết cục tái phát (hư cấu hợp lý).",
+  "Tài liệu đã đọc: TL-0037, TL-0259, TL-0273, TL-0250 (6.8), TL-0018 (tr. 282–283, 478–479, 50), TL-0054, TL-0262, TL-0280, TL-0015, TL-0269.",
+  "Mâu thuẫn ghi cả hai (xem NH-1161_mau_thuan.md): phân độ và nơi điều trị; thời gian kháng sinh; liều cefixim, ceftriaxone; siêu âm, MCUG ở trẻ ≥ 3 tuổi; xét nghiệm nước tiểu lại; dự phòng kháng sinh.",
+  "Thiếu tài liệu (đã ghi trong ca): huyết áp trẻ em theo tuổi; tham chiếu xét nghiệm trẻ 4 tuổi; ngưỡng siêu âm; hàm lượng thuốc; liều bù khi nôn; liều đầu kháng sinh tiêm trước chuyển; liều ORS; thời gian dùng PEG; tác hại kháng sinh tự mua; tỉ lệ biến chứng khi chậm điều trị.",
+  "Biến yeu_to_khoi_phat 'Con trung dot' diễn giải là 'cơn trùng đợt' (bé sốt cùng đợt lớp mẫu giáo nhiều bạn sốt, ho): trưởng nhóm xem lại nếu nghĩa khác."
+ ]
+}
