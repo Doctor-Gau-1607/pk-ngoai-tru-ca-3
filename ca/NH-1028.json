@@ -1,0 +1,421 @@
+{
+ "ma_ca": "NH-1028",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 (2026-10-23)",
+ "benh": "NH_viem_da_co_dia_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm da cơ địa / chàm (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Ghẻ",
+   "Viêm da tiếp xúc"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau stress công việc (của mẹ)",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ (mẹ lo ông ngoại vừa bị đột quỵ, sợ mình cũng bị)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Minh Khang",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 104,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ nói vài chữ khi được hỏi trực tiếp (vd 'Con ngứa'). Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán, nói nhanh, hay thở dài, tuần này chạy quyết toán cuối tháng. Ông ngoại bé mới nhập viện vì đột quỵ nên mẹ rất căng thẳng, hay ngắt lời. Bé lì lợm, gãi liên tục, khóc khi bị cản gãi.",
+  "kieu_nhieu": "Thân nhân trả lời thay: mẹ trả lời hầu hết câu hỏi, kể lan man chuyện công việc và chuyện ông ngoại; đôi khi trả lời thay cả điều bé cảm thấy. Bác sĩ phải hỏi thẳng bé (chỉ cho bác sĩ xem chỗ ngứa, 'ngứa nhiều hay ít') và tách ý mẹ ra khỏi dữ kiện của bé.",
+  "nguoi_nha": "Mẹ bé (chị Hạnh, 33 tuổi) đi cùng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#c99470",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#b5838d",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé ngứa, gãi nhiều, nổi mảng đỏ ở nếp khuỷu",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 17 kg, mẹ đưa đến vì ngứa, nổi mảng đỏ ở nếp khuỷu hai tay, gãi nhiều về đêm khoảng 10 ngày. Sinh hiệu: nhiệt 36,8 °C, mạch 100 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, hay gãi.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, bé nhà em nổi đỏ ở khuỷu tay, ngứa gãi suốt, tối ngủ không yên. Em sợ lây, mà em đang rối lắm, nhà em mới có chuyện.",
+   "sinh_hieu": {
+    "mach": 100,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai khuỷu tay (mặt trong, nếp gấp) nổi mảng đỏ, ngứa, bé gãi nhiều, ngủ chập chờn khoảng 10 ngày nay. Mẹ lo bệnh lây.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tuần qua mẹ chạy quyết toán cuối tháng, tăng ca; ông bà nội đón bé. Mẹ không có thời gian bôi kem dưỡng ẩm cho bé như trước, ông bà tắm bé bằng nước khá nóng và dùng xà phòng thơm của nhà. Hai khuỷu tay đỏ và ngứa dần lên từ đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bối cảnh khởi phát (mẹ căng thẳng, nếp sinh hoạt xáo trộn)"
+    },
+    {
+     "id": "ngua_dem",
+     "noi_dung": "Ngứa suốt ngày, nhiều hơn khi ra mồ hôi hoặc khi nóng, và nặng về đêm; bé gãi đến trầy xước nhưng chỉ ở vùng nếp gấp, không thấy đường hầm hay mụn nước nhỏ riêng lẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ngứa"
+    },
+    {
+     "id": "tien_su_bt",
+     "noi_dung": "Bé có 'da khô, hay đỏ hai má' từ lúc 6 tháng, từng nổi mảng ở nếp khuỷu và nếp khoeo 2–3 lần trong 2 năm qua, mỗi lần đỡ khi bôi kem ẩm. Bé hay hắt hơi buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử chàm tái phát từ nhũ nhi"
+    },
+    {
+     "id": "tien_su_gd",
+     "noi_dung": "Mẹ bị viêm mũi dị ứng; bố bé có hen lúc nhỏ. Ông ngoại bé mới nhập viện vì đột quỵ tuần trước (bé không liên quan).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình dị ứng (cơ địa)"
+    },
+    {
+     "id": "ghe",
+     "noi_dung": "Cả nhà (bố, mẹ, ông bà nội, anh chị em họ ở cùng) không ai ngứa, không ai nổi mụn nước ở kẽ ngón tay, cổ tay, thắt lưng hay vùng kín. Bé không ngủ chung giường với người ngứa. Lớp bé không có bạn nào được báo bị ghẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ghẻ: người nhà, tập thể"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bé không đổi xà phòng, sữa tắm, bột giặt, không đeo vòng, không mặc đồ mới, không bôi thuốc lạ lên chỗ đó; chỉ dùng xà phòng thơm của bà từ tuần này. Tổn thương đối xứng hai khuỷu, không có hình khuôn đúng chỗ tiếp xúc cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm da tiếp xúc"
+    },
+    {
+     "id": "ngoai_khu",
+     "noi_dung": "Không sốt, không đau chỗ nổi, không có mủ hay đóng vảy vàng; bé ăn uống, chơi bình thường, đi tiểu bình thường, không khó thở, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu nhiễm khuẩn, không toàn thân"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ 4 hôm nay mẹ mua siro chống dị ứng ở nhà thuốc (nhà thuốc nói là chlorpheniramin), cho bé uống buổi tối; bé ngủ được nhưng sáng hôm sau lờ đờ. Chưa bôi thuốc nào khác, chưa dùng thuốc nam, chưa dùng thuốc steroid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (kháng histamin tự mua)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bé ăn sữa, trứng, hải sản bình thường, ăn xong không nổi mề đay, không nôn, không tiêu chảy. Mẹ nghe người ta bảo 'ngứa là do ăn tôm, trứng' và định cho bé kiêng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Có dị ứng thức ăn rõ không; ý định kiêng ăn",
+     "nhieu": 1
+    },
+    {
+     "id": "me_lo",
+     "noi_dung": "Chị Hạnh kể ông ngoại bé nhập viện đột quỵ tuần trước, mẹ mất ngủ, tim đập nhanh, nhức đầu; mẹ sợ mình cũng bị đột quỵ và không ai chăm bé. Vì thế mẹ mới hỏi dồn và muốn bác sĩ 'cho thuốc mạnh để dứt điểm cho nhanh'. Mẹ ngại nói ra, chỉ nói khi bác sĩ hỏi mẹ có điều gì lo lắng thêm.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật khi đi khám: nỗi sợ đột quỵ của mẹ",
+     "dieu_kien_lo": "Bác sĩ hỏi riêng mẹ về nỗi lo, sức khỏe hoặc áp lực của mẹ"
+    },
+    {
+     "id": "tre_noi",
+     "noi_dung": "Hỏi thẳng bé: 'Con ngứa chỗ này hả?' bé gật, chỉ vào khuỷu và gập chân (khoeo) 'ở đây cũng ngứa'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi trực tiếp trẻ (thân nhân trả lời thay)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Hai nếp khuỷu: mảng đỏ nâu ranh giới không rõ, da dày lên, rãnh da nổi rõ (lichen hóa nhẹ), vài vết trầy xước và ít dịch thanh ướt; không mụn mủ, không vảy tiết vàng mật ong. Nếp khoeo hai bên: da khô, đỏ nhẹ, hơi dày. Mu bàn tay, kẽ ngón, cổ tay, thắt lưng, rốn, sinh dục không có tổn thương, không có luống ghẻ, không có sẩn cục ở nách bẹn bìu. Da toàn thân khô, hai má hơi sần.",
+     "k": 1,
+     "hien": "Nếp khuỷu hai tay và nếp khoeo hai chân, đối xứng; vùng nếp khuỷu mỗi bên khoảng 4 × 5 cm.",
+     "media": [
+      {
+       "vi_tri": "Nếp khuỷu",
+       "id": "HA-DA-0062",
+       "chu": "Nếp khuỷu: da dày, rãnh da nổi rõ, vài vết trầy xước và ít dịch thanh, không mủ."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, hơi cáu vì ngứa, niêm mạc ẩm, không mất nước, không phù, không xanh xao.",
+     "k": 0,
+     "hien": "Tỉnh, hay gãi, không mất nước."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, màng nhĩ hai bên bình thường; niêm mạc mũi hơi nhợt, không chảy mủ.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch bẹn và hạch nách nhỏ, di động, không đau; không hạch viêm gần tổn thương.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Thở 22 l/p, không rút lõm, phổi thông khí rõ, không ran rít.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p, không rút lõm."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    },
+    "da_dau_mong": {
+     "a": "Da đầu không vảy dày, móng tay không rỗ, không lỗ chân móng bất thường; móng ngắn nhưng có vết xước dọc tay do gãi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "Bạch cầu 8,6 G/L; Neutrophil 48%; Eos 6%; Hb 124 g/L; Tiểu cầu 310 G/L.",
+     "n": "Không cần: chẩn đoán viêm da cơ địa dựa trên lâm sàng, tiêu chuẩn Hanifin và Rajka (QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 3c); ca không có dấu hiệu nhiễm khuẩn hay toàn thân.",
+     "bang": {
+      "wbc": 8.6,
+      "neu_pct": 48,
+      "lym_pct": 40,
+      "eos_pct": 6,
+      "hgb": 124,
+      "plt": 310
+     }
+    },
+    "ige_tong": {
+     "r": "Tăng nhẹ so với tuổi (nếu làm tại nơi có).",
+     "n": "Không cần: tăng IgE huyết thanh chỉ là tiêu chuẩn phụ và là cận lâm sàng bổ trợ (QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 3b, 3c); không đổi xử trí hôm nay."
+    },
+    "test_lay_da": {
+     "n": "Không cần: test lẩy/test áp để tìm dị nguyên (QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 3b) không cần cho đợt bùng phát này; AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 13 không khuyến cáo kiêng ăn so với ăn tự do."
+    },
+    "soi_da": {
+     "v": "a",
+     "r": "Không tìm thấy cái ghẻ, trứng hay phân ghẻ trong bệnh phẩm cạo ở nếp khuỷu và kẽ ngón.",
+     "n": "Chấp nhận, không bắt buộc: soi tìm ký sinh trùng là cận lâm sàng của ghẻ (QĐ 75/2015, Bệnh ghẻ mục 3); với bệnh cảnh nếp gấp, không ngứa trong nhà, bác sĩ thường không cần. Âm tính không đổi chẩn đoán."
+    },
+    "cay_dich_da": {
+     "n": "Không cần: không rỉ dịch nhiều, không đóng vảy, không mủ nên không nghĩ nhiễm khuẩn (AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 9 nêu rõ dấu hiệu nhiễm khuẩn nặng)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa ở trẻ 4 tuổi, đợt bùng phát mức nhẹ–vừa, chưa nhiễm khuẩn thứ phát",
+     "ok": 1,
+     "n": "Ngứa, tổn thương dạng chàm ở nếp gấp (nếp khuỷu, khoeo) kèm lichen hóa, tái phát từ nhũ nhi, tiền sử gia đình có hen, viêm mũi dị ứng: đủ 4 tiêu chuẩn chính; thêm tiêu chuẩn phụ khô da, ngứa khi ra mồ hôi, nặng lên theo môi trường và tâm lý, nên đạt ≥ 3 chính + ≥ 3 phụ (QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 3a, 3c). Tổn thương nếp gấp ở trẻ em: mục 3a."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Ít nghĩ: ghẻ có mụn nước riêng lẻ ở kẽ ngón, cổ tay, thắt lưng, sinh dục, có luống ghẻ, ngứa đêm và lây trong gia đình (QĐ 75/2015, Bệnh ghẻ mục 3); bé không có, không ai trong nhà ngứa, soi ký sinh trùng nếu làm âm tính. AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 1 liệt kê ghẻ là bệnh giống viêm da cơ địa cần loại trừ."
+    },
+    {
+     "t": "Viêm da tiếp xúc (kích ứng, dị ứng)",
+     "n": "Ít nghĩ: tổn thương đối xứng ở nếp gấp, tái phát nhiều năm, không theo hình khuôn của chất tiếp xúc; xà phòng thơm của bà chỉ là yếu tố làm nặng thêm (QĐ 75/2015, Viêm da cơ địa mục 6: giảm yếu tố khởi động; Viêm da tiếp xúc dị ứng mục 4). AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 1 yêu cầu loại trừ viêm da tiếp xúc kích ứng/dị ứng."
+    },
+    {
+     "t": "Nhiễm khuẩn da thứ phát (chốc hóa, bội nhiễm tụ cầu/liên cầu)",
+     "n": "Chưa có: không mủ, không vảy tiết vàng, không đau, không sốt (AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 9: nhiễm khuẩn nặng là rỉ dịch nhiều, đóng vảy, mụn mủ, đau hoặc dấu hiệu toàn thân). Theo dõi khi gãi nhiều."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dưỡng ẩm: kem hoặc thuốc làm ẩm da không mùi, bôi ít nhất ngày 1 lần, thường 2–3 lần/ngày, nhất là ngay sau tắm",
+     "v": "c",
+     "n": "AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 1 (bôi ít nhất 1 lần, thường nhiều lần/ngày) và Khuyến cáo 2 (chất làm ẩm thông thường không mùi bán sẵn, không cần loại kê đơn); QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b, 6 (2–3 lần/ngày, ngay sau tắm)."
+    },
+    {
+     "t": "Corticoid bôi tại chỗ lên tổn thương: hydrocortison 1–2,5% hoặc corticoid bôi hoạt tính trung bình (nhóm 3–5 theo phân loại Mỹ), bôi 1 lần/ngày, tránh nhóm mạnh kéo dài ở nếp gấp",
+     "v": "c",
+     "n": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b: trẻ nhỏ dùng hoạt tính yếu hydrocortison 1–2,5%; vùng da mỏng dùng loại nhẹ, ít ngày. Hoặc AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 3 (thêm corticoid bôi khi chỉ dưỡng ẩm không đủ), Khuyến cáo 6 (bôi 1 lần/ngày), Khuyến cáo 10 (nhóm 3–5 khi dùng dự phòng), và lưu ý tránh nhóm 1–2 > 4 tuần, hạn chế ở mặt, nếp gấp, bẹn. Hai nguồn khác nhau về độ mạnh khởi đầu (QĐ 75 năm 2015 cho trẻ nhỏ; JTF 2023 áp dụng chung): xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Giải thích bệnh cơ địa mạn tính, tránh yếu tố khởi động: tắm nước ấm (< 36 °C), xà phòng ít kích ứng, mặc cotton, hạn chế xà phòng thơm, giữ phòng thoáng mát, giảm bụi nhà",
+     "v": "c",
+     "n": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b (tắm nước ấm, xà phòng ít kiềm), mục 6 (nhiệt độ < 36 °C, cotton, thoáng mát, giảm bụi nhà, giảm stress); AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 1 (giáo dục, tránh yếu tố khởi động, kế hoạch hành động)."
+    },
+    {
+     "t": "Dặn dấu hiệu cần quay lại ngay (rỉ dịch nhiều, đóng vảy vàng, mụn mủ, đau, sốt) và hẹn tái khám",
+     "v": "c",
+     "n": "AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 9 (dấu hiệu nhiễm khuẩn nặng: rỉ dịch nhiều, đóng vảy, mụn mủ, đau, dấu hiệu toàn thân). Thời điểm tái khám cụ thể: không có trong tài liệu đã tải; ca chọn 1–2 tuần để xem đáp ứng với corticoid bôi (thiết kế của ca, dựa trên thời gian dùng corticoid bôi trong RCT thường 2–6 tuần theo JTF 2023)."
+    },
+    {
+     "t": "Hỏi mẹ về nỗi lo, khuyên mẹ tự đi khám huyết áp riêng; trấn an bé không lây",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn. Giáo dục người bệnh và người nhà là nguyên tắc điều trị (QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4a, 6)."
+    },
+    {
+     "t": "Kháng histamin uống tạm khi ngứa đêm nhiều (nếu cân nhắc)",
+     "v": "a",
+     "n": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b liệt kê chlorpheniramin 4 mg × 1–2 viên/ngày, fexofenadin 180 mg, cetirizin 10 mg (bảng liều của người lớn; liều trẻ 4 tuổi không có trong tài liệu đã tải). Tài liệu đã tải (JTF 2023) không có khuyến cáo dùng kháng histamin cho viêm da cơ địa; nên không đáp án chính. Chlorpheniramin gây lờ đờ ban ngày: ngưng siro tự mua nếu bé lờ đờ."
+    },
+    {
+     "t": "Chuyển tuyến hoặc nhập viện vì viêm da cơ địa mức nhẹ–vừa",
+     "v": "w",
+     "n": "Không có chỉ định nhập viện/chuyển tuyến trong tài liệu đã tải cho đợt bùng phát nhẹ–vừa không nhiễm khuẩn; JTF 2023 mô tả điều trị ngoại trú bằng dưỡng ẩm và corticoid/ức chế calcineurin bôi."
+    },
+    {
+     "t": "Prednisolon uống ngắn ngày hoặc tiêm corticoid",
+     "v": "w",
+     "n": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b: corticoid toàn thân chỉ cho thời gian ngắn khi bệnh bùng phát nặng, không dùng kéo dài (prednisolon 5 mg × 2–4 viên/ngày × 7 ngày); AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 25: đề nghị không dùng corticoid toàn thân. Ca này mức nhẹ–vừa nên không có chỉ định (xem sổ mâu thuẫn mục corticoid toàn thân)."
+    },
+    {
+     "t": "Kháng sinh uống hoặc bôi khi chưa có dấu hiệu nhiễm khuẩn",
+     "v": "w",
+     "n": "AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 9: đề nghị không thêm kháng khuẩn tại chỗ khi chưa có nhiễm khuẩn nặng; QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b chỉ cho kháng sinh khi nhiễm khuẩn (cephalosporin thế hệ 1, 10–14 ngày)."
+    },
+    {
+     "t": "Kiêng trứng, sữa, hải sản cho bé",
+     "v": "w",
+     "n": "AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 13: đề nghị không kiêng ăn so với ăn tự do; trẻ nhỏ có nguy cơ suy dinh dưỡng và nguy cơ thúc đẩy dị ứng thức ăn qua trung gian IgE. QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 6: kiêng chỉ khi bệnh nặng, trẻ nhỏ, đã xác định rõ thức ăn gây bệnh."
+    },
+    {
+     "t": "Điều trị ghẻ (permethrin, benzyl benzoat, ivermectin) cho cả nhà",
+     "v": "w",
+     "n": "Không có chẩn đoán ghẻ. Ivermectin chống chỉ định cho trẻ dưới 5 tuổi (QĐ 75/2015, Bệnh ghẻ mục 4b)."
+    },
+    {
+     "t": "Corticoid bôi hoạt tính rất mạnh (clobetasol) lên nếp khuỷu",
+     "v": "h",
+     "n": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b: clobetasol chỉ cho tổn thương lichen hóa dày, và vùng da mỏng, nhạy cảm dùng loại nhẹ hơn, ít ngày; AAAAI/ACAAI JTF 2023 (TL-0256): tránh nhóm 1–2 kéo dài > 4 tuần, hạn chế ở nếp gấp (nguy cơ teo da, giãn mạch, rạn). Trẻ 4 tuổi: không dùng nhóm mạnh."
+    }
+   ],
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khang nhập viện vì ngứa nếp khuỷu là không cần: bé không sốt, ăn chơi bình thường, không có dấu hiệu nhiễm khuẩn hay lan rộng (JTF 2023, Khuyến cáo 9; QĐ 75/2015, Viêm da cơ địa mục 4). Bé phải xa mẹ và đổi môi trường, ngứa và mất ngủ nặng hơn, mẹ đang kiệt sức vì lo cho ông ngoại càng thêm căng thẳng và tốn kém, trong khi điều trị cần làm chỉ là dưỡng ẩm đều và corticoid bôi.",
+    "chuyen_tuyen": "Chuyển bé Khang lên tuyến trên là quá tay: bệnh nhẹ–vừa, chưa nhiễm khuẩn, điều trị ngoại trú được bằng dưỡng ẩm và corticoid bôi (JTF 2023, Khuyến cáo 1, 3, 9). Mẹ mất thêm một ngày công và lo bé bệnh nặng hơn nên khó yên tâm, bé chờ đợi nơi đông người, ngứa tiếp tục vì chưa được bôi thuốc.",
+    "cap_cuu": "Gọi cấp cứu cho đợt ngứa nếp gấp ở bé tỉnh táo, sinh hiệu ổn là không phù hợp; không có dấu hiệu nguy hiểm toàn thân. Mẹ hoảng hơn, bé bị đưa đi xa trong khi cần giải thích và bắt đầu bôi thuốc ngay."
+   },
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa ở trẻ em (4 tuổi), đợt bùng phát nhẹ–vừa ở nếp khuỷu, nếp khoeo",
+     "Tiêu chuẩn Hanifin và Rajka: ≥ 3 chính + ≥ 3 phụ (QĐ 75/2015, Viêm da cơ địa mục 3c)",
+     "Yếu tố khởi động: xáo trộn nếp sinh hoạt khi mẹ căng thẳng, tắm nước nóng, xà phòng thơm, ngưng bôi dưỡng ẩm",
+     "Chưa nhiễm khuẩn thứ phát, không phải ghẻ, không phải viêm da tiếp xúc",
+     "Dùng kháng histamin tự mua gây lờ đờ",
+     "Mẹ lo sợ đột quỵ (lý do thật đến khám), cần hướng mẹ tự khám riêng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: nghe mẹ nhưng hỏi thẳng bé (tính chất ngứa, chỗ ngứa) → hỏi khởi phát và yếu tố nặng lên → tiền sử cá nhân và gia đình dị ứng → loại trừ ghẻ (người nhà ngứa, vị trí tổn thương) và viêm da tiếp xúc (đổi xà phòng, hình dạng) → khám da toàn thân, hạch → CLS tối thiểu, soi ghẻ nếu còn nghi.",
+     "Vì sao viêm da cơ địa: ngứa, tổn thương dạng chàm ở nếp gấp kèm lichen hóa, tái phát mạn tính, tiền sử cá nhân/gia đình có hen, viêm mũi dị ứng; tiêu chuẩn phụ khô da, ngứa khi ra mồ hôi, nặng lên theo môi trường/tâm lý (QĐ 75/2015, Viêm da cơ địa mục 3a, 3c). Ở trẻ em, vị trí hay gặp là khoeo, nếp gấp khuỷu, mi mắt, hai bên cổ (mục 3a).",
+     "Vì sao không phải ghẻ: ghẻ có mụn nước ở kẽ ngón, cổ tay, thắt lưng, sinh dục, luống ghẻ, ngứa đêm và lây trong gia đình (QĐ 75/2015, Bệnh ghẻ mục 3); bé không có, không ai trong nhà ngứa. JTF 2023 Khuyến cáo 1 nhắc ghẻ, viêm da tiếp xúc, psoriasis, nhiễm khuẩn là bệnh phải loại trừ trước khi điều trị.",
+     "Vì sao không phải viêm da tiếp xúc: tổn thương đối xứng ở nếp gấp, tái phát nhiều năm, không theo hình khuôn chất tiếp xúc; xà phòng thơm chỉ là yếu tố làm nặng.",
+     "Vì sao chưa nhiễm khuẩn: không mủ, không vảy tiết vàng, không đau, không sốt (JTF 2023 Khuyến cáo 9).",
+     "Cận lâm sàng: viêm da cơ địa chẩn đoán bằng lâm sàng; IgE, test lẩy chỉ bổ trợ (QĐ 75/2015 mục 3b); công thức máu không cần. Không có X-quang ở cơ sở: không ảnh hưởng ca này."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, điều trị ngoại trú, hẹn tái khám; không có chỉ định nhập viện/chuyển tuyến trong tài liệu đã tải cho mức nhẹ–vừa không nhiễm khuẩn.",
+     "Nền tảng: dưỡng ẩm không mùi hàng ngày (JTF 2023 Khuyến cáo 1, 2; QĐ 75/2015 mục 6) cộng corticoid bôi trên vùng viêm (JTF Khuyến cáo 3).",
+     "Độ mạnh corticoid: QĐ 75/2015 mục 4b ghi trẻ nhỏ dùng hoạt tính yếu hydrocortison 1–2,5%; JTF 2023 khuyến cáo corticoid bôi nói chung, dùng 1 lần/ngày (Khuyến cáo 6), nhóm 3–5 khi dùng dự phòng (Khuyến cáo 10), tránh nhóm 1–2 > 4 tuần, hạn chế ở nếp gấp. Hai nguồn khác năm và phạm vi; ca ghi cả hai, hydrocortison là lựa chọn thận trọng hơn ở nếp gấp của trẻ 4 tuổi.",
+     "Không corticoid toàn thân (JTF 2023 Khuyến cáo 25; QĐ 75/2015 chỉ cho khi bùng phát nặng, ngắn ngày), không kháng sinh khi chưa nhiễm khuẩn (JTF Khuyến cáo 9), không kiêng ăn (JTF Khuyến cáo 13).",
+     "Kết cục 'xử trí ẩu nhưng may mắn không sao' là bài học: cho prednisolon uống ngắn ngày hoặc kháng sinh có thể làm bé đỡ nhanh và không có tác dụng phụ trong 1 tuần, nhưng không phải xử trí chuẩn và không hợp thức hóa việc làm đó (QĐ 75/2015 mục 4b: prednisolon chỉ khi bùng phát nặng, 7 ngày).",
+     "Lý do thật: mẹ sợ đột quỵ; hỏi riêng mẹ, ghi nhận lo lắng, khuyên mẹ tự khám huyết áp riêng (không cần nguồn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem/thuốc làm ẩm da không mùi, không chứa chất gây dị ứng (loại bán sẵn)",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Bôi một lớp đủ phủ toàn thân, nhiều ở vùng khô, nếp gấp",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Ngay sau tắm, và 2–3 lần/ngày",
+      "so_ngay": "Hàng ngày, lâu dài kể cả khi hết ngứa",
+      "ghi_chu": "AAAAI/ACAAI JTF 2023 (TL-0256) Khuyến cáo 1, 2; QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b, 6 (2–3 lần/ngày). Lượng mỗi lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Hydrocortison kem 1% (hoặc 2,5%)",
+      "ham_luong": "1–2,5% (QĐ 75/2015)",
+      "lieu": "Bôi mỏng lên vùng đỏ, ngày 1 lần; ngưng khi da phẳng, hết ngứa",
+      "duong": "Bôi ngoài da (nếp khuỷu, nếp khoeo)",
+      "thoi_diem": "Buổi tối, sau tắm, bôi thuốc trước rồi dưỡng ẩm lên trên",
+      "so_ngay": "Khoảng 1–2 tuần theo đáp ứng, tái khám đánh giá; không dùng liên tục dài ngày",
+      "ghi_chu": "QĐ 75/2015 (TL kho cũ), Viêm da cơ địa mục 4b: trẻ nhỏ dùng hoạt tính yếu hydrocortison 1–2,5%, giảm liều từ từ để tránh tái phát. Hoặc corticoid bôi hoạt tính trung bình nhóm 3–5 (JTF 2023 Khuyến cáo 3, 6, 10) ngày 1 lần; tên hoạt chất, hàm lượng và số ngày cụ thể cho trẻ 4 tuổi: không có trong tài liệu đã tải. Thận trọng hơn: hydrocortison. Thứ tự dưỡng ẩm và thuốc: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Siro chlorpheniramin tự mua",
+      "ham_luong": "Không rõ",
+      "lieu": "Ngưng, không cần kê tiếp",
+      "duong": "Uống",
+      "thoi_diem": "—",
+      "so_ngay": "Ngưng",
+      "ghi_chu": "Bé lờ đờ buổi sáng sau khi uống. QĐ 75/2015 mục 4b có chlorpheniramin 4 mg × 1–2 viên/ngày (liều người lớn); liều cho trẻ 4 tuổi không có trong tài liệu đã tải; JTF 2023 không có khuyến cáo kháng histamin cho viêm da cơ địa."
+     }
+    ],
+    "dan_do": [
+     "Tắm bé nước ấm (< 36 °C), tắm nhanh, xà phòng ít kích ứng, không dùng xà phòng thơm của bà; thấm khô nhẹ rồi bôi dưỡng ẩm ngay (QĐ 75/2015 mục 4b, 6).",
+     "Dặn ông bà và bé: gãi làm da dày và xước thêm; giữ da mát, mặc cotton.",
+     "Bôi thuốc corticoid đúng chỗ đỏ, ngày 1 lần (JTF 2023 Khuyến cáo 6), không bôi lên chỗ da lành, không bôi quá lâu, dừng khi da phẳng và hẹn tái khám.",
+     "Quay lại ngay nếu rỉ dịch nhiều, đóng vảy vàng, nổi mụn mủ, đau, sốt hoặc bé lờ đờ (JTF 2023 Khuyến cáo 9).",
+     "Không kiêng ăn tự ý (JTF 2023 Khuyến cáo 13); ngưng siro chlorpheniramin tự mua nếu bé lờ đờ.",
+     "Chị Hạnh: bệnh không lây, là bệnh cơ địa tái phát; chị đang căng thẳng nên nên tự đi khám huyết áp riêng và nhờ ông bà giúp bôi thuốc những ngày chị tăng ca."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Nếu bé chỉ được cho prednisolon uống vài ngày và kháng histamin (xử trí ẩu), ngứa có thể giảm nhanh và bé không có tác dụng phụ rõ trong vài ngày; chỉ là may mắn, vì JTF 2023 (Khuyến cáo 25) khuyên không dùng corticoid toàn thân cho viêm da cơ địa, và bệnh vẫn có thể tái phát khi ngưng nếu không dưỡng ẩm đều. Với xử trí đúng, vùng nếp khuỷu dịu dần sau 1–2 tuần, mẹ bôi dưỡng ẩm đều, ông bà đổi xà phòng, mẹ đã đi khám huyết áp bình thường.",
+ "nhieu": [
+  "Thân nhân trả lời thay: mẹ kể lan man chuyện công việc, ông ngoại; phải hỏi thẳng bé và tách ý mẹ ra khỏi dữ kiện của bé.",
+  "Mẹ căng thẳng nên quên dưỡng ẩm, ông bà tắm nước nóng, xà phòng thơm: đây là yếu tố khởi phát, không phải nguyên nhân khác.",
+  "Không có X-quang: không cần cho ca này.",
+  "Siro chống dị ứng tự mua gây lờ đờ có thể che mất dấu hiệu bất thường."
+ ],
+ "bai_hoc_bien": [
+  "Ngứa nếp gấp ở trẻ có tiền sử da khô, tiền sử gia đình dị ứng: nghĩ viêm da cơ địa; loại trừ ghẻ bằng hỏi người nhà và vị trí (QĐ 75/2015).",
+  "Lý do thật (mẹ sợ đột quỵ) lộ ra khi hỏi riêng mẹ về nỗi lo; giải quyết lo âu của mẹ giúp mẹ tuân thủ điều trị cho bé.",
+  "Kết cục tốt không hợp thức hóa xử trí sai: dùng corticoid uống hoặc kháng sinh khi không có chỉ định có thể 'đỡ' nhưng không đúng (JTF 2023 Khuyến cáo 9, 25).",
+  "Dưỡng ẩm đều là nền tảng, không phải thuốc phụ (JTF 2023 Khuyến cáo 1, 2)."
+ ],
+ "diem_nho": [
+  "Hanifin và Rajka: ≥ 3 tiêu chuẩn chính + ≥ 3 tiêu chuẩn phụ (QĐ 75/2015, Viêm da cơ địa mục 3c).",
+  "Trẻ nhỏ: corticoid bôi hoạt tính yếu hydrocortison 1–2,5% (QĐ 75/2015 mục 4b); tránh nhóm mạnh > 4 tuần và ở nếp gấp (JTF 2023 Khuyến cáo 3).",
+  "Ivermectin chống chỉ định trẻ < 5 tuổi (QĐ 75/2015, Bệnh ghẻ mục 4b).",
+  "Không kháng sinh khi chưa có nhiễm khuẩn; không kiêng ăn; không corticoid toàn thân (JTF 2023 Khuyến cáo 9, 13, 25)."
+ ],
+ "nguon": [
+  "AAAAI/ACAAI JTF 2023 – Chu DK, et al. Ann Allergy Asthma Immunol 2024;132(3):274-312 – TL-0256 – ĐÃ ĐỌC: Khuyến cáo 1, 2, 3, 4, 6, 9, 10, 13, 25 và phần tóm tắt",
+  "QĐ 75/2015/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị các bệnh da liễu (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Viêm da cơ địa mục 1–6; Bệnh ghẻ mục 3–4; Viêm da tiếp xúc dị ứng mục 3–4",
+  "AAD 2026 viêm da cơ địa nhi (TL-0402), IACS 2020 ghẻ (TL-0429): chưa có toàn văn, không dùng",
+  "Ảnh da: SCIN (Google Research & Stanford), case -7706133768652999375, dataset/images/5959129552905070493.png"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-23: ca 1 lượt. Tài liệu đã đọc: JTF 2023 (Khuyến cáo 1–4, 6, 9, 10, 13, 25), QĐ 75/2015 (Viêm da cơ địa, Ghẻ, Viêm da tiếp xúc dị ứng).",
+  "Chỗ thiếu tài liệu: liều corticoid bôi cụ thể theo tuổi, tần suất hydrocortison, lượng dưỡng ẩm, liều kháng histamin cho trẻ 4 tuổi, lịch tái khám; AAD nhi 2026 và IACS 2020 chưa có toàn văn.",
+  "Âm thanh tim/phổi: không dùng (k:0, mô tả bằng chữ).",
+  "Ảnh da HA-DA-0062 (SCIN) đã đưa lên media-1, chưa khai báo trong danh_muc_media.json (xem NH-1028_media.json)."
+ ]
+}
