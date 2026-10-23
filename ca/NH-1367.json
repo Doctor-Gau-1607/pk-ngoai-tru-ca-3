@@ -1,0 +1,775 @@
+{
+ "ma_ca": "NH-1367",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới 2026-10-23",
+ "benh": "NH_sot_khong_ro_o",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sốt không rõ ổ nhiễm (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm khuẩn huyết",
+   "SXH",
+   "Nhiễm trùng tiểu"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau chuyến đi xa, ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thảo My",
+  "tuoi": 9,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 4",
+  "can_nang": 28,
+  "chieu_cao": 133,
+  "xung_ho": "Bé 9 tuổi, xưng 'con', gọi 'bác sĩ'. Mẹ (chị Lan) xưng 'em', trả lời phần lớn câu hỏi; khi bác sĩ hỏi thẳng bé thì bé tự trả lời ngắn.",
+  "tinh_cach": "Mẹ 35 tuổi, công nhân may ăn lương theo sản phẩm, nghỉ làm là mất lương ngày, nói nhanh, ngại tốn kém, hay tự mua thuốc ở tiệm. Bé ngoan, hơi nhút nhát, mệt khi sốt nhưng trả lời đủ ý khi được hỏi nhẹ nhàng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: chị Lan chỉ mang 100.000 đồng, hỏi giá trước từng xét nghiệm và nói 'bác sĩ cho thuốc là được'. Chị đồng ý khi bác sĩ giải thích xét nghiệm nào đổi cách xử trí và rẻ trước; từ chối xét nghiệm đắt 'để cho chắc'. Lượt 2 chị gom thêm 100.000 đồng. Chị ngại kể việc tự cho ibuprofen, chỉ kể khi được hỏi cụ thể từng loại thuốc hạ sốt.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 35 tuổi, đi cùng; trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha), bé trả lời khi được hỏi thẳng (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#ecc4a0",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#7aa5d6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b088",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#8a7f9e",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám viêm mũi theo hẹn; bé sốt mấy hôm nay",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm. Làm được công thức máu, CRP, test dengue, que thử và tổng phân tích nước tiểu, X-quang ngực. Bệnh viện huyện cách 12 km (30 phút) có siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – ngày sốt thứ 4",
+   "tiep_don": "Bé gái 9 tuổi, 28 kg, mẹ đưa đến tái khám viêm mũi theo hẹn của tháng trước. Mẹ nói thêm bé có sốt mấy hôm nay. Sinh hiệu: nhiệt 38,7 °C, mạch 112 l/p, HA 102/64 mmHg, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, hơi mệt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé My nhập viện hoặc truyền dịch ngay vì sốt 4 ngày: bé tỉnh, uống được, mao mạch 2 giây, không dấu hiệu cảnh báo, nhà cách 2 km. Phần lớn người bệnh nghi sốt xuất huyết được theo dõi ngoại trú khi cha mẹ tiếp cận được bệnh viện (QĐ 2760/2023 mục IV.A; WHO 2013 mục 6.10). Chị Lan mất 3–4 ngày công mà bé không được thêm gì ngoài xét nghiệm và theo dõi.",
+    "chuyen_tuyen": "Chuyển bé My lên bệnh viện huyện (12 km) làm siêu âm, cấy máu, NS1 trong ngày. Chị Lan chỉ có 100.000 đồng, chi phí tuyến trên vượt xa số đó (NS1 200.000, cấy máu 350.000 đồng) chưa kể đi lại; bé không có dấu hiệu nguy hiểm nên nhiều khả năng kết quả bình thường và vẫn về nhà theo dõi (WHO 2013 mục 6.10). Hết tiền, gia đình có thể bỏ lượt tái khám hằng ngày (QĐ 2760/2023 Phụ lục 21)."
+   },
+   "loi_mo": "Chào bác sĩ, em đưa cháu đi tái khám cái mũi theo hẹn tháng trước. Mà mấy bữa nay cháu cũng hâm hấp sốt, em nghĩ tại mũi thôi. Bác sĩ cho cháu thuốc nhỏ mũi như cũ giúp em, thuốc đó nhỏ vào là thông liền.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "102/64",
+    "nhiet": "38,7",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hôm nay đến tái khám viêm mũi theo hẹn tháng trước. Mẹ nói thêm bé sốt mấy hôm nay, nghĩ là do mũi. Mẹ muốn bác sĩ kê lại thuốc nhỏ mũi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (tái khám theo hẹn) và lý do thật"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt từ tối Chủ nhật, nay là ngày thứ 4. Cao nhất 39,2 °C, thường lên vào chiều tối; uống thuốc hạ sốt xuống còn khoảng 37,8 °C rồi sốt lại sau 4–5 giờ. Không rét run, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm sốt, thời gian (sốt ngày 4)"
+    },
+    {
+     "id": "trieu_chung_kem",
+     "noi_dung": "Đau đầu nhẹ, mỏi người, ăn ít. Không ho, không đau họng, không khàn tiếng, không đau tai, không chảy mủ tai, không nôn, không tiêu chảy, không đau bụng, không phát ban, không đau khớp. Nghẹt mũi như mọi ngày, không đau mặt, không chảy dịch mũi hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm ổ nhiễm theo hệ cơ quan (WHO 2013 mục 6.1.1)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Đi tiểu bình thường 4–5 lần/ngày, không buốt, không rắt, không đau bụng dưới, không đau lưng. Nước tiểu hơi vàng đậm, không đục, không có máu, không đái dầm lại. Chưa từng bị nhiễm trùng tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiết niệu (NICE NG224 Bảng 1; QĐ 3312 NTĐT mục 5)"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Chủ nhật vừa rồi cả nhà đi xe khách từ quê ngoại về, ngồi khoảng 8 giờ. Bé ít uống nước, ngại nhà vệ sinh dọc đường nên chỉ đi tiểu một lần. Về đến nhà chiều thì tối sốt. Quê ngoại ở huyện miền núi, không nghe có dịch sốt rét.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đi xa, ngồi lâu, nhịn tiểu, ít uống nước"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Nhà thuê trọ trong khu đông dân, chiều hay có muỗi. Hai tuần trước có một bé trong dãy trọ nghỉ học vì sốt xuất huyết. Tháng này khu phố có phun hóa chất diệt muỗi. Trong nhà không ai ốm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ sốt xuất huyết (QĐ 2760 Phụ lục 2: sống hoặc đến vùng có dịch)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé uống nước được khoảng 1 lít/ngày, ăn nửa chén cháo, không nôn, không li bì, chơi được khi hết sốt, không đau bụng, không chảy máu răng hay máu mũi, không thấy chấm đỏ trên da, tay chân không lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, dấu hiệu cảnh báo (QĐ 2760 IV.A.3b)"
+    },
+    {
+     "id": "thuoc_ha_sot",
+     "noi_dung": "Mẹ cho paracetamol viên 500 mg, 1 viên mỗi 4–5 giờ, khoảng 4 viên mỗi ngày. Hôm kia và hôm qua mẹ còn cho thêm ibuprofen siro (100 mg/5 mL) 10 mL mỗi lần, 2 lần mỗi ngày 'cho hạ nhanh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói 'cho thuốc hạ sốt'. Chỉ kể đủ khi bác sĩ hỏi cụ thể tên thuốc, hàm lượng, liều, số lần mỗi ngày, hoặc hỏi có cho ibuprofen không.",
+     "k": 1,
+     "y": "Thuốc hạ sốt tự cho: paracetamol quá liều, ibuprofen"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Bé bị viêm mũi dị ứng 2 năm. Hơn 2 tháng nay mẹ mua thuốc nhỏ mũi naphazolin 0,05% ở tiệm, nhỏ mỗi bên 2–3 giọt, 3–4 lần mỗi ngày vì nhỏ vào là thông mũi ngay, ngưng là nghẹt lại. Mẹ muốn xin kê thêm lọ nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi co mạch kéo dài"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khám viêm mũi dị ứng tháng trước ở phòng khám này, hẹn tái khám hôm nay. Chưa nằm viện, không dị ứng thuốc, tiêm chủng đủ theo lịch quốc gia, không bệnh mạn tính. Không có người thân bị lao.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị Lan là công nhân may, nghỉ làm là mất lương ngày; nhà trọ cách phòng khám khoảng 2 km, chị có xe máy. Hôm nay chị chỉ mang 100.000 đồng. Nghe giá xét nghiệm chị sợ, nói bác sĩ cho thuốc là được; nếu bác sĩ nói xét nghiệm nào thật sự cần thì chị làm trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh tài chính (không đủ tiền xét nghiệm)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mệt vừa. Da nóng, hồng, vã mồ hôi nhẹ. Môi hơi khô, niêm mạc miệng ẩm, mắt không trũng, khóc có nước mắt. Tay chân ấm, mao mạch đầu ngón 2 giây. Không phù mi.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không cứng gáy, cúi cằm chạm ngực được. Hạch dưới hàm hai bên nhỏ dưới 1 cm, di động, không đau. Không sờ thấy hạch góc hàm lớn. Ấn các xoang trán, xoang hàm không đau.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi nhợt, cuốn dưới hai bên hơi phù, dịch trong ít, vách ngăn trước hơi khô, không chảy máu. Họng đỏ nhẹ, amidan không to, không mủ, không giả mạc. Môi khô nhẹ, lưỡi hồng, không đỏ sẫm, không nổi gai. Màng nhĩ hai bên xám trong, không phồng, ấn vành tai không đau.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không rút lõm lồng ngực, không phập phồng cánh mũi. Rì rào phế nang êm hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn khắp bụng không đau, không phản ứng thành bụng. Gan không sờ thấy dưới bờ sườn, lách không sờ thấy. Ấn trên xương mu không đau.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Gõ hai hố thắt lưng không đau. Không cầu bàng quang. Âm hộ không đỏ, không tiết dịch.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da nóng, hồng. Không ban, không chấm hay mảng xuất huyết, không bầm. Bàn tay, bàn chân không phù, không đỏ tía.",
+     "k": 0
+    },
+    "nghiem_phap_day_that": {
+     "a": "Nghiệm pháp dây thắt âm tính: 4 chấm xuất huyết/6,25 cm² (dưới 20) (QĐ 2760 Phụ lục 24, nghiệm pháp dây thắt: dương tính khi trên 20 chấm/6,25 cm²).",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 28 kg, chiều cao 133 cm.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "que_nt": {
+     "v": "e",
+     "r": "Bạch cầu âm, nitrit âm, hồng cầu âm, protein âm, ceton âm; tỷ trọng 1.025.",
+     "n": "Nên làm: bé gái sốt không ổ, vừa nhịn tiểu 8 giờ (NICE NG224 mục 1.1.1, Bảng 1; WHO 2013 mục 6.1.1 có soi nước tiểu). 15.000 đồng, đủ ngân sách. Bạch cầu esterase và nitrit cùng âm: coi như không nhiễm trùng tiểu, không cần cấy (NICE NG224 mục 1.1.20, Bảng 2)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 5,0 G/L · Neutrophil 52% · Hb 126 g/L · Hct 0,38 · TC 205 G/L",
+     "bang": {
+      "wbc": 5.0,
+      "neu_pct": 52,
+      "neu": 2.6,
+      "lym_pct": 38,
+      "lym": 1.9,
+      "mono_pct": 8,
+      "mono": 0.4,
+      "eos_pct": 1.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.5,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 84,
+      "mch": 28,
+      "mchc": 332,
+      "rdw": 12.9,
+      "plt": 205
+     },
+     "n": "Nên làm với 50.000 đồng: sốt ngày 4, vùng có ca, cho mốc Hct và tiểu cầu nền để so ngày sau (WHO 2013 mục 6.1.1; QĐ 2760 mục II.2.2: Hct tăng trên 20%, tiểu cầu dưới 100 G/L). Bình thường không loại trừ dengue vì pha sốt có thể chưa giảm (QĐ 2760 Phụ lục 2); bạch cầu 5,0 không gợi nhiễm khuẩn huyết (QĐ 3312 Nhiễm trùng huyết mục 2.2)."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "Chấp nhận, không bắt buộc: NS1 ngày 1–7, ưu tiên 5 ngày đầu (QĐ 2760 mục III.1.1) nhưng 200.000 đồng vượt ngân sách; công thức máu lặp hằng ngày là cách xếp ưu tiên. Độ nhạy NS1 ngày 4: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 14 mg/L",
+     "bang": {
+      "crp": 14
+     },
+     "ab": 1,
+     "n": "Chấp nhận, không đổi quyết định hôm nay; WHO 2013 mục 6.1.1 không liệt kê CRP cho sốt không ổ. 80.000 đồng làm hết tiền cho xét nghiệm đổi được quyết định."
+    },
+    "cay_nuoc_tieu": {
+     "v": "a",
+     "r": "Không mọc vi khuẩn sau 48 giờ.",
+     "n": "Chấp nhận, không bắt buộc: que thử âm thì không gửi cấy (NICE NG224 mục 1.1.20, Bảng 2); QĐ 3312 NTĐT mục 6 xem cấy là xét nghiệm chẩn đoán. 200.000 đồng, 48 giờ mới có kết quả."
+    },
+    "pct": {
+     "v": "n",
+     "r": "Procalcitonin 0,04 ng/mL",
+     "n": "Không cần: 350.000 đồng, bé không nặng; QĐ 3312 NTĐT mục 6: không làm thường quy do giá."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt cấp ngày thứ 4 chưa rõ ổ nhiễm ở trẻ gái 9 tuổi, nhiều khả năng nhiễm virus; chưa có dấu hiệu nguy hiểm; SXH chưa loại hẳn nên theo dõi hằng ngày",
+     "ok": 1,
+     "n": "Hỏi bệnh và khám đủ hệ cơ quan mà không có ổ nhiễm khu trú: không dấu màng não, tai, họng, xoang, phổi, bụng, da, khớp (WHO 2013 mục 6.1.1, Bảng 16–17). Bé tỉnh, uống được, mao mạch 2 giây, tiểu bình thường nên thuộc nhóm theo dõi tại nhà (QĐ 2760 mục IV.A, Phụ lục 21)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Không nghĩ: Phoenix 0 (SpO₂ 99%, huyết áp trung bình ≈ 77 mmHg, trên 48 mmHg của nhóm 5–<12 tuổi, tiểu cầu 205 G/L, tỉnh) (Phoenix JAMA 2024 Bảng); không tím tái, không ban xuất huyết, không sốc (WHO 2013 Bảng 16). QĐ 3312 (2015) dùng tiêu chuẩn cũ (sốt, tim nhanh, thở nhanh, bạch cầu); Phoenix là bản mới hơn."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Chưa loại hẳn: sốt ngày 4, khu trọ có ca, đau đầu, mỏi người (QĐ 2760 mục II.1; WHO 2013 mục 6.10). Nhưng không xuất huyết, nghiệm pháp dây thắt âm, gan không to, không đau bụng, không nôn, không dấu hiệu cảnh báo (QĐ 2760 Phụ lục 2). Công thức máu bình thường chưa loại trừ nên tái khám hằng ngày."
+    },
+    {
+     "t": "Nhiễm trùng tiểu",
+     "n": "Ít nghĩ: không tiểu buốt, rắt, đau bụng dưới, đau lưng; hố thắt lưng, trên xương mu không đau; que thử esterase và nitrit cùng âm (NICE NG224 Bảng 1, mục 1.1.20 Bảng 2). Que thử độ nhạy 78,7% (QĐ 3312 NTĐT mục 6) nên làm lại nếu còn sốt không ổ khác."
+    },
+    {
+     "t": "Viêm xoang cấp, viêm họng, viêm tai giữa, viêm phổi",
+     "n": "Không có ổ: không đau mặt, không dịch mũi mủ (WHO 2013 Bảng 17), họng không xuất tiết, màng nhĩ xám trong, không ho, thở 22 l/p, phổi sạch (QĐ 3312 Viêm phổi mục 1: thở nhanh trên 5 tuổi từ 30 l/p). Viêm mũi dị ứng là bệnh nền, không quy được sốt cho mũi."
+    },
+    {
+     "t": "Kawasaki",
+     "n": "Chưa đủ: mới sốt ngày 4, kết mạc, môi lưỡi, tay chân bình thường, không ban, hạch dưới 1,5 cm (QĐ 3312 Kawasaki mục 3.1 Bảng 1). Soát lại khi sốt đến ngày 5 (NICE NG143 mục 1.2.14, 1.2.25; viết cho dưới 5 tuổi)."
+    },
+    {
+     "t": "Thương hàn, sốt rét",
+     "n": "Không nghĩ: không đau bụng, không lú lẫn, không bệnh nặng không rõ lý do; quê ngoại không có sốt rét (WHO 2013 Bảng 16)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; không truyền dịch; chăm sóc tại nhà và theo dõi",
+     "v": "c",
+     "n": "Chưa có ổ nhiễm khuẩn; NICE NG143 mục 1.4.9 không kê kháng sinh uống cho sốt không ổ (dưới 5 tuổi; bé 9 tuổi: không có khuyến cáo riêng trong tài liệu đã tải). Bé uống được, không dấu hiệu cảnh báo nên uống bù (QĐ 2760 mục IV.A.2; WHO 2013 mục 6.10); nhà gần, mẹ theo dõi được nên không nhập viện (QĐ 2760 mục IV.A)."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi naphazolin dùng hằng ngày; thay bằng rửa mũi, nhỏ nước muối sinh lý",
+     "v": "c",
+     "n": "ARIA-EAACI 2024–2025 mục 5.2.2: tránh co mạch mũi ở trẻ dưới 12 tuổi, nếu dùng không quá 5 ngày; QĐ 5643 (Viêm mũi xoang cấp mục 4.2.1): xịt kéo dài làm bệnh nặng hơn. Cách ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt chỉ bằng paracetamol đơn chất 10–15 mg/kg/lần (28 kg: 280–420 mg), cách 4–6 giờ, tối đa 60 mg/kg/24 giờ (1.680 mg); không ibuprofen, aspirin, analgin",
+     "v": "c",
+     "n": "QĐ 2760 mục IV.A.1: paracetamol đơn chất 10–15 mg/kg cách 4–6 giờ, ≤ 60 mg/kg/24 giờ, không aspirin, analgin, ibuprofen (có thể gây xuất huyết, toan máu); WHO 2013 mục 6.10. AWaRe 2022 (tr. 50) 20–<30 kg: 300 mg mỗi 6 giờ. Dùng khi ≥ 38,5 °C (QĐ 2760) hoặc khi bé khó chịu (NICE NG143 mục 1.6.4–1.6.5, dưới 5 tuổi). Mẹ cho ≈ 71 mg/kg/24 giờ vượt 60 mg/kg."
+    },
+    {
+     "t": "Uống nhiều nước: oresol, nước trái cây, cháo loãng với muối; tránh thực phẩm màu nâu hoặc đỏ",
+     "v": "c",
+     "n": "QĐ 2760 mục IV.A.2; WHO 2013 mục 6.10. Số mL/kg cho nghi dengue không dấu hiệu cảnh báo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tái khám ngày mai và mỗi ngày đến khi hết sốt 2 ngày; dặn các dấu hiệu phải quay lại ngay",
+     "v": "c",
+     "n": "QĐ 2760 Phụ lục 21: tái khám mỗi ngày đến khi hết sốt 2 ngày; mục IV.A.3: đến ngay khi khó chịu hơn, không ăn uống được, nôn nhiều, đau bụng nhiều, tay chân lạnh ẩm, mệt lả, chảy máu mũi miệng, không tiểu trên 6 giờ, lú lẫn, li bì."
+    },
+    {
+     "t": "Giải thích cho chị Lan xét nghiệm nào đáng làm với 100.000 đồng: que thử nước tiểu và công thức máu trước, để dành NS1 nếu sau này bé còn sốt hoặc xét nghiệm xấu đi",
+     "v": "c",
+     "n": "Que thử nước tiểu loại trừ nhiễm trùng tiểu (NICE NG224); công thức máu cho mốc Hct, tiểu cầu (QĐ 2760 mục II.2.2). NS1 ưu tiên 5 ngày đầu (QĐ 2760 mục III.1.1)."
+    },
+    {
+     "t": "Hẹn bắt đầu xịt mũi corticoid cho viêm mũi dị ứng sau khi hết sốt",
+     "v": "a",
+     "n": "ARIA-EAACI 2024–2025 mục 5.3.1: xịt mũi corticoid hơn không điều trị, áp dụng cho trẻ em. Thuốc và liều cụ thể: không có trong tài liệu đã tải. Không bắt buộc hôm nay."
+    },
+    {
+     "t": "Kê kháng sinh cho bé sốt chưa rõ ổ",
+     "v": "w",
+     "n": "NICE NG143 mục 1.4.9: không kê kháng sinh cho sốt không ổ (dưới 5 tuổi). Cho trẻ từ 5 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho ibuprofen, aspirin hoặc analgin hạ sốt, hoặc xen kẽ với paracetamol",
+     "v": "w",
+     "n": "Dengue chưa loại hẳn: QĐ 2760 mục IV.A.1 và WHO 2013 mục 6.10 không dùng NSAID. NICE NG143 mục 1.6.4–1.6.6 cho ibuprofen nhưng viết cho dưới 5 tuổi, không bàn dengue."
+    },
+    {
+     "t": "Kê thêm thuốc nhỏ mũi co mạch theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "ARIA-EAACI 2024–2025 mục 5.2.2: tránh ở trẻ dưới 12 tuổi; QĐ 5643 mục 4.2.1: kéo dài làm bệnh nặng hơn. Bé đã dùng hơn 2 tháng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt cấp ngày thứ 4 chưa rõ ổ nhiễm ở trẻ gái 9 tuổi, nhiều khả năng do virus, chưa có dấu hiệu nguy hiểm",
+     "Đã loại trừ nhiễm khuẩn huyết (điểm Phoenix 0) và nhiễm trùng tiểu (que thử âm tính); sốt xuất huyết Dengue chưa loại hẳn nên theo dõi hằng ngày",
+     "Viêm mũi dị ứng nền; lạm dụng thuốc nhỏ mũi co mạch hơn 2 tháng",
+     "Tự dùng paracetamol quá liều (≈ 71 mg/kg/24 giờ) và ibuprofen khi chưa loại trừ sốt xuất huyết"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt → triệu chứng theo hệ cơ quan → dịch tễ, đi lại → thuốc đã dùng; mẹ đến tái khám viêm mũi nên dễ quy sốt cho mũi, phải hỏi lại sốt từ đầu. Sốt không rõ ổ chỉ kết luận sau khi khám đủ các hệ (WHO 2013 mục 6.1.1, Bảng 16–17); nhiễm khuẩn huyết, thương hàn, nhiễm trùng tiểu có thể không dấu khu trú nên phải loại trừ (WHO 2013 mục 6.1.2).",
+     "Nhiễm khuẩn huyết: Phoenix từ 2 điểm (Phoenix JAMA 2024, Bảng); bé 0 điểm, huyết áp trung bình (102 + 2 × 64)/3 ≈ 77 mmHg. Sốt xuất huyết: sốt ngày 4, khu trọ có ca nên phải nghĩ (QĐ 2760 Phụ lục 2); nghiệm pháp dây thắt 4 chấm (dưới 20), không cảnh báo; pha nguy hiểm ngày 3–7 (QĐ 2760 mục II.2), quanh lúc giảm sốt ngày 4–5 (WHO 2025 mục 2.2) nên ngày 5 là mốc khám lại.",
+     "Nhiễm trùng tiểu: sốt, ít uống, nhịn tiểu làm tăng khả năng (NICE NG224 Bảng 1; QĐ 3312 NTĐT mục 3.2) nhưng esterase và nitrit cùng âm thì coi như không nhiễm trùng tiểu (NICE NG224 mục 1.1.20, Bảng 2).",
+     "Xếp ưu tiên với 100.000 đồng: que thử nước tiểu 15.000 và công thức máu 50.000; không làm procalcitonin, cấy máu, test cúm, X-quang vì không đổi xử trí; NS1 200.000 để dành nếu mai còn sốt (QĐ 2760 mục III.1.1). Không có siêu âm: chỉ cần khi thoát huyết tương (QĐ 2760 mục II.2.2), dựa vào lâm sàng và Hct."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: chưa có ổ nhiễm khuẩn (NICE NG143 mục 1.4.9, dưới 5 tuổi). Bé tỉnh, uống được, nhà gần nên chăm sóc tại nhà, không nhập viện (WHO 2013 mục 6.10; QĐ 2760 mục IV.A).",
+     "Hạ sốt: QĐ 2760 mục IV.A.1 khi ≥ 38,5 °C, paracetamol 10–15 mg/kg cách 4–6 giờ, ≤ 60 mg/kg/24 giờ; NICE NG143 mục 1.6.4–1.6.5 khi trẻ khó chịu (dưới 5 tuổi); ghi cả hai. Bé 28 kg: 280–420 mg (QĐ 2760); AWaRe 2022 tr. 50: 300 mg mỗi 6 giờ. Mẹ cho 500 mg × 4 ≈ 71 mg/kg/24 giờ vượt 60 mg/kg. Không ibuprofen, aspirin, analgin khi dengue chưa loại hẳn (QĐ 2760 mục IV.A.1; WHO 2013 mục 6.10); mẹ đã cho ibuprofen hai ngày: dặn ngưng, không trách.",
+     "Ngưng thuốc nhỏ mũi co mạch, thay nước muối, hẹn xịt corticoid (ARIA-EAACI 2024–2025 mục 5.2.2, 5.3.1; QĐ 5643 mục 4.2.1).",
+     "Bù dịch đường uống, tái khám mỗi ngày đến khi hết sốt 2 ngày, dặn dấu hiệu nặng (QĐ 2760 mục IV.A.2–3, Phụ lục 21)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol đơn chất (gói bột hoặc siro cho trẻ)",
+      "ham_luong": "Gói 150 mg (hoặc siro 120 mg/5 mL)",
+      "lieu": "300 mg mỗi lần = 2 gói (≈ 10,7 mg/kg; khoảng cho phép 280–420 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc bé khó chịu; cách lần trước ít nhất 4–6 giờ (không vượt 4 lần/24 giờ)",
+      "so_ngay": "Những ngày còn sốt; tối đa 1.200 mg/24 giờ theo liều này (trần 60 mg/kg/24 giờ = 1.680 mg)",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.1 (10–15 mg/kg cách 4–6 giờ, ≤ 60 mg/kg/24 giờ, không aspirin, analgin, ibuprofen); AWaRe 2022 tr. 50 (20–<30 kg: 300 mg mỗi 6 giờ); NICE NG143 mục 1.6.4–1.6.5. Dừng ibuprofen. Không tự cho viên 500 mg."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ hoặc xịt mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc xịt mỗi bên mũi khi nghẹt; rửa mũi nhẹ",
+      "duong": "Nhỏ, xịt mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước ngủ; thay hoàn toàn thuốc nhỏ mũi naphazolin",
+      "so_ngay": "Dùng đến lần tái khám; số lần mỗi ngày: không có trong tài liệu đã tải cho viêm mũi dị ứng",
+      "ghi_chu": "QĐ 5643/2015 (Ngạt mũi mục 4.1; Viêm mũi xoang cấp mục 4.2.1): rửa mũi natriclorid 0,9%; ARIA-EAACI 2024–2025 mục 5.2.2: tránh co mạch ở trẻ dưới 12 tuổi."
+     },
+     {
+      "thuoc": "Oresol (hoặc nước trái cây, cháo loãng với muối)",
+      "ham_luong": "Gói oresol pha theo hướng dẫn trên bao bì",
+      "lieu": "Uống theo nhu cầu, khuyến khích uống nhiều",
+      "duong": "Uống",
+      "thoi_diem": "Uống từng ngụm nhỏ, đều trong ngày, nhất là khi sốt",
+      "so_ngay": "Đến khi hết sốt và ăn uống bình thường",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.2; WHO 2013 mục 6.10. Không cho thực phẩm màu nâu hoặc đỏ (xá xị, sô cô la)."
+     }
+    ],
+    "dan_do": [
+     "Chưa tìm ra chỗ nhiễm; nhiều khả năng virus tự khỏi nhưng sốt xuất huyết chưa loại hẳn (khu trọ có ca, sốt ngày 4): không cần kháng sinh, truyền dịch, nhưng phải khám lại mỗi ngày (QĐ 2760 Phụ lục 21; WHO 2013 mục 6.10).",
+     "Cho bé uống nhiều nước, oresol, nước trái cây, cháo loãng; không ăn đồ màu nâu hoặc đỏ (QĐ 2760 mục IV.A.2).",
+     "Chỉ dùng paracetamol, đúng liều 2 gói 150 mg mỗi lần, cách nhau ít nhất 4–6 giờ, không quá 4 lần/ngày; viên 500 mg là quá liều cho bé 28 kg. Ngưng ibuprofen, không tự mua aspirin, thuốc cảm có analgin (QĐ 2760 mục IV.A.1; AWaRe 2022 tr. 50).",
+     "Ngưng nhỏ naphazolin; dùng nước muối sinh lý. Bé sẽ nghẹt mũi hơn vài ngày, báo lại khi tái khám; không tự mua thuốc co mạch (ARIA-EAACI 2024–2025 mục 5.2.2).",
+     "Đến ngay nếu bé khó chịu hơn dù hết sốt, không ăn uống được, nôn nhiều, đau bụng nhiều, tay chân lạnh ẩm, mệt lả, chảy máu mũi hoặc miệng, không tiểu trên 6 giờ, lú lẫn, li bì (QĐ 2760 mục IV.A.3b); co giật, ban không mất khi ấn (NICE NG143 mục 1.7.3); tiểu buốt, tiểu đục (NICE NG224 Bảng 1).",
+     "Hẹn tái khám sáng mai (ngày sốt thứ 5) và mỗi ngày đến khi hết sốt 2 ngày (QĐ 2760 Phụ lục 21). Hôm nay 65.000 đồng; mai còn sốt nên làm NS1 (200.000) hoặc lặp công thức máu (50.000)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – ngày sốt thứ 5",
+   "tiep_don": "Bé My tái khám theo hẹn, ngày sốt thứ 5. Mẹ nói đã cho bé uống nước đều, dùng paracetamol đúng liều, ngưng ibuprofen và thuốc nhỏ mũi như đã dặn. Đêm qua bé chảy máu mũi hai lần. Sinh hiệu: nhiệt 38,3 °C, mạch 108 l/p, HA 100/64 mmHg, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, mệt vừa.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé My nhập viện vì chảy máu mũi khi sốt ngày 5. Chảy máu niêm mạc là dấu hiệu cảnh báo khi đã có dengue (WHO 2025 mục 2.7; QĐ 2760 Phụ lục 2), nhưng công thức máu bình thường (tiểu cầu 238 G/L, Hct 0,37), chảy một bên, tự cầm, có vảy máu vách ngăn trước và không có dấu cảnh báo khác. Chị Lan nghỉ làm nhiều ngày, mất thu nhập mà bé không có điều trị nào ngoài theo dõi.",
+    "chuyen_tuyen": "Chuyển bé My lên bệnh viện huyện (12 km) siêu âm bụng và màng phổi. Siêu âm chỉ có giá trị khi nghi thoát huyết tương (QĐ 2760 mục II.2.2, Phụ lục 2); bé không đau bụng, gan không to, phổi sạch, Hct không tăng nên kết quả nhiều khả năng bình thường. Gia đình tốn tiền, mất buổi công và có thể bỏ lượt khám lại hằng ngày gần nhà, là lượt quan trọng hơn (QĐ 2760 Phụ lục 21)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu vẫn còn sốt, hôm qua em làm đúng như bác sĩ dặn hết. Mà đêm qua cháu chảy máu mũi hai lần, em sợ quá, hàng xóm nói chảy máu cam là sốt xuất huyết nặng đó bác sĩ.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "100/64",
+    "nhiet": "38,3",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bé vẫn sốt: hôm qua cao nhất 39,0 °C, sáng nay 38,3 °C. Ăn khá hơn (nửa chén cháo hai lần), uống khoảng 1,2 lít nước, tiểu bình thường, không nôn, không đau bụng, đỡ đau đầu. Mẹ làm đúng dặn: paracetamol 2 gói 150 mg mỗi lần, hôm qua cho 3 lần, đã ngưng ibuprofen và ngưng nhỏ naphazolin, dùng nước muối.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1"
+    },
+    {
+     "id": "cam",
+     "noi_dung": "Khoảng 2 giờ sáng bé chảy máu mũi bên trái chừng 10 phút, mẹ bóp mũi và thấm bằng khăn giấy; lần hai lúc 5 giờ khoảng 5 phút. Sáng nay xì mũi còn vệt máu. Mỗi lần thấm nửa đến một khăn giấy, máu đỏ tươi. Bé không chóng mặt, không nôn ra máu, không nuốt máu. Đây là lần đầu bé chảy máu cam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm chảy máu mũi: bên, số lần, thời gian, lượng (AAO-HNS 2020 Statement 1)"
+    },
+    {
+     "id": "xuat_huyet_khac",
+     "noi_dung": "Không chảy máu chân răng, không bầm tím, không chấm đỏ ở da, không tiểu máu, không đi ngoài phân đen, không nôn ra máu, không đau bụng, tay chân ấm, không nôn nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xuất huyết khác và dấu hiệu cảnh báo (QĐ 2760 Phụ lục 2)"
+    },
+    {
+     "id": "ngoay_mui",
+     "noi_dung": "Từ khi ngưng nhỏ thuốc, bé nghẹt mũi nhiều hơn, ngứa mũi, hay ngoáy mũi bằng ngón tay (móng dài) và xì mũi mạnh, nhất là buổi tối trước khi ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không nghĩ tới chuyện này. Chỉ kể khi bác sĩ hỏi bé có ngoáy mũi, xì mũi mạnh, nghẹt mũi nhiều hơn từ khi ngưng thuốc nhỏ mũi không, hoặc hỏi thẳng bé.",
+     "k": 1,
+     "y": "Nguyên nhân tại chỗ: ngoáy mũi, xì mạnh (AAO-HNS 2020 Statement 5, Table 10)"
+    },
+    {
+     "id": "tien_su_chay_mau",
+     "noi_dung": "Trước nay bé chưa chảy máu cam, không dễ bầm tím, trầy xước hay nhổ răng không chảy máu lâu, cả nhà không ai bị bệnh chảy máu. Bé không uống aspirin hay thuốc chống đông; ibuprofen đã dùng hai ngày trước lượt 1 và nay ngưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ chảy máu (AAO-HNS 2020 Statement 5)"
+    },
+    {
+     "id": "kawasaki",
+     "noi_dung": "Từ khi sốt mắt bé không đỏ, môi không nứt chảy máu, lưỡi không đỏ nổi gai, tay chân không sưng đỏ, không phát ban, không bong da đầu ngón.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi dấu hiệu Kawasaki từ lúc khởi phát (NICE NG143 mục 1.2.26)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị Lan gom thêm được 100.000 đồng sáng nay. Chị sợ phải nằm viện vì nghỉ làm thêm là mất lương; nếu có xét nghiệm nào thật sự cần thì chị chọn cái đáng nhất.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh tài chính (không đủ tiền xét nghiệm)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mệt vừa, da nóng hồng. Môi hơi khô, niêm mạc miệng ẩm, khóc có nước mắt. Tay chân ấm, mao mạch đầu ngón 2 giây. Không phù mi, không vật vã, không li bì.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Soi mũi trước bằng đèn soi tai, không đang chảy máu. Mũi trái: vách ngăn phần trước (vùng Kiesselbach) có vảy máu khô và vết trầy nhỏ, niêm mạc quanh đó khô, đỏ, nứt nhẹ. Mũi phải: niêm mạc khô, cuốn dưới phù. Không polyp, không khối, không ứ mủ. Họng đỏ nhẹ, không giả mạc. Môi khô nhẹ, không nứt chảy máu; lưỡi hồng, không nổi gai. Màng nhĩ hai bên xám trong.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt không đỏ, không ghèn, mi không phù.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không rút lõm lồng ngực. Rì rào phế nang êm hai bên, nghe rõ cả hai đáy phổi, gõ trong, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn khắp bụng không đau, kể cả hạ sườn phải. Gan không sờ thấy dưới bờ sườn (không to quá 2 cm), lách không sờ thấy. Gõ vùng thấp không đục, không dấu hiệu dịch ổ bụng.",
+     "k": 1
+    },
+    "nghiem_phap_day_that": {
+     "a": "Nghiệm pháp dây thắt âm tính: 3 chấm xuất huyết/6,25 cm² (dưới 20) (QĐ 2760 Phụ lục 24).",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 6,4 G/L · Neutrophil 48% · Hb 125 g/L · Hct 0,37 · TC 238 G/L",
+     "bang": {
+      "wbc": 6.4,
+      "neu_pct": 48,
+      "neu": 3.1,
+      "lym_pct": 42,
+      "lym": 2.7,
+      "mono_pct": 8,
+      "mono": 0.5,
+      "eos_pct": 1.5,
+      "eos": 0.1,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.5,
+      "hgb": 125,
+      "hct": 0.37,
+      "mcv": 83,
+      "mch": 27.8,
+      "mchc": 338,
+      "rdw": 13.0,
+      "plt": 238
+     },
+     "n": "Cần làm (50.000 đồng): sốt ngày 5 kèm chảy máu niêm mạc là dấu hiệu cảnh báo nếu là dengue (QĐ 2760 Phụ lục 2; WHO 2025 mục 2.7); cần Hct, tiểu cầu (QĐ 2760 mục II.2.2). Hct 0,37 (hôm qua 0,38) không cô đặc; tiểu cầu 238 (hôm qua 205) không giảm; tiểu cầu bình thường cũng loại bước đầu rối loạn cầm máu (AAO-HNS 2020 Statement 5). Số lần cần lặp công thức máu để loại dengue: không có trong tài liệu đã tải; QĐ 2760 Phụ lục 21 tái khám mỗi ngày."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan không to, không dịch ổ bụng, thành túi mật mỏng, hai thận bình thường.",
+     "thay_the": "ctm",
+     "n": "Nên có nếu nghi thoát huyết tương (tràn dịch màng bụng, màng phổi trên siêu âm: QĐ 2760 Phụ lục 2) nhưng cơ sở không có siêu âm. Thay bằng khám bụng, gan, phổi và công thức máu (Hct, tiểu cầu)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 9 mg/L",
+     "bang": {
+      "crp": 9
+     },
+     "ab": 1,
+     "n": "Chấp nhận, không đổi quyết định; WHO 2013 mục 6.1.1 không liệt kê CRP."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "Chấp nhận: NS1 ngày 5 còn dùng được, IgM, IgG từ ngày 5 nếu NS1 âm (QĐ 2760 mục III.1.1). 200.000 đồng vượt 100.000 đồng; nên làm nếu mai còn sốt. Độ nhạy ngày 5: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt ngày thứ 5 chưa rõ ổ nhiễm, nhiều khả năng nhiễm virus; chảy máu mũi trước do tổn thương niêm mạc tại chỗ (dùng thuốc co mạch kéo dài, ngoáy mũi, xì mạnh), chưa có bằng chứng sốt xuất huyết",
+     "ok": 1,
+     "n": "Chảy máu một bên, từ vùng vách ngăn trước có vảy và trầy xước, tự cầm khi bóp mũi; bé có tiền sử ngoáy mũi và dùng thuốc co mạch 2 tháng (AAO-HNS 2020 Statement 5, 6, Table 10); công thức máu bình thường, nghiệm pháp dây thắt âm, không xuất huyết nơi khác. Mối liên quan giữa naphazolin kéo dài và chảy máu cam: không có trong tài liệu đã tải; ca dựa vào tổn thương niêm mạc khô khi khám."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue có dấu hiệu cảnh báo",
+     "n": "Ít nghĩ nhưng chưa loại hẳn: chảy máu niêm mạc là dấu hiệu cảnh báo (QĐ 2760 Phụ lục 2; WHO 2025 mục 2.7). Hct không tăng, tiểu cầu 238 G/L, không đau bụng, gan không to, không nôn, tỉnh, tay chân ấm; nguyên nhân chảy máu tại chỗ rõ. Vẫn khám hằng ngày vì pha nguy hiểm đến ngày 7 (QĐ 2760 mục II.2)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Không nghĩ: Phoenix 0 (SpO₂ 99%, huyết áp trung bình 76 mmHg, tiểu cầu 238 G/L, tỉnh) (Phoenix JAMA 2024, Bảng)."
+    },
+    {
+     "t": "Nhiễm trùng tiểu",
+     "n": "Không nghĩ: không triệu chứng tiết niệu, que thử hôm qua âm (NICE NG224 Bảng 1–2). Que thử độ nhạy 78,7% (QĐ 3312 NTĐT mục 6) nên làm lại nếu còn sốt nhiều ngày không ổ khác."
+    },
+    {
+     "t": "Kawasaki",
+     "n": "Chưa đủ: chỉ có sốt từ 5 ngày; kết mạc, môi lưỡi, tay chân, ban, hạch đều không có (QĐ 3312 Kawasaki mục 3.1 Bảng 1: cần 5 trong 6 tiêu chuẩn). NICE NG143 mục 1.2.14, 1.2.25–1.2.26: sốt từ 5 ngày thì soát Kawasaki (dưới 5 tuổi)."
+    },
+    {
+     "t": "Rối loạn đông máu, giảm tiểu cầu, bệnh máu",
+     "n": "Ít nghĩ: chảy máu cam đơn độc lần đầu, tiểu cầu 238 G/L, không bầm tím, không tiền sử cá nhân hay gia đình chảy máu (AAO-HNS 2020 Statement 5). Tái diễn: xét nghiệm đông máu, hội chẩn huyết học."
+    },
+    {
+     "t": "U hoặc polyp mũi (u xơ vòm mũi họng)",
+     "n": "Không nghĩ: u xơ vòm gặp ở nam 8–12 tuổi, ngạt một bên kèm chảy máu tự cầm (QĐ 5643 Ngạt mũi mục 3.1.1); bé nữ, ngạt hai bên, soi mũi trước không khối. Nội soi khi tái diễn hoặc một bên (AAO-HNS 2020 Statement 7a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Soi mũi trước (đèn soi tai) tìm vị trí chảy máu; hiện không chảy nên không cần nhét bấc, đốt, nội soi",
+     "v": "c",
+     "n": "AAO-HNS 2020 Statement 6: soi mũi trước sau khi lấy cục máu, ở trẻ nhỏ thường dùng đèn soi tai; Statement 7a: nội soi khi tái diễn dù đã nhét bấc/đốt hoặc tái diễn một bên."
+    },
+    {
+     "t": "Dạy cách cầm máu: ngồi hơi cúi ra trước, xì nhẹ bỏ cục máu, bóp phần mềm của mũi bằng ngón cái và ngón trỏ ít nhất 5 phút, chưa ngừng thì bóp tiếp tới 15 phút",
+     "v": "c",
+     "n": "AAO-HNS 2020 Statement 2 (bóp phần ba dưới của mũi từ 5 phút trở lên; 15 phút là thời gian dùng trong thử nghiệm duy nhất) và Table 10."
+    },
+    {
+     "t": "Làm ẩm niêm mạc mũi bằng nước muối sinh lý hoặc gel; không ngoáy mũi, cắt ngắn móng tay, xì mũi nhẹ từng bên; tiếp tục không nhỏ thuốc co mạch hằng ngày",
+     "v": "c",
+     "n": "AAO-HNS 2020 Statement 13, Table 10 (bỏ ngoáy mũi, xì mạnh; làm ẩm bằng nước muối, gel; bằng chứng còn ít). ARIA-EAACI 2024–2025 mục 5.2.2: tránh co mạch ở trẻ dưới 12 tuổi."
+    },
+    {
+     "t": "Cho về, hẹn tái khám sáng mai và mỗi ngày đến khi hết sốt 2 ngày; lặp công thức máu hoặc NS1 nếu mai còn sốt. Không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "QĐ 2760 Phụ lục 21 và mục IV.A.3 (tái khám mỗi ngày đến khi hết sốt 2 ngày); WHO 2013 mục 6.10 (nhập viện khi chảy máu niêm mạc ở người đã nghi dengue hoặc Hct tăng nhanh). Lâm sàng và xét nghiệm không ủng hộ dengue nên cho về là đánh giá của người soạn; tài liệu đã tải không nêu ngưỡng 'chảy máu cam và công thức máu bình thường thì cho về'."
+    },
+    {
+     "t": "Tiếp tục hạ sốt bằng paracetamol đơn chất 2 gói 150 mg (300 mg) mỗi lần cách 4–6 giờ, tối đa 60 mg/kg/24 giờ; không ibuprofen, aspirin",
+     "v": "c",
+     "n": "QĐ 2760 mục IV.A.1; AWaRe 2022 tr. 50 (20–<30 kg: 300 mg mỗi 6 giờ); AAO-HNS 2020 Statement 5: thuốc ảnh hưởng đông máu là yếu tố nguy cơ chảy máu mũi."
+    },
+    {
+     "t": "Uống nhiều nước, oresol; dặn dấu hiệu phải đến ngay và mốc sốt kéo dài",
+     "v": "c",
+     "n": "QĐ 2760 mục IV.A.2, IV.A.3b; WHO 2013 mục 6.10 và 6.1.2 (sốt trên 7 ngày tìm nguyên nhân khác); QĐ 3312 mục 3.1, NICE NG143 mục 1.7.3 (Kawasaki)."
+    },
+    {
+     "t": "Xịt thuốc co mạch (oxymetazolin) một lần khi đang chảy máu để hỗ trợ cầm máu tại chỗ",
+     "v": "a",
+     "n": "AAO-HNS 2020 Statement 2, Table 10: có thể xịt co mạch cùng bóp mũi để cầm máu cấp. Khác ARIA-EAACI 2024–2025 mục 5.2.2 (tránh ở trẻ dưới 12 tuổi): khác bối cảnh (một lần so với hằng ngày); ghi cả hai."
+    },
+    {
+     "t": "Tiếp tục hoặc kê thêm thuốc nhỏ mũi co mạch cho bé đỡ nghẹt, để bớt ngoáy mũi",
+     "v": "w",
+     "n": "ARIA-EAACI 2024–2025 mục 5.2.2: tránh ở trẻ dưới 12 tuổi; QĐ 5643 mục 4.2.1: kéo dài làm bệnh nặng hơn; AAO-HNS 2020 Statement 5: thuốc dùng trong mũi là yếu tố nguy cơ."
+    },
+    {
+     "t": "Cho ibuprofen, aspirin hoặc analgin để hạ sốt",
+     "v": "w",
+     "n": "QĐ 2760 mục IV.A.1; WHO 2013 mục 6.10; AAO-HNS 2020 Statement 5. Bé đang chảy máu niêm mạc, dengue chưa loại hẳn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt ngày thứ 5 chưa rõ ổ nhiễm, nhiều khả năng do virus; hết khả năng nhiễm khuẩn huyết và nhiễm trùng tiểu; Kawasaki chưa đủ tiêu chuẩn",
+     "Chảy máu mũi trước bên trái do niêm mạc khô, trầy xước (thuốc co mạch kéo dài, ngoáy mũi, xì mạnh), không rối loạn đông máu",
+     "Sốt xuất huyết Dengue chưa có bằng chứng (Hct không tăng, tiểu cầu 238 G/L, không dấu hiệu cảnh báo nào khác) nhưng còn trong pha nguy hiểm nên theo dõi hằng ngày",
+     "Viêm mũi dị ứng nền, nghẹt mũi tăng sau khi ngưng thuốc co mạch"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: chảy máu mũi (bên, số lần, thời gian, lượng) → xuất huyết nơi khác → yếu tố nguy cơ (tiền sử, thuốc, ngoáy mũi, thuốc dùng trong mũi) → hỏi lại cảnh báo và Kawasaki (AAO-HNS 2020 Statement 1, 5; QĐ 2760 Phụ lục 2; NICE NG143 mục 1.2.26).",
+     "Chảy máu niêm mạc là dấu hiệu cảnh báo (QĐ 2760 Phụ lục 2; WHO 2025 mục 2.7) nên kiểm bằng công thức máu: Hct 0,37 (nền 0,38), tiểu cầu 238 G/L, gan không to, dây thắt 3 chấm (dưới 20). Nguồn chảy tại chỗ nhìn thấy (vảy máu, trầy xước vùng Kiesselbach) và có ngoáy mũi, xì mạnh (AAO-HNS 2020 Statement 6, Table 10). Không có siêu âm: công thức máu và khám gan, bụng, phổi thay cho câu hỏi thoát huyết tương (QĐ 2760 Phụ lục 2).",
+     "Phoenix 0 điểm (Phoenix JAMA 2024, Bảng); nhiễm trùng tiểu không triệu chứng, que thử hôm qua âm (NICE NG224 Bảng 1–2). Kawasaki: sốt từ 5 ngày là mốc soát, bé chỉ có 1 trong 6 tiêu chuẩn (NICE NG143 mục 1.2.14, 1.2.26; QĐ 3312 mục 3.1 Bảng 1). U xơ vòm gặp ở nam 8–12 tuổi (QĐ 5643 Ngạt mũi mục 3.1.1) không phù hợp."
+    ],
+    "phan_tich_xu_tri": [
+     "Cầm máu cấp: bóp phần mềm của mũi ít nhất 5 phút, tiếp tới 15 phút nếu chưa ngừng, ngồi hơi cúi ra trước (AAO-HNS 2020 Statement 2, Table 10). Nhét bấc, đốt chỉ khi chảy dai dẳng; hiện đã ngừng nên không làm (Statement 6, 7a). Phòng chảy lại: ngưng ngoáy mũi, xì nhẹ, cắt móng, nước muối hoặc gel (Statement 13, Table 10; bằng chứng còn ít). Xịt co mạch một lần để cầm máu: AAO-HNS 2020 cho phép, ARIA 2024–2025 mục 5.2.2 khuyên tránh ở trẻ dưới 12 tuổi (dùng kéo dài): khác bối cảnh, ghi cả hai, chấm a.",
+     "Cho về hay nhập viện, ghi cả hai căn cứ: nhập viện khi có chảy máu niêm mạc ở người đã nghi dengue (WHO 2013 mục 6.10; WHO 2025 mục 2.7); bé công thức máu ổn, nguồn chảy tại chỗ, nhà gần nên theo dõi ngoại trú, tái khám mỗi ngày đến khi hết sốt 2 ngày (QĐ 2760 mục IV.A, Phụ lục 21). Ngưỡng cho về này do người soạn đánh giá, tài liệu đã tải không nêu.",
+     "Hạ sốt chỉ paracetamol 300 mg mỗi lần, tối đa 4 lần (1.200 mg < 1.680 mg = 60 mg/kg/24 giờ) (QĐ 2760 mục IV.A.1; AWaRe 2022 tr. 50); không ibuprofen, aspirin. Pha nguy hiểm ngày 3–7 (QĐ 2760 mục II.2); sốt trên 7 ngày cần tìm nguyên nhân khác (WHO 2013 mục 6.1.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol đơn chất (gói bột hoặc siro cho trẻ)",
+      "ham_luong": "Gói 150 mg (hoặc siro 120 mg/5 mL)",
+      "lieu": "300 mg mỗi lần = 2 gói (≈ 10,9 mg/kg với 27,6 kg; khoảng cho phép 276–414 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc bé khó chịu; cách lần trước ít nhất 4–6 giờ, không quá 4 lần/24 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 1.200 mg/24 giờ (trần 60 mg/kg/24 giờ ≈ 1.656 mg)",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.1; AWaRe 2022 tr. 50 (20–<30 kg: 300 mg mỗi 6 giờ). Không ibuprofen, aspirin, analgin (QĐ 2760 mục IV.A.1; AAO-HNS 2020 Statement 5)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ hoặc xịt mũi, hoặc gel nước muối",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc xịt mỗi bên mũi 1–3 lần/ngày để làm ẩm; rửa mũi nhẹ khi nghẹt",
+      "duong": "Nhỏ, xịt mũi",
+      "thoi_diem": "Trước ngủ và khi mũi khô, nghẹt; không dùng thuốc nhỏ mũi co mạch",
+      "so_ngay": "Đến khi hết khô, chảy máu mũi và đã tái khám viêm mũi dị ứng",
+      "ghi_chu": "AAO-HNS 2020 Table 10 (nước muối, gel làm ẩm 1–3 lần/ngày sau đốt; bằng chứng còn ít, Statement 13); QĐ 5643/2015 (Ngạt mũi mục 4.1: rửa mũi natriclorid 0,9%). Số lần mỗi ngày cho trẻ không chảy máu do đốt: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Oresol (hoặc nước trái cây, cháo loãng với muối)",
+      "ham_luong": "Gói oresol pha theo hướng dẫn trên bao bì",
+      "lieu": "Uống theo nhu cầu, khuyến khích uống nhiều",
+      "duong": "Uống",
+      "thoi_diem": "Uống từng ngụm nhỏ, đều trong ngày",
+      "so_ngay": "Đến khi hết sốt và ăn uống bình thường",
+      "ghi_chu": "QĐ 2760/2023 mục IV.A.2; WHO 2013 mục 6.10."
+     }
+    ],
+    "dan_do": [
+     "Bé chảy máu cam do niêm mạc mũi khô và trầy (thuốc nhỏ mũi lâu ngày, ngoáy mũi, xì mạnh), công thức máu bình thường nên chưa thấy dấu hiệu sốt xuất huyết nặng; nhưng bé còn sốt ngày 5 nên phải khám mỗi ngày (QĐ 2760 Phụ lục 21; WHO 2025 mục 2.7).",
+     "Khi chảy máu mũi: cho bé ngồi hơi cúi ra trước, xì nhẹ bỏ cục máu, dùng ngón cái và ngón trỏ bóp phần mềm của mũi ít nhất 5 phút, nếu chưa ngừng bóp tiếp đủ 15 phút (AAO-HNS 2020 Statement 2, Table 10).",
+     "Đưa bé đi ngay nếu chảy máu không ngừng dù bóp đủ 15 phút, chảy nhiều hoặc dai dẳng, choáng váng, mệt lả (AAO-HNS 2020 Table 10).",
+     "Phòng chảy máu lại: không ngoáy mũi, cắt ngắn móng, xì mũi nhẹ từng bên, nhỏ hoặc xịt nước muối, gel làm ẩm; không nhỏ lại naphazolin. Nghẹt mũi nhiều thì dùng nước muối, báo lại khi tái khám viêm mũi dị ứng (AAO-HNS 2020 Statement 13; ARIA-EAACI 2024–2025 mục 5.2.2).",
+     "Chỉ dùng paracetamol 2 gói 150 mg mỗi lần; không ibuprofen, aspirin; uống nhiều nước, oresol (QĐ 2760 mục IV.A.1–2).",
+     "Đến ngay nếu bé khó chịu hơn dù hết sốt, không ăn uống được, nôn nhiều, đau bụng nhiều, tay chân lạnh ẩm, mệt lả, chảy máu miệng hoặc nhiều chấm đỏ, không tiểu trên 6 giờ, lú lẫn, li bì (QĐ 2760 mục IV.A.3b). Đến sớm nếu mắt đỏ, môi nứt đỏ, lưỡi đỏ, tay chân sưng đỏ, ban, hạch cổ to (QĐ 3312 Kawasaki mục 3.1).",
+     "Hẹn tái khám sáng mai và mỗi ngày đến khi hết sốt 2 ngày (QĐ 2760 Phụ lục 21); sốt quá ngày 7 thì tìm nguyên nhân thêm (WHO 2013 mục 6.1.2). Hôm nay 50.000 đồng; mai còn sốt thì NS1 (200.000) hoặc công thức máu lặp (50.000). Sau khi hết sốt hẹn xịt mũi corticoid (ARIA-EAACI 2024–2025 mục 5.3.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Công thức máu ổn nên bé về nhà theo dõi hằng ngày. Bé sốt đến hết ngày thứ 7 rồi hết hẳn, không dùng kháng sinh; công thức máu sáng ngày 6 vẫn bình thường (tiểu cầu 251 G/L, Hct 0,37), không dấu hiệu cảnh báo. Máu cam không tái phát khi ngưng thuốc co mạch, cắt móng và dùng nước muối. Không tìm được tác nhân; chẩn đoán cuối là sốt không rõ ổ nhiễm (QĐ 2760 Phụ lục 2; WHO 2013 mục 6.1.1). Bé được hẹn xịt mũi corticoid cho viêm mũi dị ứng.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: chị Lan chỉ có 100.000 đồng mỗi lượt. Lượt 1 chọn que thử nước tiểu (15.000) và công thức máu (50.000); lượt 2 chỉ công thức máu (50.000). NS1 (200.000), CRP (80.000), procalcitonin, cấy máu bỏ vì không đổi xử trí hôm đó.",
+  "Lý do thật đến khám là tái khám viêm mũi theo hẹn: mẹ coi sốt là chuyện phụ ('tại mũi'), dễ làm bác sĩ neo vào viêm mũi, bỏ qua tìm ổ nhiễm.",
+  "Thuốc nhỏ mũi co mạch dùng 2 tháng không gây sốt nhưng liên quan nghẹt mũi, ngoáy mũi và chảy máu mũi ở lượt 2; paracetamol quá liều và ibuprofen mẹ tự cho là chi tiết mẹ ngại kể."
+ ],
+ "bai_hoc_bien": [
+  "Sốt không rõ ổ chỉ gọi tên sau khi hỏi và khám đủ các hệ cơ quan (WHO 2013 mục 6.1.1, Bảng 16–17); tránh gán sốt cho bệnh nền đang tái khám.",
+  "NICE NG143 viết cho dưới 5 tuổi nên chỉ là tham chiếu; ca dựa vào QĐ 2760, WHO 2013, QĐ 3312, NICE NG224.",
+  "Hỏi cụ thể thuốc mẹ tự cho: paracetamol 500 mg × 4 ở bé 28 kg là 71 mg/kg/24 giờ vượt 60 mg/kg (QĐ 2760 mục IV.A.1); không ibuprofen khi dengue chưa loại hẳn.",
+  "Triệu chứng mới ở lượt 2 (chảy máu mũi) vừa có thể là cảnh báo dengue vừa do tổn thương tại chỗ: kiểm bằng công thức máu và khám mũi, không trấn an khi chưa kiểm, không nhập viện khi dữ kiện không ủng hộ."
+ ],
+ "diem_nho": [
+  "Nghi sốt xuất huyết ngoại trú: tái khám mỗi ngày đến khi hết sốt 2 ngày; dấu hiệu quay lại ngay gồm khó chịu hơn dù hết sốt, không ăn uống được, nôn nhiều, đau bụng nhiều, tay chân lạnh ẩm, mệt lả, chảy máu mũi hoặc miệng, không tiểu trên 6 giờ, lú lẫn (QĐ 2760 Phụ lục 21, mục IV.A.3).",
+  "Paracetamol đơn chất 10–15 mg/kg cách 4–6 giờ, không quá 60 mg/kg/24 giờ; không ibuprofen, aspirin, analgin khi nghi dengue (QĐ 2760 mục IV.A.1; WHO 2013 mục 6.10).",
+  "Chảy máu mũi: bóp phần mềm của mũi ít nhất 5 phút (15 phút nếu chưa ngừng); yếu tố nguy cơ cần ghi: thuốc ảnh hưởng đông máu, thuốc dùng trong mũi, ngoáy mũi, tiền sử chảy máu (AAO-HNS 2020 Statement 2, 5, Table 10)."
+ ],
+ "nguon": [
+  "QĐ 2760 – Bộ Y tế, QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II.1–II.2 (giai đoạn sốt, nguy hiểm), III.1.1 (NS1, IgM), III.2, IV.A.1–3 (điều trị ngoại trú, dấu hiệu quay lại), Phụ lục 2 (phân độ), Phụ lục 21 (xử trí tuyến cơ sở, tái khám mỗi ngày), Phụ lục 24 (nghiệm pháp dây thắt)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Nhiễm trùng đường tiểu (mục 3.2, 5–7), Kawasaki (mục 1, 3.1 Bảng 1, 3.3, 3.4), Nhiễm trùng huyết (mục 2.1–2.2), Viêm phổi do vi khuẩn ở trẻ em (mục 1: ngưỡng thở nhanh)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 6.1.1 (sốt dưới 7 ngày, tr. 150–152, Bảng 16–17), 6.1.2 (sốt trên 7 ngày, tr. 153–154), 6.10 (Dengue, tr. 188)",
+  "WHO 2025 – WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever – TL-0042 – ĐÃ ĐỌC: mục 2.2 (pha nguy hiểm), 2.7 (tiêu chí nhập viện, dấu hiệu cảnh báo)",
+  "NICE NG143 – Fever in under 5s: assessment and initial management (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.14, 1.2.25–1.2.26, 1.4.4–1.4.9, 1.6.1–1.6.6, 1.7.2–1.7.3 (viết cho trẻ dưới 5 tuổi; áp dụng cho bé 9 tuổi chỉ như tham chiếu)",
+  "NICE NG224 – Urinary tract infection in under 16s: diagnosis and management (2022) – TL-0259 – ĐÃ ĐỌC: mục 1.1.1–1.1.5, 1.1.20–1.1.21 (Bảng 1, Bảng 2)",
+  "Phoenix 2024 – International Consensus Criteria for Pediatric Sepsis and Septic Shock (Phoenix criteria), JAMA 2024;331(8):665-674 – TL-0065 – ĐÃ ĐỌC: Bảng Phoenix Sepsis Score",
+  "AAO-HNS 2020 – Clinical Practice Guideline: Nosebleed (Epistaxis), Otolaryngol Head Neck Surg 2020;162(1S):S1-S38 – TL-0562 – ĐÃ ĐỌC: Statement 1, 2, 5, 6, 7a, 13, Table 10 (câu hỏi thường gặp)",
+  "ARIA-EAACI 2024–2025 – Allergic rhinitis and its impact on asthma, revision Part I (intranasal treatments) – TL-0546 – ĐÃ ĐỌC: mục 5.2.2 (thuốc co mạch), 5.3.1 (corticoid xịt mũi)",
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi xoang cấp tính (mục 4.2.1), Ngạt mũi (mục 3.1, 4.1), u xơ vòm mũi họng",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: bảng liều paracetamol trẻ em (Primary health care, tr. 50)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-23 – bản 1: viết ca NH-1367 (sốt không rõ ổ nhiễm, nữ 9 tuổi, 2 lượt). Tài liệu đã đọc: TL-0029 (QĐ 2760), TL-0037 (QĐ 3312: NTĐT, Kawasaki, Nhiễm trùng huyết), TL-0250 (WHO 2013: 6.1.1, 6.1.2, 6.10), TL-0042 (WHO 2025: 2.2, 2.7), TL-0262 (NICE NG143), TL-0259 (NICE NG224), TL-0065 (Phoenix), TL-0562 (AAO-HNS epistaxis), TL-0546 (ARIA mục 5.2.2, 5.3.1), TL-0130 (QĐ 5643), TL-0018 (AWaRe, liều paracetamol).",
+  "Chỗ thiếu tài liệu đã ghi trong ca: sốt không rõ ổ ở trẻ từ 5 tuổi; độ nhạy NS1/IgM theo ngày bệnh; số lần lặp công thức máu để loại dengue; ngưỡng cho về khi chảy máu mũi và công thức máu bình thường (người soạn đánh giá); cách ngưng thuốc co mạch; liên quan naphazolin và chảy máu cam; liều corticoid mũi.",
+  "Ghi nhận theo sổ: hạ sốt (NH-0199 mục 3), ibuprofen khi chưa loại dengue (HH-0737 mục 2); mục mới: thuốc co mạch cầm máu cấp (AAO-HNS 2020) so với ARIA 2025, xem NH-1367_mau_thuan.md.",
+  "Không dùng ảnh da. Âm thanh: AT-TIM-NHANH-01, AT-PHOI-BT-NL-01."
+ ]
+}
