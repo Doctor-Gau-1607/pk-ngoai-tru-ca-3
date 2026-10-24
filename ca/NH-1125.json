@@ -1,0 +1,721 @@
+{
+ "ma_ca": "NH-1125",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_dau_bung_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Đau bụng chức năng tái diễn",
+  "chan_doan_phai_loai_tru": [
+   "Viêm ruột thừa",
+   "Nhiễm giun",
+   "Lồng ruột"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh (lớp 7)",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch (4 ngày ở thị trấn ven biển đang có thông báo dịch sốt xuất huyết)",
+  "thuoc_dang_dung": "Thuốc ho long đờm (siro mẹ tự mua ở nhà thuốc)",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ (mẹ xin thuốc ngủ cho bé để cả nhà ngủ được)"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thảo My",
+  "tuoi": 12,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 7",
+  "can_nang": 38.5,
+  "chieu_cao": 150,
+  "xung_ho": "Bé 12 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, nhỏ giọng. Mẹ là người kể bệnh chính: gọi bác sĩ là 'bác sĩ', xưng 'em'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Bé học giỏi, ngoan, nhút nhát, sợ làm mẹ buồn, hay cúi mặt, ít nói điều mình lo. Mẹ 38 tuổi, nhân viên ngân hàng, nói nhanh, hay ngắt lời con, kỳ vọng cao vào con (đội tuyển Toán của trường), mất ngủ nhiều đêm vì con than đau.",
+  "kieu_nhieu": "Thân nhân trả lời thay: mẹ nhận trả lời mọi câu, kể sai mốc thời gian (nói đau '3 tuần nay, từ sau chuyến du lịch'), ngắt lời khi bé định nói. Bé chỉ nói thật điều mình lo khi bác sĩ hỏi thẳng bé, mời mẹ ra ngoài vài phút hoặc hỏi riêng nhẹ nhàng. Mẹ chỉ thừa nhận muốn xin thuốc ngủ khi bác sĩ hỏi đêm qua bé và chị ngủ ra sao, hoặc chị mong gì ở buổi khám.",
+  "nguoi_nha": "Mẹ bé, chị Hương, 38 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'My đau chỗ nào?') hoặc hỏi riêng bé thì bé trả lời (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#f0c8a6",
+   "toc": "#17110e",
+   "kieuToc": "dai",
+   "ao": "#8fb8de",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e6b994",
+    "toc": "#2a1d16",
+    "kieuToc": "bui",
+    "ao": "#b5476b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái đau bụng dưới bên phải từng cơn, mẹ lo ruột thừa",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 12 tuổi, 38,5 kg, mẹ đưa đến vì đau bụng bên phải phía dưới từng cơn, mẹ nói từ sau chuyến du lịch 3 tuần trước. Sinh hiệu: nhiệt 36,9 °C, mạch 84 l/p, nhịp thở 18 l/p, SpO₂ 99%. Bé tỉnh, ngồi sát mẹ, nét mặt căng thẳng; mẹ trả lời thay.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ bé My nằm viện 'theo dõi ruột thừa' khi bé không sốt, ấn hố chậu phải không đau rõ lúc bị đánh lạc hướng, nhảy và ho không đau, bạch cầu và CRP bình thường là không có chỉ định (WSES 2025 khuyến cáo 2: thang điểm kèm xét nghiệm xác định nguy cơ thấp). Bé nghỉ học thêm ngay trước kỳ thi, chị Hương nghỉ làm, bé càng tin mình bệnh nặng, trái mục tiêu đi học đều (QĐ 3312, Đau bụng chức năng mục 4.1–4.2).",
+    "chuyen_tuyen": "Chuyển bé My lên tuyến trên chỉ để siêu âm hoặc CT khi nguy cơ thấp là quá tay: WSES 2025 khuyến cáo 2 dùng thang điểm kèm xét nghiệm để quyết định cần hình ảnh hay không; WSES 2020 khuyến cáo 1.14.2 không CT thường quy đầu tiên cho trẻ. QĐ 3312 (Đau bụng chức năng mục 3.2) nêu siêu âm bất thường dưới 1%. Gia đình tốn công, tốn tiền, còn nỗi lo thật của bé về kỳ thi vẫn chưa ai hỏi tới."
+   },
+   "loi_mo": "Dạ bác sĩ, cháu nhà em đau bụng bên phải phía dưới từ hồi đi du lịch về, mới ba tuần nay thôi. Em sợ ruột thừa với giun lắm. Bác sĩ khám kỹ giùm em. Mấy đêm nay cả nhà không ai ngủ được.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể bé đau bụng bên phải phía dưới từ sau chuyến du lịch 4 ngày cách đây 3 tuần. Mẹ sợ ruột thừa hoặc giun nên đưa đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Khi hỏi kỹ, mẹ ngập ngừng: bé kêu đau từ khoảng tháng 5, tức khoảng 5 tháng; trước đây mẹ tưởng bé làm nũng. Sổ liên lạc ghi 3 lần cô cho bé về sớm vì đau bụng. Ba tuần nay cơn dày hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian đau thật (≥ 2 tháng)"
+    },
+    {
+     "id": "tinh_chat_dau",
+     "noi_dung": "Bé chỉ vào bụng dưới bên phải, đôi khi quanh rốn. Mỗi cơn 20–40 phút, nhăn mặt, nằm co người thì đỡ, rồi tự hết và chạy chơi. Khoảng 3–5 cơn mỗi tuần, đau mức vừa, không lan, không lăn lộn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí, tính chất, tần suất (hố chậu phải = dấu báo động vị trí)"
+    },
+    {
+     "id": "thoi_diem",
+     "noi_dung": "Cơn hay đến chiều tối lúc ngồi học bài, hoặc sáng đi học, nhất là hôm có bài kiểm tra. Trong 4 ngày đi chơi bé gần như không đau, về đi học lại thì đau dồn. Cuối tuần ít đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cơn đau hay đến lúc nào trong ngày, trong tuần, liên quan học hành, hoặc khi đi chơi bé có đau không.",
+     "k": 1,
+     "y": "Nhịp đau theo học hành"
+    },
+    {
+     "id": "canh_bao_am",
+     "noi_dung": "Không sốt, không nôn (đôi khi hơi buồn nôn lúc đau), không chán ăn, không ỉa máu, không phân đen, không phát ban, không đau khớp, không loét miệng. Đau chưa lần nào đánh thức bé khi đã ngủ say. Cân nặng từ 36,5 kg (khám sức khỏe tháng 4) lên 38,5 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động âm tính (QĐ 3312 Bảng 1)"
+    },
+    {
+     "id": "dai_tieu_tien",
+     "noi_dung": "Đi cầu 1 lần/ngày, phân thành khuôn, không rặn, không nhầy máu; đau không đổi theo đi cầu. Tiểu bình thường, không buốt, không rắt. Bé chưa có kinh, ngực nhú từ năm 11 tuổi, đau không theo chu kỳ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đại tiện, tiểu tiện, kinh nguyệt"
+    },
+    {
+     "id": "du_lich",
+     "noi_dung": "Cả nhà đi 4 ngày ở thị trấn ven biển, ăn hải sản, uống nước đá. Ngày thứ hai bé ỉa lỏng nước 2 lần, không máu, không sốt, tự hết trong 1 ngày. Nơi đó có thông báo dịch sốt xuất huyết, bé bị muỗi đốt vài nốt. Về nhà bé không sốt, không đau đầu, đau cơ, không chảy máu răng hay mũi, không ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ chuyến đi (loại sốt xuất huyết, nhiễm khuẩn ruột)"
+    },
+    {
+     "id": "giun",
+     "noi_dung": "Bé uống thuốc tẩy giun ở trường hồi tháng 3. Không ngứa hậu môn, không gãi mông ban đêm, không thấy giun trong phân, không xanh xao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tẩy giun, triệu chứng giun"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Từ lúc về bé ho khan nhẹ khoảng 1 tuần, không sốt, không khó thở. Mẹ mua siro ho long đờm ở nhà thuốc (không nhớ hoạt chất, mang theo chai), cho uống 3 lần/ngày được 4 ngày. Thuốc không làm đau bụng tăng hay giảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng: siro ho long đờm tự mua"
+    },
+    {
+     "id": "hoc_tap",
+     "noi_dung": "Bé học lớp 7, trong đội tuyển Toán, học thêm 5 buổi/tuần, thường học đến 12 giờ đêm. Hai tuần nữa thi cuối học kỳ I. Bé sợ không được chọn đi thi, sợ mẹ thất vọng, nhiều đêm trằn trọc đến khuya. Cô chủ nhiệm thấy bé dạo này hay sợ sệt, hay xin ra khỏi lớp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bé chỉ nói khi bác sĩ hỏi thẳng bé, mời mẹ ra ngoài vài phút hoặc hỏi riêng về trường lớp, kỳ thi, giấc ngủ, tâm trạng. Mẹ ở đó thì mẹ ngắt lời và bé im.",
+     "k": 1,
+     "y": "Bối cảnh học đường, giấc ngủ, lo âu (QĐ 3312 mục 3.1, 4.2)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Đêm nào bé kêu đau mẹ thức theo, nhiều đêm chỉ ngủ 3–4 tiếng, ban ngày làm ở ngân hàng hay sai sót. Mẹ muốn bác sĩ cho bé thuốc ngủ để bé 'ngủ một mạch tới sáng', ngủ rồi thì cả nhà được nghỉ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi đêm qua bé ngủ thế nào và chị ngủ ra sao, hoặc hỏi chị mong gì ở buổi khám, lo nhất điều gì.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Động cơ thật: xin thuốc ngủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng nét mặt căng thẳng, hay nhìn mẹ trước khi trả lời. Da niêm hồng, không vàng da, không phù.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 38,5 kg, cao 150 cm, phù hợp tuổi; tăng 2 kg so với sổ khám sức khỏe tháng 4.",
+     "k": 1,
+     "hien": "Cân nặng 38,5 kg, cao 150 cm."
+    },
+    "bung": {
+     "a": "Bụng cân đối, không chướng, nhu động ruột bình thường. Lần ấn nông đầu, hố chậu phải bé nhăn mặt kêu đau ngay khi tay vừa chạm. Khi bác sĩ vừa trò chuyện với bé về việc học vừa ấn sâu hố chậu phải, rồi lặp lại sau vài phút: bé nói chuyện bình thường, không đau rõ, thành bụng mềm, không co cứng, không đau dội khi thả tay. Dấu Rovsing và nghiệm pháp cơ thắt lưng chậu âm tính. Nhảy tại chỗ và ho mạnh không đau. Không khối, gan lách không to, không đau góc sườn cột sống.",
+     "k": 1,
+     "hien": "Bụng không chướng, thành bụng mềm."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính, không cầu bàng quang.",
+     "k": 1
+    },
+    "nghiem_phap_day_that": {
+     "a": "Nghiệm pháp dây thắt âm tính: dưới 20 chấm xuất huyết/6,25 cm² sau 5 phút.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, không co lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, lo lắng khi nhắc đến bài vở và kỳ thi, mắt đỏ hoe khi mẹ không có mặt, không có ý tưởng tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,4 G/L · Neutrophil 56% · Eos 3,5% · Hb 126 g/L · TC 284 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 56.0,
+      "neu": 4.14,
+      "lym_pct": 34.0,
+      "lym": 2.52,
+      "mono_pct": 6.0,
+      "mono": 0.44,
+      "eos_pct": 3.5,
+      "eos": 0.26,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.55,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 83.5,
+      "mch": 27.7,
+      "mchc": 331,
+      "rdw": 12.9,
+      "plt": 284
+     },
+     "n": "Nên làm: đau hố chậu phải là dấu báo động vị trí (QĐ 3312 Bảng 1) và không có siêu âm, nên xét nghiệm viêm thay cho hình ảnh. WSES 2020 khuyến cáo 1.6.1: ở trẻ nghi viêm ruột thừa, xét nghiệm thường quy và chỉ điểm viêm. Bạch cầu, tiểu cầu bình thường, không tăng bạch cầu ái toan (QĐ 3312 mục 3.1a)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Làm cùng công thức máu (WSES 2020 khuyến cáo 1.6.2: kết hợp chỉ điểm sinh học và thang điểm để dự đoán mức viêm và nhu cầu hình ảnh). Ngưỡng CRP cụ thể ở trẻ: không có trong tài liệu đã tải."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân thành khuôn, không thấy trứng giun, không thấy ký sinh trùng, không hồng cầu, không bạch cầu.",
+     "n": "Chấp nhận, rẻ: có đi vùng dịch, ỉa lỏng thoáng qua, mẹ lo giun; chẩn đoán giun bằng soi phân tìm trứng (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a, tr. 335). Không triệu chứng giun nên không làm cũng không bị trừ điểm."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Không protein, không bạch cầu, nitrit âm tính, không hồng cầu.",
+     "bang": {
+      "u_sg": 1.018,
+      "u_ph": 6.0,
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0,
+      "u_glu": 0,
+      "u_ket": 0,
+      "u_bil": 0,
+      "u_ubg": 0,
+      "u_ery": 0
+     },
+     "n": "Chấp nhận, không bắt buộc: nhiễm khuẩn tiết niệu, sỏi dễ nhầm đau hố chậu phải (WHO 2013 mục 9.4.2); bé không sốt, tiểu bình thường, hố thắt lưng không đau."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "NS1 âm tính · IgM âm tính · IgG âm tính",
+     "n": "Không cần: không sốt, về đã 3 tuần; NS1 chỉ dùng từ ngày 1 đến ngày 7 của bệnh (QĐ 2760/2023 mục III.1.1)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Ruột thừa không thấy dấu hiệu viêm, không dịch tự do, không hạch mạc treo to, gan mật tụy lách thận bình thường.",
+     "thay_the": "ctm",
+     "n": "Cơ sở không có siêu âm. Siêu âm là hình ảnh đầu tiên ở trẻ nghi viêm ruột thừa (WSES 2025 khuyến cáo 3.2; WSES 2020 khuyến cáo 1.14.1), nhưng khi nguy cơ thấp thì dùng thang điểm cộng xét nghiệm để quyết định cần hình ảnh hay không (WSES 2025 khuyến cáo 2). Thay thế: khám bụng lặp có đánh lạc hướng, công thức máu, CRP."
+    },
+    "ct_bung": {
+     "n": "Không cần: nguy cơ viêm ruột thừa thấp; WSES 2020 khuyến cáo 1.14.2: không CT thường quy đầu tiên cho trẻ đau hố chậu phải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau bụng chức năng tái diễn ở trẻ gái 12 tuổi (hội chứng đau bụng chức năng ở trẻ em theo Rome III), vị trí hố chậu phải không điển hình; nền căng thẳng học đường, rối loạn giấc ngủ",
+     "ok": 1,
+     "n": "Đau từng cơn khoảng 5 tháng, ≥ 1 lần/tuần, ≥ 2 tháng, kèm khiếm khuyết sinh hoạt (về sớm, nghỉ học) và khó ngủ nên đủ 'hội chứng đau bụng chức năng ở trẻ em' (QĐ 3312, Đau bụng chức năng Bảng 2, tr. 345–346). Chỉ chẩn đoán khi khám bình thường, không còn dấu báo động (mục 3.1): đau hố chậu phải là dấu báo động (Bảng 1) nhưng khám lặp có đánh lạc hướng không đau, CRP, bạch cầu bình thường. Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải (Rome V 2026 Bảng 2 chỉ có phân loại H1b)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Ít nghĩ: đau 5 tháng, không sốt, không nôn, không chán ăn; dấu quan trọng nhất là đau và đau khi ấn liên tục hố chậu phải (WHO 2013 mục 9.4.2) thì bé không có khi bị đánh lạc hướng; nhảy, ho không đau; bạch cầu, CRP bình thường (WSES 2020 khuyến cáo 1.6.1; Statement 1.5, khuyến cáo 1.2.1: điểm thấp dùng để loại trừ). Số điểm PAS cụ thể: không có trong tài liệu đã tải. Không có siêu âm nên dặn quay lại và hẹn tái khám sớm."
+    },
+    {
+     "t": "Nhiễm giun",
+     "n": "Ít nghĩ: không xanh xao, không ngứa hậu môn, bạch cầu ái toan 3,5%, đã tẩy giun tháng 3; soi phân không có trứng (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a–3.1b, tr. 335–336)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không phù hợp: bé 12 tuổi (thường dưới 2 tuổi nhưng có thể gặp ở trẻ lớn), không đau quặn kèm nôn, không ỉa máu, không khối ở hố chậu phải, khỏe giữa các cơn, bệnh 5 tháng (WHO 2013 mục 9.4.4, tr. 284). Guideline lồng ruột riêng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue (đau bụng là dấu hiệu cảnh báo)",
+     "n": "Không phù hợp: không sốt, không đau cơ, dây thắt âm tính, tiểu cầu 284 G/L, đã 3 tuần từ chuyến đi; bệnh khởi đầu sốt cao đột ngột và đau bụng nhiều ở giai đoạn nguy hiểm ngày 3–7 (QĐ 2760/2023 mục II.1, II.2.1)."
+    },
+    {
+     "t": "Bệnh viêm ruột (Crohn hồi tràng) hoặc bệnh thực thể khác",
+     "n": "Không có dấu báo động nào ngoài vị trí đau: cân tăng, không sốt, không ỉa lỏng kéo dài, không ỉa máu, không loét miệng, tiền sử gia đình âm tính, CRP và Hb bình thường (QĐ 3312 Bảng 1). Tiêu chuẩn chẩn đoán bệnh viêm ruột: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu, sỏi niệu, bệnh lý buồng trứng",
+     "n": "Không phù hợp: tiểu bình thường, nước tiểu bình thường, hố thắt lưng không đau, không đau đột ngột dữ dội kèm nôn; các bệnh này dễ nhầm viêm ruột thừa (WHO 2013 mục 9.4.2). Tiêu chuẩn chẩn đoán bệnh buồng trứng: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích tích cực: đây là đau bụng chức năng (ruột nhạy cảm, liên quan đường truyền ruột – não), không phải bệnh nặng, không ảnh hưởng sức khỏe sau này; nói rõ kỳ vọng về xét nghiệm và điều trị",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1): khẳng định bệnh không ảnh hưởng sức khỏe tương lai, giải thích cơ chế tăng nhạy cảm nội tạng và dẫn truyền não – ruột; ESPGHAN/NASPGHAN 2025 (Best practice statement 1): giáo dục ngay buổi khám đầu."
+    },
+    {
+     "t": "Không có siêu âm: loại viêm ruột thừa bằng khám bụng lặp có đánh lạc hướng, công thức máu, CRP; không CT, không chuyển tuyến chỉ để siêu âm khi nguy cơ thấp",
+     "v": "c",
+     "n": "WSES 2020 (Statement 1.5, khuyến cáo 1.2.1, 1.6.1–1.6.2) và WSES 2025 (khuyến cáo 2): thang điểm cộng xét nghiệm viêm xác định nguy cơ thấp; WSES 2020 khuyến cáo 1.14.2: không CT thường quy đầu tiên cho trẻ. WHO 2013 (mục 9.4.1): lặp lại thăm khám khi chẩn đoán còn nghi ngờ."
+    },
+    {
+     "t": "Hỏi riêng bé vài phút (mời mẹ ra ngoài) về trường lớp, kỳ thi, giấc ngủ, tâm trạng; nhận ra nỗi lo của bé và ý định xin thuốc ngủ của mẹ",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 3.1, 4.2): căng thẳng, lo lắng và vấn đề ở trường học làm tăng đau, đặc biệt ở tuổi học đường. Cách tách bé khỏi mẹ khi hỏi: không có trong tài liệu đã tải (kỹ năng giao tiếp của ca)."
+    },
+    {
+     "t": "Mục tiêu đầu tiên là bé sinh hoạt bình thường: đi học đều, giảm bớt học thêm tạm thời, đi ngủ đúng giờ; mẹ an ủi vừa đủ khi bé kêu đau, phối hợp với cô chủ nhiệm",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1: mục tiêu đầu là đi học đều; mục 4.2: thái độ gia đình vừa đủ; Rối loạn giấc ngủ ở trẻ em mục 8: đi ngủ đúng giờ, nơi ngủ yên tĩnh). Số giờ ngủ cho trẻ 12 tuổi: không có trong tài liệu đã tải (mục 1 chỉ nêu đến 10 tuổi)."
+    },
+    {
+     "t": "Không kê thuốc ngủ; giải thích với mẹ, hướng dẫn bé tập thở, thư giãn trước khi ngủ, mẹ ngồi cạnh trấn an ngắn khi bé đau đêm",
+     "v": "c",
+     "n": "QĐ 3312 (Rối loạn giấc ngủ ở trẻ em mục 6): ưu tiên tập thư giãn, hít sâu thở đều, tư vấn khi có sang chấn tâm lý; thuốc chỉ khi biện pháp tâm lý thất bại, nêu cho cơn miên hành và hoảng sợ ban đêm. Không tài liệu đã tải nào nêu thuốc ngủ cho đau bụng chức năng."
+    },
+    {
+     "t": "Ngưng siro ho long đờm mẹ tự mua: ho nhẹ tự khỏi, chăm sóc hỗ trợ",
+     "v": "c",
+     "n": "WHO 2013 (mục 4.4, tr. 90–91): ho, cảm là bệnh virus tự giới hạn, chăm sóc hỗ trợ, không dùng thuốc chứa atropin, codein, cồn hoặc thuốc tiêu nhầy. Tài liệu viết cho trẻ nhỏ; ngưỡng tuổi 12: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đưa bé đến ngay cơ sở có siêu âm và ngoại nhi nếu đau liên tục hơn 4 giờ, đau tăng và chỉ ở hố chậu phải, sốt, nôn, bụng cứng, ỉa máu hoặc phân đen, vàng da, hoặc sốt cao đột ngột rồi đau bụng nhiều; hẹn tái khám sau 2 tuần với nhật ký cơn đau",
+     "v": "c",
+     "n": "WHO 2013 (mục 9.4.1: đau bụng > 4 giờ là cấp cứu tiềm tàng; mục 9.4.2: đau và đau khi ấn liên tục hố chậu phải kèm sốt, chán ăn, nôn); QĐ 3312 (Bảng 1); QĐ 2760/2023 (mục II.2.1). Khoảng tái khám: không có trong tài liệu đã tải; người viết chọn 2 tuần vì có dấu báo động vị trí và không có siêu âm (diagnostic timeout)."
+    },
+    {
+     "t": "Thuốc: chống co thắt, ức chế H2, men vi sinh Bifidobacterium infantis (QĐ 3312) hoặc không dùng thuốc thường quy (ESPGHAN/NASPGHAN 2025)",
+     "v": "a",
+     "n": "Hai nguồn khác nhau, đã ghi trong sổ mâu thuẫn (NH-1114 số 1). QĐ 3312 mục 4.3–4.4: thuốc giảm nhẹ triệu chứng; ESPGHAN/NASPGHAN 2025: mebeverine, drotaverine 'không gợi ý', probiotic nhiều chủng chỉ 'có thể gợi ý'. Không nguồn nào nói có hại; liều trẻ 12 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn siêu âm bụng ở nơi có máy cho yên tâm, hoặc không cần",
+     "v": "a",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 3.2): siêu âm bất thường dưới 1% nhưng được khuyến cáo rộng rãi vì dễ làm (sổ mâu thuẫn NH-1114 số 2). Có dấu báo động vị trí nên làm hay không đều chấp nhận; WSES 2025 khuyến cáo 3.2: siêu âm là hình ảnh đầu tiên ở trẻ khi nghi viêm ruột thừa."
+    },
+    {
+     "t": "Kê thuốc ngủ, an thần hoặc kháng histamin 'cho bé ngủ' theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải: QĐ 3312 (Rối loạn giấc ngủ mục 6) chỉ nêu thuốc sau khi biện pháp tâm lý thất bại, cho cơn miên hành, hoảng sợ ban đêm. An thần có thể che dấu hiệu theo dõi ở bé còn dấu báo động vị trí và chưa có siêu âm (suy luận của người biên soạn, cùng cách xếp với sổ mâu thuẫn NH-0666)."
+    },
+    {
+     "t": "Kê kháng sinh 'phòng nhiễm trùng ruột' hoặc 'ruột thừa'",
+     "v": "w",
+     "n": "Không có nhiễm khuẩn (không sốt, CRP 2 mg/L, soi phân sạch); ESPGHAN/NASPGHAN 2025 xếp kháng sinh vào nhóm 'không gợi ý' cho đau bụng chức năng."
+    },
+    {
+     "t": "Chụp CT bụng có cản quang để loại ruột thừa",
+     "v": "w",
+     "n": "WSES 2020 (khuyến cáo 1.14.2): không CT thường quy đầu tiên cho trẻ đau hố chậu phải; WSES 2025 (khuyến cáo 3.2): siêu âm trước, CT liều thấp chỉ khi siêu âm không kết luận hoặc nghi ngờ vẫn cao."
+    },
+    {
+     "t": "Cho bé nghỉ học cho đến khi hết đau",
+     "v": "w",
+     "n": "Ngược mục tiêu điều trị: QĐ 3312 (Đau bụng chức năng mục 4.1–4.2) cần cho bé đi học đều; nghỉ học khi đau làm tăng hành vi đau."
+    },
+    {
+     "t": "Mổ thăm dò hoặc cắt ruột thừa 'cho dứt điểm' vì đau tái diễn",
+     "v": "h",
+     "n": "ESPGHAN/NASPGHAN 2025 (Best practice statement, khuyến cáo mạnh): không dùng phẫu thuật để đánh giá và điều trị rối loạn đau bụng liên quan tương tác ruột – não. Không có dấu hiệu viêm ruột thừa (WSES 2025 khuyến cáo 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau bụng chức năng tái diễn (hội chứng đau bụng chức năng ở trẻ em theo Rome III) ở bé gái 12 tuổi, đau hố chậu phải từng cơn khoảng 5 tháng",
+     "Dấu báo động vị trí (đau hố chậu phải) đã loại bằng khám lặp có đánh lạc hướng, bạch cầu và CRP bình thường; cân tăng, không sốt, không nôn, không ỉa máu",
+     "Yếu tố tâm lý: đội tuyển Toán, học thêm 5 buổi/tuần, thi sau 2 tuần, ngủ muộn; mẹ mất ngủ nên xin thuốc ngủ",
+     "Đã loại: viêm ruột thừa (nguy cơ thấp), nhiễm giun, lồng ruột; không có sốt xuất huyết sau chuyến đi vùng dịch",
+     "Nhiễu: siro ho long đờm tự mua (không liên quan), ỉa lỏng thoáng qua trong chuyến đi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự làm đúng: hỏi bệnh (mốc thời gian thật, vị trí, nhịp cơn, dấu báo động, đại tiện, kinh nguyệt, chuyến đi, giun, thuốc) → hỏi riêng bé về học hành, giấc ngủ → khám (cân đo, bụng kỹ có đánh lạc hướng, dây thắt) → công thức máu, CRP, soi phân → chẩn đoán → xử trí.",
+     "Vì sao là đau bụng chức năng: đau từng cơn khoảng 5 tháng, ≥ 1 lần/tuần, kèm khiếm khuyết sinh hoạt và khó ngủ; khám bình thường (QĐ 3312, Đau bụng chức năng mục 3.1, Bảng 2). Đau chỉ trong học hành, đi chơi gần như không đau: gợi ý yếu tố tâm lý (mục 3.1, 4.2). Phần lớn đau bụng mạn ở trẻ là chức năng, chỉ khoảng 8% thực thể (mục 1). Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải.",
+     "Không điển hình ở đâu: đau hố chậu phải thay vì quanh rốn, bé nhăn mặt ngay khi chạm da. Dấu báo động vị trí (QĐ 3312 Bảng 1) buộc phải loại viêm ruột thừa chứ không đóng bệnh vội; điểm phân biệt là không đau khi bị đánh lạc hướng, nhảy và ho không đau, không sốt, bạch cầu và CRP bình thường (WHO 2013 mục 9.4.2; WSES 2020 khuyến cáo 1.6.1, Statement 1.5).",
+     "Không phải sốt xuất huyết dù vừa đi vùng dịch: không sốt, dây thắt âm, tiểu cầu bình thường, đã 3 tuần (QĐ 2760/2023 mục II.1–II.2). Không phải giun hay lồng ruột: xem chẩn đoán phân biệt (QĐ 3312 mục 3.1; WHO 2013 mục 9.4.4).",
+     "Thân nhân trả lời thay: mẹ kể sai mốc thời gian, ngắt lời bé; chỉ khi hỏi riêng mới biết nỗi lo kỳ thi và việc mẹ xin thuốc ngủ (QĐ 3312 mục 3.1, 4.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Can thiệp hành vi và học đường: đi học đều, bớt học thêm, ngủ đúng giờ, mẹ phản ứng vừa đủ (QĐ 3312 mục 4.1–4.2; Rối loạn giấc ngủ mục 8). Liệu pháp tâm lý là bước sau nếu vẫn đau (QĐ 3312 mục 4.5; ESPGHAN 2025: thôi miên, liệu pháp nhận thức hành vi được khuyến cáo mạnh).",
+     "Không thuốc ngủ: tài liệu đã tải chỉ nêu thuốc sau khi biện pháp tâm lý thất bại, cho cơn miên hành và hoảng sợ ban đêm (QĐ 3312, Rối loạn giấc ngủ mục 6). Nhu cầu thật của mẹ là được ngủ và yên tâm: trả lời bằng giải thích, hướng dẫn đêm đau, hẹn tái khám.",
+     "Không thuốc điều trị thường quy: QĐ 3312 mục 4.4 cho phép thuốc giảm triệu chứng, ESPGHAN 2025 không gợi ý mebeverine, drotaverine; hai cách đều chấp nhận. Liều trẻ 12 tuổi: không có trong tài liệu đã tải. Ngưng siro ho long đờm (WHO 2013 mục 4.4). Không kháng sinh (ESPGHAN 2025), không CT (WSES 2020 khuyến cáo 1.14.2), không phẫu thuật (ESPGHAN 2025).",
+     "An toàn khi không có siêu âm: dặn dấu hiệu quay lại ngay và hẹn 2 tuần để có mốc mở lại chẩn đoán (WHO 2013 mục 9.4.1–9.4.2; khoảng tái khám do người viết chọn, không có trong tài liệu)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc điều trị đau bụng chức năng, không kê thuốc ngủ",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không có",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Điều trị đầu tay là giáo dục, can thiệp hành vi, điều chỉnh giấc ngủ và học tập (QĐ 3312 mục 4.1–4.2; Rối loạn giấc ngủ mục 6, 8; ESPGHAN/NASPGHAN 2025 Best practice statement 1). Thuốc chỉ giảm nhẹ triệu chứng (QĐ 3312 mục 4.4); liều trẻ 12 tuổi không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Siro ho long đờm (mẹ tự mua ở nhà thuốc): NGƯNG",
+      "ham_luong": "Theo chai mẹ mang theo",
+      "lieu": "Ngừng dùng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "Ho nhẹ virus tự giới hạn, không dùng thuốc tiêu nhầy (WHO 2013 mục 4.4, tr. 90–91; tài liệu viết cho trẻ nhỏ). Không liên quan cơn đau bụng."
+     }
+    ],
+    "dan_do": [
+     "My bị đau bụng chức năng: ruột nhạy cảm hơn bình thường và liên quan căng thẳng, không phải bệnh nặng, không để lại hậu quả sau này (QĐ 3312 mục 4.1). Khám bụng, máu, phân hôm nay không thấy ruột thừa viêm, giun hay nhiễm trùng.",
+     "Cho My đi học đều; khi kêu đau thì an ủi ngắn, cho nghỉ vài phút ở lớp. Báo cô chủ nhiệm, giảm bớt học thêm lúc này, đi ngủ đúng giờ, tập hít sâu thở đều trước khi ngủ (QĐ 3312 mục 4.1–4.2; Rối loạn giấc ngủ mục 6, 8).",
+     "Chưa dùng thuốc ngủ: thuốc không giải quyết nguyên nhân và có thể che dấu hiệu cần theo dõi. Đêm My đau, chị ngồi cạnh trấn an vài phút rồi cho My ngủ lại; chị cũng cần nghỉ, nhờ người nhà thay phiên.",
+     "Ngưng siro ho long đờm (WHO 2013 mục 4.4); không tự cho kháng sinh hay thuốc đau bụng. Ghi nhật ký cơn đau (ngày, giờ, bao lâu, My đang làm gì) mang theo khi tái khám sau 2 tuần.",
+     "Đưa My đến ngay bệnh viện có siêu âm và ngoại nhi nếu đau liên tục hơn 4 giờ (WHO 2013 mục 9.4.1), đau tăng và chỉ ở hố chậu phải, sốt, nôn nhiều, bụng cứng, ỉa máu hoặc phân đen, vàng da, hoặc sốt cao đột ngột rồi đau bụng nhiều (WHO 2013 mục 9.4.2; QĐ 3312 Bảng 1; QĐ 2760/2023 mục II.2.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần theo hẹn. Mẹ mang theo giấy xuất viện bệnh viện tỉnh, vẻ bực. Mẹ nói bé hết đau 9 ngày nay. Sinh hiệu: nhiệt 36,7 °C, mạch 80 l/p, nhịp thở 18 l/p, SpO₂ 99%. Bé tỉnh, nét mặt nhẹ hơn lần trước.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé My nhập viện 'làm hết' các xét nghiệm tiêu hóa khi bé đã hết đau 9 ngày, tăng cân, bụng mềm, không dấu báo động là không có chỉ định (QĐ 3312, Đau bụng chức năng mục 3.2: xét nghiệm chỉ khi có dấu báo động; mục 5: thuyên giảm tự nhiên 30–70%). Bé lại nghỉ học ngay trước kỳ thi, chị Hương thêm một khoản viện phí sau 2,6 triệu đã mất, và nỗi sợ bệnh nặng của cả hai càng lớn.",
+    "chuyen_tuyen": "Chuyển bé My đi khám tiêu hóa nhi để nội soi hoặc cắt ruột thừa nội soi 'cho dứt điểm' khi bé đã hết đau, siêu âm và máu lúc đau cấp đều bình thường là quá tay: ESPGHAN/NASPGHAN 2025 khuyến cáo mạnh không dùng phẫu thuật cho rối loạn đau bụng liên quan tương tác ruột – não; nội soi ở trẻ chỉ cân nhắc khi có chỉ định (QĐ 3312 mục 3.2). Bé chịu gây mê, thủ thuật không cần, và mẹ càng tin bé có bệnh ruột thừa."
+   },
+   "loi_mo": "Chào bác sĩ. Cháu hết đau chín ngày rồi, nhưng hôm trước đau dữ quá em phải đưa đi cấp cứu ở tỉnh, tốn gần ba triệu. Bác sĩ ở đó nói lần trước không siêu âm là sơ suất. Em đưa cháu lại cho bác sĩ coi, với hỏi có nên cắt ruột thừa cho dứt điểm không.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mẹ nói bé hết đau hoàn toàn 9 ngày nay. Nhưng đêm thứ 5 sau lần khám trước bé đau liên tục khoảng 5 tiếng ở hố chậu phải, khóc, mẹ hoảng đưa vào cấp cứu bệnh viện tỉnh cách 40 km lúc 2 giờ sáng. Sau đó bé hết đau.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1, đợt đau cấp"
+    },
+    {
+     "id": "ket_qua_cap_cuu",
+     "noi_dung": "Giấy xuất viện: siêu âm bụng không thấy ruột thừa viêm, không dịch tự do, không hạch mạc treo to; bạch cầu 8,4 G/L, CRP 3 mg/L, nước tiểu bình thường. Bé được truyền dịch, tiêm giảm đau, giữ 1 đêm; viện phí 2,6 triệu; chẩn đoán xuất viện 'đau bụng chưa rõ nguyên nhân'. Bác sĩ trực dặn khám tiêu hóa nhi, và nói nếu còn đau tái diễn có thể cân nhắc cắt ruột thừa nội soi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả cấp cứu (siêu âm, máu) bình thường"
+    },
+    {
+     "id": "cam_xuc_me",
+     "noi_dung": "Mẹ bực: bác sĩ trực nói 'đau hố chậu phải mà không cho siêu âm là sơ suất', nên mẹ trách phòng khám, tiếc 2,6 triệu và đêm mất ngủ. Mẹ hỏi có nên cắt ruột thừa 'dứt điểm' như bác sĩ tỉnh gợi ý không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Cảm xúc của mẹ, câu hỏi cắt ruột thừa"
+    },
+    {
+     "id": "canh_bao_am2",
+     "noi_dung": "Từ sau đêm cấp cứu bé không sốt, không nôn, không ỉa lỏng, không ỉa máu. Ăn ngon, cân nặng ở nhà 39 kg. Trước đó, ngày thứ 3 có một lần đau nhẹ ở lớp, ngồi nghỉ 5 phút rồi học tiếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động vẫn âm tính, tăng cân"
+    },
+    {
+     "id": "lam_theo_dan",
+     "noi_dung": "Mẹ đã ngưng siro ho, ho đã hết. Mẹ gặp cô chủ nhiệm, cho bé bỏ 2 trong 5 buổi học thêm, đi ngủ lúc 22 giờ 30; bé đi học đều trừ 3 ngày nghỉ vì cấp cứu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ dặn dò"
+    },
+    {
+     "id": "rieng_be",
+     "noi_dung": "Khi hỏi riêng, bé nói tuần này con ngủ sớm hơn nên đỡ hơn. Con sợ nhất là không được chọn đi thi và sợ bị mổ trong đêm cấp cứu. Con thấy nhẹ vì mẹ không ép học như trước. Bé hơi buồn vì bạn bè hỏi han chuyện nhập viện.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bé chỉ nói khi bác sĩ hỏi thẳng bé hoặc mời mẹ ra ngoài hỏi riêng về tâm trạng, học hành, giấc ngủ, nỗi sợ trong đêm cấp cứu.",
+     "k": 1,
+     "y": "Tâm trạng, nỗi sợ của bé"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, nét mặt nhẹ nhõm hơn lần trước, tự trả lời vài câu. Cân nặng 39 kg (tăng 0,5 kg so với lần trước).",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn nông và sâu hố chậu phải, kể cả khi bé không chú ý: không đau, không co cứng, không đau dội. Nhảy tại chỗ và ho: không đau. Không khối, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn không đau."
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang rõ hai bên, không ran, đã hết ho.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, khí sắc khá hơn, còn lo về kỳ thi, không có ý tưởng tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần làm lại: công thức máu lượt 1 và ở bệnh viện tỉnh (bạch cầu 8,4 G/L) bình thường; hết đau, không dấu báo động (QĐ 3312, Đau bụng chức năng mục 3.2)."
+    },
+    "crp": {
+     "n": "Không cần: CRP 2 mg/L lượt 1 và 3 mg/L ở bệnh viện tỉnh; bé đã hết đau."
+    },
+    "soi_phan": {
+     "n": "Không cần: soi phân lượt 1 âm tính, không triệu chứng giun (QĐ 3312 mục 3.1)."
+    },
+    "abdus": {
+     "n": "Không cần làm lại, cơ sở cũng không có: siêu âm ở bệnh viện tỉnh trong lúc đau cấp không thấy ruột thừa viêm; siêu âm bất thường dưới 1% (QĐ 3312 mục 3.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau bụng chức năng tái diễn, đã hết đau (đỡ hoàn toàn) sau can thiệp không dùng thuốc; đợt đau cấp phải cấp cứu không tìm thấy bệnh thực thể",
+     "ok": 1,
+     "n": "Hết đau 9 ngày, đi học đều, tăng 0,5 kg, khám bụng bình thường, siêu âm và máu lúc đau cấp bình thường. QĐ 3312 (Đau bụng chức năng mục 4.1): mục tiêu đầu là sinh hoạt bình thường; mục 5: thuyên giảm tự nhiên 30–70%, nhưng 25–66% trẻ còn đau hoặc có lo âu, rối loạn giấc ngủ về sau. Số ngày hết đau để coi là khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm ruột thừa (kể cả 'viêm ruột thừa mạn')",
+     "n": "Không: đau 5 tháng rồi tự hết không điều trị, siêu âm ở bệnh viện tỉnh lúc đau cấp bình thường, CRP và bạch cầu bình thường hai lần (WSES 2025 khuyến cáo 2, 3.2). Khái niệm 'viêm ruột thừa mạn' và chỉ định cắt ruột thừa cho đau tái diễn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lo âu học đường, rối loạn giấc ngủ kèm theo",
+     "n": "Cần theo dõi: bé lo kỳ thi, sợ mẹ thất vọng; QĐ 3312 (mục 5) nêu 25–66% trẻ về sau còn lo âu, rối loạn giấc ngủ; mục 4.5 điều trị tâm thần khi điều trị ban đầu không đủ. Bé đã đáp ứng nên chưa cần chuyển chuyên khoa."
+    },
+    {
+     "t": "Quyết định không siêu âm ở lượt 1 là sai vì bé phải cấp cứu",
+     "n": "Không: kết quả bình thường cho thấy nhận định nguy cơ thấp đúng, và chất lượng quyết định không đo bằng kết cục (chống outcome bias). Lượt 1 dùng thang điểm cộng xét nghiệm (WSES 2025 khuyến cáo 2) và dặn đúng dấu hiệu quay lại; chính lời dặn (đau > 4 giờ: WHO 2013 mục 9.4.1) giúp mẹ đưa bé đi cấp cứu kịp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận bé đã đỡ hoàn toàn: hết đau, đi học đều, tăng cân, khám bụng bình thường, không dấu báo động; kết thúc điều trị tích cực, không thuốc, không xét nghiệm kiểm tra lại",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1: mục tiêu đầu là sinh hoạt bình thường; mục 3.2: chỉ xét nghiệm khi có dấu báo động; mục 5: thuyên giảm tự nhiên 30–70%). Số ngày hết đau để coi là khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đọc kết quả cấp cứu cùng mẹ và giải thích: siêu âm, máu bình thường xác nhận không có ruột thừa viêm; lượt 1 không sai vì kết quả này, mẹ đưa bé đi cấp cứu khi đau hơn 4 giờ là đúng lời dặn; xin lỗi về sự bất tiện và chi phí",
+     "v": "c",
+     "n": "WHO 2013 (mục 9.4.1: đau bụng > 4 giờ là cấp cứu tiềm tàng); WSES 2025 (khuyến cáo 2, 3.2). Chống outcome bias là mục tiêu giảng dạy của ca; cách xin lỗi và giữ lòng tin: kỹ năng giao tiếp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cắt ruột thừa hay mổ thăm dò 'dứt điểm'; giải thích vì sao phẫu thuật không điều trị được đau bụng chức năng",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2025 (Best practice statement): khuyến cáo mạnh không dùng phẫu thuật để đánh giá và điều trị rối loạn đau bụng liên quan tương tác ruột – não."
+    },
+    {
+     "t": "Giữ nếp đã giúp bé hết đau: đi học đều, bớt học thêm, ngủ đúng giờ, mẹ phản ứng vừa đủ; hỏi riêng bé và giữ liên hệ với cô chủ nhiệm trước kỳ thi",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1–4.2; Rối loạn giấc ngủ ở trẻ em mục 8). ESPGHAN/NASPGHAN 2025 (Best practice statement 1): giáo dục về yếu tố khơi cơn và lối sống."
+    },
+    {
+     "t": "Dặn khi nào quay lại: đau tái diễn thành cơn lặp lại hoặc có dấu báo động (đau khu trú hố chậu phải kéo dài, đau > 4 giờ, sốt, nôn, ỉa lỏng, ỉa máu, sụt cân); nếu còn tái diễn thì bàn liệu pháp tâm lý, không xét nghiệm hàng loạt",
+     "v": "c",
+     "n": "QĐ 3312 (Bảng 1, mục 3.2, mục 4.5); ESPGHAN/NASPGHAN 2025: thôi miên (mạnh, chứng cứ trung bình) và liệu pháp nhận thức hành vi (mạnh, chứng cứ thấp). Thời điểm cần xét nghiệm thêm dù đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc ngủ; mẹ tự chăm sóc giấc ngủ và nhờ người thay phiên khi bé đau đêm",
+     "v": "c",
+     "n": "QĐ 3312 (Rối loạn giấc ngủ ở trẻ em mục 6): ưu tiên biện pháp tâm lý, thuốc chỉ khi biện pháp tâm lý thất bại và trong cơn miên hành, hoảng sợ ban đêm. Bé đã ngủ được không thuốc (cùng cách xếp lượt 1)."
+    },
+    {
+     "t": "Cho uống men vi sinh hoặc tẩy giun albendazole 400 mg một liều, hoặc không",
+     "v": "a",
+     "n": "Bé đã hết đau nên không có chỉ định; probiotic nhiều chủng chỉ 'có thể gợi ý' (ESPGHAN/NASPGHAN 2025, điều kiện, chứng cứ thấp), QĐ 3312 mục 4.3 nêu Bifidobacterium infantis; WHO 2017 khuyến cáo tẩy giun định kỳ ở nơi nhiễm ≥ 20%. Không nguồn nào nói có hại."
+    },
+    {
+     "t": "Nội soi tiêu hóa, CT hoặc xét nghiệm 'tìm nguyên nhân' cho bé đã hết bệnh",
+     "v": "w",
+     "n": "Không dấu báo động, đã khỏi; xét nghiệm xâm nhập cần cân nhắc kỹ (QĐ 3312 mục 3.2); WSES 2020 khuyến cáo 1.14.2. Tốn kém, không đổi xử trí."
+    },
+    {
+     "t": "Kê thuốc duy trì (amitriptyline, cyproheptadine, thuốc chống co thắt) để 'phòng tái phát'",
+     "v": "w",
+     "n": "Bé không còn triệu chứng. ESPGHAN/NASPGHAN 2025 chỉ 'có thể gợi ý' các thuốc này để điều trị khi đang đau (điều kiện, chứng cứ thấp); QĐ 3312 mục 4.4: thuốc giảm nhẹ triệu chứng. Liều trẻ 12 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cắt ruột thừa nội soi hoặc mổ thăm dò vì đau tái diễn",
+     "v": "h",
+     "n": "ESPGHAN/NASPGHAN 2025 (Best practice statement, khuyến cáo mạnh): không dùng phẫu thuật cho rối loạn đau bụng liên quan tương tác ruột – não. Siêu âm và máu lúc đau cấp bình thường."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau bụng chức năng tái diễn ở bé gái 12 tuổi, đỡ hoàn toàn (hết đau 9 ngày) sau can thiệp không dùng thuốc",
+     "Đợt đau cấp đêm thứ 5 phải cấp cứu: siêu âm bụng, công thức máu, CRP, nước tiểu bình thường; không có bệnh thực thể",
+     "Không dấu báo động, tăng cân 0,5 kg, khám bụng bình thường",
+     "Hậu quả của đợt cấp cứu: tốn 2,6 triệu, nghỉ học 3 ngày, mẹ bực và mất niềm tin; đề xuất cắt ruột thừa không có chỉ định",
+     "Nền lo âu học đường nhẹ, giấc ngủ đã cải thiện; mẹ không còn nhu cầu xin thuốc ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Kết quả bình thường ở bệnh viện tỉnh xác nhận chẩn đoán chức năng (WSES 2025 khuyến cáo 3.2). Nhưng không kết luận 'lần trước phải siêu âm': lượt 1 dùng thang điểm cộng xét nghiệm xác định nguy cơ thấp (WSES 2025 khuyến cáo 2) và dặn dấu hiệu quay lại, chính lời dặn đó giúp mẹ đưa bé đi cấp cứu đúng lúc (WHO 2013 mục 9.4.1). Quyết định tốt vẫn có thể gặp kết cục xấu: bé đau, tốn tiền, mẹ giận.",
+     "Kết quả bình thường ở bệnh viện tỉnh xác nhận chẩn đoán chức năng (WSES 2025 khuyến cáo 3.2: siêu âm là hình ảnh đầu tiên ở trẻ). Nhưng không kết luận 'lần trước phải siêu âm': lượt 1 dùng thang điểm cộng xét nghiệm xác định nguy cơ thấp (WSES 2025 khuyến cáo 2) và dặn dấu hiệu quay lại, chính lời dặn đó giúp mẹ đưa bé đi cấp cứu đúng lúc (WHO 2013 mục 9.4.1). Quyết định tốt vẫn có thể gặp kết cục xấu: bé đau, tốn tiền, mẹ giận.",
+     "Đề xuất cắt ruột thừa 'cho dứt điểm' không có chỉ định: khám và hình ảnh không có viêm ruột thừa; ESPGHAN/NASPGHAN 2025 khuyến cáo mạnh không phẫu thuật cho rối loạn này. Khái niệm 'viêm ruột thừa mạn': không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Giải thích kết quả cấp cứu và nhận trách nhiệm đúng mức: xin lỗi vì bất tiện, nhắc vì sao lượt 1 làm như vậy, không đổ lỗi cho đồng nghiệp ở bệnh viện tỉnh; kết quả ở đó xác nhận chứ không phủ nhận chẩn đoán.",
+     "Giữ nếp đã hiệu quả: đi học đều, bớt học thêm, ngủ đúng giờ (QĐ 3312 mục 4.1–4.2; Rối loạn giấc ngủ mục 8). Không thuốc duy trì, không thuốc ngủ (QĐ 3312 Rối loạn giấc ngủ mục 6; ESPGHAN 2025).",
+     "Nếu đau tái diễn: liệu pháp tâm lý là bước tiếp theo (QĐ 3312 mục 4.5; ESPGHAN/NASPGHAN 2025: thôi miên, liệu pháp nhận thức hành vi). Không phẫu thuật (ESPGHAN 2025).",
+     "Dặn quay lại ngay khi có dấu báo động hoặc đau > 4 giờ (WHO 2013 mục 9.4.1; QĐ 3312 Bảng 1); không hẹn tái khám định kỳ nếu không đau (số tuần theo dõi: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không có",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Bé đã hết đau không dùng thuốc; không thuốc duy trì (QĐ 3312 mục 4.4: thuốc chỉ giảm nhẹ triệu chứng; ESPGHAN/NASPGHAN 2025). Không thuốc ngủ (QĐ 3312, Rối loạn giấc ngủ mục 6)."
+     }
+    ],
+    "dan_do": [
+     "My đã khỏi đau bụng chức năng, nghĩa là ruột nhạy cảm đã dịu lại. Siêu âm và máu ở bệnh viện tỉnh bình thường, đúng với chẩn đoán này. Không cần mổ ruột thừa và không cần xét nghiệm thêm (QĐ 3312 mục 3.2; ESPGHAN/NASPGHAN 2025).",
+     "Chị đưa My đi cấp cứu đêm đó là đúng, vì đau hơn 4 giờ cần đi khám ngay (WHO 2013 mục 9.4.1). Phòng khám xin lỗi vì mất 2,6 triệu và một đêm vất vả; lần trước chúng tôi dựa vào khám và máu để nhận định nguy cơ thấp (WSES 2025 khuyến cáo 2), kết quả bình thường không có nghĩa lúc đó quyết định sai.",
+     "Giữ những gì đã giúp My: đi học đều, bớt học thêm, ngủ trước 22 giờ 30, chị phản ứng vừa phải khi My kêu đau, khen My khi vui và không nhắc đến đau (QĐ 3312 mục 4.1–4.2). Hỏi chuyện My riêng mỗi tuần, xem My lo gì về kỳ thi.",
+     "Không cần thuốc để phòng tái phát và không cần thuốc ngủ. Nếu chị mệt, nhờ người nhà thay phiên.",
+     "Đưa My đến khám ngay nếu đau bụng liên tục hơn 4 giờ (WHO 2013 mục 9.4.1), đau chỉ ở hố chậu phải, sốt, nôn nhiều, ỉa máu, sụt cân (QĐ 3312 Bảng 1). Nếu đau lại thành cơn lặp lại nhiều tuần, đến phòng khám để bàn liệu pháp tâm lý, không tự mua thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau lượt 1, mẹ ngưng siro ho, gặp cô chủ nhiệm, cho My bỏ bớt 2 buổi học thêm và ngủ lúc 22 giờ 30; My đi học đều. Đêm thứ 5 My đau liên tục khoảng 5 tiếng ở hố chậu phải, mẹ làm đúng lời dặn, đưa vào cấp cứu bệnh viện tỉnh: siêu âm, công thức máu, CRP, nước tiểu đều bình thường; My được truyền dịch, giữ 1 đêm, viện phí 2,6 triệu, nghỉ học 3 ngày; bác sĩ trực chê lần khám đầu không siêu âm và gợi ý cắt ruột thừa nếu còn đau. Từ đó My hết đau. Lượt 2 sau 2 tuần: hết đau 9 ngày, tăng cân, khám bình thường, không cần thuốc, xét nghiệm hay mổ. Kết cục: xử trí đúng nhưng diễn tiến xấu (cấp cứu, tốn kém, mẹ mất lòng tin), chẩn đoán không đổi.",
+ "nhieu": [
+  "Thân nhân trả lời thay: mẹ kể đau '3 tuần' (thật ra khoảng 5 tháng), ngắt lời bé. Phải hỏi lại mốc thời gian và hỏi riêng bé (mời mẹ ra ngoài) để biết nhịp đau theo học hành, nỗi sợ kỳ thi, giấc ngủ.",
+  "Lý do thật: mẹ mất ngủ, muốn xin thuốc ngủ cho bé; chỉ lộ khi hỏi đêm qua bé và chị ngủ ra sao, hoặc chị mong gì ở buổi khám. Không kê thuốc ngủ; trả lời nhu cầu thật của mẹ bằng giải thích và hướng dẫn.",
+  "Siro ho long đờm tự mua không liên quan cơn đau; ngưng vì ho nhẹ tự khỏi (WHO 2013 mục 4.4). Không có siêu âm: dựa vào khám bụng lặp có đánh lạc hướng, công thức máu, CRP, thang điểm; an toàn bằng dặn dấu hiệu quay lại và hẹn 2 tuần."
+ ],
+ "bai_hoc_bien": [
+  "Đau hố chậu phải ở trẻ là dấu báo động vị trí (QĐ 3312 Bảng 1): phải chủ động loại viêm ruột thừa, nhưng không có siêu âm vẫn loại được bằng khám lặp, công thức máu, CRP, thang điểm (WSES 2020 khuyến cáo 1.6.1; WSES 2025 khuyến cáo 2).",
+  "Hỏi lại mốc thời gian khi thân nhân kể: '3 tuần' hóa ra là 5 tháng. Tách bé khỏi mẹ để hỏi riêng khi bé 12 tuổi biết tự khai nhưng im lặng trước mẹ.",
+  "Chống outcome bias: bé phải cấp cứu, kết quả bình thường không có nghĩa quyết định lượt 1 sai; đánh giá quyết định theo thông tin lúc đó và lời dặn an toàn đã đưa ra.",
+  "Lượt tái khám đã hết đau: xác nhận khỏi bằng tiêu chí, từ chối cắt ruột thừa 'dứt điểm' (ESPGHAN/NASPGHAN 2025), không xét nghiệm kiểm tra khi không dấu báo động."
+ ],
+ "diem_nho": [
+  "Dấu báo động (QĐ 3312 Bảng 1): giảm cân hoặc chậm phát triển, chậm dậy thì, nôn, ỉa lỏng, xuất huyết tiêu hóa, sốt chưa rõ nguyên nhân; khám: đau khu trú ¼ trên hoặc dưới bên phải, đau toàn bụng hoặc khối, gan lách to.",
+  "Rome III (QĐ 3312 Bảng 2): đau bụng chức năng ở trẻ em ≥ 1 lần/tuần và ≥ 2 tháng; hội chứng đau bụng chức năng thêm khiếm khuyết sinh hoạt hoặc đau đầu, đau chi, khó ngủ. Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải.",
+  "Đau bụng kéo dài > 4 giờ coi là cấp cứu tiềm tàng; đau quanh rốn không đặc hiệu (WHO 2013 mục 9.4.1). Ở trẻ nghi viêm ruột thừa: xét nghiệm thường quy (WSES 2020 khuyến cáo 1.6.1), siêu âm trước, không CT thường quy đầu tiên (WSES 2025 khuyến cáo 3.2; WSES 2020 khuyến cáo 1.14.2).",
+  "ESPGHAN/NASPGHAN 2025: đau bụng liên quan tương tác ruột – não ở trẻ 4–18 tuổi 13,5%; thôi miên, liệu pháp nhận thức hành vi được khuyến cáo mạnh; khuyến cáo mạnh chống phẫu thuật.",
+  "Sốt xuất huyết: đau bụng nhiều và liên tục ở giai đoạn nguy hiểm, ngày 3–7 của bệnh (QĐ 2760/2023 mục II.2.1); NS1 chỉ dùng ngày 1–7. Cặp tương phản P-0264: ca đối dự kiến NH-1156 (nhiễm trùng tiểu ở trẻ, chưa viết), phân biệt bằng sốt, triệu chứng tiểu, nước tiểu."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Đau bụng chức năng (mục 1–5, Bảng 1, Bảng 2, tr. 344–347); Nhiễm ký sinh trùng đường ruột (mục 1–3.1, tr. 335–338); Rối loạn giấc ngủ ở trẻ em (mục 1–8, tr. 756–759)",
+  "WHO 2013 – Pocket book of hospital care for children, 2nd edition – TL-0250 – ĐÃ ĐỌC: mục 9.4.1–9.4.4 (tr. 281–284); mục 4.4 Cough or cold (tr. 90–91)",
+  "ESPGHAN/NASPGHAN 2025 – Guidelines for treatment of IBS and functional abdominal pain-NOS in children aged 4–18 years. J Pediatr Gastroenterol Nutr. 2025, doi:10.1002/jpn3.70070 (kho tltk-10000-ca, 03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Executive summary, Best practice statements (giáo dục, chế độ ăn, chống phẫu thuật)",
+  "Rome V 2026 – Drossman DA, Chang L, Tack J. Gastroenterology 2026;170(6):1083-1098 – TL-0252 – ĐÃ ĐỌC: Bảng 2 (H1b Abdominal pain syndrome – NOS); không có tiêu chuẩn chẩn đoán nhi chi tiết",
+  "WSES 2020 – Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27 – TL-0263 – ĐÃ ĐỌC: Statement 1.5, khuyến cáo 1.2.1, 1.6.1, 1.6.2, 1.14.1, 1.14.2",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: khuyến cáo 2 (thang điểm AIR, AAS, PAS), khuyến cáo 3.2",
+  "QĐ 2760 – Bộ Y tế, QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II.1, II.2.1, III.1.1, III.2",
+  "WHO 2017 – Guideline: preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – ĐÃ ĐỌC: khuyến cáo albendazole 400 mg cho trẻ học đường và trẻ gái 10–19 tuổi",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: tiêu chuẩn Rome IV, Rome V cho trẻ; điểm PAS cụ thể, ngưỡng CRP ở trẻ; liều thuốc chống co thắt, H2, probiotic cho trẻ 12 tuổi; khoảng tái khám, số ngày hết đau để coi là khỏi; thuốc ngủ ở trẻ ngoài cơn miên hành; số giờ ngủ cho trẻ 12 tuổi; ngưỡng tuổi WHO 2013 mục 4.4; khái niệm 'viêm ruột thừa mạn'"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (24/10/2026): viết theo đặc tả sổ cái NH-1125 (2 lượt, đỡ hoàn toàn khi tái khám, thân nhân trả lời thay, không có siêu âm, có cờ đỏ, xử trí đúng nhưng diễn tiến xấu, khởi phát sau du lịch vùng dịch, xin thuốc ngủ).",
+  "Cờ đỏ: đau hố chậu phải (QĐ 3312 Bảng 1) trên nền đau bụng chức năng; loại viêm ruột thừa bằng khám lặp, công thức máu, CRP (WSES). 'Diễn tiến xấu' (đợt đau cấp đêm thứ 5, cấp cứu nơi khác, kết quả bình thường) là tình huống do người viết dựng, không phải số liệu trong tài liệu.",
+  "Tài liệu đã đọc: TL-0037 (QĐ 3312 tr. 344–347, 335–338, 756–759), TL-0250 (WHO 2013 mục 9.4.1–9.4.4, 4.4), ESPGHAN/NASPGHAN 2025 (kho cũ), TL-0252, TL-0263, TL-0053, TL-0029, TL-0248.",
+  "Tim, phổi: tệp bình thường (mạch 84, 80 l/p). Không có ảnh da. Không đề xuất mục danh mục mới. Siêu âm bụng (abdus) bị khóa theo ràng buộc nguồn lực, khai thay_the = ctm."
+ ]
+}
