@@ -1,0 +1,759 @@
+{
+ "ma_ca": "DL-0534",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_vay_nen_dao_nguoc",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Vảy nến",
+  "chan_doan_phai_loai_tru": [
+   "Viêm da tiết bã",
+   "Nấm da",
+   "Lupus"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau khi ăn quá nhiều đạm (thịt bò, tôm trong đám giỗ)",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Vấn đề tâm lý giấu sâu sau triệu chứng",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Sáu",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Nông dân trồng rau và lúa, ra ruộng từ 5 giờ sáng, ra nhiều mồ hôi, mặc áo dài tay, quần dài, đội nón lá",
+  "can_nang": 44,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' (hoặc 'dì Sáu'). Bà xưng 'tui', gọi 'bác sĩ' hoặc 'con'; gọi con dâu là 'con Hạnh'.",
+  "tinh_cach": "Hiền, cam chịu, ít chữ, giọng miền Tây, nghe hơi kém. Không muốn phiền con cháu; hay tủi thân, sụt sùi khi nhắc cháu nội. Tin 'ăn đồ độc thì nổi', tin lời người trong xóm.",
+  "kieu_nhieu": "Kể lể lộn xộn: hỏi một câu thì bà kể sang đám giỗ, chuyện ruộng, đau gối, chuyện ông đã mất; thứ tự thời gian đảo lộn, ngày tháng không chắc. Bị ngắt hoặc hỏi dồn nhiều ý thì bà bối rối, im, hoặc 'ừ ừ' cho xong. Hỏi từng ý ngắn rồi tóm lại cho bà xác nhận thì bà trả lời rõ và nhớ thêm. Có con dâu ngồi cạnh thì bà không kể chuyện buồn; chỉ lộ khi chỉ còn bà với bác sĩ và được hỏi nhẹ nhàng về ăn, ngủ, tâm trạng, chuyện trong nhà.",
+  "nguoi_nha": "Con dâu, chị Lê Thị Hạnh, 46 tuổi, bán tạp hóa, chở bà 9 km bằng xe máy. Thương mẹ chồng nhưng lo cho con trai 8 tháng, hay xen ngang 'mẹ kể cho đàng hoàng đi', hỏi 'bệnh ngoài da này có lây không bác sĩ'.",
+  "ten_nguoi_nha": "Con dâu (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#c9946a",
+   "toc": "#d9d9d6",
+   "kieuToc": "bui",
+   "ao": "#6f5b45",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "dau",
+   "nguoiNha": {
+    "da": "#d4a07a",
+    "toc": "#1f1710",
+    "kieuToc": "bui",
+    "ao": "#8c5a6e",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ngứa rát mấy chỗ kín (nếp dưới vú, bẹn, nách), mất ngủ, người mệt",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư ở thị trấn không có máy siêu âm (nên cũng không có CT, nội soi); còn xét nghiệm máu, soi tươi, X-quang, đèn soi da. Bệnh này dựa vào khám lâm sàng, soi KOH và cạo vảy Brocq nên thiếu siêu âm không đổi quyết định."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trần Thị Sáu, 78 tuổi, nông dân, con dâu chở đến phòng khám lúc 9 giờ sáng vì 'ngứa rát mấy chỗ kín, mất ngủ, người mệt'; con dâu nói thêm bà gãi nhiều. Sinh hiệu: mạch 78 l/p, HA 148/82 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 44 kg, chiều cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà Sáu lên bệnh viện da liễu tỉnh ngay khi bà chỉ có vảy nến nhẹ (BSA 3–4%, DLQI 8) và chưa thử thuốc bôi: thuốc toàn thân, tầm soát lao, viêm gan, HIV chỉ đặt ra ở thể vừa – nặng (QĐ 4416, sơ đồ điều trị, mục 2.2; S3 2026 KC II-1). Bà 78 tuổi, gầy, đi xa cùng con dâu bán tạp hóa phải bỏ buôn bán; con dâu càng tin bệnh nặng, càng sợ lây cho cháu. Nỗi mặc cảm và mất ngủ của bà không được khai thác, nếp gấp vẫn rát, nứt.",
+    "nhap_vien": "Nhập viện theo dõi là không cần: bà không sốt, mụn mủ, đỏ da toàn thân, BSA 3–4% (QĐ 4416, Vảy nến mục 2.4); ý nghĩ chết thụ động, không kế hoạch nên chưa là nguy cơ trực tiếp (NICE NG222 mục 1.2.9). Nằm viện xa nhà là tách bà khỏi cháu nội thêm lần nữa, củng cố cảm giác bị bỏ rơi và 'mang bệnh nặng, bệnh lây'; tốn kém cho gia đình mà thuốc bôi vẫn là điều trị chính."
+   },
+   "loi_mo": "Bác sĩ ơi, tui ngứa quá trời… mà chắc tại hôm đám giỗ ổng tui ăn nhiều thịt bò với tôm, ăn xong là nổi… à mà hồi trước nữa kìa, năm lụt đó… cái chỗ dưới vú nó rát, rồi đầu gối tui cũng đau, ngủ cũng hổng được… bác sĩ coi giùm tui với.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "148/82",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ngứa rát ở nếp dưới hai vú, nách phải và hai bên bẹn khoảng 5 tháng, nặng hơn 3 tuần nay: da đỏ, rát như bỏng khi ra mồ hôi, gãi nhiều, nứt ở đáy nếp. Ngủ không được. Bà nói chung chung 'ngứa mấy chỗ kín, người mệt'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tổn thương chính ở nếp gấp"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đầu mùa mưa năm nay ngứa dưới vú, sau lan nách phải rồi hai bên bẹn. Bà tưởng hăm vì mồ hôi: rắc phấn rôm, nấu lá trầu không rửa, bôi dầu gió, không đỡ. Ba tuần nay (sau giỗ đầu của ông) nặng hơn, nứt, rát. Không mụn mủ, không chảy nước vàng, không sốt, không đỏ lan ra thân. Bà kể lẫn thời gian; hỏi từng mốc ngắn thì nhớ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến thật (mạn, đợt nặng 3 tuần), thuốc đã tự dùng"
+    },
+    {
+     "id": "do_an",
+     "noi_dung": "Giỗ đầu ông cách đây khoảng 3 tuần, ba ngày liền bà ăn nhiều thịt bò, tôm, trứng vịt lộn. Vài ngày sau ngứa nặng hơn nên bà tin 'ăn đồ độc nên nổi'. Không mề đay, phù môi, khó thở, tiêu chảy sau bữa ăn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát theo sổ cái (bữa nhiều đạm); không có triệu chứng dị ứng tức thì"
+    },
+    {
+     "id": "da_dau_mong",
+     "noi_dung": "Da đầu bà có 'gàu' khoảng 10 năm, gãi ra vảy trắng dày thành mảng ở đỉnh và gáy, gội dầu trị gàu không hết; không rụng tóc thành mảng. Móng tay có chấm lõm nhỏ từ lâu, bà tưởng do làm ruộng. Không đau móng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Da đầu, móng (manh mối vảy nến)"
+    },
+    {
+     "id": "chan",
+     "noi_dung": "Cẳng chân phải có vài mảng khô bong vảy trắng cả một, hai năm, không ngứa; bà luôn mặc quần dài ra ruộng nên che hết, không nghĩ là bệnh nên không kể trừ khi bác sĩ hỏi kỹ hoặc khám toàn thân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tổn thương ở chỗ khác, che bằng quần áo"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Đau hai gối khi đi và làm ruộng, nặng buổi chiều, nghỉ thì đỡ; sáng cứng gối dưới 15 phút. Không sưng cả ngón tay hay ngón chân, không đau gót, không đau lưng về đêm, không cứng khớp nhỏ kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau gối cơ học; loại trừ viêm khớp vảy nến"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Paracetamol 500 mg mua ở tiệm thuốc, 1 viên × 3 lần/ngày khi đau gối, khoảng 1,5 g/ngày, nhiều năm. Không thuốc chống viêm khác, corticoid, thuốc nam, thuốc bắc, kem 'trộn'. Chưa từng đo đường huyết; không dị ứng thuốc; không hút thuốc, không rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều thông thường"
+    },
+    {
+     "id": "lupus_tc",
+     "noi_dung": "Không sốt, không sụt cân (44 kg nhiều năm), không ban hai má, ra nắng cả đời mà mặt và tay không nổi ban; không loét miệng, rụng tóc, đau khớp nhỏ; nước tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lupus"
+    },
+    {
+     "id": "nam_da",
+     "noi_dung": "Không mụn mủ nhỏ quanh tổn thương, không ngứa kẽ ngón chân, không bong da ở bẹn thành vòng lan ra. Không dùng kháng sinh, corticoid gần đây. Ngâm ruộng, ra mồ hôi nhiều. Không tiểu nhiều, không khát nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nấm da, Candida kẽ"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Chồng mất 1 năm. Ba tháng nay con dâu không cho bà bồng cháu nội 8 tháng, tách riêng chén bát, nói 'mẹ bị bệnh ngoài da, lây cho cháu'. Người xóm đồn 'bệnh dơ, bệnh hủi'. Bà tủi, khóc ban đêm, ngủ 3–4 tiếng, ăn ít, bỏ đi chợ, ngại tắm. Hôm nay bà xin đi khám để 'có bác sĩ nói là không lây'. Con dâu ngồi cạnh thì bà chỉ nói 'ngứa với mất ngủ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng bà (mời con dâu ra ngoài) hoặc hỏi về ngủ, ăn, tâm trạng, chuyện cháu nội, chuyện trong nhà bằng giọng nhẹ.",
+     "k": 1,
+     "y": "Lý do thật: vấn đề tâm lý – mặc cảm bị cho là bệnh lây, bị tách khỏi cháu"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Hơn một tháng nay thỉnh thoảng bà nghĩ 'sống chi cho con cháu nó ghê, chết quách cho khỏi làm khổ tụi nó'. Không nghĩ cách nào, không làm gì, nói 'còn thương thằng cháu nên không dám'. Trong kho sau nhà có thuốc trừ sâu. Nếu hỏi PHQ-9: ít hứng thú 1, buồn 2, ngủ kém 3, mệt 1, ăn kém 1, thấy mình vô dụng 2, tập trung 0, chậm chạp 0, ý nghĩ chết 1; tổng 11.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng và hỏi thẳng về ý nghĩ không muốn sống, tự hại; hỏi vòng vo thì bà nói 'tui buồn thôi'. Chỉ nhắc thuốc trừ sâu khi được hỏi nhà có thứ gì nguy hiểm.",
+     "k": 1,
+     "y": "Cờ đỏ: ý nghĩ thụ động về cái chết; mức trầm cảm"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Bà muốn nghe bác sĩ nói không lây, xin thuốc hết ngứa; hỏi có phải 'ăn đồ độc', bệnh hủi không. Nếu hỏi DLQI: khoảng 8 điểm (ngại, tránh chợ, ngại tắm chung).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn và nỗi lo"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Nếp dưới hai vú mỗi bên 6 × 12 cm, nách phải 4 × 6 cm, bẹn mỗi bên 5 × 8 cm: mảng đỏ tươi, bóng, ranh giới rõ, gần như không vảy (do ẩm), nứt nhẹ đáy nếp, không trợt, không mụn mủ vệ tinh, không lan vào âm hộ. Mặt ngoài cẳng chân phải 6–7 mảng tròn 1–3 cm, vảy trắng bạc mịn, 1–2 năm; cẳng chân trái 1 mảng 2 cm. Mặt, thân, khuỷu sạch. BSA ≈ 3–4% (một bàn tay ≈ 1%), PASI ước < 5.",
+     "k": 1,
+     "hien": "Nếp dưới hai vú: mỗi bên một mảng khoảng 6 × 12 cm, đỏ, bóng, ranh giới rõ, đáy nếp nứt nhẹ. Nách phải: mảng 4 × 6 cm tương tự. Nếp bẹn hai bên: mỗi bên khoảng 5 × 8 cm, tương tự, không lan vào vùng kín. Mặt ngoài cẳng chân phải: 6–7 tổn thương tròn 1–3 cm (xem ảnh); cẳng chân trái 1 tổn thương 2 cm. Mặt, thân trên, lưng, khuỷu tay: không có tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng chân phải (mặt ngoài)",
+       "id": "HA-DA-0146",
+       "chu": "Vài mảng đỏ nhạt, ranh giới rõ, phủ vảy trắng bạc; một đám khoảng 3 × 4 cm kèm các mảng tròn 1–1,5 cm."
+      }
+     ]
+    },
+    "da_dau_mong": {
+     "a": "Da đầu: mảng đỉnh 3 × 4 cm, gáy 2 × 3 cm, đỏ, vảy trắng bạc dày; tóc không rụng thành mảng. Móng: 5–6 chấm lõm trên móng ngón II, III tay phải và ngón III tay trái; không tách móng; móng chân bình thường.",
+     "k": 1,
+     "hien": "Da đầu: hai mảng ở đỉnh (3 × 4 cm) và gáy (2 × 3 cm), đỏ, phủ vảy trắng dày; tóc không rụng thành mảng; trán, thái dương, sau tai không tổn thương. Móng tay: chấm lõm nhỏ trên ba móng; không tách móng."
+    },
+    "cao_vay_brocq": {
+     "a": "Cạo mảng cẳng chân và da đầu: vảy bong lớp trắng như sáp nến, màng bong, điểm rớm máu (Auspitz): dương tính. Mảng nếp gấp gần như không có vảy để cạo.",
+     "k": 1,
+     "hien": "Cạo mảng ở cẳng chân phải: vảy trắng bong từng lớp, rồi một màng mỏng bong ra, bề mặt dưới đỏ, nhẵn, bóng, rớm máu li ti thành điểm. Mảng ở nếp dưới vú gần như không có vảy để cạo."
+    },
+    "dau_mat_co": {
+     "a": "Mặt: không ban cánh bướm, không bong vảy nhờn ở má, lông mày, rãnh mũi má, sau tai. Niêm mạc miệng hồng, không loét; lưỡi bình thường. Không sờ thấy hạch cổ, nách, bẹn. Tuyến giáp không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo khi gấp duỗi, ấn đau khe khớp trong, không nóng, không tràn dịch, gấp hạn chế nhẹ. Khớp ngón tay: vài nốt nhỏ ở khớp liên đốt xa, không sưng nóng; không có ngón sưng toàn bộ; gân gót và cân gan chân không đau; cột sống thắt lưng không điểm đau. Không có siêu âm khớp: kết luận dựa lâm sàng.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khi chỉ còn bác sĩ: khí sắc buồn, mắt đỏ hoe, khóc khi nhắc cháu nội; tư duy mạch lạc, không hoang tưởng, ảo giác; định hướng đúng. PHQ-9 = 11. Hỏi thẳng: có lúc nghĩ 'chết đi cho con cháu khỏi khổ', chưa kế hoạch, không ý định hành động, còn thương cháu.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, gầy, BMI ≈ 19,6 kg/m², da niêm hồng, không phù, da khô nhăn theo tuổi, không dấu mất nước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "soi_nam": {
+     "v": "u",
+     "r": "Cạo vảy nếp dưới vú phải, KOH 10%: không thấy sợi nấm, bào tử nấm men, giả sợi.",
+     "n": "Nên làm: nếp gấp đỏ có thể là Candida da hoặc nấm bẹn; chẩn đoán cần soi tươi (QĐ 4416, Nhiễm Candida mục 2.1–2.3; Bệnh da do nấm sợi mục 2.2); làm trước khi bôi corticoid vì corticoid có thể làm nặng nấm (AAD-NPF 2021, Risks/Harms của corticoid bôi)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,7 mmol/L",
+     "bang": {
+      "glu": 5.7
+     },
+     "n": "Nên làm: tầm soát chuyển hóa ở người vảy nến (QĐ 4416, Vảy nến mục 2.2, 3.1); đái tháo đường còn là yếu tố nguy cơ Candida da (Nhiễm Candida mục 1.2)."
+    },
+    "lipid": {
+     "v": "a",
+     "r": "Cholesterol TP 5,3 · LDL-C 3,1 · HDL-C 1,3 · TG 1,6 mmol/L",
+     "n": "Chấp nhận: mỡ máu thuộc nhóm tầm soát chuyển hóa (QĐ 4416, Vảy nến mục 2.2, 3.1); ít đổi xử trí hôm nay."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,1 G/L · Neutrophil 62% · Lympho 28% · Hb 121 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 62,
+      "lym_pct": 28,
+      "hgb": 121,
+      "plt": 268
+     },
+     "n": "Chấp nhận: có trong xét nghiệm tầm soát, theo dõi (QĐ 4416, Vảy nến mục 2.2); chỉ dùng thuốc bôi nên không bắt buộc."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,6 mmol/L · Creatinin 74 µmol/L · eGFR 71 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.6,
+      "creat": 74,
+      "egfr": 71
+     },
+     "n": "Chấp nhận: có trong danh sách của QĐ 4416 (Vảy nến mục 2.2), cần khi tính tới thuốc toàn thân; ca này chưa có chỉ định."
+    },
+    "ana": {
+     "r": "Không làm trong ngày",
+     "n": "Không cần: không biểu hiện lupus nào; ANA ≥ 1:80 là tiêu chuẩn đầu vào khi đã nghi lupus (EULAR/ACR 2019)."
+    },
+    "sinh_thiet_da": {
+     "r": "Không làm",
+     "n": "Không cần: lâm sàng điển hình ở da đầu, cẳng chân, Brocq dương tính; mô bệnh học cho ca khó (QĐ 4416, Vảy nến mục 2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Vảy nến thể mảng, dạng nếp gấp (đảo ngược) kèm da đầu, móng, cẳng chân, mức nhẹ (BSA ≈ 3–4%, PASI ước < 5, DLQI 8), đang đợt bùng; chưa có viêm khớp vảy nến",
+     "ok": 1,
+     "n": "Dạng nếp gấp là một thể theo vị trí (QĐ 4416, Vảy nến mục 2.4); nếp ẩm nên đỏ bóng ít vảy, chẩn đoán dựa mảng điển hình ở da đầu, cẳng chân, rỗ móng, Brocq dương tính (mục 2.1, 2.3; QĐ 75/2015 mục 3a, 3c). Nhẹ: PASI, DLQI, BSA < 10 (QĐ 4416 mục 2.5, sơ đồ); S3 2026 KC II-1: cả ba ≤ 10, không có tiêu chí nâng mức (da đầu không lan rộng, không sinh dục, móng chưa tách, ngứa không gãi trầy). ICD-10 L40.0."
+    },
+    {
+     "t": "Viêm da dầu (viêm da tiết bã)",
+     "n": "Người lớn: vảy trắng mỏng hoặc vảy mỡ vàng ở da đầu, mặt, ngực, nếp lằn dưới vú, nách (QĐ 4416, Viêm da dầu mục 2.1.2); vảy nến đứng đầu chẩn đoán phân biệt (mục 2.3.2). Bà: mặt, rãnh mũi má, sau tai sạch, có mảng cẳng chân, rỗ móng; đỉnh bệnh 30–40 tuổi (mục 1.2)."
+    },
+    {
+     "t": "Nấm da: nấm bẹn, nấm thân, Candida da kẽ",
+     "n": "Nấm sợi: mảng tròn, lành giữa, lan ngoại vi (QĐ 4416, Bệnh da do nấm sợi mục 2.1); Candida: dát đỏ, hay trợt, mụn mủ vệ tinh ở nếp dưới vú, nách; có thể mọc thêm trên tổn thương kẽ của vảy nến (Nhiễm Candida mục 2.1). Bà: không lành giữa, không mụn mủ vệ tinh, KOH âm tính."
+    },
+    {
+     "t": "Lupus ban đỏ (dạng đĩa, bán cấp, hệ thống)",
+     "n": "Dạng đĩa: vảy dính, teo, sẹo; bán cấp: dát sẩn bong vảy ở vùng phơi nắng (QĐ 4416, Lupus ban đỏ hệ thống mục 2.1.2). Bà dãi nắng cả đời mà mặt, tay sạch; tổn thương ở nếp che khuất, không sẹo, loét miệng, rụng tóc, triệu chứng toàn thân: không làm ANA (EULAR/ACR 2019)."
+    },
+    {
+     "t": "Trầm cảm ít nặng (PHQ-9 = 11) kèm ý nghĩ thụ động về cái chết, chưa kế hoạch hay ý định, do mặc cảm bệnh da và bị tách khỏi cháu",
+     "ok": 1,
+     "n": "Phải hỏi riêng và hỏi thẳng (NICE NG222 mục 1.2.8). PHQ-9 ≥ 10 nhạy 88%, đặc hiệu 88% (Kroenke 2001); NICE xếp PHQ-9 < 16 là 'ít nặng', đánh giá lại sau 2–4 tuần (mục 1.5.1). Không kế hoạch, còn yếu tố bảo vệ: chưa chuyển khẩn (mục 1.2.9). Yếu tố cô lập, mất người thân (mục 1.2.7)."
+    },
+    {
+     "t": "Thoái hóa khớp gối (đau gối cơ học)",
+     "ok": 1,
+     "n": "Đau khi đi, nghỉ đỡ, cứng sáng ngắn, lạo xạo, không viêm khớp (QĐ 361/2014, Thoái hóa khớp gối; Viêm khớp vảy nến mục 2.1 để loại trừ)."
+    },
+    {
+     "t": "Viêm khớp vảy nến; vảy nến đỏ da toàn thân hoặc thể mủ",
+     "n": "Chưa có: không sưng khớp, ngón khúc dồi, viêm điểm bám gân (10–30% người vảy nến có viêm khớp, đa số sau tổn thương da – QĐ 361/2014, Viêm khớp vảy nến mục 1, 2.1); BSA 3–4%, không sốt, mụn mủ (QĐ 4416, Vảy nến mục 2.4). Hỏi lại mỗi lần khám; là dấu hiệu dặn quay lại ngay."
+    },
+    {
+     "t": "Dị ứng thức ăn (thịt bò, tôm) hoặc 'ăn đồ độc'",
+     "n": "Không mề đay, phù môi, khó thở sau ăn; ngứa có từ 5 tháng trước bữa giỗ. Liên quan bữa nhiều đạm với đợt bùng vảy nến: không có trong tài liệu đã tải (QĐ 4416 mục 1.3: stress, chấn thương, nhiễm khuẩn, thuốc)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời con dâu ra ngoài, hỏi riêng bà về giấc ngủ, ăn uống, tâm trạng, chuyện cháu; hỏi thẳng có ý nghĩ không muốn sống, tự hại không; đánh giá chỗ dựa",
+     "v": "c",
+     "n": "NICE NG222 mục 1.2.8 (luôn hỏi trực tiếp về ý nghĩ tự hại, đánh giá hỗ trợ xã hội, dặn tìm giúp đỡ khi xấu đi), 1.2.7 (cô lập, mất người thân). PHQ-9 = 11."
+    },
+    {
+     "t": "Xếp trầm cảm ít nặng (PHQ-9 < 16), chưa dùng thuốc chống trầm cảm; hẹn đánh giá lại sau 2–4 tuần; chưa cần chuyển khẩn vì không kế hoạch, không ý định",
+     "v": "c",
+     "n": "NICE NG222: PHQ-9 < 16 là 'ít nặng' (định nghĩa mức độ); mục 1.5.1 (đánh giá lại 2–4 tuần), 1.5.3 (không dùng thuốc chống trầm cảm thường quy), 1.2.9 (chuyển khẩn khi nguy cơ trực tiếp đáng kể)."
+    },
+    {
+     "t": "Dặn con dâu để ý lời nói bi quan, về cái chết, gọi ngay nếu có; cất khóa thuốc trừ sâu và thuốc men trong nhà",
+     "v": "c",
+     "n": "NICE NG222 mục 1.2.11, 1.2.12. Cất thuốc trừ sâu: không có trong tài liệu đã tải, suy từ nguyên tắc hạn chế phương tiện."
+    },
+    {
+     "t": "Giải thích với bà và con dâu: vảy nến là bệnh viêm mạn tính do rối loạn miễn dịch, di truyền, yếu tố môi trường, tiến triển từng đợt; bà không bị bệnh hủi; bữa nhiều đạm chưa được chứng minh là nguyên nhân",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 1.1, 1.3); QĐ 75/2015 (mục 1, 2). Câu 'không lây' nguyên văn, vai trò bữa nhiều đạm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nếp gấp: corticoid hiệu lực thấp (vd. hydrocortison 1% kem) 1–2 lần/ngày, hẹn tái khám 4 tuần; hoặc chẹn calcineurin (tacrolimus 0,1% mỡ hoặc pimecrolimus 1% kem, 4–8 tuần)",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1): corticoid 1–2 lần/ngày theo tuổi, vị trí; chẹn calcineurin khi ở mặt hoặc sau đợt corticoid. AAD-NPF 2021: corticoid hiệu lực thấp ở nếp gấp (tr. 8), KC 2.1, 2.2 (mức B cho vảy nến đảo ngược). Hai nguồn khác thứ tự ưu tiên; bà nứt, rát nên corticoid thấp trước (tacrolimus gây rát, tránh da ẩm, AAD tr. 17)."
+    },
+    {
+     "t": "Da đầu: calcipotriol + betamethason dạng gel 1 lần/ngày, 4 tuần. Cẳng chân: cùng hoạt chất dạng mỡ 1 lần/ngày, 4 tuần, không bôi vào nếp gấp",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1: gel cho da đầu, mỡ cho thân); AAD-NPF 2021 KC 3.2, 3.4, 3.5; 4 tuần, ≤ 15 g/ngày, ≤ 30% da: Dovobet (nguồn bổ sung tự tìm). Calcipotriol 100 g/tuần (AAD) hoặc '100mg/tuần' (QĐ 4416, nghi in nhầm): sổ mâu thuẫn; BSA 3–4% nên rất thấp. BHYT: TT 20/2022 dòng 607."
+    },
+    {
+     "t": "Dưỡng ẩm nhiều lần/ngày; giữ nếp gấp khô thoáng, vải mềm, tránh cọ xát, gãi",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1 dưỡng ẩm, ngăn Koebner; mục 2.1 vùng cọ xát; Nhiễm Candida mục 2.1 nóng ẩm); AAD-NPF 2021 KC 5.1. Cách giữ khô cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Soi tươi KOH nếp gấp trước khi bôi corticoid; xét nghiệm glucose, mỡ máu",
+     "v": "c",
+     "n": "QĐ 4416 (Nhiễm Candida mục 2.2, 2.3; Vảy nến mục 2.2, 3.1); AAD-NPF 2021: corticoid bôi có thể làm nặng nấm."
+    },
+    {
+     "t": "Hỏi, khám tầm soát viêm khớp vảy nến; dặn quay lại nếu sưng đau khớp, ngón sưng cả ngón, đau gót",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.1); QĐ 361/2014 (Viêm khớp vảy nến mục 1: 10–30%, 80% sau tổn thương da; mục 2.1)."
+    },
+    {
+     "t": "Paracetamol khi đau gối: tiếp tục, dưới 3 g/ngày (cao tuổi, gầy yếu) hoặc không quá 4 g/ngày; bà dùng khoảng 1,5 g/ngày là phù hợp",
+     "v": "c",
+     "n": "QĐ 361/2014: Phụ lục NSAID mục 3.3 (< 3 g/ngày), Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/ngày), Thoái hóa khớp gối mục 4.2.2 (1–2 g/ngày); số thận trọng hơn là < 3 g/ngày (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Hẹn tái khám 4 tuần, mời con dâu đi cùng; dặn quay lại sớm nếu da đỏ lan, sốt, mụn mủ, hoặc bà buồn nặng thêm",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 4: khám định kì; mục 2.4); AAD-NPF 2021 KC 1.1 (đợt bôi tối đa 4 tuần); NICE NG222 mục 1.5.1."
+    },
+    {
+     "t": "Corticoid mạnh (clobetasol, betamethason dipropionat), kem 'trộn' hay calcipotriol + betamethason bôi nếp gấp",
+     "v": "w",
+     "n": "Nếp gấp dễ teo da, rạn, giãn mạch nhất (AAD-NPF 2021, Risks/Harms, tr. 13); KC 1.1 corticoid hiệu lực cao không áp dụng cho nếp gấp; da bà mỏng."
+    },
+    {
+     "t": "Kháng nấm bôi hoặc uống 'cho chắc'",
+     "v": "w",
+     "n": "KOH âm tính, không mụn mủ vệ tinh; kháng nấm chỉ khi có nhiễm nấm (QĐ 4416, Nhiễm Candida mục 3.2.1)."
+    },
+    {
+     "t": "Thuốc toàn thân (methotrexat, acitretin, ciclosporin) hoặc thuốc sinh học",
+     "v": "w",
+     "n": "Dành cho thể vừa – nặng (QĐ 4416, sơ đồ điều trị, mục 3.2.3; S3 2026 KC II-1); người già cần liều thấp, theo dõi thận (S3 2026, methotrexat)."
+    },
+    {
+     "t": "Kiêng hoàn toàn thịt bò, tôm, đạm động vật; hoặc kê benzodiazepin chữa mất ngủ",
+     "v": "w",
+     "n": "Kiêng: không có bằng chứng trong tài liệu đã tải; bà gầy (BMI 19,6), nguy cơ suy dinh dưỡng (ICOPE 2025, Vitality). Benzodiazepin nên tránh ≥ 65 tuổi (AGS Beers 2023, Bảng 2)."
+    },
+    {
+     "t": "Chỉ điều trị da, không hỏi riêng, không hỏi ý nghĩ tự hại; hoặc dặn bà ở riêng, không ẵm cháu 'cho chắc'",
+     "v": "w",
+     "n": "NICE NG222 mục 1.2.8: luôn hỏi trực tiếp; tách bà khỏi cháu củng cố mặc cảm, tài liệu đã tải không nêu tác nhân nhiễm trong vảy nến (QĐ 4416 mục 1.3)."
+    },
+    {
+     "t": "Corticoid toàn thân (uống, tiêm) để 'sạch nhanh'",
+     "v": "h",
+     "n": "Đỏ da toàn thân, bùng phát, thể mủ khi đang dùng hay vừa ngừng (QĐ 75/2015 mục 4c; QĐ 4416 mục 2.4)."
+    },
+    {
+     "t": "Giới thiệu khám Da liễu xác nhận, làm ANA, sinh thiết, hoặc kê thuốc chống trầm cảm ngay",
+     "v": "a",
+     "n": "Không bắt buộc: mảng điển hình, Brocq dương tính (QĐ 4416, Vảy nến mục 2.3); không biểu hiện lupus (EULAR/ACR 2019); thuốc chống trầm cảm chỉ khi người bệnh chọn (NICE NG222 mục 1.5.3, 1.4.24)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Vảy nến thể mảng, dạng nếp gấp (đảo ngược), kèm da đầu, móng, cẳng chân; ICD-10 L40.0",
+     "Mức nhẹ: BSA ≈ 3–4%, PASI ước < 5, DLQI 8; đợt bùng 3 tuần; chưa viêm khớp vảy nến; KOH âm tính",
+     "Yếu tố thuận lợi: nóng ẩm, cọ xát nếp gấp, stress tâm lý; bữa nhiều đạm: chưa có bằng chứng trong tài liệu đã tải",
+     "Trầm cảm ít nặng (PHQ-9 = 11) kèm ý nghĩ thụ động về cái chết, chưa kế hoạch – cờ đỏ cần theo dõi",
+     "Thoái hóa khớp gối; đã loại: viêm da dầu, nấm da/Candida, lupus, thể mủ, đỏ da toàn thân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: để bà kể, hỏi từng ý ngắn rồi tóm lại cho bà xác nhận, dựng dòng thời gian → da đầu, móng, chân, khớp, thuốc, đồ đã bôi → mời con dâu ra ngoài, hỏi riêng tâm trạng, ngủ, chuyện cháu, ý nghĩ tự hại → khám toàn thân da, Brocq, mặt – miệng, khớp, tâm thần → KOH, glucose, mỡ máu → chẩn đoán → xử trí.",
+     "Vì sao là vảy nến dù không điển hình: nếp gấp ẩm làm mảng đỏ bóng, gần như không vảy, giống nấm hay hăm; nhưng da đầu và cẳng chân có vảy trắng bạc dày trên nền đỏ ranh giới rõ, rỗ móng, Brocq dương tính (QĐ 4416 mục 2.1, 2.3; QĐ 75/2015 mục 3a, 3c); dạng nếp gấp là một thể theo vị trí (QĐ 4416 mục 2.4). Loại viêm da dầu, nấm, lupus: xem phần chẩn đoán phân biệt.",
+     "Tính áp dụng ở người ≥ 75 tuổi: tài liệu đã tải không có khuyến cáo riêng cho nhóm này, chỉ lưu ý chọn corticoid theo tuổi, vị trí (QĐ 4416 mục 3.2.1; AAD-NPF 2021 tr. 8) và liều methotrexat thấp ở người già (S3 2026); mức áp dụng số liệu thử nghiệm cho bà: không có trong tài liệu đã tải, nên chọn hướng thận trọng.",
+     "Lý do thật là tâm lý: bà bị cho là bệnh lây, bị tách khỏi cháu, ngủ 3–4 tiếng, có ý nghĩ chết thụ động; cờ đỏ phải hỏi thẳng (NICE NG222 mục 1.2.8). PHQ-9 = 11 (< 16: ít nặng), không kế hoạch, còn thương cháu: theo dõi sát, chưa chuyển khẩn (mục 1.2.9, 1.5.1). Bữa nhiều đạm: ngứa có trước bữa giỗ 5 tháng, tài liệu không nêu thức ăn là yếu tố khởi phát (QĐ 4416 mục 1.3). Đau gối là thoái hóa cơ học; không có siêu âm nên loại viêm khớp vảy nến bằng khám (QĐ 361/2014, Viêm khớp vảy nến mục 2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, thuốc bôi, hẹn 4 tuần (ve_hen): thể nhẹ, không sốt, mụn mủ, đỏ da toàn thân (QĐ 4416 sơ đồ, mục 2.4); nguy cơ tự hại thấp (NICE 1.2.9). Nếp gấp dùng corticoid hiệu lực thấp vì da mỏng dễ teo (AAD-NPF 2021 tr. 8, 13); tacrolimus (KC 2.1–2.3) để dành sau đợt corticoid theo QĐ 4416.",
+     "Da đầu, cẳng chân: calcipotriol + corticoid ngày 1 lần, 4 tuần (QĐ 4416 mục 3.2.1; AAD KC 3.2, 3.4, 3.5); dưỡng ẩm (KC 5.1). Không thuốc toàn thân, sinh học, corticoid toàn thân.",
+     "Phần tâm lý quan trọng như phần da: giải thích cho cả bà và con dâu, đánh giá lại tâm trạng sau 2–4 tuần (NICE 1.5.1) trùng lịch tái khám; chưa kê thuốc chống trầm cảm hay thuốc ngủ. Không có siêu âm không ảnh hưởng: chẩn đoán dựa lâm sàng, KOH, Brocq. Khoảng tái khám riêng cho vảy nến nhẹ: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortison kem (hiệu lực thấp, nhóm 7)",
+      "ham_luong": "Hydrocortison 1% (nhóm 7: 0,5–2,5%)",
+      "lieu": "Lớp mỏng lên nếp dưới vú, nách, bẹn sau khi rửa, lau khô; không bôi vào âm hộ",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "1–2 lần/ngày",
+      "so_ngay": "Đến tái khám sau 4 tuần; thời gian tối đa riêng cho nếp gấp: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1); AAD-NPF 2021 (tr. 8; Bảng 2, tr. 12). Thay thế: tacrolimus 0,1% mỡ ≤ 8 tuần (KC 2.1). Tên thương phẩm, BHYT dạng bôi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (gel)",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g",
+      "lieu": "Bôi hai mảng da đầu, thường 1–4 g mỗi lần",
+      "duong": "Bôi da đầu",
+      "thoi_diem": "1 lần/ngày, không gội ngay sau bôi",
+      "so_ngay": "4 tuần",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); AAD KC 3.2. Hàm lượng, 4 tuần, không gội ngay: Dovobet gel (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/5690/smpc). Tổng hai dạng ≤ 15 g/ngày."
+     },
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (thuốc mỡ)",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g",
+      "lieu": "Lớp mỏng lên mảng cẳng chân; không bôi vào nếp gấp",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "1 lần/ngày",
+      "so_ngay": "4 tuần",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); AAD KC 3.4, 3.5; Dovobet thuốc mỡ (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/1609/smpc). Calcipotriol: 100 g/tuần (AAD) hoặc '100mg/tuần' (QĐ 4416, nghi in nhầm)."
+     },
+     {
+      "thuoc": "Kem hoặc mỡ dưỡng ẩm không mùi",
+      "ham_luong": "Loại sẵn có (vd. vaselin)",
+      "lieu": "Lớp mỏng lên da khô, cẳng chân, da đầu khi hết vảy",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Nhiều lần/ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); AAD KC 5.1. Tên sản phẩm, cách xếp giờ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (tiếp tục khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014: Phụ lục NSAID mục 3.3 (< 3 g/ngày, số thận trọng hơn); Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/ngày); Thoái hóa khớp gối mục 4.2.2 (1–2 g/ngày)."
+     }
+    ],
+    "dan_do": [
+     "Đây là vảy nến, bệnh da mạn tính, lên xuống từng đợt, kiểm soát được; bà không bị bệnh hủi; bệnh do rối loạn miễn dịch, di truyền (QĐ 4416 mục 1.1, 1.3). Con dâu được hướng dẫn ăn chung, bà ẵm cháu sau khi bôi thuốc và rửa tay; câu 'không lây' nguyên văn và vệ sinh khi ẵm trẻ: không có trong tài liệu đã tải. Không cần kiêng thịt bò, tôm; ăn đủ đạm vì bà gầy.",
+     "Bôi thuốc theo bảng có hình, con dâu giúp đánh dấu: nếp gấp (hydrocortison), da đầu (gel), cẳng chân (thuốc mỡ), dưỡng ẩm; không bôi thuốc mỡ cẳng chân vào nếp gấp. Giữ nếp gấp khô thoáng, vải cotton, không gãi; không mua kem 'trộn', thuốc nam thuốc bắc không rõ thành phần (QĐ 4416 mục 4; QĐ 75/2015 mục 2).",
+     "Chuyện bà bị ghét, bị tách khỏi cháu là có thật và đáng buồn, nói ra là tốt. Nếu có lúc thấy không muốn sống, nói ngay với con dâu hoặc đến khám (NICE NG222 mục 1.2.11). Gia đình cất khóa thuốc trừ sâu.",
+     "Quay lại ngay nếu da đỏ lan khắp người, sốt, nổi mụn mủ (QĐ 4416 mục 2.4), sưng đau khớp, ngón sưng cả ngón, đau gót (QĐ 361/2014), hoặc bà buồn nặng thêm. Tái khám sau 4 tuần cùng con dâu, mang theo thuốc đang bôi; sẽ bàn cách giảm thuốc dần khi da sạch."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (sau 4 tuần)",
+   "tiep_don": "Bà Sáu tái khám đúng hẹn sau 4 tuần, con dâu chị Hạnh đi cùng, bà bước vào tươi tỉnh. Sinh hiệu: mạch 76 l/p, HA 142/80 mmHg, nhiệt độ 36,6 °C, nhịp thở 17 l/p, SpO₂ 97%. Cân nặng 45 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà Sáu lên chuyên khoa dùng thuốc toàn thân hay sinh học 'phòng tái phát' là quá tay: BSA ≈ 0% sau 4 tuần thuốc bôi, mục tiêu đã đạt; thuốc toàn thân, sinh học dành cho thể vừa – nặng (QĐ 4416, sơ đồ điều trị; S3 2026 KC II-1). Bà 78 tuổi bị làm xét nghiệm lao, viêm gan B, C, HIV (QĐ 4416 mục 2.2), tốn công con dâu, và thuốc toàn thân ở người già cần liều thấp, theo dõi thận (S3 2026, mục methotrexat): nguy cơ nhiều hơn lợi ích cho một bệnh đã sạch.",
+    "nhap_vien": "Nhập viện 'theo dõi cho chắc' khi da đã sạch, sinh hiệu ổn, không sốt, mụn mủ là không cần (QĐ 4416, Vảy nến mục 2.4, sơ đồ điều trị). Bà phải nằm xa nhà, xa cháu mà bà vừa được ẵm lại, dễ quay về cảm giác bị cô lập; tốn kém, trong khi việc cần làm là giảm thuốc dần và hẹn tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, tui hết ngứa rồi, hết luôn à… mà bác sĩ coi cho tui nè… tui ẵm thằng cháu lại rồi đó. Vậy là tui hết bệnh luôn rồi hả bác sĩ, tui ngưng thuốc được chưa? Bôi hoài tốn công lắm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "142/80",
+    "nhiet": "36,6",
+    "nhip_tho": 17,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết ngứa, hết rát khoảng 2 tuần nay; ngủ được 6 tiếng. Bà hỏi 'hết bệnh luôn rồi hả, ngưng thuốc được chưa, bôi hoài tốn công'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: đã sạch, hỏi khi nào ngưng thuốc"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bôi theo bảng con dâu ghi: hydrocortison nếp gấp 2 lần/ngày, hết đỏ từ tuần 2; gel da đầu và mỡ cẳng chân 1 lần/ngày, hết vảy sau 3 tuần; dưỡng ẩm 2–3 lần/ngày. Không rát, không mụn, không thấy da mỏng hay nổi chỉ đỏ ở nếp. Không dùng thuốc lạ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và tác dụng phụ"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Hai gối đau như cũ, nghỉ thì đỡ, paracetamol 1–2 viên/ngày khi đau. Không sưng ngón, không đau gót, không cứng khớp nhỏ buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát viêm khớp vảy nến mỗi lần khám"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Sau lần khám trước con dâu nghe bác sĩ giải thích nên cho bà ẵm cháu lại từ tuần thứ hai; ăn cơm chung, bà đi chợ lại, ăn ngon hơn, lên 1 kg. Không còn nghĩ đến chuyện chết, 'giờ còn mắc cười nữa'. PHQ-9 nếu hỏi: 3 điểm. Con dâu đã cất khóa thuốc trừ sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tâm trạng sau khi gỡ hiểu lầm"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bà ăn thịt bò, tôm lại bình thường từ tuần thứ hai, da không nổi trở lại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bữa nhiều đạm không phải nguyên nhân rõ"
+    },
+    {
+     "id": "con_dau",
+     "noi_dung": "Chị Hạnh kể trước đây sợ lây cho con vì đọc mạng 'bệnh ngoài da dễ lây'; giờ thấy da bà sạch, chị hỏi 'vậy là khỏi hẳn rồi hả bác sĩ, có tái phát không'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo của người nhà"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Nếp dưới hai vú, nách phải, hai bẹn: hết đỏ, hết bóng, hết nứt, còn dát hồng nhạt và sẫm màu nhẹ (tăng sắc tố sau viêm), da mịn; không teo, rạn, giãn mạch, viêm nang lông, mụn mủ. Cẳng chân: 6–7 vị trí cũ chỉ còn dát hồng nhạt phẳng, không vảy. BSA ≈ 0%, PASI ≈ 0.",
+     "k": 1,
+     "hien": "Nếp dưới hai vú, nách phải, hai bẹn: da hồng nhạt, sẫm màu nhẹ, mịn, không đỏ, không vảy, không nứt, không mụn mủ; không vết rạn hay mạch máu nhỏ nổi. Cẳng chân: các vị trí cũ chỉ còn dát hồng nhạt phẳng."
+    },
+    "da_dau_mong": {
+     "a": "Da đầu: hết đỏ, hết vảy ở đỉnh, gáy; tóc bình thường. Móng: vẫn 5–6 chấm lõm trên ba móng, không đổi, không tách móng.",
+     "k": 1,
+     "hien": "Da đầu: không đỏ, không vảy, tóc không rụng. Móng tay: vẫn chấm lõm nhỏ trên ba móng, không tách móng."
+    },
+    "cao_vay_brocq": {
+     "a": "Không còn vảy để cạo; không cần làm lại.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo, ấn đau khe khớp trong, không nóng, không tràn dịch; không ngón sưng toàn bộ, gân gót, cân gan chân không đau, không khớp nhỏ sưng. Không có siêu âm: dựa lâm sàng.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh, tươi, nói chuyện về cháu, cười; khí sắc bình thường; PHQ-9 = 3; hỏi thẳng: không còn ý nghĩ chết hay tự hại.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, BMI ≈ 20 kg/m² (45 kg), da niêm hồng, không phù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "soi_nam": {
+     "r": "Không có tổn thương để lấy bệnh phẩm",
+     "n": "Không cần: da sạch, KOH lần trước âm tính. Chỉ soi lại nếu nếp gấp tái đỏ kèm mụn mủ vệ tinh hoặc không đáp ứng (QĐ 4416, Nhiễm Candida mục 2.1, 2.3)."
+    },
+    "ana": {
+     "r": "Không làm",
+     "n": "Không cần: tổn thương hết với thuốc bôi, không biểu hiện lupus (EULAR/ACR 2019: ANA khi đã nghi lupus)."
+    },
+    "sinh_thiet_da": {
+     "r": "Không làm",
+     "n": "Không cần: đáp ứng điều trị đúng hướng, chẩn đoán lâm sàng đã rõ (QĐ 4416, Vảy nến mục 2.3)."
+    },
+    "igra": {
+     "r": "Không làm",
+     "n": "Không cần: tầm soát lao, viêm gan B, C, HIV chỉ trước thuốc toàn thân, sinh học (QĐ 4416, Vảy nến mục 2.2)."
+    },
+    "glu": {
+     "r": "5,6 mmol/L",
+     "bang": {
+      "glu": 5.6
+     },
+     "n": "Không cần lặp hôm nay (lần trước 5,7). Tầm soát chuyển hóa là việc định kỳ ở người vảy nến (QĐ 4416, Vảy nến mục 2.2, 3.1); khoảng cách lặp lại: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Vảy nến thể mảng dạng nếp gấp kèm da đầu, móng, cẳng chân, mức nhẹ: da và da đầu đã sạch hoàn toàn (PASI ≈ 0, BSA ≈ 0%), còn rỗ móng; bệnh còn, đang yên lặng",
+     "ok": 1,
+     "n": "Sạch tổn thương chưa phải khỏi bệnh: 'vảy nến yên lặng', cần duy trì (QĐ 75/2015, Bệnh vảy nến mục 5a, 4a, 6; QĐ 4416, Vảy nến mục 3.1). Mục tiêu điều trị: PASI 75 tối thiểu; PASI 90 hoặc PASI tuyệt đối < 2 hoặc DLQI ≤ 1 mong muốn (S3 2026 KC III-1, III-2); bà vượt cả hai."
+    },
+    {
+     "t": "Trầm cảm ít nặng đã cải thiện (PHQ-9 từ 11 xuống 3), hết ý nghĩ thụ động về cái chết",
+     "ok": 1,
+     "n": "Đánh giá lại sau 2–4 tuần như hẹn (NICE NG222 mục 1.5.1), dùng thang chuẩn để so sánh (mục 1.2.4). Nguyên nhân là hoàn cảnh, được gỡ bằng giải thích và hỗ trợ người nhà, không dùng thuốc."
+    },
+    {
+     "t": "Tác dụng phụ corticoid bôi ở nếp gấp (teo da, rạn, giãn mạch)",
+     "n": "Không có sau 4 tuần hydrocortison hiệu lực thấp; nếp gấp là vùng nguy cơ cao nhất nên phải khám (AAD-NPF 2021, Risks/Harms, tr. 13)."
+    },
+    {
+     "t": "Khỏi bệnh hoàn toàn, không cần theo dõi",
+     "n": "Sai: sạch tổn thương da không thể coi là khỏi hoàn toàn (QĐ 75/2015 mục 5a); chưa có thuốc chữa khỏi hẳn (mục 4a, 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận sạch tổn thương bằng tiêu chí cụ thể: hết đỏ, vảy, nứt, ngứa; BSA ≈ 0%, PASI ≈ 0; ngủ được; còn dát hồng, sẫm màu sau viêm và rỗ móng",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.5); S3 2026 (KC III-1: PASI 75 tối thiểu; KC III-2: PASI 90 hoặc PASI tuyệt đối < 2 hoặc DLQI ≤ 1 mong muốn). Thời gian dát sắc tố mờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích sạch da chưa phải khỏi bệnh: vảy nến mạn tính, có thể tái phát, mục tiêu là giữ yên lặng; trả lời 'ngưng thuốc được chưa' bằng kế hoạch giảm dần",
+     "v": "c",
+     "n": "QĐ 75/2015 (Bệnh vảy nến mục 5a, 4a, 6); QĐ 4416 (Vảy nến mục 3.1)."
+    },
+    {
+     "t": "Hydrocortison nếp gấp: giảm dần (1 lần/ngày hoặc cách ngày, rồi 2 lần/tuần, rồi ngưng nếu ổn), không ngưng đột ngột; hoặc chuyển tacrolimus 0,1% mỡ (≤ 8 tuần, có thể kéo dài khi cần) để duy trì không steroid",
+     "v": "c",
+     "n": "AAD-NPF 2021 (tr. 14: giảm dần cách ngày, 2 lần/tuần, ngưng; chuyển hiệu lực thấp hơn, ngắt quãng, phối hợp thuốc không steroid); KC 2.1 (tacrolimus ≤ 8 tuần, B), KC 2.3 (dài hạn, C). QĐ 4416 (mục 3.2.1: chẹn calcineurin sau đợt corticoid). Cả hai đều đúng: A đơn giản, rẻ; B tránh teo da nếu bôi lâu. Tần suất bôi tacrolimus: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Da đầu và cẳng chân: đủ 4 tuần calcipotriol + betamethason thì ngưng, chuyển dưỡng ẩm, bôi lại khi vảy tái phát; hoặc duy trì vitamin D ngày thường, corticoid cuối tuần ở vùng hay tái",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1); AAD-NPF 2021 KC 3.2, 3.1, 3.6; 4 tuần: Dovobet (nguồn bổ sung tự tìm). Giảm dần riêng cho dạng phối hợp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục dưỡng ẩm hằng ngày; khám tác dụng phụ corticoid ở nếp gấp",
+     "v": "c",
+     "n": "AAD-NPF 2021 KC 5.1 (dưỡng ẩm giúp ngăn tái phát nhanh khi ngưng corticoid), Risks/Harms tr. 13; QĐ 4416 (mục 3.2.1)."
+    },
+    {
+     "t": "Không làm lại soi nấm, ANA, sinh thiết, tầm soát lao/viêm gan/HIV khi da sạch; chỉ soi KOH lại nếu nếp gấp tái đỏ kèm mụn mủ vệ tinh",
+     "v": "c",
+     "n": "QĐ 4416 (Nhiễm Candida mục 2.1, 2.3; Vảy nến mục 2.2, 2.3); EULAR/ACR 2019."
+    },
+    {
+     "t": "Vẫn tầm soát chuyển hóa (glucose, mỡ máu) định kỳ, hỏi khớp và đo lại PHQ-9, hỏi ý nghĩ tự hại mỗi lần khám",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.2, 3.1); QĐ 361/2014 (Viêm khớp vảy nến mục 1); NICE NG222 mục 1.2.4, 1.2.11, 1.5.1. Tần suất xét nghiệm chuyển hóa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol khi đau gối (< 3 g/ngày hoặc ≤ 4 g/ngày, nêu số thận trọng); ăn đủ đạm, không kiêng",
+     "v": "c",
+     "n": "QĐ 361/2014 (Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1); ICOPE 2025 (TL-0016) Vitality."
+    },
+    {
+     "t": "Hẹn tái khám sau 8–12 tuần, sớm hơn nếu tái phát",
+     "v": "c",
+     "n": "S3 2026 (mục Treatment goals, tr. 124: trong điều trị duy trì, kiểm soát mục tiêu thường mỗi 8–12 tuần); QĐ 4416 (Vảy nến mục 4: khám định kì). Khoảng riêng cho vảy nến nhẹ chỉ dùng thuốc bôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay mọi thuốc kể cả dưỡng ẩm và không cần tái khám vì 'đã khỏi'",
+     "v": "w",
+     "n": "QĐ 75/2015 (mục 5a, 4a); AAD-NPF 2021 (tr. 13: ngưng đột ngột có thể bùng lại); QĐ 4416 (mục 4: khám định kì)."
+    },
+    {
+     "t": "Chuyển tuyến dùng thuốc toàn thân hoặc sinh học 'phòng tái phát', hoặc làm lại ANA, sinh thiết, soi nấm 'xác nhận khỏi'",
+     "v": "w",
+     "n": "Thể nhẹ đã sạch bằng thuốc bôi: không chỉ định (QĐ 4416, sơ đồ điều trị, Vảy nến mục 2.3; S3 2026 KC II-1); tốn kém, không đổi xử trí."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Vảy nến thể mảng dạng nếp gấp kèm da đầu, móng, cẳng chân, mức nhẹ: da sạch hoàn toàn (PASI ≈ 0, BSA ≈ 0%), còn rỗ móng; giai đoạn yên lặng (ICD-10 L40.0)",
+     "Chưa viêm khớp vảy nến; không có tác dụng phụ corticoid bôi ở nếp gấp",
+     "Trầm cảm ít nặng đã cải thiện (PHQ-9 11 → 3), hết ý nghĩ thụ động về cái chết; thoái hóa khớp gối"
+    ],
+    "phan_tich_chan_doan": [
+     "Tiêu chí sạch tổn thương: hết đỏ, vảy, nứt, ngứa, ngủ lại được, BSA ≈ 0%, PASI ≈ 0 (QĐ 4416 mục 2.5), đạt mục tiêu mong muốn của S3 2026. Dát hồng, sẫm màu là sắc tố sau viêm, không phải bệnh đang hoạt động. Chưa 'khỏi hẳn': QĐ 75/2015 mục 5a nói rõ sạch tổn thương không thể coi là khỏi hoàn toàn; chiến lược là duy trì ổn định (mục 4a, 6). Kết cục 'ổn định, khỏi bệnh' hiểu theo nghĩa lâm sàng sạch kéo dài có theo dõi.",
+     "Khi nào chụp hay xét nghiệm dù đã sạch: (1) tầm soát chuyển hóa định kỳ (QĐ 4416 mục 2.2, 3.1); (2) hỏi, khám khớp mỗi lần, hình ảnh chỉ khi có triệu chứng (QĐ 361/2014); (3) soi KOH lại nếu nếp gấp tái đỏ có mụn mủ vệ tinh (QĐ 4416, Nhiễm Candida mục 2.1); (4) tầm soát lao, viêm gan B, C, HIV chỉ trước thuốc toàn thân, sinh học (QĐ 4416 mục 2.2). Không làm ANA, sinh thiết, X-quang 'cho chắc'; không có siêu âm nên khớp dựa vào khám.",
+     "Tâm lý cải thiện từ khi con dâu hiểu và cho bà ẵm cháu lại, PHQ-9 3 điểm, hết ý nghĩ chết (NICE NG222 mục 1.5.1). Giải thích đúng cho người nhà là một phần điều trị."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, giảm thuốc dần, hẹn tái khám 8–12 tuần (ve_hen); không chuyển tuyến, nhập viện, thuốc toàn thân vì thể nhẹ đã sạch (QĐ 4416 sơ đồ; S3 2026 KC II-1).",
+     "Corticoid nếp gấp: giảm dần, không ngưng đột ngột (AAD-NPF 2021 tr. 14); hoặc tacrolimus 0,1% duy trì không steroid (AAD KC 2.1, 2.3; QĐ 4416 mục 3.2.1). Hai cách đều đúng, khác ở chi phí và nguy cơ teo da nếp gấp khi dùng lâu.",
+     "Gel da đầu, mỡ cẳng chân: đủ 4 tuần thì ngưng; duy trì thì vitamin D ngày thường, corticoid cuối tuần (AAD KC 3.1, 3.6); bôi lại khi tái phát; dưỡng ẩm hằng ngày (KC 5.1). Tái khám 8–12 tuần theo S3 2026 (mục Treatment goals: kiểm soát mục tiêu thường mỗi 8–12 tuần khi điều trị duy trì); khoảng riêng cho vảy nến nhẹ chỉ dùng thuốc bôi: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortison kem (hiệu lực thấp)",
+      "ham_luong": "Hydrocortison 1%",
+      "lieu": "Lớp mỏng lên nếp dưới vú, nách, bẹn",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Tuần 1: 1 lần/ngày; tuần 2: cách ngày; tuần 3–4: 2 lần/tuần; rồi ngưng nếu da vẫn sạch",
+      "so_ngay": "Giảm dần khoảng 3–4 tuần",
+      "ghi_chu": "AAD-NPF 2021 (tr. 14: giảm dần cách ngày, 2 lần/tuần, ngưng; chi tiết từng bậc chưa xác lập rõ nên lịch theo các bậc nêu trong tài liệu). Cách khác: tacrolimus 0,1% mỡ ≤ 8 tuần (KC 2.1), kéo dài khi cần (KC 2.3); liều bôi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem hoặc mỡ dưỡng ẩm không mùi",
+      "ham_luong": "Loại sẵn có",
+      "lieu": "Lớp mỏng lên da khô, cẳng chân, nếp gấp khi đã sạch",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Nhiều lần/ngày",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); AAD KC 5.1."
+     },
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (gel da đầu, thuốc mỡ cẳng chân): ngưng sau 4 tuần",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g",
+      "lieu": "Không bôi tiếp khi sạch; nếu vảy tái phát bôi lại đúng chỗ",
+      "duong": "Bôi ngoài da, da đầu",
+      "thoi_diem": "1 lần/ngày khi tái phát",
+      "so_ngay": "Mỗi đợt tối đa 4 tuần",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); AAD KC 3.2, 3.6; Dovobet (nguồn bổ sung tự tìm). Duy trì chủ động hay bôi khi tái phát: cả hai có trong AAD (KC 3.1, 3.6)."
+     },
+     {
+      "thuoc": "Paracetamol (khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "< 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1)."
+     }
+    ],
+    "dan_do": [
+     "Da sạch là tin rất tốt nhưng bệnh chưa 'khỏi hẳn': vảy nến hay quay lại từng đợt; thuốc giảm dần chứ không bỏ ngay (QĐ 75/2015 mục 5a, 6; AAD-NPF 2021). Hydrocortison: 1 lần/ngày, rồi cách ngày, rồi 2 lần/tuần, rồi ngưng; dưỡng ẩm mỗi ngày; gel da đầu, thuốc mỡ cẳng chân ngưng, bôi lại khi vảy quay lại.",
+     "Nếp gấp đỏ ngứa rát, nổi mụn nhỏ quanh, hoặc da đầu bong vảy lại: đến khám sớm, đừng tự mua thuốc 'trộn' (QĐ 4416 mục 4). Giữ nếp gấp khô thoáng, vải mềm; ăn đủ bữa, đủ đạm, không cần kiêng thịt bò, tôm.",
+     "Quay lại ngay nếu sưng đau khớp, ngón sưng cả ngón, đau gót (QĐ 361/2014), da đỏ lan toàn thân, sốt, mụn mủ (QĐ 4416 mục 2.4), hoặc bà buồn, chán, nói chuyện chết (NICE NG222 mục 1.2.11).",
+     "Bà và con dâu tiếp tục ăn chung, bà ẵm cháu như thường. Tái khám sau 8–12 tuần, sớm hơn nếu tái phát (QĐ 4416 mục 4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tái khám sau 8–12 tuần: da bà vẫn sạch, chỉ còn dát sắc tố mờ dần và rỗ móng như cũ; hydrocortison đã ngưng, bà chỉ còn dưỡng ẩm. Mùa mưa năm sau nếp dưới vú đỏ nhẹ trở lại, chị Hạnh chở bà đến sớm, KOH âm tính, bà bôi lại tacrolimus 0,1% ít ngày rồi sạch; gel da đầu dùng một đợt ngắn khi vảy quay lại. Bà tiếp tục ẵm cháu, ngủ đủ, đi chợ sáng. Kết cục ổn định, sạch tổn thương kéo dài nhờ duy trì và theo dõi; nếp gấp gợn lại không phải chẩn đoán sai vì vảy nến mạn tính tiến triển từng đợt (QĐ 75/2015 mục 5a).",
+ "nhieu": [
+  "Kể lể lộn xộn: bà xen giỗ, ruộng, đau gối, chồng mất vào mọi câu, thứ tự đảo lộn; cách xử lý là hỏi từng ý ngắn, tóm lại cho bà xác nhận, dựng dòng thời gian.",
+  "Bữa nhiều đạm: bà tin 'ăn đồ độc'; tài liệu đã tải không nêu thức ăn là yếu tố khởi phát; ngứa đã có 5 tháng trước giỗ.",
+  "Nếp gấp ẩm, ít vảy: dễ nhầm hăm, nấm, viêm da dầu; manh mối ở da đầu, móng, cẳng chân (bà che bằng quần dài, không kể).",
+  "Con dâu ngồi cạnh: bà không nói chuyện mặc cảm và ý nghĩ chết; chỉ lộ khi hỏi riêng."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi hay không kể hết: tổn thương ở nếp che khuất, ở chân dưới quần dài; phải khám toàn bộ da, da đầu, móng.",
+  "Vảy nến nếp gấp không điển hình: đỏ bóng, ít vảy; chẩn đoán dựa tổn thương điển hình nơi khác và Brocq (QĐ 4416 mục 2.3, 2.4); nếp gấp dùng corticoid hiệu lực thấp hoặc chẹn calcineurin (AAD-NPF 2021).",
+  "Lý do thật là tâm lý: hỏi riêng, hỏi thẳng ý nghĩ tự hại (NICE NG222 mục 1.2.8); giải thích đúng cho người nhà là điều trị.",
+  "Tái khám khi đã sạch: tiêu chí sạch cụ thể, giảm thuốc dần, sạch chưa phải khỏi hẳn; hỏi khớp, tâm trạng; làm xét nghiệm khi nào và khi nào không."
+ ],
+ "diem_nho": [
+  "Vảy nến theo vị trí: nếp gấp, da đầu, móng, lòng bàn tay chân (QĐ 4416 mục 2.4); chẩn đoán chủ yếu lâm sàng, Brocq, mô bệnh học khi khó (mục 2.3).",
+  "Nhẹ: PASI, DLQI, BSA < 10 (QĐ 4416 mục 2.5); S3 2026 KC II-1 (≤ 10 cả ba, trừ tiêu chí nâng mức). Một bàn tay ≈ 1% BSA (AAD-NPF 2021).",
+  "Nếp gấp: corticoid hiệu lực thấp; tacrolimus 0,1% ≤ 8 tuần, pimecrolimus 4–8 tuần (AAD KC 2.1, 2.2). Giảm corticoid dần: cách ngày, 2 lần/tuần, ngưng (AAD tr. 14).",
+  "Sạch tổn thương ≠ khỏi hẳn (QĐ 75/2015 mục 5a). PHQ-9 < 16 'ít nặng', đánh giá lại 2–4 tuần, không thuốc chống trầm cảm thường quy (NICE NG222 mục 1.5.1, 1.5.3)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Vảy nến mục 1.1–1.3, 2.1–2.6, 3.1, 3.2.1, 3.2.3, sơ đồ điều trị, mục 4; Viêm da dầu mục 1.2, 2.1.2, 2.3; Bệnh da do nấm sợi mục 2.1, 2.2; Nhiễm Candida mục 1.2, 2.1–2.3, 3.2.1; Lupus ban đỏ hệ thống mục 2.1.2.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015, Bệnh vảy nến (kho cũ tltk-10000-ca) – mục 2, 3a, 3c, 3d, 4a, 4c, 5a, 6.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 (TL-0286) – Viêm khớp vảy nến mục 1, 2.1; Thoái hóa khớp gối; Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1.",
+  "AAD-NPF 2021 thuốc bôi (TL-0425) – corticoid bôi (tr. 8–14, Bảng 2, KC 1.1), chẹn calcineurin KC 2.1–2.3, vitamin D KC 3.1–3.6, dưỡng ẩm KC 5.1; S3 2026 (TL-0404) – KC II-1, III-1, III-2, mục Treatment goals (tr. 124), methotrexat (người già).",
+  "NICE NG222 2022 (TL-0585) – mục 1.2.1, 1.2.4, 1.2.7–1.2.12, 1.4.24, 1.5.1, 1.5.3, định nghĩa mức độ (PHQ-9 < 16); PHQ-9 Kroenke 2001 (TL-0600); EULAR/ACR 2019 (TL-0375); AGS Beers 2023 (TL-0022) Bảng 2; ICOPE 2025 (TL-0016) Vitality; TT 20/2022 (TL-0010) dòng 607.",
+  "Nguồn bổ sung tự tìm: tờ thông tin Dovobet thuốc mỡ https://www.medicines.org.uk/emc/product/1609/smpc và gel https://www.medicines.org.uk/emc/product/5690/smpc – mục 2, 4.2, 4.4.",
+  "Không có trong tài liệu đã tải: câu 'vảy nến không lây' nguyên văn; bữa nhiều đạm khởi phát vảy nến; hiệu lực, thời gian corticoid riêng cho nếp gấp; liều bôi tacrolimus; mốc tái khám vảy nến nhẹ; cất thuốc trừ sâu; hướng dẫn riêng nhóm ≥ 75 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-25): vảy nến dạng nếp gấp ở bà 78 tuổi để thể hiện 'không điển hình'; manh mối ở da đầu, móng, cẳng chân (che bằng quần dài). Mức nhẹ tự quyết (BSA 3–4%, DLQI 8): thuốc bôi, cả hai lượt ve_hen; nguy cơ tự hại chỉ thụ động nên không chuyển khẩn. Hydrocortison 1% cho nếp gấp lượt 1, lượt 2 giảm dần hoặc tacrolimus (gộp 'A hoặc B').",
+  "Tài liệu đã đọc: TL-0397 (QĐ 4416), QĐ 75/2015, TL-0425, TL-0404, TL-0286, TL-0585, TL-0600, TL-0375, TL-0022, TL-0016, TL-0010.",
+  "Ảnh SCIN: xem trước HA-DA-0146…0150; dùng 0146 (cẳng chân phải); loại 0147 (lộ một phần mặt), 0148 (mờ, dấu trắng như hình xăm), 0149 (sẩn không phải vảy nến), 0150 (sẩn nhỏ không khớp). SCIN không có ảnh nếp gấp, da đầu phù hợp nên mô tả bằng chữ. Khai báo: DL-0534_media.json.",
+  "Sổ mâu thuẫn: dùng mục calcipotriol, paracetamol người cao tuổi gầy yếu, định nghĩa mức độ vảy nến; đề xuất mục mới (thuốc đầu tay cho vảy nến nếp gấp) ở DL-0534_mau_thuan.md. Thiếu tài liệu: xem mục nguon; TL-0435 chưa có toàn văn; danh mục khám, CLS đã đủ."
+ ]
+}
