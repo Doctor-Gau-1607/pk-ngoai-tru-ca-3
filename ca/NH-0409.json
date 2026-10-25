@@ -1,0 +1,910 @@
+{
+ "ma_ca": "NH-0409",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_tieu_chay_cap_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Phan Gia Hưng",
+  "tuoi": 0.05,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.4,
+  "chieu_cao": 52,
+  "xung_ho": "Bé trai 19 ngày tuổi, chỉ khóc, ngủ, bú. Bố là người kể bệnh: bác sĩ gọi bố là 'anh', bố xưng 'em' và gọi bé là 'cháu' hoặc 'bé Hưng'. Mẹ ở nhà nghỉ sau mổ lấy thai; bà nội không đi cùng.",
+  "tinh_cach": "Bố 32 tuổi, kỹ thuật viên viễn thông, quen tra cứu, ghi lịch bú – tã – phân của bé bằng ứng dụng. Nói gọn, tự tin, không thích bị bác bỏ. Thấy anh trai tự khỏi tiêu chảy nên nghĩ lần này cũng vậy. Ngại nhắc việc bà nội tự cho thuốc. Hợp tác khi được giải thích bằng số liệu.",
+  "kieu_nhieu": "Bố mang chẩn đoán tự tra: 'cháu nhiễm rotavirus từ anh; xin xét nghiệm nhanh phân tìm rota, cho kháng sinh và men vi sinh cho khỏi nhanh, đổi sang sữa không lactose, đừng truyền nước vì cháu bé quá'. Phần đúng: nhiễm virus lây từ anh. Phần sai: kháng sinh, đổi sữa, xét nghiệm không đổi xử trí. Bác sĩ nên ghi nhận phần đúng rồi giải thích. Bố chỉ kể chuyện bà nội cho thuốc khi được hỏi ai cho bé uống gì.",
+  "nguoi_nha": "Bố bé, anh Bình, 32 tuổi, đi một mình ở cả 3 lượt (mẹ nghỉ ở nhà sau mổ). Mọi câu hỏi do bố trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc.",
+  "ten_nguoi_nha": "Bố bé (anh Bình)",
+  "ngoai_hinh": {
+   "da": "#efc29c",
+   "toc": "#18110e",
+   "kieuToc": "tre",
+   "ao": "#d6ead0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#dcab80",
+    "toc": "#1a1410",
+    "kieuToc": "ngan",
+    "ao": "#46627d",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 19 ngày tuổi đến tái khám theo hẹn; bố nói thêm mấy hôm nay bé đi ngoài phân lỏng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 19 ngày tuổi, sinh đủ tháng, bú mẹ hoàn toàn. Bố đưa đến đúng hẹn tái khám (lần khám trước cách đây 3 ngày, cân 3,60 kg). Cân nặng hôm nay 3,40 kg. Sinh hiệu: nhiệt (nách) 37,0 °C, mạch 148 l/p, nhịp thở 50 l/p, SpO₂ 98%. Bé tỉnh nhưng quấy, bú háo hức.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Bé Hưng đã sụt 5,6% cân, mắt trũng nhẹ, nếp véo da chậm, tức là đã có mất nước (QĐ 3312 mục 3.1b–3.1c, tr. 318–319). Cho về ngay với vài gói ORS mà không cho uống thử tại phòng khám thì không biết bé uống nổi hay không, và anh Bình ngại nhắc chuyện nhà tự cho thuốc nên khi bé xấu đi sẽ khó nhận ra sớm. Cần bù ORS 4 giờ rồi đánh giá lại (QĐ 3312 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135).",
+    "nhap_vien": "Nhập viện ngay có thể chấp nhận vì bé mới 19 ngày, nhưng chưa có tiêu chí nào của QĐ 3312 mục 5.1 (tr. 323–324): bé tỉnh, bú được, không nôn, không sốt. Nằm viện làm bé xa mẹ, tốn kém, và trẻ nhỏ dễ lây chéo trong bệnh viện (ESPGHAN/ESPID 2014 mục 5, tr. 135)."
+   },
+   "loi_mo": "Chào bác sĩ, hôm nay tới hẹn tái khám cân cho cháu. À, mấy hôm nay cháu đi ngoài lỏng, em tra mạng thì chắc là rotavirus của anh nó. Bác sĩ làm xét nghiệm phân, cho kháng sinh với men vi sinh, đổi sữa không lactose giùm em, còn truyền nước thì thôi vì cháu bé quá.",
+   "sinh_hieu": {
+    "mach": 148,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 50,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bố đưa bé đến tái khám theo phiếu hẹn của lần trước; nói thêm mấy hôm nay bé đi ngoài lỏng, nghĩ giống anh trai nên không lo lắm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân lỏng từ chiều ngày thứ 17 của bé: ngày đầu 5 lần, hôm qua 8 lần, hôm nay đến giờ 6 lần (bố ghi trong ứng dụng). Trước đó 2–3 lần/ngày phân sệt. Phân vàng xanh, nước, không máu, không nhầy, không như nước vo gạo. Hôm qua 4 tã ướt (thường 7–8), nước tiểu đậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần, tính chất phân, tã ướt (QĐ 3312 mục 3.1a–b)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, 10 cữ/ngày. Hai ngày nay bú háo hức nhưng mỗi cữ ngắn hơn, chưa bỏ cữ nào. Chưa uống sữa công thức hay nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ nuôi dưỡng (QĐ 3312 mục 3.1a)"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Không nôn, chỉ ọc ít sau bú như mọi hôm. Nách 36,8–37,1 °C ở nhà, tay chân ấm, không co giật, không tím, không khóc ngằn từng cơn, bụng không chướng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, sốt, dấu hiệu nguy hiểm, lồng ruột (WHO 2013 mục 3.6, Bảng 11)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Anh trai 4 tuổi (đi mẫu giáo) nôn và tiêu chảy 3 ngày, khỏi cách đây 4 ngày; hai anh em ngủ chung phòng, bà nội trông cả hai. Bố mẹ không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người trong nhà cùng bệnh (QĐ 3312 mục 2.1: rotavirus)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh mổ đủ tháng 39 tuần, nặng 3,3 kg; đã tiêm vitamin K, viêm gan B, BCG; rốn rụng ngày thứ 7. Lần khám trước bé quấy buổi tối, ọc sữa, khám không bất thường, cân 3,60 kg, hẹn tái khám hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, cân nền (QĐ 3312 mục 3.1b)"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Tối hôm khám trước bé quấy, bà nội mua ở quầy thuốc đầu ngõ chai ibuprofen siro trẻ em 100 mg/5 ml, cho uống 2,5 ml (50 mg), sáng hôm sau thêm 2,5 ml. Phân lỏng bắt đầu chiều hôm đó. Bố chụp ảnh nhãn chai.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "NSAID người nhà tự cho (WHO 2013 mục 8.7.1, 10.3)",
+     "dieu_kien_lo": "Bố không tự kể. Chỉ nói khi bác sĩ hỏi ai cho bé uống thứ gì từ sau lần khám trước, kể cả thuốc người nhà tự mua."
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Mẹ đang cho bú, uống thuốc bắc sắc từ gói bà nội bốc ở thầy trong xóm 'bổ huyết lợi sữa', mỗi ngày một thang. Bố không biết tên vị thuốc, gói còn ở nhà. Bé không uống trực tiếp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc mẹ đang dùng, không rõ thành phần"
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Bố đọc trên mạng: 'rotavirus lây từ anh, phải xét nghiệm phân tìm rota, cho kháng sinh, men vi sinh, sữa không lactose cho khỏi nhanh; không truyền nước'. Bố tin chắc.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Nếu không có phiếu hẹn thì bố ở nhà vì thấy anh trai tự khỏi; bố đến để biết cân nặng và xin 'thuốc cho khỏi nhanh', hơi ngại bác sĩ bảo cho bé nhập viện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì khiến anh đưa bé đến hôm nay, hoặc anh mong gì từ buổi khám."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, quấy khi bị khám, bú háo hức. Chi ấm, đổ đầy mao mạch dưới 2 giây. Mắt trũng nhẹ, môi lưỡi hơi khô. Nếp véo da bụng trở lại chậm (khoảng 1,5 giây). Cân 3,40 kg, giảm 5,6% so với 3,60 kg lần trước. Có mất nước vừa và nhẹ.",
+     "k": 1,
+     "hien": "Tỉnh, quấy. Cân nặng 3,40 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước hơi trũng, mềm. Cổ mềm, không hạch.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 148 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 148 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 50 l/p, đều, không rút lõm, không rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 50 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, không đau khi ấn; nhu động tăng nhẹ. Gan lách không to. Rốn khô, bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "truc_trang": {
+     "a": "Không cần thăm trực tràng. Tã có phân vàng xanh lỏng thấm nước, ít bã, không máu, không nhầy; hăm đỏ quanh hậu môn.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 11,5 G/L · Hb 165 g/L · TC 340 G/L",
+     "n": "Không cần: không sốt, chưa nghi nhiễm khuẩn ngoài ruột; chỉ khi nghi nhiễm khuẩn hoặc mất nước nặng (QĐ 3312 mục 3.2, tr. 320). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "v": "n"
+    },
+    "lyte": {
+     "r": "Na 137 · K 4,2 · Cl 103 mmol/L",
+     "n": "Không cần: điện giải khi điều trị bệnh viện và mất nước (QĐ 3312 mục 3.2, tr. 320).",
+     "v": "n"
+    },
+    "test_rota": {
+     "r": "Kháng nguyên rotavirus trong phân: dương tính.",
+     "n": "Không cần: không đổi xử trí, không có thuốc đặc hiệu, điều trị là bù dịch (QĐ 3312 mục 3.2, 4.1).",
+     "v": "n"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp ngày thứ 3 ở trẻ sơ sinh 19 ngày bú mẹ hoàn toàn, có mất nước vừa và nhẹ (sụt 5,6% cân); nghĩ nhiễm virus đường ruột (rotavirus) lây từ anh trai",
+     "ok": 1,
+     "n": "Phân lỏng ≥ 3 lần/24 giờ, cấp tính (QĐ 3312 mục 1, tr. 316). Trẻ 1 tuần – 2 tháng: có mất nước khi 2 trong 3 dấu vật vã, mắt trũng, nếp véo da chậm (mục 3.1c, tr. 319); sụt 5–10% là vừa và nhẹ (mục 3.1b, tr. 318). Rotavirus là tác nhân chính dưới 2 tuổi (mục 2.1, tr. 316), anh trai bệnh tương tự."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân vàng xanh có bã, không như nước vo gạo, không dịch tễ (QĐ 4178/2007 mục II.1); WHO 2013 mục 5.2.1 (tr. 130): nghi tả ở trẻ trên 2 tuổi."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không khóc ngằn từng cơn kèm tái nhợt, không phân máu nhầy, không khối bụng (WHO 2013 Bảng 11, tr. 127). "
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Không sốt, không hạ thân nhiệt, thở 50 l/p (dưới 60), tỉnh, bú háo hức: chưa có dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6, tr. 52)."
+    },
+    {
+     "t": "Tiêu chảy do thuốc (ibuprofen bà nội cho)",
+     "n": "QĐ 3312 mục 2.1 (tr. 316) nêu tiêu chảy do kháng sinh, thuốc nhuận tràng; NSAID gây tiêu chảy ở trẻ: không có trong tài liệu đã tải (WHO 2013 mục 10.3, tr. 305 chỉ nêu viêm dạ dày). Anh trai đã tiêu chảy nên nhiễm virus hợp lý hơn."
+    },
+    {
+     "t": "Không dung nạp lactose / dị ứng đạm sữa bò (bố tự tra)",
+     "n": "Bé bú mẹ, không ban, không máu trong phân; không dùng sữa không lactose thường quy (QĐ 3312 mục 4.4, tr. 323; ESPGHAN/ESPID 2014 mục 9.2.2, tr. 143)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại có mất nước vừa và nhẹ; bù ORS áp lực thẩm thấu thấp theo Phác đồ B ngay tại phòng khám: 75 ml/kg = 255 ml trong 4 giờ, từng thìa nhỏ; đánh giá lại sau 4 giờ",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 321); WHO 2013 Chart 14 (tr. 135: bé < 6 kg 200–400 ml); QĐ 4068 ô [4]; WHO 2024 khuyến cáo 5. 3,40 kg × 75 = 255 ml. Mốc riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bú mẹ liên tục suốt 4 giờ, không ngưng sữa mẹ, không đổi sữa; nôn thì đợi 5–10 phút rồi cho chậm hơn",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 321), 4.4 (tr. 323); WHO 2013 Chart 14 (tr. 135); ESPGHAN/ESPID 2014 mục 9.2 (tr. 143)."
+    },
+    {
+     "t": "Sau 4 giờ đánh giá lại: hết dấu hiệu mất nước thì cho về theo Phác đồ A, hẹn tái khám sau 24 giờ; còn dấu hiệu hoặc nặng hơn thì nhập viện",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 321: hết mất nước chuyển Phác đồ A; còn thì tiếp tục B; nặng thì C); QĐ 4068 ô [8]: về nhà khi không dấu mất nước, người nhà được hướng dẫn; tái khám mỗi 1–2 ngày (sơ sinh chọn 24 giờ, mốc riêng: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Hỏi và ngưng mọi thuốc bà nội tự cho: ngưng ibuprofen, không dùng NSAID cho bé dưới 3 tháng",
+     "v": "c",
+     "n": "WHO 2013 mục 8.7.1 (tr. 251): dưới 3 tháng chỉ dùng paracetamol; mục 10.3 (tr. 305): ibuprofen 10 mg/kg/lần. Bé uống 50 mg ≈ 14 mg/kg/lần (cân 3,6 kg). NSAID gây tiêu chảy: không có trong tài liệu đã tải; ngưng chấm c (sổ NH-0470 #3)."
+    },
+    {
+     "t": "Giải thích cho bố: nhiễm virus lây từ anh là khả năng hợp lý; không cần xét nghiệm rota, kháng sinh hay đổi sữa; ORS và bú mẹ là điều trị chính",
+     "v": "c",
+     "n": "QĐ 3312 mục 2.1 (tr. 316), 3.2 (tr. 320), 4.2 (tr. 322); WHO 2013 mục 5.1 (tr. 126); WHO 2024 khuyến cáo 1a: không kháng sinh cho phân nước."
+    },
+    {
+     "t": "Dặn Phác đồ A tại nhà: ORS 50–100 ml sau mỗi lần đi ngoài (chuẩn bị 500 ml/ngày), từng thìa nhỏ, tiếp tục bú mẹ; rửa tay xà phòng sau thay tã, trước khi bế và cho bú",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 320–321), mục 6 (tr. 324); WHO 2013 Chart 15 (tr. 138); ESPGHAN/ESPID 2014 mục 5 (tr. 135): vệ sinh tay, thay tã giảm lây rotavirus."
+    },
+    {
+     "t": "Dặn quay lại ngay khi: bú kém hoặc bỏ bú, li bì, nhiệt dưới 35,5 °C hoặc trên 38 °C, thở từ 60 l/p, nôn nhiều, phân máu, tã khô, bụng chướng, khóc ngằn rồi tái",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52), Bảng 11 (tr. 127); QĐ 3312 mục 5.1–5.2 (tr. 323–324)."
+    },
+    {
+     "t": "Bổ sung kẽm 5 mg/ngày trong 10–14 ngày, hoặc không dùng kẽm ở bé dưới 1 tháng",
+     "v": "a",
+     "n": "Sổ (NH-0513 #1): WHO 2024 khuyến cáo 3a, 3c (5 mg/ngày); QĐ 3312 mục 4.3 (tr. 323) chỉ ghi từ 1 tháng; ESPGHAN/ESPID 2014 mục 9.3 (tr. 145): < 6 tháng không rút ngắn tiêu chảy. Dữ liệu < 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi tên gói thuốc bắc mẹ đang uống, nhờ mang gói đến lần sau",
+     "v": "a",
+     "n": "Thuốc bắc không rõ thành phần và liên quan với sữa mẹ, tiêu chảy của bé: không có trong tài liệu đã tải. Không có căn cứ để bắt mẹ ngưng cho bú."
+    },
+    {
+     "t": "Cho men vi sinh",
+     "v": "a",
+     "n": "Sổ (NH-0513 #2): không dùng (WHO 2024 khuyến cáo 4a) hoặc đúng chủng (ESPGHAN 2023)."
+    },
+    {
+     "t": "Nhập viện ngay ở lượt này",
+     "v": "a",
+     "n": "Thận trọng vì bé 19 ngày (ESPGHAN/ESPID 2014 mục 6.1, tr. 136; QĐ 4068 mục 1.2), nhưng chưa có tiêu chí QĐ 3312 mục 5.1 (tr. 323–324)."
+    },
+    {
+     "t": "Truyền tĩnh mạch ngay, bỏ qua thử ORS",
+     "v": "w",
+     "n": "ORS đầu tay; tĩnh mạch khi sốc, rối loạn tri giác, thất bại ORS (ESPGHAN/ESPID 2014 mục 8.4, tr. 140; QĐ 3312 mục 5.1); sổ NH-0470 #1."
+    },
+    {
+     "t": "Kê kháng sinh; đổi sang sữa không lactose hoặc ngưng sữa mẹ; racecadotril, diosmectit",
+     "v": "w",
+     "n": "Phân nước không kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2). Bú mẹ tiếp tục, không sữa không lactose thường quy (mục 4.4; ESPGHAN/ESPID 2014 mục 9.2.2). Racecadotril, diosmectit dưới 1 tháng: không có dữ liệu trong tài liệu đã tải (sổ NH-0513 #2)."
+    },
+    {
+     "t": "Cho loperamid hoặc thuốc cầm nôn",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5 (tr. 323); WHO 2013 phần mở đầu chương 5 (tr. 125–126): có thể tử vong ở trẻ nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp ngày thứ 3, nghĩ nhiễm virus (rotavirus) lây từ anh trai, ở trẻ sơ sinh 19 ngày bú mẹ hoàn toàn",
+     "Có mất nước vừa và nhẹ (sụt 5,6% cân, vật vã, mắt trũng, nếp véo da chậm); chưa có dấu hiệu nguy hiểm sơ sinh",
+     "Đi kèm: ibuprofen bà nội tự cho 2 liều (≈ 14 mg/kg/lần); mẹ uống thuốc bắc không rõ thành phần",
+     "Đã loại trừ ở lượt này: tả, lồng ruột, nhiễm khuẩn huyết sơ sinh (cần theo dõi sát)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh (QĐ 3312 mục 3.1a, tr. 317): từ bao giờ, số lần, máu, nôn, thuốc đã dùng, chế độ nuôi; sơ sinh hỏi thêm tã ướt, cân lần trước, người nhà cùng bệnh và AI đã cho bé uống gì, kể cả thuốc tự mua. Khám tổng trạng, mắt, nếp véo da, thóp, cân (mục 3.1b, tr. 317–318).",
+     "Chưa nhập viện vì tỉnh, bú được, không nôn, không sốt. Sơ sinh ngưỡng thấp: ESPGHAN/ESPID 2014 mục 6.1 (tr. 136) xếp dưới 2 tháng và trên 8 lần phân/ngày vào nhóm cần đánh giá trực tiếp; bù ORS 4 giờ tại phòng khám cho biết bé uống nổi hay không.",
+     "Không cận lâm sàng vì không đổi xử trí (QĐ 3312 mục 3.2, tr. 320; WHO 2013 mục 5.1, tr. 126). Phần đúng của bố (virus từ anh) ghi nhận; xét nghiệm rota, kháng sinh, đổi sữa không giúp."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ B (QĐ 3312 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135): ORS 75 ml/kg trong 4 giờ, từng thìa; nôn thì ngừng 10 phút rồi cho chậm hơn (WHO 2013 mục 5.2.2, tr. 132); bú mẹ không gián đoạn; đánh giá lại sau 4 giờ. Hết mất nước thì về nhà Phác đồ A, tái khám 24 giờ (QĐ 4068 ô [8]).",
+     "Không kháng sinh (WHO 2024 khuyến cáo 1a), không thuốc cầm tiêu, racecadotril, diosmectit ở bé dưới 1 tháng, không đổi sữa.",
+     "Ibuprofen: ngưng, không dùng NSAID dưới 3 tháng (WHO 2013 mục 8.7.1); bé quấy thì đưa khám. Thuốc bắc của mẹ: ghi lại; tài liệu đã tải không có căn cứ để cấm bú."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS áp lực thẩm thấu thấp (Oresol)",
+      "ham_luong": "Gói pha theo nhà sản xuất, nước đun sôi để nguội",
+      "lieu": "Tại phòng khám: 255 ml trong 4 giờ (75 ml/kg × 3,40 kg). Về nhà: 50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày)",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Xen kẽ cữ bú; nôn thì đợi 5–10 phút",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1 (tr. 320–321); WHO 2013 Chart 14 (tr. 135), Chart 15 (tr. 138)."
+     },
+     {
+      "thuoc": "Kẽm nguyên tố (tùy chọn ở bé dưới 1 tháng)",
+      "ham_luong": "Dạng bào chế sơ sinh: không có trong tài liệu đã tải",
+      "lieu": "5 mg/ngày, 1 lần",
+      "duong": "Uống, hòa trong ít nước sạch, sữa vắt hoặc ORS",
+      "thoi_diem": "1 lần/ngày, cùng giờ",
+      "so_ngay": "10–14 ngày",
+      "ghi_chu": "WHO 2024 khuyến cáo 3a, 3c; QĐ 3312 mục 4.3 chỉ ghi từ 1 tháng."
+     }
+    ],
+    "dan_do": [
+     "Cháu bị tiêu chảy cấp, nhiều khả năng do virus lây từ anh, và đã hơi mất nước; hôm nay uống ORS tại phòng khám 4 giờ rồi khám lại (QĐ 3312 mục 4.1).",
+     "Về nhà cho bú mẹ nhiều hơn, thêm ORS 50–100 ml sau mỗi lần đi ngoài (QĐ 3312 mục 4.1). Không đổi sữa, không kháng sinh, không thuốc cầm tiêu, không thuốc nào khác kể cả thuốc người nhà mua. Rửa tay xà phòng sau thay tã, trước khi bế và cho bú (QĐ 3312 mục 6). Mang gói thuốc bắc của mẹ lần sau.",
+     "Quay lại ngay nếu bú kém, bỏ bú, li bì, lạnh dưới 35,5 °C hoặc sốt trên 38 °C, thở từ 60 lần/phút, nôn nhiều, phân máu, bụng chướng, tã khô (WHO 2013 mục 3.6). Nếu ổn vẫn tái khám sau 24 giờ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng hôm sau",
+   "tiep_don": "Sáng hôm sau (ngày thứ 4 của bệnh), bố đưa bé 20 ngày tuổi đến tái khám đúng hẹn 24 giờ. Hôm qua sau 4 giờ uống ORS tại phòng khám bé hết dấu hiệu mất nước nên được cho về theo Phác đồ A. Cân nặng 3,33 kg. Sinh hiệu: nhiệt (nách) 37,2 °C, mạch 160 l/p, nhịp thở 54 l/p, SpO₂ 98%. Bé tỉnh nhưng quấy, mắt trũng.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Bé Hưng nay nôn lặp lại, không giữ được ORS, sụt 7,5% cân và mất nước trở lại dù đã điều trị Phác đồ A: đó là thất bại bù dịch uống và nôn tái diễn, đủ tiêu chí nhập viện (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN/ESPID 2014 mục 8.1, tr. 139). Cho về thì bé tiếp tục mất dịch mà uống không giữ được; sơ sinh có thể nặng nhanh với dấu hiệu kín đáo (WHO 2013 mục 3.6, tr. 52).",
+    "theo_doi": "Giữ bé thêm 4 giờ ORS tại phòng khám là lựa chọn có chỗ đứng khi còn mất nước (WHO 2013 mục 5.2.2, tr. 133), nhưng bé đã thất bại ORS suốt một đêm và nôn tái diễn, là tiêu chí chuyển bệnh viện (QĐ 3312 mục 5.1). Nếu lại nhổ ORS thì chuyển muộn thêm vài giờ, trong khi bù dịch qua ống thông dạ dày hoặc đường truyền cần bệnh viện (ESPGHAN/ESPID 2014 mục 8.3–8.4, tr. 139–140)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu không đỡ gì hết, đêm qua đi ngoài cả chục lần, sáng nay còn nôn mấy lần nữa. Em cho uống ORS đúng như bác dặn mà cháu cứ nhổ ra.",
+   "sinh_hieu": {
+    "mach": 160,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 54,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé không đỡ: về nhà đi ngoài nhiều hơn, đêm qua khoảng 10 lần phân nước, sáng đến giờ 4 lần; nôn 3 lần sau cữ bú hoặc sau khi uống ORS.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến không đỡ"
+    },
+    {
+     "id": "ors",
+     "noi_dung": "Bố cho ORS từng thìa như dặn; cả đêm uống được khoảng 120 ml, nhổ ra chừng một nửa. Bé đòi bú, bú vài phút rồi ọc hoặc nôn. Chỉ 3 tã ướt từ sáng hôm qua, nước tiểu sậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thất bại bù dịch uống, nước tiểu (QĐ 3312 mục 3.1b, 5.1)"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Nôn ra sữa và ORS, không xanh vàng, không máu. Không sốt (nách 36,9–37,2 °C), không co giật, không tím, tay chân hơi mát. Bụng không chướng, không khóc ngằn từng cơn, phân không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lồng ruột, tắc ruột, nhiễm khuẩn (WHO 2013 Bảng 11, mục 3.6)"
+    },
+    {
+     "id": "ibuprofen_lai",
+     "noi_dung": "Tối qua bé quấy, bà nội lại cho uống 2,5 ml ibuprofen (50 mg), lần thứ ba, lúc bố ngủ gục; bố mới biết sáng nay. Mẹ vẫn uống thuốc bắc.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Không tuân thủ: lại dùng NSAID (WHO 2013 mục 8.7.1, tr. 251)",
+     "dieu_kien_lo": "Bố không tự kể. Chỉ nói khi bác sĩ hỏi đêm qua có ai cho bé uống thêm gì không, hoặc bé quấy lúc nào và ai dỗ."
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bố đến vì đúng hẹn 24 giờ; nếu bé khá hơn thì bố định tiếp tục ở nhà. Bố mệt vì cả đêm không ngủ, sợ bé phải nhập viện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đêm qua anh ngủ ra sao hoặc anh lo nhất điều gì."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh nhưng quấy, khóc ít nước mắt; đòi bú, bú vài phút lại ọc. Mắt trũng rõ hơn hôm qua, môi lưỡi khô. Nếp véo da trở lại chậm (khoảng 1,5 giây). Chi hơi mát, đổ đầy mao mạch 2,5 giây. Cân 3,33 kg, giảm 7,5% so với 3,60 kg. Không li bì. Có mất nước, chưa nặng.",
+     "k": 1,
+     "hien": "Tỉnh, quấy. Cân nặng 3,33 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước trũng rõ, không phồng. Cổ mềm.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 160 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 160 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 54 l/p, đều, không rút lõm, không rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 54 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, không đau khi ấn; nhu động tăng. Rốn khô, bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "truc_trang": {
+     "a": "Không cần thăm trực tràng. Tã có phân vàng xanh nước, không máu, không nhầy; hăm đỏ nhẹ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 3,6 mmol/L",
+     "ab": 0,
+     "n": "Chấp nhận ở sơ sinh nôn; bắt buộc nếu li bì, co giật; can thiệp khi dưới 2,2 mmol/L (WHO 2013 mục 3.6, tr. 53)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 133 · K 3,6 · Cl 100 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 133,
+      "k": 3.6,
+      "cl": 100
+     },
+     "n": "Chỉ định: có mất nước, thất bại ORS, điều trị bệnh viện (QĐ 3312 mục 3.2, tr. 320; ESPGHAN/ESPID 2014 mục 7.4, tr. 138). Na 133 giảm nhẹ, chưa dưới 130 (QĐ 3312 mục 3.1d)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 8,6 mmol/L · Creatinin 72 µmol/L",
+     "ab": 1,
+     "n": "Hợp lý vì mất nước và đã uống ibuprofen 3 liều: ure dự đoán mất nước tốt nhất trong một nghiên cứu (ESPGHAN/ESPID 2014 mục 7.4, tr. 138); suy thận cấp là biến chứng (QĐ 3312 mục 3.1d, tr. 320). Khoảng tham chiếu sơ sinh, cơ chế NSAID – thận: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 10,8 G/L · Hb 178 g/L · TC 380 G/L (cô máu nhẹ)",
+     "ab": 1,
+     "n": "Chấp nhận để loại trừ nhiễm khuẩn kèm theo (QĐ 3312 mục 3.2, tr. 320). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 4 mg/L",
+     "ab": 0,
+     "n": "Như công thức máu. CRP thấp không loại trừ nhiễm khuẩn huyết sơ sinh nên vẫn theo dõi sát (WHO 2013 mục 3.8, tr. 54)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp ngày thứ 4 ở trẻ sơ sinh 20 ngày, nghĩ nhiễm virus; thất bại bù dịch đường uống tại nhà, nôn tái diễn, mất nước vừa và nhẹ nặng thêm (sụt 7,5% cân), natri giảm nhẹ, cô máu; cần nhập viện",
+     "ok": 1,
+     "n": "Có mất nước: vật vã, mắt trũng, nếp véo da chậm (QĐ 3312 mục 3.1c, tr. 319); sụt 7,5% là vừa và nhẹ (mục 3.1b, tr. 318). Nhập viện khi thất bại bù dịch uống, nôn tái diễn (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN/ESPID 2014 mục 8.1, tr. 139; mục 8.4, tr. 140)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không khóc ngằn rồi tái, phân không máu nhầy, không khối, bụng mềm, không nôn mật (WHO 2013 Bảng 11, tr. 127)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Không sốt, 37,2 °C, thở 54 l/p, tỉnh, đòi bú, không co giật: chưa có dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6, tr. 52)."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân vàng xanh có bã, không nước vo gạo, không dịch tễ, không mất nước nặng (QĐ 4178/2007 mục II.1; WHO 2013 mục 5.2.1, tr. 130)."
+    },
+    {
+     "t": "Tiêu chảy nặng thêm do ibuprofen liều thứ ba",
+     "n": "NSAID gây nặng tiêu chảy hoặc ảnh hưởng thận ở sơ sinh: không có trong tài liệu đã tải; ibuprofen có thể gây viêm dạ dày (WHO 2013 mục 10.3, tr. 305). Theo dõi ure, creatinin ở bệnh viện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện (chuyển bệnh viện nhi) hôm nay, bố đi cùng, mang theo chai ibuprofen và gói thuốc bắc; gọi báo trước cho bệnh viện",
+     "v": "c",
+     "n": "Thất bại bù dịch uống, nôn tái diễn (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN/ESPID 2014 mục 8.1, tr. 139). Sơ sinh ngưỡng thấp (WHO 2013 mục 3.6, tr. 52). Phương tiện vận chuyển: không có trong tài liệu đã tải; bé tỉnh, ổn định."
+    },
+    {
+     "t": "Trong lúc chờ chuyển: bú mẹ, ORS từng thìa nhỏ, chậm hơn khi nôn; giữ ấm, theo dõi nhiệt độ, tri giác, nếp véo da",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 321); WHO 2013 mục 5.2.2 (tr. 132), Chart 14 (tr. 135): nôn thì đợi 10 phút; nặng lên thành mất nước nặng thì Phác đồ C."
+    },
+    {
+     "t": "Làm nhanh đường huyết mao mạch, điện giải đồ, ure – creatinin; không làm chậm chuyển viện",
+     "v": "c",
+     "n": "QĐ 3312 mục 3.2 (tr. 320); QĐ 4068 ô [6]; ESPGHAN/ESPID 2014 mục 7.4 (tr. 138)."
+    },
+    {
+     "t": "Ngưng ibuprofen, báo bệnh viện tổng 3 liều đã dùng; không dùng NSAID dưới 3 tháng; hỏi mẹ và bà nội mọi thứ bé và mẹ đã dùng, không trách người nhà",
+     "v": "c",
+     "n": "WHO 2013 mục 8.7.1 (tr. 251), mục 10.3 (tr. 305); theo dõi thận (QĐ 3312 mục 3.1d, tr. 320). Người chăm không bảo đảm cho uống đủ là tiêu chí nhập viện (mục 5.1, tr. 324). NSAID là nguyên nhân tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh viện bù dịch: ORS qua ống thông dạ dày 40–50 ml/kg trong 3–6 giờ (≈ 133–167 ml), hoặc truyền tĩnh mạch Ringer lactat/NaCl 0,9% nếu ORS thất bại, nôn dai dẳng hay sốc",
+     "v": "a",
+     "n": "ESPGHAN/ESPID 2014 mục 8.3 (tr. 139), 8.4 (tr. 140); QĐ 3312 mục 4.1 (tr. 322). Không bắt buộc làm ở phòng khám khi chuyển ngay; liều riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ thêm 4 giờ ORS tại phòng khám rồi đánh giá lại",
+     "v": "a",
+     "n": "WHO 2013 mục 5.2.2 (tr. 133), QĐ 3312 mục 4.1 (tr. 321) cho lặp lại ORS khi còn mất nước; nhưng đã thất bại ORS qua đêm, nôn tái diễn nên nhập viện (mục 5.1)."
+    },
+    {
+     "t": "Cho về nhà tăng ORS và hẹn thêm 24 giờ",
+     "v": "w",
+     "n": "Thất bại bù dịch uống và nôn tái diễn là chỉ định nhập viện (QĐ 3312 mục 5.1; ESPGHAN/ESPID 2014 mục 8.1)."
+    },
+    {
+     "t": "Kê kháng sinh; ondansetron, racecadotril hoặc diosmectit",
+     "v": "w",
+     "n": "Phân nước không kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2). Ondansetron nghiên cứu ở trẻ từ 6 tháng (ESPGHAN/ESPID 2014 mục 9.3, tr. 144); racecadotril, diosmectit dưới 1 tháng: không có dữ liệu (sổ NH-0513 #2)."
+    },
+    {
+     "t": "Cho loperamid hoặc thuốc cầm tiêu, cầm nôn",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5 (tr. 323); WHO 2013 tr. 125–126: có thể tử vong ở trẻ nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp ngày thứ 4, nghĩ nhiễm virus (rotavirus), không đỡ sau 24 giờ điều trị Phác đồ B rồi A",
+     "Thất bại bù dịch đường uống tại nhà, nôn tái diễn: chỉ định nhập viện",
+     "Mất nước vừa và nhẹ nặng thêm: sụt 7,5% cân, natri 133 mmol/L, ure tăng nhẹ, cô máu nhẹ",
+     "Yếu tố làm khó đỡ: bà nội cho thêm ibuprofen lần thứ ba; bé 20 ngày uống ORS không giữ được",
+     "Đã loại trừ: tả, lồng ruột, nhiễm khuẩn huyết sơ sinh (còn theo dõi), hạ đường huyết"
+    ],
+    "phan_tich_chan_doan": [
+     "Không đỡ phải rà soát thất bại điều trị: (a) sai chẩn đoán? bụng, nhiệt, thở, tri giác, khóc ngằn, phân máu, nôn mật không gợi ý lồng ruột hay nhiễm khuẩn huyết (WHO 2013 Bảng 11, tr. 127; mục 3.6, tr. 52); (b) sai thuốc, không tuân thủ? bà cho thêm ibuprofen, bé nhổ nửa lượng ORS; (c) biến chứng? mất nước nặng thêm, natri giảm nhẹ; (d) đề kháng: không áp dụng vì chưa dùng kháng sinh.",
+     "Chưa đỡ sau 24 giờ tự nó chưa phải thất bại (thời gian diễn tiến tiêu chảy rotavirus: không có trong tài liệu đã tải), nhưng sụt cân thêm, nôn và ORS không giữ được là thất bại bù dịch uống (QĐ 3312 mục 5.1). Vẫn là có mất nước, chưa nặng (chưa li bì, nếp véo dưới 2 giây), chưa cần Phác đồ C (mục 3.1c, tr. 319; WHO 2013 Bảng 12, tr. 128)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện theo QĐ 3312 mục 5.1 và ESPGHAN/ESPID 2014 mục 8.1 (failure of oral rehydration); sơ sinh ngưỡng thấp (WHO 2013 mục 3.6). Bệnh viện: ORS qua ống thông dạ dày trước (ESPGHAN 8.3), tĩnh mạch khi thất bại, nôn dai dẳng (mục 8.4).",
+     "Không kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2); chỉ khi có dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6, 3.8). Ibuprofen: ngưng và báo tổng liều để bệnh viện theo dõi thận; chuyển viện kèm lời giải thích cho bố, không trách bà nội."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS áp lực thẩm thấu thấp (Oresol) trong lúc chờ chuyển",
+      "ham_luong": "Gói pha theo nhà sản xuất, nước đun sôi để nguội",
+      "lieu": "Từng thìa nhỏ; bù tiếp do bệnh viện quyết (ORS qua ống thông dạ dày 40–50 ml/kg trong 3–6 giờ ≈ 133–167 ml cho 3,33 kg)",
+      "duong": "Uống, hoặc ống thông dạ dày tại bệnh viện",
+      "thoi_diem": "Xen kẽ cữ bú; nôn thì đợi 10 phút rồi cho chậm hơn",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "QĐ 3312 mục 4.1 (tr. 321); WHO 2013 mục 5.2.2 (tr. 132); ESPGHAN/ESPID 2014 mục 8.3 (tr. 139). Liều dịch riêng cho sơ sinh: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cháu mất nước nhiều hơn hôm qua và uống ORS không giữ được, nên cần nằm viện bù nước bằng ống hoặc đường truyền; đây không phải lỗi của anh.",
+     "Trên đường đi cho bú mẹ, ORS từng thìa nhỏ, giữ ấm, không thêm thuốc gì (WHO 2013 mục 8.7.1). Mang chai ibuprofen, gói thuốc bắc của mẹ và ứng dụng ghi lịch bú, tã, phân.",
+     "Báo ngay nhân viên y tế nếu cháu li bì, bỏ bú, thở từ 60 lần/phút, lạnh dưới 35,5 °C, co giật hoặc nôn xanh vàng (WHO 2013 mục 3.6, tr. 52)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau ra viện 4 ngày",
+   "tiep_don": "Bé 27 ngày tuổi, 4 ngày sau khi ra viện (nằm viện 3 đêm vì tiêu chảy mất nước), bố đưa đến đúng hẹn tái khám sau ra viện. Cân nặng 3,48 kg (cân ở nhà hai ngày trước 3,52 kg). Sinh hiệu: nhiệt (nách) 36,9 °C, mạch 140 l/p, nhịp thở 46 l/p, SpO₂ 99%. Bé tỉnh, hồng, đòi bú.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện lại khi bé chưa mất nước (cân gần như không đổi, mắt không trũng, nếp véo da nhanh), bú tốt, không nôn, không sốt là vượt tiêu chí QĐ 3312 mục 5.1 (tr. 323–324). Bé phải xa mẹ lần hai, nguy cơ lây chéo (ESPGHAN/ESPID 2014 mục 5, tr. 135), còn nguyên nhân ở nhà là cách pha và giữ sữa vẫn chưa được gỡ nên dễ tái phát.",
+    "theo_doi": "Giữ bé nhiều giờ ở phòng khám cho uống ORS theo Phác đồ B là sai mức điều trị: bé không mất nước nên Phác đồ A tại nhà là đủ (QĐ 3312 mục 4.1, tr. 320–321). Việc cần làm là dạy lại cách pha sữa và rửa tay; giữ bé lại chỉ làm bố mất nửa ngày mà vẫn mang về những sai sót cũ."
+   },
+   "loi_mo": "Bác sĩ ơi, hôm nay tới hẹn tái khám sau ra viện. Mà từ hôm kia cháu lại đi lỏng, em tra thì chắc là bất dung nạp lactose sau tiêu chảy, nên em tính đổi sang sữa không lactose cho cháu.",
+   "sinh_hieu": {
+    "mach": 140,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 46,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bố đưa bé đến tái khám theo hẹn sau ra viện; kể thêm hôm kia bé lại đi ngoài lỏng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ra_vien",
+     "noi_dung": "Lần nằm viện: bù ORS qua ống thông dạ dày 1 ngày rồi uống được, không truyền tĩnh mạch; cấy máu âm tính; không kháng sinh; ra viện 3,45 kg, phân sệt; uống kẽm 5 mg/ngày đều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Diễn tiến sau lượt 2"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hai ngày đầu sau ra viện phân sệt vàng 3–4 lần/ngày. Từ chiều hôm kia lỏng lại: hôm kia 4 lần, hôm qua 6 lần, hôm nay 3 lần. Phân vàng xanh, nước, ít hạt sữa, không máu, không nhầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đợt tiêu chảy mới (QĐ 3312 mục 1, 3.1a)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ, thêm khoảng 3 cữ sữa công thức/ngày (60 ml/cữ) từ hôm ra viện vì mẹ lo sữa ít. Bé bú hăng, không nôn, 7 tã ướt/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ nuôi, bú chai (QĐ 3312 mục 2.1)"
+    },
+    {
+     "id": "pha_sua",
+     "noi_dung": "Bố pha sữa bằng nước đun sôi để nguội đựng trong chai nhựa dùng lại nhiều ngày; bình sữa chỉ rửa nước máy với xà phòng, không tráng nước sôi; thỉnh thoảng pha sẵn hai cữ để dành.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nguyên nhân nền chưa xử lý: pha sữa, nước uống (QĐ 3312 mục 2.1, 6)",
+     "dieu_kien_lo": "Bố không tự kể. Chỉ nói khi bác sĩ hỏi chi tiết cách pha sữa, nước dùng, rửa và tráng bình, hoặc nhờ bố kể một lần pha sữa từ đầu."
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Anh trai đã khỏi, đi học lại. Bà nội không cho bé uống ibuprofen từ khi ra viện. Mẹ vẫn uống thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người trong nhà, thuốc đang dùng"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Không nôn, không sốt (nách 36,8–37,1 °C), tay chân ấm, không co giật, không khóc ngằn từng cơn, bụng không chướng, bú bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, lồng ruột (WHO 2013 mục 3.6, Bảng 11)"
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Bố đọc thêm: 'sau tiêu chảy ruột mất men lactase nên tái phát, phải dùng sữa không lactose và thuốc cầm tiêu'. Bố đã mua sẵn sữa không lactose và thuốc cầm tiêu, chưa cho dùng.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bố đến vì đúng hẹn ghi trên giấy ra viện, không định đi sớm hơn dù phân lỏng lại; nghĩ 'chắc chưa quen sữa', sợ lại nằm viện, mong bác sĩ chỉ cách để bé khỏi nhập viện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì khiến anh lo nhất hôm nay hoặc anh mong gì từ buổi khám."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng, khóc to khi đói. Mắt không trũng, môi lưỡi ẩm, đổ đầy mao mạch dưới 2 giây, nếp véo da trở lại nhanh. Cân 3,48 kg, giảm 1,1% so với 3,52 kg hai ngày trước (dưới 5%: chưa mất nước).",
+     "k": 1,
+     "hien": "Tỉnh, hồng. Cân nặng 3,48 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 140 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 140 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p, đều, không rút lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 46 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, nhu động bình thường. Rốn khô, bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "truc_trang": {
+     "a": "Không cần thăm trực tràng. Tã có phân vàng xanh lỏng, ít hạt sữa, không máu, không nhầy; hăm đỏ nhẹ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cay_phan": {
+     "r": "Cấy phân: chưa mọc vi khuẩn gây bệnh sau 48 giờ.",
+     "n": "Không cần: chỉ cấy khi phân máu, nghi tả, tiêu chảy nặng, kéo dài (QĐ 3312 mục 3.2, tr. 320).",
+     "v": "n"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp tái phát (đợt mới sau 2 ngày phân sệt) ở trẻ 27 ngày, chưa mất nước, không dấu hiệu nguy hiểm; nguy cơ ở nhà là bú chai bổ sung, cách pha và giữ sữa không đảm bảo",
+     "ok": 1,
+     "n": "Phân lỏng ≥ 3 lần/24 giờ, cấp tính, dưới 14 ngày (QĐ 3312 mục 1, tr. 316); sụt dưới 5% cân là chưa mất nước (mục 3.1b, tr. 318). Bú chai, nước không đun chín, thức ăn ô nhiễm, không rửa tay làm tăng nguy cơ (mục 2.1, tr. 317). Tác nhân đợt này và định nghĩa tái phát: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu chảy kéo dài",
+     "n": "Đợt đầu bắt đầu ngày thứ 17, nay ngày thứ 27 nhưng có 2 ngày phân sệt xen giữa, chưa đủ 14 ngày liên tục (QĐ 3312 mục 1, tr. 316; Tiêu chảy kéo dài mục 1, tr. 325; WHO 2013 Bảng 11, tr. 127). Lỏng quá 14 ngày thì đánh giá lại."
+    },
+    {
+     "t": "Bất dung nạp lactose thứ phát / dị ứng đạm sữa bò (bố tự tra)",
+     "n": "Bất dung nạp lactose được nêu trong tiêu chảy kéo dài (QĐ 3312, Tiêu chảy kéo dài mục 2, tr. 325), không phải đợt cấp 2 ngày; không dùng sữa không lactose thường quy (mục 4.4, tr. 323; ESPGHAN/ESPID 2014 mục 9.2.2, tr. 143)."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân vàng xanh có hạt sữa, không nước vo gạo, không mất nước, không dịch tễ (QĐ 4178/2007 mục II.1; WHO 2013 mục 5.2.1, tr. 130)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không khóc ngằn kèm tái nhợt, không phân máu nhầy, không khối, bụng mềm (WHO 2013 Bảng 11, tr. 127)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Không sốt, 36,9 °C, thở 46 l/p, tỉnh, bú hăng, không dấu hiệu nguy hiểm (WHO 2013 mục 3.6, tr. 52)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại không mất nước; cho về điều trị Phác đồ A tại nhà (ORS 50–100 ml sau mỗi lần đi ngoài, chuẩn bị 500 ml/ngày, từng thìa nhỏ; tiếp tục bú mẹ), hẹn tái khám sau 24 giờ",
+     "v": "c",
+     "n": "QĐ 3312 mục 3.1b–3.1c (tr. 318–319), 4.1 (tr. 320–321); WHO 2013 Chart 15 (tr. 138). Tái khám: QĐ 4068 ô [8] mỗi 1–2 ngày, sơ sinh chọn 24 giờ (mốc riêng: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Tìm nguyên nhân nền: hướng dẫn lại cách pha, bảo quản sữa công thức (nước đun sôi, tráng bình nước sôi, không pha sẵn để dành, không pha loãng) và rửa tay; ưu tiên tăng bú mẹ",
+     "v": "c",
+     "n": "QĐ 3312 mục 2.1 (tr. 317: bú chai, nước không đun chín, thức ăn ô nhiễm, không rửa tay), mục 4.4 (tr. 323: không pha loãng sữa), mục 6 (tr. 324). Quy trình tiệt trùng bình cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không đổi sang sữa không lactose, tiếp tục loại sữa đang dùng; không dùng thuốc cầm tiêu",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4–4.5 (tr. 323); ESPGHAN/ESPID 2014 mục 9.2.2 (tr. 143); WHO 2013 tr. 126."
+    },
+    {
+     "t": "Ghi nhận phần đúng của bố, giải thích tái phát nhiều khả năng do nhiễm lại hoặc vệ sinh pha sữa chứ chưa phải bất dung nạp lactose; trấn an bố",
+     "v": "c",
+     "n": "Nguyên nhân tái phát cụ thể: không có trong tài liệu đã tải; yếu tố nguy cơ theo QĐ 3312 mục 2.1 (tr. 317)."
+    },
+    {
+     "t": "Dặn quay lại ngay khi: bú kém hoặc bỏ bú, li bì, nhiệt dưới 35,5 °C hoặc trên 38 °C, thở từ 60 l/p, nôn nhiều, phân máu, tiêu chảy tăng, tã khô, bụng chướng, khóc ngằn rồi tái",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52), mục 5.2.3 (tr. 137); QĐ 3312 mục 5.1–5.2 (tr. 323–324)."
+    },
+    {
+     "t": "Tiếp tục kẽm 5 mg/ngày cho đủ 10–14 ngày, hoặc ngưng; ghi tên gói thuốc bắc mẹ uống, nhờ mang đến",
+     "v": "a",
+     "n": "Sổ (NH-0513 #1): WHO 2024 khuyến cáo 3a, 3c; dưới 1 tháng dùng hay không đều chấp nhận. Thuốc bắc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện lại",
+     "v": "w",
+     "n": "Không có tiêu chí: không mất nước, bú tốt, không nôn, không sốt (QĐ 3312 mục 5.1, tr. 323–324; ESPGHAN/ESPID 2014 mục 8.1, tr. 139)."
+    },
+    {
+     "t": "Đổi sang sữa không lactose, pha loãng sữa hoặc ngưng sữa công thức đột ngột",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.4 (tr. 323): không pha loãng, không dùng sữa không lactose thường quy; ESPGHAN/ESPID 2014 mục 9.2.2 (tr. 143)."
+    },
+    {
+     "t": "Kê kháng sinh",
+     "v": "w",
+     "n": "Phân nước, không nhiễm khuẩn toàn thân (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2, tr. 322)."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu (loperamid) bố đã mua",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5 (tr. 323); WHO 2013 tr. 125–126: có thể tử vong ở trẻ nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp tái phát (đợt mới) ở trẻ 27 ngày, sau nằm viện 3 đêm; chưa mất nước, không dấu hiệu nguy hiểm",
+     "Yếu tố nguy cơ nền chưa xử lý: bú chai bổ sung, nước và bình sữa pha không đảm bảo vệ sinh",
+     "Chẩn đoán tự tra của bố (bất dung nạp lactose sau tiêu chảy) chưa có cơ sở",
+     "Đã loại trừ: tả, lồng ruột, nhiễm khuẩn huyết sơ sinh, tiêu chảy kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Tái phát phải hỏi: nguyên nhân nền chưa xử lý, tuân thủ, hay chẩn đoán sai từ đầu? Không gợi ý chẩn đoán sai (không sốt, không máu, bụng mềm, cấy máu lần nằm viện âm tính). Điều chưa xử lý là vệ sinh pha sữa; bố chỉ kể khi được hỏi từng bước.",
+     "Bất dung nạp lactose chỉ đặt ra khi tiêu chảy kéo dài (QĐ 3312, Tiêu chảy kéo dài mục 2, tr. 325), không phải đợt cấp 2 ngày. Không mất nước: sụt dưới 5%, mắt không trũng, nếp véo nhanh, bú tốt (mục 3.1b–3.1c, tr. 318–319); không cận lâm sàng vì không đổi xử trí (mục 3.2, tr. 320)."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ A tại nhà (QĐ 3312 mục 4.1; WHO 2013 Chart 15): thêm ORS sau mỗi lần đi ngoài, tiếp tục bú mẹ, kẽm đủ ngày nếu đang dùng. Tái khám 24 giờ vì bé vẫn là sơ sinh (mốc riêng: không có trong tài liệu đã tải).",
+     "Gỡ nguyên nhân nền: dạy lại pha sữa, rửa bình, không pha sẵn, không pha loãng, ưu tiên bú mẹ (QĐ 3312 mục 2.1, 4.4, 6). Không đổi sữa không lactose, không thuốc cầm tiêu (mục 4.4–4.5). Không nhập viện lại: chưa có tiêu chí (mục 5.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS áp lực thẩm thấu thấp (Oresol)",
+      "ham_luong": "Gói pha theo nhà sản xuất, nước đun sôi để nguội",
+      "lieu": "50–100 ml sau mỗi lần đi ngoài, chuẩn bị khoảng 500 ml/ngày",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Xen kẽ cữ bú; nôn thì đợi 5–10 phút",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1 (tr. 320–321); WHO 2013 Chart 15 (tr. 138)."
+     },
+     {
+      "thuoc": "Kẽm nguyên tố (tiếp tục nếu đang dùng, tùy chọn)",
+      "ham_luong": "Dạng bào chế sơ sinh: không có trong tài liệu đã tải",
+      "lieu": "5 mg/ngày, 1 lần",
+      "duong": "Uống, hòa trong nước sạch, sữa vắt hoặc ORS",
+      "thoi_diem": "1 lần/ngày, cùng giờ",
+      "so_ngay": "Đủ 10–14 ngày từ khi bắt đầu",
+      "ghi_chu": "WHO 2024 khuyến cáo 3a, 3c; QĐ 3312 mục 4.3 chỉ ghi từ 1 tháng."
+     }
+    ],
+    "dan_do": [
+     "Cháu bị đợt tiêu chảy mới, chưa mất nước, chưa chắc do bất dung nạp lactose. Anh không có lỗi; cách pha sữa là chỗ cần chỉnh.",
+     "Cho bú mẹ là chính; nếu thêm sữa công thức thì giữ loại đang dùng, không pha loãng, nước đun sôi mới, tráng bình nước sôi, không pha sẵn để dành (QĐ 3312 mục 4.4, 6). Không đổi sữa không lactose, không thuốc cầm tiêu. Rửa tay xà phòng trước khi pha sữa, bế bé và sau thay tã.",
+     "Thêm ORS sau mỗi lần đi ngoài, từng thìa nhỏ (QĐ 3312 mục 4.1). Tái khám sau 24 giờ; quay lại ngay nếu bú kém, li bì, lạnh dưới 35,5 °C hoặc sốt trên 38 °C, thở từ 60 lần/phút, nôn nhiều, phân máu, tã khô (WHO 2013 mục 3.6). Mang gói thuốc bắc của mẹ lần sau."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé nhập bệnh viện nhi hôm đó, nằm 3 đêm: bù ORS qua ống thông dạ dày 1 ngày rồi tự uống được; điện giải bình thường sau 24 giờ; cấy máu âm tính, không kháng sinh; uống kẽm 5 mg/ngày. Ra viện 3,45 kg. Hai ngày sau, do pha sữa công thức và rửa bình không đảm bảo vệ sinh, bé tiêu chảy lại nhưng chưa mất nước; sau hướng dẫn pha sữa, rửa tay, ngưng ibuprofen, phân sệt lại sau 2 ngày, cân 3,56 kg lúc tái khám 24 giờ. Bà nội không tự mua thuốc nữa, bố bỏ ý định đổi sữa.",
+ "nhieu": [
+  "Bố tự tra: lượt 1, 2 'rotavirus từ anh, cần xét nghiệm rota, kháng sinh, men vi sinh, sữa không lactose'; lượt 3 'bất dung nạp lactose sau tiêu chảy'. Đúng: virus lây từ anh. Sai: các can thiệp không đổi diễn tiến hoặc có hại.",
+  "Thuốc người nhà: ibuprofen bà nội mua ở quầy thuốc, 2 liều trước khi phân lỏng và liều thứ ba sau lượt 1; thuốc bắc mẹ uống. Bố chỉ nói khi được hỏi.",
+  "Lý do thật: bố đến vì phiếu hẹn (lượt 1, 2, 3), không vì lo bệnh."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh tiêu chảy ngưỡng thấp: có mất nước thì bù ORS 4 giờ tại phòng khám, đánh giá lại rồi mới cho về; thất bại ORS hoặc nôn tái diễn thì nhập viện (QĐ 3312 mục 4.1, 5.1; ESPGHAN/ESPID 2014 mục 8.1).",
+  "Cân lần trước là mốc tính % sụt cân (QĐ 3312 mục 3.1b); hỏi rõ ai chăm, ai cho uống gì, kể cả thuốc người nhà tự mua.",
+  "Không đỡ ở tái khám: rà soát thất bại điều trị, hỏi lại đêm qua đã xảy ra gì.",
+  "Tái phát sau ra viện: tìm nguyên nhân nền (pha sữa, vệ sinh, tái nhiễm) trước khi nghĩ bất dung nạp lactose."
+ ],
+ "diem_nho": [
+  "Dấu hiệu nguy hiểm sơ sinh: bú kém, co giật, li bì, thở từ 60 l/p, sốt trên 38 °C, hạ nhiệt dưới 35,5 °C (WHO 2013 mục 3.6, tr. 52).",
+  "Trẻ 1 tuần – 2 tháng: có mất nước khi 2 trong vật vã, mắt trũng, nếp véo da chậm; nặng khi 2 trong li bì, mắt trũng, nếp véo da rất chậm (QĐ 3312 mục 3.1c, tr. 319).",
+  "Phác đồ B: ORS 75 ml/kg trong 4 giờ, đánh giá lại sau 4 giờ (QĐ 3312 mục 4.1, tr. 321). Dưới 3 tháng chỉ paracetamol, không ibuprofen (WHO 2013 mục 8.7.1, tr. 251)."
+ ],
+ "nguon": [
+  "QĐ 3312/2015 – Bộ Y tế – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp mục 1–6 (tr. 316–324), bảng mất nước trẻ 1 tuần – 2 tháng (tr. 319), Phác đồ A, B, C (tr. 320–322); Tiêu chảy kéo dài mục 1–2 (tr. 325)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.8 (tr. 54); chương 5 (tr. 125–138); mục 8.7.1 (tr. 251), 10.3 (tr. 305)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC: Bảng 2 khuyến cáo tiêu chảy 1a, 3a–3c, 4a, 5 (tr. xi)",
+  "ESPGHAN/ESPID 2014 – J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 5–9 (tr. 135–145)",
+  "QĐ 4068/QĐ-BYT (kho cũ tltk-10000-ca, 'Phiên bản 1.0, …./2016') – Quy trình điều trị tiêu chảy cấp ở trẻ em – ĐÃ ĐỌC: mục 1.2, ô [2], [4], [6], [8]",
+  "QĐ 4178/QĐ-BYT 2007 – Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: NSAID gây tiêu chảy hoặc ảnh hưởng thận ở sơ sinh; thuốc bắc không rõ thành phần và liên quan với sữa mẹ; số tã ướt, số lần phân bình thường; liều ORS, dịch tĩnh mạch, kẽm, men vi sinh, racecadotril, diosmectit riêng cho sơ sinh; khoảng tham chiếu sơ sinh của công thức máu, ure, creatinin; thời gian diễn tiến rotavirus; định nghĩa tái phát; tiệt trùng bình sữa; mốc tái khám riêng cho sơ sinh."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 – viết: Sonnet. Bản 1. Tả, lồng ruột, nhiễm khuẩn huyết có trong chan_doan cả 3 lượt.",
+  "Tài liệu đã đọc: TL-0037, TL-0250, TL-0245, TL-0268, QĐ 4068 (kho cũ), TL-0176; vị trí và chỗ thiếu tài liệu: xem trường nguon.",
+  "Biến khó khớp: 'sau dùng NSAID' → ibuprofen bà nội cho trước khi phân lỏng, tài liệu không nêu NSAID gây tiêu chảy; xử lý như sổ NH-0470 #3 (ngưng chấm c). 'Thuốc bắc không rõ' → thuốc mẹ uống, ghi lại chấm a.",
+  "Thiết kế: lượt 1 theo_doi (Phác đồ B tại phòng khám; nhập viện ngay chấm a), lượt 2 nhap_vien (thất bại ORS, nôn tái diễn), lượt 3 ve_hen (Phác đồ A; nguyên nhân nền là pha sữa). Khác NH-0401, NH-0513: bố kể bệnh, virus từ anh, nhập viện vì thất bại ORS, tái phát do pha sữa.",
+  "Tim 148, 160, 140 l/p dùng AT-TIM-NHANH-01. Đề xuất danh mục: test_rota."
+ ]
+}
