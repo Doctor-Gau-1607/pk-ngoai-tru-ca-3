@@ -1,0 +1,768 @@
+{
+ "ma_ca": "NH-0314",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tai_giua_cap_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (nước tẩy đặc, thuốc xịt muỗi)",
+  "thuoc_dang_dung": "Vitamin thực phẩm chức năng (D3 + K2 nhỏ giọt)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Võ Minh Khôi",
+  "tuoi": 0.05,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.4,
+  "chieu_cao": 51,
+  "xung_ho": "Bé trai sơ sinh 17 ngày tuổi (lượt 1), chỉ khóc, ngủ, bú. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Khôi' hoặc 'con'.",
+  "tinh_cach": "Mẹ 27 tuổi, nhân viên bán hàng trực tuyến, con đầu lòng, nghỉ thai sản, thiếu ngủ, hay đọc nhóm các mẹ trên mạng. Nói nhanh, hơi phòng thủ khi bị hỏi về thuốc đã cho, sợ bị trách; dịu lại khi bác sĩ nói rõ vì sao hỏi. Giữ nhiệt kế điện tử và sổ ghi nhiệt độ trong điện thoại.",
+  "kieu_nhieu": "Tự cho con uống paracetamol 5 ngày và không nói ngay: chỉ kể thuốc khi bác sĩ hỏi thẳng 'có cho bé uống thuốc gì không'; coi 38 °C là 'chưa sốt', chỉ khai số đo đêm qua khi được hỏi cụ thể. Nhìn thấy nách 37,5 °C thì chắc mẩm bé không sốt. Hỏi đi hỏi lại thuốc và vitamin có hại không.",
+  "nguoi_nha": "Mẹ bé, chị Lan Anh, 27 tuổi, đi cùng, bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan Anh)",
+  "ngoai_hinh": {
+   "da": "#f2cfae",
+   "toc": "#1d1511",
+   "kieuToc": "tre",
+   "ao": "#cfe3f2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e8b992",
+    "toc": "#2a1a14",
+    "kieuToc": "dai",
+    "ao": "#d9a9b8",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 17 ngày tuổi bú kém, quấy; mẹ lo thuốc hạ sốt và vitamin gây tác dụng phụ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 6 của bệnh (bé 17 ngày tuổi)",
+   "tiep_don": "Bé trai 17 ngày tuổi, 3,4 kg, mẹ bế đến vì bú kém, quấy 3 ngày, lo thuốc gây hại. Nhiệt độ nách 37,5 °C, mạch 148 l/p, nhịp thở 48 l/p, SpO₂ 98%. Bé tỉnh, khóc to, dỗ nín.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Bé 17 ngày tuổi, nhiệt độ nách 37,5 °C trông có vẻ không sốt, nên nếu cho về nhỏ nước muối và kê thêm paracetamol thì bỏ sót cơn sốt 38,2 °C đêm qua và hậu môn 38,0–38,1 °C hôm nay: nhóm 8–21 ngày có sốt phải được cấy máu, chọc dò tủy, kháng sinh tiêm và theo dõi ở bệnh viện có điều dưỡng quen sơ sinh (AAP 2021 KAS 1–6; NICE NG143 mục 1.2.12, 1.5.3–1.5.6). Viêm tai giữa cấp không loại bỏ bé khỏi quy trình này (AAP 2021 phần đối tượng). Tai phải đang có mủ sau màng nhĩ phồng; không điều trị, bệnh có nguy cơ lan thành viêm xương chũm hoặc viêm màng não, áp xe não (QĐ 5643/2015 mục 5.2; WHO 2013 mục 6.7.1). Bé bú ngày càng kém trong khi mẹ chỉ có paracetamol che cơn sốt.",
+    "theo_doi": "Giữ bé ở phòng khám vài giờ hoặc cho về nhà theo dõi 24 giờ vì bé còn bú, còn tỉnh không thay thế nhập viện. Phòng khám ngoại trú không có nước tiểu lấy bằng thông tiểu, chọc dò tủy, kháng sinh tiêm kịp thời nếu bé xấu đi; nhóm 8–21 ngày bắt buộc làm chọc dò tủy và kháng sinh tiêm vì tỉ lệ nhiễm khuẩn xâm lấn cao nhất (AAP 2021 KAS 4–6 và phần giải thích). Hơn nữa, gia đình chưa ai ngừng paracetamol, nên mốc sốt tại nhà không còn đáng tin (WHO 2013 mục 3.10.4). Dấu hiệu nặng ở sơ sinh rất kín đáo: bú kém, li bì, nhiệt độ ≥ 38 hoặc < 35,5 °C (WHO 2013 mục 3.6)."
+   },
+   "loi_mo": "Bác sĩ ơi, từ mấy hôm nay bé nhà em bú kém, quấy khóc, mà em cho bé uống thuốc hạ sốt với vitamin. Em sợ thuốc này làm bé bị gì, hay bé bị bệnh gì vậy bác sĩ? Bé nhà em đo nách có 37,5 thôi, không sốt đâu ạ.",
+   "sinh_hieu": {
+    "mach": 148,
+    "ha": "Không đo",
+    "nhiet": "37,5 (nách)",
+    "nhip_tho": 48,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé 17 ngày tuổi. Khoảng 3 ngày nay bé bú kém dần: trước bú 8–9 cữ mỗi cữ 12–15 phút, nay chỉ bú 5–6 phút là nhả ra khóc, nhất là khi bế nằm nghiêng về bên phải. Mẹ không thấy bé giật tai hay sờ tai, tai không chảy gì. Mẹ lo vì bé quấy từ khi uống thuốc hạ sốt và vitamin, sợ thuốc gây hại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến bú kém"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, nay 6–7 cữ/ngày, bỏ cữ đêm một lần. Còn thức dậy đòi bú. Thay 5–6 tã ướt/ngày, đi tiêu vàng 2–3 lần/ngày. Không nôn, không sặc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt, nôn"
+    },
+    {
+     "id": "sot_dem",
+     "noi_dung": "Hai đêm trước bé nóng. Đêm qua lúc 2 giờ sáng mẹ đo nách bằng nhiệt kế điện tử được 38,2 °C, 6 giờ sáng cho uống thuốc hạ sốt, sau đó đo lại 37,3 °C. Mẹ không nói với ai vì nghĩ '38 độ thì chưa gọi là sốt, 38,5 mới sốt'; sáng nay bé nóng nhẹ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Sốt ở nhà trong 24 giờ trước (ngưỡng 38,0 °C)",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi 'bé có nóng/sốt không', 'có đo nhiệt độ ở nhà không' hoặc hỏi số đo cụ thể trong 24 giờ qua."
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ 5 ngày nay mẹ tự cho bé uống siro paracetamol 120 mg/5 mL, mỗi lần 1,5 mL (36 mg), ngày 3 lần, mỗi khi bé quấy hoặc sờ thấy nóng; lần cuối 6 giờ sáng nay. Mẹ mua theo lời khuyên trong nhóm các mẹ sau sinh, không hỏi bác sĩ. Chưa cho kháng sinh hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự cho 5 ngày (paracetamol), liều gần nhất",
+     "nhieu": 1
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ lúc bé 7 ngày tuổi, mỗi sáng mẹ nhỏ 1 giọt vitamin D3 + K2 dạng thực phẩm chức năng mua trên mạng (nhãn 'cho trẻ sơ sinh', mẹ không nhớ hàm lượng mỗi giọt). Bé quấy nhiều hơn từ khoảng ngày thứ 3 sau khi bắt đầu paracetamol, mẹ gộp cả hai vào nghi vấn 'tác dụng phụ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thực phẩm chức năng đang dùng (vitamin)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều mẹ thật sự muốn hỏi: 'thuốc hạ sốt và vitamin có làm bé bú kém, quấy, hại gan hại thận không, hay bé bị bệnh gì?'. Mẹ đã tự ngưng vitamin 2 hôm nay nhưng vẫn cho paracetamol vì sợ bé sốt co giật.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: nghi ngờ tác dụng phụ của thuốc",
+     "nhieu": 1
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Sáu ngày trước nhà lau sàn bằng nước tẩy đặc lúc chuyển sang phòng mới, tối đó xịt thuốc diệt muỗi trong phòng bé rồi đóng cửa. Sáng hôm sau bé hắt hơi, nghẹt mũi, chảy mũi trong; từ đó mới có sốt. Mẹ cho rằng bé 'bị ngộ độc hóa chất'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khởi phát sau tiếp xúc hóa chất (nước tẩy, thuốc xịt muỗi)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không co giật, không li bì, vẫn thức dậy tự đòi bú, khóc to, không rên, không tím, không thở nhanh nhìn thấy, không nôn, thóp mẹ sờ thấy không phồng. Da không vàng. Rốn rụng ngày thứ 8, khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm ở sơ sinh"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không chảy mủ, không chảy máu tai. Sau tai không sưng đỏ. Bé hay quay đầu về trái để bú và nhả vú bên phải khóc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Con đầu lòng, sinh thường đủ tháng 39 tuần, cân nặng sinh 3,2 kg, mẹ không sốt, ối vỡ khi chuyển dạ, không dùng kháng sinh. Ba bé ho nhẹ 1 tuần trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử sản khoa, tiếp xúc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,40 kg (cân sinh 3,2 kg). Nhiệt độ nách 37,5 °C. Đo hậu môn bằng nhiệt kế điện tử: 38,0 °C, đo lại bằng nhiệt kế khác 38,1 °C: có sốt, bị che bởi paracetamol 6 giờ sáng. Bé tỉnh, khóc to, dỗ nín 20 giây, mao mạch hồi sắc dưới 2 giây, môi hồng, niêm mạc ẩm, không nổi vân tím.",
+     "k": 1,
+     "hien": "Cân 3,40 kg. Tỉnh, khóc to, dỗ nín, môi hồng. Nách 37,5 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, đập theo mạch. Cổ mềm, không gồng cứng. Sau tai hai bên: không sưng, không đỏ, không ấn đau (bé không nhăn mặt), vành tai không bị đẩy ra trước. Không hạch.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm. Sau tai không sưng đỏ."
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch, không mủ; màng nhĩ đục, đỏ, phồng ra ngoài, mất mốc cán búa và nón sáng. Tai trái: màng nhĩ xám trong, thấy cán búa, không phồng. Mũi: niêm mạc phù nề, dịch trong loãng. Họng: đỏ nhẹ, không mảng. Miệng không tưa.",
+     "k": 1,
+     "hien": "Mũi ngạt, dịch trong. Họng đỏ nhẹ. Soi tai: có hình ảnh màng nhĩ phải khác tai trái."
+    },
+    "tim": {
+     "a": "Tim đều nhanh, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên đều, bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, nhanh. Mạch bẹn hai bên rõ.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 48 l/p, đều. Không rút lõm, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 48 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan bờ dưới 1 cm. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 1,
+     "hien": "Bụng mềm. Rốn khô."
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không chấm xuất huyết, không bóng nước, không nổi vân tím.",
+     "k": 1,
+     "hien": "Da hồng, không ban, không bóng nước."
+    },
+    "than_kinh": {
+     "a": "Trương lực cơ tốt, tay chân co gập. Phản xạ bú, nuốt, Moro bình thường, đối xứng. Không co giật, không rung giật.",
+     "k": 1,
+     "hien": "Trương lực tốt, phản xạ bú tốt."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,8 G/L (neu 40% = 6,32 G/L, lym 46%) · Hb 150 g/L · TC 340 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.8,
+      "neu_pct": 40.0,
+      "neu": 6.32,
+      "lym_pct": 46.0,
+      "lym": 7.27,
+      "mono_pct": 11.0,
+      "mono": 1.74,
+      "eos_pct": 2.0,
+      "eos": 0.32,
+      "baso_pct": 1.0,
+      "baso": 0.16,
+      "rbc": 4.5,
+      "hgb": 150,
+      "hct": 0.44,
+      "mcv": 98.0,
+      "mch": 33.3,
+      "mchc": 340,
+      "rdw": 15.0,
+      "plt": 340
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn. AAP 2021 dùng ANC làm chỉ điểm viêm (bất thường khi > 4000–5200/mm³); khoảng tham chiếu bạch cầu, Hb sơ sinh: không có trong tài liệu đã tải.",
+     "n": "ANC 6.320/mm³ vượt ngưỡng 4000–5200 (AAP 2021 Hình 2 chú thích b). NICE NG143 mục 1.5.3 cũng đòi công thức máu cho trẻ dưới 1 tháng có sốt."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 22 mg/L",
+     "bang": {
+      "crp": 22
+     },
+     "n": "Bất thường: ngưỡng CRP > 20 mg/L (AAP 2021 Hình 2 chú thích b). Với bé 8–21 ngày kết quả không đổi hướng xử trí, vì mọi bé đều phải nhập viện, chọc dò tủy, kháng sinh tiêm (AAP 2021 KAS 1–5)."
+    },
+    "pct": {
+     "v": "u",
+     "r": "Procalcitonin 0,72 ng/mL",
+     "n": "Bất thường: ngưỡng > 0,5 ng/mL; nên lấy nếu cơ sở có (AAP 2021 Hình 2 chú thích b, KAS 3 'có thể'). NICE NG143 không nêu procalcitonin."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Nước tiểu lấy bằng thông tiểu: bạch cầu esterase âm, nitrit âm, protein âm, bạch cầu 2/vi trường.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "Lấy bằng thông tiểu hoặc chọc trên xương mu, dương tính mới cấy (AAP 2021 KAS 1); NICE NG143 mục 1.5.3 cũng yêu cầu xét nghiệm nước tiểu."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Cấy máu đã lấy trước liều kháng sinh đầu. Sơ bộ sau 24 giờ, cuối cùng sau 36–48 giờ. Đang chờ.",
+     "n": "AAP 2021 KAS 2 (mạnh, chứng cứ A); NICE NG143 mục 1.5.3. Kháng sinh dừng khi cấy âm 24–36 giờ và không còn lý do nằm viện (AAP KAS 7a)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "u",
+     "r": "Dịch trong; bạch cầu 4/mm³; protein 0,70 g/L; glucose 2,9 mmol/L (đường huyết cùng lúc 4,3 mmol/L); nhuộm Gram không thấy vi khuẩn. Bác sĩ xét nghiệm kết luận dịch não tủy bình thường. Làm ở khoa nhi sau khi bé nhập viện.",
+     "n": "AAP 2021 KAS 4 (mạnh, chứng cứ A); NICE NG143 mục 1.5.4: chọc dò tủy cho trẻ dưới 1 tháng sốt. Khoảng bình thường dịch não tủy sơ sinh: không có trong tài liệu đã tải."
+    },
+    "xq_schuller": {
+     "v": "n",
+     "r": "Chưa chụp",
+     "n": "Không thường quy: AWaRe 2022 mục viêm tai giữa cấp: hình ảnh không cần trừ khi nghi biến chứng (viêm xương chũm, áp xe não). Bé không sưng sau tai. QĐ 5643/2015 mục 4.3.3 nên chụp trong lúc dùng kháng sinh: xem sổ mâu thuẫn mục 5 (chụp thường quy chấm a)."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Chưa chụp",
+     "n": "Không có dấu thần kinh khu trú, thóp phẳng, trương lực tốt, dịch não tủy bình thường: chưa có chỉ định hình ảnh sọ não (AWaRe 2022: chỉ khi nghi biến chứng)."
+    },
+    "nhi_luong": {
+     "v": "n",
+     "r": "Chưa làm",
+     "n": "Không cần để chẩn đoán hay quyết định hôm nay: chẩn đoán dựa vào soi màng nhĩ (QĐ 5643 mục 3.1.2: nội soi tai). Độ tin cậy nhĩ lượng đồ ở sơ sinh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải ở sơ sinh 17 ngày tuổi, trên nền viêm mũi họng, kèm sốt ở sơ sinh (hậu môn 38,0–38,1 °C; nách 38,2 °C đêm qua) bị che bởi paracetamol tự cho 5 ngày; biểu hiện không điển hình: bú kém, không giật tai, không chảy mủ; chưa loại trừ nhiễm khuẩn xâm lấn",
+     "ok": 1,
+     "n": "Màng nhĩ phải đỏ, phồng, đục, mất mốc (QĐ 5643/2015 mục 3.1.1: màng nhĩ nề đỏ, không thấy tam giác sáng, cán búa; mức nặng hơn phồng như mặt kính đồng hồ). Dấu hiệu tai ở trẻ nhỏ thường không đặc hiệu: không tài liệu đã tải nêu riêng biểu hiện AOM ở sơ sinh. AAP 2013 (TL-0271) áp dụng cho trẻ 6 tháng–12 tuổi nên không dùng cho bé này; sốt ≥ 38 °C ở 8–21 ngày vào quy trình AAP 2021 (phần đối tượng: hậu môn ≥ 38,0 °C, ghi nhận ở nhà trong 24 giờ trước hoặc tại cơ sở), và NICE NG143 mục 1.2.12."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / viêm màng não sơ sinh",
+     "n": "Chưa loại trừ lâm sàng: bé 8–21 ngày có sốt, bú kém (WHO 2013 mục 3.6 liệt kê bú kém, nhiệt độ > 38 °C là dấu hiệu nguy hiểm). Thóp phẳng, tỉnh, trương lực tốt, không co giật nhưng không loại được nếu không chọc dò tủy và cấy máu (AAP 2021 KAS 2, 4; NICE NG143 mục 1.5.4). Sẽ có kết quả ở bệnh viện."
+    },
+    {
+     "t": "Viêm xương chũm",
+     "n": "Không sưng, đỏ, đau sau tai, vành tai không bị đẩy ra trước; chẩn đoán dựa vào sốt cao và sưng đau sau tai (WHO 2013 mục 6.7.1). QĐ 5643/2015 mục 5.2: biến chứng cấp phổ biến nhất của AOM. Chưa có chỉ định hình ảnh."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu",
+     "n": "Sốt không rõ ổ ở trẻ nhỏ phải loại trừ: nước tiểu lấy bằng thông tiểu bạch cầu esterase, nitrit âm (AAP 2021 KAS 1)."
+    },
+    {
+     "t": "Viêm mũi họng do virus đơn thuần",
+     "n": "Có nghẹt mũi sau tiếp xúc nước tẩy, thuốc xịt muỗi, nhưng không giải thích được màng nhĩ phải phồng đỏ, bú kém và sốt. Mối liên quan giữa hít hóa chất gia dụng và viêm mũi, viêm tai ở sơ sinh: không có trong tài liệu đã tải. QĐ 5643/2015 mục 2: viêm tai giữa cấp thường do viêm vòm mũi họng qua vòi Eustache."
+    },
+    {
+     "t": "Tác dụng phụ của paracetamol hoặc vitamin D3/K2 thực phẩm chức năng, hoặc ngộ độc hóa chất",
+     "n": "Quấy và bú kém giải thích đầy đủ bằng viêm tai giữa có sốt. Độc tính paracetamol ở sơ sinh, tác dụng phụ vitamin D3/K2 thực phẩm chức năng và ngộ độc nước tẩy/thuốc xịt muỗi qua đường hô hấp: không có trong tài liệu đã tải; WHO 2013 mục 3.10.4 không dùng thuốc hạ sốt ở trẻ nhỏ nên vẫn ngưng paracetamol."
+    },
+    {
+     "t": "Viêm phổi, viêm tiểu phế quản",
+     "n": "Thở 48 l/p dưới ngưỡng thở nhanh 60 l/p ở sơ sinh (WHO 2013 mục 3.6), không rút lõm, không rên, phổi không ran."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra bé đang sốt: hỏi nhiệt độ đo ở nhà trong 24 giờ và đo hậu môn (hoặc nách bằng nhiệt kế điện tử); không dựa vào nách 37,5 °C sau paracetamol hay lời mẹ 'bé không sốt'",
+     "v": "c",
+     "n": "Có hai nguồn: AAP 2021 xác định sốt bằng nhiệt độ hậu môn ≥ 38,0 °C (đo ở nhà trong 24 giờ trước hoặc tại cơ sở), hoặc NICE NG143 mục 1.1.2 đo nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần và mục 1.2.12 ngưỡng 38 °C; NICE mục 1.1.1 không dùng thường quy đường hậu môn. Sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần': hai cách đều đúng."
+    },
+    {
+     "t": "Không cho về nhà: chuyển nhập viện nơi có điều dưỡng, bác sĩ quen chăm sóc sơ sinh; trước kháng sinh lấy nước tiểu bằng thông tiểu hoặc chọc trên xương mu, cấy máu, chỉ điểm viêm (CRP, PCT, ANC), chọc dò tủy",
+     "v": "c",
+     "n": "AAP 2021 KAS 1, 2, 3, 4, 6 (bé 8–21 ngày: chọc dò tủy 'nên', mạnh, chứng cứ A); NICE NG143 mục 1.5.3–1.5.5 (công thức máu, cấy máu, CRP, nước tiểu; chọc dò tủy trừ chống chỉ định); WHO 2013 mục 3.8 (nhập viện, khi có thể chọc dò tủy và cấy máu trước kháng sinh). Các nguồn cùng hướng, không mâu thuẫn ở nhóm 8–21 ngày."
+    },
+    {
+     "t": "Kháng sinh tiêm kinh nghiệm tại bệnh viện sau khi lấy bệnh phẩm: một trong ba cách (ampicillin + gentamicin, WHO 2013; ampicillin + ceftazidime hoặc gentamicin, AAP 2021; cefotaxim hoặc ceftriaxon + ampicillin hoặc amoxicillin, NICE 2021)",
+     "v": "c",
+     "n": "Sổ mâu thuẫn 'Kháng sinh kinh nghiệm cho sơ sinh dưới 1 tháng có sốt, và liều gentamicin' (NH-1378). WHO 2013 mục 3.8, 3.14: ampicillin 50 mg/kg mỗi 8 giờ và gentamicin 7,5 mg/kg một lần/ngày ở tuần 2–4 tuổi; AAP 2021 Bảng 3: gentamicin 4 mg/kg/liều mỗi 24 giờ (thận trọng hơn về độc tính); NICE NG143 mục 1.5.6–1.5.7. AAP 2021 KAS 5: kháng sinh tiêm 'nên' cho 8–21 ngày. Kháng sinh nội viện do tuyến nhập viện chọn; ca chấm quyết định nhập viện, không chấm liều."
+    },
+    {
+     "t": "Ngưng paracetamol đang cho: cởi bớt quần áo, giữ phòng thoáng (WHO); hoặc chỉ dùng khi bé khó chịu và không để hạ số đo (NICE)",
+     "v": "c",
+     "n": "Sổ mâu thuẫn 'Thuốc hạ sốt cho sơ sinh có sốt' (NH-1378): WHO 2013 mục 3.10.4 (tr. 58) không dùng paracetamol hạ sốt ở trẻ nhỏ; NICE NG143 mục 1.6.2–1.6.6 không dùng thuốc hạ sốt chỉ để hạ số đo, không nêu tuổi tối thiểu. Liều paracetamol an toàn cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải. Paracetamol che cơn sốt làm số nách 37,5 °C sai lạc."
+    },
+    {
+     "t": "Khai thác đầy đủ thuốc đã cho: tên, hàm lượng, số mL mỗi lần, số lần/ngày, giờ lần cuối; hỏi cả vitamin và thực phẩm chức năng, thuốc dân gian",
+     "v": "c",
+     "n": "Cần để diễn giải sốt (WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.5) và để nhập viện có thông tin. AAP 2021 (phần đối tượng, mục 4): kháng sinh đang dùng hoặc mới dùng ở bé trên 2 tuần cần diễn giải riêng; bé chưa dùng kháng sinh."
+    },
+    {
+     "t": "Giải thích cho mẹ: bé bị viêm tai giữa phải kèm sốt nên phải vào viện lấy máu, nước tiểu, dịch não tủy; quấy và bú kém giải thích được bằng bệnh, tài liệu không có dữ liệu về tác dụng phụ của sản phẩm vitamin cụ thể; mẹ gọi 'sốt' từ 38,0 °C",
+     "v": "c",
+     "n": "NICE NG143 mục 1.2.12 (từ 38 °C ở trẻ dưới 3 tháng: nguy cơ cao). Tác dụng phụ vitamin D3/K2 thực phẩm chức năng: không có trong tài liệu đã tải. Trả lời đúng lý do thật của mẹ (nghi ngờ thuốc) bằng dữ kiện, không phủ nhận."
+    },
+    {
+     "t": "Không chích rạch màng nhĩ tại phòng khám; không nhỏ thuốc vào tai; không chụp X-quang xương chũm thường quy",
+     "v": "c",
+     "n": "Sổ mâu thuẫn mục 4 và 5 (NH-0355): chích rạch lượt đầu chấm a; chụp thường quy chấm a, không chụp chấm c (AWaRe 2022: hình ảnh không cần trừ khi nghi biến chứng). Màng nhĩ chưa thủng, không mủ chảy; thuốc nhỏ tai: QĐ 5643 mục 4.3.1 chỉ nêu thuốc giảm sung huyết, không áp dụng cho sơ sinh (không có dữ liệu)."
+    },
+    {
+     "t": "Dặn trên đường chuyển: giữ ấm, vẫn cho bú mẹ; đi ngay, không chờ kết quả; mang theo vỉ thuốc, lọ vitamin",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.1 (giữ ấm), mục 3.6 (dấu hiệu nguy hiểm), mục 3.8 (nhập viện). Đường đi và phương tiện chuyển cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kháng sinh uống (amoxicillin…) tại phòng khám và cho về",
+     "v": "w",
+     "n": "Kháng sinh uống cho AOM áp dụng cho trẻ lớn hơn 6 tháng (AAP 2013, WHO 2013 mục 6.7.2 amoxicillin 40 mg/kg × 2 lần/ngày, ít nhất 5 ngày). Bé 17 ngày có sốt: kháng sinh tiêm sau lấy bệnh phẩm (AAP 2021 KAS 5; NICE 1.5.6). Liều amoxicillin uống cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về nhà, theo dõi, tiếp tục paracetamol khi bé nóng",
+     "v": "w",
+     "n": "Bỏ sót sốt sơ sinh (AAP 2021 KAS 1–6; NICE NG143 mục 1.2.12)."
+    },
+    {
+     "t": "Theo dõi tại phòng khám 24 giờ không nhập viện",
+     "v": "a",
+     "n": "Không đạt yêu cầu theo dõi tại cơ sở có điều dưỡng quen sơ sinh và kháng sinh tiêm (AAP 2021 KAS 6, 13b)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải ở sơ sinh nam 17 ngày tuổi, màng nhĩ đỏ, phồng, mất mốc, không thủng",
+     "Sốt ở sơ sinh 8–21 ngày (nách 38,2 °C đêm qua ở nhà, hậu môn 38,0–38,1 °C tại phòng khám), bị che bởi paracetamol tự cho 5 ngày",
+     "Chưa loại trừ nhiễm khuẩn xâm lấn: nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu (chỉ điểm viêm tăng: ANC 6.320/mm³, CRP 22 mg/L, PCT 0,72 ng/mL)",
+     "Chưa có biến chứng xương chũm hay nội sọ (không sưng sau tai, thóp phẳng, trương lực tốt)",
+     "Tiếp xúc hóa chất gia dụng; paracetamol và vitamin D3/K2 thực phẩm chức năng tự dùng: không có bằng chứng trong tài liệu đã tải là nguyên nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: lý do khám (bú kém, quấy), diễn tiến bú và tã ướt, dấu hiệu nguy hiểm, SỐT (hỏi số đo cụ thể ở nhà trong 24 giờ), THUỐC đã cho (tên, hàm lượng, mL, số lần, lần cuối), thực phẩm chức năng, tai (chảy mủ, sưng sau tai), tiền sử sinh, tiếp xúc. Mẹ giấu cơn sốt 38,2 °C vì nghĩ phải 38,5 °C mới là sốt: phải hỏi số đo.",
+     "Khám: đo hậu môn hoặc nách bằng nhiệt kế điện tử; thóp, cổ, sau tai; soi tai hai bên (QĐ 5643/2015 mục 3.1.2: nội soi tai); mũi họng; tim phổi, bụng, rốn, da, thần kinh. Bé trông khỏe, không có dấu hiệu nào nổi bật: dấu hiệu nặng ở sơ sinh kín đáo (bú kém là dấu hiệu nguy hiểm theo WHO 2013 mục 3.6).",
+     "Vì sao là viêm tai giữa cấp: màng nhĩ phải đỏ, phồng, đục, mất mốc (QĐ 5643/2015 mục 3.1.1); sau viêm mũi họng (mục 2: đường vào chủ yếu qua vòi Eustache). Không điển hình: không đau tai biểu hiện bằng giật tai, không chảy mủ, không sốt cao, lý do khám là bú kém và nghi tác dụng phụ thuốc. Không tài liệu đã tải mô tả riêng AOM ở sơ sinh; tiêu chuẩn AAP 2013 (màng nhĩ phồng) chỉ áp dụng cho trẻ 6 tháng–12 tuổi, nên chẩn đoán ở bé này dựa trên QĐ 5643/2015 và hình ảnh soi tai.",
+     "Vì sao đây là sốt ở sơ sinh, không phải 'viêm tai lành tính': hậu môn ≥ 38,0 °C ghi nhận ở nhà trong 24 giờ hoặc tại cơ sở (AAP 2021 phần đối tượng); NICE NG143 mục 1.2.12 từ 38 °C ở trẻ dưới 3 tháng là nguy cơ cao; WHO 2013 mục 3.6 nhiệt độ > 38 °C và bú kém là dấu hiệu nguy hiểm. AAP 2021: chẩn đoán viêm tai giữa không loại bé khỏi quy trình sốt sơ sinh (phần đối tượng, mục 3 'Otitis media').",
+     "Vì sao không viêm xương chũm: thiếu dấu hiệu then chốt là sưng đau sau tai, vành tai đẩy ra trước, sốt cao (WHO 2013 mục 6.7.1). Vì sao chưa loại viêm màng não: lâm sàng không loại được ở sơ sinh; cần dịch não tủy (AAP 2021 KAS 4; NICE NG143 mục 1.5.4). WHO 2013 mục 6.7.1: viêm xương chũm không điều trị có thể dẫn đến viêm màng não và áp xe não.",
+     "Vì sao không làm X-quang xương chũm, CT sọ, nhĩ lượng đồ, thính lực đồ: bé không có dấu hiệu biến chứng (AWaRe 2022: hình ảnh không cần trừ khi nghi biến chứng); sổ mâu thuẫn mục 5. Chỉ điểm viêm và cấy máu/nước tiểu/dịch não tủy là cần thiết vì sốt sơ sinh, không vì viêm tai.",
+     "Vì sao chuyển nhập viện ngay: nhóm 8–21 ngày có nguy cơ nhiễm khuẩn xâm lấn cao nhất; AAP 2021 KAS 1, 2, 4, 5, 6: nước tiểu, cấy máu, dịch não tủy, kháng sinh tiêm, theo dõi tại bệnh viện; NICE NG143 mục 1.5.3–1.5.6 cùng hướng; WHO 2013 mục 3.8: nhập viện."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh tiêm kinh nghiệm: ba cách đều đúng (sổ mâu thuẫn NH-1378): WHO 2013 (mục 3.8, 3.14): ampicillin 50 mg/kg mỗi 8 giờ + gentamicin 7,5 mg/kg một lần/ngày (tuần 2–4 tuổi); AAP 2021 Bảng 3: ampicillin + ceftazidime hoặc gentamicin 4 mg/kg mỗi 24 giờ; NICE NG143 mục 1.5.7: cefotaxim hoặc ceftriaxon + ampicillin hoặc amoxicillin. Gentamicin 4 mg/kg thận trọng hơn về độc tính; ca không yêu cầu tính liều vì thuốc do bệnh viện chọn.",
+     "Thuốc hạ sốt: WHO 2013 mục 3.10.4 không dùng paracetamol để hạ sốt ở trẻ nhỏ; NICE NG143 mục 1.6.2–1.6.6 chỉ khi khó chịu và không để hạ số đo. Cả hai cùng bảo ngưng việc cho đều đặn như mẹ đang làm (sổ mâu thuẫn NH-1378 mục 3). Liều paracetamol 36 mg × 3 lần/ngày mẹ cho: không có liều tham chiếu cho sơ sinh dưới 1 tháng trong tài liệu đã tải.",
+     "Viêm tai giữa: điều trị bằng chính kháng sinh tiêm nội viện; thời gian điều trị riêng cho AOM sơ sinh: không có trong tài liệu đã tải (WHO 2013 mục 3.8: nhiễm khuẩn nặng sơ sinh điều trị ít nhất 7–10 ngày; AAP 2021 KAS 7a: ngưng khi cấy âm 24–36 giờ và không còn lý do nằm viện, trong đó nhiễm khuẩn khác cần điều trị như viêm tai là một lý do). Chích rạch màng nhĩ: không làm tại phòng khám (sổ mâu thuẫn mục 4: chấm a).",
+     "Trả lời lo lắng của mẹ: dựa vào dữ kiện (màng nhĩ viêm, sốt, chỉ điểm viêm tăng) rằng bé có bệnh rõ ràng; không xác nhận cũng không phủ nhận tác dụng phụ vitamin vì tài liệu không có dữ liệu; paracetamol ngưng theo WHO/NICE.",
+     "Hóa chất gia dụng: tránh xịt, lau bằng nước tẩy đặc trong phòng bé (lời dặn thực hành, không có trong tài liệu đã tải); không dùng làm lý do hoãn nhập viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh tiêm kinh nghiệm (kê tại khoa nhi, sau khi lấy cấy máu, nước tiểu, dịch não tủy)",
+      "ham_luong": "Ampicillin + gentamicin, hoặc ampicillin + ceftazidime/cefotaxim, hoặc ceftriaxon/cefotaxim + ampicillin/amoxicillin",
+      "lieu": "Cân 3,40 kg. WHO 2013 mục 3.14: ampicillin 50 mg/kg (170 mg) mỗi 8 giờ + gentamicin 7,5 mg/kg (25,5 mg) một lần/ngày ở tuần 2–4 tuổi. AAP 2021 Bảng 3: ampicillin 150 mg/kg/ngày chia mỗi 8 giờ + ceftazidime 150 mg/kg/ngày chia mỗi 8 giờ hoặc gentamicin 4 mg/kg/liều (13,6 mg) mỗi 24 giờ. NICE NG143 mục 1.5.7: không nêu liều.",
+      "duong": "Tiêm tĩnh mạch (hoặc bắp theo WHO)",
+      "thoi_diem": "Ngay sau khi lấy bệnh phẩm, tại bệnh viện",
+      "so_ngay": "Do khoa nhi quyết: ngưng sau 24–36 giờ nếu cấy âm và bé khỏe, không còn bệnh khác cần điều trị (AAP 2021 KAS 7a); WHO 2013 mục 3.8: nhiễm khuẩn nặng ít nhất 7–10 ngày",
+      "ghi_chu": "Sổ mâu thuẫn NH-1378 mục 1: ghi cả ba cách, gentamicin cả hai con số, 4 mg/kg thận trọng hơn. Không kê kháng sinh uống tại phòng khám."
+     },
+     {
+      "thuoc": "Paracetamol siro 120 mg/5 mL (mẹ đang cho)",
+      "ham_luong": "36 mg/lần (1,5 mL), 3 lần/ngày",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ lúc khám",
+      "so_ngay": "Ngưng",
+      "ghi_chu": "WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.4–1.6.5. Liều an toàn cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Vitamin D3 + K2 thực phẩm chức năng",
+      "ham_luong": "1 giọt/ngày, hàm lượng không rõ",
+      "lieu": "Mẹ đã tự ngưng 2 ngày; trong lúc nhập viện không cho",
+      "duong": "Uống",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Liều vitamin D thường quy cho sơ sinh đủ tháng và tác dụng phụ của sản phẩm: không có trong tài liệu đã tải (WHO 2013 mục 3.11 chỉ nêu vitamin D 400 IU cho trẻ non tháng đang bú đủ). Đưa lọ vitamin cho bác sĩ khoa nhi xem nhãn."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay vào khoa nhi/sơ sinh của bệnh viện, không chờ, không cho paracetamol trên đường đi; giữ ấm bé, da kề da và cho bú mẹ nếu bé còn bú (WHO 2013 mục 3.10.1).",
+     "Mang theo: lọ vitamin, chai siro paracetamol, sổ khám thai, giấy ra viện lúc sinh, ghi giờ cho thuốc lần cuối (6 giờ sáng).",
+     "Trên đường đi, nếu bé li bì khó đánh thức, co giật, tím, thở rên, thở trên 60 l/p, thóp phồng, nhiệt độ < 35,5 °C thì gọi cấp cứu 115 (WHO 2013 mục 3.6).",
+     "Không xịt thuốc diệt muỗi, không lau nhà bằng nước tẩy đặc khi bé ở trong phòng (lời dặn thực hành, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau ra viện (bé 27 ngày tuổi)",
+   "tiep_don": "Mẹ mang bé đến tái khám sau ra viện. Cân 3,78 kg. Nhiệt độ nách 36,9 °C, mạch 138 l/p, nhịp thở 44 l/p, SpO₂ 99%. Bé tỉnh, hồng, bú tốt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé 27 ngày tuổi đã hết sốt, bú tốt, tăng 380 g, cấy máu và dịch não tủy âm, màng nhĩ hết phồng đỏ: không còn lý do nằm viện, kháng sinh tiêm 7 ngày đã xong (AAP 2021 KAS 7a: ngưng kháng sinh và cho ra viện khi cấy âm, bé khỏe hoặc đang tốt lên, không còn bệnh cần điều trị). Nhập viện lại chỉ làm bé bị chích lấy máu thêm, mẹ lo lắng thêm, chi phí và nguy cơ lây chéo trong bệnh viện, mà không đổi điều trị.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên vì mẹ lo tràn dịch tai còn lại là không cần: dịch sau màng nhĩ còn ở 60–70% trẻ sau 2 tuần và 40% sau 1 tháng, thường tự hết và không cần kháng sinh (AAP 2013, phần tràn dịch tai giữa kéo dài). Bé khám được tại đây, soi tai lại được; mẹ mất thêm một ngày đi lại. Chỉ nên hội chẩn tai mũi họng khi tràn dịch kéo dài hoặc khi có triệu chứng tái phát."
+   },
+   "loi_mo": "Bác sĩ ơi, bé ra viện hôm kia, giờ bú ngon, ngủ ngoan. Bác sĩ coi tai bé xem hết chưa, và cho em hỏi vitamin có cho tiếp không, thuốc hồi trước có để lại gì cho gan thận bé không ạ?",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 44,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau ra viện. Bé nhập viện 7 ngày: nước tiểu bằng thông tiểu, cấy máu, dịch não tủy đều âm tính; tiêm kháng sinh 7 ngày; hết sốt sau 2 ngày; ra viện hôm kia. Giấy ra viện: viêm tai giữa cấp tai phải, không thuốc uống về nhà, hẹn tái khám tai mũi họng hoặc nhi sau 1 tuần. Hôm nay bé 27 ngày tuổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tóm tắt nằm viện, ra viện"
+    },
+    {
+     "id": "bu_tot",
+     "noi_dung": "Bé bú lại 8–9 cữ/ngày, mỗi cữ 12–15 phút, bú cả hai bên, không nhả ra khóc. 6–7 tã ướt/ngày. Ngủ yên, không quấy đêm. Không sốt từ khi vào viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, ngủ, tã ướt, sốt"
+    },
+    {
+     "id": "thuoc_hien_tai",
+     "noi_dung": "Hiện không dùng thuốc gì. Mẹ cất lọ siro paracetamol, không cho từ khi vào viện. Lọ vitamin D3 + K2 chưa mở lại; mẹ hỏi có cho tiếp không, và hỏi 'thuốc có để lại hại gì cho gan thận bé không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hiện dùng, câu hỏi của mẹ về vitamin và thuốc",
+     "nhieu": 1
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không chảy mủ, không sưng sau tai, bé không quay đầu né tai phải khi bú. Mẹ không thấy bé giật mình khi có tiếng động bất thường (mẹ không rõ cách kiểm).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai sau điều trị"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không sốt, không li bì, không co giật, không tím, không nôn, thóp phẳng. Rốn đã rụng, khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Mẹ đã đổi sang lau sàn bằng nước thường, không xịt thuốc muỗi trong phòng bé nữa, dùng màn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc hóa chất đã chấm dứt"
+    },
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện ghi cân nặng khi ra viện 3,72 kg; kết quả cấy máu và dịch cuối cùng âm sau 48 giờ; không ghi kết quả thính học.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thông tin trên giấy ra viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,78 kg (tăng 380 g so với lúc 17 ngày). Nhiệt độ nách 36,9 °C. Tỉnh, hồng hào, khóc to, dỗ nín, niêm mạc ẩm.",
+     "k": 1,
+     "hien": "Cân 3,78 kg. Tỉnh, hồng, dỗ nín. Nách 36,9 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Sau tai hai bên không sưng, không đỏ. Không hạch.",
+     "k": 1,
+     "hien": "Thóp phẳng. Sau tai không sưng."
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch; màng nhĩ hết đỏ, hết phồng, hơi đục, thấy mờ cán búa, nhìn như còn dịch mỏng sau màng nhĩ; không thủng. Tai trái: màng nhĩ xám trong, mốc rõ. Mũi thông, không dịch. Họng không đỏ.",
+     "k": 1,
+     "hien": "Mũi thông. Họng không đỏ. Soi tai: hình ảnh tai phải đã khác lúc trước."
+    },
+    "tim": {
+     "a": "Tim đều, nhanh vừa phải, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhanh vừa phải.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không rút lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Rốn đã rụng, khô.",
+     "k": 0,
+     "hien": "Bụng mềm. Rốn khô."
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban. Chỗ tiêm đùi/tay không sưng đỏ.",
+     "k": 0,
+     "hien": "Da hồng, không ban."
+    },
+    "than_kinh": {
+     "a": "Trương lực tốt, phản xạ bú, Moro bình thường, đối xứng.",
+     "k": 0,
+     "hien": "Trương lực tốt, phản xạ bú tốt."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm",
+     "n": "Không cần: đã hết sốt, bú tốt, tăng cân; cấy máu đã âm. AAP 2021 KAS 7a: ngưng điều trị khi cấy âm, bé khỏe hoặc đang tốt lên và không còn lý do nằm viện; xét nghiệm lại thường quy: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm",
+     "n": "Không cần: như công thức máu."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Giấy ra viện: cấy máu âm sau 48 giờ",
+     "n": "Kết quả cuối cùng nên xin từ bệnh viện (AAP 2021 KAS 7a); không cần lấy lại."
+    },
+    "xq_schuller": {
+     "v": "n",
+     "r": "Không chụp",
+     "n": "Không có dấu hiệu biến chứng; AWaRe 2022: hình ảnh không cần trừ khi nghi biến chứng. Sổ mâu thuẫn mục 5."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không chụp",
+     "n": "Không có chỉ định: bé khỏe, thần kinh bình thường, dịch não tủy lần trước bình thường."
+    },
+    "nhi_luong": {
+     "v": "n",
+     "r": "Không làm hôm nay",
+     "n": "Tràn dịch tai giữa sau AOM rất thường gặp, 60–70% ở 2 tuần, 40% ở 1 tháng, 10–25% ở 3 tháng (AAP 2013, phần thảo luận về tràn dịch tai giữa kéo dài) và không cần điều trị kháng sinh khi không triệu chứng. Độ tin cậy nhĩ lượng đồ ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    "thinh_luc_do": {
+     "v": "n",
+     "r": "Không làm",
+     "n": "Không làm được ở sơ sinh; sàng lọc nghe sơ sinh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải ở sơ sinh đã điều trị khỏi lâm sàng sau 7 ngày kháng sinh tiêm nội viện; còn tràn dịch tai giữa phải không triệu chứng",
+     "ok": 1,
+     "n": "Hết sốt, bú tốt, tăng 380 g, màng nhĩ hết đỏ, hết phồng (QĐ 5643/2015 mục 3.1.1, 5.1: mủ dẫn lưu tốt, cơ thể đề kháng cao thì có xu hướng đi đến lành bệnh). Dịch còn lại sau màng nhĩ không triệu chứng gọi là tràn dịch tai giữa, không cần kháng sinh (AAP 2013, phần thảo luận về tràn dịch tai giữa kéo dài)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / viêm màng não sơ sinh",
+     "n": "Cấy máu, nước tiểu, dịch não tủy âm; hết sốt, thóp phẳng, bú tốt (giấy ra viện; AAP 2021 KAS 7a)."
+    },
+    {
+     "t": "Viêm xương chũm",
+     "n": "Không sưng đỏ sau tai, không sốt; đã được điều trị kháng sinh tiêm (WHO 2013 mục 6.7.1: sốt cao, sưng đau sau tai là dấu hiệu chẩn đoán)."
+    },
+    {
+     "t": "Viêm tai giữa tái phát hoặc không đáp ứng",
+     "n": "Không đau, không sốt, không chảy mủ, màng nhĩ hết phồng; WHO 2013 mục 6.7.2: tái khám, nếu còn đau hoặc chảy mủ mới điều trị tiếp."
+    },
+    {
+     "t": "Tác dụng phụ của paracetamol hoặc vitamin còn lại",
+     "n": "Bé khỏe, tăng cân, bú tốt, không dùng cả hai từ 10 ngày. Độc tính của hai thứ này ở sơ sinh: không có trong tài liệu đã tải; chức năng gan thận lúc nhập viện: không có trong giấy ra viện, không có chỉ định làm lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí: hết sốt (đo nách bằng nhiệt kế điện tử hoặc hậu môn), bú tốt trọn cữ, tăng cân, tã ướt đủ, màng nhĩ hết phồng và đỏ; ghi nhận chưa cần xét nghiệm lại",
+     "v": "c",
+     "n": "AAP 2021 KAS 7a(2): bé khỏe hoặc đang tốt lên (sốt, bú); QĐ 5643/2015 mục 3.1.1 (dấu hiệu màng nhĩ); WHO 2013 mục 6.7.2 (tái khám, kiểm đau/chảy mủ). Ngưỡng tăng cân bình thường ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thêm kháng sinh về nhà; giải thích dịch còn sau màng nhĩ thường gặp, không phải thất bại điều trị",
+     "v": "c",
+     "n": "AAP 2013 (phần tràn dịch tai giữa kéo dài): 60–70% có dịch sau 2 tuần, 40% sau 1 tháng, 10–25% sau 3 tháng; dịch không triệu chứng không cần kháng sinh, cần theo dõi thưa. WHO 2013 mục 6.7.2: chỉ điều trị thêm khi còn đau hoặc chảy mủ sau 5 ngày. Áp dụng AAP 2013 cho sơ sinh: tài liệu giới hạn trẻ 6 tháng–12 tuổi, nên đây là ngoại suy cẩn thận, ghi rõ."
+    },
+    {
+     "t": "Hẹn soi tai lại để xem dịch tai giữa hết chưa (ví dụ sau khoảng 4 tuần), sớm hơn nếu có sốt, quấy, bú kém, chảy tai",
+     "v": "c",
+     "n": "Mốc 4 tuần chọn theo số liệu 'khoảng 1 tháng, 40% còn dịch' (AAP 2013); AAP chỉ nêu 'theo dõi thưa', mốc cụ thể cho sơ sinh: không có trong tài liệu đã tải. Nếu tràn dịch kéo dài hoặc có triệu chứng tái phát: hội chẩn tai mũi họng (AAP 2013 Bảng 5 chú thích; QĐ 5643 mục 6 nạo VA khi viêm tai tái phát, không áp dụng cho sơ sinh)."
+    },
+    {
+     "t": "Trả lời câu hỏi của mẹ về thuốc: không cho paracetamol hạ sốt đều đặn; không cho thuốc, vitamin, thực phẩm chức năng nào cho bé dưới 1 tháng khi chưa hỏi bác sĩ; vitamin D3/K2: giữ hay ngưng đều được, đưa lọ cho bác sĩ xem nhãn",
+     "v": "a",
+     "n": "WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.4–1.6.5 (sổ mâu thuẫn NH-1378 mục 3). Liều vitamin D và an toàn thực phẩm chức năng cho sơ sinh đủ tháng: không có trong tài liệu đã tải; do đó giữ hoặc ngưng chấm a."
+    },
+    {
+     "t": "Dặn dấu hiệu đến ngay: nhiệt độ nách hoặc hậu môn ≥ 38,0 °C, hoặc < 35,5 °C; bú kém hoặc bỏ bú; li bì; co giật; thở nhanh ≥ 60 l/p, rên, tím; chảy mủ tai, sưng đỏ sau tai",
+     "v": "c",
+     "n": "AAP 2021 phần đối tượng (≥ 38,0 °C); NICE NG143 mục 1.2.12; WHO 2013 mục 3.6 (bú kém, li bì, thở ≥ 60 l/p, rên, tím, > 38 °C, < 35,5 °C); sưng sau tai: WHO 2013 mục 6.7.1; chảy mủ tai: mục 6.7.2."
+    },
+    {
+     "t": "Không chụp X-quang xương chũm, CT sọ, không làm nhĩ lượng đồ hay thính lực đồ hôm nay; không cấy máu, không công thức máu lại",
+     "v": "c",
+     "n": "AWaRe 2022: hình ảnh không cần trừ khi nghi biến chứng (sổ mâu thuẫn mục 5: chụp thường quy chấm a). Bé khỏe nên không có lý do xét nghiệm lại (AAP 2021 KAS 7a)."
+    },
+    {
+     "t": "Xin giấy ra viện đầy đủ (kết quả cấy cuối, thuốc, thời gian điều trị) lưu hồ sơ",
+     "v": "c",
+     "n": "AAP 2021 KAS 7a (kết quả cấy làm căn cứ ngưng điều trị)."
+    },
+    {
+     "t": "Cho bé uống thêm kháng sinh (amoxicillin…) vài ngày 'cho chắc'",
+     "v": "w",
+     "n": "Không còn triệu chứng; dịch còn lại không cần kháng sinh (AAP 2013); WHO 2013 mục 6.7.2: chỉ khi còn đau, chảy mủ. Liều amoxicillin uống cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện lại hoặc làm lại cấy máu, chọc dò tủy để 'chắc chắn'",
+     "v": "w",
+     "n": "AAP 2021 KAS 7a: không còn lý do nằm viện khi bé khỏe và cấy âm."
+    },
+    {
+     "t": "Chụp X-quang xương chũm thường quy theo QĐ 5643",
+     "v": "a",
+     "n": "Sổ mâu thuẫn mục 5: QĐ 5643/2015 mục 4.3.3 nên chụp trong lúc dùng kháng sinh; AWaRe 2022 không cần nếu không nghi biến chứng. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Cho paracetamol hoặc ibuprofen thường quy 'phòng sốt'",
+     "v": "w",
+     "n": "WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.5; WHO 2013 mục 8.7.1: dưới 3 tháng chỉ dùng paracetamol (không NSAID). Sổ mâu thuẫn: chọn bên thận trọng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải ở sơ sinh đã khỏi lâm sàng sau 7 ngày kháng sinh tiêm nội viện",
+     "Tràn dịch tai giữa phải còn lại, không triệu chứng, thường gặp sau AOM",
+     "Không có nhiễm khuẩn xâm lấn (cấy máu, nước tiểu, dịch não tủy âm); không có biến chứng xương chũm",
+     "Thuốc/vitamin tự dùng trước đây đã ngưng; hóa chất gia dụng đã loại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: giấy ra viện (kết quả cấy, thời gian kháng sinh), bú và tã ướt, sốt, triệu chứng tai, dấu hiệu nguy hiểm, thuốc hiện dùng; khám: nhiệt độ, cân (so với 3,40 kg), thóp, sau tai, SOI TAI (cả hai bên), mũi họng, tim phổi bụng.",
+     "Tiêu chí xác nhận khỏi lâm sàng: hết sốt, bú tốt trọn cữ, tăng cân (3,40 → 3,78 kg), màng nhĩ hết đỏ, hết phồng (QĐ 5643/2015 mục 3.1.1, 5.1; AAP 2021 KAS 7a: bé khỏe hoặc đang tốt lên). Không cần xét nghiệm lại.",
+     "Dịch còn sau màng nhĩ: gặp ở 60–70% trẻ sau 2 tuần, 40% sau 1 tháng, 10–25% sau 3 tháng; dịch không triệu chứng không cần kháng sinh (AAP 2013, phần thảo luận). AAP 2013 áp dụng cho trẻ 6 tháng–12 tuổi; áp dụng cho bé này là ngoại suy, ghi rõ.",
+     "Dấu hiệu tái phát hoặc biến chứng cần nghĩ: sốt lại, bú kém, chảy mủ tai (WHO 2013 mục 6.7.2), sưng sau tai (mục 6.7.1), dấu màng não (QĐ 5643 mục 5.2).",
+     "Khi nào kiểm tra thêm dù đã khỏi: soi tai lại sau khoảng 4 tuần (mốc chọn theo dữ liệu 1 tháng, không có mốc riêng cho sơ sinh) hoặc khi có triệu chứng; nhĩ lượng đồ, thính lực: không có trong tài liệu đã tải cho sơ sinh, quyết định theo chuyên khoa tai mũi họng nếu dịch kéo dài."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh về nhà vì đã điều trị xong tại viện; WHO 2013 mục 6.7.2 chỉ điều trị thêm nếu còn đau hoặc chảy mủ; AAP 2013 không điều trị tràn dịch không triệu chứng. Chích rạch màng nhĩ, corticoid toàn thân: không đặt ra (sổ mâu thuẫn mục 4).",
+     "Hình ảnh: không chụp X-quang xương chũm hay CT thường quy (AWaRe 2022; sổ mâu thuẫn mục 5); chụp theo QĐ 5643 chấm chấp nhận.",
+     "Lời khuyên về thuốc: ngưng paracetamol đều đặn (WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.5); hỏi bác sĩ trước khi cho bất kỳ thuốc hoặc thực phẩm chức năng nào cho bé dưới 1 tháng. An toàn vitamin D3/K2 của sản phẩm: không có trong tài liệu đã tải.",
+     "Tái khám: soi tai lại khoảng 4 tuần (mốc chọn); nếu bình thường thì theo dõi sức khỏe thường quy. Đến ngay khi có dấu hiệu nguy hiểm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc uống",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Kháng sinh tiêm 7 ngày đã hoàn tất tại viện. Không kháng sinh uống, không thuốc nhỏ tai, không paracetamol (WHO 2013 mục 6.7.2; mục 3.10.4; AAP 2013). Vitamin D3/K2 giữ hoặc ngưng đều được (không có liều chuẩn cho sơ sinh đủ tháng trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Bé bú tốt, ngủ ngoan là dấu hiệu khỏi bệnh; vẫn cân bé khi tái khám.",
+     "Soi tai lại sau khoảng 4 tuần để xem dịch sau màng nhĩ hết chưa; dịch còn lại ở nhiều trẻ, không phải là bệnh nặng thêm.",
+     "Đến ngay khi: nhiệt độ ≥ 38,0 °C hoặc < 35,5 °C, bú kém bỏ bú, li bì, co giật, thở nhanh rên, tím, chảy mủ tai, sưng đỏ sau tai (WHO 2013 mục 3.6, 6.7.1, 6.7.2; AAP 2021).",
+     "Không tự cho thuốc, vitamin, thuốc dân gian; không dùng paracetamol đều đặn; lau nhà bằng nước thường, không xịt thuốc muỗi trong phòng bé (lời dặn thực hành, không có trong tài liệu đã tải).",
+     "Không đưa vật vào tai bé, không nhỏ thuốc vào tai khi chưa có chỉ định (WHO 2013 mục 6.7.2: không để gì vào tai giữa các lần làm sạch)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé tái khám theo hẹn lúc khoảng 7 tuần tuổi: màng nhĩ hai bên xám trong, thấy mốc, hết dịch; tăng cân đều; chưa sốt lại. Mẹ ghi sổ mọi thuốc cho bé và chỉ cho khi có chỉ định.",
+ "nhieu": [
+  "Tự cho paracetamol 5 ngày: che cơn sốt, làm số nách 37,5 °C sai lạc; mẹ chỉ kể khi được hỏi thẳng, chỉ khai số đo 38,2 °C khi được hỏi cụ thể.",
+  "Lý do thật: nghi ngờ tác dụng phụ của thuốc và vitamin; mẹ ít để ý bú kém là dấu hiệu bệnh. Tài liệu không có dữ liệu về tác dụng phụ sản phẩm cụ thể.",
+  "Hóa chất gia dụng (nước tẩy, thuốc xịt muỗi) là khởi phát mẹ gán cho; không có bằng chứng trong tài liệu đã tải về mối liên quan."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh 8–21 ngày có sốt ≥ 38 °C (nách theo NICE, hậu môn theo AAP) vào quy trình sốt sơ sinh dù đã thấy ổ viêm tai: nhập viện, nước tiểu thông tiểu, cấy máu, dịch não tủy, kháng sinh tiêm (AAP 2021 KAS 1–6; NICE NG143 mục 1.5.3–1.5.6).",
+  "Thuốc hạ sốt tự cho che số đo: luôn hỏi 'đã cho thuốc gì, mấy mL, mấy lần, lần cuối lúc nào' và hỏi số đo nhiệt độ cụ thể ở nhà trong 24 giờ.",
+  "Biểu hiện AOM ở sơ sinh không điển hình: bú kém, quấy, không giật tai, không chảy mủ; phải soi tai. Không dùng tiêu chuẩn AAP 2013 (6 tháng–12 tuổi) cho sơ sinh; không tài liệu đã tải mô tả riêng AOM sơ sinh.",
+  "Khi bé đã khỏi: tiêu chí xác nhận khỏi (hết sốt, bú tốt, tăng cân, màng nhĩ hết phồng); dịch tai giữa còn lại thường gặp, không phải thất bại điều trị, không kháng sinh; soi tai lại sau khoảng 1 tháng.",
+  "Trả lời lo lắng 'tác dụng phụ của thuốc' bằng dữ kiện và nói rõ giới hạn tài liệu, không trấn an quá mức."
+ ],
+ "diem_nho": [
+  "AOM: màng nhĩ nề đỏ, mất tam giác sáng, cán búa; nặng hơn thì phồng (QĐ 5643/2015 mục 3.1.1).",
+  "Sốt ở sơ sinh 8–21 ngày: cấy máu (mạnh), nước tiểu, chọc dò tủy, kháng sinh tiêm, theo dõi tại bệnh viện (AAP 2021 KAS 1–6).",
+  "Dấu hiệu nguy hiểm sơ sinh: bú kém, li bì, thở ≥ 60 l/p, rên, rút lõm nặng, > 38 °C, < 35,5 °C, tím (WHO 2013 mục 3.6).",
+  "Không dùng paracetamol để kiểm soát sốt ở trẻ nhỏ (WHO 2013 mục 3.10.4); NICE: không để hạ số đo (NG143 mục 1.6.5).",
+  "Tràn dịch tai giữa sau AOM: 60–70% ở 2 tuần, 40% ở 1 tháng, 10–25% ở 3 tháng; không triệu chứng thì không kháng sinh (AAP 2013).",
+  "Viêm xương chũm: sốt cao và sưng đau sau tai (WHO 2013 mục 6.7.1); biến chứng cấp phổ biến nhất của AOM (QĐ 5643 mục 5.2)."
+ ],
+ "nguon": [
+  "QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em mục 2, 3.1.1, 3.1.2, 3.2, 4.1, 4.3.1–4.3.3, 5.1, 5.2, 6 (tr. 210–214)",
+  "AAP/AAFP 2013 – The diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: phạm vi (6 tháng–12 tuổi), phần thảo luận tràn dịch tai giữa kéo dài (tr. ~e984)",
+  "AAP 2021 – Pediatrics 148(2):e2021052228, Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old – TL-0261 – ĐÃ ĐỌC: phần đối tượng (mục 3 otitis media), Bảng 1 KAS 1–7, Bảng 3, Hình 2 chú thích",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.3–1.5.7, 1.6.2–1.6.6",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6, 3.8, 3.10.1, 3.10.4, 3.11, 3.14 (tr. 69–72), 6.7.1, 6.7.2, 8.7.1",
+  "WHO AWaRe 2022 – The WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: viêm tai giữa cấp, phần Imaging (hình ảnh không cần trừ khi nghi biến chứng)",
+  "Không có trong tài liệu đã tải: biểu hiện và tiêu chuẩn chẩn đoán AOM riêng cho sơ sinh dưới 1 tháng; thời gian kháng sinh cho AOM sơ sinh; liều paracetamol, amoxicillin uống cho sơ sinh dưới 1 tháng; liều vitamin D thường quy cho sơ sinh đủ tháng và tác dụng phụ vitamin D3/K2 thực phẩm chức năng; độc tính hít nước tẩy, thuốc xịt muỗi; mốc soi tai lại cho sơ sinh; độ tin cậy nhĩ lượng đồ ở sơ sinh; khoảng tham chiếu bạch cầu, Hb, dịch não tủy ở sơ sinh."
+ ],
+ "ghi_chu_bien_tap": [
+  "25/10/2026 – viết: Sonnet. Bản 1. Đặc tả sổ cái: sơ sinh nam 17 ngày, 2 lượt, đỡ hoàn toàn, tự uống thuốc 5 ngày (paracetamol), nguồn lực đầy đủ, khởi phát tiếp xúc hóa chất, vitamin thực phẩm chức năng, lý do thật nghi tác dụng phụ thuốc, ổn định khỏi bệnh. Lượt 1 nhập viện, lượt 2 tái khám sau ra viện.",
+  "Tài liệu đã đọc: TL-0130 (Viêm tai giữa cấp), TL-0271, TL-0261, TL-0262, TL-0250, TL-0018.",
+  "Mâu thuẫn dùng (đã có trong sổ, không ghi lại): đo nhiệt độ <4 tuần (NH-0217); kháng sinh kinh nghiệm sơ sinh sốt và liều gentamicin (NH-1378); thuốc hạ sốt sơ sinh (NH-1378); chích rạch và chụp X-quang xương chũm (NH-0355). Chọn bé 17 ngày để tránh mâu thuẫn 22–28 ngày. Không có mâu thuẫn mới.",
+  "Chỗ thiếu tài liệu: xem mục cuối của nguon."
+ ]
+}
