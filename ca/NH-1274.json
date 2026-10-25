@@ -1,0 +1,843 @@
+{
+ "ma_ca": "NH-1274",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 25/10/2026, soát nguồn với kho tài liệu đã tải",
+ "benh": "NH_cham_tang_can_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Chậm tăng cân / suy dinh dưỡng nhẹ",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh lý nền",
+   "Lao"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục (của cha mẹ; bà nội cho là làm sữa mẹ \"nóng\")",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Huy",
+  "tuoi": 0.07,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.15,
+  "chieu_cao": 52,
+  "xung_ho": "Bé trai 24 ngày tuổi, chưa nói được, chỉ khóc, ngủ, bú. Bà nội (bà Hoa, 62 tuổi) trả lời hầu hết câu hỏi, gọi bác sĩ là 'bác sĩ', xưng 'bà'. Mẹ bé (chị Lan, 26 tuổi, sinh con đầu lòng) ngồi cạnh bế bé, gọi bác sĩ là 'bác sĩ', xưng 'em', chỉ nói nhỏ khi được hỏi thẳng.",
+  "tinh_cach": "Bà Hoa 62 tuổi, bán hàng tạp hóa, nói to, tự tin, tin kiêng cữ truyền miệng, thương cháu nhưng không thích bị bác bỏ thẳng; dịu lại khi được ghi nhận công chăm cháu và giải thích bằng việc nhìn thấy được (cân, cữ bú). Chị Lan mệt, thiếu ngủ, mất tự tin vì 'ít sữa', sợ mẹ chồng, hay lo xa; nói thật khi được hỏi riêng nhẹ nhàng.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bà nội nói thay mẹ và bé, khẳng định 'bé bú no, ngủ ngoan, chỉ nóng trong, xin thuốc bổ cho lên cân', phủ nhận 'có cho thuốc gì'. Bà chỉ kể bình sữa, paracetamol, kiêng cữ khi bác sĩ hỏi cụ thể từng việc (ngoài sữa mẹ bé uống gì, bà làm gì khi bé quấy, nhà có kiêng cữ gì). Mẹ chỉ kể số cữ bú thật, chuyện quan hệ vợ chồng và nỗi lo bệnh lây khi bác sĩ hỏi thẳng chị, nhẹ nhàng, không trách.",
+  "nguoi_nha": "Bà nội (bà Hoa) và mẹ bé (chị Lan) đi cùng. Hầu hết câu hỏi do bà trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng chị Lan thì chị trả lời nhỏ (cũng nguoi_noi = nguoi_nha). Bé chỉ khóc (không có benh_nhan nói).",
+  "ten_nguoi_nha": "Bà nội (bà Hoa) và mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f0c8a8",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#f5e6a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6b48f",
+    "toc": "#b9b4ae",
+    "kieuToc": "bui",
+    "ao": "#7a5a8a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sơ sinh 24 ngày tuổi, chậm lên cân, hay quấy",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết, điện giải, men gan, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi, và không làm cấy, TSH, Xpert, Mantoux/IGRA, định lượng paracetamol máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 24 ngày tuổi, bà nội và mẹ bế đến buổi sáng vì bà thấy bé hay quấy, 'ăn ít, chậm lên cân'. Cân nặng 3,15 kg, dài 52 cm. Sinh hiệu: nhiệt (nách) 36,8 °C, mạch 124 l/p, nhịp thở 44 l/p, SpO₂ 98%. Bé tỉnh, khóc to khi đói.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy 24 ngày tuổi tỉnh, mút khỏe, không dấu hiệu nguy hiểm, men gan, CRP, nước tiểu bình thường; theo WHO 2023 (A2c) trẻ < 6 tháng nguy cơ chậm lớn không có dấu hiệu nguy hiểm, bệnh nặng, phù hay sụt cân gần đây thì điều trị ngoại trú, và QĐ 2989/2026 (III.2.1a, tr. 11) chỉ nhập viện khi có các dấu hiệu đó. Nằm viện làm chị Lan xa bé và xa gia đình đúng lúc cần luyện bú, bà nội càng tin bé 'bệnh nặng, lây', còn nguyên nhân (cách cho bú, bình sữa, paracetamol) vẫn nằm ở nhà. Nhập viện chỉ hợp lý khi gia đình không thể tái khám sau 2 ngày hoặc quan sát cữ bú cho thấy bé không bú được (QĐ 2989 III.2.1c, tr. 11).",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi vì 'chậm lên cân' là quá tay: không có dấu hiệu nguy hiểm (WHO 2013 mục 3.6, tr. 52), bé 24 ngày không sốt, SpO₂ 98%, không tím, không vàng da, chưa có chỉ định nhập viện nào (QĐ 2989 III.2.1a, tr. 11). Chị Lan và bà nội đi xa, chờ đông, bé đói thêm nhiều giờ khi chưa được hỗ trợ bú, trong khi việc cần làm ngay (quan sát cữ bú, chỉnh ngậm vú, ngưng paracetamol, bổ sung sữa bằng cốc) làm được tại phòng khám. Chỉ chuyển khi men gan, CRP hay nước tiểu bất thường hoặc bé xấu đi."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng cháu nội tôi 24 ngày mà cứ nóng trong, quấy khóc, ăn ít không lên cân. Bác sĩ cho nó thuốc bổ cho mau lên cân. Nó bú no lắm, tôi có cho thuốc gì đâu.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà nội: cháu 24 ngày tuổi, bà thấy bé 'nóng trong', hay quấy khóc, 'ăn ít lên cân', xin bác sĩ cho thuốc bổ cho lên cân. Bà nói bé bú no, ngủ ngoan, ở nhà không cho thuốc gì.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời của người trả lời thay)"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường, 39 tuần, nặng 3,2 kg, dài 50 cm; xuất viện ngày thứ 3 (cân 3,05 kg); đã tiêm BCG và viêm gan B liều sơ sinh; sàng lọc sơ sinh (lấy máu gót chân) mẹ cầm giấy ghi 'bình thường'. Không vàng da kéo dài, không nằm viện lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử chu sinh (loại trừ bệnh lý nền)"
+    },
+    {
+     "id": "can_cu",
+     "noi_dung": "Sổ khám sau sinh: ngày 14 cân 3,10 kg. Bà vẫn nói 'bé lên cân đều'. Hôm nay 3,15 kg: sau 10 ngày chỉ tăng 50 g, 24 ngày tuổi vẫn nhẹ hơn lúc sinh 50 g.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tốc độ tăng cân (PB 2013 mục 10.1.1, tr. 296)"
+    },
+    {
+     "id": "bu_me",
+     "noi_dung": "Chị Lan nói nhỏ: từ ngày 13 bé chỉ bú mẹ 4–5 cữ/ngày, mỗi cữ vài phút, 'không bú đêm để mẹ ngủ'; bú xong bé hay khóc, nhả vú. Bà nói 'bé bú no'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà trả lời 'bú no'. Chỉ khi bác sĩ hỏi thẳng chị Lan số cữ bú, cữ đêm, mỗi cữ bú bao lâu, hoặc quan sát một cữ bú.",
+     "k": 1,
+     "y": "Số cữ, cữ đêm, thời gian bú (QĐ 2341 Bảng kiểm 5)",
+     "nhieu": 1
+    },
+    {
+     "id": "binh_sua",
+     "noi_dung": "Từ ngày 13 bà cho bé uống bình sữa công thức 5 cữ/ngày, mỗi cữ khoảng 50 ml, khi mẹ nghỉ; bà pha theo muỗng ghi trên hộp. Bé còn ngậm núm giả.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không kể. Chỉ khi hỏi 'ngoài sữa mẹ bé uống gì, bú bình hay núm giả không, ai cho'.",
+     "k": 1,
+     "y": "Bình sữa, núm giả làm giảm bú mẹ (PB 2013, tr. 296)"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Ngày thứ 12 sau sinh vợ chồng chị Lan quan hệ trở lại; bà nội biết, bảo 'sữa mẹ bị nóng, bú vào bé sinh bệnh'. Bà bắt chị vắt bỏ sữa 3 ngày (ngày 13–15), sau đó cho bú ngắn, thưa; từ đó vú mềm, ít sữa. Chị Lan xấu hổ, tin mình 'làm hại sữa'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà nói 'kiêng cữ' chung chung. Chị Lan chỉ kể khi được hỏi riêng nhẹ nhàng: bé bú ít đi từ lúc nào, gia đình có kiêng gì, chuyện gì xảy ra trước đó. Bà thừa nhận khi hỏi cụ thể về kiêng cữ sau sinh.",
+     "k": 1,
+     "y": "Yếu tố khởi phát (niềm tin 'sữa nóng') dẫn tới bú ít",
+     "nhieu": 1
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "9 ngày nay (từ ngày 15) mỗi lần bé quấy bà cho uống 1/2 gói paracetamol 150 mg (75 mg), 4 lần/ngày cách khoảng 6 giờ, lần cuối 6 giờ sáng nay. Chưa ai đo nhiệt kế; bà sờ trán thấy 'nóng'. Không thuốc nào khác.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà nói 'không cho thuốc gì'. Chỉ khi hỏi cụ thể có cho thuốc hạ sốt, paracetamol, thuốc gói, hoặc 'bé quấy thì bà làm gì', 'lần cuối uống lúc nào'.",
+     "k": 1,
+     "y": "Thuốc tự cho: paracetamol quá liều lặp lại, che sốt (PB 2013 mục 3.10.4)"
+    },
+    {
+     "id": "tieu_phan",
+     "noi_dung": "Mỗi ngày chỉ 4–5 tã ướt, nước tiểu vàng sẫm; phân vàng sệt 1 lần/ngày, ít. Không phân bạc màu, không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước tiểu thấp là dấu bú không đủ (PB 2013, tr. 296)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không sốt đo được, không ho, không khò khè, không thở nhanh, không nôn vọt, ọc sữa rất ít; không vã mồ hôi hay tím khi bú; không vàng da; ngủ nhiều nhưng đánh thức được, khóc khỏe khi đói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nhiễm khuẩn, tim bẩm sinh, bệnh nền"
+    },
+    {
+     "id": "lao",
+     "noi_dung": "Trong nhà (ông, bà, bố, mẹ, anh Hai 4 tuổi) không ai ho kéo dài, sốt về chiều, sụt cân; chưa ai điều trị lao. Nhà bên có cháu 2 tuổi mới được chẩn đoán lao; chị Lan chỉ nói chuyện ở cổng, chưa bế cháu, bé Huy chưa sang nhà đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc nguồn lây lao (QĐ 162/2024 mục 3.4.1c)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị Lan nhờ bà đưa đi khám vì sợ bé gầy là lao hay bệnh gì lây, sẽ lây cho anh Hai và ông nội. Bà gạt đi: 'con dâu nó nhát'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ khi bác sĩ hỏi 'chị lo nhất điều gì, mong gì nhất từ buổi khám' (hỏi chị Lan, không hỏi bà).",
+     "k": 0,
+     "y": "Lý do thật sự đến khám (nỗi lo bệnh lây)",
+     "nhieu": 1
+    },
+    {
+     "id": "me",
+     "noi_dung": "Chị Lan không uống thuốc tránh thai hay thuốc nào khác, không mang thai, không hút thuốc, không rượu; ăn uống được. Chị ngủ 3–4 giờ/ngày, thấy mình 'vô dụng, ít sữa', hay lo, vẫn chăm bé.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố ở mẹ làm giảm sữa (PB 2013, tr. 296; QĐ 2989 III.3.2)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Nhà cách phòng khám 3 km, có xe máy; bố bé đi làm công trình cả tuần, về cuối tuần; bà nội trông bé ban ngày. Kinh tế ổn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khả năng tái khám (QĐ 2989 III.3, tr. 18)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mắt nhìn quanh, khóc to khi đói, nín khi được bế. Hồng hào, không tím, không vàng da, chi ấm, mao mạch hồi lại dưới 2 giây. Không phù. Lớp mỡ dưới da mỏng, da nhăn nhẹ ở mông và đùi.",
+     "k": 1,
+     "hien": "Tỉnh, khóc to. Nhiệt (nách) 36,8 °C."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,15 kg; dài 52 cm (đo nằm ngửa). Tra bảng WHO 2006 trong PB 2013 (Bảng A5.2.1, tr. 387; chiều dài 52,0 cm: −3 SD 2,9; −2 SD 3,2; −1 SD 3,5): cân nặng theo chiều dài nằm giữa −3 và −2 SD, tức SDD cấp tính mức vừa (QĐ 2989/2026 Bảng 2, tr. 5). Không phù hai bên. MUAC: không áp dụng ở trẻ dưới 6 tuần tuổi (WHO 2023 A2b-iii: 6 tuần đến dưới 6 tháng; QĐ 2989 Bảng 2: 6–59 tháng).",
+     "k": 1,
+     "hien": "Cân 3,15 kg; dài 52 cm."
+    },
+    "quan_sat_bu_me": {
+     "a": "Mẹ ngồi cong lưng, đỡ đầu bé bằng một tay. Bé chỉ ngậm đầu vú, miệng mở chưa rộng, môi dưới cuộn vào, cằm chưa chạm vú, không thấy quầng vú phía trên miệng; mút nhanh nông, hiếm nghe nuốt, sau 4 phút nhả vú khóc. Vú mềm, vắt tay ra rất ít sữa. Sau khi chỉnh tư thế (bụng bé áp bụng mẹ, cằm chạm vú, miệng mở rộng) bé ngậm sâu, mút chậm, nuốt rõ, bú 15 phút bên trái rồi ngủ (dấu ngậm vú tốt: PB 2013 mục 10.1.1, tr. 294).",
+     "k": 1,
+     "hien": "Mẹ cho bú, bé ngậm vú nông, bú ngắn rồi nhả vú."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm, không hạch. Củng mạc không vàng.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, không tưa lưỡi, ngạc nguyên vẹn, thắng lưỡi không ngắn, bé thè lưỡi qua nướu được.",
+     "k": 1,
+     "hien": "Miệng sạch, không tưa."
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi, mạch bẹn bắt rõ hai bên, gan không to.",
+     "k": 1,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không rút lõm, không rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, gan lách không to. Rốn khô, không đỏ, không mủ. Bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng."
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không mụn mủ, không xuất huyết. Không hăm.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, trương lực cơ bình thường, vận động đủ bốn chi, phản xạ mút và nuốt đủ mạnh, khóc to.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai tinh hoàn ở bìu, không phồng bẹn, không tràn dịch.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,6 G/L · Neutrophil 36% · Lymphocyte 52% · Hb 148 g/L · TC 360 G/L",
+     "ab": 0,
+     "n": "Nên làm: bé uống paracetamol đều nên thân nhiệt bình thường không loại trừ nhiễm khuẩn (WHO 2013 mục 3.8, tr. 54); QĐ 2989 II.2.1 (tr. 4). Bình thường. Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 2 mg/L",
+     "ab": 0,
+     "bang": {
+      "crp": 2
+     },
+     "n": "Cùng chỉ định với công thức máu (QĐ 2989 II.2.2, tr. 4). CRP thấp không loại trừ nhiễm khuẩn huyết sơ sinh (WHO 2013 mục 3.8, tr. 54)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tổng phân tích nước tiểu (túi dán): bạch cầu, nitrit âm tính, không protein, glucose, ceton, hồng cầu.",
+     "ab": 0,
+     "bang": {
+      "u_sg": 1.01,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nên làm: nhiễm khuẩn tiết niệu ở trẻ nhỏ chỉ có dấu không đặc hiệu (bú kém, chậm lớn); cách duy nhất là xét nghiệm nước tiểu (WHO 2013 mục 6.8, tr. 185; NICE NG224 mục 1.1.1–1.1.3). Lấy bằng túi dán hoặc miếng thu, không dùng bông gòn (NG224 mục 1.1.14–1.1.15). Âm tính nên không cần cấy."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 34 U/L · ALT 21 U/L",
+     "ab": 0,
+     "n": "Nên làm: bé uống paracetamol ≈ 95 mg/kg/ngày × 9 ngày; QĐ 3610/2015 mục 3.3 (tr. 21) chỉ định AST, ALT; mục 2 (tr. 20): người suy dinh dưỡng có thể ngộ độc ở liều điều trị. Bình thường (viêm gan nhiễm độc khi > 1000: mục 3.2, tr. 21). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 4,3 mmol/L",
+     "ab": 0,
+     "n": "Chấp nhận, không bắt buộc: bé tỉnh, khóc khỏe; WHO 2013 mục 3.6 (tr. 52) kiểm tra khi lơ mơ hoặc co giật. Hạ đường huyết < 3 mmol/L (QĐ 2989 II.2.1, tr. 4)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 · K 4,6 · Cl 104 mmol/L",
+     "ab": 0,
+     "bang": {
+      "na": 138,
+      "k": 4.6,
+      "cl": 104
+     },
+     "n": "Chấp nhận (QĐ 2989 II.2.1, tr. 4); bé không nôn, không tiêu chảy nên chưa cần."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Cơ sở không làm được TSH, FT4.",
+     "n": "Không cần: sàng lọc sơ sinh bình thường, bé đòi ăn, không táo bón, không vàng da kéo dài (QĐ 3312 Suy giáp trạng bẩm sinh mục 3.1, tr. 641)."
+    },
+    "paracetamol_mau": {
+     "v": "n",
+     "r": "Cơ sở không định lượng được paracetamol máu.",
+     "n": "Không cần: không phải một liều cấp > 150 mg/kg (75 mg ≈ 24 mg/kg) nên không dùng đồ thị Rumack-Matthew (QĐ 3610 mục 3, tr. 20; mục 4.3, tr. 22). Men gan mới là thông tin cần."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Cơ sở không cấy máu.",
+     "n": "Không cần: bé tỉnh, công thức máu và CRP bình thường (WHO 2013 mục 3.8, tr. 54). Nghi nhiễm khuẩn huyết thì nhập viện, cấy máu trước kháng sinh."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "r": "Cơ sở không làm Xpert.",
+     "n": "Không cần: không tiếp xúc nguồn lây, không ho, sốt, gan lách to (QĐ 162/2024 mục 3.4.1c–d, tr. 30)."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Cơ sở không làm Mantoux, IGRA.",
+     "n": "Không cần: không phải người tiếp xúc hộ gia đình; trẻ < 5 tuổi tiếp xúc chỉ cần loại trừ lao hoạt động (QĐ 162/2024 Phần IV mục 1.2.1). Làm cho yên tâm chấm a."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chậm tăng cân / SDD cấp tính mức vừa, không biến chứng, ở trẻ 24 ngày tuổi, do nuôi dưỡng chưa đủ (bú mẹ không hiệu quả, bình sữa, bú thưa), kèm dùng paracetamol quá liều điều trị lặp lại",
+     "ok": 1,
+     "n": "Cân 10 ngày tăng 50 g, vẫn nhẹ hơn lúc sinh (PB 2013 mục 10.1.1, tr. 296: < 125 g/tuần hoặc nhẹ hơn cân sinh sau 2 tuần là dấu sữa không đủ); cân nặng theo chiều dài giữa −3 và −2 SD (QĐ 2989 Bảng 2, tr. 5; WHO 2023 mục 1.2.1). Tã ướt 4–5/ngày, ngậm vú nông. Không dấu hiệu nguy hiểm, không phù, không sụt cân gần đây (QĐ 2989 III.2.1a, tr. 11)."
+    },
+    {
+     "t": "Bệnh lý nền gây chậm tăng cân (nhiễm khuẩn huyết, nhiễm khuẩn tiết niệu, tim bẩm sinh, suy giáp bẩm sinh, dị tật miệng)",
+     "n": "Ít nghĩ: bé tỉnh, SpO₂ 98%, thở 44 l/p, không âm thổi, không vã mồ hôi khi bú (PB 2013 Bảng 6, tr. 78: tim bẩm sinh không tím có khó bú, vã mồ hôi trán, âm thổi); công thức máu, CRP, nước tiểu, đường huyết bình thường (PB mục 6.8, tr. 185); sàng lọc sơ sinh bình thường, không táo bón, không vàng da kéo dài (QĐ 3312 mục 3.1, tr. 641; PB mục 3.12.1); miệng không tưa, ngạc nguyên vẹn. Thân nhiệt bình thường khi đang uống paracetamol không loại trừ sốt (PB mục 3.10.4): ngưỡng nhập viện thấp, hẹn 2 ngày."
+    },
+    {
+     "t": "Lao (phơi nhiễm hoặc lao sơ sinh)",
+     "n": "Ít nghĩ: không ho, sốt, gan lách to, không tiếp xúc hộ gia đình (nhà bên chỉ gặp ngoài cổng); mẹ không ho, bé đã tiêm BCG. Chẩn đoán lao trẻ em dựa tiếp xúc nguồn lây, triệu chứng, X-quang (QĐ 162/2024 mục 3.4.1c–d, tr. 30); WHO 2022 Module 5 mục 2: người tiếp xúc < 15 tuổi sàng lọc bằng ho, sốt, chậm tăng cân. Chậm tăng cân đã giải thích bằng bú không đủ; cơ sở không có X-quang: theo dõi cân, hỏi lại tiếp xúc nếu không lên cân khi bú đủ."
+    },
+    {
+     "t": "Ngộ độc paracetamol cấp / viêm gan nhiễm độc",
+     "n": "Không phải ngộ độc cấp: một lần 75 mg ≈ 24 mg/kg, dưới ngưỡng > 150 mg/kg (QĐ 3610 mục 3, tr. 20). Nhưng ≈ 95 mg/kg/ngày × 9 ngày vượt 10–15 mg/kg/lần (PB Phụ lục 2, tr. 367) và 60 mg/kg/24 giờ (QĐ 708/2015 mục 4.2), ở trẻ suy dinh dưỡng (QĐ 3610 mục 2). Bé tỉnh, không vàng da, AST 34, ALT 21: chưa tổn thương gan, không có chỉ định N-acetylcystein (mục 4.3, tr. 22)."
+    },
+    {
+     "t": "Sữa mẹ 'bị nóng' sau quan hệ vợ chồng nên không cho bú",
+     "n": "Không đúng: tài liệu đã tải không nêu quan hệ vợ chồng làm sữa mẹ có hại; khuyến cáo bú mẹ hoàn toàn đến 6 tháng (PB 2013 mục 10.1.1, tr. 294). Nguyên nhân thật: bú thưa, bú ngắn, không bú đêm, dùng bình (tr. 296)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú theo hướng cặp mẹ – bé tại phòng khám: không nhập viện, không chuyển tuyến; hẹn cân lại sau 2 ngày",
+     "v": "c",
+     "n": "Bé không có dấu hiệu nguy hiểm, bệnh nặng, phù, sụt cân gần đây (QĐ 2989 III.2.1a, tr. 11); WHO 2023 A2b–c: vấn đề bú xử trí được ngoại trú sau đánh giá sâu; trẻ < 6 tháng dùng cách tiếp cận cặp mẹ – trẻ (QĐ 2989 III.1, tr. 8). Nhà cách 3 km, gia đình hợp tác (III.2.1c). QĐ 4487/2016 (mọi trẻ < 6 tháng nhập viện) đã bị QĐ 2989 thay thế. Nhập viện ngay chấm a."
+    },
+    {
+     "t": "Quan sát một cữ bú, chỉnh tư thế và ngậm vú; bú theo nhu cầu ít nhất 8 cữ/24 giờ kể cả đêm",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 5 (tr. 15): bú dưới 8 lần/24 giờ thì khuyên tăng cả ngày lẫn đêm, hướng dẫn tư thế; PB 2013 mục 10.1.1 (tr. 294–296); QĐ 2989 III.3.2 (tr. 19); WHO 2023 A5."
+    },
+    {
+     "t": "Ngưng bình sữa và núm giả; bổ sung sữa bằng cốc hoặc thìa sau mỗi cữ bú (sữa mẹ vắt, nếu không đủ thì sữa công thức sơ sinh pha đúng hướng dẫn), giảm 30–60 ml/ngày khi sữa mẹ tăng",
+     "v": "c",
+     "n": "PB 2013 (tr. 296): tránh bình, núm vú, cho sữa khác bằng cốc, giảm 30–60 ml/ngày khi sữa mẹ tăng, theo dõi cân; (tr. 298–299): sữa mẹ vắt tốt nhất, hoặc sữa công thức pha bằng nước sạch theo hướng dẫn, trẻ ≥ 2 kg 150 ml/kg/ngày chia 8 cữ; QĐ 2989 III.3.2 (tr. 19); WHO 2023 A6."
+    },
+    {
+     "t": "Ngưng hoàn toàn paracetamol; không tự hạ sốt cho bé khi chưa đo nhiệt kế",
+     "v": "c",
+     "n": "PB 2013 mục 3.10.4 (tr. 58): không dùng paracetamol hạ sốt ở sơ sinh; bé uống ≈ 95 mg/kg/ngày × 9 ngày, vượt 10–15 mg/kg/lần (Phụ lục 2, tr. 367) và 60 mg/kg/24 giờ (QĐ 708/2015 mục 4.2); trẻ suy dinh dưỡng có thể ngộ độc ở liều điều trị (QĐ 3610 mục 2, tr. 20). Men gan bình thường nên không cần N-acetylcystein (mục 4.3, tr. 22)."
+    },
+    {
+     "t": "Làm công thức máu, CRP, nước tiểu và men gan trước khi cho về",
+     "v": "c",
+     "n": "Thân nhiệt bình thường khi đang dùng paracetamol không loại trừ nhiễm khuẩn (PB mục 3.10.4, 3.8); nhiễm khuẩn tiết niệu biểu hiện bú kém, chậm lớn (PB mục 6.8, tr. 185); men gan khi dùng paracetamol kéo dài (QĐ 3610 mục 3.3, tr. 21)."
+    },
+    {
+     "t": "Giải thích bằng cân và tã ướt vì sao bé chậm lên cân; không vắt bỏ sữa; nói rõ tài liệu không cho thấy quan hệ vợ chồng làm sữa 'độc'; ghi nhận công chăm cháu của bà",
+     "v": "c",
+     "n": "PB 2013 (tr. 294, 296): bú mẹ hoàn toàn đến 6 tháng; nguyên nhân sữa không đủ là thực hành bú và tâm lý mẹ; QĐ 2989 III.3.2 (tr. 19): hỗ trợ mẹ về nghỉ ngơi, tâm lý. Chứng cứ về quan hệ vợ chồng và sữa mẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày để cân và xem cữ bú; sau đó mỗi tuần đến khi cân nặng theo chiều dài ≥ −2 SD ở hai lần liên tiếp",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 5: khám lại sau 2 ngày khi vấn đề nuôi dưỡng chưa hợp lý; WHO 2023 A4a: giãn lịch chỉ khi tăng cân bền vững ≥ 2 lần khám hàng tuần; QĐ 2989 III.3.4 (tr. 20): tối thiểu 1 lần/tuần. Xem sổ mâu thuẫn (mốc tái khám)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến ngay: bỏ bú, li bì, sốt > 38 °C hoặc nhiệt < 35,5 °C, thở nhanh ≥ 60 l/p, tím, vàng da nhiều, nôn, bụng chướng, co giật",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52), 3.8 (tr. 54); QĐ 2989 II.1 (tr. 3)."
+    },
+    {
+     "t": "Giải thích nỗi lo lao: không tiếp xúc nguồn lây, không triệu chứng; không làm test lao",
+     "v": "c",
+     "n": "QĐ 162/2024 mục 3.4.1c–d (tr. 30); WHO 2022 Module 5 mục 2. Isoniazid dự phòng chưa có chỉ định: PB 2013 mục 3.13.2 (tr. 68) chỉ cho trẻ có mẹ lao hoạt động."
+    },
+    {
+     "t": "Hẹn tái khám 14 ngày",
+     "v": "a",
+     "n": "QĐ 2341/2024 Bảng kiểm 5: nhẹ cân tái khám sau 14 ngày; nhưng bé còn vấn đề nuôi dưỡng nên 2 ngày an toàn hơn. Mốc riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm Mantoux, IGRA hoặc X-quang ngực cho yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định (QĐ 162/2024 Phần IV mục 1.2.1; mục 3.4.1c); cơ sở không có; không thay việc giải thích."
+    },
+    {
+     "t": "Cho vitamin A liều cao, sắt, kẽm",
+     "v": "a",
+     "n": "QĐ 2989 III.2.3e (tr. 13–14): thuộc phác đồ nội trú SDD cấp tính; chỉ định cho SDD vừa < 6 tháng ngoại trú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tháng",
+     "v": "w",
+     "n": "QĐ 2989 III.4.4 (tr. 22): theo dõi hàng tháng chỉ ở giai đoạn dự phòng khi trẻ đã ổn định; WHO 2023 A4a: chỉ giãn lịch sau ≥ 2 lần cân hàng tuần có tăng cân bền vững."
+    },
+    {
+     "t": "Tiếp tục cho bú bình và núm giả để mẹ ngủ",
+     "v": "w",
+     "n": "PB 2013 (tr. 296): bình, núm vú, bú không có cữ đêm, bú ngắn là nguyên nhân sữa không đủ; QĐ 2341/2024 Bảng kiểm 5: bú dưới 8 lần/24 giờ phải tăng số cữ."
+    },
+    {
+     "t": "Vắt bỏ sữa hoặc ngưng bú mẹ vài ngày vì 'sữa nóng'",
+     "v": "w",
+     "n": "PB 2013 (tr. 294, 296): bú mẹ hoàn toàn đến 6 tháng; cách chính để tăng sữa là bé bú thường xuyên. Bỏ sữa làm bé thiếu sữa; tài liệu đã tải không nêu quan hệ vợ chồng làm hại sữa mẹ."
+    },
+    {
+     "t": "Tiếp tục cho paracetamol khi bé quấy",
+     "v": "h",
+     "n": "Quá liều điều trị lặp lại ở trẻ suy dinh dưỡng có thể gây ngộ độc (QĐ 3610/2015 mục 2, tr. 20); không dùng paracetamol hạ sốt ở sơ sinh và che sốt làm chậm phát hiện nhiễm khuẩn (PB 2013 mục 3.10.4, tr. 58)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chậm tăng cân ở trẻ sơ sinh 24 ngày, SDD cấp tính mức vừa (cân nặng theo chiều dài giữa −3 và −2 SD: 3,15 kg ở 52 cm), không phù, chưa biến chứng.",
+     "Nguyên nhân: nuôi dưỡng chưa đủ do bú mẹ không hiệu quả (ngậm vú nông, 4–5 cữ/ngày, không bú đêm, bình sữa, núm giả) sau khi bà nội bắt vắt bỏ sữa vì tin 'sữa nóng' sau quan hệ vợ chồng.",
+     "Dùng paracetamol quá liều điều trị lặp lại (≈ 95 mg/kg/ngày × 9 ngày), men gan bình thường, có thể che sốt.",
+     "Đã loại trừ nhiễm khuẩn huyết, nhiễm khuẩn tiết niệu, tim bẩm sinh, suy giáp bẩm sinh, lao.",
+     "Đủ điều kiện điều trị ngoại trú cặp mẹ – bé; mẹ mệt, mất tự tin; bà nội có niềm tin kiêng cữ sai."
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bà nói thay nên hỏi thẳng chị Lan số cữ bú, cữ đêm, thời gian mỗi cữ; hỏi ngoài sữa mẹ bé uống gì, thuốc gì, bà làm gì khi bé quấy, nhà kiêng cữ gì; sổ cân; tã ướt; tiếp xúc lao; 'chị lo nhất điều gì'. Bà nói 'bú no, không cho thuốc' nên phải hỏi cụ thể từng việc mới ra bình sữa, paracetamol, chuyện vắt bỏ sữa.",
+     "Khám: cân, đo chiều dài rồi tra bảng (PB 2013 Bảng A5.2.1, tr. 387): 3,15 kg ở 52 cm nằm giữa −3 SD (2,9) và −2 SD (3,2) ⇒ SDD cấp tính mức vừa (QĐ 2989 Bảng 2, tr. 5; Bước 3–4, tr. 7). MUAC không dùng dưới 6 tuần. Quan sát một cữ bú là việc quyết định (PB tr. 294; QĐ 2341 Bảng kiểm 5).",
+     "Cận lâm sàng: công thức máu, CRP, nước tiểu, men gan loại trừ nhiễm khuẩn và độc gan khi bé uống paracetamol đều (PB mục 3.10.4, 6.8; QĐ 3610 mục 3.3). TSH, cấy, Xpert, nồng độ paracetamol không có và chưa cần.",
+     "Không phải bệnh nền: bé tỉnh, đòi ăn, không âm thổi hay vã mồ hôi khi bú, không vàng da, không táo bón, sàng lọc sơ sinh bình thường, xét nghiệm bình thường. Không phải lao: không tiếp xúc nguồn lây, không ho, không sốt; chẩn đoán lao trẻ em cần tiếp xúc nguồn lây, triệu chứng, X-quang (QĐ 162/2024 mục 3.4.1c–d).",
+     "Vì sao ngoại trú: không dấu hiệu nguy hiểm, không phù, không sụt cân gần đây (QĐ 2989 III.2.1a); WHO 2023 A2b–c: đánh giá sâu xong thấy xử trí được ngoại trú. Nhập viện nếu không tái khám được hoặc bé xấu đi."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự: (1) ngưng paracetamol; (2) sửa cữ bú ngay tại phòng khám để mẹ tự thấy bé nuốt; (3) bổ sung sữa bằng cốc cho đủ 150 ml/kg/ngày (≈ 470 ml/ngày ≈ 60 ml × 8 cữ, WHO Pocket book 2013 tr. 299), giảm 30–60 ml/ngày khi sữa mẹ tăng (WHO Pocket book 2013 tr. 296); (4) giải thích cho bà và mẹ; (5) hẹn cân sau 2 ngày.",
+     "Giải thích cho bà bằng điều nhìn thấy: tã ướt 4–5/ngày, cân 10 ngày tăng 50 g, bé nuốt rõ khi ngậm đúng. Không trách; nói rõ tài liệu không có bằng chứng quan hệ vợ chồng làm hại sữa, sữa chỉ tăng khi bé bú thường xuyên (PB tr. 296).",
+     "Paracetamol: không cần hạ sốt ở sơ sinh (PB 3.10.4); men gan bình thường nên theo dõi, không giải độc (QĐ 3610 mục 4.3). Bé quấy thường do đói.",
+     "Tái khám: 2 ngày (QĐ 2341 Bảng kiểm 5) rồi mỗi tuần (QĐ 2989 III.3.4; WHO 2023 A4a); 14 ngày chấm a, 1 tháng chấm w. Ngừng theo dõi khi cân nặng theo chiều dài ≥ −2 SD, bú hiệu quả, tăng cân đủ (PB mục 7.4.10, tr. 217).",
+     "Nỗi lo lao: không làm test; giải thích; hỏi lại nếu bé vẫn không lên cân dù bú đủ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (gói 150 mg bà đang cho)",
+      "ham_luong": "Ngưng hoàn toàn",
+      "lieu": "0 mg",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng lại khi chưa đo nhiệt kế và chưa khám",
+      "ghi_chu": "PB 2013 mục 3.10.4 (tr. 58); QĐ 3610/2015 mục 2 (tr. 20), 4.3 (tr. 22); men gan bình thường."
+     },
+     {
+      "thuoc": "Sữa mẹ bú trực tiếp, vắt sữa cho bằng cốc",
+      "ham_luong": "Sữa mẹ",
+      "lieu": "Ít nhất 8 cữ/24 giờ kể cả đêm, bú hết một bên mỗi cữ",
+      "duong": "Bú trực tiếp; cốc hoặc thìa",
+      "thoi_diem": "Cả ngày và đêm",
+      "so_ngay": "Bú mẹ hoàn toàn đến 6 tháng",
+      "ghi_chu": "QĐ 2341/2024 Bảng kiểm 5 (tr. 15); PB 2013 mục 10.1.1 (tr. 294–296); QĐ 2989 III.3.2 (tr. 19)."
+     },
+     {
+      "thuoc": "Sữa công thức dành cho trẻ sơ sinh (bổ sung tạm thời)",
+      "ham_luong": "Pha đúng hướng dẫn trên hộp, nước sạch, không pha loãng",
+      "lieu": "Bổ sung phần thiếu sau cữ bú cho đủ khoảng 150 ml/kg/ngày (≈ 60 ml/cữ × 8); giảm 30–60 ml/ngày khi sữa mẹ tăng",
+      "duong": "Cốc hoặc thìa, không dùng bình",
+      "thoi_diem": "Ngay sau mỗi cữ bú",
+      "so_ngay": "Đến khi bé tăng cân đủ bằng sữa mẹ (quyết định ở tái khám)",
+      "ghi_chu": "PB 2013 (tr. 296, 298–299); QĐ 2989 III.3.2 (tr. 19). Lượng sữa mẹ bé bú được: không đo được tại chỗ."
+     },
+     {
+      "thuoc": "Vitamin A liều cao, sắt, kẽm",
+      "ham_luong": "Không kê",
+      "lieu": "–",
+      "duong": "–",
+      "thoi_diem": "–",
+      "so_ngay": "–",
+      "ghi_chu": "QĐ 2989 III.2.3e (tr. 13–14) thuộc phác đồ nội trú; chỉ định cho ca này: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cho bé bú ít nhất 8 lần/ngày, đánh thức bé bú đêm (QĐ 2341 Bảng kiểm 5); bú hết một bên rồi sang bên kia; ngậm sâu, cằm chạm vú, miệng mở rộng (PB tr. 294).",
+     "Bỏ bình sữa và núm giả; sữa bổ sung cho bằng cốc hoặc thìa, pha đúng hướng dẫn, không pha loãng; không vắt bỏ sữa mẹ.",
+     "Không cho paracetamol hay thuốc nào khi chưa hỏi bác sĩ; đo nhiệt độ nách bằng nhiệt kế nếu bé nóng hoặc lạnh.",
+     "Đếm tã ướt: từ 6 tã/ngày và nước tiểu vàng nhạt là bé bú đủ (WHO Pocket book 2013 tr. 296). Mang sổ, cân lại sau 2 ngày.",
+     "Đưa bé đến ngay khi bỏ bú, li bì, sốt > 38 °C hoặc lạnh < 35,5 °C, thở nhanh, tím, vàng da, nôn nhiều, bụng chướng, co giật (WHO 2013 mục 3.6).",
+     "Chị Lan nghỉ khi bé ngủ, ăn uống đủ (QĐ 2989 III.3.2, tr. 19); bà và bố bé chia nhau việc đêm. Nhà không ai ho kéo dài; nếu có người ho trên 2 tuần phải đi khám (QĐ 162/2024 Bảng 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Một tuần sau lần cân hẹn trước (bé 40 ngày tuổi), chị Lan và bà nội đưa bé đến tái khám đúng hẹn. Cân nặng 3,66 kg, dài 53 cm. Sinh hiệu: nhiệt (nách) 36,9 °C, mạch 126 l/p, nhịp thở 42 l/p, SpO₂ 98%. Bé tỉnh, hồng hào, vừa bú xong.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Huy 40 ngày tuổi đã tăng 220 g trong tuần qua (≈ 31 g/ngày, trên mức 5 g/kg/ngày: QĐ 2989 III.3.5, tr. 20), bú hoàn toàn, tã ướt 7–8/ngày, không sốt; nhập viện không có chỉ định (QĐ 2989 III.2.1a–b, tr. 11: chỉ khi có biến chứng, không đáp ứng hoặc xấu đi ngoại trú). Tách bé khỏi nhà đúng lúc chị Lan vừa lấy lại tự tin và bà nội vừa chịu nghe, tốn kém, bé tiếp xúc nhiễm khuẩn bệnh viện, và gia đình hiểu nhầm bé 'bệnh nặng' trở lại.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên khi bé đã đạt tiêu chuẩn khỏi là quá tay và gây mất theo dõi tại nơi quen: chị Lan đã tin phòng khám này, bà nội mới chịu đổi cách cho bú; không có tiêu chuẩn chuyển tuyến nào (QĐ 2989 III.2.2, tr. 12 áp dụng cho trẻ thất bại điều trị nội trú). TSH, siêu âm tim chỉ đáng làm khi bé không lên cân dù bú đủ.",
+    "theo_doi": "Giữ lịch hẹn 2 ngày và cho thêm sữa công thức 'cho chắc' dù bé đã khỏi làm mẹ lo bé còn bệnh, bà có cớ quay lại bình sữa, sữa mẹ giảm dần vì bé no sữa công thức (PB 2013 tr. 296: sữa mẹ sản xuất theo mức bú). Bé vốn đủ cân nhờ bú mẹ không cần thêm gì."
+   },
+   "loi_mo": "Bác sĩ ơi, bé bú khá hơn rồi, đêm nào cũng dậy bú mấy lần. Bà cũng bớt la em. Nhưng em vẫn lo bé có bệnh gì lây không. Bé khỏi chưa bác sĩ?",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 42,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Lan: bé bú hăng, đêm dậy bú 2–3 lần, ngủ ngoan. Chị vẫn lo bé có bệnh lây không, và mong bác sĩ nói bé đã khỏi chưa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, lo lắng còn lại"
+    },
+    {
+     "id": "so_can",
+     "noi_dung": "Sổ cân phòng khám: ngày 24 (lượt 1) 3,15 kg; ngày 26 3,23 kg; ngày 33 3,44 kg, dài 52,5 cm. Hôm nay (ngày 40) 3,66 kg, dài 53 cm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hai lần khám liên tục cân nặng theo chiều dài ≥ −2 SD (QĐ 2989 III.3.5, tr. 20–21)"
+    },
+    {
+     "id": "bu_me",
+     "noi_dung": "9–10 cữ/24 giờ kể cả đêm, mỗi cữ 15–20 phút, bé nuốt ừng ực. Chị giảm sữa công thức bằng cốc dần theo hẹn và đã ngưng hẳn 5 ngày nay, bé chỉ bú mẹ. Bà đã cất bình và núm giả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú mẹ hiệu quả, đã ngưng sữa bổ sung (PB 2013 tr. 296)"
+    },
+    {
+     "id": "tieu_phan",
+     "noi_dung": "Tã ướt 7–8/ngày, nước tiểu vàng nhạt; phân vàng mềm 3 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu bú đủ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà ngưng paracetamol từ hôm khám lượt 1 (16 ngày); chị đo nhiệt kế nách khi bé quấy: 36,6–37,0 °C. Không có thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng paracetamol (PB 2013 mục 3.10.4)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không sốt, không ho, không nôn, không vàng da, không tím khi bú, ngủ và chơi bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu bệnh nền"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bà Hoa nói 'thôi để mẹ nó cho bú, bà thấy cháu nuốt ừng ực'. Bố bé về cuối tuần, đỡ đêm cho mẹ. Chị Lan ngủ được 5–6 giờ, bớt khóc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hỗ trợ gia đình, tâm lý mẹ (WHO 2023 A8)",
+     "nhieu": 1
+    },
+    {
+     "id": "lao_lo",
+     "noi_dung": "Chị hỏi lại: 'bé có bị lao không, có cần thử không?'. Nhà vẫn không ai ho kéo dài; nhà bên chưa ai sang.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo bệnh lây còn lại",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, bú xong ngủ ngoan. Da hết nhăn ở đùi và mông, mỡ dưới da dày. Không phù, không vàng da.",
+     "k": 1,
+     "hien": "Tỉnh, hồng hào. Nhiệt (nách) 36,9 °C."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,66 kg; dài 53 cm. Bảng WHO 2006 (PB 2013 Bảng A5.2.1, tr. 387; 53,0 cm: −2 SD 3,4; −1 SD 3,7): cân nặng theo chiều dài giữa −2 và −1 SD, tức ≥ −2 SD (lần khám thứ ba liên tiếp, sau ngày 33 và ngày 26). Vượt cân sinh 3,2 kg. Tăng 220 g/tuần ≈ 31 g/ngày ≈ 9 g/kg/ngày. Không phù.",
+     "k": 1,
+     "hien": "Cân 3,66 kg; dài 53 cm."
+    },
+    "quan_sat_bu_me": {
+     "a": "Mẹ ngồi thẳng, bụng bé áp bụng mẹ. Bé ngậm sâu, miệng mở rộng, môi dưới cuộn ra, cằm chạm vú, mút chậm, nuốt rõ, tự nhả vú sau 18 phút. Vú mềm sau cữ bú.",
+     "k": 1,
+     "hien": "Bé ngậm vú sâu, bú chậm, nuốt rõ."
+    },
+    "tim": {
+     "a": "Tim đều 126 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p, đều, không rút lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to, rốn đã rụng, khô.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Miệng sạch, không tưa lưỡi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần lặp lại: kết quả lượt 1 bình thường, bé khỏe, không sốt."
+    },
+    "crp": {
+     "n": "Không cần lặp lại: như công thức máu."
+    },
+    "ua": {
+     "n": "Không cần lặp lại: nước tiểu lượt 1 bình thường, không có triệu chứng tiết niệu."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 30 U/L · ALT 19 U/L",
+     "ab": 0,
+     "n": "Chấp nhận, không bắt buộc: men gan lượt 1 bình thường, đã ngưng paracetamol 16 ngày; QĐ 3610/2015 mục 3.2 (tr. 21): tổn thương gan do paracetamol xuất hiện sớm (đỉnh 48–72 giờ sau liều) và ở người sống thì men gan nhanh về bình thường; hướng dẫn theo dõi men gan sau paracetamol lặp lại ở sơ sinh: không có trong tài liệu đã tải. Làm lại để yên tâm không bị trừ điểm."
+    },
+    "glu_mm": {
+     "n": "Không cần: bé tỉnh, bú tốt."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "r": "Cơ sở không làm Xpert.",
+     "n": "Không cần: không triệu chứng, không tiếp xúc nguồn lây (QĐ 162/2024 mục 3.4.1c–d, tr. 30)."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Cơ sở không làm Mantoux, IGRA.",
+     "n": "Không cần (như lượt 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chậm tăng cân do nuôi dưỡng chưa đủ, đã khỏi: cân nặng theo chiều dài ≥ −2 SD trong các lần khám liên tục, bú mẹ hoàn toàn, tăng cân đủ",
+     "ok": 1,
+     "n": "Đạt tiêu chuẩn khỏi: cân nặng theo chiều dài ≥ −2 SD trong 2 lần khám liên tục và lâm sàng cải thiện (QĐ 2989 III.3.5, tr. 20–21); bú hiệu quả, tăng cân đủ (PB 2013 mục 7.4.10, tr. 217); tăng cân bền vững ≥ 2 lần khám hằng tuần liên tiếp (WHO 2023 A4a). Hôm nay tăng 31 g/ngày (≥ 5 g/kg/ngày, QĐ 2989 III.3.5), đã ngưng sữa công thức vẫn tăng cân."
+    },
+    {
+     "t": "Vẫn đang suy dinh dưỡng, cần tiếp tục sữa bổ sung",
+     "n": "Không: ngày 26, 33 và 40 đều ≥ −2 SD (ngưỡng 3,2; 3,3; 3,4 kg ở 52; 52,5; 53 cm, PB 2013 Bảng A5.2.1, tr. 387) và bé tăng cân tốt dù đã ngưng sữa bổ sung."
+    },
+    {
+     "t": "Bệnh nền chưa phát hiện (tim bẩm sinh, suy giáp, nhiễm khuẩn tiết niệu) hoặc lao",
+     "n": "Không nghĩ: bé tăng cân nhanh khi bú đúng, không triệu chứng, xét nghiệm lượt 1 bình thường. Chỉ xét lại nếu không lên cân dù bú đủ (QĐ 2989 III.3.4, tr. 20: cân không cải thiện cần tìm nguyên nhân)."
+    },
+    {
+     "t": "Tổn thương gan muộn do paracetamol",
+     "n": "Không nghĩ: không vàng da, ăn ngủ tốt, men gan lượt 1 bình thường, đã ngưng thuốc 16 ngày (QĐ 3610 mục 3.2, tr. 21: biểu hiện sớm trong 1–3 ngày sau liều)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận đã khỏi chậm tăng cân, kết thúc điều trị dinh dưỡng; tiếp tục bú mẹ hoàn toàn theo nhu cầu ≥ 8 cữ/24 giờ, không cần sữa công thức bổ sung",
+     "c_": 1,
+     "v": "c",
+     "n": "QĐ 2989 III.3.5 (tr. 20–21); PB 2013 mục 7.4.10 (tr. 217); WHO 2023 A4a. Sữa bổ sung đã giảm dần 30–60 ml/ngày khi sữa mẹ tăng (PB 2013 mục 10.1.1, tr. 296) và bé vẫn tăng cân sau khi ngưng."
+    },
+    {
+     "t": "Giãn lịch: hẹn cân và đo chiều dài sau khoảng 1 tháng (hoặc theo lịch tiêm chủng), đánh giá lại nhân trắc khi bé 6 tháng",
+     "v": "c",
+     "n": "QĐ 2989, phần quản lý dự phòng và theo dõi: hằng tháng cho trẻ có nguy cơ (tr. 24: trẻ nguy cơ cân đo hằng tháng; dưới 2 tuổi 3 tháng/lần); WHO 2023 A4b: đánh giá khi 6 tháng. Nguồn khác mức độ nguy cơ nên chấp nhận 1 tháng hoặc 3 tháng/lần (a)."
+    },
+    {
+     "t": "Không cần làm lại men gan nếu bé khỏe; tiếp tục không dùng paracetamol",
+     "v": "c",
+     "n": "PB 2013 mục 3.10.4 (tr. 58). Men gan lượt 1 bình thường, bé không vàng da (QĐ 3610 mục 3.2, tr. 21). Làm lại men gan chấm a; hướng dẫn theo dõi men gan khi sơ sinh dùng paracetamol lặp lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an nỗi lo lao bằng dữ kiện: không tiếp xúc nguồn lây, không triệu chứng, bé tăng cân tốt; không làm test lao",
+     "v": "c",
+     "n": "QĐ 162/2024 mục 3.4.1c–d (tr. 30); nếu về sau không lên cân dù bú đủ thì đánh giá lại (QĐ 2989 III.3.4, tr. 20)."
+    },
+    {
+     "t": "Khen mẹ, ghi nhận bà; dặn dấu hiệu cần đến sớm (bú kém, sốt, li bì, vàng da, thở nhanh) và mốc tăng cân kém",
+     "v": "c",
+     "n": "QĐ 2989 III.3.2 (tr. 19); WHO 2023 A8; PB 2013 mục 3.6; không tăng cân hoặc sụt cân ≥ 2 lần khám liên tiếp là đáp ứng kém (QĐ 2989 III.3.5, tr. 21)."
+    },
+    {
+     "t": "Kiểm tra sổ tiêm chủng, hẹn mũi tiếp theo",
+     "v": "c",
+     "n": "PB 2013 mục 7.4.10 (tr. 217): kiểm tra tiêm chủng trước khi ngừng chăm sóc dinh dưỡng. Lịch tiêm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám 1 tuần nữa",
+     "v": "a",
+     "n": "An toàn thêm nhưng không cần: đã khỏi, giãn lịch được (WHO 2023 A4a)."
+    },
+    {
+     "t": "Tiếp tục cho sữa công thức hoặc bổ sung vitamin, sắt, kẽm 'cho chắc'",
+     "v": "w",
+     "n": "Không có chỉ định: bé đã khỏi, sữa mẹ đủ; kéo dài sữa bổ sung làm giảm bú mẹ (PB 2013 tr. 296); QĐ 2989 III.2.3e (tr. 13–14) là phác đồ nội trú."
+    },
+    {
+     "t": "Cho về, không dặn gì thêm, không hẹn cân lại",
+     "v": "w",
+     "n": "Trẻ từng nguy cơ chậm lớn cần đánh giá lại lúc 6 tháng (WHO 2023 A4b) và theo dõi định kỳ (QĐ 2989 phần sàng lọc, tr. 24)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chậm tăng cân do nuôi dưỡng chưa đủ (sữa mẹ bị bỏ, cho bú thiếu), ĐÃ KHỎI: tăng cân đều, bú mẹ hoàn toàn.",
+     "Cân nặng theo chiều dài ≥ −2 SD ở ngày 26, 33 và 40 (hôm nay 3,66 kg ở 53 cm); tăng 31 g/ngày; đã vượt cân sinh.",
+     "Đã ngưng paracetamol 16 ngày, không sốt, không dấu hiệu độc gan; không bệnh nền, không lao.",
+     "Gia đình hợp tác: mẹ tự tin, bà nội chấp nhận; hết cữ sữa công thức."
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: số cữ bú, cữ đêm, sữa bổ sung đã ngưng chưa và bé có còn tăng cân, tã ướt, thuốc, nhiệt độ, dấu hiệu bất thường, nỗi lo còn lại (hỏi thẳng chị Lan). Khám: cân, đo chiều dài, tra bảng; quan sát một cữ bú (PB 2013 tr. 294).",
+     "Tiêu chuẩn xác nhận khỏi: cân nặng theo chiều dài ≥ −2 SD trong 2 lần khám liên tục VÀ lâm sàng cải thiện, không phù (QĐ 2989 III.3.5, tr. 20–21); bú hiệu quả, tăng cân đủ (PB 2013 mục 7.4.10, tr. 217); tăng cân bền vững ít nhất 2 lần khám hằng tuần liên tiếp (WHO 2023 A4a). Bé đủ cả ba: ngày 33 (3,44 kg ở 52,5 cm, ngưỡng 3,3) và ngày 40 (3,66 kg ở 53 cm, ngưỡng 3,4).",
+     "Tăng cân 31 g/ngày ≈ 9 g/kg/ngày, vượt 5 g/kg/ngày lý tưởng (QĐ 2989 III.3.5, tr. 20) và 125 g/tuần (PB tr. 296); tăng cân vẫn tốt sau khi ngưng sữa công thức chứng tỏ sữa mẹ đã đủ.",
+     "Xét nghiệm lại: không cần, lượt 1 bình thường, bé khỏe; men gan làm lại để yên tâm thì chấp nhận, vì theo dõi men gan sau paracetamol ở sơ sinh không có trong tài liệu đã tải. Chỉ làm thêm (TSH, siêu âm tim, cấy, X-quang, test lao) nếu không lên cân dù bú đủ, sốt, li bì, vàng da hoặc có triệu chứng mới."
+    ],
+    "phan_tich_xu_tri": [
+     "Kết thúc điều trị dinh dưỡng: bé đáp ứng tốt, đủ tiêu chuẩn khỏi (QĐ 2989 III.3.5). Chuyển sang giai đoạn dự phòng tái phát, chỉ cần bú mẹ hoàn toàn đến 6 tháng.",
+     "Ngưng sữa bổ sung: giảm dần 30–60 ml/ngày khi sữa mẹ tăng, bằng cốc (PB 2013 tr. 296); chỉ ngưng hẳn khi cân vẫn tăng, như bé này. Nếu cân đứng lại thì quay về mức cũ và xem lại cữ bú.",
+     "Lịch theo dõi: hẹn cân sau khoảng 1 tháng hoặc kết hợp lịch tiêm chủng (hằng tháng cho trẻ có nguy cơ, 3 tháng/lần cho trẻ dưới 2 tuổi: QĐ 2989 tr. 24), đánh giá nhân trắc khi bé 6 tháng để quyết định theo dõi tiếp (WHO 2023 A4b).",
+     "Tiếp tục không dùng paracetamol; sốt hoặc lạnh người phải đến khám (PB 2013 mục 3.6, 3.10.4).",
+     "Dặn khi nào quay lại sớm: bú kém, sốt, li bì, vàng da; không tăng cân hoặc sụt cân qua 2 lần khám liên tiếp là đáp ứng kém (QĐ 2989 III.3.5, tr. 21), nhập viện khi có biến chứng (III.2.1b, tr. 11)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sữa mẹ bú trực tiếp",
+      "ham_luong": "Sữa mẹ",
+      "lieu": "Ít nhất 8 cữ/24 giờ kể cả đêm, theo nhu cầu",
+      "duong": "Bú trực tiếp",
+      "thoi_diem": "Cả ngày và đêm",
+      "so_ngay": "Bú mẹ hoàn toàn đến 6 tháng",
+      "ghi_chu": "PB 2013 mục 10.1.1 (tr. 294–296); QĐ 2989 III.3.2 (tr. 19)."
+     },
+     {
+      "thuoc": "Sữa công thức bổ sung",
+      "ham_luong": "–",
+      "lieu": "Đã ngưng, không cho lại",
+      "duong": "–",
+      "thoi_diem": "–",
+      "so_ngay": "Đã giảm dần 30–60 ml/ngày đến ngưng",
+      "ghi_chu": "PB 2013 (tr. 296). Cân vẫn tăng sau ngưng nên không cần cho lại."
+     },
+     {
+      "thuoc": "Paracetamol và thuốc khác",
+      "ham_luong": "Không dùng",
+      "lieu": "–",
+      "duong": "–",
+      "thoi_diem": "–",
+      "so_ngay": "–",
+      "ghi_chu": "PB 2013 mục 3.10.4 (tr. 58); QĐ 3610/2015 mục 2 (tr. 20)."
+     }
+    ],
+    "dan_do": [
+     "Tái khám khoảng 1 tháng sau hoặc cùng lần tiêm chủng, mang sổ cân; bú kém, sốt, li bì, vàng da, nôn, thở nhanh thì đến ngay (PB 2013 mục 3.6; QĐ 2989 III.3.5, tr. 21).",
+     "Tiếp tục cho bú mỗi 2–3 giờ kể cả đêm (PB 2013 mục 10.1.2, tr. 299); không bình, núm giả; không vắt bỏ sữa.",
+     "Đếm tã ướt 6 cái trở lên mỗi ngày (PB 2013 tr. 296); đo nhiệt kế khi bé nóng hoặc lạnh; không tự cho paracetamol.",
+     "Khi bé 6 tháng đánh giá lại cân nặng, chiều dài (WHO 2023 A4b); ăn bổ sung từ tròn 6 tháng (QĐ 2989 mục V).",
+     "Cả nhà hỗ trợ mẹ nghỉ ngơi, ăn đủ; bà và bố bé chia nhau việc ban đêm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé 40 ngày: 3,66 kg, dài 53 cm, cân nặng theo chiều dài ≥ −2 SD ở ba lần cân liên tiếp, bú mẹ hoàn toàn, tã ướt 7–8/ngày, không sốt. Bà nội cất bình sữa, chị Lan tự tin cho bú. Phòng khám xác nhận khỏi chậm tăng cân, giãn lịch (cân sau khoảng 1 tháng, đánh giá khi 6 tháng, WHO 2023 A4b). Không di chứng; gia đình hết lo bệnh lây.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bà nội nói 'bú no, không cho thuốc gì' trong khi mẹ bú ít, bà cho bình sữa và paracetamol; hỏi thẳng mẹ và hỏi cụ thể từng việc mới ra sự thật.",
+  "Kiêng cữ sau quan hệ vợ chồng làm bà bắt vắt bỏ sữa: yếu tố khởi phát thật của bú ít.",
+  "Lý do thật sự đến khám (sợ lao, sợ lây cho anh Hai và ông) chỉ lộ khi hỏi mẹ 'chị lo nhất điều gì'."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh không tự kể: người đi cùng chưa chắc là người nuôi bé. Hỏi thẳng người cho bú, hỏi cụ thể từng việc, quan sát một cữ bú thay vì tin lời 'bú no'.",
+  "Chậm tăng cân ở trẻ < 6 tháng: sau 2 tuần chưa bằng cân sinh hoặc tăng < 125 g/tuần là báo động (PB 2013, tr. 296); tra cân nặng theo chiều dài (QĐ 2989 Bảng 2) rồi mới gọi SDD cấp tính; MUAC chưa dùng được dưới 6 tuần.",
+  "Ngoại trú theo cặp mẹ – bé khi không có dấu hiệu nguy hiểm, phù, sụt cân gần đây; QĐ 2989/2026 thay QĐ 4487/2016 nên không còn nhập viện mọi trẻ < 6 tháng; ngưỡng nhập viện vẫn thấp khi không tái khám được.",
+  "Paracetamol ở sơ sinh: không dùng hạ sốt (PB 2013 mục 3.10.4); 95 mg/kg/ngày là quá liều lặp lại; thân nhiệt bình thường khi đang uống thuốc không loại trừ nhiễm khuẩn nên cần công thức máu, CRP, nước tiểu, men gan.",
+  "Đỡ hoàn toàn chưa phải khỏi: cần cân nặng theo chiều dài ≥ −2 SD ở 2 lần khám liên tiếp cùng bú hiệu quả; xét nghiệm lặp lại chỉ khi có lý do (không lên cân dù bú đủ, sốt, vàng da).",
+  "Niềm tin kiêng cữ: không trách; ghi nhận bà, giải thích bằng cân, tã ướt, cữ bú mà gia đình nhìn thấy được."
+ ],
+ "diem_nho": [
+  "Dấu sữa không đủ: tăng < 125 g/tuần, nhẹ hơn cân sinh sau 2 tuần, đi tiểu < 6 lần/ngày, nước tiểu vàng đậm; nguyên nhân hay gặp: ngậm vú sai, bú theo giờ, không bú đêm, bú ngắn, bình sữa, núm giả (PB 2013 mục 10.1.1, tr. 296).",
+  "Ngậm vú tốt: thấy quầng vú phía trên miệng, miệng mở rộng, môi dưới cuộn ra, cằm chạm vú (PB 2013, tr. 294).",
+  "SDD cấp tính mức vừa: cân nặng theo chiều dài từ −3 đến < −2 SD, không phù; nặng < −3 SD hoặc có phù (QĐ 2989 Bảng 2, tr. 5). Trẻ < 6 tháng nhập viện khi có dấu hiệu nguy hiểm, bệnh nặng, phù, sụt cân gần đây (QĐ 2989 III.2.1a; WHO 2023 A2a).",
+  "Tái khám: 2 ngày (QĐ 2341/2024 Bảng kiểm 5), rồi hàng tuần (WHO 2023 A4a; QĐ 2989 III.3.4), giãn khi tăng cân bền vững, đánh giá lại lúc 6 tháng (A4b). Kết thúc: cân nặng theo chiều dài ≥ −2 SD, bú hiệu quả, tăng cân đủ (PB mục 7.4.10, tr. 217; QĐ 2989 III.3.5).",
+  "Paracetamol 10–15 mg/kg/lần (PB Phụ lục 2, tr. 367), tối đa 60 mg/kg/24 giờ (QĐ 708/2015); ngộ độc cấp khi > 150 mg/kg một lần, suy dinh dưỡng có thể ngộ độc ở liều điều trị (QĐ 3610/2015 mục 3, 2)."
+ ],
+ "nguon": [
+  "QĐ 2989/QĐ-BYT 2026 – BYT, 22/09/2026, SDD cấp tính trẻ 0–59 tháng (thay QĐ 4487/2016) – kho cũ tltk-10000-ca – ĐÃ ĐỌC (chữ + PDF): II.1–6 (tr. 3–7), III.1 (tr. 8), III.2.1 (tr. 11), III.2.3e (tr. 13–14), III.3–4 (tr. 18–22), V",
+  "WHO 2023 – Guideline on wasting and nutritional oedema – TL-0246 – ĐÃ ĐỌC: mục 1.2.1 (tr. 3–4), khuyến cáo A1–A8 (tr. xii–xiv)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6, 3.8, 3.10.4, 3.12.1, 3.13.2 (tr. 52–68); Bảng 6 (tr. 77–78); 6.8 (tr. 185); 7.4.10 (tr. 216–217); 10.1.1–10.1.2 (tr. 294–299); Phụ lục 2 (tr. 367); Bảng A5.2.1 (tr. 386–387)",
+  "QĐ 2341/QĐ-BYT 2024 – BYT, IMCI – kho cũ tltk-10000-ca – ĐÃ ĐỌC: Bảng kiểm 5 (tr. 15)",
+  "QĐ 3610/QĐ-BYT 2015 – BYT, Hướng dẫn xử trí ngộ độc – TL-0035 – ĐÃ ĐỌC: Ngộ độc paracetamol mục 1–4.3 (tr. 20–22)",
+  "QĐ 162/QĐ-BYT 2024 – BYT, Bệnh lao – TL-0123 – ĐÃ ĐỌC: mục 3.4.1 (tr. 29–31); Phần IV mục 1.2.1 (theo sổ mâu thuẫn). WHO 2022 Module 5 – TL-0247 – mục 2",
+  "QĐ 3312/QĐ-BYT 2015 – BYT, Bệnh thường gặp ở trẻ em – TL-0037 – Suy giáp trạng bẩm sinh mục 3 (tr. 641). QĐ 708/QĐ-BYT 2015 – TL-0015 – paracetamol tối đa 60 mg/kg/24 giờ (theo sổ mâu thuẫn)",
+  "NICE NG224 (2022, bản 2025) – TL-0259 – ĐÃ ĐỌC: mục 1.1.1–1.1.3, 1.1.13–1.1.15",
+  "Không có trong tài liệu đã tải: khoảng tham chiếu máu sơ sinh; theo dõi men gan khi sơ sinh dùng paracetamol lặp lại; chứng cứ quan hệ vợ chồng và sữa mẹ; lịch tiêm chủng (TT 10/2024 chưa đọc được)"
+ ],
+ "ghi_chu_bien_tap": [
+  "25/10/2026: viết mới. Đã đọc QĐ 2989/2026 (xác minh câu nhập viện < 6 tháng tr. 11 trên PDF vì bản chữ mất dòng), WHO 2023, PB 2013, QĐ 2341/2024 Bảng kiểm 5, QĐ 3610, QĐ 162, WHO 2022 Module 5, NICE NG224, QĐ 3312.",
+  "Thiếu tài liệu: khoảng tham chiếu máu sơ sinh (phiếu in khoảng người lớn); theo dõi men gan khi paracetamol lặp lại ở sơ sinh; quan hệ vợ chồng và sữa mẹ; lịch tiêm.",
+  "Mâu thuẫn: QĐ 4487/2016 (mọi trẻ < 6 tháng nhập viện) bị QĐ 2989/2026 thay thế, không phải mâu thuẫn thật; mốc tái khám (2 ngày/1 tuần/1 tháng) ghi theo từng nguồn, xem sổ mâu thuẫn."
+ ]
+}
