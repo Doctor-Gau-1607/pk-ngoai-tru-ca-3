@@ -1,0 +1,755 @@
+{
+ "ma_ca": "NH-0995",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-25 (Sonnet)",
+ "benh": "NH_viem_da_co_dia_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm da cơ địa / chàm (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Ghẻ",
+   "Viêm da tiếp xúc"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thảo Nguyên",
+  "tuoi": 9,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 4",
+  "can_nang": 28,
+  "chieu_cao": 132,
+  "xung_ho": "Bé gái 9 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hay nói 'con không sao'. Mẹ là người kể chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ, gọi bé là 'cháu' hoặc 'con bé', thỉnh thoảng gọi tên 'Nguyên'.",
+  "tinh_cach": "Nguyên điềm đạm, sĩ diện, không muốn bị coi là 'người bệnh', rất sợ kim (năm lớp 2 từng bị chích máu nhiều lần). Mẹ (chị Mai, 35 tuổi, nhân viên ngân hàng) chu đáo, hay lo xa, hay tra mạng, tin lời bà ngoại 'da nổi là gan nóng'. Chị đi làm về muộn, ngủ riêng phòng với bé nên ít thấy bé gãi ban đêm.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'ngứa không con?' thì Nguyên nói 'con không ngứa mấy' và mẹ phụ họa 'chắc nhẹ thôi'. Chỉ khi hỏi câu chức năng (đêm thức mấy lần, ở lớp có gãi không, cô giáo nhắc không, nghỉ học không, ga giường có gì không) mới lộ mức ngứa thật.",
+  "nguoi_nha": "Mẹ bé, chị Mai, 35 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé (vd 'Nguyên ngứa ở chỗ nào?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Mai)",
+  "ngoai_hinh": {
+   "da": "#d9a47a",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#8fb9a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e0b48c",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#6d8f7a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mẹ xin khám tổng quát cho bé, tiện xem da khô nổi mảng đỏ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Bé gái 9 tuổi, 28 kg, học sinh lớp 4, mẹ đưa đến xin 'khám tổng quát' vì dạo này da khô, nổi mảng đỏ ở khuỷu tay. Sinh hiệu: nhiệt 36,8 °C, mạch 88 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, thoải mái, thỉnh thoảng đưa tay gãi khuỷu.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Nguyên nhập viện hoặc ép làm trọn bộ 'xét nghiệm tổng quát' hôm nay là quá tay: bé không sốt, ăn uống bình thường, tổn thương khu trú ở nếp gấp, không rỉ dịch, không bội nhiễm; nền tảng điều trị là chăm sóc da và thuốc bôi tại chỗ ngoại trú (QĐ 4416, Viêm da cơ địa mục 3.1, 3.2.1; JTF 2023 Khuyến cáo 1, 3). Bé vốn sợ kim, bị giữ chích máu sẽ càng sợ, lần sau không chịu đến khám; chị Mai tốn thêm tiền và ngày công mà không đổi được hướng điều trị, vẫn tin rằng da nổi là do 'gan nóng'.",
+    "chuyen_tuyen": "Chuyển Nguyên lên bệnh viện chuyên khoa ngay từ lần đầu là quá tay: chẩn đoán rõ trên lâm sàng, chưa thử điều trị tại chỗ đúng cách, chưa có bội nhiễm; NICE CG57 mục 1.7.1.3 chỉ gợi ý chuyển thường quy khi chẩn đoán chưa chắc hoặc đã điều trị mà chưa kiểm soát được. Chị Mai mất một ngày công, bé chờ đợi ở nơi đông người, còn cơ hội dặn kỹ cách dưỡng ẩm và bôi thuốc ngay tại phòng khám bị bỏ qua."
+   },
+   "loi_mo": "Chào bác sĩ. Em đưa cháu đi khám tổng quát luôn cho yên tâm, bác sĩ xét nghiệm máu xem gan thận cháu có sao không giúp em. Dạo này da cháu khô, nổi mấy mảng đỏ ở khuỷu tay.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ đưa bé đi khám tổng quát đầu năm học, muốn xét nghiệm máu cho yên tâm. Nhân tiện nhờ xem da khô, nổi mảng đỏ ở khuỷu tay khoảng 10 ngày nay.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và mong muốn của mẹ"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 10 ngày nay, từ sau đợt không khí lạnh đầu mùa, da bé khô ráp, nổi mảng đỏ sần ở hai nếp khuỷu, sau đó thêm ở hai nếp khoeo và mặt trước cổ. Không có mụn nước chảy dịch, không đóng vảy vàng, không sốt. Không lan lên mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, vị trí, hình thái"
+    },
+    {
+     "id": "ngua_cam_giac",
+     "noi_dung": "Hỏi cảm giác: Nguyên nói 'con không ngứa mấy đâu, chỉ hơi nhột', mẹ nói 'chắc nhẹ thôi bác sĩ, cháu có kêu đâu'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Câu trả lời giảm nhẹ khi hỏi cảm giác"
+    },
+    {
+     "id": "ngua_chuc_nang",
+     "noi_dung": "Thật ra bé gãi nhiều: đêm nào cũng thức 2–3 lần để gãi, sáng ra có vệt máu nhỏ trên ga giường. Ở lớp bé gãi dưới bàn, cô giáo đã nhắc hai lần; ban ngày hay cáu, ngủ gật trong giờ học. Chị Mai ngủ riêng phòng, về muộn nên không biết nếu không hỏi đúng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi hỏi câu chức năng: đêm thức mấy lần, ở lớp có gãi không, cô giáo nhắc không, ga giường có vết gì không, nghỉ học không.",
+     "k": 1,
+     "y": "Mức ngứa thật: câu hỏi chức năng thay câu hỏi cảm giác"
+    },
+    {
+     "id": "tien_su_dia",
+     "noi_dung": "Da bé khô từ nhỏ; khoảng 2 tuổi bắt đầu nổi mảng đỏ ở nếp khuỷu mỗi mùa lạnh, bôi kem dưỡng ẩm thì dịu. Bé hay hắt hơi, ngạt mũi buổi sáng, bác sĩ từng nói viêm mũi dị ứng; chưa bị hen. Bố bị viêm mũi dị ứng, hay nổi mề đay. Không dị ứng thức ăn đã biết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bản thân và gia đình có cơ địa dị ứng, khô da, khởi phát sớm"
+    },
+    {
+     "id": "loai_tru_ghe",
+     "noi_dung": "Không ai trong nhà bị ngứa, ở lớp chưa nghe có bạn bị ghẻ. Bé không ngứa kẽ ngón tay, cổ tay, thắt lưng, bẹn, bộ phận sinh dục; không có mụn nước nhỏ ở những chỗ đó. Ngứa nhiều hơn khi ra mồ hôi và khi trời hanh, không riêng ban đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ghẻ: người nhà ngứa, vị trí kẽ, thắt lưng, sinh dục"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Hai tuần nay nhà đổi sang sữa tắm có mùi thơm và nước xả vải mới, bé tắm nước khá nóng cho đỡ lạnh, mặc áo len cổ cao đi học. Da bé sạm, nổi mảng ở nếp gấp hai bên đối xứng, không theo hình khuôn món đồ tiếp xúc nào; những mùa lạnh trước, khi chưa đổi gì, da bé vẫn nổi như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố tiếp xúc: loại trừ viêm da tiếp xúc, tìm yếu tố làm nặng"
+    },
+    {
+     "id": "thuoc_kem",
+     "noi_dung": "Khoảng 10 ngày trước, mẹ mua ở hiệu thuốc một tuýp kem nhỏ 'trị viêm da, chàm' do dược sĩ đưa, bôi mỗi tối 5–6 ngày. Dịu ngứa vài hôm, ngưng thì ngứa trở lại. Chị Mai không nhớ tên thuốc, đã vứt hộp, chỉ nhớ tuýp màu trắng xanh, chữ nhỏ. Không cho uống thuốc nào khác, không bôi thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng không rõ loại (có thể chứa corticoid hoặc kháng sinh)"
+    },
+    {
+     "id": "gan_nong",
+     "noi_dung": "Bà ngoại bảo 'da nổi là gan nóng, thải độc', nên mẹ lo gan thận cháu có vấn đề và đã cho bé uống nhiều nước mát, kiêng trứng và hải sản vài hôm. Đây là lý do thật mẹ muốn xét nghiệm máu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Động cơ thật của việc khám tổng quát và xét nghiệm máu"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Học tốt, ăn uống bình thường, không sốt, không ho. Nhà nuôi một con mèo từ năm ngoái.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Sinh hoạt, tiếp xúc lông súc vật"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Hai nếp khuỷu: mảng đỏ nâu nhạt ranh giới không rõ, da khô bong vảy mịn, hơi dày, vài sẩn nhỏ và vết xước dài do gãi, không rỉ dịch. Hai nếp khoeo: da khô, hơi dày, sạm nhẹ. Mặt trước cổ: vùng sạm dạng lưới mờ. Không mụn nước kẽ ngón, cổ tay, thắt lưng, bẹn, sinh dục; không luống ghẻ; không mụn mủ, không vảy tiết vàng. Da toàn thân khô, hai cẳng tay nổi sần nhẹ quanh chân lông.",
+     "k": 1,
+     "hien": "Nếp khuỷu hai tay đối xứng, mỗi bên khoảng 5 × 6 cm; nếp khoeo hai bên; mặt trước cổ.",
+     "media": [
+      {
+       "vi_tri": "Nếp khuỷu",
+       "id": "HA-DA-0069",
+       "chu": "Nếp khuỷu: mảng đỏ nâu nhạt, da khô bong vảy mịn, vài sẩn nhỏ, vết xước dài do gãi, không rỉ dịch, không mủ."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui vẻ, nói chuyện lưu loát, niêm mạc ẩm, môi hồng, không phù, không xanh xao.",
+     "k": 0,
+     "hien": "Tỉnh, thoải mái, thỉnh thoảng gãi khuỷu."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to. Niêm mạc mũi hơi nhợt, phù nhẹ, dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ và hạch nách hai bên nhỏ, di động, không đau. Mi dưới hai mắt có nếp gấp phụ rõ, quanh mắt hơi sạm. Không có tổn thương ở mặt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không rút lõm, phổi thông khí rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p, không rút lõm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không đau.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 28 kg, chiều cao 132 cm; thể trạng cân đối, không teo cơ, không phù. Đánh giá bằng biểu đồ tăng trưởng: không có trong tài liệu đã tải.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "(Nguyên ôm chặt tay mẹ, mắt đỏ hoe: 'Con không chích đâu, đau lắm!'. Chị Mai không ép. Bác sĩ đã giải thích lý do và ghi nhận việc từ chối vào hồ sơ.)",
+     "n": "Không cần: chẩn đoán dựa lâm sàng, công thức máu chỉ xét biến chứng (QĐ 4416, Viêm da cơ địa mục 2.2, 2.3). Bé từ chối, không trừ điểm; phương án B là chẩn đoán lâm sàng."
+    },
+    "glu": {
+     "v": "n",
+     "r": "(Nguyên ôm chặt tay mẹ, mắt đỏ hoe: 'Con không chích đâu, đau lắm!'. Chị Mai không ép. Bác sĩ đã giải thích lý do và ghi nhận việc từ chối vào hồ sơ.)",
+     "n": "Không cần: không có triệu chứng gợi ý đái tháo đường. Bé từ chối, ghi nhận."
+    },
+    "liver": {
+     "v": "n",
+     "r": "(Nguyên ôm chặt tay mẹ, mắt đỏ hoe: 'Con không chích đâu, đau lắm!'. Chị Mai không ép. Bác sĩ đã giải thích lý do và ghi nhận việc từ chối vào hồ sơ.)",
+     "n": "Không cần: không vàng da, không đau bụng, gan không to; da nổi kiểu viêm da cơ địa không do 'gan nóng'. Bé từ chối, ghi nhận."
+    },
+    "ige_tong": {
+     "v": "a",
+     "r": "(Nguyên ôm chặt tay mẹ, mắt đỏ hoe: 'Con không chích đâu, đau lắm!'. Chị Mai không ép. Bác sĩ đã giải thích lý do và ghi nhận việc từ chối vào hồ sơ.)",
+     "n": "Chấp nhận, không bắt buộc: IgE huyết thanh thường tăng nhưng chỉ là tiêu chuẩn phụ, hỗ trợ (QĐ 4416, Viêm da cơ địa mục 2.2, 2.3.1); không đổi xử trí hôm nay. Bé từ chối, không trừ điểm."
+    },
+    "test_lay_da": {
+     "v": "a",
+     "r": "Chưa làm: bé sợ kim, mẹ đồng ý hoãn.",
+     "n": "Chấp nhận, không bắt buộc: test dị nguyên có trong QĐ 4416 (mục 2.2) nhưng không cần cho đợt này; NICE CG57 mục 1.4.1.5: hầu hết trẻ nhẹ không cần test dị ứng."
+    },
+    "soi_da": {
+     "v": "a",
+     "r": "Soi da không xâm lấn: không thấy hình 'vệt khói máy bay', không luống ghẻ ở nếp khuỷu và kẽ ngón; vùng khuỷu có vảy mịn, mạch máu dạng chấm rải rác.",
+     "n": "Chấp nhận, không bắt buộc: soi da là cận lâm sàng của ghẻ (QĐ 4416, Bệnh ghẻ mục 2.2). Bé đồng ý vì không đau, không cần kim. Bệnh cảnh nếp gấp, không ai trong nhà ngứa nên bác sĩ thường không cần."
+    },
+    "soi_nam": {
+     "v": "n",
+     "r": "Chưa làm: bé không chịu cạo da.",
+     "n": "Không cần: mảng đối xứng ở nếp gấp, không viền tròn bờ rõ (QĐ 4416, Viêm da cơ địa mục 2.4 có nấm da trong chẩn đoán phân biệt)."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không có dịch để lấy.",
+     "n": "Không cần: không rỉ dịch, mủ, vảy tiết (WHO AWaRe 2022 mục 16: không cấy phết da khi không có mủ)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa ở trẻ 9 tuổi, đợt bùng phát mức vừa ở nếp khuỷu, nếp khoeo, cổ; chưa bội nhiễm; yếu tố làm nặng: không khí lạnh khô, tắm nước nóng, sữa tắm và nước xả thơm, áo len",
+     "ok": 1,
+     "n": "Ngứa, tổn thương dạng chàm ở nếp gấp, khô da từ nhỏ, khởi phát sớm, tái phát mỗi mùa lạnh, tiền sử viêm mũi dị ứng và gia đình có cơ địa: đủ tiêu chuẩn Hanifin–Rajka (≥ 3 chính + ≥ 3 phụ) và tiêu chuẩn Anh (ngứa bắt buộc + ≥ 3/5 tiêu chí) (QĐ 4416, Viêm da cơ địa mục 2.3.1, 2.3.2)."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Không có mụn nước kẽ ngón, cổ tay, thắt lưng, sinh dục, không luống ghẻ, không ai trong nhà ngứa; soi da không thấy vệt khói máy bay (QĐ 4416, Bệnh ghẻ mục 2.1, 2.2). Ngứa cả ban ngày, tăng khi ra mồ hôi."
+    },
+    {
+     "t": "Viêm da tiếp xúc (kích ứng hoặc dị ứng)",
+     "n": "Tổn thương đối xứng ở nếp gấp, không theo hình khuôn chất tiếp xúc, đã tái phát nhiều mùa lạnh từ năm 2 tuổi khi chưa đổi sữa tắm (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 2.1.3). Sữa tắm thơm, nước xả vải chỉ là yếu tố làm nặng."
+    },
+    {
+     "t": "Nấm da",
+     "n": "Mảng không viền tròn bờ rõ, đối xứng, kèm khô da toàn thân (QĐ 4416, Viêm da cơ địa mục 2.4)."
+    },
+    {
+     "t": "Chàm vi trùng, bội nhiễm tụ cầu hoặc liên cầu",
+     "n": "Không rỉ dịch, không vảy tiết vàng, không mụn mủ, không sốt, không đau (dấu hiệu bội nhiễm: JTF 2023 Khuyến cáo 9; NICE CG57 mục 1.5.1.36)."
+    },
+    {
+     "t": "Viêm da dầu",
+     "n": "Da đầu, mặt, nếp mũi má không có vảy bã vàng; tổn thương ở nếp khuỷu, khoeo (QĐ 4416, Viêm da cơ địa mục 2.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Dưỡng ẩm không mùi ngay sau tắm và 2–3 lần/ngày, dùng lâu dài kể cả khi da hết đỏ",
+     "v": "c",
+     "n": "JTF 2023 Khuyến cáo 1, 2; QĐ 4416 (Viêm da cơ địa mục 3.2.3, 4: ít nhất 2–3 lần/ngày khi hanh khô); NICE CG57 mục 1.5.1.4: 250–500 g mỗi tuần."
+    },
+    {
+     "t": "Corticoid bôi hiệu lực nhẹ đến trung bình (hydrocortison 1–2,5% hoặc desonid), ngày 1 lần buổi tối, chỉ vùng đang viêm; nếp gấp không quá 10 ngày liên tục rồi giảm dần",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da cơ địa mục 3.2.1): vùng da mỏng dùng loại nhẹ hơn, 1 lần/ngày, nếp gấp ≤ 10 ngày, giảm dần; QĐ 75/2015 (mục 4b): trẻ lớn dùng loại trung bình như desonid, hydrocortison 1–2,5% cho trẻ nhỏ; JTF 2023 Khuyến cáo 3, 6; NICE CG57 mục 1.5.1.13–1.5.1.15 (1–2 lần/ngày, chỉ vùng đang viêm). Desonid xếp nhẹ theo QĐ 4416 (Viêm da tiếp xúc mục 3.2.1), trung bình theo QĐ 75: cả hai cách đều chấp nhận."
+    },
+    {
+     "t": "Tắm nước ấm dưới 36 °C, thôi sữa tắm và nước xả vải thơm, dùng chất làm sạch dịu nhẹ; mặc cotton, không để len chạm da",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da cơ địa mục 3.2.3, 4); NICE CG57 mục 1.5.1.10, 1.5.1.11. Mức giảm bệnh nhờ thôi nước xả: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích bệnh cơ địa mạn tính, không phải 'gan nóng'; dạy cách bôi, thời gian dùng corticoid; trấn an lo ngại tác dụng phụ",
+     "v": "c",
+     "n": "JTF 2023 Khuyến cáo 1 (giáo dục, tuân thủ trước khi đổi thuốc); NICE CG57 mục 1.5.1.12, 1.6.1.1. Thứ tự bôi thuốc và dưỡng ẩm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận bé từ chối xét nghiệm máu và việc đã giải thích; chẩn đoán lâm sàng; đề nghị lại khi thật cần",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da cơ địa mục 2.2, 2.3): chẩn đoán dựa lâm sàng, xét nghiệm máu chỉ xét biến chứng. Ghi hồ sơ là yêu cầu hành nghề, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lại tên tuýp kem hiệu thuốc (chụp ảnh hộp hoặc mang tuýp) và ngưng bôi kem không rõ",
+     "v": "c",
+     "n": "Có thể chứa corticoid, dễ tính sai thời gian bôi (QĐ 4416, Viêm da cơ địa mục 3.2.1 giới hạn ngày bôi ở nếp gấp). Thành phần tuýp: không có trong dữ kiện ca."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 10 ngày, sớm hơn nếu không đỡ; đến ngay nếu rỉ dịch nhiều, vảy vàng, mụn mủ, đau, sốt",
+     "v": "c",
+     "n": "Mốc 10 ngày theo giới hạn bôi nếp gấp (QĐ 4416 mục 3.2.1); mốc tái khám cụ thể: không có trong tài liệu đã tải. Dấu bội nhiễm: JTF 2023 Khuyến cáo 9; NICE CG57 mục 1.5.1.36."
+    },
+    {
+     "t": "Kháng histamin uống khi ngứa nhiều về đêm",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.2), QĐ 75/2015 (mục 4b): dùng khi ngứa; NICE CG57 mục 1.5.1.33, 1.5.1.35: không thường quy, thử 7–14 ngày loại an thần khi mất ngủ nhiều; EuroGuiDerm 2025: hiệu quả giới hạn. Không nguồn nào nói gây hại; liều trẻ 9 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh uống hoặc bôi khi chưa bội nhiễm",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.2): chỉ khi có nhiễm khuẩn; JTF 2023 Khuyến cáo 9: không thêm kháng khuẩn khi chưa nhiễm khuẩn nặng."
+    },
+    {
+     "t": "Prednisolon uống ngắn ngày cho đợt bùng phát mức vừa",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.2) chỉ cho khi bùng phát nặng; EuroGuiDerm 2025 chỉ cứu nguy cho đợt cấp; JTF 2023 Khuyến cáo 25 gợi ý không dùng. Cả ba nguồn không ủng hộ ở mức vừa."
+    },
+    {
+     "t": "Corticoid bôi rất mạnh (clobetasol) lên nếp khuỷu, nếp khoeo, cổ",
+     "v": "w",
+     "n": "Vùng da mỏng dùng loại nhẹ hơn, tác dụng phụ teo da, giãn mạch (QĐ 4416, mục 3.2.1); NICE CG57 mục 1.5.1.13: không dùng loại rất mạnh ở trẻ khi chưa có ý kiến chuyên khoa."
+    },
+    {
+     "t": "Kiêng trứng, sữa, hải sản để chữa da",
+     "v": "w",
+     "n": "JTF 2023 Khuyến cáo 13: gợi ý không kiêng so với ăn tự do; QĐ 4416 (mục 4): kiêng chỉ khi bệnh nặng, trẻ nhỏ, đã xác định rõ thức ăn gây bệnh."
+    },
+    {
+     "t": "Chuyển tuyến hoặc nhập viện ngay lượt này",
+     "v": "w",
+     "n": "Chưa thử điều trị tại chỗ, chưa bội nhiễm (QĐ 4416, mục 3.2.2: chỉ khi dai dẳng không đáp ứng; NICE CG57 mục 1.7.1.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa ở trẻ em (9 tuổi), đợt bùng phát mức vừa ở nếp khuỷu, nếp khoeo, mặt trước cổ",
+     "Đủ tiêu chuẩn Hanifin–Rajka và tiêu chuẩn Anh (QĐ 4416, Viêm da cơ địa mục 2.3)",
+     "Yếu tố làm nặng: không khí lạnh khô, tắm nước nóng, sữa tắm và nước xả vải thơm, áo len; có mèo trong nhà",
+     "Chưa bội nhiễm; không phải ghẻ; không phải viêm da tiếp xúc",
+     "Ngứa thật nhiều hơn lời khai: mất ngủ, ngủ gật ở lớp",
+     "Đã bôi một loại kem không rõ tên; bé từ chối xét nghiệm máu, mẹ muốn khám tổng quát vì lo 'gan nóng'"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao viêm da cơ địa: ngứa, chàm ở nếp khuỷu và khoeo đối xứng, khô da từ nhỏ, khởi phát khoảng 2 tuổi, tái phát mùa lạnh, viêm mũi dị ứng, bố có cơ địa: đủ Hanifin–Rajka (≥ 3 chính + ≥ 3 phụ) và tiêu chuẩn Anh (ngứa bắt buộc + ≥ 3/5 tiêu chí) (QĐ 4416, Viêm da cơ địa mục 2.3.1, 2.3.2); vị trí hay gặp ở trẻ em là khoeo, nếp khuỷu, hai bên cổ (mục 2.1).",
+     "Vì sao không phải ghẻ: ghẻ có mụn nước kẽ ngón, cổ tay, thắt lưng, sinh dục, luống ghẻ, người nhà ngứa (QĐ 4416, Bệnh ghẻ mục 2.1); Nguyên không có, soi da không thấy vệt khói máy bay (mục 2.2).",
+     "Vì sao không phải viêm da tiếp xúc: tổn thương đối xứng ở nếp gấp, không theo hình khuôn chất tiếp xúc, tái phát nhiều mùa lạnh khi chưa đổi sữa tắm (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 2.1.3). Sữa tắm thơm, nước xả chỉ làm nặng thêm (NICE CG57 mục 1.5.1.10).",
+     "Vì sao chưa bội nhiễm: không rỉ dịch, vảy vàng, mụn mủ, sốt, đau (JTF 2023 Khuyến cáo 9; NICE CG57 mục 1.5.1.36).",
+     "Cận lâm sàng: chẩn đoán lâm sàng; xét nghiệm máu, IgE chỉ hỗ trợ (QĐ 4416, mục 2.2). Nguyên từ chối chích máu: ghi nhận, không ép; phương án B là lâm sàng và soi da không xâm lấn.",
+     "Lý do thật của lần khám: bà ngoại nói 'gan nóng'. Hỏi đúng thì lộ ra; giải thích bằng tiêu chí cụ thể (không phù, không vàng da, gan không to) thay vì chỉ từ chối xét nghiệm."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, ngoại trú, tái khám khoảng 10 ngày; chưa có chỉ định nhập viện hay chuyển tuyến (QĐ 4416 mục 3.2.2; NICE CG57 mục 1.7.1.2, 1.7.1.3).",
+     "Nền tảng: dưỡng ẩm không mùi 2–3 lần/ngày (JTF 2023 Khuyến cáo 1, 2; QĐ 4416 mục 3.2.3, 4; NICE CG57 mục 1.5.1.4) cộng corticoid bôi vùng viêm (JTF 2023 Khuyến cáo 3, mạnh, bằng chứng cao).",
+     "Chọn corticoid: QĐ 4416 (mục 3.2.1) loại nhẹ cho nếp gấp, 1 lần/ngày, ≤ 10 ngày; QĐ 75/2015 (mục 4b) trẻ lớn dùng loại trung bình như desonid, trẻ nhỏ hydrocortison 1–2,5%; JTF 2023 Khuyến cáo 6: 1 lần/ngày; NICE CG57 mục 1.5.1.14: 1–2 lần/ngày. Không mâu thuẫn về an toàn; ca ghi cả hai cách. Desonid xếp trung bình theo QĐ 75, nhẹ theo QĐ 4416 (Viêm da tiếp xúc mục 3.2.1).",
+     "Không corticoid toàn thân, không kháng sinh: chưa nặng, chưa bội nhiễm (QĐ 4416 mục 3.2.2; JTF 2023 Khuyến cáo 9, 25). Không kiêng ăn (JTF 2023 Khuyến cáo 13; QĐ 4416 mục 4); mẹ đã kiêng vài hôm: cho ăn lại bình thường.",
+     "Kháng histamin: QĐ 4416 mục 3.2.2 cho dùng khi ngứa; NICE CG57 mục 1.5.1.33, 1.5.1.35 không thường quy; EuroGuiDerm 2025 hiệu quả giới hạn. Cả hai cách chấp nhận; ca này không kê."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi, không chất gây dị ứng (loại bán sẵn)",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Bôi một lớp dày phủ toàn thân, nhiều ở vùng khô, nếp gấp",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Ngay sau tắm và thêm 2–3 lần/ngày",
+      "so_ngay": "Hằng ngày, lâu dài kể cả khi hết đỏ",
+      "ghi_chu": "JTF 2023 Khuyến cáo 1, 2; QĐ 4416 (Viêm da cơ địa mục 3.2.3, 4: ít nhất 2–3 lần/ngày khi hanh khô); NICE CG57 mục 1.5.1.4: kê 250–500 g mỗi tuần. Lượng mỗi lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Desonid kem (hoặc hydrocortison kem 1–2,5%)",
+      "ham_luong": "Desonid: nồng độ không có trong tài liệu đã tải; hydrocortison 1–2,5% (QĐ 75/2015 mục 4b)",
+      "lieu": "Bôi mỏng một lớp lên vùng đang đỏ, chỉ nếp khuỷu, nếp khoeo, cổ",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Mỗi tối 1 lần, sau tắm",
+      "so_ngay": "Nếp gấp không quá 10 ngày liên tục rồi giảm dần; tái khám sau khoảng 10 ngày",
+      "ghi_chu": "QĐ 4416 (Viêm da cơ địa mục 3.2.1): vùng da mỏng dùng loại nhẹ, 1 lần/ngày, giảm dần; QĐ 75/2015 (mục 4b): trẻ lớn dùng loại trung bình như desonid; JTF 2023 Khuyến cáo 3, 6; NICE CG57 mục 1.5.1.14, 1.5.1.15. Desonid nhẹ theo QĐ 4416 (Viêm da tiếp xúc mục 3.2.1), trung bình theo QĐ 75. Thứ tự bôi thuốc và dưỡng ẩm: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Chất làm sạch dịu nhẹ hoặc kem dưỡng ẩm thay xà phòng; ngưng sữa tắm và nước xả vải có mùi",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Tắm nhanh bằng nước ấm dưới 36 °C, thấm khô nhẹ rồi bôi thuốc và dưỡng ẩm ngay",
+      "duong": "Dùng ngoài",
+      "thoi_diem": "Khi tắm hằng ngày",
+      "so_ngay": "Lâu dài",
+      "ghi_chu": "QĐ 4416 (Viêm da cơ địa mục 3.2.3, 4); NICE CG57 mục 1.5.1.10, 1.5.1.11 (không dùng chất thêm vào nước tắm)."
+     }
+    ],
+    "dan_do": [
+     "Dưỡng ẩm nhiều lần/ngày kể cả khi da lành; bôi corticoid mỗi tối chỗ đỏ, ngưng đúng hẹn, không bôi da lành; mang tuýp thuốc cũ hoặc ảnh hộp đến lần sau (QĐ 4416 mục 3.2.1; JTF 2023 Khuyến cáo 1, 6).",
+     "Tắm nước ấm dưới 36 °C, bỏ sữa tắm và nước xả thơm, mặc cotton, không len sát da, hạn chế để mèo lên giường (QĐ 4416 mục 4).",
+     "Theo dõi ngứa bằng câu chức năng ('đêm qua con thức mấy lần?'); cắt móng ngắn, bao tay mỏng khi ngủ nếu gãi nhiều.",
+     "Đến ngay nếu rỉ dịch nhiều, vảy vàng, mụn mủ, đau, sốt, lờ đờ (JTF 2023 Khuyến cáo 9; NICE CG57 mục 1.5.1.36).",
+     "Tôn trọng việc Nguyên chưa muốn chích máu: hiện chưa cần xét nghiệm; sẽ đề nghị lại nếu thật cần và có cách giảm đau.",
+     "Tái khám sau khoảng 10 ngày (hết đợt bôi corticoid ở nếp gấp, QĐ 4416 mục 3.2.1), sớm hơn nếu không đỡ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 12 ngày",
+   "tiep_don": "Nguyên tái khám sau 12 ngày, mẹ đưa đến vì da không đỡ, còn nhiều hơn trước. Sinh hiệu: nhiệt 36,9 °C, mạch 92 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, mặt hơi cau, tay gãi liên tục lên cổ tay và khuỷu, nói 'con khỏe, không sao'.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Nguyên về nhà bôi tiếp hoặc tăng thuốc, hẹn lại sau vài tuần mà không chuyển chuyên khoa là chậm: nặng chưa đáp ứng điều trị tại chỗ tối ưu sau khoảng một tuần cần chuyển khẩn trong 2 tuần (NICE CG57 mục 1.7.1.2); thuốc bậc hai chỉ có ở tuyến trên (QĐ 4416, Viêm da cơ địa mục 3.2.2). Bé tiếp tục thức đêm, nghỉ học, da trầy chảy máu dễ bội nhiễm hoặc thành eczema herpeticum mà ở nhà khó nhận ra (NICE CG57 mục 1.5.1.36, 1.5.1.42); chị Mai dễ mất lòng tin, tự mua thuốc không rõ như lần trước.",
+    "nhap_vien": "Cho Nguyên nhập viện nội trú ngay là quá tay: bé không sốt, không rỉ dịch, không mụn mủ, không mụn nước chùm, không lờ đờ (NICE CG57 mục 1.5.1.36, 1.5.1.42); điều bé cần là chuyên khoa da liễu hoặc dị ứng nhi đánh giá trong 2 tuần (mục 1.7.1.2; QĐ 4416 mục 3.2.2). Nằm viện làm bé xa mẹ và càng sợ kim, tốn kém hơn mà không thêm lợi ích đã nêu trong tài liệu.",
+    "cap_cuu": "Gọi cấp cứu hoặc chuyển ngay trong đêm là quá tay: chỉ chuyển cùng ngày khi nghi eczema herpeticum (mụn nước chùm, loét tròn như bị đục, đau, sốt; NICE CG57 mục 1.5.1.42, 1.7.1.1), bé không có. Gia đình hoang mang, bé bị khám lạ lúc nửa đêm, trong khi chuyển chuyên khoa khẩn trong 2 tuần là đủ (mục 1.7.1.2)."
+   },
+   "loi_mo": "Bác sĩ ơi, em bôi thuốc đủ như bác sĩ dặn mà da cháu không đỡ, còn nhiều hơn. Nguyên nó cứ bảo không sao, nhưng em thấy cháu khổ lắm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn nhưng sớm hơn dự định vì da không đỡ, lan thêm. Mẹ mang tuýp thuốc và hũ dưỡng ẩm đến.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị Mai làm đúng dặn: dưỡng ẩm 3 lần/ngày, đã dùng gần hết hũ 500 g; bôi desonid mỗi tối đủ 10 ngày, chỉ bôi chỗ đỏ ở nếp khuỷu, nếp khoeo, cổ, ngưng đúng hẹn; tắm nước ấm, bỏ sữa tắm và nước xả thơm, bé mặc cotton, mèo cho ra khỏi phòng ngủ. Chị mang tuýp thuốc, còn khoảng một phần ba, nhãn đúng loại đã kê. Tuýp kem mua ở hiệu thuốc lần trước thì chị vẫn không nhớ tên, không dùng lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, thuốc đã dùng (tuýp và hũ mang theo)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 2–3 sau khi bôi bé dịu đỏ một chút, từ ngày thứ 4–5 thì đứng yên rồi nặng dần: hai nếp khuỷu và khoeo dày lên, nứt, thêm cổ tay, cổ chân, hai bên cổ và quanh mắt. Ngưng thuốc ngày thứ 10 thì đỏ rực hơn. Không sốt, không chảy dịch vàng, không mụn nước thành chùm, không loét tròn, không đau mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến không đỡ, dấu hiệu bội nhiễm và eczema herpeticum (âm tính)"
+    },
+    {
+     "id": "ngua_cam_giac",
+     "noi_dung": "Hỏi cảm giác: Nguyên nói 'con không ngứa, con khỏe mà', quay mặt đi.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Phủ nhận khi hỏi cảm giác"
+    },
+    {
+     "id": "ngua_chuc_nang",
+     "noi_dung": "Mấy đêm nay chị Mai ngủ chung nên thấy rõ: bé thức 4–5 lần/đêm để gãi, gần như sáng nào cũng có vệt máu trên ga và gối. Bé nghỉ học 3 buổi vì cô giáo gọi mẹ đón về khi bé gãi đến chảy máu, bé xấu hổ nên né giờ thể dục, không dám mặc áo ngắn tay, hay khóc một mình. Ăn tối ít vì cáu và mệt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi hỏi câu chức năng: đêm thức mấy lần, ga giường, nghỉ học, né hoạt động nào. Hỏi cảm giác thì Nguyên vẫn nói 'con không sao'.",
+     "k": 1,
+     "y": "Mức ảnh hưởng thật: giấc ngủ, học tập, tâm lý"
+    },
+    {
+     "id": "loai_tru",
+     "noi_dung": "Trong nhà vẫn không ai ngứa; bé không bôi thuốc nam, không tắm lá, không đổi sản phẩm nào khác ngoài những thứ đã dặn; không tiếp xúc hóa chất, không đổi trường lớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ghẻ, viêm da tiếp xúc, yếu tố mới"
+    },
+    {
+     "id": "xet_nghiem",
+     "noi_dung": "Chị Mai hỏi: 'Hay là xét nghiệm máu xem tại sao không đỡ?'. Nguyên lập tức rụt tay, nói 'con không chích đâu', nước mắt rưng rưng; chị không ép.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Từ chối xét nghiệm máu lần 2"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Hai nếp khuỷu và hai nếp khoeo: mảng đỏ sẫm dày, lichen hóa rõ, rãnh da nổi, nhiều vết xước dài có vảy máu, vài nứt nông; không rỉ dịch, không mụn mủ, không vảy tiết vàng. Cổ tay hai bên, cổ chân, hai bên cổ và quanh mắt: đỏ, khô, bong vảy, sạm. Thân và lưng khô, vài mảng đỏ rải rác. Không mụn nước thành chùm, không vết loét tròn như bị đục, không luống ghẻ, không sẩn quanh rốn, bẹn, sinh dục.",
+     "k": 1,
+     "hien": "Nếp khuỷu, nếp khoeo hai bên dày, nhiều vết xước; thêm cổ tay, cổ chân, hai bên cổ, quanh mắt."
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, hơi cáu, cau mặt khi gãi; niêm mạc ẩm, không sốt, không lờ đờ, uống nước bình thường.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, gãi liên tục."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ hai bên nhỏ, di động, không đau; không hạch viêm gần vùng da tổn thương.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, không chảy ghèn, không sợ ánh sáng; mi mắt đỏ khô nhẹ, không mụn nước, thị lực bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không rút lõm, phổi thông khí rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "(Nguyên lắc đầu: 'Con không chích máu đâu!'. Chị Mai không ép. Đã ghi nhận từ chối lần 2 vào hồ sơ.)",
+     "n": "Không cần để quyết định hôm nay: không sốt, không bội nhiễm (QĐ 4416, Viêm da cơ địa mục 2.2). Bé từ chối lần 2, ghi nhận, không trừ điểm."
+    },
+    "ige_tong": {
+     "v": "a",
+     "r": "(Nguyên lắc đầu: 'Con không chích máu đâu!'. Chị Mai không ép. Đã ghi nhận từ chối lần 2 vào hồ sơ.)",
+     "n": "Chấp nhận, không bắt buộc (QĐ 4416, Viêm da cơ địa mục 2.2, 2.3.1: tăng IgE là tiêu chuẩn phụ); không đổi quyết định chuyển tuyến."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không có dịch, mủ để lấy.",
+     "n": "Không cần: không rỉ dịch, mủ (WHO AWaRe 2022 mục 16); NICE CG57 mục 1.5.1.16 yêu cầu loại trừ nhiễm khuẩn khi corticoid không hiệu quả, ở đây bằng lâm sàng (không rỉ dịch, vảy tiết, mụn mủ, sốt)."
+    },
+    "soi_da": {
+     "v": "a",
+     "r": "Soi da không xâm lấn lại: không thấy hình vệt khói máy bay, không luống ghẻ.",
+     "n": "Chấp nhận, không bắt buộc: loại trừ ghẻ lần 2 (QĐ 4416, Bệnh ghẻ mục 2.2); bệnh cảnh nếp gấp, không ai trong nhà ngứa nên không cần."
+    },
+    "pcr_hsv": {
+     "v": "n",
+     "r": "Không có tổn thương nghi herpes nên không lấy mẫu.",
+     "n": "Không cần: không mụn nước chùm, không loét tròn như bị đục, không sốt, không đau (NICE CG57 mục 1.5.1.42; QĐ 4416, Herpes simplex mục 2.1, 2.2)."
+    },
+    "tzanck": {
+     "v": "n",
+     "r": "Không có mụn nước để lấy dịch đáy.",
+     "n": "Không cần, cùng lý do với PCR HSV (QĐ 4416, Herpes simplex mục 2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa ở trẻ 9 tuổi, đợt bùng phát nặng (lichen hóa, mất ngủ, nghỉ học), không đáp ứng điều trị tại chỗ tối ưu, chưa bội nhiễm; cần chuyên khoa da liễu hoặc dị ứng nhi",
+     "ok": 1,
+     "n": "Chẩn đoán lượt 1 không đổi (QĐ 4416, Viêm da cơ địa mục 2.3). Điều trị đã đúng về hoạt chất, ngày bôi, dưỡng ẩm và tránh yếu tố khởi phát, đã kiểm tra tuân thủ bằng tuýp và hũ mang theo, vẫn không đỡ: bệnh dai dẳng, không đáp ứng các điều trị trước (QĐ 4416 mục 3.2.2); chuyên khoa khẩn trong 2 tuần (NICE CG57 mục 1.7.1.2)."
+    },
+    {
+     "t": "Bội nhiễm tụ cầu hoặc liên cầu (chàm vi trùng)",
+     "n": "Không rỉ dịch, vảy tiết vàng, mụn mủ, không sốt, không đau (JTF 2023 Khuyến cáo 9; NICE CG57 mục 1.5.1.36). Kháng sinh chỉ khi có nhiễm khuẩn (QĐ 4416 mục 3.2.2)."
+    },
+    {
+     "t": "Eczema herpeticum (bội nhiễm herpes simplex trên da cơ địa)",
+     "n": "Không mụn nước chùm, không loét tròn như bị đục, không đau rát tăng nhanh, không sốt, không lờ đờ (NICE CG57 mục 1.5.1.42). Nếu có: aciclovir và chuyển cùng ngày (mục 1.5.1.40, 1.7.1.1); QĐ 4416 (Herpes simplex mục 2.1) liệt kê eczema herpeticum là biến chứng."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Soi da âm tính lần 2, không ai trong nhà ngứa, không tổn thương kẽ ngón, thắt lưng, sinh dục (QĐ 4416, Bệnh ghẻ mục 2.1, 2.2)."
+    },
+    {
+     "t": "Viêm da tiếp xúc chồng lên (thuốc bôi, sữa tắm, nước xả)",
+     "n": "Đã bỏ sản phẩm thơm, không dùng thuốc nam hay thuốc lạ; kem không rõ tên đã ngưng; tổn thương vẫn ở nếp gấp đối xứng (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 2.1.3). Test áp để chuyên khoa quyết (mục 2.1.2)."
+    },
+    {
+     "t": "Điều trị chưa đúng (sai thuốc, không tuân thủ)",
+     "n": "Desonid ngày 1 lần, nếp gấp 10 ngày đúng QĐ 4416 (mục 3.2.1); dưỡng ẩm đủ lượng (NICE CG57 mục 1.5.1.4); tuân thủ được kiểm bằng tuýp, hũ mang theo."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khám chuyên khoa Da liễu hoặc Dị ứng nhi khẩn trong vòng 2 tuần, kèm thư giới thiệu và tiếp tục dưỡng ẩm, tắm đúng cách trong lúc chờ; không cần cấp cứu",
+     "v": "c",
+     "n": "NICE CG57 mục 1.7.1.2: nặng chưa đáp ứng điều trị tại chỗ tối ưu sau 1 tuần thì chuyển khẩn trong 2 tuần; QĐ 4416 (Viêm da cơ địa mục 3.2.2): thuốc bậc hai (quang trị liệu, cyclosporin, methotrexat, dupilumab) cho bệnh dai dẳng không đáp ứng; JTF 2023 Khuyến cáo 16: dupilumab cho trẻ ≥ 6 tháng, vừa–nặng, không đáp ứng corticoid bôi từ trung bình trở lên. Tuyến cơ sở không có các điều trị này. Mốc 'không đáp ứng' theo BYT: không có trong tài liệu đã tải; mốc 1 tuần là của NICE. Dưỡng ẩm, tắm: QĐ 4416 (mục 3.2.3, 4); NICE CG57 mục 1.5.1.4, 1.5.1.10, 1.5.1.11."
+    },
+    {
+     "t": "Kiểm đủ năm nguyên nhân thất bại điều trị trước khi chuyển: chẩn đoán (ghẻ, tiếp xúc), thuốc và thời gian, tuân thủ (xem tuýp, hũ), bội nhiễm (kể cả herpes), yếu tố khởi phát",
+     "v": "c",
+     "n": "JTF 2023 Khuyến cáo 1: bảo đảm đúng chẩn đoán, loại trừ ghẻ, viêm da tiếp xúc, nhiễm khuẩn, giáo dục, tránh khởi phát, dùng thuốc đúng trước khi đổi thuốc; NICE CG57 mục 1.5.1.16: thất bại 7–14 ngày thì loại trừ nhiễm khuẩn."
+    },
+    {
+     "t": "Viết thư giới thiệu đủ thông tin: diễn tiến, thuốc đã dùng (desonid ngày 1 lần × 10 ngày, kem không rõ tên), tuân thủ, ảnh, ảnh hưởng ngủ và học, từ chối xét nghiệm máu hai lần, cơ địa, cân nặng 28 kg",
+     "v": "c",
+     "n": "Kỹ năng bàn giao, không có trong tài liệu đã tải; giúp tuyến trên chọn điều trị bậc hai (QĐ 4416 mục 3.2.2) và không lặp lại thủ thuật gây sợ mà không chuẩn bị."
+    },
+    {
+     "t": "Dặn dấu hiệu đến ngay trong ngày: mụn nước chùm hoặc loét tròn, đau rát tăng nhanh, sốt, lờ đờ, rỉ dịch, vảy vàng, mụn mủ, đau đỏ mắt",
+     "v": "c",
+     "n": "NICE CG57 mục 1.5.1.36, 1.5.1.40–1.5.1.42, 1.7.1.1 (nghi eczema herpeticum thì chuyển cùng ngày); QĐ 4416 (Herpes simplex mục 2.1): eczema herpeticum là biến chứng."
+    },
+    {
+     "t": "Giải thích cho Nguyên và mẹ vì sao chuyển, chuyên khoa làm được gì (quấn ướt, chiếu đèn, thuốc khác); tôn trọng việc bé sợ kim",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.2); JTF 2023 Khuyến cáo 5 (quấn ướt), 1 (giáo dục); NICE CG57 mục 1.5.1.31–1.5.1.32. Cách nói chuyện với bé: kỹ năng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trong lúc chờ: corticoid bôi hiệu lực mạnh hơn (betamethason) lên mảng dày lichen hóa ở tay, chân, thân, ngày 1 lần, tối đa 14 ngày, không bôi mặt và cổ",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1): vùng da dày, lichen hóa dùng loại mạnh hơn; NICE CG57 mục 1.5.1.16: corticoid mạnh ≤ 14 ngày, không bôi mặt, cổ. Không bắt buộc vì chuyên khoa quyết trong 2 tuần; hoạt chất và nồng độ cho trẻ 9 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thử kháng histamin an thần buổi tối 7–14 ngày vì mất ngủ ảnh hưởng nhiều",
+     "v": "a",
+     "n": "NICE CG57 mục 1.5.1.35; QĐ 4416 (mục 3.2.2): kháng histamin khi ngứa; EuroGuiDerm 2025: hiệu quả giới hạn. Liều trẻ 9 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Prednisolon uống cứu nguy 3–7 ngày (0,5–1 mg/kg/ngày) khi bùng phát nặng",
+     "v": "a",
+     "n": "Hai cách đều có nguồn: QĐ 4416 (mục 3.2.2) cho 0,5–1 mg/kg 3–7 ngày khi bùng phát nặng rồi cắt; EuroGuiDerm 2025 chỉ cứu nguy cho đợt cấp, khởi 0,5 mg/kg/ngày, tối đa 1 mg/kg/ngày; JTF 2023 Khuyến cáo 25 gợi ý không dùng (có điều kiện, bằng chứng thấp). Với 28 kg: 14–28 mg/ngày theo QĐ 4416."
+    },
+    {
+     "t": "Corticoid toàn thân dài ngày hoặc lặp lại nhiều đợt",
+     "v": "w",
+     "n": "EuroGuiDerm 2025: khuyến cáo không dùng dài ngày (đồng thuận 15/15); JTF 2023 Khuyến cáo 25: bật lại, tăng cân, mất ngủ, suy thượng thận, chậm tăng trưởng; QĐ 4416 (mục 3.2.2): không dùng kéo dài."
+    },
+    {
+     "t": "Corticoid bôi rất mạnh (clobetasol) lên nếp gấp, mặt, cổ",
+     "v": "w",
+     "n": "NICE CG57 mục 1.5.1.13, 1.5.1.16: không dùng loại rất mạnh ở trẻ khi chưa có ý kiến chuyên khoa, loại mạnh không bôi mặt, cổ; QĐ 4416 (mục 3.2.1): vùng da mỏng dùng loại nhẹ hơn."
+    },
+    {
+     "t": "Cho về, chỉ tăng thuốc bôi, hẹn lại sau 3–4 tuần, không chuyển chuyên khoa",
+     "v": "w",
+     "n": "NICE CG57 mục 1.7.1.2: nặng chưa đáp ứng sau 1 tuần điều trị tối ưu cần chuyển khẩn trong 2 tuần; bé đang mất ngủ, nghỉ học."
+    },
+    {
+     "t": "Nhập viện nội trú hoặc chuyển cấp cứu ngay trong ngày",
+     "v": "w",
+     "n": "Chưa có chỉ định: không sốt, không bội nhiễm, không nghi eczema herpeticum (NICE CG57 mục 1.5.1.40, 1.7.1.1, 1.7.1.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa ở trẻ em (9 tuổi), đợt bùng phát nặng: lichen hóa nếp khuỷu, nếp khoeo, lan cổ tay, cổ chân, hai bên cổ, quanh mắt",
+     "Không đáp ứng điều trị tại chỗ đúng cách (desonid 10 ngày, dưỡng ẩm đủ lượng); đã kiểm tuân thủ",
+     "Chưa bội nhiễm vi khuẩn, không nghi eczema herpeticum; ghẻ và viêm da tiếp xúc đã loại trừ lần 2",
+     "Ảnh hưởng nặng đến giấc ngủ, học tập, tâm lý; bé vẫn phủ nhận khi hỏi cảm giác",
+     "Chỉ định chuyển chuyên khoa Da liễu hoặc Dị ứng nhi khẩn trong 2 tuần",
+     "Bé từ chối xét nghiệm máu lần 2: ghi nhận, không bắt buộc cho quyết định hôm nay"
+    ],
+    "phan_tich_chan_doan": [
+     "'Không đỡ' không do sai chẩn đoán: ghẻ không có mụn nước kẽ, luống ghẻ, người nhà ngứa, soi da âm tính (QĐ 4416, Bệnh ghẻ mục 2.1, 2.2); viêm da tiếp xúc không theo vùng tiếp xúc, đã bỏ sản phẩm thơm (QĐ 4416, Viêm da tiếp xúc mục 2.1.3); JTF 2023 Khuyến cáo 1.",
+     "Không do sai thuốc hay không tuân thủ: corticoid 1 lần/ngày, nếp gấp 10 ngày đúng QĐ 4416 (mục 3.2.1), JTF 2023 Khuyến cáo 6; dưỡng ẩm gần 500 g trong 12 ngày, trong khoảng NICE CG57 mục 1.5.1.4; mẹ mang tuýp, hũ để kiểm. Lichen hóa nặng có thể cần loại mạnh hơn (QĐ 4416 mục 3.2.1), nhưng NICE CG57 mục 1.7.1.2 vẫn xếp là chỉ định chuyển khẩn khi nặng không đáp ứng điều trị tối ưu sau 1 tuần.",
+     "Không bội nhiễm: không rỉ dịch, vảy, mụn mủ, sốt, đau (NICE CG57 mục 1.5.1.36; JTF 2023 Khuyến cáo 9). Không nghĩ eczema herpeticum: không mụn nước chùm, không loét tròn như bị đục, không đau tăng nhanh, sốt, lờ đờ, quanh mắt không mụn nước (NICE CG57 mục 1.5.1.41, 1.5.1.42).",
+     "Từ chối xét nghiệm: máu, IgE không quyết định hôm nay (QĐ 4416 mục 2.2); ghi nhận lần 2 và nêu cho tuyến trên; phương án B là lâm sàng và soi da không xâm lấn."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: chuyển tuyến kịp thời (khẩn trong 2 tuần, không cấp cứu): nặng chưa đáp ứng điều trị tại chỗ tối ưu sau 1 tuần (NICE CG57 mục 1.7.1.2). Chuyển cùng ngày chỉ khi nghi eczema herpeticum (mục 1.7.1.1), ca này không có.",
+     "Vì sao tuyến cơ sở không đủ: quang trị liệu NB-UVB hoặc UVA1, cyclosporin 3–5 mg/kg/ngày, methotrexat, dupilumab (QĐ 4416, Viêm da cơ địa mục 3.2.2; dupilumab trẻ trên 6 tuổi tính theo cân nặng); JTF 2023 Khuyến cáo 16 (mạnh), Khuyến cáo 5 và NICE CG57 mục 1.5.1.31–1.5.1.32 về quấn ướt.",
+     "Corticoid toàn thân: QĐ 4416 (mục 3.2.2) cho prednisolon 0,5–1 mg/kg 3–7 ngày khi nặng; EuroGuiDerm 2025 chỉ cứu nguy, khởi 0,5 mg/kg, tối đa 1 mg/kg, không dùng dài ngày; JTF 2023 Khuyến cáo 25 gợi ý không dùng. Chấp nhận cả hai cách, nhất trí không kéo dài.",
+     "Trong lúc chờ: dưỡng ẩm và tắm đúng; có thể bôi corticoid mạnh hơn lên mảng dày ở tay, chân, thân tối đa 14 ngày, không mặt và cổ (QĐ 4416 mục 3.2.1; NICE CG57 mục 1.5.1.16); không dùng loại rất mạnh (mục 1.5.1.13).",
+     "Giấc ngủ: thử kháng histamin an thần 7–14 ngày (NICE CG57 mục 1.5.1.35) hoặc không dùng (mục 1.5.1.33; EuroGuiDerm 2025); cả hai chấp nhận."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi (loại bán sẵn)",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Bôi lớp dày toàn thân, nhiều ở vùng khô, nếp gấp",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Ngay sau tắm và thêm 2–3 lần/ngày",
+      "so_ngay": "Hằng ngày, lâu dài; trong lúc chờ chuyên khoa",
+      "ghi_chu": "NICE CG57 mục 1.5.1.4: 250–500 g mỗi tuần; JTF 2023 Khuyến cáo 1, 2; QĐ 4416 (Viêm da cơ địa mục 3.2.3, 4)."
+     },
+     {
+      "thuoc": "Betamethason kem (hiệu lực trung bình; tùy bác sĩ, không bắt buộc trước khi chuyển)",
+      "ham_luong": "Nồng độ cho trẻ 9 tuổi: không có trong tài liệu đã tải",
+      "lieu": "Bôi mỏng lên mảng dày lichen hóa ở tay, chân, thân; không bôi mặt và cổ",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Mỗi tối 1 lần, sau tắm",
+      "so_ngay": "Tối đa 14 ngày, dừng khi chuyên khoa chỉnh",
+      "ghi_chu": "QĐ 4416 (Viêm da cơ địa mục 3.2.1: vùng da dày, lichen hóa dùng loại mạnh hơn; Viêm da tiếp xúc mục 3.2.1 xếp betamethason là trung bình); NICE CG57 mục 1.5.1.16 (corticoid mạnh ≤ 14 ngày, không mặt và cổ), 1.5.1.13."
+     },
+     {
+      "thuoc": "Kháng histamin an thần buổi tối (tùy bác sĩ, không bắt buộc)",
+      "ham_luong": "Không có trong tài liệu đã tải cho trẻ 9 tuổi",
+      "lieu": "Liều cho trẻ 9 tuổi: không có trong tài liệu đã tải (QĐ 75/2015 mục 4b chỉ ghi liều người lớn: chlorpheniramin 4 mg × 1–2 viên/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "7–14 ngày",
+      "ghi_chu": "NICE CG57 mục 1.5.1.35; QĐ 4416 (Viêm da cơ địa mục 3.2.2); EuroGuiDerm 2025 nói hiệu quả giới hạn."
+     }
+    ],
+    "dan_do": [
+     "Với chị Mai: đã bôi đúng; khám Da liễu hoặc Dị ứng nhi trong vòng 2 tuần (NICE CG57 mục 1.7.1.2), mang thư giới thiệu, tuýp, hũ dưỡng ẩm, ảnh tổn thương.",
+     "Tiếp tục dưỡng ẩm nhiều lần/ngày, tắm nước ấm dưới 36 °C, bỏ sữa tắm và nước xả có mùi, mặc cotton, cắt móng, bao tay mỏng khi ngủ (QĐ 4416 mục 4).",
+     "Đến cấp cứu hoặc quay lại ngay trong ngày nếu: mụn nước chùm hoặc loét tròn, đau rát tăng nhanh, sốt, lờ đờ, đỏ hoặc đau mắt, rỉ dịch, vảy vàng, mụn mủ (NICE CG57 mục 1.5.1.36, 1.5.1.40–1.5.1.42).",
+     "Báo cô giáo cho Nguyên ngồi chỗ thoáng mát khi ngứa; khuyến khích bé nói thật với mẹ; nếu bé buồn hoặc ngủ kém kéo dài hãy báo bác sĩ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Nguyên được Bệnh viện Da liễu khám trong tuần sau. Bác sĩ chuyên khoa xác nhận viêm da cơ địa vừa–nặng, không bội nhiễm; hướng dẫn quấn ướt tại nhà có hướng dẫn trực tiếp kết hợp corticoid và chọn điều trị bậc hai theo đáp ứng. Bé ngủ được cả đêm sau ít ngày, đi học lại; mẹ yên tâm vì được khám tổng quát bằng lâm sàng, không cần xét nghiệm máu, và đã hiểu 'gan nóng' không phải nguyên nhân. Nguyên được nhắc 'nói thật khi ngứa' với mẹ và cô giáo.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: Nguyên nói 'không ngứa mấy', mẹ phụ họa 'chắc nhẹ thôi'. Chỉ câu hỏi chức năng (đêm thức mấy lần, cô giáo nhắc, nghỉ học, ga giường) mới lộ mức ngứa thật; lượt 2 vẫn phủ nhận dù mẹ đã thấy rõ.",
+  "Lý do thật là 'khám tổng quát' vì bà ngoại nói 'gan nóng': mẹ muốn xét nghiệm máu, không phải điều trị da; tìm được bằng câu hỏi mở về lo lắng.",
+  "Từ chối xét nghiệm: Nguyên sợ kim, từ chối hai lần; không cần xét nghiệm để chẩn đoán nên không bù trừ điểm, nhưng phải ghi nhận, giải thích và có phương án B (lâm sàng, soi da không xâm lấn)."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng (ngủ, học, nghỉ học, vệt máu ga giường) thay câu hỏi cảm giác; trẻ sĩ diện thường giảm nhẹ để khỏi 'bị coi là bệnh'.",
+  "Lý do thật đến khám khác lý do nói ra: mẹ lo 'gan nóng'. Khi tìm ra, giải thích bằng tiêu chí cụ thể (không phù, không vàng da, gan không to) thay vì từ chối xét nghiệm đơn thuần.",
+  "Bệnh nhân từ chối xét nghiệm: tôn trọng, ghi vào hồ sơ, giải thích hậu quả; viêm da cơ địa chẩn đoán bằng lâm sàng nên phương án B đủ dùng, chuyển cho tuyến trên biết bé từ chối.",
+  "Không đỡ: chạy quy trình thất bại điều trị (đúng chẩn đoán, đúng thuốc, tuân thủ, bội nhiễm, yếu tố khởi phát) rồi mới chuyển; kiểm tuân thủ bằng tuýp và hũ mang theo thay vì chỉ hỏi."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm da cơ địa: Hanifin–Rajka ≥ 3 tiêu chuẩn chính + ≥ 3 phụ; tiêu chuẩn Anh: ngứa bắt buộc + ≥ 3/5 tiêu chí (QĐ 4416, Viêm da cơ địa mục 2.3.1, 2.3.2).",
+  "Ở trẻ em, vị trí hay gặp là khoeo, nếp gấp khuỷu, mi mắt, hai bên cổ; ít khi ở mặt duỗi (QĐ 4416 mục 2.1).",
+  "Nền tảng điều trị: dưỡng ẩm không mùi + corticoid bôi (JTF 2023 Khuyến cáo 1–3); 1 lần/ngày (Khuyến cáo 6); vùng da mỏng và nếp gấp dùng loại nhẹ, ≤ 10 ngày liên tục (QĐ 4416 mục 3.2.1).",
+  "Không dùng kháng sinh khi chưa bội nhiễm (JTF 2023 Khuyến cáo 9); không kiêng ăn (Khuyến cáo 13); corticoid toàn thân: các nguồn khác nhau, không dùng dài ngày (QĐ 4416 mục 3.2.2; EuroGuiDerm 2025; JTF 2023 Khuyến cáo 25)."
+ ],
+ "nguon": [
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu (kho cũ tltk-10000-ca, 06 Da liễu/BYT) – ĐÃ ĐỌC: Viêm da cơ địa mục 1–4 (nhất là 2.1, 2.3.1, 2.3.2, 2.4, 3.2.1–3.2.3, 4); Bệnh ghẻ mục 2.1, 2.2, 2.4; Viêm da tiếp xúc mục 2.1.1–2.1.3, 3.2.1; Herpes simplex mục 2.1, 2.2, 3.1.2",
+  "QĐ 75/2015/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị các bệnh da liễu (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Viêm da cơ địa mục 4b, 6",
+  "JTF 2023 – AAAAI/ACAAI Joint Task Force, Chu DK, et al. Ann Allergy Asthma Immunol 2024;132(3):274-312 – TL-0256 – ĐÃ ĐỌC: Khuyến cáo 1, 2, 3, 5, 6, 9, 10, 11, 12, 13, 16, 25",
+  "EuroGuiDerm 2025 – European Guideline on atopic eczema, living update (kho cũ tltk-10000-ca, 06 Da liễu/Quốc tế; cũng TL-0410) – ĐÃ ĐỌC: phần Systemic glucocorticosteroids; phần nhận xét về kháng histamin (antipruritic treatment)",
+  "WHO AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 16 Skin and soft tissue infections (impetigo, erysipelas, cellulitis)",
+  "NICE CG57 2007, cập nhật 2025 – Atopic eczema in under 12s: diagnosis and management – nguồn bổ sung tự tìm: https://www.ncbi.nlm.nih.gov/books/NBK571009/ – ĐÃ ĐỌC (qua trang NCBI Bookshelf, truy cập 25/10/2026): mục 1.4.1.5, 1.5.1.4, 1.5.1.10–1.5.1.17, 1.5.1.31–1.5.1.33, 1.5.1.35, 1.5.1.36, 1.5.1.39–1.5.1.42, 1.6.1.1, 1.7.1.1–1.7.1.3 (bảng phân độ nặng Table 1: không đọc được)",
+  "AAD 2026 viêm da cơ địa nhi (TL-0402), IACS 2020 ghẻ (TL-0429): chưa có toàn văn, không dùng",
+  "Ảnh da: SCIN (Google Research & Stanford), case -5256429932634187395, dataset/images/4995323676833943296.png"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 25/10/2026 (Sonnet). Đã đọc: QĐ 4416/2023 (Viêm da cơ địa mục 1–4, Bệnh ghẻ, Viêm da tiếp xúc, Herpes simplex); QĐ 75/2015 (VDCĐ mục 4b, 6); JTF 2023 (TL-0256, Khuyến cáo 1–3, 5, 6, 9–13, 16, 25); EuroGuiDerm 2025; WHO AWaRe 2022 (mục 16); NICE CG57 (nguồn bổ sung).",
+  "Chỗ không có trong tài liệu đã tải: nồng độ desonid và betamethason, liều kháng histamin cho trẻ 9 tuổi, lượng thuốc bôi mỗi lần (fingertip), thứ tự bôi thuốc và dưỡng ẩm, mốc tái khám cụ thể, nồng độ tắm thuốc tẩy, bảng phân độ nặng (NICE Table 1), đánh giá tăng trưởng bằng biểu đồ.",
+  "Mâu thuẫn nguồn ghi cả hai cách: corticoid toàn thân trong viêm da cơ địa (QĐ 4416 / EuroGuiDerm 2025 / JTF 2023 Khuyến cáo 25); hiệu lực desonid (QĐ 75 trung bình, QĐ 4416 nhẹ); kháng histamin uống (QĐ 4416, QĐ 75 / NICE CG57 / EuroGuiDerm 2025).",
+  "Ảnh HA-DA-0069 (SCIN, nhãn Eczema) chỉ gắn vào lượt 1; lượt 2 mô tả bằng chữ vì không có ảnh phù hợp (lichen hóa nặng) đã duyệt."
+ ]
+}
