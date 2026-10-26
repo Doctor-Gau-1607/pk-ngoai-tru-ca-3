@@ -1,0 +1,699 @@
+{
+ "ma_ca": "DL-0255",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_may_day_cap",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Mày đay cấp",
+  "chan_doan_phai_loai_tru": [
+   "Phản vệ",
+   "Viêm mạch mày đay",
+   "Phù mạch"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Bán hàng online",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Khánh Ngân",
+  "tuoi": 25,
+  "gioi": "Nữ",
+  "nghe": "Bán quần áo và đồ lót online (livestream buổi tối, tự đóng hàng, mặc thử hàng mẫu để chụp ảnh), ngồi nhiều, thức khuya",
+  "can_nang": 49,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị 'chị' (hoặc 'em' nếu bác sĩ lớn tuổi hơn). Chị xưng 'em', gọi 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu khi nói chuyện bán hàng nhưng ngập ngừng, nói nhỏ lại, cười gượng khi chạm tới chuyện cơ thể; hay hỏi giá từng thứ; sợ bị la vì tự mua thuốc; sống một mình ở phòng trọ, thu nhập thất thường theo đơn hàng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: chị hỏi giá trước khi bác sĩ giải thích, nói 'tháng này em ế lắm', xin 'khỏi thử máu được không', muốn thuốc rẻ và nhanh khỏi. Bác sĩ phải xếp ưu tiên: xét nghiệm nào đổi được quyết định thì nói rõ vì sao, xét nghiệm nào bỏ được thì bỏ và giải thích cho chị yên tâm; chị tin hơn khi bác sĩ không ép làm.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#efcaa6",
+   "toc": "#1d1411",
+   "kieuToc": "dai",
+   "ao": "#9fb4c9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Chị 25 tuổi bán hàng online, ngứa và nổi mẩn lai rai ở tay chân khoảng 10 ngày, uống kháng sinh tự mua chưa đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; mày đay không cần chẩn đoán hình ảnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Ngứa nổi mẩn lai rai ngày thứ 10",
+   "tiep_don": "Chị Lâm Khánh Ngân, 25 tuổi, 49 kg, cao 158 cm, bán hàng online, đến một mình vì ngứa và nổi mẩn lai rai ở tay chân khoảng 10 ngày. Sinh hiệu: mạch 84 l/p, HA 108/68 mmHg, nhiệt 36,8 °C, nhịp thở 17 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ chị nằm viện theo dõi 24 giờ như phản vệ là không cần: chị chỉ có sẩn phù ở da, không khó thở, đau bụng, nôn hay tụt huyết áp nên không đủ tiêu chuẩn phản vệ (TT 51/2017, Phụ lục I mục I.2), còn QĐ 4416 (Bệnh mày đay mục 3.2.1) chỉ nhập viện khi phù mạch ở lưỡi hoặc đau bụng. Chị mất vài ngày livestream, trả viện phí khi đang lo tiền, lại phải cởi áo quần cho nhiều người khám nên dễ xin về giữa chừng.",
+    "chuyen_tuyen": "Chuyển chị lên tuyến trên để tìm dị nguyên là quá tay: mày đay cấp tự giới hạn, thường không cần chẩn đoán thêm ngoài bệnh sử (TL-0405 mục 4.1, Bảng 8) và điều trị được ở cơ sở bằng kháng histamin (QĐ 4416 mục 3.2.1). Chị tốn tiền xe, tiền test mà không đổi xử trí, dễ bỏ khám vì tiền, và vẫn chưa ai bảo ngưng amoxicillin còn trong túi.",
+    "cap_cuu": "Tiêm adrenalin bắp hoặc gọi cấp cứu là không đúng chỉ định: adrenalin dành cho phản vệ từ độ II trở lên (TT 51/2017, Phụ lục III mục I.3), còn chị chỉ có da. Chị bị tiêm không cần thiết, hoảng sợ giữa chỗ đông người, càng ngại kể thêm chuyện chỗ kín và kháng sinh. Tác dụng không mong muốn của adrenalin: không có trong tài liệu đã tải."
+   },
+   "loi_mo": "Bác sĩ ơi, em bị nổi mẩn ngứa ở tay với chân cỡ mười hôm rồi, lúc nổi lúc xẹp, ngứa ngáy khó chịu lắm. Em bán hàng online, ngồi livestream mà cứ gãi hoài kỳ lắm. Hồi đầu em tưởng muỗi đốt, rồi tưởng nước giặt đồ mới nhập... Mà bác sĩ cho em hỏi, khám với thuốc hết bao nhiêu vậy? Dạo này em ế lắm.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị khai ngứa và nổi mẩn lai rai ở hai cẳng tay, cẳng chân khoảng 10 ngày; chỗ nổi hồng nhạt, hơi gồ, ngứa nhất về tối, chị gãi nhiều. Chị nói chỉ có tay và chân.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tổn thương chính (chỗ chị khai)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ban đầu chỉ ngứa râm ran, vài nốt nhỏ như muỗi đốt nên chị không để ý. Sau 3–4 ngày nổi thêm, mỗi ngày vài chỗ mới, chưa hôm nào nổi ào ạt; 2–3 hôm nay nhiều hơn, tối nổi nhiều hơn sáng. Chị đếm hôm qua chừng 20 chỗ, to nhất bằng đồng xu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát âm thầm, từ từ; số sẩn phù/24 giờ (dưới 50)"
+    },
+    {
+     "id": "moi_not",
+     "noi_dung": "Mỗi chỗ nổi xuất hiện rồi xẹp trong khoảng nửa ngày đến gần một ngày, xẹp xong da như thường, không thâm, không bầm; chỗ này mất thì chỗ khác nổi. Chị chỉ ngứa, không đau, không đau khớp, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian tồn tại mỗi sẩn phù (< 24 giờ, không thâm: loại viêm mạch mày đay)"
+    },
+    {
+     "id": "vung_kin",
+     "noi_dung": "Thật ra chỗ ngứa và nổi nhiều nhất là bụng dưới, hai bên bẹn, mông và quanh đường viền áo lót, những chỗ quần áo ôm sát; đêm ngứa rát không ngủ được. Chị không khai vì ngại, sợ là bệnh phụ khoa hoặc bệnh lây từ đồ lót mẫu mặc thử, sợ bác sĩ nghĩ chị mắc bệnh xã hội.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không tự nói. Chỉ lộ khi bác sĩ hỏi mở nhẹ nhàng: 'ngoài tay chân còn chỗ nào ngứa, nổi, kể cả chỗ kín đáo', hoặc giải thích cần khám da toàn thân và bảo đảm riêng tư, hoặc hỏi về đồ lót và chỗ quần áo ôm sát.",
+     "k": 1,
+     "y": "Lý do thật: giấu triệu chứng thật vì ngại ngùng (vùng bụng dưới, bẹn, mông)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không khó thở, khò khè, khàn tiếng; mi, môi, lưỡi, mặt không sưng; không đau bụng, buồn nôn, tiêu chảy; không chóng mặt, ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu toàn thân, phù mạch, hô hấp, tiêu hóa (loại phản vệ, phù mạch)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chị đang uống amoxicillin 500 mg ngày 3 lần, mua ở hiệu thuốc không đơn, định uống đủ 10 ngày; hôm nay đã uống 8 ngày, còn khoảng 5 viên. Chị mua sau khi ngứa 2 ngày vì ngứa rát ở bẹn nên đoán 'viêm phụ khoa', dù không khí hư, không tiểu buốt. Uống rồi vẫn ngứa, mấy hôm nay ngứa thêm. Chị ngại nói vì sợ bị la. Không dùng thuốc nào khác, chưa uống thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: amoxicillin tự mua (β-lactam, nghi làm nặng thêm)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nổi mề đay, không dị ứng thuốc hay thức ăn đã biết, không hen, không viêm mũi dị ứng; ăn uống bình thường, không rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử dị ứng, thức ăn (TT 51 Phụ lục VI)"
+    },
+    {
+     "id": "do_lot",
+     "noi_dung": "Hai tuần trước chị nhập lô đồ lót ren và quần legging mới, mặc thử để chụp mẫu; đồng thời đổi nước giặt mới. Em gái họ ở cùng phòng trọ không ngứa, không ai có ghẻ, không thú cưng, không côn trùng đốt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: đồ lót mới, nước giặt (viêm da tiếp xúc), ghẻ"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Chị thức đến 1–2 giờ sáng livestream, uống 2–3 ly cà phê sữa/ngày, stress vì doanh số. Kinh đều, hết kinh 12 ngày trước. Có bạn trai ổn định, dùng bao cao su, không khí hư, không tiểu buốt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Stress, thức khuya; bệnh phụ khoa (ngứa vùng kín); thai kỳ"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Chị xin 'một mũi tiêm cho hết hẳn' hoặc thuốc rẻ vài ngày, nếu phải thử máu thì xin khỏi; hỏi bệnh có lây không, có ảnh hưởng bán đồ lót không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn, ràng buộc tiền của chị (nhiễu)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng tay và cẳng chân hai bên: khoảng 12 sẩn phù hồng nhạt, 0,5–2 cm, nổi gồ nhẹ, vài chỗ chỉ là vùng da hồng nhạt phẳng, bờ không rõ; vài vết xước nông; không mụn nước, vảy, dát thâm, chấm xuất huyết. Khi chị đồng ý cho khám chỗ kín đáo: bụng dưới, hai bên bẹn, mông, quanh đường viền áo lót có thêm khoảng 10 sẩn phù hồng 1–3 cm, một số nối nhau, vệt xước theo đường gãi; nếp bẹn, âm hộ ngoài không phù nề, không trợt; kẽ ngón tay, cổ tay, rốn sạch, không đường hầm. Mặt, môi, lòng bàn tay – chân không tổn thương. Tổng khoảng 20 sẩn phù/24 giờ (dưới 50), chưa phù mạch.",
+     "k": 1,
+     "hien": "Cẳng tay, cẳng chân hai bên (chị vén tay áo và ống quần cho xem): khoảng 12 sẩn nhỏ hồng nhạt, đường kính 0,5–2 cm, một số chỗ chỉ là vùng da hồng nhạt, bờ không rõ; vài vết xước nông (ảnh 1). Mặt, môi, lòng bàn tay – chân: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng tay",
+       "id": "HA-DA-0169",
+       "chu": "Cẳng tay: vùng da hồng nhạt, bờ không rõ, vài sẩn rất nhỏ nổi nhẹ; không vảy, không mụn nước."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, mi mắt, môi, lưỡi, cổ không sưng; giọng bình thường; không hạch cổ to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, lưỡi gà không phù; mũi thông.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi. Mạch quay 84 l/p, đều.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran rít; thở êm, không co kéo. Nhịp thở 17 l/p.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không phản ứng thành bụng; gan lách không sờ thấy.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,2 G/L · Neutrophil 58% · Lympho 32% · Eos 3% · Hb 128 g/L · TC 285 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 58,
+      "lym_pct": 32,
+      "mono_pct": 6,
+      "eos_pct": 3,
+      "baso_pct": 1,
+      "hgb": 128,
+      "plt": 285
+     },
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (Bệnh mày đay mục 2.2) có công thức máu; TL-0405 (mục 4.1, Bảng 8) khuyến cáo không làm xét nghiệm thường quy ở mày đay cấp. Cả hai cách đều đúng (sổ mâu thuẫn 'Xét nghiệm thường quy trong mày đay cấp'); chị không đủ tiền nên bỏ cũng đúng."
+    },
+    "ige_tong": {
+     "r": "IgE toàn phần trong giới hạn bình thường",
+     "n": "Không cần: TL-0405 (mục 4.1, Bảng 8) không làm ở mày đay cấp; QĐ 4416 (mục 2.2) có IgE khi tìm nguyên nhân; không đổi xử trí."
+    },
+    "test_lay_da": {
+     "r": "Không cần làm",
+     "n": "Không cần hôm nay: TL-0405 (mục 4.1) chỉ nêu test dị ứng khi nghi dị ứng thức ăn hoặc quá mẫn thuốc; amoxicillin chưa chắc là căn nguyên (ngứa có trước thuốc 2 ngày), thử phản ứng thuốc chỉ làm ở chuyên khoa (TT 51/2017, Điều 4 khoản 3)."
+    },
+    "soi_huyet_trang": {
+     "r": "Không cần làm",
+     "n": "Không cần: không khí hư, không tiểu buốt, ngứa kèm sẩn phù thoáng qua nhiều vùng da (QĐ 4416 mục 2.1). Tiêu chuẩn chẩn đoán viêm âm đạo: không có trong tài liệu đã tải."
+    },
+    "sinh_thiet_da": {
+     "r": "Không cần làm",
+     "n": "Không cần: QĐ 75/2015 (Bệnh mày đay mục 3a) chỉ sinh thiết khi kéo dài nghi viêm mao mạch; sẩn của chị mất trong vòng 1 ngày, không thâm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp tự phát (khởi phát âm thầm ngày thứ 10, khoảng 20 sẩn phù/24 giờ, mỗi sẩn mất trong vòng 24 giờ không để lại dát thâm, chưa phù mạch, chưa dấu hiệu hô hấp – tuần hoàn – tiêu hóa), phân bố cả vùng thân kín đáo; amoxicillin tự mua có thể làm nặng thêm",
+     "ok": 1,
+     "n": "Sẩn phù ngứa mất trong vòng 24 giờ, không để lại dát thâm (QĐ 4416, Bệnh mày đay mục 2.1, 2.3); dưới 6 tuần là cấp (mục 2.4.1); dưới 50 sẩn phù/24 giờ là thể thông thường (mục 3.2.1). Không điển hình: khởi phát từ từ, sẩn nhỏ hồng nhạt, nhiều chỗ chỉ là vết đỏ phẳng, tập trung chỗ quần áo ôm, ngứa nặng về đêm (QĐ 3942/2014, Mày đay – phù Quincke mục 2a: hay nổi chiều tối và sáng sớm). Ngứa có trước amoxicillin 2 ngày nên thuốc chưa phải căn nguyên khởi phát, nhưng β-lactam là nhóm thuốc thường gặp nhất gây mày đay (QĐ 75/2015 mục 2a; QĐ 3942 mục 3b)."
+    },
+    {
+     "t": "Phản vệ",
+     "n": "Cần da – niêm mạc kèm hô hấp hoặc tụt huyết áp, hoặc ≥ 2/4 hệ cơ quan sau tiếp xúc yếu tố nghi ngờ (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2). Chị chỉ có da, HA 108/68, SpO₂ 99%, phổi không ran rít, không đau bụng hay nôn; sẩn nổi dần nhiều ngày, không bùng ra trong vài giờ sau liều thuốc."
+    },
+    {
+     "t": "Viêm mạch mày đay",
+     "n": "Sẩn phù tồn tại > 24 giờ, mềm, ngứa ít, đáp ứng kém kháng histamin (QĐ 75/2015 mục 3b); QĐ 3942/2014 (mục 3c): ban xuất huyết, đau khớp, đau bụng. Chị: sẩn mất trong vòng 1 ngày, không thâm, ngứa nhiều, không đau khớp."
+    },
+    {
+     "t": "Phù mạch",
+     "n": "Sưng nề môi, mắt, lưỡi, tay, chân, sinh dục, thanh quản (QĐ 4416 mục 2.1). Chị không sưng mi, môi, lưỡi, âm hộ không phù. Phù lưỡi hoặc đau bụng thì nhập viện (mục 3.2.1)."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Ghẻ: mụn nước kẽ ngón, cổ tay, rốn, kẽ mông, mặt trong đùi, sinh dục; đường hầm; nhiều người trong nhà có biểu hiện tương tự (QĐ 4416, Bệnh ghẻ mục 2.1). Chị không mụn nước, không đường hầm, kẽ ngón sạch, người ở cùng không ngứa."
+    },
+    {
+     "t": "Viêm da tiếp xúc (đồ lót ren mới, nước giặt)",
+     "n": "Dát đỏ, mụn nước, trợt, dai dẳng nếu chưa loại yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 1.1, 2.1.1); xà phòng, mỹ phẩm cũng có thể gây mày đay (QĐ 75/2015 mục 2a). Chị nổi cả cẳng tay, cẳng chân nơi không mặc đồ mới, thoáng qua, không mụn nước, không vảy."
+    },
+    {
+     "t": "Phát ban do thuốc (amoxicillin)",
+     "n": "Nằm trong chẩn đoán phân biệt (QĐ 4416 mục 2.5); mày đay do thuốc xảy ra ngay hoặc sau vài ngày dùng thuốc (QĐ 75/2015 mục 2a). Ngứa bắt đầu 2 ngày trước thuốc nên khó quy hoàn toàn cho amoxicillin; không có chỉ định uống tiếp nên ngưng và ghi nhận thuốc nghi ngờ."
+    },
+    {
+     "t": "Viêm âm đạo hoặc nấm âm hộ (ngứa rát vùng kín)",
+     "n": "Chị không khí hư, không tiểu buốt; ngứa kèm sẩn phù ở cả tay chân và thân (QĐ 4416 mục 2.1). Tiêu chuẩn chẩn đoán viêm âm đạo: không có trong tài liệu đã tải; chưa có triệu chứng nên không khám trong."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi mở, nhẹ nhàng, bảo đảm riêng tư để chị nói ra chỗ ngứa kín đáo (bụng dưới, bẹn, mông); khám da toàn thân có giải thích",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, thu hoạch lý do thật; chẩn đoán dựa vào lâm sàng nên phải thấy hết tổn thương (QĐ 4416 mục 2.3). Quy định người chứng khi khám vùng kín: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi bệnh sử: mỗi sẩn tồn tại bao lâu, thâm không, số sẩn/ngày, sưng môi mắt lưỡi, hô hấp, đau bụng; hỏi mọi thuốc đã dùng kể cả tự mua",
+     "v": "c",
+     "n": "QĐ 4416 (Bệnh mày đay mục 2.1, 2.3): sẩn phù < 24 giờ, không thâm; TL-0405 (mục 4.1): bệnh sử tìm yếu tố khởi phát (nhiễm trùng, thuốc); TT 51/2017 (Điều 4 khoản 5, Phụ lục VI): khai thác tiền sử dị ứng thuốc."
+    },
+    {
+     "t": "Chẩn đoán mày đay cấp tự phát thể thông thường; giải thích lành tính, tự giới hạn (dưới 6 tuần), không phải bệnh phụ khoa",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.3, 2.4.1, 3.2.1); TL-0405 (mục 4.1): tự giới hạn. Câu 'không lây': không có nguyên văn trong tài liệu đã tải (QĐ 75/2015 mục 1: phản ứng của mao mạch trên da)."
+    },
+    {
+     "t": "Ngưng amoxicillin tự mua, ghi vào hồ sơ là thuốc nghi ngờ làm nặng bệnh",
+     "v": "c",
+     "n": "Không có ổ nhiễm khuẩn nên không có chỉ định uống tiếp (chỉ định kháng sinh cụ thể: không có trong tài liệu đã tải cho ca này). β-lactam là nhóm thuốc thường gặp nhất gây mày đay (QĐ 75/2015 mục 2a; QĐ 3942/2014 mục 3b); ngưng thuốc gây bệnh hoặc làm nặng (QĐ 3942 mục 4.1; QĐ 4416 mục 3.1; TL-0405 mục 5.2.1); ghi thông tin dị ứng vào hồ sơ (TT 51/2017 Điều 4 khoản 5)."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2 liều chuẩn, uống đều mỗi ngày: 10 ngày (cetirizin 10 mg, loratadin 10 mg hoặc fexofenadin 180 mg, 1 viên/ngày) hoặc liên tục đến khi hết triệu chứng",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): mày đay cấp thông thường dùng kháng histamin liều tiêu chuẩn trong vòng 10 ngày; QĐ 3942/2014 (Các thuốc kháng histamin H1, Bảng 3): liều người lớn; TL-0405 (mục 5.4): thế hệ 2 dùng hằng ngày chứ không theo nhu cầu, không nêu số ngày cố định. Cả hai cách đều đúng (sổ mâu thuẫn 'Thời gian dùng kháng histamin trong mày đay cấp thông thường')."
+    },
+    {
+     "t": "Không bắt buộc xét nghiệm: giải thích vì sao chẩn đoán dựa vào lâm sàng, không ép chị làm khi không đủ tiền",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, Bảng 8) và QĐ 75/2015 (mục 3a): dựa vào lâm sàng. Công thức máu chấp nhận theo QĐ 4416 (mục 2.2). IgE, test lẩy da, sinh thiết không đổi xử trí."
+    },
+    {
+     "t": "Tránh cào gãi, tắm nước mát, mặc đồ cotton rộng, tạm ngưng mặc thử đồ ôm sát và nước giặt mới, hạn chế rượu bia, giảm thức khuya, stress",
+     "v": "c",
+     "n": "QĐ 4416 (mục 4): tránh tác nhân nghi ngờ và cào gãi; QĐ 3942/2014 (Mày đay – phù Quincke mục 6): tránh bia rượu, gió lạnh, thay đổi nhiệt độ đột ngột, xúc động mạnh, gắng sức; TL-0405 (mục 5.2.4): stress làm nặng mày đay mạn tự phát."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay (khó thở, thở rít, khàn tiếng, sưng môi – mắt – lưỡi, đau bụng, nôn, choáng), hẹn tái khám sau khoảng 4–5 ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1, 3.2.1): phù mạch gây khó thở cần cấp cứu, phù lưỡi hoặc đau bụng nhập viện; TT 51/2017 (Phụ lục I mục I.1): khó thở, đau bụng, nôn gợi ý phản vệ. Mốc tái khám cho mày đay cấp: không có trong tài liệu đã tải (chọn 4–5 ngày để đánh giá sớm)."
+    },
+    {
+     "t": "Đợt corticoid uống ngắn ngày",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ cho thể nặng (≥ 50 sẩn phù/24 giờ và/hoặc phù mạch), methylprednisolon 16–32 mg/ngày × 5 ngày; TL-0405 (mục 5.4): cân nhắc đợt ngắn tối đa 10 ngày, 20–50 mg/ngày prednisone. Chị mới khoảng 20 sẩn phù, chưa cần (sổ mâu thuẫn 'Corticoid uống trong mày đay cấp')."
+    },
+    {
+     "t": "Tiếp tục hoặc kê thêm kháng sinh 'cho chắc'",
+     "v": "w",
+     "n": "β-lactam thường gặp nhất gây mày đay (QĐ 75/2015 mục 2a; QĐ 3942/2014 mục 3b); thuốc nghi ngờ thì bỏ hẳn (TL-0405 mục 5.2.1; QĐ 3942 mục 4.1); chị không có ổ nhiễm khuẩn."
+    },
+    {
+     "t": "Tiêm adrenalin bắp cho mày đay đơn thuần",
+     "v": "w",
+     "n": "TT 51/2017 (Phụ lục III mục I.3): adrenalin tiêm bắp khi phản vệ từ độ II; chị không có hô hấp, tuần hoàn, tiêu hóa."
+    },
+    {
+     "t": "Nhập viện hoặc giữ theo dõi 24 giờ như phản vệ",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ nhập viện khi phù lưỡi hoặc đau bụng; TT 51/2017 (Phụ lục III mục II): theo dõi ≥ 24 giờ cho phản vệ nhẹ, chị không đủ tiêu chuẩn chẩn đoán phản vệ (Phụ lục I)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp tự phát (khởi phát âm thầm, ngày thứ 10, dưới 6 tuần), thể thông thường: khoảng 20 sẩn phù/24 giờ, chưa phù mạch",
+     "Vị trí: cẳng tay, cẳng chân và vùng thân kín đáo (bụng dưới, hai bên bẹn, mông, quanh đường viền áo lót); mỗi sẩn mất trong vòng 1 ngày, không thâm",
+     "Yếu tố liên quan: căn nguyên chưa rõ; amoxicillin tự mua 8 ngày (nghi làm nặng thêm, ngứa có trước thuốc 2 ngày); thức khuya, stress; đồ lót và nước giặt mới là nhiễu",
+     "Chưa có phản vệ, phù mạch hay viêm mạch mày đay; không ghẻ, không viêm da tiếp xúc, không viêm âm đạo",
+     "Lý do thật: ngại nói ngứa chỗ kín đáo và việc tự uống kháng sinh; ràng buộc tiền nên không làm xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi mở khi chị chỉ khai tay chân (còn chỗ nào, kể cả chỗ kín) → mỗi sẩn tồn tại bao lâu, thâm không, số sẩn/ngày → sưng môi mắt lưỡi, hô hấp, tiêu hóa, sốt, đau khớp → mọi thuốc đã dùng kể cả tự mua, thức ăn, đồ lót, nước giặt, người ở cùng → khám da toàn thân có giải thích, mặt – họng, phổi, bụng → chẩn đoán lâm sàng → xử trí.",
+     "Vì sao là mày đay cấp: sẩn phù mất trong vòng 24 giờ, không thâm (QĐ 4416 mục 2.1, 2.3), mới 10 ngày (mục 2.4.1), dưới 50 sẩn phù/24 giờ nên thể thông thường (mục 3.2.1). Không điển hình nên dễ nhầm ghẻ, viêm da tiếp xúc, viêm âm đạo.",
+     "Loại phản vệ: cần hô hấp hoặc tụt huyết áp (TT 51/2017 Phụ lục I mục I.2); viêm mạch mày đay: sẩn > 24 giờ (QĐ 75/2015 mục 3b); phù mạch: không sưng mi, môi, lưỡi (QĐ 4416 mục 2.1); ghẻ: không đường hầm, người ở cùng không ngứa (QĐ 4416 Bệnh ghẻ mục 2.1).",
+     "Amoxicillin: ngứa có trước thuốc 2 ngày nên chưa quy được là căn nguyên, nhưng β-lactam thường gây mày đay (QĐ 75/2015 mục 2a) và chị không có ổ nhiễm khuẩn nên ngưng. Thử phản ứng thuốc chỉ làm ở chuyên khoa (TT 51/2017 Điều 4 khoản 3).",
+     "Lý do thật: chị sợ bệnh phụ khoa hoặc bệnh lây và sợ bị la khi tự mua kháng sinh. Giải thích đây là phản ứng của mao mạch trên da (QĐ 75/2015 mục 1); câu 'không lây': không có nguyên văn trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, thuốc uống, tái khám (ve_hen). Không nhập viện vì không phù lưỡi, không đau bụng (QĐ 4416 mục 3.2.1); không cấp cứu vì không phải phản vệ.",
+     "Kháng histamin H1 thế hệ 2 liều chuẩn, uống đều hằng ngày, 10 ngày (QĐ 4416 mục 3.2.1) hoặc liên tục đến khi hết triệu chứng (TL-0405 mục 5.4); cetirizin, loratadin, fexofenadin đều có bằng chứng (TL-0405 mục 5.4). Corticoid chưa cần ở thể thông thường (QĐ 4416 mục 3.2.1).",
+     "Không xét nghiệm: chẩn đoán dựa vào lâm sàng (TL-0405 mục 4.1, Bảng 8; QĐ 75/2015 mục 3a); công thức máu chấp nhận nhưng không đổi xử trí; tiền dành cho thuốc uống đều thì có ích hơn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cetirizin",
+      "ham_luong": "viên 10 mg",
+      "lieu": "10 mg (1 viên)",
+      "duong": "Uống",
+      "thoi_diem": "1 lần/ngày, buổi tối sau livestream; uống đều mỗi ngày kể cả khi đã đỡ, không chỉ khi ngứa",
+      "so_ngay": "10 ngày, tái khám sau 4–5 ngày",
+      "ghi_chu": "QĐ 3942/2014 (Các thuốc kháng histamin H1, Bảng 3): người lớn 1 viên/ngày; QĐ 4416 (mục 3.2.1): liều tiêu chuẩn 10 ngày; TL-0405 (mục 5.4): dùng hằng ngày. Thay thế: loratadin 10 mg hoặc fexofenadin 180 mg 1 viên/ngày (QĐ 3942 Bảng 3). Cetirizin có thể gây buồn ngủ nhẹ (QĐ 3942, mục 2a), fexofenadin và desloratadin không gây an thần; giờ uống cụ thể: không có trong tài liệu đã tải (chọn buổi tối theo công việc)."
+     },
+     {
+      "thuoc": "Amoxicillin (chị tự mua) – NGƯNG",
+      "ham_luong": "viên 500 mg",
+      "lieu": "Không dùng tiếp (còn khoảng 5 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Không dùng lại khi chưa có đánh giá của bác sĩ",
+      "ghi_chu": "Không có ổ nhiễm khuẩn; β-lactam thường gây mày đay (QĐ 75/2015 mục 2a; QĐ 3942 mục 3b); ngưng thuốc gây bệnh hoặc làm nặng (QĐ 3942 mục 4.1; TL-0405 mục 5.2.1). Ghi 'amoxicillin: thuốc nghi ngờ' vào hồ sơ, dặn chị báo bác sĩ, dược sĩ mỗi lần khám, mua thuốc (TT 51/2017 Điều 4 khoản 5)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của chị là mày đay cấp: nốt nổi rồi tự xẹp trong vòng 1 ngày, thường hết dần, có thể kéo dài tới khoảng 6 tuần (QĐ 4416 mục 2.4.1; TL-0405 mục 4.1); không phải bệnh phụ khoa. Câu 'không lây': không có nguyên văn trong tài liệu đã tải.",
+     "Uống kháng histamin MỖI NGÀY đủ 10 ngày, kể cả hôm không ngứa; uống khi ngứa mới uống sẽ kém hiệu quả (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Ngưng hẳn amoxicillin; không tự mua thuốc giảm đau chống viêm, kháng sinh (QĐ 4416 mục 4: dùng thuốc theo đơn).",
+     "Hạn chế gãi, tắm nước mát, mặc đồ cotton rộng, tạm không mặc thử đồ ôm sát, giặt lại đồ bằng nước giặt cũ; bớt thức khuya, cà phê, rượu bia (QĐ 4416 mục 4; QĐ 3942 mục 6).",
+     "Đi cấp cứu ngay nếu khó thở, thở rít, khàn tiếng, sưng môi, mắt, lưỡi, đau bụng, nôn, choáng (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I). Tái khám sau 4–5 ngày hoặc sớm hơn nếu nặng; mốc ngày cụ thể: không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 5 ngày, vẫn nổi nhiều",
+   "tiep_don": "Chị Ngân tái khám sau 5 ngày vì vẫn ngứa nổi mẩn, chị thấy còn nhiều hơn; chị đã ngưng amoxicillin, uống thuốc dị ứng theo toa và lần này không còn che chỗ kín đáo. Sinh hiệu: mạch 88 l/p, HA 106/66 mmHg, nhiệt 36,9 °C, nhịp thở 18 l/p, SpO₂ 99%. Chị mệt, mắt thâm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện lúc này chưa có chỉ định: chị nhiều sẩn phù (thể nặng) nhưng không phù lưỡi, không đau bụng, không khó thở; QĐ 4416 (Bệnh mày đay mục 3.2.1) chỉ nhập viện khi phù mạch ở lưỡi hoặc đau bụng, thể nặng vẫn điều trị ngoại trú bằng kháng histamin tăng liều kèm corticoid ngắn ngày. Chị mất thêm nhiều ngày bán hàng, trả viện phí khi cạn tiền, còn nguyên nhân 'không đỡ' (uống thuốc cách ngày, ibuprofen, thức khuya) vẫn không ai hỏi tới.",
+    "chuyen_tuyen": "Chuyển chị lên tuyến trên để làm thêm xét nghiệm là quá tay: mày đay cấp tự giới hạn, TL-0405 (mục 4.1, Bảng 8) khuyến cáo không làm xét nghiệm thường quy, còn lý do chị 'không đỡ' đã tìm ra ngay tại phòng khám bằng hỏi từng thuốc. Chị tốn tiền xe, tiền khám khi cạn tiền, dễ bỏ khám giữa chừng và vẫn uống ibuprofen mỗi khi đau đầu.",
+    "cap_cuu": "Tiêm adrenalin bắp hoặc gọi cấp cứu là không đúng chỉ định: adrenalin dành cho phản vệ từ độ II trở lên (TT 51/2017, Phụ lục III mục I.3), còn chị chưa có hô hấp, tuần hoàn, tiêu hóa. Chị bị tiêm không cần thiết, sợ hãi, tốn thêm tiền, và vẫn chưa được dặn ngưng ibuprofen hay uống kháng histamin mỗi ngày nên mẩn tiếp tục nổi."
+   },
+   "loi_mo": "Bác sĩ ơi em uống thuốc rồi mà vẫn ngứa nổi, mấy hôm nay còn nhiều hơn, đêm nào cũng gãi tới sáng, hôm kia nổi cả mặt trong đùi luôn. Em không dám livestream, đơn hàng ít hẳn. Thuốc bác sĩ cho em uống... em có uống mà, hôm uống hôm quên. Em hỏi thiệt, có thuốc nào mạnh hơn mà rẻ rẻ không, em cạn tiền rồi.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "106/66",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị uống thuốc dị ứng rồi mà ngứa nổi nhiều hơn, đêm gãi tới sáng, mới nổi thêm ở mặt trong đùi; không dám livestream nên mất đơn, muốn thuốc 'mạnh hơn mà rẻ'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đỡ"
+    },
+    {
+     "id": "so_not",
+     "noi_dung": "Sáng nay chị đếm khoảng 60–70 chỗ nổi rải ở tay, chân, bụng, hông, mông, bẹn và mặt trong đùi, nhiều mảng to bằng bàn tay nối thành đám. Mỗi chỗ vẫn xẹp trong nửa ngày đến gần một ngày, không thâm, không bầm, không chấm xuất huyết, không đau khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số sẩn phù/24 giờ (≥ 50: thể nặng), thời gian tồn tại mỗi sẩn (loại viêm mạch)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không khó thở, khàn tiếng; mi, môi, lưỡi, mặt không sưng; không đau bụng, buồn nôn, tiêu chảy; không chóng mặt, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu toàn thân, phù mạch, hô hấp, tiêu hóa (loại phản vệ, phù mạch; mốc nhập viện)"
+    },
+    {
+     "id": "cach_uong",
+     "noi_dung": "Lượt trước chị nghe dặn uống mỗi ngày nhưng thấy thuốc đắt, tiếc tiền nên chỉ uống khi ngứa dữ: 5 ngày uống khoảng 2 ngày, mỗi lần 1 viên cetirizin, uống xong ngứa dịu vài giờ rồi lại nổi. Chị nghĩ 'thuốc ngứa thì ngứa mới uống'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ: dùng theo nhu cầu thay vì hằng ngày (nguyên nhân 'không đỡ')"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Hai hôm trước chị đau đầu vì thức khuya, mua ibuprofen 400 mg ở hiệu thuốc, uống 1 viên mỗi lần, tổng 3 lần; từ đó nổi nhiều rõ hơn. Chị không nghĩ thuốc giảm đau liên quan nên chỉ kể khi được hỏi từng loại thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "NSAID tự mua làm nặng mày đay (yếu tố 'không đỡ')"
+    },
+    {
+     "id": "amox",
+     "noi_dung": "Chị đã ngưng amoxicillin từ hôm khám trước, còn 5 viên cất trong túi, không uống lại và không uống kháng sinh nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận đã ngưng thuốc nghi ngờ"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Chị vẫn thức đến 2–3 giờ sáng chốt đơn, uống nhiều cà phê, lo doanh số, tắm nước nóng cho đỡ ngứa; đã thôi mặc thử đồ ren, giặt bằng nước giặt cũ nhưng mẩn vẫn nổi thêm ở chỗ mới.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Stress, thức khuya, nhiệt (yếu tố làm nặng); loại viêm da tiếp xúc do đồ lót, nước giặt"
+    },
+    {
+     "id": "ngai_ngung",
+     "noi_dung": "Vì lượt trước bác sĩ không phán xét chuyện kháng sinh nên lần này chị nói thẳng: ngứa rát nhiều ở bẹn và mặt trong đùi, chị lo bạn trai và khách hiểu lầm là bệnh lây nên không dám livestream.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: ngại ngùng (chị đã cởi mở hơn)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị chỉ còn ít tiền: hỏi 'xét nghiệm tốn bao nhiêu, có chắc ra bệnh không', xin khỏi nếu đắt; chịu làm 1 xét nghiệm rẻ nếu nó 'đổi được thuốc'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: không đủ tiền xét nghiệm, xếp ưu tiên"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Khoảng 60–70 sẩn phù đỏ hồng nhạt, nhạt ở giữa, nổi gồ, ranh giới rõ, tròn hoặc đa cung, 0,5–6 cm, nhiều mảng nối thành đám ở hông, bụng dưới, mông, mặt ngoài và mặt trong đùi; rải ở cẳng tay, cẳng chân; vệt xước theo đường gãi. Bẹn và âm hộ ngoài: vài sẩn phù nhỏ, không phù nề, không trợt, không mụn nước. Không dát thâm tím, chấm xuất huyết, mụn nước, vảy, đường hầm; kẽ ngón tay sạch. Mặt, môi, lòng bàn tay – chân không tổn thương. Thể nặng: ≥ 50 sẩn phù/24 giờ, chưa phù mạch.",
+     "k": 1,
+     "hien": "Hông – đùi ngoài: nhiều sẩn tròn hồng đỏ, 0,5–2 cm, rời rạc, vài sẩn nối nhau (ảnh 1). Đùi – gối: các mảng đỏ hồng đa cung, bờ rõ, xen vùng da nhạt hơn (ảnh 2). Bụng dưới, mông, bẹn: nhiều sẩn nhỏ và mảng nối nhau, vệt xước. Cẳng tay, cẳng chân: rải rác sẩn hồng nhạt. Mặt, môi, lòng bàn tay – chân: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Hông – đùi ngoài",
+       "id": "HA-DA-0170",
+       "chu": "Nhiều sẩn phù tròn hồng đỏ, 0,5–2 cm, rời rạc, vài sẩn nối nhau, rải trên da hông – đùi."
+      },
+      {
+       "vi_tri": "Đùi – gối",
+       "id": "HA-DA-0171",
+       "chu": "Các mảng đỏ hồng đa cung, bờ rõ, xen vùng da nhạt hơn ở mặt ngoài đùi và quanh gối."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, mi mắt, môi, lưỡi, cổ không sưng; giọng bình thường; không hạch cổ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi. Mạch quay 88 l/p, đều.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran rít; thở êm, không co kéo. Nhịp thở 18 l/p.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không phản ứng thành bụng; gan lách không sờ thấy.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,0 G/L · Neutrophil 60% · Lympho 31% · Eos 2% · Hb 127 g/L · TC 292 G/L",
+     "bang": {
+      "wbc": 8.0,
+      "neu_pct": 60,
+      "lym_pct": 31,
+      "mono_pct": 6,
+      "eos_pct": 2,
+      "baso_pct": 1,
+      "hgb": 127,
+      "plt": 292
+     },
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (Bệnh mày đay mục 2.2) có công thức máu; TL-0405 (mục 4.1, Bảng 8) không làm thường quy ở mày đay cấp; kết quả không đổi xử trí. Cả hai cách đều đúng (sổ mâu thuẫn 'Xét nghiệm thường quy trong mày đay cấp')."
+    },
+    "crp": {
+     "r": "CRP 3 mg/L",
+     "n": "Không cần: TL-0405 (Bảng 8) chỉ nêu CRP/ESR cho mày đay mạn tự phát; chị không sốt, không ổ nhiễm khuẩn."
+    },
+    "ige_tong": {
+     "r": "IgE toàn phần trong giới hạn bình thường",
+     "n": "Không cần: TL-0405 (mục 4.1, Bảng 8) không làm ở mày đay cấp; QĐ 4416 (mục 2.2) có IgE khi tìm nguyên nhân; không đổi xử trí, chị không đủ tiền."
+    },
+    "sinh_thiet_da": {
+     "r": "Không cần làm",
+     "n": "Không cần: QĐ 75/2015 (Bệnh mày đay mục 3a) chỉ sinh thiết khi kéo dài nghi viêm mao mạch; mỗi sẩn của chị vẫn mất trong vòng 1 ngày, không thâm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp tự phát thể nặng (ngày thứ 15, khoảng 60–70 sẩn phù/24 giờ, mỗi sẩn mất trong vòng 24 giờ không thâm, chưa phù mạch, chưa dấu hiệu phản vệ), nặng lên do dùng kháng histamin không đều, ibuprofen tự mua và thức khuya",
+     "ok": 1,
+     "n": "Từ 50 sẩn phù/24 giờ là thể nặng (QĐ 4416, Bệnh mày đay mục 3.2.1); vẫn dưới 6 tuần (mục 2.4.1). Kháng histamin có hiệu quả khi dùng hằng ngày, không phải khi cần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). NSAID là thuốc có thể gây và làm nặng mày đay, cần hỏi từng loại (TL-0405 mục 4.1, 4.2.3, 5.2.1); stress làm nặng thêm (TL-0405 mục 5.2.4, nói về mày đay mạn tự phát)."
+    },
+    {
+     "t": "Thất bại thật sự với kháng histamin liều chuẩn (kháng thuốc)",
+     "n": "Chưa kết luận được: chị chỉ uống khoảng 2/5 ngày theo nhu cầu. Chỉ khi uống đều hằng ngày mà không đáp ứng mới tăng liều (TL-0405 mục 5.4 nêu cho mày đay mạn; QĐ 4416 mục 3.2.1 cho mày đay cấp nặng cho 2–4 liều chuẩn ngay)."
+    },
+    {
+     "t": "Mày đay mạn tự phát hoặc mày đay cảm ứng (đồ lót ôm sát, nhiệt)",
+     "n": "Mày đay mạn: > 6 tuần (QĐ 4416 mục 2.4.1); chị mới 15 ngày. Mày đay do áp lực: sẩn sau 3–12 giờ ở chỗ bị đè (mục 2.4.2); chị đã bỏ đồ ôm sát mà vẫn nổi cả chỗ không bị đè."
+    },
+    {
+     "t": "Phản vệ",
+     "n": "Chị chỉ có da, HA 106/66, SpO₂ 99%, phổi không ran rít, không đau bụng, nôn (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2)."
+    },
+    {
+     "t": "Viêm mạch mày đay",
+     "n": "Sẩn phù > 24 giờ, mềm, ngứa ít, đáp ứng kém kháng histamin (QĐ 75/2015 mục 3b); QĐ 3942/2014 (mục 3c): ban xuất huyết, đau khớp. Sẩn của chị mất trong vòng 1 ngày, không thâm, không đau khớp; chưa dùng kháng histamin đúng nên chưa thể coi là 'đáp ứng kém'."
+    },
+    {
+     "t": "Phù mạch",
+     "n": "Sưng nề môi, mắt, lưỡi, sinh dục, thanh quản (QĐ 4416 mục 2.1). Chị không sưng mi, môi, lưỡi, âm hộ không phù, không khó thở; không đau bụng nên chưa có chỉ định nhập viện (mục 3.2.1)."
+    },
+    {
+     "t": "Ghẻ hoặc viêm da tiếp xúc (đồ lót, nước giặt)",
+     "n": "Không mụn nước, không đường hầm, người ở cùng không ngứa (QĐ 4416, Bệnh ghẻ mục 2.1). Viêm da tiếp xúc dai dẳng cho tới khi loại yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 1.1); chị đã bỏ đồ ren, đổi lại nước giặt cũ mà vẫn nổi thêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chạy quy trình 'không đỡ': hỏi cách uống thuốc (đều hay khi ngứa), từng loại thuốc mới kể cả giảm đau tự mua, thức khuya – stress, xác nhận đã ngưng amoxicillin; đếm lại sẩn phù/24 giờ",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, 5.2.1, 5.4): hỏi NSAID, loại bỏ thuốc nghi ngờ, kháng histamin dùng hằng ngày; QĐ 4416 (mục 3.2.1): mức độ theo số sẩn phù/24 giờ."
+    },
+    {
+     "t": "Ngưng ibuprofen và mọi NSAID; đau đầu dùng paracetamol; ghi NSAID vào hồ sơ là thuốc có thể làm nặng",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, 4.2.3): NSAID thường gặp làm nặng mày đay, paracetamol là lựa chọn an toàn hơn (nêu cho mày đay mạn tự phát); thuốc nghi ngờ thì bỏ (mục 5.2.1). Liều paracetamol người lớn: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Xếp lại mức độ: thể nặng (≥ 50 sẩn phù/24 giờ) nhưng vẫn điều trị ngoại trú vì chưa phù lưỡi, chưa đau bụng",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): thể nặng ≥ 50 sẩn phù/24 giờ và/hoặc phù mạch; chỉ định nhập viện: phù mạch ở lưỡi, đau bụng."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2 tăng lên 2–4 liều tiêu chuẩn, uống đều hằng ngày 10 ngày, chỉ một loại thuốc (ví dụ cetirizin 10 mg × 2 lần/ngày), không phối hợp nhiều loại H1",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): thể nặng 2–4 liều tiêu chuẩn trong 10 ngày; mục 3.2.2: phối hợp 2 loại H1 không có lợi hơn; TL-0405 (mục 5.4): tăng tới 4 lần, không quá 4 lần (nêu cho mày đay mạn), không dùng nhiều H1 cùng lúc. Hai nguồn cùng hướng (sổ mâu thuẫn ca DL-0714, mục 4)."
+    },
+    {
+     "t": "Đợt corticoid uống ngắn: methylprednisolon 16–32 mg/ngày × 5 ngày hoặc prednisone 20–50 mg/ngày, tối đa 10 ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): thể nặng thêm methylprednisolon 16–32 mg/ngày × 5 ngày; TL-0405 (mục 5.4): đợt ngắn tối đa 10 ngày, 20–50 mg/ngày prednisone; QĐ 3942/2014 (mục 4.2d): 40–60 mg/ngày × 5–7 ngày. Ghi cả hai cách đầu (sổ mâu thuẫn 'Corticoid uống trong mày đay cấp'); thận trọng hơn là QĐ 4416."
+    },
+    {
+     "t": "Giải thích vì sao không làm xét nghiệm tìm nguyên nhân, chỉ công thức máu nếu chị chấp nhận; thuốc uống đều có ích hơn xét nghiệm",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, Bảng 8): không xét nghiệm thường quy ở mày đay cấp; QĐ 4416 (mục 2.2): có công thức máu; không xét nghiệm nào đổi xử trí. Chi phí thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay (khó thở, thở rít, khàn tiếng, sưng môi – mắt – lưỡi, đau bụng, nôn, choáng), hẹn tái khám sau 3 ngày; còn nổi sau 6 tuần là mày đay mạn",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1, 2.4.1, 3.2.1); TT 51/2017 (Phụ lục I mục I.1). Mốc tái khám cụ thể: không có trong tài liệu đã tải (TL-0405 mục 5.4: không kỳ vọng cải thiện thêm sau 1–2 tuần dùng kháng histamin)."
+    },
+    {
+     "t": "Thêm kháng histamin H2 (famotidin 40 mg/ngày)",
+     "v": "a",
+     "n": "QĐ 3942/2014 (Mày đay – phù Quincke mục 4.2b, Bảng 2): phối hợp H1 khi không đáp ứng H1 đơn thuần, famotidine 40 mg/ngày; TL-0405 (mục 5.4): không khuyến cáo ủng hộ hay chống phối hợp H1 và H2 (Bảng 12: lựa chọn thay thế). Chị chưa dùng H1 đúng nên chưa cần."
+    },
+    {
+     "t": "Tiếp tục ibuprofen hoặc NSAID khi đau đầu",
+     "v": "w",
+     "n": "NSAID thường gặp làm nặng mày đay (TL-0405 mục 4.1, 4.2.3); thuốc nghi ngờ làm nặng thì bỏ (mục 5.2.1)."
+    },
+    {
+     "t": "Dùng lại amoxicillin hoặc kháng sinh khác 'cho chắc'",
+     "v": "w",
+     "n": "β-lactam là nhóm thuốc thường gặp nhất gây mày đay (QĐ 75/2015 mục 2a; QĐ 3942/2014 mục 3b); chị không có ổ nhiễm khuẩn."
+    },
+    {
+     "t": "Tiêm một mũi corticoid tác dụng kéo dài 'cho khỏi hẳn' hoặc uống corticoid kéo dài",
+     "v": "w",
+     "n": "TL-0405 (mục 5.4): khuyến cáo mạnh chống dùng dài ngày hoặc dạng tiêm kéo dài ở mày đay mạn, chỉ cân nhắc đợt ngắn; QĐ 4416 (mục 3.2.2): corticosteroid kéo dài không được khuyến cáo vì nhiều tác dụng phụ."
+    },
+    {
+     "t": "Tiêm adrenalin bắp cho mày đay đơn thuần",
+     "v": "w",
+     "n": "TT 51/2017 (Phụ lục III mục I.3): adrenalin tiêm bắp khi phản vệ từ độ II; chị không có hô hấp, tuần hoàn, tiêu hóa."
+    },
+    {
+     "t": "Nhập viện hoặc giữ theo dõi 24 giờ như phản vệ",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ nhập viện khi phù lưỡi hoặc đau bụng; TT 51/2017 (Phụ lục III mục II): theo dõi ≥ 24 giờ cho phản vệ nhẹ, chị không đủ tiêu chuẩn chẩn đoán phản vệ (Phụ lục I)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp tự phát thể nặng (ngày thứ 15, dưới 6 tuần): khoảng 60–70 sẩn phù/24 giờ, chưa phù mạch, chưa dấu hiệu hô hấp – tuần hoàn – tiêu hóa",
+     "Vị trí: hông, bụng dưới, mông, bẹn, hai đùi, cẳng tay, cẳng chân; mỗi sẩn mất trong vòng 1 ngày, không thâm",
+     "Yếu tố làm nặng: kháng histamin chỉ uống khi ngứa (khoảng 2/5 ngày), ibuprofen tự mua 2 ngày trước, thức khuya – stress – tắm nước nóng; amoxicillin đã ngưng",
+     "Chưa có phản vệ, phù mạch, viêm mạch mày đay; không ghẻ, không viêm da tiếp xúc",
+     "Lý do thật: ngại ngùng (đã cởi mở hơn) và ràng buộc tiền: không làm xét nghiệm đổi quyết định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý (QĐ 4416 mục 2.1; TL-0405 mục 4.1): đếm lại sẩn phù/24 giờ và thời gian mỗi sẩn → dấu hiệu nặng (sưng môi lưỡi, khó thở, đau bụng) → HỎI TỪNG THUỐC: uống kháng histamin thế nào (đều hay khi ngứa), thuốc giảm đau, kháng sinh → thức khuya, stress, tắm nóng, đồ lót, nước giặt → khám da toàn thân, mặt – họng, phổi, bụng → xếp mức nặng → xử trí.",
+     "Vì sao 'không đỡ' mà chưa phải kháng thuốc: chị dùng thuốc theo nhu cầu (TL-0405 mục 5.4: dùng hằng ngày), uống ibuprofen (TL-0405 mục 4.1, 4.2.3, 5.2.1: NSAID gây và làm nặng mày đay), thức khuya và stress (mục 5.2.4). Đây là thất bại điều trị do cách dùng, không phải sai chẩn đoán: mỗi sẩn vẫn mất trong vòng 24 giờ, không thâm (QĐ 4416 mục 2.1).",
+     "Mức độ: ≥ 50 sẩn phù/24 giờ là thể nặng (QĐ 4416 mục 3.2.1) nhưng chưa phù lưỡi, chưa đau bụng nên vẫn ngoại trú. Loại phản vệ (TT 51/2017 Phụ lục I mục I.2), viêm mạch mày đay (QĐ 75/2015 mục 3b), phù mạch (QĐ 4416 mục 2.1) bằng bệnh sử và khám.",
+     "Xét nghiệm: không xét nghiệm nào đổi xử trí; công thức máu chấp nhận (QĐ 4416 mục 2.2), IgE, test lẩy da, sinh thiết không cần (TL-0405 Bảng 8; QĐ 75/2015 mục 3a). Chị không đủ tiền nên dồn tiền cho thuốc dùng đều là hợp lý."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, thuốc uống, tái khám (ve_hen). Không nhập viện vì không phù lưỡi, không đau bụng (QĐ 4416 mục 3.2.1); không cấp cứu vì không phải phản vệ (TT 51/2017 Phụ lục I).",
+     "Bỏ yếu tố làm nặng: ngưng ibuprofen, đau đầu dùng paracetamol (TL-0405 mục 4.2.3); amoxicillin vẫn ngưng. Kháng histamin hằng ngày, 2–4 liều tiêu chuẩn trong 10 ngày (QĐ 4416 mục 3.2.1), không quá 4 lần (TL-0405 mục 5.4), chỉ một loại.",
+     "Corticoid uống ngắn: methylprednisolon 16–32 mg/ngày × 5 ngày (QĐ 4416 mục 3.2.1), hoặc prednisone 20–50 mg/ngày tối đa 10 ngày (TL-0405 mục 5.4), hoặc 40–60 mg/ngày × 5–7 ngày (QĐ 3942/2014 mục 4.2d): khác năm, khác bối cảnh; thận trọng nhất là QĐ 4416. Không dùng dài ngày hoặc tiêm kéo dài (TL-0405 mục 5.4).",
+     "Kháng histamin H2 hoặc đổi sang fexofenadin (QĐ 3942/2014 mục 2a: không an thần) chấp nhận được, không bắt buộc; omalizumab, cyclosporin dành cho mày đay mạn kháng thuốc (QĐ 4416 mục 3.2.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cetirizin",
+      "ham_luong": "viên 10 mg",
+      "lieu": "10 mg (1 viên) mỗi lần, 2 lần/ngày (20 mg/ngày = 2 liều tiêu chuẩn)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, đều mỗi ngày kể cả khi đã đỡ",
+      "so_ngay": "10 ngày, tái khám sau 3 ngày",
+      "ghi_chu": "QĐ 4416 (Bệnh mày đay mục 3.2.1): thể nặng 2–4 liều tiêu chuẩn trong 10 ngày; QĐ 3942/2014 (Bảng 3): liều chuẩn 10 mg/ngày; TL-0405 (mục 5.4): không quá 4 lần, dùng hằng ngày. Cetirizin có thể gây buồn ngủ nhẹ (QĐ 3942, mục 2a); nếu ảnh hưởng livestream thì đổi fexofenadin 180 mg × 2 lần/ngày (không an thần, QĐ 3942 mục 2a)."
+     },
+     {
+      "thuoc": "Methylprednisolon",
+      "ham_luong": "viên 16 mg",
+      "lieu": "16 mg (1 viên)/ngày, mức thấp nhất của khoảng 16–32 mg",
+      "duong": "Uống",
+      "thoi_diem": "1 lần buổi sáng",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1): thể nặng, methylprednisolon 16–32 mg/ngày × 5 ngày. Hoặc prednisone 20–50 mg/ngày, tối đa 10 ngày (TL-0405 mục 5.4); hoặc 40–60 mg/ngày × 5–7 ngày (QĐ 3942/2014 mục 4.2d; viên 4 mg, 16 mg). QĐ 4416 thận trọng hơn; chọn 16 mg vì chị 49 kg, chưa phù mạch (lý do chọn mức: không có trong tài liệu đã tải). Quy đổi methylprednisolon – prednisone: không có trong tài liệu đã tải. Không dùng kéo dài (TL-0405 mục 5.4)."
+     },
+     {
+      "thuoc": "Ibuprofen (chị tự mua) – NGƯNG; thay bằng paracetamol khi đau đầu",
+      "ham_luong": "viên 400 mg; paracetamol theo hộp thuốc",
+      "lieu": "Không dùng ibuprofen; paracetamol theo hướng dẫn trên hộp (liều người lớn: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng ibuprofen từ hôm nay; paracetamol chỉ khi đau",
+      "so_ngay": "Không dùng NSAID trong suốt đợt mày đay",
+      "ghi_chu": "TL-0405 (mục 4.1, 4.2.3, 5.2.1): NSAID thường gặp làm nặng mày đay, paracetamol an toàn hơn; ghi hồ sơ NSAID là thuốc nghi ngờ (TT 51/2017 Điều 4 khoản 5). Amoxicillin vẫn ngưng, không dùng lại khi chưa có đánh giá của bác sĩ (QĐ 75/2015 mục 2a)."
+     }
+    ],
+    "dan_do": [
+     "Mẩn nổi nhiều không phải vì thuốc 'yếu' mà vì uống cách ngày, ibuprofen và thức khuya. Kháng histamin phải uống ĐỀU MỖI NGÀY, đủ 10 ngày, kể cả hôm không ngứa (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); uống đều rẻ hơn nổi kéo dài mất đơn hàng.",
+     "Không uống ibuprofen hay thuốc giảm đau chống viêm; đau đầu dùng paracetamol theo hướng dẫn trên hộp. Không dùng lại amoxicillin, không tự mua kháng sinh (TL-0405 mục 4.2.3, 5.2.1; QĐ 75/2015 mục 2a).",
+     "Corticoid chỉ uống đúng 5 ngày theo toa, không tự kéo dài, không mua thuốc tiêm 'cho khỏi hẳn' (TL-0405 mục 5.4; QĐ 4416 mục 3.2.2). Tác dụng phụ của đợt corticoid ngắn ngày: không có trong tài liệu đã tải.",
+     "Hạn chế gãi, tắm nước mát, mặc đồ cotton rộng, bớt thức khuya, cà phê, rượu bia (QĐ 4416 mục 4; QĐ 3942 mục 6); bột talc xoa da giảm ngứa (QĐ 4416 mục 3.2.2).",
+     "Đi cấp cứu ngay nếu khó thở, thở rít, khàn tiếng, sưng môi, mắt, lưỡi, đau bụng, nôn, choáng (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I). Tái khám sau 3 ngày; còn nổi sau 6 tuần là mày đay mạn (QĐ 4416 mục 2.4.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Ngân làm đúng: ngưng ibuprofen, uống cetirizin 10 mg sáng và tối đều mỗi ngày cùng methylprednisolon 16 mg đủ 5 ngày, đau đầu dùng paracetamol, bớt thức khuya. Hai đêm đầu ngứa dịu, ngủ được; sau 4 ngày chỉ còn vài chỗ nổi; tái khám lần 3 thấy gần hết, chị uống cetirizin cho đủ 10 ngày rồi ngưng. Mẩn hết hẳn khoảng ngày thứ 22 kể từ lúc ngứa đầu tiên, vẫn trong 6 tuần (QĐ 4416 mục 2.4.1), không tái phát sau 3 tuần theo dõi, không cần xét nghiệm; căn nguyên không rõ. Amoxicillin được ghi là thuốc nghi ngờ trong hồ sơ; thử phản ứng thuốc chỉ làm ở chuyên khoa (TT 51/2017 Điều 4 khoản 3), chị chưa cần. Lượt 2 'không đỡ' do cách dùng thuốc, không phải sai chẩn đoán hay thuốc kém.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: chị hỏi giá, xin khỏi thử máu; bác sĩ xếp ưu tiên, nói rõ không xét nghiệm nào đổi được quyết định và dồn tiền cho thuốc uống đều.",
+  "Đồ lót ren mới, nước giặt mới và 'viêm phụ khoa' là nhiễu: dễ nghĩ viêm da tiếp xúc, ghẻ hoặc bệnh phụ khoa; chị nổi cả cẳng tay, cẳng chân, không mụn nước, không đường hầm, không khí hư.",
+  "Lý do thật giấu vì ngại: chị chỉ khai tay chân; ngứa ở bụng dưới, bẹn, mông và việc tự mua amoxicillin chỉ lộ khi bác sĩ hỏi mở, giải thích và bảo đảm riêng tư.",
+  "Lượt 2 'không đỡ': kháng histamin uống theo nhu cầu để dành tiền, ibuprofen tự mua vì đau đầu, thức khuya; chỉ lộ khi hỏi đúng từng loại thuốc, kể cả giảm đau."
+ ],
+ "bai_hoc_bien": [
+  "Mày đay cấp không điển hình vẫn chẩn đoán bằng lâm sàng: sẩn phù ngứa mất trong vòng 24 giờ, không thâm; không phản vệ thì không tiêm adrenalin, chỉ nhập viện khi phù lưỡi hoặc đau bụng (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I, III).",
+  "Người bệnh ngại chỉ kể một phần: hỏi mở, giải thích lý do khám toàn thân, bảo đảm riêng tư; hỏi mọi thuốc tự mua kể cả kháng sinh, giảm đau (TT 51/2017 Điều 4 khoản 5; TL-0405 mục 4.1).",
+  "'Không đỡ': chạy quy trình thất bại điều trị (tuân thủ, NSAID, yếu tố mới, mức độ) trước khi kết luận kháng thuốc, rồi mới tăng liều 2–4 lần (QĐ 4416 mục 3.2.1; TL-0405 mục 5.4). Không đủ tiền: ở mày đay cấp không xét nghiệm nào đổi quyết định (TL-0405 Bảng 8)."
+ ],
+ "diem_nho": [
+  "Mày đay cấp ≤ 6 tuần; mạn: hằng ngày hoặc gần hằng ngày > 6 tuần (QĐ 4416 mục 1.1, 2.4.1). Mỗi sẩn phù mất trong vòng 24 giờ, không thâm (mục 2.1).",
+  "Thông thường: kháng histamin thế hệ 2 liều chuẩn 10 ngày; nặng (≥ 50 sẩn phù/24 giờ và/hoặc phù mạch): 2–4 liều chuẩn 10 ngày + corticoid ngắn, methylprednisolon 16–32 mg/ngày × 5 ngày (QĐ 4416 mục 3.2.1); TL-0405 (mục 5.4): đợt ngắn tối đa 10 ngày, prednisone 20–50 mg/ngày.",
+  "Kháng histamin dùng hằng ngày, không theo nhu cầu, không dùng nhiều H1 cùng lúc (TL-0405 mục 5.4). NSAID gây và làm nặng mày đay; β-lactam là nhóm thuốc thường gặp nhất gây mày đay (TL-0405 mục 4.2.3, 5.2.1; QĐ 75/2015 mục 2a)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Bệnh mày đay mục 1.1, 2.1–2.5, 3.1, 3.2.1, 3.2.2, 4; Bệnh ghẻ mục 2.1; Viêm da tiếp xúc mục 1.1, 2.1.1.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015 (kho cũ tltk-10000-ca) – Bệnh mày đay mục 1, 2a, 3a, 3b.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho cũ tltk-10000-ca) – Các thuốc kháng histamin H1 (mục 2a, Bảng 3); Mày đay – phù Quincke (mục 2a, 3b, 3c, 4.1, 4.2a–4.2d, 6).",
+  "GA²LEN/EAACI 2026, International guideline urticaria, Allergy 2026;81(8):2582-2632 (TL-0405) – mục 4.1, 4.2.3, 5.2.1, 5.2.4, 5.4, Bảng 8, Bảng 12.",
+  "Bộ Y tế – Thông tư 51/2017/TT-BYT (TL-0014) – Điều 4; Phụ lục I, III, VI; WAO 2020 Anaphylaxis Guidance (TL-0025) – Bảng 2.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn chẩn đoán viêm âm đạo; liều paracetamol người lớn; quy đổi methylprednisolon – prednisone; giờ uống cetirizin; mốc tái khám mày đay cấp; tác dụng phụ adrenalin, corticoid ngắn ngày; chỉ định kháng sinh cho nhiễm khuẩn khác; câu 'mày đay không lây'; người chứng khi khám vùng kín; giá thuốc."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (26/10/2026): nữ 25 tuổi bán hàng online bị mày đay cấp không điển hình (khởi phát âm thầm, sẩn nhỏ hồng nhạt, tập trung vùng quần áo ôm, ngứa đêm); giấu ngứa vùng kín và việc tự mua amoxicillin vì ngại; nhiễu: không đủ tiền xét nghiệm, đồ lót mới, 'viêm phụ khoa'. Lượt 2 'không đỡ' do kháng histamin uống theo nhu cầu, ibuprofen tự mua (đau đầu, không dùng đau bụng kinh để tránh nhầm mốc đau bụng nhập viện), thức khuya. Lượt 1 ngày thứ 10 kể từ lúc ngứa, lượt 2 ngày thứ 15.",
+  "Thiết kế: amoxicillin bắt đầu 2 ngày SAU khi ngứa nên không phải căn nguyên khởi phát; vẫn ngưng, theo dõi 24 giờ chấm w vì không đủ tiêu chuẩn phản vệ (khác DL-0243 có dị nguyên rõ). Ảnh: HA-DA-0169 (lượt 1, cẳng tay), HA-DA-0170 và HA-DA-0171 (lượt 2, hông – đùi); lượt 1 chỉ cho xem tay chân vì chị che vùng thân. Đã loại HA-DA-0172 vì lộ mặt (chưa đưa lên web).",
+  "Tài liệu đã đọc: QĐ 4416/2023 (Bệnh mày đay; Ghẻ mục 2.1; Viêm da tiếp xúc mục 1.1, 2.1.1), QĐ 75/2015 (Bệnh mày đay), QĐ 3942/2014 (Kháng histamin H1; Mày đay – phù Quincke), TL-0405 (mục 4.1, 4.2.3, 5.2.1, 5.2.4, 5.4, Bảng 8, 12), TT 51/2017, WAO 2020 Bảng 2. Đã tra sổ mâu thuẫn; mục mới đề xuất ở DL-0255_mau_thuan.md."
+ ]
+}
