@@ -1,0 +1,745 @@
+{
+ "ma_ca": "NH-0165",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_khuan_ho_hap_tren_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (của mẹ bé, đang cho con bú)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Bảo",
+  "tuoi": 0.03,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.45,
+  "chieu_cao": 51,
+  "xung_ho": "Bé sơ sinh 12 ngày tuổi, chưa nói được, khóc khi bị khám. Bà ngoại (bà Lan) kể bệnh chính: bác sĩ gọi bà là 'bà', bà xưng 'bà' và gọi bác sĩ là 'bác sĩ'. Mẹ bé (chị Hạnh) bế con, ít nói, xưng 'em' với bác sĩ; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Bà Lan 61 tuổi, nguyên nhân viên văn thư, đã nuôi ba con, nói to, quyết đoán, tin 'mũi xanh là phải kháng sinh', thương cháu nên sợ 'để lâu xuống phổi'. Mẹ 29 tuổi, kế toán đang nghỉ thai sản, mất ngủ, mệt, tăng huyết áp từ cuối thai kỳ, ngại cãi mẹ ruột.",
+  "kieu_nhieu": "Đòi kháng sinh: bà Lan khẳng định phải có kháng sinh, nếu bị từ chối ngay thì nói 'vậy để bà tự mua cho cháu'; dịu lại khi bác sĩ giải thích bằng những gì vừa quan sát được ở bé (không sốt, bú tốt, thở êm, phổi sạch) và cho bà việc cụ thể để làm. Bà giấu việc đã tự nhỏ thuốc nhỏ mũi của người lớn cho cháu vì sợ bị trách; không tự kể mục đích xin giấy chứng nhận sức khỏe.",
+  "nguoi_nha": "Bà ngoại (bà Lan, 61 tuổi) và mẹ bé (chị Hạnh, 29 tuổi) cùng đi. Hầu hết câu hỏi do bà trả lời (nguoi_noi = nguoi_nha); khi hỏi về cữ bú, thuốc của mẹ, sinh nở thì mẹ trả lời.",
+  "ten_nguoi_nha": "Bà ngoại (bà Lan)",
+  "ngoai_hinh": {
+   "da": "#f3cba8",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#cfe3f2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e3b48c",
+    "toc": "#9a9a9a",
+    "kieuToc": "bui",
+    "ao": "#8b5e83",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 12 ngày tuổi nghẹt mũi, thở khè khè, bà ngoại xin thuốc kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm xét nghiệm virus, procalcitonin, cấy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 3 của bệnh (bé 12 ngày tuổi)",
+   "tiep_don": "Bé trai 12 ngày tuổi, 3,45 kg, bà ngoại và mẹ đưa đến vì hắt hơi, nghẹt mũi, khụt khịt 2 hôm nay, đêm qua nghe thở 'khè khè'. Bé tỉnh, hồng hào, bú được. Sinh hiệu: nhiệt 36,9 °C (nách), mạch 128 l/p, nhịp thở 52 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện nhi cho bé Bảo để 'theo dõi và tiêm kháng sinh' là quá tay: bé không sốt (36,9 °C nách), tỉnh, bú tốt, thở 52 l/p dưới ngưỡng 60, SpO₂ 98%, không có dấu hiệu nào trong danh sách bệnh nặng của sơ sinh (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2). Nhiễm khuẩn muộn ở sơ sinh nhiều khi mắc ngay trong bệnh viện (WHO 2013 mục 3.4), mẹ đang tăng huyết áp sau sinh phải ngủ ghế cạnh con, còn kháng sinh không có tác dụng với cảm lạnh do virus (WHO 2013 mục 4.4). Chỉ nhập viện khi xuất hiện dấu hiệu nặng (WHO 2013 mục 3.8).",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi tuyến trên chỉ vì bà lo 'xuống phổi' là không cần: bé thở 52 l/p, không rút lõm, phổi sạch, nên không có viêm phổi (QĐ 101/2014 mục V), nghẹt mũi mới 2 ngày và hút mũi thông. Cả nhà mất một ngày đi xa, bé ngồi xe dài lúc đang nghẹt mũi, kết quả vẫn là điều trị triệu chứng (QĐ 5643, Viêm V.A cấp mục 4.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu bà mới 12 ngày mà nghẹt mũi, thở khè khè cả đêm, mũi xanh xanh. Bà sợ xuống phổi. Bác sĩ kê cho cháu thuốc kháng sinh đi, để lâu nó viêm phổi thì khổ.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 52,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hắt hơi từ 2 hôm nay, nghẹt mũi, khụt khịt, đêm qua nghe thở 'khè khè' làm bà không ngủ được. Dịch mũi lúc đầu trong, sáng nay hơi đục. Bà đòi kháng sinh vì sợ viêm phổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 1 chỉ hắt hơi; ngày 2 nghẹt mũi, khụt khịt nhất lúc bú và lúc nằm; không ngày nào nóng người, không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, ho"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Mẹ đo nách bằng nhiệt kế điện tử sáng và tối: 36,6–37,0 °C. Không thấy bé nóng, không rét run, bà không cho uống thuốc hạ sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, hạ thân nhiệt"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, 8–9 cữ/ngày. Khi bú bé ngắt quãng ra thở vì nghẹt mũi nhưng ngậm vú lại ngay, bú xong ngủ yên. Không bỏ bú, không sặc, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém (dấu hiệu bệnh nặng)"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Tiếng 'khè khè' nghe ở mũi, giảm hẳn sau khi hút mũi. Không tím môi, không rên, không ngưng thở, không thấy lõm ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khó thở, tím, rên, ngưng thở"
+    },
+    {
+     "id": "tinh_tao",
+     "noi_dung": "Bé tỉnh khi đánh thức, khóc to, đạp tay chân khỏe, không giật, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Li bì, co giật, vận động"
+    },
+    {
+     "id": "tieu_phan",
+     "noi_dung": "Tã ướt nhiều lần trong ngày, nước tiểu vàng nhạt; phân vàng sệt như mọi ngày, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước tiểu, phân, nôn"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường lúc 38 tuần 5 ngày, 3,40 kg, ối vỡ khi chuyển dạ khoảng 6 giờ, ối trong, mẹ không sốt lúc chuyển dạ; Apgar tốt, ra viện ngày thứ 3. Mẹ không có khí hư bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh (yếu tố nguy cơ nhiễm khuẩn sơ sinh)"
+    },
+    {
+     "id": "nguon_lay",
+     "noi_dung": "Trong nhà không ai ốm. Hai hôm trước có nhiều họ hàng đến thăm, bế bé; không biết ai hắt hơi. Không có trẻ đi học trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn lây (không rõ yếu tố khởi phát)"
+    },
+    {
+     "id": "ron_vang_da",
+     "noi_dung": "Rốn rụng ngày thứ 8, khô. Vàng da nhẹ ở mặt những ngày đầu, nay hết. Mắt không ghèn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Rốn, vàng da, mắt"
+    },
+    {
+     "id": "tiem",
+     "noi_dung": "Đã tiêm vitamin K và viêm gan B ngay sau sinh, đã tiêm lao (BCG) ở bệnh viện. Chưa có mũi nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêm chủng sơ sinh"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Tối qua và sáng nay bà tự lấy chai 'thuốc nhỏ mũi người lớn' của bà, nhãn naphazolin, nhỏ mỗi bên mũi cháu một giọt cho thông mũi; thấy cháu ngủ được một lúc. Bà không dám nói vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể đã nhỏ gì vào mũi, cho uống hay bôi gì, hoặc hỏi nhẹ nhàng không trách (vd 'nhà mình đã thử gì cho cháu thông mũi chưa?').",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch tự dùng"
+    },
+    {
+     "id": "khang_sinh_du",
+     "noi_dung": "Nhà còn một vỉ amoxicillin 500 mg bác sĩ sản kê cho mẹ sau sinh. Bà định bẻ nhỏ cho cháu uống 'cho chắc'; chưa cho. Bà nói bà từng cho các con uống kháng sinh khi mũi xanh, đều khỏi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Kháng sinh sẵn có ở nhà, ý định tự cho thuốc"
+    },
+    {
+     "id": "me_thuoc",
+     "noi_dung": "Mẹ bị tăng huyết áp từ tuần 36, sau sinh uống nifedipin tác dụng kéo dài 20 mg ngày 2 lần theo hẹn của khoa sản, huyết áp ở nhà khoảng 125/80. Mẹ lo thuốc qua sữa có hại cho bé, hỏi có nên ngưng không; chưa tự ngưng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc hạ áp đang dùng của mẹ, cho con bú"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà nội ở Đà Nẵng muốn có cháu, cả nhà định cho bé bay vào thứ Bảy tuần sau. Bà ngoại nghe nói hãng bay hỏi giấy bác sĩ xác nhận bé khỏe mạnh nên tiện đi khám xin luôn giấy 'chứng nhận sức khỏe' cho bé.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Không tự kể. Chỉ nói khi bác sĩ hỏi gia đình sắp có dự định gì cho bé (đi xa, về quê), hoặc cần giấy tờ gì sau buổi khám.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé hồng hào, tỉnh khi đánh thức, khóc to, trương lực tốt, đạp tay chân khỏe. Môi hồng, niêm mạc ẩm. Thóp trước phẳng, mềm. Không rên, không tím.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,45 kg (sinh 3,40 kg), dài 51 cm, vòng đầu 35 cm.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Hai bên mũi có dịch trong lẫn ít nhầy hơi đục, niêm mạc phù nhẹ; sau khi hút mũi thấy ống hút thông cả hai bên, bé thở êm hơn. Họng hơi đỏ, không giả mạc, không mảng trắng. Màng nhĩ hai bên xám nhạt, không phồng, không đỏ; không chảy dịch tai, không đau khi ấn bình tai.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không phù mặt, không hạch cổ sờ thấy. Thóp trước phẳng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, đều, không co lõm lồng ngực, không rên, không phập phồng cánh mũi. Nghe có tiếng khụt khịt truyền từ mũi; rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p, thở đều, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều (nhịp tim sơ sinh), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Rốn khô, không đỏ, không rịn dịch, da quanh rốn bình thường. Gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không ban, không mụn mủ, không vàng da.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Mẹ cho bú tư thế đúng, bé ngậm bắt vú tốt, mút nuốt nhịp nhàng. Mỗi vài phút bé nhả vú ra thở qua miệng vì nghẹt mũi rồi ngậm lại ngay, bú đủ cữ khoảng 15 phút, không sặc, không tím. Sau khi hút mũi, bé bú liền mạch hơn.",
+     "k": 1,
+     "hien": "Bé bú mẹ, thỉnh thoảng nhả vú ra thở rồi ngậm lại."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 10,2 G/L · Neutrophil 40% · Lymphocyte 48% · Hb 168 g/L · TC 310 G/L",
+     "n": "Không cần: bé không sốt, bú tốt, tỉnh, chưa vào quy trình sốt ở sơ sinh (NICE NG143 mục 1.2.12). Viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "n": "Không cần (như công thức máu)."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Nước tiểu bình thường",
+     "n": "Không có sốt, không triệu chứng tiết niệu: chưa có chỉ định (xét nghiệm nước tiểu thuộc quy trình trẻ sơ sinh sốt: NICE NG143 mục 1.5.3)."
+    },
+    "pcr_ho_hap": {
+     "n": "Cơ sở không làm được xét nghiệm virus. Kết quả cũng không đổi xử trí: không kháng sinh cho cảm lạnh (WHO 2013 mục 4.4)."
+    },
+    "pct": {
+     "n": "Cơ sở chỉ có xét nghiệm cơ bản, không làm procalcitonin. Chỉ định procalcitonin ở sơ sinh nhẹ như bé: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus) ở sơ sinh 12 ngày tuổi, ngày thứ 3, không có dấu hiệu bệnh nặng",
+     "ok": 1,
+     "n": "Hắt hơi, nghẹt mũi, dịch mũi trong rồi hơi đục, họng hơi đỏ, không sốt, tỉnh, bú tốt (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1; Viêm V.A cấp mục 3.1.1.1). Virus chiếm 60–80% viêm mũi họng và thường tự khỏi sau 3–5 ngày (mục 2.1.2, 5.1). Không dấu hiệu nào trong danh sách bệnh nặng (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Nhịp thở 52 l/p dưới ngưỡng thở nhanh của trẻ < 2 tháng (≥ 60: WHO 2013 tr. 76; > 60: QĐ 101/2014 mục V.1), không rút lõm, không rên, phổi không ran, SpO₂ 98%. Tiếng 'khè khè' là tiếng mũi, mất sau khi hút mũi. Nếu có viêm phổi thì trẻ < 2 tháng thuộc nhóm viêm phổi nặng (QĐ 101/2014 mục V.2)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không sốt, không quấy khóc, màng nhĩ không phồng, không đỏ, không chảy dịch tai. QĐ 5643 (Viêm tai giữa cấp tính trẻ em mục 3.1.1) mô tả sốt cao và đau tai dữ dội; AAP/AAFP 2013 chỉ áp dụng cho trẻ từ 6 tháng nên không dùng được cho sơ sinh. Viêm tai là biến chứng gần của viêm mũi họng (QĐ 5643 mục 5.2) nên dặn theo dõi."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng, nhiễm khuẩn huyết sơ sinh",
+     "n": "Không bú kém, không li bì, không co giật, không rên, không sốt hoặc hạ thân nhiệt, không tím (WHO 2013 mục 3.6); không mụn mủ, rốn khô, thóp phẳng (mục 3.8). Ối vỡ khoảng 6 giờ, mẹ không sốt, ối trong: không có yếu tố nguy cơ nào (WHO 2013 mục 3.4, tr. 51)."
+    },
+    {
+     "t": "Tịt lỗ mũi sau hoặc viêm mũi do lậu cầu",
+     "n": "Tịt lỗ mũi sau gây ngạt mũi ngay sau sinh; viêm mũi lậu cầu xuất hiện 24–48 giờ sau sinh (QĐ 5643, Ngạt mũi mục 2.1). Bé thở mũi bình thường 10 ngày đầu, ống hút thông hai bên, mẹ không khí hư. Nếu nghẹt mũi kéo dài hoặc không thông thì phải tìm lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích đây là cảm lạnh do virus, bé không có dấu hiệu nguy hiểm, thường tự khỏi sau 3–5 ngày",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90): cảm lạnh tự khỏi, hỗ trợ là chính, không dùng kháng sinh vì không hiệu quả và không phòng được viêm phổi (chương 4 viết cho trẻ 2 tháng–5 tuổi, dùng tham khảo cho sơ sinh vì chương 3 không có mục riêng); QĐ 5643 Viêm V.A cấp mục 4.1: chủ yếu điều trị triệu chứng, kháng sinh khi nghi nhiễm khuẩn hoặc đe dọa biến chứng; Viêm mũi họng cấp tính mục 5.1: virus tự khỏi 3–5 ngày."
+    },
+    {
+     "t": "Hút mũi, nhỏ nước muối sinh lý 0,9% vào từng bên mũi, nhất là trước cữ bú",
+     "v": "c",
+     "n": "QĐ 5643 Ngạt mũi mục 4.1 (rửa mũi NaCl 0,9%, hút dịch mũi) và Viêm V.A cấp mục 4.2 (hút mũi, rỏ mũi cho dễ thở); WHO 2013 mục 4.4: làm sạch dịch mũi trước cữ bú. Số giọt, số lần mỗi ngày, cách hút ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay thuốc nhỏ mũi co mạch của người lớn (naphazolin); không tự nhỏ, không tự cho thuốc nào vào mũi, miệng cho bé",
+     "v": "c",
+     "n": "QĐ 5643 Ngạt mũi mục 4.1 (tr. 117): naphtazolin không dùng cho trẻ sơ sinh; WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất. Hậu quả đã nhỏ 2 lần ở bé: không có trong tài liệu đã tải, nên dặn theo dõi các dấu hiệu bệnh nặng (WHO 2013 mục 3.6). Hậu quả nhỏ 2 lần ở sơ sinh: không có trong tài liệu đã tải, nên dặn theo dõi dấu hiệu bệnh nặng (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Tiếp tục bú mẹ hoàn toàn, bú theo nhu cầu, cữ nhỏ và thường hơn khi nghẹt mũi; không cho uống nước hay thứ gì khác",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: cho bú thêm khi bệnh; mục 3.3 (tr. 50) bú theo nhu cầu; mục 3.4 (tr. 51) bú mẹ hoàn toàn phòng nhiễm khuẩn muộn. QĐ 5643 Ngạt mũi mục 3.2.1: quan sát khi bú để đánh giá mức ngạt."
+    },
+    {
+     "t": "Không dùng thuốc hạ sốt, thuốc ho, thuốc long đờm; mua nhiệt kế điện tử, đo nhiệt độ nách khi bé nóng hoặc quấy; từ 38,0 °C là đến khám ngay trong ngày",
+     "v": "c",
+     "n": "Cách đo: nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần (NICE NG143 2021 mục 1.1.1–1.1.2) hoặc hậu môn, sốt khi ≥ 38,0 °C (AAP 2021, phần đối tượng); xem sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần'. Ngưỡng: trẻ dưới 3 tháng từ 38 °C là nhóm nguy cơ cao (NICE mục 1.2.12); WHO 2013 mục 3.6: > 38 °C hoặc < 35,5 °C là dấu hiệu nguy hiểm. WHO 2013 mục 4.4: không dùng thuốc chứa atropin, codein, rượu, long đờm. Liều paracetamol dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đến khám ngay khi bé bú kém hoặc bỏ bú, li bì khó đánh thức, co giật, thở ≥ 60 l/p, rên, lõm ngực nặng, tím, sốt hoặc lạnh người, thóp phồng, nôn nhiều",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52) và QĐ 2341/2024 mục 2.2.2: bú kém, co giật, thở nhanh, rút lõm nặng, sốt hoặc hạ thân nhiệt, không cử động hoặc chỉ cử động khi kích thích; NICE NG143 Bảng 2: rên, thở > 60 l/p là đỏ; WHO 2013 mục 3.8: thóp phồng. WHO 2013 mục 4.4: về ngay nếu thở nhanh hoặc khó thở, bệnh nặng thêm, không bú được."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày dù bé có đỡ; sớm hơn nếu có dấu hiệu trên",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 3 mục 6b (IMCI 0–2 tháng, nhiễm khuẩn tại chỗ): khám lại sau 2 ngày. Mốc tái khám riêng cho viêm mũi họng sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lý do thật và dự định sắp tới; giải thích khám bệnh hôm nay không phải khám sức khỏe cấp giấy, hẹn xin giấy sau khi bé khỏi; không ký giấy 'khỏe mạnh' hôm nay",
+     "v": "c",
+     "n": "Khám bệnh ngoại trú không thuộc khám sức khỏe (TT 32/2023/TT-BYT Điều 30 khoản 2a); khám sức khỏe theo yêu cầu thiếu chuyên khoa theo mẫu thì chỉ kết luận từng chuyên khoa, không phân loại sức khỏe (Điều 32 khoản 3). Quy định hãng bay về tuổi tối thiểu và giấy tờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lấy vỉ amoxicillin ra khỏi tầm tay, không bẻ cho bé uống; giải thích thuốc người lớn không có liều cho sơ sinh",
+     "v": "c",
+     "n": "Liều amoxicillin dưới 1 tháng: không có trong tài liệu đã tải; kháng sinh không có tác dụng với cảm lạnh (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Trấn an mẹ: thuốc nifedipin của mẹ qua sữa rất ít, chưa ghi nhận tác dụng phụ ở trẻ bú mẹ; mẹ tiếp tục thuốc và hẹn khoa sản, không tự ngưng",
+     "v": "a",
+     "n": "Nguồn bổ sung tự tìm: LactMed (NCBI Bookshelf NBK501047, nifedipine, sửa đổi 15/11/2025): nồng độ trong sữa thấp, lượng trẻ nhận nhỏ, chưa ghi nhận tác dụng phụ ở trẻ bú mẹ. Quyết định thuốc của mẹ thuộc bác sĩ điều trị cho mẹ; hướng dẫn BYT về thuốc hạ áp khi cho con bú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin…) theo yêu cầu của bà",
+     "v": "w",
+     "n": "Cảm lạnh không dùng kháng sinh (WHO 2013 mục 4.4); QĐ 5643 Viêm V.A cấp mục 4.1. Bài Viêm mũi họng cấp tính của QĐ 5643 (mục 4.1, 4.3.1) coi như liên cầu khi chưa xét nghiệm, không nêu liều cho sơ sinh, liều dưới 1 tháng không có trong tài liệu đã tải; theo mục sổ mâu thuẫn cho sơ sinh chấm w, chọn bên thận trọng."
+    },
+    {
+     "t": "Nhỏ tiếp hoặc kê thuốc nhỏ mũi co mạch (naphazolin)",
+     "v": "w",
+     "n": "QĐ 5643 Ngạt mũi mục 4.1: naphtazolin không dùng cho trẻ sơ sinh; WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất."
+    },
+    {
+     "t": "Cho thuốc ho, long đờm, kháng histamin hoặc thuốc cảm cho bé",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc chứa atropin, codein, rượu hoặc thuốc long đờm (có thể gây hại)."
+    },
+    {
+     "t": "Nhập viện nhi theo dõi, làm công thức máu, cấy máu, tiêm kháng sinh",
+     "v": "a",
+     "n": "Chấp nhận được nếu không bảo đảm theo dõi tại nhà, nhưng không phải đáp án chính: bé không có dấu hiệu bệnh nặng (WHO 2013 mục 3.6); nhiễm khuẩn muộn có thể mắc tại bệnh viện (mục 3.4)."
+    },
+    {
+     "t": "Ký giấy chứng nhận 'bé khỏe mạnh, đủ điều kiện đi máy bay' ngay hôm nay",
+     "v": "w",
+     "n": "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a); bé đang bệnh cấp chưa khỏi; không có tiêu chuẩn sức khỏe để bay ở sơ sinh trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp), nghĩ do virus, ở sơ sinh 12 ngày tuổi, ngày thứ 3 của bệnh",
+     "Không có dấu hiệu bệnh nặng: bú tốt, tỉnh, không sốt, thở 52 l/p, SpO₂ 98%",
+     "Chưa biến chứng: không viêm phổi, không viêm tai giữa cấp; không có yếu tố nguy cơ nhiễm khuẩn sơ sinh",
+     "Bà đã nhỏ naphazolin người lớn 2 lần (thuốc không dùng cho sơ sinh); bà có ý định cho amoxicillin của mẹ",
+     "Mẹ đang uống nifedipin điều trị tăng huyết áp, đang cho con bú; gia đình định cho bé đi máy bay nên xin giấy sức khỏe"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là cảm lạnh do virus: hắt hơi rồi nghẹt mũi, dịch mũi trong chuyển hơi đục, họng hơi đỏ, không sốt, bú tốt. QĐ 5643 (Viêm mũi họng cấp tính mục 2.1.2, 3.1.1, 5.1) nói virus chiếm 60–80% và thường tự khỏi sau 3–5 ngày; Viêm V.A cấp mục 3.1.1.1 mô tả trẻ sơ sinh ngạt mũi, thở bằng miệng. Màu dịch mũi dùng để quyết định kháng sinh hay không: không có trong tài liệu đã tải; điều quyết định là dấu hiệu toàn thân và thời gian bệnh.",
+     "Vì sao bà thấy 'khè khè' mà không phải viêm phổi: sơ sinh thở bằng mũi nên nghẹt mũi tạo tiếng khụt khịt ồn, nghe rõ nhất khi nằm. Tiếng này mất sau hút mũi, phổi nghe sạch, thở 52 l/p < 60, không rút lõm, không rên (WHO 2013 tr. 76, mục 3.6; QĐ 101/2014 mục V.1). Ở trẻ < 2 tháng mọi viêm phổi đều xếp nhóm nặng (QĐ 101/2014 mục V.2), nên loại trừ viêm phổi bằng khám kỹ là bước quan trọng nhất của buổi khám.",
+     "Vì sao không viêm tai giữa cấp: không sốt, không quấy khóc, màng nhĩ không phồng, không chảy dịch (QĐ 5643 Viêm tai giữa cấp tính trẻ em mục 3.1.1). Viêm tai là biến chứng gần của viêm mũi họng (QĐ 5643 mục 5.2) nên dặn bà theo dõi sốt, quấy khóc, chảy dịch tai. Tiêu chuẩn AAP/AAFP 2013 chỉ áp dụng cho trẻ từ 6 tháng.",
+     "Vì sao không có nhiễm khuẩn nặng: mọi dấu hiệu trong WHO 2013 mục 3.6 đều không có; NICE NG143 Bảng 2 không có dấu hiệu cam hoặc đỏ nào (nhịp tim 128 < 160; thở 52 < 60; không rên; bú tốt); yếu tố nguy cơ nhiễm khuẩn sơ sinh (ối vỡ > 18 giờ, mẹ sốt > 38 °C, ối hôi: WHO 2013 mục 3.4, tr. 51) đều không có. Nhiệt độ 38,0 °C trở lên mới đưa bé vào nhóm nguy cơ cao (NICE mục 1.2.12).",
+     "Vì sao vẫn nhớ tới dị tật và lậu cầu: nghẹt mũi ở sơ sinh còn do tịt lỗ mũi sau (ngạt ngay sau sinh) và viêm mũi lậu cầu (24–48 giờ sau sinh) (QĐ 5643 Ngạt mũi mục 2.1). Bé thở mũi êm 10 ngày đầu, ống hút thông hai bên nên không nghĩ; nghẹt kéo dài thì phải khám lại.",
+     "Vì sao không cần xét nghiệm: bé không sốt, tỉnh, bú tốt; viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2). Cơ sở không có X-quang, xét nghiệm virus."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: cảm lạnh tự khỏi, kháng sinh không hiệu quả và không phòng viêm phổi (WHO 2013 mục 4.4); QĐ 5643 Viêm V.A cấp mục 4.1 chỉ dùng khi nghi nhiễm khuẩn hoặc đe dọa biến chứng. Bài Viêm mũi họng cấp tính của QĐ 5643 (mục 4.1) khuyên điều trị như liên cầu nhưng không có liều cho sơ sinh, nên với bé 12 ngày chọn không kháng sinh (chọn bên thận trọng).",
+     "Cách nói với bà: bắt đầu bằng việc bà đúng khi lo ('bà thương cháu nên canh cháu rất kỹ'), nói những gì vừa quan sát được (không sốt, bú tốt, phổi sạch), nói kháng sinh không diệt được virus và cháu còn quá nhỏ để thử thuốc không có liều rõ ràng, rồi cho bà việc cụ thể: hút mũi, nhỏ nước muối, đếm nhịp thở, đo nhiệt, hẹn 2 ngày (QĐ 2341/2024 Bảng kiểm 3). Không chỉ từ chối suông.",
+     "Chăm sóc mũi: hút mũi và nhỏ nước muối sinh lý trước cữ bú (QĐ 5643 Ngạt mũi mục 4.1; WHO 2013 mục 4.4). Ngưng naphazolin: QĐ 5643 Ngạt mũi mục 4.1 ghi rõ không dùng cho trẻ sơ sinh; hỏi khéo, không trách, vì nếu bà sợ bị trách thì lần sau sẽ giấu tiếp.",
+     "Nuôi dưỡng: bú mẹ hoàn toàn, bú nhiều cữ nhỏ (WHO 2013 mục 4.4, 3.3, 3.4). Không hạ sốt, thuốc ho, long đờm; theo dõi nhiệt độ nách, ngưỡng 38,0 °C là đến khám ngay (NICE mục 1.1.2, 1.2.12; AAP 2021 đo hậu môn).",
+     "Hẹn 2 ngày: IMCI nêu khám lại sau 2 ngày cho nhiễm khuẩn tại chỗ ở trẻ 0–2 tháng (QĐ 2341/2024 Bảng kiểm 3). Dấu hiệu phải đến ngay lấy từ WHO 2013 mục 3.6 và QĐ 2341/2024 mục 2.2.2.",
+     "Giấy chứng nhận: hỏi dự định sắp tới để biết lý do thật. Giải thích khám bệnh không phải khám sức khỏe cấp giấy (TT 32/2023 Điều 30 khoản 2a), không phân loại sức khỏe khi không đủ chuyên khoa (Điều 32 khoản 3); bay khi bé 2–3 tuần tuổi có an toàn không và hãng yêu cầu gì: không có trong tài liệu đã tải, khuyên gia đình hỏi hãng và chờ bé khỏi.",
+     "Mẹ: trấn an dựa trên LactMed (nguồn bổ sung tự tìm), khuyên không tự ngưng thuốc, tái khám sản theo hẹn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý, lọ nhỏ mũi dành cho trẻ nhỏ)",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ vào từng bên mũi, sau đó hút mũi nhẹ. Số giọt mỗi lần: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh, khoảng 3–5 ngày",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1; Viêm V.A cấp mục 4.2; WHO 2013 mục 4.4. Số lần mỗi ngày: không có trong tài liệu đã tải. Không kê kháng sinh, thuốc hạ sốt, thuốc ho, thuốc nhỏ mũi co mạch."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm lạnh do virus, thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1); không cần kháng sinh (WHO 2013 mục 4.4). Bé nhỏ nên nghẹt mũi nghe 'khè khè', nhưng phổi bé sạch.",
+     "Ngưng ngay thuốc nhỏ mũi của bà (naphazolin không dùng cho sơ sinh). Không nhỏ, không cho uống thuốc nào khác nếu chưa hỏi bác sĩ. Cất vỉ amoxicillin ngoài tầm tay.",
+     "Hút mũi và nhỏ nước muối sinh lý trước mỗi cữ bú. Cho bú mẹ hoàn toàn, bú nhiều cữ nhỏ.",
+     "Đo nhiệt độ nách bằng nhiệt kế điện tử khi bé nóng hoặc quấy. Từ 38,0 °C hoặc lạnh người dưới 35,5 °C thì đến ngay, không tự cho thuốc hạ sốt.",
+     "Đưa bé đến ngay khi: bú kém hoặc bỏ bú, li bì khó đánh thức, co giật, thở nhanh từ 60 lần/phút khi nằm yên, rên, lõm ngực, tím môi, thóp phồng, nôn nhiều, rốn đỏ chảy mủ (WHO 2013 mục 3.6, 3.8).",
+     "Rửa tay trước khi bế bé, hạn chế người lạ bế hôn bé trong những tuần đầu (WHO 2013 mục 3.4: rửa tay phòng nhiễm khuẩn sơ sinh).",
+     "Tái khám sau 2 ngày (QĐ 2341/2024 Bảng kiểm 3). Giấy chứng nhận sức khỏe: xin khi bé khỏi, qua khám sức khỏe theo mẫu (TT 32/2023 Điều 30, 32); hỏi hãng bay về điều kiện cho trẻ sơ sinh trước khi quyết định ngày bay.",
+     "Mẹ tiếp tục thuốc huyết áp và tái khám sản theo hẹn; không tự ngưng vì lo thuốc qua sữa."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 2 ngày (bệnh ngày thứ 5, bé 14 ngày tuổi)",
+   "tiep_don": "Tái khám theo hẹn. Bé hết nghẹt mũi, bú tốt, ngủ ngoan; bà đưa đến cùng mẹ. Sinh hiệu: nhiệt 36,8 °C (nách), mạch 120 l/p, nhịp thở 44 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ bé Bảo lại nhập viện 'cho chắc' khi bé đã hết nghẹt mũi, bú tốt, không sốt, thở 44 l/p, phổi sạch là không có chỉ định (WHO 2013 mục 3.6, 3.8). Bé 14 ngày tuổi nằm khoa nhi có nguy cơ mắc nhiễm khuẩn bệnh viện (WHO 2013 mục 3.4), mẹ đang huyết áp cao lại phải ở viện cùng con và bị trì hoãn việc đi khám sản.",
+    "theo_doi": "Cho kháng sinh uống 'vài ngày cho sạch hẳn' và giữ bé theo dõi thêm là không cần: viêm mũi họng do virus tự khỏi sau 3–5 ngày, kháng sinh chỉ dùng khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643 Viêm mũi họng cấp tính mục 5.1; Viêm V.A cấp mục 4.1). Liều kháng sinh uống cho bé 14 ngày tuổi không có trong tài liệu đã tải, nên liều dùng sẽ là đoán mò. Bà lại có thêm bằng chứng cho niềm tin 'có kháng sinh mới khỏi', lần sau bé ốm sẽ đòi mạnh hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hết nghẹt mũi rồi, bú ngon lắm. Nhưng sáng nay còn khịt khịt, bà sợ nó tái lại, bác sĩ kê cho cháu ít kháng sinh uống cho sạch. Với lại bác sĩ viết giùm bà cái giấy cháu khỏe mạnh để thứ Bảy bay vào Đà Nẵng.",
+   "sinh_hieu": {
+    "mach": 120,
+    "ha": "Không đo",
+    "nhiet": "36,8 (nách)",
+    "nhip_tho": 44,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khoi",
+     "noi_dung": "Hết nghẹt mũi từ trưa hôm qua. Sáng nay chỉ khịt khịt vài tiếng, hắt hơi một lần. Bú ngon, ngủ ngoan.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau hai ngày"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Đo nách sáng tối 36,6–37,0 °C. Không sốt, không lạnh người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, hạ thân nhiệt"
+    },
+    {
+     "id": "bu_tieu",
+     "noi_dung": "Bú 8–10 cữ/ngày, không bỏ cữ, không sặc, không nôn. Tã ướt nhiều lần, phân vàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tiểu, phân"
+    },
+    {
+     "id": "dau_hieu_moi",
+     "noi_dung": "Không ho, thở êm, không rên, không tím. Không quấy khóc về đêm, không dụi tai, không chảy dịch tai. Rốn khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Biến chứng: phổi, tai, nhiễm khuẩn mới"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Từ hôm khám xong bà đã bỏ chai naphazolin. Chỉ dùng nước muối sinh lý và hút mũi. Vỉ amoxicillin vẫn để trong tủ, chưa cho bé.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "khang_sinh_l2",
+     "noi_dung": "Bà vẫn thấy sáng nay bé khịt khịt và nói 'không cho kháng sinh thì nó tái lại, hồi nhỏ con bà cũng vậy'. Bà muốn cho uống 3 ngày cho chắc.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đòi kháng sinh dù đã khỏi"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Bà xin giấy ghi 'cháu khỏe mạnh, đi máy bay được' để thứ Bảy bay vào Đà Nẵng với mẹ bé. Hãng bay có yêu cầu giấy gì và điều kiện tuổi hay không thì bà chưa hỏi, chỉ nghe người quen nói.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: giấy chứng nhận sức khỏe"
+    },
+    {
+     "id": "me_ngung_thuoc",
+     "noi_dung": "Mẹ đã tự ngưng nifedipin 3 ngày nay vì nghe nói thuốc qua sữa, huyết áp đo ở nhà sáng nay 150/95. Hai hôm nay mẹ đau đầu âm ỉ, không nhìn mờ, không đau thượng vị.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ có uống thuốc huyết áp đều không, hoặc hỏi sức khỏe của mẹ, huyết áp gần đây.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc hạ áp của mẹ, tự ngưng"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Gia đình hỏi bao giờ tiêm mũi tiếp theo. Chưa có lịch.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lịch tiêm chủng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé hồng hào, tỉnh, khóc to, trương lực tốt. Thóp phẳng. Niêm mạc ẩm.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,50 kg (lượt 1: 3,45 kg), dài 51 cm, vòng đầu 35 cm. Tăng cân đều theo hướng đi lên.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông cả hai bên, không dịch. Họng hồng nhạt, không giả mạc. Màng nhĩ hai bên xám nhạt, không phồng, không đỏ, không chảy dịch.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không co lõm. Rì rào phế nang rõ hai bên, không ran, không còn tiếng khụt khịt.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều (nhịp tim sơ sinh), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 120 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, rốn khô, không đỏ.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú tốt, bú liền mạch khoảng 15 phút, không nhả vú ra thở, không sặc.",
+     "k": 0,
+     "hien": "Bé bú liền mạch."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 9,0 G/L · Neutrophil 35% · Lymphocyte 52% · Hb 165 g/L · TC 320 G/L",
+     "n": "Không cần: bé đã khỏi lâm sàng. Tài liệu đã tải không nêu chỉ định xét nghiệm kiểm tra sau viêm mũi họng cấp đã khỏi; viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2). Chọc máu gót ở sơ sinh khỏe là can thiệp thừa."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "n": "Không cần (như công thức máu)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus ở sơ sinh, đã khỏi hoàn toàn sau 5 ngày, không biến chứng",
+     "ok": 1,
+     "n": "Hết nghẹt mũi, không sốt, bú tốt, tăng cân, phổi sạch, màng nhĩ bình thường. Virus tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1); WHO 2013 mục 4.4: phần lớn khỏi trong 14 ngày."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 44 l/p (ngưỡng 60), không rút lõm, không rên, phổi không ran (WHO 2013 tr. 76; QĐ 101/2014 mục V.1, V.2)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không sốt, không quấy, màng nhĩ không phồng không đỏ, không chảy dịch (QĐ 5643, Viêm tai giữa cấp tính trẻ em mục 3.1.1; biến chứng gần mục 5.2 của Viêm mũi họng cấp)."
+    },
+    {
+     "t": "Ngạt mũi do dị tật (tịt lỗ mũi sau)",
+     "n": "Mũi thông hai bên, hết ngạt khi hết viêm; nếu ngạt còn mới phải nghĩ đến (QĐ 5643, Ngạt mũi mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận bé khỏi: hết ngạt mũi, không sốt, bú liền mạch, tăng cân, phổi và màng nhĩ bình thường; không cần xét nghiệm hay chụp kiểm tra",
+     "v": "c",
+     "n": "Viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); WHO 2013 mục 4.4 theo dõi bằng quan sát (bú, thở). Tiêu chí 'khỏi' dùng ở đây do người soạn tổng hợp từ các mục trên, tài liệu đã tải không nêu tiêu chí riêng."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích khịt khịt buổi sáng là bình thường ở sơ sinh, không phải bệnh quay lại, không có 'kháng sinh phòng tái phát'",
+     "v": "c",
+     "n": "Cảm lạnh không dùng kháng sinh, không phòng được viêm phổi (WHO 2013 mục 4.4); QĐ 5643 Viêm V.A cấp mục 4.1. Khịt khịt sinh lý ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nước muối sinh lý: ngưng khi hết nghẹt, nhỏ lại khi nghẹt; hoặc giữ vệ sinh mũi hằng ngày bằng nhỏ nước muối",
+     "v": "c",
+     "n": "QĐ 5643 Ngạt mũi mục 4.1 (rửa mũi NaCl 0,9% khi nghẹt) và mục 5 (giữ vệ sinh mũi họng, rỏ mũi hằng ngày NaCl 0,9%): cả hai cách đều có trong QĐ. Số lần mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi sức khỏe mẹ: phát hiện mẹ tự ngưng nifedipin 3 ngày, đau đầu, huyết áp ở nhà 150/95; khuyên mẹ không tự ngưng thuốc, đo lại huyết áp, đến khoa sản/tim mạch ngay hôm nay; đau đầu dữ dội, nhìn mờ, đau thượng vị, khó thở thì đi cấp cứu",
+     "v": "c",
+     "n": "Nguồn bổ sung tự tìm: LactMed (NBK501047, nifedipine, 15/11/2025): lượng thuốc trẻ nhận qua sữa nhỏ, chưa ghi nhận tác dụng phụ, nên lo ngại thuốc qua sữa không phải lý do ngưng. Ngưỡng huyết áp, dấu hiệu cảnh báo tiền sản giật sau sinh và cách chỉnh thuốc của mẹ: không có trong tài liệu đã tải (ngoài phạm vi nhi khoa), nên chuyển mẹ đến bác sĩ điều trị."
+    },
+    {
+     "t": "Giấy chứng nhận sức khỏe: giải thích khám bệnh không phải khám sức khỏe cấp giấy; nếu cần giấy cho hãng bay thì khám sức khỏe theo yêu cầu, chỉ kết luận từng chuyên khoa đã khám; khuyên hỏi hãng về điều kiện cho bé sơ sinh và cân nhắc hoãn chuyến cho tới khi bé lớn hơn",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT Điều 30 khoản 2a, Điều 32 khoản 3. An toàn bay khi bé 2–3 tuần tuổi và điều kiện của hãng: không có trong tài liệu đã tải, bác sĩ không tự cấp 'đủ điều kiện bay'. Lời khuyên cân nhắc hoãn là nhận định người soạn, không từ nguồn."
+    },
+    {
+     "t": "Dặn tiếp tục bú mẹ hoàn toàn, theo dõi nhiệt độ nách và các dấu hiệu nguy hiểm; không cần hẹn tái khám riêng, đưa bé đi ngay nếu có dấu hiệu, và tiêm chủng đúng lịch",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52), mục 4.4 (khi nào quay lại), mục 3.4 (bú mẹ hoàn toàn); NICE NG143 mục 1.1.2, 1.2.12; QĐ 2341/2024 Bảng kiểm 1 mục 15–19. Tái khám khi đã khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn lịch tiêm vắc xin phối hợp có thành phần bạch hầu – ho gà – uốn ván lần 1 khi bé đủ 2 tháng tuổi",
+     "v": "c",
+     "n": "TT 10/2024/TT-BYT Phụ lục (TL-0005, bản chữ OCR cần xác nhận ở PDF gốc): tiêm lần 1 khi đủ 02 tháng tuổi. Tên vắc xin cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thu hồi hẳn vỉ amoxicillin và chai naphazolin, dặn không dùng thuốc người lớn cho bé",
+     "v": "c",
+     "n": "QĐ 5643 Ngạt mũi mục 4.1 (naphtazolin không dùng cho sơ sinh); liều amoxicillin dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xét nghiệm công thức máu, CRP kiểm tra để 'chắc chắn đã khỏi'",
+     "v": "a",
+     "n": "Không cần (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2); chọc máu gót ở bé khỏe làm bé đau mà không đổi xử trí."
+    },
+    {
+     "t": "Kê kháng sinh uống 'cho sạch hẳn, phòng tái phát'",
+     "v": "w",
+     "n": "Bệnh do virus đã tự khỏi; kháng sinh không phòng được biến chứng (WHO 2013 mục 4.4). QĐ 5643 Viêm mũi họng cấp tính mục 4.1 không nêu liều cho sơ sinh; liều dưới 1 tháng không có trong tài liệu đã tải; theo mục sổ mâu thuẫn cho sơ sinh chấm w."
+    },
+    {
+     "t": "Ký giấy 'khỏe mạnh, đủ điều kiện đi máy bay'",
+     "v": "w",
+     "n": "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a); khám không đủ chuyên khoa thì không phân loại sức khỏe (Điều 32 khoản 3); điều kiện bay của sơ sinh không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus ở sơ sinh 14 ngày tuổi, đã khỏi hoàn toàn sau 5 ngày",
+     "Không biến chứng: không viêm phổi, không viêm tai giữa cấp; tăng cân 3,45 lên 3,50 kg",
+     "Đã bỏ thuốc nhỏ mũi naphazolin; chưa dùng kháng sinh",
+     "Mẹ tự ngưng thuốc hạ áp, huyết áp 150/95 ở nhà, đau đầu: cần xử trí ở khoa sản/tim mạch",
+     "Gia đình xin kháng sinh 'phòng tái phát' và giấy chứng nhận sức khỏe để bay"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao xác nhận khỏi: 5 ngày kể từ lúc hắt hơi, đúng với 3–5 ngày của cảm lạnh do virus (QĐ 5643 Viêm mũi họng cấp tính mục 5.1). Hết ngạt, không sốt, bú liền mạch, thở 44 l/p, phổi sạch, màng nhĩ bình thường, tăng 50 g sau 2 ngày. Tiêu chí khỏi do người soạn tổng hợp, tài liệu đã tải không có tiêu chí riêng.",
+     "Vì sao 'khịt khịt buổi sáng' không phải bệnh quay lại: không kèm nghẹt, không sốt, không bỏ bú, không thở nhanh, không rên. Sơ sinh thở bằng mũi nên tiếng khụt khịt nhỏ hay còn sau một đợt viêm (nhận định người soạn); dấu hiệu quay lại thật là sốt từ 38,0 °C, bú kém, thở nhanh, rên (WHO 2013 mục 3.6).",
+     "Vì sao không cần xét nghiệm hay chụp kiểm tra dù đã khỏi: không có chỉ định trong QĐ 5643 (Viêm mũi họng cấp tính mục 3.1.2); công thức máu, CRP không giúp xác nhận khỏi. Nếu ngạt mũi kéo dài hoặc tái phát nhiều lần thì mới tìm nguyên nhân khác như dị tật (QĐ 5643 Ngạt mũi mục 2.1).",
+     "Vì sao phải hỏi sức khỏe mẹ: mẹ tự ngưng nifedipin 3 ngày vì sợ thuốc qua sữa, huyết áp đo ở nhà 150/95 và đau đầu. Đây là nỗi sợ do thiếu thông tin: nifedipin vào sữa rất ít, chưa ghi nhận tác dụng phụ ở trẻ bú mẹ (LactMed NBK501047, nguồn bổ sung tự tìm). Bác sĩ nhi không điều chỉnh thuốc cho mẹ nhưng phải nhận ra mẹ có thể có tăng huyết áp sau sinh chưa kiểm soát và chuyển ngay đi khám.",
+     "Vì sao không cấp giấy: khám bệnh khác khám sức khỏe cấp giấy (TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3). Bé khỏi bệnh cấp không có nghĩa là 'đủ điều kiện bay': điều kiện bay ở sơ sinh 2–3 tuần tuổi không có trong tài liệu đã tải. Cách làm: nói rõ phạm vi giấy, hướng dẫn hỏi hãng, và nếu gia đình vẫn cần thì làm khám sức khỏe theo yêu cầu."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: bệnh do virus đã tự khỏi, kháng sinh không phòng biến chứng (WHO 2013 mục 4.4); liều kháng sinh uống cho bé dưới 1 tháng không có trong tài liệu đã tải. Cách nói với bà: ghi nhận bà canh cháu kỹ nên bệnh được phát hiện sớm; lấy chính diễn tiến (hết sau 5 ngày không kháng sinh) làm bằng chứng; cho bà việc để làm (nước muối, theo dõi nhiệt, dấu hiệu quay lại).",
+     "Nước muối: ngưng khi hết nghẹt hoặc duy trì hằng ngày, cả hai đều có trong QĐ 5643 (Ngạt mũi mục 4.1 và mục 5). Thuốc nhỏ mũi co mạch và vỉ amoxicillin: thu hồi, vì naphtazolin không dùng cho sơ sinh (QĐ 5643 Ngạt mũi mục 4.1).",
+     "Mẹ: tiếp tục nifedipin theo hẹn khoa sản, đo lại huyết áp, đi khám ngay hôm nay vì huyết áp 150/95 kèm đau đầu; ngưỡng cấp cứu và chỉnh thuốc không có trong tài liệu đã tải.",
+     "Giấy: giải thích phạm vi (TT 32/2023); khuyên hỏi hãng, cân nhắc hoãn cho đến khi bé lớn hơn (nhận định người soạn, không từ nguồn).",
+     "Dặn dò: bú mẹ hoàn toàn; theo dõi sốt, bú, thở; tiêm chủng lần 1 khi đủ 2 tháng (TT 10/2024). Hẹn tái khám riêng: không có trong tài liệu đã tải, không cần vì bé đã khỏi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý nhỏ mũi)",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ vào từng bên mũi, hút nhẹ. Số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Chỉ khi nghẹt mũi trở lại, hoặc nhỏ hằng ngày để vệ sinh mũi nếu gia đình muốn",
+      "so_ngay": "Không giới hạn; ngưng khi mũi thông",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1 và mục 5. Không kê kháng sinh, thuốc hạ sốt, thuốc nhỏ mũi co mạch."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi cảm lạnh; khịt khịt nhỏ buổi sáng không cần thuốc. Không cần kháng sinh, không cần xét nghiệm kiểm tra.",
+     "Thu lại vỉ amoxicillin, chai naphazolin; không dùng thuốc người lớn cho bé.",
+     "Tiếp tục bú mẹ hoàn toàn, đo nhiệt nách khi nóng hoặc quấy. Đến ngay khi sốt từ 38,0 °C, lạnh người, bú kém, li bì, thở nhanh từ 60 lần/phút, rên, lõm ngực, tím, co giật, thóp phồng (WHO 2013 mục 3.6).",
+     "Mẹ không tự ngưng thuốc huyết áp: nifedipin vào sữa rất ít (LactMed). Hôm nay mẹ đi khám sản/tim mạch, đo lại huyết áp. Nếu đau đầu dữ dội, nhìn mờ, đau thượng vị, khó thở thì đi cấp cứu ngay.",
+     "Giấy chứng nhận sức khỏe: khám bệnh hôm nay không phải khám sức khỏe cấp giấy. Hỏi hãng bay về điều kiện cho bé sơ sinh; cân nhắc hoãn chuyến; nếu cần giấy thì làm khám sức khỏe theo yêu cầu.",
+     "Tiêm vắc xin phối hợp lần 1 khi bé đủ 2 tháng tuổi (TT 10/2024)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Bảo khỏi cảm lạnh sau 5 ngày không kháng sinh, cân 3,50 kg lúc 14 ngày tuổi và 4,3 kg lúc 1 tháng, tiêm chủng đúng hẹn. Mẹ đi khám sản ngay hôm đó: huyết áp được điều chỉnh, mẹ tiếp tục nifedipin và vẫn cho con bú. Bà Lan bỏ ý định cho kháng sinh. Gia đình hoãn chuyến bay chờ bé lớn hơn và hỏi hãng về giấy tờ.",
+ "nhieu": [
+  "Đòi kháng sinh (bà ngoại): lý do thật là nỗi sợ 'xuống phổi' và thương cháu; xử lý bằng cách nói những gì quan sát được và trao cho bà việc cụ thể.",
+  "Tiếng 'khè khè' do nghẹt mũi: bà tưởng khò khè của phổi, trong khi phổi sạch và tiếng mất sau hút mũi.",
+  "Thuốc nhỏ mũi naphazolin của người lớn: bà tự dùng và giấu; nếu bác sĩ không hỏi khéo thì không biết.",
+  "Lý do thật (giấy chứng nhận sức khỏe để bay) chỉ lộ khi hỏi dự định sắp tới của gia đình.",
+  "Thuốc hạ áp của mẹ: nỗi lo thuốc qua sữa; lượt 2 mẹ tự ngưng thuốc và huyết áp tăng lại.",
+  "Không có X-quang, siêu âm, xét nghiệm virus: viêm phổi loại trừ bằng nhịp thở, rút lõm, phổi nghe."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh có triệu chứng hô hấp trên nhẹ: chỉ cho về khi đã xét đủ danh sách dấu hiệu bệnh nặng (bú, li bì, co giật, nhịp thở, rên, rút lõm, nhiệt độ), có hẹn tái khám sớm và dặn dấu hiệu quay lại rõ.",
+  "Đòi kháng sinh: không chỉ từ chối; nói những gì vừa thấy ở bé, nói rõ vì sao không cần, rồi cho gia đình việc làm cụ thể (hút mũi, nước muối, đo nhiệt, hẹn 2 ngày). Ghi nhận nỗi lo là tình thương.",
+  "Hỏi khéo, không trách về thuốc đã tự dùng ('nhà mình đã thử gì cho cháu thông mũi chưa?') mới lộ chai naphazolin không dùng cho sơ sinh.",
+  "Hỏi lý do thật: 'sắp tới gia đình có dự định gì cho cháu?'. Khám bệnh không phải khám sức khỏe cấp giấy, không ký giấy 'đủ điều kiện' khi không có tiêu chuẩn.",
+  "Ca nhi vẫn phải nhìn người chăm: thuốc hạ áp của mẹ, mẹ tự ngưng thuốc ở lượt 2. Người mẹ khỏe là một phần của bé khỏe.",
+  "Lượt tái khám khi đã khỏi: xác nhận bằng lâm sàng (bú, thở, tăng cân, nhiệt), không cần xét nghiệm kiểm tra; không kê kháng sinh 'phòng tái phát'."
+ ],
+ "diem_nho": [
+  "Dấu hiệu bệnh nặng ở trẻ < 2 tháng: bú kém, co giật, li bì, chỉ cử động khi kích thích, thở nhanh (≥ 60 l/p), rên, rút lõm nặng, sốt > 38 °C hoặc hạ thân nhiệt < 35,5 °C, tím (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2).",
+  "Ngưỡng thở nhanh trẻ < 2 tháng: ≥ 60 l/p (WHO 2013 tr. 76) hoặc > 60 l/p (QĐ 101/2014 mục V.1); viêm phổi ở trẻ < 2 tháng là viêm phổi nặng (QĐ 101/2014 mục V.2).",
+  "Đo nhiệt độ: trẻ dưới 4 tuần đo nách bằng nhiệt kế điện tử (NICE NG143 mục 1.1.2) hoặc hậu môn, sốt khi ≥ 38,0 °C (AAP 2021); trẻ < 3 tháng từ 38 °C là nguy cơ cao (NICE mục 1.2.12).",
+  "Cảm lạnh: chỉ hỗ trợ, không kháng sinh, không thuốc ho, long đờm, thuốc nhỏ mũi có hoạt chất (WHO 2013 mục 4.4); naphtazolin không dùng cho sơ sinh (QĐ 5643 Ngạt mũi mục 4.1).",
+  "Ngạt mũi ở sơ sinh: nghĩ tịt lỗ mũi sau (ngay sau sinh) và viêm mũi lậu cầu (24–48 giờ sau sinh) (QĐ 5643 Ngạt mũi mục 2.1).",
+  "Khám sức khỏe cấp giấy khác khám bệnh (TT 32/2023/TT-BYT Điều 30 khoản 2a; Điều 32 khoản 3).",
+  "Cho con bú và nifedipin: lượng qua sữa thấp, chưa ghi nhận tác dụng phụ ở trẻ (LactMed NBK501047, nguồn bổ sung tự tìm)."
+ ],
+ "nguon": [
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.3 (tr. 50), 3.4 (tr. 51), 3.6 (tr. 52), 3.8 (tr. 53–54), 4.1 (tr. 76, ngưỡng thở nhanh), 4.4 (tr. 90–91; chương 4 viết cho trẻ 2 tháng–5 tuổi, dùng tham khảo cho sơ sinh)",
+  "QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Ngạt mũi (mục 2.1, 3.2.1, 4.1, 5; tr. 115–118); Viêm mũi họng cấp tính (mục 2.1.2, 3.1.1, 3.1.2, 4.1, 5.1, 5.2; tr. 133–136); Viêm V.A cấp (mục 3.1.1.1, 4.1, 4.2; tr. 137–139); Viêm tai giữa cấp tính trẻ em (mục 3.1.1; tr. 210)",
+  "QĐ 101/QĐ-BYT 2014 – Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: mục V.1, V.2 (ngưỡng thở nhanh, trẻ < 2 tháng là viêm phổi nặng; bản chữ OCR có lỗi dấu)",
+  "QĐ 2341/QĐ-BYT 2024 – Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) – kho cũ tltk-10000-ca – ĐÃ ĐỌC: mục 2.2.2 (dấu hiệu bệnh nặng 0–2 tháng), Bảng kiểm 1 mục 15–19, Bảng kiểm 3 mục 6 (khám lại sau 2 ngày; bản chữ OCR)",
+  "NICE NG143 2021 (bản 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.3, Bảng 2 (tr. 13–15)",
+  "AAP 2021 – Pediatrics 148(2):e2021052228, Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old – TL-0261 – ĐÃ ĐỌC: phần đối tượng (sốt là nhiệt độ hậu môn ≥ 38,0 °C)",
+  "AAP/AAFP 2013 – The diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: phạm vi áp dụng trẻ 6 tháng đến 12 tuổi",
+  "TT 32/2023/TT-BYT – Quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh – TL-0669 – ĐÃ ĐỌC: Điều 30 khoản 1a, 2a; Điều 32 khoản 3",
+  "TT 10/2024/TT-BYT – Danh mục bệnh truyền nhiễm, đối tượng và phạm vi phải sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC: Phụ lục lịch tiêm lần 1 lúc đủ 02 tháng tuổi (bản chữ OCR, cần xác nhận ở PDF gốc)",
+  "Nguồn bổ sung tự tìm: LactMed – Nifedipine, Drugs and Lactation Database, NCBI Bookshelf NBK501047, sửa đổi 15/11/2025 – https://www.ncbi.nlm.nih.gov/sites/books/NBK501047/",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: liều paracetamol, amoxicillin cho sơ sinh dưới 1 tháng; số giọt, số lần nhỏ nước muối ở sơ sinh; kỹ thuật hút mũi sơ sinh; khoảng tham chiếu bạch cầu, Hb sơ sinh; mốc tái khám riêng cho viêm mũi họng sơ sinh; tiêu chí xác nhận khỏi; điều kiện hãng bay cho trẻ sơ sinh và an toàn bay; ngưỡng huyết áp, dấu hiệu cảnh báo tiền sản giật sau sinh và cách chỉnh thuốc hạ áp cho mẹ; hậu quả nhỏ naphazolin ở sơ sinh"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26: bản 1. Đặc tả sổ cái NH-0165: sơ sinh 12–14 ngày, nam, trẻ nhũ nhi, không rõ yếu tố khởi phát (họ hàng đến thăm, không rõ nguồn), thuốc hạ áp đang dùng (của mẹ, nifedipin, đang cho con bú), đòi kháng sinh (bà ngoại), chỉ có xét nghiệm cơ bản, lý do thật xin giấy chứng nhận sức khỏe (để bay), đỡ hoàn toàn khi tái khám, ổn định khỏi.",
+  "Tài liệu đã đọc và chỗ thiếu tài liệu: xem trường nguon.",
+  "Áp dụng mục sổ mâu thuẫn: 'Viêm họng đỏ cấp ở trẻ > 3 tuổi...' (kháng sinh cho sơ sinh chấm w như NH-0217/NH-0152); 'Đo nhiệt độ ở trẻ dưới 4 tuần: nách hay hậu môn' (NH-0217); giấy chứng nhận sức khỏe (NH-0050, TT 32/2023). Mâu thuẫn mới: xem NH-0165_mau_thuan.md.",
+  "Âm thanh tim dùng AT-TIM-NHANH-01 (mạch ≥ 100); phổi dùng AT-PHOI-BT-NL-01. Không có ảnh da. Không dùng bảng xét nghiệm (không có khoảng tham chiếu sơ sinh trong tài liệu)."
+ ]
+}
