@@ -1,0 +1,764 @@
+{
+ "ma_ca": "NH-0918",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_giun",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm giun (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu máu thiếu sắt",
+   "Đau bụng chức năng"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng (cả nhà dọn nhà, bé được thả bò ở sân đất)",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Sợ mắc lao"
+ },
+ "benh_nhan": {
+  "ten": "Võ Ngọc Mai",
+  "tuoi": 0.83,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.0,
+  "chieu_cao": 70,
+  "xung_ho": "Bé 10 tháng, chưa nói được, bò nhanh, hay ngậm tay, khóc khi bị khám. Mẹ kể bệnh thay bé: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ, gọi bé là 'bé Mai' hoặc 'con'.",
+  "tinh_cach": "Mẹ là chị Hạnh, 29 tuổi, công nhân may ở khu công nghiệp, đi làm cả ngày nên gửi bé cho bà ngoại ở quê trông; cuối tuần đón bé về. Lo xa, hay tra mạng, nói nhanh và nhỏ giọng, ngại bị chê 'con bỏ cho bà nên sinh bệnh'. Gọi giun là 'lãi'.",
+  "kieu_nhieu": "Giấu tiền sử: mẹ không tự kể chuyện thấy một con giun trong tã (xấu hổ vì nhà bà 'dơ'), chuyện ông ngoại ho kéo dài (sợ nói ra là phải nghe chữ 'lao'). Chỉ kể khi bác sĩ hỏi cụ thể về phân, về người sống cùng bé, hoặc hỏi nhẹ nhàng 'chị lo nhất điều gì'. Ở lượt 2, khi hỏi 'chị cho bé uống mấy viên' thì nói 'đủ ạ'; chỉ thừa nhận cho thiếu liều khi được hỏi lại không trách móc, hỏi cụ thể từng bước (nghiền thế nào, cho mấy lần).",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 29 tuổi, bế bé đến; mọi câu hỏi do mẹ trả lời (bé chỉ khóc, ngậm tay). Chị mang theo sổ tiêm chủng và tờ kết quả khám của ông ngoại.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#241a14",
+   "kieuToc": "tre",
+   "ao": "#e9a8b8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b38d",
+    "toc": "#1e1713",
+    "kieuToc": "dai",
+    "ao": "#6f8fa6",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé ho hai tuần, kém ăn, quấy, không lên cân",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Xét nghiệm, X-quang, siêu âm và thăm dò khác vẫn làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 10 tháng, 8,0 kg, mẹ bế đến vì ho từng cơn khoảng hai tuần, kém ăn, quấy khóc và mấy tuần nay không lên cân. Sinh hiệu: nhiệt 36,9 °C, mạch 126 l/p, nhịp thở 34 l/p, SpO₂ 98%. Bé tỉnh, da hơi xanh, chơi được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Mai nhập viện nhi vì ho hai tuần là quá tay: bé tỉnh, không sốt, thở 34 l/p, SpO₂ 98%, không có dấu hiệu nguy hiểm; ho cảm lạnh không cần kháng sinh hay nằm viện (WHO 2013 mục 4.4). Chị Hạnh mất thêm vài ngày công ở xưởng, bé ở khoa nhi dễ nhiễm thêm virus, trong khi nguyên nhân là giun đũa chỉ cần một liều pyrantel uống tại nhà (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a).",
+    "chuyen_tuyen": "Chuyển bé lên tuyến tỉnh để tìm lao hoặc chụp CT ngực vì chị Hạnh sợ lao là không cần: chưa có tiếp xúc nguồn lây lao phổi xác định và X-quang ngực không có hình ảnh nghi lao (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1). Cả nhà đi xa, bé chịu thêm chọc dịch dạ dày hoặc phơi nhiễm tia vô ích, còn con giun đũa vẫn nằm trong ruột bé.",
+    "theo_doi": "Dặn 'theo dõi thêm' mà không tẩy giun thì bé Mai vẫn bò sân đất, ho đêm và không lên cân. Giun đũa không điều trị có thể cuộn thành búi gây tắc ruột, chui ống mật hoặc ống tụy (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a); thiếu máu, chậm lớn là tác hại thường gặp (QĐ 6437/2018 mục I). Mẹ vẫn ôm nỗi sợ lao vì không ai giải thích."
+   },
+   "loi_mo": "Bác sĩ ơi, con em ho hai tuần rồi, ho đêm nhiều, ăn bú kém, quấy, mà cân thì đứng yên. Em cho uống thuốc ho thảo dược cả tuần mà không đỡ. Bác sĩ coi giúp bé nha.",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho từng cơn khoảng hai tuần, nhiều về đêm; bé bú và ăn bột kém hơn, quấy, tuần trước cân vẫn 8,0 kg như khi 9 tháng tuổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan từng cơn ngắn, không khò khè, không rít, không tím khi ho, không sặc. Hầu như không sốt, chỉ ấm người thoáng vài buổi chiều. Bé vẫn uống được, không nôn tất cả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, sốt, dấu hiệu nguy hiểm (WHO 2013, WHO 2024)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bú mẹ buổi sáng và tối, ban ngày bà cho ăn bột cháo; ba tuần nay ăn được nửa chén, hay bỏ bữa. Chưa ăn sữa bò. Sinh đủ tháng, 3,1 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, tăng trưởng"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Hay quấy khóc từng cơn lúc chiều, bụng hơi to, thỉnh thoảng trớ sữa; không nôn dịch vàng xanh, không nôn nhiều, bụng không cứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiêu hóa, dấu báo động tắc ruột"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Đi ngoài 1–2 lần/ngày, phân sệt vàng, không máu, không đen, không nhầy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tính chất phân"
+    },
+    {
+     "id": "giun_ta",
+     "noi_dung": "Khoảng 10 ngày trước mẹ thấy một con giun trắng hồng dài cỡ gang tay trong tã của bé; mẹ vứt đi, không nói với ai vì ngại bà ngoại bị chê nhà dơ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể về phân (có thấy gì lạ, có thấy giun, 'lãi' trong phân hay tã) hoặc hỏi lại nhẹ nhàng không phán xét.",
+     "k": 1,
+     "y": "Giun trong phân"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Cả nhà vừa dọn về nhà mới ở quê ba tuần trước; bé được thả bò ở sân đất và hiên chưa lát, hay bốc đất và ngậm tay. Bà ngoại trông bé cả ngày, chưa quen rửa tay cho bé. Nhà tiêu hố xí hai ngăn ngoài vườn. Bé chưa từng uống thuốc giun.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Môi trường, phơi nhiễm đất"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Một tuần nay mẹ mua siro ho thảo dược (nhãn ghi chiết xuất lá, mật ong) cho bé uống ngày hai lần, không đỡ. Không dùng kháng sinh hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (thuốc ho thảo dược)"
+    },
+    {
+     "id": "ong_ho",
+     "noi_dung": "Ông ngoại ở cùng nhà ho dai dẳng nhiều tháng nay, hút thuốc lá. Tháng trước ông đi khám: soi đờm tìm AFB âm tính, X-quang phổi kết luận viêm phế quản mạn do thuốc lá; mẹ giữ tờ kết quả trong túi nhưng không dám đưa ra vì sợ nghe chữ 'lao'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi ai trong nhà ho kéo dài, tiếp xúc người bệnh lao, hoặc hỏi 'chị lo nhất điều gì'.",
+     "k": 1,
+     "y": "Tiền sử tiếp xúc nguồn lây lao; nỗi sợ thật của mẹ",
+     "nhieu": 1
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Tiêm chủng đủ theo lịch đến 9 tháng, có sẹo BCG ở vai trái. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêm chủng, BCG"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa nằm viện, chưa thiếu máu, chưa từng truyền máu. Không ai khác trong nhà có giun được chẩn đoán.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "nhan_tram_tre": {
+     "a": "Cân 8,0 kg (bằng lúc 9 tháng theo sổ), chiều dài 70 cm, vòng cánh tay giữa 13,5 cm. Bé hơi gầy, mỡ dưới da giảm nhẹ.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, hơi quấy khi bị khám. Da niêm hơi nhạt, lòng bàn tay hồng nhạt; môi ẩm, khóc có nước mắt: không mất nước. Không vàng da, không phù.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng hơi ỏng, mềm, không đau khi sờ, không khối dạng ống, không quai ruột nổi, nhu động ruột bình thường, gan lách không to.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, không rút lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 34 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 126 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không giả mạc. Mũi khô, không chảy dịch. Màng nhĩ hai bên xám trong, không phồng.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ, hạch dưới hàm không to; không hạch nách, bẹn.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không mề đay, không bầm tím. Sẹo BCG vai trái nhỏ, không sưng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "soi_phan": {
+     "v": "e",
+     "r": "Nhiều trứng giun đũa (Ascaris lumbricoides) thụ tinh. Không trứng giun móc, giun tóc. Không hồng cầu, không bạch cầu.",
+     "n": "Chẩn đoán giun đũa bằng soi phân tìm trứng (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a). Không có hồng cầu và trứng giun móc nên không nghĩ giun móc mất máu (mục 3.1c)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 11,2 G/L · EOS 10% · Hb 108 g/L · TC 340 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.2,
+      "neu_pct": 36.0,
+      "neu": 4.0,
+      "lym_pct": 47.0,
+      "lym": 5.3,
+      "mono_pct": 6.0,
+      "mono": 0.7,
+      "eos_pct": 10.0,
+      "eos": 1.1,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.2,
+      "hgb": 108,
+      "hct": 0.33,
+      "mcv": 78.0,
+      "mch": 26.0,
+      "mchc": 328,
+      "rdw": 13.6,
+      "plt": 340
+     },
+     "n": "Bạch cầu ái toan tăng gợi ý nhiễm giun (QĐ 3312/2015, mục 3.1a). Hb 108 g/L chưa dưới ngưỡng 105 g/L của trẻ 6 tháng–2 tuổi (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1; WHO 2024 Bảng 3: 6–23 tháng không thiếu máu khi ≥ 105 g/L). Các mức tham chiếu in trên phiếu là của người lớn; ngưỡng theo tuổi lấy từ hai nguồn trên."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "r": "Ferritin 26 ng/mL · sắt huyết thanh 12 µmol/L · bão hòa transferrin 21%",
+     "n": "Dùng để loại thiếu máu thiếu sắt: tiêu chuẩn là ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 3.2); bé trên cả ba ngưỡng. Không bắt buộc khi Hb đã trên ngưỡng."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Phổi hai bên sáng đều, rốn phổi không to, không hang, không nốt, không tràn dịch; bóng tim bình thường.",
+     "n": "Không bắt buộc: bé không sốt kéo dài, không tiếp xúc nguồn lây xác định (ông ngoại AFB âm), ho hợp hội chứng Loeffler (QĐ 3312/2015, mục 3.1a). Chụp để trấn an mẹ và xem hình ảnh nghi lao (Hướng dẫn lao BYT 2024, mục 3.4.1 d1) thì không bị trừ điểm."
+    },
+    "xpert_tre": {
+     "n": "Không cần: chưa có yếu tố nghi lao (không tiếp xúc nguồn lây lao phổi xác định, X-quang không nghi lao). Bệnh phẩm dịch dạ dày hoặc hút tỵ hầu ở nhũ nhi là thủ thuật xâm lấn (Hướng dẫn lao BYT 2024, mục 3.4.1 a)."
+    },
+    "igra": {
+     "n": "Không cần: không giúp chẩn đoán giun; chưa có nghi ngờ lao đủ để làm."
+    },
+    "crp": {
+     "v": "n",
+     "r": "4 mg/L",
+     "n": "Không cần: không sốt, không dấu hiệu nhiễm khuẩn."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Quai ruột chứa hơi nhẹ, không thấy búi giun, đường mật không giãn, gan lách bình thường.",
+     "n": "Không bắt buộc: bụng mềm, không nôn dịch vàng xanh, không vàng da nên không có dấu tắc ruột hay giun chui ống mật (QĐ 3312/2015, mục 3.1a). Làm thì không bị trừ điểm."
+    },
+    "xq_bung": {
+     "v": "n",
+     "r": "Không thấy dấu hiệu tắc ruột.",
+     "n": "Không cần: bụng mềm, không nôn dịch vàng xanh. Phơi nhiễm tia ở nhũ nhi không có lợi khi chưa có dấu tắc ruột."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun đũa đường ruột (Ascaris lumbricoides) ở nhũ nhi 10 tháng, chưa biến chứng, kèm ngừng tăng cân và ho do Loeffler",
+     "ok": 1,
+     "n": "Thấy giun trong tã, trứng giun đũa trong soi phân, bạch cầu ái toan 10%, xanh xao, ăn kém, quấy, bụng ỏng, ho khan (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a). Bé bò sân đất, ngậm tay, chưa tẩy giun (QĐ 6437/2018 mục I)."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt",
+     "n": "Loại trừ: Hb 108 g/L ≥ 105, ferritin 26 ≥ 12 ng/mL, sắt huyết thanh 12 ≥ 9 µmol/L, bão hòa 21% ≥ 16%, RDW 13,6% ≤ 14,5% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1, 3.2; WHO 2024 Bảng 3). Da hơi nhạt nhưng chưa đủ tiêu chuẩn; nhiễm giun là nguyên nhân có thể gây thiếu sắt về sau (mục 2) nên cần dự phòng."
+    },
+    {
+     "t": "Đau bụng chức năng",
+     "n": "Loại trừ: tiêu chuẩn cần đau bụng ít nhất 1 lần/tuần kéo dài ít nhất 2 tháng và không có bằng chứng thực thể (QĐ 3312/2015, Đau bụng chức năng mục 3.2 Bảng 2); bé quấy từng cơn mới 2–3 tuần, có dấu báo động (ngừng tăng cân, trớ) và có bằng chứng thực thể (giun, bạch cầu ái toan) (mục 3.1 Bảng 1)."
+    },
+    {
+     "t": "Lao phổi ở trẻ nhỏ",
+     "n": "Ít nghĩ: không sốt kéo dài, không tiếp xúc nguồn lây xác định (ông ngoại AFB âm, viêm phế quản mạn do thuốc lá), X-quang ngực không hình ảnh nghi lao. Tiếp xúc nguồn lây là yếu tố quyết định khi không có bằng chứng vi khuẩn (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1). Ngừng tăng cân là điểm cần nhớ: hẹn tái khám đánh giá lại tăng trưởng (mục 3.4.1 d)."
+    },
+    {
+     "t": "Viêm tiểu phế quản / viêm phổi",
+     "n": "Không: thở 34 l/p, không rút lõm, không ran, SpO₂ 98%. Ngưỡng thở nhanh theo tuổi và dấu hiệu nguy hiểm: WHO 2013 mục 4.4; WHO 2024. Ho cảm lạnh không cần kháng sinh (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Biến chứng tắc ruột, giun chui ống mật hoặc ống tụy",
+     "n": "Không có: không nôn dịch vàng xanh, bụng mềm không khối, không vàng da (QĐ 3312/2015, mục 3.1a). Cần dặn mẹ các dấu hiệu này."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Pyrantel pamoat 11 mg/kg uống liều duy nhất (8,0 kg: 88 mg ≈ 3/4 viên 125 mg, tối đa 1 g)",
+     "v": "c",
+     "n": "Trẻ dưới 12 tháng dùng pyrantel pamoat 11 mg/kg (tối đa 1 g) liều duy nhất cho giun đũa (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a). 3/4 viên (93,75 mg) là cách làm tròn của người soạn."
+    },
+    {
+     "t": "Albendazol hoặc mebendazol cho bé 10 tháng",
+     "v": "h",
+     "n": "QĐ 3312/2015 (mục 3.1a) chỉ dùng mebendazol từ trên 12 tháng; QĐ 6437/2018 mục II.1b chống chỉ định tẩy giun cộng đồng cho trẻ dưới 12 tháng; WHO 2017 chỉ nói dung nạp tốt ở trẻ trên 12 tháng. Khác bối cảnh và khác thuốc, không phải mâu thuẫn (sổ mâu thuẫn, mục TH-1307)."
+    },
+    {
+     "t": "Nghiền thuốc hòa nước, cho uống sau ăn; dặn cho đủ cả phần thuốc",
+     "v": "a",
+     "n": "QĐ 6437/2018 mục III.2: uống sau ăn, trẻ nhỏ nghiền thuốc pha nước (viết cho albendazol/mebendazol; cho pyrantel: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Hỏi và giải đáp nỗi lo lao: giải thích ho do giun (Loeffler), chưa có yếu tố nghi lao; hẹn đánh giá lại cân nặng và ho",
+     "v": "c",
+     "n": "Ho khan thoáng qua phù hợp giai đoạn ấu trùng qua phổi (QĐ 3312/2015, mục 3.1a). Tiếp xúc nguồn lây và X-quang là hai yếu tố quyết định chẩn đoán lao trẻ em (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1); kết quả AFB âm của ông ngoại và X-quang bé bình thường."
+    },
+    {
+     "t": "Ngưng siro ho thảo dược, không dùng thuốc ho; làm dịu họng bằng thức uống ấm; không dùng kháng sinh",
+     "v": "c",
+     "n": "Ho, cảm lạnh: làm dịu họng bằng cách an toàn, không dùng kháng sinh (WHO 2013, mục 4.4). Hiệu quả và an toàn của siro thảo dược ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vệ sinh chống tái nhiễm: rửa tay xà phòng trước ăn và sau chơi đất, cắt móng tay, không để bò sân đất, ăn chín uống chín",
+     "v": "c",
+     "n": "QĐ 6437/2018 mục VI.1, VI.2: rửa tay xà phòng, cắt móng tay, không mút ngón tay, đi giày dép, ăn chín uống chín, nhà tiêu hợp vệ sinh."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, ăn dặm đủ chất, thêm thức ăn giàu sắt và vitamin C",
+     "v": "a",
+     "n": "Dự phòng thiếu máu thiếu sắt: bú mẹ, thức ăn bổ sung giàu sắt và vitamin C (QĐ 3312/2015, Thiếu máu thiếu sắt mục 6). Chưa cần thuốc sắt vì Hb và ferritin trên ngưỡng (mục 3.2, 4.2)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần (sớm hơn nếu không đỡ); đến ngay nếu nôn dịch vàng xanh hoặc nhiều, bụng chướng cứng, quấy khóc từng cơn dữ dội, vàng da, thở nhanh, không uống được",
+     "v": "c",
+     "n": "Dấu hiệu tắc ruột, giun chui ống mật (QĐ 3312/2015, mục 3.1a); dấu hiệu nguy hiểm (WHO 2024). Mốc 3 tuần: không có trong tài liệu đã tải, do người soạn chọn."
+    },
+    {
+     "t": "Cho kháng sinh vì ho hai tuần",
+     "v": "w",
+     "n": "Ho, cảm lạnh không dùng kháng sinh (WHO 2013, mục 4.4); bé không có dấu hiệu viêm phổi."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến để điều trị giun",
+     "v": "w",
+     "n": "Chưa biến chứng, uống được, tỉnh: điều trị ngoại trú một liều pyrantel (QĐ 3312/2015, mục 3.1a). Tiêu chuẩn nhập viện/chuyển tuyến giun: không có trong tài liệu đã tải ngoài các biến chứng ở mục 3.1a."
+    },
+    {
+     "t": "Không cho thuốc giun, chỉ dặn theo dõi",
+     "v": "w",
+     "n": "Đã có bằng chứng nhiễm giun đũa (trứng trong phân); nguy cơ biến chứng (QĐ 3312/2015, mục 3.1a)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun đũa đường ruột ở nhũ nhi gái 10 tháng, chưa biến chứng",
+     "Ngừng tăng cân hai tháng, ho khan do giai đoạn ấu trùng qua phổi (Loeffler); chưa thiếu máu (Hb 108 g/L, ferritin 26 ng/mL)",
+     "Loại trừ: thiếu máu thiếu sắt, đau bụng chức năng, lao phổi, viêm phổi, tắc ruột và giun chui ống mật",
+     "Đang dùng siro ho thảo dược tự mua, không cần thiết",
+     "Động cơ thật: sợ bé mắc lao vì ông ngoại ho kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám (ho, ăn kém, không lên cân), thời gian, ho (sốt, khò khè, tím), ăn uống và cân nặng, quấy khóc và nôn, phân (máu, đen, thấy giun), môi trường và vệ sinh, thuốc đang dùng, người trong nhà ho kéo dài, tiêm chủng và BCG, mẹ lo nhất điều gì. Khám: nhân trắc, da niêm, bụng, tim phổi, họng và hạch. CLS: soi phân, công thức máu, ferritin/sắt; X-quang ngực để trấn an.",
+     "Vì sao giun đũa: thấy giun trong tã, trứng giun đũa trong phân, bạch cầu ái toan tăng; xanh xao, ăn kém, quấy, bụng ỏng khớp mục 3.1a; ho khan thoáng qua phù hợp hội chứng Loeffler (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a). Bé dễ nhiễm vì bò đất, ngậm tay; giun đũa phổ biến ở Việt Nam, trẻ 12–24 tháng có tỉ lệ nhiễm cao ở nhiều tỉnh (QĐ 6437/2018 mục I).",
+     "Vì sao không phải thiếu máu thiếu sắt: Hb 108 g/L ≥ 105 là ngưỡng của trẻ 6 tháng–2 tuổi (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1; WHO 2024 Bảng 3: nhẹ 95–104); ferritin, sắt huyết thanh, bão hòa transferrin, RDW đều qua ngưỡng (QĐ 3312/2015, mục 3.2). Ngưỡng 110 g/L là ngưỡng cũ đã được thay (WHO 2024 Bảng 1).",
+     "Vì sao không phải đau bụng chức năng: tiêu chuẩn cần ít nhất 2 tháng, tối thiểu mỗi tuần một lần, và không có bằng chứng thực thể (QĐ 3312/2015, Đau bụng chức năng mục 3.2 Bảng 2); bé có ngừng tăng cân, trớ (dấu báo động, mục 3.1 Bảng 1) và có giun thật.",
+     "Nỗi sợ thật của mẹ: ông ngoại ho kéo dài nên mẹ sợ lao nhưng không dám nói. Lao trẻ em được nghĩ tới khi có tiếp xúc nguồn lây và hình ảnh X-quang nghi lao (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1). Bé không có hai yếu tố này: ông có AFB âm, X-quang bé bình thường. Không dùng CT (cơ sở không có; bé cũng không có chỉ định, mục 3.4.1: CT chỉ khi X-quang không rõ mà nghi lao).",
+     "Giấu tiền sử: con giun trong tã và ông ngoại ho chỉ lộ khi hỏi cụ thể về phân và người sống cùng. Hỏi lại nhẹ nhàng, không chê nhà dơ, mẹ mới nói."
+    ],
+    "phan_tich_xu_tri": [
+     "Thuốc: pyrantel pamoat 11 mg/kg liều duy nhất cho trẻ dưới 12 tháng (QĐ 3312/2015, mục 3.1a). Không dùng albendazol hoặc mebendazol: chống chỉ định dưới 12 tháng trong hướng dẫn tẩy giun cộng đồng (QĐ 6437/2018 mục II.1b), QĐ 3312/2015 chỉ dùng mebendazol từ 12 tháng. Đây là khác bối cảnh và khác thuốc, không phải mâu thuẫn.",
+     "Cách cho thuốc: nghiền hòa với nước, sau ăn, cho hết một lần (QĐ 6437/2018 mục III.2, viết cho albendazol/mebendazol). Tác dụng phụ nhẹ có thể là đau bụng, buồn nôn, mệt (QĐ 6437/2018 mục V). Hôm sau bé có thể đi ngoài ra thêm giun.",
+     "Không dùng thuốc ho, không kháng sinh; làm dịu họng bằng thức uống ấm (WHO 2013 mục 4.4). Siro ho thảo dược ngưng vì không có chứng cứ trong tài liệu đã tải.",
+     "Không nhập viện, không chuyển tuyến, không CT: chưa biến chứng, chưa có chỉ định (QĐ 3312/2015, mục 3.1a; Hướng dẫn lao BYT 2024, mục 3.4.1).",
+     "Phòng tái nhiễm: rửa tay xà phòng, cắt móng, không bò sân đất, ăn chín uống chín, nhà tiêu hợp vệ sinh (QĐ 6437/2018 mục VI). Các thành viên khác: tẩy giun cộng đồng chỉ từ 12 tháng; người đang cho con bú chống chỉ định (QĐ 6437/2018 mục II.1a–b); thuốc giun đũa cho mẹ đang cho con bú: không có trong tài liệu đã tải.",
+     "Tái khám sau 3 tuần: soi phân và cân lại; mốc do người soạn chọn, không có trong tài liệu đã tải. Mốc tăng cân và thời gian hết ho sau tẩy giun: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pyrantel pamoat",
+      "ham_luong": "Viên 125 mg (Combantrin, Helmintox)",
+      "lieu": "11 mg/kg × 8,0 kg = 88 mg ≈ 3/4 viên (93,75 mg), tối đa 1 g",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, sau ăn, nghiền hòa với nước",
+      "so_ngay": "Liều duy nhất",
+      "ghi_chu": "QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a (dưới 12 tháng). Cách làm tròn do người soạn; cách nghiền, sau ăn: QĐ 6437/2018 mục III.2."
+     }
+    ],
+    "dan_do": [
+     "Ho của bé phù hợp do giun đũa đi qua phổi, không có bằng chứng lao: ông ngoại đã có kết quả AFB âm, X-quang bé bình thường. Chị cứ mang tờ kết quả của ông cho bác sĩ xem lần sau.",
+     "Cho bé uống 3/4 viên pyrantel tối nay sau bữa ăn, nghiền hòa nước, cho hết trong một lần. Hôm sau bé có thể đi ngoài ra thêm giun; chụp ảnh hoặc giữ lại cho bác sĩ xem. Có thể đau bụng nhẹ, buồn nôn (QĐ 6437/2018 mục V).",
+     "Ngưng siro ho thảo dược. Cho bé uống nước ấm; không tự mua thuốc ho hay kháng sinh.",
+     "Rửa tay xà phòng cho bé và cho bà trước ăn, sau khi chơi đất; cắt móng tay; lát hoặc trải chiếu sạch cho bé bò; ăn chín uống chín (QĐ 6437/2018 mục VI).",
+     "Đưa bé đến ngay nếu nôn dịch vàng xanh hoặc nôn nhiều, bụng chướng cứng, quấy khóc từng cơn dữ dội, vàng da, thở nhanh, không uống được (tắc ruột, giun chui ống mật: QĐ 3312/2015 mục 3.1a).",
+     "Tái khám sau 3 tuần để soi phân lại và cân lại (mốc do người soạn chọn, không có trong tài liệu đã tải), sớm hơn nếu bé không đỡ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bé Mai gần 11 tháng, 8,0 kg, mẹ bế đến sau 3 tuần vì bé vẫn ho đêm, ăn kém, quấy và chưa lên cân dù đã uống thuốc giun hôm khám trước. Sinh hiệu: nhiệt 37,0 °C, mạch 122 l/p, nhịp thở 32 l/p, SpO₂ 99%. Bé tỉnh, chơi được, da hơi nhạt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Mai vì 'thuốc giun không hiệu' là quá tay: bé tỉnh, uống được, không sốt, chưa biến chứng; điều cần làm là tìm vì sao một liều thuốc chưa có hiệu quả (dùng chưa đủ liều, tái nhiễm, nhiễm phối hợp) rồi điều trị lại ngoại trú (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 1, 3.1a). Chị Hạnh mất thêm ngày công, bé ở bệnh viện trong khi nguyên nhân thật vẫn chưa được nói ra.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến tỉnh vì nghi giun 'kháng thuốc' là chưa có cơ sở: tài liệu đã tải không nêu kháng pyrantel ở giun đũa, và bé chưa được dùng đủ liều. Cả nhà đi xa, bé làm lại xét nghiệm đã có kết quả, trong khi con giun vẫn nằm trong ruột bé và bé vẫn bò sân đất.",
+    "theo_doi": "Chỉ dặn chờ thêm mà không uống lại thuốc thì phân bé vẫn còn nhiều trứng giun đũa, bé tiếp tục ho đêm, ăn kém và không lên cân. Giun đũa còn tải lượng cao có nguy cơ cuộn búi gây tắc ruột hoặc chui ống mật (QĐ 3312/2015, mục 3.1a); chị Hạnh mất niềm tin vào thuốc giun và có thể quay lại với thuốc ho thảo dược."
+   },
+   "loi_mo": "Bác sĩ ơi, bé uống thuốc giun rồi mà vẫn ho, vẫn bỏ bú, cân không lên. Em thấy thuốc không công hiệu rồi.",
+   "sinh_hieu": {
+    "mach": 122,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau khi uống thuốc giun 3 tuần, bé vẫn ho đêm (thưa hơn một chút), ăn kém, quấy buổi chiều, cân 8,0 kg như cũ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến sau điều trị"
+    },
+    {
+     "id": "sau_thuoc",
+     "noi_dung": "Mẹ nói 'em cho uống đủ rồi ạ, đúng như bác sĩ dặn'. Sau thuốc hôm sau thấy bé đi ngoài ra thêm một con giun nhỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Uống thuốc, đáp ứng sau thuốc"
+    },
+    {
+     "id": "uong_thieu",
+     "noi_dung": "Thật ra mẹ chỉ cho bé uống khoảng 1/4 viên pyrantel, chia hai lần cách nhau mấy giờ, nghiền trộn vào sữa; còn lại cất tủ lạnh vì nghe bà ngoại nói 'thuốc tẩy giun mạnh, bé nhỏ uống nhiều sẽ đau bụng, hư ruột'. Mẹ giấu vì sợ bác sĩ trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'chị cho uống đủ chưa' thì nói 'đủ ạ'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể (mấy viên, cho lúc nào, pha với gì, còn thuốc không) hoặc hỏi lại nhẹ nhàng không trách móc.",
+     "k": 1,
+     "y": "Tuân thủ thuốc: dùng thiếu liều",
+     "nhieu": 1
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Bé vẫn được thả bò ở sân đất, bà chưa quen rửa tay cho bé. Chưa ai trong nhà tẩy giun.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ tái nhiễm"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan từng cơn về đêm, ít hơn trước một chút; không sốt, không khò khè, không tím, không sặc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "hau_mon",
+     "noi_dung": "Bé không cọ mông, không giật mình khóc đêm vì ngứa hậu môn; ngủ được một giấc đến khuya.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng giun kim"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Vẫn quấy từng cơn buổi chiều, bụng ỏng; không nôn dịch vàng xanh, không bụng cứng, đi ngoài ngày 1–2 lần không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động tắc ruột"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Mẹ đã đỡ lo lao sau khi được giải thích lần trước, nhưng giờ sợ 'giun lì, thuốc không trị được' và vẫn thấy ông ngoại ho nhiều đêm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Mẹ lo điều gì nhất",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Mẹ đã ngưng siro ho thảo dược từ hôm khám trước. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "nhan_tram_tre": {
+     "a": "Cân 8,0 kg (không tăng so với 3 tuần trước), chiều dài 70,5 cm, vòng cánh tay giữa 13,5 cm.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, hơi quấy khi bị khám. Da niêm hơi nhạt, không vàng da, không phù; môi ẩm, khóc có nước mắt.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng hơi ỏng, mềm, không đau, không khối, không quai ruột nổi, nhu động ruột bình thường, gan lách không to.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, không rút lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 32 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 122 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 122 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Quanh hậu môn không đỏ, không vết xước, không giun bò ra; trực tràng không phân cứng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "soi_phan": {
+     "v": "e",
+     "r": "Nhiều trứng giun đũa thụ tinh, số lượng tương đương lần trước. Không trứng giun móc, giun tóc, giun kim. Không hồng cầu.",
+     "n": "Phân vẫn còn nhiều trứng: điều trị trước chưa hiệu quả (QĐ 3312/2015, mục 3.1a chẩn đoán bằng soi phân). Kết hợp với việc mẹ cho thiếu liều và bé bò sân đất; kháng thuốc: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 10,6 G/L · EOS 8% · Hb 107 g/L · TC 330 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 10.6,
+      "neu_pct": 38.0,
+      "neu": 4.0,
+      "lym_pct": 47.0,
+      "lym": 5.0,
+      "mono_pct": 6.0,
+      "mono": 0.6,
+      "eos_pct": 8.0,
+      "eos": 0.8,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.2,
+      "hgb": 107,
+      "hct": 0.33,
+      "mcv": 78.0,
+      "mch": 25.5,
+      "mchc": 325,
+      "rdw": 13.7,
+      "plt": 330
+     },
+     "n": "Không bắt buộc: đã có công thức máu lượt 1, soi phân đã đủ chẩn đoán. Bạch cầu ái toan còn cao nhẹ, Hb 107 g/L vẫn ≥ 105 (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1; WHO 2024 Bảng 3). Làm lại thì không bị trừ điểm."
+    },
+    "bang_keo_hau_mon": {
+     "v": "a",
+     "r": "Không thấy trứng giun kim.",
+     "n": "Không bắt buộc: bé không ngứa hậu môn, không khóc đêm, trực tràng sạch (QĐ 3312/2015, mục 3.1b: giun kim khóc đêm, dán băng keo buổi sáng). Nhiễm phối hợp có thể gặp (mục 1) nên làm để loại trừ không bị trừ điểm. Độ nhạy một mẫu: không có trong tài liệu đã tải."
+    },
+    "ferritin_sat": {
+     "v": "n",
+     "r": "Ferritin 24 ng/mL · sắt huyết thanh 11 µmol/L · bão hòa transferrin 20%",
+     "n": "Không cần lặp lại: lượt 1 đã loại thiếu sắt, Hb hiện 107 g/L vẫn trên ngưỡng 105 g/L."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không khác lần trước, không hình ảnh nghi lao.",
+     "n": "Không cần chụp lại: đã chụp ở lượt 1, bình thường, ho đang giảm."
+    },
+    "xpert_tre": {
+     "n": "Không cần: vẫn không tiếp xúc nguồn lây xác định, X-quang không nghi lao (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1)."
+    },
+    "crp": {
+     "n": "Không cần: không sốt, không dấu hiệu nhiễm khuẩn."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun đũa đường ruột ở nhũ nhi, điều trị thất bại do dùng thiếu liều pyrantel (khoảng 1/4 viên, mẹ giấu), còn nguy cơ tái nhiễm",
+     "ok": 1,
+     "n": "Phân vẫn nhiều trứng giun đũa, bạch cầu ái toan 8%, ho và ngừng tăng cân vẫn còn; mẹ chỉ cho khoảng 1/4 viên thay vì 3/4 viên (QĐ 3312/2015, mục 3.1a: 11 mg/kg, liều duy nhất). Bé vẫn bò sân đất, chưa tẩy giun môi trường xung quanh (QĐ 6437/2018 mục I, VI)."
+    },
+    {
+     "t": "Kháng thuốc pyrantel",
+     "n": "Chưa nghĩ: chưa dùng đủ liều; tài liệu đã tải không nêu kháng thuốc ở giun đũa. Sẽ nghĩ lại nếu uống đủ liều mà phân vẫn nhiều trứng sau tái khám."
+    },
+    {
+     "t": "Nhiễm giun phối hợp (giun kim, giun móc, giun tóc)",
+     "n": "Không thấy: không ngứa hậu môn, băng keo hậu môn âm tính, soi phân chỉ có trứng giun đũa, không hồng cầu, phân không đen (QĐ 3312/2015, mục 1, 3.1b, 3.1c)."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt",
+     "n": "Loại trừ: Hb 107 g/L ≥ 105, ferritin lượt 1 trên ngưỡng 12 ng/mL (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1, 3.2; WHO 2024 Bảng 3). Nhưng nhiễm giun kéo dài có thể gây thiếu sắt (mục 2): theo dõi Hb khi tái khám."
+    },
+    {
+     "t": "Đau bụng chức năng",
+     "n": "Loại trừ: quấy từng cơn kèm ngừng tăng cân là dấu báo động, có bằng chứng thực thể (giun) (QĐ 3312/2015, Đau bụng chức năng mục 3.1 Bảng 1, 3.2 Bảng 2)."
+    },
+    {
+     "t": "Lao phổi ở trẻ nhỏ",
+     "n": "Ít nghĩ: ho giảm dần, không sốt, X-quang lượt 1 bình thường, không tiếp xúc nguồn lây lao phổi xác định (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1). Nếu sau tẩy giun đủ liều bé vẫn ho và không lên cân: đánh giá lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Pyrantel pamoat 11 mg/kg uống lại đủ liều (8,0 kg: 88 mg ≈ 3/4 viên 125 mg, tối đa 1 g), liều duy nhất, uống tại phòng khám hoặc có người giám sát",
+     "v": "c",
+     "n": "QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a (dưới 12 tháng, liều duy nhất). Khoảng cách tối thiểu giữa liều thiếu và liều đủ: không có trong tài liệu đã tải; người soạn cho uống lại ngay vì lần trước chưa đủ liều và phân vẫn nhiều trứng."
+    },
+    {
+     "t": "Albendazol hoặc mebendazol cho bé gần 11 tháng",
+     "v": "h",
+     "n": "Bé chưa tròn 12 tháng: QĐ 3312/2015 (mục 3.1a) và QĐ 6437/2018 mục II.1b như lượt 1; WHO 2017 chỉ nói dung nạp tốt ở trẻ trên 12 tháng. Khác bối cảnh, khác thuốc, không phải mâu thuẫn."
+    },
+    {
+     "t": "Hỏi lại không phán xét về cách cho thuốc, giải thích thuốc an toàn đúng liều; mẹ hết lo thì không cất thuốc",
+     "v": "c",
+     "n": "Tác dụng phụ thường gặp chỉ nhẹ: đau bụng, buồn nôn, mệt (QĐ 6437/2018 mục V). Độ an toàn pyrantel ở nhũ nhi: chỉ có liều trong QĐ 3312/2015, mục 3.1a; chi tiết khác không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cắt nguồn tái nhiễm: cho bé không bò sân đất, rửa tay xà phòng cho bé và bà, cắt móng, ăn chín uống chín, nhà tiêu hợp vệ sinh",
+     "v": "c",
+     "n": "QĐ 6437/2018 mục VI.1, VI.2."
+    },
+    {
+     "t": "Người nhà lớn hơn 12 tháng: hỏi cán bộ y tế về tẩy giun; mẹ đang cho con bú không tự uống thuốc giun",
+     "v": "a",
+     "n": "Tẩy giun cộng đồng chỉ định từ 12 tháng; phụ nữ đang cho con bú chống chỉ định (QĐ 6437/2018 mục II.1a–b). Thuốc giun đũa cho người lớn trong nhà ở nhà bé: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, ăn dặm giàu sắt và vitamin C; chưa cần thuốc sắt",
+     "v": "a",
+     "n": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 6; Hb và ferritin trên ngưỡng (mục 3.2)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần để soi phân và cân lại, đến ngay nếu có dấu hiệu tắc ruột, giun chui ống mật; nếu uống đủ liều mà phân vẫn nhiều trứng hoặc bé vẫn ho và không lên cân thì đánh giá lại (kể cả lao)",
+     "v": "c",
+     "n": "Dấu hiệu biến chứng (QĐ 3312/2015, mục 3.1a); đánh giá lao khi ho, ngừng tăng cân kéo dài (Hướng dẫn lao BYT 2024, mục 3.4.1 d). Mốc 3 tuần: không có trong tài liệu đã tải, do người soạn chọn."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến vì 'giun kháng thuốc'",
+     "v": "w",
+     "n": "Chưa dùng đủ liều, chưa biến chứng; không có chỉ định chuyển tuyến trong tài liệu đã tải (QĐ 3312/2015, mục 3.1a)."
+    },
+    {
+     "t": "Đổi thuốc sang albendazol vì pyrantel 'không hiệu'",
+     "v": "h",
+     "n": "Pyrantel chưa được dùng đủ liều nên chưa thể coi là thất bại thuốc; albendazol/mebendazol chưa dùng cho bé dưới 12 tháng (QĐ 6437/2018 mục II.1b; QĐ 3312/2015, mục 3.1a)."
+    },
+    {
+     "t": "Chỉ dặn theo dõi, không cho thuốc lại",
+     "v": "w",
+     "n": "Phân còn nhiều trứng giun đũa, bé còn triệu chứng (QĐ 3312/2015, mục 3.1a)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun đũa đường ruột ở nhũ nhi gái gần 11 tháng, điều trị thất bại do dùng thiếu liều pyrantel (mẹ giấu), còn nguy cơ tái nhiễm",
+     "Ho giảm dần, ngừng tăng cân; Hb 107 g/L, chưa thiếu máu",
+     "Loại trừ: kháng thuốc, giun kim/móc phối hợp, thiếu máu thiếu sắt, đau bụng chức năng, lao",
+     "Động cơ thật: mẹ vẫn sợ thuốc không trị được giun và bệnh lao"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, đáp ứng sau thuốc (có thấy giun ra không), cách cho thuốc từng bước (mấy viên, lúc nào, pha gì, còn thuốc không), nguy cơ tái nhiễm (bò đất, rửa tay), triệu chứng giun kim, dấu báo động bụng, mẹ lo điều gì nhất. Khám: nhân trắc, da niêm, bụng, tim phổi, hậu môn. CLS: soi phân, băng keo hậu môn để loại giun kim.",
+     "Quy trình khi điều trị không đỡ: sai chẩn đoán (nhiễm phối hợp giun kim, giun móc), sai thuốc hoặc liều, bệnh nhân không tuân thủ, tái nhiễm, kháng thuốc (tài liệu đã tải không nêu). Nhiễm nhiều ký sinh trùng cùng lúc có thể gặp (QĐ 3312/2015, mục 1). Ở ca này: soi phân chỉ có trứng giun đũa, liều thật chỉ bằng khoảng một phần ba liều chuẩn (11 mg/kg = 3/4 viên), nên 'thất bại' do thiếu liều chứ không do thuốc.",
+     "Vì sao không đổi thuốc: bé chưa tròn 12 tháng, albendazol/mebendazol chưa phải lựa chọn (QĐ 3312/2015, mục 3.1a; QĐ 6437/2018 mục II.1b; WHO 2017); pyrantel đủ liều còn chưa được thử.",
+     "Hỏi không phán xét: hỏi chung 'chị cho uống đủ chưa' mẹ trả lời 'đủ ạ'; hỏi cụ thể từng bước và nói 'nhiều mẹ lo thuốc mạnh nên chia nhỏ' thì mẹ mới kể. Lý do giấu là sợ bác sĩ trách và lời bà ngoại.",
+     "Không giun phối hợp: bé không cọ mông, băng keo hậu môn âm, soi phân chỉ trứng giun đũa, không hồng cầu (QĐ 3312/2015, mục 3.1b, 3.1c). Hb 107 g/L ≥ 105 (WHO 2024 Bảng 3) nên không thiếu máu.",
+     "Ho và cân: ho giảm, không sốt, X-quang lượt 1 bình thường, không tiếp xúc nguồn lây: chưa nghĩ lao; vẫn hẹn đánh giá lại nếu sau tẩy giun đủ liều bé còn ho và không lên cân (Hướng dẫn lao BYT 2024, mục 3.4.1 d)."
+    ],
+    "phan_tich_xu_tri": [
+     "Thuốc: pyrantel pamoat 11 mg/kg liều duy nhất (QĐ 3312/2015, mục 3.1a), cho uống tại phòng khám hoặc có người giám sát để chắc đủ liều. Khoảng cách tối thiểu từ liều thiếu: không có trong tài liệu đã tải; người soạn cho lại ngay.",
+     "Không dùng albendazol/mebendazol cho bé chưa 12 tháng (QĐ 6437/2018 mục II.1b; QĐ 3312/2015, mục 3.1a).",
+     "Giải thích: thuốc được tính theo cân nặng, tác dụng phụ thường nhẹ (đau bụng, buồn nôn, mệt: QĐ 6437/2018 mục V). Viết giấy dặn số viên và cách cho; không cất lại thuốc.",
+     "Phòng tái nhiễm: cắt nguồn đất và tay bẩn (QĐ 6437/2018 mục VI); người nhà từ 12 tháng trở lên có thể tẩy giun theo hướng dẫn cộng đồng, phụ nữ đang cho con bú chống chỉ định (QĐ 6437/2018 mục II.1).",
+     "Không nhập viện, không chuyển tuyến, không CT (cơ sở không có CT, bé cũng không có chỉ định): chưa biến chứng, chưa thể kết luận kháng thuốc (QĐ 3312/2015, mục 3.1a).",
+     "Tái khám sau 3 tuần: soi phân và cân lại; mốc do người soạn chọn, không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pyrantel pamoat",
+      "ham_luong": "Viên 125 mg (Combantrin, Helmintox)",
+      "lieu": "11 mg/kg × 8,0 kg = 88 mg ≈ 3/4 viên (93,75 mg), tối đa 1 g",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, sau ăn, nghiền hòa với nước, uống tại phòng khám hoặc có người giám sát",
+      "so_ngay": "Liều duy nhất",
+      "ghi_chu": "QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a (dưới 12 tháng). Cách làm tròn và việc cho uống lại do người soạn; cách nghiền, sau ăn: QĐ 6437/2018 mục III.2."
+     }
+    ],
+    "dan_do": [
+     "Thuốc giun không hỏng; lần trước bé mới uống khoảng một phần ba liều cần thiết nên chưa đủ sức diệt giun. Không ai trách chị: nhiều mẹ lo thuốc mạnh nên chia nhỏ. Hôm nay cho bé uống đủ 3/4 viên.",
+     "Thuốc tính theo cân bé, một lần duy nhất; tác dụng phụ thường nhẹ như đau bụng, buồn nôn, mệt (QĐ 6437/2018 mục V). Đừng chia nhỏ hay cất lại.",
+     "Cho bé thôi bò sân đất; rửa tay xà phòng cho bé và bà trước ăn và sau khi chơi đất; cắt móng tay; ăn chín uống chín (QĐ 6437/2018 mục VI). Người trong nhà từ 12 tháng trở lên hỏi cán bộ y tế về tẩy giun; chị đang cho con bú đừng tự uống thuốc giun.",
+     "Đưa bé đến ngay nếu nôn dịch vàng xanh hoặc nôn nhiều, bụng chướng cứng, quấy khóc dữ dội từng cơn, vàng da, thở nhanh, không uống được (QĐ 3312/2015 mục 3.1a).",
+     "Tái khám sau 3 tuần để soi phân và cân lại (mốc do người soạn chọn, không có trong tài liệu đã tải). Nếu bé uống đủ thuốc mà vẫn ho, không lên cân: bác sĩ sẽ đánh giá lại kỹ hơn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Mai uống đủ 3/4 viên pyrantel ngay tại phòng khám dưới sự giám sát của bác sĩ; hôm sau bé đi ngoài ra thêm mấy con giun. Ho thưa dần rồi hết sau khoảng một tuần, bé bú và ăn bột khá hơn. Bà ngoại học cách rửa tay cho bé, sân đất được trải chiếu. Sau 3 tuần tái khám: soi phân âm tính, cân lên 8,4 kg, Hb 110 g/L; chị Hạnh hết lo lao khi thấy bé khỏe lại. Quyết định đúng; mốc cân và Hb sau tẩy giun là số của ca, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Giấu tiền sử: con giun trong tã, ông ngoại ho kéo dài (lượt 1) và việc cho thiếu liều thuốc (lượt 2) chỉ lộ khi hỏi cụ thể và không trách.",
+  "Thuốc ho thảo dược tự mua: chỉ là nhiễu, không phải nguyên nhân; ngưng thuốc ho (WHO 2013 mục 4.4).",
+  "Không có CT: không cần cho ca này; thay bằng lâm sàng, soi phân, X-quang ngực."
+ ],
+ "bai_hoc_bien": [
+  "Mẹ giấu tiền sử: hỏi cụ thể về phân, về người sống cùng, và hỏi 'chị lo nhất điều gì'; nhiều mẹ giấu vì xấu hổ hoặc sợ nghe chữ lao.",
+  "Ho kéo dài + ngừng tăng cân ở nhũ nhi làm mẹ lo lao: dùng yếu tố tiếp xúc nguồn lây và X-quang để trấn an có căn cứ (Hướng dẫn lao BYT 2024, mục 3.4.1), không phán đoán suông.",
+  "Điều trị không đỡ: đi từng bước (sai chẩn đoán, sai thuốc/liều, không tuân thủ, tái nhiễm, kháng thuốc) trước khi đổi thuốc hay chuyển tuyến; ca này là dùng thiếu liều vì lo thuốc mạnh.",
+  "Dưới 12 tháng dùng pyrantel 11 mg/kg, không dùng albendazol/mebendazol (QĐ 3312/2015 mục 3.1a; QĐ 6437/2018 mục II.1b).",
+  "Dạy cách hỏi lại không trách móc: 'nhiều mẹ lo thuốc mạnh nên chia nhỏ, chị có làm vậy không?'."
+ ],
+ "diem_nho": [
+  "Giun đũa trẻ em: xanh xao, ăn kém, đau bụng, nôn, ho Loeffler; soi phân tìm trứng, bạch cầu ái toan tăng gợi ý; biến chứng tắc ruột, chui ống mật, ống tụy (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1a).",
+  "Dưới 12 tháng: pyrantel pamoat viên 125 mg, 11 mg/kg (tối đa 1 g), giun đũa liều duy nhất (QĐ 3312/2015, mục 3.1a); từ trên 12 tháng: mebendazol hoặc pyrantel.",
+  "Tẩy giun cộng đồng: chỉ định từ 12 tháng; chống chỉ định dưới 12 tháng, sốt > 38,5 °C, thai 3 tháng đầu và đang cho con bú (QĐ 6437/2018 mục II.1).",
+  "Thiếu máu trẻ 6 tháng–2 tuổi khi Hb < 105 g/L; ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1, 3.2; WHO 2024 Bảng 3).",
+  "Dấu báo động đau bụng: giảm cân hoặc chậm phát triển, nôn, ỉa lỏng, sốt chưa rõ nguyên nhân (QĐ 3312/2015, Đau bụng chức năng mục 3.1 Bảng 1).",
+  "Lao trẻ em không bằng chứng vi khuẩn: dựa tiền sử tiếp xúc nguồn lây, lâm sàng, X-quang (Hướng dẫn lao BYT 2024, mục 3.4.1 c, d1).",
+  "Phòng giun: rửa tay xà phòng, cắt móng, đi giày dép, ăn chín uống chín, nhà tiêu hợp vệ sinh (QĐ 6437/2018 mục VI)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Nhiễm ký sinh trùng đường ruột ở trẻ em mục 1, 2, 3.1a–c (tr. 335–337); Thiếu máu thiếu sắt mục 1–6 (tr. 539–542); Đau bụng chức năng mục 3.1–3.2, Bảng 1–2 (tr. 344–345)",
+  "BYT – QĐ 6437/QĐ-BYT 2018, Hướng dẫn tẩy giun đường ruột tại cộng đồng – TL-0173 (kho cũ tltk-10000-ca, 02 Tiêu hóa) – ĐÃ ĐỌC: toàn văn mục I–VI",
+  "WHO 2017, Preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – ĐÃ ĐỌC: phần Rationale (dung nạp tốt ở trẻ trên 12 tháng; xem sổ mâu thuẫn mục TH-1307)",
+  "WHO 2024, Guideline on haemoglobin cutoffs to define anaemia in individuals and populations – TL-0244 – ĐÃ ĐỌC: Bảng 1, Bảng 3 (trẻ 6–23 tháng: ≥ 105 g/L không thiếu máu; 95–104 nhẹ)",
+  "BYT – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh Lao 2024 – TL-0123 – ĐÃ ĐỌC: mục 3.4.1 (lưu ý chẩn đoán lao ở trẻ em: a, c, d, d1; khoảng tr. 29–31)",
+  "WHO 2013, Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (không dùng kháng sinh, làm dịu họng bằng cách an toàn)",
+  "WHO 2024, Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – dấu hiệu nguy hiểm (đã dùng ở ca NH-0199, không mở lại bản chữ trong ca này)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (26/10/2026): viết theo QĐ 3312/2015 (TL-0037, mục 3.1a–c, Thiếu máu thiếu sắt, Đau bụng chức năng), QĐ 6437/2018 (TL-0173), WHO 2017 (TL-0248), WHO 2024 Hb (TL-0244 Bảng 1, 3), Hướng dẫn lao BYT 2024 (TL-0123 mục 3.4.1), WHO 2013 mục 4.4. Theo mục sổ mâu thuẫn TH-1307: dưới 12 tháng dùng pyrantel, albendazol/mebendazol chấm h; Hb ngưỡng 105 g/L.",
+  "Thiếu tài liệu: cách cho pyrantel ở nhũ nhi (nghiền, sau ăn), độ an toàn pyrantel, khoảng cách tối thiểu khi cho lại liều sau dùng thiếu liều, kháng pyrantel ở giun đũa, thuốc giun cho mẹ đang cho con bú, siro ho thảo dược ở nhũ nhi, mốc tăng cân/hết ho/Hb sau tẩy giun, thời gian ho của hội chứng Loeffler, lịch tái khám 3 tuần (do người soạn chọn).",
+  "Ca dùng id sẵn có: soi_phan, ctm, ferritin_sat, cxr, xpert_tre, igra, crp, abdus, xq_bung, bang_keo_hau_mon; không cần mục danh mục mới. Bé chưa tròn 12 tháng ở cả hai lượt (10 tháng và gần 11 tháng).",
+  "Chi tiết hư cấu của ca (đã ghi để nhất quán): ông ngoại AFB âm, viêm phế quản mạn do thuốc lá; mẹ chỉ cho 1/4 viên pyrantel ở lượt 2. Ca không có ảnh da."
+ ]
+}
