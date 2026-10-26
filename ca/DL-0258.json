@@ -1,0 +1,744 @@
+{
+ "ma_ca": "DL-0258",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_may_day_cap",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Mày đay cấp",
+  "chan_doan_phai_loai_tru": [
+   "Phản vệ",
+   "Viêm mạch mày đay",
+   "Phù mạch"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Phan Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo (lớp Lá), ba làm lập trình viên tại nhà",
+  "can_nang": 17,
+  "chieu_cao": 103,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi 'bác sĩ', chỉ nói vài chữ khi được hỏi thẳng. Mẹ là người kể: bác sĩ gọi 'chị', chị xưng 'em'.",
+  "tinh_cach": "Mẹ chị Lê Thị Thu Hà, 32 tuổi, kế toán, nói nhanh, hay chen chuyện cô giáo, bà nội, đường huyết vào giữa câu; lo, mệt, sợ bị trừ lương vì nghỉ chăm con. Bé hiếu động, ngứa thì gãi, nhè thuốc nước vị lạ.",
+  "kieu_nhieu": "Kể lể lộn xộn: chị nhảy qua lại giữa các ngày, lẫn thức ăn, đường huyết, chuyện ở lớp, lời bà nội; kể 10 phút vẫn thiếu thông tin chính (mỗi mảng tồn tại bao lâu, có sưng mi môi không, insulin có đổi không). Bác sĩ nhẹ nhàng ngắt lời, hỏi từng ý theo mốc ngày thì chị trả lời gọn, đúng. Điều chị thật sự cần (giấy xác nhận) chỉ lộ khi được hỏi mở.",
+  "nguoi_nha": "Mẹ bé, chị Hà, đi cùng; hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ trả lời ngắn khi được hỏi thẳng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#e3b88f",
+   "toc": "#1c1612",
+   "kieuToc": "ngan",
+   "ao": "#7fb7cf",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b894",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c0705a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 4 tuổi đái tháo đường típ 1 đang tiêm insulin nổi mẩn ngứa khắp người mấy ngày; mẹ đưa đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có X-quang (nên cũng không có CT, nội soi); mày đay không cần hình ảnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Nổi mẩn ngứa ngày thứ 4",
+   "tiep_don": "Bé Phan Minh Khôi, 4 tuổi, 17 kg, cao 103 cm, đái tháo đường típ 1 đang tiêm insulin, mẹ (chị Hà) đưa đến vì nổi mẩn ngứa khắp người mấy ngày. Sinh hiệu: mạch 98 l/p, HA 98/58 mmHg, nhiệt 37,2 °C, nhịp thở 24 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ bé nằm viện 24 giờ như phản vệ là không cần: bé chỉ có sẩn phù ở da, không khó thở, không đau bụng, không phù lưỡi. Theo dõi ≥ 24 giờ thuộc xử trí phản vệ (TT 51/2017, Phụ lục III mục I.1) mà bé không đủ tiêu chuẩn (Phụ lục I); QĐ 4416 (Bệnh mày đay mục 3.2.1) chỉ nhập viện khi phù mạch ở lưỡi hoặc đau bụng. Bé 4 tuổi phải xa mẹ, bữa ăn và giờ tiêm insulin xáo trộn, mẹ nghỉ thêm ngày công giữa lúc đang lo bị trừ lương.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện Nhi hay khoa Dị ứng để thử dị nguyên là quá tay: mày đay cấp tự giới hạn, thường không cần chẩn đoán thêm ngoài bệnh sử (TL-0405 mục 4.1, Bảng 8) và điều trị được ở tuyến cơ sở bằng kháng histamin (QĐ 4416 mục 3.2.1). Hai mẹ con đi xe hơn một giờ, bé trễ bữa và mũi insulin, tốn tiền xét nghiệm IgE, test dị nguyên mà không đổi xử trí.",
+    "cap_cuu": "Tiêm adrenalin bắp hay gọi cấp cứu là không đúng chỉ định: adrenalin dành cho phản vệ từ độ II trở lên (TT 51/2017, Phụ lục III mục I.3), còn bé chỉ có sẩn phù, hô hấp – tuần hoàn – tiêu hóa bình thường. Bé bị tiêm đau, khóc thét, cả nhà hoảng sợ; tác dụng không mong muốn của adrenalin ở trẻ đái tháo đường: không có trong tài liệu đã tải."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em nổi mẩn ngứa mấy bữa nay. Đầu tiên em tưởng muỗi đốt, hay nóng vì Chủ nhật ba bé cho ngồi máy tính nguyên buổi, mà hôm đó cả nhà ăn tôm rim bên nội nữa. Thứ Ba cô giáo nhắn bé gãi hoài, bà nội xoa rượu gừng rồi tắm lá cho bé, sáng nay em đo đường huyết bé 9 mấy chứ không thấp đâu. Bé còn đang tiêm insulin, em sợ bé dị ứng thuốc... Thôi bác sĩ coi giùm em bé trước đi.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "98/58",
+    "nhiet": "37,2",
+    "nhip_tho": 24,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Hà kể lộn xộn: bé nổi mẩn đỏ, gồ lên, ngứa nhiều, mảng này lặn thì mảng khác nổi, bé gãi suốt nên mất ngủ; chị lo bé dị ứng nặng hoặc dị ứng insulin.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tổn thương chính"
+    },
+    {
+     "id": "moc_gio",
+     "noi_dung": "Hỏi theo mốc ngày thì chị nói gọn: Chủ nhật tối bé nổi mẩn đầu tiên ở lưng và bụng; thứ Hai, Ba, Tư, Năm ngày nào cũng có mảng mới, ngứa nhiều nhất tối và đêm. Hôm nay là ngày thứ 4, chưa ngày nào da sạch hẳn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian khởi phát, diễn tiến (dưới 6 tuần)"
+    },
+    {
+     "id": "moi_not",
+     "noi_dung": "Mỗi mảng nổi rồi tự lặn trong vài giờ, lâu nhất nửa ngày, lặn xong da như thường, không thâm, không bầm. Hôm qua chị khoanh bút một mảng ở đùi, sáng nay chỗ đó phẳng mà chỗ khác nổi. Bé chỉ ngứa, không kêu đau. Hôm qua chị đếm khoảng 30 chỗ nổi rải ở lưng, bụng, hai tay, hai đùi, mông; mảng to từ bằng đồng xu tới bằng bàn tay bé.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian tồn tại mỗi sẩn phù (< 24 giờ, không thâm: loại viêm mạch mày đay) và số sẩn phù/24 giờ (dưới 50)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không khò khè, thở rít, khàn tiếng. Mi mắt, môi, lưỡi, mặt không sưng. Không đau bụng, nôn, tiêu chảy. Bé không lả, chơi và ăn gần như bình thường. Không sốt, không đau khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu toàn thân, phù mạch, hô hấp, tiêu hóa (loại phản vệ, phù mạch, viêm mạch)"
+    },
+    {
+     "id": "nhiem_virus",
+     "noi_dung": "Khoảng 1 tuần trước bé sổ mũi, ho nhẹ chừng 3 ngày, không sốt, tự hết từ thứ Bảy; ở lớp nhiều bé sổ mũi. Không uống thuốc gì khi đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm virus hô hấp trên trước đó (khởi phát thường gặp)"
+    },
+    {
+     "id": "ngoi_may",
+     "noi_dung": "Chủ nhật bé ngồi ghế trong phòng làm việc của ba xem hoạt hình, chơi game chừng 4 giờ, phòng bật điều hòa; mảng đầu tiên nổi tối hôm đó. Thứ Hai, Ba bé không ngồi máy tính vẫn nổi khắp người, không tập trung ở mông hay mặt sau đùi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát theo sổ cái: ngồi máy tính lâu (loại mày đay do áp lực)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Chủ nhật bé ăn tôm rim, bé đã ăn tôm nhiều lần không sao. Không món lạ, thuốc, vắc xin, xà phòng mới; không côn trùng đốt; không ai trong nhà hay lớp nổi giống bé. Bé chưa từng nổi mề đay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dị nguyên thức ăn, thuốc, côn trùng, ghẻ, tiền sử"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Bé đái tháo đường típ 1 từ năm 3 tuổi, tiêm bút insulin glargine buổi tối và insulin aspart trước ăn, cùng hãng hơn 1 năm, không đổi loại; tiêm luân phiên bụng và đùi. Chỗ tiêm không nổi mẩn, không cục; mẩn không theo giờ tiêm. Đường huyết ở nhà 7–10 mmol/L, sáng nay 9,2. Chưa có que thử ceton.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (insulin), kiểm soát đường huyết, nghi dị ứng insulin"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Chưa cho bé thuốc dị ứng, giảm đau, hạ sốt hay kháng sinh nào. Bà nội xoa rượu gừng và tắm lá nước nóng 2 lần, bé gãi nhiều hơn sau tắm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc đã dùng, cách dân gian làm nặng thêm"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều chị thật sự cần là giấy của bác sĩ: bé nghỉ học 2 ngày, cô nhắn nhóm phụ huynh nghi 'sởi hay tay chân miệng' và đòi giấy xác nhận bệnh gì, có lây không mới cho đi học lại; công ty chị đòi giấy nghỉ ốm khi nghỉ chăm con, chị sợ bị trừ lương. Chị ngại nói vì sợ bị cho là 'đi xin giấy'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không tự nói. Chỉ lộ khi bác sĩ hỏi mở: 'chị còn lo gì không', 'hôm nay chị muốn bác sĩ giúp gì thêm', 'bé nghỉ học chưa, trường hay công ty có yêu cầu gì'.",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy nghỉ ốm/xác nhận bệnh"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Chị muốn 'tiêm một mũi cho hết hẳn', thử dị ứng thức ăn, và hỏi có nên ngưng insulin vì 'sợ thuốc gây nổi mẩn'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn, niềm tin sai của mẹ (nhiễu)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Khoảng 30 sẩn phù đỏ hồng, nhạt ở giữa, nổi gồ, ranh giới rõ, tròn hoặc nhiều cung, 1–6 cm, nhiều mảng nối thành đám ở hông – sườn; rải ở lưng, bụng, hai tay, hai đùi, mông. Vệt sẩn phù theo đường gãi ở tay. Mảng mới mọc trong lúc khám. Không dát thâm tím, chấm xuất huyết, mụn nước, vảy; vài vết xước. Mặt, môi, lòng bàn tay – chân không tổn thương. Chỗ tiêm insulin ở bụng, đùi: da lành, không cục. Mức vừa: dưới 50 sẩn phù/24 giờ, chưa phù mạch.",
+     "k": 1,
+     "hien": "Sườn – bụng: nhiều sẩn nổi gồ đỏ hồng nối thành mảng, vệt đỏ do gãi (ảnh 1). Mông và mặt sau đùi: vùng đỏ lan rộng, nhiều mảng nổi nối nhau (ảnh 2). Đùi: nhiều mảng đỏ hồng nổi gồ, ranh giới rõ (ảnh 3). Mặt, môi: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Sườn – bụng",
+       "id": "HA-DA-0165",
+       "chu": "Nhiều sẩn nổi gồ đỏ hồng nối thành mảng ở sườn – bụng, kèm vệt đỏ do gãi."
+      },
+      {
+       "vi_tri": "Mông – mặt sau đùi",
+       "id": "HA-DA-0166",
+       "chu": "Vùng đỏ lan rộng, nhiều mảng sẩn phù nối nhau ở mông và mặt sau đùi."
+      },
+      {
+       "vi_tri": "Đùi",
+       "id": "HA-DA-0163",
+       "chu": "Nhiều mảng sẩn phù đỏ hồng, ranh giới rõ trên da đùi."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, mi mắt, môi, lưỡi, cổ không sưng; giọng và tiếng khóc bình thường. Không hạch cổ to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, amidan không to, lưỡi gà không phù. Mũi ít dịch trong.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi. Mạch quay 98 l/p, đều.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran rít; thở êm, không co kéo. Nhịp thở 24 l/p.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không phản ứng thành bụng; gan lách không sờ thấy.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 17 kg, cao 103 cm; không dấu hiệu mất nước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 9,4 mmol/L (sau ăn trưa khoảng 3 giờ)",
+     "n": "Hữu ích: bé đái tháo đường típ 1 vừa nhiễm virus. ISPAD 2022 (TL-0075, Executive Summary): nhiễm trùng gây thiếu insulin tương đối; ADA 2026 (khuyến cáo 6.22): đo ceton khi bệnh, nhất là đường huyết > 11,1 mmol/L. TT 51/2017 (Phụ lục I, II.5): hạ đường máu là chẩn đoán phân biệt của phản vệ."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Ceton âm tính, glucose âm tính, protein âm tính, hồng cầu âm tính",
+     "n": "Chấp nhận, không bắt buộc: đường huyết 9,4 chưa vượt 11,1 mmol/L (ADA 2026, khuyến cáo 6.22)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,6 G/L · Neutrophil 52% · Lympho 38% · Eos 2% · Hb 131 g/L · TC 310 G/L",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 52,
+      "lym_pct": 38,
+      "mono_pct": 7,
+      "eos_pct": 2,
+      "baso_pct": 1,
+      "hgb": 131,
+      "plt": 310
+     },
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (Bệnh mày đay mục 2.2) có công thức máu; TL-0405 (mục 4.1, Bảng 8) không làm thường quy ở mày đay cấp. Cả hai cách đều đúng (xem sổ mâu thuẫn)."
+    },
+    "ige_tong": {
+     "r": "IgE toàn phần trong giới hạn bình thường",
+     "n": "Không cần: QĐ 4416 (mục 2.2) có định lượng IgE khi tìm nguyên nhân; TL-0405 (Bảng 8) không làm ở mày đay cấp tự phát; bé ăn tôm nhiều lần không sao."
+    },
+    "sinh_thiet_da": {
+     "r": "Không cần làm",
+     "n": "Không cần: QĐ 75/2015 (mục 3a) chỉ sinh thiết khi mày đay kéo dài nghi viêm mao mạch; sẩn của bé mất trong vài giờ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp tự phát, mức vừa (khởi phát 4 ngày, khoảng 30 sẩn phù/24 giờ, mỗi sẩn mất trong vài giờ, chưa phù mạch, chưa dấu hiệu hô hấp – tuần hoàn – tiêu hóa), sau nhiễm virus hô hấp trên; ở trẻ đái tháo đường típ 1 đang tiêm insulin, đường huyết 9,4 mmol/L",
+     "ok": 1,
+     "n": "Sẩn phù ngứa, xuất hiện rồi mất trong 24 giờ không để lại dát thâm (QĐ 4416, Bệnh mày đay mục 2.1, 2.3); dưới 6 tuần là cấp (mục 1.1, 2.4.1); gặp nhiều nhất từ sơ sinh đến 9 tuổi (mục 1.2); hay theo sau nhiễm trùng hô hấp trên (TL-0405 mục 4.2.2). Mức vừa vì dưới 50 sẩn phù, không phù mạch (QĐ 4416 mục 3.2.1)."
+    },
+    {
+     "t": "Phản vệ",
+     "n": "Cần da – niêm mạc kèm hô hấp hoặc tụt HA, hoặc ≥ 2/4 hệ cơ quan sau tiếp xúc yếu tố nghi ngờ (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2). Bé chỉ có da, HA 98/58, SpO₂ 99%, phổi không ran rít, không nôn. TT 51 Phụ lục II xếp 'chỉ có triệu chứng da' là độ I khi đã chẩn đoán phản vệ: xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Viêm mạch mày đay",
+     "n": "Sẩn phù tồn tại > 24 giờ, mềm, ngứa ít, đáp ứng kém kháng histamin (QĐ 75/2015 mục 3b); QĐ 3942/2014 (Mày đay – phù Quincke mục 3c): có ban xuất huyết, đau khớp, đau bụng. Bé: mỗi sẩn mất trong vài giờ, không thâm, không đau khớp."
+    },
+    {
+     "t": "Phù mạch",
+     "n": "Sưng nề môi, mắt, lưỡi, tay, chân, sinh dục, thanh quản (QĐ 4416 mục 2.1). Bé không sưng mi, môi, lưỡi, giọng bình thường. Phù lưỡi hoặc đau bụng thì nhập viện (mục 3.2.1)."
+    },
+    {
+     "t": "Mày đay do áp lực hoặc vật lý (ngồi máy tính lâu, tắm nóng)",
+     "n": "Mày đay cảm ứng thuộc nhóm mạn tính (QĐ 4416 mục 2.4.2); do áp lực: sẩn phù sau 3–12 giờ ở chỗ bị đè. Bé nổi khắp người cả những ngày không ngồi máy tính, không tập trung ở mông – mặt sau đùi, mới 4 ngày."
+    },
+    {
+     "t": "Dị ứng thức ăn (tôm), thuốc hoặc insulin",
+     "n": "Thức ăn, thuốc là căn nguyên thường gặp (QĐ 75/2015 mục 2a; QĐ 4416 mục 2.5 'phát ban do thuốc'). Bé ăn tôm nhiều lần không sao, không thuốc mới; insulin cùng loại hơn 1 năm, chỗ tiêm lành. Dị ứng insulin ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Côn trùng đốt, ghẻ, viêm da cơ địa",
+     "n": "QĐ 75/2015 (mục 3b): côn trùng đốt; QĐ 4416 (mục 2.5): viêm da cơ địa. Bé không bị đốt, không ai ngứa kẽ tay, tổn thương thoáng qua, không vảy, không mụn nước."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi mở nhu cầu của mẹ ('chị còn lo gì, cần bác sĩ giúp gì thêm'), nhận ra mẹ cần giấy xác nhận cho trường và công ty",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, thu hoạch lý do thật. Quy định giấy xác nhận, giấy nghỉ ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấu trúc hóa bệnh sử theo mốc ngày; hỏi mỗi mảng tồn tại bao lâu, số mảng/ngày, sưng mi môi, đau bụng, khó thở",
+     "v": "c",
+     "n": "QĐ 4416 (Bệnh mày đay mục 2.1, 2.3): chẩn đoán lâm sàng, sẩn phù < 24 giờ; thể nặng ≥ 50 sẩn phù/24 giờ và/hoặc phù mạch (mục 3.2.1)."
+    },
+    {
+     "t": "Chẩn đoán mày đay cấp tự phát mức vừa, giải thích bệnh lành tính, tự giới hạn, có thể kéo dài tới 6 tuần",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.3, 2.4.1); TL-0405 (mục 4.1): tự giới hạn. Câu 'mày đay không lây': không có nguyên văn trong tài liệu đã tải (QĐ 75/2015 mục 1: phản ứng của mao mạch trên da)."
+    },
+    {
+     "t": "Đo đường huyết mao mạch tại phòng khám vì bé đái tháo đường típ 1 đang nhiễm virus",
+     "v": "c",
+     "n": "ISPAD 2022 (TL-0075, Executive Summary): nhiễm trùng gây thiếu insulin tương đối; ADA 2026 (khuyến cáo 6.22): đo ceton khi bệnh và đường huyết > 11,1 mmol/L."
+    },
+    {
+     "t": "Giữ nguyên insulin glargine tối và aspart theo bữa ăn, không ngưng hay tự giảm vì sợ insulin gây mẩn",
+     "v": "c",
+     "n": "ADA 2026 (khuyến cáo 6.22): không ngưng insulin nền kể cả khi ăn ít. Liều insulin khi trẻ ốm: không có trong tài liệu đã tải; bé có đội nhi nội tiết theo dõi."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2 dạng siro, uống đều mỗi ngày 10 ngày: cetirizin 5 mg/5 ml 2,5–5 ml/ngày hoặc loratadin 5 mg/5 ml 5 ml/ngày (tuổi 2–5); không dùng thế hệ 1 (clorpheniramin, promethazin)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): mày đay cấp thông thường dùng kháng histamin liều tiêu chuẩn 10 ngày; QĐ 3942/2014 (Các thuốc kháng histamin H1, Bảng 3, tr. 119): liều 2–5 tuổi"
+    },
+    {
+     "t": "Tự chăm sóc: cắt móng, hạn chế gãi, áp mát, tắm nước mát, mặc cotton rộng, bỏ rượu gừng và tắm lá nước nóng",
+     "v": "c",
+     "n": "QĐ 75/2015 (Bệnh mày đay mục 4b): hạn chế gãi, áp lạnh, tránh tắm nóng, mặc cotton; QĐ 4416 (mục 4): tránh cào gãi. Cắt móng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay: khó thở, thở rít, khàn tiếng, sưng môi – mắt – lưỡi, đau bụng, nôn, lả, ngủ li bì; hẹn tái khám sau 3–4 ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1, 3.2.1): phù mạch gây khó thở cần cấp cứu, phù lưỡi hoặc đau bụng nhập viện; TT 51/2017 (Phụ lục I): khó thở, đau bụng, nôn gợi ý phản vệ."
+    },
+    {
+     "t": "Chẩn đoán dựa vào lâm sàng, không bắt buộc xét nghiệm thường quy, giải thích lý do cho mẹ",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, Bảng 8) và QĐ 75/2015 (mục 3a): dựa vào lâm sàng. Công thức máu chấp nhận theo QĐ 4416 mục 2.2."
+    },
+    {
+     "t": "Viết giấy xác nhận khám bệnh trung thực, đề nghị nghỉ học đến khi đỡ ngứa",
+     "v": "a",
+     "n": "Quy định cấp giấy, số ngày nghỉ: không có trong tài liệu đã tải; ghi đúng sự thật."
+    },
+    {
+     "t": "Đợt corticoid uống ngắn ngày",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ cho thể nặng, trẻ ≤ 12 tuổi methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày; TL-0405 (mục 5.4): đợt ngắn tối đa 10 ngày, liều 20–50 mg prednisone không dành cho trẻ. Bé mức vừa, không cần; ở bé đái tháo đường corticoid làm tăng đường huyết (ADA 2026 chương 16, mục Glucocorticoid Therapy)."
+    },
+    {
+     "t": "Ngưng hoặc giảm insulin vì nghi insulin gây nổi mẩn",
+     "v": "h",
+     "n": "ADA 2026 (khuyến cáo 6.22): không ngưng insulin nền; ISPAD 2022: bỏ mũi insulin là nguyên nhân chính của DKA ở trẻ đã biết đái tháo đường. Insulin gây mẩn ở bé: không có bằng chứng."
+    },
+    {
+     "t": "Tiêm adrenalin bắp cho mày đay đơn thuần",
+     "v": "w",
+     "n": "TT 51/2017 (Phụ lục III mục I.3): adrenalin tiêm bắp khi phản vệ từ độ II; bé không có hô hấp, tuần hoàn, tiêu hóa."
+    },
+    {
+     "t": "Nhập viện hoặc giữ theo dõi 24 giờ như phản vệ",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ nhập viện khi phù lưỡi hoặc đau bụng; TT 51/2017 (Phụ lục III mục I.1): theo dõi ≥ 24 giờ cho phản vệ, bé không đủ tiêu chuẩn (Phụ lục I)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp tự phát (khởi phát 4 ngày, dưới 6 tuần), mức vừa: khoảng 30 sẩn phù/24 giờ, chưa có phù mạch",
+     "Vị trí: sườn – bụng, lưng, hai tay, hai đùi, mông; sẩn phù thoáng qua trong vài giờ, không để lại thâm",
+     "Yếu tố liên quan: nhiễm virus hô hấp trên khoảng 1 tuần trước; ngồi máy tính, tôm, insulin không phải nguyên nhân; rượu gừng, tắm lá nóng làm ngứa hơn",
+     "Chưa có dấu hiệu phản vệ, phù mạch hay viêm mạch mày đay",
+     "Đái tháo đường típ 1 đang tiêm insulin: đường huyết 9,4 mmol/L, ceton niệu âm tính, chỗ tiêm lành",
+     "Lý do thật: mẹ cần giấy xác nhận bệnh và nghỉ ốm cho trường mầm non và công ty"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ngắt lời nhẹ nhàng, hỏi theo mốc ngày → mỗi mảng tồn tại bao lâu, số mảng/ngày → hô hấp, phù mặt – môi, tiêu hóa, sốt, đau khớp → nhiễm trùng trước, thức ăn, thuốc (kể cả insulin: đổi loại, chỗ tiêm), yếu tố vật lý → đường huyết, insulin → hỏi mở 'chị còn lo gì, cần gì hôm nay' → khám da (kể cả chỗ tiêm), mặt – họng, phổi, tim, bụng → đường huyết ± ceton → chẩn đoán → xử trí.",
+     "Vì sao là mày đay cấp: sẩn phù ngứa < 24 giờ không để lại thâm (QĐ 4416 mục 2.1, 2.3), dưới 6 tuần (mục 2.4.1), hay theo sau nhiễm trùng hô hấp trên (TL-0405 mục 4.2.2). Mức vừa vì dưới 50 sẩn phù/24 giờ, không phù mạch, chưa có chỉ định nhập viện (mục 3.2.1).",
+     "Loại phản vệ: cần hô hấp, tuần hoàn hoặc tiêu hóa đi kèm (TT 51/2017 Phụ lục I mục I.2). Loại viêm mạch mày đay: hỏi 'mỗi mảng tồn tại bao lâu' (TL-0405 hình 1 chú thích 4). Loại phù mạch: không sưng mi, môi, lưỡi (QĐ 4416 mục 2.1).",
+     "Insulin: cùng loại hơn 1 năm, chỗ tiêm lành, mẩn không theo giờ tiêm nên không nghĩ dị ứng insulin (không có trong tài liệu đã tải). Vẫn đo đường huyết vì nhiễm virus gây thiếu insulin tương đối (ISPAD 2022, TL-0075).",
+     "Lý do thật: mẹ cần giấy cho trường (nghi sởi, tay chân miệng) và công ty. Ghi nhận lo lắng, giải thích mẩn là phản ứng của mao mạch trên da (QĐ 75/2015 mục 1), viết giấy đúng sự thật. Quy định giấy nghỉ ốm: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, thuốc uống, tái khám (ve_hen). Không nhập viện vì không phù lưỡi, không đau bụng (QĐ 4416 mục 3.2.1); không cấp cứu vì không phải phản vệ.",
+     "Kháng histamin H1 thế hệ 2 liều tiêu chuẩn 10 ngày (QĐ 4416 mục 3.2.1); trẻ 2–5 tuổi cetirizin 5 mg/5 ml 2,5–5 ml/ngày, loratadin 5 mg/5 ml 5 ml/ngày (QĐ 3942/2014 Bảng 3); dùng hằng ngày, không 'khi ngứa' (TL-0405 mục 5.4). Thế hệ 1 không dùng bậc đầu ở trẻ (TL-0405 mục 5.5.1).",
+     "Insulin giữ nguyên, không ngưng vì sợ gây mẩn (ADA 2026 khuyến cáo 6.22; ISPAD 2022). Nếu bé sốt, nôn, ăn kém hoặc đường huyết > 11,1 mmol/L thì đo ceton, gọi đội nhi nội tiết; chỉnh insulin khi ốm ở trẻ: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cetirizin siro",
+      "ham_luong": "5 mg/5 ml",
+      "lieu": "5 ml (5 mg)",
+      "duong": "Uống",
+      "thoi_diem": "1 lần/ngày, buổi tối; uống đều mỗi ngày kể cả khi đã đỡ, không chỉ khi ngứa",
+      "so_ngay": "10 ngày, tái khám sau 3–4 ngày",
+      "ghi_chu": "QĐ 3942/2014 (Các thuốc kháng histamin H1, Bảng 3): trẻ 2–5 tuổi 2,5–5 ml/ngày; chọn 5 ml vì bé 17 kg, ngứa nhiều (lý do chọn mức: không có trong tài liệu đã tải). QĐ 4416 (Bệnh mày đay mục 3.2.1): liều tiêu chuẩn 10 ngày; TL-0405 (mục 5.4): dùng hằng ngày. Thay thế: loratadin 5 mg/5 ml, 5 ml/ngày. Cetirizin có thể gây buồn ngủ nhẹ (QĐ 3942, mục 2a). Giờ uống buổi tối, hàm lượng đường của siro: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine và insulin aspart (bé đang dùng)",
+      "ham_luong": "Bút tiêm của bé",
+      "lieu": "Giữ nguyên liều như cũ của đội nhi nội tiết",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Glargine buổi tối; aspart trước ăn",
+      "so_ngay": "Tiếp tục, không đổi hôm nay",
+      "ghi_chu": "Đang dùng, giữ nguyên. ADA 2026 (khuyến cáo 6.22): không ngưng insulin nền khi ăn ít; ISPAD 2022: bỏ mũi insulin là nguyên nhân chính của DKA. Liều insulin cho trẻ: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mẩn của bé là mày đay cấp, lành tính, thường lặn dần, có thể kéo dài tới khoảng 6 tuần (QĐ 4416 mục 2.4.1; TL-0405 mục 4.1); không sốt, không giống sởi. Câu 'không lây': không có nguyên văn trong tài liệu đã tải.",
+     "Tiếp tục tiêm insulin như cũ, đo đường huyết như thường lệ; nếu bé sốt, nôn hoặc đường huyết trên 11,1 mmol/L thì đo ceton nếu có que và gọi đội nhi nội tiết (ADA 2026 khuyến cáo 6.22).",
+     "Đi cấp cứu ngay nếu khó thở, thở rít, khàn tiếng, sưng môi, mắt, lưỡi, đau bụng, nôn, lả, ngủ li bì (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I).",
+     "Đếm sơ số chỗ nổi mỗi ngày, ghi mọi thuốc đã cho (kể cả thuốc hạ sốt, giảm đau), chụp ảnh; tái khám sau 3–4 ngày. Giấy xác nhận đã ghi đúng chẩn đoán; bé nghỉ học đến khi đỡ ngứa (số ngày: không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 4 ngày, không đỡ",
+   "tiep_don": "Bé Khôi quay lại sau 4 ngày vì nổi mẩn không đỡ, mẹ thấy còn nhiều hơn. Bé đã uống cetirizin theo toa, mẹ đã nhận giấy xác nhận lần trước. Mẹ mang sổ đường huyết. Sinh hiệu: mạch 112 l/p, HA 100/60 mmHg, nhiệt 37,9 °C, nhịp thở 26 l/p, SpO₂ 98%. Bé hơi quấy, gãi nhiều.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ngay lúc này là chưa có chỉ định: bé nhiều sẩn phù và sốt nhẹ nhưng không phù lưỡi, không đau bụng, không khó thở; QĐ 4416 (Bệnh mày đay mục 3.2.1) chỉ nhập viện khi phù mạch ở lưỡi hoặc đau bụng, thể nặng vẫn điều trị ngoại trú bằng kháng histamin tăng liều. Bé phải xa mẹ, bữa ăn và giờ tiêm insulin xáo trộn, mẹ nghỉ thêm ngày công khi đã xin giấy hai lần.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện Nhi hoặc khoa Dị ứng ngay là quá tay: thể nặng chưa có tiêu chuẩn nhập viện và điều trị được tại cơ sở (QĐ 4416 mục 3.2.1). Hai mẹ con đi xe hơn một giờ khi bé sốt nhẹ, quấy, trễ bữa và mũi insulin; xét nghiệm dị nguyên (TL-0405 Bảng 8: không thường quy trong mày đay cấp) không đổi xử trí, còn lý do 'không đỡ' như thuốc dùng không đều, thuốc hạ sốt mẹ cho vẫn không ai hỏi tới.",
+    "cap_cuu": "Tiêm adrenalin bắp hoặc gọi cấp cứu là không đúng chỉ định: adrenalin dành cho phản vệ từ độ II (TT 51/2017, Phụ lục III mục I.3), bé không có hô hấp, tuần hoàn, tiêu hóa; QĐ 75/2015 (Bệnh mày đay mục 4b) chỉ định khi có phù mạch cấp tính, bé chưa có. Bé bị tiêm đau, khóc, sốt thêm, cả nhà hoảng sợ; tác dụng không mong muốn của adrenalin ở trẻ đái tháo đường: không có trong tài liệu đã tải."
+   },
+   "loi_mo": "Bác sĩ ơi bé uống thuốc rồi mà vẫn nổi, còn nhiều hơn nữa! Em cho uống đúng thuốc bác sĩ kê, mà bé nhè hoài, có tối em quên, rồi tối qua bé sốt, em lục tủ thấy chai hạ sốt còn dư cho uống, đường huyết tối qua lên 13 mấy làm em hoảng, bà ngoại thì bảo đổi thuốc khác, cô giáo lại nhắn nhóm... Em không biết có nên cho bé đi học nữa không.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "100/60",
+    "nhiet": "37,9",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": [
+     "Nhiệt 37,9 °C: sốt nhẹ"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Hà kể lộn xộn: bé uống thuốc dị ứng rồi mà nổi nhiều hơn, tối qua sốt, ho, chị cho thuốc hạ sốt; chị hoảng vì đường huyết tối qua 13 mấy và không biết bé có nên đi học không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đỡ, sốt, đường huyết cao"
+    },
+    {
+     "id": "moi_not",
+     "noi_dung": "Sáng nay chị đếm khoảng 60–70 chỗ nổi, nhiều hơn mấy hôm trước, nhiều mảng to bằng bàn tay bé, nối thành đám ở lưng và hai đùi. Mỗi mảng vẫn lặn trong vài giờ (chị tiếp tục khoanh bút), không thâm, không chấm xuất huyết, không đau khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số sẩn phù/24 giờ (≥ 50: thể nặng), thời gian tồn tại mỗi sẩn (loại viêm mạch)"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Mi mắt, môi, lưỡi không sưng. Không đau bụng, không nôn, không khò khè, thở êm. Bé quấy, gãi nhiều, ăn kém hơn nhưng uống nước bình thường, tiểu như thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù mạch, hô hấp, tiêu hóa (chỉ định nhập viện, loại phản vệ)"
+    },
+    {
+     "id": "thuoc_da_cho",
+     "noi_dung": "Cetirizin siro 5 ml mỗi tối theo toa: 4 tối qua chị quên 1 tối, 2 tối bé nhè ra gần nửa liều, chỉ 1 tối uống đủ; có hôm chị cho 'khi nào bé gãi nhiều'. Không cho thuốc dị ứng nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và liều thực tế (một nguyên nhân 'không đỡ')"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Tối qua bé sốt 38,2 °C; trong nhà chỉ còn chai ibuprofen siro nên chị cho 2 lần (tối qua và sáng nay). Mẩn nổi dày hơn sau liều tối qua. Chị không biết ibuprofen có thể làm nổi mẩn, chỉ kể ra khi được hỏi 'đã cho thuốc gì nữa'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc làm nặng thêm (NSAID): nguyên nhân 'không đỡ'"
+    },
+    {
+     "id": "sot_ho",
+     "noi_dung": "Từ tối qua sốt 38,2, sáng nay 37,9; sổ mũi, ho khan trở lại, bé lớp bên cạnh cũng mới ốm. Chưa sốt liên tục 5 ngày; không đỏ mắt, môi không nứt, không hạch cổ, bàn tay bàn chân không sưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm virus đợt hai; loại Kawasaki và sốt phát ban khác"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Đường huyết ở nhà 8–12 mmol/L, tối qua 13,4 lúc sốt, sáng nay 10,8; bé ăn kém. Chị vẫn tiêm glargine tối như cũ, aspart theo lượng bé ăn. Chưa có que ceton. Chị hỏi 'bé ăn ít có nên bỏ mũi insulin không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết khi ốm, nguy cơ ceton, ý định bỏ insulin"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Trường nhận giấy lần trước, bé đi học một buổi thì cô gọi đón vì gãi nhiều. Chị lo phải xin giấy lần nữa, sợ công ty trừ lương; chị chỉ nhắc 'không biết có nên cho đi học không'. Chị đã bảo bà nội ngưng rượu gừng, tắm lá; bé tắm nước mát, đã cắt móng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật (giấy nghỉ ốm) vẫn còn; tự chăm sóc đã làm"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Khoảng 60–70 sẩn phù đỏ hồng, nhạt ở giữa, ranh giới rõ, 1–8 cm, nhiều mảng nối thành đám lớn ở lưng, hông – sườn, hai đùi; rải ở bụng, tay, mông. Vệt gãi, vài vết xước. Mảng mới mọc trong lúc khám. Không dát thâm tím, chấm xuất huyết, mụn nước, vảy. Mi mắt, môi, bàn tay – chân không sưng. Chỗ tiêm insulin lành. Mức nặng: ≥ 50 sẩn phù/24 giờ, chưa phù mạch.",
+     "k": 1,
+     "hien": "Lưng, hông – sườn, hai đùi: nhiều đám sẩn nổi gồ đỏ hồng, ranh giới rõ, nối thành mảng lớn; bụng, tay, mông: sẩn rải rác, vệt gãi. Mặt, môi: không tổn thương."
+    },
+    "dau_mat_co": {
+     "a": "Mi mắt, môi, lưỡi, cổ không sưng; giọng và tiếng khóc bình thường. Kết mạc không đỏ, môi không nứt, không hạch cổ to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không mủ, lưỡi gà không phù, lưỡi không đỏ nổi gai. Mũi có dịch trong.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi. Mạch quay 112 l/p, đều.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran rít; thở êm, không co kéo. Nhịp thở 26 l/p.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không phản ứng thành bụng; gan lách không sờ thấy.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, quấy. Môi ẩm, da niêm hồng, mắt không trũng, thở không sâu; không dấu mất nước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 11,6 mmol/L",
+     "n": "Cần ở trẻ đái tháo đường típ 1 đang sốt: ISPAD 2022 (TL-0075): nhiễm trùng gây thiếu insulin tương đối; ADA 2026 (khuyến cáo 6.22): đo ceton khi bệnh và đường huyết > 11,1 mmol/L, kết quả vừa vượt ngưỡng."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Ceton âm tính; glucose niệu (+); protein, hồng cầu, bạch cầu, nitrit âm tính",
+     "n": "Nên làm vì đường huyết > 11,1 mmol/L khi đang bệnh (ADA 2026, khuyến cáo 6.22). Ceton âm tính nên không nghĩ DKA (tiêu chuẩn: ceton máu ≥ 3 mmol/L hoặc ceton niệu trung bình – nhiều, kèm pH < 7,3 hoặc HCO₃⁻ < 18; ISPAD 2022 Executive Summary). Ceton máu: không có trong danh mục."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 11,2 G/L · Neutrophil 62% · Lympho 30% · Eos 1% · Hb 131 g/L · TC 345 G/L",
+     "bang": {
+      "wbc": 11.2,
+      "neu_pct": 62,
+      "lym_pct": 30,
+      "mono_pct": 6,
+      "eos_pct": 1,
+      "baso_pct": 1,
+      "hgb": 131,
+      "plt": 345
+     },
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (mục 2.2) có công thức máu; TL-0405 (Bảng 8) không làm thường quy. Không thiếu máu, tiểu cầu bình thường: phù hợp nhiễm virus."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 9 mg/L",
+     "bang": {
+      "crp": 9
+     },
+     "n": "Chấp nhận, không bắt buộc: tăng nhẹ phù hợp nhiễm virus; TL-0405 (mục 4.2) làm CRP ở mày đay mạn tự phát, không thường quy ở mày đay cấp."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp tự phát mức nặng (ngày thứ 8, khoảng 60–70 sẩn phù/24 giờ, mỗi sẩn vẫn mất trong vài giờ, chưa phù mạch, chưa dấu hiệu phản vệ), nặng lên do nhiễm virus đợt hai, ibuprofen và kháng histamin dùng không đều; ở trẻ đái tháo đường típ 1, đường huyết 11,6 mmol/L, ceton âm tính",
+     "ok": 1,
+     "n": "Sẩn phù < 24 giờ không để lại thâm (QĐ 4416, Bệnh mày đay mục 2.1), dưới 6 tuần là cấp (mục 2.4.1); thể nặng khi ≥ 50 sẩn phù/24 giờ và/hoặc phù mạch (mục 3.2.1). NSAID có thể gây và làm nặng thêm mày đay (TL-0405 mục 5.2.1); mày đay cấp hay theo sau nhiễm trùng hô hấp trên (mục 4.2.2); kháng histamin hiệu quả khi dùng hằng ngày (QĐ 4416 mục 3.2.2)."
+    },
+    {
+     "t": "Phản vệ",
+     "n": "Cần da – niêm mạc kèm hô hấp hoặc tụt HA, hoặc ≥ 2/4 hệ cơ quan sau tiếp xúc yếu tố nghi ngờ (TT 51/2017 Phụ lục I mục I.2). Bé HA 100/60, SpO₂ 98%, phổi sạch, không nôn, không đau bụng; ibuprofen là thuốc nghi ngờ nhưng chỉ có biểu hiện da."
+    },
+    {
+     "t": "Viêm mạch mày đay",
+     "n": "Sẩn phù > 24 giờ, mềm, ngứa ít, đáp ứng kém kháng histamin (QĐ 75/2015 mục 3b); hỏi 'mỗi sẩn tồn tại bao lâu' (TL-0405 hình 1 chú thích 4). Bé: sẩn vẫn mất trong vài giờ, không thâm, không xuất huyết, không đau khớp; đáp ứng kém vì dùng thuốc không đều, chưa đủ để nghĩ viêm mạch."
+    },
+    {
+     "t": "Phù mạch",
+     "n": "Sưng nề mi, môi, lưỡi, tay, chân, thanh quản (QĐ 4416 mục 2.1). Bé hiện không sưng, nhưng thể nặng có thể kèm phù mạch nên phải dặn dấu hiệu quay lại; phù lưỡi hoặc đau bụng là chỉ định nhập viện (mục 3.2.1)."
+    },
+    {
+     "t": "Kawasaki và sốt phát ban khác",
+     "n": "Kawasaki cần sốt liên tục ≥ 5 ngày và ≥ 5/6 tiêu chuẩn (đỏ kết mạc hai bên, thay đổi môi – miệng, thay đổi đầu chi, ban đa dạng, hạch cổ > 1,5 cm) (QĐ 3312/2015, bài Kawasaki mục 3.1 Bảng 1, 3.3). Bé mới sốt 1 ngày, không có tiêu chuẩn nào ngoài ban; ban là sẩn phù từng đợt, ngứa."
+    },
+    {
+     "t": "Đái tháo đường mất bù, nhiễm toan ceton",
+     "n": "Đường huyết 11,6, ceton niệu âm tính, thở êm, không nôn, không mất nước: chưa có tiêu chuẩn DKA (ISPAD 2022, Executive Summary). Nhiễm trùng gây thiếu insulin tương đối nên phải theo dõi sát."
+    },
+    {
+     "t": "Mày đay do thuốc (ibuprofen, cetirizin)",
+     "n": "NSAID hay gây và làm nặng thêm mày đay (TL-0405 mục 5.2.1; QĐ 75/2015 mục 2a). Bé đã nổi 8 ngày trước khi dùng ibuprofen nên ibuprofen là yếu tố làm nặng, không phải nguyên nhân khởi phát; cetirizin dùng sau khi đã nổi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà soát vì sao không đỡ trước khi đổi thuốc: tuân thủ và liều thực tế, thuốc đã cho thêm, yếu tố khởi phát mới, xem lại chẩn đoán, đếm lại số sẩn phù/24 giờ để xếp mức độ",
+     "v": "c",
+     "n": "QĐ 4416 (Bệnh mày đay mục 3.2.2, 4): kháng histamin hiệu quả khi dùng hằng ngày, không tự ý ngừng thuốc; TL-0405 (mục 5.2.1): thuốc nghi ngờ phải ngừng; (hình 1 chú thích 4): hỏi mỗi sẩn tồn tại bao lâu."
+    },
+    {
+     "t": "Ngưng ibuprofen và các NSAID; hạ sốt bằng paracetamol 10–15 mg/kg/lần cách mỗi 6 giờ khi sốt ≥ 38,5 °C",
+     "v": "c",
+     "n": "TL-0405 (mục 5.2.1): NSAID gây và làm nặng thêm mày đay; QĐ 75/2015 (mục 2a). Paracetamol: QĐ 3312/2015 (TL-0037), Viêm phổi do vi khuẩn ở trẻ em mục 2.2: 10–15 mg/kg/lần cách 6 giờ khi ≥ 38,5 °C. An toàn riêng của paracetamol trong mày đay: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng kháng histamin lên 2 liều tiêu chuẩn: cetirizin 5 mg × 2 lần/ngày (sáng, tối) trong 10 ngày, dùng đều hằng ngày",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): thể nặng ≥ 50 sẩn phù/24 giờ dùng 2–4 liều tiêu chuẩn trong 10 ngày; liều tiêu chuẩn trẻ 2–5 tuổi 2,5–5 ml cetirizin 5 mg/5 ml/ngày (QĐ 3942/2014, Bảng 3). Liều tối đa ở trẻ < 6 tuổi: không có trong tài liệu đã tải; 10 mg/ngày gấp 2 mức đầu trên, theo dõi buồn ngủ."
+    },
+    {
+     "t": "Corticoid uống ngắn: methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày, hoặc 1 mg/kg/ngày × 5–7 ngày; hoặc không dùng, chỉ tăng kháng histamin và tái khám sớm",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): thể nặng thêm corticoid, trẻ ≤ 12 tuổi methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày; QĐ 3942/2014 (mục 4.2d): 1 mg/kg/ngày × 5–7 ngày; TL-0405 (mục 5.4): chỉ cân nhắc. Hai cách đều đúng; ở bé đái tháo đường chọn mức thận trọng 0,5 mg/kg (ADA 2026 chương 16)."
+    },
+    {
+     "t": "Giữ nguyên insulin, không bỏ mũi khi bé ăn ít; đo đường huyết thường xuyên, đo ceton khi sốt, nôn hoặc đường huyết > 11,1 mmol/L; gọi đội nhi nội tiết hôm nay, nhất là nếu dùng corticoid",
+     "v": "c",
+     "n": "ADA 2026 (khuyến cáo 6.21, 6.22): không ngưng insulin nền kể cả khi không ăn, đo ceton khi bệnh; ISPAD 2022: nhiễm trùng gây thiếu insulin tương đối. Liều insulin khi ốm ở trẻ nhỏ, tần suất đo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay: sưng môi, mắt, lưỡi; đau bụng; nôn; khó thở, thở rít; lả, ngủ li bì, thở sâu nhanh; hẹn tái khám sau 48 giờ",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1, 3.2.1): phù mạch gây khó thở cần cấp cứu, phù lưỡi hoặc đau bụng nhập viện; TT 51/2017 (Phụ lục I): khó thở, đau bụng, nôn gợi ý phản vệ; ISPAD 2022: nôn, mất nước, thở sâu là dấu hiệu DKA."
+    },
+    {
+     "t": "Viết lại giấy xác nhận khám bệnh trung thực, nghỉ học đến khi đỡ",
+     "v": "a",
+     "n": "Quy định cấp giấy, số ngày nghỉ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục ibuprofen để hạ sốt",
+     "v": "w",
+     "n": "TL-0405 (mục 5.2.1): NSAID gây và làm nặng thêm mày đay; mẩn dày hơn sau ibuprofen."
+    },
+    {
+     "t": "Thêm kháng histamin thế hệ 1 (clorpheniramin, promethazin) 'cho ngủ, bớt ngứa'",
+     "v": "w",
+     "n": "TL-0405 (mục 5.5.1): thế hệ 1 kém an toàn, không khuyến cáo bậc đầu ở trẻ em; QĐ 4416 (mục 3.2.2): phối hợp hai kháng histamin H1 không có lợi hơn."
+    },
+    {
+     "t": "Tiêm adrenalin bắp khi không có hô hấp, tuần hoàn, tiêu hóa",
+     "v": "w",
+     "n": "TT 51/2017 (Phụ lục III mục I.3): adrenalin cho phản vệ từ độ II; QĐ 75/2015 (mục 4b) chỉ khi phù mạch cấp tính, bé chưa có."
+    },
+    {
+     "t": "Nhập viện ngay khi chưa có phù lưỡi hoặc đau bụng",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ nhập viện khi phù lưỡi hoặc đau bụng; thể nặng điều trị ngoại trú bằng kháng histamin tăng liều."
+    },
+    {
+     "t": "Ngưng hoặc giảm insulin vì bé ăn ít hoặc đang dùng corticoid",
+     "v": "h",
+     "n": "ADA 2026 (khuyến cáo 6.22): không ngưng insulin nền khi ăn ít; ISPAD 2022: bỏ hoặc giảm mạnh insulin khi bệnh kèm nhiễm trùng dẫn tới DKA."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp tự phát mức nặng (ngày thứ 8, dưới 6 tuần): khoảng 60–70 sẩn phù/24 giờ, mỗi sẩn mất trong vài giờ, chưa phù mạch",
+     "Nguyên nhân 'không đỡ': kháng histamin dùng không đều (chỉ 1/4 số tối uống đủ), ibuprofen làm nặng thêm, nhiễm virus hô hấp đợt hai",
+     "Chưa có dấu hiệu phản vệ, viêm mạch mày đay, Kawasaki",
+     "Đái tháo đường típ 1 khi đang bệnh: đường huyết 11,6 mmol/L, ceton niệu âm tính, chưa nhiễm toan ceton",
+     "Lý do thật vẫn còn: mẹ cần giấy cho trường và công ty, lo bị trừ lương"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý khi 'không đỡ': hỏi rõ tuân thủ và liều thực tế → thuốc nào đã cho thêm (kể cả hạ sốt) → yếu tố mới (sốt, ho) → đếm lại sẩn phù/24 giờ (QĐ 4416 mục 3.2.1), thời gian mỗi sẩn, phù mạch, bầm tím, đau khớp → khám da, mặt – họng, phổi, bụng → đường huyết, ceton → rồi mới kết luận đổi chẩn đoán hay chỉ chỉnh thuốc.",
+     "Chẩn đoán vẫn là mày đay cấp: sẩn phù < 24 giờ không để lại thâm (QĐ 4416 mục 2.1), ngày thứ 8 (mục 2.4.1); mức nặng vì ≥ 50 sẩn phù/24 giờ (mục 3.2.1).",
+     "Ba nguyên nhân 'không đỡ': (1) uống không đều: kháng histamin chỉ hiệu quả khi dùng hằng ngày (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); (2) ibuprofen làm nặng thêm (TL-0405 mục 5.2.1); (3) nhiễm virus đợt hai (TL-0405 mục 4.2.2). Chẩn đoán không sai nên chỉnh thuốc, không đổi hướng.",
+     "Đái tháo đường khi ốm: đường huyết 11,6 > 11,1 mmol/L nên đo ceton (ADA 2026 khuyến cáo 6.22); ceton âm tính, thở êm, không nôn nên chưa phải DKA (ISPAD 2022 Executive Summary), vẫn phải dặn theo dõi vì nhiễm trùng gây thiếu insulin tương đối."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: ngoại trú, tăng liều thuốc, tái khám 48 giờ (ve_hen). Chưa phù lưỡi, đau bụng nên chưa nhập viện (QĐ 4416 mục 3.2.1); không phải phản vệ nên không adrenalin (TT 51/2017 Phụ lục III mục I.3).",
+     "Thể nặng: kháng histamin 2–4 liều tiêu chuẩn trong 10 ngày (QĐ 4416 mục 3.2.1); liều tiêu chuẩn trẻ 2–5 tuổi 2,5–5 ml cetirizin/ngày (QĐ 3942 Bảng 3) nên 2 liều là 5 mg × 2 lần/ngày. Liều tối đa cho trẻ < 6 tuổi: không có trong tài liệu đã tải.",
+     "Corticoid: QĐ 4416 (mục 3.2.1) methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày cho thể nặng ở trẻ ≤ 12 tuổi; QĐ 3942 (mục 4.2d) 1 mg/kg/ngày × 5–7 ngày; TL-0405 (mục 5.4) chỉ 'cân nhắc', liều không dành cho trẻ. Ghi cả hai: dùng đợt ngắn hoặc chỉ tăng kháng histamin. Ở bé đái tháo đường corticoid gây tăng đường huyết (ADA 2026 chương 16) nên nếu dùng thì chọn mức thận trọng 0,5 mg/kg và báo đội nhi nội tiết."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cetirizin siro",
+      "ham_luong": "5 mg/5 ml",
+      "lieu": "5 ml (5 mg)",
+      "duong": "Uống",
+      "thoi_diem": "2 lần/ngày, sáng và tối, đều mỗi ngày",
+      "so_ngay": "10 ngày, tái khám sau 48 giờ",
+      "ghi_chu": "QĐ 4416 (Bệnh mày đay mục 3.2.1): thể nặng 2–4 liều tiêu chuẩn trong 10 ngày; QĐ 3942/2014 (Bảng 3): liều tiêu chuẩn trẻ 2–5 tuổi 2,5–5 ml/ngày. 2 liều = 10 mg/ngày. Liều tối đa ở trẻ < 6 tuổi: không có trong tài liệu đã tải; theo dõi buồn ngủ. Thay cetirizin 1 lần/ngày cũ; không thêm kháng histamin khác (QĐ 4416 mục 3.2.2)."
+     },
+     {
+      "thuoc": "Methylprednisolon (phương án có dùng corticoid)",
+      "ham_luong": "4 mg/viên",
+      "lieu": "2 viên (8 mg ≈ 0,5 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "1 lần buổi sáng sau ăn",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1): trẻ ≤ 12 tuổi 0,5–1 mg/kg/ngày × 5 ngày; QĐ 3942/2014 (mục 4.2d): 1 mg/kg/ngày (17 mg) × 5–7 ngày, cao hơn; chọn 0,5 mg/kg vì bé đái tháo đường, đang sốt. Viên 4 mg: QĐ 3942 mục 4.2d. Phương án không dùng corticoid vẫn đúng (TL-0405 mục 5.4 chỉ 'cân nhắc'). Chỉnh insulin khi dùng corticoid ở trẻ: không có trong tài liệu đã tải; báo đội nhi nội tiết."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Theo siro bé có",
+      "lieu": "10–15 mg/kg/lần (170–255 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần, vài ngày",
+      "ghi_chu": "QĐ 3312/2015 (TL-0037), Viêm phổi do vi khuẩn ở trẻ em mục 2.2: 10–15 mg/kg/lần cách 6 giờ khi ≥ 38,5 °C. Hàm lượng siro cụ thể: không có trong tài liệu đã tải. Thay ibuprofen."
+     },
+     {
+      "thuoc": "Insulin glargine và insulin aspart (bé đang dùng)",
+      "ham_luong": "Bút tiêm của bé",
+      "lieu": "Giữ nguyên như đội nhi nội tiết đã dặn",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Glargine buổi tối; aspart trước ăn",
+      "so_ngay": "Tiếp tục; đo đường huyết, ceton khi ốm",
+      "ghi_chu": "Đang dùng, giữ nguyên. ADA 2026 (khuyến cáo 6.22): không ngưng insulin nền khi ăn ít; ISPAD 2022: bỏ mũi insulin khi bệnh dẫn tới DKA. Liều insulin khi ốm ở trẻ: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Thuốc dị ứng chỉ có tác dụng khi uống đều sáng và tối, không uống theo cơn ngứa; dùng muỗng đong, nếu bé nôn thuốc thì báo bác sĩ (QĐ 4416 mục 3.2.2, 4).",
+     "Tuyệt đối không cho ibuprofen, aspirin hay thuốc kháng viêm giảm đau khác; hạ sốt bằng paracetamol khi sốt từ 38,5 °C (TL-0405 mục 5.2.1).",
+     "Vẫn tiêm insulin như cũ, không bỏ mũi vì bé ăn ít; đo đường huyết nhiều lần, đo ceton nếu có que khi sốt, nôn hoặc đường huyết trên 11,1 mmol/L; gọi đội nhi nội tiết hôm nay (ADA 2026 khuyến cáo 6.22).",
+     "Đi cấp cứu ngay nếu sưng môi, mắt, lưỡi, đau bụng, nôn, khó thở, thở rít, lả hoặc ngủ li bì, thở sâu nhanh (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I; ISPAD 2022).",
+     "Giấy xác nhận lần này ghi đúng chẩn đoán; bé nghỉ học đến khi hết ngứa nhiều và uống thuốc ổn định (số ngày: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà làm đúng: ngưng ibuprofen, cho cetirizin 5 mg × 2 lần/ngày đều, đo đường huyết nhiều lần (11–14 mmol/L khi bé còn sốt, ceton âm tính), báo đội nhi nội tiết. Hai ngày đầu ngứa dịu, mẩn thưa còn khoảng 20 chỗ. Tối ngày thứ 3 sau lượt 2 bé sốt lại 38,4 °C, kêu đau bụng quặn quanh rốn và sưng môi trên; chị nhớ lời dặn đưa ngay đến bệnh viện Nhi, đúng mốc nhập viện của mày đay (đau bụng, phù mạch; QĐ 4416, Bệnh mày đay mục 3.2.1). Bé nằm viện 2 ngày theo dõi phù mạch và đường huyết, không đủ tiêu chuẩn nhiễm toan ceton (ISPAD 2022); chi tiết điều trị tại viện: không có trong tài liệu đã tải. Mẩn hết hẳn khoảng tuần thứ 3, vẫn trong 6 tuần (mục 2.4.1). Quyết định ngoại trú ở lượt 2 vẫn đúng vì lúc đó chưa có đau bụng hay phù lưỡi; diễn tiến xấu là diễn tiến tự nhiên của mày đay nặng, không chứng tỏ quyết định sai (chống thiên lệch kết cục).",
+ "nhieu": [
+  "Kể lể lộn xộn: chị Hà nhảy giữa các ngày, lẫn tôm, máy tính, rượu gừng, đường huyết, chuyện cô giáo; phải ngắt lời nhẹ nhàng, hỏi theo mốc ngày và hỏi riêng mỗi mảng tồn tại bao lâu.",
+  "'Ngồi máy tính lâu' và tôm rim là nhiễu: dễ nghĩ mày đay do áp lực hoặc dị ứng thức ăn; bé nổi cả ngày không ngồi, ăn tôm nhiều lần không sao.",
+  "Bé dùng insulin: dễ đổ cho insulin hoặc quên kiểm tra đường huyết, ceton khi ốm; ngược lại không được ngưng insulin.",
+  "Lý do thật là xin giấy nghỉ ốm cho trường và công ty: mẹ ngại nói, chỉ lộ khi được hỏi mở.",
+  "Lượt 2 'không đỡ': do dùng thuốc không đều, ibuprofen mẹ tự cho, nhiễm virus đợt hai; mẹ chỉ kể khi được hỏi từng thuốc."
+ ],
+ "bai_hoc_bien": [
+  "Mày đay đơn thuần không phải phản vệ, không tiêm adrenalin (TT 51/2017 Phụ lục I, III); chỉ nhập viện khi phù lưỡi hoặc đau bụng (QĐ 4416 mục 3.2.1).",
+  "Trẻ em: kháng histamin thế hệ 2 theo tuổi, dùng đều hằng ngày, không dùng thế hệ 1 bậc đầu (TL-0405 mục 5.5.1; QĐ 3942 Bảng 3).",
+  "'Không đỡ': chạy quy trình thất bại điều trị (tuân thủ, thuốc làm nặng như NSAID, yếu tố mới, xếp lại mức độ) rồi mới tăng liều (QĐ 4416 mục 3.2.1; TL-0405 mục 5.2.1)."
+ ],
+ "diem_nho": [
+  "Mày đay cấp ≤ 6 tuần; mạn: hàng ngày hoặc gần hàng ngày > 6 tuần (QĐ 4416, Bệnh mày đay mục 1.1, 2.4.1).",
+  "Thông thường: kháng histamin liều tiêu chuẩn 10 ngày; nặng (≥ 50 sẩn phù/24 giờ và/hoặc phù mạch): 2–4 liều tiêu chuẩn + corticoid ngắn, trẻ ≤ 12 tuổi methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày (QĐ 4416 mục 3.2.1).",
+  "Nhập viện khi phù mạch ở lưỡi hoặc đau bụng (QĐ 4416 mục 3.2.1); adrenalin tiêm bắp khi phản vệ từ độ II (TT 51/2017 Phụ lục III mục I.3).",
+  "NSAID có thể gây và làm nặng thêm mày đay (TL-0405 mục 5.2.1). Không ngưng insulin nền khi ốm; đo ceton khi bệnh và đường huyết > 11,1 mmol/L (ADA 2026 khuyến cáo 6.22)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Bệnh mày đay mục 1.1, 1.2, 2.1–2.5, 3.2.1, 3.2.2, 4.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015 (TL-0241) – Bệnh mày đay mục 1, 2a, 3a, 3b, 4b.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho tltk-10000-ca) – Các thuốc kháng histamin H1 (mục 2a, 4a, Bảng 3); Mày đay – phù Quincke dị ứng (mục 3c, 4.2b, 4.2d, Bảng 2).",
+  "GA²LEN/EAACI 2026, International guideline urticaria, Allergy 2026;81(8):2582-2632 (TL-0405) – mục 4.1, 4.2, 4.2.2, 5.2.1, 5.4, 5.5.1, Bảng 8, hình 1.",
+  "Bộ Y tế – Thông tư 51/2017/TT-BYT (TL-0014) – Phụ lục I, II, III; WAO 2020 Anaphylaxis Guidance (TL-0025) – Bảng 2.",
+  "Bộ Y tế – QĐ 3312/QĐ-BYT 2015 (TL-0037) – Kawasaki mục 3.1, 3.3; Viêm phổi do vi khuẩn ở trẻ em mục 2.2 (paracetamol).",
+  "ADA Standards of Care in Diabetes 2026 (TL-0296) – chương 6 (khuyến cáo 6.21, 6.22), chương 16 (Glucocorticoid Therapy); ISPAD 2022 DKA (TL-0075) – Executive Summary.",
+  "Không có trong tài liệu đã tải: liều insulin khi trẻ ốm, khi dùng corticoid; liều tối đa cetirizin cho trẻ < 6 tuổi; dị ứng insulin; đường trong siro; quy định giấy nghỉ ốm, số ngày nghỉ học; câu 'mày đay không lây'; mốc tái khám cụ thể; điều trị nội trú phù mạch ở trẻ."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (26/10/2026): trẻ mẫu giáo đái tháo đường típ 1 bị mày đay cấp sau nhiễm virus; 'ngồi máy tính lâu' là nhiễu; lý do thật xin giấy nghỉ ốm; lượt 2 'không đỡ' do dùng thuốc không đều, ibuprofen, nhiễm virus đợt hai (quy trình thất bại điều trị); kết cục đúng quy trình nhưng sau đó phù mạch + đau bụng phải nhập viện.",
+  "Lượt 2 mức nặng chỉ dựa vào đếm ≥ 50 sẩn phù, không đưa phù mạch vào để tránh lệch giữa QĐ 75 mục 4b (adrenalin khi phù mạch cấp) với TT 51 và QĐ 3942 mục 4.2c. Khoa_cls 'không có X-quang': mày đay không cần hình ảnh.",
+  "Tài liệu đã đọc: QĐ 4416/2023 và QĐ 75/2015 (Bệnh mày đay), QĐ 3942/2014 (kháng histamin H1, mày đay – phù Quincke), TL-0405 (mục 4.1, 4.2.2, 5.2.1, 5.4, 5.5.1, Bảng 8), TT 51/2017 (Phụ lục I–III), QĐ 3312/2015, ADA 2026 (6.21–6.22, chương 16), ISPAD 2022."
+ ]
+}
