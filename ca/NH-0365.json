@@ -1,0 +1,746 @@
+{
+ "ma_ca": "NH-0365",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (bác sĩ huyết học đổi enoxaparin tiêm dưới da sang warfarin uống 7 ngày trước khi đến khám; bé bắt đầu quấy khóc ngày thứ hai sau đổi thuốc)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (warfarin uống mỗi tối, do bác sĩ huyết học nhi kê)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (mẹ hiếm muộn 6 năm, bé là con thụ tinh ống nghiệm, còn hai phôi đông lạnh; sợ bệnh huyết khối của bé là di truyền từ mẹ và ảnh hưởng quyết định sinh thêm con)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Khánh An",
+  "tuoi": 0.75,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.4,
+  "chieu_cao": 71,
+  "xung_ho": "Bé 9 tháng, chưa nói, khóc khi bị khám, nín khi được mẹ bế vác vai. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'con' hoặc 'bé An'.",
+  "tinh_cach": "Mẹ 37 tuổi, kế toán trưởng, cẩn thận, nói nhanh và có hệ thống, mang theo cả xấp hồ sơ. Sau ba nơi chưa ai soi tai nên mẹ mệt, giọng hơi cáu, hay thử bác sĩ ('chỗ nào cũng bảo tại thuốc'). Hiếm muộn 6 năm, bé là con duy nhất nên mẹ lo mọi chuyện của bé.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, mở đầu bằng lời trách nhẹ ('đi ba chỗ rồi, chỗ nào cũng làm xét nghiệm mà chưa ai nhìn vô tai con') và canh xem bác sĩ có bắt làm lại xét nghiệm hay không. Nếu bác sĩ xem hồ sơ, công nhận việc mẹ đã làm và soi tai ngay, mẹ dịu lại và kể thêm. Nếu bác sĩ định làm lại mọi thứ hoặc gạt đi, mẹ trả lời cụt, bỏ qua chi tiết quan trọng (gãi tai, thuốc kháng đông) trừ khi được hỏi trực tiếp. Mẹ không tự nói nỗi lo về sinh sản.",
+  "nguoi_nha": "Mẹ bé, chị Hằng, 37 tuổi, đi cùng và bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hằng)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#2b1b14",
+   "kieuToc": "tre",
+   "ao": "#f4b6c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8bf9a",
+    "toc": "#1f1612",
+    "kieuToc": "dai",
+    "ao": "#7e9bb5",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 9 tháng quấy khóc về đêm, bú kém, trớ 5 ngày; đã khám 3 nơi chưa khỏi; mẹ nghĩ do thuốc mới đổi",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT (không chụp được CT sọ não, CT xương thái dương)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 5 của bệnh",
+   "tiep_don": "Bé gái 9 tháng, 8,4 kg, mẹ đưa đến vì quấy khóc về đêm, bú kém, trớ sau bú đã 5 ngày; đã đi khám 3 nơi chưa khỏi. Nhiệt độ 37,8 °C (nách), mạch 136 l/p, nhịp thở 36 l/p, SpO₂ 98%. Bé tỉnh, quấy, nín khi mẹ bế vác vai.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé An tỉnh, bú được dù giảm, thóp phẳng, thở 36 l/p, SpO₂ 98%, 5 tã ướt/ngày: chưa có chỉ định nhập viện. NICE NG91 mục 1.1.14 chỉ chuyển bệnh viện khi nhiễm khuẩn nặng toàn thân hoặc biến chứng; kháng sinh tiêm chỉ khi nôn liên tục hoặc không uống được (AAP 2013 tr. e984). Nằm viện thêm một nơi lạ, thêm lần chích lấy máu cho bé đang dùng warfarin, và niềm tin mẹ vừa lấy lại bị tổn hại.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi chụp CT sọ não hoặc xương thái dương ngay trong ngày vì cơ sở không có CT là quá tay: bé tỉnh, thóp phẳng, thần kinh bình thường, không sưng sau tai, và hình ảnh không cần trừ khi nghi biến chứng (AWaRe 2022 tr. 37–38; WHO 2013 mục 6.3.1). Mẹ đi thêm nơi thứ tư, kháng sinh bị chậm một ngày và bé tiếp xúc tia xạ không cần thiết. Chỉ chuyển khi thóp phồng, co giật, li bì hoặc sưng đỏ sau tai."
+   },
+   "loi_mo": "Bác sĩ ơi, con em quấy khóc, bú kém năm ngày nay, em đi ba chỗ rồi mà chưa chỗ nào khỏi. Chỗ nào cũng làm xét nghiệm, hỏi chuyện thuốc mới đổi, mà chưa ai nhìn vô tai con hết. Đây là xấp kết quả.",
+   "sinh_hieu": {
+    "mach": 136,
+    "ha": "Không đo",
+    "nhiet": "37,8",
+    "nhip_tho": 36,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé quấy khóc về đêm, bú kém, hay trớ sau bú đã 5 ngày; đã đi khám 3 nơi mà chưa khỏi. Mẹ nghĩ do thuốc mới đổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Không sốt cao: đo nách cao nhất 37,9 °C, chưa lần nào từ 38 °C. Chảy mũi trong rồi đục từ 6 ngày trước, ho nhẹ ban ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, chảy mũi, ho"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Hỏi riêng về tai thì mẹ mới nhớ: ba bốn đêm nay bé hay đưa tay gãi, dụi tai phải; nằm nghiêng bên phải thì khóc nhiều hơn, bế vác vai thì nín. Chưa chảy nước hay mủ tai. Mẹ tưởng bé mọc răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai ở trẻ chưa nói"
+    },
+    {
+     "id": "bu_tro",
+     "noi_dung": "Bú mẹ và sữa công thức, ăn bột ngày 2 bữa; bú giảm khoảng một phần ba; trớ 2–3 lần/ngày sau bú, không nôn vọt, không nôn dịch xanh vàng hay máu; phân sệt vàng 1–2 lần/ngày, không tiêu chảy; thay 5 tã ướt mỗi 24 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, nôn trớ, tã ướt (loại trừ mất nước, bụng ngoại khoa)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh, nhận ra mẹ, cười được khi hết đau; không co giật, không li bì, tiếng khóc to như mọi khi; không té ngã, không va đầu; không bầm tím, không chảy máu cam hay lợi, phân không đen, nước tiểu vàng trong.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, chảy máu (bé dùng thuốc kháng đông)"
+    },
+    {
+     "id": "thuoc_kd",
+     "noi_dung": "Sinh non 33 tuần, nằm hồi sức 3 tuần có đặt catheter tĩnh mạch rốn; lúc 2 tháng phát hiện huyết khối tĩnh mạch chủ dưới, bác sĩ huyết học nhi cho tiêm enoxaparin dưới da mỗi ngày. Bảy ngày trước đổi sang uống warfarin 1 mg mỗi tối; chảy mũi bắt đầu ngày sau đó, quấy khóc từ ngày thứ hai nên mẹ và hai nơi đầu đều nghĩ do thuốc mới. Không dùng ibuprofen, aspirin hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc kháng đông, bệnh nền, khởi phát sau đổi thuốc"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Nơi 1 (phòng khám nhi tư, 4 ngày trước): 'đầy hơi, mọc răng', simethicone, men vi sinh; bé giãy khóc nên chưa soi tai. Nơi 2 (phòng khám nhi khác, 3 ngày trước): 'viêm mũi họng, trào ngược', công thức máu và CRP, siro ho thảo dược; chưa soi tai. Nơi 3 (khoa huyết học bệnh viện nhi, 2 ngày trước): INR và siêu âm bụng bình thường, kết luận không do thuốc; chưa soi tai. Không nơi nào cho kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Ba nơi đã khám, thuốc đã dùng (chưa kháng sinh trong 30 ngày)"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Mẹ mang đủ kết quả: công thức máu 3 ngày trước (BC 9,8 G/L, trung tính 38%, Hb 112 g/L, TC 310 G/L), CRP 4 mg/L, INR 2,1 (2 ngày trước), siêu âm bụng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả xét nghiệm đã làm (không lặp lại)"
+    },
+    {
+     "id": "me_met",
+     "noi_dung": "Mẹ nghỉ làm 4 ngày, mất ngủ theo bé, sợ lại bị gạt đi và sợ bị làm xét nghiệm lại từ đầu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mệt mỏi, mất niềm tin sau ba nơi"
+    },
+    {
+     "id": "tiem_bu",
+     "noi_dung": "Tiêm 6 trong 1 đủ 3 mũi; chưa tiêm phế cầu và cúm vì mẹ sợ tiêm bắp khi bé dùng thuốc kháng đông. Bú mẹ 5 tháng đầu, nay thêm sữa công thức bằng bình, có bú bình khi nằm ngửa về đêm. Ba hút thuốc ngoài ban công. Bé không đi nhà trẻ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêm chủng, bú bình, khói thuốc (yếu tố nguy cơ và dự phòng)"
+    },
+    {
+     "id": "sinh_san",
+     "noi_dung": "Mẹ hiếm muộn 6 năm, bé là con duy nhất sau thụ tinh trong ống nghiệm, còn hai phôi đông lạnh. Mẹ sợ huyết khối của bé là bệnh di truyền do mẹ, lo cấy tiếp phôi có sinh ra đứa trẻ như vậy không, và lo bé gái lớn lên cũng khó có con. Mẹ chưa dám hỏi bác sĩ huyết học.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ đang lo điều gì nhất, hỏi về gia đình và chuyện sinh bé, hoặc khi mẹ thấy được lắng nghe và không bị làm lại xét nghiệm.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: lo khả năng sinh sản và di truyền"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, quấy khi bị khám nhưng dỗ được, nhìn theo mẹ, cười thoáng khi được vỗ về. Môi hồng, niêm mạc ẩm, khóc có nước mắt. Da không bầm, không đốm xuất huyết, không máu tụ ở các điểm tiêm cũ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, đập nhẹ, khoảng 1,5 × 1,5 cm. Vùng xương chũm hai bên không sưng, không đỏ, rãnh sau tai nguyên vẹn, vành tai không bị đẩy ra trước; ấn xương chũm bé không khóc thêm. Cổ mềm, gập cổ không kháng cự. Hạch dưới hàm nhỏ, di động.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch nhầy đục hai bên, niêm mạc phù. Họng: đỏ nhẹ, nhầy chảy từ vòm xuống thành sau, không giả mạc. Tai phải: ống tai sạch, không mủ; màng nhĩ đục, phồng rõ ở góc sau trên, đỏ nhạt, mất cán búa và tam giác sáng, không thủng; kéo vành tai hay ấn nắp tai không làm bé khóc thêm. Tai trái: màng nhĩ xám hồng, thấy cán búa và tam giác sáng, không phồng.",
+     "k": 1,
+     "hien": "Mũi có dịch đục, họng đỏ nhẹ không giả mạc. Tai phải: ống tai sạch; màng nhĩ đục, phồng, không thấy cán búa. Tai trái: màng nhĩ thấy rõ cán búa, không phồng. Không chảy mủ tai."
+    },
+    "than_kinh": {
+     "a": "Ngồi được khi có đỡ; mắt nhìn theo, đồng tử đều hai bên, phản xạ ánh sáng tốt. Vận động bốn chi đối xứng, trương lực bình thường, không tư thế ưỡn, không co giật. Tiếng khóc to, không the thé.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,4 kg; chiều dài 71 cm; vòng đầu 44,0 cm (sổ khám 4 tuần trước ghi 43,6 cm). Thóp phẳng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 136 l/p (bé đang quấy), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 136 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 36 l/p. Không co lõm lồng ngực, không rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 36 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau khi ấn, gan lách không to, không khối vùng bẹn bìu.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "Không làm lại. Kết quả mẹ mang (3 ngày trước): BC 9,8 G/L · Neutrophil 38% · Hb 112 g/L · TC 310 G/L",
+     "n": "Không cần lặp lại: kết quả cũ đủ dùng; xét nghiệm không cần trừ khi nghi biến chứng (AWaRe 2022 mục 5, tr. 37–38)."
+    },
+    "crp": {
+     "r": "Không làm lại. Kết quả mẹ mang (3 ngày trước): CRP 4 mg/L",
+     "n": "Không cần lặp lại (như công thức máu)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "INR 2,3",
+     "n": "Chấp nhận, không bắt buộc: kết quả 2 ngày trước 2,1; làm lại trước khi bắt đầu kháng sinh là hợp lý. Mục tiêu INR và lịch kiểm ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: nhĩ đồ dạng B (phẳng). Tai trái: nhĩ đồ dạng A.",
+     "n": "Chấp nhận, không bắt buộc: chẩn đoán dựa vào màng nhĩ (AAP 2013 KAS 1A–1C, tr. e969–e970); nhĩ lượng xác nhận có dịch, nhĩ đồ B hoặc C (QĐ 5643, Viêm tai ứ dịch mục 3.1.2, tr. 25)."
+    },
+    "xq_schuller": {
+     "v": "a",
+     "r": "Thông bào xương chũm hai bên còn nguyên vách, không mờ đục.",
+     "n": "Không chụp thường quy: AWaRe 2022 tr. 37–38; QĐ 5643 Viêm tai giữa cấp mục 4.3.3 (tr. 214) nêu chụp khi dùng kháng sinh: chấp nhận (sổ mâu thuẫn NH-0355 mục 5)."
+    },
+    "ct_nao": {
+     "n": "Cơ sở không có CT. Không có chỉ định: tỉnh, thóp phẳng, thần kinh bình thường (WHO 2013 mục 6.3.1, tr. 167–168). Nếu thóp phồng, co giật, li bì hoặc dấu thần kinh khu trú: chuyển bệnh viện nhi chụp hình ảnh. Tiêu chuẩn xuất huyết nội sọ do thuốc chống đông ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    "cho_dich_nao_tuy": {
+     "n": "Không có chỉ định: tỉnh, thóp phẳng, không cứng cổ, không co giật (WHO 2013 mục 6.3.1). Dấu màng não thường vắng ở nhũ nhi (NICE NG143 mục 1.2.20): dặn quay lại ngay khi có dấu nguy hiểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải (màng nhĩ phồng, đau tai trên 48 giờ, chưa thủng) ở trẻ 9 tháng, thể không điển hình (không sốt, không kéo tai rõ), bé đang dùng warfarin, chưa biến chứng",
+     "ok": 1,
+     "n": "Màng nhĩ phải phồng, đục, mất cán búa và tam giác sáng; dụi tai phải ba bốn đêm (AAP 2013 KAS 1A–1B, tr. e969; QĐ 5643, Viêm tai giữa cấp mục 3.1.1, tr. 211). Ở trẻ chưa nói, quấy khóc, bú kém, trớ là triệu chứng không đặc hiệu và đau tai chỉ có ở 50–60% ca (AAP 2013 tr. e970)."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Không sưng đỏ sau tai, vành tai không bị đẩy ra trước, không sốt cao (WHO 2013 mục 6.7.1, tr. 182; QĐ 5643 Viêm xương chũm cấp mục 3.1.1, tr. 195). Là biến chứng cấp quan trọng nhất nếu điều trị muộn (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214): hẹn tái khám, dặn dấu sưng sau tai."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Bé quấy khóc, nôn trớ, bú kém là các biểu hiện phải nghĩ tới (WHO 2013 mục 6.3.1, tr. 167); nhưng tỉnh, thóp phẳng, không cứng cổ, không co giật, tiếng khóc to. Dấu kinh điển thường vắng ở nhũ nhi (NICE NG143 mục 1.2.20) nên không được đánh giá một lần rồi bỏ: dặn quay lại ngay khi có dấu nguy hiểm."
+    },
+    {
+     "t": "Chảy máu nội sọ hoặc chảy máu do thuốc kháng đông (quấy khóc, nôn, bú kém ngay sau đổi sang warfarin)",
+     "n": "Loại trừ trên lâm sàng: thóp phẳng, vòng đầu tăng 0,4 cm trong 4 tuần, thần kinh bình thường, không bầm tím hay chảy máu, không té ngã, INR 2,3. Cơ sở không có CT. Tiêu chuẩn chẩn đoán xuất huyết nội sọ do thuốc chống đông ở trẻ nhỏ và ngưỡng chuyển chụp hình ảnh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rối loạn tiêu hóa, trào ngược, mọc răng (chẩn đoán của hai nơi khám đầu)",
+     "n": "Bụng mềm, không chướng, phân bình thường; tai phải phồng đã đủ giải thích quấy đêm và bú kém, mọc răng không giải thích được màng nhĩ phồng."
+    },
+    {
+     "t": "Viêm tai ngoài",
+     "n": "Ống tai sạch, kéo vành tai không đau thêm, thấy được màng nhĩ (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212; AAP 2013 KAS 1A)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh uống ngay, amoxicillin 80–90 mg/kg/ngày. Bé 8,4 kg: 375 mg × 2 lần/ngày (≈ 89 mg/kg/ngày; AAP 2013, AWaRe 2022) hoặc 250 mg × 3 lần/ngày (≈ 89 mg/kg/ngày; Italian 2025), trong 10 ngày (AAP 2013) hoặc 7–10 ngày (Italian 2025)",
+     "v": "c",
+     "n": "AAP 2013 KAS 3A (đau tai từ 48 giờ: kháng sinh, mạnh; tr. e965), Table 4 (tr. e976), KAS 4A và Table 5 (tr. e983; chưa dùng amoxicillin trong 30 ngày), 10 ngày dưới 2 tuổi (tr. e985); Italian 2025 khuyến cáo 3.1–3.3, 4.1; AWaRe 2022 tr. 39 (6–<10 kg: 375 mg mỗi 12 giờ). Không chọn chỉ theo dõi vì bé có bệnh nền dùng thuốc kháng đông, ngoài nhóm trẻ khỏe mạnh của AAP 2013 (tr. e966) và Italian 2025 (khuyến cáo 1.5). Sổ mâu thuẫn: 'Từ ca NH-0355' mục 2, 3 và mục NH-0365. Nồng độ chế phẩm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau bằng paracetamol 100 mg/lần (≈ 12 mg/kg), cách ít nhất 6 giờ, tối đa 4 lần/24 giờ; KHÔNG dùng ibuprofen hay aspirin vì bé đang dùng warfarin",
+     "v": "c",
+     "n": "AAP 2013 KAS 2 (mạnh), Table 3 (tr. e973); AWaRe 2022 tr. 39 (paracetamol 10–15 mg/kg mỗi 6 giờ, 6–<10 kg: 100 mg). NSAID kèm thuốc chống đông làm tăng nguy cơ chảy máu, nên tránh nếu có thể (ESC 2019 thuyên tắc phổi mục 8.2, tr. 576; QĐ 361/2014 Phụ lục NSAID mục 3.2–3.3, tr. 197–198): hai nguồn viết cho người lớn, áp dụng cho trẻ nhỏ là ngoại suy; nguồn riêng cho trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo bác sĩ huyết học đang kê warfarin biết bé bắt đầu kháng sinh; không tự đổi hay ngưng warfarin; kiểm INR theo hướng dẫn của bác sĩ huyết học",
+     "v": "c",
+     "n": "Quyết định thuộc bác sĩ kê đơn. Tương tác amoxicillin–warfarin, mục tiêu và lịch kiểm INR ở trẻ nhỏ: không có trong tài liệu đã tải. Lời dặn an toàn chung."
+    },
+    {
+     "t": "Dùng lại kết quả mẹ mang (công thức máu, CRP, INR, siêu âm bụng), không làm lại xét nghiệm, không chụp hình ảnh; soi tai ngay trong buổi khám",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 37–38: xét nghiệm, hình ảnh không cần trừ khi nghi biến chứng, soi tai là chẩn đoán xác định (tr. 37; AAP 2013 KAS 1A–1C). Thóp phẳng, tỉnh, thần kinh bình thường: chưa có chỉ định hình ảnh (WHO 2013 mục 6.3.1)."
+    },
+    {
+     "t": "Giải thích với mẹ vì sao ba nơi bỏ sót (bé khóc, không sốt, không kéo tai rõ nên dễ nhầm mọc răng, tiêu hóa, tác dụng thuốc) và ghi nhận mẹ đã làm đúng khi đưa bé đi khám",
+     "v": "c",
+     "n": "AAP 2013 tr. e970: ở trẻ chưa nói, khóc nhiều, thay đổi giấc ngủ, dụi tai là triệu chứng không đặc hiệu; đau tai chỉ có ở 50–60% ca. Tái lập niềm tin là mục tiêu dạy của ca (sổ cái)."
+    },
+    {
+     "t": "Hỏi mẹ đang lo điều gì nhất; ghi nhận nỗi lo về di truyền huyết khối và khả năng sinh con; không khẳng định ngoài tài liệu, khuyên đặt hẹn bác sĩ huyết học hoặc tư vấn di truyền",
+     "v": "c",
+     "n": "Nguyên nhân huyết khối ở trẻ, nguy cơ di truyền, liên quan khả năng sinh con của mẹ: không có trong tài liệu đã tải. Nằm ngoài đáp án chuyên môn nhưng là lý do thật mẹ đến."
+    },
+    {
+     "t": "Vệ sinh mũi bằng nước muối sinh lý, hút mũi trước cữ bú; không dùng thuốc co mạch, kháng histamin, thuốc nhỏ mũi có hoạt chất",
+     "v": "c",
+     "n": "QĐ 5643 Viêm tai ứ dịch mục 4.3 (tr. 27), Viêm tai giữa cấp mục 4.2 (tr. 213); NICE NG91 mục 1.1.6 (thuốc thông mũi, kháng histamin không giúp ích); WHO 2013 mục 4.4 (tr. 90–91)."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ nếu chưa đỡ và khám lại khi đủ 10 ngày thuốc; đến ngay nếu sưng đỏ sau tai, vành tai lệch, thóp phồng, co giật, li bì, nôn liên tục hoặc không bú, sốt từ 39 °C, chảy mủ tai, chảy máu hoặc bầm tím bất thường",
+     "v": "c",
+     "n": "AAP 2013 KAS 4C (tr. e965), NICE NG91 mục 1.1.12; WHO 2013 mục 6.7.2 (tr. 184: quay lại sau 5 ngày), 6.7.1 (tr. 182), 6.3.1 (tr. 167); QĐ 5643 Viêm xương chũm mục 3.1.1 (tr. 195); sốt ≥ 39 °C là nặng (AAP 2013 tr. e966). Hẹn khám ngày thứ 10 là lịch riêng của ca; dặn chảy máu, bầm tím ở bé dùng thuốc kháng đông: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh ngay: chỉ giảm đau và đơn kháng sinh dự phòng dùng sau 2–3 ngày nếu không đỡ",
+     "v": "a",
+     "n": "NICE NG91 mục 1.1.8–1.1.10 (tr. 6–7); AAP 2013 KAS 3C, Table 4 (tr. e976) và Italian 2025 khuyến cáo 1.3 cho trẻ 6–23 tháng một tai nhẹ. Chấp nhận, không phải đáp án chính: đau tai trên 48 giờ xếp 'nặng' (AAP 2013 KAS 3A), bé có bệnh nền (Italian 2025 khuyến cáo 1.5)."
+    },
+    {
+     "t": "Amoxicillin–clavulanate ngay thay cho amoxicillin",
+     "v": "a",
+     "n": "AAP 2013 Table 5 (tr. e983) liệt kê là lựa chọn đầu tay thay thế; KAS 4B chỉ bắt buộc khi đã dùng amoxicillin trong 30 ngày. Italian 2025 khuyến cáo 3.1: amoxicillin trước; tiêu chảy hay gặp hơn (AAP 2013 tr. e977)."
+    },
+    {
+     "t": "Chích rạch màng nhĩ hoặc chuyển tai mũi họng ngay trong ngày",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.1 (tr. 213): chích rạch khi trẻ nhỏ sốt, nôn, tiêu chảy hoặc màng nhĩ căng phồng; AAP 2013 Table 3 (tr. e973), Table 5 chú thích b (tr. e983): cần kỹ năng, dành cho thất bại. Nguy cơ chảy máu ở bé dùng warfarin: không có trong tài liệu đã tải. Chấp nhận (sổ mâu thuẫn NH-0355 mục 4)."
+    },
+    {
+     "t": "Cho ibuprofen (hoặc aspirin) giảm đau như mọi trẻ viêm tai",
+     "v": "w",
+     "n": "AWaRe 2022 tr. 39 có ibuprofen 50 mg mỗi 8 giờ cho trẻ 6–<10 kg, nhưng trẻ không dùng thuốc chống đông; NSAID kèm thuốc chống đông tăng nguy cơ chảy máu (ESC 2019 mục 8.2, tr. 576; QĐ 361/2014 Phụ lục NSAID mục 3.3, tr. 198). Paracetamol đủ giảm đau (AAP 2013 Table 3)."
+    },
+    {
+     "t": "Tự ngưng hoặc giảm liều warfarin vài ngày 'cho khỏi tương tác kháng sinh'",
+     "v": "w",
+     "n": "Thay đổi thuốc kháng đông thuộc bác sĩ huyết học; hướng dẫn chỉnh warfarin ở trẻ nhỏ: không có trong tài liệu đã tải. Thuốc dùng để dự phòng huyết khối của bé (dữ kiện ca)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải (màng nhĩ phồng, đau tai trên 48 giờ, chưa thủng), thể không điển hình: không sốt, không kéo tai rõ, biểu hiện bằng quấy khóc, bú kém, trớ",
+     "Bệnh cảnh thúc đẩy: viêm mũi họng cấp (chảy mũi đục 6 ngày)",
+     "Chưa biến chứng: không dấu viêm xương chũm, không dấu màng não, không dấu hiệu nguy hiểm toàn thân, không mất nước",
+     "Bệnh nền: huyết khối tĩnh mạch chủ dưới đang dùng warfarin (mới đổi từ enoxaparin 7 ngày trước), INR 2,1 hai ngày trước và 2,3 hôm nay, không dấu chảy máu",
+     "Chưa dùng kháng sinh nào trong 30 ngày; ba nơi khám trước chưa soi tai",
+     "Nỗi lo của mẹ về di truyền huyết khối và khả năng sinh con"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: xem xấp hồ sơ của mẹ, công nhận ba lần khám trước (tái lập niềm tin, không lặp xét nghiệm) → hỏi riêng về tai, sốt, bú, trớ, dấu nguy hiểm, thuốc kháng đông, lần đổi thuốc, thuốc đã dùng → khám tai ngay (bế trong lòng mẹ, cố định đầu), thóp, xương chũm, thần kinh, vòng đầu → CLS chỉ khi đổi quyết định → chẩn đoán → xử trí.",
+     "Vì sao viêm tai giữa cấp: tai phải màng nhĩ phồng, đục, mất cán búa và tam giác sáng, kèm dụi tai phải về đêm. AAP 2013 KAS 1A–1B (tr. e969): phồng màng nhĩ mức vừa–nặng là đủ chẩn đoán, hoặc phồng nhẹ kèm đau tai dưới 48 giờ; QĐ 5643 (Viêm tai giữa cấp mục 3.1.1, tr. 211): màng nhĩ nề đỏ, mất tam giác sáng, mất cán búa, phồng như mặt kính đồng hồ. Nguyên nhân chính là viêm mũi họng (mục 2, tr. 210), khớp với chảy mũi đục trước đó 2 ngày.",
+     "Vì sao không điển hình mà vẫn nghĩ tới: không sốt, không kéo tai, không chảy mủ, chỉ quấy đêm, bú giảm, trớ. Ở trẻ chưa nói các dấu này không đặc hiệu, đau tai chỉ có ở 50–60% ca (AAP 2013 tr. e970), trong khi AWaRe 2022 (tr. 37) mô tả thể điển hình có đau tai, sốt. Ba nơi bỏ sót vì chưa ai soi tai.",
+     "Vì sao loại viêm xương chũm: không sưng đỏ sau tai, vành tai không bị đẩy ra trước, không sốt cao (WHO 2013 mục 6.7.1, tr. 182; QĐ 5643 Viêm xương chũm cấp mục 3.1.1, tr. 195).",
+     "Vì sao loại viêm màng não: nôn, bú kém, quấy khóc là biểu hiện phải nghĩ tới (WHO 2013 mục 6.3.1, tr. 167), nhưng bé tỉnh, thóp phẳng, không cứng cổ, không co giật, khóc to. Dấu kinh điển thường vắng ở nhũ nhi (NICE NG143 mục 1.2.20, viết cho trẻ có sốt) nên chỉ loại trừ tạm thời, dặn quay lại ngay khi có dấu nguy hiểm. Không có CT và không có chỉ định chụp.",
+     "Vì sao nghĩ tới chảy máu do thuốc kháng đông: quấy, nôn, bú kém ngay sau đổi sang warfarin. Loại trừ trên lâm sàng: thóp phẳng, vòng đầu 44,0 cm (4 tuần trước 43,6 cm), thần kinh bình thường, không bầm tím, không té ngã, INR 2,3. Tiêu chuẩn xuất huyết nội sọ ở trẻ nhỏ và ngưỡng chuyển chụp hình ảnh: không có trong tài liệu đã tải; thóp phồng, co giật, li bì là dấu tăng áp lực nội sọ cần chuyển ngay (WHO 2013 mục 6.3.1, tr. 167–168).",
+     "Vì sao kháng sinh ngay: đau tai từ 48 giờ (dụi tai ba bốn đêm) xếp thể nặng, kháng sinh là khuyến cáo mạnh (AAP 2013 KAS 3A, tr. e965). Theo dõi chờ (AAP 2013 KAS 3C; Italian 2025 khuyến cáo 1.3; NICE NG91 mục 1.1.8) dành cho trẻ khỏe mạnh theo dõi được trong 72 giờ (AAP 2013 tr. e966; Italian 2025 khuyến cáo 1.5), còn bé có bệnh nền dùng thuốc kháng đông. Khác đối tượng và bối cảnh, ghi cả hai ở xu_tri."
+    ],
+    "phan_tich_xu_tri": [
+     "Amoxicillin 80–90 mg/kg/ngày: 8,4 kg ra 672–756 mg/ngày; 375 mg × 2 (AAP 2013 Table 5, tr. e983; AWaRe 2022 tr. 39) hoặc 250 mg × 3 (Italian 2025 khuyến cáo 3.3) đều ≈ 750 mg/ngày. Thời gian: 10 ngày dưới 2 tuổi (AAP 2013 tr. e985) hoặc 7–10 ngày (Italian 2025 khuyến cáo 4.1); 5 ngày (AWaRe 2022), 5–7 ngày (NICE NG91 Table 1, 125 mg × 3 cho 1–11 tháng) hoặc 40 mg/kg × 2 ít nhất 5 ngày (WHO 2013 mục 6.7.2) là các cách thấp hơn, chấp nhận.",
+     "Giảm đau bắt buộc (AAP 2013 KAS 2): paracetamol 100 mg mỗi 6 giờ (AWaRe 2022 tr. 39); tránh ibuprofen, aspirin vì đang dùng warfarin (ESC 2019 mục 8.2; QĐ 361/2014 Phụ lục NSAID mục 3.3; nguồn người lớn, ngoại suy). Không tự đổi warfarin; tương tác và lịch kiểm INR ở trẻ nhỏ không có trong tài liệu đã tải.",
+     "Không lặp xét nghiệm, không chụp hình ảnh (AWaRe 2022 tr. 37–38). Dặn dấu nguy hiểm, hẹn tái khám (AAP 2013 KAS 4C; NICE NG91 mục 1.1.12; WHO 2013 mục 6.7.1–6.7.2). Ghi nhận nỗi lo sinh sản, không trả lời ngoài tài liệu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (gói bột hoặc siro cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có, quy đổi ra mg amoxicillin (nồng độ theo nhãn: không có trong tài liệu đã tải)",
+      "lieu": "Cách 1: 375 mg/lần × 2 lần/ngày (≈ 89 mg/kg/ngày). Cách 2: 250 mg/lần × 3 lần/ngày (≈ 89 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau đều 12 giờ (cách 1) hoặc 8 giờ (cách 2), trong hoặc sau cữ bú",
+      "so_ngay": "10 ngày (AAP 2013) hoặc 7–10 ngày (Italian 2025); 5 ngày (AWaRe) hoặc 5–7 ngày (NICE) chấp nhận",
+      "ghi_chu": "AAP 2013 Table 5 (tr. e983) và tr. e985; Italian 2025 khuyến cáo 3.3, 4.1; AWaRe 2022 tr. 39 (375 mg mỗi 12 giờ); bột pha xong giữ lạnh (AWaRe 2022 tr. 39). Uống đủ ngày dù bé hết quấy."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có (nồng độ theo nhãn: không có trong tài liệu đã tải)",
+      "lieu": "100 mg/lần (≈ 12 mg/kg; cho phép 10–15 mg/kg = 84–126 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi bé đau, quấy khóc, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn đau; tối đa 4 lần/24 giờ",
+      "ghi_chu": "AWaRe 2022 tr. 39 (6–<10 kg: 100 mg mỗi 6 giờ); AAP 2013 Table 3 (tr. e973). Không dùng ibuprofen, aspirin: đang dùng warfarin (ESC 2019 mục 8.2)."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 Viêm tai ứ dịch mục 4.3 (tr. 27); WHO 2013 mục 4.4 (tr. 90). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Warfarin (thuốc đang dùng)",
+      "ham_luong": "Theo đơn của bác sĩ huyết học nhi",
+      "lieu": "Giữ nguyên 1 mg mỗi tối như đang dùng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, đúng giờ như mọi ngày",
+      "so_ngay": "Theo bác sĩ huyết học",
+      "ghi_chu": "Không đổi, không ngưng: đang dùng, do bác sĩ huyết học kê. Tương tác với kháng sinh và lịch kiểm INR ở trẻ nhỏ: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Con bị viêm tai giữa phải: thường gặp sau cảm, không do thuốc mới đổi và không phải lỗi của mẹ; ba nơi chưa thấy vì chưa soi tai, bé không sốt nên khó đoán (AAP 2013 tr. e970).",
+     "Cho uống amoxicillin đúng giờ đủ 10 ngày dù bé hết quấy sớm; pha xong giữ tủ lạnh (AWaRe 2022 tr. 39). Có thể phân lỏng nhẹ vài ngày đầu; đến khám nếu tiêu chảy nhiều hoặc có máu.",
+     "Giảm đau bằng paracetamol 100 mg mỗi lần khi bé đau, quấy, cách ít nhất 6 giờ, không quá 4 lần trong 24 giờ (AWaRe 2022 tr. 39). Không cho ibuprofen, aspirin hay thuốc cảm khác khi chưa hỏi bác sĩ vì bé đang dùng warfarin.",
+     "Vẫn cho uống warfarin đúng liều mỗi tối, không tự ngưng; gọi bác sĩ huyết học báo bé đang dùng kháng sinh và hỏi lịch kiểm INR.",
+     "Nhỏ nước muối sinh lý, hút mũi trước cữ bú; không nhỏ dầu gió, nước lá hay thuốc nhỏ tai vào tai (AAP 2013 Table 3). Không bú bình khi nằm ngửa, giữ đầu bé cao khi bú (AAP 2013 tr. e989).",
+     "Đưa bé đến ngay nếu sưng đỏ hay đau sau tai, vành tai lệch; thóp phồng, co giật, li bì, khóc thét, nôn liên tục hoặc không bú, ít tã ướt; sốt từ 39 °C; chảy mủ tai; bầm tím, chảy máu cam, phân đen (WHO 2013 mục 6.7.1, 6.3.1; QĐ 5643 Viêm xương chũm mục 3.1.1; NICE NG143 mục 1.7.2).",
+     "Tái khám sau 48–72 giờ nếu bé chưa đỡ (AAP 2013 KAS 4C) và khám lại khi đủ 10 ngày thuốc để xem tai.",
+     "Nỗi lo về di truyền huyết khối và sinh thêm con: bác sĩ ghi nhận; tài liệu ở đây chưa có câu trả lời, mẹ hãy hỏi bác sĩ huyết học hoặc tư vấn di truyền."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · đủ 10 ngày thuốc (ngày thứ 15 của bệnh)",
+   "tiep_don": "Tái khám đủ 10 ngày kháng sinh theo hẹn. Bé hết quấy từ ngày thứ 3 của thuốc, bú ngủ bình thường; sáng nay uống liều amoxicillin cuối. Cân nặng 8,7 kg. Sinh hiệu: nhiệt 36,8 °C, mạch 112 l/p, nhịp thở 30 l/p, SpO₂ 99%. Mẹ mang theo kết quả INR trong đợt thuốc.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé lên tai mũi họng bệnh viện nhi để đặt ống thông khí hoặc nạo VA ngay sau đợt viêm tai đầu tiên là quá tay: ống thông khí chỉ được cân nhắc khi tái phát (3 đợt trong 6 tháng hoặc 4 đợt trong 12 tháng; AAP 2013 KAS 5B, tr. e965), còn dịch sau đợt cấp là thường gặp (60–70% sau 2 tuần, AAP 2013 tr. e985), và QĐ 5643 (Viêm tai ứ dịch Hình 1, tr. 26) chỉ nạo VA, đặt thông khí sau mốc 3 tháng ở nhánh điếc theo ngưỡng 20 dB hoặc viêm tai tái phát. Bé đang dùng warfarin nên thủ thuật cần phối hợp bác sĩ huyết học; tài liệu đã tải không có hướng dẫn. Mẹ thêm một nơi khám, thêm xét nghiệm lặp, niềm tin vừa lấy lại bị tổn hại.",
+    "theo_doi": "Giữ bé uống thêm kháng sinh vì tai phải 'còn đục' là sai: dịch sau màng nhĩ còn nhiều tuần đến vài tháng sau khi đã khỏi và không phải tiêu chí thất bại (AAP 2013 tr. e979, e985); dịch không triệu chứng chỉ cần theo dõi thưa, không cần kháng sinh (AAP 2013 tr. e985). Bé thêm nguy cơ tiêu chảy (AAP 2013 tr. e977; NICE NG91 mục 1.1.8) và thêm một đợt thuốc khi đang dùng warfarin mà không thêm lợi ích."
+   },
+   "loi_mo": "Bác sĩ ơi, con hết quấy rồi, ăn ngủ ngon lắm, hôm nay hết thuốc rồi. Em muốn hỏi coi có cần làm thêm xét nghiệm hay chụp gì cho chắc không, hay còn phải uống thuốc nữa không?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 30,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đã uống đủ 10 ngày amoxicillin, sáng nay là liều cuối. Bé hết quấy từ ngày thứ 3 của thuốc, bú lại bình thường, ngủ suốt đêm, không còn gãi tai; không sốt, không trớ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, đáp ứng điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ cho uống đúng giờ 2 lần/ngày, không bỏ liều. Ba ngày đầu phân sệt hơi lỏng 3 lần/ngày, từ ngày thứ 4 phân bình thường, không hăm. Vẫn uống warfarin 1 mg mỗi tối; không dùng ibuprofen hay thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tác dụng phụ kháng sinh, thuốc kháng đông"
+    },
+    {
+     "id": "inr",
+     "noi_dung": "Khoa huyết học kiểm INR ngày thứ 5 của đợt kháng sinh: 2,2, giữ nguyên liều warfarin. Bác sĩ huyết học dặn kiểm lại sau khi hết kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "INR trong đợt kháng sinh, lịch kiểm lại"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Bé quay đầu khi mẹ gọi và khi nghe lục lạc ở hai bên, bập bẹ như trước. Không dụi tai, không chảy mủ tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghe, phản ứng âm thanh, chảy mủ tai"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không co giật, không li bì, không bầm tím, không chảy máu cam hay lợi, phân không đen.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dấu hiệu nguy hiểm, chảy máu"
+    },
+    {
+     "id": "me_nhe",
+     "noi_dung": "Mẹ dịu hẳn so với lần trước: 'Lần trước bác sĩ coi hồ sơ rồi soi tai liền, em mới tin.' Mẹ hỏi có cần làm thêm xét nghiệm hay chụp gì cho chắc không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Niềm tin được lấy lại, nỗi sợ làm sót"
+    },
+    {
+     "id": "sinh_san",
+     "noi_dung": "Mẹ đã đặt hẹn khoa huyết học tuần sau để hỏi về nguyên nhân huyết khối và chuyện cấy hai phôi còn lại; vẫn lo bệnh của con là do mình và lo bé gái lớn lên khó có con. Mẹ hỏi nhỏ xem tai của con và đợt kháng sinh có ảnh hưởng gì sau này không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ hỏi mẹ còn lo điều gì hoặc hỏi về buổi hẹn huyết học.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: lo khả năng sinh sản và di truyền"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, chơi, cười, theo dõi người lạ. Môi hồng, niêm mạc ẩm. Da không bầm, không đốm xuất huyết. Hăm tã không có.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Vùng xương chũm hai bên không sưng, không đỏ, vành tai không lệch. Cổ mềm. Không hạch sau tai.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, niêm mạc hồng nhạt. Họng không đỏ. Tai phải: ống tai sạch; màng nhĩ hết phồng, hết đỏ, còn hơi đục màu hổ phách nhạt, thấy lại cán búa, tam giác sáng mờ, vài bóng khí sau màng nhĩ. Tai trái: màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Mũi sạch, họng không đỏ. Tai phải: ống tai sạch; màng nhĩ không phồng, không đỏ, hơi đục, thấy cán búa. Tai trái: màng nhĩ bình thường."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,7 kg (tăng 300 g so với lượt 1); vòng đầu 44,3 cm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 30 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 30 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: nhĩ đồ dạng B (phẳng). Tai trái: nhĩ đồ dạng A.",
+     "n": "Chấp nhận, không bắt buộc: dịch tai giữa còn ở 60–70% trẻ sau 2 tuần và 10–25% sau 3 tháng (AAP 2013 tr. e985); nhĩ đồ B không phải thất bại điều trị (AAP 2013 tr. e979) và không đổi xử trí. Mốc đo nhĩ lượng có ý nghĩa là sau 3 tháng (QĐ 5643, Viêm tai ứ dịch mục 1, tr. 24; Hình 1, tr. 26)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "INR 2,3",
+     "n": "Chấp nhận, không bắt buộc: bé vừa ngưng kháng sinh và bác sĩ huyết học đã dặn kiểm lại. Thời điểm và mục tiêu INR ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "r": "BC 8,9 G/L · Neutrophil 33% · Hb 114 g/L · TC 295 G/L",
+     "n": "Không cần: bé hết triệu chứng, không có dấu nhiễm khuẩn; xét nghiệm không cần trừ khi nghi biến chứng (AWaRe 2022 tr. 37–38)."
+    },
+    "crp": {
+     "r": "2 mg/L",
+     "n": "Không cần (như công thức máu)."
+    },
+    "xq_schuller": {
+     "r": "Thông bào xương chũm hai bên trong, vách còn nguyên.",
+     "n": "Không cần: không dấu xương chũm, bé khỏi lâm sàng (AWaRe 2022 tr. 37–38). Chụp kiểm tra thường quy theo QĐ 5643 (Viêm tai giữa cấp mục 4.3.3) chỉ có ý nghĩa khi đang dùng kháng sinh."
+    },
+    "oae_abr": {
+     "n": "Chưa cần lúc này: bé quay đầu theo âm thanh. Đo nhĩ lượng và thính lực khi dịch kéo dài tới mốc 3 tháng (QĐ 5643, Viêm tai ứ dịch Hình 1, tr. 26; mục 3.1.2, tr. 25)."
+    },
+    "ct_xuong_thai_duong": {
+     "n": "Cơ sở không có CT. Không có chỉ định: bé khỏi lâm sàng, không dấu biến chứng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải đã khỏi lâm sàng sau 10 ngày amoxicillin; còn dịch tai giữa phải không triệu chứng (viêm tai ứ dịch giai đoạn cấp, dưới 3 tuần); không biến chứng",
+     "ok": 1,
+     "n": "Hết quấy, bú ngủ bình thường, màng nhĩ hết phồng và hết đỏ (AAP 2013 tr. e984, e979); dịch còn lại thường gặp và không phải tiêu chí thất bại (AAP 2013 tr. e979, e985). QĐ 5643 Viêm tai ứ dịch mục 1 (tr. 24): thể cấp trong 3 tuần."
+    },
+    {
+     "t": "Thất bại điều trị hoặc viêm tai giữa tái phát",
+     "n": "Không: đáp ứng sau 3 ngày, hết triệu chứng, màng nhĩ hết phồng. Tái phát là 3 đợt trong 6 tháng hoặc 4 đợt trong 12 tháng (AAP 2013 tr. e966); bé mới đợt đầu."
+    },
+    {
+     "t": "Viêm xương chũm tiềm ẩn",
+     "n": "Không sưng đỏ sau tai, vành tai không lệch, không sốt, không đau (QĐ 5643 Viêm xương chũm cấp mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1)."
+    },
+    {
+     "t": "Tác dụng phụ kháng sinh (tiêu chảy, hăm) hoặc biến cố do thuốc kháng đông",
+     "n": "Phân lỏng 3 ngày đầu rồi hết, không hăm; không bầm tím hay chảy máu, INR 2,3. Ngưỡng INR chấp nhận ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tai ứ dịch kéo dài cần phẫu thuật",
+     "n": "Chưa: mới 15 ngày; thể mạn tính khi trên 3 tháng (QĐ 5643 Viêm tai ứ dịch mục 1, tr. 24); phẫu thuật chỉ cân nhắc sau mốc 3 tháng ở nhánh điếc theo ngưỡng 20 dB hoặc viêm tai tái phát (Hình 1, tr. 26)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi: hết quấy, bú ngủ bình thường, không gãi tai, không sốt, màng nhĩ phải hết phồng, hết đỏ; dịch còn lại sau màng nhĩ không tính là thất bại",
+     "v": "c",
+     "n": "AAP 2013 tr. e984 (quấy khóc giảm, giấc ngủ và bú trở lại bình thường), tr. e979 (hết phồng, hết đỏ rực; dịch còn không phải tiêu chí thất bại), tr. e985 (còn dịch ở 60–70% sau 2 tuần, 40% sau 1 tháng, 10–25% sau 3 tháng)."
+    },
+    {
+     "t": "Ngưng amoxicillin sau đủ 10 ngày (liều cuối hôm nay), không kéo dài, không đổi thuốc",
+     "v": "c",
+     "n": "AAP 2013 tr. e985 (10 ngày cho trẻ dưới 2 tuổi); Italian 2025 khuyến cáo 4.1 (7–10 ngày); NICE NG91 mục 1.1.1 (bệnh tự giới hạn). Bé đã hoàn tất đợt thuốc."
+    },
+    {
+     "t": "Không kê thêm kháng sinh hoặc corticoid cho dịch còn lại; không chụp X-quang xương chũm, CT; không làm lại công thức máu, CRP",
+     "v": "c",
+     "n": "AAP 2013 tr. e985: dịch tai giữa không triệu chứng cần theo dõi thưa, không cần kháng sinh; QĐ 5643 Viêm tai ứ dịch Hình 1 (tr. 26): thể cấp dùng kháng sinh 5–10 ngày (bé đã đủ); kháng sinh 2 tuần + corticoid 7 ngày dành cho thể bán cấp, khác AAP (xem sổ mâu thuẫn NH-0365); AWaRe 2022 tr. 37–38: xét nghiệm, hình ảnh không cần."
+    },
+    {
+     "t": "Hẹn kiểm tra tai sau 3 tháng (nhĩ lượng, thính lực nếu còn dịch); đến sớm nếu bé không quay đầu theo tiếng gọi, quấy đêm trở lại, gãi tai, chảy mủ tai",
+     "v": "c",
+     "n": "QĐ 5643 Viêm tai ứ dịch mục 1 (tr. 24: thể mạn tính khi trên 3 tháng), mục 3.1.1–3.1.2 (tr. 25: trẻ nhỏ không quay đầu theo âm thanh; nhĩ lượng, thính lực), Hình 1 (tr. 26: mốc cuối tháng thứ 3); AAP 2013 tr. e985. AAP không quy định lịch cụ thể; mốc 3 tháng theo QĐ 5643."
+    },
+    {
+     "t": "Kiểm lại INR theo lịch bác sĩ huyết học sau khi ngưng kháng sinh; tiếp tục warfarin đúng liều",
+     "v": "c",
+     "n": "Thuộc bác sĩ kê đơn (mẹ cho biết đã được dặn). Lịch kiểm INR ở trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phòng tái phát: tiếp tục bú mẹ, không bú bình khi nằm ngửa, tránh khói thuốc; tiêm phế cầu và cúm theo lịch, hỏi bác sĩ huyết học về cách tiêm khi đang dùng warfarin",
+     "v": "c",
+     "n": "AAP 2013 KAS 6A–6D (tr. e965–e966), tr. e988–e989 (bú bình khi nằm ngửa, khói thuốc). Lịch phế cầu cho bé 9 tháng và cách tiêm ở trẻ dùng thuốc chống đông: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải đáp lo lắng của mẹ thành thật: đợt viêm tai đã khỏi; chuyện di truyền huyết khối và sinh con tài liệu ở đây không có, nhờ bác sĩ huyết học hoặc tư vấn di truyền; mời mẹ mang theo câu hỏi",
+     "v": "c",
+     "n": "Ảnh hưởng của viêm tai giữa hay đợt kháng sinh lên khả năng sinh sản sau này: không có trong tài liệu đã tải; di truyền huyết khối và sinh con: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm nhĩ lượng, đo thính lực ngay hôm nay",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc: dịch còn là bình thường ở thời điểm này (AAP 2013 tr. e985), kết quả không đổi xử trí; mốc có giá trị là sau 3 tháng (QĐ 5643 Hình 1)."
+    },
+    {
+     "t": "Kê thêm đợt kháng sinh hoặc đổi sang amoxicillin–clavulanate vì tai phải 'còn đục'",
+     "v": "w",
+     "n": "Dịch tai giữa không phải tiêu chí thất bại (AAP 2013 tr. e979, e985); thêm tác dụng phụ tiêu chảy, buồn nôn (NICE NG91 mục 1.1.8; AAP 2013 tr. e977) và thêm một đợt thuốc ở bé đang dùng warfarin."
+    },
+    {
+     "t": "Chuyển tai mũi họng để đặt ống thông khí hoặc nạo VA ngay sau đợt đầu tiên",
+     "v": "w",
+     "n": "Ống thông khí chỉ cho viêm tai tái phát (AAP 2013 KAS 5B, tr. e965); QĐ 5643 Viêm tai giữa cấp mục 6 (tr. 214): nạo VA, cắt amidan ở trẻ hay viêm tai tái phát; Viêm tai ứ dịch Hình 1 (tr. 26): sau mốc 3 tháng. Thủ thuật ở bé dùng warfarin: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải đã khỏi lâm sàng sau 10 ngày amoxicillin",
+     "Còn dịch tai giữa phải không triệu chứng (viêm tai ứ dịch giai đoạn cấp, dưới 3 tuần): theo dõi, không điều trị thêm",
+     "Không thất bại điều trị, không tái phát, không viêm xương chũm, không biến chứng",
+     "Bệnh nền: huyết khối đang dùng warfarin, INR 2,3 hôm nay, không chảy máu",
+     "Tác dụng phụ kháng sinh nhẹ (phân lỏng 3 ngày đầu), đã hết"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi đáp ứng sau điều trị, tuân thủ thuốc, tác dụng phụ, INR trong đợt thuốc, thính giác, dấu nguy hiểm → khám tai, xương chũm, thóp, cân nặng → CLS (không cần) → khẳng định khỏi → xử trí kết thúc đợt và lịch theo dõi.",
+     "Tiêu chí xác nhận khỏi: hết quấy, bú ngủ bình thường (AAP 2013 tr. e984), màng nhĩ hết phồng, hết đỏ (AAP 2013 tr. e979). Tai phải hơi đục, vài bóng khí là dịch tai giữa còn lại: gặp ở 60–70% trẻ sau 2 tuần và 10–25% sau 3 tháng (AAP 2013 tr. e985); QĐ 5643 Viêm tai ứ dịch mục 3.1.1 (tr. 25) mô tả hình ảnh này. Không có triệu chứng nên là viêm tai ứ dịch, không phải thất bại.",
+     "Vì sao không cần chụp hay xét nghiệm kiểm tra: không dấu biến chứng; hình ảnh và xét nghiệm không cần trừ khi nghi biến chứng (AWaRe 2022 tr. 37–38). Cơ sở không có CT cũng không ảnh hưởng. Nhĩ lượng bây giờ chỉ cho thấy dịch mà ai cũng đoán trước, nên để dành cho mốc 3 tháng (QĐ 5643 Viêm tai ứ dịch Hình 1, tr. 26).",
+     "Vì sao vẫn cần kiểm tra 'dù đã khỏi': INR sau khi ngưng kháng sinh theo lịch bác sĩ huyết học (không có trong tài liệu đã tải), và khám tai sau 3 tháng vì dịch có thể kéo dài, ảnh hưởng nghe và ngôn ngữ (QĐ 5643 Viêm tai ứ dịch phần mở đầu, mục 3.1.1).",
+     "Điều ca này dạy: mẹ hỏi thêm xét nghiệm 'cho chắc'; trả lời bằng tiêu chí khỏi cụ thể thay vì làm thêm, vẫn dặn dấu hiệu quay lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc đúng đủ 10 ngày, không kéo dài vì còn dịch: AAP 2013 tr. e985, Italian 2025 khuyến cáo 4.1; dịch không phải tiêu chí thất bại (AAP 2013 tr. e979).",
+     "Không thêm kháng sinh, corticoid: AAP 2013 tr. e985; QĐ 5643 Viêm tai ứ dịch Hình 1 chỉ dùng kháng sinh 2 tuần + corticoid 7 ngày ở thể bán cấp (sau 3 tuần). Hai nguồn khác nhau ở thể bán cấp; ca này dừng ở ngày thứ 15 nên cả hai cùng không điều trị thêm.",
+     "Hẹn 3 tháng kiểm tra tai: mốc của QĐ 5643 (thể mạn tính trên 3 tháng, Hình 1); nếu còn dịch thì nhĩ lượng, thính lực; chỉ nhánh điếc theo ngưỡng 20 dB hoặc viêm tai tái phát mới cân nhắc nạo VA, đặt thông khí (Hình 1; bản chữ mất dấu so sánh).",
+     "INR theo bác sĩ huyết học; phòng tái phát theo AAP 2013 KAS 6A–6D; nỗi lo sinh sản: ghi nhận, nhờ bác sĩ huyết học hoặc tư vấn di truyền, không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (đang dùng)",
+      "ham_luong": "Như đã kê ở lượt 1",
+      "lieu": "Uống liều cuối hôm nay, sau đó ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Theo giờ đã dặn",
+      "so_ngay": "Hoàn tất 10 ngày",
+      "ghi_chu": "AAP 2013 tr. e985 (10 ngày cho trẻ dưới 2 tuổi); không kê thêm vì còn dịch tai giữa (AAP 2013 tr. e979, e985)."
+     },
+     {
+      "thuoc": "Warfarin (đang dùng)",
+      "ham_luong": "Theo đơn bác sĩ huyết học nhi",
+      "lieu": "Giữ nguyên 1 mg mỗi tối",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Theo bác sĩ huyết học",
+      "ghi_chu": "Giữ nguyên, đang dùng; kiểm INR sau ngưng kháng sinh theo bác sĩ huyết học (không có trong tài liệu đã tải)."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mũi, hút nhẹ khi nghẹt",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước cữ bú",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 5643 Viêm tai ứ dịch mục 4.3 (tr. 27); WHO 2013 mục 4.4 (tr. 90–91)."
+     }
+    ],
+    "dan_do": [
+     "Tai đã hết viêm; vài tuần nữa màng nhĩ còn đục hay có chút dịch là bình thường sau viêm tai, không cần thêm thuốc (AAP 2013 tr. e985).",
+     "Uống liều amoxicillin cuối hôm nay rồi ngưng; vẫn tiếp tục warfarin đúng liều mỗi tối, không ngưng.",
+     "Đưa bé đi kiểm INR theo lịch của bác sĩ huyết học sau khi hết kháng sinh.",
+     "Không bú bình khi nằm ngửa, duy trì bú mẹ, tránh khói thuốc; hỏi bác sĩ huyết học cách tiêm phế cầu và cúm cho bé đang dùng warfarin rồi đi tiêm theo lịch (AAP 2013 KAS 6A–6D).",
+     "Hẹn khám lại tai sau 3 tháng để đo nhĩ lượng (QĐ 5643 Viêm tai ứ dịch Hình 1); đến sớm nếu bé không quay đầu theo tiếng gọi, quấy đêm trở lại, gãi tai, sốt, chảy mủ tai, sưng sau tai.",
+     "Chuyện di truyền huyết khối và sinh thêm con: mang câu hỏi đến buổi hẹn huyết học tuần sau; ở đây tài liệu không đủ để trả lời."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé uống đủ 10 ngày amoxicillin, hết quấy từ ngày thứ 3, bú ngủ bình thường; ngày thứ 15 màng nhĩ phải hết phồng, còn ít dịch sau màng nhĩ không triệu chứng. Tại buổi hẹn 3 tháng nhĩ đồ hai tai dạng A, bé quay đầu theo âm thanh bình thường, không đợt viêm tai nào khác. INR ổn định theo lịch khoa huyết học. Mẹ đã gặp bác sĩ huyết học và tư vấn di truyền để hỏi nguyên nhân huyết khối và kế hoạch sinh thêm con, bớt lo hơn và tin phòng khám vì được soi tai ngay, không bị làm lại xét nghiệm.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, canh xem có bị làm lại xét nghiệm không. Cách xử lý: xem hồ sơ, công nhận, soi tai ngay, không lặp xét nghiệm.",
+  "Không có CT: không cần ở bé này; thay bằng lâm sàng (thóp, vòng đầu, thần kinh, xương chũm) và ngưỡng chuyển bệnh viện nhi khi thóp phồng, co giật, li bì, sưng sau tai.",
+  "Cờ đỏ: quấy khóc, nôn, bú kém ở bé dùng thuốc kháng đông phải nghĩ tới chảy máu nội sọ và viêm màng não trước khi quy cho tai; đã loại trừ trên lâm sàng.",
+  "Lý do thật: mẹ lo khả năng sinh sản và di truyền; ghi nhận, không trả lời ngoài tài liệu."
+ ],
+ "bai_hoc_bien": [
+  "Viêm tai giữa cấp không điển hình ở nhũ nhi: không sốt, không kéo tai, chỉ quấy đêm, bú kém, trớ. Hỏi riêng về tai và soi tai ở mọi trẻ chưa nói có chảy mũi và quấy khóc (AAP 2013 tr. e970).",
+  "Tái lập niềm tin sau nhiều nơi khám: xem hồ sơ, công nhận, không lặp xét nghiệm vô ích, làm điều chưa ai làm (soi tai).",
+  "Thuốc kháng đông đổi cách xử trí: tránh NSAID, báo bác sĩ kê đơn, không tự đổi thuốc, cân nhắc kỹ thủ thuật. Tương tác và INR ở trẻ nhỏ: không có trong tài liệu đã tải.",
+  "Đỡ hoàn toàn khi tái khám: xác nhận khỏi bằng triệu chứng và màng nhĩ, ngưng thuốc đúng đủ ngày, không chụp hay xét nghiệm khi không có chỉ định; dịch tai giữa còn lại không phải thất bại, hẹn kiểm tra ở mốc 3 tháng.",
+  "Lý do thật của người nhà (lo sinh sản, di truyền) thường nằm ngoài tai: hỏi 'chị đang lo điều gì nhất' và nói rõ khi tài liệu không có câu trả lời."
+ ],
+ "diem_nho": [
+  "Chẩn đoán: màng nhĩ phồng mức vừa–nặng, hoặc phồng nhẹ kèm đau tai dưới 48 giờ hoặc đỏ rực (AAP 2013 KAS 1A–1B, tr. e969); đau tai chỉ có ở 50–60% ca (tr. e970).",
+  "Kháng sinh: đau tai từ 48 giờ hoặc sốt từ 39 °C là nặng (AAP 2013 KAS 3A); amoxicillin 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian 2025 khuyến cáo 3.2); dưới 2 tuổi 10 ngày (AAP 2013 tr. e985).",
+  "Theo dõi chờ chỉ khi trẻ khỏe mạnh theo dõi được trong 72 giờ (AAP 2013 tr. e966; Italian 2025 khuyến cáo 1.5); NICE NG91 mục 1.1.8 cho phép không kê hoặc kê dự phòng.",
+  "Biến chứng cần chuyển: viêm xương chũm, viêm màng não, áp xe nội sọ, huyết khối xoang, liệt mặt (NICE NG91 mục 1.1.14); sưng sau tai đẩy vành tai ra trước (WHO 2013 mục 6.7.1).",
+  "Dịch tai giữa sau viêm: 60–70% sau 2 tuần, 40% sau 1 tháng, 10–25% sau 3 tháng (AAP 2013 tr. e985); mạn tính khi trên 3 tháng (QĐ 5643 Viêm tai ứ dịch mục 1)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1–4, tr. 195–196); Viêm tai ứ dịch ở trẻ em (mục 1–5, Hình 1, tr. 24–27)",
+  "AAP 2013 – AAP/AAFP, The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C, 2, 3A–3D, 4A–4C, 5A–5B, 6A–6D (tr. e965–e966, e969–e970), Table 3 (tr. e973), Table 4 (tr. e976), Table 5 (tr. e983), tr. e977, e979, e984, e985 (thời gian điều trị, dịch tai giữa tồn tại), e988–e989 (phòng bệnh)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 5 Acute otitis media (tr. 36–39: chỉ định, hình ảnh, amoxicillin và paracetamol theo cân nặng)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 (tr. 90–91), 6.1.1 (tr. 150), 6.3.1 (tr. 167–168), 6.7.1 (tr. 182), 6.7.2 (tr. 183–184)",
+  "NICE NG91 2018 – Otitis media (acute): antimicrobial prescribing, cập nhật 2022, 2025 – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.14 (tr. 5–8), Table 1 (tr. 9–10)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children. Ital J Pediatr 2025 – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1–1.5, 2, 3.1–3.3, 4.1, 9–10, Table 2",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.5, 1.2.6, 1.2.19–1.2.20, 1.7.2–1.7.3 (dùng làm ngoại suy cho bé không sốt)",
+  "ESC 2019 – Acute pulmonary embolism guidelines – TL-0089 – ĐÃ ĐỌC: mục 8.2 (tr. 576; người lớn, ngoại suy); QĐ 361/2014 – Bộ Y tế, Bệnh cơ xương khớp – TL-0286 – ĐÃ ĐỌC: Phụ lục NSAID mục 3.2–3.3 (tr. 197–198; người lớn, ngoại suy)",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: nồng độ siro paracetamol, amoxicillin; số lần nhỏ nước muối; tương tác amoxicillin–warfarin, mục tiêu và lịch kiểm INR ở trẻ nhỏ; thủ thuật, tiêm vắc xin ở trẻ dùng warfarin; tiêu chuẩn xuất huyết nội sọ do thuốc chống đông ở trẻ nhỏ; di truyền huyết khối và khả năng sinh sản của mẹ; lịch tiêm phế cầu cho bé 9 tháng"
+ ],
+ "phien_ban_ca": "1 – viết 2026-10-26",
+ "ghi_chu_bien_tap": [
+  "2026-10-26 – viết. Đặc tả sổ cái NH-0365 khớp đủ: nhũ nhi nữ 9 tháng, 2 lượt 'đỡ hoàn toàn khi tái khám', không điển hình (không sốt, không kéo tai), cờ đỏ, từng khám 3 nơi, không có CT, trẻ nhũ nhi, khởi phát đổi enoxaparin sang warfarin, thuốc kháng đông, lý do thật lo sinh sản, ổn định khỏi bệnh. Loại trừ: viêm xương chũm, viêm màng não (kèm chảy máu nội sọ do thuốc kháng đông).",
+  "Tài liệu đã đọc: TL-0130 (QĐ 5643: Viêm tai giữa cấp trẻ em, Viêm xương chũm cấp, Viêm tai ứ dịch), TL-0271, TL-0018 (tr. 36–39), TL-0250 (4.4, 6.1.1, 6.3.1, 6.7), TL-0262, TL-0089 (8.2), TL-0286 (Phụ lục NSAID), kho cũ: NICE NG91, Italian Consensus 2025.",
+  "Sổ mâu thuẫn: dùng 'Từ ca NH-0355' mục 1–5; mục mới trong NH-0365_mau_thuan.md (viêm tai giữa cấp một tai ở trẻ 6–23 tháng có bệnh đi kèm; kháng sinh cho dịch tai giữa sau viêm: AAP 2013 so với QĐ 5643). Phần warfarin ở trẻ nhỏ giữ ở mức lời dặn an toàn chung, ghi 'không có trong tài liệu đã tải'. Âm thanh: AT-TIM-NHANH-01, AT-PHOI-BT-NL-01. Không ảnh da, không mục danh mục mới."
+ ]
+}
