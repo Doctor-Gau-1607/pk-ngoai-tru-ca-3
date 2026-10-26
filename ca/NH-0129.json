@@ -1,0 +1,746 @@
+{
+ "ma_ca": "NH-0129",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-26 (Sonnet)",
+ "benh": "NH_nkhh_tren_cap_so_sinh_tu_tra_mang",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn hải sản (mẹ ăn tôm hấp và ghẹ trong bữa giỗ nhà chồng tối ngày thứ 9 sau sinh; sáng hôm sau bé bắt đầu hắt hơi, nghẹt mũi; cùng bữa giỗ có chú ruột đang ho bế và hôn bé)",
+  "thuoc_dang_dung": "Không (bé và mẹ không dùng thuốc, vitamin hay nước lá nào)",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình (bà nội cho rằng bé bệnh vì mẹ ăn hải sản và đòi mẹ vắt bỏ sữa; mẹ đến khám mong bác sĩ nói rõ đây không phải lỗi của mẹ)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Bảo",
+  "tuoi": 0.03,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.4,
+  "chieu_cao": 50,
+  "xung_ho": "Bé trai sơ sinh 12 ngày tuổi, chỉ khóc, ngủ, bú. Mẹ (chị Hà, 27 tuổi) bế bé và kể bệnh: bác sĩ gọi 'chị', chị xưng 'em', gọi bé là 'cháu'. Bố (anh Huy, 30 tuổi) đi cùng, ít nói, trả lời khi được hỏi.",
+  "tinh_cach": "Chị Hà, nhân viên bán hàng đang nghỉ thai sản, con đầu lòng, hiền, nói nhỏ, hay tự trách, thức khuya đọc diễn đàn mẹ bỉm; sợ nhất là mình làm hại con. Anh Huy, nhân viên kho, thương vợ nhưng ngại cãi mẹ ruột. Bà nội (bà Sáu, 58 tuổi) ở cùng, quyết đoán, tin bệnh là do ăn uống; chờ ngoài hành lang ở lượt 1–2, vào phòng khám ở lượt 3.",
+  "kieu_nhieu": "Mẹ mở điện thoại đọc to bài tự tra ('sơ sinh khụt khịt, thở nhanh là viêm phổi', 'mẹ ăn tôm cua thì con dị ứng qua sữa') và hỏi dồn 'có phải … không bác sĩ'; không đòi thuốc nhưng dễ chấp nhận kết luận tự tra, nhất là khi nó đồng nghĩa với việc mình có lỗi; dịu lại khi bác sĩ thừa nhận phần đúng trong nỗi lo rồi chỉ ra dấu hiệu cụ thể trên chính bé. Lý do thật (mâu thuẫn với bà nội) chỉ kể khi được hỏi 'ở nhà ai chăm bé cùng chị, mọi người nói gì' hoặc 'chị mong gì từ buổi khám'.",
+  "nguoi_nha": "Mẹ bé (chị Hà) bế bé; bố đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bố bổ sung về người ra vào nhà, khói thuốc; bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#f0c9a4",
+   "toc": "#1d1511",
+   "kieuToc": "tre",
+   "ao": "#e6efd9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e0ac84",
+    "toc": "#1f1712",
+    "kieuToc": "dai",
+    "ao": "#b8c4d9",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 12 ngày tuổi hắt hơi, nghẹt mũi, khụt khịt từ hai hôm nay; mẹ đọc trên mạng thấy giống viêm phổi sơ sinh và lo bé dị ứng vì chị ăn hải sản",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 3 của bệnh (bé 12 ngày tuổi)",
+   "tiep_don": "Bé trai 12 ngày tuổi, mẹ bế đến cùng bố vì hắt hơi, nghẹt mũi, khụt khịt từ hai hôm nay. Bé quấn một lớp khăn mỏng, khóc khi bị đánh thức. Điều dưỡng Linh đo lúc tiếp đón: nhiệt độ nách 37,3 °C, mạch 142 l/p, nhịp thở 52 l/p (bé quấy, đếm 30 giây), SpO₂ 97%. Mẹ đưa điện thoại có sẵn mấy bài tự tra và hỏi ngay có phải viêm phổi, có phải dị ứng không.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhận bé Bảo nhập viện hôm nay là thận trọng chấp nhận được vì dưới 3 tháng (NICE NG9 2021 mục 1.2.3), nhưng bé không sốt, bú trọn cữ, thở yên dưới 60 l/p, không dấu hiệu nguy hiểm (WHO 2013 mục 3.6, tr. 52). Mẹ bị tách khỏi nhà đúng lúc căng thẳng với bà nội, bé có thể bị xét nghiệm không cần (AAP 2014 KAS 1c), và mẹ tin thêm rằng bệnh 'nặng như trên mạng nói'.",
+    "chuyen_tuyen": "Chuyển bé Bảo lên bệnh viện nhi tuyến trên như ca nặng là quá tay: chưa có tiêu chí chuyển ngay (ngừng thở, tím, rên, nhịp thở > 70 l/p; NICE NG9 mục 1.2.1) và bé chưa sốt (NICE NG143 2021 mục 1.2.12). Cả nhà đi xa với bé sơ sinh, tốn chi phí, dễ thêm xét nghiệm và kháng sinh tiêm không có chỉ định, và nỗi sợ viêm phổi của mẹ càng được củng cố."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hắt hơi, khụt khịt hai hôm nay, em đọc trên mạng nói sơ sinh thở khò khè thế này là viêm phổi nặng. Tối hôm giỗ em ăn tôm với ghẹ, sáng hôm sau cháu hắt hơi, chắc cháu dị ứng qua sữa em đúng không ạ? Bác sĩ khám kỹ giúp em.",
+   "sinh_hieu": {
+    "mach": 142,
+    "ha": "Không đo",
+    "nhiet": "37,3 (nách)",
+    "nhip_tho": 52,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sáng ngày thứ 10 sau sinh bé hắt hơi, nghẹt mũi, chảy mũi nước trong, thỉnh thoảng ho khan vài tiếng; hôm nay khụt khịt nhiều hơn, bú vài phút lại nhả ra thở. Bú mẹ hoàn toàn 8–9 cữ/ngày, vẫn trọn cữ, tã ướt 7–8 cái/ngày, phân vàng 3 lần. Không li bì, không rên, không tím, chưa ngừng thở, không nôn, không co giật. Nhà chưa có nhiệt kế; mẹ sờ thấy bé ấm, không nóng. Bé và mẹ chưa dùng thuốc, vitamin, nước lá nào. Tối ngày thứ 9 (bữa giỗ nhà chồng) chị ăn tôm hấp và ghẹ lần đầu từ khi sinh; sáng hôm sau bé hắt hơi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; bú, tã ướt; dấu hiệu nguy hiểm sơ sinh; khởi phát sau ăn h"
+    },
+    {
+     "id": "khong_di_ung",
+     "noi_dung": "Bé không nổi mề đay hay ban, không sưng môi mặt, không nôn sau bú, không tiêu chảy, phân vàng không máu, không quấy khóc dữ dội sau cữ bú. Sau bữa giỗ chị vẫn cho bú nhiều lần, bé bú bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ dị ứng thức ăn: không triệu chứng da, tiêu hóa"
+    },
+    {
+     "id": "tien_su_sinh",
+     "noi_dung": "Con đầu lòng, sinh thường thai 39 tuần, nặng 3.200 g, Apgar 8 và 9, mẹ không sốt. Đã tiêm viêm gan B và BCG, rốn rụng ngày 6. Hôm nay cân 3.400 g.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, tiêm chủng, tăng cân"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bữa giỗ có hơn 20 người; chú Tuấn (em chồng, 24 tuổi) ho, hắt hơi, bế và hôn trán bé, hôm sau vẫn ho. Ông nội hút thuốc ngoài hiên cạnh phòng bé. Bố mẹ và bà nội khỏe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây; khói thuốc"
+    },
+    {
+     "id": "tra_mang",
+     "noi_dung": "Mẹ lưu hai bài trên diễn đàn mẹ bỉm: 'trẻ sơ sinh khụt khịt, thở nhanh là viêm phổi, phải đi viện ngay' và 'mẹ ăn hải sản, con dị ứng qua sữa mẹ, phải vắt bỏ sữa vài ngày'; tự đếm nhịp thở bé thấy 'hơn 50' nên rất sợ.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: chẩn đoán tự tra (viêm phổi, dị ứng qua sữa)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà nội (bà Sáu) ở cùng, nói bé bệnh 'vì con dâu ăn tôm ghẹ', bắt chị vắt bỏ sữa và cho bé uống sữa công thức mấy ngày; chị lưỡng lự vì sợ mất sữa, anh Huy đứng giữa, không dám cãi mẹ. Chị đến khám để nghe bác sĩ nói rõ đây có phải lỗi của chị không, nhưng ngại kể chuyện nhà.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ ngại kể chuyện gia đình. Chỉ nói khi bác sĩ hỏi 'ở nhà ai chăm bé cùng chị, mọi người nói gì về bệnh của bé', 'chị mong gì từ buổi khám hôm nay' hoặc 'chị có định thay đổi cách cho bú không'.",
+     "y": "Lý do thật: mâu thuẫn gia đình; nguy cơ vắt bỏ sữa"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,40 kg (lúc sinh 3,20 kg). Bé tỉnh, hồng hào, khóc to, nín khi mẹ ôm; không tím, không vàng da; thóp trước phẳng, mềm, cổ không hạch, rốn khô; mao mạch hồi sắc dưới 2 giây. Cởi bớt khăn, nghỉ 15 phút rồi đo lại: nách 37,1 °C, hậu môn 37,4 °C. Da không mề đay, không ban.",
+     "k": 1,
+     "hien": "Cân 3,40 kg. Tỉnh, hồng, khóc to, nín khi mẹ ôm. Nách 37,3 °C lúc đến; 37,1 °C sau 15 phút cởi bớt khăn."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ngạt hai bên, dịch trong loãng, không mủ; sau nhỏ muối và hút nhẹ thì thông. Họng: thành sau đỏ nhẹ, nhầy trong chảy xuống, không giả mạc. Màng nhĩ hai bên bóng, không phồng, không đỏ.",
+     "k": 1,
+     "hien": "Mũi ngạt hai bên, dịch trong. Họng đỏ nhẹ, không giả mạc. Màng nhĩ hai bên không phồng."
+    },
+    "tim": {
+     "a": "Tim đều 142 l/p, T1 T2 rõ, không âm thổi. Mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số 142 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p lúc đến (bé quấy, ngạt mũi). Sau hút mũi, bé nằm yên: đếm ba lần, mỗi lần đủ 60 giây, được 44, 46, 44 l/p. Không rút lõm lồng ngực, không thở rên. Trước hút nghe lọc xọc truyền từ mũi, mất sau hút. Rì rào phế nang rõ, không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p lúc quấy, ngạt mũi. Khi bé yên, đếm lại đủ 1 phút: không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú tốt (quầng vú lộ phía trên nhiều hơn, miệng mở rộng, môi dưới đưa ra ngoài, cằm chạm vú); bú liên tục 11 phút một bên, nhả vú thở 2 lần vì ngạt mũi, có tiếng nuốt; SpO₂ khi bú 97–98%.",
+     "k": 1,
+     "hien": "Ngậm bắt vú tốt. Bú liên tục 11 phút một bên, nhả vú thở 2 lần."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Bạch cầu 9,6 G/L, Hb 160 g/L, tiểu cầu 320 G/L.",
+     "n": "Không cần: bé không sốt, tỉnh, bú trọn cữ; viêm mũi họng cấp không cần xét nghiệm (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2, tr. 134; AAP 2014 KAS 1c). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "X-quang ngực: không tổn thương nhu mô.",
+     "n": "Không cần: chẩn đoán viêm phổi dựa lâm sàng (QĐ 3312 tr. 262; AAP 2014 KAS 1c); bé thở yên 44–46 l/p, không rút lõm, phổi không ran."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus (viêm mũi họng/viêm V.A cấp) ở sơ sinh 12 ngày, ngày thứ 3 của bệnh, không sốt, bú trọn cữ, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Hắt hơi, ngạt mũi, chảy mũi trong, nhầy chảy xuống thành sau họng (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.1, tr. 134; Viêm V.A cấp mục 3.1.1.1, tr. 137). Chú Tuấn ho là nguồn lây; virus gây 60–80% (mục 2.1.2, tr. 133) và lây qua nước bọt, nước mũi (mục 2). Không dấu hiệu nguy hiểm (WHO 2013 mục 3.6, tr. 52); thở yên 44–46 l/p, dưới 60 (tr. 76). Sơ sinh dưới 6 tuần có thể ngừng thở sớm khi bệnh hô hấp (NICE NG9 2021 mục 1.1.5): nằm trong kế hoạch an toàn."
+    },
+    {
+     "t": "Viêm phổi (viêm phổi nặng vì dưới 2 tháng)",
+     "n": "Cần ho, sốt kèm thở nhanh ≥ 60 l/p, rút lõm hoặc ran; dưới 2 tháng là viêm phổi nặng (QĐ 3312 tr. 262; QĐ 101/2014 mục V). Số 52 l/p đo lúc quấy; đếm đủ 1 phút khi yên (WHO 2013 tr. 76): 44–46 l/p, không rút lõm, phổi sạch sau hút mũi, không sốt. Mẹ đúng ở chỗ sơ sinh phải cảnh giác viêm phổi."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ hai bên bóng, không phồng, không chảy dịch. AAP/AAFP 2013 chỉ áp dụng trẻ 6 tháng–12 tuổi (TL-0271); tiêu chuẩn chẩn đoán ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dị ứng thức ăn qua sữa mẹ (mẹ ăn hải sản)",
+     "n": "Dị ứng thức ăn qua IgE thường xuất hiện sau ăn vài phút đến dưới 1 giờ, hay gặp mày đay, nôn, tiêu chảy và tái diễn mỗi lần tiếp xúc (QĐ 3312 Dị ứng thức ăn mục 3.2, tr. 711). Bé không có triệu chứng da hay tiêu hóa; hắt hơi bắt đầu sáng hôm sau, trùng lúc tiếp xúc người ho. Hải sản là dị nguyên thường gặp (mục 1.1, tr. 710), nhưng dị ứng qua sữa mẹ ở sơ sinh: không có trong tài liệu đã tải; dặn theo dõi."
+    },
+    {
+     "t": "Sốt do nhiễm khuẩn nặng sơ sinh (nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu)",
+     "n": "Nách 37,1–37,3 °C, hậu môn 37,4 °C, dưới 38,0 °C (NICE NG143 2021 mục 1.2.12; AAP 2021 phần đối tượng); tỉnh, bú trọn cữ, thóp phẳng, không rên, không tím (WHO 2013 mục 3.6, tr. 52). Dặn ngưỡng quay lại bằng con số."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghe mẹ trước: ghi nhận phần đúng trong nỗi lo (sơ sinh phải cảnh giác viêm phổi), đối chiếu bài tự tra với dấu hiệu trên chính bé; hỏi 'ở nhà ai chăm bé cùng chị', 'chị mong gì từ buổi khám'",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Bệnh do virus lây từ người ho, không phải lỗi của mẹ (QĐ 5643 Viêm mũi họng cấp tính mục 2, tr. 133); mời bà nội vào nghe lần sau."
+    },
+    {
+     "t": "Đếm nhịp thở đủ 60 giây khi bé yên sau khi nhỏ và hút mũi; ghi cả số lúc quấy (52) và lúc yên (44–46)",
+     "v": "c",
+     "n": "Đếm trong 1 phút khi trẻ yên; thở nhanh dưới 2 tháng ≥ 60 l/p (WHO 2013 tr. 76; QĐ 3312 tr. 262)."
+    },
+    {
+     "t": "Khám dấu hiệu nguy hiểm ở sơ sinh, quan sát trọn một cữ bú, SpO₂ khi bú, khám da tìm mề đay",
+     "v": "c",
+     "n": "Bú kém, li bì, thở ≥ 60 l/p, thở rên, rút lõm nặng, nhiệt độ bất thường, tím (WHO 2013 mục 3.6, tr. 52; QĐ 2341/2024 mục 2.2.2, tr. 6); đánh giá ngậm bắt vú và bú hiệu quả (QĐ 2341/2024 Bảng kiểm 5, tr. 15)."
+    },
+    {
+     "t": "Đo nhiệt độ đúng điều kiện (cởi bớt khăn, nghỉ vài phút): nách bằng nhiệt kế điện tử hoặc hậu môn",
+     "v": "c",
+     "n": "Hai cách đều đúng: nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần (NICE NG143 2021 mục 1.1.2) hoặc hậu môn, sốt ≥ 38,0 °C (AAP 2021, phần đối tượng). Từ 38 °C là nguy cơ cao (NICE mục 1.2.12)."
+    },
+    {
+     "t": "Không dùng kháng sinh; giải thích đây là cảm do virus lây từ chú Tuấn",
+     "v": "c",
+     "n": "Cảm là bệnh virus, không kháng sinh (WHO 2013 mục 4.4, tr. 90–91); viêm V.A cấp chủ yếu hút mũi, rỏ mũi (QĐ 5643 mục 4.1–4.2, tr. 139; NICE NG9 mục 1.4.3). QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 (tr. 135) khuyên điều trị như liên cầu khi chưa có xét nghiệm (sổ mâu thuẫn 'Viêm họng đỏ cấp…'): sơ sinh không dùng, vì liều dưới 1 tháng không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhỏ nước muối sinh lý 0,9 % và hút mũi nhẹ trước các cữ bú; tiếp tục bú mẹ hoàn toàn, không vắt bỏ sữa, không cho thêm sữa công thức hay nước khác",
+     "v": "c",
+     "n": "Hút mũi, rỏ mũi (QĐ 5643 Viêm V.A cấp mục 4.2, tr. 139; WHO 2013 tr. 91); bú mẹ giảm bệnh hô hấp (AAP 2014 KAS 13); bú nhiều hơn, giảm thức ăn và nước uống khác (QĐ 2341/2024 Bảng kiểm 5, tr. 15). Bé không có dấu hiệu dị ứng nên không có cơ sở vắt bỏ sữa; tác động của hải sản trong khẩu phần mẹ, số giọt nhỏ muối cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kế hoạch an toàn bằng số, viết ra giấy (ngừng thở, tím, rên, rút lõm, bú dưới nửa cữ, thở ≥ 60 l/p lúc ngủ yên, li bì, từ 38,0 hoặc dưới 35,5 °C thì đến ngay); gọi điện sau 24 giờ, khám lại sau 48 giờ; phòng lây (chú Tuấn không bế hôn khi còn ho, rửa tay, không hút thuốc gần bé)",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6, tr. 52; 'red flag' tại nhà (NICE NG9 2021 mục 1.6.1); ngừng thở là chuyển cấp cứu (mục 1.2.1). Khám lại sau 2 ngày (QĐ 2341/2024 mục 2.1.5, Bảng kiểm 5). Mốc gọi điện 24 giờ cho sơ sinh: không có trong tài liệu đã tải. Rửa tay (AAP 2014 KAS 11a–11b); khói thuốc làm nặng bệnh (NICE NG9 mục 1.6.1; AAP 2014 KAS 12a)."
+    },
+    {
+     "t": "Nhập viện hoặc lưu theo dõi ngay hôm nay vì dưới 1 tháng, nhà đông người",
+     "v": "a",
+     "n": "Chấp nhận được: dưới 3 tháng, hoàn cảnh người chăm (NICE NG9 2021 mục 1.2.3–1.2.4); cho về cũng đúng vì không dấu hiệu nguy hiểm (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Kháng sinh uống hay tiêm 'phòng viêm phổi'; paracetamol/ibuprofen 'phòng sốt', thuốc ho, long đờm, thuốc nhỏ mũi có hoạt chất",
+     "v": "w",
+     "n": "Bệnh virus (WHO 2013 tr. 91; NICE NG9 mục 1.4.3; QĐ 5643 Viêm V.A cấp mục 4.1). Liều dưới 1 tháng: không có trong tài liệu đã tải. Không hạ sốt chỉ để hạ con số (NICE NG143 mục 1.6.5); không codein, atropin, thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất (WHO 2013 tr. 91; sổ mâu thuẫn thuốc nhỏ mũi, vì QĐ 5643 Viêm V.A cấp mục 4.2 có ephedrin, argyron)."
+    },
+    {
+     "t": "Xét nghiệm máu, CRP, X-quang ngực, IgE hoặc xét nghiệm virus thường quy khi bé chưa sốt",
+     "v": "w",
+     "n": "NICE NG143 mục 1.5.3 dành cho trẻ sốt; chẩn đoán lâm sàng (AAP 2014 KAS 1c; QĐ 3312 tr. 262)."
+    },
+    {
+     "t": "Vắt bỏ sữa, ngừng bú mẹ vài ngày hoặc cho bú bình sữa công thức vì nghi dị ứng",
+     "v": "w",
+     "n": "Bé không có triệu chứng dị ứng (QĐ 3312 mục 3.2, tr. 711); khuyến khích bú mẹ để giảm bệnh hô hấp (AAP 2014 KAS 13; QĐ 2341/2024 Bảng kiểm 5, tr. 15)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus (viêm mũi họng/viêm V.A cấp) ở sơ sinh nam 12 ngày, 3,40 kg, ngày thứ 3 của bệnh, không sốt, không dấu hiệu nguy hiểm, bú trọn cữ",
+     "Nhiệt độ nách 37,3 °C lúc đến, 37,1 °C sau khi cởi bớt khăn. Nhịp thở 52 l/p lúc quấy, 44–46 l/p khi yên, SpO₂ 97–98%. Nhiễu: chẩn đoán tự tra; lý do thật là mâu thuẫn với bà nội"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, diễn tiến; bú, tã ướt; ngừng thở, tím, li bì; ai ho, ai hút thuốc; mề đay, nôn, tiêu chảy sau bú; bài mẹ đã đọc; 'ở nhà ai chăm bé cùng chị' (WHO 2013 mục 3.6; NICE NG9 2021 mục 1.6.1). Khám: nhiệt độ, da, trọn một cữ bú, mũi họng tai, tim phổi trước và sau hút mũi.",
+     "Hai số đầu bị nhiễu: nhịp thở lúc quấy, ngạt mũi. Đếm lại bé yên, sau hút mũi, đủ 60 giây: 44–46 l/p, dưới 60 (WHO 2013 tr. 76); nhiệt độ dưới 38,0 °C (NICE NG143 mục 1.2.12; AAP 2021). Chẩn đoán theo QĐ 5643 mục 3.1.1 (tr. 134), 3.1.1.1 (tr. 137); hướng dẫn riêng cho dưới 2 tháng: không có trong tài liệu đã tải. Viêm phổi loại (QĐ 3312 tr. 262); dị ứng qua sữa mẹ loại (QĐ 3312 mục 3.2, tr. 711); nguồn lây là chú Tuấn."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về: không dấu hiệu nguy hiểm, thở yên 44–46 l/p, SpO₂ 97–98%, bú trọn cữ (NICE NG9 mục 1.2.2); nhập viện cũng chấp nhận được vì dưới 3 tháng (mục 1.2.3). Cho về thì kế hoạch an toàn bằng số, khám lại 48 giờ (QĐ 2341/2024 mục 2.1.5). Hỏi ra mâu thuẫn trong nhà, mời bà nội vào nghe lần sau.",
+     "Giữ lòng tin của mẹ mà không hạ thấp nỗi lo, ví dụ: 'Chị lo như vậy là đúng, nên tôi đếm lại nhịp thở khi cháu nằm yên: 44 đến 46 lần một phút, chưa tới 60, phổi sạch, không sốt. Cháu bị cảm do virus, lây từ người ho trong bữa giỗ; cháu không nổi mẩn, không nôn, không tiêu chảy nên không có dấu hiệu dị ứng. Chị cứ cho bú mẹ đều, đừng vắt bỏ sữa; đây không phải lỗi của chị.' (WHO 2013 tr. 76, 90; QĐ 3312 mục 3.2; AAP 2014 KAS 13.)"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9 % nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9 %",
+      "lieu": "Nhỏ mỗi bên mũi 1–2 giọt, chờ khoảng 1 phút rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2, tr. 139; WHO 2013 tr. 91. Số giọt, số lần/ngày cho sơ sinh: không có trong tài liệu đã tải. Không kê kháng sinh, thuốc hạ sốt, thuốc ho."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus lây từ chú Tuấn, không phải viêm phổi, không phải dị ứng do chị ăn hải sản; không cần kháng sinh. Nhỏ muối, hút nhẹ trước cữ bú; chị tiếp tục cho bú mẹ hoàn toàn, không vắt bỏ sữa, không cho sữa công thức.",
+     "Chú Tuấn đeo khẩu trang, không bế hôn bé khi còn ho; rửa tay trước khi chạm bé; không hút thuốc gần bé. Từ 38,0 °C hoặc dưới 35,5 °C (đo nách) là đến bệnh viện ngay.",
+     "Gọi 115, không tự chở xe máy, khi ngừng thở, tím môi, thở rên, rút lõm ngực, bú dưới nửa cữ hoặc 12 giờ không tã ướt, li bì, thở từ 60 l/p lúc ngủ yên (WHO 2013 mục 3.6, tr. 52; NICE NG9 2021 mục 1.6.1). Gọi điện sau 24 giờ, khám lại sau 48 giờ; mời bà nội cùng vào."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 48 giờ, không đỡ (bé 14 ngày tuổi, ngày thứ 5 của bệnh)",
+   "tiep_don": "Tái khám đúng hẹn 48 giờ. Mẹ bế bé, bố đi cùng; bà nội ngồi chờ ngoài hành lang. Mẹ nói đã nhỏ muối, hút mũi mỗi ngày nhưng bé nghẹt mũi nặng hơn, bú ngắn cữ, nhìn bé thở mẹ rất sợ. Cân 3,33 kg. Điều dưỡng Linh đo: nách 37,5 °C, mạch 156 l/p, nhịp thở 58 l/p (bé quấy khóc, đếm 30 giây), SpO₂ 95%. Mẹ mở điện thoại: 'Bú kém, thở nhanh là viêm phổi, có đúng không bác sĩ?'",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Bảo về nhà với lời dặn cũ khi bé bú chỉ còn khoảng một nửa lượng bình thường, tã ướt 3 cái/24 giờ, môi khô và cân giảm 70 g là bỏ qua dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6, tr. 52; QĐ 2341/2024 mục 2.2.2, tr. 6) và ngưỡng bú 50–75%, mất nước (NICE NG9 2021 mục 1.2.2, 1.6.1). Đêm đó bé dễ bỏ thêm cữ bú, mất nước tăng, mẹ không đủ sức cưỡng lại bà nội đang đòi cho bú bình, và nhà chỉ đưa bé trở lại khi đã nặng hơn.",
+    "chuyen_tuyen": "Chuyển bé Bảo lên bệnh viện nhi tuyến trên là quá tay: bé tỉnh, chưa ngừng thở, không tím, không rên, thở yên dưới 60 l/p, SpO₂ trên 92% (NICE NG9 mục 1.2.1–1.2.2), và khoa Nhi tại chỗ có đủ xét nghiệm, hút mũi, ống thông dạ dày để theo dõi. Cả nhà đi xa, mẹ phải rời nhà đúng lúc bà nội đang bực, chi phí tăng, và niềm tin 'viêm phổi nặng' của mẹ được củng cố."
+   },
+   "loi_mo": "Bác sĩ ơi, em làm đúng như bác sĩ dặn mà cháu nghẹt mũi nặng hơn, bú được tí lại nhả ra thở, nhìn cháu thở nhanh em sợ lắm. Em đọc thêm thì bú kém với thở nhanh là viêm phổi, nhiễm trùng máu. Có phải cháu bị thật rồi không bác sĩ? Em cũng sợ là tại em.",
+   "sinh_hieu": {
+    "mach": 156,
+    "ha": "Không đo",
+    "nhiet": "37,5 (nách)",
+    "nhip_tho": 58,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ đêm kia bé nghẹt mũi nặng hơn, dịch mũi chuyển từ trong sang đục vàng nhạt, ho khan rải rác. Hết hắt hơi. Nhiệt kế điện tử mẹ mới mua: nách 36,8–37,4 °C. Không tím, chưa ngừng thở, không rên, không co giật.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến ngày 5; triệu chứng âm tính"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Mỗi cữ bú 3–5 phút rồi nhả vú thở dốc, bỏ hai cữ đêm qua, ước bú được khoảng một nửa bình thường. Tã ướt 3 cái/24 giờ (trước 7–8), phân vàng 2 lần, trớ một lần sau bú bình. Vẫn đòi bú, ít nước mắt, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém: dấu hiệu nguy hiểm sơ sinh; tã ướt giảm"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ nhỏ muối và hút mũi bằng bóp cao su 4–5 lần/ngày, hút nông vì bé khóc dữ; không cho thuốc. Ban ngày mẹ cho bú trực tiếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ; kỹ thuật hút mũi chưa hiệu quả"
+    },
+    {
+     "id": "cu_dem",
+     "noi_dung": "Hai đêm qua mẹ thức trắng rồi ngủ gục, bà nội pha sữa công thức (hộp bà mua) cho bé bú bình ba cữ mỗi đêm, mỗi cữ khoảng 40–50 ml, bé bú bình nhanh rồi chê vú. Sáng nay ngực mẹ căng đau, bà bảo mẹ vắt bỏ một cữ 'cho sạch tôm'; mẹ vắt bỏ cữ sáng rồi mới đưa bé đi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ sợ bị trách nên chỉ nói 'làm đúng dặn'. Chỉ kể khi bác sĩ hỏi chi tiết từng cữ trong 24 giờ qua, 'ai cho bé bú đêm', 'bé có uống gì ngoài sữa mẹ không' hoặc 'sữa mẹ có vắt bỏ lần nào không'.",
+     "y": "Nguyên nhân không đỡ: bú bình, vắt bỏ sữa do mâu thuẫn gia đình"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà nội vẫn cho rằng bé bệnh vì sữa có tôm, nói 'con dâu không biết nuôi con', đòi cai sữa mẹ. Bố đứng giữa, im lặng. Mẹ mong bác sĩ nói với cả nhà đây không phải lỗi của chị; chị bật khóc khi được hỏi mọi người ở nhà nói gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình lan sang việc cho bú"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,33 kg (giảm 70 g so với lượt 1). Bé tỉnh, quấy, khóc ít nước mắt, niêm mạc miệng hơi khô, thóp trước phẳng, da hồng, không tím, không vàng da; mao mạch hồi sắc 2 giây. Nách 37,5 °C, hậu môn 37,7 °C.",
+     "k": 1,
+     "hien": "Cân 3,33 kg. Tỉnh, quấy, khóc ít nước mắt. Nách 37,5 °C."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ngạt hai bên, nhiều dịch đặc đục vàng nhạt, không máu, không mùi hôi; sau hút thì thông. Họng: thành sau đỏ nhẹ, nhầy đục chảy xuống, không giả mạc; niêm mạc miệng hơi khô. Màng nhĩ hai bên bóng, không phồng.",
+     "k": 1,
+     "hien": "Mũi ngạt, dịch đặc đục vàng nhạt. Họng đỏ nhẹ, không giả mạc. Màng nhĩ hai bên không phồng."
+    },
+    "tim": {
+     "a": "Tim đều 156 l/p, T1 T2 rõ, không âm thổi. Mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số 156 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 58 l/p lúc đến (bé quấy khóc, ngạt mũi). Sau hút mũi, bé nằm yên: đếm ba lần, mỗi lần đủ 60 giây, được 52, 50, 54 l/p. Không rút lõm lồng ngực, không thở rên. Lọc xọc ở hai phế trường mất hẳn sau hút; nghe lại: rì rào phế nang rõ, không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 58 l/p lúc quấy, ngạt mũi. Khi bé yên, đếm lại đủ 1 phút: không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau), sau hút mũi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau), sau hút mũi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Cữ bú đầu: ngậm bắt vú còn tốt nhưng bú 3 phút rồi nhả vú thở dốc ba lần, bỏ bú; SpO₂ khi bú 93–94%. Sau nhỏ muối, hút mũi (ra nhiều dịch đặc vàng nhạt), bú lại 6 phút rồi mệt nhả vú, được khoảng một nửa cữ; SpO₂ lúc nghỉ 96%.",
+     "k": 1,
+     "hien": "Cữ bú đầu: bú 3 phút rồi nhả vú thở dốc, bỏ bú. Sau hút mũi bú lại được khoảng một nửa cữ."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Bạch cầu 9,8 G/L (trung tính 38 %, lympho 50 %) · Hb 158 g/L · tiểu cầu 330 G/L.",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 38.0,
+      "neu": 3.72,
+      "lym_pct": 50.0,
+      "lym": 4.9,
+      "mono_pct": 9.0,
+      "mono": 0.88,
+      "eos_pct": 2.0,
+      "eos": 0.2,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.8,
+      "hgb": 158,
+      "hct": 0.46,
+      "mcv": 95.8,
+      "mch": 32.9,
+      "mchc": 343,
+      "rdw": 15.0,
+      "plt": 330
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Không bắt buộc (chỉ điểm viêm của AAP 2021, NICE NG143 mục 1.5.3 thuộc quy trình trẻ sốt); chấp nhận được vì dưới 1 tháng, bú kém. Kết quả hợp virus, không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "bang": {
+      "crp": 3
+     },
+     "n": "Như công thức máu: chấp nhận được khi nhập viện vì bú kém."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus ở sơ sinh 14 ngày, ngày thứ 5 (đỉnh bệnh): nghẹt mũi nặng, bú giảm còn khoảng một nửa, mất nước nhẹ (cân giảm 70 g, tã ướt 3 cái/24 giờ), chưa sốt; bú kém là dấu hiệu nguy hiểm sơ sinh",
+     "ok": 1,
+     "n": "Dịch mũi đục không phải bằng chứng vi khuẩn (QĐ 5643 mục 3.1.1, tr. 134); virus tự khỏi sau 3–5 ngày (mục 5.1, tr. 136), đa số hết trong 14 ngày (WHO 2013 tr. 90). Chưa đỡ vì bệnh ở đỉnh (NICE NG9 mục 1.1.2, 1.1.4), hút mũi nông, hai đêm bú bình, vắt bỏ một cữ sữa, không phải vì thiếu kháng sinh. Bú kém là dấu hiệu nguy hiểm (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2). Sơ sinh dưới 6 tuần có thể ngừng thở sớm (NICE NG9 mục 1.1.5): theo dõi SpO₂ tại khoa."
+    },
+    {
+     "t": "Viêm phổi (viêm phổi nặng vì dưới 2 tháng)",
+     "n": "Mẹ đúng ở chỗ bú kém và thở nhanh là hai dấu hiệu cần cảnh giác, nhưng viêm phổi cần ho, sốt kèm thở nhanh, rút lõm hoặc ran (QĐ 3312 tr. 262; QĐ 101/2014 mục V). Số 58 l/p đo lúc quấy; đếm đủ 1 phút khi yên 50–54 l/p, dưới 60 (WHO 2013 tr. 76), không rút lõm, không rên, hết lọc xọc sau hút mũi, không sốt, CRP 3 mg/L. Nhập viện vì lý do khác: bú kém, mất nước nhẹ."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ hai bên bóng, không phồng, không chảy dịch (AAP/AAFP 2013 chỉ áp dụng trẻ 6 tháng–12 tuổi, TL-0271)."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng sơ sinh (nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu) vì bú kém",
+     "n": "Mọi dấu hiệu nguy hiểm đều là dấu hiệu nhiễm khuẩn nặng (WHO 2013 mục 3.6, 3.8). Nhưng bé tỉnh, nách 37,4–37,5 °C, hậu môn 37,7 °C, dưới 38,0 °C (NICE NG143 mục 1.2.12), không rên, không tím, không li bì; bạch cầu 9,8 G/L, CRP 3 mg/L. Theo dõi sát tại khoa: nếu sốt ≥ 38,0 °C thì làm quy trình sốt sơ sinh (NICE NG143 mục 1.5.3–1.5.7; AAP 2021)."
+    },
+    {
+     "t": "Dị ứng thức ăn qua sữa mẹ (hải sản)",
+     "n": "Vẫn không mề đay, nôn, tiêu chảy hay phân máu sau cữ bú mẹ (QĐ 3312 mục 3.2, tr. 711); bệnh nặng lên đúng đỉnh diễn tiến virus. Đổ lỗi hải sản dẫn tới bú bình, vắt bỏ sữa làm bé bú kém thêm; bú mẹ giảm bệnh hô hấp (AAP 2014 KAS 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân tích vì sao không đỡ trước khi đổi thuốc: tuân thủ (từng cữ bú trong 24 giờ, ai cho bú đêm, bình, vắt bỏ sữa, hút mũi), nguồn lây, bệnh ở đỉnh hay nặng thêm, biến chứng, chẩn đoán lại",
+     "v": "c",
+     "n": "Khám lại để xem cải thiện, không đổi hay nặng thêm (QĐ 2341/2024 mục 2.1.5). Cảm đa số hết trong 14 ngày (WHO 2013 tr. 90); bú kém hay xuất hiện sau 3–5 ngày (NICE NG9 mục 1.1.2, 1.1.4)."
+    },
+    {
+     "t": "Quan sát trọn cữ bú, đếm nhịp thở đủ 1 phút khi yên, SpO₂ lúc bú, cân, dấu hiệu mất nước (khô miệng, ít nước mắt, thóp, tã ướt); làm mẫu hút mũi rồi thử bú lại",
+     "v": "c",
+     "n": "Dấu hiệu mất nước: thóp trũng, khô miệng, mắt trũng, không có nước mắt (NICE NG143 mục 1.7.2); WHO 2013 tr. 76, 91; cân nhắc hút mũi khi khó bú vì dịch mũi (NICE NG9 mục 1.4.7)."
+    },
+    {
+     "t": "Nhập khoa Nhi theo dõi và bảo đảm bú: bé dưới 1 tháng bú kém là dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "Bú kém là dấu hiệu bệnh nặng ở trẻ 0–2 tháng, cần chuyển gấp bệnh viện hoặc nơi xử trí thích hợp (QĐ 2341/2024 mục 2.2.2, tr. 6; WHO 2013 mục 3.6, tr. 52). Nhập viện khi bú 50–75% (NICE NG9 mục 1.3.2), mất nước lâm sàng là lý do cân nhắc chuyển (mục 1.2.2), dưới 3 tháng và hoàn cảnh người chăm là yếu tố cân nhắc (mục 1.2.3–1.2.4). Cơ sở có khoa Nhi nên nhập tại chỗ."
+    },
+    {
+     "t": "Cho bú mẹ có hỗ trợ trong viện; bú không đủ thì sữa mẹ vắt bằng cốc, thìa hoặc ống thông dạ dày; chỉ truyền tĩnh mạch khi không dung nạp ống thông",
+     "v": "c",
+     "n": "Hướng dẫn tư thế bú, vắt sữa và cho ăn bằng cốc hoặc thìa khi chưa ngậm bắt vú tốt (QĐ 2341/2024 Bảng kiểm 5, tr. 15); ống thông dạ dày rồi đường tĩnh mạch (NICE NG9 mục 1.4.11–1.4.12; AAP 2014 KAS 9, dùng tham khảo)."
+    },
+    {
+     "t": "Không kháng sinh khi chưa sốt; theo dõi nhiệt độ, nếu ≥ 38,0 °C thì làm xét nghiệm máu, cấy máu, nước tiểu, cân nhắc chọc dò tủy theo quy trình sốt sơ sinh",
+     "v": "c",
+     "n": "Không kháng sinh cho bệnh virus (WHO 2013 tr. 91; NICE NG9 mục 1.4.3). Nếu sốt: NICE NG143 mục 1.5.3–1.5.7 hoặc AAP 2021 phân tầng theo tuổi (sổ mâu thuẫn 'Sốt ở sơ sinh nhìn khỏe…'); cả hai đều nhập viện làm xét nghiệm."
+    },
+    {
+     "t": "Công thức máu, CRP khi nhập viện",
+     "v": "a",
+     "n": "Không bắt buộc; chấp nhận được vì dưới 1 tháng, bú kém (NICE NG143 mục 1.5.3 và AAP 2021 dành cho trẻ sốt)."
+    },
+    {
+     "t": "Cho về với lời dặn cũ, hoặc bảo mẹ 'thêm sữa công thức cho đủ bữa'",
+     "v": "w",
+     "n": "Bú kém ở sơ sinh là dấu hiệu nguy hiểm (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2); bú mẹ nhiều hơn, dùng cốc thay bình (QĐ 2341/2024 Bảng kiểm 5, tr. 15)."
+    },
+    {
+     "t": "Kháng sinh uống (amoxicillin…) vì 'thở nhanh, bú kém' hoặc theo bài tự tra",
+     "v": "w",
+     "n": "Chưa sốt, không dấu hiệu viêm phổi (QĐ 3312 tr. 262; NICE NG9 mục 1.4.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus ở sơ sinh nam 14 ngày, 3,33 kg, ngày thứ 5 (đỉnh bệnh): nghẹt mũi nặng, bú giảm còn khoảng một nửa, mất nước nhẹ, chưa sốt; bú kém là dấu hiệu nguy hiểm nên nhập khoa Nhi",
+     "Không đỡ vì bệnh ở đỉnh, hút mũi nông và hai đêm bú bình, vắt bỏ một cữ sữa do mâu thuẫn trong nhà, không phải vì thiếu kháng sinh. Nhịp thở 58 l/p lúc quấy, 50–54 l/p khi yên; không viêm phổi, không viêm tai giữa cấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến; sốt, ngừng thở, tím; bú bao nhiêu phần, tã ướt; từng cữ bú trong 24 giờ, ai cho bú đêm, bình, vắt bỏ sữa; ai còn ho; mọi người ở nhà nói gì (WHO 2013 tr. 76; QĐ 2341/2024 Bảng kiểm 5). Khám: nhiệt độ, cân, mức ẩm, thóp; trọn một cữ bú; tim phổi trước và sau hút mũi.",
+     "Không đỡ do tuân thủ (hút mũi nông, cữ bú bị thay bằng bình), bệnh ở đỉnh ngày 5 (NICE NG9 mục 1.1.2, 1.1.4). Mẹ đúng một phần: bú kém, thở nhanh là dấu hiệu nguy hiểm (WHO 2013 mục 3.6) nên nhập viện; nhưng không phải viêm phổi (yên thở 50–54 l/p, không ran, không sốt; QĐ 3312 tr. 262) và không có biểu hiện dị ứng (mục 3.2, tr. 711)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập khoa Nhi vì bú kém ở sơ sinh (QĐ 2341/2024 mục 2.2.2; WHO 2013 mục 3.6), bú 50–75% (NICE NG9 mục 1.3.2) kèm mất nước nhẹ (mục 1.2.2), dưới 3 tháng, gia đình đang căng thẳng (mục 1.2.3–1.2.4). Trong viện: hút mũi, cho bú có hỗ trợ, sữa mẹ vắt bằng cốc/thìa hoặc ống thông dạ dày khi cần (QĐ 2341/2024 Bảng kiểm 5; NICE NG9 mục 1.4.11), theo dõi nhiệt độ, nhịp thở, SpO₂; không kháng sinh.",
+     "Nói không đổ lỗi: bé bú ít ở tuổi này thì phải nằm theo dõi; chưa phải viêm phổi (yên thở 50–54 l/p, phổi sạch, không sốt); bú ít do mũi nghẹt lúc bệnh ở đỉnh và hai đêm bú bình; mẹ ở lại cho bú, không vắt bỏ sữa (QĐ 2341/2024 Bảng kiểm 5; QĐ 3312 mục 3.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9 % nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9 %",
+      "lieu": "Nhỏ mỗi bên mũi 1–2 giọt, chờ khoảng 1 phút rồi hút nhẹ từng bên",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong thời gian nằm viện, đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2, tr. 139; WHO 2013 tr. 91. Liều, số giọt cho sơ sinh: như lượt 1. Không kê kháng sinh, thuốc hạ sốt, thuốc ho."
+     }
+    ],
+    "dan_do": [
+     "Bé chưa phải viêm phổi; cần nằm viện vì bú kém ở bé còn quá nhỏ, không phải vì chị ăn tôm ghẹ. Chị ở lại cho bú trực tiếp có hỗ trợ (sữa mẹ vắt cho bằng cốc, thìa hoặc ống nếu bú chưa đủ; QĐ 2341/2024 Bảng kiểm 5, tr. 15); không vắt bỏ sữa, không cho bú bình hay sữa công thức nếu bác sĩ khoa Nhi chưa chỉ định.",
+     "Nhỏ muối, hút nhẹ trước cữ bú theo mẫu điều dưỡng. Người ho đeo khẩu trang, rửa tay, không bế hôn bé; không hút thuốc gần bé.",
+     "Báo ngay điều dưỡng khi bé sốt từ 38,0 °C hoặc dưới 35,5 °C, ngừng thở, tím, rên, rút lõm, thở từ 60 l/p lúc ngủ yên, li bì, bú dưới nửa cữ (WHO 2013 mục 3.6, tr. 52)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tái khám sau xuất viện, đã khỏi (bé 20 ngày tuổi)",
+   "tiep_don": "Bé 20 ngày tuổi, 3,56 kg. Theo mẹ, bé nằm khoa Nhi hai ngày (hút mũi, bú mẹ có hỗ trợ, không kháng sinh, không sốt), ra viện bốn ngày nay, từ đó hết nghẹt mũi và ho, bú tốt. Mẹ bế bé vào cùng bố và bà nội. Điều dưỡng Linh đo: nách 36,9 °C, mạch 138 l/p, nhịp thở 44 l/p, SpO₂ 98%. Mẹ hỏi: 'Sáng nào cháu cũng còn khụt khịt, có phải bệnh chưa hết hay viêm phổi ngầm không bác sĩ?'",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhận lại bé Bảo nhập viện vì 'còn khụt khịt' là chấp nhận được khi dưới 3 tháng (NICE NG9 2021 mục 1.2.3), nhưng bé không sốt, bú trọn cữ, tăng cân tốt (3,33 lên 3,56 kg), thở yên 44 l/p, SpO₂ 98% (WHO 2013 mục 3.6, tr. 52). Bé lại tách mẹ, cả nhà tin bệnh 'chưa dứt' nên khó thôi nghi ngờ sữa mẹ, và nỗi lo trong nhà vẫn không được giải quyết.",
+    "chuyen_tuyen": "Chuyển bé Bảo lên bệnh viện nhi tuyến trên vì 'nghi viêm phổi ngầm' là quá tay: bé khỏe, không sốt, không ho, thở yên 44 l/p, phổi sạch, không có tiêu chí chuyển (NICE NG9 mục 1.2.1–1.2.2; QĐ 3312 tr. 262). Gia đình lại đi xa với bé sơ sinh, dễ thêm X-quang, xét nghiệm không cần (AAP 2014 KAS 1c) và nỗi sợ viêm phổi của mẹ được củng cố."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu ra viện mấy hôm nay ăn ngủ tốt rồi, chỉ còn sáng sớm khụt khịt vài tiếng. Em đọc nói khụt khịt kéo dài ở sơ sinh là viêm phổi ngầm, bác sĩ khám kỹ giúp em. Bà cũng muốn hỏi bác sĩ trực tiếp là tại em ăn hải sản hay tại gì.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau ra viện bé hết nghẹt mũi sau hai ngày, hết ho; chỉ khụt khịt vài tiếng lúc mới ngủ dậy buổi sáng, hết sau khi hút mũi nhẹ. Bú mẹ 8–9 cữ/ngày, mỗi cữ 10–12 phút, tã ướt 7–8 cái/ngày. Không sốt (nách 36,8–37,1 °C), không tím, không thở rên.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đã khỏi; khụt khịt buổi sáng"
+    },
+    {
+     "id": "nam_vien",
+     "noi_dung": "Hai ngày nằm khoa Nhi: hút mũi, bú mẹ có hỗ trợ (hai cữ đầu sữa mẹ vắt bằng cốc), không kháng sinh, không sốt; cân ra viện 3,45 kg. Bác sĩ khoa Nhi đã giải thích với mẹ và bố, bà nội chưa được nghe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tóm tắt xử trí lượt trước"
+    },
+    {
+     "id": "cho_bu",
+     "noi_dung": "Từ khi ra viện mẹ cho bú hoàn toàn, không vắt bỏ sữa, không cho sữa công thức hay nước khác; ngực hết căng đau. Cân hôm nay 3,56 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nuôi dưỡng; tăng cân"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ đưa bà nội đến để bác sĩ nói trực tiếp; mẹ vẫn tự trách, hỏi có phải kiêng hải sản khi cho bú (từ bữa giỗ đến nay bé chưa từng nổi mề đay, nôn hay tiêu chảy). Bà nội nói 'tại tôm ghẹ', 'ngày xưa bà nuôi con cũng kiêng như thế', lo cháu yếu; bà chấp nhận nếu bác sĩ nói rõ ràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình; mong bác sĩ nói trực tiếp với bà"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,56 kg (lượt 2: 3,33 kg; ra viện 3,45 kg). Bé tỉnh, hồng hào, khóc to, niêm mạc ẩm, có nước mắt, thóp phẳng; không vàng da, không ban. Nách 36,9 °C.",
+     "k": 1,
+     "hien": "Cân 3,56 kg. Tỉnh, hồng hào, niêm mạc ẩm. Nách 36,9 °C."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông, ít dịch trong; họng hồng nhạt, không giả mạc; màng nhĩ hai bên bóng, không phồng, không chảy dịch.",
+     "k": 1,
+     "hien": "Mũi thông, ít dịch trong. Họng hồng nhạt. Màng nhĩ hai bên không phồng."
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p, T1 T2 rõ, không âm thổi. Mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p khi bé tỉnh yên, đếm đủ 60 giây. Không rút lõm lồng ngực, không thở rên. Rì rào phế nang rõ hai bên, không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p, đếm đủ 1 phút khi yên. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú tốt, bú liên tục 12 phút một bên, nhả vú thở một lần, có tiếng nuốt; SpO₂ khi bú 98%.",
+     "k": 1,
+     "hien": "Ngậm bắt vú tốt. Bú liên tục 12 phút một bên."
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "r": "X-quang ngực: không tổn thương nhu mô.",
+     "n": "Không cần: không ho, thở yên 44 l/p, phổi sạch; xét nghiệm virus, công thức máu cũng không đổi xử trí (QĐ 3312 tr. 262; AAP 2014 KAS 1c)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus, ngày thứ 11, đang hồi phục: bú tốt, tăng cân, không sốt, còn khụt khịt nhẹ buổi sáng",
+     "ok": 1,
+     "n": "Hết nghẹt mũi sau hai ngày, chỉ còn khụt khịt nhẹ. Virus tự khỏi sau 3–5 ngày (QĐ 5643 mục 5.1, tr. 136), đa số hết trong 14 ngày (WHO 2013 tr. 90): hai mốc khác đối tượng, ghi cả hai cho gia đình. Không thất bại điều trị hay bội nhiễm: tăng cân, không sốt, chưa dùng kháng sinh (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Viêm phổi (viêm phổi nặng vì dưới 2 tháng), 'viêm phổi ngầm'",
+     "n": "Không ho, không sốt, thở yên 44 l/p, không rút lõm, phổi sạch, SpO₂ 98% (QĐ 3312 tr. 262; QĐ 101/2014 mục V; WHO 2013 tr. 76). Khụt khịt buổi sáng là dịch mũi sau ngủ; 'viêm phổi ngầm': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ hai bên bóng, không phồng, không chảy dịch (AAP/AAFP 2013 chỉ áp dụng trẻ 6 tháng–12 tuổi, TL-0271)."
+    },
+    {
+     "t": "Dị ứng thức ăn qua sữa mẹ (hải sản)",
+     "n": "Từ bữa hải sản đến nay bé bú mẹ đều, không mề đay, nôn, tiêu chảy, phân máu (QĐ 3312 mục 3.2, tr. 711); không có cơ sở bắt mẹ kiêng hải sản hay ngừng sữa. Chế độ ăn hải sản của mẹ cho con bú: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định bé đã khỏi hay chưa so với lượt trước: bú, tã ướt, cân, nhịp thở đủ 1 phút khi yên, SpO₂, nhiệt độ, dấu hiệu nguy hiểm; không dấu hiệu nguy hiểm thì cho về",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm: WHO 2013 mục 3.6, tr. 52 và tr. 76; NICE NG9 2021 mục 1.2.1–1.2.2. Khám lại để xem bệnh cải thiện, không đổi hay nặng thêm (QĐ 2341/2024 mục 2.1.5)."
+    },
+    {
+     "t": "Không kháng sinh, không X-quang, không xét nghiệm; giải thích khụt khịt buổi sáng là dịch mũi, nhỏ muối và hút nhẹ khi cần",
+     "v": "c",
+     "n": "WHO 2013 tr. 91; QĐ 5643 Viêm V.A cấp mục 4.1–4.2, tr. 139; AAP 2014 KAS 1c, 8."
+    },
+    {
+     "t": "Duy trì bú mẹ hoàn toàn, không vắt bỏ sữa, không cho bình hay sữa công thức khi chưa có chỉ định; mẹ không cần kiêng hải sản theo bài tự tra, theo dõi nếu bé nổi mề đay, nôn, tiêu chảy hoặc phân máu sau bú thì quay lại; kế hoạch an toàn bằng số giữ nguyên như lượt 1",
+     "v": "c",
+     "n": "Bú mẹ giảm bệnh hô hấp (AAP 2014 KAS 13); bú nhiều hơn, giảm thức ăn và nước uống khác, dùng cốc (QĐ 2341/2024 Bảng kiểm 5, tr. 15); triệu chứng dị ứng thức ăn (QĐ 3312 mục 3.2, tr. 711). Ảnh hưởng của hải sản trong khẩu phần mẹ: không có trong tài liệu đã tải. Kế hoạch an toàn: WHO 2013 mục 3.6, tr. 52; NICE NG9 2021 mục 1.6.1."
+    },
+    {
+     "t": "Nói trực tiếp với bà nội và mẹ: bệnh do virus lây từ chú Tuấn, không do mẹ ăn hải sản; ghi nhận phần đúng trong lo lắng của bà và chia việc cụ thể (ai cho bú đêm, ai hút mũi)",
+     "v": "c",
+     "n": "Virus lây qua nước bọt, nước mũi (QĐ 5643 Viêm mũi họng cấp tính mục 2, tr. 133). Kỹ năng giao tiếp, không bắt buộc nguồn."
+    },
+    {
+     "t": "Nhập viện hoặc lưu theo dõi lại vì 'còn khụt khịt', dưới 1 tháng",
+     "v": "a",
+     "n": "Chấp nhận được vì dưới 3 tháng (NICE NG9 2021 mục 1.2.3) nhưng không cần: bé không sốt, bú tốt, không dấu hiệu nguy hiểm (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Kháng sinh 'phòng viêm phổi ngầm', X-quang ngực hay xét nghiệm máu, virus thường quy",
+     "v": "w",
+     "n": "Không dấu hiệu nhiễm khuẩn (QĐ 5643 Viêm V.A cấp mục 4.1; NICE NG9 mục 1.4.3; AAP 2014 KAS 1c, 8). Liều kháng sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bảo mẹ vắt bỏ sữa hay ngừng bú mẹ vài ngày vì nghi dị ứng hải sản",
+     "v": "w",
+     "n": "Bé không có triệu chứng dị ứng (QĐ 3312 mục 3.2, tr. 711); khuyến khích bú mẹ để giảm bệnh hô hấp (AAP 2014 KAS 13; QĐ 2341/2024 Bảng kiểm 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus, ngày thứ 11, đang hồi phục ở sơ sinh nam 20 ngày, 3,56 kg: bú trọn cữ, tăng cân, không sốt, còn khụt khịt nhẹ buổi sáng",
+     "Không viêm phổi 'ngầm', không viêm tai giữa cấp, không tái phát; không có dấu hiệu dị ứng hải sản qua sữa mẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: khỏi hẳn chưa; bú, tã ướt, sốt, ngừng thở, tím; ra viện được dặn gì, còn bình hay vắt bỏ sữa; ai còn ho; mẹ và bà mong gì (WHO 2013 tr. 76; NICE NG9 2021 mục 1.6.1). Khám như các lượt trước.",
+     "So với lượt 2: cân 3,33 lên 3,56 kg, bú trọn cữ, thở yên 44 l/p thay vì 50–54, SpO₂ 98%, hết nghẹt mũi. Khụt khịt buổi sáng là dịch mũi sau ngủ. Virus tự khỏi sau 3–5 ngày (QĐ 5643 mục 5.1), đa số hết trong 14 ngày (WHO 2013 tr. 90). Không có dị ứng hải sản (QĐ 3312 mục 3.2, tr. 711); lý do thật của mẹ là cần người nói trực tiếp với bà nội."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về: không dấu hiệu nguy hiểm, bú trọn cữ, thở yên 44 l/p, SpO₂ 98% (WHO 2013 mục 3.6, tr. 52; NICE NG9 2021 mục 1.2.1–1.2.2). Nhập viện lại hoặc lưu theo dõi là quá tay nhưng không bị coi là hại.",
+     "Nói với bà nội: cháu khỏi, tăng cân tốt; cảm do virus lây từ người ho trong bữa giỗ, không phải vì mẹ ăn tôm ghẹ (chưa lần nào nổi mẩn, nôn, đi ngoài); bà lo là đúng vì bé nhỏ bú kém phải nằm viện; giúp cháu nhất là mẹ cho bú mẹ đều, bà giúp mẹ ngủ (QĐ 3312 mục 3.2; AAP 2014 KAS 13; QĐ 2341/2024 Bảng kiểm 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9 % nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9 %",
+      "lieu": "Nhỏ mỗi bên mũi 1–2 giọt, chờ khoảng 1 phút rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi hoặc khụt khịt buổi sáng, trước cữ bú",
+      "so_ngay": "Đến khi hết khụt khịt",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2, tr. 139; WHO 2013 tr. 91. Liều, số giọt cho sơ sinh: như lượt 1. Không kê kháng sinh, thuốc hạ sốt, thuốc ho."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi, khụt khịt buổi sáng sẽ hết dần. Chị tiếp tục cho bú mẹ hoàn toàn, không vắt bỏ sữa, không cho bình hay sữa công thức; chưa có dấu hiệu dị ứng nên không cần kiêng hải sản theo bài trên mạng; nếu bé nổi mề đay, nôn, tiêu chảy hoặc phân có máu sau bú thì đưa đến khám.",
+     "Ai ho thì đeo khẩu trang, rửa tay trước khi chạm bé; không hút thuốc gần bé.",
+     "Gọi 115, không tự chở xe máy, khi có dấu hiệu như tờ kế hoạch an toàn lượt 1: ngừng thở, tím, rên, rút lõm, thở ≥ 60 l/p lúc ngủ yên, bú dưới nửa cữ, li bì (WHO 2013 mục 3.6, tr. 52; NICE NG9 2021 mục 1.6.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: về nhà với kế hoạch an toàn bằng số, mẹ được dặn tiếp tục bú mẹ. Lượt 2 (không đỡ): bệnh ở đỉnh, hai đêm bú bình và một cữ sữa bị vắt bỏ, bé bú còn một nửa, cân giảm; nhập khoa Nhi hai ngày, không kháng sinh, không sốt. Lượt 3: bé khỏi, tăng cân, bú mẹ hoàn toàn; bà nội nghe bác sĩ nói trực tiếp và thôi đòi vắt sữa.",
+ "nhieu": [
+  "Mẹ mang hai chẩn đoán tự tra: viêm phổi sơ sinh và dị ứng hải sản qua sữa mẹ; mỗi lượt đọc thêm một bài mới. Phần đúng (sơ sinh phải cảnh giác viêm phổi, bú kém phải nhập viện) cần được thừa nhận; phần sai cần đối chiếu từng ý với dấu hiệu trên bé.",
+  "Lý do thật (mâu thuẫn mẹ chồng – nàng dâu) chỉ lộ khi được hỏi; ở lượt 2 nó khiến bé bú bình, mẹ vắt bỏ sữa, thành nguyên nhân 'không đỡ'; ở lượt 3 mẹ đưa bà nội đến để bác sĩ nói trực tiếp."
+ ],
+ "bai_hoc_bien": [
+  "Ca không đỡ: chạy quy trình thất bại điều trị (ai thực sự cho bú từng cữ, kỹ thuật hút mũi, nguồn lây, biến chứng, chẩn đoán lại) trước khi đổi thuốc; hỏi chi tiết 24 giờ qua mới thấy bú bình và vắt bỏ sữa."
+ ],
+ "diem_nho": [
+  "Thở nhanh dưới 2 tháng ≥ 60 l/p, đếm đủ 1 phút khi yên (WHO 2013 tr. 76; QĐ 3312 tr. 262); dưới 2 tháng có viêm phổi là viêm phổi nặng (QĐ 3312 tr. 262; QĐ 101/2014 mục V).",
+  "Dấu hiệu nguy hiểm sơ sinh: bú kém, li bì, thở ≥ 60 l/p, thở rên, rút lõm nặng, nhiệt độ > 38 hoặc < 35,5 °C, tím (WHO 2013 mục 3.6, tr. 52); bú kém ở trẻ 0–2 tháng cần chuyển gấp (QĐ 2341/2024 mục 2.2.2, tr. 6)."
+ ],
+ "nguon": [
+  "WHO 2013 Pocket book (TL-0250) – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.8 (tr. 54), tr. 76, mục 4.4 (tr. 90–91)",
+  "QĐ 3312/QĐ-BYT 2015 (TL-0037) – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em, mục 1, tr. 262; Dị ứng thức ăn ở trẻ em, mục 1.1, 3.2, tr. 710–711; QĐ 101/QĐ-BYT 2014 – TL-0243 – mục V",
+  "QĐ 5643/QĐ-BYT 2015 – Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính mục 2, 3.1, 4.1, 5.1 (tr. 133–136); Viêm V.A cấp mục 3.1.1.1, 4.1, 4.2 (tr. 137–139)",
+  "QĐ 2341/QĐ-BYT 2024 – IMCI (kho cũ tltk-10000-ca, bản chữ OCR lẫn lỗi) – ĐÃ ĐỌC: mục 2.1.5, 2.2.1, 2.2.2 (tr. 6), Bảng kiểm 5 (tr. 15)",
+  "NICE NG9 2021 – Bronchiolitis in children – TL-0260 – ĐÃ ĐỌC: mục 1.1.2–1.1.5, 1.2.1–1.2.4, 1.3.2, 1.4.3, 1.4.7, 1.4.11–1.4.12, 1.6.1; AAP 2014 – Bronchiolitis – TL-0267 – KAS 1c, 8, 9, 11a–11b, 12a, 13",
+  "NICE NG143 2021 – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.2, 1.2.12, 1.5.3–1.5.7, 1.6.5, 1.7.2; AAP 2021 – Febrile Infants – TL-0261 – phần đối tượng",
+  "AAP/AAFP 2013 – Acute otitis media – TL-0271 – phạm vi 6 tháng–12 tuổi"
+ ],
+ "ghi_chu_bien_tap": [
+  "26/10/2026 – viết: Sonnet. Bản 1. Đặc tả sổ cái: sơ sinh nam, 3 lượt, điển hình, không đỡ ở lượt 2, ổn định khỏi bệnh, mang chẩn đoán tự tra, nguồn lực đầy đủ (khoa_cls = null), sau ăn hải sản, thuốc đang dùng: không, lý do thật là mâu thuẫn gia đình; viêm phổi, viêm tai giữa cấp có trong chan_doan cả ba lượt.",
+  "Tài liệu đã đọc (vị trí ở mục nguon): TL-0250, QĐ 3312, TL-0243, TL-0130, QĐ 2341/2024, TL-0260, TL-0267, TL-0262, TL-0261, TL-0271. Dùng lại mục sổ mâu thuẫn: đo nhiệt độ dưới 4 tuần; 'Viêm họng đỏ cấp…' (sơ sinh chấm w, như NH-0217); sốt ở sơ sinh; thuốc nhỏ mũi; thời gian cảm 3–5 ngày so với 14 ngày.",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: hướng dẫn riêng viêm hô hấp trên dưới 2 tháng; liều amoxicillin, paracetamol dưới 1 tháng; số giọt, kỹ thuật nhỏ muối, hút mũi sơ sinh; dị ứng hải sản qua sữa mẹ, chế độ ăn của mẹ; độ chênh nách – hậu môn; khoảng tham chiếu công thức máu, CRP sơ sinh; thể tích sữa theo kg; nhịp tăng cân chuẩn. Số liệu bệnh nhân, nằm viện, kết cục là hư cấu thiết kế."
+ ]
+}
