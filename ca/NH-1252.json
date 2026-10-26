@@ -1,0 +1,743 @@
+{
+ "ma_ca": "NH-1252",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết lần đầu (2026-10-26)",
+ "benh": "NH_thieu_mau_thieu_sat_thieu_nu",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thiếu máu thiếu sắt / thiếu vi chất",
+  "chan_doan_phai_loai_tru": [
+   "Thalassemia",
+   "Suy dinh dưỡng"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh lớp 10",
+  "yeu_to_khoi_phat": "Sau sinh (mẹ bé vừa sinh em 5 tháng trước; bé gánh việc nhà, ăn uống thất thường)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (ibuprofen 400 mg)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Ngọc Trâm",
+  "tuoi": 15,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 10",
+  "can_nang": 49,
+  "chieu_cao": 158,
+  "xung_ho": "Bé 15 tuổi, xưng 'em' hoặc 'con' (với mẹ), gọi bác sĩ là 'bác sĩ', trả lời ngắn khi được hỏi trực tiếp. Mẹ xưng 'em' với bác sĩ, gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Trâm ít nói, hay nhìn xuống, ngại nói chuyện kinh nguyệt trước mặt mẹ. Mẹ (chị Mai, 38 tuổi, bán tạp hóa, mới sinh em bé 5 tháng) nói nhanh, hay lo, nghe hàng xóm và mạng; tin 'kháng sinh tiêu viêm' chữa được mọi chuyện ra máu vì chính mình từng uống sau sinh.",
+  "kieu_nhieu": "Mẹ đòi kháng sinh: xin thẳng 'một đợt cho sạch viêm', bị từ chối thì nhắc lại, so sánh với bản thân, dịu lại khi được giải thích bằng tiêu chí cụ thể và việc làm thay thế (lượt 2 hỏi lại kháng sinh 'dự phòng'). Hai mẹ con từ chối lấy máu tĩnh mạch vì bé từng ngất lúc 9 tuổi, chỉ nhận chích đầu ngón tay (lượt 2 đồng ý). Bé giấu chuyện kinh nhiều và nỗi lo sinh sản khi có mẹ; mẹ không tự kể chuyện băng huyết.",
+  "nguoi_nha": "Mẹ bé, chị Mai, 38 tuổi, đi cùng, trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha). Khi hỏi thẳng bé hoặc hỏi riêng lúc mẹ ra ngoài thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Mai)",
+  "ngoai_hinh": {
+   "da": "#c99a6e",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#8fb8d9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a982",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c28a8a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 15 tuổi mệt, đau chân buổi tối, rụng tóc; mẹ xin kháng sinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 15 tuổi, 49 kg, học sinh lớp 10, mẹ đưa đến vì mệt, hay buồn ngủ trên lớp, đau nhức hai bắp chân buổi tối khoảng 2 tháng nay. Sinh hiệu: nhiệt 36,8 °C, mạch 96 l/p, huyết áp 104/64 mmHg, nhịp thở 18 l/p, SpO₂ 99%. Bé tỉnh, da ngăm, không thấy xanh rõ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển Trâm lên tuyến trên ngay hôm nay vì Hb 94 g/L và bé từ chối lấy máu là quá tay: đây là thiếu máu mức vừa (WHO 2024 Bảng 3), bé tỉnh, mạch 96 l/p, không suy tim; sắt uống là điều trị chuẩn và không nên trì hoãn chờ xét nghiệm (BSG 2021 khuyến cáo 17; QĐ 1832 mục 5.1). Ở tuyến trên bé vẫn bị đề nghị lấy máu tĩnh mạch, mất thêm một ngày học và chi phí, bé càng sợ và mẹ càng tin bé bệnh nặng.",
+    "nhap_vien": "Cho Trâm nhập viện truyền máu vì Hb 94 g/L là sai: truyền máu khi Hb ≤ 40 g/L, cần nâng nhanh hoặc suy tim (QĐ 3312 mục 4.2), QĐ 1832 mục 5.1 hạn chế truyền máu, chỉ khi thiếu máu nặng, mất bù. Bé chưa suy tim, truyền máu còn mang nguy cơ lây nhiễm (WHO Pocket book 2013 mục 10.6.2), nằm viện nghĩa là thêm kim tiêm cho một bé đang sợ kim, tốn kém, và vẫn chưa giải quyết nguyên nhân mất máu."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nó mệt mỏi, tối nào cũng kêu đau chân, tóc rụng từng nắm. Em nghĩ cháu bị viêm khớp, viêm nhiễm gì đó. Bác sĩ cho cháu một đợt kháng sinh cho sạch viêm nha. Còn lấy máu thì em không cho đâu, hồi nhỏ cháu từng ngất rồi.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "104/64",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 2 tháng nay bé mệt, hay buồn ngủ trên lớp, đau nhức hai bắp chân và đầu gối buổi tối, tóc rụng nhiều khi gội. Mẹ lo 'viêm khớp, viêm nhiễm' và muốn xin kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "hoi_tho",
+     "noi_dung": "Hay hồi hộp, hụt hơi khi lên cầu thang tầng 3, đau đầu chiều, hay quên bài. Không ngất, không đau ngực, không khó thở lúc nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu, dấu hiệu nguy hiểm (QĐ 3312 Thiếu máu thiếu sắt mục 3.1)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Vẫn ăn thịt cá, không ăn chay, ăn ngon miệng, không buồn nôn, không đau bụng, phân vàng, không có máu. Từ khi mẹ sinh em, bé hay bỏ bữa sáng, uống trà sữa ngay sau bữa trưa gần như mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn, trà sữa sau bữa (QĐ 1832 Thiếu máu thiếu sắt mục 7)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mẹ sinh em bé 5 tháng trước. Từ đó bé nấu cơm, trông em, ngủ ít; nhà bớt mua thịt cá vì mẹ nghỉ bán hàng và tốn viện phí.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bối cảnh khởi phát sau sinh của mẹ"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Hai tháng nay bé uống ibuprofen 400 mg mẹ mua ở tiệm thuốc, 1 viên buổi tối lúc chưa ăn, 4–5 tối mỗi tuần cho đỡ đau chân. Thỉnh thoảng ợ nóng, không đau thượng vị dữ dội, không nôn máu, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc giảm đau tự mua (NSAID)"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Có kinh năm 13 tuổi, từ kỳ đầu đã ra nhiều: 7–8 ngày, chu kỳ 28–32 ngày đều; ngày đầu thay băng khoảng 2 giờ một lần, có máu cục, đêm phải dậy thay hai lần. Bé nghĩ 'con gái ai cũng vậy' nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không biết chi tiết. Chỉ nói khi bác sĩ hỏi riêng bé (mẹ ra ngoài) hoặc hỏi nhẹ nhàng về số ngày, số băng, máu cục, kinh từ kỳ đầu.",
+     "k": 1,
+     "y": "Kinh nguyệt nhiều từ lúc có kinh (NICE NG88 1.2.1, 1.2.7)"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Chảy máu cam 1–2 lần mỗi tháng, mỗi lần 10–15 phút; hay có vết bầm ở đùi không nhớ va vào đâu. Chưa nhổ răng, chưa phẫu thuật.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về chảy máu cam, chảy máu chân răng, bầm tím, chảy máu sau nhổ răng hoặc phẫu thuật.",
+     "k": 1,
+     "y": "Chảy máu nơi khác (FIGO 2018 Bảng 3)"
+    },
+    {
+     "id": "me_bang_huyet",
+     "noi_dung": "Mẹ bị băng huyết khi sinh em bé, phải truyền 2 đơn vị máu, bác sĩ nói suýt phải cắt tử cung. Bà ngoại kể hồi trẻ cũng 'ra máu nhiều mỗi lần sinh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ ngại kể và không nghĩ liên quan. Chỉ nói khi bác sĩ hỏi tiền sử gia đình về chảy máu, băng huyết, hoặc hỏi lại nhẹ nhàng, không trách.",
+     "k": 1,
+     "y": "Tiền sử gia đình chảy máu, băng huyết (FIGO 2018 Bảng 3)"
+    },
+    {
+     "id": "lo_sinh_san",
+     "noi_dung": "Điều bé sợ nhất: 'giống mẹ', kinh ra nhiều và thiếu máu sẽ không có con sau này; bé đọc trên mạng và nghe bạn nói. Đây là lý do thật bé muốn đi khám nhưng không dám nói trước mặt mẹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bé, hỏi bé lo điều gì nhất, vì sao hôm nay muốn đi khám, hoặc khi mẹ ra ngoài.",
+     "k": 1,
+     "y": "Lý do thật đến khám"
+    },
+    {
+     "id": "so_kim",
+     "noi_dung": "Hồi 9 tuổi bé ngất khi lấy máu ở trạm y tế; mẹ nhớ chuyện đó và nghĩ 'lấy máu thì càng thiếu máu'. Hai mẹ con không muốn lấy máu tĩnh mạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do từ chối xét nghiệm"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa nằm viện, không dị ứng thuốc. Bé nói riêng là chưa có quan hệ tình dục. Không sốt, không đau bụng dưới, không khí hư, khớp không sưng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "me_khang_sinh",
+     "noi_dung": "Sau sinh mẹ được uống kháng sinh và 'hết ra máu', nên mẹ tin kinh nhiều của con cũng là viêm nhiễm phụ khoa, cần kháng sinh 5–7 ngày 'cho sạch'. Mẹ không muốn lấy máu thêm.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, ngại nhìn thẳng. Cân 49 kg, cao 158 cm, BMI 19,6 kg/m². Da ngăm, không xanh rõ; kết mạc mi dưới nhạt hơn bình thường, củng mạc trắng; không vàng da, không phù.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Tóc khô, thưa ở thái dương, dễ gãy khi kéo nhẹ. Móng tay mỏng, dễ gãy, có khía dọc nhẹ; lòng bàn tay nhạt.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Nứt khóe miệng hai bên, lưỡi nhạt, rìa lưỡi nhẵn; không loét, chân răng không chảy máu.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, âm thổi tâm thu nhẹ 1–2/6 ở bờ trái xương ức, không lan, không thay đổi nhiều theo tư thế.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, phổi trong, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không đau hạ vị, gan lách không to, không khối.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp không sưng, nóng, đỏ; vận động đầy đủ; ấn đau nhẹ cơ bắp chân hai bên, đi lại bình thường.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết dưới da. Vài vết bầm xanh nhạt 1–2 cm ở mặt trước đùi, bé không nhớ va vào đâu.",
+     "k": 0
+    },
+    "phu_khoa": {
+     "a": "Không khám ở bước này: chưa quan hệ tình dục, không đau bụng dưới, ra máu đúng chu kỳ; NICE NG88 1.3.1: điều trị không cần tìm nguyên nhân khi nguy cơ cấu trúc thấp.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "Bé không đồng ý lấy máu tĩnh mạch. Sau khi điều dưỡng Linh giải thích, bé chỉ chịu chích đầu ngón tay: Hb 94 g/L (chỉ đo Hb; không có số lượng hồng cầu, MCV, bạch cầu, tiểu cầu).",
+     "n": "Cần: huyết đồ có hồng cầu nhỏ nhược sắc (QĐ 3312 Thiếu máu thiếu sắt mục 3.2–3.3); công thức máu cho mọi phụ nữ kinh nhiều (NICE NG88 1.2.6). Bé từ chối: giải thích một lần, hỏi lý do, tôn trọng, ghi hồ sơ có mẹ đồng ý; thủ tục ghi nhận từ chối: không có trong tài liệu đã tải. Hb 94 g/L: nữ 15 tuổi < 120 g/L là thiếu máu (WHO 2024 Bảng 2; QĐ 3312 mục 1), mức vừa 80–109 g/L (Bảng 3). So Hb mao mạch với tĩnh mạch: không có trong tài liệu đã tải."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "r": "Bé không đồng ý lấy máu tĩnh mạch; không có kết quả.",
+     "n": "Hữu ích, không bắt buộc hôm nay: ferritin < 12 ng/mL, sắt < 9 µmol/L, bão hòa < 16% (QĐ 3312 mục 3.2) hoặc ferritin < 30 ng/mL và/hoặc bão hòa < 30% (QĐ 1832 Thiếu máu thiếu sắt mục 4.1): xem sổ mâu thuẫn. Bé từ chối: không trì hoãn sắt chờ xét nghiệm (BSG 2021 khuyến cáo 17); Hb tăng ≥ 10 g/L trong 2 tuần gợi ý thiếu sắt (BSG 2021 khuyến cáo 5). FIGO 2018 mục 6.1 đề nghị đo ferritin."
+    },
+    "hong_cau_luoi": {
+     "v": "a",
+     "r": "Bé không đồng ý lấy máu tĩnh mạch; không có kết quả.",
+     "n": "Chấp nhận, không bắt buộc: QĐ 3312 mục 4.2 dùng hồng cầu lưới tăng sau 5–10 ngày để xác nhận đáp ứng sắt."
+    },
+    "phet_mau": {
+     "v": "a",
+     "r": "Bé không đồng ý lấy máu tĩnh mạch; không có kết quả.",
+     "n": "Chấp nhận: hồng cầu nhỏ nhược sắc (QĐ 3312 mục 3.2); hồng cầu bia gợi ý thalassemia (QĐ 3312 Thalassemia mục 2.1c)."
+    },
+    "dien_di_hb": {
+     "v": "a",
+     "r": "Bé không đồng ý lấy máu tĩnh mạch; không có kết quả.",
+     "n": "Chấp nhận, hoãn được: điện di Hb xác định thalassemia (QĐ 3312 Thalassemia mục 2.2)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân thành khuôn, không hồng cầu, không thấy trứng giun.",
+     "n": "Chấp nhận, không cần lấy máu: trứng giun móc gây mất máu mạn (QĐ 1832 Thiếu máu thiếu sắt mục 3.2; Thiếu máu mục 4.2.5)."
+    },
+    "crp": {
+     "n": "Không cần: không sốt, khớp không sưng; thiếu máu trong viêm mạn có ferritin tăng (QĐ 1832 Thiếu máu thiếu sắt mục 4.3b)."
+    },
+    "aslo": {
+     "n": "Không cần: không sốt, không viêm khớp, không viêm tim; thấp khớp cấp cần 2 tiêu chuẩn chính hoặc 1 chính + 2 phụ kèm bằng chứng nhiễm liên cầu (WHO 2013 mục 6.11, Bảng 20)."
+    },
+    "test_thai": {
+     "n": "Không cần: bé nói riêng chưa quan hệ tình dục, kinh đều. QĐ 315 mục 2.2 nêu thử thai cho phụ nữ trong tuổi sinh đẻ tùy tình huống."
+    },
+    "sa_chau": {
+     "n": "Không cần ở bước này (NICE NG88 1.3.1; FIGO 2018 mục 6.5: thiếu nữ chưa quan hệ, siêu âm đầu dò khó thực hiện)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt mức vừa (Hb mao mạch 94 g/L) ở thiếu nữ 15 tuổi, nghĩ do kinh nhiều từ lúc có kinh, ăn thiếu sắt (bỏ bữa sáng, trà sữa sau bữa) và dùng ibuprofen tự mua; cần tầm soát rối loạn đông máu",
+     "ok": 1,
+     "n": "Mệt, đau bắp chân, rụng tóc, móng mỏng khía, nứt khóe miệng, lưỡi nhẵn, kết mạc nhạt, âm thổi cơ năng (QĐ 3312 mục 3.1); Hb 94 g/L < 120 (QĐ 3312 mục 1; WHO 2024 Bảng 2–3). Nguyên nhân: dậy thì tăng nhu cầu, mất máu kinh nguyệt nhiều, ăn không đủ sắt (QĐ 3312 mục 2; QĐ 1832 mục 2.1–2.2). Kinh nhiều từ lúc có kinh kèm tiền sử gia đình chảy máu: cân nhắc xét nghiệm rối loạn đông máu (NICE NG88 1.2.7)."
+    },
+    {
+     "t": "Thalassemia",
+     "n": "Chưa loại trừ hẳn vì chưa có huyết đồ, điện di. Nghiêng về thiếu sắt: không vàng da, lách không to, không tiền sử gia đình thiếu máu (QĐ 1832 mục 4.3a; QĐ 3312 Thalassemia mục 2.1), có nguyên nhân mất máu rõ. Xác định bằng điện di Hb (QĐ 3312 Thalassemia mục 2.2) nếu không đáp ứng sắt."
+    },
+    {
+     "t": "Suy dinh dưỡng",
+     "n": "BMI 19,6 kg/m², ăn ngon, không gầy yếu (QĐ 1832 mục 4.3c). BMI theo tuổi dùng bách phân vị (QĐ 2892/2022 Bảng 7.1: < 5 thiếu cân); bảng bách phân vị nữ 15 tuổi: không có trong tài liệu đã tải. QĐ 4487/2016 chỉ áp dụng đến 72 tháng."
+    },
+    {
+     "t": "Thiếu máu do bệnh mạn, viêm (viêm khớp)",
+     "n": "Không sốt, khớp không sưng nóng đỏ; thiếu máu viêm mạn có ferritin tăng, CRP tăng (QĐ 1832 mục 4.3b). Bé có tín hiệu thiếu sắt rõ."
+    },
+    {
+     "t": "Thấp khớp cấp",
+     "n": "Không sốt, không viêm đa khớp, không viêm tim, không nhiễm liên cầu gần đây: không đủ tiêu chuẩn (WHO 2013 mục 6.11, Bảng 20). Âm thổi nhẹ: nghĩ thổi cơ năng do thiếu máu (QĐ 3312 mục 3.1: tăng cung lượng tim)."
+    },
+    {
+     "t": "Viêm nhiễm phụ khoa gây kinh nhiều, cần kháng sinh",
+     "n": "Không sốt, không đau bụng dưới, không khí hư, chưa quan hệ tình dục. Rong kinh là triệu chứng của nhiều tình trạng; bước đầu ở người con gái rong kinh từ lần có kinh đầu là loại trừ bệnh về máu (QĐ 315 mục 1; mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích một lần về lợi ích xét nghiệm máu, hỏi lý do sợ, tôn trọng quyết định của bé và mẹ, ghi vào hồ sơ việc từ chối; đề nghị cách nhẹ hơn: chích đầu ngón tay đo Hb, soi phân; hẹn xét nghiệm đầy đủ khi bé sẵn sàng",
+     "v": "c",
+     "n": "Phương án B khi từ chối: công thức máu cần cho kinh nhiều (NICE NG88 1.2.6) nên lấy Hb mao mạch làm mốc. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu sắt uống ngay, không chờ ferritin: 100–200 mg sắt nguyên tố/ngày (2–4 viên sắt II sulfat + acid folic 50 mg sắt) 3–6 tháng, hoặc 2 mg/kg/ngày ≈ 100 mg, 6–12 tháng (QĐ 1832), hoặc 4–6 mg/kg/ngày ≈ 196–294 mg trong 6–8 tuần (QĐ 3312), hoặc 1 viên/ngày (sắt sulfat 200 mg = 65 mg sắt), cách ngày nếu không dung nạp (BSG 2021)",
+     "v": "c",
+     "n": "Ba nguồn khác năm và đối tượng: QĐ 1832 (huyết học chung 2022, Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.1–5.2), QĐ 3312 (nhi 2015, mục 4.2, mục 5: Hb phục hồi sau 2–3 tháng), BSG 2021 (người lớn, khuyến cáo 17, 18, 20: tiếp tục khoảng 3 tháng sau khi Hb bình thường). Mức 4–6 mg/kg cao nhất, 50–100 mg/ngày thận trọng hơn. Cả ba đều đúng: xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Dặn uống sắt lúc đói hoặc giữa các bữa (kích ứng dạ dày thì uống lúc ăn); không uống trà, trà sữa, cà phê trong khoảng 1 giờ quanh viên sắt; vitamin C 50–100 mg/ngày hoặc nước cam cùng viên sắt, hoặc không cần vitamin C",
+     "v": "c",
+     "n": "QĐ 1832 mục 5.2 (lúc đói, kích ứng thì uống lúc ăn; nên thêm vitamin C hoặc nước cam), mục 7 (không trà, cà phê ngay sau ăn); QĐ 3312 mục 4.2 (vitamin C 50–100 mg/ngày). BSG 2021 (Oral IRT): ăn cùng bữa giảm hấp thu tới 75%, tác dụng của trà hết sau 60 phút, vitamin C không tăng đáp ứng theo một RCT lớn nên không khuyến cáo. Xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Báo trước phân đen, táo bón do sắt không phải xuất huyết tiêu hóa",
+     "v": "c",
+     "n": "QĐ 1832 Thiếu máu thiếu sắt mục 5.2; QĐ 3312 mục 5."
+    },
+    {
+     "t": "Ngưng ibuprofen tự mua; đau chân dùng paracetamol 500 mg khi cần, cách ít nhất 6 giờ",
+     "v": "c",
+     "n": "QĐ 361/2014 (Phụ lục NSAID mục 1: NSAID không chọn lọc gây viêm loét thủng dạ dày; mục 2: liều thấp nhất, ngắn nhất, uống khi no, kết hợp paracetamol; mục 3.2: chống chỉ định tuyệt đối khi bệnh lý chảy máu chưa kiểm soát); WHO 2013 (mục 10.4 tr. 305: ibuprofen có thể gây viêm dạ dày, paracetamol 15 mg/kg mỗi 6 giờ; Phụ lục 2 tr. 366: 10–15 mg/kg): 49 kg → 490–735 mg, chọn 500 mg. Nguyên nhân đau chân: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích cho mẹ bằng tiêu chí cụ thể (không sốt, không đau bụng dưới, không khí hư, khớp không sưng), nói rõ thuốc đúng là sắt; hứa đánh giá lại sau 2 tuần",
+     "v": "c",
+     "n": "Phác đồ thiếu máu thiếu sắt là bổ sung sắt và điều trị nguyên nhân, không có kháng sinh (QĐ 3312 mục 4; QĐ 1832 Thiếu máu thiếu sắt mục 5). Rong kinh cần loại trừ bệnh về máu trước (QĐ 315 mục 3.2.1). Lời thoại: phiếu nhận xét."
+    },
+    {
+     "t": "Gặp riêng bé (mẹ ra ngoài): hỏi kinh nguyệt (từ kỳ đầu, số ngày, số băng, máu cục), chảy máu cam, bầm tím, tiền sử gia đình chảy máu hoặc băng huyết; hỏi bé lo điều gì nhất",
+     "v": "c",
+     "n": "NICE NG88 1.2.1 (bệnh sử tính chất ra máu, ảnh hưởng chất lượng sống); FIGO 2018 Bảng 3: sàng lọc bằng bệnh sử có cấu trúc (nhạy 90%), dương tính khi kinh nhiều từ lúc có kinh, băng huyết, chảy máu sau thủ thuật, bầm tím, chảy máu cam, chảy máu chân răng, tiền sử gia đình. Kỹ năng gặp riêng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chế độ ăn giàu sắt: thịt nạc, thịt bò, lòng đỏ trứng, rau xanh; không bỏ bữa sáng",
+     "v": "c",
+     "n": "QĐ 1832 Thiếu máu mục 4.2.1a; QĐ 3312 mục 4.2 (điều chỉnh chế độ dinh dưỡng)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần kèm công thức máu; đến ngay nếu choáng, ngất, khó thở, đau ngực, ra máu kinh ồ ạt hơn thường lệ, phân đen kèm đau bụng hoặc nôn máu",
+     "v": "c",
+     "n": "BSG 2021 (khuyến cáo 5, 20): đáp ứng tốt khi Hb tăng ≥ 10 g/L trong 2 tuần, theo dõi 4 tuần đầu; QĐ 1832 Thiếu máu mục 4.2.1a: công thức máu 1–2 tuần/lần tới khi Hb 100 g/L rồi hàng tháng. Thiếu máu kéo dài có thể gây suy tim (QĐ 3312 mục 5). Ngưỡng lượng máu cần đến ngay: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh 5–7 ngày cho 'sạch viêm'",
+     "v": "w",
+     "n": "Không có dấu hiệu nhiễm khuẩn; kháng sinh không nằm trong điều trị thiếu máu thiếu sắt hay kinh nhiều (QĐ 3312 mục 4; QĐ 315 mục 3.2.1)."
+    },
+    {
+     "t": "Cho bé tiếp tục ibuprofen 'khi đau'",
+     "v": "w",
+     "n": "NSAID gây tổn thương tiêu hóa, cần thận trọng khi có nguy cơ chảy máu (QĐ 361/2014 Phụ lục NSAID mục 1, 3.2); bé đã uống lúc đói."
+    },
+    {
+     "t": "Truyền máu hoặc truyền sắt tĩnh mạch ngay hôm nay",
+     "v": "w",
+     "n": "Truyền máu khi Hb ≤ 40 g/L, cần nâng nhanh hoặc suy tim (QĐ 3312 mục 4.2); sắt tĩnh mạch chỉ cho thiếu máu thiếu sắt nặng, không hấp thu hoặc bệnh mạn đang tiến triển (QĐ 1832 mục 5.1). Bé Hb 94 g/L, uống được."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt mức vừa (Hb mao mạch 94 g/L), chưa có chỉ số hồng cầu và ferritin vì bé từ chối lấy máu tĩnh mạch",
+     "Nguyên nhân nghĩ tới: kinh nhiều từ lúc có kinh, ăn thiếu sắt kèm trà sữa sau bữa, dùng ibuprofen lúc đói",
+     "Cần tầm soát rối loạn đông máu: kinh nhiều từ lúc có kinh, chảy máu cam, bầm tím, mẹ băng huyết sau sinh",
+     "Chưa loại trừ hẳn thalassemia (chưa huyết đồ, điện di); không suy dinh dưỡng; không thấp khớp cấp; không có dấu hiệu nhiễm khuẩn",
+     "Lo lắng về khả năng sinh sản của bé: lý do thật đến khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, triệu chứng thiếu máu và dấu hiệu nguy hiểm, ăn uống, thuốc tự mua, rồi gặp riêng bé về kinh nguyệt, chảy máu nơi khác, tiền sử gia đình, nỗi lo thật. Bé không tự kể chuyện kinh nhiều, mẹ không tự kể băng huyết: phải hỏi đúng (NICE NG88 1.2.1; FIGO 2018 Bảng 3).",
+     "Khám: kết mạc, lòng bàn tay nhạt, tóc khô thưa, móng mỏng khía, nứt khóe miệng, lưỡi nhẵn, âm thổi cơ năng; không vàng da, lách không to, khớp không sưng (QĐ 3312 mục 3.1). Giai đoạn 2 thiếu sắt đã mệt, mất tập trung (QĐ 1832 mục 3.1). Bé không điển hình: da ngăm, ăn ngon, không than xanh xao nên mẹ chỉ nghĩ tới viêm khớp.",
+     "CLS: Hb 94 g/L là mức vừa (WHO 2024 Bảng 3: 80–109 g/L; QĐ 3312 mục 1 và WHO 2024 cùng ngưỡng < 120 g/L cho nữ 15 tuổi). Bé từ chối nên chưa có MCV, ferritin; điều trị thử sắt được phép, đáp ứng Hb ≥ 10 g/L trong 2 tuần gợi ý thiếu sắt (BSG 2021 khuyến cáo 5, 17). Ngưỡng ferritin có hai cách: < 12 ng/mL (QĐ 3312 mục 3.2) hoặc < 30 ng/mL và/hoặc bão hòa transferrin < 30% (QĐ 1832 mục 4.1).",
+     "Kinh 7–8 ngày: vượt 'quá 7 ngày' của QĐ 315 (mục 1), chưa vượt '> 8 ngày' của FIGO 2018; nên dựa vào lượng máu và ảnh hưởng chất lượng sống (NICE NG88 1.1.1): thay băng mỗi 2 giờ, máu cục, dậy đêm.",
+     "Loại trừ: thalassemia (QĐ 1832 mục 4.3a; QĐ 3312 Thalassemia mục 2.2); suy dinh dưỡng (QĐ 1832 mục 4.3c); thiếu máu viêm mạn (QĐ 1832 mục 4.3b); thấp khớp cấp (WHO 2013 Bảng 20)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tôn trọng từ chối, ghi hồ sơ, đề nghị phương án B (Hb đầu ngón tay, soi phân) và hẹn lại xét nghiệm đầy đủ. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải.",
+     "Sắt uống ngay: 3 cách đều đúng, khác ở liều và thời gian (QĐ 1832 mục 4.2.1a, 5.2; QĐ 3312 mục 4.2; BSG 2021 khuyến cáo 18). Chọn 100 mg sắt/ngày (2 viên 50 mg): trong khoảng QĐ 1832, ≈ 2 mg/kg, cùng bậc 50–100 mg của BSG. Không trì hoãn chờ xét nghiệm (BSG 2021 khuyến cáo 17).",
+     "Ngưng ibuprofen: QĐ 361/2014 Phụ lục NSAID mục 1, 2, 3.2; WHO Pocket book 2013 mục 10.4. Dùng paracetamol 500 mg khi đau (10–15 mg/kg).",
+     "Không kháng sinh: không có nhiễm khuẩn; điều trị là sắt và tìm nguyên nhân mất máu (QĐ 3312 mục 4.2; QĐ 1832 mục 5.1, 5.3). Không truyền máu, không sắt tĩnh mạch: chưa đủ chỉ định (QĐ 3312 mục 4.2; QĐ 1832 mục 5.1). Hẹn 2 tuần kiểm tra Hb (BSG 2021 khuyến cáo 5, 20; QĐ 1832 mục 4.2.1a).",
+     "Ghi nhận và hỏi riêng nỗi lo sinh sản: lời trấn an về khả năng sinh sản của thiếu sắt hoặc kinh nhiều: không có trong tài liệu đã tải, không hứa chắc, không dọa; nói rõ đang tìm nguyên nhân và điều trị được."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) sulfat hoặc fumarat phối hợp acid folic",
+      "ham_luong": "50 mg sắt nguyên tố/viên (QĐ 1832 Thiếu máu mục 4.2.1a)",
+      "lieu": "2 viên/ngày = 100 mg sắt (≈ 2 mg/kg). Cách khác: 4–6 mg/kg/ngày = 196–294 mg (QĐ 3312 mục 4.2); hoặc 1 viên/ngày, cách ngày nếu không dung nạp (BSG 2021 khuyến cáo 18)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng lúc đói hoặc giữa các bữa; kích ứng dạ dày thì uống lúc ăn; cách trà, trà sữa, cà phê ít nhất 1 giờ",
+      "so_ngay": "Tiếp tục tới khi Hb về bình thường rồi thêm khoảng 3 tháng (QĐ 1832 mục 5.1; BSG 2021 khuyến cáo 20); QĐ 3312: 6–8 tuần, Hb thường hồi phục sau 2–3 tháng; QĐ 1832: 3–6 tháng hoặc 6–12 tháng",
+      "ghi_chu": "QĐ 1832 Thiếu máu thiếu sắt mục 5.2; QĐ 3312 mục 4.2, mục 5; BSG 2021. Phân đen, táo bón do sắt (QĐ 1832 mục 5.2). Vitamin C: QĐ 3312 mục 4.2 có thêm 50–100 mg/ngày, BSG 2021 không khuyến cáo (không thêm cũng được)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên (dạng sẵn có tại cơ sở)",
+      "lieu": "500 mg/lần (≈ 10 mg/kg; khoảng 10–15 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau chân, cách ít nhất 6 giờ, thay cho ibuprofen",
+      "so_ngay": "Chỉ những tối còn đau; tối đa/ngày cho nữ 15 tuổi: không có trong tài liệu đã tải",
+      "ghi_chu": "WHO Pocket book 2013 mục 10.4 tr. 305 (15 mg/kg mỗi 6 giờ), Phụ lục 2 tr. 366 (10–15 mg/kg); QĐ 361/2014 Phụ lục NSAID mục 2 (kết hợp paracetamol)."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại với mẹ khi đòi kháng sinh: 'Chị Mai à, em hiểu chị lo cho cháu và chính chị cũng từng được kháng sinh sau sinh. Kháng sinh chỉ chữa nhiễm trùng, mà Trâm không sốt, không đau bụng dưới, không ra khí hư, khớp không sưng. Cái làm cháu mệt, rụng tóc, đau chân là thiếu máu do thiếu sắt, nên thuốc đúng là viên sắt. Hai tuần nữa mình kiểm tra lại; nếu có dấu hiệu nhiễm trùng thật, em sẽ đề nghị kháng sinh trước.'",
+     "Lời thoại khi từ chối lấy máu: 'Em từng ngất hồi 9 tuổi nên sợ là phải. Xét nghiệm máu giúp bác sĩ biết cháu thiếu bao nhiêu và vì sao; hôm nay chưa muốn thì bác sĩ tôn trọng và ghi lại. Mình làm cách nhẹ hơn: chích đầu ngón tay, em nằm xuống, chị Linh ở bên. Khi nào sẵn sàng thì mình làm đầy đủ.'",
+     "Uống sắt mỗi ngày đều, lúc đói hoặc giữa các bữa; buồn nôn thì uống lúc ăn hoặc báo bác sĩ để giảm liều, uống cách ngày (BSG 2021 khuyến cáo 18). Phân đen, táo bón do sắt, không nguy hiểm (QĐ 1832 mục 5.2).",
+     "Không uống trà, trà sữa, cà phê ngay sau bữa ăn và trong khoảng 1 giờ quanh viên sắt (QĐ 1832 mục 7; BSG 2021). Ăn sáng; thêm thịt nạc, thịt bò, lòng đỏ trứng, rau xanh (QĐ 1832 mục 4.2.1a).",
+     "Ngưng ibuprofen; đau chân dùng paracetamol 500 mg khi cần, không tự mua thuốc giảm đau khác (QĐ 361/2014 Phụ lục NSAID).",
+     "Ghi lại từng kỳ kinh (số ngày, số băng mỗi ngày, máu cục) và mang theo; không cắt thuốc giữa chừng. Cách ghi nhật ký: không có trong tài liệu đã tải.",
+     "Đến ngay nếu choáng, ngất, khó thở, đau ngực, ra máu kinh ồ ạt hơn thường lệ, phân đen kèm đau bụng, nôn máu. Tái khám sau 2 tuần, mang theo thuốc; lần sau nếu bé đồng ý sẽ lấy máu tĩnh mạch (BSG 2021 khuyến cáo 5, 20)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần uống sắt. Bé nói đỡ mệt đôi chút, vẫn đau chân và rụng tóc; kỳ kinh vừa xong. Lần này mẹ đồng ý cho lấy máu tĩnh mạch. Sinh hiệu: nhiệt 36,9 °C, mạch 90 l/p, huyết áp 106/66 mmHg, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Trâm về tiếp tục uống sắt và hẹn lại sau 4 tuần là bỏ lỡ thời điểm: sau 2 tuần Hb chỉ tăng 6 g/L, dưới mốc ≥ 10 g/L, dự báo thất bại về sau và sắt tĩnh mạch hiệu quả hơn (BSG 2021). Kỳ kinh sau lại 8 ngày, mất thêm máu khi chưa ai tầm soát bệnh chảy máu dù kinh nhiều từ lúc có kinh (NICE NG88 1.2.7; FIGO 2018 Bảng 3); mẹ càng tin bác sĩ 'không tìm ra bệnh' và đòi kháng sinh.",
+    "theo_doi": "Giữ Trâm theo dõi tại phòng khám, tăng sắt lên 4–6 mg/kg/ngày (≈ 196–294 mg, QĐ 3312 mục 4.2) và coi PT/INR bình thường là hết lo bệnh chảy máu sẽ làm chậm chẩn đoán: xét nghiệm tầm soát nêu trong FIGO 2018 mục 6.3 là vWF, ristocetin cofactor, PTT, phòng khám không làm được. QĐ 315 mục 3.2 đặt rong kinh dưới sự điều trị của bác sĩ sản phụ khoa từ tuyến huyện.",
+    "nhap_vien": "Cho Trâm nhập viện truyền máu là quá tay: Hb 100 g/L, mạch 90 l/p, không suy tim; QĐ 3312 mục 4.2 chỉ truyền khi Hb ≤ 40 g/L, cần nâng nhanh hoặc suy tim, QĐ 1832 mục 4.1 duy trì tối thiểu 80 g/L và mục 5.1 hạn chế truyền máu. Bé nghỉ học, tốn chi phí, thêm kim tiêm cho một bé sợ kim, mà việc cần là tầm soát nguyên nhân chảy máu và cân nhắc sắt tĩnh mạch (BSG 2021 khuyến cáo 21)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỡ mệt chút xíu thôi, tóc vẫn rụng, kinh vừa rồi cũng ra nhiều như cũ. Em nghĩ chắc viêm nặng hơn, bác sĩ cho cháu ít kháng sinh nha. Lần này em cho lấy máu rồi đó.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "106/66",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Đỡ mệt một chút, buồn ngủ trên lớp ít hơn; vẫn đau chân buổi tối nhưng nhẹ hơn; tóc vẫn rụng nhiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 2 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống 2 viên sắt 50 mg mỗi sáng lúc đói; buồn nôn, táo bón, phân đen sẫm; quên uống khoảng 4 ngày trong 14 ngày vì buồn nôn. Ba buổi trưa vẫn uống trà sữa ngay sau bữa ăn rồi uống sắt sau đó 30 phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và tác dụng phụ của sắt"
+    },
+    {
+     "id": "kinh_lan_nay",
+     "noi_dung": "Kỳ kinh vừa xong kéo dài 8 ngày, ngày đầu thay băng 2 giờ một lần, có máu cục, đêm dậy thay hai lần như mọi tháng; không đau bụng dưới dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kỳ kinh trong 2 tuần qua"
+    },
+    {
+     "id": "chay_mau2",
+     "noi_dung": "Trong 2 tuần chảy máu cam thêm 1 lần 15 phút, bóp mũi vài phút chưa cầm; thêm vài vết bầm ở đùi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chảy máu nơi khác"
+    },
+    {
+     "id": "khong_tieu_hoa",
+     "noi_dung": "Không đau thượng vị, không nôn máu; ngoài phân đen sẫm do sắt, không thấy máu tươi, không tiêu chảy kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiêu hóa, mất máu tiêu hóa"
+    },
+    {
+     "id": "ibuprofen_ngung",
+     "noi_dung": "Đã ngưng ibuprofen; dùng paracetamol 500 mg 3 tối. Hết ợ nóng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "me_dong_y",
+     "noi_dung": "Lần này mẹ đồng ý lấy máu tĩnh mạch vì thấy con đỡ mệt và đã được giải thích; bé nắm tay điều dưỡng Linh, nhìn đi chỗ khác.",
+     "che_do": "tu_ke",
+     "k": 0
+    },
+    {
+     "id": "me_khang_sinh2",
+     "noi_dung": "Mẹ hỏi lại: kinh vẫn nhiều thế này có phải viêm nặng hơn không, cho cháu uống kháng sinh 'dự phòng' có đỡ ra máu không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "sinh_san2",
+     "noi_dung": "Bé hỏi nhỏ khi mẹ ra ngoài: 'Con bị giống mẹ, sau này con có sinh con được không? Bạn con nói kinh nhiều là hư tử cung.'",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bé, hỏi bé còn lo điều gì, hoặc nhắc lại chuyện mẹ băng huyết.",
+     "k": 1,
+     "y": "Nỗi lo sinh sản"
+    },
+    {
+     "id": "chuyen_tuyen_mong",
+     "noi_dung": "Mẹ lo chi phí đi tuyến tỉnh nhưng đồng ý nếu được giải thích; có thể đi cuối tuần, em bé gửi bà ngoại.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh; cân 49 kg; kết mạc mi dưới còn nhạt, không phù, không vàng da.",
+     "k": 1
+    },
+    "da": {
+     "a": "Hai vết bầm xanh–vàng 2–3 cm ở mặt trước đùi phải, một vết 1 cm ở đùi trái; không chấm xuất huyết dưới da, không ban.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hơi khô, có vảy máu nhỏ ở vách ngăn bên phải, không đang chảy máu; họng không đỏ.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Tóc thưa ở thái dương, móng còn mỏng và khía dọc, không đổi nhiều so với lần trước.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Nứt khóe miệng đỡ, lưỡi còn nhẵn ở rìa; không chấm xuất huyết niêm mạc miệng, chân răng không chảy máu.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 90 l/p, T1 T2 rõ, âm thổi tâm thu cơ năng 1/6 như lần trước.",
+     "k": 0,
+     "hien": "Tim đều, tần số 90 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Khớp không sưng, ấn cơ bắp chân đau nhẹ hơn lần trước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "Hb 100 g/L · MCV 72 fL · RDW 16,9% · BC 6,9 G/L · TC 368 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 55.0,
+      "neu": 3.8,
+      "lym_pct": 33.0,
+      "lym": 2.3,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 4.0,
+      "eos": 0.3,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.35,
+      "hgb": 100,
+      "hct": 0.313,
+      "mcv": 72,
+      "mch": 23.0,
+      "mchc": 319,
+      "rdw": 16.9,
+      "plt": 368
+     },
+     "n": "Cần: hồng cầu nhỏ nhược sắc, RDW tăng (QĐ 3312 mục 3.2: MCV, MCH, MCHC giảm, RDW > 14,5%; QĐ 1832 mục 3.2: bạch cầu, tiểu cầu bình thường). Hb 100 g/L, tăng 6 g/L sau 2 tuần (lần trước mao mạch, lần này tĩnh mạch; chênh lệch giữa hai cách đo: không có trong tài liệu đã tải), dưới mốc ≥ 10 g/L trong 2 tuần (BSG 2021 khuyến cáo 5) và dưới tốc độ 1,0–1,5 g/L/ngày sau 10 ngày (QĐ 3312 mục 4.2). Vẫn mức vừa (WHO 2024 Bảng 3)."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "ab": 1,
+     "r": "Ferritin 7 ng/mL · sắt huyết thanh 5 µmol/L · độ bão hòa transferrin 7%",
+     "n": "Thiếu sắt đạt cả hai ngưỡng: ferritin < 12 ng/mL, sắt < 9 µmol/L, bão hòa < 16% (QĐ 3312 mục 3.2) và ferritin < 30 ng/mL, bão hòa < 30% (QĐ 1832 Thiếu máu thiếu sắt mục 4.1). Đo ferritin khi kinh nhiều: FIGO 2018 mục 6.1."
+    },
+    "phet_mau": {
+     "v": "a",
+     "ab": 1,
+     "r": "Hồng cầu nhỏ, nhược sắc, kích thước không đều, có hồng cầu hình bút chì; không thấy hồng cầu bia.",
+     "n": "Chấp nhận, không bắt buộc: nhược sắc, kích thước không đều (QĐ 3312 mục 3.2); hồng cầu bia gợi ý thalassemia (QĐ 3312 Thalassemia mục 2.1c)."
+    },
+    "dien_di_hb": {
+     "v": "a",
+     "r": "HbA 97% · HbA2 2,6% · HbF < 1%; không có Hb E, Hb H.",
+     "n": "Chấp nhận, không bắt buộc: không thiên về thalassemia vì ferritin thấp, không vàng da, lách không to (QĐ 1832 mục 4.3a; QĐ 3312 Thalassemia mục 2.1–2.2: ferritin bình thường hoặc tăng, HbA < 96%, có Hb E hoặc Hb H)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "INR 1,0",
+     "n": "Chấp nhận, không bắt buộc: PT là một trong các xét nghiệm đông máu tầm soát (QĐ 1832 Thiếu máu thiếu sắt mục 3.2) nhưng FIGO 2018 mục 6.3 nêu vWF, ristocetin cofactor, PTT (phòng khám không có). Làm hay không đều không trừ điểm."
+    },
+    "celiac": {
+     "v": "a",
+     "r": "Anti-tTG IgA âm tính.",
+     "n": "Chấp nhận: celiac gặp 3–5% IDA không rõ nguyên nhân, anti-tTG là xét nghiệm sàng lọc (BSG 2021, Coeliac disease and IDA); ca có nguyên nhân mất máu rõ nên không bắt buộc."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân thành khuôn, không hồng cầu, không thấy trứng giun.",
+     "n": "Chấp nhận: tìm ký sinh trùng, trứng giun móc (QĐ 1832 mục 3.2)."
+    },
+    "sa_chau": {
+     "n": "Không cần ở bước này: thiếu nữ chưa quan hệ, siêu âm đầu dò khó thực hiện (FIGO 2018 mục 6.5; NICE NG88 1.3.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt mức vừa (Hb 100 g/L, ferritin 7 ng/mL) đáp ứng chưa đủ với sắt uống, do kinh nhiều từ lúc có kinh nghi do rối loạn đông máu, kèm dùng thuốc chưa đều; cần chuyển tuyến",
+     "ok": 1,
+     "n": "Hb chỉ tăng 6 g/L sau 2 tuần, dưới ≥ 10 g/L (BSG 2021 khuyến cáo 5). Thất bại có thể do không tuân thủ, tiếp tục mất máu (BSG 2021). Kinh nhiều từ lúc có kinh kèm bầm tím, chảy máu cam, mẹ băng huyết: sàng lọc dương tính rối loạn đông máu (FIGO 2018 Bảng 3; NICE NG88 1.2.7); QĐ 315 mục 3.2.1: loại trừ bệnh về máu trước khi cầm máu."
+    },
+    {
+     "t": "Thalassemia",
+     "n": "Ferritin thấp, không vàng da, lách không to, HbA 97%, không có Hb E, Hb H: không thiên về thalassemia (QĐ 1832 mục 4.3a; QĐ 3312 Thalassemia mục 2.1–2.2)."
+    },
+    {
+     "t": "Suy dinh dưỡng",
+     "n": "BMI 19,6 kg/m², ăn đủ bữa, không gầy yếu (QĐ 1832 mục 4.3c)."
+    },
+    {
+     "t": "Mất máu tiêu hóa do ibuprofen, celiac hoặc giun móc",
+     "n": "Không đau thượng vị, không nôn máu, phân đen chỉ sau uống sắt, soi phân không hồng cầu, không trứng giun, anti-tTG âm tính (QĐ 361/2014 Phụ lục NSAID mục 1; QĐ 1832 mục 3.2; BSG 2021)."
+    },
+    {
+     "t": "Viêm nhiễm phụ khoa",
+     "n": "Không sốt, không đau bụng dưới, không khí hư; kinh nhiều từ kỳ đầu, nên loại trừ bệnh máu trước (QĐ 315 mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến bệnh viện có huyết học và sản phụ khoa nhi để tầm soát rối loạn đông máu (vWF, ristocetin cofactor, PTT) và xử trí kinh nhiều, cân nhắc sắt tĩnh mạch",
+     "v": "c",
+     "n": "Hb tăng < 10 g/L sau 2 tuần: sắt tĩnh mạch hiệu quả hơn tiếp tục sắt uống (BSG 2021 khuyến cáo 21, Treatment). Kinh nhiều từ lúc có kinh, sàng lọc dương tính: xét nghiệm hoặc hội chẩn huyết học (NICE NG88 1.2.7; FIGO 2018 mục 6.3, Bảng 3); QĐ 1832 mục 3.2: đông máu, vWF khi rong kinh. QĐ 315 mục 3.2: rong kinh cần bác sĩ sản phụ khoa từ tuyến huyện. Tiêu chuẩn chuyển tuyến riêng cho thiếu máu thiếu sắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuẩn bị chuyển: thư chuyển ghi Hb, ferritin, thuốc sắt đã dùng và mức tuân thủ, ibuprofen đã dùng, bệnh sử kinh, chảy máu cam, bầm tím, mẹ băng huyết; ngưng NSAID; tiếp tục sắt trong lúc chờ; bàn giao cho mẹ và gọi tuyến trên báo trước",
+     "v": "c",
+     "n": "Không trì hoãn sắt khi chờ xét nghiệm (BSG 2021 khuyến cáo 17); NSAID chống chỉ định tuyệt đối khi bệnh lý chảy máu chưa kiểm soát (QĐ 361/2014 Phụ lục NSAID mục 3.2). Quy trình bàn giao chi tiết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cải thiện tuân thủ sắt: tiếp tục 100 mg/ngày uống giữa bữa, hoặc giảm liều, uống cách ngày nếu buồn nôn; bỏ trà sữa quanh viên sắt",
+     "v": "c",
+     "n": "QĐ 1832 mục 5.2 (kích ứng thì uống lúc ăn; không trà, cà phê ngay sau ăn: mục 7); BSG 2021 khuyến cáo 18 (không dung nạp: cách ngày hoặc đổi dạng), ăn cùng bữa giảm hấp thu tới 75%. Hoặc QĐ 3312 mục 4.2: 4–6 mg/kg/ngày; mức thận trọng hơn là 50–100 mg/ngày."
+    },
+    {
+     "t": "Không kê kháng sinh 'dự phòng'; giải thích lần hai bằng tiêu chí, nói kỳ kinh nhiều cần tìm nguyên nhân chứ không phải nhiễm trùng",
+     "v": "c",
+     "n": "Không có dấu hiệu nhiễm khuẩn; điều trị kinh nhiều bắt đầu bằng loại trừ bệnh máu (QĐ 315 mục 3.2.1)."
+    },
+    {
+     "t": "Gặp riêng bé, trả lời nỗi lo sinh sản trung thực: tài liệu chưa nói về chuyện này nên không hứa chắc, không dọa; việc làm là tìm cho ra nguyên nhân và chữa",
+     "v": "c",
+     "n": "Ảnh hưởng của thiếu sắt hoặc kinh nhiều lên sinh sản: không có trong tài liệu đã tải. NICE NG88 1.1.1: can thiệp nhằm cải thiện chất lượng sống chứ không chỉ lượng máu mất."
+    },
+    {
+     "t": "Cho thuốc nội tiết cầm kinh ngay tại phòng khám",
+     "v": "w",
+     "n": "Ở người con gái rong kinh từ lần có kinh đầu, bước đầu là loại trừ bệnh về máu rồi mới đặt vấn đề cầm máu (QĐ 315 mục 3.2.1)."
+    },
+    {
+     "t": "Cho ibuprofen hoặc aspirin giảm đau chân",
+     "v": "w",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.2: chống chỉ định tuyệt đối khi bệnh lý chảy máu chưa kiểm soát; đang nghi rối loạn đông máu."
+    },
+    {
+     "t": "Nhập viện truyền máu",
+     "v": "w",
+     "n": "Hb 100 g/L, không suy tim: chưa đủ chỉ định (QĐ 3312 mục 4.2: Hb ≤ 40 g/L; QĐ 1832 mục 4.1 duy trì tối thiểu 80 g/L, mục 5.1 hạn chế truyền máu)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt mức vừa, ferritin 7 ng/mL, MCV 72 fL, đáp ứng chưa đủ sau 2 tuần sắt uống (Hb tăng 6 g/L)",
+     "Nguyên nhân chính nghĩ tới: kinh nhiều từ lúc có kinh, nghi rối loạn đông máu (bầm tím, chảy máu cam, mẹ băng huyết); góp phần: ăn thiếu sắt, trà sữa, uống thuốc không đều",
+     "Đã loại trừ ở mức cho phép: thalassemia, suy dinh dưỡng, mất máu tiêu hóa, celiac, giun móc, nhiễm khuẩn phụ khoa",
+     "Có chỉ định chuyển tuyến huyết học, sản phụ khoa nhi",
+     "Nỗi lo sinh sản của bé: cần được lắng nghe, trả lời trung thực"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần: triệu chứng đỡ nhẹ, Hb tăng 6 g/L trong 2 tuần. Mốc đáp ứng tốt ≥ 10 g/L trong 2 tuần (BSG 2021 khuyến cáo 5); không đạt mốc dự báo thất bại về sau, sắt tĩnh mạch hiệu quả hơn (BSG 2021). QĐ 3312 mục 4.2: Hb tăng 1,0–1,5 g/L/ngày sau 10 ngày. Bé đáp ứng dưới mong đợi.",
+     "Vì sao thấp: không tuân thủ (quên 4/14 ngày), trà sữa quanh viên sắt (QĐ 1832 mục 7; BSG 2021), kỳ kinh 8 ngày vừa qua (tiếp tục mất máu); BSG 2021 nêu cả hai là nguyên nhân thất bại. Chưa gọi là kháng sắt khi mới 2 tuần và dùng không đều.",
+     "Vì sao nghĩ rối loạn đông máu: kinh nhiều từ lúc có kinh, chảy máu cam, bầm tím, mẹ băng huyết sau sinh, bà ngoại ra máu nhiều khi sinh. Sàng lọc dương tính khi kinh nhiều từ lúc có kinh hoặc băng huyết (FIGO 2018 Bảng 3); NICE NG88 1.2.7 cân nhắc xét nghiệm khi kinh nhiều từ lúc có kinh kèm tiền sử cá nhân hoặc gia đình gợi ý; QĐ 1832 mục 3.2 xét nghiệm đông máu, vWF khi rong kinh, không đòi hỏi bệnh sử dương tính. Ca này bệnh sử dương tính nên hai nguồn cùng hướng. PT/INR không phải xét nghiệm tầm soát nêu ở FIGO (vWF, ristocetin cofactor, PTT).",
+     "Xét nghiệm: ferritin 7 ng/mL, sắt 5 µmol/L, bão hòa 7% đạt cả hai ngưỡng (QĐ 3312 mục 3.2; QĐ 1832 mục 4.1); MCV 72 fL, RDW 16,9% (QĐ 3312 mục 3.2); HbA 97%, ferritin thấp, không vàng da, lách không to: không thalassemia (QĐ 1832 mục 4.3a; QĐ 3312 Thalassemia mục 2.1–2.2).",
+     "Kinh 8 ngày vượt 'quá 7 ngày' của QĐ 315 (mục 1), chưa vượt 8 ngày của FIGO 2018; chẩn đoán dựa vào lượng và ảnh hưởng chất lượng sống (NICE NG88 1.1.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì ba lý do cùng lúc: (1) Hb tăng < 10 g/L sau 2 tuần nên cần cân nhắc sắt tĩnh mạch (BSG 2021 khuyến cáo 21; QĐ 1832 mục 5.1 chỉ định khi thiếu máu nặng, không hấp thu hoặc bệnh mạn), (2) cần xét nghiệm vWF, ristocetin cofactor, PTT mà phòng khám không có (FIGO 2018 mục 6.3), (3) rong kinh cần bác sĩ sản phụ khoa từ tuyến huyện (QĐ 315 mục 3.2). Tiêu chuẩn chuyển tuyến riêng cho thiếu máu thiếu sắt: không có trong tài liệu đã tải.",
+     "Chuẩn bị trước chuyển: thư chuyển đủ Hb, ferritin, thuốc, tuân thủ, bệnh sử chảy máu; ngưng NSAID (QĐ 361/2014 mục 3.2); tiếp tục sắt trong lúc chờ (BSG 2021 khuyến cáo 17); không cho nội tiết cầm kinh trước khi loại trừ bệnh máu (QĐ 315 mục 3.2.1); không truyền máu (QĐ 3312 mục 4.2).",
+     "Giữ tuân thủ: buồn nôn thì cách ngày hoặc giảm liều (BSG 2021 khuyến cáo 18); QĐ 3312 mục 4.2 nêu 4–6 mg/kg/ngày; con số thận trọng hơn là 50–100 mg/ngày. Bỏ trà sữa quanh viên sắt (QĐ 1832 mục 7).",
+     "Không kháng sinh: không có nhiễm khuẩn; lần này lời thoại có thêm việc 'kinh nhiều là cần tìm nguyên nhân, đang làm ngay'.",
+     "Nỗi lo sinh sản: lời hứa hay phủ nhận về khả năng sinh sản không có trong tài liệu đã tải, nên nói thật điều đã biết và việc sắp làm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) sulfat hoặc fumarat phối hợp acid folic",
+      "ham_luong": "50 mg sắt nguyên tố/viên",
+      "lieu": "Giữ 100 mg/ngày; nếu buồn nôn thì giảm liều hoặc uống cách ngày (BSG 2021 khuyến cáo 18)",
+      "duong": "Uống",
+      "thoi_diem": "Giữa các bữa hoặc lúc ăn nếu kích ứng; cách trà sữa ít nhất 1 giờ",
+      "so_ngay": "Tiếp tục trong lúc chờ khám tuyến trên; quyết định sắt tĩnh mạch hoặc đổi dạng: tuyến trên",
+      "ghi_chu": "BSG 2021 khuyến cáo 17, 18, 21; QĐ 1832 mục 5.2; QĐ 3312 mục 4.2 (4–6 mg/kg/ngày)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg/lần, cách ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau chân",
+      "so_ngay": "Chỉ khi cần; tối đa/ngày: không có trong tài liệu đã tải",
+      "ghi_chu": "WHO Pocket book 2013 mục 10.4 tr. 305, Phụ lục 2 tr. 366; không dùng ibuprofen, aspirin (QĐ 361/2014 Phụ lục NSAID mục 3.2)."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: thiếu sắt rõ, máu lên chậm vì uống thuốc chưa đều và vì mất máu kinh; cần chuyên khoa tìm xem máu có khó đông không, có thể cần truyền sắt tĩnh mạch.",
+     "Lời thoại khi mẹ hỏi kháng sinh 'dự phòng': 'Chị ơi, kinh nhiều lần này không phải do viêm: cháu không sốt, không đau bụng, không ra khí hư. Điều em lo là máu cháu có thể khó cầm, nên em chuyển cháu lên bệnh viện làm xét nghiệm đúng bệnh. Kháng sinh sẽ không làm hết ra máu.'",
+     "Lời thoại với bé về nỗi lo sinh sản: 'Em lo là phải. Tài liệu bác sĩ có không bàn chuyện này nên bác sĩ không hứa chắc cũng không dọa em. Bác sĩ biết chắc một điều: nguyên nhân kinh nhiều của em cần được tìm ra và chữa, và việc em đi khám hôm nay là việc đúng.'",
+     "Mang theo thư chuyển, sổ khám, hộp thuốc sắt đang dùng; không uống ibuprofen hay aspirin; tiếp tục sắt. Nếu chảy máu cam hoặc ra máu kinh ồ ạt không cầm, đến cấp cứu ngay; ngưỡng lượng máu cụ thể: không có trong tài liệu đã tải.",
+     "Mẹ nên đi khám thiếu máu và hỏi lại bác sĩ sản về băng huyết; gửi em bé cho bà ngoại ngày đi khám.",
+     "Hẹn: khám tuyến trên trong tuần; mang kết quả về phòng khám để theo dõi tiếp (BSG 2021 khuyến cáo 20: theo dõi Hb 4 tuần đầu, tiếp tục sắt khoảng 3 tháng sau khi Hb bình thường)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tại bệnh viện tuyến tỉnh (kết cục minh họa của ca, không dẫn từ tài liệu): xét nghiệm vWF, ristocetin cofactor, PTT cho thấy hoạt tính vWF giảm nhẹ, bé được chẩn đoán bệnh von Willebrand thể nhẹ; bé được truyền sắt tĩnh mạch một đợt vì sắt uống đáp ứng kém và hướng dẫn xử trí kinh nhiều; Hb lên 118 g/L sau 8 tuần. Mẹ cũng được hẹn kiểm tra rối loạn đông máu. Bé hỏi riêng bác sĩ chuyên khoa chuyện sinh sản và được giải thích kỹ; từ đó bé đồng ý lấy máu khi cần và quay lại tái khám đúng hẹn.",
+ "nhieu": [
+  "Mẹ đòi kháng sinh: xuất phát từ kinh nghiệm sau sinh của mẹ, không liên quan thiếu sắt; cần từ chối bằng tiêu chí và việc làm thay thế, không chỉ nói 'không cần'.",
+  "Bé và mẹ từ chối lấy máu tĩnh mạch vì sợ (ngất lúc 9 tuổi): không phải 'xét nghiệm không cần'; cần phương án B (Hb đầu ngón tay, soi phân) và hẹn lại.",
+  "Trà sữa ngay sau bữa ăn và bỏ bữa sáng: nhiễu thật, làm giảm hấp thu sắt và đáp ứng điều trị (QĐ 1832 mục 7; BSG 2021)."
+ ],
+ "bai_hoc_bien": [
+  "Bệnh nhân từ chối xét nghiệm: giải thích một lần, hỏi lý do, tôn trọng, ghi hồ sơ, đưa phương án B (Hb đầu ngón tay, soi phân, điều trị thử và hẹn xét nghiệm); thủ tục ghi nhận từ chối: không có trong tài liệu đã tải.",
+  "Đòi kháng sinh: từ chối bằng tiêu chí cụ thể (không sốt, không đau bụng dưới, không khí hư, khớp không sưng), nói thuốc đúng là gì và hẹn đánh giá lại; mẹ hỏi lần hai thì giải thích lại, vẫn dịu giọng.",
+  "Thuốc giảm đau tự mua: ibuprofen lúc đói hại tiêu hóa, chống chỉ định khi bệnh chảy máu chưa kiểm soát (QĐ 361/2014 Phụ lục NSAID mục 1, 3.2).",
+  "Lý do thật (lo sinh sản): hỏi riêng bé, hỏi 'em lo điều gì nhất'; trả lời trung thực khi tài liệu không có, không hứa chắc, không dọa.",
+  "Khởi phát sau sinh của mẹ: sinh hoạt gia đình đổi (bé gánh việc nhà, bỏ bữa) và mẹ băng huyết là manh mối rối loạn đông máu; phải hỏi tiền sử gia đình.",
+  "Không điển hình: da ngăm, ăn ngon, không than xanh xao, biểu hiện đau chân, rụng tóc, buồn ngủ; giai đoạn 2 thiếu sắt đã mệt, mất tập trung dù chưa thiếu máu rõ (QĐ 1832 mục 3.1).",
+  "Đỡ một phần: Hb tăng < 10 g/L trong 2 tuần phải tự hỏi tuân thủ, trà sữa, mất máu tiếp tục; không vội coi là kháng sắt (BSG 2021). Chuyển tuyến kịp thời: kinh nhiều từ lúc có kinh và sàng lọc dương tính cần xét nghiệm vWF mà phòng khám không làm được; chuẩn bị thư chuyển và bàn giao."
+ ],
+ "diem_nho": [
+  "Thiếu máu ở nữ 15 tuổi: Hb < 120 g/L; mức vừa 80–109 g/L (WHO 2024 Bảng 2, Bảng 3; QĐ 3312 Thiếu máu thiếu sắt mục 1).",
+  "Thiếu sắt có hai ngưỡng ferritin (< 12 ng/mL: QĐ 3312 mục 3.2; < 30 ng/mL: QĐ 1832 mục 4.1) và ba cách liều sắt uống (QĐ 1832, QĐ 3312, BSG 2021); đáp ứng tốt khi Hb tăng ≥ 10 g/L trong 2 tuần (BSG 2021 khuyến cáo 5).",
+  "Kinh nhiều từ lúc có kinh: sàng lọc rối loạn đông máu bằng bệnh sử (FIGO 2018 Bảng 3; NICE NG88 1.2.7); QĐ 315 mục 3.2.1: loại trừ bệnh về máu trước khi cầm máu.",
+  "Sắt uống: lúc đói hoặc giữa các bữa, không trà, cà phê ngay sau ăn (QĐ 1832 mục 5.2, 7); phân đen do sắt không phải xuất huyết (QĐ 1832 mục 5.2). Vitamin C: QĐ 3312/1832 nên thêm, BSG 2021 không khuyến cáo.",
+  "NSAID: chống chỉ định tuyệt đối khi bệnh lý chảy máu chưa kiểm soát (QĐ 361/2014 Phụ lục NSAID mục 3.2)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – Bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Thiếu máu thiếu sắt mục 1–6 (tr. 539–542); Thalassemia mục 2.1–2.2 (tr. 543)",
+  "QĐ 1832/QĐ-BYT 2022 – Bệnh lý huyết học – TL-0542 (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Thiếu máu mục 4.1, 4.2.1a, 4.2.5 (tr. 13–15); Thiếu máu thiếu sắt mục 1–7 (tr. 17–20)",
+  "WHO 2024 – Guideline on haemoglobin cutoffs to define anaemia – TL-0244 – ĐÃ ĐỌC: Bảng 2, Bảng 3",
+  "NICE NG88 2018 (cập nhật 07/2026) – Heavy menstrual bleeding – TL-0640 – ĐÃ ĐỌC: 1.1.1, 1.2.1–1.2.10, 1.3.1, ghi chú cập nhật 07/2026 (bỏ khuyến cáo 1.2.8)",
+  "FIGO 2018 – Two FIGO systems for uterine bleeding (Munro) – TL-0642 – ĐÃ ĐỌC: mục 3 (định nghĩa), 6.1, 6.3 và Bảng 3, mục 6.5",
+  "QĐ 315/QĐ-BYT 2015 – Bệnh sản phụ khoa – TL-0036 – ĐÃ ĐỌC: Rong kinh rong huyết mục 1, 2.1, 2.2, 3.2, 3.2.1 (tr. 196–199)",
+  "BSG 2021 – Management of iron deficiency anaemia in adults (Snook) – TL-0219 – ĐÃ ĐỌC: khuyến cáo 5, 17, 18, 20, 21; Treatment of IDA (Oral IRT); Coeliac disease and IDA (viết cho người lớn; dùng tham khảo vì WHO 2024 xếp nữ ≥ 15 tuổi vào nhóm người lớn)",
+  "QĐ 361/QĐ-BYT 2014 – Bệnh cơ xương khớp – TL-0286 – ĐÃ ĐỌC: Phụ lục, Hướng dẫn sử dụng NSAID mục 1, 2, 3.2, 3.3",
+  "WHO Pocket book 2013 – TL-0250 – ĐÃ ĐỌC: mục 6.11 (tr. 193–194) và Bảng 20; mục 10.4 (tr. 305); mục 10.5–10.6 (tr. 307–308); Phụ lục 2 (tr. 366)",
+  "QĐ 2892/QĐ-BYT 2022 – Bệnh béo phì – TL-0281 – ĐÃ ĐỌC: mục 7, Bảng 7.1 (BMI theo tuổi)",
+  "WHO 2016 – Daily iron supplementation – TL-0249 – ĐÃ ĐỌC: Bảng C (5–12 tuổi, dự phòng cộng đồng): không áp dụng"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26 (bản 1): viết lần đầu. Diễn giải biến 'Sau sinh': mẹ của bé vừa sinh em 5 tháng trước (băng huyết sau sinh), làm đổi sinh hoạt, ăn uống của bé và là manh mối tiền sử gia đình chảy máu; bé không phải người sinh con.",
+  "Ràng buộc 'bệnh nhân từ chối xét nghiệm': ở lượt 1 mọi xét nghiệm máu tĩnh mạch có kết quả 'từ chối'; phương án B là Hb mao mạch (khai trong r của ctm vì danh mục chưa có id riêng, xem đề xuất hb_mao_mach) và soi phân; lượt 2 bé đồng ý lấy máu.",
+  "Tuổi 15 chọn để cả tài liệu nhi (QĐ 3312) và tài liệu người lớn (QĐ 1832, BSG 2021, WHO 2024 nữ ≥ 15 tuổi) cùng áp dụng với cùng ngưỡng Hb < 120 g/L.",
+  "Mâu thuẫn ghi cả hai cách: ngưỡng ferritin, liều và thời gian sắt, vitamin C (mới), xét nghiệm đông máu khi kinh nhiều, kinh kéo dài 7/8 ngày, ngưỡng truyền máu (xem NH-1252_mau_thuan.md).",
+  "Không có trong tài liệu đã tải: thủ tục ghi nhận từ chối, chênh lệch Hb mao mạch và tĩnh mạch, bách phân vị BMI theo tuổi, nguyên nhân đau chân, ảnh hưởng thiếu sắt hoặc kinh nhiều lên sinh sản, tối đa paracetamol/ngày, tiêu chuẩn chuyển tuyến riêng cho thiếu máu thiếu sắt, lượng máu kinh cần đến ngay. Kết cục là minh họa."
+ ]
+}
