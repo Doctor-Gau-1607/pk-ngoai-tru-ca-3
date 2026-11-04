@@ -1,0 +1,859 @@
+{
+ "ma_ca": "NH-0095",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_nkhh_tren_cap_mau_giao",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 15,
+  "chieu_cao": 100,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ trả lời vài chữ khi được hỏi trực tiếp (vd 'Con ho', 'Con mệt'). Mẹ kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 31 tuổi, kế toán làm việc tại nhà, nói nhỏ nhẹ, mắt thâm vì nhiều đêm thiếu ngủ, lo cho con nhưng hay tự xử trí. Bé ngoan, mệt, bám mẹ, hay dụi mắt.",
+  "kieu_nhieu": "Mẹ tự cho bé uống thuốc 5 ngày. Hỏi chung 'chị có cho bé uống thuốc gì chưa' thì mẹ chỉ nói 'chút thuốc ho với thuốc hạ sốt'. Mẹ chỉ khai đủ tên thuốc, liều, số ngày (gồm amoxicillin còn dư và liều siro gấp đôi tối qua) khi bác sĩ hỏi từng thuốc hoặc xem hộp thuốc, và hỏi nhẹ nhàng, không trách. Mẹ cũng không tự kể chuyện đã giảm insulin; mong muốn thật (xin thuốc ngủ cho bé) chỉ nói ra khi được hỏi mẹ mong gì hôm nay.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 31 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'Khôi có đau tai không con?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#b8a5d6",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé ho, sổ mũi, nghẹt mũi 5 ngày chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 15 kg, mẹ đưa đến vì ho, sổ mũi, nghẹt mũi đã 5 ngày chưa khỏi, đêm ho làm bé thức giấc. Sinh hiệu: nhiệt 37,8 °C, mạch 112 l/p, nhịp thở 26 l/p, SpO₂ 98%. Bé tỉnh, mệt, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khôi nhập viện ngay lúc này là quá tay: bé uống được, không nôn, không thở nhanh, ceton niệu mới 1+, khí máu chưa toan. ISPAD 2022 (mục 6.2) cho phép xử trí tăng đường huyết và nhiễm ceton chưa nôn, chưa mất nước nặng ngay tại nhà, hoặc tại cơ sở ngoại trú, dưới sự giám sát của nhóm nội tiết có kinh nghiệm. Bé 4 tuổi xa mẹ, bị đặt kim, tiếp xúc thêm mầm bệnh trong khoa, còn mẹ thì vẫn chưa học được cách tự theo dõi ngày ốm của con.",
+    "chuyen_tuyen": "Chuyển bé Khôi lên bệnh viện nhi tuyến tỉnh ngay hôm nay là không có chỉ định: không dấu hiệu nguy hiểm (WHO 2024), không viêm phổi (thở 26 l/p dưới ngưỡng 40 l/p; QĐ 708 (Viêm phổi) mục 3.1), nội tiết có thể hướng dẫn qua điện thoại (ISPAD 2022 mục 6.2). Gia đình mất một ngày đường, tốn kém, bé mệt thêm vì xe và phòng chờ đông, trong khi việc cần làm ngay là tiếp tục đủ insulin nền, đo đường huyết và ceton, và dặn ngưỡng quay lại."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em ho, sổ mũi năm ngày rồi chưa hết, đêm nào cũng ho làm bé thức giấc. Bác sĩ khám giúp em.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "37,8",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, sổ mũi, nghẹt mũi 5 ngày chưa khỏi, đêm ho làm bé thức giấc nhiều lần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tuần trước mẹ chạy báo cáo, cho bé ngồi xem hoạt hình trên máy tính 5–6 giờ/ngày trong phòng máy lạnh 24 °C. Sáng hôm sau bé hắt hơi, sổ mũi; mẹ cho là do máy lạnh. Lớp mẫu giáo có nhiều bạn đang ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát (ngồi máy tính lâu trong phòng máy lạnh)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt ngày 2 đến ngày 4, cao nhất 38,6 °C đo nách, đáp ứng paracetamol. Hai ngày nay hết sốt hoặc chỉ 37,5 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn biến sốt"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho có đờm nhẹ, nhiều nhất lúc nằm và sáng sớm. Không khó thở, không khò khè, không thở rít, không tím, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở, thở rít (loại trừ viêm phổi)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Bé không kêu đau tai, không dụi tai, không chảy mủ tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai (loại trừ viêm tai giữa cấp)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé uống được, không nôn, không co giật, ban ngày tỉnh táo, chơi được từng lúc. Bụng không đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2024)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Năm ngày nay mẹ tự cho bé uống: (1) siro ho tự mua có chlorpheniramin, 2,5 mL × 3 lần/ngày, tối qua mẹ cho gấp đôi (5 mL) để bé ngủ; bé ngủ li bì trưa và tối; (2) amoxicillin gói 250 mg còn dư từ đợt viêm họng trước, 1 gói × 2 lần/ngày trong 3 ngày (ngày 2–4) rồi hết thuốc; (3) paracetamol 160 mg khi sốt, khoảng 3 lần/ngày trong ngày 2–4, lần cuối cách đây hơn 24 giờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có cho bé thuốc gì chưa' thì mẹ chỉ nói 'chút thuốc ho với thuốc hạ sốt'. Chỉ khai đủ tên, liều, số ngày (kể cả amoxicillin và liều gấp đôi tối qua) khi bác sĩ hỏi từng thuốc hoặc xem hộp thuốc, và hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Thuốc tự mua trước 5 ngày (kháng histamin thế hệ 1, kháng sinh dư)"
+    },
+    {
+     "id": "tien_su_dtd",
+     "noi_dung": "Bé bị đái tháo đường típ 1 từ 2 tuổi 6 tháng. Tiêm bút insulin glargine 4 đơn vị mỗi tối và insulin aspart 1–2 đơn vị trước 3 bữa chính. Khám nội tiết nhi ở bệnh viện tỉnh, lần cuối cách 2 tháng, HbA1c 8,1%. Mẹ biết đo đường huyết ngón tay và dùng que thử ceton niệu. Không dị ứng thuốc, tiêm chủng đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, thuốc đang dùng thường xuyên (đái tháo đường típ 1, insulin)"
+    },
+    {
+     "id": "giam_insulin",
+     "noi_dung": "Vì mấy hôm nay bé ăn ít, mẹ sợ hạ đường huyết ban đêm nên tự giảm insulin nền từ 4 xuống 2 đơn vị trong 3 đêm qua, và bỏ mũi aspart nếu bé không ăn. Mẹ không nói với nhóm nội tiết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mấy hôm nay insulin tiêm thế nào, liều có đổi không, hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Tự giảm insulin nền khi bé ăn ít"
+    },
+    {
+     "id": "duong_nha",
+     "noi_dung": "Đường huyết ngón tay ở nhà sáng nay 15,2 mmol/L (thường 8–11). Hai hôm nay bé uống nước nhiều và đi tiểu nhiều hơn, mẹ nghĩ do uống nhiều nước. Nhà có que thử ceton niệu nhưng mẹ chưa dùng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết tại nhà, uống nhiều, tiểu nhiều"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Mẹ thức nhiều đêm vì bé ho, mai còn nộp báo cáo. Điều mẹ mong nhất là xin loại thuốc cho bé ngủ một mạch tới sáng; mẹ nghĩ siro ho gấp đôi giúp bé ngủ nên muốn bác sĩ kê thuốc mạnh hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ nói khi bác sĩ hỏi mẹ mong gì khi đưa bé đến hôm nay, đêm qua thế nào, hoặc mẹ lo nhất điều gì.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật sự đến khám (muốn thuốc ngủ cho bé)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được từng lúc, mệt nhẹ. Môi hồng, niêm mạc ẩm, khóc có nước mắt, da véo trở lại nhanh: không mất nước. Hơi thở bình thường.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, amidan độ I–II, không giả mạc, không mủ. Niêm mạc mũi phù nề, dịch nhầy đục. Màng nhĩ hai bên hồng nhạt, di động tốt, không phồng, không mức dịch: không viêm tai giữa cấp.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p, êm. Không co lõm lồng ngực, không thở rít, không phập phồng cánh mũi. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 26 l/p, đều. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ mềm.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "15,6 mmol/L (mẫu lúc khám, bé chưa ăn sáng)",
+     "n": "Bé đái tháo đường típ 1 đang ốm: cần đo đường huyết (ADA 2026 mục 6, phần Intercurrent illness). Ngưỡng 11,1 mmol/L là mức cần đo ceton khi có triệu chứng hoặc yếu tố khởi phát (ADA 2026 mục 6, phần Hyperglycemic crises)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "SG 1,022 · Glucose 2+ · Ceton 1+ · Bạch cầu, nitrit, hồng cầu, protein âm tính",
+     "n": "Ceton niệu ít (1+), chưa tới mức 'trung bình hoặc nhiều' của tiêu chuẩn DKA (ISPAD 2022 mục 2). Không có nhiễm khuẩn tiết niệu.",
+     "bang": {
+      "u_sg": 1.022,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "2+",
+      "u_ket": "1+",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     }
+    },
+    "abg": {
+     "v": "a",
+     "r": "pH 7,38 · PaCO₂ 36 mmHg · PaO₂ 94 mmHg · HCO₃⁻ 21 mmol/L",
+     "n": "Không bắt buộc ở bé tỉnh, không nôn, ceton niệu 1+. Kết quả chưa toan: pH ≥ 7,3 và HCO₃⁻ ≥ 18 nên chưa phải DKA (ISPAD 2022 mục 2; QĐ 3312 Toan xeton do ĐTĐ mục 1, tr. 632: pH < 7,3 hoặc bicarbonat < 15).",
+     "bang": {
+      "fio2": 21,
+      "ph": 7.38,
+      "paco2": 36,
+      "pao2": 94,
+      "hco3": 21,
+      "be": -3,
+      "sao2": 98
+     }
+    },
+    "glu": {
+     "v": "a",
+     "r": "15,4 mmol/L",
+     "bang": {
+      "glu": 15.4
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, bé chưa ăn sáng.",
+     "n": "Trùng đường huyết mao mạch. Liều insulin ngày ốm do nhóm nội tiết quyết (không có trong tài liệu đã tải)."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "8,1%",
+     "n": "Phản ánh kiểm soát 2–3 tháng, không giúp quyết định xử trí hôm nay."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,8 G/L · Neutrophil 52% · Hb 124 g/L · TC 310 G/L",
+     "n": "Không cần: viêm mũi họng cấp không cần xét nghiệm (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2). Bạch cầu bình thường, không thúc đẩy dùng kháng sinh.",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 52.0,
+      "neu": 5.1,
+      "lym_pct": 38.0,
+      "lym": 3.7,
+      "mono_pct": 8.0,
+      "mono": 0.78,
+      "eos_pct": 1.5,
+      "eos": 0.15,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.5,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 82.0,
+      "mch": 27.5,
+      "mchc": 335,
+      "rdw": 13.0,
+      "plt": 310
+     }
+    },
+    "crp": {
+     "v": "a",
+     "r": "6 mg/L",
+     "n": "Không cần: CRP thấp đúng bệnh cảnh virus, không đổi xử trí.",
+     "bang": {
+      "crp": 6
+     }
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Không cần: sổ mũi, ho, không đau họng nổi bật, Centor 0–1 điểm (AWaRe 2022, Pharyngitis); IDSA 2012 khuyến cáo I.4: thường không test khi có dấu hiệu virus. Bé đã uống amoxicillin 3 ngày nên âm tính khó diễn giải (nhận xét của người viết ca, không có trong tài liệu đã tải)."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "r": "Đường A hai bên, trượt màng phổi tốt, không đông đặc, không tràn dịch màng phổi.",
+     "n": "Cơ sở không có X-quang. Chẩn đoán viêm phổi ở trẻ chủ yếu dựa lâm sàng, không nhất thiết chụp X-quang cho mọi ca (QĐ 708 (Viêm phổi) mục 3.2); WHO 2024 (Bảng 1, khuyến cáo 3): chưa có khuyến cáo về siêu âm phổi (khoảng trống bằng chứng). Làm thì chấp nhận, không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus) ngày thứ 5, chưa biến chứng, không dấu hiệu nguy hiểm; ở bé đái tháo đường típ 1 có tăng đường huyết và ceton niệu 1+ do bệnh cấp và do tự giảm insulin nền",
+     "ok": 1,
+     "n": "Ho, sổ mũi, nghẹt mũi, sốt 3 ngày rồi tự hết, niêm mạc mũi phù, màng nhĩ bình thường, thở 26 l/p (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.1; QĐ 708 (Viêm phổi) mục 4.1 'không viêm phổi, ho, cảm lạnh'; WHO 2013 mục 4.4). Tăng đường huyết ở bé ngưng tăng insulin: ISPAD 2022 mục 3 nêu bệnh cấp và giảm mạnh liều insulin là cơ chế dẫn tới DKA."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 26 l/p, dưới ngưỡng thở nhanh 40 l/p ở trẻ 1–5 tuổi (QĐ 708 (Viêm phổi) mục 3.1); không rút lõm, phổi không ran, SpO₂ 98% (WHO 2013 Bảng 7; WHO 2024). Không có X-quang nhưng không cần: lâm sàng đủ loại trừ (QĐ 708 (Viêm phổi) mục 3.2, 4.1)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng, không mức dịch: chưa đủ tiêu chuẩn (AAP 2013 KAS 1A–1C)."
+    },
+    {
+     "t": "Nhiễm toan ceton do đái tháo đường (DKA)",
+     "n": "Ceton niệu 1+, không nôn, không thở sâu, khí máu pH 7,38 HCO₃⁻ 21: chưa đủ tiêu chuẩn (ISPAD 2022 mục 2: glucose > 11 mmol/L, pH < 7,3 hoặc HCO₃⁻ < 18, ceton máu ≥ 3 mmol/L hoặc ceton niệu trung bình–nhiều). Nhưng bé có yếu tố nguy cơ rõ (bệnh cấp, giảm insulin, < 5 tuổi): phải theo dõi sát."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Sổ mũi, ho, không đau họng, không xuất tiết amidan: ít nghĩ (IDSA 2012 khuyến cáo I.4; AWaRe 2022, Pharyngitis, Centor 0–2: chỉ điều trị triệu chứng). QĐ 5643 coi mọi viêm mũi họng đỏ cấp như liên cầu khi chưa xét nghiệm: xem sổ mâu thuẫn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh, ngừng amoxicillin dư; giải thích bệnh do virus thường tự khỏi, hết trong vòng 14 ngày; HOẶC kháng sinh theo QĐ 5643 (penicillin V hoặc amoxicillin 10 ngày)",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, mục viêm họng đỏ cấp). Cách 1: WHO 2013 mục 4.4 (tr. 90): ho, cảm lạnh là bệnh virus tự giới hạn, không cho kháng sinh; AWaRe 2022 (Pharyngitis, Centor 0–2): chỉ điều trị triệu chứng. Cách 2: QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1, tr. 135): điều trị như liên cầu khi chưa xét nghiệm, penicillin V hoặc amoxicillin 10 ngày; liều amoxicillin theo IDSA 2012 Bảng 2: 50 mg/kg một lần/ngày, tối đa 1000 mg. Khác nhau vì QĐ 5643 (2015) áp cho mọi viêm mũi họng đỏ cấp, nguồn quốc tế phân tầng theo dấu hiệu virus."
+    },
+    {
+     "t": "Ngừng siro chlorpheniramin; không kê thuốc ngủ, an thần, kháng histamin gây ngủ hay thuốc ho cho bé; giải thích vì sao và bàn cách giúp bé và mẹ ngủ không dùng thuốc (hút mũi, nước muối sinh lý, đồ uống ấm không đường)",
+     "v": "c",
+     "n": "Thuốc gây ngủ li bì che dấu hiệu 'ngủ li bì khó đánh thức', một dấu hiệu nguy hiểm (QĐ 708 (Viêm phổi) mục 4.4; WHO 2024) và làm mất ý nghĩa việc kiểm tra bé trong đêm (NICE NG143 mục 1.7.2). WHO 2013 mục 4.4: không dùng thuốc long đờm, thuốc chứa atropin, codein hoặc cồn; không nhỏ mũi thuốc có hoạt chất; làm sạch mũi, cho uống ấm. Hiệu quả hay độc tính của thuốc ngủ cụ thể ở trẻ 4 tuổi: không có trong tài liệu đã tải. WHO gợi ý đồ uống ấm ngọt; với bé đái tháo đường chọn đồ uống ấm không đường."
+    },
+    {
+     "t": "Tiếp tục đủ insulin nền như trước ốm (không giảm, không bỏ), tiêm insulin nhanh trước ăn theo phác đồ; gọi nhóm nội tiết nhi trong ngày để chỉnh liều ngày ốm",
+     "v": "c",
+     "n": "ADA 2026 mục 6 (Hyperglycemic crises, tr. S143): không ngừng hay giữ insulin nền kể cả khi không ăn; hướng dẫn chi tiết chỉnh liều khi ốm. ISPAD 2022 mục 3: DKA thường do giảm mạnh liều insulin nền khi bệnh cấp; mục 6.2: xử trí tại nhà cần nhóm nội tiết giám sát. Liều bù, liều ngày ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mẹ đo đường huyết ngón tay và ceton niệu tại nhà theo lịch nhóm nội tiết dặn; ceton trung bình–nhiều, nôn, thở sâu, li bì thì đến ngay",
+     "v": "c",
+     "n": "ADA 2026 mục 6: đo ceton khi có triệu chứng hoặc yếu tố khởi phát, nhất là glucose > 11,1 mmol/L (200 mg/dL); lo DKA thì liên hệ ngay nhóm nội tiết. Tần suất đo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho uống đủ nước, ăn lỏng chia nhiều bữa nhỏ; hút mũi, nhỏ nước muối sinh lý",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): uống nhiều lần ít một, làm sạch mũi; QĐ 5643 (Viêm V.A mục 4.2). Lượng carbohydrate tính với insulin: theo nhóm nội tiết (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Paracetamol 200 mg/lần chỉ khi sốt làm bé khó chịu, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ",
+     "v": "c",
+     "n": "AWaRe 2022 (bảng thuốc triệu chứng): 10–15 mg/kg mỗi 6 giờ, 15–< 20 kg: 200 mg; ≤ 60 mg/kg/24 giờ (QĐ 3312 Co giật do sốt mục 4.1, tr. 457); NICE NG143 mục 1.6.4–1.6.6 (khi trẻ khó chịu). Hạ sốt từ 38,5 °C hoặc lau ấm (QĐ 3312): chấm a (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày, sớm hơn nếu có dấu hiệu nặng; dặn dấu hiệu quay lại ngay",
+     "v": "c",
+     "n": "Ho, cảm lạnh không đỡ: tái khám sau 5 ngày (WHO 2013 Bảng 7, tr. 81); bé đái tháo đường đang ốm rút còn 2 ngày: người viết ca chọn, tài liệu đã tải không nêu. Quay lại ngay khi thở nhanh ≥ 40 l/p, rút lõm, không uống được, nôn tất cả, li bì, co giật (WHO 2024; QĐ 708 (Viêm phổi) mục 3.1, 4.4), sốt từ 5 ngày (NICE NG143 mục 1.7.3), nôn, thở sâu, ceton niệu trung bình–nhiều (ISPAD 2022 mục 2, 6.2)."
+    },
+    {
+     "t": "Hỏi và đáp ứng mong muốn thật của mẹ: ghi nhận thiếu ngủ, bàn kế hoạch đêm (kiểm tra đường huyết đêm theo nội tiết, người thay phiên)",
+     "v": "c",
+     "n": "Động cơ ẩn là thuốc ngủ cho bé; từ chối thuốc nhưng ghi nhận nhu cầu của mẹ."
+    },
+    {
+     "t": "Làm thêm công thức máu, CRP, test liên cầu, siêu âm phổi",
+     "v": "a",
+     "n": "Không bắt buộc: không dấu hiệu nguy hiểm, không nghi viêm phổi (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2; WHO 2024). Làm không trừ điểm."
+    },
+    {
+     "t": "Kê thuốc an thần hoặc kháng histamin gây ngủ để bé ngủ theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định; che dấu li bì (QĐ 708 (Viêm phổi) mục 4.4; WHO 2024) ở bé đái tháo đường đang ốm cần theo dõi đêm (NICE NG143 mục 1.7.2). Tài liệu đã tải không có đoạn riêng về an thần ở trẻ 4 tuổi."
+    },
+    {
+     "t": "Cho mẹ tiếp tục giảm hoặc bỏ insulin khi bé ăn ít",
+     "v": "h",
+     "n": "ADA 2026 mục 6 (tr. S143): không ngừng insulin nền kể cả không ăn; ISPAD 2022 mục 3: giảm mạnh liều insulin khi bệnh cấp là cơ chế dẫn tới DKA; mục 5, 9: ở trẻ đã biết ĐTĐ, DKA phần lớn do bỏ hoặc quên insulin."
+    },
+    {
+     "t": "Nhập viện hoặc truyền dịch ngay vì sợ biến chứng",
+     "v": "w",
+     "n": "Chưa có chỉ định: không nôn, không mất nước, ceton ít (ISPAD 2022 mục 6.2; WHO 2013 mục 4.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp), nghĩ do virus, ngày thứ 5, chưa biến chứng",
+     "Không viêm phổi (thở 26 l/p < 40, không rút lõm, phổi không ran), không viêm tai giữa cấp",
+     "Không có dấu hiệu nguy hiểm, không mất nước",
+     "Đái tháo đường típ 1 mất cân bằng nhẹ khi bệnh cấp: đường huyết 15,6 mmol/L, ceton niệu 1+, chưa toan (pH 7,38, HCO₃⁻ 21); do bệnh cấp và mẹ tự giảm insulin nền",
+     "Thuốc tự mua: chlorpheniramin gây ngủ li bì, amoxicillin dư 3 ngày không có chỉ định",
+     "Động cơ thật: mẹ thiếu ngủ, mong có thuốc ngủ cho bé"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám → sốt, ho, tai → dấu hiệu nguy hiểm → tên, liều, số ngày từng thuốc đã cho → bệnh nền, insulin có đổi liều không → mong muốn của mẹ. Hỏi chung 'có cho thuốc gì chưa' chưa đủ: mẹ chỉ nêu thuốc ho và hạ sốt, bỏ sót amoxicillin và liều gấp đôi tối qua.",
+     "Vì sao là nhiễm khuẩn hô hấp trên do virus: ho, chảy mũi, nghẹt mũi, sốt 3 ngày rồi hết, niêm mạc mũi phù, họng đỏ nhẹ không mủ, không biến chứng (QĐ 5643 Viêm mũi họng cấp tính mục 2.1.2, tr. 133: virus chiếm 60–80%; mục 3.1.1; mục 5.1: virus tự khỏi sau 3–5 ngày). Ngồi máy tính lâu trong phòng máy lạnh là yếu tố mẹ nêu; nguyên nhân là virus (lớp có nhiều bạn ho), tài liệu đã tải không nói về máy lạnh.",
+     "Vì sao không phải viêm phổi: thở 26 l/p < 40 l/p (QĐ 708 (Viêm phổi) mục 3.1, tr. 101), không rút lõm, không ran, SpO₂ 98%; QĐ 708 (Viêm phổi) mục 4.1 xếp 'không viêm phổi (ho, cảm lạnh)'; WHO 2013 Bảng 7. Không có X-quang vẫn loại trừ được: X-quang chỉ khi cần thiết (QĐ 708 (Viêm phổi) mục 3.2). Không viêm tai giữa cấp: không đau tai, màng nhĩ không phồng (AAP 2013 KAS 1A–1C).",
+     "Điểm khác của bé là bệnh nền: bé đái tháo đường típ 1 gặp bệnh cấp thì nhu cầu insulin tăng (hormon đối kháng, ISPAD 2022 mục 3: sốt, nhiễm khuẩn gây thiếu insulin tương đối), còn mẹ lại giảm insulin nền từ 4 xuống 2 đơn vị vì sợ hạ đường huyết. Hậu quả: glucose 15,6, ceton niệu 1+. Chưa DKA vì chưa nôn, chưa thở sâu, khí máu pH 7,38 HCO₃⁻ 21 (ISPAD 2022 mục 2; QĐ 3312 tr. 632). Bé < 5 tuổi là nhóm nguy cơ cao tổn thương não nếu tiến triển DKA (ISPAD 2022 mục 6.2) nên theo dõi sát.",
+     "Thuốc tự mua làm sai lệch bệnh cảnh: chlorpheniramin gây li bì (che dấu hiệu nguy hiểm, QĐ 708 (Viêm phổi) mục 4.4), amoxicillin dư 3 ngày không đủ liều, không đủ 10 ngày. Bác sĩ cần khai thác đúng tên, liều, số ngày.",
+     "Động cơ ẩn: mẹ mất ngủ nhiều đêm và mong thuốc ngủ cho bé (nên mẹ tăng gấp đôi siro tối qua). Đây là nhu cầu cần được ghi nhận, không phải chỉ định thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: có hai cách (sổ mâu thuẫn). Không kháng sinh vì ho, cảm lạnh là bệnh virus tự giới hạn (WHO 2013 mục 4.4; AWaRe 2022 Centor 0–2); hoặc theo QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1: penicillin V 50–100 UI/kg chia 3 lần hoặc amoxicillin, 10 ngày; amoxicillin 50 mg/kg ngày một lần theo IDSA 2012 Bảng 2). Dù cách nào, ngừng amoxicillin dư tự dùng.",
+     "Không thuốc ngủ, không kháng histamin gây ngủ, không thuốc ho, không long đờm (WHO 2013 mục 4.4; QĐ 708 (Viêm phổi) mục 4.4). Giúp ngủ: làm sạch mũi, đồ uống ấm không đường, người lớn thay phiên đêm.",
+     "Insulin: giữ đủ insulin nền (ADA 2026 mục 6; ISPAD 2022 mục 3); báo ngay nhóm nội tiết nhi để chỉnh liều ngày ốm (ISPAD 2022 mục 6.2; ADA 2026 khuyến cáo 6.22). Liều bù, liều ngày ốm: không có trong tài liệu đã tải, làm theo kế hoạch nhóm nội tiết đã dạy mẹ.",
+     "Theo dõi tại nhà: đo đường huyết, ceton niệu khi glucose > 11,1 mmol/L hoặc có triệu chứng (ADA 2026 mục 6). Ceton niệu trung bình–nhiều, nôn, thở sâu, li bì: đến ngay (ISPAD 2022 mục 2, 6.2).",
+     "Hạ sốt chỉ khi khó chịu (NICE NG143 mục 1.6.4–1.6.5); không lau nước ấm, không ủ quá ấm (NICE NG143 mục 1.6.2–1.6.3), cũng chấp nhận hạ sốt từ 38,5 °C hoặc chườm ấm theo QĐ 3312. Không aspirin.",
+     "Tái khám sau 2 ngày (người viết ca chọn vì bệnh nền; WHO 2013 Bảng 7 là 5 ngày cho ho, cảm lạnh thông thường). Không truyền dịch, không nhập viện, không chuyển tuyến vì chưa có chỉ định (ISPAD 2022 mục 6.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "200 mg/lần (≈ 13 mg/kg; cho phép 10–15 mg/kg = 150–225 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé mệt, quấy; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày ≈ 900 mg)",
+      "ghi_chu": "AWaRe 2022 (Primary health care, bảng thuốc triệu chứng): 10–15 mg/kg mỗi 6 giờ, 15–< 20 kg 200 mg; QĐ 3312 (Co giật do sốt mục 4.1, tr. 457): ≤ 60 mg/kg/24 giờ; NICE NG143 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ hoặc rửa mỗi bên mũi, sau đó hút mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước khi ngủ",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm V.A mục 4.2); WHO 2013 mục 4.4. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine (nền)",
+      "ham_luong": "Bút tiêm của bé",
+      "lieu": "Giữ 4 đơn vị như trước ốm (liều nội tiết đã kê), không giảm",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Mỗi tối như thường lệ",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "ADA 2026 mục 6 (tr. S143): không ngừng, không giữ insulin nền. Liều nhanh/bù, liều ngày ốm: do nhóm nội tiết quyết, không có trong tài liệu đã tải (ADA 2026 khuyến cáo 6.22)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus (viêm mũi họng); thường hết trong vòng 14 ngày (WHO 2013 mục 4.4). Không cần kháng sinh, không cần thuốc ngủ; ngừng siro chlorpheniramin và amoxicillin dư.",
+     "Không giảm insulin nền kể cả khi bé ăn ít: giảm insulin nền khi ốm làm đường huyết và ceton tăng, có thể dẫn tới nhiễm toan ceton (ADA 2026 mục 6; ISPAD 2022 mục 3). Gọi nhóm nội tiết nhi trong hôm nay để được dặn liều ngày ốm.",
+     "Đo đường huyết ngón tay và que thử ceton niệu theo lịch nhóm nội tiết dặn; ghi lại giờ, kết quả, liều insulin đã tiêm.",
+     "Hút mũi, nhỏ nước muối sinh lý, cho uống nước ấm không đường từng ngụm nhỏ, ăn lỏng chia nhiều bữa. Mẹ có thể nhờ người thay phiên trông bé ban đêm để mẹ ngủ.",
+     "Paracetamol 200 mg chỉ khi bé sốt và khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần/24 giờ (AWaRe 2022; QĐ 3312). Không lau người bằng nước ấm, không ủ quá ấm (NICE NG143 mục 1.6.2–1.6.3).",
+     "Đưa bé đến ngay nếu: nôn, thở nhanh hoặc thở sâu, rút lõm ngực, li bì khó đánh thức, không uống được, co giật, đau bụng, ceton niệu trung bình–nhiều (ISPAD 2022 mục 6.2), sốt từ 5 ngày trở lên (NICE NG143 mục 1.7.3); đau tai hoặc chảy mủ tai.",
+     "Tái khám sau 2 ngày (do người viết ca chọn; WHO 2013 Bảng 7 là 5 ngày), sớm hơn nếu có dấu hiệu trên. Mang theo bút insulin, sổ theo dõi đường huyết, que thử ceton."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Tái khám theo hẹn sau 2 ngày. Mẹ báo bé vẫn ho, nghẹt mũi, hôm nay sốt lại, nôn 3 lần từ sáng, uống kém, mệt hơn. Sinh hiệu: nhiệt 38,2 °C, mạch 128 l/p, nhịp thở 36 l/p, SpO₂ 98%. Bé hơi lừ đừ nhưng gọi thì đáp.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Khôi về nhà tự theo dõi tiếp là sai: bé nôn 3 lần, uống kém, ceton niệu 2+, đường huyết 20 mmol/L, nhiễm toan nhẹ. ISPAD 2022 (mục 6.2) chỉ cho xử trí tại nhà khi ceton không kèm nôn hay mất nước nặng. Nhà cách bệnh viện nhi tỉnh khoảng 60 km; nếu đêm nay bé nôn tiếp, ceton và toan tăng dần, bé dưới 5 tuổi là nhóm nguy cơ tổn thương não cao khi DKA (ISPAD 2022 mục 6.2) và đến viện muộn trong tình trạng nặng hơn.",
+    "theo_doi": "Giữ bé Khôi ở phòng khám để cho uống từng ngụm và theo dõi vài giờ không đủ: cơ sở này không đo được ceton máu hay khí máu liên tục, không có nhóm nội tiết nhi để chỉnh insulin. ISPAD 2022 (mục 6.2) yêu cầu điều trị ở nơi có nhân viên được huấn luyện về DKA ở trẻ, nơi nào không có thì phải có hỗ trợ từ chuyên gia qua điện thoại hoặc video và phương tiện cấp cứu khi vận chuyển. Mỗi giờ chờ là một giờ bé nôn, mất nước, ceton tăng, và chuyến đi có thể rơi vào đêm.",
+    "nhap_vien": "Nhập bé Khôi vào khoa nhi của cơ sở này (không có nhóm nội tiết nhi, không theo dõi khí máu, ceton và điện giải sát) thì bé vẫn không được điều trị ở nơi có kinh nghiệm DKA ở trẻ như ISPAD 2022 (mục 6.2) yêu cầu. Bé vẫn phải chuyển sau vài giờ, mất thời gian, mẹ phải đổi nơi giữa đêm, chi phí hai lần."
+   },
+   "loi_mo": "Bác sĩ ơi, bé vẫn ho, sổ mũi, hôm nay còn sốt lại, nôn ba lần, uống nước gì cũng ít, trông mệt lắm. Em làm đúng như bác sĩ dặn mà bé không đỡ.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "38,2",
+    "nhip_tho": 36,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé vẫn ho, nghẹt mũi như cũ. Chiều hôm qua sốt lại 38 °C, sáng nay nôn 3 lần (2 lần sau cơn ho, 1 lần sau khi uống nước), uống kém, mệt hơn, kêu đau bụng quanh rốn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, diễn biến"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Từ hôm khám mẹ đã ngưng hẳn siro chlorpheniramin và amoxicillin, không cho thuốc ngủ. Mẹ tiêm đủ insulin nền 4 đơn vị tối qua, tiêm aspart theo hướng dẫn nhóm nội tiết qua điện thoại. Đêm qua bé ngủ chập chờn, mẹ mệt nhưng vẫn nhờ chồng trông phụ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mẹ có làm đúng hướng dẫn lượt 1 không"
+    },
+    {
+     "id": "duong_nha",
+     "noi_dung": "Đường huyết ngón tay ở nhà: 19,8 mmol/L lúc 7 giờ, 21,4 mmol/L lúc 11 giờ dù đã tiêm bù aspart theo nội tiết. Que ceton niệu lúc 10 giờ ra màu tím đậm (trung bình, 2+).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết và ceton tại nhà"
+    },
+    {
+     "id": "tho_sau",
+     "noi_dung": "Từ trưa mẹ thấy bé thở sâu và nhanh hơn, hơi thở có mùi hơi ngọt như trái cây chín. Bé khát nước nhiều nhưng uống vào lại nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thở sâu, hơi thở có mùi ceton, khát nước"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho đờm nhẹ như cũ, không khò khè, không rên, không tím, không đau ngực. Bé không đau tai, không chảy mủ tai, không tiêu chảy, đi tiểu nhiều lần, nước tiểu không đục, không tiểu buốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hô hấp, tai, tiêu hóa, tiết niệu (loại trừ ổ nhiễm khuẩn khác)"
+    },
+    {
+     "id": "thuoc_ngu2",
+     "noi_dung": "Mẹ vẫn mong bé ngủ ngon nhưng đã hiểu vì sao không cho thuốc ngủ; mẹ lo vì bé nôn và mệt hơn mọi ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mẹ chấp nhận giải thích lượt 1"
+    },
+    {
+     "id": "khoang_cach",
+     "noi_dung": "Nhà cách bệnh viện nhi tỉnh khoảng 60 km, đi xe máy hơn một giờ; chồng có thể chở bé hoặc gọi xe. Mẹ đồng ý nếu bác sĩ nói cần chuyển.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Phương tiện, khả năng chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Hơi lừ đừ nhưng gọi thì mở mắt, đáp đúng. Môi khô, niêm mạc miệng khô, mắt hơi trũng, khóc ít nước mắt, da véo trở lại chậm. Thời gian đầy mao mạch 2 giây, đầu chi ấm. Thở sâu, không rên: mất nước mức vừa.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, không giả mạc, không mủ. Mũi nghẹt, dịch nhầy đục. Màng nhĩ hai bên hồng nhạt, di động, không phồng, không mức dịch.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 36 l/p, thở sâu. Không rút lõm, không phập phồng cánh mũi. Rì rào phế nang rõ, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 36 l/p, thở sâu. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn quanh rốn đau nhẹ, không phản ứng thành bụng, không đề kháng. Gan lách không to.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, đáp ứng khi gọi, nhận ra mẹ. Cổ mềm, không dấu thần kinh khu trú, đồng tử đều. Không co giật.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "20,3 mmol/L",
+     "n": "Bé đái tháo đường có nôn và thở sâu: đo đường huyết ngay (ISPAD 2022 mục 2: cân nhắc đo đường huyết ở mọi trẻ thở nhanh hoặc nôn, đau bụng không tiêu chảy)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "SG 1,030 · Glucose 3+ · Ceton 2+ · Bạch cầu, nitrit, hồng cầu, protein âm tính",
+     "n": "Ceton niệu trung bình: một trong ba tiêu chuẩn DKA (ISPAD 2022 mục 2); cần thêm khí máu. Không nhiễm khuẩn tiết niệu. Ceton niệu không đo được ceton máu, có thể đánh giá thấp mức nặng (ISPAD 2022 mục 4).",
+     "bang": {
+      "u_sg": 1.03,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "3+",
+      "u_ket": "2+",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     }
+    },
+    "abg": {
+     "v": "u",
+     "r": "pH 7,33 · PaCO₂ 30 mmHg · PaO₂ 96 mmHg · HCO₃⁻ 19 mmol/L",
+     "n": "Nhiễm toan chuyển hóa nhẹ, bù bằng thở sâu, chưa đủ tiêu chuẩn DKA: ISPAD 2022 mục 2, 4 cần pH < 7,3 hoặc HCO₃⁻ < 18; QĐ 3312 (Toan xeton mục 1, tr. 632) cần pH < 7,3 hoặc bicarbonat < 15. Sát ngưỡng, đang tiến triển, nên chuyển.",
+     "bang": {
+      "fio2": 21,
+      "ph": 7.33,
+      "paco2": 30,
+      "pao2": 96,
+      "hco3": 19,
+      "be": -6,
+      "sao2": 98
+     }
+    },
+    "glu": {
+     "v": "u",
+     "r": "20,6 mmol/L",
+     "bang": {
+      "glu": 20.6
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám.",
+     "n": "Trùng đường huyết mao mạch; tăng vừa, chưa dùng thay quyết định chuyển."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 133 · K 4,4 · Cl 98 mmol/L",
+     "n": "Na hạ do tăng đường huyết (Na hiệu chỉnh ≈ 137); không có hạ kali. Theo dõi điện giải là việc của nơi nhận (ISPAD 2022 mục 6.1, 6.3).",
+     "bang": {
+      "na": 133,
+      "k": 4.4,
+      "cl": 98
+     }
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,4 G/L · Neutrophil 72% · Hb 128 g/L · TC 330 G/L",
+     "n": "Bạch cầu tăng có thể do stress và nhiễm ceton, không nhất thiết do nhiễm khuẩn (ISPAD 2022 mục 6.1; QĐ 3312 Toan xeton do ĐTĐ mục 2.2: 'bạch cầu tăng thường do stress chứ không phải do nhiễm trùng'). Không dùng riêng để quyết định kháng sinh.",
+     "bang": {
+      "wbc": 13.4,
+      "neu_pct": 72.0,
+      "neu": 9.6,
+      "lym_pct": 20.0,
+      "lym": 2.7,
+      "mono_pct": 6.5,
+      "mono": 0.87,
+      "eos_pct": 1.0,
+      "eos": 0.13,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 4.7,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 82.0,
+      "mch": 27.3,
+      "mchc": 333,
+      "rdw": 13.1,
+      "plt": 330
+     }
+    },
+    "crp": {
+     "v": "a",
+     "r": "18 mg/L",
+     "n": "Tăng nhẹ, hợp bệnh virus đang kéo dài kèm stress chuyển hóa; không chứng tỏ viêm phổi hay nhiễm khuẩn nặng.",
+     "bang": {
+      "crp": 18
+     }
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "8,1%",
+     "n": "Như lượt 1; không giúp quyết định hôm nay."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "r": "Đường A, trượt màng phổi tốt hai bên, không đông đặc, không tràn dịch màng phổi.",
+     "n": "Cơ sở không có X-quang. Hỗ trợ loại trừ viêm phổi khi bé thở sâu, thở 36 l/p; WHO 2024 (Bảng 1, khuyến cáo 3): chưa có khuyến cáo về siêu âm phổi; QĐ 708 (Viêm phổi) mục 3.2: chẩn đoán chủ yếu lâm sàng. Không bắt buộc, không được trì hoãn chuyển tuyến vì làm siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng virus) kéo dài, chưa biến chứng, kèm tăng đường huyết và nhiễm ceton có nôn, mất nước mức vừa ở bé đái tháo đường típ 1 (nguy cơ nhiễm toan ceton, chưa đủ tiêu chuẩn DKA)",
+     "ok": 1,
+     "n": "Ho, nghẹt mũi như cũ, sốt lại nhẹ, màng nhĩ bình thường, phổi sạch, thở 36 l/p nhưng sâu (không phải thở nhanh nông của viêm phổi; QĐ 708 (Viêm phổi) mục 3.1). Đường huyết 20 mmol/L, ceton niệu 2+, nôn, pH 7,33 HCO₃⁻ 19: chưa đạt tiêu chuẩn DKA nhưng tiến triển (ISPAD 2022 mục 2, 4, 6.2). Nôn là lý do không xử trí tại nhà (ISPAD 2022 mục 6.2). Bệnh cấp gây thiếu insulin tương đối dù tiêm đủ liều (ISPAD 2022 mục 3)."
+    },
+    {
+     "t": "Nhiễm toan ceton do đái tháo đường (DKA) đã xác lập",
+     "n": "Chưa: pH 7,33 ≥ 7,3 và HCO₃⁻ 19 ≥ 18 (ISPAD 2022 mục 2, 4), cũng chưa đạt tiêu chuẩn QĐ 3312 (pH < 7,3 hoặc bicarbonat < 15). Nhưng rất gần và đang đi xuống, bé < 5 tuổi; không đợi tới khi đủ tiêu chuẩn mới chuyển."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 36 l/p (< 40 l/p), sâu, không rút lõm, phổi không ran, SpO₂ 98%, siêu âm phổi không đông đặc. Thở sâu ở bé đái tháo đường có nôn phải nghĩ nhiễm toan (ISPAD 2022 mục 2) hơn là viêm phổi."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng (AAP 2013 KAS 1A–1C)."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu",
+     "n": "Tổng phân tích nước tiểu không bạch cầu, nitrit; không tiểu buốt. Ghi chú: QĐ 3312 Toan xeton mục 2.2 liệt kê tìm ổ nhiễm khuẩn khởi phát trong nhiễm toan ceton."
+    },
+    {
+     "t": "Bệnh lý bụng ngoại khoa cấp hoặc viêm dạ dày ruột",
+     "n": "Đau quanh rốn nhẹ, bụng mềm không đề kháng, không tiêu chảy; nôn sau ho và do nhiễm ceton. QĐ 3312 Toan xeton mục 1: DKA có thể 'đau bụng giống bệnh cấp tính về bụng'."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay bệnh viện nhi tuyến tỉnh có khoa nội tiết và hồi sức (xe cấp cứu hoặc xe có nhân viên y tế đi kèm), gọi báo trước và bàn giao bằng giấy chuyển",
+     "v": "c",
+     "n": "Bé có nôn, ceton 2+, đường huyết cao, đang thở sâu: không còn là ceton chưa nôn có thể xử trí tại nhà (ISPAD 2022 mục 6.2); điều trị ở trung tâm có kinh nghiệm DKA ở trẻ, nơi chưa có thì có hỗ trợ chuyên gia qua điện thoại; trẻ < 5 tuổi có nguy cơ tổn thương não cao nên cân nhắc đơn vị hồi sức (mục 6.2). Cơ sở không có X-quang, ceton máu, khí máu liên tục, nhóm nội tiết nhi: giới hạn nguồn lực."
+    },
+    {
+     "t": "Trước khi đi: tiếp tục insulin nền như hôm qua, hỏi tuyến nhận về liều insulin nhanh/bù; theo dõi tri giác, nhịp thở, đường huyết; cho uống từng ngụm nhỏ nếu không nôn",
+     "v": "c",
+     "n": "ADA 2026 mục 6 (tr. S143): không ngừng insulin nền; hỗ trợ lâm sàng sẵn có giúp xử trí tăng đường huyết khi ốm. WHO 2013 mục 4.4: uống ít một dễ giữ được hơn. Liều insulin bù: không có trong tài liệu đã tải, theo chỉ dẫn tuyến nhận."
+    },
+    {
+     "t": "Đường truyền tĩnh mạch và bù dịch trước chuyển chỉ khi có người đi kèm và theo hướng dẫn tuyến nhận",
+     "v": "a",
+     "n": "ISPAD 2022 mục 6.1: đặt đường truyền ngoại vi là bước đầu khi đánh giá DKA, với trẻ DKA mất nước chưa sốc: NaCl 0,9% 10–20 mL/kg trong 20–30 phút (mục 6.3.2); dịch đã truyền ở nơi khác phải được tính vào lượng bù (mục 6.3). Bé chưa đủ tiêu chuẩn DKA nên không bắt buộc; liều bù dịch trước chuyển tại phòng khám: không có trong tài liệu đã tải, hỏi tuyến nhận."
+    },
+    {
+     "t": "Không kê kháng sinh vì chưa có ổ nhiễm khuẩn; HOẶC kháng sinh theo QĐ 5643 (penicillin V hoặc amoxicillin 10 ngày) nếu chọn xử trí viêm mũi họng như liên cầu",
+     "v": "c",
+     "n": "Hai cách đều đúng, như lượt 1 (sổ mâu thuẫn). WHO 2013 mục 4.4 và AWaRe 2022: không kháng sinh cho cảm lạnh; QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1. ISPAD 2022 mục 6.1: kháng sinh khi có bằng chứng nhiễm khuẩn sau lấy bệnh phẩm; tuyến nhận đánh giá. Bạch cầu tăng trong nhiễm ceton không là bằng chứng nhiễm khuẩn."
+    },
+    {
+     "t": "Giấy chuyển/bàn giao: lý do chuyển, đường huyết, ceton, khí máu, giờ và liều insulin đã tiêm, thuốc đã dùng (chlorpheniramin đã ngưng, amoxicillin 3 ngày), cân nặng 15 kg, dấu hiệu sinh tồn",
+     "v": "c",
+     "n": "Chuẩn bị chuyển và bàn giao (ISPAD 2022 mục 6.2: tuyến nhận cần thông tin, hỗ trợ chuyên gia)."
+    },
+    {
+     "t": "Giải thích cho mẹ: bé không đỡ không phải do mẹ làm sai; vì đã nôn nên phải theo dõi ở nơi có nhóm nội tiết; mang bút insulin, sổ đường huyết",
+     "v": "c",
+     "n": "Mẹ làm đúng theo dặn và vẫn có diễn biến xấu do bệnh cấp gây thiếu insulin tương đối (ISPAD 2022 mục 3)."
+    },
+    {
+     "t": "Siêu âm phổi, công thức máu, CRP trước khi chuyển",
+     "v": "a",
+     "n": "Không bắt buộc, không được làm chậm chuyển (QĐ 708 (Viêm phổi) mục 3.2; WHO 2024 Bảng 1 khuyến cáo 3)."
+    },
+    {
+     "t": "Cho về nhà, tăng insulin tự tính theo đường huyết và hẹn tái khám 1–2 ngày",
+     "v": "w",
+     "n": "Bé nôn, ceton 2+: ngoài điều kiện xử trí tại nhà (ISPAD 2022 mục 6.2). Liều bù tự tính: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ bé tại phòng khám đến sáng truyền dịch và theo dõi, không chuyển",
+     "v": "w",
+     "n": "Cơ sở không có nhóm nội tiết nhi, ceton máu, khí máu liên tục (ISPAD 2022 mục 6.2)."
+    },
+    {
+     "t": "Cho thuốc an thần hoặc thuốc ngủ để bé nghỉ trên đường đi",
+     "v": "h",
+     "n": "Che dấu thay đổi tri giác, dấu hiệu cần theo dõi (QĐ 708 (Viêm phổi) mục 4.4; ISPAD 2022 mục 2, 8.2: cáu gắt, li bì, lú lẫn là dấu hiệu tổn thương não)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng virus) ngày thứ 8, chưa biến chứng",
+     "Không viêm phổi, không viêm tai giữa cấp, không nhiễm khuẩn tiết niệu",
+     "Tăng đường huyết (20,3 mmol/L) kèm nhiễm ceton (ceton niệu 2+) có nôn, mất nước mức vừa ở bé đái tháo đường típ 1; nhiễm toan chuyển hóa nhẹ (pH 7,33, HCO₃⁻ 19), chưa đủ tiêu chuẩn DKA",
+     "Nguy cơ cao tiến triển DKA và tổn thương não (< 5 tuổi)",
+     "Chỉ định chuyển tuyến: bệnh viện nhi có khoa nội tiết và hồi sức"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: nghe lời mở (không đỡ, nôn) → hỏi mẹ có làm đúng hướng dẫn không (đã ngưng thuốc ngủ, kháng sinh; tiêm đủ insulin nền) → đường huyết, ceton tại nhà, thở sâu, mùi hơi thở → khám tri giác, mất nước, tai, phổi, bụng → đường huyết mao mạch và ceton niệu ngay → khí máu → chẩn đoán → chuyển.",
+     "Vì sao không đỡ: virus kéo dài là bình thường vì phần lớn hết trong 14 ngày (WHO 2013 mục 4.4). Cái mới là rối loạn chuyển hóa: bệnh cấp làm tăng hormon đối kháng, thiếu insulin tương đối dù tiêm đủ liều (ISPAD 2022 mục 3), cộng ăn ít, nôn.",
+     "Phân biệt thở sâu của nhiễm toan với thở nhanh của viêm phổi: 36 l/p < 40 l/p, sâu, không rút lõm, không ran, siêu âm phổi không đông đặc (QĐ 708 (Viêm phổi) mục 3.1; ISPAD 2022 mục 2 khuyên đo đường huyết ở mọi trẻ thở nhanh hoặc nôn). Không có X-quang không ngăn được chẩn đoán vì X-quang không cần cho mọi ca viêm phổi (QĐ 708 (Viêm phổi) mục 3.2).",
+     "Chưa đủ tiêu chuẩn DKA: cần cả ba, đường huyết > 11 mmol/L, pH < 7,3 hoặc HCO₃⁻ < 18, ceton máu ≥ 3 hoặc ceton niệu trung bình–nhiều (ISPAD 2022 mục 2, 4); QĐ 3312 mục 1: pH < 7,3 hoặc bicarbonat < 15. Bé đạt hai (đường huyết, ceton niệu) và sát ngưỡng toan. Kết quả khí máu thể hiện nhiễm toan chưa đủ chuẩn vì đang bù bằng thở sâu (PaCO₂ 30).",
+     "Bạch cầu 13,4 G/L tăng do stress/ceton, không là bằng chứng nhiễm khuẩn (ISPAD 2022 mục 6.1; QĐ 3312 mục 2.2). Không có ổ nhiễm khuẩn khác (tai, phổi, tiết niệu, bụng)."
+    ],
+    "phan_tich_xu_tri": [
+     "Vì sao chuyển, không ở lại: ISPAD 2022 mục 6.2 chỉ cho xử trí tăng đường huyết–ceton tại nhà hay cơ sở ngoại trú khi không nôn và không mất nước nặng, có nhóm nội tiết giám sát. Bé nôn 3 lần, mất nước vừa, thở sâu, < 5 tuổi (nguy cơ tổn thương não, mục 6.2): cần trung tâm có kinh nghiệm DKA ở trẻ. Cơ sở này không có ceton máu, khí máu liên tục, nhóm nội tiết nhi.",
+     "Chuẩn bị trước chuyển: gọi tuyến nhận; đường truyền nếu có người đi kèm; theo dõi tri giác, nhịp thở, đường huyết; cho uống từng ngụm; ghi giờ và liều insulin đã tiêm. Insulin nền vẫn tiếp tục (ADA 2026 mục 6). Liều bù và bù dịch trước chuyển: theo chỉ dẫn tuyến nhận, không có trong tài liệu đã tải.",
+     "Kháng sinh: không có ổ nhiễm khuẩn, không kê; hoặc theo QĐ 5643 nếu chọn xử trí viêm mũi họng như liên cầu; tuyến nhận quyết sau khi đánh giá (ISPAD 2022 mục 6.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine (nền)",
+      "ham_luong": "Bút tiêm của bé",
+      "lieu": "Giữ 4 đơn vị tối nay nếu chưa được tuyến nhận xử trí, không giảm",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Tối, theo hướng dẫn tuyến nhận",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "ADA 2026 mục 6 (tr. S143). Liều insulin nhanh/bù: không có trong tài liệu đã tải; theo tuyến nhận."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "200 mg/lần",
+      "duong": "Uống nếu không nôn",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, cách ít nhất 6 giờ",
+      "so_ngay": "Tối đa 4 lần/24 giờ",
+      "ghi_chu": "AWaRe 2022 (15–< 20 kg: 200 mg mỗi 6 giờ); QĐ 3312 (≤ 60 mg/kg/24 giờ); NICE NG143 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Dung dịch NaCl 0,9% truyền tĩnh mạch",
+      "ham_luong": "Chai theo cơ sở",
+      "lieu": "Theo hướng dẫn tuyến nhận (ISPAD 6.3.2 cho DKA chưa sốc: 10–20 mL/kg = 150–300 mL trong 20–30 phút)",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Chỉ khi đã có đường truyền và có người đi kèm",
+      "so_ngay": "Trong lúc chuyển",
+      "ghi_chu": "ISPAD 2022 mục 6.1, 6.3.2: 10–20 mL/kg trong 20–30 phút khi mất nước chưa sốc, dịch đã truyền ở nơi khác tính vào lượng bù; QĐ 3312 (Toan xeton mục 3.1, tr. 633): bolus 10–20 mL/kg khi có sốc, rồi bù theo bảng 1 trong 48 giờ (ISPAD mới hơn, 2022). Liều bù trước chuyển tại phòng khám: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé cần đến bệnh viện nhi ngay hôm nay, không đợi đến sáng: bé nôn và ceton đã lên, ở nhà không đủ an toàn (ISPAD 2022 mục 6.2).",
+     "Mẹ đã làm đúng theo dặn; bé không đỡ vì bệnh cấp làm cơ thể cần nhiều insulin hơn, không phải do mẹ làm sai.",
+     "Mang theo bút insulin, sổ ghi đường huyết và giờ tiêm, que thử ceton; không tự tiêm thêm insulin cho đến khi nhóm nội tiết hướng dẫn.",
+     "Trên đường đi: cho uống từng ngụm nhỏ nếu bé không nôn; theo dõi bé tỉnh hay li bì, nhịp thở; không cho thuốc ngủ, thuốc ho, kháng sinh tự mua.",
+     "Báo ngay nhân viên đi kèm nếu bé li bì khó đánh thức, cáu gắt bất thường, đau đầu, co giật hoặc thở rất sâu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được chuyển bệnh viện nhi tỉnh trong buổi chiều. Tại đó ceton máu tăng và toan nhẹ được điều chỉnh cùng nhóm nội tiết nhi, bé hết nôn, đường huyết về gần mục tiêu, xuất viện sau 2 ngày với kế hoạch insulin ngày ốm bằng văn bản. Ho, nghẹt mũi hết sau khoảng 12 ngày bệnh, không dùng kháng sinh. Mẹ được dạy rõ không giảm insulin nền khi bé ăn ít.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: siro ho có chlorpheniramin (gấp đôi liều tối qua), amoxicillin dư 3 ngày, paracetamol. Mẹ chỉ khai đủ khi hỏi từng thuốc.",
+  "Lý do thật: mẹ thiếu ngủ, muốn thuốc ngủ cho bé; chỉ lộ khi hỏi mẹ mong gì hôm nay.",
+  "Yếu tố khởi phát ngồi máy tính lâu trong phòng máy lạnh: mẹ cho là nguyên nhân, nhưng bệnh do virus; tài liệu đã tải không nói về ảnh hưởng của máy lạnh."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước 5 ngày: hỏi từng thuốc (tên, liều, số ngày, lần cuối), xem hộp thuốc, hỏi nhẹ nhàng không trách. Thuốc gây ngủ che dấu li bì; kháng sinh dư không đủ liều làm khó diễn giải.",
+  "Muốn thuốc ngủ: tìm nhu cầu thật (mẹ thiếu ngủ), từ chối thuốc nhưng đưa giải pháp (người thay phiên, làm sạch mũi, kế hoạch đêm) để mẹ không quay lại tự cho thuốc.",
+  "Thở sâu ở trẻ đái tháo đường có nôn là nhiễm toan cho tới khi chứng minh khác; đừng gán cho viêm phổi chỉ vì không có X-quang.",
+  "Chuyển tuyến kịp thời: không đợi đủ tiêu chuẩn DKA; nôn + ceton + < 5 tuổi + nơi không có nhóm nội tiết là đủ để chuyển (ISPAD 2022 mục 6.2); liên lạc trước, giấy chuyển, theo dõi tri giác.",
+  "Lượt tái khám 'không đỡ': tìm nguyên nhân mới (ở đây chuyển hóa) thay vì thêm kháng sinh."
+ ],
+ "diem_nho": [
+  "Ho, cảm lạnh: virus tự giới hạn, phần lớn hết trong 14 ngày, không dùng kháng sinh, thuốc chứa atropin, codein, cồn, long đờm, nhỏ mũi có hoạt chất (WHO 2013 mục 4.4).",
+  "Thở nhanh trẻ 1–5 tuổi ≥ 40 l/p; dấu hiệu nguy hiểm: không uống được, nôn tất cả, co giật, li bì, thở rít (QĐ 708 (Viêm phổi) mục 3.1, 4.4; WHO 2024).",
+  "Không ngừng hay giảm insulin nền khi ốm hoặc ăn ít; đo ceton khi có triệu chứng hoặc glucose > 11,1 mmol/L (ADA 2026 mục 6).",
+  "Tiêu chuẩn DKA ở trẻ: glucose > 11 mmol/L, pH < 7,3 hoặc HCO₃⁻ < 18, ceton máu ≥ 3 hoặc ceton niệu trung bình–nhiều (ISPAD 2022 mục 2); QĐ 3312 dùng bicarbonat < 15.",
+  "Ceton chưa nôn, chưa mất nước nặng có thể ở nhà với nhóm nội tiết giám sát; nôn thì vào cơ sở có kinh nghiệm; < 5 tuổi nguy cơ tổn thương não cao (ISPAD 2022 mục 6.2)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 1–6, tr. 133–136); Viêm V.A cấp (mục 4.2)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (tr. 90–91), Bảng 7 (tr. 81)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC: Bảng 1 (khuyến cáo 1–6, tr. ix–x), chú thích dấu hiệu nguy hiểm, mục siêu âm phổi",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm phổi cộng đồng ở trẻ em (mục 3.1, 3.2, 4.1–4.4, tr. 101–104)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Toan xeton do ĐTĐ (mục 1, 2.1, 2.2, tr. 632); Co giật do sốt (mục 4.1, tr. 457)",
+  "ISPAD 2022 – Glaser N, et al. ISPAD Clinical Practice Consensus Guidelines 2022: Diabetic ketoacidosis and hyperglycemic hyperosmolar state. Pediatr Diabetes 2022;23:835–856 – TL-0075 – ĐÃ ĐỌC: mục 1–4, 5, 6.1–6.2, 9",
+  "ADA 2026 – Standards of Care in Diabetes 2026, mục 6 Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises – TL-0296 – ĐÃ ĐỌC: phần Intercurrent illness; Hyperglycemic crises (khuyến cáo 6.21–6.22, tr. S143–S144)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care, 6. Pharyngitis (Centor); bảng thuốc triệu chứng (paracetamol theo cân nặng)",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.6.1–1.6.6, 1.7.2, 1.7.3",
+  "IDSA 2012 – GAS pharyngitis guideline – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, Bảng 2 (amoxicillin 50 mg/kg một lần/ngày, tối đa 1000 mg, 10 ngày)",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C",
+  "KHÔNG CÓ trong tài liệu đã tải: ISPAD 2022 hướng dẫn đái tháo đường típ 1 (ngày ốm, liều bù insulin), QĐ riêng về ĐTĐ típ 1 trẻ em; vì vậy liều bù insulin, ngưỡng và tần suất đo ceton tại nhà, bù dịch trước chuyển, tác dụng an thần ở trẻ 4 tuổi, ảnh hưởng của máy lạnh đều ghi 'không có trong tài liệu đã tải'."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-04)",
+ "ghi_chu_bien_tap": [
+  "04/11/2026: viết mới. Đã đọc TL-0130 (Viêm mũi họng cấp tính), TL-0250 (4.4, Bảng 7), TL-0245 (Bảng 1), TL-0015 (mục 3–4), TL-0037 (Toan xeton; Co giật do sốt), TL-0075 (mục 1–6, 9), TL-0296 mục 6, TL-0018, TL-0262, TL-0158, TL-0271.",
+  "Thiết kế: 'insulin đang dùng' = bé đái tháo đường típ 1; lượt 2 chuyển tuyến vì nôn + ceton niệu 2+ ở bé < 5 tuổi, không phải vì viêm phổi (loại trừ bằng lâm sàng, siêu âm phổi chấp nhận được khi không có X-quang).",
+  "Mâu thuẫn ghi cả hai cách: kháng sinh viêm mũi họng đỏ cấp, hạ sốt ở trẻ, tiêu chuẩn DKA (ISPAD 2022 và QĐ 3312) theo sổ mâu thuẫn hiện có.",
+  "Chỗ thiếu tài liệu: liều bù insulin và quy tắc ngày ốm, tần suất đo ceton, bù dịch trước chuyển, an thần ở trẻ nhỏ; tái khám 2 ngày do người viết ca chọn. Số liệu bệnh nhân (insulin 4 đơn vị, HbA1c 8,1%, kết quả xét nghiệm) là dữ kiện thiết kế, không phải khuyến cáo."
+ ]
+}
