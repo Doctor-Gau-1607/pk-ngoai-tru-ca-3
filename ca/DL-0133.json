@@ -1,0 +1,772 @@
+{
+ "ma_ca": "DL-0133",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_viem_da_tiep_xuc",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Viêm da tiếp xúc",
+  "chan_doan_phai_loai_tru": [
+   "Chàm",
+   "Nấm da",
+   "Zona"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Nông dân: làm lúa và trồng rau, nắng gió, tay chân hay dính đất, nước, không đeo găng",
+  "can_nang": 58,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông xưng 'tôi', gọi 'bác sĩ'; với người trẻ hơn nhiều thì xưng 'chú'.",
+  "tinh_cach": "Hiền, chất phác, nói chậm, trả lời đúng câu được hỏi, tin thầy thuốc. Chưa bao giờ đi khám tổng quát. Mỗi khi mỏi người quen nhờ vợ cạo gió, xoa rượu ngâm lá. Ngại làm phiền, ít tự kể thêm những gì ông cho là không liên quan. Lo 'độc trong người' sau trận cảm, hay nghe lời bà con trong xóm.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: nghe kỹ, trả lời đủ ý, không giấu, không cãi. Ông không tự nói chuyện cạo gió vì không thấy liên quan, và chỉ nói ra mong muốn được truyền dịch khi bác sĩ hỏi hôm nay ông mong muốn điều gì (lượt 2 ông nói thẳng). Khi bác sĩ giải thích rõ lý do không cần truyền thì ông gật đầu nghe theo.",
+  "nguoi_nha": "Vợ, bà Nguyễn Thị Hai, 64 tuổi, đưa ông đi khám, ngồi chờ ngoài. Chính bà cạo gió và xoa rượu thuốc cho ông; hiền, lo cho chồng, khi được hỏi thì kể thật, không biết việc đó gây nổi ban. Bà cũng muốn ông được truyền nước cho 'mau khỏe'.",
+  "ten_nguoi_nha": "Bà Hai (vợ)",
+  "ngoai_hinh": {
+   "da": "#d6a77f",
+   "toc": "#8a8a8a",
+   "kieuToc": "ngan",
+   "ao": "#5a6b4a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nổi ban đỏ, mụn nước, ngứa nhiều ở cánh tay phải 3 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm xét nghiệm cơ bản (công thức máu, sinh hóa nền, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm được soi tươi nấm, cấy dịch tổn thương, sinh thiết da, test áp. Test áp phải chuyển lên tuyến trên."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Văn Bảy, 67 tuổi, nông dân (làm lúa, trồng rau), đến khám vì nổi ban đỏ, mụn nước, ngứa nhiều ở cánh tay phải khoảng 3 ngày nay. Bà vợ đưa đi, ngồi chờ ngoài. Sinh hiệu: mạch 76 l/p, HA 138/84 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 58 kg, chiều cao 162 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ ông Bảy nằm viện hay lưu lại truyền dịch vì vài vệt mụn nước ở tay là không cần: tổn thương khu trú (BSA khoảng 4%), ông không sốt, ăn uống bình thường; điều trị viêm da tiếp xúc khu trú là thuốc bôi, kháng histamin uống và loại bỏ căn nguyên (QĐ 4416, Viêm da tiếp xúc, mục 3.1, 3.2.1). Truyền dịch cho ngứa không có trong QĐ 4416, DDG S1 2022 hay ESCD 2026 (không có trong tài liệu đã tải). Ông mất công đi lại, tốn tiền nằm viện, mất ngày công lúc vào vụ, và càng tin 'bệnh nặng, phải truyền nước mới hết độc'.",
+    "chuyen_tuyen": "Chuyển ông Bảy lên tuyến trên hay Da liễu ngay từ lần này là quá tay: viêm da tiếp xúc cấp, khu trú, chưa dùng thuốc bôi được điều trị ban đầu ở tuyến cơ sở bằng corticoid bôi loại mạnh (QĐ 4416, mục 3.2.1). Test áp (xác định dị nguyên) là xét nghiệm chuyên khoa, dành cho trường hợp tái diễn hoặc cần tìm dị nguyên (QĐ 4416 mục 2.1.2; ESCD 2026 mục 2.2). Ông đi xa, tốn kém, trì hoãn thuốc trong lúc ngứa mất ngủ."
+   },
+   "loi_mo": "Chào bác sĩ. Cánh tay tôi nổi mẩn đỏ, có nước, ngứa quá trời, mấy hôm nay ngủ không được. Bác sĩ coi giúp tôi coi bị gì.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba ngày nay cẳng tay và cánh tay phải nổi những vệt đỏ có mụn nước nhỏ, ngứa nhiều, nóng rát nhẹ, gãi thì rỉ nước vàng. Ngứa nhất về đêm, ông ngủ không yên.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tính chất tổn thương và triệu cơ năng"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Năm ngày trước, sau trận cảm, ông còn đau mỏi người; bà vợ cạo gió dọc cánh tay phải và lưng bằng dầu nóng, rồi xoa rượu ngâm lá thuốc nam mà ông dùng nhiều năm mỗi khi mỏi. Khoảng hai ngày sau thì nổi ngứa đúng những đường đã cạo. Thấy vậy ông nghĩ 'cảm chưa hết' nên ba ngày trước bà xoa lại một lần nữa, từ đó nổi mụn nước nhiều. Ông không nghĩ chuyện cạo gió liên quan đến nổi mẩn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có dị ứng thuốc, thức ăn gì không' thì ông nói không. Chỉ kể khi bác sĩ hỏi gần đây có bôi, xoa, cạo, đắp, dán gì lên da không, hoặc hỏi vì sao các vệt nằm thẳng hàng.",
+     "k": 1,
+     "y": "Tiếp xúc gây bệnh: dầu nóng, rượu thuốc lá thuốc nam, đúng vị trí cạo gió"
+    },
+    {
+     "id": "sieu_vi",
+     "noi_dung": "Mười hai ngày trước ông bị cảm: sốt ba ngày, ho, đau họng, nhức mỏi cả người; hết sốt đã năm ngày, còn ho nhẹ và mỏi tay vai. Ông chỉ uống paracetamol ba ngày, không kháng sinh. Sau cảm bị lỏng bụng nên tự mua men tiêu hóa uống đến nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau nhiễm siêu vi; thuốc đang dùng"
+    },
+    {
+     "id": "khong_dau_truoc",
+     "noi_dung": "Trước khi nổi mụn nước ông không thấy đau rát như kim châm hay bỏng dọc cánh tay. Ban nổi cả hai tay và một ít ở lưng chứ không chỉ một bên thân mình. Không sốt, không nhức đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có đau thần kinh báo trước, không chỉ một bên (phân biệt zona)"
+    },
+    {
+     "id": "co_dia",
+     "noi_dung": "Ông chưa từng bị chàm, hen, viêm mũi dị ứng hay nổi mề đay. Cha mẹ, anh em, con cái không ai bị bệnh da hay dị ứng. Trước nay da ông ít khi ngứa, chỉ khô vào mùa lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có cơ địa dị ứng, tổn thương không mạn tính tái diễn (phân biệt chàm)"
+    },
+    {
+     "id": "nam_ghe",
+     "noi_dung": "Ban không tròn, không lan ra thành vòng, không có chỗ lành ở giữa; kẽ ngón tay không ngứa. Người nhà không ai ngứa. Ông không nuôi chó mèo, chưa bôi kem nào lên chỗ ngứa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại nấm da, ghẻ; chưa dùng thuốc tự ý"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Ông làm ruộng lúa và vườn rau. Mấy hôm nay nghỉ vì mỏi người. Gần đây không phun thuốc trừ sâu, không bón phân mới, không đụng cây lạ, không đeo găng hay dán gì lên da.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại tiếp xúc nghề nghiệp khác"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Ông chưa khám sức khỏe tổng quát năm nào, chưa từng đo đường huyết, không có bệnh mạn tính đã biết. Có lần đo huyết áp ở trạm y tế xã 140/80, không thuốc. Không hút thuốc, uống rượu ít. Không dị ứng thuốc đã biết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền, tiền sử"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Sau trận cảm ông còn mệt, ăn kém. Nghe người trong xóm nói nổi mẩn là 'độc trong người', phải truyền chai nước biển cho thuốc vô nhanh, giải độc. Ông mong bác sĩ cho truyền nước, vì bà vợ lo, con cái ở xa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'còn gì muốn hỏi không' thì ông nói 'dạ không có'. Chỉ nói khi bác sĩ hỏi hôm nay ông mong muốn điều gì, nghĩ mình cần điều trị gì, hoặc vì sao quyết định đi khám vào lúc này. Nếu bác sĩ giải thích rõ lý do không cần truyền thì ông gật đầu nghe theo.",
+     "k": 0,
+     "y": "Lý do thật: muốn được truyền dịch"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng tay phải mặt trước – ngoài: ba vệt thẳng gần song song dài 8–12 cm, rộng 0,5–1 cm; nền đỏ, trên có mụn nước 1–3 mm xếp thành hàng, vài bọng nước 4–5 mm đã vỡ để lại vảy tiết vàng và vết trợt nhỏ; da quanh vệt đỏ nhẹ, phù nhẹ. Cánh tay phải mặt ngoài: hai vệt tương tự. Lưng trên: ba vệt đỏ nhạt nằm ngang, chưa có mụn nước. Cẳng tay trái: 3–4 mụn nước nhỏ rải rác. Không mụn mủ, không vảy mật ong, không sưng nóng đau lan rộng, không hạch. Không xếp theo một dải thần kinh một bên; không có vòng tròn lành giữa; kẽ ngón, nếp khuỷu, khoeo sạch. BSA ước khoảng 4% (một bàn tay ≈ 1%, AAD-NPF 2021, TL-0425). Mặt, bàn tay, bàn chân, sinh dục: không tổn thương.",
+     "k": 1,
+     "hien": "Cẳng tay phải mặt trước – ngoài: vài vệt thẳng gần song song, dài khoảng 8–12 cm, có mụn nước nhỏ xếp thành hàng, vảy tiết vàng (ảnh 1). Cánh tay phải mặt ngoài: hai vệt tương tự. Lưng trên: ba vệt đỏ nhạt nằm ngang. Cẳng tay trái: vài mụn nước nhỏ rải rác. Mặt, bàn tay, bàn chân, kẽ ngón: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng tay phải",
+       "id": "HA-DA-0244",
+       "chu": "Vài vệt thẳng trên cẳng tay: nền đỏ, mụn nước nhỏ xếp hàng, bọng nước đã vỡ đóng vảy tiết vàng."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy vừa (BMI 22). Không sốt, da niêm hồng, không phù. Không khó thở.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không mủ, amidan không to. Ho khan nhẹ còn sót sau cảm.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Phổi thông khí đều hai bên, không ran.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, nách. Mặt không phù, mi mắt bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,6 G/L · Neutrophil 62% · Lympho 28% · Eos 4% · Hb 141 g/L · TC 238 G/L",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 62,
+      "lym_pct": 28,
+      "eos_pct": 4,
+      "hgb": 141,
+      "plt": 238
+     },
+     "n": "Không cần: không sốt, không mủ, không dấu nhiễm khuẩn; QĐ 4416 (Viêm da tiếp xúc mục 2.1.3, 2.2.3) chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc, không đưa công thức máu vào xét nghiệm."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose đói 5,3 mmol/L",
+     "bang": {
+      "glu": 5.3
+     },
+     "n": "Chấp nhận: ông 67 tuổi, chưa từng đo đường huyết; không bắt buộc cho viêm da tiếp xúc khu trú, nhưng hữu ích nếu sau này cần corticoid toàn thân (ADA 2026, TL-0296, mục 2: glucocorticoid làm tăng nguy cơ rối loạn đường huyết)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "bang": {
+      "crp": 3
+     },
+     "n": "Không cần: không có nhiễm khuẩn; không có trong QĐ 4416 (Viêm da tiếp xúc)."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không có bất thường",
+     "n": "Không cần: không phù, không triệu chứng thận; không có trong QĐ 4416 (Viêm da tiếp xúc)."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 5,0 mmol/L · Creatinin 84 µmol/L · eGFR 86 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.0,
+      "creat": 84,
+      "egfr": 86
+     },
+     "n": "Không cần ở lượt này: không có trong QĐ 4416 (Viêm da tiếp xúc)."
+    },
+    "soi_nam": {
+     "v": "a",
+     "r": "Không thấy sợi nấm (nếu làm được ở nơi có)",
+     "n": "Chấp nhận nếu còn nghi nấm (QĐ 4416, Bệnh da do nấm sợi mục 2.2: soi tươi tìm sợi nấm); ca này tổn thương thẳng hàng, không tròn, không lành giữa nên không cần. Cơ sở không làm được; phân biệt bằng hình thái lâm sàng."
+    },
+    "test_ap": {
+     "v": "a",
+     "r": "Không làm được ở cơ sở; tuyến trên làm sau khi hết đợt cấp",
+     "n": "Chấp nhận nhưng không cần ngay: test áp xác định dị nguyên của viêm da tiếp xúc dị ứng và phân biệt với kích ứng (QĐ 4416 mục 2.1.2); ESCD 2026 mục 2.2: bôi corticoid mạnh cần ngừng 14 ngày trước test trên vùng test. Dành cho tái diễn hoặc cần tìm dị nguyên."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc cấp tính (nghĩ nhiều thể dị ứng; thể kích ứng chưa loại trừ) do dầu nóng và rượu ngâm lá thuốc nam, ở các đường cạo gió cánh tay phải, lưng trên, mức độ nhẹ – vừa (BSA ≈ 4%), chưa bội nhiễm",
+     "ok": 1,
+     "n": "Dát đỏ ranh giới rõ, mụn nước, bọng nước vỡ đóng vảy tiết, ngứa (QĐ 4416, Viêm da tiếp xúc mục 2.1.1: thể cấp tính); xuất hiện khoảng 48 giờ sau tiếp xúc (mục 1.3). Chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (mục 2.1.3, 2.2.3). Vệt thẳng nằm đúng đường cạo, tiền sử tiếp xúc rõ. Phân biệt dị ứng với kích ứng chắc chắn cần test áp (mục 2.1.2, 2.2.2); DDG S1 2022 mục 3: không có xét nghiệm trực tiếp cho kích ứng, chẩn đoán từ bệnh sử và hình ảnh lâm sàng. Ca ghi cả hai thể trong chẩn đoán vì không thể tách ở cơ sở; điều trị giống nhau (QĐ mục 3.2)."
+    },
+    {
+     "t": "Chàm (viêm da cơ địa, chàm đồng tiền)",
+     "n": "Viêm da cơ địa người lớn: tổn thương mạn tính, hay tái phát, ở nếp gấp khuỷu, khoeo, cổ, tiền sử cá nhân hoặc gia đình dị ứng (QĐ 4416, Viêm da cơ địa mục 2.1, 2.3.1: Hanifin – Rajka cần ≥ 3 tiêu chuẩn chính). Ông 67 tuổi, không tiền sử dị ứng, ban mới 3 ngày, thẳng hàng theo đường cạo, nếp gấp sạch."
+    },
+    {
+     "t": "Nấm da (nấm thân)",
+     "n": "Nấm thân: dát, mảng đỏ hình tròn hay nhiều cung, có vảy, lành giữa, lan ra, ngứa nhiều (QĐ 4416, Bệnh da do nấm sợi mục 2.1); viêm da tiếp xúc nằm trong chẩn đoán phân biệt của nấm thân (mục 2.5). Ông có vệt thẳng, mụn nước, không tròn, không lành giữa, xuất hiện nhanh sau tiếp xúc. Soi tươi (mục 2.2) chấp nhận nếu còn nghi, cơ sở không có."
+    },
+    {
+     "t": "Zona (herpes zoster)",
+     "n": "Zona: đau bỏng rát, châm chích báo trước 1–5 ngày; ban đỏ rồi mụn nước chụm thành chùm dọc đường thần kinh, thường một bên, không vượt đường giữa (QĐ 4416, Bệnh zona mục 2.1). Ông bị cảm gần đây và 67 tuổi (zona tăng theo tuổi, mục 1.2) nên dễ nghĩ tới, nhưng không đau báo trước, ban cả hai tay và lưng, thẳng hàng theo đường cạo chứ không theo một dermatom, ngứa nhiều chứ không đau."
+    },
+    {
+     "t": "Chốc, bội nhiễm vi khuẩn",
+     "n": "Vảy tiết vàng ở vết bọng nước đã vỡ dễ gợi chốc. Không có mủ, không sưng nóng đau lan, không sốt, tổn thương xếp thẳng hàng. Kháng sinh chỉ khi có bội nhiễm (QĐ 4416, Viêm da tiếp xúc mục 3.2.1: các điều trị khác)."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Ghẻ nằm trong chẩn đoán phân biệt của viêm da tiếp xúc kích ứng (QĐ 4416, Viêm da tiếp xúc mục 2.2.4). Không ngứa kẽ ngón, người nhà không ngứa, ban nổi thẳng hàng sau tiếp xúc."
+    },
+    {
+     "t": "Viêm da tiếp xúc do ánh sáng; phát ban do thuốc (paracetamol)",
+     "n": "Viêm da tiếp xúc do ánh sáng nằm trong chẩn đoán phân biệt (QĐ 4416, Viêm da tiếp xúc mục 2.1.4) nhưng tổn thương nằm cả ở lưng là vùng che áo. Phát ban do thuốc đơn thuần không có bài riêng trong QĐ 4416 (không có trong tài liệu đã tải); ông chỉ uống paracetamol ba ngày, ban khu trú theo đường cạo, không lan tỏa."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tìm và ngừng hoàn toàn tiếp xúc: không cạo gió, không xoa dầu nóng, rượu ngâm lá thuốc nam lên da nữa; giải thích để bà vợ cũng hiểu",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.1: tìm và loại bỏ căn nguyên; mục 4: tránh tiếp xúc với chất gây dị ứng, kích ứng); DDG S1 2022 mục 3: cần đủ thời gian không tiếp xúc để hàng rào da phục hồi. Chất nào chính gây bệnh: không có trong tài liệu đã tải (test áp mới xác định)."
+    },
+    {
+     "t": "Corticoid bôi loại mạnh (clobetasol propionat 0,05% mỡ) lên các vệt ở cánh tay, cẳng tay, lưng: 1 lần/ngày buổi tối, không bôi mặt, kẽ",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1): cấp tính, khu trú ở mặt duỗi, bàn tay, bàn chân dùng corticoid bôi loại mạnh 1–2 lần/ngày 2–4 tuần hoặc đến khi lành; DDG S1 2022 mục 3.3.1.2: corticoid bôi là hàng đầu, đợt cấp nặng nên dùng đủ mạnh. Nồng độ 0,05% theo QĐ 4416 (Bạch biến mục 3.2.2: clobetasol 0,05%); thuốc mạnh khác không đòi hỏi bắt buộc."
+    },
+    {
+     "t": "Đắp gạc tẩm dung dịch Jarish lên chỗ rỉ dịch, nhiều vảy tiết, ngày 2 lần sáng – tối, mỗi lần 30 phút",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: Jarish đắp vùng ướt, rỉ dịch, nhiều vảy tiết; Bệnh chốc, phần điều trị tại chỗ: ngày 2 lần sáng tối, mỗi lần 30 phút). Thành phần pha Jarish: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng histamin uống để giảm ngứa, ưu tiên thế hệ 2 (loratadin 10 mg ngày 1 lần)",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: kháng histamin uống để giảm ngứa; Mày đay mục 3.2: thế hệ 2 gồm loratadin, cetirizin, fexofenadin…). Liều 10 mg/ngày, không chỉnh liều ở người cao tuổi: tờ thông tin sản phẩm (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/14579/smpc, mục 4.2). Chọn thế hệ 2 là quyết định thiết kế; số liệu an toàn thuốc thế hệ 1 ở người cao tuổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dưỡng ẩm không dị nguyên nhiều lần trong ngày lên vùng da lành và quanh tổn thương",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.1: hồi phục hàng rào bảo vệ da; mục 3.2.1: kem dưỡng ẩm nhiều lần trong ngày); DDG S1 2022 mục 3.3.1.1: chăm sóc nền là thành phần then chốt."
+    },
+    {
+     "t": "Hỏi ông mong muốn gì hôm nay; giải thích không cần truyền dịch, bệnh không do 'độc trong người' mà do da phản ứng với chất đã xoa",
+     "v": "c",
+     "n": "Giao tiếp, không cần nguồn. Truyền dịch không có chỉ định trong QĐ 4416 (Viêm da tiếp xúc mục 3), DDG S1 2022 và ESCD 2026 (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Dặn tái khám sau 3 ngày, hoặc sớm hơn nếu ban lan rộng, sưng mặt, sốt, có mủ",
+     "v": "c",
+     "n": "Lịch tái khám cụ thể không có trong tài liệu đã tải; thiết kế của ca. Theo dõi bội nhiễm: QĐ 4416 (Viêm da tiếp xúc mục 3.2.1)."
+    },
+    {
+     "t": "Truyền dịch, nằm viện hay lưu phòng khám để truyền nước giải độc",
+     "v": "w",
+     "n": "Không có chỉ định trong QĐ 4416 (Viêm da tiếp xúc), DDG S1 2022, ESCD 2026 (không có trong tài liệu đã tải); ban khu trú, ông không sốt, ăn uống được."
+    },
+    {
+     "t": "Kháng sinh uống hoặc tiêm cho vảy tiết và rỉ dịch",
+     "v": "w",
+     "n": "Kháng sinh chỉ dùng khi có bội nhiễm (QĐ 4416, Viêm da tiếp xúc mục 3.2.1); ca không có mủ, sốt, sưng nóng đau."
+    },
+    {
+     "t": "Prednisolon hoặc corticoid toàn thân ngay từ lượt này",
+     "v": "w",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: lan tỏa, nặng): corticoid toàn thân là lựa chọn thứ nhất khi trên 20% diện tích da hoặc liên quan mặt, bàn tay, bàn chân, sinh dục; DDG S1 2022 mục 3.3.3.1: chỉ khi viêm da tiếp xúc cấp lan rộng hoặc nặng. Ca BSA ≈ 4%, chưa đủ chỉ định."
+    },
+    {
+     "t": "Thuốc chẹn calcineurin bôi (tacrolimus) thay corticoid mạnh",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1): là lựa chọn thay thế cho người cần điều trị lâu dài trên 2 tuần; DDG S1 2022 mục 3.3.1.3: kém hơn corticoid mạnh ở đợt cấp rõ. Không sai nhưng không phải bước đầu."
+    },
+    {
+     "t": "Hẹn khám Da liễu làm test áp sau khi lành nếu muốn biết chính xác chất gây dị ứng",
+     "v": "a",
+     "n": "QĐ 4416 (mục 2.1.2); ESCD 2026 mục 2.2; test áp không có ở cơ sở. Không bắt buộc ở lượt này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc cấp tính (nghĩ nhiều thể dị ứng, chưa loại trừ kích ứng), vị trí cánh tay phải, cẳng tay phải, lưng trên theo đường cạo gió",
+     "Căn nguyên nghi: dầu nóng và rượu ngâm lá thuốc nam xoa trong lúc cạo gió (xoa hai lần); chất chính xác chưa xác định, cần test áp",
+     "Mức độ: BSA ≈ 4%, chưa liên quan mặt, bàn tay, bàn chân, sinh dục; chưa bội nhiễm",
+     "Yếu tố khởi phát: sau nhiễm siêu vi, ông đau mỏi người nên được cạo gió (gián tiếp)",
+     "Đã loại trừ trên lâm sàng: chàm, nấm da, zona, chốc, ghẻ",
+     "Lý do thật đến khám: mong được truyền dịch – đã giải thích, không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi lý do khám, ngứa hay đau, thời gian → bệnh sử tổn thương → hỏi cụ thể mọi thứ đã bôi, xoa, cạo, đắp lên da (đây là câu then chốt, ông không tự kể) → sau cảm: thuốc đã uống → cơ địa dị ứng, nghề nghiệp → khám toàn bộ da (vị trí, hình dạng, mụn nước, vảy tiết, mặt, bàn tay, kẽ) → loại zona, nấm, chàm → chẩn đoán → hỏi mong muốn của ông → xử trí.",
+     "Vì sao là viêm da tiếp xúc: tổn thương cấp tính với dát đỏ, mụn nước, bọng nước vỡ đóng vảy tiết, ngứa (QĐ 4416, Viêm da tiếp xúc mục 2.1.1); xuất hiện khoảng 48 giờ sau tiếp xúc ở người đã quen với chất (mục 1.3); vệt thẳng hàng đúng đường cạo; chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (mục 2.1.3).",
+     "Dị ứng hay kích ứng: kích ứng hay do hóa chất mạnh, giới hạn rất rõ, xuất hiện vài phút đến vài giờ (có thể muộn hơn), lành nhanh sau ngừng; biểu hiện đôi khi giống dị ứng, rất khó phân biệt (QĐ 4416 mục 2.2.1). DDG S1 2022 Bảng 1: dị ứng thường có tổn thương ranh giới không rõ và hay lan sang vùng da khác; kích ứng ranh giới rõ, không lan. Tổn thương của ông ranh giới khá rõ, thẳng hàng nhưng có vài mụn nước rải rác ở tay trái – gợi ý dị ứng nhưng chưa đủ để kết luận. Không cần phân biệt ở cơ sở để điều trị (cùng thuốc bôi mạnh, QĐ mục 3.2.1 và 3.2.2).",
+     "Loại trừ zona: không đau báo trước, không theo một dermatom, hai bên (QĐ 4416, Bệnh zona mục 2.1). Loại nấm: hình thái không tròn, không lành giữa (Bệnh da do nấm sợi mục 2.1). Loại chàm: không mạn tính, không tiền sử dị ứng (Viêm da cơ địa mục 2.1, 2.3.1).",
+     "Yếu tố 'sau nhiễm siêu vi' ở đây là cái cớ dẫn tới cạo gió, không phải nguyên nhân trực tiếp của ban; tránh ghi 'ban sau virus' rồi chỉ cho thuốc ngứa.",
+     "Sau điều trị đúng, đợt cấp thường lui dần; nếu ban xấu đi hoặc không đỡ, DDG S1 2022 mục 3.3.1.2 nhắc cân nhắc dị ứng với chính corticoid hoặc thành phần khác trong chế phẩm."
+    ],
+    "phan_tich_xu_tri": [
+     "Gốc của điều trị là loại bỏ căn nguyên (QĐ 4416, Viêm da tiếp xúc mục 3.1). Nếu vợ ông xoa lại tiếp thì mọi thuốc đều thất bại; cần nói thẳng với cả hai vợ chồng, kể cả rượu thuốc ông dùng nhiều năm.",
+     "Corticoid bôi loại mạnh cho tổn thương khu trú ở vùng mặt duỗi: 1–2 lần/ngày 2–4 tuần hoặc đến khi lành (QĐ 4416 mục 3.2.1); chú ý teo da, giãn mạch. Ca chọn 1 lần/ngày để thận trọng ở da người 67 tuổi (thiết kế, không có số liệu riêng người cao tuổi trong tài liệu đã tải). Không bôi mặt, nếp gấp bằng thuốc mạnh (QĐ mục 3.2.1: mặt và vùng gấp dùng loại trung bình đến nhẹ).",
+     "Đắp Jarish cho vùng rỉ dịch vảy tiết, kháng histamin uống giảm ngứa (QĐ 4416 mục 3.2.1). Kháng sinh tại chỗ hoặc toàn thân chỉ khi có bội nhiễm (mục 3.2.1).",
+     "Về mong muốn truyền dịch: hỏi thẳng, nghe, rồi giải thích bệnh nằm ở da và đã có thuốc đúng; tài liệu không có chỉ định truyền dịch (không có trong tài liệu đã tải). Đây là cơ hội giữ lòng tin cho lần tái khám, vì lượt sau có thể cần thuốc mạnh hơn.",
+     "Hướng xử trí: cho về, tái khám sau 3 ngày, dặn dấu hiệu cần quay lại sớm (lịch tái khám và dấu hiệu quay lại không có trong tài liệu đã tải; thiết kế của ca)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Clobetasol propionat",
+      "ham_luong": "0,05% (mỡ)",
+      "lieu": "Bôi mỏng lên các vệt tổn thương, 1 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối, sau khi đắp Jarish và lau khô",
+      "so_ngay": "Đến khi lành hoặc đến buổi tái khám sau 3 ngày; không quá 2–4 tuần",
+      "ghi_chu": "Chỉ bôi cánh tay, cẳng tay, lưng; không bôi mặt, nếp gấp (QĐ 4416, Viêm da tiếp xúc mục 3.2.1). Số lần 1/ngày là lựa chọn thận trọng; QĐ ghi 1–2 lần/ngày."
+     },
+     {
+      "thuoc": "Dung dịch Jarish",
+      "ham_luong": "Dung dịch pha sẵn của cơ sở (thành phần không có trong tài liệu đã tải)",
+      "lieu": "Tẩm gạc đắp lên chỗ rỉ dịch, vảy tiết, 30 phút/lần, 2 lần/ngày",
+      "duong": "Đắp ngoài da",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Đến khi hết rỉ dịch",
+      "ghi_chu": "QĐ 4416, Viêm da tiếp xúc mục 3.2.1; Bệnh chốc, phần điều trị tại chỗ."
+     },
+     {
+      "thuoc": "Loratadin",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối (giúp ngủ); giờ uống không có trong tài liệu đã tải",
+      "so_ngay": "5–7 ngày, tái khám để quyết định",
+      "ghi_chu": "Kháng histamin giảm ngứa (QĐ 4416 mục 3.2.1). Liều theo tờ thông tin sản phẩm (nguồn bổ sung tự tìm, medicines.org.uk/emc/product/14579/smpc, mục 4.2): người cao tuổi không chỉnh liều."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không dị nguyên",
+      "ham_luong": "Loại không mùi, không hương liệu",
+      "lieu": "Bôi nhiều lần trong ngày, cách thuốc mạnh ít nhất vài phút",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sáng, trưa, chiều và sau tắm",
+      "so_ngay": "Lâu dài",
+      "ghi_chu": "QĐ 4416 mục 3.1, 3.2.1; DDG S1 2022 mục 3.3.1.1. Men tiêu hóa ông đang uống: tương tác không có trong tài liệu đã tải; tiếp tục nếu còn lỏng bụng."
+     }
+    ],
+    "dan_do": [
+     "Ngừng hẳn cạo gió, dầu nóng, rượu ngâm lá thuốc nam; nhờ vợ không xoa lên da ông, cả lúc ông mỏi (QĐ 4416, Viêm da tiếp xúc mục 4).",
+     "Không gãi; cắt ngắn móng tay; mặc áo dài tay mềm, rộng.",
+     "Không bôi thêm dầu gió, kem 'trộn' hay lá cây lên chỗ ngứa.",
+     "Không cần truyền nước: ban ở da, thuốc bôi và uống là điều trị đúng. Ông còn mệt sau cảm thì ăn uống đủ, nghỉ ngơi.",
+     "Tái khám sau 3 ngày (thiết kế của ca, không có trong tài liệu đã tải). Quay lại sớm nếu ban lan ra thân, sưng mặt, sưng mí mắt, sốt, có mủ hoặc đau tăng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày",
+   "tiep_don": "Ông Bảy tái khám sau 4 ngày, đi cùng vợ. Ông nói ngứa nhiều hơn, mất ngủ, ban nổi thêm ra nhiều chỗ. Sinh hiệu: mạch 84 l/p, HA 144/86 mmHg, nhiệt độ 37,1 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhận ông Bảy nằm viện truyền dịch vì ban lan là không cần: ông không sốt, không khó thở, không phù thanh môn, không bội nhiễm; ban lan trên 20% diện tích da và vùng mặt thì QĐ 4416 (Viêm da tiếp xúc mục 3.2.1) chỉ định prednisolon uống chứ không nêu truyền dịch hay nhập viện; tiêu chuẩn nhập viện cho bệnh này không có trong tài liệu đã tải. Ông nằm viện vài ngày, mất ngày công và tiền, dùng cùng thuốc uống như ở nhà.",
+    "chuyen_tuyen": "Chuyển ông Bảy lên tuyến trên chỉ vì ban lan là quá tay: corticoid toàn thân cho thể lan tỏa là điều trị đã mô tả, thực hiện được ở cơ sở này (QĐ 4416, mục 3.2.1; DDG S1 2022 mục 3.3.3.1). Test áp là xét nghiệm tìm dị nguyên, không thay điều trị đợt cấp (ESCD 2026 mục 2.2). Ông đi xa, chờ hẹn, ban và ngứa chưa được điều trị đủ mạnh trong lúc chờ."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi làm đúng như bác sĩ dặn mà sao nổi nhiều hơn, mí mắt cũng sưng. Cho tôi nằm viện truyền nước biển đi bác sĩ, chứ để vầy tôi lo lắm.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "144/86",
+    "nhiet": "37,1",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông bôi thuốc và uống thuốc đều. Hai ngày đầu đỡ ngứa, bọng nước xẹp. Từ ngày thứ ba nổi thêm ban đỏ, mụn nước ở tay trái, ngực, bụng trên, lưng, hai bên cổ; từ hôm qua hai mí mắt sưng, đỏ. Ngứa nhiều hơn, đêm ngủ không được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến nặng hơn: lan rộng, vùng mặt"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông ngừng hẳn dầu nóng và rượu thuốc, bà vợ không cạo gió nữa. Ông bôi clobetasol 1 lần mỗi tối, chỉ ở những vệt cũ (không bôi vùng ban mới), đắp Jarish hai lần mỗi ngày, uống loratadin mỗi tối. Ông không bôi gì thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã tuân thủ điều trị lượt 1; không tiếp xúc thêm"
+    },
+    {
+     "id": "tiep_xuc_moi",
+     "noi_dung": "Ông nghỉ ruộng từ lúc ngứa. Không phun thuốc, không đụng cây lạ, không dùng xà phòng hay kem mới, không đeo gì lên da. Áo, chăn, chiếu đã giặt. Ông không bôi thuốc lên mí mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại tiếp xúc mới; nghĩ tới lan do cơ địa"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Ông không sốt, không ớn lạnh, không đau họng, không khó thở, không khó nuốt, không sưng môi lưỡi. Mắt không đau, nhìn rõ như thường. Ăn uống được, tiểu bình thường. Không đau bỏng rát kiểu dây thần kinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại dấu nặng: nhiễm khuẩn, phù mạch, tổn thương mắt, đỏ da toàn thân"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Ông chưa từng bị tiểu đường theo hiểu biết của ông (chưa bao giờ đo). Huyết áp đo ở trạm xã có lần 140/80, không thuốc. Không loét dạ dày, không lao, không viêm gan. Không từng uống hay tiêm thuốc corticoid. Men tiêu hóa vẫn uống vì còn lỏng bụng nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền trước khi kê corticoid toàn thân"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Ông thấy ban lan nên sợ 'độc ăn vô trong', muốn nằm viện truyền nước cho thuốc vô nhanh. Ông tin bà con nói và lo khi con cái ở xa. Nếu bác sĩ giải thích rõ thuốc uống sẽ thay vai trò đó thì ông đồng ý uống và về nhà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: muốn truyền dịch (nay nói thẳng)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Hai cánh tay và cẳng tay: các vệt cũ ở tay phải đã khô, vảy tiết bong, nền hồng sẫm, ít rỉ dịch. Quanh đó và ở tay trái, ngực, bụng trên, lưng, hai bên cổ: nhiều mảng đỏ ranh giới không rõ, phù nhẹ, trên có mụn nước nhỏ chụm, vài chỗ rỉ dịch, vết xước do gãi. Hai mí mắt trên phù, đỏ nhẹ, không mụn nước ở bờ mi, không loét. Không mụn mủ, không vảy mật ong, không bọng nước lớn, không bong da, vùng da lành xen kẽ (không đỏ da toàn thân). Bàn tay, bàn chân, sinh dục: sạch. BSA ước khoảng 25% (một bàn tay ≈ 1%; AAD-NPF 2021, TL-0425).",
+     "k": 1,
+     "hien": "Hai cánh tay, cẳng tay, ngực, bụng trên, lưng và hai bên cổ: nhiều mảng đỏ, phù nhẹ, mụn nước nhỏ chụm, vài chỗ rỉ dịch, vết gãi. Vệt cũ ở tay phải khô vảy. Hai mí mắt trên đỏ, phù nhẹ. Bàn tay, bàn chân, vùng sinh dục: không tổn thương."
+    },
+    "mat": {
+     "a": "Thị lực bình thường, kết mạc không đỏ, đồng tử đều, phản xạ ánh sáng bình thường. Mi trên phù nhẹ như mô tả, không mụn nước bờ mi, giác mạc trong.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Lưỡi, môi, khẩu cái không phù; họng không đỏ, giọng bình thường, không khàn.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt vì mất ngủ. Không sốt, không phù chi, da vùng lành hồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Phổi thông khí đều hai bên, không ran, không khò khè.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, nách, bẹn.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 5,5 mmol/L",
+     "bang": {
+      "glu": 5.5
+     },
+     "n": "Nên làm: ông 67 tuổi, chưa từng đo đường huyết, sắp dùng corticoid toàn thân; ADA 2026 (TL-0296, mục 2) nêu glucocorticoid làm tăng nguy cơ rối loạn đường huyết, tăng thường rõ sau bữa chứ không phải lúc đói. QĐ 4416 (Viêm da tiếp xúc) không đòi xét nghiệm này."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 6,4 mmol/L (ăn sau 2 giờ)",
+     "n": "Chấp nhận: thay thế tại chỗ, nhanh; không thay đường đói."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,4 G/L · Neutrophil 66% · Lympho 24% · Eos 6,5% · Hb 142 g/L · TC 252 G/L",
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 66,
+      "neu": 6.2,
+      "lym_pct": 24,
+      "lym": 2.26,
+      "eos_pct": 6.5,
+      "eos": 0.61,
+      "hgb": 142,
+      "plt": 252
+     },
+     "n": "Chấp nhận: giúp thấy không có dấu nhiễm khuẩn; bạch cầu ái toan tăng nhẹ phù hợp phản ứng dị ứng, không đặc hiệu. Không bắt buộc (QĐ 4416, Viêm da tiếp xúc, không đưa vào xét nghiệm)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,2 mmol/L · Creatinin 85 µmol/L · eGFR 85 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.2,
+      "creat": 85,
+      "egfr": 85
+     },
+     "n": "Chấp nhận: thận bình thường; không có trong QĐ 4416 (Viêm da tiếp xúc)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "Không cần: không sốt, không mủ."
+    },
+    "liver": {
+     "v": "n",
+     "r": "AST 24 · ALT 26 U/L",
+     "n": "Không cần: không dùng thuốc độc gan."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không có bất thường",
+     "n": "Không cần: không phù, không triệu chứng thận."
+    },
+    "soi_nam": {
+     "v": "a",
+     "r": "Không thấy sợi nấm (nếu làm được ở nơi có)",
+     "n": "Chấp nhận nếu còn nghi nấm; ca không có hình thái nấm. Cơ sở không làm được."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không có mủ để cấy",
+     "n": "Không cần: không có bội nhiễm (QĐ 4416, Viêm da tiếp xúc mục 3.2.1: kháng sinh khi có bội nhiễm). Cơ sở không làm được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc cấp tính lan rộng (BSA ≈ 25%, có liên quan vùng mặt – mi mắt), nghĩ nhiều thể dị ứng, đang nặng hơn dù đã ngừng tiếp xúc và dùng corticoid bôi; chưa bội nhiễm; chưa đỏ da toàn thân",
+     "ok": 1,
+     "n": "Tổn thương vượt khỏi vùng tiếp xúc, rải rác nơi khác (QĐ 4416, Viêm da tiếp xúc mục 2.1.1); DDG S1 2022 Bảng 1: dị ứng hay có phản ứng lan sang vùng da khác, kích ứng thì không lan – lan rộng ở lượt này làm nghiêng hẳn về thể dị ứng. Thể lan tỏa: trên 20% diện tích da hoặc liên quan mặt (QĐ mục 3.2.1)."
+    },
+    {
+     "t": "Bội nhiễm vi khuẩn da",
+     "n": "Không mủ, không vảy mật ong, không sốt (nhiệt 37,1), bạch cầu bình thường; có rỉ dịch và vết gãi nhưng chưa có dấu bội nhiễm (QĐ 4416, mục 3.2.1: kháng sinh khi có bội nhiễm)."
+    },
+    {
+     "t": "Dị ứng với chính corticoid hoặc thành phần chế phẩm đang bôi",
+     "n": "DDG S1 2022 mục 3.3.1.2: nếu da xấu đi hoặc không đỡ cần cân nhắc dị ứng với corticoid hoặc thành phần khác của chế phẩm. Ông đỡ ngứa hai ngày đầu, ban mới nổi ở vùng chưa bôi thuốc, tay phải (vùng bôi) đang khô vảy: ít gợi ý. Nếu về sau xấu đi dù dùng đúng, mới cân nhắc lại (suy luận của ca, nguồn chỉ nêu nguyên tắc)."
+    },
+    {
+     "t": "Đỏ da toàn thân, phù thanh môn, phù mạch",
+     "n": "Không sốt, không khó thở, môi lưỡi không phù, vùng da lành xen kẽ. Phù mí mắt do viêm da tiếp xúc ở vùng mặt, không phải phù mạch (môi, lưỡi, họng không phù)."
+    },
+    {
+     "t": "Zona mắt (zona vùng mặt)",
+     "n": "Zona: tổn thương một bên, đau bỏng rát trước, theo dây thần kinh (QĐ 4416, Bệnh zona mục 2.1). Ông phù hai mí đối xứng, ngứa không đau, mắt bình thường, ban cả hai tay và thân."
+    },
+    {
+     "t": "Chàm, nấm da",
+     "n": "Đã loại ở lượt 1; diễn tiến cấp, lan nhanh sau tiếp xúc không phù hợp chàm cơ địa mạn tính hay nấm (QĐ 4416, Viêm da cơ địa mục 2.1; Bệnh da do nấm sợi mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá lại toàn diện: hỏi tuân thủ thuốc, tiếp xúc mới, dấu nặng (sốt, mủ, phù môi lưỡi, mắt), đo diện tích da, khám mặt – mắt",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 2.1.1: tổn thương vượt vùng tiếp xúc; mục 3.2.1: bội nhiễm; thể lan tỏa, nặng); DDG S1 2022 Bảng 1 và mục 3.3.1.2."
+    },
+    {
+     "t": "Hỏi bệnh nền (tiểu đường, tăng huyết áp, loét dạ dày, lao, viêm gan) và kiểm đường huyết trước khi kê corticoid toàn thân; dặn ông đo lại huyết áp",
+     "v": "c",
+     "n": "Điều kiện an toàn khi dùng corticoid toàn thân: QĐ 4416 (Viêm da tiếp xúc) không nêu; DDG S1 2022 mục 3.3.3.1 nhắc tác dụng phụ đã biết; ADA 2026 (TL-0296, mục 2): glucocorticoid gây tăng đường huyết. Danh sách bệnh nền cần hỏi là kiến thức của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Prednisolon uống 0,5–1 mg/kg/ngày (tối đa 60 mg/ngày): ông 58 kg, dùng 40 mg/ngày × 7 ngày, sau đó 20 mg/ngày × 7 ngày rồi dừng (tổng 2 tuần)",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: trên 20% diện tích da hoặc liên quan mặt, bàn tay, bàn chân, sinh dục thì corticoid toàn thân là lựa chọn thứ nhất; prednisolon 0,5–1 mg/kg/ngày, tối đa 60 mg, 7 ngày, sau đó giảm 50% mỗi 5–7 ngày rồi dừng sau 2 tuần); DDG S1 2022 mục 3.3.3.1: đợt cấp lan rộng, tối đa 2 tuần, 0,5–1 mg/kg, giảm nhanh. Hai nguồn khớp nhau. QĐ chưa rõ mốc '2 tuần' tính từ đâu; ca tính từ ngày đầu, phù hợp DDG (không quá 2 tuần)."
+    },
+    {
+     "t": "Tiếp tục corticoid bôi loại mạnh (clobetasol) cho thân, tay; mở rộng ra cả vùng ban mới ở ngực, lưng, bụng",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): mặt duỗi, bàn tay, bàn chân dùng loại mạnh 1–2 lần/ngày; DDG S1 2022 mục 3.3.1.2."
+    },
+    {
+     "t": "Mí mắt, mặt: corticoid bôi loại nhẹ – trung bình (không dùng clobetasol)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1): mặt và vùng da mặt gấp dùng loại trung bình đến nhẹ, 1–2 lần/ngày trong 1–2 tuần; DDG S1 2022 mục 3.3.1.2: vùng mặt, nếp gấp, hậu môn sinh dục dùng loại hoạt lực thấp. Tên thuốc, nồng độ cho mí mắt không có trong bài Viêm da tiếp xúc; ca ghi hydrocortison (nhóm nhẹ theo QĐ 4416, Bạch biến mục 3.2.1)."
+    },
+    {
+     "t": "Đắp Jarish chỗ rỉ dịch, vảy tiết (2 lần/ngày, 30 phút); tiếp tục kháng histamin uống; dưỡng ẩm",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1; Bệnh chốc, phần điều trị tại chỗ; mục 3.1)."
+    },
+    {
+     "t": "Giải thích vì sao không cần nhập viện, truyền dịch; thuốc uống mới là thuốc 'vào nhanh'; hẹn tái khám sau 3 ngày và dặn dấu hiệu quay lại",
+     "v": "c",
+     "n": "Giao tiếp; lịch tái khám không có trong tài liệu đã tải, thiết kế của ca. Không có chỉ định truyền dịch (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Truyền dịch, nằm viện để truyền nước",
+     "v": "w",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1) điều trị thể lan tỏa bằng prednisolon uống; không có chỉ định truyền dịch hay tiêu chuẩn nhập viện trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ tăng corticoid bôi, không dùng toàn thân",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): trên 20% diện tích da hoặc liên quan mặt thì corticoid toàn thân là lựa chọn thứ nhất; đã bôi mạnh mà vẫn lan."
+    },
+    {
+     "t": "Bôi clobetasol (loại mạnh) lên mí mắt, mặt",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): mặt dùng loại trung bình đến nhẹ; DDG S1 2022 mục 3.3.1.2: vùng mặt dùng loại hoạt lực thấp."
+    },
+    {
+     "t": "Kháng sinh uống hoặc tiêm vì rỉ dịch, vết gãi",
+     "v": "w",
+     "n": "Chỉ khi có bội nhiễm (QĐ 4416, mục 3.2.1); ca không mủ, không sốt, bạch cầu bình thường."
+    },
+    {
+     "t": "Hẹn Da liễu làm test áp sau khi lành để tìm chất gây dị ứng",
+     "v": "a",
+     "n": "QĐ 4416 (mục 2.1.2); ESCD 2026 mục 2.2 (bôi corticoid mạnh ngừng 14 ngày trước test trên vùng test). Dùng để phòng tái phát; không thuộc điều trị đợt này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc cấp tính, nghĩ nhiều thể dị ứng (chưa có test áp), lan rộng: BSA ≈ 25%, có liên quan mí mắt",
+     "Căn nguyên nghi: dầu nóng, rượu ngâm lá thuốc nam (xem lượt 1); đã ngừng tiếp xúc; ban lan là do bản chất phản ứng dị ứng chứ không do tiếp xúc thêm",
+     "Đang nặng hơn dù dùng corticoid bôi và kháng histamin đúng; chưa bội nhiễm, chưa đỏ da toàn thân, chưa phù thanh môn",
+     "Điều kiện trước corticoid toàn thân: đường huyết bình thường, HA 144/86 theo dõi, không tiền sử loét dạ dày, lao",
+     "Lý do thật: muốn truyền dịch – đã giải thích, cho prednisolon uống"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: tuân thủ thuốc → diễn tiến (đỡ rồi nặng, vùng nào mới) → có tiếp xúc mới không → dấu nặng (sốt, mủ, phù môi, mắt) → bệnh nền trước khi dùng corticoid → khám toàn bộ da, mặt, mắt, miệng → CLS tối thiểu (đường huyết) → chẩn đoán → xử trí.",
+     "Vì sao nặng hơn: viêm da tiếp xúc dị ứng hay có tổn thương vượt khỏi vùng tiếp xúc, rải rác nơi khác (QĐ 4416 mục 2.1.1); DDG S1 2022 Bảng 1: phản ứng lan là đặc điểm của thể dị ứng. Ông đã ngừng tiếp xúc và dùng thuốc đúng, nên đây là diễn tiến của bệnh, không phải lỗi người bệnh.",
+     "Phải loại bội nhiễm: không mủ, sốt, bạch cầu bình thường. Phải loại dấu nặng: da lành xen kẽ (chưa đỏ da toàn thân), môi lưỡi không phù, mắt bình thường.",
+     "Nếu xấu đi dù đủ thuốc, DDG S1 2022 mục 3.3.1.2 nhắc cân nhắc dị ứng với chính corticoid hoặc thành phần chế phẩm; ở ca này chưa nghĩ tới vì ông đỡ hai ngày đầu và ban mới ở vùng chưa bôi.",
+     "Mức độ: trên 20% diện tích da, có liên quan mặt: đủ tiêu chí lan tỏa, nặng (QĐ 4416 mục 3.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Corticoid toàn thân là lựa chọn thứ nhất khi trên 20% diện tích da hoặc liên quan mặt, bàn tay, bàn chân, sinh dục: prednisolon 0,5–1 mg/kg/ngày (tối đa 60 mg) 7 ngày, giảm 50% mỗi 5–7 ngày, dừng sau 2 tuần (QĐ 4416 mục 3.2.1); DDG S1 2022 mục 3.3.3.1: tối đa 2 tuần, giảm nhanh; dùng dài hay lặp lại không chỉ định. Ca kê 40 mg (≈ 0,7 mg/kg) 7 ngày, 20 mg 7 ngày rồi dừng.",
+     "Dùng corticoid toàn thân ở người 67 tuổi cần hỏi đường huyết, huyết áp, loét dạ dày, lao trước, dặn đo lại đường huyết và HA; các mục bệnh nền là kiến thức của ca, không phải nội dung QĐ 4416 (không có trong tài liệu đã tải).",
+     "Giữ corticoid bôi mạnh cho thân, tay; mặt, mí mắt dùng loại nhẹ – trung bình (QĐ 4416 mục 3.2.1; DDG S1 2022 mục 3.3.1.2). Jarish cho vùng rỉ dịch; kháng histamin; dưỡng ẩm.",
+     "Không kháng sinh khi không bội nhiễm (QĐ mục 3.2.1). Không truyền dịch: không có chỉ định trong tài liệu đã tải; ngưỡng nhập viện cho viêm da tiếp xúc không có trong tài liệu đã tải, đỏ da toàn thân hay phù thanh môn mới cần xem lại.",
+     "Hướng xử trí: cho về, tái khám sau 3 ngày (thiết kế của ca, không có trong tài liệu đã tải). Dặn quay lại ngay nếu sốt, có mủ, sưng môi lưỡi, khó thở, đau hoặc giảm thị lực, bong da, đỏ cả người."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Prednisolon",
+      "ham_luong": "5 mg",
+      "lieu": "Ngày 1–7: 8 viên (40 mg) × 1 lần/ngày; ngày 8–14: 4 viên (20 mg) × 1 lần/ngày; rồi ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn (giờ uống không có trong tài liệu đã tải; thiết kế)",
+      "so_ngay": "14 ngày",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1): 0,5–1 mg/kg/ngày, tối đa 60 mg, 7 ngày, giảm 50% mỗi 5–7 ngày, dừng sau 2 tuần; DDG S1 2022 mục 3.3.3.1: tối đa 2 tuần. Ông 58 kg: 29–58 mg/ngày; chọn 40 mg. Không ngừng đột ngột trước 14 ngày."
+     },
+     {
+      "thuoc": "Clobetasol propionat",
+      "ham_luong": "0,05% (mỡ)",
+      "lieu": "Bôi mỏng lên các mảng ở tay, ngực, bụng, lưng, 1 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối, sau đắp Jarish",
+      "so_ngay": "Đến khi lành, không quá 2–4 tuần",
+      "ghi_chu": "QĐ 4416 mục 3.2.1. Không bôi mặt, mí mắt, nếp gấp."
+     },
+     {
+      "thuoc": "Hydrocortison (loại nhẹ) bôi mí mắt, mặt",
+      "ham_luong": "Nồng độ không có trong tài liệu đã tải cho bài này",
+      "lieu": "Bôi mỏng 1–2 lần/ngày, tránh sát bờ mi",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sáng, tối",
+      "so_ngay": "1–2 tuần",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1): mặt dùng loại trung bình tới nhẹ 1–2 lần/ngày trong 1–2 tuần; DDG S1 2022 mục 3.3.1.2. Tên thuốc nhẹ: QĐ 4416 Bạch biến mục 3.2.1."
+     },
+     {
+      "thuoc": "Dung dịch Jarish",
+      "ham_luong": "Dung dịch pha sẵn (thành phần không có trong tài liệu đã tải)",
+      "lieu": "Đắp gạc lên chỗ rỉ dịch, 30 phút/lần, 2 lần/ngày",
+      "duong": "Đắp ngoài da",
+      "thoi_diem": "Sáng, tối",
+      "so_ngay": "Đến khi hết rỉ dịch",
+      "ghi_chu": "QĐ 4416 mục 3.2.1; Bệnh chốc, phần điều trị tại chỗ."
+     },
+     {
+      "thuoc": "Loratadin",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Đến khi hết ngứa, tối đa theo tái khám",
+      "ghi_chu": "QĐ 4416 mục 3.2.1; liều theo tờ thông tin sản phẩm (nguồn bổ sung tự tìm, medicines.org.uk/emc/product/14579/smpc, mục 4.2)."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không dị nguyên",
+      "ham_luong": "Không mùi, không hương liệu",
+      "lieu": "Bôi nhiều lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sau đắp, tắm, trước ngủ",
+      "so_ngay": "Lâu dài",
+      "ghi_chu": "QĐ 4416 mục 3.1, 3.2.1; DDG S1 2022 mục 3.3.1.1."
+     }
+    ],
+    "dan_do": [
+     "Uống prednisolon đủ 14 ngày theo giảm liều (QĐ 4416 mục 3.2.1), không tự ngừng sớm hay uống kéo dài thêm; uống sau ăn sáng.",
+     "Dặn các tác dụng phụ ngắn ngày cần biết: tăng đường huyết, tăng huyết áp, khó ngủ, đau dạ dày; thuốc uống ngắn nhưng ông 67 tuổi nên đo lại huyết áp sau vài ngày. Nếu khát nhiều, tiểu nhiều hoặc đau bụng, quay lại sớm.",
+     "Vẫn tuyệt đối không xoa dầu nóng, rượu thuốc, cạo gió; kể cả khi đau mỏi; vợ ông cũng không xoa hộ.",
+     "Quay lại ngay nếu sốt, có mủ, sưng môi lưỡi, khó thở, đau mắt hoặc nhìn mờ, bong da, đỏ cả người.",
+     "Không cần truyền nước: thuốc uống ngắn ngày chính là thuốc 'vào nhanh' cho ban lan rộng.",
+     "Tái khám sau 3 ngày (thiết kế của ca, không có trong tài liệu đã tải), rồi khi hết thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần sau ông Bảy tái khám lần nữa: ban đã xẹp, chỉ còn vết thâm nhạt và vài chỗ bong vảy nhẹ, mí mắt hết sưng, ngứa hết, ngủ được. Ông uống đủ prednisolon theo giảm liều, đường huyết và huyết áp bình thường, không có tác dụng phụ đáng kể. Ông và bà vợ không còn xoa dầu nóng hay rượu thuốc lên da; khi mỏi người ông chườm ấm và nghỉ. Được khuyên đi Da liễu làm test áp nếu muốn biết chính xác chất gây dị ứng và vì ông nhờ vợ xoa thuốc mỗi khi mỏi từ nhiều năm; ông chưa đi vì cho rằng đã khỏi. Một năm sau không thấy tái diễn.",
+ "nhieu": [
+  "Zona: sau cảm 67 tuổi, mụn nước thẳng hàng, dễ nghĩ tới zona; điểm phân biệt là không đau báo trước, không theo một dermatom, hai bên.",
+  "Chàm cơ địa, nấm da: cùng có ngứa và ban đỏ; phân biệt bằng thời gian, hình dạng, tiền sử dị ứng.",
+  "Vảy tiết vàng ở bọng nước vỡ: dễ ghi 'chốc' rồi kê kháng sinh trong khi không có bội nhiễm.",
+  "Paracetamol dùng ba ngày: dễ nghi ban do thuốc; ban khu trú theo đường cạo, không lan tỏa.",
+  "Men tiêu hóa tự mua: không liên quan, nhưng phải hỏi để biết đủ thuốc ông dùng.",
+  "Mong muốn truyền dịch: nếu không hỏi, bác sĩ không biết lý do ông quyết định đi khám và dễ để lại hiểu lầm."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi cụ thể mọi thứ đã bôi, xoa, cạo, đắp lên da: ông không tự kể vì không thấy liên quan; vệt thẳng hàng là manh mối.",
+  "Viêm da tiếp xúc dị ứng hay lan ra ngoài vùng tiếp xúc (QĐ 4416 mục 2.1.1; DDG S1 2022 Bảng 1): ban lan không có nghĩa là chẩn đoán sai hay người bệnh không tuân thủ.",
+  "Khi ban lan trên 20% diện tích da hoặc liên quan mặt: corticoid toàn thân là lựa chọn thứ nhất, nhưng ngắn ngày, giảm liều (QĐ 4416 mục 3.2.1; DDG S1 2022 mục 3.3.3.1); mí mắt, mặt dùng corticoid bôi nhẹ – trung bình.",
+  "Người cao tuổi chưa từng đo đường huyết: kiểm đường huyết và hỏi bệnh nền trước khi kê prednisolon.",
+  "Mong muốn truyền dịch phải được hỏi, nghe và giải thích; không chiều theo khi không có chỉ định.",
+  "Test áp là bước phòng tái phát (sau khi hết đợt cấp), không phải điều trị đợt cấp."
+ ],
+ "diem_nho": [
+  "Viêm da tiếp xúc cấp: dát đỏ, mụn nước, bọng nước, vảy tiết, ngứa; chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.1.1, 2.1.3).",
+  "Dị ứng: thường ranh giới không rõ, hay lan sang vùng da khác; kích ứng: ranh giới rõ, không lan; kích ứng không có xét nghiệm trực tiếp (DDG S1 2022 Bảng 1, mục 2).",
+  "Khu trú: corticoid bôi mạnh cho mặt duỗi, bàn tay, bàn chân 1–2 lần/ngày, 2–4 tuần; mặt và vùng gấp dùng loại trung bình đến nhẹ 1–2 tuần (QĐ 4416 mục 3.2.1).",
+  "Lan tỏa, nặng: trên 20% diện tích da hoặc mặt, bàn tay, bàn chân, sinh dục: prednisolon 0,5–1 mg/kg/ngày (tối đa 60 mg), 7 ngày, giảm 50% mỗi 5–7 ngày, dừng sau 2 tuần (QĐ 4416 mục 3.2.1); tối đa 2 tuần (DDG S1 2022 mục 3.3.3.1).",
+  "Jarish đắp chỗ rỉ dịch (QĐ 4416 mục 3.2.1; Chốc: ngày 2 lần, 30 phút). Kháng sinh chỉ khi bội nhiễm; kháng histamin giảm ngứa.",
+  "Da xấu đi hoặc không đỡ: cân nhắc dị ứng với chính corticoid hoặc thành phần chế phẩm (DDG S1 2022 mục 3.3.1.2).",
+  "Test áp (tuyến trên) để xác định dị nguyên (QĐ 4416 mục 2.1.2; ESCD 2026 mục 2.2); phòng bệnh: tránh chất gây dị ứng, kích ứng (QĐ 4416 mục 4)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Viêm da tiếp xúc mục 1.1, 1.3, 2.1.1–2.1.4, 2.2.1–2.2.4, 3.1, 3.2.1, 3.2.2, 4; Bệnh zona mục 1.2, 2.1; Bệnh da do nấm sợi mục 2.1, 2.2, 2.5; Viêm da cơ địa mục 2.1, 2.3.1; Bệnh chốc (phần điều trị tại chỗ, Jarish); Mày đay mục 3.2 (kháng histamin thế hệ 2); Bạch biến mục 3.2.1, 3.2.2 (phân nhóm corticoid, clobetasol 0,05%).",
+  "German S1 guideline: Contact dermatitis, DDG 2022 (TL-0422) – Bảng 1; mục 3.3.1.1, 3.3.1.2, 3.3.1.3, 3.3.1.7, 3.3.3.1.",
+  "ESCD 2026 – Diagnostic patch testing (TL-0401) – mục 2.2 (chỉ định; ngừng corticoid bôi trước test).",
+  "AAD-NPF 2021 thuốc bôi trong vảy nến (TL-0425) – mục BSA (một bàn tay ≈ 1% diện tích da).",
+  "ADA Standards of Care 2026 (TL-0296) – mục 2: glucocorticoid và rối loạn đường huyết.",
+  "Nguồn bổ sung tự tìm: tờ thông tin sản phẩm loratadin 10 mg, https://www.medicines.org.uk/emc/product/14579/smpc – mục 4.2 (liều người lớn và người cao tuổi).",
+  "Không có trong tài liệu đã tải: chất gây dị ứng cụ thể trong dầu nóng, rượu ngâm lá thuốc nam; thành phần dung dịch Jarish; tên và nồng độ corticoid nhẹ cho mí mắt trong bài Viêm da tiếp xúc; lịch tái khám; tiêu chuẩn nhập viện cho viêm da tiếp xúc; chỉ định truyền dịch; tương tác men tiêu hóa."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-04): lý do thật 'muốn được truyền dịch' dựng thành niềm tin 'giải độc' của người cao tuổi sau trận cảm; yếu tố khởi phát 'sau nhiễm siêu vi' dựng thành cạo gió, xoa dầu nóng và rượu thuốc (không phải ban do virus); ban theo đường cạo là manh mối. Lượt 2 'nặng hơn' dựng bằng ban lan trên 20% diện tích da và mí mắt: viêm da tiếp xúc dị ứng lan ngoài vùng tiếp xúc (QĐ 4416 mục 2.1.1; DDG S1 2022 Bảng 1) – không do lỗi người bệnh, nên chuyển sang prednisolon ngắn ngày.",
+  "Tài liệu đã đọc: QĐ 4416 (TL-0397) Viêm da tiếp xúc mục 1–4, Zona, Nấm sợi, Viêm da cơ địa, Chốc; DDG S1 2022 (TL-0422) Bảng 1, mục 3.3; ESCD 2026 (TL-0401) mục 2.2 và mục 8 (ngừng thuốc trước test); ADA 2026 (TL-0296) mục 2.",
+  "Ảnh da SCIN: xem trước 4 ảnh Allergic Contact Dermatitis (vùng arm, nam). Dùng HA-DA-0244 (vệt thẳng cẳng tay, bọng nước vỡ vảy tiết). Loại HA-DA-0243 (có chữ trên chai thuốc), HA-DA-0245 (trùng với HA-DA-0244, cùng tổn thương), HA-DA-0246 (mảng đỏ có vảy, không khớp tổn thương cấp). Màu da trong ảnh sáng hơn người bệnh Việt Nam; hình chỉ minh họa hình thái. Khai báo: nhap/DL-0133/DL-0133_media.json.",
+  "Mức hoạt lực corticoid không nhất quán trong chính QĐ 4416 (betamethason gọi 'mạnh' ở Bạch biến mục 3.2.2, 'trung bình' ở bài khác; DDG S1 2022: betamethasone-17-valerate 0,1% là mức thấp – trung bình): ca dùng clobetasol vì cả hai chỗ đều xếp 'mạnh'. Xem DL-0133_mau_thuan.md.",
+  "Danh mục chưa có: khám 'cạo gió' hay yếu tố tiếp xúc; soi tươi nấm, test áp, cấy dịch có trong danh mục nhưng bị khóa ở cơ sở, ca chỉ khai kết quả nếu ở nơi có."
+ ]
+}
