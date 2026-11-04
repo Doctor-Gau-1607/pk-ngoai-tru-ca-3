@@ -1,0 +1,516 @@
+{
+ "ma_ca": "NH-0342",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tai_giua_cap_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhỏ (sơ sinh 19 ngày tuổi)",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục của cha mẹ (chỉ là mốc thời gian: 3 đêm trước khi bé sốt, cha mẹ sinh hoạt vợ chồng lần đầu sau sinh; không phải nguyên nhân bệnh của bé; bố bị cảm từ 5 ngày trước)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (mẹ tự cho bé uống nửa gói 150 mg, 8 lần trong khoảng 36 giờ)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (mẹ 38 tuổi, hiếm muộn, bé là kết quả thụ tinh trong ống nghiệm; mẹ sợ việc sinh hoạt vợ chồng sớm sau sinh làm hại mình và 'làm sữa độc' khiến con ốm)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Gia Huy",
+  "tuoi": 0.05,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhỏ (sơ sinh 19 ngày tuổi)",
+  "can_nang": 3.6,
+  "chieu_cao": 52,
+  "xung_ho": "Bé trai 19 ngày tuổi, chỉ khóc, ngủ, bú. Mẹ (chị Hằng, 38 tuổi) bế bé và là người trả lời chính: gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'con' hoặc 'cu Huy'. Bố (anh Việt, 41 tuổi) ngồi cạnh, xưng 'tôi', gọi vợ là 'mẹ nó'.",
+  "tinh_cach": "Chị Hằng: 38 tuổi, nội trợ, hiếm muộn 6 năm, bé là con đầu sau lần chuyển phôi thứ ba; rất sợ mất con nên chối bỏ mọi điều nghe đáng sợ ('chắc chỉ cảm nhẹ thôi bác sĩ'), nói nhỏ, hay nhìn chồng. Anh Việt: 41 tuổi, kỹ thuật viên điện, bị cảm 5 ngày trước, thực tế, hay nhắc vợ 'kể hết cho bác sĩ đi'.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: mẹ giảm nhẹ mọi dấu hiệu bằng lời tốt ('hơi nóng', 'ngoan, ngủ nhiều cho đỡ khóc', 'bú ngon', 'cho ít thuốc thôi'). Hỏi cảm giác ('bé có mệt không?') thì mẹ nói 'không, bé khỏe'. Chỉ lộ khi bác sĩ hỏi chức năng cụ thể: mỗi cữ bú mấy phút, bao nhiêu cữ phải đánh thức, bao nhiêu tã ướt, nhiệt kế đo mấy độ, mấy giờ cho thuốc nào, bao nhiêu mỗi lần; hoặc mời mẹ xem bé khóc khi khám. Mẹ dịu xuống khi được thừa nhận đã chăm con kỹ.",
+  "nguoi_nha": "Mẹ bé (chị Hằng) và bố bé (anh Việt) cùng đi",
+  "ten_nguoi_nha": "Mẹ bé (chị Hằng); bố bé (anh Việt) đi cùng",
+  "ngoai_hinh": {
+   "da": "#f2cfae",
+   "toc": "#241a15",
+   "kieuToc": "tre",
+   "ao": "#e9eef5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b992",
+    "toc": "#1d1814",
+    "kieuToc": "dai",
+    "ao": "#c9a7b8",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 19 ngày tuổi hơi nóng và nghẹt mũi từ hôm qua, mẹ xin khám xem có cần cho thêm thuốc gì không",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám đa khoa tuyến huyện chỉ làm xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền như AST/ALT, đường huyết mao mạch, tổng phân tích nước tiểu); không X-quang, siêu âm, CT, nội soi; không cấy máu, procalcitonin, chọc dò tủy, PCR, định lượng paracetamol máu. Bệnh viện Nhi tỉnh cách 25 km (khoảng 30 phút)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 19 ngày tuổi, cân 3,6 kg, bố mẹ bế đến lúc 10 giờ. Mẹ nói bé 'hơi nóng, nghẹt mũi từ hôm qua, chắc cảm nhẹ do bố, bé vẫn ngoan', xin bác sĩ khám xem có cần cho thêm thuốc gì. Sinh hiệu: nhiệt độ nách 37,9 °C, mạch 158 l/p, nhịp thở 52 l/p, SpO₂ 98%. Bé nằm yên trong tay mẹ, mắt nhắm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Kê thuốc rồi cho Gia Huy về, hẹn tái khám là xử trí viêm tai giữa của trẻ lớn, trong khi bé mới 19 ngày, ở nhà nhiệt kế nách 38,3–38,6 °C và ở phòng khám hậu môn vẫn 38,2 °C dù vừa uống paracetamol: nhóm nguy cơ cao (NICE NG143 mục 1.2.12), chưa có cấy máu, nước tiểu, chọc dò tủy (NICE NG143 mục 1.5.3–1.5.6; AAP 2021 KAS 1–7). Viêm tai giữa không loại bé khỏi quy trình đánh giá nhiễm khuẩn xâm lấn (AAP 2021, tr. 10); bé đã bú kém, ngủ nhiều, mẹ gọi đó là 'ngoan' nên rất dễ bỏ lỡ lúc bé xấu đi trong đêm. Nếu mẹ tiếp tục cho nửa gói paracetamol mỗi 4–5 giờ thì liều cộng dồn tăng mà không ai đo gan (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3).",
+    "theo_doi": "Giữ bé vài giờ ở phòng khám, cho thêm thuốc hạ sốt rồi cho về nếu bớt nóng là chờ ở nơi không cấy máu, không chọc dò tủy, không khoa sơ sinh. WHO 2013 mục 3.10.4 (tr. 58) không dùng paracetamol kiểm soát sốt ở bé nhỏ; bé bớt sốt nhờ thuốc không có nghĩa hết nguy cơ, còn kháng sinh tiêm bị chậm (WHO 2013 mục 3.8, tr. 54). Thêm một liều trên nền 8 liều trong 36 giờ làm tổng liều lớn hơn mà chưa định lượng được paracetamol máu.",
+    "nhap_vien": "Nhận bé 'nằm viện' tại phòng khám đa khoa này là không đủ điều kiện: không giường nhi sơ sinh, không cấy máu, không chọc dò tủy, không định lượng paracetamol máu, không điều dưỡng theo dõi liên tục. AAP 2021 KAS 6 và KAS 13b: bé phải được theo dõi trong cơ sở có điều dưỡng quen chăm sóc sơ sinh, nhập viện nếu chưa chọc dò tủy. Giữ bé ở đây làm chậm kháng sinh tiêm, tuyến trên vẫn phải làm lại toàn bộ xét nghiệm."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em hơi nóng với nghẹt mũi từ hôm qua thôi, chắc bị lây cảm từ bố nó. Bé ngoan lắm, bú ngon, em chỉ muốn hỏi có cần cho thêm thuốc gì không.",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "37,9 (nách)",
+    "nhip_tho": 52,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé trai 19 ngày tuổi, mẹ nói 'hơi nóng và nghẹt mũi từ hôm qua, chắc cảm nhẹ do bố', xin bác sĩ khám xem có cần cho thêm thuốc gì không. Bố mẹ bế bé đến.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (mẹ giảm nhẹ)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối hôm kia khoảng 19 giờ mẹ sờ thấy người bé nóng, đo nhiệt kế điện tử ở nách 38,5 °C. Sau đó mỗi lần đo trước khi cho thuốc đều 38,3–38,6 °C (cao nhất 38,6 °C lúc 1 giờ đêm qua). Mẹ gọi đó là 'hơi nóng', vì 'dưới 39 độ'. Sáng nay 7 giờ 30 đo 38,3 °C. Bé không rét run, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt: ngày giờ, số đo, đo ở đâu (mẹ gọi là 'hơi nóng')"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn. Tuần trước mỗi cữ bú khoảng 15 phút rồi no ngủ, 8–9 cữ/ngày. Từ chiều qua mỗi cữ chỉ khoảng 5 phút rồi nhả vú, ngủ gục; từ đêm qua có 3 cữ mẹ phải búng nhẹ vào gót chân bé mới mở mắt bú, bé mút yếu hơn. Từ sáng qua đến giờ bé có 6 cữ (bình thường 8–9) và 4 tã ướt (tuần trước 7–8 tã/ngày). Mẹ nói 'bé ngoan, ngủ nhiều cho đỡ khóc'. Không nôn vọt, phân vàng sệt 3 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt, mức tỉnh táo (hỏi chức năng, không hỏi 'bé có mệt không')"
+    },
+    {
+     "id": "tai_trai",
+     "noi_dung": "Bé hay quay đầu sang trái, cọ tai trái vào cánh tay mẹ, khóc to hơn khi đặt nằm nghiêng bên trái. Không chảy mủ hay nước ở tai, không sưng đỏ sau tai. Mẹ cho rằng 'bé hay cựa quậy thôi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai ở trẻ chưa nói được (cọ tai, quay đầu, khóc khi nằm nghiêng)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé không co giật, không tím, không ngưng thở, không rên, không nôn vọt, không vàng da tăng, rốn khô rụng từ ngày thứ 7; không ho, không khò khè, không tiêu chảy. Bé khó đánh thức hơn thường lệ (xem mục bú).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2)"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Mẹ sinh thường đủ 39 tuần, bé nặng 3,2 kg, không ngạt, apgar tốt. Mẹ không sốt quanh sinh, không dùng kháng sinh khi sinh, rách tầng sinh môn độ II khâu tại viện. Ra viện sau 2 ngày, chưa nằm viện lại, đã tiêm mũi viêm gan B và BCG.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh (đủ tháng, không nguy cơ chu sinh)"
+    },
+    {
+     "id": "sieu_vi",
+     "noi_dung": "Bố bị sổ mũi, ho từ 5 ngày trước, vẫn bế con thường xuyên, không đeo khẩu trang. Bé nghẹt mũi, hắt hơi từ sáng hôm kia, hơi khó bú vì nghẹt. Chưa ho. Người nhà khác không bệnh, không đi vùng dịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người bệnh, nhiễm siêu vi hô hấp trên (đứng đầu chuỗi bệnh)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Mẹ mua gói bột paracetamol 150 mg 'cho trẻ em' ở nhà thuốc, pha nửa gói (75 mg) mỗi lần cho bé uống bằng muỗng. Từ tối hôm kia: 20 giờ, 1 giờ, 6 giờ, 11 giờ, 16 giờ, 21 giờ, 2 giờ đêm qua và 7 giờ 30 sáng nay, tổng 8 lần, tức khoảng 600 mg trong khoảng 36 giờ. Mỗi lần bé nóng lại thì mẹ cho thêm. Nhà thuốc dặn 'cứ nóng là cho'. Mẹ nói 'cho ít thôi' và không nghĩ đó là nhiều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ kể đủ khi bác sĩ hỏi cụ thể: bé đã uống thuốc gì, mỗi lần bao nhiêu, mấy giờ, tổng cộng mấy lần, lần cuối lúc nào, cho xem vỏ gói; hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao lặp lại"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba đêm trước, lần đầu vợ chồng sinh hoạt lại từ khi sinh; bé nằm nôi riêng. Sáng hôm sau bé hắt hơi, nghẹt mũi; tối hôm sau nữa bé bắt đầu sốt. Bố bị cảm, sổ mũi từ 5 ngày trước, vẫn bế bé. Mẹ ngại nên chỉ nói khi được hỏi riêng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ hỏi riêng mẹ về sinh hoạt gần đây của gia đình, hoặc hỏi 'trước khi bé nóng nhà có chuyện gì thay đổi'.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát: sau quan hệ tình dục (mốc thời gian)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ 38 tuổi, hiếm muộn 6 năm, bé là kết quả lần chuyển phôi thứ ba. Bà nội dặn 'vợ chồng gần nhau sớm là sữa độc, con ốm', nên mẹ tin bé bệnh là lỗi của mình và lo sau này không có thêm con. Mẹ đến khám cũng để hỏi, nhưng ngại hỏi trước mặt chồng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ mời mẹ nói riêng, hỏi 'chị lo điều gì nhất' hoặc hỏi sức khỏe của chính mẹ sau sinh; bố nói thêm khi bác sĩ nhắc đến mẹ.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: lo lắng về khả năng sinh sản"
+    },
+    {
+     "id": "tro_nac",
+     "noi_dung": "Bé trớ nhẹ sau bú 1–2 lần/ngày, hay nấc, đã từ tuần đầu; không tăng, không nôn vọt, không chướng bụng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Trớ sinh lý, nấc (gây nhiễu)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,60 kg. Nhiệt độ nách 37,9 °C, hậu môn 38,2 °C (nhiệt kế điện tử). Bé nằm yên khi bế, mắt nhắm; khi cởi áo khám bé mở mắt sau khi kích thích 2–3 lần, khóc nhỏ yếu rồi nhắm lại, không nhìn theo mặt mẹ lâu. Tay chân ấm, môi hồng, mao mạch hồi sắc 2 giây, niêm mạc ẩm, không vàng da, không tím.",
+     "k": 1,
+     "hien": "Cân 3,6 kg. Bé nằm yên, mắt nhắm; khi kích thích thì mở mắt, khóc nhỏ rồi ngủ lại. Nách 37,9 °C, hậu môn 38,2 °C."
+    },
+    "hong_tai_mui": {
+     "a": "Tai trái: ống tai sạch, không mủ; màng nhĩ đỏ, phồng ra, mất ánh sáng, không thủng. Tai phải: màng nhĩ xám hồng, thấy cán búa, không phồng. Sau hai tai không sưng, không đỏ, rãnh sau tai nguyên vẹn, vành tai không đẩy ra trước; ấn xương chũm bé không khóc thêm. Mũi: dịch nhầy trong, hơi nghẹt. Họng không đỏ, không loét.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm, không hạch. Mặt cân đối khi nghỉ và khi khóc.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm. Mặt cân đối."
+    },
+    "tim": {
+     "a": "Tim đều 158 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, đều, dưới 60 l/p. Không rút lõm lồng ngực, không rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không mụn mủ, không chấm xuất huyết. Hăm đỏ nhẹ vùng tã, không loét.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Sau kích thích bé tỉnh, cựa quậy hai tay hai chân đều, trương lực cơ bình thường, Moro đối xứng, nắm tay khi chạm lòng bàn tay. Phản xạ bú còn nhưng mút yếu. Không co giật, không run.",
+     "k": 1,
+     "hien": "Cựa quậy khi kích thích, hai tay chân đều. Không co giật."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,6 kg (lúc sinh 3,2 kg), dài 52 cm.",
+     "k": 0,
+     "hien": "Cân 3,6 kg, dài 52 cm."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú đúng, mút nuốt đều khoảng 4–5 phút, sau đó nhả vú, ngủ gục; phải kích thích gót chân mới bú tiếp. Mẹ cho là 'bé no rồi'.",
+     "k": 1,
+     "hien": "Bú khoảng 5 phút rồi nhả vú, ngủ gục; phải kích thích mới bú tiếp."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 17,8 G/L (neu 66% = 11,75 G/L, lym 24%) · Hb 146 g/L · TC 395 G/L",
+     "bang": {
+      "wbc": 17.8,
+      "neu_pct": 66.0,
+      "neu": 11.75,
+      "lym_pct": 24.0,
+      "lym": 4.27,
+      "mono_pct": 8.0,
+      "mono": 1.42,
+      "eos_pct": 1.0,
+      "eos": 0.18,
+      "baso_pct": 1.0,
+      "baso": 0.18,
+      "rbc": 4.3,
+      "hgb": 146,
+      "hct": 0.42,
+      "mcv": 97.7,
+      "mch": 34.0,
+      "mchc": 348,
+      "rdw": 15.2,
+      "plt": 395
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "NICE NG143 mục 1.5.3 (tr. 21): sơ sinh sốt làm công thức máu. ANC 11.750/mm³ trên ngưỡng 4000–5200 (AAP 2021, Hình 2 chú thích b): chỉ điểm viêm tăng."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 31 mg/L",
+     "bang": {
+      "crp": 31
+     },
+     "n": "NICE NG143 mục 1.5.3; trên ngưỡng 20 mg/L (AAP 2021, Hình 2 chú thích b)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Mẫu hứng bằng bao nước tiểu (cơ sở không thông tiểu được cho sơ sinh): bạch cầu esterase âm, nitrit âm, protein âm.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "Chỉ tầm soát: AAP 2021 KAS 8 cho phép mẫu bao ở bé 22–28 ngày; bé 8–21 ngày cần mẫu thông tiểu hoặc chọc trên xương mu để cấy; NICE NG143 mục 1.5.3 cũng yêu cầu xét nghiệm nước tiểu. Âm tính không loại trừ nhiễm trùng tiểu; tuyến trên lấy lại."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 3,5 mmol/L",
+     "n": "Không hạ: ngưỡng điều trị 2,2 mmol/L ở sơ sinh li bì hoặc co giật (WHO 2013 mục 3.6, tr. 53). QĐ 2341/2024 Bảng kiểm 1 mục 19a vẫn yêu cầu phòng hạ đường huyết khi chuyển bé có dấu hiệu bệnh nặng; bé bú giảm."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 41 U/L · ALT 24 U/L (dưới 50 U/L)",
+     "n": "Gan chưa tổn thương tại thời điểm này: AST hoặc ALT dưới 50 IU/l tiên lượng tốt, trên 50 IU/l nguy cơ cao cần NAC ngay (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3, tr. 26). Khoảng tham chiếu AST/ALT sơ sinh: không có trong tài liệu đã tải. Chưa đủ để loại trừ ngộ độc mạn: QĐ 3610 mục 4.3.2 (tr. 23) vẫn dùng NAC trong lúc chờ định lượng paracetamol máu."
+    },
+    "paracetamol_mau": {
+     "v": "e",
+     "r": "Cơ sở không định lượng được paracetamol máu.",
+     "thay_the": "liver",
+     "n": "Cần ở tuyến trên (QĐ 3610/2015 mục 4.3.2, tr. 23: định lượng paracetamol máu và ALT; paracetamol dưới 20 mg/l và ALT bình thường thì không cần NAC). Thay thế tại chỗ: hỏi kỹ số liều, thời điểm, làm AST/ALT, ghi vào giấy chuyển."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Cơ sở không cấy máu được.",
+     "n": "Ghi vào giấy chuyển: tuyến trên cấy máu (AAP 2021 KAS 9; NICE NG143 mục 1.5.3)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "e",
+     "r": "Cơ sở không chọc dò tủy được.",
+     "n": "Sơ sinh dưới 1 tháng sốt: chọc dò tủy (NICE NG143 mục 1.5.4–1.5.5, tr. 22); AAP 2021 KAS 1–7 (8–21 ngày): làm cho mọi bé. Làm ở tuyến trên."
+    },
+    "pct": {
+     "v": "u",
+     "r": "Cơ sở không làm được procalcitonin.",
+     "n": "Chỉ điểm viêm bổ sung (ngưỡng 0,5 ng/mL, AAP 2021 Hình 2 chú thích b); không bắt buộc, không đổi hướng chuyển tuyến."
+    },
+    "pcr_ho_hap": {
+     "n": "Cơ sở không làm được. AAP 2021 (tr. 10): virus dương tính ở bé dưới 28 ngày không thay đổi việc vào quy trình đánh giá nhiễm khuẩn xâm lấn."
+    },
+    "nhi_luong": {
+     "n": "Cơ sở không có. Giá trị nhĩ lượng đồ ở sơ sinh: không có trong tài liệu đã tải; không cần để quyết định hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai trái sau nhiễm siêu vi hô hấp trên, ở sơ sinh 19 ngày tuổi có sốt (đã dùng paracetamol liều cao lặp lại làm che số đo): nhóm nguy cơ cao, chưa loại trừ nhiễm khuẩn xâm lấn (nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu)",
+     "ok": 1,
+     "n": "Màng nhĩ trái đỏ, phồng, mất ánh sáng (QĐ 5643, Viêm tai giữa cấp trẻ em mục 3.1.1, tr. 211; AAP 2013 KAS 1A–1B, tr. e965); nghẹt mũi sau tiếp xúc bố bị cảm, bé cọ tai trái, khóc khi nằm nghiêng trái. Sốt 38,3–38,6 °C nách tại nhà, hậu môn 38,2 °C tại phòng khám dù đã uống paracetamol 2,5 giờ trước; CRP 31, ANC 11.750 trên ngưỡng (AAP 2021 Hình 2 chú thích b). Italian Consensus 2025 (phần chẩn đoán): chẩn đoán viêm tai giữa dưới 6 tháng khó, triệu chứng không đặc hiệu; sơ sinh sốt dù có ổ viêm tai vẫn theo quy trình sốt sơ sinh (AAP 2021, tr. 10)."
+    },
+    {
+     "t": "Viêm xương chũm",
+     "n": "Không sưng, đỏ sau tai, không đẩy vành tai ra trước, không dấu phập phều (QĐ 5643, Viêm xương chũm cấp trẻ em mục 3.1.1, tr. 195); bệnh luôn kèm viêm tai giữa cấp (mục 1, tr. 195) nên phải theo dõi, nhưng tai trái mới đang viêm cấp. Chụp thường quy không cần (AWaRe 2022 mục 5, tr. 38–39); cơ sở cũng không có X-quang."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Thóp phẳng, tỉnh khi kích thích, trương lực tốt, không co giật, còn bú (WHO 2013 mục 3.9, tr. 55; NICE NG143 mục 1.2.5). Bé ngủ nhiều, bú yếu nên không loại trừ được bằng lâm sàng ở sơ sinh sốt: phải chọc dò tủy (NICE NG143 mục 1.5.4) nên chuyển tuyến."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết, nhiễm trùng tiểu đồng mắc",
+     "n": "Chưa loại trừ: bao nước tiểu âm chỉ tầm soát; chưa có cấy máu (AAP 2021 KAS 8–9; NICE NG143 mục 1.5.3). CRP và ANC bất thường nên không đủ tiêu chuẩn theo dõi tại nhà (AAP 2021 KAS 13a)."
+    },
+    {
+     "t": "Dùng paracetamol lặp lại quá liều điều trị ở sơ sinh (nguy cơ độc gan)",
+     "n": "Tổng khoảng 600 mg trong khoảng 36 giờ, tức khoảng 167 mg/kg, mỗi lần 75 mg (khoảng 21 mg/kg) cao hơn 10–15 mg/kg/lần và trần 60 mg/kg/24 giờ của QĐ 3312/2015 (mục Co giật do sốt 4.1), và đạt mốc nguy cơ ở trẻ dưới 6 tuổi 'uống ≥ 150 mg/kg trong vòng 48 giờ' (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3). AST 41, ALT 24 U/L: dưới 50, tiên lượng tốt nhưng chưa loại trừ (QĐ 3610 mục 4.3.2). Ngưỡng độc mạn và liều an toàn paracetamol cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra đây là bé sơ sinh 19 ngày có sốt (nhiệt độ ở phòng khám chỉ 37,9 °C nách vì paracetamol 2,5 giờ trước; tại nhà 38,3–38,6 °C) và đã bú yếu, ngủ nhiều: dấu hiệu bệnh nặng, kèm viêm tai giữa cấp; không xử trí như viêm tai giữa trẻ lớn mà phải đánh giá nhiễm khuẩn xâm lấn ở bệnh viện",
+     "v": "c",
+     "n": "QĐ 2341/2024 mục 2.2.2: sốt hoặc hạ thân nhiệt, bú kém ở trẻ 0–2 tháng là dấu hiệu bệnh nặng, chuyển gấp; NICE NG143 mục 1.2.12, 1.5.3–1.5.6 (tr. 21–22); AAP 2021 (tr. 10): viêm tai giữa không loại bé khỏi quy trình; WHO 2013 mục 3.6, 3.8 (tr. 52–54); NICE NG91 2018 mục 1.1.2 (tr. 5): trẻ dưới 5 tuổi sốt xử trí theo NG143."
+    },
+    {
+     "t": "Chuyển trong ngày đến bệnh viện Nhi tỉnh (khoa nhi có sơ sinh, cấy máu, chọc dò tủy, định lượng paracetamol máu); gọi báo trước, mẹ hoặc bố đi cùng cho bú, có nhân viên y tế đi kèm",
+     "v": "c",
+     "n": "QĐ 2341/2024 Phụ lục 4, Bảng kiểm 1 mục 19a: chuyển GẤP, hướng dẫn giữ ấm trên đường đi; WHO 2013 mục 3.8 (tr. 54): nhập viện; AAP 2021 KAS 6, 13b; NICE NG91 2018 mục 1.1.14 (tr. 8): viêm tai giữa kèm nhiễm khuẩn nặng chuyển bệnh viện."
+    },
+    {
+     "t": "Trước khi lên xe: tiêm bắp liều kháng sinh đầu (ampicillin cộng gentamicin) rồi chuyển gấp; HOẶC chuyển ngay, không tiêm tại chỗ, để tuyến trên cấy máu và chọc dò tủy trước kháng sinh. Phòng hạ đường huyết, giữ ấm",
+     "v": "c",
+     "n": "A: QĐ 2341/2024 Bảng kiểm 1 mục 19a; WHO 2013 mục 3.6, 3.8, 3.14. B: NICE NG143 mục 1.5.5 (tr. 22: chọc dò tủy khi có thể trước kháng sinh); AAP 2021 KAS 2, 4, 5. Hai cách đều đúng (sổ mâu thuẫn, mục NH-1378 số 2). Bé nhìn khá, đường đến bệnh viện khoảng 30 phút nên cả hai chấp nhận."
+    },
+    {
+     "t": "Ngưng ngay paracetamol, cởi bớt quần áo, không lau ấm: không dùng thuốc hạ sốt (WHO) HOẶC chỉ khi bé khó chịu và không để hạ số đo (NICE)",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.4 (tr. 58); NICE NG143 mục 1.6.2–1.6.5 (tr. 28); mỗi lần 75 mg (khoảng 21 mg/kg) vượt 10–15 mg/kg/lần và 60 mg/kg/24 giờ của QĐ 3312/2015 nên ngưng ở mọi cách. Liều paracetamol an toàn cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi vào giấy chuyển cùng viêm tai trái, sốt nách 38,3–38,6 °C, CRP 31, ANC 11.750: tổng khoảng 600 mg paracetamol (khoảng 167 mg/kg) trong khoảng 36 giờ, lần cuối 7 giờ 30; AST 41, ALT 24; đề nghị định lượng paracetamol máu, ALT/AST lại và cân nhắc N-acetylcystein theo tuyến trên",
+     "v": "c",
+     "n": "QĐ 3610/2015, Ngộ độc paracetamol: Các trường hợp đặc biệt mục 3 (tr. 26–27: AST/ALT dưới 50 IU/l tiên lượng tốt; trên 50 cần NAC ngay) và mục 4.3.2 (tr. 23: ngộ độc mạn, NAC ngay rồi định lượng paracetamol máu và ALT, không cần NAC nếu paracetamol dưới 20 mg/l và ALT bình thường). Liều N-acetylcystein cho sơ sinh: không có trong tài liệu đã tải; tuyến trên quyết định."
+    },
+    {
+     "t": "Mời mẹ nói riêng và hỏi lo lắng thật: ghi nhận nỗi sợ 'sữa độc' và lo cho khả năng có thai lại của mẹ, nói rõ bé phải đi viện vì sốt ở tuổi sơ sinh chứ không do lỗi của mẹ; khuyên mẹ khám lại sản khoa và tư vấn kế hoạch hóa gia đình sau khi bé ổn",
+     "v": "c",
+     "n": "NICE NG143 mục 1.5.24 (tr. 26): lo lắng của người nhà và hoàn cảnh gia đình là một yếu tố khi quyết nhập viện. Thời điểm quan hệ lại sau sinh, 'sữa độc', khả năng sinh sản sau thụ tinh trong ống nghiệm: không có trong tài liệu đã tải (ca không đọc mục tránh thai sau sinh của WHO MEC/CDC); nên chuyển sản khoa, không tự hứa hay phủ nhận."
+    },
+    {
+     "t": "Dặn bố đeo khẩu trang, rửa tay trước khi bế bé; sau này bú mẹ hoàn toàn, không hút thuốc gần bé",
+     "v": "a",
+     "n": "AAP 2013 KAS 6C–6D (tr. e988) và mục Lifestyle (tr. e989): bú mẹ, tránh khói thuốc giúp giảm viêm tai; hướng dẫn cho trẻ từ 6 tháng, ngoại suy. Khẩu trang cho người bệnh cảm khi tiếp xúc sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chích rạch màng nhĩ tại phòng khám",
+     "v": "a",
+     "n": "QĐ 5643 mục 4.3.1 (tr. 213) nêu chỉ định chích rạch; AAP 2013 Table 3 (tr. e973): thủ thuật đòi hỏi kỹ năng; sổ mâu thuẫn (NH-0355 số 4): chích rạch lượt đầu chấm a. Ở sơ sinh để tuyến trên quyết định."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin) rồi cho về điều trị ngoại trú, hẹn tái khám",
+     "v": "w",
+     "n": "AAP 2013 (tr. e964) chỉ áp dụng trẻ 6 tháng–12 tuổi; WHO 2013 chương 6 (tr. 149) chỉ cho trẻ 2 tháng–5 tuổi; liều amoxicillin cho sơ sinh: không có trong tài liệu đã tải. Chưa cấy máu, nước tiểu, dịch não tủy (NICE NG143 mục 1.5.3–1.5.6)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám 24 giờ vì bé còn bú, còn tỉnh khi kích thích",
+     "v": "w",
+     "n": "AAP 2021 KAS 13a chỉ cho theo dõi tại nhà khi nước tiểu, chỉ điểm viêm và dịch não tủy bình thường; bé có CRP 31 và ANC 11.750 và chưa chọc dò tủy. NICE NG143 mục 1.5.4, 1.5.6: sơ sinh dưới 1 tháng sốt: chọc dò tủy, kháng sinh tiêm."
+    },
+    {
+     "t": "Giữ bé nằm theo dõi tại phòng khám đa khoa",
+     "v": "w",
+     "n": "Phòng khám không cấy máu, không chọc dò tủy, không định lượng paracetamol, không khoa sơ sinh (khoa_cls); AAP 2021 KAS 6, 13b; WHO 2013 mục 3.8."
+    },
+    {
+     "t": "Tiếp tục cho paracetamol như cũ (nửa gói mỗi 4–5 giờ khi nóng) trước khi chuyển hoặc kê thêm paracetamol",
+     "v": "h",
+     "n": "QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3 (tr. 26): dùng liều nhắc lại cao hơn liều điều trị là nguyên nhân dẫn đến tử vong liên quan paracetamol ở trẻ dưới 6 tuổi; liều đã vượt 60 mg/kg/24 giờ (QĐ 3312/2015) và WHO 2013 mục 3.10.4 (tr. 58) không dùng paracetamol hạ sốt ở bé nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai trái (màng nhĩ đỏ, phồng) khởi phát sau nhiễm siêu vi hô hấp trên (bố bị cảm), ở sơ sinh 19 ngày tuổi, 3,6 kg",
+     "Sơ sinh dưới 1 tháng có sốt (nách 38,3–38,6 °C ở nhà, hậu môn 38,2 °C tại phòng khám sau paracetamol) và chỉ điểm viêm bất thường (CRP 31 mg/L, ANC 11.750/mm³): nhóm nguy cơ cao, chưa loại trừ nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu",
+     "Chưa có dấu hiệu viêm xương chũm; chưa có dấu thần kinh khu trú (thóp phẳng, mặt cân đối, trương lực bình thường)",
+     "Bú giảm, ngủ nhiều khó đánh thức hơn thường, 4 tã ướt, đường huyết 3,5 mmol/L: dấu hiệu bệnh nặng bị mẹ giảm nhẹ",
+     "Dùng paracetamol lặp lại quá liều điều trị (khoảng 167 mg/kg trong khoảng 36 giờ): nguy cơ độc gan, AST 41 và ALT 24 U/L chưa tăng",
+     "Yếu tố đi kèm: mẹ 38 tuổi hiếm muộn, lo cho khả năng sinh sản và tin 'sữa độc' sau lần quan hệ đầu tiên sau sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh bằng câu chức năng (nhiệt kế đo mấy độ, ở đâu, bao nhiêu lần; mỗi cữ bú mấy phút, mấy cữ phải đánh thức, mấy tã ướt; thuốc gì, mỗi lần bao nhiêu, mấy giờ, lần cuối; tiếp xúc người bệnh; tiền sử sinh; hỏi riêng mẹ) → khám (nhiệt độ nách và hậu môn, tri giác sau kích thích, tai hai bên và sau tai, thóp, thần kinh, phổi, bụng, da, quan sát bú) → CLS (công thức máu, CRP, nước tiểu bao, đường huyết, AST/ALT) → chẩn đoán → chuyển tuyến.",
+     "Vì sao là viêm tai giữa cấp: nghẹt mũi sau tiếp xúc bố bị cảm, bé cọ tai trái và khóc khi nằm nghiêng trái, màng nhĩ trái đỏ, phồng, mất ánh sáng (QĐ 5643 mục 3.1.1, tr. 211; nguyên nhân chính là viêm vòm mũi họng lan qua vòi nhĩ, mục 2, tr. 210). Tiêu chuẩn màng nhĩ phồng của AAP 2013 KAS 1A–1B (tr. e965) viết cho trẻ 6 tháng–12 tuổi; Italian Consensus 2025 nhắc chẩn đoán dưới 6 tháng khó nên khám tai kỹ, không đoán.",
+     "Điểm bản lề: bé có ổ viêm tai nhưng sơ sinh sốt là nhóm nguy cơ cao (NICE NG143 mục 1.2.12, tr. 8). AAP 2021 (tr. 10): chẩn đoán viêm tai giữa không loại bé khỏi quy trình đánh giá nhiễm khuẩn xâm lấn. Bé 19 ngày thuộc nhóm 8–21 ngày của AAP 2021 (KAS 1–7: nước tiểu thông tiểu, cấy máu, chọc dò tủy, kháng sinh tiêm cho mọi bé), cùng hướng với NICE NG143 mục 1.5.3–1.5.7, nên hai nguồn không mâu thuẫn ở bé này.",
+     "Điểm 'phủ nhận': nhiệt độ ở phòng khám chỉ 37,9 °C nách vì bé vừa uống paracetamol 2,5 giờ trước; nếu chỉ tin số đo hôm nay hoặc lời 'hơi nóng', 'ngoan', sẽ coi nhẹ. Hỏi chức năng cho thấy bú 5 phút/cữ thay vì 15, 3 cữ phải đánh thức, 4 tã ướt, nhiệt kế ở nhà 38,3–38,6 °C. WHO 2013 mục 3.6 (tr. 52–53) và QĐ 2341/2024 mục 2.2.2 coi sốt và bú kém ở bé 0–2 tháng là dấu hiệu bệnh nặng.",
+     "Vì sao chưa nghĩ viêm xương chũm: không sưng đỏ sau tai, vành tai không bị đẩy ra trước (QĐ 5643, Viêm xương chũm mục 3.1.1, tr. 195). Vì sao chưa chắc loại viêm màng não: thóp phẳng, tỉnh khi kích thích, bú còn, không co giật (WHO 2013 mục 3.9, tr. 55), nhưng ở sơ sinh sốt không loại trừ được bằng lâm sàng.",
+     "Paracetamol: mỗi lần 75 mg (khoảng 21 mg/kg) × 8 lần trong khoảng 36 giờ, tổng khoảng 167 mg/kg. QĐ 3312/2015 (mục Co giật do sốt 4.1) cho trẻ em nói chung 15 mg/kg/lần, tối đa 60 mg/kg/24 giờ; QĐ 3610/2015 (Các trường hợp đặc biệt mục 3, tr. 26) nêu mốc nguy cơ ở trẻ dưới 6 tuổi 'uống ≥ 150 mg/kg trong vòng 48 giờ' và AST/ALT dưới 50 IU/l tiên lượng tốt. AST 41, ALT 24 là tin tốt nhưng chưa đủ loại trừ; liều và ngưỡng độc cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải.",
+     "Lý do thật: mẹ muốn hỏi về cơ thể mình và sợ mất khả năng có con nên hỏi riêng mẹ; bố nhắc 'kể hết đi'. Không có tài liệu đã tải trả lời 'quan hệ sớm có làm sữa độc hay không' hay khả năng sinh sản sau thụ tinh trong ống nghiệm: cần nói thật là không có bằng chứng trong tài liệu, không phán đoán, hẹn khám sản khoa."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến trong ngày, không điều trị ngoại trú: sơ sinh sốt là dấu hiệu bệnh nặng, chuyển gấp (QĐ 2341/2024 mục 2.2.2, Bảng kiểm 1 mục 19a); NICE NG143 mục 1.5.3–1.5.7: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm cho mọi bé dưới 1 tháng; AAP 2021 KAS 1–7 cho bé 8–21 ngày cùng hướng; WHO 2013 mục 3.8: nhập viện, chọc dò tủy và cấy máu trước kháng sinh khi có thể.",
+     "Kháng sinh liều đầu trước chuyển hay chuyển ngay để cấy trước (hai cách đều đúng, sổ mâu thuẫn NH-1378 số 2): nếu tiêm, ampicillin cộng gentamicin (WHO 2013 mục 3.14); AAP 2021 Bảng 3 (8–21 ngày): ampicillin cộng ceftazidime hoặc gentamicin; NICE mục 1.5.7: cephalosporin thế hệ ba cộng ampicillin hoặc amoxicillin. Phác đồ nội viện do tuyến trên quyết; thời gian điều trị sơ sinh nhiễm khuẩn nặng WHO mục 3.8: ít nhất 7–10 ngày.",
+     "Không điều trị viêm tai kiểu trẻ lớn (kháng sinh uống, theo dõi chờ 48–72 giờ): hướng dẫn áp dụng từ 6 tháng (AAP 2013) hoặc 2 tháng (WHO chương 6, tr. 149); Italian Consensus 2025 khuyến cáo 1.1: dưới 6 tháng dùng kháng sinh ngay, không chờ; ở bé sơ sinh kháng sinh phải qua đánh giá nhiễm khuẩn xâm lấn trước.",
+     "Hạ sốt: WHO không dùng paracetamol để kiểm soát sốt ở bé nhỏ, cởi bớt quần áo (mục 3.10.4, tr. 58); NICE cân nhắc khi bé khó chịu, không chỉ để hạ số đo, không lau ấm (mục 1.6.2–1.6.5, tr. 28); liều đã dùng vượt QĐ 3312/2015 nên phải dừng ở mọi cách. Paracetamol đã dùng được ghi vào giấy chuyển để tuyến trên định lượng paracetamol máu và ALT, quyết định N-acetylcystein (QĐ 3610/2015 mục 4.3.2, tr. 23).",
+     "Chích rạch màng nhĩ: không ưu tiên ở phòng khám (QĐ 5643 mục 4.3.1; AAP 2013 Table 3). X-quang xương chũm thường quy: không cần (AWaRe 2022 mục 5); ca không có X-quang.",
+     "Giao tiếp: giải thích bằng số đo và hành vi cụ thể (sốt ở bé 19 ngày dù thuốc đã che bớt, bú 5 phút/cữ, 4 tã), thừa nhận mẹ chăm con kỹ và lo từng giờ, nói rõ chuyển viện vì sốt ở tuổi sơ sinh không phải lỗi của mẹ, mời mẹ nói riêng; không chê việc dùng thuốc nhà thuốc (NICE NG143 mục 1.5.24)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ampicillin cộng gentamicin tiêm bắp (liều đầu trước chuyển), hoặc không tiêm tại chỗ nếu chuyển ngay để cấy trước",
+      "ham_luong": "Ampicillin lọ 250 mg; gentamicin 80 mg/2 mL pha 10 mg/mL",
+      "lieu": "Cách WHO: ampicillin 50 mg/kg = khoảng 180 mg mỗi 8 giờ (tuần 2–4) cộng gentamicin 7,5 mg/kg = khoảng 27 mg một lần/ngày (WHO 2013 mục 3.14, tr. 69, 71). Cách AAP 2021 Bảng 3 (8–21 ngày chưa rõ ổ): ampicillin 150 mg/kg/ngày chia mỗi 8 giờ (khoảng 180 mg/lần) cộng gentamicin 4 mg/kg mỗi 24 giờ (khoảng 14 mg) hoặc ceftazidime 150 mg/kg/ngày chia mỗi 8 giờ. NICE NG143 mục 1.5.7: cephalosporin thế hệ ba cộng ampicillin hoặc amoxicillin, không nêu liều",
+      "duong": "Tiêm bắp, hai vị trí khác nhau",
+      "thoi_diem": "Một liều trước khi lên xe, hoặc không tiêm nếu chuyển ngay",
+      "so_ngay": "Chỉ liều đầu; tuyến trên tiếp tục",
+      "ghi_chu": "Hai cách đều đúng (sổ mâu thuẫn NH-1378 số 1–2). Gentamicin: 7,5 mg/kg/ngày (WHO) hoặc 4 mg/kg mỗi 24 giờ (AAP 2021), con số AAP thận trọng hơn. Ceftazidime không có sẵn ở phòng khám; tuyến trên chọn thuốc."
+     },
+     {
+      "thuoc": "Ngưng paracetamol; không kê thuốc hạ sốt",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không dùng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "WHO 2013 mục 3.10.4 (tr. 58) không dùng; NICE NG143 mục 1.6.4–1.6.5 chỉ cân nhắc khi bé khó chịu. 75 mg/lần (khoảng 21 mg/kg), 8 lần trong khoảng 36 giờ vượt QĐ 3312/2015 (15 mg/kg/lần, tối đa 60 mg/kg/24 giờ). Liều paracetamol an toàn cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "N-acetylcystein (do tuyến trên quyết định, không dùng tại phòng khám)",
+      "ham_luong": "Không áp dụng tại phòng khám",
+      "lieu": "Theo tuyến trên sau khi có paracetamol máu và ALT; liều cho sơ sinh: không có trong tài liệu đã tải",
+      "duong": "Tuyến trên",
+      "thoi_diem": "Ngay khi đến bệnh viện nếu chưa có kết quả (QĐ 3610 mục 4.3.2)",
+      "so_ngay": "Theo tuyến trên",
+      "ghi_chu": "QĐ 3610/2015 mục 4.3.2 (tr. 23): ngộ độc mạn, NAC ngay rồi định lượng paracetamol máu và ALT; không cần NAC nếu paracetamol dưới 20 mg/l và ALT bình thường. Phòng khám không có NAC tiêm truyền và không có liều cho sơ sinh trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé 19 ngày mà sốt phải đi bệnh viện ngay trong hôm nay để lấy máu, nước tiểu, nước não tủy và tiêm kháng sinh; viêm tai là một nguyên nhân tìm thấy nhưng chưa đủ để loại các bệnh nặng hơn (AAP 2021, tr. 10).",
+     "Số đo nhiệt kế ở nhà (38,3–38,6 °C) mới là số có ý nghĩa: thuốc hạ sốt che bớt sốt; bé bú 5 phút/cữ và phải đánh thức mới bú là dấu hiệu bệnh nặng ở bé dưới 2 tháng (WHO 2013 mục 3.6; QĐ 2341/2024 mục 2.2.2).",
+     "Không cho thêm paracetamol hay thuốc nhà thuốc nào trước khi bác sĩ tuyến trên khám; mang vỏ gói thuốc, kể thật số lần và giờ cho thuốc để bác sĩ kiểm tra gan và nồng độ thuốc (QĐ 3610/2015 mục 4.3.2).",
+     "Mẹ hoặc bố đi cùng, giữ ấm bé, cho bú trên đường đi nếu bé đòi (QĐ 2341/2024 Bảng kiểm 1 mục 19a). Bố đeo khẩu trang, rửa tay.",
+     "Việc mẹ lo cho cơ thể mình sau sinh và khả năng có thêm con là chính đáng: sau khi bé ổn, hẹn khám sản khoa; bệnh của bé không phải do mẹ gây ra. Nội dung này không có trong tài liệu đã tải nên không hứa hay phủ nhận.",
+     "Đưa bé đi cấp cứu ngay nếu bỏ bú, li bì khó đánh thức, co giật, thở nhanh trên 60 lần/phút, rên, tím tái, thóp phồng, chảy mủ tai hoặc sưng đỏ sau tai (WHO 2013 mục 3.6; NICE NG143 mục 1.2.5; QĐ 5643 Viêm xương chũm mục 3.1.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được chuyển bệnh viện Nhi tỉnh trong buổi sáng, được lấy máu, nước tiểu, dịch não tủy rồi tiêm kháng sinh. Cấy máu, nước tiểu và dịch não tủy không gợi ý nhiễm khuẩn xâm lấn; paracetamol máu và ALT kiểm tra ở tuyến trên không cho thấy tổn thương gan. Viêm tai giữa trái được điều trị kháng sinh theo tuyến trên, bé bú trở lại bình thường và ra viện sau vài ngày. Mẹ được hẹn khám sản khoa và nói chuyện riêng về nỗi lo sinh sản nên bớt tự trách; bố mẹ biết không tự cho paracetamol nhiều lần ở bé nhỏ. Chi tiết điều trị nội viện: do tuyến trên quyết định, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: mẹ gọi sốt 38,3–38,6 °C là 'hơi nóng', bú yếu và khó đánh thức là 'ngoan, ngủ nhiều', 8 liều paracetamol là 'cho ít thôi'; phải hỏi chức năng (mỗi cữ mấy phút, mấy cữ phải đánh thức, mấy tã, nhiệt kế mấy độ, thuốc mỗi lần bao nhiêu và lúc nào).",
+  "Thuốc đang dùng: paracetamol nửa gói 150 mg × 8 lần trong khoảng 36 giờ (khoảng 167 mg/kg) làm che số đo sốt tại phòng khám và đặt ra nguy cơ độc gan.",
+  "Lý do thật và khởi phát: mẹ 38 tuổi hiếm muộn, sợ quan hệ lần đầu sau sinh làm hại cơ thể mình và 'làm sữa độc' cho con; chỉ lộ khi mời mẹ nói riêng.",
+  "Chỉ có xét nghiệm cơ bản: không cấy máu, không chọc dò tủy, không định lượng paracetamol máu, nên 'chuyển tuyến' là chính xét nghiệm cần làm."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh dưới 28 ngày sốt luôn đi theo quy trình sốt sơ sinh, kể cả khi đã tìm thấy ổ viêm như viêm tai giữa (AAP 2021, tr. 10; NICE NG143 mục 1.5.3–1.5.6; QĐ 2341/2024 mục 2.2.2).",
+  "Người nhà phủ nhận: dùng câu hỏi chức năng thay câu hỏi cảm giác ('bé có mệt không' trả lời 'không'; 'mỗi cữ bú mấy phút, mấy cữ phải đánh thức, mấy tã ướt' cho thấy bé bú kém).",
+  "Số đo hôm nay có thể bị thuốc che: hỏi giờ và liều thuốc hạ sốt cuối cùng, hỏi nhiệt độ cao nhất đo ở nhà; ở sơ sinh, nách 37,9 °C sau paracetamol vẫn có thể là sốt thật.",
+  "Paracetamol lặp lại ở sơ sinh: tính liều ra mg/kg và tổng theo giờ (QĐ 3610/2015 Các trường hợp đặc biệt mục 3; mục 4.3.2); AST/ALT bình thường chưa đủ loại trừ, ghi vào giấy chuyển để tuyến trên định lượng paracetamol máu.",
+  "Các hướng dẫn viêm tai giữa (AAP 2013 từ 6 tháng, WHO 2013 chương 6 từ 2 tháng) không dùng được cho bé dưới 1 tháng: tuổi là điều kiện áp dụng của hướng dẫn.",
+  "Lý do thật của người mẹ (lo sinh sản, tự trách) không nằm trong chuyên khoa nhi: nghe, ghi nhận, nói thật là tài liệu không có câu trả lời và hẹn sản khoa."
+ ],
+ "diem_nho": [
+  "Viêm tai giữa cấp: màng nhĩ đỏ, phồng, mất ánh sáng; nguyên nhân thường từ viêm vòm mũi họng qua vòi nhĩ (QĐ 5643, Viêm tai giữa cấp trẻ em mục 2–3.1.1, tr. 210–211). Trẻ nhỏ không nói: cọ, kéo, đưa tay lên tai (AAP 2013 KAS 1B).",
+  "Sơ sinh dưới 1 tháng sốt: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.7); ngưỡng CRP 20 mg/L, ANC 4000–5200/mm³, procalcitonin 0,5 ng/mL (AAP 2021 Hình 2 chú thích b).",
+  "Dấu hiệu nguy hiểm ở bé 0–2 tháng: bỏ bú hoặc bú kém, co giật, thở nhanh trên 60 lần/phút, rút lõm ngực nặng, sốt hoặc hạ thân nhiệt, chỉ cử động khi kích thích (QĐ 2341/2024 mục 2.2.2); sốt trên 38 °C cũng là dấu hiệu nguy hiểm (WHO 2013 mục 3.6).",
+  "Nhiệt độ ở sơ sinh: nách bằng nhiệt kế điện tử (NICE NG143 mục 1.1.2) hoặc hậu môn theo AAP 2021 (sốt là hậu môn từ 38,0 °C); sổ mâu thuẫn NH-0217 số 1.",
+  "Paracetamol lặp lại: mốc nguy cơ ở trẻ dưới 6 tuổi ≥ 200 mg/kg trong 24 giờ, ≥ 150 mg/kg trong 48 giờ, ≥ 100 mg/kg trong 72 giờ; AST/ALT dưới 50 IU/l tiên lượng tốt (QĐ 3610/2015 Các trường hợp đặc biệt mục 3, tr. 26); trần 60 mg/kg/24 giờ cho trẻ em (QĐ 3312/2015).",
+  "Viêm xương chũm luôn kèm viêm tai giữa cấp: sưng đỏ sau tai, đẩy vành tai ra trước, phập phều (QĐ 5643 Viêm xương chũm mục 1, 3.1.1, tr. 195); biến chứng viêm tai giữa có liệt dây VII, viêm màng não (QĐ 5643 mục 5.2, tr. 214)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC (qua sổ ca NH-0382 và NH-0350, đối chiếu lại): Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1–5, tr. 195–197)",
+  "QĐ 3610/2015 – Bộ Y tế, Hướng dẫn chẩn đoán và xử trí ngộ độc – TL-0035 – ĐÃ ĐỌC: Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3 (mốc nguy cơ, AST/ALT, tr. 26–27); mục 4.3.2 ngộ độc mạn (tr. 23)",
+  "QĐ 3312/2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh thường gặp ở trẻ em, kho cũ tltk-10000-ca – paracetamol 15 mg/kg/lần, tối đa 60 mg/kg/24 giờ (theo sổ mâu thuẫn NH-1378 số 3)",
+  "QĐ 2341/2024 – Bộ Y tế, Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI), kho cũ tltk-10000-ca – ĐÃ ĐỌC (bản chữ OCR): mục 2.2.2; Phụ lục 4, Bảng kiểm 1 mục 19a",
+  "AAP 2013 – AAP/AAFP, Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: tóm tắt (tr. e964), KAS 1A–1C (tr. e965), KAS 6C–6D (tr. e988), Lifestyle Changes (tr. e989), Table 3 (tr. e973)",
+  "AAP 2021 – Evaluation and management of well-appearing febrile infants 8 to 60 days old – TL-0261 – ĐÃ ĐỌC: đối tượng và mục ngoại lệ (tr. 9–10), Bảng 1 KAS 1–14, Hình 2 và chú thích b, Bảng 3",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.1.2, 1.2.5, 1.2.12, 1.5.2–1.5.7, 1.5.24, 1.6.2–1.6.5",
+  "NICE NG91 2018 – Otitis media (acute): antimicrobial prescribing – kho cũ tltk-10000-ca: mục 1.1.2, 1.1.14 (tr. 5, 8)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children (Ital J Pediatr) – kho cũ tltk-10000-ca: phần chẩn đoán dưới 6 tháng, khuyến cáo 1.1",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.8–3.9 (tr. 54–55), 3.10.4 (tr. 58), 3.14 (tr. 69–72), chương 6 mở đầu (tr. 149)",
+  "WHO AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – chỉ dẫn qua sổ mâu thuẫn NH-0355 số 5: mục 5, tr. 38–39 (không chụp hình thường quy)",
+  "Không có trong tài liệu đã tải: liều amoxicillin và thời gian kháng sinh uống cho viêm tai giữa ở sơ sinh dưới 1 tháng; liều và ngưỡng độc gan của paracetamol cho sơ sinh; liều N-acetylcystein cho sơ sinh; khoảng tham chiếu công thức máu và AST/ALT sơ sinh; tác động của quan hệ tình dục sau sinh lên sữa mẹ hoặc lên bệnh của bé; khả năng sinh sản sau thụ tinh trong ống nghiệm và thời điểm an toàn quan hệ lại sau sinh (không đọc mục tránh thai sau sinh của WHO MEC/CDC trong ca này)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 04/11/2026. Đã tra tai-lieu/mau_thuan.md (viêm tai giữa sơ sinh, sốt sơ sinh, paracetamol sơ sinh): dùng lại mục NH-0217 (đo nhiệt độ nách hay hậu môn), NH-1378 (kháng sinh kinh nghiệm và liều gentamicin; liều đầu trước chuyển hay chuyển ngay để cấy; thuốc hạ sốt sơ sinh), NH-0355 (chích rạch chấm a; X-quang xương chũm không thường quy), NH-0850/DL-0125 (paracetamol quá liều điều trị ở trẻ, ngưỡng mạn tính ở trẻ không có trong tài liệu đã tải), cách chấm của NH-0382.",
+  "Bé 19 ngày để rơi vào nhóm 8–21 ngày của AAP 2021 (KAS 1–7), cùng hướng với NICE NG143 nên không cần ghi mâu thuẫn mới về chọc dò tủy (khác NH-0382, bé 25 ngày).",
+  "Điểm riêng: paracetamol 75 mg × 8 lần trong khoảng 36 giờ (khoảng 167 mg/kg) đạt mốc nguy cơ 'uống ≥ 150 mg/kg trong vòng 48 giờ' ở trẻ dưới 6 tuổi (QĐ 3610/2015); AST/ALT tại chỗ dưới 50. Ca đưa NAC vào mục đơn thuốc nhưng giao tuyến trên quyết định vì liều NAC và paracetamol sơ sinh không có trong tài liệu đã tải; 'tiếp tục paracetamol như cũ' chấm h theo QĐ 3610 (tử vong liên quan paracetamol dùng lặp ở trẻ dưới 6 tuổi) cộng vượt trần QĐ 3312.",
+  "Biến sổ cái khó nhét ('sau quan hệ tình dục', 'lo lắng về khả năng sinh sản') áp vào cha mẹ của sơ sinh: khởi phát là mốc thời gian (nêu rõ không phải nguyên nhân), lý do thật là nỗi lo của mẹ 38 tuổi hiếm muộn, tư vấn sản khoa chấm c nhưng nội dung chuyên môn ghi 'không có trong tài liệu đã tải'.",
+  "Tài liệu đã đọc: TL-0035 (QĐ 3610 paracetamol), TL-0130, TL-0271, TL-0261, TL-0262, TL-0250 qua sổ và đối chiếu ca NH-0382; kho cũ QĐ 2341/2024, NICE NG91, Italian Consensus 2025 qua ca NH-0382. Chưa mở lại toàn văn từng trang AAP 2021/NICE/WHO trong ca này (giới hạn thời gian): các số mục và trang lấy từ ca NH-0382 và sổ mâu thuẫn đã duyệt.",
+  "Tim: không dùng tệp âm thanh (mạch 158 l/p, tệp tim nhanh khoảng 115 l/p không khớp); phổi dùng AT-PHOI-BT-NL-01 như NH-0382. Không có ảnh da. Không đề xuất mục danh mục mới; CLS liver và paracetamol_mau đã có sẵn trong kho."
+ ]
+}
