@@ -1,0 +1,794 @@
+{
+ "ma_ca": "NH-0934",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_giun_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm giun (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu máu thiếu sắt",
+   "Đau bụng chức năng"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (bệnh viện nhi vừa đổi thuốc tiêm chống đông sang thuốc uống)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lương Thảo Vy",
+  "tuoi": 0.88,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.2,
+  "chieu_cao": 70,
+  "xung_ho": "Bé 10 tháng rưỡi, chưa nói được; hay bám mẹ, khóc khi bị khám. Mẹ kể bệnh thay bé: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Vy' hoặc 'con'.",
+  "tinh_cach": "Mẹ là chị Tuyết, 27 tuổi, làm rẫy sắn và cà phê ở xã miền núi cách phòng khám khoảng 50 km (xe máy gần 2 giờ đường đèo); chồng đi làm xa theo mùa. Nói nhỏ, hay lo, kể lan man, gọi giun là 'lãi'. Rất sợ làm sai lời bệnh viện nhi dặn về thuốc kháng đông, và sợ bị chê 'đem con ra rẫy nên sinh bệnh'.",
+  "kieu_nhieu": "Ở xa, khó tái khám: chị hỏi dồn 'bác sĩ cho đủ thuốc một lần được không, đường xa lắm', 'hẹn lại làm gì cho mất công'; chỉ chịu quay lại khi được giải thích rõ từng mốc và có giấy dặn kèm số điện thoại. Nếu bị dặn chung chung 'về theo dõi' thì tự ý bỏ thuốc (sắt, kháng đông) khi thấy phân đen. Giấu: nỗi sợ lây cho chị Na 3 tuổi và bà ngoại (chỉ nói khi được hỏi chị lo nhất điều gì, hoặc trong nhà còn ai nhỏ) và chuyện hay đặt bé nằm trên bờ đất ngoài rẫy (chị ngại, chỉ nhắc khi được hỏi nhẹ nhàng ban ngày bé ở đâu).",
+  "nguoi_nha": "Mẹ bé, chị Tuyết, 27 tuổi, đi cùng; mẹ trả lời mọi câu hỏi (nguoi_noi = nguoi_nha). Bé chưa nói được.",
+  "ten_nguoi_nha": "Mẹ bé (chị Tuyết)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#241913",
+   "kieuToc": "tre",
+   "ao": "#cfe3c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dfa982",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#8a7f9e",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đi ngoài phân sẫm đen mấy ngày nay, xanh xao, quấy, bú kém",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Xét nghiệm, X-quang, siêu âm và thăm dò khác vẫn làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 10 tháng rưỡi, 8,2 kg, mẹ bế đến vì 4 ngày nay đi ngoài phân sẫm đen; vài tuần nay bé xanh hơn, quấy, bú kém. Bé đang dùng thuốc kháng đông. Sinh hiệu: nhiệt 36,8 °C, mạch 128 l/p, nhịp thở 34 l/p, SpO₂ 98%. Bé tỉnh, da niêm nhạt, chơi được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Vy bị nhập viện nhi tỉnh cách nhà 50 km vì phân đen, trong khi bé tỉnh, bú được, bụng mềm, Hb 98 g/L chỉ ở mức thiếu máu nhẹ (WHO 2024 Bảng 3) và INR gần mức bệnh viện nhi ghi. Nguyên nhân tìm được ngay tại phòng khám là giun móc, thuốc là pyrantel uống 3 ngày (QĐ 3312/2015, Nhiễm ký sinh trùng đường ruột ở trẻ em mục 3.1c); truyền máu chỉ đặt ra khi Hb khoảng 40 g/L, cần nâng nhanh hoặc suy tim (Thiếu máu thiếu sắt mục 4.2). Tài liệu đã tải không nêu tiêu chuẩn nhập viện cho giun móc chưa biến chứng. Mẹ mất nhiều ngày, chị Na gửi bà, nỗi sợ bệnh lây của chị càng nặng.",
+    "chuyen_tuyen": "Bé Vy bị gửi lên bệnh viện nhi tỉnh 'để tìm nguyên nhân chảy máu' sau gần 2 giờ xe máy đường đèo. Soi phân tại chỗ đã cho đáp án, tuyến trên cũng chỉ cho pyrantel 11 mg/kg/ngày × 3 ngày như phòng khám (QĐ 3312/2015, mục 3.1c), nên thuốc giun bị trễ mà bệnh không đổi. Chị Tuyết tốn tiền xe, mất buổi rẫy, còn giun tiếp tục lấy máu của bé mỗi ngày (mất máu mạn do nhiễm KST: Thiếu máu thiếu sắt mục 2)."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy ngày nay con em đi cầu phân đen sì, em sợ lắm. Hồi đầu tháng bệnh viện nhi đổi thuốc tiêm sang thuốc uống cho con, em nghĩ tại thuốc mới nên chảy máu trong ruột. Con xanh xao, bú kém. Nhà em ở xa lắm, bác sĩ cho em đủ thuốc để khỏi đi lại nhiều.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 34,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bốn ngày nay bé đi ngoài 1–2 lần/ngày, phân sẫm đen, sệt. Ba tuần nay bé bú và ăn bột ít hơn, hay quấy, mẹ thấy bé xanh hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân sệt, màu nâu đen như bã cà phê, có lúc lẫn ít nhầy; không đỏ tươi, không hắc ín dính thành sợi, không hôi khắm bất thường. Chưa thấy con giun nào trong phân hay trong tã. Chưa từng được tẩy giun.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân, có thấy giun"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Ban ngày chị cõng bé ra rẫy sắn và cà phê, đặt bé nằm trên tấm bạt trải bờ đất, bạt hay xô lệch nên chân và mông bé chạm đất; bé chân trần. Nhà vệ sinh hố, nước giếng, ăn chín uống chín.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây: đất, chân trần, nhà tiêu (giun móc xuyên da)"
+    },
+    {
+     "id": "chan",
+     "noi_dung": "Khoảng 5–6 tuần trước chân bé nổi mấy chấm đỏ ngứa, bé gãi rồi tự khô, mẹ không bôi gì. Sau đó khoảng 2 tuần bé ho khan vài ngày không sốt rồi tự hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu ấu trùng xâm nhập qua da, ho thoáng qua"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Sổ theo dõi: lúc 8 tháng cân 8,2 kg, hôm nay vẫn 8,2 kg; hai tháng không lên cân. Ăn bột 2 bữa/ngày từ 6 tháng, còn bú mẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng trưởng, ăn dặm"
+    },
+    {
+     "id": "dau_bung_non",
+     "noi_dung": "Thỉnh thoảng bé quấy, co chân sau ăn nhưng không khóc thét từng cơn. Không nôn dịch vàng xanh, không nôn ra máu, bụng không chướng cứng, không vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng, nôn (dấu hiệu biến chứng, báo động)"
+    },
+    {
+     "id": "thuoc_kd",
+     "noi_dung": "Bé bị huyết khối tĩnh mạch chân phải sau đặt catheter lúc 3 tháng tuổi. Mười ngày trước bệnh viện nhi đổi thuốc tiêm enoxaparin dưới da sang acenocoumarol uống một lần mỗi tối (để mẹ đỡ phải đi tiêm xa); sổ ghi INR 5 ngày sau đổi là 2,2, hẹn đo lại sau 2 tuần. Mẹ cho uống đủ, không cho thuốc nào khác, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng đông mới đổi 10 ngày"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu chân răng hoặc mũi, không bầm tím mới, không tiểu máu, không nôn ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu chảy máu nơi khác khi dùng kháng đông"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Chị sợ 'bệnh trong ruột' của bé lây sang chị Na 3 tuổi và bà ngoại đang trông bé; hai đêm nay chị không cho chị Na ngủ chung với em. Chị ngại nói vì sợ bị chê 'đem con ra rẫy nên sinh bệnh'; đó mới là lý do chị vội đến khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hoặc hỏi trong nhà còn ai nhỏ, ai ngủ chung với bé.",
+     "k": 1,
+     "y": "Động cơ thật: sợ lây cho người thân"
+    },
+    {
+     "id": "me_do_thuoc",
+     "noi_dung": "Mẹ cho rằng phân đen do thuốc kháng đông mới đổi vì phân bắt đầu đen sau khi đổi thuốc; hai hôm nay chị định bỏ thuốc tối nay nhưng chưa bỏ liều nào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Quy cho thuốc mới, định tự ngưng"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám khoảng 50 km, xe máy gần 2 giờ đường đèo; chồng làm xa, chị phải nhờ hàng xóm chở và gửi chị Na cho bà. Chị xin thuốc đủ, giấy dặn rõ và số điện thoại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Đẻ đủ tháng, 3,0 kg; 3 tháng tuổi nằm viện nhi vì viêm phổi, có đặt catheter. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được, hơi quấy khi bị khám. Da niêm nhạt, lòng bàn tay nhạt, không nhợt nặng. Không vàng da, không phù. Môi ẩm, khóc có nước mắt.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 8,2 kg (bằng lúc 8 tháng theo sổ), chiều dài 70 cm.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng hơi chướng, mềm, không đau khi sờ, không khối dạng ống, nhu động ruột bình thường, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Cơ thắt bình thường, không khối. Găng dính phân sệt màu nâu đen, không máu đỏ tươi, không hắc ín.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, không rút lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Không ban, không bầm tím, không chấm xuất huyết. Mu hai bàn chân và mông có vài chấm sẩn nâu mờ đã khô vảy, dấu cũ.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai chân cân đối, không phù, không đổi màu; chân phải từng có huyết khối hiện không sưng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 10,9 G/L · EOS 14% · Hb 98 g/L · TC 410 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 10.9,
+      "neu_pct": 34.0,
+      "neu": 3.7,
+      "lym_pct": 45.0,
+      "lym": 4.9,
+      "mono_pct": 6.0,
+      "mono": 0.7,
+      "eos_pct": 14.0,
+      "eos": 1.5,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.3,
+      "hgb": 98,
+      "hct": 0.31,
+      "mcv": 72.0,
+      "mch": 22.8,
+      "mchc": 316,
+      "rdw": 16.2,
+      "plt": 410
+     },
+     "n": "Hb 98 g/L dưới 105 g/L: thiếu máu ở trẻ 6 tháng–2 tuổi (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1), mức nhẹ (WHO 2024 Bảng 3: 95–104 g/L). Hồng cầu nhỏ nhược sắc, RDW > 14,5% (QĐ 3312/2015, mục 3.2); bạch cầu ưa acid tăng gợi ý nhiễm giun, Hb giảm là biểu hiện của giun móc (mục 3.1c). Các mức tham chiếu in trên phiếu là của người lớn; ngưỡng theo tuổi lấy từ hai nguồn trên."
+    },
+    "soi_phan": {
+     "v": "e",
+     "r": "Trứng giun móc (Ancylostoma/Necator) khá nhiều. Có hồng cầu rải rác. Không trứng giun đũa, giun tóc; không bạch cầu.",
+     "n": "Chẩn đoán giun móc dựa vùng dịch tễ, bệnh cảnh và soi phân thấy trứng, có thể thấy hồng cầu (QĐ 3312/2015, mục 3.1c). Soi phân cũng để tìm đồng nhiễm giun khác (mục 1)."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 2,4",
+     "n": "Nên làm vì bé đang dùng acenocoumarol và phân sẫm: INR 2,4 gần mức 2,2 bệnh viện nhi ghi 5 ngày sau đổi thuốc nên không gợi ý quá liều. Mục tiêu INR cho nhũ nhi và tương tác pyrantel hoặc sắt với acenocoumarol: không có trong tài liệu đã tải."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "r": "Ferritin 8 ng/mL · sắt huyết thanh 6 µmol/L · bão hòa transferrin 9%",
+     "n": "Xác nhận thiếu sắt: ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa transferrin < 16% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 3.2). Không bắt buộc khi đã có Hb thấp và hồng cầu nhỏ."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT dương tính (> 100 µg Hb/g phân)",
+     "n": "Chấp nhận, không bắt buộc: xác nhận có máu ẩn trong phân. Soi phân đã thấy hồng cầu và trứng (QĐ 3312/2015, mục 3.1c). Giá trị và ngưỡng FIT ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Quai ruột chứa hơi nhẹ, không búi giun, đường mật không giãn.",
+     "n": "Không cần: bụng mềm, không nôn dịch vàng xanh, không vàng da nên không có dấu hiệu biến chứng tắc ruột, chui ống mật (QĐ 3312/2015, mục 3.1a); giun móc không có biến chứng đó trong mục 3.1c."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun móc đường ruột ở nhũ nhi 10 tháng rưỡi, mất máu mạn gây thiếu máu nhẹ, chậm tăng cân, chưa biến chứng",
+     "ok": 1,
+     "n": "Phân sẫm, xanh xao, ấu trùng xâm nhập qua da (chấm ngứa ở chân), ho thoáng qua, bạch cầu ưa acid 14%, Hb 98 g/L, trứng giun móc và hồng cầu trong phân (QĐ 3312/2015, mục 3.1c). Bé bò và nằm trên đất ở rẫy, chân trần, chưa tẩy giun; giun móc xuyên da (QĐ 6437/2018, mục I)."
+    },
+    {
+     "t": "Chảy máu tiêu hóa do thuốc kháng đông (acenocoumarol mới đổi)",
+     "n": "Ít nghĩ: INR 2,4, gần mức 2,2 bệnh viện nhi ghi; không chảy máu chỗ khác, không bầm tím, và soi phân thấy trứng giun móc kèm bạch cầu ưa acid tăng, giải thích được mất máu. Thuốc đổi chỉ trùng thời điểm. Thuốc kháng đông có thể làm mất máu rỉ rả nặng hơn hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt do dinh dưỡng đơn thuần",
+     "n": "Không đủ giải thích: thiếu sắt ở bé là hệ quả của mất máu mạn tính do nhiễm KST (QĐ 3312/2015, Thiếu máu thiếu sắt mục 2) chứ không chỉ do ăn thiếu sắt. Hb 98 g/L < 105, ferritin 8 ng/mL (mục 1, 3.2; WHO 2024 Bảng 3) vẫn đúng và phải điều trị sắt, nhưng chỉ bổ sung sắt mà không tẩy giun thì thiếu máu sẽ tái diễn."
+    },
+    {
+     "t": "Đau bụng chức năng (quấy khóc co chân sau ăn)",
+     "n": "Loại trừ: đau bụng chức năng chỉ được chẩn đoán khi không có dấu hiệu báo động, mà bé có chậm phát triển thể chất và xuất huyết tiêu hóa (QĐ 3312/2015, Đau bụng chức năng mục 3.1, Bảng 1); tiêu chuẩn cũng cần triệu chứng ≥ 1 lần/tuần, kéo dài ≥ 2 tháng (Bảng 2) và Rome III trong tài liệu viết cho trẻ lớn, tiêu chuẩn cho nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đồng nhiễm giun đũa hoặc giun tóc",
+     "n": "Không có: soi phân chỉ thấy trứng giun móc; một trẻ có thể nhiễm nhiều loại giun (QĐ 3312/2015, mục 1) nên phải đọc đủ kết quả."
+    },
+    {
+     "t": "Biến chứng nặng: thiếu máu nặng, suy tim",
+     "n": "Không có: Hb 98 g/L (không dưới 70 g/L: WHO 2024 Bảng 3), bé tỉnh, bú được, thở 34 l/p không rút lõm, SpO₂ 98%; truyền máu chỉ khi Hb khoảng 40 g/L, cần nâng nhanh hoặc suy tim (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Pyrantel pamoat 11 mg/kg/ngày uống 3 ngày liên tiếp (8,2 kg: 90,2 mg ≈ 3/4 viên 125 mg mỗi ngày, tối đa 1 g/ngày)",
+     "v": "c",
+     "n": "Giun móc, trẻ dưới 12 tháng: pyrantel pamoat viên 125 mg, 11 mg/kg/ngày trong 3 ngày liên tiếp, tối đa 1 g/ngày (QĐ 3312/2015, mục 3.1c). Làm tròn 3/4 viên = 93,75 mg ≈ 11,4 mg/kg là của người soạn."
+    },
+    {
+     "t": "Albendazol hoặc mebendazol cho bé 10 tháng rưỡi",
+     "v": "h",
+     "n": "QĐ 6437/2018 mục II.1b chống chỉ định tẩy giun cho trẻ dưới 12 tháng; QĐ 3312/2015 (mục 3.1c) chỉ dùng hai thuốc này cho trẻ trên 12 tháng; WHO 2017 (Rationale) chỉ coi chúng dung nạp tốt ở trẻ trên 12 tháng. Khác bối cảnh và khác thuốc, không mâu thuẫn (sổ mâu thuẫn mục TH-1307)."
+    },
+    {
+     "t": "Uống sau ăn, nghiền hòa nước, theo dõi bé uống đủ",
+     "v": "a",
+     "n": "QĐ 6437/2018 mục III.2: uống sau ăn, trẻ nhỏ nghiền thuốc pha nước (mục này viết cho albendazol/mebendazol; cách dùng pyrantel: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Bổ sung sắt uống 4–6 mg sắt nguyên tố/kg/ngày (8,2 kg: 33–49 mg, chọn 40 mg) trong 6–8 tuần, kèm vitamin C 50 mg/ngày",
+     "v": "c",
+     "n": "Thiếu máu kèm theo giun móc phải điều trị (QĐ 3312/2015, mục 3.1c): sắt 4–6 mg Fe/kg/ngày trong 6–8 tuần, thêm vitamin C 50–100 mg/ngày (Thiếu máu thiếu sắt mục 4.2). Số lần chia trong ngày và tương tác pyrantel hoặc sắt với acenocoumarol: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trước phân sẽ sẫm hoặc đen hơn khi uống sắt, và dặn dấu hiệu chảy máu thật phải đến ngay",
+     "v": "c",
+     "n": "Trẻ thường có phân màu đen khi uống sắt (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5). Bé đang dùng kháng đông nên cần dặn rõ cả hai tình huống; các dấu hiệu chảy máu khi dùng acenocoumarol ở nhũ nhi: không có trong tài liệu đã tải, danh sách dấu hiệu là khuyến cáo chung của người soạn."
+    },
+    {
+     "t": "Tiếp tục acenocoumarol đúng sổ bệnh viện nhi, không tự bỏ hoặc đổi liều; INR theo hẹn",
+     "v": "c",
+     "n": "Thuốc do bệnh viện nhi kê và chỉnh theo INR; xử trí khi nghi tác dụng phụ ở nhũ nhi và tương tác: không có trong tài liệu đã tải, hỏi bệnh viện nhi qua điện thoại."
+    },
+    {
+     "t": "Giải thích bệnh không lây trực tiếp từ bé sang chị Na và bà; ấu trùng giun móc xuyên da khi chạm đất nhiễm phân",
+     "v": "c",
+     "n": "Giun móc nhiễm qua da từ đất nhiễm phân, không nêu lây trực tiếp từ người sang người (QĐ 3312/2015, mục 2; QĐ 6437/2018, mục I). Thời gian trứng thành ấu trùng gây nhiễm trong đất: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cắt nguồn lây: không để bé nằm hoặc bò trên đất trần, đi giày dép, rửa tay xà phòng, nhà tiêu hợp vệ sinh",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 4 (rửa tay, giữ nhà vệ sinh hợp vệ sinh, không cho trẻ đi chân đất nhất là vùng trồng hoa màu); QĐ 6437/2018, mục VI.1–VI.2."
+    },
+    {
+     "t": "Hướng dẫn đưa chị Na (3 tuổi) đi tẩy giun khi khỏe",
+     "v": "a",
+     "n": "Trên 12 tháng: mebendazol 500 mg hoặc albendazol 200 mg × 2 viên (QĐ 3312/2015, mục 3.1c); từ 24 tháng albendazol 400 mg (QĐ 6437/2018, mục III.1). Điều kiện chống chỉ định: QĐ 6437/2018 mục II.1b. Điều trị cả nhà cho giun móc: không có trong tài liệu đã tải (chỉ nêu cho giun kim)."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, ăn dặm đủ chất, thêm thức ăn giàu sắt và vitamin C",
+     "v": "a",
+     "n": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2 (điều chỉnh chế độ dinh dưỡng), mục 6."
+    },
+    {
+     "t": "Viết giấy dặn kèm số điện thoại; gọi điện báo tin sau 3 ngày thuốc; hẹn tái khám sau 3 tuần hoặc nhờ trạm y tế xã đo Hb; đến ngay nếu bé lả đi, nôn ra máu, phân đen hắc ín kèm da nhợt nhanh, chảy máu mũi hoặc chân răng, bầm tím, bụng chướng cứng, nôn dịch vàng xanh",
+     "v": "c",
+     "n": "Ca ở xa: xử trí trọn gói bằng văn bản. Mốc 3 tuần là của người soạn (tài liệu đã tải không nêu lịch tái khám giun móc). Tắc ruột, giun chui ống mật là biến chứng của giun đũa (QĐ 3312/2015, mục 3.1a); danh sách dấu hiệu đến ngay là khuyến cáo chung của người soạn."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến nhi tỉnh để điều trị giun móc",
+     "v": "w",
+     "n": "Không có chỉ định: bé ổn định, Hb 98 g/L; tài liệu đã tải không nêu tiêu chuẩn nhập viện cho giun móc chưa biến chứng."
+    },
+    {
+     "t": "Ngưng acenocoumarol vì nghi chảy máu do thuốc",
+     "v": "w",
+     "n": "Nguyên nhân mất máu là giun móc, INR 2,4; thuốc do bệnh viện nhi kê cho huyết khối, tự ngưng làm mất tác dụng (nguy cơ huyết khối: không có trong tài liệu đã tải, quyết định thuộc bệnh viện nhi)."
+    },
+    {
+     "t": "Truyền máu cho bé",
+     "v": "w",
+     "n": "Truyền máu khi Hb khoảng 40 g/L, cần nâng nhanh Hb hoặc suy tim do thiếu máu nặng (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2); bé Hb 98 g/L không thuộc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun móc đường ruột ở nhũ nhi 10 tháng rưỡi, mất máu mạn gây phân sẫm, chưa biến chứng",
+     "Thiếu máu nhẹ, thiếu sắt thứ phát do giun (Hb 98 g/L, ferritin 8 ng/mL, hồng cầu nhỏ nhược sắc)",
+     "Chậm tăng cân hai tháng, bạch cầu ưa acid tăng",
+     "Nền: huyết khối tĩnh mạch chân phải đang dùng acenocoumarol mới đổi, INR 2,4, không chảy máu nơi khác",
+     "Loại trừ: chảy máu do kháng đông, thiếu máu thiếu sắt do dinh dưỡng đơn thuần, đau bụng chức năng, biến chứng nặng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và tính chất phân, có thấy giun không, bé ở đâu ban ngày (đất, chân trần), chân từng ngứa nổi chấm, cân nặng theo sổ, nôn đau bụng, thuốc đang dùng và thời điểm đổi, chảy máu nơi khác, mẹ lo nhất điều gì. Khám: tổng trạng, nhân trắc, bụng, thăm trực tràng. CLS: công thức máu, soi phân, INR; ferritin, FIT là hỗ trợ.",
+     "Vì sao giun móc: giun móc xuyên da, hay gặp ở trẻ sống vùng làm rẫy, làm ruộng đi chân đất (QĐ 3312/2015, mục 2, 3.1c; QĐ 6437/2018, mục I). Biểu hiện: xanh xao, thiếu máu; nơi ấu trùng vào ngứa, ửng đỏ; ho kiểu Loeffler; đôi khi phân đen; soi phân thấy trứng, có thể thấy hồng cầu; Hb giảm, bạch cầu ưa acid tăng (mục 3.1c). Ở ca này bé chưa đi nhưng được đặt nằm trên bờ đất, chân trần: không điển hình về lứa tuổi và triệu chứng (không đau bụng, không ngứa chân nổi bật), nên dễ bỏ qua.",
+     "Vì sao không dừng ở 'thuốc kháng đông gây chảy máu': mẹ và bác sĩ dễ gán phân sẫm cho thuốc mới đổi 10 ngày. Cần INR (2,4, gần mức 2,2 ghi trong sổ bệnh viện nhi), cần hỏi chảy máu nơi khác (không có) và nhất là soi phân (trứng giun móc, hồng cầu). Mức INR đích cho nhũ nhi và việc kháng đông làm nặng thêm mất máu: không có trong tài liệu đã tải.",
+     "Vì sao có thiếu máu thiếu sắt nhưng không chẩn đoán đơn thuần: thiếu máu khi Hb < 105 g/L từ 6 tháng đến 2 tuổi, ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16%, RDW > 14,5% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1, 3.2); WHO 2024 Bảng 3 xếp 95–104 g/L là nhẹ. Nguyên nhân gồm mất máu mạn tính do nhiễm KST (mục 2) nên phải điều trị nguyên nhân cùng với bổ sung sắt (mục 4.2).",
+     "Vì sao không phải đau bụng chức năng: bé có dấu hiệu báo động (chậm phát triển thể chất, xuất huyết tiêu hóa); chẩn đoán này chỉ khi không có báo động và khám bình thường (QĐ 3312/2015, Đau bụng chức năng mục 3.1, Bảng 1).",
+     "Động cơ thật: sợ lây cho chị Na 3 tuổi và bà. Giun móc vào cơ thể qua da từ đất nhiễm phân (QĐ 3312/2015, mục 2; QĐ 6437/2018, mục I), không lây từ bé; việc cần làm là cắt nguồn đất nhiễm và cho chị Na tẩy giun."
+    ],
+    "phan_tich_xu_tri": [
+     "Giun móc dưới 12 tháng: pyrantel pamoat 11 mg/kg/ngày trong 3 ngày liên tiếp, tối đa 1 g/ngày (QĐ 3312/2015, mục 3.1c); 8,2 kg dùng 3/4 viên 125 mg mỗi ngày. Tránh albendazol/mebendazol vì chống chỉ định dưới 12 tháng (QĐ 6437/2018, mục II.1b). Với bé ở xa, phát đủ thuốc 3 ngày: ngày 1 cho uống tại phòng khám, 2 liều còn lại để trong túi giấy ghi ngày.",
+     "Điều trị thiếu máu kèm theo (QĐ 3312/2015, mục 3.1c): sắt uống 4–6 mg sắt nguyên tố/kg/ngày trong 6–8 tuần, thêm vitamin C 50–100 mg/ngày (Thiếu máu thiếu sắt mục 4.2). Dặn rõ phân sẽ sẫm hoặc đen khi uống sắt (mục 5). Vì bé đang dùng kháng đông nên đưa thêm danh sách dấu hiệu chảy máu thật bằng văn bản.",
+     "Không đổi, không ngưng, không thêm thuốc kháng đông: tương tác pyrantel hoặc sắt với acenocoumarol và INR đích nhũ nhi không có trong tài liệu đã tải, báo bệnh viện nhi bằng điện thoại và đo INR theo hẹn.",
+     "Chiến lược ở xa, không CT: không cần CT cho chẩn đoán này. Trọn gói bằng văn bản: thuốc đủ 3 ngày, sắt đủ cho 3 tuần, tờ dặn có số điện thoại, gọi báo tin sau 3 ngày, đo Hb tại trạm y tế xã sau 3 tuần (các mốc 3 ngày, 3 tuần là của người soạn, tài liệu đã tải không nêu lịch).",
+     "Cắt nguồn lây: không để bé nằm hoặc bò trên đất trần, giày dép, rửa tay xà phòng, nhà tiêu hợp vệ sinh (QĐ 3312/2015, mục 4; QĐ 6437/2018, mục VI). Chị Na 3 tuổi: mebendazol 500 mg hoặc albendazol 400 mg (QĐ 3312/2015 mục 3.1c; QĐ 6437/2018 mục III.1).",
+     "Không nhập viện, chuyển tuyến hay truyền máu: Hb 98 g/L, bé tỉnh; truyền máu khi Hb khoảng 40 g/L, cần nâng nhanh hoặc suy tim (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pyrantel pamoat",
+      "ham_luong": "Viên 125 mg",
+      "lieu": "11 mg/kg/ngày × 8,2 kg = 90,2 mg ≈ 3/4 viên (93,75 mg) mỗi ngày, tối đa 1 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngày 1 uống tại phòng khám sau ăn; ngày 2 và 3 uống tại nhà cùng giờ, sau ăn",
+      "so_ngay": "3 ngày liên tiếp",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1c (dưới 12 tháng). Làm tròn 3/4 viên là của người soạn. Nghiền hòa nước, uống sau ăn theo QĐ 6437/2018 mục III.2 (viết cho thuốc khác). Tác dụng phụ pyrantel: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Chế phẩm sắt (sulfat sắt II chứa 20% sắt nguyên tố, hoặc sắt III hydroxide polymaltose; ví dụ dạng giọt hoặc siro)",
+      "ham_luong": "Tính theo hàm lượng sắt nguyên tố ghi trên nhãn; ví dụ sulfat sắt 200 mg = 40 mg Fe",
+      "lieu": "4–6 mg Fe/kg/ngày, chọn 40 mg Fe/ngày (≈ 4,9 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chia 1–2 lần/ngày, cách sữa nếu được (số lần: người soạn chọn; không có trong tài liệu đã tải)",
+      "so_ngay": "6–8 tuần",
+      "ghi_chu": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2; tỉ lệ 20% sắt nguyên tố. Phân sẽ sẫm đen (mục 5)."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "50 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với sắt",
+      "so_ngay": "Theo thời gian uống sắt",
+      "ghi_chu": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2 (50–100 mg/ngày để tăng hấp thu sắt)."
+     },
+     {
+      "thuoc": "Acenocoumarol (thuốc sẵn có của bé)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi tối",
+      "so_ngay": "Theo bệnh viện nhi",
+      "ghi_chu": "Không đổi; tương tác, INR đích nhũ nhi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Mebendazol hoặc albendazol (cho chị Na, 3 tuổi, kê sau khi hỏi chị không sốt, không bệnh cấp)",
+      "ham_luong": "Mebendazol 500 mg hoặc albendazol 200 mg × 2 viên",
+      "lieu": "1 viên mebendazol hoặc 2 viên albendazol, liều duy nhất",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, nhai hoặc nghiền; khi chị Na khỏe",
+      "so_ngay": "Liều duy nhất",
+      "ghi_chu": "QĐ 3312/2015, mục 3.1c (trên 12 tháng); QĐ 6437/2018, mục III.1–III.2. Chống chỉ định: mục II.1b."
+     }
+    ],
+    "dan_do": [
+     "Phân sẫm của bé hiện nay do giun móc hút máu ở ruột, không phải tại thuốc kháng đông mới đổi; đừng tự bỏ thuốc kháng đông, cứ cho uống đúng liều bệnh viện nhi.",
+     "Uống pyrantel đủ 3 ngày, ngày nào cũng 3/4 viên; thuốc sắt uống đều 6–8 tuần. Uống sắt phân sẽ sẫm hoặc đen hơn (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5), nên khi đó cần hỏi lại thay vì tự ngưng.",
+     "Giun móc vào cơ thể qua da khi chân hoặc mông chạm đất nhiễm phân: không để bé nằm trực tiếp trên đất, đi giày dép khi ra rẫy, rửa tay xà phòng, giữ nhà vệ sinh hợp vệ sinh (QĐ 3312/2015, mục 4; QĐ 6437/2018, mục VI). Bé không lây trực tiếp cho chị Na và bà, nhưng chị Na nên được tẩy giun.",
+     "Giữ giấy dặn có số điện thoại; gọi báo tin sau khi uống đủ 3 ngày; tái khám hoặc đo Hb tại trạm y tế xã sau 3 tuần (mốc của người soạn, không trích từ tài liệu đã tải).",
+     "Đưa bé đến ngay (hoặc gọi) nếu bé lả đi, nôn ra máu, phân đen hắc ín kèm da nhợt nhanh, chảy máu mũi hoặc chân răng không cầm, bầm tím, bụng chướng cứng, nôn dịch vàng xanh. Đây là danh sách của người soạn, không phải trích từ tài liệu đã tải.",
+     "Tiếp tục bú mẹ, ăn dặm có thịt, cá, rau xanh và trái cây giàu vitamin C (QĐ 3312/2015, Thiếu máu thiếu sắt mục 6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bé Vy gần 11 tháng, 8,6 kg, mẹ bế đến sau 3 tuần vì từ mấy hôm nay bé đi ngoài phân đen sì, mẹ sợ chảy máu trong và đã bỏ thuốc sắt hôm qua. Bé đã uống đủ thuốc giun hôm khám trước. Sinh hiệu: nhiệt 36,7 °C, mạch 116 l/p, nhịp thở 30 l/p, SpO₂ 99%. Bé tỉnh, hồng hơn, chơi được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Vy lại bị nhập viện nhi tỉnh để 'theo dõi chảy máu tiêu hóa' dù bé bú khỏe, tăng 0,4 kg, da hồng, Hb lên 108 g/L, INR 2,3 và FIT âm tính. Phân đen khi uống sắt là bình thường ở trẻ (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5); tài liệu đã tải không nêu tiêu chuẩn nhập viện khi phân đen ở nhũ nhi dùng kháng đông. Chị Tuyết tốn tiền xe và nhiều ngày công, gửi chị Na cho bà, và càng tin rằng thuốc sắt 'làm con chảy máu' nên về nhà có thể bỏ luôn sắt.",
+    "chuyen_tuyen": "Bé Vy được chuyển lên bệnh viện nhi tỉnh để nội soi hoặc 'tìm xuất huyết tiêu hóa' sau gần 2 giờ xe đường đèo. Kết quả hôm nay đã cho thấy bé hồi phục, tuyến trên cũng chỉ khuyên uống sắt tiếp 6–8 tuần như phòng khám (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2). Bé bị thăm dò xâm lấn không cần, mẹ mất thêm một đợt đi lại."
+   },
+   "loi_mo": "Bác sĩ ơi, con em uống thuốc giun rồi, hôm sau ra mấy con nhỏ xíu như sợi chỉ, giờ ăn khá, hồng hơn. Nhưng mấy hôm nay con đi cầu phân đen sì, bà ngoại bảo là chảy máu trong vì thuốc kháng đông. Em sợ quá bỏ thuốc sắt hôm qua. Em có nên ngưng luôn thuốc kháng đông không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 30,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau thuốc giun bé ăn bột và bú khá hơn, quấy ít, hồng hơn. Nhưng 3 hôm nay phân đen đặc hơn, mẹ hoảng, bỏ thuốc sắt hôm qua.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến sau điều trị"
+    },
+    {
+     "id": "sau_thuoc",
+     "noi_dung": "Bé uống đủ 3 ngày pyrantel. Hôm sau ra thêm vài con giun nhỏ như sợi chỉ, màu hơi hồng. Phân bớt lẫn nhầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng thuốc giun, tuân thủ"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân từ khi uống sắt luôn nâu sẫm, 3 hôm nay đen đặc hơn, sệt thành khuôn, 1–2 lần/ngày. Không đỏ tươi, không hắc ín dính sợi, không nhầy; bé không quấy khóc từng cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân; liên hệ với thuốc sắt"
+    },
+    {
+     "id": "thuoc_sat",
+     "noi_dung": "Mẹ cho uống sắt 40 mg Fe mỗi ngày đều 19 ngày, bỏ hôm qua. Hôm khám trước có được dặn phân sẽ sẫm khi uống sắt, nhưng bà ngoại bảo đó là máu nên mẹ quên lời dặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ sắt, đã được dặn gì"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu chân răng hoặc mũi, không bầm tím, không nôn ra máu, không lả, bú khỏe. Vẫn uống acenocoumarol đủ mỗi tối; bệnh viện nhi đo INR lại tuần trước, bảo giữ nguyên liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu chảy máu khi dùng kháng đông; INR bệnh viện nhi"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bé bú mẹ và ăn bột 3 bữa/ngày, thêm thịt xay. Chị Tuyết mang bé ra rẫy nhưng giờ bé nằm võng, đi dép, chị trải bạt dày. Chị Na đã uống thuốc giun ở trạm y tế xã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn dặm, phòng tái nhiễm, người nhà"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Chị Tuyết vẫn lo bé lây sang bà; chị đang cho con bú nên muốn hỏi chị có nên uống thuốc giun không, nhưng ngại hỏi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ hỏi chị còn lo điều gì, hoặc hỏi bản thân chị và bà có được tẩy giun chưa.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mẹ đang cho bú, hỏi thuốc giun cho bản thân"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Chị xin 'khám một lần này cho đủ, đừng hẹn thêm', xin số điện thoại và giấy dặn; nhà gần trạm y tế xã 6 km, trạm đo được Hb nhưng không xét nghiệm phân.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được, bám mẹ. Da niêm hồng hơn lần trước, lòng bàn tay hồng. Không vàng da, không phù, không mất nước.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 8,6 kg (tăng 0,4 kg sau 3 tuần), chiều dài 71 cm.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Cơ thắt bình thường, găng dính phân sệt màu đen sẫm, không máu đỏ tươi, không hắc ín.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không bầm tím, không chấm xuất huyết, không chảy máu chân răng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 116 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 9,8 G/L · EOS 5% · Hb 108 g/L · TC 360 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 36.0,
+      "neu": 3.5,
+      "lym_pct": 51.0,
+      "lym": 5.0,
+      "mono_pct": 7.0,
+      "mono": 0.7,
+      "eos_pct": 5.0,
+      "eos": 0.5,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.5,
+      "hgb": 108,
+      "hct": 0.34,
+      "mcv": 76.0,
+      "mch": 24.0,
+      "mchc": 318,
+      "rdw": 15.1,
+      "plt": 360
+     },
+     "n": "Hb 98 lên 108 g/L, từ mức thiếu máu nhẹ lên ≥ 105 g/L (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1; WHO 2024 Bảng 3: không thiếu máu ở 6–23 tháng khi ≥ 105). Bạch cầu ưa acid giảm 14% còn 5%. MCV, RDW còn lệch nhẹ vì sắt dự trữ chưa đầy (tốc độ phục hồi: mục 5, 2–3 tháng). Các mức tham chiếu in trên phiếu là của người lớn."
+    },
+    "soi_phan": {
+     "v": "e",
+     "r": "Không thấy trứng giun móc, giun đũa, giun tóc. Không hồng cầu, không bạch cầu.",
+     "n": "Xác nhận hết trứng giun sau điều trị. Thời điểm soi phân kiểm tra sau tẩy giun và tiêu chuẩn khỏi bệnh: không có trong tài liệu đã tải; QĐ 3312/2015 mục 3.1c chỉ nêu soi phân là cách chẩn đoán."
+    },
+    "fit": {
+     "v": "u",
+     "r": "FIT âm tính (< 10 µg Hb/g phân)",
+     "n": "FIT âm tính (trước điều trị dương tính) là bằng chứng không còn máu trong phân. Phân đen khi uống sắt: QĐ 3312/2015, Thiếu máu thiếu sắt mục 5. Việc sắt có làm FIT dương tính hay không và giá trị FIT ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 2,3",
+     "n": "Cần vì bé đang dùng acenocoumarol và mẹ sợ chảy máu: INR 2,3, gần mức 2,2–2,4 các lần trước. Mục tiêu INR cho nhũ nhi: không có trong tài liệu đã tải; bệnh viện nhi chỉnh liều."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 19 ng/mL · sắt huyết thanh 10 µmol/L · bão hòa transferrin 17%",
+     "n": "Chấp nhận, không bắt buộc: ferritin đã trên 12 ng/mL nhưng chưa đủ dự trữ để ngưng sắt (cần đủ 6–8 tuần: QĐ 3312/2015, mục 4.2). Tiêu chí ngưng sắt theo ferritin: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm giun móc đã điều trị khỏi (không còn trứng trong phân), thiếu máu đang hồi phục; phân đen do thuốc sắt, không chảy máu tiêu hóa",
+     "ok": 1,
+     "n": "Thấy giun nhỏ ra hôm sau pyrantel, ăn khá hơn, tăng 0,4 kg, Hb 98 lên 108 g/L, bạch cầu ưa acid 5%, soi phân âm tính (QĐ 3312/2015, mục 3.1c). Phân đen sệt xuất hiện từ khi uống sắt đều (Thiếu máu thiếu sắt mục 5), FIT âm tính, INR 2,3."
+    },
+    {
+     "t": "Chảy máu tiêu hóa do thuốc kháng đông",
+     "n": "Không có: FIT âm tính, Hb tăng, không chảy máu nơi khác, INR 2,3 gần mức trước; phân đen cùng lúc uống sắt."
+    },
+    {
+     "t": "Giun móc kháng thuốc hoặc nhiễm lại sớm",
+     "n": "Không có: soi phân âm tính, bạch cầu ưa acid giảm. Kháng pyrantel: không có trong tài liệu đã tải. Bé có nguy cơ nhiễm lại nếu tiếp tục chạm đất nhiễm (QĐ 3312/2015, mục 4)."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt còn đang bù",
+     "n": "Hb đã ≥ 105 g/L nhưng chưa đủ 6–8 tuần sắt; Hb thường phục hồi sau 2–3 tháng (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2, 5). Cần uống tiếp, không ngưng sớm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi giun móc bằng lâm sàng, Hb và soi phân; không cho thêm thuốc giun",
+     "v": "c",
+     "n": "Bé đã đủ 3 ngày pyrantel (QĐ 3312/2015, mục 3.1c); soi phân âm tính, bạch cầu ưa acid giảm. Tiêu chuẩn khỏi bệnh, lý do cho lại thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích phân đen do sắt, bằng chứng không chảy máu (FIT âm tính, INR 2,3, Hb tăng, bú khỏe); dặn tiếp tục sắt đủ 6–8 tuần (còn khoảng 3–5 tuần), không tự ngưng",
+     "v": "c",
+     "n": "Trẻ thường có phân màu đen khi uống sắt (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5); sắt 4–6 mg Fe/kg/ngày trong 6–8 tuần (mục 4.2); Hb phục hồi sau 2–3 tháng (mục 5)."
+    },
+    {
+     "t": "Tiếp tục acenocoumarol theo sổ bệnh viện nhi, không tự ngưng; INR theo hẹn của bệnh viện nhi",
+     "v": "c",
+     "n": "Thuốc do bệnh viện nhi kê và chỉnh; tương tác, INR đích nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cắt nguồn tái nhiễm: không để bé nằm hoặc bò trên đất trần, giày dép, rửa tay xà phòng, nhà tiêu hợp vệ sinh",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 4; QĐ 6437/2018, mục VI.1–VI.2."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, ăn dặm giàu sắt và vitamin C",
+     "v": "a",
+     "n": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2, 6."
+    },
+    {
+     "t": "Mẹ đang cho con bú muốn tẩy giun: không tự uống thuốc, hỏi cán bộ y tế (QĐ 6437/2018 chống chỉ định cho phụ nữ đang cho con bú; WHO 2017 khuyến cáo tẩy giun cho phụ nữ tuổi sinh đẻ không mang thai)",
+     "v": "a",
+     "n": "Hai nguồn khác nhau, ghi cả hai: QĐ 6437/2018 mục II.1b chống chỉ định phụ nữ đang cho con bú (chương trình cộng đồng); WHO 2017 (Recommendations; Definitions: phụ nữ tuổi sinh đẻ gồm cả phụ nữ cho con bú) khuyến cáo albendazol 400 mg hoặc mebendazol 500 mg cho phụ nữ tuổi sinh đẻ không mang thai ở vùng lưu hành ≥ 20%. Khác năm, bối cảnh và mức bằng chứng; quyết định để cán bộ y tế."
+    },
+    {
+     "t": "Tẩy giun định kỳ cho bé khi tròn 12 tháng: albendazol 200 mg hoặc mebendazol 500 mg liều duy nhất, 1–2 lần/năm tùy vùng (QĐ 6437/2018 mục II.2, III.1; WHO 2017) hoặc sổ giun mỗi 6 tháng (QĐ 3312/2015 mục 4)",
+     "v": "a",
+     "n": "Ghi cả hai (xem sổ mâu thuẫn, mục từ ca NH-0934): QĐ 6437/2018 và WHO 2017 chỉ định theo tỉ lệ nhiễm vùng và từ 12 tháng; QĐ 3312/2015 dặn mỗi 6 tháng cho trẻ em. Bé chưa đủ 12 tháng hôm nay nên không dùng thuốc nhóm này bây giờ (QĐ 6437/2018 mục II.1b)."
+    },
+    {
+     "t": "Giấy dặn có số điện thoại; đo Hb tại trạm y tế xã sau 4 tuần (hết sắt) rồi gọi báo; đến ngay nếu lả đi, nôn ra máu, phân đen hắc ín kèm da nhợt nhanh, chảy máu mũi hoặc chân răng, bầm tím",
+     "v": "c",
+     "n": "Ca ở xa. Mốc 4 tuần là của người soạn: tài liệu đã tải không nêu lịch tái khám; sắt kéo dài 6–8 tuần (QĐ 3312/2015 mục 4.2). Danh sách dấu hiệu là khuyến cáo chung của người soạn."
+    },
+    {
+     "t": "Ngưng thuốc sắt vì phân đen",
+     "v": "w",
+     "n": "Phân đen là bình thường khi uống sắt (QĐ 3312/2015, mục 5) và ngưng sớm khi mới 3 tuần thì chưa đủ 6–8 tuần (mục 4.2)."
+    },
+    {
+     "t": "Ngưng acenocoumarol vì nghi chảy máu",
+     "v": "w",
+     "n": "Không có bằng chứng chảy máu (FIT âm tính, Hb tăng, INR 2,3); thuốc do bệnh viện nhi kê cho huyết khối, quyết định thuộc bệnh viện nhi."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến để nội soi tìm chảy máu tiêu hóa",
+     "v": "w",
+     "n": "Không có chỉ định: bé hồi phục, tài liệu đã tải không nêu tiêu chuẩn nhập viện/chuyển tuyến cho phân đen ở nhũ nhi uống sắt."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm giun móc đã điều trị khỏi: giun ra sau pyrantel, bạch cầu ưa acid 14% còn 5%, soi phân âm tính",
+     "Thiếu máu thiếu sắt thứ phát đang hồi phục (Hb 98 lên 108 g/L), còn phải uống sắt đủ 6–8 tuần",
+     "Phân đen do thuốc sắt, không chảy máu tiêu hóa (FIT âm tính, INR 2,3, Hb tăng)",
+     "Nền: huyết khối tĩnh mạch chân phải, tiếp tục acenocoumarol theo bệnh viện nhi",
+     "Loại trừ: chảy máu do kháng đông, kháng thuốc hoặc nhiễm lại sớm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: đáp ứng thuốc giun, tuân thủ, tính chất phân và liên hệ với thuốc sắt, dấu chảy máu, INR gần nhất, nguồn tái nhiễm, người nhà. Khám: tổng trạng, cân nặng, bụng, thăm trực tràng. CLS: công thức máu, soi phân, INR; FIT, ferritin là phụ.",
+     "Vì sao 'đỡ hoàn toàn' mà vẫn phải làm xét nghiệm: lâm sàng khỏi chỉ cho biết bé đỡ. Hb 108 g/L ≥ 105 (WHO 2024 Bảng 3; QĐ 3312/2015 Thiếu máu thiếu sắt mục 1) và soi phân âm tính xác nhận hết thiếu máu rõ và hết trứng giun; cách chẩn đoán giun móc là soi phân thấy trứng (mục 3.1c). Mốc soi phân kiểm tra và tiêu chuẩn khỏi bệnh: không có trong tài liệu đã tải.",
+     "Vì sao phân đen không phải chảy máu: bé vừa được dặn sẽ đen khi uống sắt (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5), bú khỏe, tăng cân, Hb tăng, FIT âm tính, INR 2,3. Mẹ quên lời dặn vì bà ngoại dọa 'chảy máu trong'; phiếu cần cho mẹ biết bằng chứng cụ thể thay vì chỉ nói 'không sao'.",
+     "Khi nào ngưng thuốc: thuốc giun đã đủ 3 ngày, không cho lại. Sắt uống đủ 6–8 tuần dù Hb đã 108 g/L (QĐ 3312/2015, mục 4.2) vì Hb thường phục hồi sau 2–3 tháng (mục 5). Tiêu chí ngưng sắt theo ferritin: không có trong tài liệu đã tải. Acenocoumarol không ngưng, thuộc bệnh viện nhi.",
+     "Khi nào cần xét nghiệm kiểm tra dù đã khỏi: INR theo hẹn bệnh viện nhi (còn dùng kháng đông); Hb sau khi hết sắt; soi phân nếu bé lại xanh xao, quấy, bú kém (nhiễm lại: QĐ 3312/2015, mục 4). Các mốc cụ thể không có trong tài liệu đã tải, mốc 4 tuần là của người soạn.",
+     "Động cơ còn lại: chị Tuyết đang cho con bú, ngại hỏi thuốc giun cho mình; hai nguồn nói khác nhau (QĐ 6437/2018 mục II.1b chống chỉ định phụ nữ đang cho con bú; WHO 2017 khuyến cáo cho phụ nữ tuổi sinh đẻ không mang thai, định nghĩa gồm cả phụ nữ cho con bú): ghi cả hai, để cán bộ y tế quyết định."
+    ],
+    "phan_tich_xu_tri": [
+     "Không cho thêm thuốc giun: đã đủ pyrantel 3 ngày (QĐ 3312/2015, mục 3.1c), soi phân âm tính. Không đổi sang albendazol/mebendazol vì bé còn dưới 12 tháng (QĐ 6437/2018, mục II.1b).",
+     "Tiếp tục sắt 4–6 mg Fe/kg/ngày (8,6 kg: 34–52 mg, giữ 40 mg) cho đủ 6–8 tuần tính từ lượt trước (còn khoảng 3–5 tuần), vitamin C 50–100 mg/ngày (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2). Nếu mẹ quên liều hôm qua thì uống tiếp, không bù gấp đôi (cách xử trí liều quên: không có trong tài liệu đã tải).",
+     "Ở xa, khó tái khám: kê đủ sắt cho 4 tuần ngay hôm nay, giấy dặn có số điện thoại, nhờ trạm y tế xã (cách 6 km) đo Hb sau khi hết sắt rồi gọi báo (mốc 4 tuần là của người soạn, tài liệu đã tải không nêu lịch). Không cần CT.",
+     "Phòng tái nhiễm: giày dép, bạt dày, không để bé chạm đất trần, rửa tay xà phòng, nhà tiêu hợp vệ sinh (QĐ 3312/2015, mục 4; QĐ 6437/2018, mục VI). Chị Na đã tẩy giun: đúng hướng dẫn (QĐ 3312/2015, mục 3.1c).",
+     "Tẩy giun định kỳ khi bé tròn 12 tháng: ghi cả hai cách (QĐ 6437/2018 mục II.2, III.1 và WHO 2017: 1–2 lần/năm theo tỉ lệ nhiễm vùng; QĐ 3312/2015 mục 4: mỗi 6 tháng), chấm a.",
+     "Không nhập viện, chuyển tuyến hay nội soi: bé hồi phục, FIT âm tính; tài liệu đã tải không nêu tiêu chuẩn cho phân đen ở nhũ nhi uống sắt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Chế phẩm sắt (sulfat sắt II chứa 20% sắt nguyên tố, hoặc sắt III hydroxide polymaltose)",
+      "ham_luong": "Tính theo hàm lượng sắt nguyên tố ghi trên nhãn; ví dụ sulfat sắt 200 mg = 40 mg Fe",
+      "lieu": "4–6 mg Fe/kg/ngày, giữ 40 mg Fe/ngày (8,6 kg ≈ 4,7 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chia 1–2 lần/ngày như lượt trước (số lần: người soạn chọn)",
+      "so_ngay": "Đủ 6–8 tuần tính từ lượt 1; kê tiếp 4 tuần",
+      "ghi_chu": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2. Phân đen khi uống sắt: mục 5."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "50 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với sắt",
+      "so_ngay": "Theo thời gian uống sắt",
+      "ghi_chu": "QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2 (50–100 mg/ngày)."
+     },
+     {
+      "thuoc": "Acenocoumarol (thuốc sẵn có của bé)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi tối",
+      "so_ngay": "Theo bệnh viện nhi",
+      "ghi_chu": "Không đổi; tương tác, INR đích nhũ nhi: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Phân đen của bé hiện nay do thuốc sắt, không phải chảy máu: xét nghiệm tìm máu trong phân âm tính, huyết sắc tố lên 108 g/L, INR 2,3, bé bú khỏe (QĐ 3312/2015, Thiếu máu thiếu sắt mục 5). Không cần bỏ thuốc sắt, không bỏ thuốc kháng đông.",
+     "Sắt phải uống đủ 6–8 tuần dù da đã hồng, huyết sắc tố cần 2–3 tháng mới phục hồi hẳn (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2, 5). Giun đã hết trứng, không cần cho thêm thuốc giun.",
+     "Giữ phòng tái nhiễm: giày dép, bạt dày, không để bé nằm bò trên đất trần ngoài rẫy, rửa tay xà phòng, nhà tiêu hợp vệ sinh (QĐ 3312/2015, mục 4).",
+     "Mẹ đang cho con bú: chưa nên tự mua thuốc giun, hỏi cán bộ y tế trước (tài liệu có hai cách nói khác nhau, xem phiếu). Khi bé tròn 12 tháng, hỏi cán bộ y tế xã về lịch tẩy giun cho bé.",
+     "Giữ giấy có số điện thoại; sau khi hết sắt thì đo Hb ở trạm y tế xã rồi gọi báo. Đưa bé đến ngay nếu lả đi, nôn ra máu, phân đen hắc ín kèm da nhợt nhanh, chảy máu mũi hoặc chân răng không cầm, bầm tím (danh sách của người soạn, không trích từ tài liệu đã tải). INR đi theo hẹn của bệnh viện nhi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Vy uống đủ pyrantel 3 ngày, ra thêm giun nhỏ, bú và ăn khá hơn; bác sĩ giải thích phân đen là do sắt nên chị Tuyết cho sắt tiếp đủ 8 tuần, giữ acenocoumarol theo bệnh viện nhi. Sau 6 tuần đo Hb ở trạm y tế xã 115 g/L, bé nằm võng đi dép khi ra rẫy, chị Na đã tẩy giun nên bà không còn sợ. Quyết định đúng. Mốc Hb 115 g/L là số của ca, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Ở xa 50 km: xử trí trọn gói (thuốc giun đủ 3 ngày, sắt nhiều tuần, giấy dặn có số điện thoại, trạm y tế xã đo Hb) vì không trông vào tái khám.",
+  "Không có CT: ca này không cần CT. Mẹ giấu nỗi sợ lây cho chị Na và bà, hỏi 'lo nhất điều gì' mới lộ."
+ ],
+ "bai_hoc_bien": [
+  "Nhũ nhi không khai được triệu chứng: toàn bộ lịch sử lấy từ mẹ, sổ theo dõi cân nặng và nơi bé nằm ban ngày mới là dữ kiện then chốt; cân nặng quyết định liều (pyrantel 11 mg/kg, 8,2 kg → 3/4 viên).",
+  "Không điển hình: giun móc ở nhũ nhi chưa đi vẫn xảy ra khi bé nằm trên đất và chân trần (QĐ 3312/2015, mục 3.1c). Phân sẫm và xanh xao dễ bị gán cho thuốc kháng đông mới đổi, trong khi INR, soi phân và hỏi chảy máu nơi khác mới phân định.",
+  "Dưới 12 tháng thì albendazol/mebendazol chống chỉ định trong hướng dẫn tẩy giun cộng đồng (QĐ 6437/2018 mục II.1b); đơn cá thể dùng pyrantel pamoat (QĐ 3312/2015 mục 3.1c: giun móc 3 ngày liên tiếp).",
+  "Điều trị nguyên nhân mất máu cùng với bổ sung sắt (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2). Cho sắt mà không tẩy giun thì thiếu máu tái diễn.",
+  "Đỡ hoàn toàn khi tái khám vẫn có việc phải làm: báo trước phân đen do sắt (mục 5) nên mẹ không hoảng bỏ thuốc; chứng minh không chảy máu bằng FIT, Hb, INR; sắt đủ 6–8 tuần dù Hb đã lên; INR vẫn theo bệnh viện nhi; nguy cơ nhiễm lại do nguồn lây vẫn còn.",
+  "Ở xa: giấy dặn có số điện thoại và mốc cụ thể thay vì 'về theo dõi'; chỗ tài liệu không đủ ghi 'hỏi bệnh viện nhi'."
+ ],
+ "diem_nho": [
+  "Giun móc: lây qua da khi ấu trùng xuyên da từ đất nhiễm phân; trẻ vùng làm rẫy đi chân đất; xanh xao thiếu máu, ngứa nơi ấu trùng vào, Loeffler, đôi khi phân đen; soi phân thấy trứng, có thể có hồng cầu; Hb giảm, bạch cầu ưa acid tăng, sắt huyết thanh giảm (QĐ 3312/2015, mục 2, 3.1c; QĐ 6437/2018, mục I).",
+  "Dưới 12 tháng: pyrantel pamoat 11 mg/kg/ngày × 3 ngày liên tiếp cho giun móc; từ 12 tháng thêm mebendazol, albendazol (QĐ 3312/2015, mục 3.1c).",
+  "Thiếu máu trẻ 6 tháng–2 tuổi khi Hb < 105 g/L; ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16%, RDW > 14,5% (QĐ 3312/2015, Thiếu máu thiếu sắt mục 1, 3.2); WHO 2024 Bảng 3: 95–104 g/L là nhẹ.",
+  "Sắt 4–6 mg Fe/kg/ngày trong 6–8 tuần, vitamin C 50–100 mg/ngày; phân đen khi uống sắt; Hb phục hồi 2–3 tháng; truyền máu khi Hb khoảng 40 g/L, cần nâng nhanh hoặc suy tim (QĐ 3312/2015, Thiếu máu thiếu sắt mục 4.2, 5)."
+ ],
+ "nguon": [
+  "BYT – QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Nhiễm ký sinh trùng đường ruột ở trẻ em mục 1, 2, 3.1a–c, 4 (tr. 335–337 và mục phòng ngừa); Thiếu máu thiếu sắt mục 1–6 (tr. 539–542); Đau bụng chức năng mục 3.1–3.2, Bảng 1–2 (tr. 344–345)",
+  "BYT – QĐ 6437/QĐ-BYT 2018, Hướng dẫn tẩy giun đường ruột tại cộng đồng – TL-0173 (kho cũ tltk-10000-ca, 02 Tiêu hóa) – ĐÃ ĐỌC: toàn văn mục I–VI",
+  "WHO 2017, Preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – ĐÃ ĐỌC: phần Recommendations (ba khuyến cáo và chú thích), Definitions (women of reproductive age), Rationale (dung nạp tốt ở trẻ trên 12 tháng)",
+  "WHO 2024, Guideline on haemoglobin cutoffs to define anaemia in individuals and populations – TL-0244 – ĐÃ ĐỌC: Bảng 3 (trẻ 6–23 tháng: ≥ 105 g/L không thiếu máu; 95–104 nhẹ; 70–94 vừa; < 70 nặng)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-04): viết theo QĐ 3312/2015 (TL-0037), QĐ 6437/2018 (TL-0173), WHO 2017 STH (TL-0248), WHO 2024 Hb (TL-0244). Dùng lại hướng đã chốt trong sổ mâu thuẫn mục TH-1307 (dưới 12 tháng dùng pyrantel, albendazol/mebendazol chấm h; ngưỡng Hb 105 g/L).",
+  "Thiếu tài liệu: kháng đông nhũ nhi (liều, INR đích, tương tác với pyrantel và sắt, dấu hiệu chảy máu), cách dùng và tác dụng phụ pyrantel, số lần chia liều sắt và liều quên, giá trị FIT ở nhũ nhi, tiêu chí khỏi giun móc và mốc soi phân kiểm tra, tiêu chí ngưng sắt theo ferritin, lịch tái khám, tiêu chuẩn nhập viện/chuyển tuyến cho giun móc, điều trị cả nhà cho giun móc, thời gian trứng thành ấu trùng gây nhiễm, thuốc giun cho mẹ cho con bú trong điều trị cá thể. Cách làm tròn 3/4 viên, mốc tái khám 3 tuần và 4 tuần, danh sách dấu hiệu đến ngay là của người soạn (đã ghi).",
+  "Ký hiệu so sánh của chỉ định truyền máu trong bản chữ QĐ 3312/2015 (Thiếu máu thiếu sắt mục 4.2) bị mất; ca ghi 'khoảng 40 g/L'.",
+  "Mâu thuẫn mới ghi trong sổ: mẹ đang cho con bú và thuốc giun (QĐ 6437/2018 so với WHO 2017); tần suất tẩy giun định kỳ (QĐ 3312/2015 so với QĐ 6437/2018, WHO 2017)."
+ ]
+}
