@@ -1,0 +1,811 @@
+{
+ "ma_ca": "NH-0412",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn từ kho tài liệu (2026-11-04)",
+ "benh": "NH_tieu_chay_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngừng (ngừng bán hàng, ngừng thuốc dở dang)"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Ngọc Bích",
+  "tuoi": 0.75,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.4,
+  "chieu_cao": 71,
+  "xung_ho": "Bé gái 9 tháng, chưa nói được, quấy khóc khi bị khám. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'cháu' hoặc 'bé Bích'.",
+  "tinh_cach": "Mẹ 28 tuổi, bán rau ở chợ, nhanh nhẹn, hay cười gượng và nói 'không sao đâu bác sĩ', rất sợ tốn kém. Hai hôm nay chợ ế, trong túi chỉ có khoảng 150 nghìn đồng. Mẹ sợ bác sĩ giữ bé lại hay cho nhập viện vì sạp rau phải nghỉ. Được giải thích cụ thể và biết chi phí thì hợp tác.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ nói ngay 'em chỉ mang chừng này, xét nghiệm gì thì bác sĩ nói trước em còn tính'; khi bị chỉ định xét nghiệm hay giữ bé lại, mẹ từ chối hoặc hỏi giá rồi xin về. Mẹ cũng khai giảm số lần đi ngoài, nôn, tiểu ít vì sợ bị giữ lại; chỉ kể đúng khi bác sĩ hỏi đếm số tã, từng lần nôn, giờ tiểu gần nhất, hoặc hỏi nhẹ nhàng mẹ lo điều gì nhất.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 28 tuổi, đi cùng. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ quấy khóc khi bị khám.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#efc29c",
+   "toc": "#2a1b14",
+   "kieuToc": "tre",
+   "ao": "#f6c9a0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "quay",
+   "nguoiNha": {
+    "da": "#e6b186",
+    "toc": "#2e1e16",
+    "kieuToc": "dai",
+    "ao": "#8fb3a3",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Con đi ngoài lỏng mấy ngày, xin thuốc cầm",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 9 tháng, 8,4 kg, mẹ đưa đến vì đi ngoài lỏng mấy ngày, xin thuốc cầm. Nhiệt độ 37,2 °C, mạch 124 l/p, nhịp thở 38 l/p, SpO₂ 98%. Bé quấy khóc, bám mẹ.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho bé về ngay với vài gói oresol mà không uống thử, không đánh giá lại là bỏ bước kiểm chứng: bé đang mất nước còn mẹ khai giảm số lần đi ngoài, nôn, tiểu ít. Nguyên tắc là uống ORS 4 giờ đầu tại phòng khám để theo dõi và dạy mẹ; chỉ khi mẹ thật sự không ở lại được mới cho về, và khi đó phải dạy pha, cho đủ gói để bù nốt và dùng thêm 2 ngày (WHO 2013, mục 5.2.2, tr. 132–133). Giữa chợ, mẹ vừa bán vừa cho uống nhỏ giọt, bé uống thiếu; ba ngày sau có thể quay lại mắt trũng sâu, li bì, phải truyền dịch theo Phác đồ C (QĐ 3312/2015, mục 3.1c và 4.1).",
+    "nhap_vien": "Nhập viện truyền dịch ngay là quá tay: bé uống được, tỉnh, chưa nôn tái diễn, chưa thất bại bù dịch uống nên chưa có tiêu chí nhập viện (QĐ 3312/2015, mục 5.1, tr. 323–324); mất nước vừa điều trị bằng oresol (WHO 2013, mục 5.2.2). Mẹ chỉ có khoảng 150 nghìn đồng, sạp nghỉ vài ngày, có thể xin về giữa chừng.",
+    "chuyen_tuyen": "Chuyển tuyến trên để 'tìm nguyên nhân' là không cần: không phân máu, không dấu nhiễm khuẩn nặng hay lồng ruột, và phần lớn tiêu chảy cấp không cần xét nghiệm (QĐ 3312/2015, mục 3.2; WHO 2013, mục 5.1, tr. 126). Mẹ tốn tiền xe, mất cả ngày bán, bé có thể bị lấy máu, truyền dịch không cần, rồi cũng về với oresol, kẽm và cho ăn."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đi ngoài mấy bữa nay, chắc bốn năm lần thôi, bác sĩ cho em xin thuốc cầm cho nó hết rồi em còn về bán, hôm nay ế quá. Em không mang nhiều tiền đâu, xét nghiệm gì thì bác sĩ nói trước nha.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài lỏng mấy ngày. Mẹ xin thuốc cầm cho nhanh hết để còn về bán rau, nói chỉ 'bốn năm lần mỗi ngày'. Mẹ không nói bé còn nôn hay tiểu ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời mẹ giảm nhẹ triệu chứng)"
+    },
+    {
+     "id": "khoi_dau",
+     "noi_dung": "Ngày thứ nhất bé chỉ đi phân sệt hơn thường 2 lần, vẫn bú chơi. Ngày thứ hai phân lỏng 4–5 lần, tăng dần. Hôm nay là ngày thứ tư. Không sốt lúc nào, không ho, không sổ mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát và diễn tiến: khởi phát từ từ, bao nhiêu ngày"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Đếm lại số tã phân trong 24 giờ qua thì khoảng 9 lần: phân vàng, nhiều nước, mùi chua, thấm ra ngoài tã. Mẹ khai 'bốn năm lần' là con số của ngày đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần và tính chất phân (hỏi theo số tã)",
+     "dieu_kien_lo": "Hỏi 'đi nhiều không' mẹ nói 'bốn năm lần thôi'. Chỉ nói đúng khi bác sĩ hỏi đếm số tã phân từ tối qua đến giờ, hoặc hỏi từng lần."
+    },
+    {
+     "id": "khong_mau",
+     "noi_dung": "Phân không có máu, không nhầy, không đen, không trắng đục như nước vo gạo. Bé không rặn đỏ mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân máu (lỵ), phân nước vo gạo (tả)"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Hôm qua bé nôn 3 lần sau cữ bú, ra sữa và thức ăn, không có nước vàng xanh, không nôn vọt. Sáng nay nôn 1 lần. Bé vẫn uống lại được sau khi nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: số lần, màu, còn hay hết",
+     "dieu_kien_lo": "Hỏi chung 'có nôn không' mẹ nói 'ọc chút thôi'. Chỉ kể 3 lần khi hỏi cụ thể hôm qua nôn mấy lần, ra gì, có nước vàng xanh không."
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Hai mươi bốn giờ qua bé chỉ ướt 3 tã, nước tiểu vàng sậm. Lần tiểu gần nhất lúc 7 giờ sáng, cách đây gần 6 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số tã ướt, giờ tiểu gần nhất, màu nước tiểu",
+     "dieu_kien_lo": "Mẹ nói 'vẫn tiểu bình thường'. Chỉ nói số tã ướt và giờ tiểu gần nhất khi hỏi đếm tã ướt trong ngày."
+    },
+    {
+     "id": "uong",
+     "noi_dung": "Bé khát: khi đưa thìa nước hoặc bình sữa thì vồ lấy, uống nhanh, đòi thêm. Bú mẹ buổi tối, sữa công thức 3 cữ/ngày vẫn bú hết. Ăn bột giảm còn nửa chén.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú/uống: háo hức hay kém hay bình thường",
+     "dieu_kien_lo": "Hỏi bé bú uống ra sao, khi đưa nước có vồ lấy hay quay đi."
+    },
+    {
+     "id": "tri_giac",
+     "noi_dung": "Bé quấy khóc nhiều hơn thường, thức đêm. Ban ngày vẫn nhận ra mẹ, đòi bế, dễ đánh thức. Khóc ít nước mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tri giác, quấy khóc hay li bì"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Chiều ngày thứ ba, mẹ ra nhà thuốc đầu chợ mua gói bột amoxicillin (không toa) vì 'phân hôi, sợ nhiễm trùng ruột'. Nhà thuốc bảo cho nửa gói mỗi lần, ngày 2 lần. Bé đã uống 3 lần, không rõ hàm lượng gói. Mẹ không nghĩ đó là thuốc cần kể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng, kể cả kháng sinh tự mua",
+     "dieu_kien_lo": "Hỏi chung 'bé uống thuốc gì' mẹ nói 'chưa cho thuốc gì'. Chỉ kể khi hỏi có tự mua thuốc ở nhà thuốc không, hoặc có cho thuốc kháng sinh, thuốc đi ngoài không."
+    },
+    {
+     "id": "an",
+     "noi_dung": "Bé bú mẹ buổi tối và sữa công thức quen dùng từ tháng thứ 4, pha đúng theo hộp. Ăn dặm bột 2 bữa/ngày. Hai hôm nay mẹ cho thêm nước lọc đun sôi để nguội. Không đổi sữa, không pha loãng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ nuôi dưỡng trước và trong bệnh"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Nhà gần chợ, dùng nước máy đun sôi. Không ăn hải sản sống, không đến vùng có dịch tả. Con hàng xóm 1 tuổi cũng đi ngoài lỏng tuần này. Bé chưa uống vaccine rotavirus.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: nước uống, người xung quanh bị tiêu chảy, vùng dịch tả"
+    },
+    {
+     "id": "khong_con",
+     "noi_dung": "Bé không khóc thét từng cơn rồi nín, không xanh tái, không phân máu hay nhầy, không ho, không ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khóc từng cơn kèm xanh tái (lồng ruột), dấu nhiễm khuẩn khác"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, 3,1 kg. Cân gần nhất khi tiêm chủng tuần trước ghi 8,9 kg. Không dị ứng, không bệnh nền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cân nặng trước bệnh, tiền sử",
+     "dieu_kien_lo": "Cần hỏi cân nặng gần nhất hoặc xin xem sổ tiêm chủng."
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Trong túi mẹ chỉ có khoảng 150 nghìn đồng, hai hôm nay chợ ế. Mẹ sợ xét nghiệm tốn kém và sợ bị giữ lại, nghỉ bán thì mất thu nhập cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chi trả và nỗi lo mất thu nhập",
+     "dieu_kien_lo": "Lộ khi bác sĩ chỉ định xét nghiệm, đề nghị giữ bé lại, hoặc hỏi mẹ có khó khăn gì khi làm theo."
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ thật sự đến vì đêm qua bé quấy suốt, tiểu ít, mắt nhìn lõm hơn; mẹ lo bé 'khô người' nhưng nói giảm đi vì sợ bác sĩ bắt nằm viện, nghỉ bán.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật sự đến khám",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng, không trách: 'chị đang lo điều gì nhất cho bé?', và nói rõ chưa chắc phải nằm viện."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,4 kg (trước bệnh 8,9 kg, giảm khoảng 5,6%). Bé tỉnh, quấy khóc, vật vã nhẹ, bám mẹ. Khi đưa thìa nước thì vồ lấy, uống nhanh và đòi thêm. Khóc ít nước mắt, môi hơi khô, tay chân ấm.",
+     "k": 1,
+     "hien": "Cân 8,4 kg. Bé quấy, vật vã nhẹ; đưa thìa nước thì vồ lấy, uống nhanh."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 8,4 kg, dài 71 cm. Không phù mu bàn chân, không teo cơ, không có dấu suy dinh dưỡng nặng.",
+     "k": 1,
+     "hien": "Cân 8,4 kg, dài 71 cm. Không phù."
+    },
+    "dau_mat_co": {
+     "a": "Mắt trũng hơn thường (mẹ xác nhận khi được hỏi), thóp trước hơi lõm, niêm mạc miệng khô, ít nước mắt. Cổ mềm, không có hạch to.",
+     "k": 1,
+     "hien": "Mắt trũng, thóp hơi lõm, miệng khô."
+    },
+    "da": {
+     "a": "Nếp véo da bụng trở lại chậm (chậm, chưa tới mức rất chậm). Hăm đỏ quanh hậu môn và mông, vài chỗ trợt nông, không mụn nước, không ban, không mề đay.",
+     "k": 1,
+     "hien": "Nếp véo da bụng: trở lại chậm. Hăm đỏ quanh hậu môn."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay rõ, đều, hơi nhanh. Chi ấm, mao mạch hồi sắc dưới 2 giây, không nổi vân tím.",
+     "k": 1,
+     "hien": "Mạch quay rõ. Chi ấm, mao mạch hồi sắc dưới 2 giây."
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi, không T3 T4.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh nhẹ, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p, thở êm, không co lõm ngực, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran. Không thở sâu.",
+     "k": 1,
+     "hien": "Nhịp thở 38 l/p, không co lõm ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, không co cứng. Sờ khắp bụng bé không khóc thêm, không đau khu trú. Nhu động ruột tăng. Gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Sờ bụng bé không khóc thêm."
+    },
+    "truc_trang": {
+     "a": "Hậu môn hăm đỏ, không nứt, không sa trực tràng. Găng sạch, không máu, không nhầy. Phân mới trong tã: vàng, nhiều nước, mùi chua, không máu.",
+     "k": 1,
+     "hien": "Hăm đỏ quanh hậu môn. Găng sạch, không máu."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, họng không đỏ, màng nhĩ hai bên xám hồng, không phồng.",
+     "k": 0,
+     "hien": "Mũi sạch; họng không đỏ; màng nhĩ không phồng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 9,8 G/L · Neutrophil 38% · Lympho 52% · Hb 112 g/L · TC 340 G/L",
+     "n": "Không cần: công thức máu và CRP chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312/2015, mục 3.2, tr. 320; ESPGHAN/ESPID 2014, mục 7.2, tr. 138). Bé không sốt. Mẹ chỉ có 150 nghìn đồng: 50 nghìn này không đổi xử trí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "n": "Không cần, lý do như công thức máu (QĐ 3312/2015, mục 3.2; ESPGHAN/ESPID 2014, mục 7.2, tr. 138). Bé không sốt."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 137 · K 3,9 · Cl 104 mmol/L",
+     "n": "Không cần ở phòng khám: điện giải đồ khi điều trị tại bệnh viện và mất nước, hoặc lâm sàng không tương xứng (QĐ 3312/2015, mục 3.2, tr. 320; ESPGHAN/ESPID 2014, mục 7.4, tr. 138). Bé mất nước vừa, lâm sàng khớp, uống được.",
+     "bang": {
+      "na": 137,
+      "k": 3.9,
+      "cl": 104
+     }
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Soi phân: không hồng cầu, vài bạch cầu, không thấy ký sinh trùng.",
+     "n": "Không cần ở tiêu chảy phân nước không máu (WHO 2013, mục 5.1, tr. 126: no need for routine stool microscopy or culture in non-bloody diarrhoea)."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Cấy phân: kết quả sau 2–3 ngày, không mọc vi khuẩn gây bệnh.",
+     "n": "Không cần: cấy phân khi phân máu, nghi tả, nặng kéo dài, suy giảm miễn dịch (QĐ 3312/2015, mục 3.2, tr. 320). Kết quả chậm hơn cả đợt bệnh, tốn 150 nghìn đồng."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Siêu âm bụng: quai ruột chứa dịch, nhu động tăng; không hình bia; không dịch tự do.",
+     "n": "Không cần: bé không khóc thét từng cơn, không phân máu nhầy, không khối, bụng mềm (ba dấu gợi ý lồng ruột: WHO 2013, Table 11, tr. 127). Hình ảnh siêu âm lồng ruột: không có trong tài liệu đã tải (TL-0056 chưa có toàn văn)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ngày thứ 4, nghĩ viêm dạ dày ruột do virus, có mất nước (vừa/nhẹ); đã tự dùng amoxicillin không có chỉ định",
+     "ok": 1,
+     "n": "Phân lỏng ≥ 3 lần/24 giờ, khởi đầu cấp tính, không quá 14 ngày là tiêu chảy cấp (QĐ 3312/2015, Tiêu chảy cấp, mục 1, tr. 316); thường dưới 7 ngày (ESPGHAN/ESPID 2014, mục 3, tr. 133). Rotavirus là tác nhân chính ở trẻ dưới 2 tuổi, lứa tuổi cao nhất 6–18 tháng (QĐ 3312, mục 2, tr. 316–317); hàng xóm cùng bệnh, không sốt, không máu: nghĩ virus, chẩn đoán lâm sàng. Có mất nước vì ≥ 2 dấu: mắt trũng, uống háo hức, nếp véo chậm (QĐ 3312, mục 3.1c, tr. 318; WHO 2013, Table 12, tr. 128); sụt 5–10% là mất nước vừa/nhẹ (QĐ 3312, mục 3.1b), bé sụt khoảng 5,6%. Tiêu chảy bắt đầu trước amoxicillin nên chưa gọi là tiêu chảy do kháng sinh; mức ảnh hưởng của amoxicillin lên đợt này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tả",
+     "n": "Không dịch tễ (nước máy đun sôi, không hải sản sống, không vùng dịch), phân vàng chua chứ không nước vo gạo; tả toàn phát tiêu chảy rất nhiều lần, khối lượng lớn, nôn dễ (QĐ 4178/2007, mục II.1a, II.1c). Bé khởi phát từ từ, ngày thứ 4 mới mất nước vừa. Chỉ cần kháng sinh khi nghi tả mất nước nặng (QĐ 3312, mục 4.2, tr. 322)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Nghĩ vì bé 9 tháng, tuổi hay gặp; QĐ 3312/2015, mục 2, tr. 317 xếp lồng ruột vào nguyên nhân ngoại khoa, QĐ 4068, ô [1] nêu phải phân biệt. Bé không khóc thét từng cơn kèm xanh tái, không phân máu nhầy, không khối, bụng mềm (WHO 2013, Table 11, tr. 127). Mô tả lâm sàng và hình ảnh đầy đủ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / nhiễm khuẩn nặng ngoài ruột",
+     "n": "Bé không sốt, tỉnh, khóc có tiếng, nhịp thở 38 l/p, mao mạch hồi sắc dưới 2 giây: không dấu nào ở cột đỏ bảng đèn giao thông (NICE NG143 2021, Table 2, tr. 13–15; bảng cho trẻ sốt nên chỉ là mốc tham chiếu; khô miệng, tiểu ít ở cột vàng ở đây do mất nước). QĐ 3312, mục 3.1b, tr. 318: khám toàn diện tìm nhiễm khuẩn kèm theo."
+    },
+    {
+     "t": "Tiêu chảy phân máu (lỵ) hoặc nhiễm trùng ruột cần kháng sinh",
+     "n": "Phân không máu, không nhầy, găng sạch, không sốt. Kháng sinh chỉ cho phân máu, nghi tả nặng, Giardia, nhiễm trùng khác (QĐ 3312, mục 4.2, tr. 322; WHO 2024, khuyến cáo 1a và 2). Không cần soi cấy phân khi không máu (WHO 2013, mục 5.1, tr. 126)."
+    },
+    {
+     "t": "Mất nước nặng",
+     "n": "Loại: bé chỉ có mắt trũng, uống háo hức, nếp véo chậm; không li bì, uống được, nếp véo không rất chậm (QĐ 3312, mục 3.1c; WHO 2013, Table 12, tr. 128). Dùng Phác đồ B, không phải C (QĐ 3312, mục 4.1)."
+    },
+    {
+     "t": "Nhiễm trùng ngoài ruột gây tiêu chảy (viêm tai giữa, nhiễm khuẩn tiểu, hô hấp)",
+     "n": "QĐ 3312, mục 2.1b: nhiễm khuẩn hô hấp, tiểu là nguyên nhân ngoài ruột. Bé không sốt, không ho, phổi sạch, màng nhĩ bình thường, tri giác tốt. Nghĩ lại nếu xuất hiện sốt."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại có mất nước; Phác đồ B tại phòng khám: ORS áp lực thẩm thấu thấp 75 ml/kg ≈ 630 ml trong 4 giờ, từng thìa mỗi 1–2 phút; tiếp tục bú mẹ; nôn thì chờ 10 phút rồi cho chậm hơn",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 4.1 Phác đồ B (tr. 321: cân × 75 ml trong 4 giờ, từng thìa mỗi 1–2 phút ở trẻ nhỏ); WHO 2013, Chart 14, tr. 135 (6 – < 10 kg: 400–700 ml, hoặc cân × 75; nôn chờ 10 phút; tiếp tục bú mẹ); WHO 2024, khuyến cáo 5. QĐ 4068, ô [4] chỉ có hàng 5–7,9 kg (400–600 ml): bé 8,4 kg không nằm trong bảng nên dùng 75 ml/kg."
+    },
+    {
+     "t": "Giữ bé theo dõi 4 giờ ở phòng khám (mẹ tự cho uống, được dạy), đánh giá lại sau 4 giờ hoặc sớm hơn nếu nôn nhiều; hết mất nước thì Phác đồ A và cho về; còn thì lặp B; nặng lên thì Phác đồ C",
+     "v": "c",
+     "n": "WHO 2013, mục 5.2.2, tr. 132–133; QĐ 3312, mục 4.1, tr. 321. QĐ 3312, mục 5.1: cha mẹ không đảm bảo cho uống đủ tại nhà là tiêu chí theo dõi tại cơ sở y tế; mẹ khai giảm triệu chứng nên theo dõi tại chỗ có lý do."
+    },
+    {
+     "t": "Kẽm 1 lần/ngày, 10–14 ngày: 5 mg hoặc 20 mg (bé ≥ 6 tháng), hòa viên vào ít nước hoặc ORS",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, liều kẽm): WHO 2024, khuyến cáo 3a và 3c, Remarks (5 mg; 20 mg nôn nhiều hơn, RR 2,20; dạng gluconat ít nôn hơn) hoặc QĐ 3312, mục 4.3, tr. 323 và WHO 2013, Chart 15, tr. 138 (≥ 6 tháng 20 mg × 10–14 ngày). 5 mg thận trọng hơn khi còn nôn."
+    },
+    {
+     "t": "Không dùng kháng sinh; ngưng amoxicillin mẹ tự mua, không cần uống cho đủ",
+     "v": "c",
+     "n": "WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2, tr. 322; ESPGHAN/ESPID 2014, mục 9.4, tr. 147. Ngưng kháng sinh tự mua giữa chừng: không có tài liệu đã tải nói riêng, suy từ chỉ định (xem NH-0412_mau_thuan.md)."
+    },
+    {
+     "t": "Cho ăn: tiếp tục bú mẹ; sữa công thức quen dùng, pha đúng, không pha loãng, không sữa không lactose; sau bù nước ăn dặm ít nhất 6 bữa/ngày; hết tiêu chảy thêm 1 bữa/ngày",
+     "v": "c",
+     "n": "QĐ 3312, mục 4.4, tr. 323; WHO 2013, mục 5.2.2, tr. 134; ESPGHAN/ESPID 2014, mục 9.2.2, tr. 143."
+    },
+    {
+     "t": "Không làm xét nghiệm; giải thích cho mẹ vì sao xét nghiệm nào cũng không đổi cách điều trị",
+     "v": "c",
+     "n": "QĐ 3312, mục 3.2, tr. 320; WHO 2013, mục 5.1, tr. 126; ESPGHAN/ESPID 2014, mục 7, 7.4, tr. 138 (ước lượng mất nước bằng xét nghiệm kém chính xác; chỉ bicarbonat bình thường làm giảm khả năng mất nước > 5%)."
+    },
+    {
+     "t": "Men vi sinh: không dùng thường quy, hoặc một chủng có bằng chứng (L. rhamnosus GG hoặc S. boulardii) 5–7 ngày; không dùng diosmectite cùng racecadotril",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, probiotic): WHO 2024, khuyến cáo 4a (không dùng ở tiêu chảy phân nước) hoặc QĐ 3312, mục 4.5, tr. 323 (S. boulardii 200–250 mg/ngày × 5–6 ngày) và ESPGHAN 2023, Summary (LGG ≥ 10^10 CFU/ngày hoặc S. boulardii 250–750 mg/ngày, 5–7 ngày; yếu). QĐ 4068, ô [7B]: không phối hợp racecadotril và diosmectite."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài mẹ xin 'cho nó hết'",
+     "v": "w",
+     "n": "QĐ 3312, mục 4.5, tr. 323; WHO 2013, chương 5 phần mở đầu, tr. 126 (không cho trẻ nhỏ, có tác dụng phụ nguy hiểm, có khi tử vong); ESPGHAN/ESPID 2014, mục 9.3.2, tr. 144."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay hoặc nhập viện khi chưa thử ORS",
+     "v": "w",
+     "n": "Mất nước vừa điều trị bằng ORS (QĐ 3312, mục 4.1; WHO 2013, mục 5.2.2). QĐ 4068, mục 1.2 chấp nhận truyền tĩnh mạch khi có mất nước kèm nôn và uống không đủ: bé uống được sau nôn, chưa thất bại ORS."
+    },
+    {
+     "t": "Hỏi mẹ đang lo điều gì nhất, ghi nhận nỗi sợ nằm viện và mất thu nhập, nói rõ mục tiêu là cho về nếu uống đủ",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày hoặc sau 5 ngày nếu chưa đỡ; quay lại ngay khi uống kém, nôn nhiều, sốt, phân máu, li bì, ít tiểu",
+     "v": "c",
+     "n": "Hai mốc đều đúng (sổ mâu thuẫn, lịch tái khám): QĐ 4068, ô [8] (1–2 ngày) hoặc WHO 2013, mục 5.2.3, tr. 137 và QĐ 3312, Tiêu chảy kéo dài, mục 10, tr. 329 (5 ngày). Ca chọn 2 ngày vì bé vừa mất nước và mẹ giấu triệu chứng. Dấu quay lại ngay: QĐ 3312, mục 5.1–5.2, tr. 324; WHO 2013, tr. 137."
+    },
+    {
+     "t": "Chăm sóc vùng hăm: rửa nhẹ, lau khô, thay tã thường xuyên",
+     "v": "a",
+     "n": "Chăm sóc hăm tã: không có trong tài liệu đã tải. Chọn a vì là thực hành thông thường."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 4, nghĩ viêm dạ dày ruột do virus, chẩn đoán lâm sàng",
+     "Có mất nước (vừa/nhẹ): sụt khoảng 5,6% (8,9 xuống 8,4 kg), mắt trũng, uống háo hức, nếp véo chậm, tiểu 3 tã/24 giờ",
+     "Đã tự dùng amoxicillin không có chỉ định (3 liều); tiêu chảy bắt đầu trước kháng sinh",
+     "Loại trừ: tả, lồng ruột, nhiễm khuẩn huyết (và lỵ, mất nước nặng, nhiễm trùng ngoài ruột)",
+     "Yếu tố nhiễu: mẹ khai giảm triệu chứng vì sợ bị giữ lại; không đủ tiền xét nghiệm; cơ sở không có CT"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) hỏi cụ thể theo số tã phân và tã ướt, số lần và nội dung nôn, khát, tri giác, thuốc đã dùng (kể cả tự mua), cách nuôi, cân gần nhất; (2) khám cân, mắt, thóp, miệng, nếp véo, mạch, mao mạch, bụng, hậu môn; (3) không xét nghiệm vì không đổi quyết định; (4) phân loại mất nước, chọn phác đồ; (5) theo dõi 4 giờ rồi quyết định (QĐ 3312/2015, mục 3.1a–c, tr. 317–318; WHO 2013, mục 5.1, tr. 126, Table 12, tr. 128).",
+     "Mẹ nói 'bốn năm lần', 'ọc chút', 'vẫn tiểu': hỏi chung chỉ được câu giảm nhẹ. Đếm tã, hỏi từng lần nôn, giờ tiểu gần nhất thì ra 9 lần phân, 3 lần nôn, 3 tã ướt (QĐ 3312/2015, mục 3.1a, tr. 317: hỏi số lần tiêu chảy, số lần nôn); hỏi nhẹ nhàng mẹ lo gì thì mẹ nói nỗi sợ nằm viện.",
+     "Mất nước vừa vì ≥ 2 dấu: mắt trũng, uống háo hức, nếp véo chậm; không đủ 2 dấu của mất nước nặng (QĐ 3312, mục 3.1c; WHO 2013, Table 12).",
+     "Không xét nghiệm nào đổi xử trí: không máu nên không cấy phân; không sốt nên không cần công thức máu, CRP; mất nước vừa khớp lâm sàng nên không cần điện giải (QĐ 3312, mục 3.2; ESPGHAN/ESPID 2014, mục 7.2, 7.4).",
+     "Loại trừ tả, lồng ruột, nhiễm khuẩn huyết bằng dịch tễ, phân, ba dấu lồng ruột, bảng đèn giao thông (WHO 2013, Table 11; QĐ 4178/2007; NICE NG143 2021, Table 2). Không có CT: không cần; nghi lồng ruột thì siêu âm hoặc chuyển tuyến."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ B: ORS 75 ml/kg × 8,4 kg ≈ 630 ml trong 4 giờ, từng thìa, tiếp tục bú mẹ; đánh giá lại sau 4 giờ: hết mất nước thì Phác đồ A (50–100 ml sau mỗi lần đi ngoài, mang về 500 ml/ngày), còn thì lặp B, nặng lên thì C (QĐ 3312, mục 4.1, tr. 321; WHO 2013, Chart 14, tr. 135; WHO 2024, khuyến cáo 5). Cho về khi không còn dấu mất nước, uống bình thường, mẹ nói lại cách pha và cho uống.",
+     "Kẽm 10–14 ngày: 5 mg (WHO 2024, khuyến cáo 3c) hoặc 20 mg (QĐ 3312, mục 4.3; WHO 2013, Chart 15). Không kháng sinh, ngưng amoxicillin (WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2). Không thuốc cầm (QĐ 3312, mục 4.5).",
+     "Cho ăn lại sau bù nước, không pha loãng sữa, không sữa không lactose thường quy (QĐ 3312, mục 4.4; ESPGHAN/ESPID 2014, mục 9.2.2).",
+     "Không nhập viện: không có tiêu chí (QĐ 3312, mục 5.1). Tái khám ngay khi ăn uống kém, sốt cao, tiêu chảy tăng, nôn nhiều, mệt (QĐ 3312, mục 5.1, tr. 324). Hẹn 2 ngày (QĐ 4068, ô [8]) hoặc 5 ngày (WHO 2013, tr. 137)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS (oresol) áp lực thẩm thấu thấp",
+      "ham_luong": "Gói pha theo hướng dẫn trên gói (thể tích pha mỗi gói không có trong tài liệu đã tải)",
+      "lieu": "Tại phòng khám: 75 ml/kg ≈ 630 ml trong 4 giờ. Sau đó (Phác đồ A): 50–100 ml sau mỗi lần đi ngoài, mang về khoảng 500 ml/ngày",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Từng thìa mỗi 1–2 phút trong 4 giờ đầu; sau đó sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312/2015, mục 4.1, tr. 320–321; WHO 2013, Chart 14–15, tr. 135 và 138 (cho mẹ 2 gói mang về). Nôn thì dừng 10 phút rồi cho chậm hơn."
+     },
+     {
+      "thuoc": "Kẽm (kẽm gluconat hoặc chế phẩm tương đương)",
+      "ham_luong": "Quy ra 5 mg hoặc 20 mg kẽm nguyên tố/ngày (cách quy đổi theo chế phẩm không có trong tài liệu đã tải)",
+      "lieu": "5 mg/ngày (WHO 2024) hoặc 20 mg/ngày (QĐ 3312, WHO 2013, bé ≥ 6 tháng)",
+      "duong": "Uống, hòa viên vào ít nước, sữa vắt hoặc ORS",
+      "thoi_diem": "1 lần/ngày, cùng giờ, bắt đầu khi bé đã uống ORS ổn",
+      "so_ngay": "10–14 ngày",
+      "ghi_chu": "Cả hai liều đều đúng, 5 mg thận trọng hơn khi bé còn nôn (WHO 2024, khuyến cáo 3a–3c, Remarks). Cho đủ liệu trình dù hết tiêu chảy (WHO 2013, tr. 137)."
+     },
+     {
+      "thuoc": "Men vi sinh (không bắt buộc, chọn một loại)",
+      "ham_luong": "L. rhamnosus GG ≥ 10^10 CFU/ngày, hoặc S. boulardii 250–750 mg/ngày (ESPGHAN 2023), hoặc S. boulardii 200–250 mg/ngày (QĐ 3312)",
+      "lieu": "Theo hàm lượng trên",
+      "duong": "Uống",
+      "thoi_diem": "1 lần hoặc chia 2 lần/ngày",
+      "so_ngay": "5–7 ngày (ESPGHAN 2023); 5–6 ngày (QĐ 3312)",
+      "ghi_chu": "WHO 2024, khuyến cáo 4a đề nghị không dùng; không dùng cùng diosmectite hoặc racecadotril. Mẹ hạn chế tiền nên không bắt buộc."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay bé ở lại 4 giờ uống oresol từng thìa (75 ml/kg; QĐ 3312, mục 4.1); chị tự cho uống và tôi xem. Bé uống tốt thì cho về, không phải nằm viện. Chỉ cần oresol và kẽm, không xét nghiệm.",
+     "Ngưng hẳn amoxicillin, không dùng thuốc cầm đi ngoài; kháng sinh không giúp tiêu chảy này (WHO 2024, khuyến cáo 1a).",
+     "Về nhà: sau mỗi lần đi ngoài cho uống thêm 50–100 ml oresol từng thìa; bú mẹ nhiều; sữa công thức pha đúng hộp, không pha loãng; bột ít nhất 6 bữa nhỏ/ngày (QĐ 3312, mục 4.1, 4.4; WHO 2013, tr. 134).",
+     "Kẽm mỗi ngày một lần, đủ 10–14 ngày, hòa vào ít nước (WHO 2013, Chart 15, tr. 138).",
+     "Quay lại ngay nếu bé uống kém, nôn nhiều, sốt, phân có máu, li bì, khóc từng cơn rồi nín và xanh tái, hơn 6 giờ không tiểu (QĐ 3312, mục 5.1–5.2; WHO 2013, tr. 137). Hẹn tái khám sau 2 ngày, chậm nhất ngày thứ 5 nếu chưa đỡ.",
+     "Chị cứ nói với tôi khi lo hay khó khăn: không phải ai cũng phải nằm viện, nói đúng giúp bé và chị đỡ tốn kém."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Tái khám sau 2 ngày (ngày bệnh thứ 6). Mẹ báo 'đỡ nhiều rồi' nhưng phân vẫn lỏng. Cân 8,6 kg. Nhiệt độ 36,9 °C, mạch 112 l/p, nhịp thở 34 l/p, SpO₂ 99%. Bé tỉnh, nhìn quanh, chơi với tã.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện vì 'chưa dứt hẳn' là quá tay: bé tỉnh, chơi, uống bình thường, tăng 200 g, không mất nước nên không có tiêu chí nhập viện (QĐ 3312/2015, mục 5.1, tr. 323–324) và đủ điều kiện ngoại trú (QĐ 4068, ô [8]). Mẹ nghỉ bán thêm vài ngày, mất thu nhập, bé không khỏi nhanh hơn và mẹ càng tin 'không nói thật mới không bị giữ'.",
+    "chuyen_tuyen": "Chuyển tuyến tìm nguyên nhân tiêu chảy 'kéo dài' ở ngày thứ 6 là không cần: tiêu chảy cấp thường dưới 7 ngày và không quá 14 ngày (ESPGHAN/ESPID 2014, mục 3, tr. 133), kéo dài chỉ khi ≥ 14 ngày (WHO 2013, mục 5.3, tr. 137). Bé đang đỡ. Mẹ tốn tiền xe và xét nghiệm không đổi xử trí (QĐ 3312/2015, mục 3.2)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỡ nhiều rồi mà sao vẫn chưa thành khuôn, em lo quá. Hay em đổi sang sữa không lactose, hay bác sĩ cho thuốc mạnh hơn cho nó dứt hẳn? Em còn phải đi bán, muốn nó hết cho nhanh.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đỡ nhiều nhưng phân chưa thành khuôn. Mẹ muốn đổi sữa không lactose hoặc thuốc mạnh hơn để hết nhanh, vì còn phải đi bán.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: đỡ một phần"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hai mươi bốn giờ qua bé có 5–6 lần phân sệt lỏng màu vàng, không bọt nước chảy ra ngoài tã, không máu, không nhầy. Hai ngày trước khoảng 9 lần. Đêm qua đi 3 lần. Mẹ khai ban đầu 'còn 2–3 lần thôi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần và tính chất phân so với lượt 1",
+     "dieu_kien_lo": "Mẹ nói 'đỡ nhiều, 2–3 lần'. Chỉ nói 5–6 lần khi hỏi đếm số tã phân trong 24 giờ qua."
+    },
+    {
+     "id": "non_tieu",
+     "noi_dung": "Từ khi uống oresol bé không nôn thêm, chỉ ọc 1 lần hôm qua. Ướt 5 tã trong 24 giờ, nước tiểu vàng nhạt. Không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, số tã ướt, sốt (dấu hiệu thất bại điều trị)"
+    },
+    {
+     "id": "uong",
+     "noi_dung": "Bé bú mẹ nhiều, sữa công thức bú hết bình, không còn vồ nước. Ăn bột ba phần tư chén. Mẹ đã dùng 3 trong 4 gói oresol, bé uống dễ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, uống, ăn dặm, lượng oresol đã dùng"
+    },
+    {
+     "id": "kem",
+     "noi_dung": "Mẹ cho kẽm đều mỗi ngày một lần, hòa vào ít nước, bé không nôn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ kẽm"
+    },
+    {
+     "id": "amox",
+     "noi_dung": "Mẹ nói đã ngưng amoxicillin sau lần khám trước. Thật ra hôm kia và hôm qua thấy phân còn lỏng, mẹ cho nốt hai liều từ gói còn lại vì sợ 'uống dở lờn thuốc'. Mẹ không kể vì ngại bị trách và ngại ngừng thuốc dở dang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: amoxicillin có còn cho không",
+     "dieu_kien_lo": "Hỏi chung 'có cho thuốc gì không' mẹ nói 'không'. Chỉ kể khi hỏi từng loại: 'gói kháng sinh còn lại chị để đâu, những ngày qua có cho không?', hoặc xin xem túi thuốc."
+    },
+    {
+     "id": "sua",
+     "noi_dung": "Từ hôm qua mẹ pha sữa công thức loãng bớt khoảng một phần ba 'cho đỡ nặng bụng', và cho ăn cháo loãng thay bột. Mẹ nghe người quen nói 'ruột chưa lành thì phải cho ăn nhẹ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cách pha sữa và thức ăn trong 2 ngày qua",
+     "dieu_kien_lo": "Hỏi chung 'sữa pha đúng hộp không' mẹ nói 'đúng'. Chỉ lộ khi hỏi mẹ pha mấy muỗng bột với bao nhiêu nước hoặc xin mẹ nói lại cách pha."
+    },
+    {
+     "id": "bat_thuong",
+     "noi_dung": "Không khóc thét từng cơn, không xanh tái, không phân máu, không sốt, không ho, không nổi ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm: máu trong phân, sốt, khóc từng cơn"
+    },
+    {
+     "id": "lo",
+     "noi_dung": "Mẹ lo bé còn tiêu chảy thì không đi bán được, không muốn làm xét nghiệm. Mẹ giấu amoxicillin vì ngại bị yêu cầu ngưng.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Nỗi lo thật của mẹ",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi nhẹ nhàng, không trách, về điều mẹ lo nhất lúc này."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,6 kg (tăng 200 g so với lần trước, trước bệnh 8,9 kg). Bé tỉnh, cười, chơi với tã, uống bình thường, không vồ nước. Môi hồng, tay chân ấm.",
+     "k": 1,
+     "hien": "Cân 8,6 kg. Bé tỉnh, cười, chơi. Uống bình thường."
+    },
+    "dau_mat_co": {
+     "a": "Mắt không trũng, thóp trước phẳng, niêm mạc miệng ẩm, khóc có nước mắt.",
+     "k": 1,
+     "hien": "Mắt không trũng, thóp phẳng, miệng ẩm."
+    },
+    "da": {
+     "a": "Nếp véo da bụng trở lại nhanh. Hăm quanh hậu môn đỡ, còn đỏ nhẹ, không trợt, không mụn nước.",
+     "k": 1,
+     "hien": "Nếp véo da bụng: trở lại nhanh. Hăm đỏ nhẹ quanh hậu môn."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay rõ, đều. Chi ấm, mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Mạch quay rõ. Chi ấm, mao mạch hồi sắc dưới 2 giây."
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh nhẹ, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, thở êm, rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p, không co lõm ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, sờ không khóc thêm, nhu động ruột tăng nhẹ. Gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Sờ bụng bé không khóc thêm."
+    },
+    "truc_trang": {
+     "a": "Hậu môn đỏ nhẹ, không nứt. Găng sạch, không máu, không nhầy. Phân mới trong tã sệt lỏng, vàng, không máu.",
+     "k": 1,
+     "hien": "Hăm đỏ nhẹ quanh hậu môn. Găng sạch, không máu."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, họng không đỏ, màng nhĩ xám hồng, không phồng.",
+     "k": 0,
+     "hien": "Mũi sạch; họng không đỏ; màng nhĩ không phồng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,9 G/L · Neutrophil 34% · Lympho 56% · Hb 114 g/L · TC 330 G/L",
+     "n": "Không cần: bé không sốt, đang hồi phục, không nghi nhiễm khuẩn kèm theo (QĐ 3312/2015, mục 3.2, tr. 320). Mẹ còn ít tiền."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 138 · K 4,0 · Cl 104 mmol/L",
+     "n": "Không cần: bé không mất nước, không điều trị ở bệnh viện (QĐ 3312/2015, mục 3.2; ESPGHAN/ESPID 2014, mục 7.4, tr. 138).",
+     "bang": {
+      "na": 138,
+      "k": 4.0,
+      "cl": 104
+     }
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Soi phân: không hồng cầu, không bạch cầu, không ký sinh trùng.",
+     "n": "Không cần ở tiêu chảy không máu (WHO 2013, mục 5.1, tr. 126)."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Cấy phân: không mọc vi khuẩn gây bệnh.",
+     "n": "Không cần: cấy phân khi phân máu, nghi tả, nặng và kéo dài, suy giảm miễn dịch (QĐ 3312/2015, mục 3.2, tr. 320)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ngày thứ 6, đỡ một phần, đã hết mất nước; hồi phục chậm bình thường, chưa phải tiêu chảy kéo dài; mẹ cho amoxicillin nối và pha loãng sữa",
+     "ok": 1,
+     "n": "Số lần giảm từ 9 xuống 5–6/24 giờ, tiểu 5 tã, tăng 200 g, uống bình thường, không máu, không sốt: đang hồi phục. Tiêu chảy cấp thường dưới 7 ngày, không quá 14 ngày (ESPGHAN/ESPID 2014, mục 3, tr. 133; QĐ 3312/2015, mục 1, tr. 316), nên ngày thứ 6 là bình thường. Hết mất nước (QĐ 3312, mục 3.1c; WHO 2013, Table 12)."
+    },
+    {
+     "t": "Thất bại điều trị / tiêu chảy kéo dài",
+     "n": "Thất bại điều trị cần mất nước tái phát, nôn tái diễn, thất bại ORS, phân máu hoặc sốt (QĐ 3312, mục 5.1–5.2, tr. 323–324; WHO 2013, tr. 133, 137): bé không có. Tiêu chảy kéo dài khi ≥ 14 ngày (QĐ 3312, Tiêu chảy kéo dài, mục 1, tr. 325; WHO 2013, mục 5.3): bé mới ngày thứ 6."
+    },
+    {
+     "t": "Tiêu chảy do kháng sinh (amoxicillin mẹ cho nối)",
+     "n": "Đợt tiêu chảy bắt đầu trước amoxicillin. ESPGHAN/ESPID 2014, mục 9.4.2, tr. 150 định nghĩa tiêu chảy do kháng sinh cần loại nguyên nhân khác và C. difficile âm tính, cơ sở không làm được: ghi là yếu tố có thể làm chậm, không kết luận. Ngưng thuốc vì không có chỉ định (WHO 2024, khuyến cáo 1a)."
+    },
+    {
+     "t": "Bất dung nạp lactose thứ phát hoặc dị ứng đạm sữa bò",
+     "n": "Bé dùng cùng sữa công thức từ tháng thứ 4 không triệu chứng, không mề đay, không phân máu. Hai nhóm này là nguyên nhân tiêu chảy (QĐ 3312, Tiêu chảy cấp mục 2, tr. 316; Tiêu chảy kéo dài mục 2, tr. 325); sữa không lactose không dùng thường quy (QĐ 3312, mục 4.4; ESPGHAN/ESPID 2014, mục 9.2.2, tr. 143). Cân nhắc lại nếu đến ngày 14 chưa hết."
+    },
+    {
+     "t": "Mất nước tái phát hoặc nhiễm trùng ngoài ruột",
+     "n": "Loại: mắt không trũng, thóp phẳng, nếp véo nhanh, tiểu 5 tã, cân tăng; không sốt, phổi sạch, màng nhĩ bình thường (QĐ 3312, mục 2.1b và 3.1c)."
+    },
+    {
+     "t": "Tả, lồng ruột, nhiễm khuẩn huyết (nghĩ lại)",
+     "n": "Không dịch tễ, phân vàng không nước vo gạo, đang đỡ (QĐ 4178/2007, mục II.1); không khóc thét từng cơn, không phân máu nhầy, không khối ở bụng (WHO 2013, Table 11, tr. 127); không sốt, chơi cười (NICE NG143 2021, Table 2, tr. 13–15, mốc tham chiếu)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại lại: không mất nước, Phác đồ A: ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài, mang về khoảng 500 ml/ngày",
+     "v": "c",
+     "n": "QĐ 3312/2015, mục 3.1c (tr. 318) và 4.1 Phác đồ A (tr. 321); WHO 2013, Chart 15, tr. 138; WHO 2024, khuyến cáo 5."
+    },
+    {
+     "t": "Kết luận bé hồi phục chậm bình thường, không phải thất bại điều trị: số lần giảm, cân tăng, tiểu tốt, không máu, không sốt, không nôn",
+     "v": "c",
+     "n": "Tiêu chảy cấp thường dưới 7 ngày, không quá 14 ngày (ESPGHAN/ESPID 2014, mục 3, tr. 133). Dấu thất bại và quay lại ngay: QĐ 3312, mục 5.1–5.2; WHO 2013, tr. 133, 137. Mốc 'bao nhiêu lần/ngày là hồi phục' cho tiêu chảy cấp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dừng hẳn amoxicillin còn lại, không đổi sang kháng sinh khác",
+     "v": "c",
+     "n": "WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2, tr. 322; ESPGHAN/ESPID 2014, mục 9.4.3, tr. 150 (tiêu chảy phân nước không dùng kháng sinh). Ngưng kháng sinh tự mua: xem NH-0412_mau_thuan.md."
+    },
+    {
+     "t": "Tiếp tục kẽm đủ 10–14 ngày với liều đã chọn (5 mg hoặc 20 mg/ngày)",
+     "v": "c",
+     "n": "Hai liều đều đúng (sổ mâu thuẫn, liều kẽm): WHO 2024, khuyến cáo 3a–3c; QĐ 3312, mục 4.3, tr. 323; WHO 2013, tr. 137 (cho đủ liệu trình dù hết tiêu chảy)."
+    },
+    {
+     "t": "Nuôi dưỡng: sữa công thức pha đúng hộp, không pha loãng, không đổi sang sữa không lactose; bột ăn dặm ít nhất 6 bữa/ngày; hết tiêu chảy thêm 1 bữa/ngày",
+     "v": "c",
+     "n": "QĐ 3312, mục 4.4, tr. 323; WHO 2013, mục 5.2.2, tr. 134; ESPGHAN/ESPID 2014, mục 9.2.2, tr. 143."
+    },
+    {
+     "t": "Hỏi lại từng thuốc và cách pha sữa, nhận ra amoxicillin nối và sữa pha loãng mà không trách mẹ",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn. QĐ 3312, mục 3.1a, tr. 317: hỏi chế độ nuôi dưỡng và các thuốc đã dùng."
+    },
+    {
+     "t": "Đổi sang sữa không lactose để 'dứt' tiêu chảy",
+     "v": "w",
+     "n": "QĐ 3312, mục 4.4; ESPGHAN/ESPID 2014, mục 9.2.2. Chỉ chuyển sữa khi tiêu chảy kéo dài ≥ 14 ngày (QĐ 3312, Tiêu chảy kéo dài, mục 6.2, tr. 328)."
+    },
+    {
+     "t": "Kê kháng sinh 'mạnh hơn' hoặc thuốc cầm đi ngoài",
+     "v": "w",
+     "n": "WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2 và 4.5; WHO 2013, tr. 126; ESPGHAN/ESPID 2014, mục 9.3.2, tr. 144."
+    },
+    {
+     "t": "Không làm lại xét nghiệm",
+     "v": "c",
+     "n": "QĐ 3312, mục 3.2, tr. 320; WHO 2013, mục 5.1, tr. 126."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày hoặc sau 5 ngày nếu chưa hết; quay lại ngay khi có dấu hiệu nặng; đến ngày thứ 14 còn lỏng là tiêu chảy kéo dài",
+     "v": "c",
+     "n": "Hai mốc đều đúng (sổ mâu thuẫn, lịch tái khám): QĐ 4068, ô [8] (1–2 ngày) hoặc WHO 2013, mục 5.2.3, tr. 137 và QĐ 3312, Tiêu chảy kéo dài, mục 10, tr. 329 (5 ngày). Kéo dài ≥ 14 ngày: WHO 2013, mục 5.3, tr. 137; QĐ 3312, Tiêu chảy kéo dài, mục 1."
+    },
+    {
+     "t": "Chăm sóc hăm: rửa nhẹ, lau khô, thay tã thường xuyên",
+     "v": "a",
+     "n": "Chăm sóc hăm tã: không có trong tài liệu đã tải. Chọn a vì là thực hành thông thường."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 6, đang hồi phục chậm, đã hết mất nước (cân 8,6 kg)",
+     "Hồi phục chậm bình thường, chưa phải thất bại điều trị, chưa phải tiêu chảy kéo dài",
+     "Yếu tố làm chậm: pha loãng sữa, cháo loãng; amoxicillin mẹ cho nối",
+     "Loại trừ: thất bại điều trị, tiêu chảy kéo dài, bất dung nạp lactose/dị ứng đạm sữa bò, tả, lồng ruột, nhiễm khuẩn huyết",
+     "Yếu tố nhiễu: mẹ khai giảm bớt lần đi ngoài và giấu amoxicillin; muốn đổi sữa, thuốc mạnh hơn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi đếm tã phân và tã ướt, nôn, sốt; hỏi từng thuốc và cách pha sữa; khám cân, mắt, thóp, nếp véo, bụng, hậu môn; không xét nghiệm; kết luận hồi phục; xử trí.",
+     "Phân biệt hồi phục chậm với thất bại điều trị: thất bại là mất nước tái phát, nôn tái diễn, thất bại ORS, sốt hoặc phân máu (QĐ 3312, mục 5.1–5.2; WHO 2013, tr. 133, 137). Bé không có dấu nào, cân tăng, tiểu tốt nên chỉ là chậm. Tiêu chảy cấp thường dưới 7 ngày, tới 14 ngày vẫn là cấp (ESPGHAN/ESPID 2014, mục 3, tr. 133).",
+     "Hai yếu tố làm chậm có thể sửa: pha loãng sữa và cháo loãng (QĐ 3312, mục 4.4), amoxicillin nối (không có chỉ định). Mức làm chậm cụ thể: không có trong tài liệu đã tải.",
+     "Không đổi sữa: sữa không lactose không dùng thường quy (QĐ 3312, mục 4.4; ESPGHAN/ESPID 2014, mục 9.2.2). Xem lại bất dung nạp lactose/dị ứng đạm sữa bò ở ngày 14 (QĐ 3312, Tiêu chảy kéo dài, mục 1–2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ A, kẽm đủ 10–14 ngày, không kháng sinh, ngưng amoxicillin, không thuốc cầm (QĐ 3312, mục 4.1–4.5; WHO 2024, khuyến cáo 1a, 3, 5).",
+     "Nuôi dưỡng đúng: sữa pha đúng, bột đủ bữa, thêm bữa sau khi hết tiêu chảy (QĐ 3312, mục 4.4; WHO 2013, tr. 134).",
+     "Không nhập viện, không chuyển tuyến: không có tiêu chí (QĐ 3312, mục 5.1), đủ điều kiện ngoại trú (QĐ 4068, ô [8]). Hẹn 2 ngày (QĐ 4068) hoặc 5 ngày (WHO 2013, tr. 137); ngày 14 còn lỏng cần khám lại và xét nghiệm (QĐ 3312, Tiêu chảy kéo dài, mục 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS (oresol) áp lực thẩm thấu thấp",
+      "ham_luong": "Gói pha theo hướng dẫn trên gói",
+      "lieu": "50–100 ml sau mỗi lần đi ngoài; khoảng 500 ml/ngày",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312/2015, mục 4.1, tr. 321; WHO 2013, Chart 15, tr. 138 (hai gói mang về)."
+     },
+     {
+      "thuoc": "Kẽm (kẽm gluconat hoặc chế phẩm tương đương)",
+      "ham_luong": "Quy ra 5 mg hoặc 20 mg kẽm nguyên tố/ngày",
+      "lieu": "5 mg/ngày (WHO 2024) hoặc 20 mg/ngày (QĐ 3312, WHO 2013)",
+      "duong": "Uống, hòa vào ít nước",
+      "thoi_diem": "1 lần/ngày, cùng giờ",
+      "so_ngay": "Đủ 10–14 ngày kể từ ngày bắt đầu",
+      "ghi_chu": "WHO 2024, khuyến cáo 3a–3c; QĐ 3312, mục 4.3. Cho đủ liệu trình dù hết tiêu chảy (WHO 2013, tr. 137)."
+     }
+    ],
+    "dan_do": [
+     "Bé đang đỡ thật: ít lần hơn, tiểu tốt, tăng cân. Ngày thứ 6 phân chưa thành khuôn vẫn bình thường; tiêu chảy cấp có thể đến 14 ngày (ESPGHAN/ESPID 2014, mục 3). Chưa cần thuốc mạnh hơn.",
+     "Ngưng hẳn amoxicillin còn lại; không thêm kháng sinh hay thuốc cầm (WHO 2024, khuyến cáo 1a).",
+     "Sữa pha đúng hộp, không pha loãng; bột đặc vừa, ít nhất 6 bữa nhỏ/ngày, bú mẹ nhiều; không đổi sang sữa không lactose; hết tiêu chảy thêm 1 bữa/ngày (QĐ 3312, mục 4.4; WHO 2013, tr. 134).",
+     "Tiếp tục oresol sau mỗi lần đi ngoài và kẽm đủ 10–14 ngày (QĐ 3312, mục 4.1, 4.3).",
+     "Quay lại ngay nếu bé uống kém, nôn nhiều, sốt, phân có máu, li bì, hơn 6 giờ không tiểu (QĐ 3312, mục 5.1–5.2). Khám lại sau 2 ngày, muộn nhất ngày thứ 5 nếu chưa hết; đến ngày thứ 14 còn lỏng cần khám lại.",
+     "Chị cứ nói thật chuyện thuốc và sữa, tôi không trách; nói đúng giúp bé khỏi nhanh và chị tốn ít hơn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 4 giờ uống oresol từng thìa ở phòng khám, bé hết dấu mất nước, mẹ tự cho uống và nói lại cách pha. Hai ngày sau: cân 8,6 kg, còn 5–6 lần phân sệt lỏng, hết mất nước. Bé đi ngoài thành khuôn vào ngày thứ 10, chậm hơn mức dưới 7 ngày thường gặp nhưng trong 14 ngày (ESPGHAN/ESPID 2014, mục 3, tr. 133); mốc ngày 10 là thiết kế của ca, không có trong tài liệu đã tải. Cân 8,9 kg khi khám lại. Bài học: hồi phục chậm bình thường là số lần giảm dần, bé uống, tiểu, tăng cân; lo khi mất nước tái phát, phân máu, sốt, nôn nhiều hoặc đến ngày 14 (WHO 2013, mục 5.3, tr. 137; QĐ 3312, mục 5.1–5.2).",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: mẹ chỉ có khoảng 150 nghìn đồng. Xét nghiệm nào cũng không đổi xử trí nên bỏ hết; tiền dành cho oresol, kẽm, thức ăn. Bác sĩ nói trước, rõ lý do.",
+  "Mẹ giấu triệu chứng vì ngại ngừng bán hàng và ngừng thuốc dở dang: lượt 1 khai giảm số lần, nôn, tiểu; lượt 2 giấu amoxicillin nối và sữa pha loãng. Chỉ lộ khi hỏi đếm tã, từng thuốc, cách pha.",
+  "Amoxicillin tự mua không có chỉ định; tiêu chảy bắt đầu trước kháng sinh nên không phải tiêu chảy do kháng sinh.",
+  "Không có CT: không cần cho tiêu chảy; nghi lồng ruột thì siêu âm hoặc chuyển tuyến."
+ ],
+ "bai_hoc_bien": [
+  "Mẹ nói 'bốn năm lần', 'ọc chút': hỏi đếm số tã phân, tã ướt, giờ tiểu gần nhất, từng lần nôn; hỏi nhẹ nhàng 'chị đang lo điều gì nhất?'.",
+  "Mất nước vừa: Phác đồ B 75 ml/kg trong 4 giờ ngay tại phòng khám, mẹ làm cùng, rồi đánh giá lại (QĐ 3312, mục 4.1; WHO 2013, mục 5.2.2).",
+  "Không đủ tiền xét nghiệm: chọn xét nghiệm đổi được quyết định; ở tiêu chảy phân nước không máu hầu như không có (QĐ 3312, mục 3.2; ESPGHAN/ESPID 2014, mục 7).",
+  "Kháng sinh tự mua: hỏi từng loại, từng ngày; không cần uống cho đủ vì không có chỉ định (WHO 2024, khuyến cáo 1a).",
+  "Đỡ một phần: số lần giảm, tăng cân, tiểu tốt là hồi phục chậm bình thường; lo khi mất nước tái phát, phân máu, sốt, nôn nhiều hoặc đến ngày 14.",
+  "Chế độ ăn là điều trị: không pha loãng sữa, không đổi sữa không lactose thường quy (QĐ 3312, mục 4.4)."
+ ],
+ "diem_nho": [
+  "Có mất nước khi ≥ 2 dấu: vật vã, mắt trũng, uống háo hức, nếp véo chậm; nặng khi ≥ 2 dấu: li bì, mắt trũng, không uống được, nếp véo rất chậm (QĐ 3312, mục 3.1c; WHO 2013, Table 12).",
+  "Phác đồ B: ORS 75 ml × cân nặng trong 4 giờ, từng thìa mỗi 1–2 phút ở trẻ nhỏ, đánh giá lại sau 4 giờ (QĐ 3312, mục 4.1).",
+  "Kẽm 10–14 ngày: 5 mg/ngày (WHO 2024, khuyến cáo 3c) hoặc 20 mg/ngày cho trẻ ≥ 6 tháng (QĐ 3312, mục 4.3).",
+  "Không kháng sinh cho tiêu chảy phân nước; không thuốc cầm đi ngoài (WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2, 4.5).",
+  "Ba dấu gợi ý lồng ruột ở nhũ nhi: phân máu nhầy, khối ở bụng, cơn khóc kèm xanh tái (WHO 2013, Table 11, tr. 127)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp (mục 1, 2, 3.1a–d, 3.2, 4.1 Phác đồ A/B/C, 4.2, 4.3, 4.4, 4.5, 5.1, 5.2, tr. 316–324); Tiêu chảy kéo dài (mục 1, 2, 4, 6.2, 10, tr. 325–329)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: Chương 5 Diarrhoea, phần mở đầu và mục 5.1 (tr. 126), Table 11 (tr. 127), Table 12 (tr. 128), mục 5.2.2 (tr. 132–134), 5.2.3 và 5.3 (tr. 134–137), Chart 14 (tr. 135), Chart 15 (tr. 138)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 2 và khuyến cáo 1a, 2, 3a–3c (Remarks, Evidence-to-decision), 4a, 5",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr. 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 3 (tr. 133), 7, 7.1, 7.2, 7.4 (tr. 138), 9.2.2 (tr. 143), 9.3.1–9.3.3 (tr. 144–145), 9.4, 9.4.2, 9.4.3 (tr. 147–150)",
+  "ESPGHAN 2023 – Probiotics for the management of pediatric gastrointestinal disorders: position paper of the ESPGHAN Special Interest Group. J Pediatr Gastroenterol Nutr. 2023;76(2):232-247 – TL-0258 – ĐÃ ĐỌC: Summary of recommendations (Acute Gastroenteritis)",
+  "QĐ 4178 – Bộ Y tế, QĐ 4178/QĐ-BYT 2007, Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a, II.1c",
+  "NICE NG143 2021 – Fever in under 5s: assessment and initial management – TL-0262 – ĐÃ ĐỌC: Table 2 (traffic light), tr. 13–15 (dùng làm mốc tham chiếu, bảng viết cho trẻ sốt)",
+  "QĐ 4068/QĐ-BYT – Quy trình chuyên môn điều trị tiêu chảy cấp ở trẻ em (kho cũ tltk-10000-ca; phiên bản 1.0, năm chưa xác định) – ĐÃ ĐỌC: ô [1], [4], [6], [7B], [8], mục 1.2",
+  "Không có trong tài liệu đã tải: thể tích pha mỗi gói ORS; quy đổi kẽm theo chế phẩm; chăm sóc hăm tã; ảnh hưởng của amoxicillin tự dùng; ngưng kháng sinh tự mua giữa chừng; tiêu chuẩn siêu âm lồng ruột (TL-0056 chưa có toàn văn); mốc hết tiêu chảy ngày thứ 10 (thiết kế của ca)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-11-04, viết: Sonnet. Bản 1 (soạn NH-0412).",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp, Tiêu chảy kéo dài), TL-0250 (chương 5), TL-0245 (Table 2, Remarks 3, 4), TL-0268 (mục 3, 7, 9.2–9.4), TL-0258 (Summary), TL-0176 (mục II), TL-0262 (Table 2), QĐ 4068 (kho cũ). Không đề xuất mục danh mục mới.",
+  "Thiết kế tự quyết: lượt 1 ngày bệnh thứ 4, có mất nước, ket_luan = theo_doi (Phác đồ B 4 giờ tại phòng khám rồi về Phác đồ A); lượt 2 ngày thứ 6, đỡ một phần, ket_luan = ve_hen; mốc hết bệnh ngày thứ 10 là thiết kế.",
+  "Mâu thuẫn nguồn ghi cả hai cách: liều kẽm, probiotic, lịch tái khám (theo sổ mâu thuẫn). Đề xuất mục mới: xem NH-0412_mau_thuan.md."
+ ]
+}
