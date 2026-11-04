@@ -1,0 +1,802 @@
+{
+ "ma_ca": "NH-0839",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_soi",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sởi",
+  "chan_doan_phai_loai_tru": [
+   "Rubella",
+   "Kawasaki",
+   "Sốt xuất huyết"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Trần Ngọc Diệp",
+  "tuoi": 11,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 34,
+  "chieu_cao": 142,
+  "xung_ho": "Em 11 tuổi, tự xưng 'em', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hơi ngại, hay nói 'dạ không sao đâu ạ' khi được hỏi có mệt không. Đã tự khai được triệu chứng của mình. Mẹ xưng 'em', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Diệp ngoan, ít nói, sợ làm mẹ tốn tiền nên giấu bớt mệt. Mẹ là chị Hạnh, 36 tuổi, bán rau ở chợ, hiền, lo lắng, tính toán từng đồng: mỗi ngày nghỉ bán là mất thu nhập, chồng làm thợ hồ xa nhà, tháng này chưa gửi tiền về.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ chỉ mang 350.000 đồng (gồm cả tiền khám). Nghe giá xét nghiệm thì chùn ngay, nói 'để lần sau', 'bác sĩ cứ cho thuốc, nhìn bé là biết bệnh gì rồi'. Mẹ chỉ chịu làm xét nghiệm khi bác sĩ nói rõ xét nghiệm nào đổi được cách chữa và xét nghiệm nào bỏ được; bị bắt làm cả loạt thì mẹ từ chối tất cả và bỏ về. Mẹ không tự kể chuyện em họ ở quê bị sốt phát ban, chỉ nói khi được hỏi về người quanh bé hoặc chuyến về quê.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 36 tuổi, đi cùng. Hỏi triệu chứng của chính bé thì Diệp trả lời (nguoi_noi = benh_nhan); chuyện tiền bạc, chuyến đi quê, sổ tiêm chủng, người nhà thì mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e9bd96",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#7fb0d6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dca983",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#c9826b",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Em Diệp, 11 tuổi, tái khám theo hẹn của trạm y tế vì sốt nhẹ và ho 4 ngày chưa hết",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm. Xét nghiệm, X-quang và các thăm dò khác vẫn làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 11 tuổi, 34 kg, mẹ đưa đến tái khám theo hẹn của trạm y tế vì sốt nhẹ và ho đã 4 ngày. Sinh hiệu: nhiệt 38,1 °C, mạch 92 l/p, huyết áp 100/65 mmHg, nhịp thở 20 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Diệp ngay hôm nay là quá tay: bé tỉnh, ăn uống được, SpO₂ 98%, không thở nhanh, chưa biến chứng nên QĐ 1019 mục 3.2.1 cho điều trị ngoại trú, và mục 3.3 dặn hạn chế chuyển cấp điều trị vì sởi lây mạnh. Chị Hạnh, vốn chỉ mang 350.000 đồng, phải bỏ quầy rau nhiều ngày và gánh viện phí; bé nằm khu cách ly nhưng vẫn phải đi qua các khu khám, tăng cơ hội lây cho trẻ nhỏ chưa tiêm đủ (mục 5.1.1). Điều cần là cách ly tại nhà và dặn dấu hiệu nặng.",
+    "chuyen_tuyen": "Chuyển Diệp lên bệnh viện nhi tuyến trên chỉ vì nghi sởi là chưa cần: phòng khám được điều trị ngoại trú sởi không biến chứng, chỉ chuyển khi có biến chứng, suy giảm miễn dịch hoặc bệnh nền nặng (QĐ 1019 mục 3.3), bé không có điều nào. Cả nhà phải đi xe xa, ngồi chờ cùng nhiều trẻ nhỏ trong lúc bé đang ở giai đoạn dễ lây (mục 5.1.1), mất thêm một ngày bán rau và tiền xe mà cách chữa không thay đổi."
+   },
+   "loi_mo": "Chào bác sĩ. Hôm kia em đưa cháu đi trạm y tế, người ta bảo viêm họng, sốt siêu vi, hẹn hai ngày chưa hết sốt thì quay lại. Cháu vẫn sốt nhẹ với ho, nay tái khám. Bác sĩ cho thuốc rẻ thôi, em mang không nhiều tiền.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "100/65",
+    "nhiet": "38,1",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt nhẹ 4 ngày, ho, mệt. Hôm kia mẹ đưa bé đến trạm y tế phường, được chẩn đoán 'viêm họng, sốt siêu vi', cho paracetamol và siro ho thảo dược, hẹn 2 ngày tái khám nếu chưa hết sốt. Hôm nay đến theo hẹn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt từ thứ Hai, 37,8 °C sáng rồi 38,0–38,3 °C buổi chiều, chưa bao giờ quá 38,5 °C. Uống paracetamol thì hạ, vài giờ sau lên lại. Không rét run, không co giật. Bé vẫn đi học được hai ngày đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sốt"
+    },
+    {
+     "id": "ho_mui",
+     "noi_dung": "Ho khan từng tràng ngắn, không khó thở, chảy nước mũi trong, hơi hắt hơi. Bé nghẹt mũi quanh năm nên mẹ nghĩ sổ mũi là chuyện cũ, không để ý.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, sổ mũi (viêm long đường hô hấp trên)"
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Mắt đỏ cả hai bên từ ngày thứ hai của bệnh, chảy nước mắt, không có ghèn mủ, hơi chói khi nhìn đèn. Bé tưởng do thức khuya xem điện thoại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm kết mạc"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Sáng nay mẹ thấy vài nốt đỏ nhỏ ở sau tai và trán, không ngứa. Mẹ nghĩ là 'nóng trong', do ngồi xe lạnh rồi ăn đồ cay. Chưa thấy ở tay chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ban: vị trí, thời điểm xuất hiện, ngứa"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Cả nhà về quê ngoại 10 ngày. Em họ Bin, 2 tuổi, ở quê sốt, ho, nổi ban sau những ngày cả nhà ở đó; hôm qua dì gọi điện nói đã đi khám, bác sĩ bảo 'nhiễm siêu vi'. Chưa ai nói là sởi. Cách đây 3 ngày Diệp mới bắt đầu sốt, tức khoảng 12 ngày sau lần gặp em họ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi về người quanh bé bị sốt phát ban, đi đâu trong 3 tuần qua, hoặc về chuyến về quê.",
+     "k": 1,
+     "y": "Tiếp xúc người sốt phát ban trong 7–21 ngày (QĐ 1019 mục 2.4.1)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Sổ tiêm chủng chỉ ghi một mũi sởi lúc 9 tháng; không thấy mũi nhắc lại về sau. Mẹ không nhớ vì sao bỏ sót.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tiêm chủng sởi"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé vẫn ăn uống được tuy giảm, không nôn, không khó thở, không tím tái, không co giật, không lơ mơ, không đau tai, không tiêu chảy, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng / biến chứng"
+    },
+    {
+     "id": "sxh",
+     "noi_dung": "Không đau nhức hốc mắt, không đau cơ khớp nhiều, không chảy máu cam hay chân răng, không đau bụng, không nôn, không ói ra máu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dấu hiệu gợi ý sốt xuất huyết (QĐ 2760 mục II.1)"
+    },
+    {
+     "id": "xe_dai",
+     "noi_dung": "Hôm về lại thành phố cả nhà đi xe khách giường nằm 11 tiếng, bé ngồi dậy ăn uống nhiều lần, máy lạnh rất lạnh. Hôm sau bé bắt đầu sốt nên mẹ cho là 'trúng gió, mệt xe'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát: đi xa ngồi lâu (mẹ gán cho mệt xe)"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Bé hay nghẹt mũi ban đêm; mẹ tự mua thuốc nhỏ mũi naphazolin 0,05%, nhỏ mỗi tối hai bên đã khoảng hai tháng, thiếu thì nghẹt mũi nặng hơn. Không dùng thuốc nào khác thường xuyên. Mấy ngày nay có uống paracetamol 250 mg khi sốt và siro ho thảo dược của trạm y tế.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng (thuốc nhỏ mũi kéo dài)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, hay nghẹt mũi, chưa nằm viện, chưa từng bị hen, chưa phát hiện dị ứng thuốc. Ăn uống bình thường, không gầy, không suy dinh dưỡng, chưa có kinh nguyệt. Không bệnh nền, không dùng thuốc ức chế miễn dịch.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, yếu tố nguy cơ nặng"
+    },
+    {
+     "id": "nguoi_quanh",
+     "noi_dung": "Ở nhà còn em trai Minh 5 tuổi ngủ chung phòng. Lớp 6 của bé có khoảng 40 học sinh, bé nghỉ học từ hôm kia. Mẹ chưa kiểm tra sổ tiêm của em trai.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người tiếp xúc ở nhà và ở lớp"
+    },
+    {
+     "id": "tien_bac",
+     "noi_dung": "Mẹ mang 350.000 đồng, đã tính cả tiền khám. Chồng làm thợ hồ xa nhà, tháng này chưa gửi tiền. Mỗi ngày nghỉ bán rau mất khoảng 150.000–200.000 đồng. Mẹ lo nếu xét nghiệm đắt thì không còn tiền mua thuốc, và sợ bác sĩ bắt nhập viện.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị xét nghiệm, báo giá, đề nghị nhập viện hoặc hỏi nhẹ nhàng về khả năng chi trả.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt, môi hồng, niêm mạc ẩm, khóc có nước mắt, không mất nước. Dáng người cân đối, không gầy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Vài chục dát sẩn đỏ nhạt 2–4 mm, ranh giới rõ, chưa hợp thành mảng, rải rác sau hai tai, trán, hai má và cổ; thưa ở ngực và lưng trên; tay chân chưa có. Căng da thì mờ đi. Không chấm xuất huyết, không bóng nước, không mụn mủ, không vảy. Lòng bàn tay, bàn chân không đỏ, không phù, không bong.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai bên đỏ nhẹ, chảy nước trong, không ghèn mủ, giác mạc trong, đồng tử đều, phản xạ ánh sáng tốt.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Mặt trong má hai bên, ngang răng hàm trên: khoảng 6–8 hạt trắng xám 0,5–1 mm có quầng đỏ, nhìn rõ dưới đèn pin. Môi không nứt, lưỡi không đỏ dâu tây, không loét miệng, không nấm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không giả mạc. Niêm mạc mũi phù nề, nhầy trong. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Vài hạch cổ và sau tai kích thước dưới 1 cm, di động, không đau. Không có hạch cổ từ 1,5 cm.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "nghiem_phap_day_that": {
+     "a": "Nghiệm pháp dây thắt âm tính: dưới 20 chấm xuất huyết/6,25 cm² sau 5 phút.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 3,9 G/L · Neutrophil 60% · Lympho 30% (1,17 G/L) · Hb 128 g/L · TC 142 G/L",
+     "bang": {
+      "wbc": 3.9,
+      "neu_pct": 60.0,
+      "neu": 2.34,
+      "lym_pct": 30.0,
+      "lym": 1.17,
+      "mono_pct": 8.0,
+      "mono": 0.31,
+      "eos_pct": 1.5,
+      "eos": 0.06,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.7,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 82.0,
+      "mch": 27.2,
+      "mchc": 336,
+      "rdw": 13.2,
+      "plt": 142
+     },
+     "n": "Rẻ nhất (50.000 đồng) và hợp ngân sách: giảm bạch cầu, giảm lympho, tiểu cầu giảm nhẹ đúng kiểu sởi (QĐ 1019 mục 2.2.1); không tăng bạch cầu ái toan (ban dị ứng sẽ tăng, mục 2.5). Tiểu cầu trên 100 G/L, Hct bình thường, dây thắt âm tính: không gợi ý SXHD giai đoạn sốt (QĐ 2760/2023 mục II.1.2). Không bắt buộc để chẩn đoán lâm sàng: xếp mức hữu ích."
+    },
+    "igm_soi": {
+     "v": "u",
+     "r": "IgM kháng sởi: âm tính (mẫu lấy ngày đầu phát ban, chưa tới ngày thứ 3). RT-PCR sởi dịch tỵ hầu: dương tính.",
+     "n": "400.000 đồng, vượt khả năng của mẹ nếu làm thêm gì khác: không đổi xử trí hôm nay vì ca bệnh lâm sàng đã đủ để điều trị (QĐ 1019 mục 2.4.2). Cần để xác định (mục 2.4.3) và khai báo. PCR chỉ định sớm trong 72 giờ đầu từ khi phát ban, IgM từ ngày thứ 3 (mục 2.2.3); mục 1 của cùng văn bản ghi 50–70% IgM dương tính ngay ngày đầu phát ban (xem NH-0839_mau_thuan.md). Nếu gia đình không đủ tiền: ghi ca bệnh lâm sàng, khai báo cơ quan y tế dự phòng để được hướng dẫn lấy mẫu (TT 54/2015, nguồn bổ sung tự tìm); ai chịu chi phí mẫu: không có trong tài liệu đã tải."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính · IgM dengue âm tính · IgG âm tính",
+     "n": "200.000 đồng. Chấp nhận nhưng không cần: sốt ngày 4 (NS1 làm được ngày 1–7, ưu tiên 5 ngày đầu, QĐ 2760 mục III.1.1) nhưng không đau hốc mắt, không xuất huyết, dây thắt âm, ban theo trình tự và có hạt Koplik; có thể bỏ nếu tiểu cầu còn trên 100 G/L khi theo dõi."
+    },
+    "crp": {
+     "n": "80.000 đồng, không đổi quyết định: QĐ 1019 mục 2.2.2 chỉ nêu xét nghiệm đáp ứng viêm (ferritin, LDH, interleukin) khi sởi có biến chứng nhiễm khuẩn nặng; CRP không được nêu."
+    },
+    "cxr": {
+     "n": "100.000 đồng, chưa cần: không ho đờm, không thở nhanh, không rút lõm, phổi sạch (QĐ 1019 mục 2.2.1 chỉ nêu X-quang khi nghi viêm phổi)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sởi (ca bệnh lâm sàng), thể nhẹ không điển hình, chưa biến chứng, ở trẻ 11 tuổi đã tiêm 1 mũi sởi",
+     "ok": 1,
+     "n": "Tiếp xúc ca nghi sởi 12 ngày trước (QĐ 1019 mục 2.4.1: tiếp xúc trong 7–21 ngày; mục 2.1.1: triệu chứng sau phơi nhiễm 10–14 ngày); ho, sổ mũi, viêm kết mạc, hạt Koplik và ban dát sẩn từ sau tai, trán xuống (mục 2.4.2); căng da thì mờ (mục 2.1.1). Thể nhẹ: sốt thấp, ban thưa, toàn trạng tốt, dễ bị bỏ qua (mục 2.1.2). Không tiêu chí biến chứng (mục 2.6.1: tỉnh, ăn được, không khó thở). Chẩn đoán xác định cần IgM hoặc PCR dương tính (mục 2.4.3)."
+    },
+    {
+     "t": "Rubella",
+     "n": "Ít nghĩ: QĐ 1019 mục 2.5 nêu rubella phát ban không có trình tự, ít khi có viêm long; bé có ho, sổ mũi, viêm kết mạc, ban xuất hiện sau tai rồi lan xuống và có hạt Koplik. Đặc điểm lâm sàng chi tiết khác của rubella (hạch sau tai, thời gian ban): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh Kawasaki",
+     "n": "Sốt mới 4 ngày, chưa đủ 5 ngày; chỉ có 2 trong 5 tiêu chuẩn chính (kết mạc đỏ không mủ, ban); môi không nứt, lưỡi không dâu tây, tay chân không đỏ phù, không hạch cổ từ 1,5 cm (AHA 2017 Bảng 3). Sởi nằm trong chẩn đoán phân biệt của Kawasaki và ngược lại (QĐ 1019 mục 2.5; AHA 2017). Nếu sốt kéo dài ≥ 5 ngày thì phải cân nhắc lại."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue giai đoạn sốt",
+     "n": "Sốt cao đột ngột, đau cơ khớp, nhức hố mắt, da xung huyết, dây thắt dương tính, chấm xuất huyết (QĐ 2760 mục II.1.1): bé không có; Hct bình thường, tiểu cầu còn trên 100 G/L (mục II.1.2) nên CTM không loại trừ hẳn, nhưng bệnh cảnh nghiêng về sởi. Sốt phát ban do virus nằm trong chẩn đoán phân biệt của SXHD (mục III.2): theo dõi tiểu cầu, dấu hiệu cảnh báo nếu sốt kéo dài."
+    },
+    {
+     "t": "Ban dị ứng / ban do thuốc (paracetamol, siro ho)",
+     "n": "Ban dị ứng kèm ngứa và tăng bạch cầu ái toan (QĐ 1019 mục 2.5); ban của bé không ngứa, bạch cầu ái toan 1,5%, và đã có sốt, ho, đỏ mắt trước khi dùng siro ho."
+    },
+    {
+     "t": "Viêm mũi họng do virus thông thường (chẩn đoán của trạm y tế)",
+     "n": "Chẩn đoán lúc chưa có ban. Hiện có ban lan theo trình tự, kết mạc đỏ và hạt Koplik thì không đủ để giải thích bằng cảm lạnh (QĐ 1019 mục 2.4.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán ca bệnh lâm sàng sởi, điều trị ngoại trú, cách ly tại nhà: phòng riêng, đeo khẩu trang, nghỉ học và không đến nơi công cộng đến ít nhất 4 ngày sau khi bắt đầu phát ban",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1: sởi không biến chứng có thể điều trị ngoại trú, cách ly tại nhà, nghỉ học 4 ngày sau phát ban; mục 3.3: phòng khám tư nhân khám và điều trị ngoại trú sởi không biến chứng; mục 5.1.1: hạn chế tiếp xúc đến ít nhất 4 ngày sau khi bắt đầu phát ban."
+    },
+    {
+     "t": "Vitamin A liều cao 200.000 IU uống, 2 liều cách nhau 24 giờ (liều 1 uống ngay tại phòng khám, liều 2 ngày mai)",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1, Bảng 1: trẻ ≥ 12 tháng 200.000 IU, 2 lần cách nhau 24 giờ. WHO 2013 tr. 178 và tr. 369 (200.000 IU, 1 lần/ngày × 2 ngày). Bé chưa có kinh, không suy dinh dưỡng, không dấu hiệu thiếu vitamin A nên không cần liều thứ 3. Giới hạn tuổi trên của Bảng 1 và tuổi chuyển sang liều thấp cho nữ tuổi sinh sản: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt: paracetamol 10–15 mg/kg/lần, tối đa 4 lần/ngày, hoặc chỉ khi sốt ≥ 39 °C làm bé khó chịu (34 kg: 340–510 mg, chọn 500 mg)",
+     "v": "c",
+     "n": "Hai cách đều đúng, ngưỡng dùng khác nhau: QĐ 1019 mục 3.2.1 (paracetamol 10–15 mg/kg × 4 lần/ngày, không nêu ngưỡng nhiệt cho paracetamol) và WHO 2013 tr. 178 (paracetamol khi ≥ 39 °C và bé khó chịu). Tổng không quá 60 mg/kg/24 giờ (QĐ 2760/2023 mục IV.A). Thận trọng hơn: dùng khi khó chịu (WHO 2013)."
+    },
+    {
+     "t": "Uống đủ nước, ăn lỏng chia nhiều bữa; vệ sinh mắt, mũi, miệng, da",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1 (dinh dưỡng đầy đủ theo lứa tuổi; vệ sinh da, mắt, mũi, miệng); WHO 2013 tr. 178 (mắt chỉ chảy nước trong thì không cần thuốc, súc miệng nước muối ít nhất 4 lần/ngày khi đau miệng)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–3 ngày cho đến hết sốt; đến ngay khi có ≥ 1 dấu hiệu: không ăn uống được, nôn mọi thứ, tím tái, thở nhanh, lơ mơ",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1: tái khám mỗi 2–3 ngày cho đến khi hết sốt, hoặc ngay khi có dấu hiệu nặng; WHO 2013 tr. 178: hẹn sau 2 ngày. Hai văn bản cùng hướng, chọn 2 ngày để nằm trong cả hai."
+    },
+    {
+     "t": "Khai báo ca nghi sởi cho trạm y tế phường/cơ quan y tế dự phòng",
+     "v": "c",
+     "n": "TT 54/2015/TT-BYT (nguồn bổ sung tự tìm, đã ghi ở NH-0841, chưa kiểm văn bản sửa đổi sau 2015). Trong tài liệu đã tải chỉ có chẩn đoán xác định cần IgM hoặc PCR (QĐ 1019 mục 2.4.3)."
+    },
+    {
+     "t": "Em trai 5 tuổi và người nhà chưa tiêm: kiểm tra sổ, tiêm vắc xin sởi cho người phơi nhiễm; hạn chế bé tiếp xúc người chưa tiêm",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1 (tiêm vắc xin sởi cho người bị phơi nhiễm), mục 5.1.2. Khoảng thời gian tiêm tối đa sau phơi nhiễm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi naphazolin tự mua trong đợt bệnh; chỉ dùng nước muối sinh lý",
+     "v": "a",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất khi ho, cảm lạnh. Cơ chế nghẹt mũi hồi ứng khi ngưng thuốc kéo dài: không có trong tài liệu đã tải; khám lại tình trạng nghẹt mũi mạn sau khi hết bệnh."
+    },
+    {
+     "t": "Cho làm CTM (50.000 đồng) và xin IgM/PCR sởi khi gia đình đủ điều kiện; giải thích rõ xét nghiệm nào đổi cách chữa, xét nghiệm nào bỏ được",
+     "v": "a",
+     "n": "Ngân sách 350.000 đồng; chẩn đoán lâm sàng đã đủ để điều trị (QĐ 1019 mục 2.4.2). Bỏ NS1 (200.000), CRP (80.000), X-quang (100.000) vì không đổi xử trí."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến để cách ly, truyền dịch",
+     "v": "w",
+     "n": "Sởi không biến chứng điều trị ngoại trú (QĐ 1019 mục 3.2.1); hạn chế chuyển cấp điều trị vì lây cao (mục 3.3). Gia đình không đủ tiền."
+    },
+    {
+     "t": "Corticoid uống cho bớt sốt, bớt ho khi chưa xác định rõ chẩn đoán",
+     "v": "h",
+     "n": "QĐ 1019 mục 3.1: không sử dụng corticoid đường toàn thân khi chưa loại trừ sởi."
+    },
+    {
+     "t": "Cho bé đi học lại ngày mai vì đã hết đợt cấp",
+     "v": "h",
+     "n": "QĐ 1019 mục 3.2.1 và 5.1.1: không đến nơi công cộng, nghỉ học đến ít nhất 4 ngày sau khi bắt đầu phát ban; bé đang trong giai đoạn lây."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sởi, ca bệnh lâm sàng (chưa có xét nghiệm xác định), thể nhẹ không điển hình, ngày 4 của sốt, ngày đầu phát ban",
+     "Chưa biến chứng: tỉnh, ăn uống được, không khó thở, không viêm tai, không tiêu chảy, SpO₂ 98%",
+     "Tiếp xúc nguồn lây (em họ ở quê) khoảng 12 ngày trước khi sốt; đã tiêm 1 mũi sởi lúc 9 tháng, thiếu mũi nhắc",
+     "Loại trừ tạm: rubella, Kawasaki, sốt xuất huyết Dengue giai đoạn sốt, ban dị ứng/ban do thuốc",
+     "Đang dùng thuốc nhỏ mũi naphazolin tự mua kéo dài 2 tháng (che triệu chứng sổ mũi)",
+     "Nguy cơ lây cho em trai 5 tuổi và lớp học"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: sốt, ho, sổ mũi, mắt đỏ, ban (vị trí, thời điểm, ngứa), tiếp xúc người sốt phát ban trong 7–21 ngày và nơi đã đến, tiêm chủng sởi, thuốc đang dùng, dấu hiệu nặng, rồi ngân sách. Thứ tự khám: toàn trạng, da, mắt, miệng (mở má, không chỉ nhìn họng), hạch, phổi, tim, bụng; nghiệm pháp dây thắt để loại trừ SXHD (QĐ 2760/2023 mục II.1.1).",
+     "Vì sao nghĩ sởi: sốt, ho/sổ mũi, đỏ mắt rồi ban dát sẩn xuất hiện sau tai, trán và đi xuống, căng da thì mờ (QĐ 1019 mục 2.1.1); hạt Koplik 0,5–1 mm ở niêm mạc má (mục 2.1.1); tiếp xúc ca nghi sởi trong 7–21 ngày (mục 2.4.1). Ca bệnh lâm sàng: ho, chảy mũi hoặc viêm kết mạc cộng hạt Koplik hoặc ban dạng sởi (mục 2.4.2). WHO 2013 tr. 174: sốt, ban toàn thân dạng dát sẩn và một trong ho, chảy mũi, đỏ mắt.",
+     "Vì sao dễ bỏ sót (không điển hình): sốt thấp ≤ 38,3 °C, ban thưa, toàn trạng tốt (QĐ 1019 mục 2.1.2: thể nhẹ dễ bị bỏ qua); sổ mũi bị che vì bé nghẹt mũi quanh năm và đang nhỏ naphazolin; mắt đỏ bị gán cho thức khuya; ban bị gán cho nóng trong; họng chỉ đỏ nhẹ; chẩn đoán trước đó của trạm y tế (viêm họng, sốt siêu vi) lúc chưa có ban. Mối liên quan giữa tiêm 1 mũi và thể nhẹ: không có trong tài liệu đã tải.",
+     "Vì sao không phải rubella: QĐ 1019 mục 2.5: phát ban không có trình tự, ít viêm long. Bé có viêm long rõ, kết mạc đỏ, ban đi từ sau tai xuống thân, có hạt Koplik. Mô tả cụ thể rubella không có hạt Koplik: không có trong tài liệu đã tải, chỉ suy từ mục 2.5 và 2.1.1.",
+     "Vì sao chưa phải Kawasaki: sốt mới ngày 4 (cần ≥ 5 ngày), chỉ có 2/5 tiêu chuẩn chính, môi và lưỡi bình thường, bàn tay bàn chân không đỏ phù, không hạch cổ ≥ 1,5 cm (AHA 2017 Bảng 3). Nếu sốt kéo dài thì phải cân nhắc lại, vì sởi giống Kawasaki và cần nghĩ tới ở trẻ chưa miễn dịch (AHA 2017).",
+     "Vì sao chưa phải SXHD: không đau hố mắt, đau cơ khớp, xuất huyết; dây thắt âm tính; tiểu cầu 142 G/L (còn trên 100 G/L ở giai đoạn sốt, QĐ 2760/2023 mục II.1.2). Vẫn phải theo dõi vì CTM giai đoạn sốt không loại trừ hoàn toàn: dặn đi khám ngay nếu đau bụng, nôn, chảy máu, lừ đừ. Sốt phát ban do virus nằm trong chẩn đoán phân biệt SXHD (mục III.2).",
+     "Ưu tiên xét nghiệm với 350.000 đồng: chẩn đoán lâm sàng đã đủ để xử trí, nên xét nghiệm chỉ để loại trừ hoặc xác định. CTM (50.000 đồng) rẻ, giúp loại trừ SXHD và ủng hộ sởi (giảm bạch cầu, lympho, tiểu cầu, QĐ 1019 mục 2.2.1); IgM/PCR sởi (400.000 đồng) để xác định và khai báo, không đổi xử trí hôm nay; NS1, CRP, X-quang bỏ được. Cách xếp hạng này là thiết kế của ca, không phải quy định trong tài liệu."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị ngoại trú, cách ly tại nhà, nghỉ học đến ít nhất 4 ngày sau khi bắt đầu phát ban (QĐ 1019 mục 3.2.1, 3.3, 5.1.1). Không nhập viện, không chuyển tuyến: sởi không biến chứng.",
+     "Vitamin A 200.000 IU, 2 liều cách nhau 24 giờ (QĐ 1019 mục 3.2.1 Bảng 1; WHO 2013 tr. 178, 369). Liều thứ ba chỉ khi thiếu vitamin A hoặc suy dinh dưỡng nặng (QĐ 1019: sau 4–6 tuần; WHO 2013 mục 6.4.1: 2–4 tuần nếu có dấu mắt thiếu vitamin A); bé không có nên không cần.",
+     "Hạ sốt chỉ khi khó chịu: paracetamol 10–15 mg/kg/lần (34 kg: 340–510 mg, chọn 500 mg), tối đa 4 lần/ngày, không quá 60 mg/kg/24 giờ ≈ 2.040 mg (QĐ 1019 mục 3.2.1; WHO 2013 tr. 178 dùng khi ≥ 39 °C; QĐ 2760/2023 mục IV.A). Ibuprofen có trong QĐ 1019 nhưng chưa loại trừ hẳn SXHD nên không chọn.",
+     "Không corticoid toàn thân khi chưa loại trừ sởi (QĐ 1019 mục 3.1). Không kháng sinh khi chưa biến chứng (mục 3.2.2). Ngưng naphazolin: WHO 2013 mục 4.4 không dùng thuốc nhỏ mũi có hoạt chất khi ho, cảm lạnh.",
+     "Tái khám sau 2 ngày (QĐ 1019 mục 3.2.1: mỗi 2–3 ngày; WHO 2013 tr. 178: 2 ngày) và ngay khi có dấu hiệu nặng. Cần dặn mẹ cách đến cơ sở gần nhất nếu bé xấu đi vào ban đêm, vì nhà có ít tiền và dễ trì hoãn.",
+     "Người tiếp xúc: kiểm tra sổ tiêm em trai, tiêm vắc xin sởi cho người phơi nhiễm chưa tiêm (QĐ 1019 mục 3.2.1); lớp học nên được báo để theo dõi (khai báo: TT 54/2015, nguồn bổ sung tự tìm)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Vitamin A viên nang",
+      "ham_luong": "200.000 IU",
+      "lieu": "200.000 IU (1 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Liều 1 uống ngay tại phòng khám; liều 2 sau đúng 24 giờ (mẹ cho bé uống ở nhà)",
+      "so_ngay": "2 liều, cách nhau 24 giờ",
+      "ghi_chu": "QĐ 1019 mục 3.2.1 Bảng 1 (trẻ ≥ 12 tháng); WHO 2013 tr. 178, 369. Chưa có kinh, không suy dinh dưỡng: không liều 3."
+     },
+     {
+      "thuoc": "Paracetamol (viên 500 mg hoặc gói bột)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần (≈ 14,7 mg/kg; cho phép 10–15 mg/kg = 340–510 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu (QĐ 1019: có thể 4 lần/ngày; WHO 2013: khi ≥ 39 °C); các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày ≈ 2.040 mg)",
+      "ghi_chu": "QĐ 1019 mục 3.2.1; WHO 2013 tr. 178; QĐ 2760/2023 mục IV.A. Khoảng cách tối thiểu 6 giờ: suy từ 4 lần/ngày, QĐ 1019 không ghi riêng."
+     },
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "0,9%",
+      "lieu": "Súc miệng; rửa mũi khi nghẹt",
+      "duong": "Súc miệng, nhỏ mũi",
+      "thoi_diem": "Sau ăn và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 1019 mục 3.2.1 (vệ sinh mắt, mũi, miệng); WHO 2013 tr. 178 (súc miệng nước muối ít nhất 4 lần/ngày khi đau miệng). Số lần rửa mũi mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé bị sởi nhẹ (QĐ 1019 mục 3.2.1: có thể chữa ở nhà); phải nằm phòng riêng, đeo khẩu trang, nghỉ học và không ra chỗ đông người đến ít nhất 4 ngày sau khi bắt đầu nổi ban (mục 5.1.1). Sởi lây qua không khí và giọt bắn.",
+     "Bé uống vitamin A hôm nay và đúng 24 giờ sau (QĐ 1019 Bảng 1); uống đủ nước, ăn lỏng chia nhiều bữa; sốt khó chịu thì uống paracetamol 500 mg, không quá 4 lần/ngày (QĐ 1019 mục 3.2.1).",
+     "Ngưng nhỏ naphazolin trong đợt bệnh. Không tự cho thuốc kháng sinh hay thuốc corticoid.",
+     "Tái khám sau 2 ngày (có thể 3 ngày), hoặc đến ngay, kể cả ban đêm, khi bé: không ăn uống được, nôn mọi thứ, tím tái, thở nhanh, lơ mơ (QĐ 1019 mục 3.2.1). Thêm các dấu hiệu nên đi khám: đau tai, ho nhiều hơn, tiêu chảy, mắt có ghèn mủ, đau bụng, chảy máu. Chuẩn bị sẵn cách đi đến bệnh viện gần nhất và người đi cùng.",
+     "Em trai và người chưa tiêm sởi: mang sổ tiêm đến trạm y tế để tiêm theo hướng dẫn (QĐ 1019 mục 3.2.1). Báo nhà trường để theo dõi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám sau 3 ngày. Bé hết nổi ban mới, sốt giảm nhưng chưa hết, ho nhiều hơn, mệt, ăn ít. Sinh hiệu: nhiệt 37,9 °C, mạch 96 l/p, huyết áp 102/64 mmHg, nhịp thở 22 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Diệp ngay hôm nay, khi bé nói thành câu dài, SpO₂ 96%, không rút lõm và ăn uống được, là quá tay: QĐ 1019 mục 3.2.2 chỉ nêu xem xét nhập viện cho ca có biến chứng, mục 3.3 còn dặn hạn chế chuyển cấp điều trị vì sởi lây mạnh. Chị Hạnh vừa vay 200.000 đồng sẽ phải bỏ quầy nhiều ngày và gánh viện phí, bé nằm khu chung dù cách ly vẫn tăng nguy cơ lây cho trẻ nhỏ chưa tiêm đủ (mục 5.1.1). Phản ứng đúng là hẹn lại sớm và dặn rõ mốc đi viện.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến nhi tỉnh chỉ vì sốt thấp chưa hết sau 3 ngày là chưa có căn cứ: toàn phát kéo dài 2–5 ngày, ban mọc hết thì sốt giảm dần và ho có thể kéo dài 1–2 tuần sau hết ban (QĐ 1019 mục 2.1.1); chuyển tuyến khi có biến chứng, suy giảm miễn dịch hoặc bệnh nền nặng (mục 3.3), bé chưa có. Cả nhà tốn tiền xe, chờ đợi nhiều giờ ở nơi đông trẻ nhỏ mà không đổi cách chữa, và lòng tin của mẹ vào hẹn tái khám tại phòng khám giảm đi."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỡ sốt rồi mà nay ho nhiều hơn, mệt, bỏ nửa chén cơm. Người nổi đầy mẩn đỏ hết rồi. Em không biết thế là đỡ hay không đỡ.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "102/64",
+    "nhiet": "37,9",
+    "nhip_tho": 22,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau 3 ngày theo hẹn. Bé đỡ sốt hơn, ban đã nổi khắp người, nhưng ho nhiều hơn, mệt, ăn ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, so với lượt trước"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai ngày nay sốt 38,0–38,4 °C buổi chiều (cao nhất 38,4 °C hôm kia), sáng nay 37,8 °C. Hôm qua chỉ phải uống paracetamol một lần. Hôm nay đỡ hơn hai hôm trước nhưng chưa hết sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sốt: giảm nhưng chưa hết"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Ban lan xuống ngực, bụng, tay chân (cả lòng bàn tay) từ hôm qua. Sáng nay mặt bắt đầu sậm màu và bong vảy mịn. Không ngứa nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến ban"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho nhiều hơn, vẫn ho khan, đêm ho từng tràng nhưng vẫn nằm ngủ được; chưa khạc đờm, không khò khè, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho: tăng hay giảm, đờm, khò khè"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Mẹ thấy bé thở không nhanh, nói chuyện được thành câu dài, tự đi vệ sinh. Bé nằm nghỉ nhiều hơn, bỏ nửa phần cơm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhịp thở, gắng sức, ăn uống"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không nôn, không tím tái, không lơ mơ, không co giật, đi tiểu bình thường, không tiêu chảy, không đau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng / biến chứng (QĐ 1019 mục 3.2.1)"
+    },
+    {
+     "id": "mat_mieng",
+     "noi_dung": "Mắt bớt đỏ, hết chảy nước. Miệng không đau, ăn được cháo và sữa nhưng ít hơn bình thường, uống nước khá.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Mắt, miệng, ăn uống"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bé đã uống đủ 2 liều vitamin A. Bé nghỉ học, nằm phòng riêng nhưng nhà chật nên em trai Minh ngủ chung đêm đầu; hiện em chưa sốt. Hai ngày ngưng thuốc nhỏ mũi thì nghẹt mũi nặng về đêm nên mẹ nhỏ lại một lần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ cách ly, vitamin A, thuốc nhỏ mũi"
+    },
+    {
+     "id": "tien_bac",
+     "noi_dung": "Mẹ vay thêm 200.000 đồng nên giờ có khoảng 400.000 đồng, nhưng vẫn không muốn làm nhiều xét nghiệm. Đêm qua khi bé ho nhiều, mẹ đã nghĩ tới việc đưa bé đi viện nhưng sợ tốn tiền, sợ bác sĩ giữ lại nằm viện.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng về đêm qua, về nỗi lo hoặc về khả năng chi trả khi bé xấu đi.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền xét nghiệm / sợ nhập viện"
+    },
+    {
+     "id": "duong_di",
+     "noi_dung": "Nhà cách bệnh viện huyện khoảng 12 km, ban đêm không có xe buýt, nhà có một chiếc xe máy; hàng xóm có xe ô tô nhưng chưa từng nhờ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khả năng đến cơ sở y tế khi xấu đi ban đêm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt hơn lượt trước nhưng nói thành câu dài, tự ngồi dậy. Môi hồng, niêm mạc ẩm, khóc có nước mắt, không tím.",
+     "k": 1
+    },
+    "da": {
+     "a": "Ban dát sẩn đỏ sẫm lan toàn thân, hợp thành mảng ở lưng và hai bên cổ; mặt chuyển nâu, bong vảy phấn mịn; lòng bàn tay, bàn chân có ban nhạt, thưa ở cẳng chân. Không chấm xuất huyết, không bóng nước, không mủ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc đỡ đỏ, không chảy nước, không ghèn mủ, giác mạc trong.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Còn 1–2 chấm trắng mờ ở niêm mạc má. Không loét miệng, không nấm.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không giả mạc. Màng nhĩ hai bên bình thường, không phồng, không đỏ. Niêm mạc mũi phù nề, nhầy trong.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ và sau tai nhỏ dưới 1 cm, không đau.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co lõm lồng ngực, nói thành câu dài. Rì rào phế nang rõ hai bên; đáy phổi phải có ran ngáy thoáng qua, giảm sau khi ho; không ran nổ, không ran ẩm, không ran rít.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thoáng qua, giảm sau khi ho."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, không cứng gáy, không co giật.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "igm_soi": {
+     "v": "u",
+     "r": "IgM kháng sởi: dương tính (ngày thứ 4 sau phát ban).",
+     "n": "Đến ngày thứ 3 sau phát ban IgM đạt gần 100% (QĐ 1019 mục 1), chẩn đoán xác định cần IgM hoặc PCR dương tính (mục 2.4.3). Nếu lượt trước đã làm PCR thì không cần lặp. Không đổi xử trí hôm nay; cần cho khai báo. 400.000 đồng là cả số tiền mẹ có."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Rốn phổi đậm nhẹ hai bên; không thấy đông đặc hay thâm nhiễm khu trú; góc sườn hoành nhọn.",
+     "n": "Chấp nhận, không bắt buộc (100.000 đồng): QĐ 1019 mục 2.2.1 có nêu X-quang khi nghi viêm phổi. Bé nói thành câu dài, SpO₂ 96%, không rút lõm nên không nghi viêm phổi. Phim hôm nay bình thường không bảo đảm phổi sẽ không viêm trong ngày mai, nên dù có làm hay không vẫn phải dặn dấu hiệu nặng (nhận xét của người soạn ca)."
+    },
+    "ctm": {
+     "r": "BC 4,8 G/L · Neutrophil 66% · Lympho 26% · Hb 130 g/L · TC 156 G/L",
+     "n": "Không cần lặp lại: không đổi xử trí; lượt 1 đã loại trừ SXHD qua tiểu cầu và ban theo trình tự (QĐ 2760 mục II.1.2)."
+    },
+    "crp": {
+     "r": "CRP 11 mg/L",
+     "n": "Không cần: QĐ 1019 mục 2.2.2 chỉ nêu xét nghiệm viêm khi sởi có biến chứng nhiễm khuẩn nặng; không có ngưỡng CRP để quyết định nhập viện trong tài liệu đã tải."
+    },
+    "ns1": {
+     "n": "Sốt ngày 7 và ban rõ, sởi đã khá chắc; NS1 làm trong 7 ngày đầu (QĐ 2760 mục III.1.1). Không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sởi, giai đoạn toàn phát muộn, hồi phục chậm (ngày 4 sau phát ban), chưa phát hiện biến chứng",
+     "ok": 1,
+     "n": "Sốt giảm, ban lan toàn thân rồi sậm màu và bong vảy mịn ở mặt, mắt đỡ, Koplik mờ dần (QĐ 1019 mục 2.1.1: toàn phát 2–5 ngày, ban mọc hết thì sốt giảm dần; hồi phục: ban sậm, bong vảy phấn; ho kéo dài 1–2 tuần sau hết ban). Tiêu chí không biến chứng: tỉnh, ăn bú tốt, không khó thở (mục 2.6.1). Sốt thấp còn dai dẳng và ho tăng cần theo dõi, chưa đủ để kết luận biến chứng."
+    },
+    {
+     "t": "Viêm phổi do sởi (virus hoặc bội nhiễm)",
+     "n": "Chưa có: nhịp thở 22 l/p, không rút lõm, nói câu dài, SpO₂ 96% (QĐ 1019 mục 3.2.2.6 cho oxy khi khó thở, SpO₂ < 94%), X-quang không đông đặc. Đây là biến chứng phải canh nhất vì là nguyên nhân tử vong phổ biến nhất (mục 2.7) và ho tăng, sốt chưa hết là vùng xám: dặn thở nhanh, mệt tăng, bỏ ăn."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Biến chứng phổ biến nhất của sởi (QĐ 1019 mục 2.7.2). Bé không đau tai, màng nhĩ bình thường."
+    },
+    {
+     "t": "Viêm thanh khí phế quản / viêm thanh quản",
+     "n": "Không khàn tiếng, không rít thanh quản, không co lõm (QĐ 1019 mục 2.6.2, 3.2.2.5)."
+    },
+    {
+     "t": "Tiêu chảy, mất nước; viêm não; viêm loét giác mạc",
+     "n": "Không tiêu chảy, niêm mạc ẩm; tỉnh, không co giật, không cứng gáy (viêm não 1–3/1.000 ca, QĐ 1019 mục 2.7.4); giác mạc trong."
+    },
+    {
+     "t": "Bệnh Kawasaki (cân nhắc lại vì sốt đã ngày 7)",
+     "n": "Sốt ≥ 5 ngày nên phải cân nhắc lại (AHA 2017 Bảng 3), nhưng vẫn chỉ có kết mạc đỏ (nay đã đỡ) và ban: không nứt môi, không lưỡi dâu tây, không phù đỏ tay chân (lòng bàn tay chỉ có ban nhạt như sởi), không hạch cổ ≥ 1,5 cm; có ho, sổ mũi, hạt Koplik, ban đi từ trên xuống rồi sậm màu và IgM sởi dương tính. Sởi giải thích đủ, không cần làm thuật toán Kawasaki không điển hình (AHA 2017)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục điều trị ngoại trú: đây là hồi phục chậm của sởi chưa biến chứng, không phải thất bại điều trị",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1: sởi không biến chứng điều trị ngoại trú, tái khám mỗi 2–3 ngày đến khi hết sốt; mục 2.1.1: toàn phát 2–5 ngày, hồi phục ban sậm màu, ho 1–2 tuần sau hết ban. Mục 3.3: hạn chế chuyển cấp điều trị."
+    },
+    {
+     "t": "Tiếp tục cách ly đến hết ngày thứ 4 kể từ khi bắt đầu phát ban (hết ngày thứ 8 của bệnh), không đến lớp và nơi đông người",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1 và 5.1.1: ít nhất 4 ngày sau khi bắt đầu phát ban."
+    },
+    {
+     "t": "Xác nhận đã uống đủ 2 liều vitamin A; không cần liều thứ 3",
+     "v": "c",
+     "n": "QĐ 1019 Bảng 1: liều 3 chỉ khi suy dinh dưỡng nặng hoặc thiếu vitamin A, biến chứng nặng; WHO 2013 tr. 178 (mắt có dấu thiếu vitamin A). Bé không có."
+    },
+    {
+     "t": "Paracetamol 500 mg khi sốt khó chịu (tối đa 4 lần/ngày); uống đủ nước, ăn lỏng chia nhiều bữa",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1; WHO 2013 tr. 178; tổng ≤ 60 mg/kg/24 giờ (QĐ 2760/2023 mục IV.A)."
+    },
+    {
+     "t": "Giải thích sốt thấp và ho còn có thể kéo dài; ghi rõ mốc phải đi khám ngay ban đêm: không ăn uống được, nôn mọi thứ, tím tái, thở nhanh, lơ mơ; bàn trước cách đưa đến bệnh viện huyện (12 km) và người đi cùng, kể cả khi sợ tốn tiền",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1 (dấu hiệu nặng cần tái khám ngay; tái khám mỗi 2–3 ngày). Biết nhà xa viện và mẹ ngại chi phí nên phải nói trước kế hoạch ban đêm (thiết kế ca). Ngưỡng nhịp thở theo tuổi cho trẻ 11 tuổi: không có trong tài liệu đã tải; dặn bằng dấu hiệu quan sát được (thở nhanh, rút lõm, nói không thành câu)."
+    },
+    {
+     "t": "Hẹn tái khám trong 1–2 ngày, không đợi 3 ngày như lượt trước",
+     "v": "c",
+     "n": "QĐ 1019 mục 3.2.1 cho khoảng 2–3 ngày; tính bé còn sốt, ho tăng, nhà xa và mẹ ngại chi phí nên chọn mốc sớm hơn, trong khoảng hướng dẫn. Số giờ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện ngay hôm nay để theo dõi",
+     "v": "w",
+     "n": "Không biến chứng, SpO₂ 96%, ăn uống được; QĐ 1019 mục 3.2.2: nhập viện cho ca có biến chứng, mục 3.3 hạn chế chuyển cấp. Chi phí và nguy cơ lây chéo."
+    },
+    {
+     "t": "Chuyển tuyến trên vì sốt chưa hết hoàn toàn",
+     "v": "w",
+     "n": "Chuyển tuyến khi có biến chứng, suy giảm miễn dịch hoặc bệnh nền nặng (QĐ 1019 mục 3.3); bé không có."
+    },
+    {
+     "t": "Kháng sinh uống (amoxicillin–clavulanic) phòng viêm phổi",
+     "v": "w",
+     "n": "QĐ 1019 mục 3.2.2: kháng sinh cho từng biến chứng đã chẩn đoán; không có khuyến cáo dùng dự phòng."
+    },
+    {
+     "t": "Thuốc ho có codein hoặc long đờm cho bé",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc ho có atropin, codein hoặc long đờm khi ho, cảm lạnh."
+    },
+    {
+     "t": "Cho bé đi học lại trong 1–2 ngày tới vì đã hết ban",
+     "v": "h",
+     "n": "Phải hết ít nhất 4 ngày sau khi bắt đầu phát ban (QĐ 1019 mục 3.2.1, 5.1.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sởi, giai đoạn toàn phát muộn chuyển hồi phục (ngày 7 của bệnh, ngày 4 sau phát ban), hồi phục chậm, chưa phát hiện biến chứng",
+     "Đỡ một phần: sốt giảm nhưng chưa hết, ban đã lan toàn thân và bắt đầu sậm màu, mắt đỡ, ho tăng",
+     "Vùng xám: hồi phục chậm bình thường (ho 1–2 tuần sau ban) so với dấu hiệu sớm của biến chứng hô hấp; hiện chưa có tiêu chí nào của biến chứng",
+     "Tuân thủ điều trị: đã uống đủ 2 liều vitamin A; cách ly chưa trọn (em trai ngủ chung đêm đầu); nhỏ lại naphazolin",
+     "Nguy cơ cao diễn tiến nặng nằm ở hoàn cảnh: nhà xa viện 12 km, ban đêm không phương tiện, mẹ ngại chi phí nên có thể trì hoãn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: xu hướng sốt, ban, ho (tăng hay giảm, đờm, khò khè), nhịp thở và khả năng nói câu dài, ăn uống, dấu hiệu nặng, tuân thủ cách ly và vitamin A, rồi hỏi nhẹ nhàng về đêm qua và khả năng chi trả. Thứ tự khám: toàn trạng, da, tai, phổi (nhịp thở, rút lõm, ran), tim, bụng, thần kinh.",
+     "Vì sao là hồi phục chậm bình thường, không phải thất bại điều trị: sốt đã giảm từ 38,4 xuống 37,8–37,9 °C, ban đã mọc hết và sậm màu (QĐ 1019 mục 2.1.1: ban mọc hết thì sốt giảm dần, hồi phục ban sậm màu, bong vảy phấn, ho kéo dài 1–2 tuần sau hết ban). Không tiêu chí biến chứng.",
+     "Vì sao chưa viêm phổi: nhịp thở 22 l/p, không rút lõm, nói câu dài, SpO₂ 96% (QĐ 1019 mục 3.2.2.6 cho oxy khi khó thở, SpO₂ < 94%; WHO 2024 tính thiếu oxy máu ở < 90%, khác bối cảnh, bé trên cả hai ngưỡng); phổi chỉ có ran ngáy thoáng qua mất sau ho; X-quang nếu làm thì không đông đặc. Ngưỡng nhịp thở theo tuổi cho trẻ 11 tuổi: không có trong tài liệu đã tải.",
+     "Điều quyết định hôm nay không phải con số của một phút khám mà là kế hoạch an toàn: với bé nhà xa, ban đêm không xe, mẹ ngại chi phí, đưa ra mốc đi viện rõ (QĐ 1019 mục 3.2.1: không ăn uống được, nôn mọi thứ, tím tái, thở nhanh, rối loạn tri giác), hẹn tái khám sớm (1–2 ngày), và bàn trước cách đi."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục điều trị ngoại trú, cách ly đến hết ngày thứ 4 sau phát ban (QĐ 1019 mục 3.2.1, 5.1.1); kháng sinh chỉ khi có biến chứng (mục 3.2.2). Không nhập viện, không chuyển tuyến (mục 3.3).",
+     "Vitamin A đã đủ 2 liều (Bảng 1); không liều 3. Hạ sốt khi khó chịu bằng paracetamol 500 mg, ≤ 60 mg/kg/24 giờ (QĐ 1019 mục 3.2.1; WHO 2013 tr. 178; QĐ 2760/2023 mục IV.A).",
+     "Không thuốc ho codein hoặc long đờm (WHO 2013 mục 4.4); không corticoid uống (QĐ 1019 mục 3.2.2.5, 3.2.2.8).",
+     "Tái khám: QĐ 1019 mục 3.2.1 ghi 2–3 ngày cho đến hết sốt, WHO 2013 ghi 2 ngày cho sởi nhẹ; ca này chọn 1–2 ngày vì ho tăng, sốt chưa hết và hoàn cảnh nhà."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (viên 500 mg hoặc gói bột)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần (≈ 14,7 mg/kg; cho phép 10–15 mg/kg = 340–510 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày ≈ 2.040 mg)",
+      "ghi_chu": "QĐ 1019 mục 3.2.1; WHO 2013 tr. 178; QĐ 2760/2023 mục IV.A."
+     },
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "0,9%",
+      "lieu": "Súc miệng; rửa mũi khi nghẹt",
+      "duong": "Súc miệng, nhỏ mũi",
+      "thoi_diem": "Sau ăn và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 1019 mục 3.2.1 (vệ sinh mắt, mũi, miệng). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đang hồi phục chậm của sởi: sốt thấp và ho còn vài ngày, ho có thể kéo dài 1–2 tuần sau khi hết ban (QĐ 1019 mục 2.1.1). Chưa có dấu hiệu biến chứng hôm nay, nhưng viêm phổi là biến chứng nguy hiểm nhất của sởi (mục 2.7).",
+     "Đưa bé đi viện NGAY, kể cả nửa đêm, nếu bé: không ăn uống được, nôn mọi thứ, tím tái, thở nhanh hoặc nói không thành câu, lơ mơ (QĐ 1019 mục 3.2.1). Không đợi đến sáng. Chuẩn bị trước xe, người đi cùng, sổ khám, thẻ bảo hiểm; điều kiện thanh toán bảo hiểm: không có trong tài liệu đã tải, hỏi quầy tiếp nhận.",
+     "Tái khám sau 1–2 ngày để đo lại SpO₂, nhịp thở và nghe phổi, dù bé có đỡ (QĐ 1019 mục 3.2.1: tái khám mỗi 2–3 ngày).",
+     "Cách ly đến hết ngày thứ 4 kể từ khi bắt đầu phát ban; cho em trai ngủ giường khác; kiểm sổ và tiêm cho em theo hướng dẫn.",
+     "Uống nước, ăn lỏng chia bữa; paracetamol khi sốt khó chịu; không tự mua thuốc ho, kháng sinh; hạn chế nhỏ naphazolin, chỉ rửa mũi nước muối.",
+     "Chuyện tiền: nói thẳng nếu bé có dấu hiệu nặng thì đi viện trước, chuyện tiền tính sau; hỏi mẹ có người thân cho mượn xe hoặc tiền không (thiết kế ca, không có trong tài liệu)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ngày thứ 9 của bệnh (2 ngày sau lượt 2), gần nửa đêm, Diệp ho nhiều, thở nhanh, nói từng cụm ngắn. Chị Hạnh nhớ lời dặn nên đưa bé bằng xe máy tới bệnh viện huyện cách 12 km, đến sau gần một tiếng rưỡi. Tại đó bé sốt 38,8 °C, SpO₂ 89%, X-quang có thâm nhiễm kẽ và đông đặc đáy phải; IgM sởi dương tính. Chẩn đoán sởi biến chứng viêm phổi (QĐ 1019 mục 2.7): thở oxy gọng kính, kháng sinh tĩnh mạch, rồi chuyển bệnh viện nhi tỉnh vì còn thiếu oxy, hỗ trợ thở HFNC 3 ngày (mục 3.2.2.6, 3.3). Bé nằm viện 9 ngày, hồi phục hoàn toàn, ho kéo dài thêm 2 tuần. Viện phí và tiền xe vượt xa số tiền mẹ có, gia đình phải vay mượn họ hàng; em trai Minh được tiêm theo hướng dẫn và không mắc bệnh. Quyết định lượt 2 vẫn đúng: lúc khám chưa có tiêu chí biến chứng; bản kế hoạch ban đêm giúp mẹ đưa bé đi ngay (chống outcome bias).",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: mẹ chỉ mang 350.000 đồng. Xét nghiệm cần làm là CTM (50.000 đồng) và IgM/PCR sởi (400.000 đồng) khi có điều kiện; NS1, CRP, X-quang bỏ được ở lượt 1. Bác sĩ phải nói rõ xét nghiệm nào đổi cách chữa.",
+  "Sổ mũi, nghẹt mũi mạn và thuốc nhỏ mũi naphazolin 2 tháng làm mờ dấu hiệu viêm long đường hô hấp trên.",
+  "Mắt đỏ bị gán cho thức khuya xem điện thoại; ban gán cho nóng trong; sốt gán cho mệt xe sau chuyến xe khách 11 tiếng.",
+  "Chẩn đoán trước đó của trạm y tế (viêm họng, sốt siêu vi) lúc chưa có ban: chưa đủ dữ kiện, không phải sai lầm.",
+  "Không có siêu âm: không ảnh hưởng chẩn đoán ca này."
+ ],
+ "bai_hoc_bien": [
+  "Sởi thể nhẹ không điển hình dễ bị bỏ qua (QĐ 1019 mục 2.1.2): sốt thấp, ban thưa. Khi trẻ sốt, ho kèm đỏ mắt, hãy mở má tìm hạt Koplik, hỏi tiếp xúc trong 7–21 ngày và sổ tiêm sởi thay vì dừng ở 'viêm họng'.",
+  "Triệu chứng bị che: thuốc nhỏ mũi kéo dài làm sổ mũi như 'chuyện cũ'; mắt đỏ, ban, sốt đều được gia đình gán cho nguyên nhân khác. Hỏi cụ thể từng triệu chứng thay vì nghe lời giải thích của mẹ.",
+  "Ngân sách hạn chế: xếp ưu tiên xét nghiệm theo câu hỏi 'kết quả có đổi cách chữa hôm nay không?'. Ca bệnh lâm sàng đủ để điều trị (QĐ 1019 mục 2.4.2); xét nghiệm xác định là để khai báo, không phải điều kiện để cho vitamin A và cách ly.",
+  "Đỡ một phần ở lượt tái khám: phân biệt hồi phục chậm (ban sậm màu, sốt giảm dần, ho còn 1–2 tuần) với thất bại điều trị (thở nhanh, SpO₂ thấp, bỏ ăn, lơ mơ). Hôm đó chưa có tiêu chí biến chứng nên không nhập viện.",
+  "Xử trí đúng vẫn có thể ra kết cục xấu: viêm phổi là nguyên nhân tử vong phổ biến nhất của sởi (QĐ 1019 mục 2.7); giá trị của xử trí đúng nằm ở kế hoạch an toàn (mốc đi viện, phương tiện, chuyện tiền). Không đánh giá quyết định bằng kết cục."
+ ],
+ "diem_nho": [
+  "Sởi: ủ bệnh 7–21 ngày; khởi phát 2–4 ngày (sốt, ho, sổ mũi, viêm kết mạc, hạt Koplik); toàn phát 2–5 ngày, ban dát sẩn từ sau tai, trán xuống thân, chi, căng da thì mờ; hồi phục ban sậm, ho kéo dài 1–2 tuần (QĐ 1019 mục 2.1.1).",
+  "Ca bệnh lâm sàng: ho, chảy mũi hoặc viêm kết mạc cộng hạt Koplik hoặc ban dạng sởi; xác định: IgM hoặc PCR dương tính (QĐ 1019 mục 2.4.2–2.4.3). PCR trong 72 giờ đầu phát ban, IgM từ ngày thứ 3 (mục 2.2.3).",
+  "Vitamin A: ≥ 12 tháng 200.000 IU × 2 liều cách 24 giờ (QĐ 1019 Bảng 1; WHO 2013 tr. 178, 369). Hạ sốt: paracetamol 10–15 mg/kg × 4 lần/ngày (QĐ 1019) hoặc khi ≥ 39 °C (WHO 2013).",
+  "Cách ly đến ít nhất 4 ngày sau bắt đầu phát ban (QĐ 1019 mục 5.1.1); phòng khám điều trị ngoại trú sởi không biến chứng, chuyển tuyến khi có biến chứng, suy giảm miễn dịch, bệnh nền nặng (mục 3.3)."
+ ],
+ "nguon": [
+  "BYT – QĐ 1019/QĐ-BYT 2025, Hướng dẫn chẩn đoán và điều trị bệnh Sởi – TL-0238 – ĐÃ ĐỌC: toàn văn (mục 1, 2.1–2.7, 3.1–3.3, 5.1, Bảng 1, Lưu đồ 3)",
+  "WHO – Pocket book of hospital care for children, ấn bản 2, 2013 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (thuốc nhỏ mũi, codein, thuốc long đờm), mục 6.4 Measles (tr. 174–178), Annex 2 (tr. 369, vitamin A)",
+  "BYT – QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II.1 (giai đoạn sốt), mục III.1.1 (NS1, IgM), III.2 (chẩn đoán phân biệt), IV.A (paracetamol ≤ 60 mg/kg/24 giờ, không ibuprofen). Số hiệu, ngày: xem ghi chú danh mục TL-0029",
+  "AHA – Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease, Scientific Statement 2017 (Circulation 2017;135:e927–e999) – TL-0095 – ĐÃ ĐỌC: Bảng 3 (tiêu chuẩn Kawasaki, chẩn đoán phân biệt gồm sởi), phần chẩn đoán phân biệt với sởi. Thuật toán Kawasaki không điển hình: chỉ đọc lướt",
+  "WHO – Guideline on management of pneumonia and diarrhoea in children up to 10 years 2024 – TL-0245 – ĐÃ ĐỌC: đoạn thiếu oxy máu (SpO₂ < 90%)",
+  "BYT – TT 10/2024/TT-BYT, danh mục bệnh truyền nhiễm, đối tượng và phạm vi phải sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC lướt (bản chữ OCR): lịch vắc xin thành phần sởi 9 tháng và 18 tháng; không dùng để khẳng định lịch của năm sinh của Diệp",
+  "Nguồn bổ sung tự tìm: BYT – TT 54/2015/TT-BYT ngày 28/12/2015 hướng dẫn chế độ thông tin báo cáo bệnh truyền nhiễm (Điều 5; Phụ lục 1 mục 1) – https://luatvietnam.vn/y-te/thong-tu-54-2015-tt-byt-bo-y-te-101971-d1.html – chép từ ca NH-0841, không kiểm lại trong lượt này, chưa kiểm văn bản sửa đổi sau 2015",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: đặc điểm lâm sàng chi tiết rubella; mối liên quan giữa tiêm 1 mũi sởi và thể nhẹ; ngưỡng nhịp thở theo tuổi cho trẻ 11 tuổi; giới hạn tuổi trên của Bảng 1 vitamin A và tuổi chuyển sang liều thấp ở nữ tuổi sinh sản; khoảng thời gian tiêm vắc xin sau phơi nhiễm; cơ chế nghẹt mũi hồi ứng của thuốc nhỏ mũi co mạch; số lần rửa mũi muối mỗi ngày; quy định chi phí lấy mẫu xét nghiệm sởi cho ca nghi ngờ"
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 2026-11-04 (NH-0839). Tài liệu đã đọc: TL-0238 (toàn văn), TL-0250 (mục 4.4, 6.4, Annex 2), TL-0029 (mục II, III, IV.A), TL-0095 (Bảng 3, chẩn đoán phân biệt), TL-0245 (đoạn SpO₂), TL-0005 (lịch sởi, lướt).",
+  "Không dùng ảnh da: SCIN không có nhãn sởi, ứng viên 'Viral Exanthem' là người lớn, vị trí không khớp; ban và Koplik mô tả bằng chữ.",
+  "Mâu thuẫn/chênh lệch nguồn: IgM (cùng QĐ 1019, không phải mâu thuẫn), ngưỡng hạ sốt (theo mục sổ hạ sốt ở trẻ), liều vitamin A thứ 3 (QĐ 1019 4–6 tuần, WHO 2013 2–4 tuần): ghi cả hai.",
+  "Thiết kế: igm_soi và ctm xếp mức u ở lượt 1 vì ca bệnh lâm sàng đã đủ để xử trí (QĐ 1019 mục 2.4.2); NS1 mức a; CRP, X-quang n. Lượt 2 là vùng xám có chủ ý, quyết định ve_hen với kế hoạch an toàn; kết cục xấu ghi ở ket_cuc."
+ ]
+}
