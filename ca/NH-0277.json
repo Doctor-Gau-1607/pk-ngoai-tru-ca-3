@@ -1,0 +1,852 @@
+{
+ "ma_ca": "NH-0277",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_hong_va_cap_so_sinh_2",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm họng / VA cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi (mẹ và bà ngoại ho, sổ mũi trước đó)",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ (ông ngoại vừa bị nhồi máu não)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khang",
+  "tuoi": 0.05,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.8,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai sơ sinh 20 ngày tuổi (lượt 1), chỉ khóc, ngủ, bú. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bé là 'bé Khang' hoặc 'cháu'. Bà ngoại (58 tuổi) trông bé ban ngày, thỉnh thoảng đi cùng và nói xen vào.",
+  "tinh_cach": "Mẹ 27 tuổi, con đầu lòng, nghỉ thai sản ở nhà ngoại, thiếu ngủ, nói nhanh, dễ hoảng khi bé khóc đỏ mặt. Lễ phép, sợ bị trách nên hay nói 'dạ không sao đâu ạ' trước khi kể thật. Dịu đi khi được giải thích bằng dấu hiệu cụ thể và được khám thần kinh cho xem. Ba bé đi làm xa, nhắn tin hỏi mỗi giờ.",
+  "kieu_nhieu": "Giấu tiền sử: (1) hỏi chung 'nhà có ai ốm không' thì đáp 'không ạ', chỉ thừa nhận mẹ và bà vừa ho, sổ mũi khi hỏi cụ thể từng người; (2) lý do thật (sợ bé bị đột quỵ như ông ngoại) chỉ lộ khi hỏi 'chị lo nhất điều gì'; (3) lượt 2: bà nhỏ thuốc nhỏ mũi của ông, mẹ nói 'chỉ nhỏ nước muối', chỉ đưa chai khi bác sĩ xin xem chai hoặc nhãn thuốc.",
+  "nguoi_nha": "Mẹ bé, chị Ngọc Hân, 27 tuổi, bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bà ngoại (bà Tư) thỉnh thoảng nói xen vào; bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hân)",
+  "ngoai_hinh": {
+   "da": "#f1cba7",
+   "toc": "#1f1612",
+   "kieuToc": "tre",
+   "ao": "#cfe3f1",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e7b48c",
+    "toc": "#2a1c15",
+    "kieuToc": "dai",
+    "ao": "#e8c1c8",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé nghẹt mũi, khụt khịt, bú nhả vú ra thở",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết, nước tiểu); không X-quang, siêu âm, CT, nội soi và không làm được xét nghiệm chuyên sâu (phết họng cấy bạch hầu, PCR virus)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 20 ngày tuổi, 3,80 kg, mẹ bế đến vì nghẹt mũi, khụt khịt, hắt hơi 2 ngày, bú phải nhả vú ra thở. Nhiệt độ nách 36,9 °C, mạch 140 l/p, nhịp thở 48 l/p, SpO₂ 98%. Bé tỉnh, khóc to, dỗ nín khi mẹ bế.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang 20 ngày tuổi chưa sốt (nách 36,9 °C), tỉnh, bú trọn cữ, thở 48 l/p (dưới ngưỡng 60 l/p), không có dấu hiệu nguy hiểm nào của WHO 2013 mục 3.6 (tr. 52). Quy trình xét nghiệm xâm lấn của AAP 2021 và NICE NG143 mục 1.5.3–1.5.4 dành cho trẻ có sốt, nên nhập viện lúc này là quá tay: bé bị chích, mẹ càng tin bé bệnh nặng, nhà tốn kém. Điều cần làm là dạy mẹ nhiệt kế, ngưỡng 38 °C và dấu hiệu đến ngay.",
+    "chuyen_tuyen": "Chuyển bé 20 ngày tuổi lên tuyến trên để khám thần kinh hay chụp hình ảnh vì mẹ sợ đột quỵ là không có cơ sở: bé tỉnh, khóc to có âm sắc, không co giật, không li bì, cử động đối xứng (WHO 2013 mục 3.6–3.7). Chuyến đi chờ đợi nơi đông bệnh nhân làm bé tiếp xúc thêm mầm bệnh, trong khi nỗi sợ thật của mẹ có thể được trả lời ngay bằng khám thần kinh tại phòng khám."
+   },
+   "loi_mo": "Dạ chào bác sĩ, bé nhà em nghẹt mũi hai hôm nay, bú một lúc là nhả ra thở, khụt khịt cả đêm. Em cũng thấy bé hay khóc đỏ mặt, uốn người nữa. Bác sĩ khám giúp em coi bé có sao không ạ.",
+   "sinh_hieu": {
+    "mach": 140,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 48,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghẹt mũi, khụt khịt, hắt hơi 2 ngày; bú một lúc nhả vú ra thở rồi ngậm lại; đêm ngủ khò khè mũi. Chảy mũi trong.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Nhà chưa có nhiệt kế nên chưa đo lần nào; sờ người bé thấy không nóng. Chưa cho thuốc hạ sốt, thuốc ho hay thuốc nào khác ngoài men tiêu hóa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, đã đo nhiệt độ chưa, thuốc hạ sốt (ngưỡng nguy cơ ở sơ sinh)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, khoảng 8–10 cữ mỗi ngày, mỗi cữ nhả ra thở vài lần nhưng bú trọn, không bỏ cữ. Tã ướt 6–7 cái mỗi ngày, phân vàng mềm. Không nôn vọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt (bú kém là dấu hiệu nguy hiểm, WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không tím, không rên, không co giật, không li bì khó đánh thức; đói thì tự thức đòi bú. Mẹ không thấy bé thở nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "giat_minh",
+     "noi_dung": "Khi khóc thì đỏ mặt, uốn người. Lúc vừa đặt xuống nôi thì giật mình, hai tay dang ra rồi ôm lại, nín ngay khi mẹ bế. Chưa có cơn nào người cứng đờ, mắt trợn, môi tím hay co giật từng nhịp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khóc đỏ mặt, giật mình: phân biệt với co giật"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường đủ 39 tuần, nặng 3,30 kg, mẹ không sốt khi chuyển dạ. Đã tiêm vitamin K, viêm gan B và BCG lúc sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử sinh và yếu tố nguy cơ nhiễm khuẩn sơ sinh"
+    },
+    {
+     "id": "lay_nhiem",
+     "noi_dung": "Năm ngày trước mẹ ho, sổ mũi, hơi sốt một đêm rồi tự đỡ nhờ thuốc cảm; bà ngoại cũng sổ mũi mấy hôm nay. Mẹ vẫn bế, hôn và cho bé bú không đeo khẩu trang. Mẹ nói 'em khỏe' vì sợ bị dặn ngưng cho con bú.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'nhà có ai ốm không' thì đáp 'không ạ'. Chỉ kể khi bác sĩ hỏi cụ thể mẹ và bà có ho, sổ mũi, sốt trong một tuần qua, hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Nguồn lây trong nhà (khởi phát sau nhiễm siêu vi của người chăm)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ nhỏ men tiêu hóa dạng giọt mua ở tiệm thuốc vào mỗi cữ bú từ tuần thứ 2 vì bé hay ọc sữa. Nhỏ nước muối sinh lý vài giọt mỗi bên mũi khi nghẹt. Không dùng thuốc nhỏ mũi nào khác, không thuốc nam, không thuốc cam.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Ông ngoại bé (59 tuổi) vừa bị nhồi máu não, xuất viện 5 ngày trước, còn yếu nửa người. Bà kể ông 'bắt đầu bằng cảm gió, đỏ mặt'. Mẹ sợ bé bị đột quỵ khi thấy khóc đỏ mặt, uốn người, giật mình; đêm qua mẹ không dám ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ nói chỉ đến vì nghẹt mũi. Chỉ kể khi bác sĩ hỏi 'chị lo nhất điều gì', 'nhà có chuyện gì gần đây không', hoặc hỏi mẹ có sợ một bệnh nào đó.",
+     "k": 1,
+     "y": "Lý do thật đến khám (sợ đột quỵ)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,80 kg. Bé tỉnh, khóc to có âm sắc, nín trong vài giây khi mẹ bế và ngậm vú. Hồng hào, không tím, mao mạch hồi sắc dưới 2 giây, trương lực bình thường. Nhiệt độ nách 36,9 °C. Không vàng da.",
+     "k": 1,
+     "hien": "Cân 3,80 kg. Tỉnh, khóc to, dỗ nín. Nách 36,9 °C."
+    },
+    "quan_sat_bu_me": {
+     "a": "Quan sát đủ một cữ bú: ngậm vú tốt, mút – nuốt nhịp nhàng 6–8 nhịp rồi nhả ra thở bằng miệng 1–2 nhịp, ngậm lại; SpO₂ trong lúc bú 96–98%, không sặc, không tím.",
+     "k": 1,
+     "hien": "Bú trọn cữ, nhả ra thở 1–2 nhịp rồi ngậm lại. Không sặc."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước 2 × 2 cm, phẳng, mềm. Cổ mềm. Không hạch cổ.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm, không hạch."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc phù nề, dịch trong loãng, không mủ, không máu; hai bên đều thông sau khi hút. Miệng họng: thành sau đỏ nhẹ, có nhầy trong chảy từ trên xuống, không giả mạc, không mảng trắng dính, không bóng nước. Không thấy amidan. Hai màng nhĩ xám hồng, không phồng.",
+     "k": 1,
+     "hien": "Mũi ngạt, dịch trong. Họng đỏ nhẹ, nhầy thành sau."
+    },
+    "tim": {
+     "a": "Tim đều 140 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ, đều.",
+     "k": 0,
+     "hien": "Tim đều, tần số 140 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 48 l/p đếm đủ 1 phút lúc bé yên, đều. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên; tiếng lọc xọc truyền từ mũi, giảm khi hút mũi.",
+     "k": 1,
+     "hien": "Nhịp thở 48 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ, không rỉ dịch.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, ấm, không ban, không bóng nước, không chấm xuất huyết.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, mở mắt khi được kích thích, tự cử động hai tay hai chân đối xứng, trương lực bình thường, phản xạ ôm (Moro) đối xứng hai bên, mút mạnh. Mặt cân đối khi khóc, không lệch miệng. Không cử động rập khuôn, không cơn cứng đờ, không mắt trợn.",
+     "k": 1,
+     "hien": "Tỉnh, cử động hai bên đối xứng, mặt cân đối khi khóc."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,8 G/L · Neutrophil 38% · Lymphocyte 52% · Hb 156 g/L · TC 310 G/L",
+     "n": "Không cần: bé chưa sốt, bú tốt, không dấu hiệu nguy hiểm; viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643/2015, Viêm mũi họng cấp mục 3.1.2; Viêm V.A cấp mục 3.1.2: bạch cầu chỉ tăng khi nhiễm khuẩn). Làm không bị trừ điểm. Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không có giả mạc để lấy bệnh phẩm; chưa phết.",
+     "n": "Nghi bạch hầu cần có giả mạc vùng hầu họng và dịch tễ (QĐ 2957/2020 mục 5.1); bé không có."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi họng / viêm V.A cấp do virus ở sơ sinh 20 ngày tuổi, chưa sốt, bú được, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Ngạt mũi, thở miệng khi bú, nhầy từ vòm chảy xuống thành sau họng (QĐ 5643/2015, Viêm V.A cấp mục 3.1.1.1, tr. 137); nguồn lây trong nhà (mẹ, bà ho sổ mũi); virus chiếm 60–80% viêm mũi họng và tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp mục 2.1.2, 5.1)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Dưới 3 tuổi hiếm, có ngạt mũi chảy mũi là dấu virus (IDSA 2012 khuyến cáo I.4–I.5)."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc dính, không hạch góc hàm sưng đau, không dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1). Khởi phát sốt nhẹ, sổ mũi (mục 3.1.2) nhưng bé không sốt, không điểm trắng ở họng."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / viêm màng não sơ sinh",
+     "n": "Chưa sốt (ngưỡng 38 °C, NICE NG143 mục 1.2.12; > 38 °C, WHO 2013 mục 3.6), không hạ thân nhiệt, tỉnh, bú trọn cữ, thóp phẳng, thở 48 l/p dưới 60 l/p: không có dấu hiệu nguy hiểm."
+    },
+    {
+     "t": "Co giật sơ sinh / đột quỵ",
+     "n": "Khóc đỏ mặt, giật mình khi đặt nôi, nín khi bế, khám thần kinh đối xứng, không cơn cứng đờ, không mắt trợn, không tím, không li bì (WHO 2013 mục 3.6–3.7: co giật, li bì, không cử động là dấu hiệu nguy hiểm). Tiêu chí phân biệt rùng mình với co giật: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi / tiểu phế quản",
+     "n": "Thở 48 l/p dưới 60 l/p, không rút lõm, phổi không ran (WHO 2013 mục 3.6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích viêm mũi họng do virus, lây từ mẹ và bà, thường tự khỏi sau 3–5 ngày",
+     "v": "c",
+     "n": "QĐ 5643/2015 Viêm V.A cấp mục 4.1: chủ yếu điều trị triệu chứng, chỉ dùng kháng sinh khi nghi nhiễm khuẩn hoặc đe dọa biến chứng; Viêm mũi họng cấp mục 5.1 (virus 3–5 ngày); WHO 2013 mục 4.4 (không kháng sinh); IDSA 2012 I.4–I.5. Bài Viêm mũi họng cấp mục 4.1 của QĐ 5643 coi như liên cầu khi chưa có xét nghiệm (sổ mâu thuẫn 'Viêm họng đỏ cấp…'), nhưng không nêu liều cho sơ sinh: ở dưới 1 tháng chọn bên không kháng sinh."
+    },
+    {
+     "t": "Hút mũi, nhỏ nước muối sinh lý 0,9% trước cữ bú; tiếp tục bú mẹ hoàn toàn, chia cữ nhỏ",
+     "v": "c",
+     "n": "QĐ 5643 Viêm V.A cấp mục 4.2 (hút mũi, rỏ mũi để dễ thở); WHO 2013 mục 4.4 (lau sạch mũi trước cữ bú); NICE NG143 mục 1.7.2 (sữa mẹ là dịch phù hợp nhất). Số giọt, số lần mỗi ngày cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi cụ thể người trong nhà ốm; giải thích nguồn lây, vẫn cho bú, mẹ và bà rửa tay trước khi bế",
+     "v": "c",
+     "n": "Nguồn lây trong cộng đồng qua nước bọt, nước mũi (QĐ 5643 Viêm mũi họng cấp mục 2); rửa tay đúng cách là biện pháp phòng bệnh bạch hầu (QĐ 2957/2020 mục 7). Khẩu trang cho người chăm bé và việc tiếp tục cho bú khi mẹ cảm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khám thần kinh cho mẹ thấy; giải thích khóc đỏ mặt, giật mình khi đặt nôi không phải đột quỵ; nói rõ dấu hiệu thật cần đến ngay",
+     "v": "c",
+     "n": "Co giật, li bì, không cử động, bú kém là dấu hiệu nguy hiểm (WHO 2013 mục 3.6); nguyên nhân hay gặp của co giật sơ sinh: thiếu oxy khi sinh, nhiễm trùng thần kinh trung ương, hạ đường huyết, hạ canxi (mục 3.7). Bé không có dấu nào. Nguy cơ đột quỵ ở sơ sinh theo tiền sử gia đình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn mua nhiệt kế điện tử; đo khi bé nóng hoặc quấy; từ 38,0 °C phải đưa đi khám ngay trong ngày dù bé còn bú",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần'): đo nách bằng nhiệt kế điện tử, không đo hậu môn thường quy (NICE NG143 mục 1.1.1–1.1.2), hoặc sốt khi nhiệt độ hậu môn ≥ 38,0 °C (AAP 2021, phần đối tượng). Ngưỡng: dưới 3 tháng từ 38 °C là nguy cơ cao (NICE mục 1.2.12); > 38 °C hoặc hạ thân nhiệt < 35,5 °C là dấu hiệu nguy hiểm (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Dặn đến ngay khi: bú kém hoặc bỏ bú, li bì khó đánh thức, co giật, thở từ 60 l/p, rên, rút lõm ngực nặng, tím, thóp phồng, nhiệt độ > 38 °C hoặc < 35,5 °C. Hẹn tái khám sau 48 giờ",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52); thóp phồng, ban không mất khi ấn: NICE NG143 Bảng 2. Mốc tái khám cho sơ sinh viêm mũi họng: không có trong tài liệu đã tải, chọn 48 giờ theo hướng thận trọng vì ngưỡng nhập viện ở sơ sinh thấp."
+    },
+    {
+     "t": "Hỏi người trông bé về thuốc đang cho; không tự cho thuốc hạ sốt, thuốc ho, thuốc nhỏ mũi, thuốc nam, thuốc cam",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất, thuốc có atropin, codein, cồn, thuốc long đờm; mục 3.10.4 (không dùng paracetamol để kiểm soát sốt ở trẻ nhỏ, kiểm soát môi trường); mục 10.4 (giảm đau: dưới 3 tháng chỉ dùng paracetamol); NICE NG143 mục 1.6.5. Liều paracetamol cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men tiêu hóa mẹ đang cho: tiếp tục hoặc ngưng đều chấp nhận; giải thích không cần cho viêm mũi họng",
+     "v": "a",
+     "n": "Bài Viêm V.A cấp chỉ điều trị triệu chứng (QĐ 5643 mục 4.1–4.2). Hiệu quả và an toàn của men tiêu hóa ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm công thức máu, CRP, cấy máu, nước tiểu hoặc chọc dò tủy ngay khi bé chưa sốt, bú tốt",
+     "v": "w",
+     "n": "Quy trình AAP 2021 và NICE NG143 mục 1.5.3–1.5.4 dành cho trẻ có sốt; bé chưa sốt. Công thức máu, CRP làm vì lo lắng không bị trừ điểm nhưng không phải đáp án."
+    },
+    {
+     "t": "Cho kháng sinh uống (amoxicillin…) theo kinh nghiệm",
+     "v": "w",
+     "n": "QĐ 5643 Viêm họng cấp tính chỉ áp dụng trên 3 tuổi; Viêm mũi họng cấp mục 4.3.1 không nêu liều cho sơ sinh; bé có dấu virus (IDSA 2012 I.4). Liều amoxicillin dưới 1 tháng: không có trong tài liệu đã tải; chọn bên thận trọng (như ca NH-0217)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi họng / viêm V.A cấp do virus ở sơ sinh nam 20 ngày tuổi, 3,80 kg, chưa sốt, bú trọn cữ, không dấu hiệu nguy hiểm",
+     "Nguồn lây: mẹ và bà ngoại vừa ho, sổ mũi (mẹ giấu lúc đầu)",
+     "Khóc đỏ mặt, giật mình khi đặt nôi: không phải co giật hay đột quỵ (khám thần kinh đối xứng); nỗi sợ thật của mẹ là đột quỵ vì ông ngoại vừa bị nhồi máu não",
+     "Chưa có thuốc nào đáng lo: men tiêu hóa tự mua, nước muối sinh lý"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám; sốt đã đo chưa; bú và tã ướt; dấu hiệu nguy hiểm; tiền sử sinh; người trong nhà ốm; thuốc đang cho; hỏi mẹ lo nhất điều gì. Khám: nhiệt độ nách, tri giác, thóp, họng mũi, phổi đếm đủ 1 phút, bụng, da, thần kinh, quan sát một cữ bú.",
+     "Viêm mũi họng/V.A cấp: ngạt mũi, thở miệng, nhầy từ vòm chảy xuống thành sau họng, bỏ bú một phần (QĐ 5643 Viêm V.A cấp mục 3.1.1.1, tr. 137). Bài này mô tả ở sơ sinh có thể sốt cao 40–41 °C, co giật; bé chưa sốt nhưng ngưỡng cảnh báo thấp nên phải dặn nhiệt kế.",
+     "Vì sao chưa nhập viện: bé không có dấu nào của WHO 2013 mục 3.6 (bú kém, co giật, li bì, thở 60 l/p, rên, rút lõm nặng, nhiệt độ > 38 hoặc < 35,5 °C, tím) và chưa đạt ngưỡng sốt nguy cơ cao của NICE NG143 mục 1.2.12. Quy trình sốt ở sơ sinh của AAP 2021, NICE mục 1.5.3–1.5.4 chỉ áp dụng khi có sốt.",
+     "Không nghĩ liên cầu: dưới 3 tuổi hiếm, có ngạt mũi chảy mũi (IDSA 2012 I.4–I.5). Không nghĩ bạch hầu: không giả mạc dính, không hạch góc hàm đau, không dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1).",
+     "Khóc đỏ mặt, uốn người, giật mình khi đặt nôi, bế thì nín, khám thần kinh bình thường: không có dấu hiệu nguy hiểm về thần kinh (WHO 2013 mục 3.6–3.7). Cách phân biệt chi tiết rùng mình sinh lý và co giật sơ sinh: không có trong tài liệu đã tải; việc quyết định dựa vào khám và theo dõi.",
+     "Kỹ thuật hỏi lại không phán xét: hỏi chung 'nhà có ai ốm không' thì mẹ nói không. Hỏi cụ thể từng người ('chị và bà có ho, sổ mũi tuần này không?') và hỏi 'chị lo nhất điều gì' thì lộ ra mẹ ho và nỗi sợ đột quỵ."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: viêm V.A cấp chủ yếu điều trị triệu chứng (QĐ 5643 mục 4.1); WHO 2013 mục 4.4; ở dưới 1 tháng tài liệu đã tải không có liều kháng sinh uống.",
+     "Hút mũi, nước muối, bú mẹ chia cữ: QĐ 5643 mục 4.2; WHO 2013 mục 4.4. QĐ 5643 còn nêu ephedrin 1%, argyron 1% cho trẻ nhỏ (sổ mâu thuẫn 'Thuốc nhỏ mũi có hoạt chất'), WHO 2013 mục 4.4 không dùng thuốc nhỏ mũi có hoạt chất; ở sơ sinh tài liệu không nêu liều nên giữ nước muối.",
+     "Nhiệt kế: hai cách đo đều đúng (NICE: nách; AAP: hậu môn); ngưỡng 38 °C (NICE mục 1.2.12; WHO mục 3.6). Tái khám 48 giờ là mốc chọn thận trọng (không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Nhỏ vài giọt mỗi bên mũi rồi hút nhẹ (số giọt: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2; WHO 2013 mục 4.4. Không kê kháng sinh, thuốc hạ sốt, thuốc nhỏ mũi có hoạt chất. Men tiêu hóa đang dùng: tiếp tục hay ngưng đều chấp nhận."
+     }
+    ],
+    "dan_do": [
+     "Bé viêm mũi họng do virus, lây từ người lớn trong nhà, không cần kháng sinh, thường tự khỏi sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp mục 5.1). Chị và bà rửa tay trước khi bế bé; vẫn cho bú. Hút mũi, nhỏ nước muối trước cữ bú. Không tự cho thuốc ho, hạ sốt, nhỏ mũi, thuốc nam, thuốc cam (WHO 2013 mục 4.4).",
+     "Khóc đỏ mặt, giật mình khi đặt nôi là gặp ở bé khỏe; bác sĩ đã khám thần kinh thấy bình thường. Nếu bé co giật, người cứng đờ, mắt trợn, tím, li bì khó đánh thức, bú kém thì đến ngay (WHO 2013 mục 3.6).",
+     "Mua nhiệt kế điện tử, đo khi bé nóng hoặc quấy. Từ 38,0 °C hoặc dưới 35,5 °C, thở từ 60 l/p, rên, rút lõm ngực, thóp phồng thì đến bệnh viện ngay trong ngày (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6). Tái khám sau 48 giờ dù bé có đỡ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bé Khang 22 ngày tuổi, 3,92 kg, mẹ bế tái khám theo hẹn sau 48 giờ. Mẹ kể ban ngày bé thông mũi hơn nhưng đêm nghẹt nặng, thêm ho nhẹ, và đêm qua tay chân run khi ngủ. Nhiệt độ nách 37,0 °C, mạch 136 l/p, nhịp thở 46 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang tỉnh, bú trọn cữ, nách 37,0 °C, thở 46 l/p, đường huyết 4,1 mmol/l (trên ngưỡng hạ đường huyết 2,2 mmol/l của WHO 2013 mục 3.6), khám thần kinh đối xứng: không có dấu hiệu nguy hiểm nào, nên chưa có chỉ định nhập viện vì cơn run khi ngủ. Giữ bé lại viện, lấy máu, chọc dò tủy cho một cơn run đã dừng là can thiệp xâm lấn không cần, mẹ thêm hoảng và nhà tốn kém, còn chai thuốc nhỏ mũi vẫn ở nhà.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi hay khoa thần kinh vì cơn run chỉ xảy ra khi ngủ và đã dừng là quá tay: khám lúc này bình thường, bé bú khỏe, không sốt, không tím (WHO 2013 mục 3.6–3.7). Chuyến đi xa làm bé mệt thêm, và nếu chưa xem chai thuốc nhỏ mũi thì nguyên nhân bé nghẹt về đêm vẫn còn ở nhà."
+   },
+   "loi_mo": "Dạ bác sĩ, bé đỡ một chút, ban ngày thông hơn nhưng tối đến lại nghẹt nặng hơn hôm trước, giờ thêm ho. Còn đêm qua bé run tay run chân, em quay được video đây. Em sợ lắm, ông ngoại cũng bắt đầu bằng mấy chuyện lạ như vậy. Bác sĩ coi giúp em, em nhỏ nước muối đàng hoàng rồi.",
+   "sinh_hieu": {
+    "mach": 136,
+    "ha": "Không đo",
+    "nhiet": "37,0 (nách)",
+    "nhip_tho": 46,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bệnh sang ngày thứ 4. Ban ngày bé thông mũi, bú tốt hơn; từ chiều tối nghẹt nặng, bú nhả vú nhiều hơn, ngủ khò khè. Ho nhẹ từ hôm qua, ho khan, không ho thành cơn. Không sốt khi sờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 48 giờ"
+    },
+    {
+     "id": "nhiet",
+     "noi_dung": "Mẹ đã mua nhiệt kế điện tử, đo nách tối qua 36,9 °C và sáng nay 37,0 °C. Không dùng thuốc hạ sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiệt độ ở nhà sau khi được dặn"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ trọn cữ ban ngày; ban đêm có 2 cữ bú dở rồi nhả thở. Tã ướt 6–7 cái mỗi ngày, phân vàng. Không nôn vọt, không bỏ cữ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt"
+    },
+    {
+     "id": "run",
+     "noi_dung": "Đêm qua khoảng 2 giờ sáng bé run hai tay và hai chân vài nhịp nhỏ lúc vừa chìm vào giấc, kéo dài chừng nửa phút; mẹ giữ bàn tay thì ngừng, bé không tỉnh, không khóc. Mắt nhắm, không trợn, không tím, không cứng người, không chép môi. Video 20 giây ghi lại cảnh này. Sau đó bé ngủ lại và bú bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn run khi ngủ: đặc điểm để phân biệt với co giật"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không tím, không rên, không li bì, đói thì tự thức đòi bú, khóc to. Mẹ không thấy bé thở nhanh hay rút lõm ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Từ chiều hôm qua bà ngoại nhỏ vào mũi bé thuốc nhỏ mũi naphazolin của ông (chai người lớn), mỗi bên vài giọt, 3–4 lần mỗi ngày, vì thấy 'nhỏ vào là mũi thông ngay'. Mẹ biết nhưng sợ bác sĩ trách bà nên nói 'chỉ nhỏ nước muối'. Mũi thông được chừng vài giờ rồi nghẹt lại nặng hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ khẳng định chỉ nhỏ nước muối. Chỉ nói thật và đưa chai ra khi bác sĩ xin xem chai hoặc nhãn các thứ đang nhỏ vào mũi, hỏi bà đã nhỏ gì, hoặc hỏi lại nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi người lớn tự ý dùng"
+    },
+    {
+     "id": "lo_dot_quy",
+     "noi_dung": "Ông ngoại đang tập phục hồi chức năng, nói còn ngọng. Mẹ nói: 'Em xem video thấy giống chuyện co giật trên mạng'. Mẹ cần được nghe bác sĩ nói bé không bị gì về não và biết dấu hiệu thật.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo đột quỵ vẫn còn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,92 kg (tăng 120 g sau 2 ngày; mức tăng cân bình thường: không có trong tài liệu đã tải). Tỉnh, khóc to, hồng hào, mao mạch hồi sắc dưới 2 giây. Nách 37,0 °C. Không vàng da.",
+     "k": 1,
+     "hien": "Cân 3,92 kg. Tỉnh, khóc to, hồng hào. Nách 37,0 °C."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bú trọn cữ, mút – nuốt đều, nhả ra thở 1–2 nhịp mỗi 8–10 nhịp mút; SpO₂ trong lúc bú 96–98%, không sặc, không tím.",
+     "k": 1,
+     "hien": "Bú trọn cữ, nhả ra thở 1–2 nhịp. Không sặc."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm. Không hạch cổ.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc đỏ, phù nề, dịch trong, hơi khô quanh lỗ mũi; sau khi hút thông được rồi nghẹt lại sau vài phút. Họng: thành sau đỏ nhẹ, nhầy trong, không giả mạc, không mảng trắng dính. Hai màng nhĩ xám hồng, không phồng. Mùi thuốc nhỏ mũi trên khăn của bé.",
+     "k": 1,
+     "hien": "Mũi đỏ, phù nề, dịch trong. Họng đỏ nhẹ, không giả mạc."
+    },
+    "tim": {
+     "a": "Tim đều 136 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ, đều.",
+     "k": 0,
+     "hien": "Tim đều, tần số 136 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p đếm đủ 1 phút lúc bé yên, đều. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên; tiếng lọc xọc truyền từ mũi, giảm khi hút mũi. Không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 46 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, trương lực bình thường, hai tay hai chân cử động đối xứng, phản xạ ôm đối xứng, mút mạnh, mặt cân đối khi khóc. Khi để nằm yên 5 phút: thỉnh thoảng run nhẹ hai bàn tay khi vừa giật mình, dừng khi bế hoặc giữ bàn tay, bé vẫn tỉnh, khóc bình thường, không tím. Video của mẹ: run hai tay hai chân, mắt nhắm, giữ tay thì dừng, không tím.",
+     "k": 1,
+     "hien": "Tỉnh, trương lực bình thường, đối xứng. Có lúc run nhẹ hai bàn tay, dừng khi giữ tay."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "4,1 mmol/l",
+     "n": "Hữu ích khi có cơn nghi co giật: hạ đường huyết là một nguyên nhân hay gặp của co giật sơ sinh; ngưỡng can thiệp < 2,2 mmol/l (WHO 2013 mục 3.6–3.7). Không làm không bị trừ điểm nặng nhưng đây là cách rẻ nhất để trả lời nỗi lo của mẹ."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không có giả mạc để lấy bệnh phẩm; chưa phết.",
+     "n": "Nghi bạch hầu cần có giả mạc và dịch tễ (QĐ 2957/2020 mục 5.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi họng / V.A cấp do virus ngày thứ 4, đỡ một phần, diễn tiến bình thường; có dùng thuốc nhỏ mũi người lớn không đúng",
+     "ok": 1,
+     "n": "Không sốt, bú tốt, tỉnh, thở 46 l/p; virus tự khỏi sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp mục 5.1), cảm lạnh phần lớn hết trong 14 ngày (WHO 2013 mục 4.4). Nghẹt tăng về đêm sau mỗi lần nhỏ thuốc người lớn: thuốc không nên dùng (WHO 2013 mục 4.4); cơ chế nghẹt mũi dội ngược: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cơn run khi ngủ không phải co giật (đã khám thần kinh, đo đường huyết)",
+     "ok": 1,
+     "n": "Run đối xứng, ngừng khi giữ tay, bé tỉnh, không tím, không trợn mắt; khám thần kinh bình thường; đường huyết 4,1 mmol/l (WHO 2013 mục 3.6–3.7 liệt kê co giật, li bì, không cử động là dấu hiệu nguy hiểm, bé không có). Tiêu chí phân biệt chi tiết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ không phồng, không sốt; viêm tai là biến chứng của viêm V.A (QĐ 5643 Viêm V.A cấp mục 5)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / viêm màng não sơ sinh",
+     "n": "Nách 37,0 °C, tỉnh, bú trọn cữ, thóp phẳng; chưa đạt ngưỡng sốt 38 °C (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6). Vẫn dặn nhiệt kế."
+    },
+    {
+     "t": "Viêm phổi / tiểu phế quản",
+     "n": "Thở 46 l/p dưới 60 l/p, không rút lõm, phổi không ran (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Viêm họng liên cầu / bạch hầu",
+     "n": "Dưới 3 tuổi (IDSA 2012 I.5); không giả mạc (QĐ 2957/2020 mục 5.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xin xem chai thuốc nhỏ mũi; ngưng ngay thuốc naphazolin của ông; chỉ dùng nước muối sinh lý 0,9%, hút mũi trước cữ bú",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất. QĐ 5643 Viêm V.A cấp mục 4.2 nêu ephedrin 1%, argyron 1% cho trẻ nhỏ (sổ mâu thuẫn 'Thuốc nhỏ mũi có hoạt chất'): không nêu liều hay tuổi tối thiểu cho sơ sinh và không nêu naphazolin; hai nguồn cùng không ủng hộ dùng chai người lớn. Tác dụng phụ cụ thể của naphazolin ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xem video, khám thần kinh, đo đường huyết mao mạch; kết luận cơn run khi ngủ không phải co giật; trấn an mẹ bằng kết quả",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (dấu hiệu nguy hiểm), 3.7 (nguyên nhân co giật sơ sinh và ngưỡng đường huyết 2,2 mmol/l). Cách phân biệt run và co giật: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kháng sinh, tiếp tục hút mũi, nước muối, bú mẹ; giải thích 'đỡ một phần' là bình thường ở ngày thứ 4",
+     "v": "c",
+     "n": "QĐ 5643 Viêm V.A cấp mục 4.1–4.2; Viêm mũi họng cấp mục 5.1 (3–5 ngày); WHO 2013 mục 4.4 (phần lớn hết trong 14 ngày, không kháng sinh)."
+    },
+    {
+     "t": "Ho nhẹ mới: không cho thuốc ho, thuốc long đờm, thuốc có codein hoặc atropin; đếm nhịp thở, theo dõi tại nhà",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc chứa atropin, codein, cồn, thuốc long đờm; theo dõi thở nhanh hoặc khó thở (mục 4.4 Follow-up)."
+    },
+    {
+     "t": "Nhắc lại nhiệt kế (nách hoặc hậu môn) và ngưỡng 38,0 °C; dấu hiệu đến ngay như lượt 1, thêm: co giật từng nhịp, người cứng đờ, mắt trợn, tím",
+     "v": "c",
+     "n": "NICE NG143 mục 1.1.2, 1.2.12 hoặc AAP 2021 (hậu môn ≥ 38,0 °C) – sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần'; WHO 2013 mục 3.6 (tr. 52)."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày hoặc sớm hơn khi có dấu hiệu nguy hiểm; không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Ho, cảm lạnh tái khám sau 5 ngày nếu không đỡ (WHO 2013 Bảng 7, tr. 81 (bảng cho trẻ từ 2 tháng, dùng tham khảo cho sơ sinh)); bé đã đỡ một phần và không có dấu hiệu nguy hiểm (mục 3.6). Mốc tái khám riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men tiêu hóa đang dùng: tiếp tục hoặc ngưng đều chấp nhận",
+     "v": "a",
+     "n": "Tài liệu đã tải không có chỉ định hay nguy cơ của men tiêu hóa ở sơ sinh."
+    },
+    {
+     "t": "Nhập viện theo dõi hoặc ghi điện não, chọc dò tủy vì cơn run khi ngủ",
+     "v": "w",
+     "n": "Không dấu hiệu nguy hiểm, không sốt, khám thần kinh bình thường, đường huyết bình thường (WHO 2013 mục 3.6–3.7)."
+    },
+    {
+     "t": "Cho tiếp thuốc nhỏ mũi co mạch hoặc thuốc ho vì mũi nghẹt, ho",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc nhỏ mũi có hoạt chất và thuốc ho có atropin, codein."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi họng / V.A cấp do virus ở sơ sinh 22 ngày, ngày thứ 4, đỡ một phần, không sốt, không dấu hiệu nguy hiểm",
+     "Cơn run hai tay hai chân khi ngủ: không phải co giật (khám thần kinh bình thường, đường huyết 4,1 mmol/l)",
+     "Bà ngoại tự nhỏ thuốc nhỏ mũi naphazolin của người lớn từ hôm qua",
+     "Nỗi sợ đột quỵ của mẹ còn nguyên, phải được trả lời bằng khám và giải thích"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần ở ngày thứ 4: virus tự khỏi sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp mục 5.1); cảm lạnh phần lớn hết trong 14 ngày (WHO 2013 mục 4.4). Ban ngày thông, tối nghẹt, ho nhẹ mới là hồi phục chậm bình thường, chưa phải thất bại điều trị: bé không sốt, bú trọn cữ, thở 46 l/p, không dấu hiệu nguy hiểm.",
+     "Thất bại điều trị sẽ biểu hiện bằng sốt (≥ 38 °C), bú kém, li bì, thở từ 60 l/p, rên, rút lõm ngực, co giật (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6): bé chưa có dấu nào.",
+     "Mảnh thông tin bị giấu: mẹ nói 'chỉ nhỏ nước muối'. Chỉ khi bác sĩ xin xem chai và nhãn thuốc đang nhỏ vào mũi mới lộ ra chai naphazolin của ông. Hỏi lại không trách: 'bà có nhỏ gì khác không ạ, chị cho em xem chai'.",
+     "Cơn run: bé tỉnh, mắt nhắm lúc ngủ, giữ tay thì ngừng, không tím, khám thần kinh bình thường, đường huyết trên ngưỡng 2,2 mmol/l. Co giật sơ sinh thường do thiếu oxy khi sinh, nhiễm trùng thần kinh, hạ đường huyết, hạ canxi (WHO 2013 mục 3.7); bé không có yếu tố nào. Tiêu chí phân biệt chi tiết: không có trong tài liệu đã tải.",
+     "Viêm tai giữa, viêm phổi, nhiễm khuẩn huyết, liên cầu, bạch hầu: loại như phần chẩn đoán."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc nhỏ mũi người lớn: WHO 2013 mục 4.4; QĐ 5643 mục 4.2 chỉ nêu ephedrin 1%, argyron 1% cho trẻ nhỏ, không có liều cho sơ sinh. Nói với bà không có lỗi, chỉ là thuốc không hợp với bé.",
+     "Không kháng sinh, không thuốc ho (WHO 2013 mục 4.4); không nhập viện, không chuyển tuyến vì không dấu hiệu nguy hiểm (mục 3.6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Nhỏ vài giọt mỗi bên rồi hút nhẹ (số giọt: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2; WHO 2013 mục 4.4. Ngưng hẳn naphazolin người lớn. Không kê kháng sinh, thuốc ho, thuốc hạ sốt."
+     }
+    ],
+    "dan_do": [
+     "Bé đỡ dần đúng như bệnh virus thường diễn ra, chưa cần kháng sinh. Ngưng hẳn chai thuốc nhỏ mũi của ông, đưa chai cho bác sĩ giữ hoặc cất xa tầm tay; chỉ dùng nước muối sinh lý và hút mũi.",
+     "Cơn run đêm qua: bác sĩ đã xem video, khám thần kinh và đo đường huyết đều bình thường; không phải co giật hay đột quỵ. Nếu bé người cứng đờ, mắt trợn, giật từng nhịp không dừng khi giữ tay, tím, li bì, bú kém thì đến ngay (WHO 2013 mục 3.6–3.7).",
+     "Không cho thuốc ho, long đờm, thuốc cam, thuốc nam (WHO 2013 mục 4.4). Men tiêu hóa: dùng hay ngưng đều được.",
+     "Đo nhiệt độ khi nóng hoặc quấy; từ 38,0 °C hoặc dưới 35,5 °C, thở từ 60 l/p, rên, rút lõm ngực thì đi ngay (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6). Tái khám sau 5 ngày (WHO 2013 Bảng 7)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Bé Khang 27 ngày tuổi, 4,18 kg, mẹ bế tái khám theo hẹn sau 5 ngày. Mẹ kể bé hết nghẹt mũi, bú ngon, còn thỉnh thoảng hắt hơi. Nhiệt độ nách 36,8 °C, mạch 132 l/p, nhịp thở 44 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang 27 ngày tuổi đã hết nghẹt mũi, bú tốt, không sốt, thở 44 l/p, khám thần kinh bình thường: nhập viện để theo dõi hay làm xét nghiệm cho yên tâm không có chỉ định (WHO 2013 mục 3.6; QĐ 5643/2015 Viêm V.A cấp mục 4.1). Bé bị chích, mẹ lại tin bé bệnh nặng và nỗi sợ đột quỵ càng ăn sâu.",
+    "chuyen_tuyen": "Chuyển bé lên chuyên khoa thần kinh nhi để chụp MRI sọ não cho 'chắc ăn' vì mẹ vẫn lo là quá tay: khám thần kinh hai lượt bình thường, đường huyết bình thường, bé tăng cân, cơn run chỉ xảy ra một lần khi ngủ. Chụp hình cho bé một tháng tuổi có thể phải an thần, tốn kém, không có chỉ định trong tài liệu đã tải; nỗi lo nên được xử lý bằng giải thích."
+   },
+   "loi_mo": "Dạ bác sĩ, bé hết nghẹt mũi rồi, bú ngon, ngủ yên. Em cũng thấy nhẹ người, đêm nay là đêm đầu em ngủ được. Em chỉ muốn bác sĩ khám lại cho chắc là bé không sao ạ.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "Không đo",
+    "nhiet": "36,8 (nách)",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mũi thông từ 3 ngày nay, chỉ hắt hơi vài lần mỗi ngày, hết ho. Bú trọn cữ cả ngày lẫn đêm. Ngủ yên, không khò khè.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 5 ngày"
+    },
+    {
+     "id": "nhiet",
+     "noi_dung": "Mẹ đo nách mỗi ngày 36,8–37,0 °C, chưa lần nào từ 38 °C. Không dùng thuốc hạ sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiệt độ ở nhà"
+    },
+    {
+     "id": "mui",
+     "noi_dung": "Chai thuốc nhỏ mũi của ông đã cất đi từ sau lượt 2; bà không nhỏ nữa. Chỉ nhỏ nước muối khi cần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng thuốc nhỏ mũi người lớn"
+    },
+    {
+     "id": "run",
+     "noi_dung": "Không còn cơn run nào từ sau đêm hôm đó. Thỉnh thoảng bé giật mình lúc mới đặt xuống nôi rồi nín ngay khi mẹ vỗ nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn run không tái phát"
+    },
+    {
+     "id": "tiem",
+     "noi_dung": "Đã tiêm viêm gan B và BCG lúc sinh. Chưa đủ 2 tháng nên chưa tiêm vắc xin phối hợp có bạch hầu. Mẹ hỏi 'bao giờ tiêm'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tiêm chủng (bạch hầu)"
+    },
+    {
+     "id": "lo_con_lai",
+     "noi_dung": "Mẹ còn lo: 'Nhà có người bị đột quỵ thì con có bị không ạ?'. Mẹ chưa dám hỏi lúc trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ hỏi khi bác sĩ nhắc đến nỗi lo lúc đầu hoặc hỏi 'chị còn băn khoăn gì không'.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo còn lại, cần hẹn khám riêng cho người lớn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 4,18 kg (tăng 260 g sau 5 ngày; mức tăng cân bình thường: không có trong tài liệu đã tải). Tỉnh, hồng hào, khóc to. Nách 36,8 °C. Không vàng da.",
+     "k": 1,
+     "hien": "Cân 4,18 kg. Tỉnh, hồng hào. Nách 36,8 °C."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bú trọn cữ liền mạch, không nhả ra thở, SpO₂ trong lúc bú 97–99%, không sặc.",
+     "k": 1,
+     "hien": "Bú trọn cữ, không nhả ra thở."
+    },
+    "dau_mat_co": {
+     "a": "Thóp phẳng, mềm. Cổ mềm, không hạch.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông hai bên, niêm mạc hồng, không dịch. Họng hồng, không nhầy, không giả mạc. Màng nhĩ hai bên xám hồng, không phồng.",
+     "k": 1,
+     "hien": "Mũi thông. Họng hồng."
+    },
+    "tim": {
+     "a": "Tim đều 132 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ, đều.",
+     "k": 0,
+     "hien": "Tim đều, tần số 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p đếm đủ 1 phút lúc bé yên, đều. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên; tiếng lọc xọc truyền từ mũi, giảm khi hút mũi. Không ran, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, trương lực bình thường, cử động hai bên đối xứng, phản xạ ôm đối xứng, mút mạnh, mặt cân đối khi khóc. Không run.",
+     "k": 1,
+     "hien": "Tỉnh, trương lực bình thường, đối xứng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,9 G/L · Neutrophil 35% · Lymphocyte 55% · Hb 148 g/L · TC 300 G/L",
+     "n": "Không cần: bé khỏe, không sốt (QĐ 5643/2015 Viêm mũi họng cấp mục 3.1.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi họng / V.A cấp do virus ở sơ sinh 27 ngày, đã khỏi, bú tốt, tăng cân, không biến chứng",
+     "ok": 1,
+     "n": "Hết nghẹt mũi sau khoảng 9 ngày bệnh, nằm trong khoảng cảm lạnh phần lớn hết trong 14 ngày (WHO 2013 mục 4.4); hồi phục không có biến chứng tai, phổi (QĐ 5643 Viêm V.A cấp mục 5)."
+    },
+    {
+     "t": "Viêm tai giữa cấp, viêm phổi, nhiễm khuẩn huyết",
+     "n": "Màng nhĩ không phồng, phổi không ran, thở 44 l/p, không sốt (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Bạch hầu, viêm họng liên cầu",
+     "n": "Không giả mạc, hạch, dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1); dưới 3 tuổi (IDSA 2012 I.5). Bé chưa đủ tuổi tiêm vắc xin phối hợp bạch hầu nên tiền sử tiêm chủng không phải yếu tố đáng lo."
+    },
+    {
+     "t": "Bệnh lý thần kinh sơ sinh (co giật, đột quỵ)",
+     "n": "Khám thần kinh bình thường hai lượt liên tiếp, cơn run không tái phát, bú tốt, tăng cân (WHO 2013 mục 3.6–3.7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận khỏi bệnh; không thuốc; tiếp tục bú mẹ hoàn toàn, nước muối khi cần",
+     "v": "c",
+     "n": "QĐ 5643 Viêm V.A cấp mục 4.1 (điều trị triệu chứng), Viêm mũi họng cấp mục 5.1; WHO 2013 mục 4.4."
+    },
+    {
+     "t": "Không kê kháng sinh, thuốc ho, thuốc nhỏ mũi có hoạt chất",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4; QĐ 5643 Viêm V.A cấp mục 4.1."
+    },
+    {
+     "t": "Trả lời nỗi lo đột quỵ: khám thần kinh bình thường hai lượt, cơn run đã hết; giải thích nguy cơ gia đình cần khám riêng cho người lớn khi cần",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6–3.7. Nguy cơ đột quỵ ở sơ sinh theo tiền sử gia đình và yếu tố nguy cơ của người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tiêm vắc xin phối hợp có thành phần bạch hầu lần 1 khi đủ 2 tháng tuổi",
+     "v": "c",
+     "n": "TT 10/2024/TT-BYT Phụ lục (TL-0005, bản chữ OCR cần xác nhận ở PDF gốc): lần 1 khi trẻ đủ 02 tháng tuổi; QĐ 2957/2020 mục 7: bắt đầu từ 2–3 tháng (sổ mâu thuẫn 'Lịch tiêm vắc xin bạch hầu'): cả hai chấp nhận."
+    },
+    {
+     "t": "Giữ nhiệt kế ở nhà; dặn lại ngưỡng đến ngay; tái khám khi có dấu hiệu nguy hiểm hoặc theo lịch tiêm chủng",
+     "v": "c",
+     "n": "NICE NG143 mục 1.1.2, 1.2.12 hoặc AAP 2021 (hậu môn ≥ 38,0 °C) – sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần'; WHO 2013 mục 3.6. Mốc theo dõi sau khỏi cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cất hẳn thuốc nhỏ mũi người lớn, thuốc cam, thuốc nam; hỏi bà về thuốc trước khi cho bé",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (không thuốc nhỏ mũi có hoạt chất)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển thần kinh nhi để chụp MRI sọ não cho yên tâm",
+     "v": "w",
+     "n": "Khám thần kinh bình thường, không dấu hiệu nguy hiểm (WHO 2013 mục 3.6–3.7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi họng / V.A cấp do virus ở sơ sinh 27 ngày, đã khỏi, không biến chứng",
+     "Cơn run khi ngủ không tái phát; khám thần kinh bình thường hai lượt",
+     "Nỗi lo đột quỵ liên quan ông ngoại cần được trả lời bằng giải thích",
+     "Chưa đến tuổi tiêm vắc xin phối hợp có bạch hầu"
+    ],
+    "phan_tich_chan_doan": [
+     "Khỏi: hết nghẹt mũi, bú trọn cữ, tăng cân, không sốt, họng và mũi hồng, phổi không ran. Khoảng 9 ngày: trong khoảng cảm lạnh phần lớn hết trong 14 ngày (WHO 2013 mục 4.4), dài hơn mốc 3–5 ngày (QĐ 5643 Viêm mũi họng cấp mục 5.1); bé luôn không có dấu hiệu nguy hiểm.",
+     "Bạch hầu: không giả mạc, không hạch, không dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1); bé chưa đủ 2 tháng nên chưa tới tuổi tiêm lần 1 (TT 10/2024 Phụ lục).",
+     "Nỗi lo còn lại của mẹ: hỏi 'chị còn băn khoăn gì không' sẽ lộ ra câu hỏi về nguy cơ gia đình. Tài liệu đã tải không có nguy cơ đột quỵ ở sơ sinh theo tiền sử người nhà; nói thật điều đó, đồng thời khuyên người lớn trong nhà khám riêng."
+    ],
+    "phan_tich_xu_tri": [
+     "Kết thúc ca không thuốc: viêm V.A cấp chủ yếu điều trị triệu chứng (QĐ 5643 mục 4.1). Không kháng sinh (WHO 2013 mục 4.4).",
+     "Lịch tiêm: lần 1 lúc đủ 2 tháng (TT 10/2024 Phụ lục, OCR); QĐ 2957/2020 mục 7 ghi 2–3 tháng. Giữ nhiệt kế, dặn dấu hiệu nguy hiểm như các lượt trước (WHO 2013 mục 3.6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Nhỏ vài giọt mỗi bên khi nghẹt mũi (số giọt: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi, trước cữ bú",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 5643 Viêm V.A cấp mục 4.2; WHO 2013 mục 4.4. Không kê thuốc nào khác."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi viêm mũi họng. Không cần thuốc; tiếp tục bú mẹ hoàn toàn, nhỏ nước muối khi nghẹt.",
+     "Nỗi sợ đột quỵ: bác sĩ đã khám thần kinh hai lần đều bình thường, cơn run không còn. Nếu chị lo về nguy cơ của người lớn trong nhà, hãy khám riêng cho mình và cho bà; điều đó nằm ngoài khám của bé.",
+     "Tiêm vắc xin phối hợp có bạch hầu lần 1 khi đủ 2 tháng tuổi (TT 10/2024). Không cho thuốc nhỏ mũi người lớn, thuốc cam, thuốc nam.",
+     "Đo nhiệt độ khi nóng hoặc quấy; từ 38,0 °C hoặc dưới 35,5 °C, bú kém, li bì, co giật, thở từ 60 l/p, tím thì đi ngay (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Khang 27 ngày tuổi khỏi viêm mũi họng virus sau khoảng 9 ngày, bú tốt, tăng cân, khám thần kinh bình thường hai lượt, cơn run khi ngủ không tái phát. Bà ngoại ngưng thuốc nhỏ mũi của ông; mẹ ngủ được và biết dấu hiệu thật cần đưa bé đến ngay; hẹn tiêm vắc xin phối hợp khi đủ 2 tháng.",
+ "nhieu": [
+  "Bà ngoại nhỏ thuốc nhỏ mũi naphazolin của ông ở lượt 2, mẹ giấu vì sợ bị trách; làm diễn tiến 'đỡ một phần' khó đọc.",
+  "Cơn run khi ngủ và khóc đỏ mặt: gây hoảng, dễ kéo bác sĩ sang hướng nhập viện hoặc chuyển tuyến thần kinh.",
+  "Không có X-quang, siêu âm, CT: không cần để chẩn đoán ca này."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh bệnh sử hoàn toàn qua người nuôi: hỏi cụ thể từng người trong nhà có ho, sổ mũi, sốt trong một tuần, hỏi lại nhẹ nhàng không trách để lộ nguồn lây bị giấu.",
+  "Lý do thật đến khám (sợ đột quỵ) nằm ngoài triệu chứng của bé: hỏi 'chị lo nhất điều gì', khám thần kinh cho mẹ thấy và đo đường huyết nếu có cơn nghi co giật; tài liệu đã tải không có tiêu chí phân biệt chi tiết rùng mình và co giật sơ sinh.",
+  "Đỡ một phần ở ngày thứ 4–5: phân biệt hồi phục chậm bình thường (không sốt, bú trọn cữ, không dấu hiệu nguy hiểm) với thất bại sớm (sốt ≥ 38 °C, bú kém, li bì, thở từ 60 l/p) trước khi nghĩ đến nhập viện (WHO 2013 mục 3.6).",
+  "Xin xem chai và nhãn mọi thứ đang nhỏ vào mũi bé: không dùng thuốc nhỏ mũi có hoạt chất (WHO 2013 mục 4.4).",
+  "Cặp tương phản với NH-0217 (cùng bệnh, cùng nhóm tuổi): bé sốt thì nhập viện (NH-0217 lượt 2); bé suốt 3 lượt không sốt thì ngoại trú. Khác nhau ở nhiệt độ và dấu hiệu nguy hiểm, không ở triệu chứng mũi."
+ ],
+ "diem_nho": [
+  "Viêm V.A cấp: hút mũi, rỏ mũi, nâng đỡ cơ thể; kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643/2015, Viêm V.A cấp mục 4.1–4.2).",
+  "Viêm mũi họng do virus tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp mục 5.1); ho, cảm lạnh phần lớn hết trong 14 ngày, không dùng kháng sinh, thuốc nhỏ mũi có hoạt chất, thuốc ho atropin, codein (WHO 2013 mục 4.4).",
+  "Dấu hiệu nguy hiểm ở sơ sinh: bú kém, co giật, li bì, thở 60 l/p, rên, rút lõm nặng, nhiệt độ > 38 °C hoặc < 35,5 °C, tím trung ương (WHO 2013 mục 3.6, tr. 52); trẻ dưới 3 tháng từ 38 °C là nguy cơ cao (NICE NG143 mục 1.2.12).",
+  "Đo nhiệt độ: nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần (NICE NG143 mục 1.1.2) hoặc hậu môn ≥ 38,0 °C (AAP 2021).",
+  "Bạch hầu: giả mạc trắng ngà dính chặt, bóc chảy máu, hạch góc hàm đau; ca nghi ngờ cần giả mạc và dịch tễ (QĐ 2957/2020 mục 3.1.3, 5.1).",
+  "Vắc xin phối hợp có bạch hầu lần 1 khi đủ 2 tháng tuổi (TT 10/2024 Phụ lục; QĐ 2957/2020 mục 7 ghi 2–3 tháng)."
+ ],
+ "nguon": [
+  "QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm V.A cấp mục 1–4 (tr. 137–139); Viêm mũi họng cấp tính mục 2–6 (tr. 133–136)",
+  "QĐ 2957/QĐ-BYT 2020 – Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu – TL-0129 – ĐÃ ĐỌC: mục 3.1.2, 3.1.3, 5.1, 7",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52), 3.7 (tr. 53), 3.10.4, 4.4 (tr. 90–91), 10.4, Bảng 7 (tr. 81)",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.3–1.5.4, 1.6.5, 1.7.2, Bảng 2",
+  "AAP 2021 – Pediatrics 148(2):e2021052228, Well-Appearing Febrile Infants 8 to 60 Days Old – TL-0261 – ĐÃ ĐỌC: phần đối tượng (sốt = hậu môn ≥ 38,0 °C)",
+  "IDSA 2012 – Group A Streptococcal Pharyngitis – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, I.5",
+  "TT 10/2024/TT-BYT – Danh mục bệnh truyền nhiễm, đối tượng và phạm vi phải sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC: Phụ lục, vắc xin phối hợp lần 1 lúc đủ 02 tháng (bản chữ OCR, cần xác nhận ở PDF gốc)",
+  "Không có trong tài liệu đã tải: tiêu chí phân biệt rùng mình sinh lý với co giật sơ sinh; liều paracetamol và kháng sinh uống cho sơ sinh dưới 1 tháng; số giọt, số lần nhỏ nước muối cho sơ sinh; khoảng tham chiếu công thức máu, CRP sơ sinh; mức tăng cân bình thường; tác dụng phụ của naphazolin nhỏ mũi ở sơ sinh; cơ chế nghẹt mũi dội ngược do thuốc co mạch; men tiêu hóa ở sơ sinh; nguy cơ đột quỵ ở trẻ theo tiền sử gia đình; khẩu trang cho người chăm bé; mốc tái khám cho sơ sinh viêm mũi họng."
+ ],
+ "ghi_chu_bien_tap": [
+  "05/11/2026: viết bản 1. Sổ mâu thuẫn đã tra và áp dụng: 'Viêm họng đỏ cấp ở trẻ > 3 tuổi…' (kháng sinh uống cho sơ sinh chấm w vì không có liều, như NH-0217); 'Thuốc nhỏ mũi có hoạt chất trong viêm mũi họng/V.A cấp' (nay thêm đối tượng sơ sinh và chai người lớn); 'Đo nhiệt độ ở trẻ dưới 4 tuần: nách hay hậu môn'; 'Lịch tiêm vắc xin bạch hầu'. Mâu thuẫn mới: không.",
+  "Tài liệu đã đọc: xem trường nguon. Không dùng ô bảng xét nghiệm (khoảng tham chiếu của app là người lớn), kết quả ghi bằng chữ trong r.",
+  "Ca cùng bệnh, cùng nhóm tuổi với NH-0217 (đã xuất): khác ở chỗ không sốt cả 3 lượt (ket_luan ve_hen cả 3), bẫy là thuốc nhỏ mũi người lớn và nỗi sợ đột quỵ; nhân vật, nhà, diễn tiến đều khác."
+ ]
+}
