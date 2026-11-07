@@ -1,0 +1,859 @@
+{
+ "ma_ca": "NH-0356",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Mẹ tự ngưng thuốc đang dùng (kháng sinh đợt trước của bé, và ông nội tự ngưng thuốc mỡ máu)",
+  "thuoc_dang_dung": "Statin (atorvastatin) của ông nội sống chung; bé không dùng statin",
+  "ly_do_that_su_den_kham": "Sợ bé lây bệnh cho người thân (ông nội mới đặt stent mạch vành)"
+ },
+ "benh_nhan": {
+  "ten": "Võ Gia Hưng",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo (lớp Chồi, trường mầm non bán trú)",
+  "can_nang": 17,
+  "chieu_cao": 104,
+  "xung_ho": "Hưng 4 tuổi, xưng 'con' hoặc 'Hưng', gọi bác sĩ là 'bác sĩ'. Mẹ (chị Hoài, 31 tuổi, nhân viên kho giao nhận) xưng 'em' với bác sĩ; bác sĩ gọi chị là 'chị'.",
+  "tinh_cach": "Hưng hiền, hay ôm gấu bông, sợ đèn soi tai. Chị Hoài thương con, tan ca 18 giờ rồi chạy thẳng đi khám, nói nhanh, lo xa, ngại thuốc 'hại gan' từ khi ông nội đọc tin trên mạng.",
+  "kieu_nhieu": "Giấu tiền sử: hỏi chung 'bé có bệnh tai trước đây không' thì chị đáp 'dạ không, bé chỉ cảm thôi'. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, cụ thể, không phán xét: lần gần nhất bé đau tai, lần đó uống thuốc gì mấy ngày, có ngưng sớm không. Chị ngại bị trách. Hưng không tự nói đau tai; hỏi thẳng thì chỉ tai phải.",
+  "nguoi_nha": "Mẹ bé (chị Hoài, 31 tuổi) đi cùng một mình. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng bé thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hoài)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#7ab8d9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c97b7b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt 2 ngày, đau tai phải, khóc quấy, bỏ ăn",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: phòng khám tối nay không làm được xét nghiệm máu, test nhanh, X-quang hay siêu âm; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, máy đo SpO₂, đèn soi tai có bóng hơi (soi tai khí nén), máy nhĩ lượng cầm tay."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 17 kg, mẹ đưa đến lúc 19 giờ 40 tối thứ Sáu vì sốt 2 ngày, tối nay kêu đau tai phải, khóc quấy, bỏ ăn. Sinh hiệu: nhiệt 39,1 °C, mạch 128 l/p, nhịp thở 28 l/p, SpO₂ 98%. Bé mệt, quấy, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chỉ hạ sốt và theo dõi tại nhà, không kháng sinh, là chưa đủ: sốt 39,1 °C, đau khoảng 2 ngày, mệt, nôn là nhóm nặng; AAP 2013 KAS 3A (khuyến cáo mạnh) và Italian Consensus 2025 khuyến cáo 2.1 đòi kháng sinh ngay. Bé có thể thủng màng nhĩ chảy mủ hoặc sưng sau tai (QĐ 5643 Viêm tai giữa cấp mục 4.3.1, 5.2, tr. 213–214).",
+    "nhap_vien": "Nhập viện hoặc tiêm kháng sinh là quá tay: bé tỉnh, uống được, SpO₂ 98%, không dấu màng não nên điều trị ngoại trú (WHO 2013 mục 6.7.2, tr. 183). NICE NG91 khuyến cáo 1.1.14 chỉ chuyển khi nhiễm khuẩn nặng hoặc biến chứng; Italian Consensus 2025 khuyến cáo 9 không khuyên đường tiêm. Bé bị đặt kim, chị mất thêm ngày công, nỗi lo thật chưa được nói tới.",
+    "chuyen_tuyen": "Chuyển lên bệnh viện tai mũi họng ngay tối nay là chưa cần: màng nhĩ chưa thủng, không sưng đỏ sau tai, cổ mềm (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.3.1, tr. 167). Kháng sinh uống bắt đầu ngay tại đây được; AAP 2013 Table 5 chỉ nêu hội chẩn sau thất bại thuốc thứ hai."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt hai hôm nay, tối nay kêu đau tai quá, khóc quấy không chịu ăn gì. Bác sĩ kê cho bé thuốc nào mạnh mạnh cho hết nhanh giùm em.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "39,1",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt hai ngày, tối nay lên 39 °C. Từ đêm kia bé kêu đau tai phải, tối nay khóc quấy, ôm tai, bỏ bữa chiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bốn ngày trước bé sổ mũi, nghẹt mũi, ho nhẹ sau tuần lớp có nhiều bạn ho. Không khó thở, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm virus hô hấp trên đi trước"
+    },
+    {
+     "id": "dau_tai",
+     "noi_dung": "Bé chỉ tai phải, giật tai, đêm qua thức 3 lần khóc vì đau. Không chảy mủ, không chảy máu tai. Bé hỏi thẳng thì chỉ tai phải, nói 'đau tai con'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau tai, thời gian đau, chảy tai"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Tối qua bé nôn 1 lần sau cơn ho. Không co giật, không kêu nhức đầu, không cứng cổ, không li bì. Uống nước được, nước tiểu bình thường. Sau khi uống hạ sốt bé còn chơi gấu bông được một lúc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, dấu màng não"
+    },
+    {
+     "id": "thuoc_da_cho",
+     "noi_dung": "Mẹ cho paracetamol 160 mg (siro) hai lần, cách nhau 6 giờ; có siro ho thảo dược mua ở nhà thuốc 2 ngày nay. Không nhỏ gì vào tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã tự cho"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Chưa từng dị ứng thuốc, kể cả penicillin và amoxicillin. Không bệnh mạn tính, sinh đủ tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử dị ứng thuốc"
+    },
+    {
+     "id": "tien_su_tai",
+     "noi_dung": "Khoảng 7 tuần trước bé đau tai phải, sốt; phòng khám khác kê amoxicillin 7 ngày. Bé hết sốt sau ngày thứ 3 nên mẹ tự ngưng thuốc vì sợ thuốc hại gan, không nói với ai. Từ đó đến nay không uống kháng sinh nào khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ trả lời 'không, bé chỉ cảm thôi' khi bị hỏi cộc. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, cụ thể, không phán xét: lần gần nhất bé đau tai là khi nào, lần đó uống thuốc gì, uống mấy ngày, có ngày nào quên hay ngưng sớm không.",
+     "y": "Tiền sử viêm tai; kháng sinh trong 30 ngày qua; ngưng thuốc sớm"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Nhà có ông nội 67 tuổi mới đặt stent mạch vành 2 tháng, ngủ chung phòng và hay bế bé. Chị sợ bé ho sốt thì lây cho ông nên đòi 'thuốc mạnh nhất cho hết lây'.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ở nhà ai chăm bé, ai sống cùng, hoặc 'chị lo điều gì nhất' / 'chị mong buổi khám giúp được gì'.",
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: sợ lây cho người thân"
+    },
+    {
+     "id": "statin_ong",
+     "noi_dung": "Ông nội uống atorvastatin hằng ngày từ khi đặt stent, nhưng hai tuần nay ông tự ngưng vì đọc tin 'hại gan'; chị cũng lây tâm lý ngại thuốc. Bé không uống thuốc nào của ông, thuốc để trên kệ cao.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng trong nhà (statin của ông), thuốc người lớn để xa tầm tay"
+    },
+    {
+     "id": "hoc",
+     "noi_dung": "Bé học mẫu giáo bán trú 5 ngày/tuần, lớp 25 bé, nhiều bạn ho.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, quấy khi bị khám nhưng dỗ được. Môi hồng, ẩm, mắt không trũng, có nước mắt khi khóc. Cho uống thử nước: bé uống bình thường. Không li bì, không vẻ nhiễm trùng nặng. Cân nặng 17 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch, không phù nề, không mủ; màng nhĩ đỏ, phồng rõ nhất ở phần sau, đục, mất tam giác sáng và mốc cán búa, kém di động khi thổi hơi; không thủng. Kéo vành tai, ấn bình tai không đau. Rãnh sau tai nguyên vẹn, ấn xương chũm không đau. Tai trái: màng nhĩ xám hồng, thấy tam giác sáng, di động tốt. Mũi: dịch nhầy đục ít. Họng đỏ nhẹ, amidan không to.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, tiếp xúc tốt, chơi gấu bông được. Cổ mềm, cúi cằm chạm ngực được. Kernig và Brudzinski âm tính. Không sợ ánh sáng. Mặt cân đối, nhắm mắt kín hai bên.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p. Không co lõm lồng ngực, không phập phồng cánh mũi. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 28 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được tối nay.",
+     "n": "Không cần: chẩn đoán viêm tai giữa dựa vào soi tai; xét nghiệm và hình ảnh không cần trừ khi nghi biến chứng (WHO AWaRe 2022, mục 5, tr. 37–38). Tối nay cơ sở cũng không làm được."
+    },
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: đường nhĩ đồ phẳng, không có đỉnh. Tai trái: đồ thị có đỉnh rõ.",
+     "n": "Chấp nhận, không bắt buộc: AAP 2013 KAS 1C (tr. e969) và Italian Consensus 2025 nêu nhĩ lượng đồ hoặc soi tai khí nén để xác nhận dịch tai giữa; ca này đã đủ soi tai. Cách đọc từng dạng đồ thị: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải, thể nặng (sốt 39,1 °C, đau khoảng 2 ngày, mệt, nôn 1 lần), màng nhĩ chưa thủng, sau nhiễm virus hô hấp trên, ở trẻ 4 tuổi",
+     "ok": 1,
+     "n": "Khởi phát cấp, màng nhĩ phồng rõ, đỏ, đục, kém di động (AAP 2013 KAS 1A; WHO 2013 mục 6.7.2, tr. 183; QĐ 5643 mục 3.1.1, tr. 210–211). Nặng: đau từ 48 giờ hoặc sốt từ 39 °C (AAP 2013 KAS 3A); Italian Consensus 2025 Table 1: toàn trạng giảm 4 điểm."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Chưa: không sưng đỏ đau sau tai, vành tai không bị đẩy ra trước, ấn xương chũm không đau (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182). Luôn khám sau tai ở mọi trẻ viêm tai."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Sốt, nôn buộc phải tìm dấu màng não (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214): Hưng tỉnh, chơi được, cổ mềm, Kernig và Brudzinski âm tính, không co giật, không nhức đầu (WHO 2013 mục 6.3.1, tr. 167)."
+    },
+    {
+     "t": "Viêm mũi họng cấp do virus đơn thuần (đau tai chỉ là phản xạ)",
+     "n": "Có viêm mũi họng đi trước nhưng không giải thích được màng nhĩ phồng, kém di động và nhĩ đồ phẳng; viêm tai giữa cấp thường là biến chứng của nhiễm virus hô hấp trên (WHO AWaRe 2022, tr. 36–37; QĐ 5643 Viêm tai giữa cấp mục 2, tr. 210)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Sốt cao và ho nhưng thở 28 l/p, dưới ngưỡng thở nhanh 40 l/p ở trẻ 1–5 tuổi, không rút lõm, phổi không ran (WHO 2013 mục 4.2, tr. 80)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nhẹ nhàng, không phán xét: đợt đau tai gần nhất, thuốc đã uống (loại, số ngày, có ngưng sớm không), kháng sinh trong 30 ngày qua, dị ứng penicillin",
+     "v": "c",
+     "n": "Amoxicillin trong 30 ngày qua hoặc tái phát quyết định chọn amoxicillin đơn hay có clavulanat (AAP 2013 KAS 4A–4B, tr. e965, e980). Kỹ năng giao tiếp: không cần nguồn."
+    },
+    {
+     "t": "Kháng sinh uống ngay: amoxicillin 80–90 mg/kg/ngày (17 kg: 1.360–1.530 mg/ngày), chia 2 lần (750 mg × 2 lần/ngày) hoặc chia 3 lần (500 mg × 3 lần/ngày), 10 ngày hoặc 7–10 ngày",
+     "v": "c",
+     "n": "Ca nặng nên kháng sinh ngay (AAP 2013 KAS 3A; Italian Consensus 2025 khuyến cáo 2.1). Chia 2 lần: AAP 2013 Table 5 (tr. e983); WHO AWaRe 2022 (tr. 39): 15–<20 kg 750 mg mỗi 12 giờ. Chia 3 lần: Italian Consensus 2025 khuyến cáo 3.2–3.3 (cho phép 2 lần để dễ tuân thủ). Thời gian 10 ngày cho ca nặng (AAP 2013, tr. e985) hoặc 7–10 ngày (Italian Consensus 2025 khuyến cáo 4.1). Chưa dùng amoxicillin trong 30 ngày nên chưa cần clavulanat (AAP 2013 KAS 4A)."
+    },
+    {
+     "t": "Kháng sinh liều hoặc thời gian thấp hơn: amoxicillin 250 mg × 3 lần/ngày 5–7 ngày (NICE) hoặc 5 ngày (AWaRe)",
+     "v": "a",
+     "n": "NICE NG91 2018 Table 1 (tr. 9): 1–4 tuổi 250 mg × 3, 5–7 ngày; WHO AWaRe 2022 (tr. 39): 5 ngày; WHO 2013 mục 6.7.2 (tr. 183): 40 mg/kg × 2 lần, ít nhất 5 ngày. Thấp hơn liều 80–90 mg/kg/ngày và ngắn hơn 7–10 ngày của ca nặng: chấp nhận, không phải đáp án chính."
+    },
+    {
+     "t": "Giảm đau, hạ sốt: paracetamol 200 mg mỗi 6 giờ khi đau hoặc sốt (có thể thay ibuprofen 150 mg mỗi 8 giờ)",
+     "v": "c",
+     "n": "Giảm đau là bắt buộc (AAP 2013 KAS 2, khuyến cáo mạnh; Table 3, tr. e973; NICE NG91 2018 khuyến cáo 1.1.4). Dải 15–<20 kg: paracetamol 200 mg mỗi 6 giờ (10–15 mg/kg), ibuprofen 150 mg mỗi 8 giờ (WHO AWaRe 2022, tr. 39). Mẹ cho 160 mg (9,4 mg/kg) hơi thấp, không nguy hiểm."
+    },
+    {
+     "t": "Hỏi mẹ lo điều gì nhất và trả lời nỗi sợ lây cho ông: rửa tay, tiêm phòng; ông tự đến bác sĩ tim mạch của ông, không tự ngưng thuốc",
+     "v": "c",
+     "n": "Dự phòng chung là rửa tay, tiêm phế cầu, cúm (WHO AWaRe 2022, tr. 37–38). Mức lây của viêm tai giữa và thời gian cách ly: không có trong tài liệu đã tải. Thuốc của ông ngoài phạm vi khám nhi; chỉ khuyên ông hỏi bác sĩ của ông."
+    },
+    {
+     "t": "Dặn uống đủ 10 ngày dù bé hết sốt sớm; không tự ngưng; nôn trong 30 phút đầu hoặc quên liều thì gọi lại",
+     "v": "c",
+     "n": "Liệu trình 10 ngày cho ca nặng (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1); phác đồ dưới 7 ngày thất bại nhiều hơn (Italian Consensus 2025, Question 4, trích Cochrane 2010: 21% so với 18%)."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ (bé từng ngưng thuốc sớm); quay lại ngay nếu nặng hơn, li bì, nôn không uống được thuốc, co giật, cứng cổ, sưng đỏ sau tai",
+     "v": "c",
+     "n": "Đánh giá lại khi không đỡ hoặc nặng lên trong 48–72 giờ (AAP 2013 KAS 4C, tr. e965, e980); NICE NG91 2018 khuyến cáo 1.1.12; WHO 2013 mục 6.7.2 (tr. 184) hẹn sau 5 ngày. Hẹn sớm hơn vì bé từng ngưng thuốc sớm."
+    },
+    {
+     "t": "Chỉ giảm đau và theo dõi, không kê kháng sinh",
+     "v": "w",
+     "n": "Ca nặng (đau từ 48 giờ, sốt từ 39 °C, toàn trạng giảm): AAP 2013 KAS 3A (khuyến cáo mạnh) và Italian Consensus 2025 khuyến cáo 2.1 cùng yêu cầu kháng sinh ngay; WHO AWaRe 2022 (tr. 39) cũng nêu cân nhắc khi sốt từ 39 °C."
+    },
+    {
+     "t": "Nhập viện hoặc tiêm kháng sinh (ceftriaxone) ngay vì 'sốt cao'",
+     "v": "w",
+     "n": "Điều trị ngoại trú (WHO 2013 mục 6.7.2, tr. 183); NICE NG91 2018 khuyến cáo 1.1.14 chỉ chuyển bệnh viện khi nhiễm khuẩn nặng hoặc biến chứng; Italian Consensus 2025 khuyến cáo 9: không khuyên đường tiêm cho ca không biến chứng."
+    },
+    {
+     "t": "Kê thêm thuốc kháng histamin hoặc thuốc co mạch 'thông vòi tai'",
+     "v": "w",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.6: bằng chứng cho thấy thuốc co mạch và kháng histamin không giúp triệu chứng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải, thể nặng (sốt 39,1 °C, đau khoảng 2 ngày, mệt, nôn 1 lần), màng nhĩ chưa thủng, sau nhiễm virus hô hấp trên ở trẻ 4 tuổi khỏe mạnh",
+     "Tiền sử giấu: đợt viêm tai phải 7 tuần trước, kháng sinh tự ngưng sau 3 ngày; không dùng amoxicillin trong 30 ngày qua nên amoxicillin đơn vẫn là thuốc đầu",
+     "Chưa biến chứng: không viêm xương chũm, không dấu màng não; không dị ứng thuốc",
+     "Lý do thật đến khám: sợ bé lây cho ông nội (đặt stent 2 tháng, đang tự ngưng statin); thái độ ngại thuốc 'hại gan' của gia đình là nguy cơ ngưng kháng sinh sớm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: sốt, đau tai, nôn, dấu nặng, thuốc đã cho, đợt viêm tai trước, kháng sinh 30 ngày qua, dị ứng, ai chăm bé và mẹ lo điều gì (AAP 2013 KAS 4A–4B). (2) Khám: soi tai hai bên, sau tai, dấu màng não, tim phổi. (3) Cận lâm sàng: không cần; tối nay cũng không làm được. (4) Chẩn đoán, loại trừ biến chứng. (5) Xử trí, dặn dò, hẹn lại.",
+     "Vì sao viêm tai giữa cấp: khởi phát cấp, màng nhĩ phồng rõ, đỏ, đục, kém di động (AAP 2013 KAS 1A, 1C; WHO 2013 mục 6.7.2, tr. 183; QĐ 5643 mục 3.1.1, tr. 210–211). Vì sao nặng: đau từ 48 giờ hoặc sốt từ 39 °C (AAP 2013 KAS 3A); Italian Consensus 2025 Table 1: toàn trạng giảm 4 điểm, từ 4 điểm là nặng; ca nặng không chờ (Italian Consensus 2025 khuyến cáo 2.1). NICE NG91 2018 và WHO AWaRe 2022 (tr. 37, 39) cũng kê ngay khi toàn thân nặng hoặc sốt từ 39 °C: không mâu thuẫn.",
+     "Loại trừ viêm xương chũm: có sưng đỏ đau sau tai, đẩy vành tai ra trước (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182). Loại trừ viêm màng não: cổ cứng, co giật, li bì (QĐ 5643 mục 5.2, tr. 214; WHO 2013 mục 6.3.1, tr. 167). Hưng không có dấu nào.",
+     "Hỏi chung thì mẹ đáp 'không'; hỏi cụ thể mới lộ đợt trước 7 tuần, ngưng sau 3 ngày. Quá 30 ngày nên amoxicillin đơn vẫn là thuốc đầu (AAP 2013 KAS 4A–4B). Lý do thật là sợ lây cho ông nội; hỏi 'chị lo điều gì nhất' mở được chuyện này. Mức lây của viêm tai giữa: không có trong tài liệu đã tải.",
+     "Lý do thật: chị Hoài sợ bé lây cho ông nội mới đặt stent. Không hỏi thì chị sẽ ép kê 'thuốc mạnh nhất' hoặc sang phòng khác. Hỏi 'chị lo điều gì nhất' mở được chuyện này. Mức lây của viêm tai giữa: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay, amoxicillin: chia 2 lần (AAP 2013 Table 5, tr. e983): 80–90 mg/kg/ngày, 17 kg → 680–765 mg/lần; WHO AWaRe 2022 (tr. 39) 15–<20 kg: 750 mg mỗi 12 giờ. Chia 3 lần (Italian Consensus 2025 khuyến cáo 3.3): khoảng 500 mg mỗi 8 giờ. Cả hai đều đúng, khác do năm. Hàm lượng thương phẩm, làm tròn liều tại Việt Nam: không có trong tài liệu đã tải.",
+     "Thời gian: 10 ngày cho ca nặng (AAP 2013, tr. e985); Italian Consensus 2025 khuyến cáo 4.1: 7 hoặc 10 ngày. NICE NG91 2018 (5–7 ngày) và WHO AWaRe 2022 (5 ngày) ngắn hơn, chấp nhận nhưng không phải đáp án chính ở ca nặng. Chọn 10 ngày còn vì gia đình có tiền sử ngưng sớm.",
+     "Giảm đau là phần bắt buộc, không chờ hết sốt: paracetamol 200 mg mỗi 6 giờ hoặc ibuprofen 150 mg mỗi 8 giờ (WHO AWaRe 2022, tr. 39; AAP 2013 KAS 2). Không dùng kháng histamin, thuốc co mạch (NICE NG91 2018 khuyến cáo 1.1.6). Chích rạch, corticoid, X-quang xương chũm thường quy: QĐ 5643 nêu, AAP 2013, NICE và WHO AWaRe 2022 không bắt buộc; cơ sở không có X-quang.",
+     "Hẹn 2–3 ngày: sốt thường hạ trong 48–72 giờ (AAP 2013, tr. e984). Nỗi sợ lây: nói điều chắc chắn (rửa tay, tránh để bé ho vào mặt ông, tiêm cúm và phế cầu, AAP 2013 KAS 6A–6B), thừa nhận phần chưa rõ, khuyên ông tự đến bác sĩ tim mạch, không tự ngưng thuốc mỡ máu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Gói hoặc hỗn dịch uống cho trẻ; hàm lượng thương phẩm tại Việt Nam: không có trong tài liệu đã tải",
+      "lieu": "750 mg × 2 lần/ngày (khoảng 88 mg/kg/ngày) hoặc 500 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cách đều 12 giờ (hoặc 8 giờ), đúng giờ mỗi ngày",
+      "so_ngay": "10 ngày (hoặc 7–10 ngày)",
+      "ghi_chu": "AAP 2013 Table 5 (tr. e983); WHO AWaRe 2022 (tr. 39); Italian Consensus 2025 khuyến cáo 3.2–3.3, 4.1. Hỗn dịch pha sẵn để tủ lạnh (WHO AWaRe 2022, tr. 39). Uống đủ số ngày dù hết sốt."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Siro hoặc gói trẻ em; hàm lượng thương phẩm: không có trong tài liệu đã tải",
+      "lieu": "200 mg/lần (10–15 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi 6 giờ, chỉ khi đau hoặc sốt",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "WHO AWaRe 2022 (tr. 39); AAP 2013 KAS 2. Có thể thay ibuprofen 150 mg mỗi 8 giờ (WHO AWaRe 2022, tr. 39). Số ngày tối đa: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Sốt và đau tai thường giảm sau 48–72 giờ; cả đợt khoảng 3 ngày, có thể tới 1 tuần (AAP 2013, tr. e984; NICE NG91 2018 khuyến cáo 1.1.3). Hết sốt không phải hết bệnh: uống đủ 10 ngày, không tự ngưng (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1). Tác dụng phụ thường gặp: tiêu chảy, nôn, ban (NICE NG91 2018 khuyến cáo 1.1.8); nguy cơ gan: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay khi sốt cao hơn, li bì, nôn không uống được thuốc, co giật, cổ cứng, sưng đỏ sau tai, chảy mủ tai (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.12; WHO 2013 mục 6.7.1, tr. 182). Tái khám sau 2–3 ngày (WHO 2013 hẹn 5 ngày, tr. 184).",
+     "Rửa tay, tránh khói thuốc lá trong nhà (WHO AWaRe 2022, tr. 37–38; AAP 2013 KAS 6D); nên tiêm phế cầu và cúm (AAP 2013 KAS 6A–6B), lịch tại Việt Nam: không có trong tài liệu đã tải. Để thuốc của ông nội và mọi thuốc người lớn ngoài tầm tay trẻ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám lúc 18 giờ 45 tối thứ Hai, sau 3 ngày uống amoxicillin. Mẹ nói bé hết sốt từ sáng Chủ nhật, ăn lại được, đêm qua còn thức một lần vì đau tai, hai hôm nay đi phân lỏng. Sinh hiệu: nhiệt 37,4 °C, mạch 104 l/p, nhịp thở 24 l/p, SpO₂ 99%. Bé tỉnh, vui hơn.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Cho ngưng amoxicillin sau 3 ngày vì hết sốt là quá sớm: ca nặng cần 10 ngày (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1), phác đồ dưới 7 ngày thất bại nhiều hơn (21% so với 18%; Italian Consensus 2025, Question 4). Chị Hoài vốn đã ngưng sớm một lần, được bác sĩ đồng ý thì càng yên tâm bỏ; sốt, đau dễ quay lại.",
+    "nhap_vien": "Nhập viện hoặc tiêm ceftriaxone vì 'chưa hết đau hẳn' là quá tay: bé đã hết sốt, ăn được, màng nhĩ hết phồng. AAP 2013 (tr. e984): trẻ còn triệu chứng nhẹ sau 48–72 giờ có thể không cần đổi thuốc; NICE NG91 2018 khuyến cáo 1.1.14 chỉ chuyển khi nhiễm khuẩn nặng hoặc biến chứng.",
+    "chuyen_tuyen": "Chuyển đi hội chẩn tai mũi họng là chưa có chỉ định: bé đang đáp ứng thuốc đầu tay. AAP 2013 Table 5 (tr. e983) chỉ nêu chọc dịch hoặc hội chẩn sau khi thất bại thuốc thứ hai. Chị mất nửa ngày chờ mà thuốc vẫn dùng như cũ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt rồi, ăn được rồi. Mà uống thuốc này em thấy bé đi phân lỏng, em sợ thuốc mạnh hại gan. Bác sĩ cho bé ngưng thuốc được chưa?",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "37,4",
+    "nhip_tho": 24,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hưng hết sốt từ sáng Chủ nhật, ăn được cháo và sữa. Còn kêu đau tai phải nhẹ khi nằm, đêm qua thức một lần rồi ngủ lại. Còn nghẹt mũi, ho ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 3 ngày"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ cho uống amoxicillin 2 lần/ngày, đúng giờ trừ tối Chủ nhật quên một liều. Từ Chủ nhật bé đi phân lỏng 2–3 lần/ngày, không máu, không nôn, vẫn uống nước tốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, tác dụng phụ"
+    },
+    {
+     "id": "muon_ngung",
+     "noi_dung": "Chị muốn ngưng thuốc vì bé đã hết sốt và sợ thuốc mạnh hại gan, giống tin ông nội đọc về thuốc mỡ máu. Chị hỏi giảm còn nửa liều được không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ý định ngưng thuốc, nỗi sợ thuốc"
+    },
+    {
+     "id": "tien_su_tai",
+     "noi_dung": "Lần viêm tai 7 tuần trước chị cũng ngưng amoxicillin sau 3 ngày vì bé hết sốt. Chị ngại nên không nói ở lượt trước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể nếu bác sĩ hỏi về lần dùng kháng sinh trước hoặc về việc chị lo thuốc hại gan, bằng giọng không trách. Nếu đã biết từ lượt 1 thì chị xác nhận ngay.",
+     "y": "Tiền sử ngưng kháng sinh sớm; mô thức tự ngưng thuốc"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không chảy mủ tai, không sưng đỏ sau tai, không nhức đầu, không cứng cổ, không li bì, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, thất bại điều trị"
+    },
+    {
+     "id": "lo_lay",
+     "noi_dung": "Chị vẫn lo bé ho sẽ lây cho ông nội. Sau lượt trước ông đã hẹn khám tim mạch tuần sau và hứa không tự ngưng thuốc nữa; tối qua ông ho vài tiếng, chị cho ông ngủ phòng khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám còn nguyên"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui hơn, chơi gấu bông, uống nước tốt, môi ẩm, mắt không trũng, nếp véo da trở lại ngay. Không li bì. Cân nặng 17 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch; màng nhĩ hồng nhạt, hết phồng, còn hơi đục, thấy lại mốc cán búa mờ, vẫn kém di động khi thổi hơi (còn dịch); không thủng, không mủ. Sau tai nguyên vẹn, ấn xương chũm không đau. Tai trái: màng nhĩ xám hồng, di động tốt. Mũi: ít dịch nhầy trong. Họng đỏ nhẹ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: đường nhĩ đồ phẳng (còn dịch). Tai trái: đồ thị có đỉnh rõ.",
+     "n": "Chấp nhận, không bắt buộc, không đổi quyết định: dịch tai giữa còn lại sau đợt cấp là thường gặp, 60–70% trẻ còn dịch sau 2 tuần, 40% sau 1 tháng (AAP 2013, tr. e985)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được tối nay.",
+     "n": "Không cần: đang đáp ứng thuốc, không nghi biến chứng (WHO AWaRe 2022, tr. 37–38)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải thể nặng, đáp ứng một phần sau 3 ngày amoxicillin (hết sốt, đỡ đau, màng nhĩ hết phồng, còn dịch); chưa thất bại điều trị",
+     "ok": 1,
+     "n": "Sau 48–72 giờ sốt phải hạ, quấy khóc bớt, ăn ngủ trở lại (AAP 2013, tr. e984): Hưng đạt các mốc, đau chỉ còn nhẹ về đêm. Một số trẻ còn triệu chứng nhẹ không cần đổi thuốc (AAP 2013, tr. e984)."
+    },
+    {
+     "t": "Tiêu chảy nhẹ do kháng sinh, không mất nước",
+     "ok": 1,
+     "n": "Tiêu chảy, nôn, ban là biến cố thường gặp của kháng sinh (Italian Consensus 2025, Question 1: 1 trên 14 trẻ; NICE NG91 2018 khuyến cáo 1.1.8). Chưa đủ hai dấu mất nước: uống tốt, mắt không trũng, nếp véo trở lại ngay (WHO 2013 Table 12, tr. 128)."
+    },
+    {
+     "t": "Thất bại điều trị amoxicillin (cần đổi amoxicillin–clavulanat)",
+     "n": "Chưa: thất bại là không đỡ hoặc nặng lên sau 48–72 giờ (AAP 2013 KAS 4C, tr. e965, e980); Hưng hết sốt, màng nhĩ hết phồng. Nhĩ đồ phẳng chỉ là dịch tồn lưu bình thường sau đợt cấp (AAP 2013, tr. e985)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi số liều đã uống, tiêu chảy và lý do muốn ngưng; hỏi nhẹ nhàng lần dùng kháng sinh trước",
+     "v": "c",
+     "n": "Hỏi tuân thủ trước khi quyết định đổi hay giữ thuốc; nếu không đỡ sau 48–72 giờ mới nghĩ tới bệnh khác, virus phối hợp hoặc vi khuẩn kháng thuốc (AAP 2013, tr. e984). Kỹ năng giao tiếp: không cần nguồn."
+    },
+    {
+     "t": "Tiếp tục amoxicillin cùng liều (750 mg × 2 lần/ngày hoặc 500 mg × 3 lần/ngày), uống đủ 10 ngày, tức còn 7 ngày; không đổi thuốc",
+     "v": "c",
+     "n": "Đang đáp ứng nên giữ thuốc đầu tay; amoxicillin–clavulanat dành cho ca không đỡ hoặc nặng lên sau 48–72 giờ (AAP 2013 Table 5, tr. e983; NICE NG91 2018 Table 1). Thời gian 10 ngày ca nặng (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1: 7 hoặc 10 ngày). WHO 2013 (mục 6.7.2, tr. 184) cũng giữ cùng thuốc khi còn đau."
+    },
+    {
+     "t": "Tiêu chảy nhẹ: tiếp tục thuốc, uống đủ nước, ăn bình thường; quay lại nếu phân có máu, không uống được, mắt trũng, li bì",
+     "v": "c",
+     "n": "Không mất nước (WHO 2013 Table 12, tr. 128). Tiêu chảy là biến cố nhẹ của kháng sinh, là lý do để giải thích, không phải để ngưng thuốc (Italian Consensus 2025, Question 1)."
+    },
+    {
+     "t": "Giảm đau khi còn đau: paracetamol 200 mg mỗi 6 giờ hoặc ibuprofen 150 mg mỗi 8 giờ",
+     "v": "c",
+     "n": "WHO AWaRe 2022 (tr. 39); AAP 2013 KAS 2; NICE NG91 2018 khuyến cáo 1.1.4."
+    },
+    {
+     "t": "Giải thích bằng ví dụ cụ thể vì sao phải uống đủ, trả lời nỗi sợ hại gan, thống nhất cách nhớ liều; hẹn khám lại sau khi hết thuốc và quay lại ngay nếu sốt lại, đau nặng lên",
+     "v": "c",
+     "n": "AAP 2013 KAS 4C (đánh giá lại khi xấu đi); AAP 2013, tr. e985: có thể khám lại trẻ ca nặng; NICE NG91 2018 khuyến cáo 1.1.5: xem lại nếu không đỡ trong 7 ngày hoặc xấu đi. Nguy cơ gan của đợt amoxicillin ngắn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho ngưng amoxicillin (hoặc giảm nửa liều) vì đã hết sốt",
+     "v": "w",
+     "n": "Ca nặng cần 10 ngày (AAP 2013, tr. e985); phác đồ dưới 7 ngày thất bại nhiều hơn (Italian Consensus 2025, Question 4); liều thấp hơn 80–90 mg/kg/ngày giảm hiệu quả với phế cầu kháng trung gian (Italian Consensus 2025, Question 3.2)."
+    },
+    {
+     "t": "Đổi sang amoxicillin–clavulanat hoặc ceftriaxone vì 'còn đau nhẹ'",
+     "v": "w",
+     "n": "Chưa thất bại; thuốc phổ rộng dùng quá mức chọn lọc vi khuẩn kháng và tăng nguy cơ C. difficile, chỉ dùng khi thuốc phổ hẹp không hiệu quả (Italian Consensus 2025, Question 3.1, trích NICE NG91 2018)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tai mũi họng ngay vì còn đau nhẹ",
+     "v": "w",
+     "n": "Không có biến chứng, đang đáp ứng; NICE NG91 2018 khuyến cáo 1.1.14 chỉ chuyển khi nhiễm khuẩn nặng hoặc biến chứng; AAP 2013 Table 5 hội chẩn sau thất bại thuốc thứ hai."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải thể nặng, đáp ứng một phần sau 3 ngày amoxicillin: hết sốt, đỡ đau, màng nhĩ hết phồng, còn dịch tai giữa; chưa thất bại điều trị",
+     "Tiêu chảy nhẹ do amoxicillin, không mất nước; quên 1 liều chiều Chủ nhật",
+     "Tiền sử giấu lộ ra: đợt trước chị cũng ngưng thuốc sau 3 ngày; hôm nay lại muốn ngưng vì hết sốt và sợ thuốc hại gan",
+     "Chưa biến chứng; lý do thật vẫn là sợ lây cho ông nội (ông đã hẹn khám tim mạch, không tự ngưng thuốc nữa)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi theo mốc 48–72 giờ (AAP 2013, tr. e984): hết sốt khi nào, ăn ngủ, đêm qua thức mấy lần; tuân thủ; lần dùng kháng sinh trước. (2) Khám lại tai, sau tai, dấu mất nước. (3) Cận lâm sàng: không cần. (4) Phân biệt đỡ một phần với thất bại. (5) Giữ hay đổi thuốc, dặn dò.",
+     "Đỡ một phần khác thất bại: đến 48–72 giờ sốt phải hạ, quấy bớt, ăn ngủ trở lại (AAP 2013, tr. e984); Hưng đạt các mốc và màng nhĩ hết phồng. Đau nhẹ về đêm và dịch tai giữa tồn lưu (60–70% trẻ còn dịch sau 2 tuần, AAP 2013, tr. e985) không phải thất bại. Thất bại là không đỡ hoặc nặng lên sau 48–72 giờ (AAP 2013 KAS 4C).",
+     "Tiêu chảy không đáng lo: biến cố thường gặp của kháng sinh (Italian Consensus 2025, Question 1), không mất nước (WHO 2013 Table 12, tr. 128). Hết sốt là lúc người nhà dễ ngưng thuốc; hỏi cụ thể mới lộ đợt trước chị cũng ngưng sau 3 ngày. Không biến chứng: cổ mềm, sau tai nguyên vẹn (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ amoxicillin cùng liều đến hết ngày 10: ca nặng cần 10 ngày (AAP 2013, tr. e985) hoặc 7–10 ngày (Italian Consensus 2025 khuyến cáo 4.1). Amoxicillin–clavulanat chỉ khi không đỡ hoặc nặng lên sau 48–72 giờ (AAP 2013 Table 5). Không dùng thuốc phổ rộng 'cho chắc' (Italian Consensus 2025, Question 3.1), không giảm nửa liều (Question 3.2).",
+     "Tiêu chảy nhẹ: tiếp tục thuốc, uống đủ, ăn bình thường; dấu hiệu quay lại theo Table 12 (WHO 2013, tr. 128). Giảm đau khi còn đau: paracetamol hoặc ibuprofen (WHO AWaRe 2022, tr. 39).",
+     "Giải quyết nỗi sợ: không cãi 'thuốc không hại gan' mà nêu lợi ích của đủ 10 ngày, tác dụng phụ thật và cách nhớ liều (dán lịch, báo thức). Nguy cơ gan của amoxicillin: không có trong tài liệu đã tải. Hẹn khám lại sau hết thuốc: AAP 2013 (tr. e985) cho phép với trẻ nặng hoặc khi cha mẹ muốn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (tiếp tục đơn lượt 1)",
+      "ham_luong": "Gói hoặc hỗn dịch uống cho trẻ; hàm lượng thương phẩm: không có trong tài liệu đã tải",
+      "lieu": "750 mg × 2 lần/ngày hoặc 500 mg × 3 lần/ngày (80–90 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cách đều 12 giờ (hoặc 8 giờ), đúng giờ",
+      "so_ngay": "Tiếp 7 ngày nữa (đủ 10 ngày từ lượt 1)",
+      "ghi_chu": "AAP 2013 Table 5 (tr. e983), tr. e985; WHO AWaRe 2022 (tr. 39); Italian Consensus 2025 khuyến cáo 4.1. Cách xử trí quên liều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Siro hoặc gói trẻ em; hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "200 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi 6 giờ, chỉ khi đau hoặc sốt",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "AAP 2013 KAS 2; WHO AWaRe 2022 (tr. 39). Có thể thay ibuprofen 150 mg mỗi 8 giờ (WHO AWaRe 2022, tr. 39)."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ đến hết ngày 10 dù bé khỏe; không giảm nửa liều, không ngưng giữa chừng (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1). Phân lỏng nhẹ có thể còn vài ngày; quay lại nếu phân có máu, nôn không uống được, mắt trũng, li bì (WHO 2013 Table 12, tr. 128).",
+     "Quay lại ngay nếu sốt trở lại, đau tai nặng hơn, chảy mủ tai, sưng đỏ sau tai, cổ cứng (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.12). Hẹn khám lại sau khi hết thuốc. Mốc cho bé đi học lại: không có trong tài liệu đã tải.",
+     "Ông nội giữ hẹn khám tim mạch, không tự ngưng thuốc; cả nhà rửa tay thường xuyên (WHO AWaRe 2022, tr. 37–38)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 23 ngày",
+   "tiep_don": "Tối Chủ nhật 19 giờ 30, 23 ngày sau lượt 1 (13 ngày sau khi hết amoxicillin). Mẹ đưa bé vì sốt từ sáng, tối kêu đau tai phải, quấy. Sinh hiệu: nhiệt 38,4 °C, mạch 116 l/p, nhịp thở 26 l/p, SpO₂ 98%. Bé hơi mệt, quấy nhưng uống nước được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Dặn theo dõi tại nhà không hẹn lại, không bàn nguyên nhân nền, là bỏ lỡ ca này: đây là đợt viêm tai thứ ba trong khoảng 2,5 tháng. Italian Consensus 2025 khuyến cáo 1.4–1.5 chỉ cho chờ khi không có yếu tố nguy cơ và theo dõi được trong 72 giờ. Cho amoxicillin đơn thì thuốc vừa dùng trong 30 ngày có thể kém hiệu quả (AAP 2013 KAS 4B, tr. e980).",
+    "nhap_vien": "Nhập viện hoặc tiêm kháng sinh là quá tay: sốt 38,4 °C nhưng bé tỉnh, uống được, SpO₂ 98%, không dấu màng não. NICE NG91 2018 khuyến cáo 1.1.14 chỉ chuyển khi nhiễm khuẩn nặng hoặc biến chứng; Italian Consensus 2025 khuyến cáo 9 không khuyên đường tiêm. Nguyên nhân nền vẫn chưa xử lý.",
+    "chuyen_tuyen": "Chuyển cấp cứu tai mũi họng trong đêm là quá tay: chưa biến chứng, thuốc uống bắt đầu được ngay. Việc cần là hẹn tai mũi họng ngoại trú sau đợt cấp để bàn ống thông khí hoặc nạo VA (AAP 2013 KAS 5B, tr. e986; QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé lại sốt, lại kêu đau cái tai bên phải. Bé mới uống hết thuốc chưa tới hai tuần mà. Cả nhà em ai cũng ho, ông nội ho mấy bữa nay, em lo quá. Có thuốc nào cho bé uống hằng ngày để khỏi bị nữa không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 26,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt từ sáng 38–38,5 °C, chiều tối kêu đau tai phải, giật tai, quấy, ăn kém hơn thường. Đau vừa, mới từ chiều, không chảy mủ, không nhức đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian đau"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Năm ngày nay cả nhà cảm: ông nội, ba, mẹ và bé đều sổ mũi, ho. Bé nghẹt mũi nhiều về đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm hô hấp trên đi trước"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Mười ngày amoxicillin lần trước mẹ cho uống đủ, đúng giờ, bé khỏi hẳn, đi học lại. Hết thuốc cách đây 13 ngày; từ đó không uống kháng sinh nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh trong 30 ngày qua"
+    },
+    {
+     "id": "so_dot",
+     "noi_dung": "Tính cả lần này bé đã bị ba đợt viêm tai phải trong khoảng 2,5 tháng (7 tuần trước, 23 ngày trước và hôm nay). Chị hỏi 'sao cứ bị hoài'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số đợt viêm tai: tái phát"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không nôn, không co giật, không cứng cổ, không li bì, không sưng sau tai, uống nước được, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, dấu màng não"
+    },
+    {
+     "id": "ngay",
+     "noi_dung": "Mấy tháng nay bé ngáy to, hay há miệng khi ngủ, nghẹt mũi kéo dài; chị nghĩ 'trẻ con ai cũng vậy'. Không rõ có ngưng thở.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chị không tự kể. Chỉ nói khi bác sĩ hỏi về giấc ngủ, ngáy, thở miệng, nghẹt mũi kéo dài.",
+     "y": "Ngáy, thở miệng, nghẹt mũi mạn (yếu tố nguy cơ tái phát)"
+    },
+    {
+     "id": "khoi_thuoc",
+     "noi_dung": "Ba bé hút thuốc, thường hút ngay phòng khách khi trời mưa hoặc buổi tối; áo ba dính khói khi bế bé. Chị ngại nói vì sợ bị trách, vì ông nội đã bỏ thuốc từ khi đặt stent.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi không phán xét ai trong nhà hút thuốc và hút ở đâu.",
+     "y": "Khói thuốc lá thụ động"
+    },
+    {
+     "id": "muon_phong",
+     "noi_dung": "Chị nghe người quen nói có thuốc uống mỗi ngày để bé khỏi tái phát nên xin bác sĩ cho bé uống kháng sinh liều thấp hằng ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn thuốc dự phòng"
+    },
+    {
+     "id": "ong_noi",
+     "noi_dung": "Ông nội ho, sốt nhẹ vài hôm nay, đã uống lại thuốc mỡ máu theo đơn bác sĩ tim mạch; chị lo ông và bé lây nhau.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám còn nguyên"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc. Tiêm chủng mở rộng đủ; chưa tiêm phế cầu và cúm.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, quấy nhẹ, uống nước tốt, môi ẩm, không mất nước. Cân nặng 17 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch; màng nhĩ đỏ, phồng mức vừa, đục, mất mốc cán búa, kém di động khi thổi hơi; không thủng, không mủ. Sau tai nguyên vẹn, ấn xương chũm không đau. Tai trái: màng nhĩ xám hồng, đục nhẹ, di động hơi giảm. Mũi: nghẹt, dịch nhầy đục ít. Họng đỏ nhẹ. Bé thở miệng khi nằm khám.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không sợ ánh sáng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 116 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 26 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 26 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: đường nhĩ đồ phẳng. Tai trái: đồ thị có đỉnh, áp lực hơi âm.",
+     "n": "Chấp nhận, không bắt buộc: soi tai đã đủ (AAP 2013 KAS 1A–1C). Sau đợt cấp thường còn dịch nhiều tuần (AAP 2013, tr. e985) nên nhĩ đồ phẳng một mình không phân biệt ứ dịch với viêm cấp mới; phải dựa vào khởi phát cấp và màng nhĩ phồng."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được tối nay.",
+     "n": "Không cần để chẩn đoán hay chọn thuốc (WHO AWaRe 2022, tr. 37–38)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải tái phát: đợt thứ ba trong khoảng 2,5 tháng, mức nhẹ–vừa (sốt 38,4 °C, đau vừa chưa 24 giờ), màng nhĩ chưa thủng, đã dùng amoxicillin trong 30 ngày qua",
+     "ok": 1,
+     "n": "Khởi phát cấp, màng nhĩ phồng vừa, đỏ, kém di động (AAP 2013 KAS 1A–1B). Không nặng: đau chưa 48 giờ, sốt dưới 39 °C (KAS 3A). Tái phát: 3 đợt trong 6 tháng (AAP 2013, tr. e986; Italian Consensus 2025). Amoxicillin trong 30 ngày qua (KAS 4B)."
+    },
+    {
+     "t": "Yếu tố nguy cơ tái phát: khói thuốc lá thụ động, nghẹt mũi–ngáy mạn (nghi VA quá phát), nhiễm hô hấp trên lặp lại ở mẫu giáo bán trú",
+     "ok": 1,
+     "n": "Khói thuốc thụ động, nam giới liên quan tái phát (AAP 2013, tr. e986); nhiễm hô hấp trên, nghẹt mũi mạn và ngáy là yếu tố nguy cơ (Italian Consensus 2025). Mức độ VA quá phát: không đánh giá được tại phòng khám."
+    },
+    {
+     "t": "Viêm tai giữa ứ dịch tồn lưu sau đợt cũ (không phải đợt cấp mới)",
+     "n": "Không: dịch tồn lưu sau đợt cấp là thường (AAP 2013, tr. e985) nhưng không có sốt, đau, màng nhĩ phồng; Hưng có khởi phát cấp, sốt, đau và màng nhĩ phồng nên đủ tiêu chuẩn viêm tai giữa cấp (AAP 2013 KAS 1A–1C)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi không phán xét về khói thuốc trong nhà, ngáy và nghẹt mũi mạn, tiêm chủng, đợt viêm tai trước và kháng sinh 30 ngày qua",
+     "v": "c",
+     "n": "Yếu tố nguy cơ tái phát gồm khói thuốc thụ động (AAP 2013, tr. e986; KAS 6D, tr. e988), nghẹt mũi mạn, ngáy (Italian Consensus 2025); kháng sinh 30 ngày quyết định thuốc (AAP 2013 KAS 4B)."
+    },
+    {
+     "t": "Kháng sinh ngay, amoxicillin–clavulanat: amoxicillin 90 mg/kg/ngày + clavulanat 6,4 mg/kg/ngày chia 2 lần (17 kg: 765 mg amoxicillin/lần), hoặc chia 3 lần phối hợp amoxicillin–clavulanat 7:1 (40 mg/kg/ngày) với amoxicillin đơn (50 mg/kg/ngày); 7 ngày hoặc 7–10 ngày",
+     "v": "c",
+     "n": "Cách 1: AAP 2013 KAS 4B (tr. e980), Table 5 (tr. e983); WHO AWaRe 2022 (tr. 39): 750 mg amoxicillin mỗi 12 giờ. Cách 2: Italian Consensus 2025 khuyến cáo 5, 6: chia 3 lần, clavulanat dưới 10 mg/kg/ngày. Khác nhau do năm và tỉ lệ biệt dược (14:1 so với 7:1). Thời gian: 7 ngày cho 2–5 tuổi nhẹ–vừa (AAP 2013, tr. e985) hoặc 7–10 ngày (Italian Consensus 2025 khuyến cáo 4.1, 6)."
+    },
+    {
+     "t": "Amoxicillin đơn thuần 80–90 mg/kg/ngày, hoặc co-amoxiclav liều thấp (NICE) 5–7 ngày, hoặc 5 ngày (WHO AWaRe)",
+     "v": "a",
+     "n": "Amoxicillin là thuốc đầu tay nhưng đã dùng trong 30 ngày và tái phát nên AAP 2013 KAS 4B, Italian Consensus 2025 khuyến cáo 6 khuyên có clavulanat. NICE NG91 2018 Table 1: co-amoxiclav 1–5 tuổi 5 mL (125/31) × 3 lần/ngày, 5–7 ngày; WHO AWaRe 2022 (tr. 39): 5 ngày. Chấp nhận, không phải đáp án chính."
+    },
+    {
+     "t": "Chỉ giảm đau và theo dõi 48–72 giờ, hẹn chắc (chưa kháng sinh)",
+     "v": "a",
+     "n": "AAP 2013 KAS 3D (tr. e975) cho chờ ở trẻ từ 24 tháng không nặng; Italian Consensus 2025 khuyến cáo 1.4–1.5 chỉ khuyên chờ khi không có yếu tố nguy cơ và theo dõi được trong 72 giờ. Hưng tái phát, vừa dùng kháng sinh: không chọn làm đáp án chính; chấp nhận nếu giải thích rõ và có cơ chế tái khám."
+    },
+    {
+     "t": "Giảm đau, hạ sốt: paracetamol 200 mg mỗi 6 giờ hoặc ibuprofen 150 mg mỗi 8 giờ",
+     "v": "c",
+     "n": "WHO AWaRe 2022 (tr. 39); AAP 2013 KAS 2; NICE NG91 2018 khuyến cáo 1.1.4."
+    },
+    {
+     "t": "Tư vấn bỏ hút thuốc trong nhà và xa bé, giải quyết nghẹt mũi, tiêm phế cầu và cúm hằng năm theo lịch",
+     "v": "c",
+     "n": "AAP 2013 KAS 6A, 6B (tr. e965, e987), KAS 6D (tr. e988). Lịch tiêm phế cầu, cúm tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn khám tai mũi họng ngoại trú sau đợt cấp để cân nhắc ống thông khí hoặc nạo VA",
+     "v": "c",
+     "n": "Cách 1: AAP 2013 KAS 5B (tr. e986): có thể đặt ống thông khí khi 3 đợt trong 6 tháng; nạo VA đơn độc không dùng để phòng viêm tai, có thể có lợi khi làm cùng ống thông khí (tr. e987). Cách 2: QĐ 5643 Viêm tai giữa cấp mục 6 (tr. 214): nên nạo VA và cắt amidan ở trẻ hay viêm tai tái phát. Italian Consensus 2025 khuyến cáo 7.2 nêu cả hai. Khác nhau do năm và mức bằng chứng."
+    },
+    {
+     "t": "Hẹn tái khám 48–72 giờ nếu chưa đỡ; quay lại ngay nếu nặng lên; khám lại sau khi hết thuốc vì đây là đợt thứ ba",
+     "v": "c",
+     "n": "AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.12; AAP 2013, tr. e985: có thể khám lại trẻ tái phát."
+    },
+    {
+     "t": "Kê kháng sinh dự phòng kéo dài (amoxicillin liều thấp mỗi ngày) để bé khỏi tái phát",
+     "v": "w",
+     "n": "AAP 2013 KAS 5A (tr. e985): không kê kháng sinh dự phòng để giảm số đợt; Italian Consensus 2025 khuyến cáo 7.1: không khuyên thường quy; khuyến cáo 7.2 chỉ cân nhắc ca chọn lọc khi đang cân nhắc phẫu thuật."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu tai mũi họng ngay trong đêm",
+     "v": "w",
+     "n": "Không biến chứng, không nhiễm khuẩn nặng: NICE NG91 2018 khuyến cáo 1.1.14 chỉ chuyển bệnh viện khi nhiễm khuẩn toàn thân nặng hoặc biến chứng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải tái phát: đợt thứ ba trong khoảng 2,5 tháng, mức nhẹ–vừa, màng nhĩ chưa thủng; đã dùng amoxicillin trong 30 ngày qua (hết cách 13 ngày)",
+     "Yếu tố nguy cơ tái phát chưa xử lý: khói thuốc lá thụ động (ba hút thuốc trong phòng khách), nghẹt mũi–ngáy mạn nghi VA quá phát, nhiễm hô hấp trên lặp lại ở mẫu giáo bán trú, chưa tiêm phế cầu và cúm",
+     "Chưa biến chứng; lý do thật còn nguyên: sợ ông nội và bé lây nhau; mong muốn thuốc dự phòng hằng ngày (không có chỉ định)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi: khởi phát, thời gian đau, kháng sinh 30 ngày, số đợt viêm tai, ngáy–nghẹt mũi, khói thuốc, dấu nặng. (2) Khám: soi tai hai bên, sau tai, dấu màng não. (3) Cận lâm sàng: không cần. (4) Chẩn đoán và đếm số đợt (AAP 2013, tr. e986). (5) Kháng sinh thích hợp, giảm đau, nguyên nhân nền, tai mũi họng.",
+     "Phân biệt với ứ dịch tồn lưu: dịch còn nhiều tuần sau đợt cấp (AAP 2013, tr. e985); chỉ chẩn đoán đợt cấp mới khi có khởi phát cấp và màng nhĩ phồng (AAP 2013 KAS 1A–1C). Nhẹ–vừa: đau chưa 48 giờ, sốt dưới 39 °C (AAP 2013 KAS 3A). Tái phát: 3 đợt trong 6 tháng (AAP 2013, tr. e986).",
+     "Vì sao kháng sinh ngay và có clavulanat dù ca nhẹ–vừa: amoxicillin trong 30 ngày qua và tái phát (AAP 2013 KAS 4B, tr. e980; Italian Consensus 2025 khuyến cáo 6). Chờ đợi chỉ khuyên khi không có yếu tố nguy cơ (Italian Consensus 2025 khuyến cáo 1.4–1.5): chấp nhận, không phải đáp án chính. NICE NG91 2018 xếp co-amoxiclav là thuốc thứ hai: cùng hướng.",
+     "Khai thác nguyên nhân nền: tái phát lần ba cho thấy chữa từng đợt chưa đủ; khói thuốc thụ động, ngáy–nghẹt mũi mạn là yếu tố nguy cơ (AAP 2013, tr. e986; Italian Consensus 2025). Chị chỉ kể khi được hỏi không phán xét. Không kháng sinh dự phòng (AAP 2013 KAS 5A; Italian Consensus 2025 khuyến cáo 7.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cách 1 (AAP 2013 Table 5, tr. e983): amoxicillin 90 mg/kg/ngày + clavulanat 6,4 mg/kg/ngày chia 2 lần; 17 kg → ≈ 765 mg/lần (WHO AWaRe 2022, tr. 39: 750 mg mỗi 12 giờ). Cách 2 (Italian Consensus 2025 khuyến cáo 5): chia 3 lần, amoxicillin–clavulanat 7:1 liều 40 mg/kg/ngày (680 mg) cộng amoxicillin đơn 50 mg/kg/ngày (850 mg). Cả hai đều đúng, khác do năm và biệt dược. Biệt dược ở Việt Nam, làm tròn liều: không có trong tài liệu đã tải.",
+     "Thời gian: 7 ngày (AAP 2013, tr. e985) hoặc 7–10 ngày (Italian Consensus 2025 khuyến cáo 4.1, 6); 5 ngày hoặc 5–7 ngày (WHO AWaRe 2022, NICE NG91 2018) chấp nhận. Giảm đau: paracetamol hoặc ibuprofen (WHO AWaRe 2022, tr. 39).",
+     "Phòng tái phát: bỏ hút thuốc trong nhà (AAP 2013 KAS 6D); tiêm phế cầu và cúm (KAS 6A–6B); điều trị nghẹt mũi. Hẹn tai mũi họng: ống thông khí khi 3 đợt trong 6 tháng, nạo VA đơn độc không phòng được viêm tai (AAP 2013, tr. e986–e987), hoặc nạo VA và cắt amidan (QĐ 5643 mục 6, tr. 214); tai mũi họng quyết.",
+     "Nỗi sợ lây: viêm hô hấp trên lây, mức lây của chính viêm tai giữa không có trong tài liệu đã tải; rửa tay, che miệng khi ho, ông hẹn bác sĩ riêng (WHO AWaRe 2022, tr. 37–38)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin–clavulanat",
+      "ham_luong": "Hỗn dịch uống cho trẻ; hàm lượng thương phẩm tại Việt Nam: không có trong tài liệu đã tải",
+      "lieu": "Cách 1: 765 mg amoxicillin/lần (90 mg/kg/ngày, clavulanat 6,4 mg/kg/ngày), 2 lần/ngày. Cách 2: amoxicillin–clavulanat 7:1 liều 40 mg/kg/ngày cộng amoxicillin đơn 50 mg/kg/ngày, chia 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cách đều 12 giờ (cách 1) hoặc 8 giờ (cách 2)",
+      "so_ngay": "7 ngày (hoặc 7–10 ngày)",
+      "ghi_chu": "AAP 2013 Table 5 (tr. e983), KAS 4B; WHO AWaRe 2022 (tr. 39); Italian Consensus 2025 khuyến cáo 5, 6."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Siro hoặc gói trẻ em; hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "200 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi 6 giờ, khi đau hoặc sốt",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "AAP 2013 KAS 2; WHO AWaRe 2022 (tr. 39). Có thể thay ibuprofen 150 mg mỗi 8 giờ (WHO AWaRe 2022, tr. 39)."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ số ngày kháng sinh dù bé hết sốt; cả nhà biết lịch uống thuốc (AAP 2013, tr. e985; Italian Consensus 2025 khuyến cáo 4.1, 6). Không tự mua kháng sinh dự phòng, kháng histamin, thuốc co mạch cho bé (AAP 2013 KAS 5A; NICE NG91 2018 khuyến cáo 1.1.6).",
+     "Không hút thuốc trong nhà, trên xe, không bế bé khi áo còn mùi khói (AAP 2013 KAS 6D, tr. e988). Rửa tay thường xuyên (WHO AWaRe 2022, tr. 37–38). Tiêm phế cầu và cúm (AAP 2013 KAS 6A–6B).",
+     "Quay lại ngay nếu sốt cao, li bì, nôn không uống được thuốc, co giật, cổ cứng, sưng đỏ sau tai, chảy mủ tai (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.12). Hẹn tai mũi họng ngoại trú sau khi hết thuốc để khám VA, nghe; hẹn khám lại ở đây sau hết thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hưng uống đủ 10 ngày, tai phải còn ứ dịch khi hết thuốc. Đợt thứ ba đổi sang amoxicillin–clavulanat 7 ngày, khỏi sau 3 ngày, không biến chứng. Ba bé hứa bỏ hút thuốc trong nhà; bé được hẹn tai mũi họng xem VA và bàn ống thông khí nếu còn tái phát. Ông nội đã khám tim mạch và uống lại thuốc theo đơn. Diễn tiến minh họa cho ca dạy học.",
+ "nhieu": [
+  "Giấu tiền sử: mẹ nói 'chỉ cảm thôi' khi bị hỏi cộc; hỏi cụ thể mới lộ đợt viêm tai 7 tuần trước và việc ngưng amoxicillin sau 3 ngày.",
+  "Lý do thật đến khám: sợ bé lây cho ông nội mới đặt stent; chỉ lộ khi hỏi 'chị lo điều gì nhất'. Statin là của ông nội (ông tự ngưng), không phải của bé.",
+  "Ho, nghẹt mũi, nôn 1 lần: bệnh nền, không phải chẩn đoán thứ hai. Ngoài giờ, không kỹ thuật viên: không cần xét nghiệm, X-quang, siêu âm vì chẩn đoán dựa vào soi tai khí nén."
+ ],
+ "bai_hoc_bien": [
+  "Giấu tiền sử: hỏi 'lần gần nhất bé đau tai là khi nào, uống thuốc gì mấy ngày' mới lộ đợt trước và việc ngưng sớm. Hỏi cụ thể, không phán xét, đổi cả thuốc lẫn lời dặn.",
+  "Nặng hay không quyết định kháng sinh ngay hay chờ: đau từ 48 giờ hoặc sốt từ 39 °C là nặng (AAP 2013 KAS 3A); ca nặng không chờ.",
+  "Đỡ một phần không phải thất bại: sau 48–72 giờ hết sốt, quấy bớt, ăn ngủ trở lại là đáp ứng; còn đau nhẹ và dịch tồn lưu là thường (AAP 2013, tr. e984–e985). Giữ thuốc đầu tay, không đổi sang thuốc phổ rộng.",
+  "Tái phát: ba đợt trong 6 tháng (AAP 2013, tr. e986); amoxicillin trong 30 ngày hoặc tái phát thì amoxicillin–clavulanat (AAP 2013 KAS 4B; Italian Consensus 2025 khuyến cáo 6). Tìm nguyên nhân nền (khói thuốc, ngáy–nghẹt mũi), hẹn tai mũi họng; không kháng sinh dự phòng (AAP 2013 KAS 5A)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm tai giữa cấp: khởi phát cấp, màng nhĩ phồng vừa–rõ (hoặc chảy tai không do viêm ống tai ngoài), có dịch hòm nhĩ (AAP 2013 KAS 1A–1C).",
+  "Nặng: đau vừa–nặng, đau từ 48 giờ hoặc sốt từ 39 °C (AAP 2013 KAS 3A) → kháng sinh ngay. Không nặng ≥ 24 tháng: kháng sinh hoặc chờ 48–72 giờ nếu theo dõi được (AAP 2013 KAS 3D; Italian Consensus 2025 khuyến cáo 1.4–1.5).",
+  "Amoxicillin 80–90 mg/kg/ngày chia 2 lần (AAP 2013 Table 5) hoặc 3 lần (Italian Consensus 2025 khuyến cáo 3.3); 17 kg → 750 mg × 2 (WHO AWaRe 2022, tr. 39). Ca nặng 10 ngày (AAP 2013, tr. e985); NICE 5–7 ngày, AWaRe 5 ngày chấp nhận.",
+  "Amoxicillin trong 30 ngày hoặc tái phát: amoxicillin–clavulanat (AAP 2013 KAS 4B; Italian Consensus 2025 khuyến cáo 5, 6). Đánh giá lại khi không đỡ sau 48–72 giờ (AAP 2013 KAS 4C); dịch tồn lưu 60–70% sau 2 tuần (AAP 2013, tr. e985)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 209–214); Viêm xương chũm cấp tính trẻ em (mục 1–4, tr. 195–196)",
+  "AAP 2013 – AAP/AAFP The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–6D (tr. e965, e969–e988); Table 3–5 (tr. e973, e976, e983); tr. e984–e987",
+  "NICE NG91 2018 – Otitis media (acute): antimicrobial prescribing, 2018 (cập nhật 2022) – kho tltk-10000-ca – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.14, Table 1 (tr. 5–10)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children. Ital J Pediatr 2025 – kho tltk-10000-ca – ĐÃ ĐỌC: định nghĩa, Table 1, Question 1–7 và 9",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.2 (tr. 80), 6.3.1 (tr. 167), 6.7.1–6.7.2 (tr. 182–184), Table 12 (tr. 128)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 5 Acute otitis media (tr. 36–39)"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08): viết theo đặc tả sổ cái NH-0356. Tài liệu đã đọc: QĐ 5643 TL-0130 (Viêm tai giữa cấp trẻ em, Viêm xương chũm cấp); AAP 2013 TL-0271; NICE NG91 2018; Italian Consensus 2025; WHO 2013 TL-0250 (mục 4.2, 6.3.1, 6.7); WHO AWaRe 2022 TL-0018 mục 5.",
+  "Sổ cái ghép lệch: 'thuốc đang dùng: statin', 'tự ngưng thuốc' cho trẻ 4 tuổi; statin hiểu là của ông nội sống chung (ông tự ngưng), 'tự ngưng' áp cho mẹ ngưng kháng sinh đợt trước của bé (như HH-0466).",
+  "Mâu thuẫn nguồn: theo mục sổ NH-0355 (kháng sinh ngay hay chờ; liều; thời gian; chích rạch/corticoid; X-quang xương chũm) và NH-0304 (amoxicillin–clavulanat; tái phát; ống thông khí/nạo VA). Không có mâu thuẫn mới.",
+  "Thiết kế: lượt 1 nặng nên kháng sinh ngay, chờ chấm w; lượt 2 đỡ một phần, giữ amoxicillin, ngưng hay đổi thuốc chấm w; lượt 3 tái phát (amoxicillin trong 30 ngày) nên amoxicillin–clavulanat, chờ chấm a.",
+  "Không có trong tài liệu đã tải: nguy cơ gan của amoxicillin, mức lây của viêm tai giữa, hàm lượng thương phẩm và làm tròn liều, lịch tiêm ở Việt Nam, mốc đi học lại, cách đọc nhĩ đồ, liều tối đa/ngày paracetamol cho trẻ. Âm thanh: AT-TIM-NHANH-01, AT-PHOI-BT-NL-01; không ảnh da."
+ ]
+}
