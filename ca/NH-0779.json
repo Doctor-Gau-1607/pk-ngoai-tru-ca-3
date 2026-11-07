@@ -1,0 +1,857 @@
+{
+ "ma_ca": "NH-0779",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_sot_xuat_huyet_dengue_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sốt xuất huyết Dengue (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Sốt phát ban virus",
+   "Nhiễm khuẩn huyết",
+   "Sởi"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Côn trùng đốt",
+  "thuoc_dang_dung": "Tự mua kháng sinh không rõ",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc (của mẹ)"
+ },
+ "benh_nhan": {
+  "ten": "Lê Hoàng Phúc",
+  "tuoi": 5,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 18,
+  "chieu_cao": 108,
+  "xung_ho": "Bé 5 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', nói ngắn, hay lắc đầu khi mệt. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 29 tuổi, công nhân may ở khu công nghiệp, hay mệt, nói cộc, đã dắt con đi ba nơi mà bé vẫn sốt nên không còn tin ai. Bé lì, mệt, bám mẹ.",
+  "kieu_nhieu": "Mẹ mệt mỏi, mất niềm tin: trả lời cụt ('khám rồi, nói rồi'), phàn nàn 'nơi nào cũng một kiểu', không kể thêm nếu bị hỏi lại từ đầu như chưa ai khám. Chịu mở lòng, đưa giấy xét nghiệm cũ và kể chuyện công ty khi bác sĩ thừa nhận ba nơi đã khám, xem giấy tờ, và nói rõ việc nào cần làm lại, việc nào không.",
+  "nguoi_nha": "Mẹ bé, chị Hiền, 29 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Hỏi thẳng bé (vd 'Phúc đau chỗ nào?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hiền)",
+  "ngoai_hinh": {
+   "da": "#efc29a",
+   "toc": "#1b1411",
+   "kieuToc": "tre",
+   "ao": "#e8a23a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e5b088",
+    "toc": "#241a14",
+    "kieuToc": "dai",
+    "ao": "#5b8c85",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt cao 3 ngày, đã khám ba nơi chưa đỡ; mẹ xin giấy cho nghỉ việc ở nhà trông con",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh thứ 3",
+   "tiep_don": "Bé trai 5 tuổi, 18 kg, mẹ đưa đến lúc 15 giờ vì sốt cao từ tối Chủ nhật (hôm nay là thứ Tư), mệt, ăn kém. Mẹ nói đã đi ba nơi nhưng bé vẫn sốt. Sinh hiệu: nhiệt 38,9 °C, mạch 124 l/p, huyết áp 96/64 mmHg, nhịp thở 24 l/p, SpO₂ 98%. Bé tỉnh, mệt, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Phúc uống được, tay chân ấm, tiểu đều, tỉnh, không đau bụng nhiều, không chảy máu: chưa có dấu hiệu cảnh báo nên điều trị ngoại trú và tái khám mỗi ngày (QĐ 2760/2023, mục IV.A; Phụ lục 3). Nhà cách phòng khám 15 phút, bà nội ở nhà và mẹ có thể nghỉ trông nếu được cấp giấy, nên không rơi vào nhóm 'gia đình không theo dõi sát' (mục IV.A). Nhập viện lúc này là quá tay: bé bị chích tĩnh mạch, dễ được truyền dịch khi chưa có chỉ định, trong khi dịch thừa gây suy hô hấp ở giai đoạn hồi phục (mục II.3.1) và WHO 2025 mục 4.1.3 ưu tiên uống khi còn uống được.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên là quá tay: không sốc, không suy hô hấp, không xuất huyết nặng, tri giác bình thường nên không phải SXHD nặng (QĐ 2760/2023, Phụ lục 22 mục 1.2), cũng chưa có dấu hiệu cảnh báo. Công thức máu, Hct và tái khám hằng ngày cơ sở này làm được (mục IV.A.3a). Mẹ mất thêm nửa ngày công, bé đang sốt cao phải chờ ở nơi đông bệnh nhi, và mẹ càng mất niềm tin vì lại bị chuyển đi nơi khác."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt ba hôm rồi, em đưa đi ba chỗ rồi mà không hết. Chỗ thì nói viêm họng, chỗ thì nói siêu vi. Bác sĩ coi giúp, rồi cho em xin cái giấy, em phải nghỉ ở nhà trông con mà công ty khó lắm.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "96/64",
+    "nhiet": "38,9",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt cao 3 ngày, ăn kém, mệt. Đã khám ba nơi chưa đỡ. Mẹ xin giấy nghỉ việc để trông con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt đột ngột tối Chủ nhật, 39–40 °C, gần như liên tục; hạ ít giờ sau paracetamol rồi lại lên. Hôm nay là ngày bệnh thứ 3.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn biến sốt, ngày bệnh"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ngày 1 tối, mẹ mua thuốc ở nhà thuốc đầu ngõ. Ngày 2 sáng khám phòng khám tư: nói viêm họng, cho thuốc ho. Ngày 3 sáng khám trạm y tế phường: nói sốt siêu vi, dặn uống nhiều nước. Mỗi nơi một kiểu nên mẹ mất lòng tin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã khám ba nơi: ai kết luận gì, làm gì, thuốc gì"
+    },
+    {
+     "id": "giay_cu",
+     "noi_dung": "Phòng khám tư ngày 2 có làm công thức máu (BC 5,1 G/L, Hct 35%, tiểu cầu 168 G/L), CRP 6 mg/L, test nhanh cúm A/B âm tính; mẹ giữ tờ giấy trong túi và nói 'bình thường hết'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Kết quả xét nghiệm cũ (mốc Hct nền, tránh lặp CRP, cúm)",
+     "dieu_kien_lo": "Mẹ không tự đưa. Chỉ đưa khi bác sĩ hỏi có giấy tờ, xét nghiệm của các nơi trước không, hoặc thừa nhận các nơi đã khám và nói rõ sẽ không làm lại việc đã làm."
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Từ ngày 1 mẹ cho bé uống gói bột nhà thuốc bán, bảo là kháng sinh, 3 lần mỗi ngày (khoảng 8 gói). Vỏ gói đã vứt, còn vài gói trong túi, chữ mờ không đọc được. Không biết tên thuốc.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc tự mua (kháng sinh không rõ)",
+     "dieu_kien_lo": "Hỏi chung 'bé uống thuốc gì' thì mẹ chỉ kể thuốc hạ sốt và thuốc ho. Chỉ kể gói bột khi bác sĩ hỏi từng loại thuốc, thuốc mua ở nhà thuốc, hoặc nhờ mẹ đưa túi thuốc xem."
+    },
+    {
+     "id": "ha_sot",
+     "noi_dung": "Paracetamol gói 250 mg, 1 gói mỗi lần, hôm qua 4 gói, hôm nay 2 gói. Không cho ibuprofen, aspirin hay thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ sốt (có NSAID không)"
+    },
+    {
+     "id": "non_dau_bung",
+     "noi_dung": "Nôn 1 lần sáng nay sau khi uống thuốc, không ra máu. Thỉnh thoảng kêu đau quanh rốn, xoa là hết, không đau liên tục. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, đau bụng (đếm số lần, mức độ)"
+    },
+    {
+     "id": "dau_co_mat",
+     "noi_dung": "Bé kêu nhức mắt khi liếc, đau hai bắp chân, đòi bế. Không ho, không sổ mũi nhiều, không đau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau cơ, nhức hố mắt; triệu chứng hô hấp"
+    },
+    {
+     "id": "uong_tieu",
+     "noi_dung": "Uống nước và sữa khoảng một nửa bình thường. Hôm qua tiểu 4 lần, hôm nay đến giờ tiểu 3 lần, vàng. Không nôn mọi thứ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng uống, số lần tiểu"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu mũi, chân răng, không nôn ra máu, không phân đen. Không bầm tím, mẹ không thấy chấm đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xuất huyết da, niêm mạc"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh, chơi ít nhưng nói chuyện. Không li bì, không co giật, tay chân ấm, không thở nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, tri giác"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 5 ngày trước sốt, lớp mẫu giáo vừa mưa to, bé bị muỗi đốt nhiều ở sân chơi, chân còn mấy vết gãi. Lớp có hai bạn nghỉ vì sốt xuất huyết. Khu trọ có chậu nước đọng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Côn trùng đốt, dịch tễ (ủ bệnh 4–10 ngày)"
+    },
+    {
+     "id": "theo_doi",
+     "noi_dung": "Nhà cách phòng khám 15 phút xe máy, bà nội 63 tuổi ở cùng, biết đo nhiệt độ. Nếu mẹ nghỉ được thì ở nhà trông bé; nếu không, bà một mình trông. Bố chạy xe công nghệ, về muộn. Có điện thoại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng theo dõi tại nhà (tiêu chí ngoại trú)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Sinh đủ tháng, 18 kg, 108 cm, không béo phì. Không hen, tim, thận, máu. Chưa từng bị sốt xuất huyết. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, béo phì, tiền sử SXH"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ làm công nhân may khoán, nghỉ không có giấy bị trừ chuyên cần và nhắc nhở lần hai. Mẹ lo mất việc, muốn có giấy hợp lệ để nghỉ trông con, nếu cần thì cho bé nằm viện để được nghỉ.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: muốn được nghỉ việc",
+     "nhieu": 1,
+     "dieu_kien_lo": "Mẹ chỉ kể khi bác sĩ hỏi mẹ làm nghề gì, ai trông bé khi mẹ đi làm, hay mẹ lo điều gì ngoài bệnh của bé."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, bám mẹ nhưng nhìn quanh và trả lời. Da hồng, môi hồng, niêm mạc miệng ẩm. Tay chân ấm, đổ đầy mao mạch 2 giây, mạch quay rõ, hiệu áp 32 mmHg. Không phù mi mắt.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không xuất tiết, không giả mạc. Mũi khô sạch. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, không ghèn. Liếc ngang bé nhăn mặt, đưa tay dụi mắt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ nhỏ dưới 1 cm, mềm. Cổ mềm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim nhanh đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, không co lõm ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Ấn quanh rốn bé hơi khó chịu, không phản ứng thành bụng. Gan sờ được dưới bờ sườn phải 1 cm, mềm. Lách không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da hồng, xung huyết ở mặt và cổ. Vài sẩn muỗi đốt cũ có vết gãi ở cẳng chân. Không ban, không chấm xuất huyết, không bầm.",
+     "k": 0
+    },
+    "nghiem_phap_day_that": {
+     "a": "Dương tính: 24 chấm xuất huyết trong 6,25 cm² (dương tính khi trên 20 chấm).",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn bắp chân hai bên bé nhăn mặt, rụt chân. Khớp không sưng. Đi chậm, đòi bế.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "18 kg, 108 cm, cân đối, không dư cân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "BC 3,2 G/L · Neutrophil 38% · Lymphocyte 50% · Hb 124 g/L · Hct 37% · TC 126 G/L",
+     "bang": {
+      "wbc": 3.2,
+      "neu_pct": 38.0,
+      "neu": 1.22,
+      "lym_pct": 50.0,
+      "lym": 1.6,
+      "mono_pct": 9.0,
+      "mono": 0.29,
+      "eos_pct": 2.0,
+      "eos": 0.06,
+      "baso_pct": 1.0,
+      "baso": 0.03,
+      "rbc": 4.55,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 81.3,
+      "mch": 27.3,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 126
+     },
+     "n": "Cần làm: bạch cầu giảm, tiểu cầu giảm dần nhưng còn trên 100.000/mm³ là giai đoạn sốt (QĐ 2760/2023, mục II.1.2). Hct 37% làm mốc để so sánh mỗi ngày: cô đặc máu khi Hct tăng trên 20% so với ban đầu, tiểu cầu dưới 100.000/mm³ là giai đoạn nguy hiểm (mục II.2.2). Khám ngoại trú phải xét nghiệm hằng ngày (mục IV.A.3a). Không lặp lại CRP, test cúm đã làm. Tham chiếu Hct, bạch cầu của trẻ 5 tuổi: không có trong tài liệu đã tải."
+    },
+    "ns1": {
+     "v": "e",
+     "ab": 1,
+     "r": "NS1 dương tính (ngày bệnh thứ 3).",
+     "n": "Cần làm: NS1 làm được từ ngày 1 đến 7, ưu tiên 5 ngày đầu (QĐ 2760/2023, mục III.1.1). Dương tính xác định căn nguyên; âm tính không loại trừ, từ ngày 5 làm IgM nếu NS1 âm."
+    },
+    "liver": {
+     "v": "a",
+     "ab": 1,
+     "r": "AST 62 U/L · ALT 40 U/L",
+     "n": "Chấp nhận, làm nếu có điều kiện (QĐ 2760/2023, Phụ lục 3 chú thích): AST/ALT thường tăng (mục II.2.2); từ 400 U/L là dấu hiệu cảnh báo (Phụ lục 2)."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan bờ dưới cách bờ sườn 1 cm, cấu trúc đều. Không dịch tự do ổ bụng. Thành túi mật mảnh.",
+     "n": "Chấp nhận, không bắt buộc: tìm tràn dịch màng bụng (QĐ 2760/2023, mục II.2.2; Phụ lục 2), thay chỗ X-quang vì cơ sở không có. Bình thường lúc này không loại trừ thoát huyết tương về sau (giai đoạn nguy hiểm thường ngày 3–7, mục II.2)."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "r": "Hai bên không tràn dịch màng phổi, màng phổi trượt tốt, không đông đặc.",
+     "n": "Chấp nhận: tràn dịch màng phổi trên siêu âm là một dấu hiệu cảnh báo (QĐ 2760/2023, Phụ lục 2). Có thể thay X-quang ngực vì cơ sở không có."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 6 mg/L",
+     "n": "Không cần: phòng khám tư đã làm CRP 6 mg/L ngày hôm kia, lặp lại không đổi xử trí khi đã có NS1 dương tính. Ngưỡng CRP phân biệt vi khuẩn – virus ở trẻ: không có trong tài liệu đã tải."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Cúm A, cúm B âm tính.",
+     "n": "Không cần: đã làm ở nơi khám trước, bé không ho, sổ mũi, và NS1 dương tính."
+    },
+    "cxr": {
+     "v": "n",
+     "n": "Không cần: bé thở 24 l/p, không rút lõm, phổi không ran, SpO₂ 98% (NICE NG143 2021, Bảng 2: thở nhanh trên 40 l/p ở trẻ trên 12 tháng mới là mức trung gian). Cơ sở cũng không có X-quang; nếu cần tìm tràn dịch màng phổi thì dùng siêu âm phổi (QĐ 2760/2023, mục II.2.2)."
+    },
+    "pct": {
+     "v": "n",
+     "n": "Không cần: bé tỉnh, tay chân ấm, đổ đầy mao mạch 2 giây, NS1 dương tính; không dấu hiệu nhiễm khuẩn huyết (NICE NG143 2021, Bảng 2)."
+    },
+    "cay": {
+     "v": "n",
+     "n": "Không cần cấy máu: không dấu hiệu nhiễm khuẩn huyết (NICE NG143 2021, Bảng 2); đã có chẩn đoán căn nguyên bằng NS1."
+    },
+    "igm_soi": {
+     "v": "n",
+     "n": "Không cần: tiêm sởi hai mũi, không Koplik, không viêm kết mạc, không ban (QĐ 1019/2025, mục 2.4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt xuất huyết Dengue (chưa có dấu hiệu cảnh báo), ngày bệnh thứ 3, giai đoạn sốt",
+     "ok": 1,
+     "n": "Sống ở vùng có dịch, sốt dưới 7 ngày kèm buồn nôn, nhức hố mắt, đau cơ, dây thắt dương tính (QĐ 2760/2023, Phụ lục 3); bạch cầu giảm, tiểu cầu giảm dần còn trên 100 G/L, Hct 37% chưa cô đặc, NS1 dương tính (mục II.1.2, III.1.1). Khởi phát sau muỗi đốt, ủ bệnh 4–10 ngày (WHO 2025, mục 2.2)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue có dấu hiệu cảnh báo",
+     "n": "Chưa: nôn 1 lần (ngưỡng ≥ 3 lần/1 giờ hoặc ≥ 4 lần/6 giờ), đau bụng thoáng qua (ngưỡng đau nhiều và liên tục), gan 1 cm (ngưỡng > 2 cm), không chảy máu niêm mạc, tiểu 3–4 lần/ngày, Hct chưa tăng, siêu âm không tràn dịch (QĐ 2760/2023, Phụ lục 2, 3; WHO 2025, mục 2.7). Ngày 3 là bắt đầu giai đoạn nguy hiểm nên phải đánh giá lại mỗi ngày."
+    },
+    {
+     "t": "Sốt phát ban do virus",
+     "n": "Ít nghĩ: chưa ban, nhưng không giải thích được nhức hố mắt, giảm tiểu cầu và NS1 dương tính. Là chẩn đoán phân biệt cần loại bằng theo dõi (QĐ 2760/2023, mục III.2)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Không: bé tỉnh, tay chân ấm, đổ đầy mao mạch 2 giây, mạch 124 l/p (dưới ngưỡng nhịp nhanh 140 l/p của trẻ 2–5 tuổi), thở 24 l/p, SpO₂ 98% (NICE NG143 2021, Bảng 1, 2). Nhưng phải loại bằng theo dõi sát (QĐ 2760/2023, mục III.2)."
+    },
+    {
+     "t": "Sởi",
+     "n": "Không: tiêm sởi hai mũi, không Koplik, không viêm kết mạc, không ho, không ban (QĐ 1019/2025, mục 2.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, hẹn tái khám sáng mai và mỗi ngày đến khi hết sốt 2 ngày (ít nhất đến ngày bệnh thứ 7); mỗi lần khám lâm sàng, công thức máu, Hct, tiểu cầu",
+     "v": "c",
+     "n": "SXHD chưa dấu hiệu cảnh báo, nhà gần, có người trông: ngoại trú (QĐ 2760/2023, mục IV.A; Phụ lục 3). Tái khám và xét nghiệm hằng ngày (mục IV.A.3a). Tái khám mỗi ngày đến khi hết sốt 2 ngày (Phụ lục 21) hoặc ít nhất đến ngày thứ 7 (Phụ lục 22, mục 3.1 bước 5). Sốc thường vào ngày 4–5 lúc giảm sốt (Phụ lục 22, mục 3.2 bước 6)."
+    },
+    {
+     "t": "Uống nhiều nước: oresol, nước dừa, cam, chanh, nước cháo loãng pha muối; tránh nước màu nâu, đỏ; mẹ ghi lượng uống bằng cốc đo, theo dõi tiểu ít nhất 4–6 lần/ngày",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.2; WHO 2025, mục 4.1.3 (cốc đo, ghi lượng uống mỗi ngày, tiểu ít nhất 4–6 lần/ngày). Lượng mL/ngày cụ thể: không có trong tài liệu đã tải (QĐ ghi 'theo nhu cầu cơ bản, khuyến khích uống nhiều')."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol đơn chất 10–15 mg/kg/lần (18 kg: 180–270 mg, gói 250 mg) khi sốt ≥ 38,5 °C, cách 4–6 giờ, tối đa 60 mg/kg/24 giờ (1.080 mg); nới quần áo, lau mát bằng nước ấm khi sốt cao chưa đáp ứng",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.1; WHO 2025, Bảng 4-2. Lau mát khi ≥ 39 °C chưa đáp ứng paracetamol (Phụ lục 22, mục 3.2 bước 4); NICE NG143 mục 1.6.2 không khuyến cáo lau nước ấm cho trẻ sốt nói chung, khác bối cảnh vì QĐ 2760 là hướng dẫn riêng SXHD. Paracetamol đơn chất là đáp án khi dengue chưa loại trừ (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Không dùng aspirin, ibuprofen, analgin hay thuốc kháng viêm; kiểm tra túi thuốc, thuốc không rõ hoạt chất thì ngưng",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.1: có thể gây xuất huyết, toan máu; WHO 2025, mục 4.2.3: khuyến cáo mạnh không dùng NSAID. Mẹ khai chỉ dùng paracetamol, nhưng gói bột không rõ hoạt chất nên không loại trừ được."
+    },
+    {
+     "t": "Ngưng gói kháng sinh tự mua, không kê kháng sinh",
+     "v": "c",
+     "n": "Sốt có nguồn rõ là dengue (NS1 dương tính); NICE NG143 mục 1.4.9: không kê kháng sinh uống cho trẻ sốt không rõ ổ nhiễm. Kháng sinh không điều trị virus: không có trong tài liệu đã tải một câu riêng cho dengue, đây là nhận xét của người soạn. QĐ 2760/2023 chỉ dùng kháng sinh khi nghi nhiễm khuẩn (suy gan, mục C.2.5.1)."
+    },
+    {
+     "t": "Không truyền dịch lúc này; giải thích bằng tiêu chí: uống được, tiểu đều, tay chân ấm, chưa dấu hiệu cảnh báo. Truyền khi có ít nhất một: lừ đừ, không uống được, nôn nhiều, đau bụng nhiều, mất nước, Hct tăng cao",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.B1.1.4 (chỉ định truyền dịch); WHO 2025, mục 4.1.3: còn uống được thì ưu tiên uống. Dịch thừa gây suy hô hấp ở giai đoạn hồi phục (mục II.3.1)."
+    },
+    {
+     "t": "Dặn đưa bé khám lại ngay khi có một trong: khó chịu hơn dù sốt giảm hoặc hết sốt, không ăn uống được, nôn nhiều, đau bụng nhiều, tay chân lạnh ẩm, mệt lả bứt rứt, chảy máu mũi miệng, không tiểu trên 6 giờ, lú lẫn, vật vã hoặc li bì; mẹ và bà sờ tay chân, xem tri giác, lượng tiểu mỗi 6–8 giờ",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.3b; Phụ lục 22, mục 3.1 (bước 4: theo dõi ít nhất mỗi 6–8 giờ)."
+    },
+    {
+     "t": "Thừa nhận ba nơi đã khám, xem giấy tờ cũ; không lặp CRP, test cúm; dùng Hct 35% của ngày 2 làm mốc thêm",
+     "v": "c",
+     "n": "Dạy tái lập niềm tin theo sổ cái (biến 'từng khám 3 nơi'). Hct ngày 2 là mốc nền để so sánh cô đặc máu (QĐ 2760/2023, mục II.2.2)."
+    },
+    {
+     "t": "Cấp giấy xác nhận cho mẹ nghỉ chăm con ốm đúng tình trạng thực, đến ngày tái khám; không cấp khống hay nhiều ngày hơn cần",
+     "v": "c",
+     "n": "Giấy nghỉ chăm con: tài liệu đã tải không có; nguồn bổ sung tự tìm theo sổ mâu thuẫn là Luật BHXH 2024 Điều 42 khoản 1 điểm e, Điều 44 khoản 1 (chưa đối chiếu văn bản gốc). Giấy hợp lệ giúp mẹ ở nhà trông bé, đáp ứng tiêu chí theo dõi sát (QĐ 2760/2023, mục IV.A)."
+    },
+    {
+     "t": "Cho nhập viện vì mẹ yêu cầu hoặc để mẹ được nghỉ",
+     "v": "a",
+     "n": "WHO 2025, mục 2.7: bác sĩ có thể nhập viện khi có yếu tố nguy cơ khác. QĐ 2760/2023, mục IV.A chỉ xem xét khi sống một mình, nhà xa, không theo dõi sát, nhũ nhi, dư cân, thai, ≥ 60 tuổi, bệnh mạn tính. Bé không thuộc nhóm nào: không phạt nhưng không phải đáp án chính, và không nên nhập viện chỉ để cấp giấy."
+    },
+    {
+     "t": "Cho thêm ibuprofen xen kẽ paracetamol",
+     "v": "w",
+     "n": "QĐ 2760/2023, mục IV.A.1; WHO 2025, mục 4.2.3 (khuyến cáo mạnh không dùng NSAID bất kể mức độ). NICE NG143 mục 1.6.4–1.6.6 cho phép ở trẻ sốt nói chung nhưng chưa nói đến dengue (khác bối cảnh)."
+    },
+    {
+     "t": "Truyền dịch tại phòng khám theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Chưa có chỉ định (QĐ 2760/2023, mục IV.B1.1.4); dịch thừa gây quá tải (mục II.3.1); phòng khám không theo dõi Hct mỗi 2–4 giờ được (mục IV.B1.1.5)."
+    },
+    {
+     "t": "Kê kháng sinh hoặc tiêm bắp thuốc hạ sốt, vitamin",
+     "v": "w",
+     "n": "NICE NG143 mục 1.4.9; tiêm bắp gây tụ máu khi giảm tiểu cầu (QĐ 2760/2023, Phụ lục 22, mục 3.4 bước 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt xuất huyết Dengue chưa có dấu hiệu cảnh báo, ngày bệnh thứ 3, giai đoạn sốt (NS1 dương tính)",
+     "Chưa có dấu hiệu cảnh báo, chưa sốc, chưa xuất huyết",
+     "Đủ tiêu chí điều trị ngoại trú: nhà gần, có bà trông, mẹ nghỉ được nếu có giấy",
+     "Đã dùng kháng sinh tự mua không rõ, không có chỉ định",
+     "Mẹ mệt mỏi, mất niềm tin sau ba nơi khám; mong muốn thật là được nghỉ việc hợp lệ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên đi: (1) hỏi bệnh nhìn nhận ba nơi đã khám, hỏi ngày bệnh, nôn, đau bụng, tiểu, chảy máu, dịch tễ, từng loại thuốc kể cả gói bột (QĐ 2760/2023, Phụ lục 22, mục 2.1); (2) khám tri giác, tay chân, đổ đầy mao mạch, gan, dây thắt (mục 2.2); (3) công thức máu, NS1, siêu âm nếu có (mục II, III.1.1); (4) phân độ; (5) xử trí.",
+     "Vì sao là SXHD: sốt cao liên tục, nhức hố mắt, đau cơ, dây thắt dương tính, da xung huyết (QĐ 2760/2023, mục II.1.1); bạch cầu giảm, tiểu cầu giảm dần còn trên 100 G/L (mục II.1.2); NS1 dương tính (mục III.1.1). Muỗi đốt 5 ngày trước và lớp có hai bạn mắc phù hợp ủ bệnh 4–10 ngày (WHO 2025, mục 2.2).",
+     "Vì sao chưa có dấu hiệu cảnh báo: nôn 1 lần, đau bụng thoáng qua, gan 1 cm, không chảy máu niêm mạc, tiểu còn, Hct 37% chưa tăng, siêu âm không dịch (QĐ 2760/2023, Phụ lục 2, 3). Bé thở 24 l/p, mạch 124 l/p, huyết áp 96/64 hiệu áp 32 mmHg, nằm trong giá trị bình thường theo tuổi: 95–140 l/p, huyết áp tâm thu 80–100 mmHg (Phụ lục 22, mục 1.4).",
+     "Vì sao ba nơi không giúp: mỗi nơi chỉ thấy một mảnh, thuốc kháng sinh và thuốc ho không tác động lên dengue. Xét nghiệm ngày 2 (Hct 35%, tiểu cầu 168 G/L) còn ở giai đoạn rất sớm nên bình thường; bình thường ngày 2 không loại trừ SXHD (mục II.1.2). Tiểu cầu từ 168 xuống 126 trong một ngày cho thấy xu hướng.",
+     "Vì sao loại nhiễm khuẩn huyết, sởi, sốt phát ban: bé tỉnh, tay chân ấm, đổ đầy mao mạch 2 giây (NICE NG143 2021, Bảng 2), chưa ban, tiêm sởi đủ, NS1 dương tính; nhiễm khuẩn huyết vẫn phải theo dõi sát (QĐ 2760/2023, mục III.2).",
+     "Điều kiện ngoại trú: phụ thuộc người theo dõi. Mẹ muốn nghỉ để trông con là điều kiện để bé ở nhà an toàn, nên giấy nghỉ không phải việc phụ mà gắn với quyết định xử trí."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú vì SXHD chưa dấu hiệu cảnh báo, phần lớn trường hợp điều trị ngoại trú, chủ yếu điều trị triệu chứng và theo dõi để phát hiện sớm sốc (QĐ 2760/2023, mục IV.A).",
+     "Bù dịch uống: oresol hoặc nước trái cây, nước cháo loãng pha muối; không dùng nước màu nâu, đỏ (QĐ 2760/2023, mục IV.A.2). Dùng cốc đo, tiểu 4–6 lần/ngày (WHO 2025, mục 4.1.3).",
+     "Hạ sốt: chỉ paracetamol đơn chất 10–15 mg/kg/lần cách 4–6 giờ, không quá 60 mg/kg/24 giờ; không aspirin, analgin, ibuprofen (QĐ 2760/2023, mục IV.A.1; WHO 2025, mục 4.2.1, 4.2.3). Gói 250 mg = 13,9 mg/kg.",
+     "Không kháng sinh, không truyền dịch: chưa có chỉ định (NICE NG143 mục 1.4.9; QĐ 2760/2023, mục IV.B1.1.4). Giải thích bằng tiêu chí cụ thể để lấy lại lòng tin.",
+     "Theo dõi: tái khám mỗi ngày kèm công thức máu, Hct, tiểu cầu (QĐ 2760/2023, mục IV.A.3a). Ngày 4–5 là lúc dễ vào sốc lúc giảm sốt (Phụ lục 22, mục 3.2 bước 6): dặn rõ không coi hết sốt là hết bệnh.",
+     "Giấy nghỉ chăm con: theo tình trạng thực, ngắn ngày (sổ mâu thuẫn; nguồn bổ sung tự tìm, chưa đối chiếu văn bản gốc)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (gói bột hoặc siro cho trẻ)",
+      "ham_luong": "Gói 250 mg",
+      "lieu": "1 gói (250 mg ≈ 13,9 mg/kg; cho phép 180–270 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C, cách nhau 4–6 giờ, không lặp lại sớm hơn 4 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 4 gói/24 giờ (≤ 60 mg/kg/ngày = 1.080 mg)",
+      "ghi_chu": "QĐ 2760/2023, mục IV.A.1; WHO 2025, Bảng 4-2. Thận trọng nếu men gan tăng (WHO 2025, mục 4.2.1)."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha theo hướng dẫn nhà sản xuất",
+      "lieu": "Uống từng ngụm, ghi lượng bằng cốc đo",
+      "duong": "Uống",
+      "thoi_diem": "Cả ngày, uống thường xuyên",
+      "so_ngay": "Đến khi hết sốt và ăn uống bình thường",
+      "ghi_chu": "QĐ 2760/2023, mục IV.A.2; WHO 2025, mục 4.1.3. Số mL mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Sốt xuất huyết do virus Dengue muỗi vằn truyền; không có thuốc đặc hiệu, điều trị chủ yếu là uống nước và theo dõi (QĐ 2760/2023, mục IV.A).",
+     "Uống oresol, nước dừa, cam, chanh, nước cháo loãng pha muối; không cho uống nước màu nâu hoặc đỏ (mục IV.A.2). Ghi lượng uống mỗi ngày, bé tiểu ít nhất 4–6 lần/ngày (WHO 2025, mục 4.1.3).",
+     "Paracetamol 1 gói 250 mg khi sốt từ 38,5 °C, cách 4–6 giờ, tối đa 4 gói/ngày. Không cho aspirin, ibuprofen, analgin; ngưng gói thuốc kháng sinh mua ở nhà thuốc; không tự cho thuốc mới khi chưa hỏi bác sĩ. (QĐ 2760/2023, mục IV.A.1).",
+     "Đưa bé khám lại ngay khi: mệt lả, bứt rứt, khó chịu hơn dù sốt giảm hoặc hết sốt; không ăn uống được; nôn nhiều; đau bụng nhiều; tay chân lạnh, ẩm; chảy máu mũi, miệng; không tiểu trên 6 giờ; lú lẫn, li bì (mục IV.A.3b) (QĐ 2760/2023, mục IV.A.3b).",
+     "Tái khám sáng mai để làm lại công thức máu, Hct, tiểu cầu, và mỗi ngày đến khi hết sốt 2 ngày (Phụ lục 21). Hết sốt ngày 4–5 chưa phải khỏi: sốc thường vào lúc này (Phụ lục 22, mục 3.2). (QĐ 2760/2023)",
+     "Chị mang theo mọi giấy tờ xét nghiệm và túi thuốc. Cháu nghỉ học; diệt loăng quăng, đậy chậu nước, ngủ màn để bảo vệ cả nhà (Phụ lục 25, mục 3.4).",
+     "Giấy xác nhận cho chị nghỉ trông bé đến ngày tái khám."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng ngày bệnh thứ 4",
+   "tiep_don": "Tái khám sáng hôm sau theo hẹn. Mẹ báo bé hết sốt từ 3 giờ sáng, chơi nhiều hơn, nhưng vẫn ăn rất ít, nôn 2 lần, kêu đau bụng, tiểu ít. Sinh hiệu: nhiệt 37,2 °C, mạch 112 l/p, huyết áp 94/64 mmHg, nhịp thở 24 l/p, SpO₂ 98%. Mẹ đã cho uống nước theo dặn và hỏi bé khỏi chưa để mẹ đi làm lại.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Phúc về vì đã hết sốt sẽ bỏ qua đúng thời điểm nguy hiểm: sốc thường xuất hiện ngày 4–5 lúc bệnh nhi giảm sốt (QĐ 2760/2023, Phụ lục 22, mục 3.2 bước 6). Bé có đau bụng vùng gan, gan to, tiểu ít, Hct tăng kèm tiểu cầu giảm nhanh, đó là các dấu hiệu cảnh báo, và khi có dấu hiệu cảnh báo thì cho nhập viện điều trị (mục IV.A.3a, IV.B1). Mẹ vui vì bé 'hết sốt' sẽ đi làm lại, bà nội ở nhà một mình khó nhận ra sớm tay chân lạnh, li bì; bé dễ vào viện muộn trong sốc và phải hồi sức.",
+    "theo_doi": "Giữ bé vài giờ ở phòng khám rồi cho về không đủ: SXHD có dấu hiệu cảnh báo cần nhập viện, theo dõi mạch, huyết áp, nước tiểu và Hct mỗi 4–6 giờ, khi truyền dịch thì Hct mỗi 2–4 giờ (QĐ 2760/2023, mục IV.B1.1.3, 1.5). Phòng khám ngoại trú không có giường theo dõi liên tục và không làm Hct lặp lại, nên phần dịch cần truyền và phát hiện sớm sốc bị chậm vài giờ quý giá.",
+    "cap_cuu": "Gọi cấp cứu, truyền nhanh 20 mL/kg trong 1 giờ cho bé là quá tay: bé chưa sốc (tay chân ấm, đổ đầy mao mạch 2 giây, hiệu áp 30 mmHg). Phác đồ 20 mL/kg/giờ là của sốc SXHD (QĐ 2760/2023, mục C1.1.3), còn SXHD cảnh báo chưa sốc dùng 6–7 mL/kg/giờ (mục IV.B1.1.5). Dịch dư làm bé dễ suy hô hấp do quá tải ở giai đoạn hồi phục (mục II.3.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt rồi, chạy chơi được chút xíu. Nhưng sáng nay ói hai lần, kêu đau bụng, ăn không được. Giờ chắc khỏi rồi hả bác sĩ, em đi làm lại được không?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "94/64",
+    "nhiet": "37,2",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_sot",
+     "noi_dung": "Hết sốt từ 3 giờ sáng, không uống thêm paracetamol từ chiều qua. Chơi được một lúc rồi nằm. Hết nhức mắt, bắp chân đỡ đau.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: hết sốt, đỡ đau cơ"
+    },
+    {
+     "id": "bung_non",
+     "noi_dung": "Từ sáng bé kêu đau vùng bụng bên phải trên, đau âm ỉ liên tục, ấn thấy khóc. Nôn 2 lần trong 3 giờ, ra nước lẫn sữa, không máu. Không đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng vùng gan, nôn (đếm số lần: ngưỡng ≥ 3/1 giờ hoặc ≥ 4/6 giờ)"
+    },
+    {
+     "id": "uong_tieu",
+     "noi_dung": "Mẹ ghi bằng cốc đo: nước và oresol khoảng 650 mL trong 24 giờ, ăn gần như không. Tiểu 2 lần từ chiều qua, lần cuối 3 giờ sáng, ít và vàng sậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng uống, tiểu ít"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu mũi, chân răng, không nôn ra máu, phân vàng. Mẹ thấy vài chấm đỏ ở tay bé sáng nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xuất huyết da, niêm mạc"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh nhưng ít nói, hay nằm, đòi mẹ ôm. Tay chân không lạnh, không vã mồ hôi, không thở nhanh, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tri giác, tuần hoàn (sốc chưa có)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ lúc tái khám mẹ ngưng gói bột nhà thuốc, chỉ cho paracetamol (lần cuối 22 giờ), oresol, cháo loãng. Không ibuprofen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng sau lượt trước"
+    },
+    {
+     "id": "tin_me",
+     "noi_dung": "Mẹ thấy bác sĩ hôm qua nói rõ ba nơi đã khám và không bắt làm lại việc đã làm nên đỡ nặng lòng, nhưng vẫn lo công ty trừ chuyên cần nếu nghỉ thêm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Niềm tin, nhiễu mẹ mệt mỏi",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ cầm giấy nghỉ đến hôm nay. Thấy bé hết sốt, mẹ định đi làm lại và nhờ bà trông, vì sợ nghỉ thêm bị trừ chuyên cần. Nếu bác sĩ nói cần nhập viện, mẹ sẽ ở lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật và ràng buộc nghỉ việc",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, ít nói, mệt. Môi hồng, niêm mạc miệng hơi khô. Tay chân ấm, đổ đầy mao mạch 2 giây, mạch quay rõ, hiệu áp 30 mmHg. Mi mắt hơi phù nhẹ.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không phản ứng thành bụng. Gan sờ dưới bờ sườn phải 2,5 cm, mềm, ấn đau rõ. Điểm McBurney không đau. Gõ đục vùng thấp nghi ít dịch.",
+     "k": 1
+    },
+    "nghiem_phap_day_that": {
+     "a": "Dương tính: 32 chấm xuất huyết trong 6,25 cm².",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng nhạt. Vài chấm xuất huyết rải rác ở mặt trong cẳng tay, mặt trước cẳng chân. Không bầm lớn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, không co lõm ngực. Rì rào phế nang giảm nhẹ đáy phải, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "BC 2,6 G/L · Neutrophil 35% · Lymphocyte 52% · Hb 148 g/L · Hct 45% · TC 58 G/L",
+     "bang": {
+      "wbc": 2.6,
+      "neu_pct": 35.0,
+      "neu": 0.91,
+      "lym_pct": 52.0,
+      "lym": 1.35,
+      "mono_pct": 10.0,
+      "mono": 0.26,
+      "eos_pct": 2.0,
+      "eos": 0.05,
+      "baso_pct": 1.0,
+      "baso": 0.03,
+      "rbc": 5.5,
+      "hgb": 148,
+      "hct": 0.45,
+      "mcv": 81.8,
+      "mch": 26.9,
+      "mchc": 329,
+      "rdw": 13.1,
+      "plt": 58
+     },
+     "n": "Cần làm: Hct 45% so với 37% hôm qua tăng 21,6% (so với 35% ngày 2 là tăng 28,6%): cô đặc máu khi Hct tăng trên 20% so với ban đầu (QĐ 2760/2023, mục II.2.2); Hct > 41% cần báo bác sĩ khi nằm viện (Phụ lục 22, mục 3.1 bước 7). Tiểu cầu từ 126 xuống 58 G/L: giảm nhanh, dưới 100 G/L. Hct tăng kèm tiểu cầu giảm nhanh là dấu hiệu cảnh báo (Phụ lục 2)."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "NS1 dương tính (đã có hôm qua).",
+     "n": "Không cần lặp: căn nguyên đã xác định hôm qua (QĐ 2760/2023, mục III.1.1)."
+    },
+    "liver": {
+     "v": "u",
+     "ab": 1,
+     "r": "AST 124 U/L · ALT 76 U/L",
+     "n": "Hữu ích khi có đau bụng, gan to: AST/ALT thường tăng (QĐ 2760/2023, mục II.2.2); ≥ 400 U/L là dấu hiệu cảnh báo, ≥ 1000 U/L là suy gan, SXHD nặng (Phụ lục 2). Mức của bé còn xa ngưỡng; tăng men gan có thể do dengue, kháng sinh tự mua chưa rõ thành phần không loại trừ được."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan bờ dưới cách bờ sườn 2,5 cm. Ít dịch tự do quanh gan và túi cùng Douglas. Thành túi mật dày. Không dấu viêm ruột thừa.",
+     "n": "Hữu ích, thay chỗ X-quang vì cơ sở không có: tràn dịch màng bụng là dấu hiệu cảnh báo (QĐ 2760/2023, mục II.2.2; Phụ lục 2). Đồng thời loại bệnh lý ổ bụng cấp (mục III.2)."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "r": "Tràn dịch màng phổi phải lượng ít, lớp dịch dày khoảng 0,8 cm ở góc sườn hoành. Bên trái không dịch.",
+     "n": "Hữu ích, thay chỗ X-quang: tràn dịch màng phổi trên siêu âm là dấu hiệu cảnh báo (QĐ 2760/2023, Phụ lục 2). Dịch lượng ít chưa chọc hút (chỉ khi suy hô hấp, Phụ lục 7)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "(Nơi có X-quang) Tù góc sườn hoành phải, không đông đặc nhu mô.",
+     "thay_the": "sa_phoi",
+     "n": "Cơ sở không có X-quang, thay bằng siêu âm phổi (QĐ 2760/2023, mục II.2.2: siêu âm hoặc X-quang đều phát hiện tràn dịch)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 134 · K 3,9 · Cl 100 mmol/L",
+     "n": "Chấp nhận: nôn, thoát huyết tương có thể rối loạn điện giải; không đổi hướng nhập viện (QĐ 2760/2023, mục C.1.4 nêu hạ Na máu khi hồi sức)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 8 mg/L",
+     "n": "Không cần: không đổi xử trí; đã có CRP 6 mg/L ngày 2."
+    },
+    "pct": {
+     "v": "n",
+     "n": "Không cần: bé tỉnh, tay chân ấm, đổ đầy mao mạch 2 giây, huyết áp bình thường (NICE NG143 2021, Bảng 2); đã có NS1 dương tính."
+    },
+    "cay": {
+     "v": "n",
+     "n": "Không cần: chưa có sốt tái phát hay dấu hiệu nhiễm khuẩn huyết (NICE NG143 2021, Bảng 2); nhiễm khuẩn huyết là chẩn đoán phân biệt cần theo dõi (QĐ 2760/2023, mục III.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt xuất huyết Dengue có dấu hiệu cảnh báo, ngày bệnh thứ 4, giai đoạn nguy hiểm, chưa sốc",
+     "ok": 1,
+     "n": "Hết sốt kèm đau bụng liên tục vùng gan, gan to 2,5 cm (> 2 cm), tiểu ít, Hct tăng 21,6% kèm tiểu cầu giảm 126 → 58 G/L, tràn dịch màng phổi và ít dịch màng bụng trên siêu âm (QĐ 2760/2023, Phụ lục 2, 3; mục II.2). Mạch, huyết áp, hiệu áp 30 mmHg, đổ đầy mao mạch 2 giây còn bình thường nên chưa sốc."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue nặng",
+     "n": "Chưa: không sốc, không suy hô hấp (thở 24 l/p, SpO₂ 98%), không xuất huyết nặng, AST/ALT dưới 1000 U/L, tri giác bình thường (QĐ 2760/2023, Phụ lục 2). Nguy cơ cao vì đang ở ngày 4 và Hct đang tăng."
+    },
+    {
+     "t": "Hồi phục bình thường (hết sốt, hết bệnh)",
+     "n": "Không: giai đoạn hồi phục có hết sốt kèm toàn trạng tốt lên, thèm ăn, huyết động ổn định, tiểu nhiều (QĐ 2760/2023, mục II.3.1); bé ăn không được, đau bụng, tiểu ít, Hct tăng. Hết sốt ở đây là lúc bắt đầu giai đoạn nguy hiểm (WHO 2025, mục 2.2)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Không: không sốt lại, tay chân ấm, đổ đầy mao mạch 2 giây, huyết áp bình thường, NS1 dương tính (NICE NG143 2021, Bảng 2); là chẩn đoán phân biệt cần nghĩ nếu xấu đi (QĐ 2760/2023, mục III.2; Phụ lục 13)."
+    },
+    {
+     "t": "Bệnh lý ổ bụng cấp (viêm ruột thừa, viêm túi mật)",
+     "n": "Ít nghĩ: bụng mềm, không phản ứng thành bụng, McBurney không đau, siêu âm gan to, ít dịch tự do, không viêm ruột thừa (QĐ 2760/2023, mục III.2). Đau vùng gan là dấu hiệu cảnh báo (Phụ lục 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện hôm nay (bệnh viện có khoa nhi hoặc khoa sốt xuất huyết), có người lớn đi cùng, chuyển ngay không chờ hết ngày",
+     "v": "c",
+     "n": "SXHD có dấu hiệu cảnh báo ở trẻ em: người bệnh được cho nhập viện điều trị (QĐ 2760/2023, mục IV.B1.1); đã có dấu hiệu cảnh báo thì nhập viện (mục IV.A.3a); WHO 2025, mục 2.7 (đau bụng, hepatomegaly > 2 cm, Hct tăng liên tiếp). Hạ tầng phòng khám không có giường theo dõi."
+    },
+    {
+     "t": "Trước khi đi: ghi tóm tắt Hct 35% → 37% → 45%, tiểu cầu 168 → 126 → 58, AST/ALT, siêu âm, liều dịch và thuốc đã dùng, gọi báo nơi nhận",
+     "v": "c",
+     "n": "Mẫu giấy tóm tắt điều trị kèm chuyển tuyến (QĐ 2760/2023, Phụ lục 14); trước chuyển nên hội chẩn nơi nhận (Phụ lục 13, mục 2). Giấy chuyển theo mẫu hiện hành."
+    },
+    {
+     "t": "Cho uống oresol từng ngụm trong lúc chờ và trên đường đi; dặn không nghỉ uống",
+     "v": "c",
+     "n": "Bù dịch uống sớm khi còn uống được (QĐ 2760/2023, mục IV.B1.1.2); WHO 2025, mục 4.1.3: ưu tiên uống khi còn uống được."
+    },
+    {
+     "t": "Báo cho người nhà dấu hiệu nặng trên đường đi: li bì, tay chân lạnh, vã mồ hôi, nôn ra máu, đi ngoài phân đen, thở nhanh thì dừng xe gọi cấp cứu",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.3b; Phụ lục 25, mục 3.2."
+    },
+    {
+     "t": "Không dùng thêm hạ sốt khi chưa sốt; sau này sốt ≥ 38,5 °C thì paracetamol đơn chất; không aspirin, ibuprofen, analgin; không dùng lại gói kháng sinh tự mua",
+     "v": "c",
+     "n": "QĐ 2760/2023, mục IV.A.1; WHO 2025, mục 4.2.3; NICE NG143 mục 1.4.9."
+    },
+    {
+     "t": "Đặt đường truyền, bắt đầu Ringer lactate hoặc NaCl 0,9% 6–7 mL/kg/giờ (18 kg: 108–126 mL/giờ) trước khi chuyển",
+     "v": "a",
+     "n": "Phác đồ truyền dịch SXHD cảnh báo (QĐ 2760/2023, mục IV.B1.1.5): 6–7 mL/kg/giờ trong 1–3 giờ, theo dõi Hct 2–4 giờ. Chấp nhận nếu theo dõi được; phòng khám không làm Hct lặp lại, tài liệu đã tải không nêu truyền trước chuyển ở trẻ chưa sốc (Phụ lục 21 chỉ nói tiếp tục truyền khi chuyển ca sốc)."
+    },
+    {
+     "t": "Cấp giấy xác nhận cho mẹ ở lại bệnh viện chăm con theo tình trạng thực",
+     "v": "a",
+     "n": "Nguồn bổ sung tự tìm theo sổ mâu thuẫn: Luật BHXH 2024 Điều 42 khoản 1 điểm e, Điều 44 khoản 1 (chưa đối chiếu văn bản gốc); giấy thường do nơi bé nằm viện cấp."
+    },
+    {
+     "t": "Cho về, tái khám sáng mai",
+     "v": "w",
+     "n": "Đã có dấu hiệu cảnh báo, không còn là ngoại trú (QĐ 2760/2023, mục IV.A.3a); sốc thường ngày 4–5 lúc giảm sốt (Phụ lục 22, mục 3.2)."
+    },
+    {
+     "t": "Bolus 20 mL/kg trong 1 giờ ngay",
+     "v": "w",
+     "n": "Đó là liều chống sốc (QĐ 2760/2023, mục C1.1.3); bé chưa sốc, dịch thừa dễ gây quá tải (mục II.3.1)."
+    },
+    {
+     "t": "Corticoid tiêm hoặc uống",
+     "v": "w",
+     "n": "WHO 2025, mục 4.3: đề xuất không dùng corticoid trong bệnh arbovirus không nặng; QĐ 2760/2023, mục II.2.1 xuất huyết nặng xảy ra ở người dùng corticoid."
+    },
+    {
+     "t": "Truyền tiểu cầu dự phòng vì tiểu cầu 58 G/L",
+     "v": "w",
+     "n": "Không chảy máu, tiểu cầu trên 50 G/L: QĐ 2760/2023 chỉ định khi < 5.000/mm³ (xem xét từng ca) hoặc < 50.000/mm³ kèm xuất huyết nặng hay cần chọc hút; WHO 2025, mục 5.5 đề xuất không truyền dự phòng khi < 50.000/µL không chảy máu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt xuất huyết Dengue có dấu hiệu cảnh báo, ngày bệnh thứ 4, giai đoạn nguy hiểm",
+     "Dấu hiệu cảnh báo: đau bụng liên tục vùng gan, gan to > 2 cm, tiểu ít, Hct tăng kèm tiểu cầu giảm nhanh, tràn dịch màng phổi và màng bụng ít",
+     "Chưa sốc, chưa xuất huyết nặng, chưa suy tạng",
+     "Đỡ một phần: hết sốt, đỡ đau cơ nhưng cảnh báo mới xuất hiện",
+     "Mẹ muốn đi làm lại vì thấy bé hết sốt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên đi: hỏi diễn tiến từ lần khám trước (sốt, nôn, đau bụng, lượng uống bằng cốc đo, tiểu, chảy máu) → khám tri giác, tay chân, đổ đầy mao mạch, gan, da, phổi → công thức máu so với hôm qua, siêu âm bụng và phổi thay X-quang → phân độ → nhập viện.",
+     "Đỡ hay xấu: sốt hết, đau cơ đỡ là cải thiện thật. Nhưng hết sốt vào ngày 3–7 là lúc vào giai đoạn nguy hiểm (QĐ 2760/2023, mục II.2). Phân biệt hồi phục bình thường với thất bại điều trị sớm: hồi phục có thèm ăn, huyết động ổn, tiểu nhiều (mục II.3.1); bé thì ăn không được, đau bụng, tiểu ít, Hct tăng.",
+     "Dấu hiệu cảnh báo: đau bụng nhiều liên tục vùng gan, gan to > 2 cm, tiểu ít, Hct tăng kèm tiểu cầu giảm nhanh, tràn dịch màng phổi/bụng trên siêu âm (Phụ lục 2, 3). Hct 45% tăng 21,6% so với 37%, vượt mốc 20% (mục II.2.2). WHO 2025, mục 2.7 cũng xếp đau bụng, gan to > 2 cm, Hct tăng liên tiếp là tiêu chí nhập viện.",
+     "Vì sao chưa nặng (QĐ 2760/2023): tay chân ấm, đổ đầy mao mạch 2 giây, mạch 112 l/p và huyết áp tâm thu 94 mmHg trong giới hạn theo tuổi (Phụ lục 22, mục 1.4), hiệu áp 30 mmHg (QĐ 2760/2023, Phụ lục 20: mục tiêu hiệu áp ≥ 30 mmHg); AST 124 và ALT 76 dưới 1000 U/L; không xuất huyết nặng (Phụ lục 2).",
+     "Vì sao không phải ổ bụng ngoại: bụng mềm, không phản ứng thành bụng, McBurney không đau, siêu âm không viêm ruột thừa (mục III.2). Vì sao không phải nhiễm khuẩn huyết: không sốt lại, tay chân ấm, huyết áp bình thường (NICE NG143 2021, Bảng 2).",
+     "Diễn tiến sau: khỏi chậm hơn dự kiến, xem phần kết cục. Đây là ví dụ bé 'đỡ' ở triệu chứng nhưng xét nghiệm báo nguy."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện: SXHD cảnh báo ở trẻ em được cho nhập viện điều trị, theo dõi mạch, huyết áp, nước tiểu, Hct mỗi 4–6 giờ, truyền dịch khi có chỉ định (QĐ 2760/2023, mục IV.B1.1.3–1.4). Chỉ định truyền dịch gồm Hct tăng cao và đau bụng nhiều (mục IV.B1.1.4a).",
+     "Truyền dịch tại bệnh viện (QĐ 2760/2023): Ringer lactate, Ringer acetate hoặc NaCl 0,9% 6–7 mL/kg/giờ trong 1–3 giờ, sau đó 5 mL/kg/giờ trong 2–4 giờ, Hct 2–4 giờ (mục IV.B1.1.5; 18 kg: 108–126 rồi 90 mL/giờ). Phần này do nơi nhận quyết định; phòng khám không bắt buộc.",
+     "Trước chuyển: oresol từng ngụm, ghi tóm tắt xét nghiệm, hội chẩn nơi nhận (Phụ lục 13, 14); tránh tiêm bắp và chọc không cần vì giảm tiểu cầu (Phụ lục 22, mục 3.4).",
+     "Không truyền tiểu cầu dự phòng: tiểu cầu 58 G/L không chảy máu (QĐ 2760/2023; WHO 2025, mục 5.5). Không corticoid (WHO 2025, mục 4.3). Hạ sốt chỉ khi sốt lại, đơn chất (mục IV.A.1).",
+     "Cách nói với mẹ: hết sốt là tốt nhưng đúng lúc cần theo dõi sát (QĐ 2760/2023, Phụ lục 22, mục 3.2); nhập viện có người trông 24 giờ là an toàn nhất; giấy xác nhận để mẹ chăm con do nơi nhận cấp."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha theo hướng dẫn nhà sản xuất",
+      "lieu": "Uống từng ngụm nhỏ, thường xuyên, ghi lượng bằng cốc đo",
+      "duong": "Uống",
+      "thoi_diem": "Ngay bây giờ, trong khi chờ và trên đường đi",
+      "so_ngay": "Đến khi bệnh viện có chỉ định khác",
+      "ghi_chu": "QĐ 2760/2023, mục IV.A.2, IV.B1.1.2; WHO 2025, mục 4.1.3. Số mL cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (gói bột 250 mg)",
+      "ham_luong": "250 mg/gói",
+      "lieu": "1 gói/lần (≈ 13,9 mg/kg; cho phép 180–270 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt lại ≥ 38,5 °C, cách nhau 4–6 giờ",
+      "so_ngay": "Chỉ khi sốt; tối đa 4 gói/24 giờ (≤ 1.080 mg)",
+      "ghi_chu": "QĐ 2760/2023, mục IV.A.1; WHO 2025, Bảng 4-2; thận trọng khi men gan tăng (WHO 2025, mục 4.2.1)."
+     }
+    ],
+    "dan_do": [
+     "Bé hết sốt nhưng đang vào giai đoạn dễ nặng nhất; cần nằm viện để theo dõi mạch, huyết áp, nước tiểu và Hct (QĐ 2760/2023, mục IV.B1.1.3).",
+     "Đi ngay hôm nay, có người lớn ngồi cạnh bé; mang theo kết quả xét nghiệm hôm qua, hôm nay và các tờ giấy của ba nơi trước.",
+     "Cho bé uống oresol từng ngụm trên đường đi. Không cho ibuprofen, aspirin, analgin; không cho gói kháng sinh cũ.",
+     "Dừng xe và gọi cấp cứu nếu bé li bì, tay chân lạnh, vã mồ hôi, nôn ra máu, đi ngoài phân đen, thở nhanh (Phụ lục 25, mục 3.2).",
+     "Chị ở lại với bé; giấy xác nhận để chị nghỉ chăm con do bệnh viện cấp (nguồn bổ sung: Luật BHXH 2024, chưa đối chiếu văn bản gốc).",
+     "Khi bé ra viện còn mệt, ngứa, có ban hồi phục vài ngày là thường gặp (QĐ 2760/2023, mục II.3.1); ăn mềm vài ngày sau ra sốc (Phụ lục 19, mục 1.6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé nhập khoa sốt xuất huyết, được truyền Ringer lactate theo phác đồ cảnh báo, Hct về 40% sau 24 giờ, không sốc. Tiểu cầu thấp nhất 31 G/L ngày bệnh thứ 6, không chảy máu, không truyền tiểu cầu. Ra viện ngày thứ 9 (hết sốt trên 2 ngày, ăn uống được, AST/ALT dưới 400 U/L, tiểu cầu hồi phục). Khỏi chậm hơn dự kiến: ban hồi phục ngứa, mệt và chán ăn kéo dài khoảng hai tuần, tiểu cầu về trên 150 G/L sau 12 ngày; bé nghỉ học thêm một tuần. Mẹ nhận giấy ra viện để nghỉ chăm con.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mệt mỏi, mất niềm tin; cần thừa nhận các nơi đã khám, xem giấy tờ cũ, không lặp CRP và test cúm nhưng vẫn làm công thức máu và NS1 cần thiết.",
+  "Muốn được nghỉ việc: mẹ ngại nói thật vì sợ bị trừ chuyên cần; giấy nghỉ hợp lệ gắn với việc ai theo dõi bé ở nhà.",
+  "Không có X-quang: không cần ở lượt 1; lượt 2 dùng siêu âm bụng và phổi để tìm tràn dịch, theo dõi có mốc Hct, nhập viện.",
+  "Thuốc tự mua không rõ: kháng sinh không có chỉ định, ngưng, hỏi từng loại thuốc để loại NSAID."
+ ],
+ "bai_hoc_bien": [
+  "Ba nơi khám không khỏi: nói rõ việc nào cần làm lại (công thức máu, NS1), việc nào không (CRP, cúm) để lấy lại lòng tin.",
+  "Đỡ một phần ở SXHD: hết sốt ngày 4 chưa phải khỏi; đối chiếu bệnh cảnh với Hct và tiểu cầu để phân biệt hồi phục với giai đoạn nguy hiểm (QĐ 2760/2023, mục II.2, II.3).",
+  "Lý do thật của mẹ (nghỉ việc) quyết định ai theo dõi bé ở nhà, nên hỏi nghề, ai trông con.",
+  "Khi không có X-quang, siêu âm bụng và phổi thay thế để tìm tràn dịch (QĐ 2760/2023, mục II.2.2).",
+  "Hct nền (35% ngày 2, 37% ngày 3) làm mốc tính tăng trên 20% (mục II.2.2)."
+ ],
+ "diem_nho": [
+  "Phân độ: SXHD, có dấu hiệu cảnh báo, nặng (QĐ 2760/2023, mục III; Phụ lục 2). Dấu hiệu cảnh báo gồm vật vã, lừ đừ; đau bụng liên tục vùng gan; nôn ≥ 3 lần/1 giờ hoặc ≥ 4 lần/6 giờ; xuất huyết niêm mạc; gan to > 2 cm; tiểu ít; Hct tăng kèm tiểu cầu giảm nhanh; tràn dịch.",
+  "Ngoại trú: uống nhiều nước, paracetamol đơn chất 10–15 mg/kg cách 4–6 giờ, tối đa 60 mg/kg/ngày, không NSAID, tái khám mỗi ngày đến khi hết sốt 2 ngày (QĐ 2760/2023, mục IV.A; Phụ lục 21).",
+  "NS1 làm từ ngày 1–7, ưu tiên 5 ngày đầu; IgM từ ngày 5 nếu NS1 âm (mục III.1.1).",
+  "Nhập viện trẻ cảnh báo: truyền 6–7 mL/kg/giờ × 1–3 giờ rồi 5 mL/kg/giờ × 2–4 giờ (mục IV.B1.1.5).",
+  "WHO 2025: không NSAID (mạnh); không corticoid; không truyền tiểu cầu dự phòng khi < 50.000/µL không chảy máu (mục 4.2.3, 4.3, 5.5)."
+ ],
+ "nguon": [
+  "QĐ 2760/2023 – Bộ Y tế, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II (diễn biến), III (chẩn đoán, phân độ), IV.A–B1–C1.1.3–D, Phụ lục 2, 3, 4, 7, 13, 14, 19–22, 25. Bản chữ: tltk-10000-ca-2/txt/toan-van/TL-0029_2023_...dengue.pdf.txt",
+  "WHO 2025 – Guidelines for clinical management of arboviral diseases – TL-0042 – ĐÃ ĐỌC: mục 2.2, 2.7, 4.1, 4.2.1 (Bảng 4-2), 4.2.2, 4.2.3, 4.3, 5.5",
+  "NICE NG143 2021 (bản 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: Bảng 1, Bảng 2, mục 1.2.7–1.2.16, 1.4.9, 1.6.2, 1.6.4–1.6.6",
+  "QĐ 1019/2025 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh Sởi – TL-0238 – đối chiếu loại trừ sởi, mục 2.4 (theo các ca cùng bệnh trong kho)",
+  "Giấy nghỉ chăm con ốm: nguồn bổ sung tự tìm theo sổ mâu thuẫn (Luật BHXH 2024 Điều 42, 44), CHƯA đối chiếu văn bản gốc, tài liệu đã tải không có",
+  "KHÔNG CÓ trong tài liệu đã tải: tham chiếu Hct và bạch cầu riêng cho trẻ 5 tuổi; lượng oresol mL/ngày; tác dụng của kháng sinh tự mua không rõ; truyền dịch trước chuyển ở trẻ chưa sốc"
+ ],
+ "ghi_chu_bien_tap": [
+  "07/11/2026, bản 1: ca 2 lượt, trẻ 5 tuổi 18 kg. Lượt 1 ngoại trú (SXHD chưa cảnh báo); lượt 2 nhập viện (có dấu hiệu cảnh báo, chưa sốc), đúng 'đỡ một phần' và 'khỏi chậm hơn dự kiến'.",
+  "Tài liệu đã đọc: TL-0029 (QĐ 2760/2023), TL-0042 (WHO 2025), TL-0262 (NICE NG143). Chi tiết trích dẫn: nhap/NH-0779/NH-0779_bao_cao.md.",
+  "Mâu thuẫn: không có mâu thuẫn mới; áp dụng mục cũ (ibuprofen khi chưa loại trừ dengue; metamizole; giấy nghỉ chăm con).",
+  "Thiếu tài liệu: xem phần nguon (KHÔNG CÓ trong tài liệu đã tải). Số QĐ 2760 do người dùng cung cấp, chưa kiểm trên kcb.vn."
+ ]
+}
