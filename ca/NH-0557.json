@@ -1,0 +1,922 @@
+{
+ "ma_ca": "NH-0557",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_tieu_phe_quan",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tiểu phế quản",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Hen",
+   "Tim bẩm sinh"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Trẻ nhũ nhi (10 tháng tuổi, mẹ bán rau ở chợ bế theo)",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng (mẹ ôm bé theo ra chợ bán rau từ 10 đến 14 giờ, ngày trước khi sổ mũi)",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua (gói kháng acid mẹ pha vào sữa vì nghĩ khò khè do trào ngược)",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng lo lắng (sợ bé thành hen suốt đời hoặc viêm phổi nặng)",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Ngọc An",
+  "tuoi": 0.83,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi (10 tháng tuổi, mẹ bán rau ở chợ bế theo)",
+  "can_nang": 8.6,
+  "chieu_cao": 72,
+  "xung_ho": "Bé gái 10 tháng, chưa nói được, bập bẹ, bám mẹ, quấy khi bị khám. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ, gọi bé là 'bé An' hoặc 'con'.",
+  "tinh_cach": "Mẹ 29 tuổi (chị Phượng), bán rau ở chợ, nói nhanh, thẳng, hay mở điện thoại đọc mạng; sau 3 nơi khám không khỏi đang mất niềm tin, hơi cáu nhưng vẫn muốn được nghe giải thích. Chồng làm phụ hồ, hay hút thuốc. Bé hơi quấy, bám mẹ, cười khi được chọc.",
+  "kieu_nhieu": "Mẹ TỪNG KHÁM 3 NƠI KHÔNG KHỎI: mang cả xấp toa và phiếu, đưa ra từng cái, nói 'chỗ nào cũng kê kháng sinh, càng uống càng không khỏi'; dễ cáu nếu bác sĩ đòi làm lại xét nghiệm hoặc nói 'chờ thêm'. Dịu lại khi bác sĩ đọc kỹ từng phiếu, thừa nhận chị đã đi nhiều nơi và nói rõ kế hoạch lần này. Mẹ giấu việc tự cho bé uống gói kháng acid và việc chồng hút thuốc gần bé; chỉ nói khi bác sĩ hỏi cụ thể, không trách.",
+  "nguoi_nha": "Mẹ bé, chị Phượng (Lê Thị Phượng), 29 tuổi, đưa bé đi bằng xe máy một mình. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Bé chỉ khóc, quấy, bập bẹ.",
+  "ten_nguoi_nha": "Mẹ bé (chị Phượng)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1a1410",
+   "kieuToc": "tre",
+   "ao": "#f4b6c2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0ac84",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#7fa6c9",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 10 tháng ho, khò khè, bú kém 7 ngày, đã khám 3 nơi chưa khỏi; mẹ lo bé bị hen hoặc viêm phổi",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 10 tháng, 8,6 kg, mẹ đưa đến vì ho, khò khè, thở khè khè và bú kém hơn đã 7 ngày, đã khám 3 nơi và uống 3 loại kháng sinh mà chưa khỏi. Mẹ mang theo xấp toa thuốc và phiếu xét nghiệm. Sinh hiệu: nhiệt 37,2 °C (nách), mạch 132 l/p, nhịp thở 46 l/p, SpO₂ 96%. Bé tỉnh, chơi được, hơi quấy.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé An thở 46 l/p, SpO₂ 96%, bú trên 75%, không rút lõm dưới: chưa có tiêu chí nhập viện (NICE NG9 2021 mục 1.2.1–1.2.2, 1.3.2). Khoa Nhi đông trẻ nhiễm virus nên bé có nguy cơ lây chéo (WHO 2013 mục 4.5.1), chị Phượng nghỉ bán rau mấy ngày, mà viện cũng không có thuốc đặc hiệu thêm (mục 1.4.3). Chị càng tin bé nặng và thêm một nơi khám 'không khỏi'.",
+    "chuyen_tuyen": "Chuyển bệnh viện nhi chỉ vì 'đã khám 3 nơi chưa khỏi' là quá tay: bé ở ngày 7, đã qua đỉnh ngày 3–5 (NICE mục 1.1.2), không có dấu hiệu cần chuyển (mục 1.2.1–1.2.2). Chị mất một ngày chợ, bé chờ nơi đông bệnh nhân và dễ bị lặp X-quang, xét nghiệm máu mà NICE mục 1.3.6–1.3.7 khuyên không làm thường quy."
+   },
+   "loi_mo": "Bác sĩ ơi, em đưa bé đi ba chỗ rồi, chỗ nào cũng cho kháng sinh mà bé vẫn khè khè, bú thì bỏ dở. Em đọc trên mạng nói khò khè lâu là hen hoặc viêm phổi, sợ lắm. Bác sĩ coi giúp, chứ em hết tin rồi.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 46,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, khò khè, thở khè khè khi bú và khi khóc, bú ít hơn; đã 7 ngày, đi 3 nơi. Mẹ đọc mạng thấy 'khò khè lâu là hen hoặc viêm phổi, có thể suy hô hấp' nên rất lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 1 sổ mũi trong, ho nhẹ. Ngày 3 ho nhiều, khè khè khi bú. Ngày 4–5 nặng nhất, bú dở. Ngày 6–7 khè thưa hơn. Không sốt: nhiệt kế nách cao nhất 37,6 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, có sốt không"
+    },
+    {
+     "id": "bu_an",
+     "noi_dung": "Bú khoảng 75–80% bình thường, hay nhả vú nghỉ thở rồi bú tiếp. Có 5–6 tã ướt mỗi ngày. Không nôn hết mọi thứ. Ọc sữa ít như trước giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt, nôn"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không có cơn ngưng thở, không tím môi, không li bì, không co giật. Tỉnh, chơi được, cười khi mẹ chọc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm (NICE NG9 mục 1.2.1)"
+    },
+    {
+     "id": "khoe_truoc",
+     "noi_dung": "Lần khò khè đầu tiên trong đời. Không chàm, nhà không ai hen hay dị ứng. Sinh đủ tháng, bú không toát mồ hôi trán, không tím, tăng cân đều theo sổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử khò khè, atopy, tim bẩm sinh, tăng cân"
+    },
+    {
+     "id": "khoi_thuoc",
+     "noi_dung": "Ba bé hút nửa bao thuốc mỗi ngày, hay hút ở hiên nhà rồi vào bế con khi áo còn mùi thuốc. Mẹ nghĩ 'hút ngoài hiên là đủ', không thấy liên quan nên không kể.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi có ai hút thuốc trong nhà không, hoặc hỏi cụ thể ba có hút không và hút ở đâu.",
+     "y": "Khói thuốc trong nhà (AAP KAS 12a)"
+    },
+    {
+     "id": "thuoc_toa",
+     "noi_dung": "Nơi 1 (ngày 2): cefixim 3 ngày, siro ho thảo dược. Nơi 2 (ngày 4): đổi amoxicillin-clavulanat 2 ngày, khí dung một lần, công thức máu và CRP. Nơi 3 (ngày 6): X-quang ngực, đổi azithromycin (đang uống ngày 2), thuốc long đờm. Mẹ giữ hết toa và phiếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc và xét nghiệm đã có; từng khám 3 nơi không khỏi",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_da_day",
+     "noi_dung": "Ngoài toa, mẹ tự mua gói kháng acid dạ dày pha vào sữa 2 lần/ngày, 4 ngày nay, vì bé hay ọc sữa và mạng nói 'khò khè do trào ngược'. Bé chê sữa có thuốc nên bú ít hơn. Mẹ ngại bị rầy nên không kể.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi 'ngoài thuốc của bác sĩ, chị có tự cho bé uống thêm gì không', hoặc hỏi về thuốc dạ dày, thuốc cho ọc sữa.",
+     "y": "Thuốc dạ dày tự mua"
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Một ngày trước khi sổ mũi, mẹ bế bé theo ra chợ bán rau từ 10 đến 14 giờ ngoài nắng gắt, bé nóng, bú ít. Tối đó sổ mũi. Mẹ tin bé 'trúng nắng rồi cảm'. Người bán bên cạnh cũng ho, sổ mũi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Khởi phát sau ngoài nắng"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Mẹ sợ bé thành hen suốt đời hoặc viêm phổi nặng như bài trên mạng; muốn 'chụp chiếu cho chắc'. Không nói thẳng.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Mẹ chỉ nói ra khi bác sĩ hỏi nhẹ nhàng điều chị lo nhất hoặc chị đã đọc gì trên mạng.",
+     "y": "Lý do thật: đọc thông tin trên mạng lo lắng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, cười khi mẹ chọc, hơi quấy. Môi hồng. Niêm mạc ướt, khóc có nước mắt, thóp phẳng, mao mạch dưới 2 giây. Không mất nước.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,6 kg, dài 72 cm, vòng đầu 44 cm. Tăng cân đều theo sổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Nghẹt mũi nhẹ, dịch trong. Họng không đỏ. Màng nhĩ hồng nhạt, không phồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p, đếm đủ 1 phút. Co kéo nhẹ liên sườn, không rút lõm lồng ngực dưới, không phập phồng cánh mũi. Ran rít thưa hai bên thì thở ra và ran nổ nhỏ hạt rải rác hai đáy, không khu trú.",
+     "k": 1,
+     "hien": "Nhịp thở 46 l/p. Co kéo nhẹ khoảng liên sườn, không rút lõm lồng ngực dưới, không phập phồng cánh mũi.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thưa, thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 132 l/p (bé quấy), T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, khô nhẹ, không chàm, không ban, không chấm xuất huyết. Không tím đầu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Phiếu cũ (nơi 2, ngày 4): BC 12,4 G/L · Lympho 58% · Hb 114 g/L · TC 360 G/L · CRP 5 mg/L",
+     "n": "Không làm lại: đã có phiếu, không đổi xử trí; không xét nghiệm máu thường quy (NICE NG9 2021 mục 1.3.6; AAP 2014 KAS 1c; Australasian 2025 Q4a)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phim cũ (nơi 3, ngày 6): ứ khí hai phế trường, tăng đậm rốn phổi, không đông đặc khu trú, không tràn dịch.",
+     "n": "Không chụp lại. QĐ 3312/2015 mục 3.2 và WHO 2013 mục 4.2.1 nêu X-quang là cận lâm sàng có thể làm; NICE mục 1.3.7–1.3.8, AAP KAS 1c, Australasian Q3a–b không chụp thường quy (sổ mâu thuẫn, mục NH-0562). Phim đã có khớp tiểu phế quản."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm. Cơ sở không có siêu âm.",
+     "n": "Không cần: không tím, không âm thổi, tăng cân đều, SpO₂ 96% (WHO 2013 Bảng 6 tr. 78). Chỉ định siêu âm tim ngoại trú: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tiểu phế quản cấp ở nhũ nhi 10 tháng, ngày bệnh thứ 7, mức nhẹ: không giảm oxy máu, không mất nước, bú trên 75%, điều trị tại nhà",
+     "ok": 1,
+     "n": "Tiền triệu 1–3 ngày, ho, thở nhanh hoặc co kéo, khò khè hoặc ran nổ (NICE NG9 2021 mục 1.1.3); sốt chỉ khoảng 30% (mục 1.1.4). Không điển hình: 10 tháng (đỉnh 3–6 tháng, mục 1.1.1), không sốt, ho thưa; vẫn nghĩ tới vì lần khò khè đầu dưới 12 tháng thường là tiểu phế quản (GINA 2026 mục 10, Considerations). Nhẹ: SpO₂ 96%, thở 46 l/p (dưới 50, WHO 2013 tr. 80), bú trên 75% (NICE mục 1.2.2)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Ít nghĩ: không sốt trên 39 °C, ran không khu trú dai dẳng (NICE mục 1.1.6); thở dưới 50 l/p, không rút lõm lồng ngực dưới (WHO 2013 Bảng 7, tr. 81); phim cũ không đông đặc."
+    },
+    {
+     "t": "Hen hoặc khò khè do virus tái phát",
+     "n": "Chưa nghĩ: lần đầu, dưới 12 tháng, không atopy (NICE mục 1.1.7; WHO Bảng 8). Hen dưới 5 tuổi cần cả ba tiêu chuẩn, gồm ≥ 2 đợt khò khè trong 12 tháng (GINA 2026 mục 10). QĐ 3312/2015 mục 3.3: rất khó phân biệt với cơn hen đầu."
+    },
+    {
+     "t": "Tim bẩm sinh hoặc suy tim",
+     "n": "Ít nghĩ: không tím, bú không toát mồ hôi, tăng cân đều, không âm thổi, gan 1 cm mềm (WHO 2013 Bảng 6 tr. 78). Không có siêu âm tim, dựa lâm sàng."
+    },
+    {
+     "t": "Trào ngược dạ dày thực quản",
+     "n": "Không nghĩ: ọc sữa ít như trước, khò khè đi sau sổ mũi, ran rít kèm ran nổ hai bên (QĐ 3312/2015 mục 3.3 chỉ nêu là chẩn đoán phân biệt; GINA Box 10-4). Thuốc dạ dày cho khò khè: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không nghĩ: không hội chứng xâm nhập, khò khè hai bên (QĐ 3312/2015, Dị vật đường thở mục 3.1–3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà, không nhập viện hay chuyển tuyến; hẹn tái khám sau 3 ngày và đến sớm khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Không có tiêu chí chuyển hay nhập viện: thở dưới 60 l/p, bú trên 75%, SpO₂ 96%, không mất nước (NICE NG9 2021 mục 1.2.1–1.2.2, 1.3.2); WHO 2013 mục 4.5.1: phần lớn điều trị tại nhà. Nhà gần, mẹ hiểu việc (mục 1.2.4). Mốc 3 ngày là chọn của ca (tài liệu không quy định, mục 1.6.1)."
+    },
+    {
+     "t": "Chăm sóc hỗ trợ, không dùng thuốc giãn phế quản thường quy; HOẶC khí dung ẩm salbutamol 150 µg/kg/lần khi có thở rít hay co thắt (8,6 kg: 1,29 mg/lần theo công thức)",
+     "v": "c",
+     "n": "Hai nguồn khác nhau (sổ mâu thuẫn): NICE NG9 mục 1.4.3 và AAP 2014 KAS 2 không dùng salbutamol; QĐ 3312/2015 mục 5.2 cho khí dung khi co thắt, thở rít (bản chữ '150g/kg', nghi µg). QĐ viết 2015, hướng dẫn quốc tế mới hơn."
+    },
+    {
+     "t": "Ngưng azithromycin đang uống, không kê kháng sinh mới; không corticoid, adrenalin khí dung, nước muối ưu trương khí dung, montelukast, thuốc ho, thuốc long đờm",
+     "v": "c",
+     "n": "NICE mục 1.4.3; AAP KAS 2–5, 8; Australasian Q9–Q10, Q19a–b. WHO 2013 mục 4.5.1 chỉ cho amoxicillin khi thở nhanh kèm rút lõm lồng ngực dưới; bé thở 46 l/p và không rút lõm nên chưa đủ điều kiện."
+    },
+    {
+     "t": "Hỏi ra gói thuốc dạ dày tự mua; giải thích khò khè không do trào ngược, ngưng gói kháng acid (bé chê sữa có thuốc nên bú ít)",
+     "v": "c",
+     "n": "Không có chỉ định trong tài liệu đã tải: QĐ 3312/2015 mục 5.1–5.2 và NICE mục 1.4 không nêu thuốc dạ dày; QĐ 3312 mục 3.3 chỉ xếp trào ngược là chẩn đoán phân biệt. Nguồn bổ sung tự tìm: NASPGHAN/ESPGHAN 2018 (JPGN 66:516) khuyến cáo 5.7 gợi ý không dùng H2RA, PPI cho ho, khò khè (qua bản tóm tắt gutsandgrowth.com, chưa đọc toàn văn)."
+    },
+    {
+     "t": "Bú mẹ và sữa công thức chia nhỏ cữ, khoảng 860 ml/ngày (100 ml/kg); nhỏ nước muối, lau mũi trước cữ bú; không truyền dịch",
+     "v": "c",
+     "n": "WHO 2013 mục 10.2 tr. 304 (100 ml/kg cho 10 kg đầu), mục 4.4, 4.5.1; NICE mục 1.4.6–1.4.7, 1.4.11–1.4.12 (ống thông hay tĩnh mạch chỉ khi không uống đủ); Australasian Q16a–b, Q17(ii)."
+    },
+    {
+     "t": "Xem phiếu cũ, không làm lại công thức máu, CRP, X-quang; giải thích lý do",
+     "v": "c",
+     "n": "NICE mục 1.3.6–1.3.7; AAP KAS 1c. Không lặp xét nghiệm vô ích là cách tái lập niềm tin."
+    },
+    {
+     "t": "Giải thích: bệnh do virus, đỉnh ngày 3–5, ho có thể còn tới 3 tuần; khò khè lần đầu dưới 12 tháng thường là tiểu phế quản chứ chưa phải hen; chưa phải viêm phổi; thừa nhận mẹ đã đi nhiều nơi và nói rõ kế hoạch lần này",
+     "v": "c",
+     "n": "NICE mục 1.1.2 (ho hết ở 90% trong 3 tuần); WHO 2013 mục 4.5.1 (khò khè đến 3 tuần); GINA 2026 mục 10. Kỹ thuật tái lập niềm tin là giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Khói thuốc: ba không hút trong nhà, trên xe, không bế bé khi áo còn mùi; nói thẳng không trách",
+     "v": "c",
+     "n": "NICE mục 1.6.1; AAP KAS 12a–b; QĐ 3312/2015 mục 1.2, 6; WHO 2013 mục 4.5.1 (Discharge); Australasian Q2."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm phải đưa bé đến ngay: thở rít hoặc rút lõm nhiều, rên, cánh mũi phập phồng, ngưng thở hay tím, bú còn 50–75% hoặc 12 giờ không có tã ướt, li bì",
+     "v": "c",
+     "n": "NICE mục 1.6.1, 1.2.1–1.2.2."
+    },
+    {
+     "t": "Cho nhập viện hoặc chuyển bệnh viện nhi vì 'đã khám 3 nơi không khỏi'",
+     "v": "w",
+     "n": "Không có tiêu chí (NICE mục 1.2.1–1.2.2, 1.3.2); nguy cơ lây chéo (WHO 2013 mục 4.5.1)."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein, atropin, cồn, thuốc an thần hay long đờm để bé ngủ yên",
+     "v": "h",
+     "n": "WHO 2013 mục 4.4 (tr. 91): có thể gây hại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tiểu phế quản cấp, nghĩ do virus, nhũ nhi gái 10 tháng, ngày bệnh thứ 7, mức nhẹ, điều trị tại nhà",
+     "Không điển hình: lớn hơn tuổi thường gặp, không sốt, ho thưa",
+     "Chưa nghĩ viêm phổi, hen, tim bẩm sinh, trào ngược, dị vật",
+     "Đã dùng 3 kháng sinh không chỉ định và gói kháng acid tự mua; ba hút thuốc gần bé",
+     "Mẹ mất niềm tin sau 3 nơi khám, sợ hen và viêm phổi do đọc mạng (lý do thật)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: dựng mốc ngày (đỉnh ngày 4–5, nay ngày 7 thưa hơn, không sốt; NICE NG9 2021 mục 1.1.2–1.1.4); bú trên 75%, 5–6 tã (mục 1.2.2, 1.3.2); dấu hiệu nguy hiểm (mục 1.2.1); khò khè và atopy (mục 1.1.7). Hỏi riêng 'có tự cho bé uống gì thêm' mới ra gói kháng acid; hỏi cụ thể mới ra việc ba hút thuốc (AAP KAS 12a).",
+     "Khám: thở 46 l/p đủ 1 phút, dưới 50 l/p (WHO 2013 tr. 76, 80), không rút lõm lồng ngực dưới; ran rít và ran nổ nhỏ hạt (NICE mục 1.1.3); SpO₂ 96% (mục 1.1.8); hydrat hóa (mục 1.3.5); tim, gan, tăng cân để loại tim bẩm sinh (WHO Bảng 6). Phiếu cũ đã đủ, không làm lại (NICE mục 1.3.6–1.3.7).",
+     "Hen cần cả ba tiêu chuẩn của GINA 2026 mục 10; bé mới một đợt, dưới 12 tháng nên chưa chẩn đoán hen. Cờ đỏ cho chuyển chuyên khoa sau này: chậm tăng cân, SpO₂ dưới 95% khi không đợt cấp, dấu hiệu khu trú (Box 10-5 tr. 199).",
+     "Lý do thật: mẹ sợ hen, viêm phổi do mạng; trả lời bằng số đo của chính bé. Nắng chỉ là bối cảnh: tác nhân là virus (QĐ 3312/2015 mục 1.1); nắng gây tiểu phế quản: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, chăm sóc hỗ trợ, hẹn 3 ngày (chọn của ca): không có thuốc đặc hiệu (NICE mục 1.4). Thuốc giãn phế quản: không dùng (NICE mục 1.4.3) hoặc khí dung salbutamol khi thở rít (QĐ 3312/2015 mục 5.2), cả hai chấp nhận.",
+     "Ngưng azithromycin và gói kháng acid; không kháng sinh mới vì chưa đủ thở nhanh kèm rút lõm (WHO 2013 mục 4.5.1; NICE mục 1.4.3). Dịch 860 ml/ngày (WHO mục 10.2); nước muối, lau mũi trước bú.",
+     "Khói thuốc phải nói ngay lượt đầu, không trách (NICE mục 1.6.1; AAP KAS 12b)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi lau hoặc hút nhẹ; số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4; Australasian 2025 Q17(ii); NICE NG9 mục 1.4.6–1.4.7."
+     },
+     {
+      "thuoc": "Dịch uống (sữa mẹ, sữa công thức)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Khoảng 860 ml/ngày cho 8,6 kg, chia nhỏ nhiều cữ",
+      "duong": "Bú, uống",
+      "thoi_diem": "Cả ngày",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "WHO 2013 mục 10.2 tr. 304."
+     },
+     {
+      "thuoc": "Không kê thêm; ngưng azithromycin, long đờm, gói kháng acid",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kháng sinh, corticoid, nước muối ưu trương, thuốc ho. Khí dung salbutamol 150 µg/kg/lần (1,29 mg theo công thức) chấp nhận khi thở rít, không bắt buộc",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "NICE NG9 mục 1.4.3; AAP KAS 2–5, 8; QĐ 3312/2015 mục 5.2. Không sốt nên chưa cần paracetamol."
+     }
+    ],
+    "dan_do": [
+     "Đưa bé đến ngay nếu thở rít, rút lõm nhiều, rên, ngưng thở, tím, li bì, bú còn 50–75% hoặc 12 giờ không có tã ướt (NICE mục 1.6.1, 1.2.1).",
+     "Ho có thể còn tới 3 tuần (NICE mục 1.1.2). Tái khám sau 3 ngày, sớm hơn nếu nặng hơn.",
+     "Ba không hút trong nhà, trên xe, không bế bé khi áo còn mùi thuốc (NICE mục 1.6.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 3 ngày",
+   "tiep_don": "Tái khám đúng hẹn 3 ngày, ngày bệnh thứ 10. Mẹ nói bé bớt ho, bú khá hơn nhưng vẫn nghe khè khè khi bé khóc. Mẹ đã ngưng azithromycin và gói kháng acid, ba đã ra hút ngoài sân. Sinh hiệu: nhiệt 37,0 °C (nách), mạch 124 l/p, nhịp thở 40 l/p, SpO₂ 97%. Bé tỉnh, cười, ngậm vú chắc.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé An sau 3 ngày thở giảm 46 → 40 l/p, SpO₂ 97%, bú khoảng 85%, hết sốt: đang hồi phục chậm, không phải thất bại (NICE NG9 2021 mục 1.1.2; WHO 2013 mục 4.5.1, Follow-up). Nhập viện không có tiêu chí (mục 1.3.2), bé xa mẹ ban đêm, tiếp xúc trẻ bệnh nặng hơn (WHO mục 4.5.1), và chị Phượng nghe 'phải nhập viện' sẽ tin bé đang xấu đi dù thực tế đang đỡ.",
+    "chuyen_tuyen": "Chuyển lên bệnh viện nhi chụp CT hoặc siêu âm tim vì mẹ lo hen, tim: không có chỉ định. Bé không tím, không âm thổi, tăng cân đều, SpO₂ 97% (GINA 2026 Box 10-5 tr. 199; WHO 2013 Bảng 6 tr. 78); NICE mục 1.3.7 không chụp thường quy. Cả nhà mất thêm một ngày, tốn chi phí, bé phơi nhiễm thủ thuật không cần."
+   },
+   "loi_mo": "Bác sĩ ơi, bé có đỡ, bú khá hơn, nhưng em vẫn nghe khè khè mỗi khi bé khóc. Em đọc mạng nói phải chụp phim lại hoặc nhập viện cho chắc, em sợ nó thành hen. Bác sĩ nói thật giúp em.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 40,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé bớt ho, bú khá, ngủ được; còn khè khi khóc hoặc bú nhanh. Mẹ sợ bé thành hen, muốn chụp phim lại hoặc nhập viện.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "So với 3 ngày trước: thở êm hơn, ho thưa, khè chỉ còn khi khóc. Bú khoảng 85%, 5–6 tã ướt, không sốt, không nôn, không rút ngực ban đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi so với lượt 1, bú, tã ướt"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không ngưng thở, không tím, không li bì, không rên, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ đã ngưng gói kháng acid và các kháng sinh. Chỉ còn nhỏ nước muối và lau mũi trước cữ bú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thuốc đang dùng"
+    },
+    {
+     "id": "khoi_thuoc",
+     "noi_dung": "Ba hút ngoài sân như dặn. Hai tối mưa ba hút trong phòng khách rồi bế con. Anh họ 4 tuổi ở chung nhà đang sổ mũi, hay ôm hôn bé. Mẹ ngại nói vì sợ bị trách.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi nhẹ nhàng, không trách, về hút thuốc những hôm mưa hoặc ai trong nhà đang sổ mũi.",
+     "y": "Khói thuốc, nguồn lây (nguyên nhân nền)"
+    },
+    {
+     "id": "niem_tin",
+     "noi_dung": "Mẹ nói: 'Nếu hôm nay bác sĩ lại bảo chờ thì em nản lắm, đã 10 ngày rồi'. Mẹ đã đọc hai bài mạng về hen và viêm phổi ở trẻ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Từng khám 3 nơi không khỏi; lo lắng từ mạng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, cười, ngậm vú chắc. Môi hồng. Niêm mạc ướt, khóc có nước mắt, thóp phẳng, mao mạch dưới 2 giây. Không mất nước.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p. Không co kéo, không rút lõm lồng ngực dưới. Ran rít thưa hơn lượt 1, ran nổ nhỏ hạt ít ở đáy phải, không khu trú.",
+     "k": 1,
+     "hien": "Nhịp thở 40 l/p. Không co kéo, không rút lõm lồng ngực dưới, không phập phồng cánh mũi.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thưa, thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ít."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông hơn. Họng không đỏ. Màng nhĩ hồng nhạt, không phồng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "n",
+     "r": "Phim cũ ngày 6: ứ khí hai phế trường, không đông đặc khu trú.",
+     "n": "Không chụp lại: đang hồi phục, không dấu hiệu xấu bất ngờ (NICE mục 1.3.7–1.3.8; Australasian 2025 Q3a–b). Giải thích mẹ bằng lâm sàng."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm. Cơ sở không có siêu âm.",
+     "n": "Không cần: không tím, không âm thổi, tăng cân đều, SpO₂ 97% (WHO 2013 Bảng 6 tr. 78)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tiểu phế quản cấp ở nhũ nhi 10 tháng, ngày bệnh thứ 10, đang hồi phục chậm (đỡ một phần), không có dấu hiệu thất bại điều trị",
+     "ok": 1,
+     "n": "Thở 46 → 40 l/p, hết co kéo, SpO₂ 96 → 97%, bú 75–80% → 85%, hết sốt. Ho có thể còn tới 3 tuần (NICE NG9 2021 mục 1.1.2; WHO 2013 mục 4.5.1). Thất bại sớm sẽ có thở nhanh hơn, rút lõm, bú giảm, sốt cao, ran khu trú dai dẳng (NICE mục 1.1.6, 1.2.2, 1.3.2); bé không có."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Ít nghĩ: không sốt, thở 40 l/p dưới 50 (WHO 2013 Bảng 7), ran không khu trú, thưa dần (NICE mục 1.1.6)."
+    },
+    {
+     "t": "Hen hoặc khò khè tái diễn",
+     "n": "Chưa chẩn đoán: mới một đợt; GINA 2026 mục 10 cần ≥ 2 đợt khò khè trong 12 tháng, không nguyên nhân khác, đáp ứng điều trị. WHO 2013 mục 4.5.1: khò khè có thể còn nhiều tháng sau tiểu phế quản rồi hết. Khám lại nếu đợt mới."
+    },
+    {
+     "t": "Tim bẩm sinh",
+     "n": "Ít nghĩ: tăng cân đều, không tím, không âm thổi (WHO 2013 Bảng 6 tr. 78)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về tiếp tục chăm sóc tại nhà; nói rõ bé đang hồi phục bình thường chứ chưa thất bại điều trị; hẹn tái khám khi cần hoặc sau 1 tuần nếu mẹ muốn, đến ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "NICE NG9 2021 mục 1.1.2, 1.3.9, 1.6.1; WHO 2013 mục 4.5.1 (Follow-up: khò khè đến 3 tuần, khỏe thì không cần kháng sinh). Mốc 1 tuần là chọn của ca."
+    },
+    {
+     "t": "Không dùng thuốc giãn phế quản thường quy; HOẶC khí dung ẩm salbutamol 150 µg/kg/lần khi có thở rít hay co thắt (8,6 kg: 1,29 mg/lần)",
+     "v": "c",
+     "n": "NICE NG9 mục 1.4.3, AAP KAS 2 không dùng; QĐ 3312/2015 mục 5.2 khi co thắt, thở rít (sổ mâu thuẫn, mục NH-0521/NH-0523)."
+    },
+    {
+     "t": "Xác nhận đã ngưng kháng sinh và gói kháng acid; không đổi hay thêm thuốc; không kháng sinh, corticoid, long đờm, thuốc ho",
+     "v": "c",
+     "n": "NICE mục 1.4.3; AAP KAS 5, 8; WHO 2013 mục 4.4, 4.5.1. Khen mẹ vì tuân thủ."
+    },
+    {
+     "t": "Tiếp tục bú mẹ và sữa công thức đủ cữ (khoảng 860 ml/ngày), nước muối và lau mũi trước cữ bú khi nghẹt",
+     "v": "c",
+     "n": "WHO 2013 mục 10.2 tr. 304, mục 4.4; NICE mục 1.4.6–1.4.7; Australasian Q17(ii)."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng về khói thuốc những hôm mưa và người sổ mũi trong nhà; khen điều mẹ đã làm được; ba hút xa nhà, thay áo; anh họ rửa tay, không hôn bé khi đang sổ mũi",
+     "v": "c",
+     "n": "NICE mục 1.6.1; AAP KAS 11a, 12a–b; WHO 2013 mục 4.5.1 (Infection control); Australasian Q21."
+    },
+    {
+     "t": "Giải thích chưa phải hen và vì sao; nếu khò khè lại ở đợt nhiễm mới thì khám lại chứ không tự mua thuốc; chuẩn bị mẹ cho khả năng bé còn khè vài tuần",
+     "v": "c",
+     "n": "GINA 2026 mục 10; WHO 2013 mục 4.5.1; QĐ 3312/2015 mục 4.2 (biến chứng xa: cơn khó thở tái phát). Nguy cơ thành hen: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho nhập viện hoặc giữ ở phòng khám nhiều giờ theo dõi cho mẹ yên tâm",
+     "v": "w",
+     "n": "Không có tiêu chí (NICE mục 1.3.2); nguy cơ lây chéo (WHO 2013 mục 4.5.1)."
+    },
+    {
+     "t": "Chuyển bệnh viện chụp CT ngực hoặc siêu âm tim vì mẹ lo hen, tim",
+     "v": "w",
+     "n": "NICE mục 1.3.7–1.3.8; GINA 2026 mục 10 (không cần chụp, xét nghiệm để chẩn đoán hen); WHO 2013 Bảng 6."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tiểu phế quản cấp, ngày bệnh thứ 10, đang hồi phục (đỡ một phần)",
+     "Không thất bại điều trị: thở 40 l/p, SpO₂ 97%, bú 85%, hết sốt",
+     "Khè khi khóc là dấu vết hồi phục; chưa chẩn đoán hen",
+     "Còn hút thuốc trong nhà những hôm mưa; anh họ đang sổ mũi",
+     "Mẹ nản, sợ hen (lý do thật)"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm với thất bại sớm: so từng thông số với lượt 1 (thở 46 → 40, SpO₂ 96 → 97%, bú 75–80% → 85%, hết sốt, ran thưa). Đỉnh ngày 3–5, ho hết ở 90% trẻ trong 3 tuần (NICE NG9 2021 mục 1.1.2); khò khè còn tới 3 tuần mà bú tốt thì không cần kháng sinh (WHO 2013 mục 4.5.1). Thất bại là khi thở nhanh hơn, rút lõm, bú 50–75%, sốt trên 39 °C hoặc ran khu trú dai dẳng (NICE mục 1.1.6, 1.2.2).",
+     "Hỏi khéo mới ra: ba hút trong phòng hai tối mưa, anh họ sổ mũi (NICE mục 1.6.1; QĐ 3312/2015 mục 1.2). Hỏi không trách, vì mẹ ngại thì lần sau sẽ giấu.",
+     "Chưa nghĩ hen (GINA 2026 mục 10, cần cả ba tiêu chuẩn); không X-quang, CT, siêu âm tim lặp (NICE mục 1.3.7). Trả lời nỗi sợ 'thành hen' bằng tiêu chí cụ thể; tỉ lệ thành hen sau tiểu phế quản: không có trong tài liệu đã tải (NICE Context chỉ nói có liên quan, chưa rõ nhân quả)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, tiếp tục chăm sóc hỗ trợ (NICE mục 1.4); mốc tái khám 1 tuần là chọn của ca. Không kháng sinh, corticoid, long đờm (NICE mục 1.4.3; AAP KAS 5, 8; WHO mục 4.4); mẹ đòi 'thuốc mạnh hơn': giải thích thuốc không rút ngắn bệnh.",
+     "Thuốc giãn phế quản: không cần khi không thở rít (NICE mục 1.4.3; QĐ 3312/2015 mục 5.2 khi có thở rít). Dịch 860 ml/ngày (WHO mục 10.2); nước muối trước bú."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi lau hoặc hút nhẹ; số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4; Australasian 2025 Q17(ii); NICE NG9 mục 1.4.6–1.4.7."
+     },
+     {
+      "thuoc": "Dịch uống (sữa mẹ, sữa công thức)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Khoảng 860 ml/ngày cho 8,6 kg, chia nhỏ nhiều cữ",
+      "duong": "Bú, uống",
+      "thoi_diem": "Cả ngày",
+      "so_ngay": "Đến khi khỏi",
+      "ghi_chu": "WHO 2013 mục 10.2 tr. 304."
+     },
+     {
+      "thuoc": "Không kê thuốc khác",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kháng sinh, corticoid, long đờm, ho, thuốc dạ dày. Khí dung salbutamol 150 µg/kg/lần chấp nhận khi thở rít, không bắt buộc",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "NICE NG9 2021 mục 1.4.3; AAP KAS 2–5, 8; QĐ 3312/2015 mục 5.2."
+     }
+    ],
+    "dan_do": [
+     "Đến ngay nếu thở rít, rút lõm nhiều, rên, ngưng thở, tím, li bì, bú còn 50–75% hoặc 12 giờ không tã ướt (NICE mục 1.6.1).",
+     "Khè khi khóc có thể còn vài ngày đến vài tuần. Nếu khò khè quay lại sau khi đã khỏe: đưa bé khám, đừng tự mua thuốc.",
+     "Ba hút xa nhà kể cả hôm mưa; thay áo, rửa tay trước khi bế. Anh họ rửa tay, không hôn bé khi đang sổ mũi (NICE mục 1.6.1; AAP KAS 11a)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tái phát",
+   "tiep_don": "Gần 3 tuần sau lần đầu. Bé khỏe hẳn khoảng 8 ngày, 3 ngày nay sổ mũi, ho trở lại, khò khè từ tối qua, hôm nay bú còn khoảng một nửa và ít tiểu. Mẹ ôm bé ra chợ cả buổi sáng nắng hôm qua. Sinh hiệu: nhiệt 38,1 °C (nách), mạch 164 l/p, nhịp thở 58 l/p, SpO₂ 93%. Bé hơi lừ đừ nhưng còn cười khi mẹ chọc.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé An về khi bú chỉ còn nửa, 2 tã ướt/24 giờ, thở 58 l/p, mạch 164, SpO₂ 93%: các tiêu chí này cần cân nhắc chuyển hoặc nhập viện (NICE NG9 2021 mục 1.2.2, 1.3.2; NG143 Bảng amber). Nhà cách 12 km, trời 37 °C, mẹ đã mệt (mục 1.2.4): đêm đó bé dễ bú ít hơn, mất nước thêm, thở mệt hơn và phải vào cấp cứu trong tình trạng xấu hơn. Tỉ lệ cụ thể: không có trong tài liệu đã tải.",
+    "cap_cuu": "Gọi xe cấp cứu 115 là quá tay: bé không ngưng thở, không tím, không rên, thở 58 l/p dưới 70, còn cười (NICE NG9 mục 1.2.1). Bé cần nhập viện bù dịch bằng ống thông dạ dày; đi xe nhà, mẹ ôm, bú từng ngụm là đủ. Xe cấp cứu làm mẹ hoảng, bé quấy, thêm chi phí."
+   },
+   "loi_mo": "Bác sĩ ơi, bé khỏe được mấy hôm rồi hôm nay lại khò khè, bú chỉ được nửa bình thường, từ sáng tới giờ có hai cái tã thôi. Hôm qua em ôm bé ra chợ cả buổi nắng, em sợ bé trúng nắng, mà em cũng sợ nó thành hen. Em không biết tại em hay tại thuốc.",
+   "sinh_hieu": {
+    "mach": 164,
+    "ha": "Không đo",
+    "nhiet": "38,1",
+    "nhip_tho": 58,
+    "spo2": 93,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé khỏe 8 ngày; 3 ngày nay sổ mũi, ho; tối qua khò khè lại, hôm nay bú ít, đi tiểu ít. Mẹ sợ bé trúng nắng và sợ bị hen.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bu_tieu",
+     "noi_dung": "Bú khoảng một nửa thường ngày, nhả vú liên tục để thở. 2 tã ướt trong 24 giờ, nước tiểu sẫm, nôn một lần sau bú. Chưa quá 12 giờ không có tã ướt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt (NICE mục 1.2.2, 1.6.1)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không ngưng thở, không tím môi, không rên, không co giật. Hơi lừ đừ, ngủ nhiều hơn nhưng gọi thì tỉnh và cười.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "giua_hai_dot",
+     "noi_dung": "Giữa hai đợt bé khỏe hẳn 8 ngày: không ho, không khè, ngủ yên, bú ngon, tăng cân đều. Không chàm, nhà không ai hen hay dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khò khè giữa hai đợt, atopy (phân biệt hen)"
+    },
+    {
+     "id": "khoi_thuoc",
+     "noi_dung": "Từ khi bé khỏe, ba lại hút trong nhà 4–5 điếu mỗi ngày, nhà chật không có hiên, hút rồi vào bế con. Mẹ nghĩ bé khỏe rồi thì không sao. Anh họ 4 tuổi ở chung nhà sổ mũi, ho từ tuần trước, hay ôm hôn bé.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi lại về khói thuốc trong nhà từ lần trước đến nay, hoặc hỏi thẳng nhà có ai hút trong phòng không.",
+     "y": "Khói thuốc, nguồn lây (nguyên nhân nền)"
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Hôm qua mẹ ôm bé ra chợ từ sáng đến trưa, khoảng 37 °C. Nhà mái tôn nóng. Mẹ tin 'trúng nắng nên bệnh lại', và trách mình hay thuốc lần trước chưa khỏi hẳn. Mẹ đã ngưng kháng sinh, thuốc dạ dày từ lần trước, vẫn nhỏ nước muối.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: nắng; tuân thủ; tự trách"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Hơi lừ đừ, vẫn cười khi mẹ chọc, quấy khi bế. Môi hồng. Niêm mạc miệng khô, khóc ít nước mắt, thóp hơi lõm, da véo trở lại hơi chậm, mao mạch 3 giây. Mất nước nhẹ đến vừa. Cân nặng 8,5 kg (8,6 kg lần trước).",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 58 l/p, đếm đủ 1 phút. Phập phồng cánh mũi, co kéo liên sườn và hõm ức, rút lõm lồng ngực dưới nhẹ, không thở rên. Ran rít lan tỏa hai bên và ran nổ nhỏ hạt rải rác hai đáy, không khu trú.",
+     "k": 1,
+     "hien": "Nhịp thở 58 l/p. Phập phồng cánh mũi, co kéo liên sườn và hõm ức, rút lõm lồng ngực dưới nhẹ, không thở rên.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít lan tỏa, thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 164 l/p (sốt, quấy, mất nước), T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 164 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé bú vài phút rồi nhả ra thở nhanh, rút lõm; nghẹt mũi làm bú ngắt quãng, không sặc. Sau khi lau nước muối bú lâu hơn nhưng mau mệt. Ước lượng bú khoảng một nửa so với thường.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Nghẹt mũi, dịch đục hai bên. Họng đỏ nhẹ. Màng nhĩ hồng nhạt, không phồng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm tại phòng khám.",
+     "n": "Không xét nghiệm máu thường quy (NICE NG9 2021 mục 1.3.6; AAP KAS 1c; Australasian 2025 Q4a(i)). Bệnh viện có thể xem glucose, natri khi bú kém, mất nước (Q4a(ii))."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp lại. Phim ngày 6 (cũ): ứ khí, không đông đặc.",
+     "n": "Không chụp thường quy (NICE mục 1.3.7); chỉ khi xấu bất ngờ, diễn tiến không phù hợp hay sắp hồi sức (mục 1.3.8; Australasian Q3b–c). Bệnh viện quyết định."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 136 · K 4,3 · Cl 102 mmol/L.",
+     "n": "Chấp nhận, không bắt buộc ở phòng khám (Australasian Q4a(ii)); natri quan trọng khi bù dịch vì nguy cơ hạ natri (Q20c)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm. Cơ sở không có siêu âm.",
+     "n": "Không cần: không âm thổi, không tím, tim nhanh do sốt và mất nước. Chỉ định siêu âm tim: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tiểu phế quản cấp đợt mới do nhiễm virus hô hấp lần hai (tái phát sau 8 ngày khỏe hẳn), mức vừa, có bú kém và mất nước nhẹ đến vừa, cần nhập viện",
+     "ok": 1,
+     "n": "Tiền triệu, ho, thở 58 l/p kèm co kéo, rút lõm nhẹ, ran rít và ran nổ (NICE NG9 2021 mục 1.1.3), sốt 38,1 °C (mục 1.1.4). Cần nhập: bú 50–75% và mất nước (mục 1.2.2, 1.3.2); SpO₂ 93% (amber ≤ 95%, NG143 Bảng) nhưng chưa dưới 90%; nhà xa, trời nóng, mẹ mệt (mục 1.2.4). Tái nhiễm thường gặp: RSV không tạo miễn dịch lâu dài (AAP 2014, tr. e1476); rhinovirus gặp ở nhóm khò khè tái diễn (tr. e1479)."
+    },
+    {
+     "t": "Hen hoặc khò khè tái diễn (khò khè do virus)",
+     "n": "Chưa chẩn đoán: đợt thứ hai trong 12 tháng nhưng thiếu hai tiêu chuẩn GINA 2026 mục 10 (có nguyên nhân là nhiễm virus; chưa thử đáp ứng điều trị hen); khỏe giữa hai đợt, không atopy (NICE mục 1.1.7). Đợt thứ ba hoặc triệu chứng giữa các đợt: chuyển chuyên khoa (Box 10-5)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Ít nghĩ: sốt dưới 39 °C, ran không khu trú dai dẳng (NICE mục 1.1.6). Không loại hẳn: thở 58 l/p ≥ 50 kèm rút lõm thì WHO 2013 Bảng 7 xếp viêm phổi; bệnh viện quyết định kháng sinh (sổ mâu thuẫn, mục NH-0532)."
+    },
+    {
+     "t": "Tim bẩm sinh, suy tim",
+     "n": "Ít nghĩ: giữa hai đợt bú ngon, tăng cân, không tím, không âm thổi, gan 1,5 cm mềm (WHO 2013 Bảng 6 tr. 78). Mạch 164 l/p do sốt, mất nước (nhịp nhanh dưới 12 tháng là trên 160, NICE NG143 Bảng 1); còn nhanh sau khi hết sốt, bù đủ thì bệnh viện đánh giá tim."
+    },
+    {
+     "t": "Trào ngược, hít sặc hoặc dị vật",
+     "n": "Không nghĩ: không ho khi bú, khỏe hẳn giữa hai đợt, khò khè hai bên đi sau sổ mũi (QĐ 3312/2015 mục 3.3, Dị vật mục 3.1–3.2; GINA Box 10-4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện (khoa Nhi bệnh viện có ống thông dạ dày, theo dõi SpO₂); đi bằng xe nhà, mẹ ôm bé tư thế đầu cao",
+     "v": "c",
+     "n": "Bú còn 50–75% và mất nước (NICE NG9 2021 mục 1.2.2, 1.3.2); thở 58 l/p, SpO₂ 93%, mạch 164 l/p, sốt (NG143 Bảng amber). Nhà xa 12 km, trời nóng, mẹ mệt (mục 1.2.4). Không tiêu chí cấp cứu (mục 1.2.1); SpO₂ chưa dưới 90% nên chưa cần oxy (mục 1.4.4)."
+    },
+    {
+     "t": "Trong lúc chờ đi: cho bú từng ngụm nhỏ, ưu tiên sữa mẹ, không ép bú khi đang thở nhanh; lau mũi bằng nước muối trước khi bú; không truyền tĩnh mạch tại phòng khám",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4, 4.5.1 (khuyến khích bú mẹ, hút mũi nhẹ); NICE mục 1.4.11–1.4.12 (ống thông dạ dày trước, tĩnh mạch khi không dung nạp)."
+    },
+    {
+     "t": "Đường nuôi tại bệnh viện: ống thông dạ dày (hoặc tĩnh mạch nếu không dung nạp). Lượng dịch: 860 ml/ngày (100 ml/kg, WHO) HOẶC 50–75% nhu cầu, 430–645 ml/ngày, theo dõi dấu hiệu thừa dịch (Australasian 2025)",
+     "v": "c",
+     "n": "Hai nguồn (sổ mâu thuẫn, mục NH-0533): WHO 2013 mục 10.2 tr. 304 (100 ml/kg, tránh thừa dịch, mục 4.5.1); Australasian 2025 Q20c (50–75% nhu cầu vì SIADH, hạ natri). NICE mục 1.4.11–1.4.12, AAP KAS 9, Australasian Q20b: ống thông dạ dày hoặc tĩnh mạch. Bệnh viện quyết định."
+    },
+    {
+     "t": "Kháng sinh: không dùng khi chưa có bằng chứng bội nhiễm; HOẶC amoxicillin 40 mg/kg × 2 lần/ngày × 5 ngày (8,6 kg: 344 mg/lần) nếu bệnh viện coi như viêm phổi theo WHO",
+     "v": "c",
+     "n": "Hai nguồn (sổ mâu thuẫn, mục NH-0532): NICE mục 1.4.3, AAP KAS 8, QĐ 3312/2015 mục 5.2, Australasian Q19a: không, trừ khi bội nhiễm. WHO 2013 mục 4.5.1, Bảng 7: thở nhanh ≥ 50 l/p (2–11 tháng) kèm rút lõm thì điều trị như viêm phổi, amoxicillin 40 mg/kg × 2 lần/ngày × 5 ngày. Bé nhập viện nên bệnh viện quyết định."
+    },
+    {
+     "t": "Không dùng thuốc giãn phế quản thường quy; HOẶC khí dung salbutamol 150 µg/kg/lần khi thở rít (8,6 kg: 1,29 mg); không corticoid, adrenalin, nước muối ưu trương",
+     "v": "c",
+     "n": "NICE mục 1.4.3; AAP KAS 2–5; QĐ 3312/2015 mục 5.2 (sổ mâu thuẫn, mục NH-0521/NH-0523)."
+    },
+    {
+     "t": "Hạ sốt khi bé khó chịu bằng paracetamol 10–15 mg/kg/lần (8,6 kg: 86–129 mg, chọn 100 mg), cách ít nhất 6 giờ, tối đa 4 lần/24 giờ",
+     "v": "c",
+     "n": "NICE NG143 mục 1.6.4–1.6.6; WHO 2013 Phụ lục 2 tr. 367 (10–15 mg/kg, tối đa 6 lần/ngày; ca chọn 4 lần); QĐ 708/2015 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/24 giờ (≈ 516 mg)."
+    },
+    {
+     "t": "Nói với mẹ vì sao bé tái phát: nhiễm virus mới (anh họ sổ mũi) và khói thuốc trong nhà, không phải do thuốc trước chưa khỏi hay do nắng; chưa kết luận hen; phân biệt tái phát với thất bại điều trị; hẹn bệnh viện đánh giá thêm nếu đợt thứ ba",
+     "v": "c",
+     "n": "AAP 2014 (tr. e1476, e1479); NICE mục 1.6.1; WHO 2013 mục 4.5.1; GINA 2026 mục 10. Nguy cơ thành hen: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xử lý nguyên nhân nền: ba không hút trong nhà và xe; anh họ sổ mũi ở riêng, rửa tay; tiếp tục bú mẹ",
+     "v": "c",
+     "n": "NICE mục 1.6.1; AAP KAS 11a, 12a–b, 13; Australasian Q2, Q21; WHO 2013 mục 4.5.1 (Discharge)."
+    },
+    {
+     "t": "Cho về nhà với thuốc hạ sốt và hẹn tái khám 24 giờ",
+     "v": "w",
+     "n": "Bú còn một nửa, mất nước, mạch 164, SpO₂ 93% (NICE mục 1.2.2, 1.3.2; NG143 Bảng amber); nhà xa, nóng (mục 1.2.4)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch tại phòng khám thay vì chuyển viện",
+     "v": "w",
+     "n": "NICE mục 1.4.11–1.4.12; WHO 2013 mục 4.8 (quá tải dịch); Australasian Q20c. Phòng khám không theo dõi liên tục (sổ mâu thuẫn, mục NH-0562)."
+    },
+    {
+     "t": "Cho corticoid uống, kháng sinh phổ rộng tiêm hoặc thuốc an thần cho bé ngủ yên rồi cho về",
+     "v": "h",
+     "n": "NICE mục 1.4.3; AAP KAS 5, 8; WHO 2013 mục 4.4."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tiểu phế quản cấp đợt mới (nhiễm virus lần hai), mức vừa; không phải thất bại điều trị lượt trước",
+     "Thở 58 l/p, rút lõm nhẹ, SpO₂ 93%, sốt 38,1 °C, bú còn khoảng nửa",
+     "Mất nước nhẹ đến vừa: niêm mạc khô, thóp hơi lõm, 2 tã ướt/24 giờ",
+     "Đủ tiêu chí nhập viện; nguyên nhân tái phát: virus mới từ anh họ và khói thuốc chưa xử lý; chưa chẩn đoán hen"
+    ],
+    "phan_tich_chan_doan": [
+     "Tái phát có ba khả năng: (1) nhiễm virus mới, (2) nguyên nhân nền chưa xử lý, (3) chẩn đoán sai từ đầu (hen, tim, trào ngược, dị vật). Dữ kiện nghiêng về (1)+(2): bé khỏe hẳn 8 ngày, tăng cân, không tím, không âm thổi, khò khè đi sau sổ mũi, anh họ sổ mũi, ba hút trong nhà (WHO 2013 Bảng 6, 8; GINA 2026 Box 10-4; NICE NG9 2021 mục 1.6.1; AAP 2014 tr. e1476). Mẹ đã ngưng thuốc không cần, nên không phải do tuân thủ.",
+     "Mức độ: thở 58 l/p (< 70, chưa nặng, NICE NG9 2021 mục 1.2.1), SpO₂ 93% (> 90%, mục 1.3.2), mạch 164 l/p (> 160, NG143), mất nước. Bú 50–75% và mất nước là tiêu chí nhập viện (mục 1.2.2, 1.3.2); nhà xa, nóng, mẹ mệt (mục 1.2.4).",
+     "Hen: GINA 2026 mục 10 cần cả ba tiêu chuẩn; đợt hai chưa đủ (có nguyên nhân virus, chưa thử điều trị hen). Nắng chỉ làm bé mất nước, bú kém; nắng gây tiểu phế quản: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện, không gọi cấp cứu (NICE mục 1.2.2, 1.3.2, 1.2.1): đi xe nhà, mẹ ôm, bú từng ngụm. Bù dịch qua ống thông dạ dày trước (mục 1.4.11–1.4.12); lượng 860 ml/ngày (WHO) hoặc 430–645 ml/ngày (Australasian Q20c), bệnh viện quyết định.",
+     "Thuốc: giãn phế quản và kháng sinh ghi cả hai cách, bệnh viện quyết định (sổ mâu thuẫn). Không corticoid, nước muối ưu trương, adrenalin (NICE mục 1.4.3). Hạ sốt khi khó chịu: paracetamol 100 mg (≈ 11,6 mg/kg; WHO Phụ lục 2; NG143 mục 1.6.4).",
+     "Nguyên nhân nền: ba ngưng hút trong nhà, người sổ mũi ở riêng, tiếp tục bú mẹ (NICE mục 1.6.1; AAP KAS 12b, 13)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (gói bột hoặc siro cho trẻ)",
+      "ham_luong": "Gói 80 mg × 1,25 hoặc siro theo dạng sẵn có",
+      "lieu": "10–15 mg/kg/lần, 8,6 kg: 86–129 mg; chọn 100 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày ≈ 516 mg)",
+      "ghi_chu": "WHO 2013 Phụ lục 2 tr. 367 (10–15 mg/kg, tối đa 6 lần/ngày; ca chọn 4 lần là mức thận trọng hơn); NICE NG143 mục 1.6.4–1.6.6; QĐ 708/2015 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/24 giờ."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi lau hoặc hút nhẹ; số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4; Australasian 2025 Q17(ii); NICE NG9 mục 1.4.6–1.4.7."
+     },
+     {
+      "thuoc": "Bù dịch tại bệnh viện (bệnh viện quyết định)",
+      "ham_luong": "Sữa mẹ, sữa công thức hoặc dung dịch bù qua ống thông dạ dày; tĩnh mạch nếu không dung nạp",
+      "lieu": "860 ml/ngày (100 ml/kg, WHO 2013 mục 10.2) hoặc 430–645 ml/ngày (50–75%, Australasian 2025 Q20c) cho 8,6 kg",
+      "duong": "Ống thông dạ dày hoặc tĩnh mạch",
+      "thoi_diem": "Chia đều trong ngày",
+      "so_ngay": "Đến khi bú đủ",
+      "ghi_chu": "NICE NG9 mục 1.4.11–1.4.12; AAP KAS 9. Loại dịch tĩnh mạch: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh và thuốc giãn phế quản (tùy bệnh viện)",
+      "ham_luong": "Amoxicillin 40 mg/kg/lần (344 mg); salbutamol 150 µg/kg/lần (1,29 mg)",
+      "lieu": "Không bắt buộc; bệnh viện quyết định. Amoxicillin × 2 lần/ngày × 5 ngày chỉ khi coi như viêm phổi (WHO); salbutamol chỉ khi thở rít (QĐ 3312)",
+      "duong": "Uống; khí dung",
+      "thoi_diem": "Tùy bệnh viện",
+      "so_ngay": "Amoxicillin 5 ngày nếu dùng",
+      "ghi_chu": "WHO 2013 mục 4.5.1, Bảng 7; QĐ 3312/2015 mục 5.2; NICE mục 1.4.3 và AAP KAS 2, 8 không dùng."
+     }
+    ],
+    "dan_do": [
+     "Đưa bé đi ngay bằng xe nhà, mẹ ôm đầu cao, cho bú từng ngụm; gọi cấp cứu nếu ngưng thở, tím, rên hay thở rít nặng trên đường (NICE mục 1.2.1).",
+     "Mang theo toa, phiếu và phim cũ để khỏi lặp lại (NICE mục 1.3.6–1.3.7).",
+     "Ba ngưng hút trong nhà, xe; anh họ sổ mũi ở riêng, rửa tay (NICE mục 1.6.1; AAP KAS 11a, 12b)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 3: bé nhập khoa Nhi bệnh viện huyện, ăn qua ống thông dạ dày 2 ngày vì bú dưới nửa, không cần oxy (SpO₂ trên 90% trong khí trời), không dùng kháng sinh. Panel virus hô hấp mở rộng dương tính rhinovirus, âm tính RSV (kịch bản của người soạn, không phải phát biểu của tài liệu). Ngày 3 của đợt mới bé bú đủ, SpO₂ trên 90% suốt 4 giờ kể cả lúc ngủ, ra viện (NICE NG9 2021 mục 1.5.1). Bác sĩ nhi giải thích đợt này do virus mới từ anh họ cộng khói thuốc chưa xử lý, không phải thất bại điều trị; chưa chẩn đoán hen vì chưa đủ ba tiêu chuẩn (GINA 2026 mục 10); ba đồng ý hút xa nhà. Hẹn khám lại sau 4 tuần; có đợt khò khè thứ ba thì chuyển hô hấp nhi. Chị Phượng bớt tự trách.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mất niềm tin. Đọc kỹ từng phiếu, không lặp xét nghiệm, ngưng kháng sinh không chỉ định, nói rõ kế hoạch.",
+  "Nắng: mẹ tin 'trúng nắng rồi cảm'. Tác nhân là virus (QĐ 3312/2015 mục 1.1); nắng chỉ làm bé bú ít, mất nước.",
+  "Thuốc dạ dày tự mua: không có chỉ định trong tài liệu đã tải; bé chê sữa có thuốc nên bú ít. Không có siêu âm: không cần cho chẩn đoán."
+ ],
+ "bai_hoc_bien": [
+  "Đỡ một phần ở lượt tái khám: so từng thông số với lượt trước (thở 46 → 40 l/p, bú 75–80% → 85%, hết sốt). Đỉnh ngày 3–5, ho còn tới 3 tuần (NICE NG9 2021 mục 1.1.2; WHO 2013 mục 4.5.1) là hồi phục chậm, không phải thất bại điều trị; thất bại có thở nhanh hơn, rút lõm, bú giảm.",
+  "Từng khám 3 nơi: đọc kỹ từng phiếu, thừa nhận, không lặp lại xét nghiệm, giải thích bằng số đo của chính bé; không thêm kháng sinh khi không có bằng chứng bội nhiễm (NICE mục 1.4.3; Australasian 2025 Q19a).",
+  "Tái phát: hỏi ba chuyện theo thứ tự: nhiễm virus mới (người bệnh trong nhà), nguyên nhân nền chưa xử lý (khói thuốc, NICE mục 1.6.1), hay chẩn đoán sai từ đầu (tim, hen, trào ngược, dị vật). Hen cần cả ba tiêu chuẩn GINA 2026 mục 10; dưới 12 tháng thường là tiểu phế quản."
+ ],
+ "diem_nho": [
+  "Tiểu phế quản: tiền triệu 1–3 ngày, ho dai dẳng, thở nhanh hoặc co kéo ngực, khò khè hoặc ran nổ (NICE NG9 2021 mục 1.1.3); sốt chỉ khoảng 30%, thường dưới 39 °C (mục 1.1.4).",
+  "Ngưỡng thở nhanh 2–11 tháng: ≥ 50 l/p (WHO 2013 tr. 76, 80); NICE: cân nhắc chuyển khi trên 60 l/p, nặng khi trên 70 l/p (mục 1.2.1–1.2.2).",
+  "Nhập viện/chuyển: bú 50–75% lượng thường, mất nước, SpO₂ dưới 90% kéo dài ở trẻ ≥ 6 tuần (NICE mục 1.2.2, 1.3.2); cờ đỏ ở nhà: bú 50–75% hoặc 12 giờ không tã ướt (mục 1.6.1).",
+  "Không dùng kháng sinh, nước muối ưu trương, adrenalin, salbutamol, corticoid, montelukast (NICE mục 1.4.3) HOẶC khí dung salbutamol khi co thắt (QĐ 3312/2015 mục 5.2); kháng sinh theo WHO chỉ khi thở nhanh kèm rút lõm (mục 4.5.1)."
+ ],
+ "nguon": [
+  "TL-0260 · NICE NG9 – Bronchiolitis in children (cập nhật 08/2021) – ĐÃ ĐỌC: mục 1.1.1–1.1.10, 1.2.1–1.2.4, 1.3.2–1.3.9, 1.4.1–1.4.12, 1.5.1, 1.6.1, Context",
+  "TL-0267 · AAP 2014 – The diagnosis, management, and prevention of bronchiolitis (Pediatrics 2014;134:e1474) – ĐÃ ĐỌC: KAS 1a–1c, 2–9, 11a, 12a–b, 13; Giới thiệu (tr. e1476: tái nhiễm RSV); tr. e1479 (rhinovirus, khò khè tái diễn)",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015: Viêm tiểu phế quản cấp ở trẻ em, mục 1.1–1.2, 3.1–3.3, 4.2, 5.1–5.2, 6 (tr. 275–278); Dị vật đường thở mục 3.1–3.2 – ĐÃ ĐỌC",
+  "TL-0250 · WHO 2013 Pocket book of hospital care for children, ấn bản 2 – ĐÃ ĐỌC: mục 4.1 (tr. 76), Bảng 6 (tr. 77–79), 4.2.1 và Bảng 7 (tr. 80–81), 4.4 (tr. 90–91), 4.5, Bảng 8 (tr. 91–93), 4.5.1 (tr. 94–96), mục 10.2 (tr. 304), Phụ lục 2 (paracetamol, tr. 367)",
+  "TL-0262 · NICE NG143 – Fever in under 5s (2021, bản 2025) – ĐÃ ĐỌC: Bảng đèn giao thông (hô hấp, tuần hoàn–hydrat hóa), mục 1.2.15–1.2.16, Bảng 1, 1.6.4–1.6.6, 1.7.2",
+  "TL-0137 · GINA 2026 – Global Strategy for Asthma Management and Prevention – ĐÃ ĐỌC: mục 10 Diagnosis of asthma in children 5 years and younger (tr. 192): 3 tiêu chuẩn, Considerations (Infants under 12 months), Box 10-4, Box 10-5 (tr. 199)",
+  "Australasian 2025 – Bronchiolitis guideline update (tltk-10000-ca, 03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Q1, Q2, Q3a–c, Q4a–c, Q5, Q7, Q9–Q10, Q12b, Q16a–b, Q17, Q19a–c, Q20a–e, Q21, Q23",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 Hướng dẫn sử dụng kháng sinh – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2 (paracetamol ≤ 60 mg/kg/ngày, tr. 279–280)",
+  "Nguồn bổ sung tự tìm: Rosen R, et al. NASPGHAN/ESPGHAN Pediatric Gastroesophageal Reflux Clinical Practice Guidelines, JPGN 2018;66:516-554, khuyến cáo 5.5, 5.7 – đọc qua bản tóm tắt https://gutsandgrowth.com/2018/03/27/updated-pediatric-gastroesophageal-reflux-clinical-practice-guidelines/ (chưa đọc toàn văn)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: thuốc dạ dày/kháng acid cho nhũ nhi khò khè; nắng nóng gây tiểu phế quản; số giọt nước muối; tỉ lệ trong neu_sai; tỉ lệ thành hen sau tiểu phế quản; panel virus mở rộng; lịch khám lại sau xuất viện."
+ ],
+ "phien_ban_ca": "1 – Sonnet 5.5 viết 2026-11-07",
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-07): ca NH-0557, 3 lượt: lượt 1 tiểu phế quản nhẹ ngày 7 ở bé gái 10 tháng, cho về hẹn 3 ngày; lượt 2 đỡ một phần, cho về; lượt 3 tái phát đợt mới sau 8 ngày khỏe hẳn, bú kém, mất nước, nhập viện. Không có siêu âm; từng khám 3 nơi không khỏi; mẹ lo sợ vì đọc mạng.",
+  "Tài liệu đã đọc: TL-0260 mục 1.1–1.6; TL-0267 KAS, tr. e1476, e1479; TL-0037 Viêm tiểu phế quản cấp; TL-0250 mục 4.1, 4.2.1, 4.4, 4.5, 4.5.1, Bảng 6–8, 10.2, Phụ lục 2; TL-0262 Bảng đèn giao thông, 1.6; TL-0137 mục 10; Australasian 2025; TL-0015 Viêm màng não mủ mục 4.2.",
+  "Chọn của ca: 10 tháng, không sốt (không điển hình); lượt 1 thở 46 l/p (< 50) tránh mâu thuẫn kháng sinh WHO; lượt 3 thở 58 l/p kèm rút lõm nhẹ nên dùng mục NH-0532, NH-0533. Mốc tái khám 3 ngày, 1 tuần và kết cục rhinovirus là thiết kế của người soạn. Tim AT-TIM-NHANH-01 (khoảng 115 l/p) cho mạch 124–164, tần số ghi bằng chữ. Không dùng bang cho công thức máu (bảng tham chiếu chỉ có người lớn). Không có ảnh da.",
+  "Mâu thuẫn: dùng lại các mục có sẵn (NH-0521 #1 và NH-0523 thuốc giãn phế quản; NH-0532 kháng sinh khi thở nhanh kèm rút lõm; NH-0533 lượng dịch; NH-0562 X-quang và truyền dịch tĩnh mạch; NH-0199 hạ sốt). Không có mục mới; xem NH-0557_mau_thuan.md.",
+  "Chỗ thiếu tài liệu: thuốc dạ dày cho nhũ nhi khò khè (chỉ có nguồn bổ sung gián tiếp qua bản tóm tắt); vai trò nắng; số giọt nước muối; nirsevimab/RSV dự phòng không dùng trong ca (bé khỏe, không thuộc nhóm nguy cơ cao, Australasian Q23)."
+ ]
+}
