@@ -1,0 +1,546 @@
+{
+ "ma_ca": "NH-0586",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_phoi_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm phổi trẻ em",
+  "chan_doan_phai_loai_tru": [
+   "Lao",
+   "Dị vật đường thở",
+   "Viêm tiểu phế quản"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn hải sản (mẹ ăn lẩu hải sản rồi cho con bú; hôm sau bé bắt đầu hắt hơi, ho)",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư (mẹ sợ bé ho là dấu hiệu bệnh phổi nặng như bà nội vừa mất vì ung thư phổi)"
+ },
+ "benh_nhan": {
+  "ten": "Hồ Khải Nguyên",
+  "tuoi": 0.05,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.5,
+  "chieu_cao": 51,
+  "xung_ho": "Bé trai 19 ngày tuổi, chỉ khóc, ngủ, bú. Chị Phương (mẹ, 29 tuổi) bế bé và kể bệnh: xưng 'em' với bác sĩ, gọi bác sĩ là 'bác sĩ', gọi bé là 'cháu' hoặc 'con'. Bố bé (anh Đạt) làm việc ở công trình, gọi điện hỏi thăm, không có mặt.",
+  "tinh_cach": "Chị Phương, 29 tuổi, nhân viên ngân hàng đang nghỉ thai sản, con đầu lòng, nói rõ ràng, trả lời đủ mọi câu hỏi, đưa sổ khám thai và sổ tiêm chủng ngay khi bác sĩ hỏi. Mấy tuần nay ngủ ít, lo lắng, tự trách mình ăn hải sản. Nghe và làm theo nếu bác sĩ giải thích bằng chính dấu hiệu của bé, dịu hẳn khi được nói thẳng ra nỗi sợ của mình.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: mẹ trả lời thẳng, đủ, không giấu và không tra mạng. Điều mẹ không tự nói là nỗi sợ ung thư (bà nội bé mất vì ung thư phổi tháng trước); chỉ kể khi bác sĩ hỏi chị lo nhất điều gì hoặc trong nhà có ai bệnh phổi. Mẹ tin ho do 'dị ứng hải sản qua sữa mẹ' nên tự kiêng ăn.",
+  "nguoi_nha": "Mẹ bé (chị Phương) bế bé đến. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Phương)",
+  "ngoai_hinh": {
+   "da": "#f0c9a4",
+   "toc": "#1d1511",
+   "kieuToc": "tre",
+   "ao": "#e8e1d5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6bb94",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#9db8c9",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé ho 3 ngày, thở gấp, bú dở",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 19 ngày tuổi, 3,5 kg, mẹ bế đến vì ho 3 ngày, từ sáng nay thở gấp và bú dở. Sinh hiệu: nhiệt 37,9 °C (nách), mạch 152 l/p, nhịp thở 66 l/p, SpO₂ 93%. Bé thức, khóc yếu, da hồng.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Nguyên về nhà theo lời dì Hạnh 'hút mũi, theo dõi thêm một ngày' là bỏ sót viêm phổi nặng: bé 19 ngày thở 66 l/p, rút lõm, bú dở hai cữ, tức là chạm ba dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6) và ở dưới 2 tháng mọi viêm phổi đều nặng, phải vào bệnh viện (QĐ 708/2015 mục 4.2). Ở nhà bé chưa được kháng sinh tiêm, tiếp tục bú kém nên dễ hạ đường huyết, tụt SpO₂ và nhiễm khuẩn huyết; sơ sinh bệnh nặng thường có biểu hiện không đặc hiệu rồi xấu nhanh (WHO 2013 mục 3.6). Dù bé may mắn không sao qua đêm, đó là may mắn chứ không chứng minh quyết định đúng; tỉ lệ xấu đi cụ thể: không có trong tài liệu đã tải.",
+    "theo_doi": "Giữ bé lại phòng khám theo dõi vài giờ, cho amoxicillin uống rồi hẹn tái khám 3 ngày là chưa đủ: amoxicillin 80 mg/kg/ngày chỉ dành cho viêm phổi không nặng ở trẻ dưới 5 tuổi (QĐ 3312/2015 mục 4 phần 1.1), còn trẻ dưới 2 tháng cần ampicillin phối hợp gentamicin tiêm tại bệnh viện (QĐ 708 mục 5.3a; QĐ 101/2014 mục VII.2.2). Phòng khám ngoại trú không có giường, không theo dõi SpO₂ liên tục, không có oxy liên tục nên nếu bé xấu đi sẽ phải chuyển cấp cứu muộn. Chờ cấy máu 48 giờ rồi mới quyết là trì hoãn điều trị.",
+    "cap_cuu": "Gọi cấp cứu 115 và coi bé như suy hô hấp nặng là quá tay: bé tỉnh, SpO₂ 93%, không tím, không thở rên, không ngưng thở, chưa đạt ngưỡng cho oxy (WHO 2013 mục 3.10.3: SpO₂ ≤ 90%). Hướng đúng là nhập viện thường quy ngay với liều kháng sinh đầu và chuyển có nhân viên y tế đi cùng (QĐ 2341 Bảng kiểm 1 mục 19a). Chọn cấp cứu không làm bé hại thêm nhưng chiếm nguồn lực hồi sức và làm nỗi sợ 'con bệnh nặng như bà nội' của mẹ càng lớn."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu ho ba hôm nay rồi, sáng nay bú ít hẳn, em thấy cháu thở gấp lắm. Chắc tại em lỡ ăn hải sản rồi cho cháu bú đúng không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "Không đo",
+    "nhiet": "37,9 (nách)",
+    "nhip_tho": 66,
+    "spo2": 93,
+    "canh_bao": [
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho khoảng 3 ngày, ba ngày nay ho nhiều hơn, từ sáng nay thở gấp và bú ít hẳn. Mẹ nghĩ do mình ăn hải sản rồi cho con bú.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Cách đây 4 ngày (bé 15 ngày tuổi) mẹ ăn lẩu hải sản (tôm, ghẹ, mực) rồi cho bé bú. Hôm sau bé hắt hơi, nghẹt mũi, bắt đầu ho. Mẹ tự kiêng hải sản từ đó nhưng bé vẫn ho nhiều hơn. Bé không nổi mẩn, không nôn, phân vàng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát (mẹ ăn hải sản): ho do dị ứng hay nhiễm trùng"
+    },
+    {
+     "id": "bu_kem",
+     "noi_dung": "Bé bú ngắt quãng: bú vài phút lại bỏ vú thở gấp rồi bú tiếp. Hai cữ gần nhất bú dở, bỏ một nửa. Từ sáng nay bé tiểu ít hơn mọi ngày, chỉ ướt 2 tã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém (dấu hiệu nguy hiểm ở trẻ dưới 2 tháng)"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Mẹ thấy bé thở nhanh, phập phồng cánh mũi, ngực lõm xuống mỗi lần hít vào, nhất là lúc bú. Bé không thở rên, không ngưng thở, không tím môi, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thở nhanh, rút lõm, thở rên, tím, ngưng thở"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hôm qua và sáng nay mẹ đo nách 37,6–37,9 °C, chưa lần nào đến 38 °C, chưa hạ nhiệt và chưa cho bé uống thuốc gì. Bé không lạnh người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt hoặc hạ thân nhiệt; thuốc đã dùng"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé vẫn thức khi được đánh thức, khóc yếu hơn thường lệ nhưng cử động bình thường, không li bì, không co giật, không nôn vọt, thóp không phồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân ở trẻ sơ sinh"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Bé sinh thường lúc 39 tuần, nặng 3,3 kg, khóc ngay, không ngạt, không vàng da nặng; mẹ không sốt và không vỡ ối sớm khi chuyển dạ. Ra viện sau 2 ngày. Mẹ không nhớ có được xét nghiệm tìm liên cầu nhóm B hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, yếu tố nguy cơ nhiễm khuẩn sơ sinh"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bà ngoại đến giúp chăm bé tuần trước, bà ho khan và sổ mũi 2 ngày nay. Bố bé cảm nhẹ 4 ngày trước, đã đỡ. Trong nhà không ai nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người ho trong nhà (nguồn lây)"
+    },
+    {
+     "id": "lao",
+     "noi_dung": "Không ai trong nhà ho kéo dài trên 2 tuần, ho ra máu, sụt cân hay được chẩn đoán lao. Bà nội bé mất tháng trước vì ung thư phổi, có kết quả sinh thiết, không phải lao. Bé được tiêm lao và viêm gan B ở nơi sinh ngày thứ 2.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc lao, tiêm lao"
+    },
+    {
+     "id": "di_vat",
+     "noi_dung": "Bé chỉ bú mẹ, không cho uống thêm nước, thuốc hay thảo dược. Chưa có lần nào bé sặc, ho sặc sụa đột ngột hay tím tái khi bú; không có đồ vật nhỏ nào ở gần nôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sặc, dị vật, cho ăn uống ngoài sữa mẹ"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không nôn trớ nhiều, không đi ngoài lỏng, bụng không chướng. Rốn đã rụng, khô.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêu hóa, rốn"
+    },
+    {
+     "id": "ung_thu",
+     "noi_dung": "Mẹ rất sợ: tháng trước bà nội mất vì ung thư phổi, cũng bắt đầu bằng ho. Mẹ nghe tiếng ho của bé thì nghĩ 'con có bệnh về phổi, có khi nào bị ung thư không'. Mẹ chưa dám nói với ai, kể cả chồng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Nói khi bác sĩ hỏi chị lo lắng điều gì nhất, hoặc trong nhà có ai bị bệnh phổi, hoặc khi bác sĩ hỏi nhẹ nhàng vì sao chị đưa bé đi ngay hôm nay.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đi khám: sợ ung thư"
+    },
+    {
+     "id": "dt_di_hanh",
+     "noi_dung": "Hôm qua mẹ nhắn hỏi dì Hạnh (em gái mẹ, điều dưỡng). Dì bảo 'ho vặt thôi, hút mũi, bú đủ, theo dõi thêm một ngày'. Mẹ nghe theo, đêm qua bé ngủ chập chờn nhưng không ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lời khuyên trước đó (xử trí ẩu may mắn không sao)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Mới có hai mũi ở nơi sinh (lao, viêm gan B).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiêm chủng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bé không dùng thuốc, thực phẩm chức năng hay thảo dược nào. Mẹ cũng không uống thuốc gì đặc biệt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé thức, khóc yếu, ít cử động tự nhiên hơn bé cùng tuổi nhưng đáp ứng khi kích thích. Da hồng, môi hồng, không tím trung ương, không vàng da. Chi ấm, đổ đầy mao mạch dưới 2 giây. Mũi phập phồng nhẹ khi thở. Nhiệt độ nách 37,9 °C.",
+     "k": 1,
+     "hien": "Bé thức, khóc yếu, da hồng, môi hồng."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 3,50 kg (sinh 3,30 kg, ra viện ngày 2 nặng 3,15 kg, tăng cân bình thường). Chiều dài 51 cm. Vòng đầu 35 cm.",
+     "k": 0,
+     "hien": "Cân nặng 3,50 kg, dài 51 cm."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, đập nhẹ. Mắt không trũng, không ghèn. Cổ mềm, không hạch.",
+     "k": 0,
+     "hien": "Thóp phẳng, mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi có ít dịch trong, không bít tắc nặng. Họng không đỏ, không mảng bám. Môi miệng không tưa.",
+     "k": 0,
+     "hien": "Mũi ít dịch trong, họng không đỏ."
+    },
+    "phoi": {
+     "a": "Nhịp thở 66 l/p, thở nông, mũi phập phồng, rút lõm phần dưới lồng ngực mức vừa, không rút lõm rất nặng, không thở rên, không ngưng thở. Gõ đục nhẹ đáy phổi phải phía sau. Rì rào phế nang giảm và có ran nổ nhỏ hạt khu trú đáy phổi phải; phổi trái rì rào rõ, không ran. Không ran rít, không thở rít, lồng ngực không ứ khí, khí quản không lệch.",
+     "k": 1,
+     "hien": "Nhịp thở 66 l/p, thở nông, mũi phập phồng, rút lõm phần dưới lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt khu trú, rì rào phế nang giảm."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 152 l/p, T1 T2 rõ, không tiếng thổi, không tiếng ngựa phi. Mạch bẹn bắt rõ hai bên. Gan không to. Không tím, không phù.",
+     "k": 0,
+     "hien": "Tim đều, tần số 152 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn đã rụng, khô, không đỏ, không mủ. Bẹn hai bên không phồng.",
+     "k": 0,
+     "hien": "Bụng mềm, rốn khô."
+    },
+    "da": {
+     "a": "Da hồng, không mày đay, không mẩn đỏ, không phù mặt, không chấm xuất huyết, không vàng da, không mụn mủ.",
+     "k": 0,
+     "hien": "Da hồng, không ban, không mày đay."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút nông và ngắt quãng: bú 2–3 phút thì nhả vú, thở nhanh hơn, ngực lõm rõ rồi bú tiếp. Bú dở khoảng nửa cữ. Vú mẹ mềm, mẹ có sữa.",
+     "k": 1,
+     "hien": "Bú ngắt quãng, nhả vú để thở."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 17,8 G/L · Neutrophil 68% · Lymphocyte 24% · Hb 158 g/L · TC 380 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 17.8,
+      "neu_pct": 68.0,
+      "neu": 12.1,
+      "lym_pct": 24.0,
+      "lym": 4.27,
+      "mono_pct": 6.0,
+      "mono": 1.07,
+      "eos_pct": 1.5,
+      "eos": 0.27,
+      "baso_pct": 0.5,
+      "baso": 0.09,
+      "rbc": 4.8,
+      "hgb": 158,
+      "hct": 0.46,
+      "mcv": 96.0,
+      "mch": 32.9,
+      "mchc": 343,
+      "plt": 380
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu công thức máu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Có ích, không bắt buộc: bạch cầu, đa nhân trung tính và CRP thường tăng khi viêm phổi do vi khuẩn (QĐ 101/2014 mục VI.2; QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 2 phần 2), WHO 2013 mục 4.1 (tr. 77) liệt kê công thức máu trong cận lâm sàng. Không quyết định nhập viện, vì bé dưới 2 tháng đã là viêm phổi nặng (QĐ 101 mục V.2). Ngưỡng bạch cầu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 34 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 34
+     },
+     "n": "Có ích, không bắt buộc (như công thức máu; QĐ 101 mục VI.2). Ngưỡng CRP ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "X-quang ngực thẳng: đám mờ ranh giới không rõ thùy dưới phổi phải, có hình phế quản chứa khí bên trong. Phổi trái sáng. Tim không to, bóng tim và trung thất không lệch. Không tràn dịch, không tràn khí màng phổi. Không hình ứ khí hay xẹp phổi.",
+     "n": "Có ích: viêm phổi nặng là chỉ định chụp X-quang (WHO Pocket book 2013 mục 4.1, tr. 77) và nơi có máy thì X-quang là bằng chứng khách quan (QĐ 101/2014 mục VI.1). Không làm chậm kháng sinh tiêm và nhập viện. Hình đám mờ có phế quản chứa khí khớp mô tả viêm phổi vi khuẩn (QĐ 3312 mục 2 phần 1). Không ứ khí, không lệch trung thất: ít nghĩ dị vật (WHO 2013 mục 4.7.3, tr. 119)."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Cấy máu đã lấy, gửi đi; kết quả sau 48 giờ, chưa có ở lượt khám này.",
+     "n": "Có ích: WHO 2013 mục 3.8 (tr. 54) khi nghi nhiễm khuẩn nặng ở sơ sinh làm cấy máu (và chọc dò tủy sống khi có thể) trước kháng sinh. Chỉ làm khi không trì hoãn liều kháng sinh đầu và nhập viện (sổ mâu thuẫn NH-1378 mục 2). Kết quả không về kịp để quyết định hôm nay."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 3,8 mmol/L",
+     "n": "Chấp nhận, không bắt buộc: bé bú kém. WHO 2013 mục 3.6 (tr. 52–53): đo đường huyết nếu li bì, bất tỉnh hoặc co giật; ngưỡng can thiệp 2,2 mmol/L (40 mg/100 ml). Bé tỉnh, 3,8 mmol/L chưa cần can thiệp."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "r": "Siêu âm phổi: vùng đông đặc đáy phổi phải kèm hình phế quản chứa khí; không tràn dịch màng phổi.",
+     "n": "Chấp nhận, không bắt buộc: siêu âm phổi không có trong tài liệu đã tải về chẩn đoán viêm phổi trẻ em; X-quang đã đủ (QĐ 101 mục VI.1)."
+    },
+    "pcr_ho_hap": {
+     "v": "a",
+     "r": "RT-PCR virus hô hấp: âm tính với SARS-CoV-2, cúm A/B, RSV.",
+     "n": "Chấp nhận, không đổi xử trí: bé dưới 2 tháng đã là viêm phổi nặng, nhập viện kháng sinh tiêm dù có virus hay không (QĐ 101 mục V.2; WHO 2013 mục 3.8). Chỉ định xét nghiệm virus ở sơ sinh viêm phổi: không có trong tài liệu đã tải."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "a",
+     "r": "Chưa chọc dò: để bệnh viện làm khi cần.",
+     "n": "Chấp nhận, không làm tại phòng khám: WHO 2013 mục 3.8 (tr. 54) nêu chọc dò tủy sống khi có thể trước kháng sinh; mục 3.9 (tr. 55) nghĩ viêm màng não khi nhiễm khuẩn nặng kèm li bì, co giật, thóp phồng, kích thích, khóc thét (bé không có) và cố gắng chọc dò sau khi ổn định, lý tưởng trong 2 giờ sau khi bắt đầu kháng sinh. Bệnh viện quyết, không trì hoãn liều kháng sinh đầu."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không cần: X-quang đã đủ; QĐ 162/2024 mục 3.4.1 b chỉ nêu CT khi nghi lao mà X-quang không rõ hoặc tìm biến chứng. Bé không có chỉ định ấy; CT tăng liều xạ cho sơ sinh mà không đổi xử trí."
+    },
+    "xpert_tre": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không cần: không tiếp xúc nguồn lây lao, ho mới 3 ngày (lao nghĩ khi ho trên 14 ngày, tiếp xúc, chậm tăng cân: WHO 2013 Bảng 6, tr. 79); viêm phổi vi khuẩn có đáp ứng kháng sinh là hướng chính."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không cần: không tiếp xúc lao. Giá trị IGRA, test Mantoux ở sơ sinh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi nặng (viêm phổi cộng đồng) ở trẻ sơ sinh 19 ngày tuổi, thùy dưới phổi phải, nghĩ do vi khuẩn; chưa suy hô hấp nặng (SpO₂ 93%), chưa kèm dấu hiệu viêm màng não",
+     "ok": 1,
+     "n": "Ho kèm thở nhanh 66 l/p (ngưỡng ở dưới 2 tháng: ≥ 60 l/p), rút lõm lồng ngực, ran nổ khu trú (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 1 phần 1; QĐ 101/2014 mục V.1). Dưới 2 tháng tuổi là viêm phổi nặng và bú kém là dấu hiệu toàn thân nặng (QĐ 101 mục V.2; QĐ 708/2015 mục 4.2). Sơ sinh: liên cầu B, trực khuẩn Gram âm, Listeria (QĐ 3312 mục 3 phần a). X-quang đám mờ có phế quản chứa khí, CRP và bạch cầu tăng ủng hộ."
+    },
+    {
+     "t": "Lao",
+     "n": "Ít nghĩ: ho mới 3 ngày, không tiếp xúc nguồn lây (bà nội mất vì ung thư phổi có sinh thiết), không chậm tăng cân; lao nghĩ khi ho kéo dài trên 14 ngày, tiếp xúc, chậm lớn (WHO 2013 Bảng 6, tr. 79; QĐ 162/2024 mục 3.4.1 c, d). Không làm Xpert hay IGRA."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không nghĩ: không sặc đột ngột, không thở rít, không ran rít khu trú một bên, X-quang không ứ khí hay xẹp phổi, khí quản không lệch (WHO 2013 Bảng 6 tr. 79; mục 4.7.3 tr. 119). Dị vật hay gặp ở trẻ dưới 4 tuổi và sơ sinh chỉ bú mẹ."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Ít nghĩ nhưng không loại hẳn bằng lâm sàng: viêm tiểu phế quản là khò khè, ứ khí lồng ngực, ran nổ nhỏ hạt và khò khè lan tỏa, thường dưới 1 tuổi (WHO 2013 mục 4.5.1 tr. 94, Bảng 6 tr. 78). Bé có ran nổ khu trú một đáy phổi, không khò khè, không ứ khí, X-quang đông đặc thùy, CRP tăng nên nghiêng viêm phổi vi khuẩn. Dù là tiểu phế quản, bé dưới 2 tháng thở nhanh, rút lõm, bú kém vẫn được xử trí theo chương trẻ nhỏ (WHO 2013 tr. 75: trẻ dưới 2 tháng theo chương 3) và QĐ 708 mục 4.2: nhập viện."
+    },
+    {
+     "t": "Dị ứng hải sản qua sữa mẹ",
+     "n": "Không nghĩ: không mày đay, không mẩn, không phù, không nôn, không đi ngoài phân nhầy máu; ho sau 1 ngày kèm thở nhanh, bú kém, ran nổ khu trú, CRP tăng thuộc về nhiễm khuẩn. Cơ chế và tiêu chuẩn dị ứng thức ăn của mẹ qua sữa mẹ gây ho: không có trong tài liệu đã tải. Bà ngoại và bố có triệu chứng hô hấp trước đó là nguồn lây hợp lý."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh đi kèm",
+     "n": "Phải nghĩ tới ở mọi bé dưới 2 tháng bú kém, thở nhanh: bú kém, thở nhanh ≥ 60 l/p, rút lõm đều là dấu hiệu của nhiễm khuẩn nặng ở sơ sinh và dấu hiệu tại chỗ là viêm phổi (WHO 2013 mục 3.6, 3.8, tr. 52–54). Không loại trừ được ở phòng khám nên điều trị như nhiễm khuẩn nặng tại bệnh viện."
+    },
+    {
+     "t": "Bệnh tim bẩm sinh, suy tim",
+     "n": "Không nghĩ: không tím, không tiếng thổi, gan không to, mạch bẹn rõ, không phù; bú kém và thở nhanh do viêm phổi (WHO 2013 Bảng 6, tr. 78)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện ngay: bé 19 ngày tuổi viêm phổi nặng, chuyển bằng xe có nhân viên y tế đến Bệnh viện Nhi, khoa Sơ sinh – Nhi",
+     "v": "c",
+     "n": "Mọi viêm phổi dưới 2 tháng đều nặng và phải vào bệnh viện (QĐ 708/2015 mục 4.2, 5.3a; QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 1 phần 2 và mục 4 phần 2; QĐ 101/2014 mục V.2, VII.2). Bú kém, thở ≥ 60 l/p và rút lõm đều là dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6, tr. 52); ở nhiễm khuẩn nặng sơ sinh: nhập viện (WHO 2013 mục 3.8, tr. 54)."
+    },
+    {
+     "t": "Tiêm bắp liều kháng sinh đầu: ampicillin 50 mg/kg (3,5 kg ≈ 175 mg) cùng gentamicin 7,5 mg/kg (≈ 26 mg) hoặc 4 mg/kg (14 mg), rồi chuyển gấp; HOẶC chuyển ngay không tiêm tại chỗ để bệnh viện cấy máu (và chọc dò tủy khi cần) trước kháng sinh",
+     "v": "c",
+     "n": "Cách A: QĐ 2341/2024 (IMCI) mục 2.2.2 và Phụ lục 4, Bảng kiểm 1 mục 19a: sơ sinh bú kém, thở nhanh là bệnh nặng, cho liều kháng sinh tiêm bắp đầu rồi chuyển GẤP; WHO 2013 mục 3.8, 3.14 (tr. 69–71): ampicillin 50 mg/kg, gentamicin 7,5 mg/kg mỗi ngày ở tuần 2–4 tuổi (cũng QĐ 3312 mục 4 phần 2.3, QĐ 101 mục VII.2.2). Gentamicin 4 mg/kg mỗi 24 giờ theo AAP 2021 Bảng 3 (cho sơ sinh sốt 8–21 ngày): thận trọng hơn về độc tính. Cách B: lấy bệnh phẩm trước kháng sinh khi có thể (WHO 2013 mục 3.8). Hai cách đều đúng (sổ mâu thuẫn NH-1378 mục 1–2; NH-0598 mục 1)."
+    },
+    {
+     "t": "Giữ ấm trên đường đi (mẹ ôm da kề da), tiếp tục cho bú mẹ nếu bé còn bú được, nếu bú không nổi thì vắt sữa cho qua ống thông dạ dày tại viện; theo dõi SpO₂ liên tục",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.1–3.10.2 (tr. 56–57): giữ ấm, da kề da, khuyến khích bú mẹ thường xuyên để phòng hạ đường huyết, vắt sữa qua ống thông khi không bú được; QĐ 2341 Bảng kiểm 1 mục 19a: giữ ấm trên đường chuyển, đề phòng hạ đường huyết; QĐ 101 mục VII.2.3."
+    },
+    {
+     "t": "Theo dõi SpO₂; chỉ thở oxy gọng mũi 0,5–1 l/p khi SpO₂ ≤ 90% hoặc tím, rút lõm rất nặng, thở rên, bú không nổi vì khó thở",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.3 (tr. 58): oxy khi SpO₂ ≤ 90% (hoặc tím, rên mỗi nhịp, rút lõm nặng, khó bú vì khó thở), gọng mũi 0,5–1 l/p; QĐ 3312 (mục 4 phần 2.1) và QĐ 101 (Phụ lục 2): SpO₂ < 90%. Bé 93% trên mọi ngưỡng; NICE NG9 2021 mục 1.4.4 dùng 92% cho trẻ dưới 6 tuần (sổ mâu thuẫn NH-0582): 93% vẫn chưa chạm. Chưa cần oxy lúc này."
+    },
+    {
+     "t": "Không cho thuốc hạ sốt: nhiệt 37,9 °C chưa phải sốt cần xử trí; sốt cao ở sơ sinh kiểm soát bằng môi trường",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.4 (tr. 58): không dùng paracetamol kiểm soát sốt ở young infants, cởi bớt quần áo nếu cần; QĐ 3312 (mục 4 phần 2.2): hạ sốt khi nhiệt độ ≥ 38,5 °C, bé chưa tới; NICE NG143 2021 mục 1.6.4–1.6.6: chỉ khi khó chịu (sổ mâu thuẫn NH-1378 mục 3). Liều paracetamol an toàn cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích cho mẹ: bé viêm phổi do vi khuẩn, không phải dị ứng hải sản và không liên quan ung thư; mẹ không có lỗi; bé phải vào viện ngay",
+     "v": "c",
+     "n": "Dấu hiệu thật là thở nhanh, rút lõm, bú kém và ran nổ khu trú (QĐ 101 mục V). Mẹ nói ra nỗi sợ khi được hỏi nhẹ nhàng; giải thích bằng chính dấu hiệu của bé. Số liệu ung thư phổi ở sơ sinh: không có trong tài liệu đã tải; không cần dẫn nguồn cho câu trấn an giao tiếp."
+    },
+    {
+     "t": "Ampicillin kết hợp cefotaxim thay cho gentamicin",
+     "v": "a",
+     "n": "WHO 2013 mục 3.14 (tr. 70): cefotaxim 50 mg/kg mỗi 6 giờ ở tuần 2–4; QĐ 708/2015 mục 5.3a: cefotaxim 100–150 mg/kg/ngày cho viêm phổi rất nặng; QĐ 3312 mục 4 phần 2.3: ceftriaxon hoặc cefotaxim dùng ngay từ đầu được. Thận trọng ceftriaxon ở sơ sinh: không có trong tài liệu đã tải. Bệnh viện chọn."
+    },
+    {
+     "t": "Cho amoxicillin uống 80 mg/kg/ngày chia 2 lần, hẹn tái khám 3 ngày",
+     "v": "w",
+     "n": "Phác đồ uống chỉ dành cho viêm phổi không nặng ở trẻ dưới 5 tuổi (QĐ 3312 mục 4 phần 1.1; QĐ 101 mục VII.1.1); trẻ dưới 2 tháng là viêm phổi nặng, phải tiêm kháng sinh tại bệnh viện (QĐ 708 mục 4.2, 5.3a)."
+    },
+    {
+     "t": "Cho về nhà, hút mũi, cho bú nhiều, tái khám khi nặng hơn",
+     "v": "w",
+     "n": "Bỏ sót viêm phổi nặng ở sơ sinh: cho về chỉ áp dụng cho ho, cảm lạnh không có dấu hiệu viêm phổi (WHO 2013 mục 4.4, tr. 90–91). Bé dính ba dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Ngưng sữa mẹ, chuyển sữa công thức vì nghi dị ứng hải sản",
+     "v": "w",
+     "n": "Không có chứng cứ trong tài liệu đã tải; WHO 2013 mục 3.10.2 (tr. 57): khuyến khích bú mẹ thường xuyên để phòng hạ đường huyết ở sơ sinh bệnh."
+    },
+    {
+     "t": "Cho siro ho, thuốc long đờm, thuốc nhỏ mũi có hoạt chất hoặc thuốc ho thảo dược",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): không cho thuốc chứa atropin, codein hoặc cồn (có thể gây hại), thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất; mục 4.2: tránh thuốc không cần thiết có hại. Tính an toàn và liều thuốc ho thảo dược ở sơ sinh: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi nặng cộng đồng ở trẻ sơ sinh 19 ngày tuổi, thùy dưới phổi phải, nghĩ do vi khuẩn (tác nhân hay gặp ở sơ sinh: liên cầu B, trực khuẩn Gram âm đường ruột, Listeria, Chlamydia trachomatis)",
+     "Mức độ: nặng vì tuổi dưới 2 tháng, thở 66 l/p (ngưỡng ≥ 60), rút lõm lồng ngực, bú kém; chưa suy hô hấp nặng (SpO₂ 93%, không tím, không thở rên, không ngưng thở)",
+     "Chưa có dấu hiệu viêm màng não (thóp phẳng, không li bì, không co giật); cần loại trừ nhiễm khuẩn huyết ở bệnh viện",
+     "Đã loại trừ trên lâm sàng và X-quang: lao, dị vật đường thở, tim bẩm sinh; viêm tiểu phế quản ít nghĩ",
+     "Không dị ứng hải sản qua sữa mẹ; mẹ lo sợ ung thư, cần giải thích và hỗ trợ tâm lý"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh đúng: lý do khám và diễn biến ho → bú (bỏ cữ, ngắt quãng) → thở (nhanh, phập phồng cánh mũi, rút lõm, rên, tím, ngưng thở) → sốt hoặc hạ thân nhiệt → dấu hiệu nguy hiểm (li bì, co giật) → sinh (nguy cơ nhiễm khuẩn sơ sinh) → tiếp xúc người ho, tiếp xúc lao → sặc, dị vật → thuốc đã dùng → mẹ lo lắng điều gì. Sau đó khám phổi, tim, toàn trạng, quan sát bú, rồi X-quang và máu, rồi quyết định (WHO 2013 mục 4.1).",
+     "Vì sao viêm phổi: trẻ ho kèm thở nhanh, rút lõm lồng ngực và ran nổ khu trú. Ngưỡng thở nhanh dưới 2 tháng là ≥ 60 l/p (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 1 phần 1; WHO 2013 mục 4.1, tr. 76; QĐ 101/2014 mục V.1). Bé thở 66 l/p, đã vượt.",
+     "Vì sao là viêm phổi NẶNG: dưới 2 tháng tuổi tự nó là tiêu chuẩn viêm phổi nặng (QĐ 3312 mục 1 phần 2; QĐ 101 mục V.2); QĐ 708/2015 mục 4.2 ghi tất cả viêm phổi ở trẻ dưới 2 tháng đều nặng và phải vào bệnh viện. Thêm vào đó bú kém, thở nhanh, rút lõm là các dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6, tr. 52). Ở trẻ lớn thở nhanh mà không rút lõm là viêm phổi không nặng, cho về uống amoxicillin: nếu áp dụng nguyên cách này cho bé 19 ngày là sai.",
+     "Vì sao không phải dị ứng hải sản: ho bắt đầu sau 1 ngày, kèm thở nhanh, bú kém, ran nổ khu trú một đáy phổi, CRP 34 mg/L, X-quang đông đặc; không mày đay, không nôn, không phân nhầy máu. Việc mẹ ăn hải sản chỉ trùng thời điểm; nguồn lây hợp lý là bà ngoại và bố đang ho. Tiêu chuẩn dị ứng thức ăn của mẹ qua sữa mẹ: không có trong tài liệu đã tải.",
+     "Vì sao loại trừ lao: ho 3 ngày (lao nghĩ khi ho trên 14 ngày, tiếp xúc người bệnh lao, chậm tăng cân: WHO 2013 Bảng 6, tr. 79), không tiếp xúc nguồn lây (bà nội mất vì ung thư phổi có sinh thiết), bé tăng cân tốt (3,15 → 3,50 kg). Tiền sử tiếp xúc nguồn lây là yếu tố quan trọng khi chẩn đoán lao trẻ em (QĐ 162/2024 mục 3.4.1 c). Hỏi rõ vì mẹ kể bà nội ho rồi mất: phải hỏi được chẩn đoán xác định là ung thư có sinh thiết, không phải lao.",
+     "Vì sao loại trừ dị vật: bé 19 ngày chỉ bú mẹ, không sặc đột ngột, không thở rít, không ran rít một bên; X-quang không ứ khí, xẹp phổi hay lệch trung thất (WHO 2013 Bảng 6 tr. 79; mục 4.7.3 tr. 119: nghĩ dị vật khi sặc đột ngột hoặc viêm phổi thùy không đáp ứng kháng sinh).",
+     "Vì sao khó loại hẳn viêm tiểu phế quản: bé có triệu chứng hô hấp trên trước ho, sau hai người trong nhà bị cảm; bé còn nhỏ. Điểm phân biệt: ran nổ khu trú một đáy phổi, không khò khè, không ứ khí, CRP cao, X-quang đông đặc thùy (WHO 2013 mục 4.5.1 tr. 94: khò khè, ứ khí, ran nổ nhỏ hạt và khò khè lan tỏa). Hướng xử trí giống nhau: sơ sinh bú kém, thở nhanh, rút lõm phải nhập viện (WHO 2013 tr. 75, mục 3.6; QĐ 708 mục 4.2); WHO 4.5.1 điều trị bội nhiễm như viêm phổi khi có thở nhanh hay suy hô hấp.",
+     "Vì sao CRP, bạch cầu, X-quang chỉ có ích: bạch cầu và CRP thường tăng khi viêm phổi vi khuẩn, bình thường nếu do virus (QĐ 101 mục VI.2); X-quang cho viêm phổi nặng hoặc chẩn đoán chưa rõ (WHO 2013 mục 4.1, tr. 77). Chẩn đoán chủ yếu dựa vào lâm sàng (QĐ 3312 mục 1): tuổi đã đủ để nhập viện, không chờ kết quả rồi mới quyết.",
+     "Vì sao KHÔNG chỉ định CT ngực, Xpert, IGRA: không có chỉ định lâm sàng và không đổi xử trí hôm nay (xem từng mục ở phần cận lâm sàng).",
+     "Vì sao ngưỡng nhập viện thấp: sơ sinh bệnh nặng có dấu hiệu không đặc hiệu (bú kém, li bì, không sốt) và xấu nhanh (WHO 2013 mục 3.6, tr. 52). Tỉ lệ xấu đi cụ thể: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: nhập viện ngay (QĐ 708 mục 4.2, 5.3a; QĐ 3312 mục 4 phần 2; QĐ 101 mục VII.2). Điều trị viêm phổi nặng là tại bệnh viện; phòng khám ngoại trú không có giường theo dõi, oxy và kháng sinh tiêm liên tục, nên vai trò của phòng khám là nhận ra, cho liều đầu và chuyển an toàn.",
+     "Kháng sinh: ampicillin cộng gentamicin tiêm (WHO 2013 mục 3.8, 3.14; QĐ 3312 mục 4 phần 2.3; QĐ 101 mục VII.2.2). Ampicillin 50 mg/kg/lần: mỗi 8 giờ ở tuần 2–4 tuổi (WHO 2013 tr. 69) hoặc mỗi 6 giờ, 200 mg/kg/24 giờ (QĐ 3312, QĐ 101) hoặc 100–150 mg/kg/ngày (QĐ 708 mục 5.3a); gentamicin 7,5 mg/kg một lần/ngày (WHO tr. 71; QĐ 3312; QĐ 101) hoặc 5–7,5 mg/kg/ngày (QĐ 708), 4 mg/kg mỗi 24 giờ theo AAP 2021 Bảng 3 là con số thận trọng hơn. Thời gian: ít nhất 5 ngày (QĐ 3312, QĐ 101), 5–10 ngày (QĐ 708 mục 5.3a), ít nhất 7–10 ngày cho nhiễm khuẩn nặng sơ sinh (WHO 2013 mục 3.8). Các nguồn chồng nhau, không nguồn nào nói cách kia gây hại; bệnh viện quyết liều ngày và số ngày.",
+     "Liều đầu rồi chuyển hoặc chuyển ngay để lấy bệnh phẩm trước kháng sinh: cả hai đều đúng (QĐ 2341 Bảng kiểm 1 mục 19a so với WHO 2013 mục 3.8). Bé tỉnh, SpO₂ 93%, bệnh viện gần: chọn cách nào cũng được, quan trọng là không trì hoãn chuyển để chờ kết quả cận lâm sàng.",
+     "Oxy: chỉ khi SpO₂ ≤ 90% (WHO) hoặc < 90% (QĐ 3312, QĐ 101) hay có dấu suy hô hấp nặng; bé 93% chưa cần nhưng phải theo dõi SpO₂ liên tục (WHO 2013 mục 3.10.3).",
+     "Giữ ấm, bú mẹ, đề phòng hạ đường huyết khi chuyển (QĐ 2341 Bảng kiểm 1 mục 19a; WHO 2013 mục 3.10.1–3.10.2). Không dùng paracetamol (WHO 2013 mục 3.10.4); bé 37,9 °C chưa tới 38,5 °C của QĐ 3312.",
+     "Không cho amoxicillin uống về nhà, không thuốc ho, không ngưng sữa mẹ (xem mục chấm w).",
+     "Giao tiếp: gọi tên nỗi sợ ung thư, nói thẳng đây là viêm phổi vi khuẩn chữa được ở bệnh viện, mẹ không gây ra bệnh bằng hải sản.",
+     "Kết cục tốt không biện minh cho quy trình sai: nếu bé được cho về hôm nay và 'không sao', đó là may mắn, không phải quy trình đúng (xem neu_sai)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ampicillin (lọ tiêm)",
+      "ham_luong": "Lọ 250 mg hoặc 500 mg, pha nước cất theo hướng dẫn nhà sản xuất",
+      "lieu": "50 mg/kg × 3,5 kg ≈ 175 mg",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một liều ngay tại phòng khám, trước khi xe chuyển viện khởi hành (trừ khi chọn chuyển ngay để lấy bệnh phẩm trước kháng sinh)",
+      "so_ngay": "1 liều đầu; điều trị tại bệnh viện tối thiểu 5 ngày (QĐ 3312, QĐ 101), 5–10 ngày (QĐ 708) hoặc ít nhất 7–10 ngày (WHO 2013 mục 3.8)",
+      "ghi_chu": "WHO 2013 mục 3.14 (tr. 69): 50 mg/kg, tuần 2–4 tuổi mỗi 8 giờ; QĐ 3312 (mục 4 phần 2.3) và QĐ 101 (mục VII.2.2): 50 mg/kg mỗi 6 giờ (200 mg/kg/24 giờ); QĐ 708 (mục 5.3a): 100–150 mg/kg/ngày. 50 mg/kg mỗi lần chung cả bốn nguồn. Có thể thay bằng benzylpenicillin 50.000 U/kg (WHO mục 3.8, 3.14)."
+     },
+     {
+      "thuoc": "Gentamicin (ống tiêm)",
+      "ham_luong": "Ống 80 mg/2 ml; pha loãng đến 10 mg/ml (WHO 2013 tr. 71)",
+      "lieu": "7,5 mg/kg × 3,5 kg ≈ 26 mg (WHO, QĐ 3312, QĐ 101) hoặc 5–7,5 mg/kg ≈ 17,5–26 mg (QĐ 708) hoặc 4 mg/kg ≈ 14 mg (AAP 2021)",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một liều tại phòng khám cùng ampicillin",
+      "so_ngay": "1 liều đầu; tại bệnh viện mỗi 24 giờ, cùng thời gian với ampicillin",
+      "ghi_chu": "WHO 2013 mục 3.14 (tr. 71): 7,5 mg/kg một lần/ngày ở tuần 2–4; QĐ 708 mục 5.3a: 5–7,5 mg/kg/ngày; AAP 2021 Bảng 3: 4 mg/kg mỗi 24 giờ (cho sơ sinh sốt 8–21 ngày), thận trọng hơn về độc tính. Theo dõi chức năng thận, nồng độ thuốc ở sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Oxy (chỉ khi có chỉ định)",
+      "ham_luong": "Bình oxy y tế, gọng mũi sơ sinh",
+      "lieu": "0,5–1 l/p, tăng đến 2 l/p nếu suy hô hấp nặng; đích SpO₂ > 90%",
+      "duong": "Gọng mũi",
+      "thoi_diem": "Chỉ khi SpO₂ ≤ 90% (WHO) hoặc < 90% (QĐ 3312, QĐ 101), tím, rút lõm rất nặng, thở rên, bú không nổi vì khó thở; bé hiện 93% nên chưa cần",
+      "so_ngay": "Đến khi giữ SpO₂ > 90% ở khí trời (bệnh viện quyết)",
+      "ghi_chu": "WHO Pocket book 2013 mục 3.10.3 (tr. 58); QĐ 3312 (mục 4 phần 2.1); QĐ 101 (Phụ lục 2)."
+     }
+    ],
+    "dan_do": [
+     "Bé phải vào bệnh viện ngay hôm nay: viêm phổi ở trẻ dưới 2 tháng luôn là bệnh nặng, cần thuốc tiêm và theo dõi nhịp thở, SpO₂ (QĐ 708/2015 mục 4.2; QĐ 3312/2015 mục 1 phần 2). Mẹ đi cùng bé, mang sổ tiêm chủng và sổ khám thai.",
+     "Trên đường đi: ôm bé da kề da, giữ ấm, không để bé hạ thân nhiệt; cho bú nếu bé còn bú được (WHO 2013 mục 3.10.1–3.10.2; QĐ 2341 Bảng kiểm 1 mục 19a).",
+     "Không tự cho uống thuốc ho, thuốc dân gian, thuốc hạ sốt hay kiêng bú mẹ (WHO 2013 mục 4.4, 3.10.2, 3.10.4).",
+     "Dấu hiệu phải báo ngay cho nhân viên y tế trên đường đi: bé tím môi, ngưng thở, thở rên, li bì khó đánh thức, co giật, bỏ bú hoàn toàn, người lạnh (dưới 35,5 °C) hoặc sốt trên 38 °C (WHO 2013 mục 3.6, tr. 52).",
+     "Mẹ không có lỗi: ăn hải sản không gây viêm phổi này; bà ngoại và bố đang ho nên đeo khẩu trang, rửa tay khi chạm vào bé. Mẹ cứ nói với bác sĩ ở bệnh viện về nỗi lo bà nội; chồng nên được biết để cùng chia sẻ.",
+     "Vắt sữa mang vào viện nếu bé chưa bú được (WHO 2013 mục 3.10.2).",
+     "Sau khi ra viện: tiêm chủng đúng lịch theo hướng dẫn của bệnh viện và điểm tiêm chủng; ngày giờ cụ thể các mũi: không có trong tài liệu đã tải. Hẹn tái khám sau ra viện: do bệnh viện quyết."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được tiêm liều ampicillin và gentamicin đầu rồi chuyển bằng xe có nhân viên y tế đến khoa Sơ sinh – Nhi. Tại viện, cấy máu âm tính sau 48 giờ; bé tiếp tục kháng sinh tiêm đủ liệu trình, sau vài ngày hết thở nhanh, bú lại bình thường, SpO₂ 98% khí trời rồi ra viện. Mẹ nói được nỗi sợ ung thư với bác sĩ và với chồng. Điều cần nhớ: hôm trước dì Hạnh khuyên theo dõi thêm một ngày và bé 'may mắn không sao qua đêm', nhưng bé 19 ngày thở 66 l/p, rút lõm, bú kém thì ngày đó đã là ngày nguy hiểm; kết cục tốt không biến cách xử trí đó thành đúng.",
+ "nhieu": [
+  "Mẹ ăn hải sản trước khi bé ho: trùng thời điểm, đánh lạc hướng sang dị ứng qua sữa mẹ; không có mày đay, nôn hay phân nhầy máu, và dấu hiệu viêm phổi rõ.",
+  "Bà ngoại ho và bố cảm nhẹ: nguồn lây hợp lý, không phải tiếp xúc lao.",
+  "Bà nội mất vì ung thư phổi: dễ khiến bác sĩ liên tưởng lao hoặc bệnh phổi nặng; phải hỏi cho được chẩn đoán xác định có sinh thiết.",
+  "Ngưỡng SpO₂ 93%: cao hơn mọi ngưỡng cho oxy, dễ lầm là 'chưa nặng'; nhập viện do tuổi, bú kém, thở nhanh, rút lõm chứ không do SpO₂.",
+  "Lời khuyên của dì điều dưỡng: tạo cảm giác an toàn giả."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh dưới 2 tháng bị viêm phổi thì luôn là viêm phổi nặng: nhập viện, kháng sinh tiêm, không dùng phác đồ amoxicillin uống của trẻ lớn (QĐ 708/2015 mục 4.2; QĐ 3312 mục 1 phần 2).",
+  "Ca điển hình, giá trị ở sự chặt chẽ: hỏi đủ bú, thở, nguy hiểm, nguồn lây, lao, dị vật; không chờ cận lâm sàng mới quyết định nhập viện.",
+  "Mẹ hợp tác tốt không có nghĩa mẹ nói ra hết: nỗi sợ ung thư chỉ lộ khi bác sĩ hỏi 'chị lo nhất điều gì' (câu hỏi động cơ ẩn).",
+  "Không thêm xét nghiệm không đổi xử trí: CT ngực, Xpert, IGRA; nguồn lực đầy đủ không có nghĩa là làm hết.",
+  "Xử trí ẩu mà may mắn không sao (lời khuyên 'theo dõi thêm một ngày') không hợp thức hóa quy trình sai.",
+  "Cặp tương phản với NH-0540 (viêm tiểu phế quản): cùng sơ sinh ho, thở nhanh; ca này ran nổ khu trú một đáy phổi, không khò khè, CRP cao, X-quang đông đặc thùy."
+ ],
+ "diem_nho": [
+  "Viêm phổi: ho, sốt kèm thở nhanh (dưới 2 tháng ≥ 60 l/p; 2–< 12 tháng ≥ 50; 1–5 tuổi ≥ 40; trên 5 tuổi ≥ 30), rút lõm lồng ngực hoặc phổi có ran; viêm phổi nặng khi thêm bỏ bú, rối loạn tri giác, co giật, thở rên, tím hoặc SpO₂ < 90%, hoặc trẻ dưới 2 tháng (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 1).",
+  "Mọi viêm phổi ở trẻ dưới 2 tháng đều là nặng và phải vào bệnh viện; ampicillin 100–150 mg/kg/ngày cộng gentamicin 5–7,5 mg/kg/ngày, 5–10 ngày (QĐ 708/2015 mục 4.2, 5.3a); hoặc ampicillin 50 mg/kg mỗi 6 giờ cộng gentamicin 7,5 mg/kg một lần/ngày, ít nhất 5 ngày (QĐ 101/2014 mục VII.2.2).",
+  "Dấu hiệu nguy hiểm ở sơ sinh: bú kém, co giật, li bì, thở ≥ 60 l/p, thở rên, rút lõm nặng, nhiệt > 38 °C hoặc < 35,5 °C, tím (WHO Pocket book 2013 mục 3.6, tr. 52); xử trí khẩn: nhập viện, ampicillin và gentamicin, đường huyết nếu li bì (mục 3.6, 3.8).",
+  "Oxy cho sơ sinh khi SpO₂ ≤ 90%, tím, rên mỗi nhịp, rút lõm nặng, khó bú vì khó thở; gọng mũi 0,5–1 l/p (WHO 2013 mục 3.10.3, tr. 58).",
+  "Không dùng paracetamol để kiểm soát sốt ở trẻ nhỏ dưới 2 tháng; kiểm soát môi trường (WHO 2013 mục 3.10.4, tr. 58).",
+  "Nghĩ lao khi ho trên 14 ngày, tiếp xúc người bệnh lao, chậm tăng cân (WHO 2013 Bảng 6, tr. 79); dị vật khi sặc đột ngột hoặc viêm phổi thùy không đáp ứng kháng sinh (WHO 2013 mục 4.7.3, tr. 119)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em (mục 1–4, tr. 262–265)",
+  "QĐ 101 – Bộ Y tế, QĐ 101/2014, Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: toàn văn mục IV–VII (bản chữ chất lượng OCR trung bình)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Sử dụng kháng sinh điều trị viêm phổi cộng đồng ở trẻ em, mục 4.2–4.4, 5.3a (tr. 102–105)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6, 3.8, 3.10.1–3.10.4, 3.14 (tr. 52–58, 69–71); mục 4.1 và Bảng 6 (tr. 76–79); mục 4.4 (tr. 90–91); mục 4.5.1 (tr. 94); mục 4.7.3 (tr. 119)",
+  "QĐ 2341 – Bộ Y tế, QĐ 2341/QĐ-BYT 2024, Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) – kho tltk-10000-ca (bản chữ OCR) – ĐÃ ĐỌC: mục 2.2.2, Phụ lục 2, Phụ lục 4 Bảng kiểm 1 mục 19a",
+  "QĐ 162 – Bộ Y tế, QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – ĐÃ ĐỌC: mục 3.4.1 (lưu ý chẩn đoán lao ở trẻ em: bệnh phẩm, tiền sử tiếp xúc, CT)",
+  "AAP 2021 – Evaluation and management of well-appearing febrile infants 8 to 60 days old – TL-0261 – ĐÃ ĐỌC: Bảng 3 và chú thích (liều gentamicin 4 mg/kg; ghi chú khi có ổ nhiễm trùng như viêm phổi dùng phác đồ theo ổ)",
+  "NICE NG143 (2021, TL-0262) mục 1.6.4–1.6.6 và NICE NG9 (2021, TL-0260) mục 1.4.4 – THAM CHIẾU qua sổ mâu thuẫn NH-1378, NH-0582 (chưa mở lại bản chữ)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC phần Population of interest: khuyến cáo viêm phổi chỉ cho 2–59 tháng; dưới 2 tháng thuộc hướng dẫn nhiễm khuẩn nặng ở young infants (WHO 2015, chỉ có tên, không có toàn văn)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: khoảng tham chiếu công thức máu, CRP, procalcitonin sơ sinh; lịch tiêm chủng chi tiết; xét nghiệm dị ứng thức ăn của mẹ qua sữa mẹ; liều paracetamol an toàn cho sơ sinh; theo dõi nồng độ gentamicin; WHO 2015 nhiễm khuẩn nặng ở young infants."
+ ],
+ "phien_ban_ca": "1 – soát nguồn với kho tài liệu (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "2026-11-08: viết ca NH-0586, 1 lượt. Đặc tả sổ cái: sơ sinh 0–28 ngày, điển hình, không bẫy, nguồn lực đầy đủ (khoa_cls null), mẹ hợp tác tốt, khởi phát sau mẹ ăn hải sản, lý do thật là sợ ung thư (bà nội mất vì ung thư phổi), kết cục 'xử trí ẩu nhưng may mắn không sao' (lời khuyên theo dõi thêm một ngày của dì điều dưỡng, nêu ở su_that dt_di_hanh, ket_cuc, bai_hoc_bien và neu_sai.ve_hen).",
+  "Tài liệu đã đọc: TL-0037 (QĐ 3312, viêm phổi do vi khuẩn mục 1–4, tr. 262–265); TL-0243 (QĐ 101/2014 mục IV–VII); TL-0015 (QĐ 708 mục 4.2–4.4, 5.3a); TL-0250 (WHO 2013 mục 3.6, 3.8, 3.10, 3.14, 4.1, 4.4, 4.5.1, 4.7.3, Bảng 6); QĐ 2341/2024 (IMCI, kho cũ); TL-0123 (QĐ 162/2024 mục 3.4.1); TL-0261 (AAP 2021 Bảng 3).",
+  "Mâu thuẫn: áp dụng đúng các mục cũ trong tai-lieu/mau_thuan.md: NH-0598 mục 1 (liều ampicillin, gentamicin, thời gian cho viêm phổi dưới 2 tháng), mục 2 (viêm phổi dưới 2 tháng phải nhập viện), mục 3 (ngưỡng SpO₂); NH-1378 mục 1–3 (kháng sinh sơ sinh, liều đầu rồi chuyển hay chuyển ngay, thuốc hạ sốt); NH-0582 (oxy 90–92% dưới 6 tuần, SpO₂ 93% không rơi vào khoảng này); NH-0619 mục 2 (X-quang). Ghi nhận mới nhỏ: ngưỡng thở nhanh dưới 2 tháng '≥ 60 l/p' (QĐ 3312, WHO 2013) so với '> 60 l/p' (QĐ 101 bản chữ OCR); bé 66 l/p vượt cả hai nên không cần chọn.",
+  "Thiếu tài liệu: WHO 2015 (nhiễm khuẩn nặng ở young infants) chỉ có tên, không có toàn văn; khoảng tham chiếu xét nghiệm sơ sinh; lịch tiêm chủng; chỉ định xét nghiệm virus ở sơ sinh.",
+  "Âm thanh: phổi ran nổ nhỏ hạt AT-PHOI-RAN-NO-01 (đáy phải) và AT-PHOI-BT-NL-01 (đáy trái); tim AT-TIM-NHANH-01 (mạch 152 l/p, tệp khoảng 115 l/p theo quy ước mạch ≥ 100)."
+ ]
+}
