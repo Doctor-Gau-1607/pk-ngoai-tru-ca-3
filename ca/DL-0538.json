@@ -1,0 +1,636 @@
+{
+ "ma_ca": "DL-0538",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_vay_nen_the_dong_tien",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Vảy nến",
+  "chan_doan_phai_loai_tru": [
+   "Viêm da tiết bã",
+   "Nấm da",
+   "Lupus"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hưu trí (giáo viên tiểu học về hưu)",
+  "yeu_to_khoi_phat": "Sau sinh (lần đầu nổi bệnh sau sinh con đầu; đợt này tái phát do căng thẳng)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (diclofenac)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (của cháu gái ngoại mới sinh)"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Sáu",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Hưu trí, giáo viên tiểu học về hưu; sống cùng con gái, hay tự mua thuốc ở tiệm thuốc gần nhà",
+  "can_nang": 47,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi' (giọng cô giáo cũ) hoặc 'bà', gọi bác sĩ là 'bác sĩ'; gọi cháu ngoại là 'con bé Thảo', con gái là 'con Hà'.",
+  "tinh_cach": "Cẩn thận, hay nhắc kinh nghiệm cũ ('hồi trẻ nổi lở là tiêm vài mũi hết'), lo xa, lịch sự nhưng cứng đầu khi đã tin điều gì; sợ kim, sợ phiền con; ít kể điều thật lòng trừ khi được hỏi nhẹ nhàng; nghe hơi kém.",
+  "kieu_nhieu": "Đòi kháng sinh: tin nổi lở, ngứa là nhiễm trùng, đã tự uống amoxicillin, xin 'liều kháng sinh mạnh mạnh'; nghe nỗi lo thật (cháu) rồi giải thích từng bước. Kèm từ chối rút máu, cạo vảy: giải thích một lần, ghi nhận, không ép.",
+  "nguoi_nha": "Con gái, chị Hồ Thị Thu Hà, 52 tuổi, đưa mẹ đi, nhắc 'mẹ nghe bác sĩ đi', gợi ý thử máu nhưng không ép; không biết mẹ giấu uống diclofenac.",
+  "ten_nguoi_nha": "Con gái (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#e6c3a0",
+   "toc": "#e8e8e4",
+   "kieuToc": "ngan",
+   "ao": "#7a6a8c",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b48c",
+    "toc": "#1f1710",
+    "kieuToc": "dai",
+    "ao": "#4f7a6b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Ngứa nhiều, nổi mảng đỏ bong vảy ở lưng, bụng, hai chân 2 tháng; bà muốn xin kháng sinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Sáu, 78 tuổi, giáo viên tiểu học về hưu, được con gái (chị Hồ Thị Thu Hà) đưa đến phòng khám đa khoa lúc 8 giờ 30 sáng thứ Ba vì ngứa nhiều và nổi mảng đỏ bong vảy ở lưng, bụng, hai cẳng chân khoảng 2 tháng nay, ngày một nhiều. Tiền sử tăng huyết áp 8 năm, đau gối, đang uống thuốc huyết áp và thuốc giảm đau tự mua. Sinh hiệu: mạch 78 l/p, HA 148/84 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 47 kg, chiều cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện là quá tay: vảy nến nhẹ (BSA khoảng 6%, PASI ước 5, DLQI 8), không sốt, không đỏ da toàn thân, không mụn mủ, điều trị ngoại trú bằng thuốc bôi (QĐ 4416/2023, Vảy nến mục 2.5, sơ đồ điều trị). Bà sợ kim, sợ bị 'giữ lại rút máu'; nằm viện ở tuổi 78 dễ mất ngủ, lú lẫn, ngã; chị Hà phải nghỉ làm trông.",
+    "chuyen_tuyen": "Chuyển tuyến ngay để sinh thiết, xét nghiệm tự miễn hay thuốc toàn thân là chưa cần: chẩn đoán chủ yếu lâm sàng (QĐ 4416/2023, Vảy nến mục 2.3); thuốc toàn thân, quang trị liệu dành cho thể vừa – nặng hoặc đáp ứng kém thuốc bôi (sơ đồ điều trị). Bà chưa thử thuốc bôi, đi lại xa mất một ngày, càng sợ xét nghiệm, dễ bỏ luôn điều trị.",
+    "theo_doi": "Chỉ trấn an 'tuổi già da khô', không cho thuốc bôi: mảng lan thêm, bà gãi trầy mất ngủ (ngứa phải gãi là tiêu chí nâng mức: S3 2026, II-1), vẫn tìm mua kháng sinh, thuốc nam không rõ thành phần, là yếu tố làm bệnh bùng (QĐ 75/2015, yếu tố thuận lợi). Nỗi lo cho cháu không được giải đáp nên bà không yên tâm."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi ngứa quá, đêm nào cũng gãi không ngủ được. Da lưng, da chân nổi lở lên từng chỗ... Chắc là nhiễm trùng rồi, bác sĩ cho tôi liều thuốc kháng sinh mạnh mạnh cho nó hết nghe.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "148/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ngứa nhiều về đêm, nổi chấm, mảng đỏ vảy mỏng ở lưng, bụng, hai cẳng chân khoảng 2 tháng, nhiều dần; bà gãi trầy, mất ngủ. Bà nghĩ da nhiễm trùng, muốn xin kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, tổn thương chính, mong muốn kháng sinh (nhiễu)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai khuỷu thỉnh thoảng bong vảy khô từ lâu, bà tưởng da khô tuổi già. Hai tháng nay trời lạnh, tắm nước nóng xà phòng thơm hằng ngày, ngứa dữ, nổi thêm nhiều mảng tròn nhỏ ở lưng, bụng, cẳng chân. Không chảy dịch, mụn nước, mủ, đau, sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến mạn tính, đợt bùng phát gần đây; không dấu nhiễm khuẩn"
+    },
+    {
+     "id": "tien_su_vay_nen",
+     "noi_dung": "Năm 25 tuổi, khoảng 6 tuần sau sinh con đầu, bà nổi mảng đỏ bong vảy ở khuỷu, đầu gối; bôi thuốc mỡ ở trạm xá thì êm. Sau sinh đứa thứ hai nổi lại một đợt nhẹ. Nhiều năm sau, mùa lạnh thỉnh thoảng nổi vài mảng ở khuỷu rồi tự lui. Chưa ai gọi tên bệnh ('da khô, á sừng'). Mảng ở lưng, bụng, chân là lần đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau sinh; tiền sử vảy nến chưa được chẩn đoán; tái phát"
+    },
+    {
+     "id": "tinh_chat",
+     "noi_dung": "Vảy mỏng, trắng, khô, gãi rơi như bột; mảng tròn 1–3 cm rải rác, ít nối nhau. Ngứa tăng về đêm và sau tắm nước nóng. Không vảy vàng, mủ, nóng đỏ, quầng quanh mảng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tổn thương (thể đồng tiền, không điển hình ở tuổi này)"
+    },
+    {
+     "id": "da_dau_mong",
+     "noi_dung": "Da đầu 'gàu' mỏng, hơi dày ở đỉnh nhiều năm, gội dầu trị gàu không hết, không rụng tóc mảng. Móng tay 3 móng có chấm lõm nhỏ; không đổi màu, dày, tách.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Da đầu, móng (phân biệt viêm da tiết bã, nấm)"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Đau âm ỉ hai gối khi leo cầu thang, nghỉ thì đỡ, vài năm nay. Ngón tay, ngón chân không sưng, không đau; sáng dậy cứng khớp chưa tới 10 phút. Không đau gót.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát viêm khớp vảy nến; đau gối do thoái hóa (lý do dùng thuốc giảm đau)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, sụt cân, ban hai má, loét miệng, nhạy nắng, rụng tóc mảng; tiểu bình thường. Ăn ngủ kém vì ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Toàn thân, nắng, niêm mạc (loại trừ lupus)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Amlodipin 5 mg buổi sáng cho huyết áp 8 năm. Đau gối thì tự mua viên 'giảm đau xương khớp' (vỉ ghi diclofenac 50 mg), uống 1–2 viên/ngày gần 3 tháng, không kèm thuốc dạ dày. Không corticoid uống hay tiêm, thuốc nam, thuốc bắc. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (thuốc giảm đau khớp tự mua), tránh corticoid toàn thân; nguy cơ ở người cao tuổi"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Tuần trước bà tự mua amoxicillin 500 mg, uống 5 viên, không đỡ nên thôi. Bà tin 'nổi lở phải tiêm kháng sinh mới hết': hồi trẻ mỗi lần nổi mảng ở khuỷu đều được tiêm vài mũi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: đòi kháng sinh; thuốc tự mua"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra bà lo cho cháu ngoại Thảo, 31 tuổi, sinh bé 3 tháng, 3 tuần nay nổi mảng đỏ bong vảy ở khuỷu. Bà sợ bệnh của mình 'di truyền', sợ làm cháu khó có thêm con (bà chỉ sinh 2 con, nghĩ bệnh làm mình 'yếu tử cung'), sợ lây cho bé; cháu đang tính sinh thêm em. Bà đến để 'uống thuốc mạnh cho hết hẳn, cháu khỏi lo'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự nói. Chỉ kể khi bác sĩ hỏi bà lo nhất điều gì, ở nhà còn ai bị nổi mảng tương tự, hoặc bà mong gì hôm nay.",
+     "k": 1,
+     "y": "Lý do thật: lo khả năng sinh sản và di truyền của cháu"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Chị Hà gợi ý thử máu. Bà từ chối rút máu, chích đầu ngón, cạo vảy gửi xét nghiệm: sợ kim, lần trước rút máu bầm cả tuần, 'già rồi thử máu làm chi'. Bà cho nhìn, soi, khám kỹ; chấp nhận cạo nhẹ vảy tại giường khi khám.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 0,
+     "y": "Ràng buộc: bệnh nhân từ chối xét nghiệm; quyền tự quyết, phương án B"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Lưng, bụng, hai cẳng chân (mặt ngoài): khoảng 25–30 mảng tròn hoặc bầu dục 1–3 cm, nền đỏ nhạt, ranh giới rõ, vảy trắng mịn mỏng, rải rác, ít nối nhau; vài mảng 3 cm ở cẳng chân phải. Hai khuỷu: mảng 3 × 3 cm vảy khô. Nhiều vết xước do gãi; không mụn nước, mụn mủ, vảy tiết vàng, quầng đỏ, không nóng. Da khô mỏng, đồi mồi ở mu tay, cẳng chân. Nếp dưới vú, bẹn, nách sạch. BSA ước (một bàn tay ≈ 1%): thân 3% + hai cẳng chân 2% + khuỷu 0,5% + da đầu 0,5% ≈ 6%; PASI ước 5; DLQI ước 8 (ngứa mất ngủ, ngại tắm chung).",
+     "k": 1,
+     "hien": "Lưng, bụng: nhiều mảng tròn nhỏ 1–3 cm nền đỏ nhạt phủ vảy mỏng, rải rác. Hai cẳng chân (ảnh): mảng tròn 1–3 cm, vài mảng 3 cm ở chân phải. Hai khuỷu tay: mảng 3 × 3 cm vảy khô. Nhiều vết gãi. Không mụn nước, mụn mủ, chảy dịch hay quầng đỏ. Nếp gấp: không tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng chân phải (mặt ngoài)",
+       "id": "HA-DA-0146",
+       "chu": "Các mảng tròn nền đỏ nhạt, ranh giới rõ, phủ vảy trắng mỏng, rải rác ở mặt ngoài cẳng chân."
+      }
+     ]
+    },
+    "da_dau_mong": {
+     "a": "Da đầu: mảng đỏ vảy trắng khá dày 3 × 4 cm ở đỉnh, ranh giới rõ; không rụng tóc; trán, thái dương, sau tai sạch. Móng tay: 6 chấm lõm nhỏ trên móng ngón I, II, III phải (rỗ móng); không tách móng, dày sừng dưới móng. Móng chân bình thường.",
+     "k": 1
+    },
+    "cao_vay_brocq": {
+     "a": "Cạo nhẹ bằng thìa nạo cùn ở một mảng cẳng chân: vảy bong thành lát trắng đục như bột nến (Brocq dương tính), rồi màng bong mỏng, dưới là nền đỏ bóng rớm vài điểm máu (hạt sương máu, dấu Auspitz). Không mủ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Mặt không ban cánh bướm; lông mày, rãnh mũi má, sau tai không vảy nhờn; miệng không loét; tóc rụng đều, không mảng teo, không sẹo. Không sờ thấy hạch cổ, nách, bẹn.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Khớp ngón tay, ngón chân, cổ tay không sưng nóng, ấn không đau; không ngón sưng cả ngón. Hai gối lạo xạo, ấn đau nhẹ khe khớp trong, không tràn dịch. Điểm bám gân gót, Achilles không đau. Cột sống thắt lưng cúi ngửa bình thường.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "soi_da": {
+     "v": "a",
+     "r": "Mạch máu dạng chấm sắp xếp đều trên nền đỏ, phủ vảy trắng.",
+     "n": "Chấp nhận, không bắt buộc: gợi vảy nến (QĐ 4416, Vảy nến mục 2.2); chẩn đoán chủ yếu lâm sàng (mục 2.3). Bà cho làm."
+    },
+    "soi_nam": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Sáu từ chối: 'Già rồi thử máu làm chi.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "thay_the": "soi_da",
+     "n": "Không bắt buộc: soi tươi tìm sợi nấm (QĐ 4416, Bệnh da do nấm sợi mục 2.2); mảng vảy kín, không lành giữa, có Brocq, da đầu, móng. Bà từ chối: thay bằng soi da, soi tươi khi tái khám nếu không đỡ. Bà từ chối: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B lâm sàng (thủ tục ghi: không có trong tài liệu đã tải)."
+    },
+    "glu": {
+     "v": "u",
+     "ab": 0,
+     "r": "(Bà Sáu từ chối: 'Già rồi thử máu làm chi.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Nên làm: glucose, mỡ máu, men gan, công thức máu, creatinin thuộc tầm soát chuyển hóa (QĐ 4416, Vảy nến mục 2.2, 3.1); bà dùng diclofenac dài ngày nên men gan, creatinin càng có ích; không cần để chọn thuốc bôi hôm nay. Bà từ chối: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B lâm sàng (thủ tục ghi: không có trong tài liệu đã tải)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Vảy nến thể thông thường, thể đồng tiền – mảng nhỏ (1–3 cm), mức nhẹ (BSA ≈ 6%, PASI ước 5, DLQI 8), có tổn thương da đầu, rỗ móng, ngứa phải gãi (tiêu chí nâng mức của S3 2026); khởi phát lần đầu sau sinh năm 25 tuổi, tái phát sau nhiều năm êm; chưa có viêm khớp vảy nến",
+     "ok": 1,
+     "n": "Mảng đỏ ranh giới rõ, vảy trắng, khuỷu, mặt duỗi chi, rỗ móng (QĐ 4416/2023, Vảy nến mục 2.1); thể đồng tiền 1–3 cm, Brocq dương tính (QĐ 75/2015, chẩn đoán thể, chẩn đoán xác định); chủ yếu lâm sàng (QĐ 4416 mục 2.3). Nhẹ khi PASI, DLQI, BSA < 10 (QĐ 4416 mục 2.5, sơ đồ) và ≤ 10 (S3 2026, II-1): cùng xếp nhẹ; S3 2026 thêm tiêu chí nâng mức 'ngứa phải gãi' (II-1, III-3): đặt mục tiêu riêng, chỉnh thuốc nếu cần, không bắt buộc thuốc toàn thân. Khởi phát sau sinh: không có trong tài liệu đã tải (chỉ ghi stress, chấn thương, nhiễm khuẩn, thuốc: QĐ 4416 mục 1.3). ICD-10 L40.0."
+    },
+    {
+     "t": "Viêm da tiết bã (viêm da dầu)",
+     "n": "Vảy, đỏ da ở vùng nhiều tuyến bã: da đầu, mặt, thân trên (QĐ 4416, Viêm da dầu mục 1.1, 2.1). Bà: mặt, rãnh mũi má, sau tai sạch, vảy khô không nhờn, có Brocq, rỗ móng, mảng cẳng chân, khuỷu."
+    },
+    {
+     "t": "Nấm da (nấm thân)",
+     "n": "Mảng tròn hoặc nhiều cung, lành giữa, ngứa nhiều (QĐ 4416, Bệnh da do nấm sợi mục 2.1); soi tươi (mục 2.2). Bà: mảng nhỏ vảy kín, không lành giữa, đối xứng, có da đầu, móng; từ chối soi tươi nên loại bằng lâm sàng, soi da; soi tươi khi tái khám nếu không đỡ. Corticoid bôi có thể làm nặng nấm (AAD-NPF 2021, mục corticoid bôi, tác dụng không mong muốn)."
+    },
+    {
+     "t": "Lupus ban đỏ (dạng đĩa, bán cấp hoặc hệ thống)",
+     "n": "Dạng đĩa: mảng đỏ vảy dính, chậm lành, sẹo; bán cấp: dát sẩn bong vảy dạng 'vảy nến'; nhạy nắng (QĐ 4416, Lupus ban đỏ hệ thống mục 2.1.2). Bà: không nhạy nắng, ban má, loét miệng, rụng tóc mảng, sẹo; không làm ANA (EULAR/ACR 2019)."
+    },
+    {
+     "t": "Viêm khớp vảy nến",
+     "n": "Chưa có: không sưng khớp, không ngón khúc dồi, viêm điểm bám gân (QĐ 361/2014, Viêm khớp vảy nến mục 2.1). 10–30% người vảy nến có, 80% sau tổn thương da (mục 1): khám khớp mỗi lần tái khám."
+    },
+    {
+     "t": "Ngứa da do khô (tuổi già) và nhiễm khuẩn da bội nhiễm (chốc)",
+     "n": "Da khô làm ngứa nặng thêm nhưng không giải thích Brocq, rỗ móng. Không bội nhiễm: không mủ, vảy vàng, nóng đỏ, sốt (QĐ 4416, Bệnh chốc mục 2.1); sơ đồ vảy nến không có kháng sinh (mục 3.2)."
+    },
+    {
+     "t": "Tăng huyết áp, thoái hóa khớp gối đang dùng NSAID tự mua (bệnh nền)",
+     "ok": 1,
+     "n": "Người cao tuổi, tăng huyết áp: acetaminophen < 3 g/ngày, tránh NSAID nếu có thể (QĐ 361/2014, Phụ lục NSAID mục 3.3). NSAID liên quan bùng phát vảy nến: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Trấn an có cấu trúc, gọi đúng tên bệnh: vảy nến thể đồng tiền mức nhẹ, bệnh viêm mạn từng đợt, kiểm soát được; không phải nhiễm trùng; giải thích bà từng bị từ sau sinh",
+     "v": "c",
+     "n": "QĐ 4416/2023 (Vảy nến mục 1.1, 3.1); QĐ 75/2015 (mục 4a: chưa có thuốc chữa khỏi hẳn). 'Không lây': không có nguyên văn trong tài liệu đã tải; cơ chế miễn dịch, di truyền, môi trường (QĐ 4416 mục 1.3)."
+    },
+    {
+     "t": "Thuốc bôi thân, chân, da đầu: calcipotriol + betamethason dipropionat (mỡ cho thân, gel cho da đầu) 1 lần/ngày, tối đa 4 tuần; hoặc corticoid bôi tầm trung (class 3–5, có thể kèm salicylic acid) 1–2 lần/ngày, tối đa 4 tuần",
+     "v": "c",
+     "n": "Hai cách cùng đúng, khác nguồn lực. Thể nhẹ: thuốc bôi (QĐ 4416, sơ đồ điều trị); calcipotriol + corticoid 1 lần/ngày, mỡ cho thân, gel cho da đầu (mục 3.2.1; AAD-NPF 2021 khuyến cáo 3.2, 3.4, 3.5); corticoid 1–2 lần/ngày, mức thấp nhất kiểm soát được (QĐ 4416 mục 3.2.1); class 3–5 ngoài nếp gấp tới 4 tuần (AAD-NPF 2021 khuyến cáo 1.1), chọn hiệu lực theo tuổi, vị trí (mục corticoid bôi). Giá, BHYT: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dưỡng ẩm nhiều lần trong ngày, tắm nước ấm, xà phòng dịu, tránh gãi",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.2.1): giảm ngứa, ngăn Koebner; AAD-NPF 2021 khuyến cáo 5.1 (cùng corticoid bôi 4–8 tuần). Nước ấm, xà phòng dịu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngừng diclofenac tự mua; đau gối dùng paracetamol: dưới 3 g/ngày hoặc không quá 4 g/24 giờ",
+     "v": "c",
+     "n": "Người cao tuổi, gầy, tăng huyết áp: tránh NSAID nếu có thể, acetaminophen < 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); người lớn nói chung ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1): ghi cả hai, 3 g thận trọng hơn, hợp bà 47 kg, 78 tuổi."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích không có nhiễm khuẩn, kháng sinh không chữa vảy nến",
+     "v": "c",
+     "n": "Không mủ, vảy tiết vàng, nóng đỏ, sốt (QĐ 4416, Bệnh chốc mục 2.1); sơ đồ điều trị vảy nến không có kháng sinh (QĐ 4416 mục 3.2)."
+    },
+    {
+     "t": "Giải đáp nỗi lo về cháu: bệnh có yếu tố di truyền, không phải do 'yếu tử cung', cháu nên khám da liễu và hỏi bác sĩ về thuốc khi có thai, cho con bú",
+     "v": "c",
+     "n": "Di truyền (HLA-Cw6 ở 87%): QĐ 4416 mục 1.3. Corticoid bôi an toàn khi có thai nếu < 60 g/tuần (đồng thuận chuyên gia), vitamin D bôi dùng được nếu lợi hơn hại (AAD-NPF 2021, mục corticoid bôi, vitamin D); UVB dải hẹp dùng được cho phụ nữ có thai (QĐ 4416 mục 3.2.2). Vảy nến ảnh hưởng khả năng sinh con: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tôn trọng từ chối xét nghiệm: giải thích một lần vì sao nên làm (glucose, mỡ máu, men gan, công thức máu, creatinin), ghi từ chối vào hồ sơ, quyết định thuốc bôi bằng lâm sàng, hẹn hỏi lại khi tái khám",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.2, 3.1, 2.3: chẩn đoán chủ yếu lâm sàng). Quyền tự quyết, cách ghi nhận: không có trong tài liệu đã tải; theo thông lệ ca mẫu HH-0014."
+    },
+    {
+     "t": "Tầm soát khớp mỗi lần khám; dặn báo ngay khi ngón sưng, đau khớp, cứng khớp sáng lâu; hẹn tái khám sau 4 tuần",
+     "v": "c",
+     "n": "QĐ 361/2014 (Viêm khớp vảy nến mục 1, 2.1). Mốc 4 tuần theo một đợt corticoid bôi (AAD-NPF 2021 khuyến cáo 1.1) và sản phẩm calcipotriol + betamethason (xem DL-0541). Mốc tái khám vảy nến nhẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kháng sinh (uống hoặc tiêm) theo ý bà",
+     "v": "w",
+     "n": "Không nhiễm khuẩn; sơ đồ vảy nến không có kháng sinh (QĐ 4416, Vảy nến mục 3.2). Bà 47 kg, tuổi cao: tiêm kháng sinh thêm rủi ro mà không lợi."
+    },
+    {
+     "t": "Cho corticoid uống hoặc tiêm để 'hết ngứa nhanh'",
+     "v": "h",
+     "n": "Không nên dùng corticoid toàn thân: đỏ da toàn thân, bùng phát vảy nến (QĐ 361/2014, Viêm khớp vảy nến mục 4.2; QĐ 4416, Vảy nến mục 2.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Vảy nến thể thông thường (ICD-10 L40.0), thể đồng tiền – mảng nhỏ, mức nhẹ: BSA ≈ 6%, PASI ước 5, DLQI 8; có tiêu chí nâng mức S3 2026 (ngứa phải gãi)",
+     "Vị trí: lưng, bụng, cẳng chân, khuỷu; da đầu đỉnh; móng (rỗ 3 móng); Brocq, Auspitz dương tính",
+     "Khởi phát lần đầu sau sinh con đầu (25 tuổi), tái phát sau nhiều năm êm; đợt này nặng lên do lạnh, tắm nước nóng, khô da, mất ngủ, lo lắng, thuốc tự mua",
+     "Chưa viêm khớp vảy nến, chưa bội nhiễm; đã loại viêm da tiết bã, nấm da, lupus (lâm sàng, soi da; bà từ chối xét nghiệm)",
+     "Bệnh nền: tăng huyết áp, thoái hóa gối; đang dùng diclofenac tự mua (cần dừng)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: để bà nói điều bà lo → bệnh sử (khuỷu từ xưa, ngứa, tắm nước nóng) → tiền sử sau sinh → da đầu, móng, khớp → toàn thân, nắng → thuốc (giảm đau, kháng sinh tự mua) → gia đình → bà lo cho ai, mong gì → khám da, da đầu, móng, Brocq, mặt – hạch, khớp → soi da; hỏi xét nghiệm, ghi từ chối → chẩn đoán, mức độ → xử trí.",
+     "Vì sao vảy nến dù không điển hình: mảng đồng tiền nhỏ rải rác ở thân, chân, vảy mỏng, ngứa nhiều ở người 78 tuổi dễ nghĩ chàm, nấm hoặc 'ngứa tuổi già'. Nhưng khuỷu có tổn thương từ lâu, da đầu, rỗ móng, Brocq có màng bong và hạt sương máu (QĐ 4416, Vảy nến mục 2.1; QĐ 75/2015, chẩn đoán xác định); chủ yếu lâm sàng (QĐ 4416 mục 2.3). Suýt bỏ qua: bà không coi mảng khuỷu là bệnh; vảy nến khởi phát sau sinh 53 năm trước chưa từng được gọi tên.",
+     "Mức độ: BSA ≈ 6% (một bàn tay ≈ 1%: AAD-NPF 2021, mục BSA), PASI ước 5, DLQI 8 (ảnh hưởng trung bình: QĐ 4416 mục 2.5). Nhẹ theo QĐ 4416 (mục 2.5, sơ đồ) và S3 2026 (II-1); S3 2026 thêm tiêu chí nâng mức 'ngứa phải gãi' (II-1, III-3): đặt mục tiêu riêng, đánh giá lại sau 4 tuần, chưa cần thuốc toàn thân.",
+     "Applicability note (≥ 75 tuổi): nhóm ít có trong thử nghiệm; tài liệu đã tải không có khuyến cáo thuốc bôi riêng cho ≥ 75 tuổi, chỉ nhắc chọn hiệu lực theo tuổi, vị trí (AAD-NPF 2021, mục corticoid bôi). Da mỏng, 47 kg: đủ 4 tuần rồi giảm dần. Nếu cần methotrexat: người cao tuổi liều thấp hơn, theo dõi thận; NSAID tăng độc tính (S3 2026).",
+     "Đòi kháng sinh và lý do thật: bà tin nổi lở là nhiễm trùng, đã tự uống amoxicillin; lý do thật là lo cho cháu Thảo (di truyền, khả năng sinh con, lây cho bé), chỉ lộ khi hỏi bà lo gì. Nghe trước, nói rõ vì sao không kháng sinh (không mủ, vảy vàng, sốt), cho thuốc bôi đúng. Câu mẫu: 'Bà ơi, da bà không nhiễm trùng, kháng sinh không hết ngứa được; thuốc bôi này mới chữa đúng chỗ. Còn bé Thảo, bà đưa cháu đi khám da liễu để biết đúng bệnh, bà đừng tự trách.'",
+     "Từ chối xét nghiệm: không ép; nói một lần xét nghiệm giúp gì (QĐ 4416 mục 2.2), ghi hồ sơ; phương án B: lâm sàng, soi da, Brocq, theo dõi 4 tuần, hỏi lại khi tái khám. Cần xét nghiệm trước thuốc toàn thân, sinh học (QĐ 4416 mục 2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, thuốc bôi, hẹn 4 tuần (ve_hen); không nhập viện, chuyển tuyến vì mức nhẹ, lâm sàng điển hình (QĐ 4416 mục 2.3, sơ đồ). Hai cách bôi cùng đúng (khác nguồn lực): calcipotriol + betamethason 1 lần/ngày, mỡ cho thân, gel cho da đầu (QĐ 4416 mục 3.2.1; AAD-NPF 2021 khuyến cáo 3.4, 3.5, 3.2); hoặc corticoid class 3–5 (± salicylic) 1–2 lần/ngày tối đa 4 tuần (QĐ 4416 mục 3.2.1; QĐ 75/2015 mục 4b; AAD-NPF 2021 khuyến cáo 1.1). Bà 78 tuổi da mỏng: mức thấp nhất kiểm soát được.",
+     "Giới hạn calcipotriol: QĐ 4416 mục 3.2.1 ghi 'không quá 100 mg/tuần' (nghi lỗi đơn vị); AAD-NPF 2021 mục vitamin D: tránh quá 100 gam/tuần, tăng calci máu khi > 30% BSA. BSA ≈ 6% thấp hơn nhiều; theo con số thận trọng (100 g/tuần, ≤ 15 g/ngày: tờ thông tin sản phẩm, xem DL-0541); bà không có xét nghiệm calci, creatinin nên càng nên thận trọng.",
+     "Giảm đau: tránh NSAID nếu có thể ở người cao tuổi gầy, tăng huyết áp; paracetamol < 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1); số 3 g thận trọng hơn. Diclofenac liên quan vảy nến: không có trong tài liệu đã tải; lý do ngưng là tuổi, huyết áp, thể trạng. Mốc tái khám vảy nến nhẹ: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (thuốc mỡ cho thân, chân; gel cho da đầu)",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g",
+      "lieu": "Mỡ: lớp mỏng phủ vừa đủ mảng ở lưng, bụng, cẳng chân, khuỷu; rửa tay sau bôi; không bôi mặt, nếp gấp. Gel: 1–2 g mảng da đầu, không gội ngay. Tổng không quá 15 g/ngày",
+      "duong": "Bôi ngoài da, da đầu",
+      "thoi_diem": "1 lần/ngày buổi tối sau khi lau khô (chị Hà bôi hộ lưng)",
+      "so_ngay": "4 tuần, rồi tái khám để giảm dần",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1: mỡ cho thân, gel cho da đầu); AAD-NPF 2021 khuyến cáo 3.2, 3.4, 3.5; calcipotriol ≤ 100 g/tuần, ≤ 30% diện tích da (mục vitamin D). Hàm lượng, 15 g/ngày: tờ thông tin sản phẩm (xem DL-0541). Cách khác: corticoid class 3–5 ± salicylic 1–2 lần/ngày tới 4 tuần (QĐ 4416 mục 3.2.1; AAD-NPF 2021 khuyến cáo 1.1); tên thuốc, hàm lượng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Vaselin hoặc kem dưỡng ẩm không mùi",
+      "ham_luong": "Loại sẵn có",
+      "lieu": "Lớp mỏng lên da toàn thân, nhiều lần/ngày, nhất là sau tắm",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Ít nhất 2–3 lần/ngày",
+      "so_ngay": "Kéo dài; ít nhất cùng đợt corticoid 4–8 tuần",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1); AAD-NPF 2021 khuyến cáo 5.1. Tên sản phẩm: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần, cách nhau ít nhất 6 giờ; tối đa 4 viên (2 g) mỗi ngày là đủ cho bà, tuyệt đối không quá 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, báo nếu phải dùng liên tục > 1 tuần",
+      "ghi_chu": "QĐ 361/2014: < 3 g/ngày (Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1); chọn 3 g thận trọng. Ngừng diclofenac."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng, giữ nguyên)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Duy trì",
+      "ghi_chu": "Không đổi thuốc huyết áp ở lượt này; HA 148/84 mmHg sau khi bỏ NSAID cần đo lại khi tái khám. Mục tiêu huyết áp ở người cao tuổi: không có trong tài liệu đã tải. Không kê kháng sinh, không kê corticoid uống."
+     }
+    ],
+    "dan_do": [
+     "Bệnh tên vảy nến: viêm mạn tính, lúc bùng lúc êm, kiểm soát được nhưng chưa có thuốc chữa khỏi hẳn (QĐ 4416 mục 1.1; QĐ 75/2015 mục 4a). Không phải nhiễm trùng. Chuyện lây: không có nguyên văn trong tài liệu đã tải; bệnh do rối loạn miễn dịch, di truyền, môi trường (QĐ 4416 mục 1.3).",
+     "Bôi lớp mỏng 1 lần/ngày đủ 4 tuần (AAD-NPF 2021 khuyến cáo 1.1), không bôi thưa; không bôi mặt, nếp gấp; dưỡng ẩm nhiều lần/ngày. Ngừng diclofenac; không tự mua kháng sinh, thuốc nam, thuốc 'gia truyền' (QĐ 75/2015, yếu tố thuận lợi). Cháu Thảo nên khám da liễu, hỏi bác sĩ về thuốc khi cho con bú, khi định có thai; bà đừng tự trách. Xét nghiệm: bà từ chối đã ghi hồ sơ, đổi ý cứ nói.",
+     "Quay lại sớm nếu: da đỏ lan khắp người, mụn mủ, sốt; mảng chảy dịch, mủ, vảy vàng; ngón sưng cả ngón, đau sưng khớp, cứng khớp sáng lâu (QĐ 361/2014, Viêm khớp vảy nến mục 1, 2.1). Tái khám sau 4 tuần, mang thuốc đang bôi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bà Sáu tái khám sau 5 tuần (hẹn 4 tuần), chị Hà đi cùng. Bà vẫn ngứa, da 'không đỡ', còn nổi thêm; 3 tuần nay ngón tay, ngón chân sưng đau. Bà ngưng diclofenac theo dặn rồi uống lại. Sinh hiệu: mạch 82 l/p, HA 152/88 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 95%. Cân nặng 46 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho về, chỉ nâng hiệu lực thuốc bôi: bệnh đã vừa – nặng (BSA khoảng 14%, DLQI 13), bôi đúng 4 tuần mà không đỡ, ngón khúc dồi vẫn sưng (QĐ 4416/2023, Vảy nến mục 2.5, sơ đồ: vừa – nặng cần quang trị liệu hoặc thuốc toàn thân). Viêm khớp vảy nến có thể phá hủy khớp (QĐ 361/2014, Viêm khớp vảy nến mục 1); bà vẫn uống diclofenac, mất ngủ, có thể mua thuốc 'xương khớp' chứa corticoid, nguy cơ đỏ da toàn thân (QĐ 361/2014 mục 4.2).",
+    "nhap_vien": "Nhập viện cấp cứu là quá tay: không sốt, không đỏ da toàn thân, không mụn mủ, không nhiều khớp sưng nóng, sinh hiệu ổn; cần hẹn khám chuyên khoa có sắp xếp (QĐ 4416/2023, Vảy nến mục 2.4, 2.5). Nằm viện làm bà sợ kim, càng từ chối xét nghiệm, nguy cơ lú lẫn, té ngã ở tuổi 78."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc bôi hết hai tuýp rồi mà da tôi có đỡ đâu, còn nổi thêm... Giờ cái ngón tay này sưng như cái đòn bánh tét, đau lắm, tôi chắc nó có mủ rồi. Bác sĩ cho tôi kháng sinh đi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "152/88",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Da không đỡ, ngứa trở lại sau tuần đầu, nổi thêm mảng mới. Ngón giữa tay trái và một ngón chân sưng đau khoảng 3 tuần nay. Bà tin ngón 'có mủ' nên đòi kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, không đỡ, triệu chứng mới; nhiễu đòi kháng sinh"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị Hà bôi thuốc mỡ mỗi tối đúng cách (lớp mỏng, rửa tay), gel da đầu mỗi tối, dưỡng ẩm 2–3 lần/ngày; hai tuýp 30 g hết sau 4 tuần. Bà đã ngưng amoxicillin, không dùng thuốc bôi nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểm tra tuân thủ trước khi kết luận thất bại thuốc bôi"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Tuần đầu ngứa bớt, mảng cũ mỏng và nhạt hơn. Từ tuần 2–3 nổi thêm mảng ở ngực, cánh tay, cổ chân; khuỷu và da đầu dày vảy hơn. Ngứa lại, mất ngủ gần mỗi đêm; bà ngại ra khỏi nhà, ngại cho cháu bế vì 'da xấu, sợ lây'. Không sốt, chảy dịch, mủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: lan rộng dù đã dùng thuốc bôi đúng; DLQI cao"
+    },
+    {
+     "id": "khop",
+     "noi_dung": "Ba tuần nay ngón giữa tay trái sưng cả ngón, đau, hơi nóng; ngón chân IV phải sưng 'như khúc dồi'; sáng dậy cứng ngón khoảng 40 phút. Không té, không sốt, ớn lạnh. Gối đau như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng khớp mới: viêm khớp vảy nến (ngón khúc dồi, cứng khớp sáng)"
+    },
+    {
+     "id": "thuoc_giam_dau",
+     "noi_dung": "Tuần đầu bà ngưng diclofenac, uống paracetamol, ổn. Khi ngón sưng đau bà uống lại diclofenac 50 mg ngày 2 viên khoảng 2 tuần, giấu chị Hà vì 'sợ con la'; đỡ đau chút, sưng không giảm. Không corticoid, thuốc nam, thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: NSAID tự mua tiếp tục; không corticoid toàn thân"
+    },
+    {
+     "id": "da_dau_mong",
+     "noi_dung": "Da đầu vảy dày thêm, ngứa. Móng tay nhiều chấm lõm hơn; hai móng bờ tự do hơi bong, trắng đục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tổn thương móng, da đầu (tiêu chí nâng mức, CASPAR)"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Chị Hà nhắc thử máu; bà vẫn từ chối rút máu: 'Ngón sưng thì chụp hình đi, thử máu làm chi'; chấp nhận X-quang bàn tay. Bác sĩ giải thích thuốc mạnh hơn cần biết gan, thận, bà phân vân nhưng muốn 'về hỏi con trai út', không đồng ý ngay hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ràng buộc: tiếp tục từ chối xét nghiệm; quyền tự quyết"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Thân: ngực, bụng, lưng khoảng 40–50 mảng tròn hoặc bầu dục 1–3 cm, vài mảng nối thành 4–5 cm, nền đỏ, vảy trắng dày hơn; cánh tay hai bên 8–10 mảng 1–2 cm. Hai khuỷu: mảng 4 × 5 cm vảy dày. Cẳng chân hai bên: cụm mảng 1–3 cm; cổ chân – cẳng chân phải đoạn dưới: cụm mảng đỏ vảy trắng dày bong từng mảng, vài sẩn nhỏ có vảy. Vết gãi rải rác. Không mụn mủ, chảy dịch, vảy tiết vàng, quầng đỏ, đỏ da toàn thân. BSA ước ≈ 14% (thân 6% + hai chân 4% + tay 2% + khuỷu 1% + da đầu 1%); PASI ước ≈ 11; DLQI 13.",
+     "k": 1,
+     "hien": "Ngực, bụng, lưng: nhiều mảng tròn 1–3 cm, vài mảng nối nhau 4–5 cm, nền đỏ vảy trắng. Hai khuỷu: mảng 4 × 5 cm. Cổ chân – cẳng chân phải đoạn dưới (ảnh): cụm mảng đỏ vảy trắng dày. Vết gãi. Không mụn mủ, chảy dịch hay quầng đỏ.",
+     "media": [
+      {
+       "vi_tri": "Cổ chân – cẳng chân phải (đoạn dưới)",
+       "id": "HA-DA-0038",
+       "chu": "Cụm mảng đỏ phủ vảy trắng dày bong từng mảng, vài sẩn nhỏ có vảy; da quanh có vết đồi mồi."
+      }
+     ]
+    },
+    "da_dau_mong": {
+     "a": "Da đầu: hai mảng vảy trắng dày dính 3 × 4 cm ở đỉnh và 2 × 3 cm ở chẩm; không rụng tóc. Móng tay: rỗ 8 móng; hai móng (ngón II, III phải) tách nhẹ ở bờ tự do, trắng đục (tách móng); không dày sừng dưới móng.",
+     "k": 1
+    },
+    "cao_vay_brocq": {
+     "a": "Cạo nhẹ ở mảng cổ chân: vảy bong lát trắng đục, màng bong, hạt sương máu (Brocq và Auspitz dương tính). Không mủ.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ngón giữa tay trái: sưng toàn ngón dạng khúc dồi, ấn đau, hơi nóng, khớp liên đốt xa sưng, gấp hạn chế. Ngón chân IV phải: sưng cả ngón dạng khúc dồi. Các khớp ngón khác, cổ tay, khuỷu không sưng. Gân gót phải ấn đau nhẹ. Gối hai bên lạo xạo, không tràn dịch. Cột sống thắt lưng cúi ngửa bình thường. Không đỏ lan, không đường bạch huyết, không hạch nách, không sốt.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "xq_khop": {
+     "v": "a",
+     "r": "X-quang bàn tay trái: sưng mô mềm quanh ngón giữa; khe liên đốt xa hơi hẹp; chưa thấy bào mòn, phản ứng màng xương, tạo xương mới quanh khớp; thoái hóa nhẹ các khớp liên đốt xa khác.",
+     "n": "Chấp nhận: tìm bào mòn, tạo xương mới (QĐ 361/2014, Viêm khớp vảy nến mục 2.2); chưa bào mòn không loại trừ thể sớm. Chẩn đoán chủ yếu theo CASPAR (mục 3)."
+    },
+    "ctm": {
+     "v": "u",
+     "ab": 0,
+     "r": "(Bà Sáu từ chối: 'Già rồi thử máu làm chi.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Nên làm trước thuốc toàn thân: công thức máu, men gan, creatinin (người cao tuổi theo dõi thận), tầm soát lao, viêm gan B, C, HIV (QĐ 4416, Vảy nến mục 2.2; QĐ 361/2014, Viêm khớp vảy nến mục 4.2, 5; S3 2026, methotrexat). Bà từ chối: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B lâm sàng (thủ tục ghi: không có trong tài liệu đã tải)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Vảy nến thể thông thường, thể đồng tiền – mảng, mức vừa – nặng (BSA ≈ 14%, PASI ước 11, DLQI 13), tổn thương móng (rỗ, tách móng), da đầu; không đỡ sau 4 tuần thuốc bôi đúng, đủ",
+     "ok": 1,
+     "n": "Vừa – nặng khi PASI ≥ 10 hoặc DLQI ≥ 10 hoặc BSA ≥ 10 (QĐ 4416/2023, Vảy nến mục 2.5, sơ đồ) và (BSA > 10 hoặc PASI > 10) và DLQI > 10 (S3 2026, II-1): cùng xếp vừa – nặng. Tách móng ≥ 2 móng tay, ngứa phải gãi: tiêu chí nâng mức (S3 2026, II-1). Thể vừa – nặng: quang trị liệu hoặc thuốc toàn thân ± thuốc bôi (QĐ 4416, sơ đồ)."
+    },
+    {
+     "t": "Viêm khớp vảy nến nghi ngờ cao (viêm ngón khúc dồi tay trái, chân phải; cứng khớp sáng 40 phút; thể liên đốt xa)",
+     "ok": 1,
+     "n": "CASPAR ≥ 3 điểm: vảy nến đang hoạt động 2 + viêm ngón khúc dồi 1 + tổn thương móng 1 = 4, chưa tính RF (QĐ 361/2014, Viêm khớp vảy nến mục 3). Ngón khúc dồi, viêm khớp liên đốt xa, viêm gân bám (mục 2.1); thường sau tổn thương da (mục 1). Khẳng định, phân tầng thuốc: tuyến trên."
+    },
+    {
+     "t": "Thất bại thuốc bôi do không tuân thủ, sai chẩn đoán, thuốc kèm hay biến chứng",
+     "n": "Đã kiểm tra: tuân thủ đủ (hết 2 tuýp, chị Hà bôi hộ); không sai chẩn đoán (Brocq, rỗ móng, giảm ngứa tuần đầu); thuốc kèm: diclofenac uống lại (liên quan bùng phát: không có trong tài liệu đã tải); không bội nhiễm; biến chứng: viêm khớp vảy nến, bệnh lan vượt khả năng thuốc bôi. Không mủ, vảy vàng, sốt (QĐ 4416, Bệnh chốc mục 2.1); ngón khúc dồi, không sốt gợi viêm khớp vảy nến hơn nhiễm khuẩn."
+    },
+    {
+     "t": "Tăng huyết áp; thoái hóa gối; dùng NSAID dài ngày ở người cao tuổi",
+     "ok": 1,
+     "n": "Người cao tuổi, gầy, tăng huyết áp: tránh NSAID nếu có thể (QĐ 361/2014, Phụ lục NSAID mục 3.3); nhưng NSAID có chỉ định khi viêm khớp vảy nến, lưu ý chống chỉ định (mục 4.2): cùng văn bản, để chuyên khoa quyết."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà thất bại điều trị: tuân thủ (lượng thuốc, người bôi), chẩn đoán, thuốc kèm (NSAID tự mua), biến chứng (khớp, bội nhiễm); ghi kết luận vào hồ sơ",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 3.1); AAD-NPF 2021 khuyến cáo 1.1 (một đợt corticoid bôi tới 4 tuần). Quy trình rà thất bại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến có hẹn (da liễu, cơ xương khớp) để quang trị liệu NBUVB hoặc thuốc toàn thân và đánh giá viêm khớp vảy nến; vẫn dùng thuốc bôi trong lúc chờ",
+     "v": "c",
+     "n": "Thể vừa – nặng: NBUVB/UVB/PUVA hoặc methotrexat/acitretin/ciclosporin/apremilast ± thuốc bôi (QĐ 4416, sơ đồ; mục 3.2.2, 3.2.3). Viêm khớp vảy nến: DMARDs, sinh học khi đáp ứng kém (QĐ 361/2014 mục 4.2). Thời hạn chuyển tuyến, vận chuyển: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tôn trọng từ chối xét nghiệm lần nữa: giải thích vì sao thuốc toàn thân cần công thức máu, men gan, creatinin, tầm soát lao, viêm gan B, C, HIV; ghi từ chối vào hồ sơ và giấy chuyển; hẹn bà bàn với con rồi quyết ở tuyến trên",
+     "v": "c",
+     "n": "QĐ 4416 (Vảy nến mục 2.2); S3 2026 (methotrexat: người cao tuổi liều thấp, theo dõi thận); QĐ 361/2014 (Viêm khớp vảy nến mục 4.2: bilan lao, viêm gan, gan – thận trước sinh học; mục 5). Quyền tự quyết, thủ tục ghi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau trong lúc chờ: paracetamol dưới 3 g/ngày hoặc không quá 4 g/24 giờ; NSAID chỉ khi chuyên khoa quyết (viêm khớp vảy nến có chỉ định NSAID nhưng bà thuộc nhóm nguy cơ cao: người cao tuổi, gầy, tăng huyết áp) hoặc liều thấp, ngắt quãng nếu bắt buộc",
+     "v": "c",
+     "n": "QĐ 361/2014: người cao tuổi, gầy, tăng huyết áp: acetaminophen < 3 g/ngày, tránh NSAID nếu có thể (Phụ lục NSAID mục 3.3); thuốc giảm đau ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1); NSAID chỉ định khi viêm khớp vảy nến, lưu ý chống chỉ định (mục 4.2). Ghi cả hai, 3 g thận trọng hơn; NSAID làm tăng độc tính methotrexat (S3 2026)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích ngón sưng do viêm khớp vảy nến chứ không phải mủ",
+     "v": "c",
+     "n": "Không mủ, sốt, vảy vàng (QĐ 4416, Bệnh chốc mục 2.1); không có kháng sinh trong sơ đồ vảy nến (mục 3.2) và điều trị viêm khớp vảy nến (QĐ 361/2014 mục 4.2)."
+    },
+    {
+     "t": "Cho corticoid uống hoặc tiêm để 'hết viêm khớp, hết ngứa'",
+     "v": "h",
+     "n": "Không nên corticoid toàn thân: đỏ da toàn thân, bùng phát vảy nến (QĐ 361/2014, Viêm khớp vảy nến mục 4.2; QĐ 4416 mục 2.4)."
+    },
+    {
+     "t": "Cho về, chỉ tăng hiệu lực thuốc bôi, hẹn 4 tuần nữa, không chuyển tuyến",
+     "v": "w",
+     "n": "Đã vừa – nặng, thuốc bôi đủ mà không đỡ, nghi viêm khớp vảy nến: cần quang trị liệu hoặc thuốc toàn thân (QĐ 4416, sơ đồ); chậm có thể phá hủy khớp (QĐ 361/2014 mục 1)."
+    },
+    {
+     "t": "Bắt đầu methotrexat hoặc thuốc toàn thân ngay tại phòng khám khi chưa có xét nghiệm gan, thận, công thức máu, tầm soát lao, viêm gan",
+     "v": "h",
+     "n": "Người 78 tuổi, 46 kg, còn dùng NSAID: cần theo dõi thận, men gan, huyết học (S3 2026, phần methotrexat; QĐ 4416 mục 2.2, 3.2.3); chống chỉ định nếu suy thận nặng, bệnh gan nặng; không xét nghiệm là thiếu an toàn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Vảy nến thể thông thường (ICD-10 L40.0), thể đồng tiền – mảng, mức vừa – nặng: BSA ≈ 14%, PASI ước 11, DLQI 13; tổn thương móng (rỗ, tách móng ở 2 móng), da đầu; không đỡ sau 4 tuần thuốc bôi đúng và đủ",
+     "Viêm khớp vảy nến nghi ngờ cao: CASPAR ≥ 4 điểm (chưa tính RF), viêm ngón khúc dồi tay trái, chân phải, cứng khớp sáng 40 phút, thể liên đốt xa",
+     "Yếu tố thuận lợi: lạnh, khô da, căng thẳng (lo cho cháu, mất ngủ), thuốc tự mua; tiền sử khởi phát sau sinh",
+     "Chưa bội nhiễm; chưa đỏ da toàn thân, chưa thể mủ",
+     "Bệnh nền: tăng huyết áp (HA 152/88 mmHg khi còn NSAID), thoái hóa gối; dùng diclofenac tự mua; từ chối xét nghiệm máu",
+     "Đã loại: nhiễm khuẩn da, viêm khớp nhiễm khuẩn, thoái hóa khớp liên đốt xa đơn thuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: vì sao đến (không đỡ, ngón sưng) → tuân thủ → diễn tiến, giấc ngủ → khớp (số ngón, cứng sáng, nóng, sốt) → thuốc giảm đau, thuốc tự mua, corticoid → DLQI, bà lo gì → khám da, da đầu, móng, Brocq → khớp, gân gót → X-quang bàn tay; hỏi xét nghiệm, ghi từ chối → mức độ → xử trí.",
+     "Thất bại điều trị, rà 5 khả năng: tuân thủ đủ (hết 2 tuýp, chị Hà bôi); sai chẩn đoán ít (Brocq, rỗ móng, giảm ngứa tuần đầu); thuốc kèm: diclofenac tiếp tục (liên quan bùng phát: không có trong tài liệu đã tải); bội nhiễm: không; biến chứng: viêm khớp vảy nến và bệnh lan vượt khả năng thuốc bôi. Đó là lý do chuyển tuyến, không phải 'thuốc bôi dở'.",
+     "Mức độ: BSA ≈ 14%, PASI ước 11, DLQI 13: vừa – nặng theo QĐ 4416 (mục 2.5, sơ đồ: PASI ≥ 10 hoặc DLQI ≥ 10 hoặc BSA ≥ 10) và S3 2026 (II-1: (BSA > 10 hoặc PASI > 10) và DLQI > 10), cùng hướng; S3 2026 còn tiêu chí nâng mức (tách móng ≥ 2 móng, ngứa phải gãi).",
+     "Viêm khớp vảy nến: CASPAR 2 + 1 + 1 = 4 điểm không cần RF (QĐ 361/2014, Viêm khớp vảy nến mục 3); ngón khúc dồi, thể liên đốt xa (mục 2.1); thường sau tổn thương da (mục 1). Khớp buộc đổi hướng từ thuốc bôi sang thuốc toàn thân; chuyên khoa quyết.",
+     "Applicability note (≥ 75 tuổi): thử nghiệm methotrexat, sinh học ít có người ≥ 75; S3 2026: liều thấp hơn thường lệ ở người cao tuổi, theo dõi thận, thận trọng khi độ thanh thải creatinin < 60 mL/phút; NSAID làm tăng độc tính methotrexat. Quang trị liệu riêng cho ≥ 75 tuổi: không có trong tài liệu đã tải (QĐ 4416 mục 3.2.2: UVB dải hẹp dùng được cho người bệnh mạn tính).",
+     "Đòi kháng sinh lặp lại ('ngón có mủ'). Câu mẫu: 'Bà ơi, ngón sưng vì khớp viêm do chính bệnh vảy nến, không phải mủ; kháng sinh không làm hết sưng. Cần bác sĩ chuyên khoa cho thuốc đúng bệnh, và để an toàn mình cần thử gan, thận trước.' Từ chối xét nghiệm tiếp: tôn trọng, ghi hồ sơ, không dùng thuốc toàn thân khi thiếu xét nghiệm, để bà quyết ở nơi đủ điều kiện; chẩn đoán hôm nay đủ bằng lâm sàng (QĐ 4416 mục 2.3; QĐ 361/2014 mục 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, không cấp cứu, không nhập viện: sinh hiệu ổn, không đỏ da toàn thân, thể mủ, nhiễm khuẩn. Thể vừa – nặng cần quang trị liệu hoặc thuốc toàn thân (QĐ 4416, sơ đồ).",
+     "Thuốc ở tuyến trên (phòng khám không kê): methotrexat khởi đầu 7,5–10 mg/tuần (QĐ 4416 mục 3.2.3; QĐ 75/2015 mục 4c) hoặc thường 15 mg/tuần (S3 2026; EuroGuiDerm 2020); khác năm và nguồn lực. Bà 78 tuổi, 46 kg: liều thấp hơn thường lệ, theo dõi thận (S3 2026); liều cụ thể ≥ 75 tuổi: không có trong tài liệu đã tải. NBUVB 2–3 lần/tuần × 20–30 lần chiếu tấn công (QĐ 4416 mục 3.2.2) là lựa chọn khác.",
+     "Giảm đau: paracetamol < 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1), 3 g thận trọng hơn; NSAID có chỉ định ở viêm khớp vảy nến nhưng bà thuộc nhóm nguy cơ cao (mục 4.2): chuyên khoa quyết.",
+     "Thuốc bôi chờ khám: tiếp tục calcipotriol + betamethason, dưỡng ẩm; sản phẩm ghi 4 tuần, AAD-NPF 2021 khuyến cáo 3.4 phối hợp tới 52 tuần dưới theo dõi: ghi cả hai. Giấy chuyển ghi bà đã được giải thích, từ chối xét nghiệm (ngày, giờ, chị Hà chứng kiến), diclofenac đang dùng, CASPAR, BSA, PASI, DLQI, X-quang. SBAR, thời hạn chuyển: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Calcipotriol + betamethason dipropionat (thuốc mỡ và gel da đầu) – tiếp tục",
+      "ham_luong": "Calcipotriol 50 µg/g + betamethason 0,5 mg/g",
+      "lieu": "Mỡ: lớp mỏng ở thân, chân, khuỷu, không bôi mặt, nếp gấp. Gel: 1–2 g da đầu. Tổng không quá 15 g/ngày",
+      "duong": "Bôi ngoài da, da đầu",
+      "thoi_diem": "1 lần/ngày buổi tối",
+      "so_ngay": "Tới ngày khám chuyên khoa (vài ngày); không quá 4 tuần liên tục nếu chưa có chỉ định mới",
+      "ghi_chu": "QĐ 4416 (Vảy nến mục 3.2.1); AAD-NPF 2021 khuyến cáo 3.2, 3.4, 3.5; calcipotriol ≤ 100 g/tuần, ≤ 30% diện tích da (BSA 14% còn trong ngưỡng). Hàm lượng, 15 g/ngày: tờ thông tin sản phẩm (xem DL-0541)."
+     },
+     {
+      "thuoc": "Vaselin hoặc kem dưỡng ẩm không mùi – tiếp tục",
+      "ham_luong": "Loại sẵn có",
+      "lieu": "Nhiều lần/ngày, nhất là sau tắm",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "2–3 lần/ngày",
+      "so_ngay": "Kéo dài",
+      "ghi_chu": "QĐ 4416 mục 3.2.1; AAD-NPF 2021 khuyến cáo 5.1."
+     },
+     {
+      "thuoc": "Paracetamol (thay diclofenac)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần, cách ≥ 6 giờ; dưới 3 g/ngày (tối đa 4 viên là đủ)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Tới khi khám chuyên khoa",
+      "ghi_chu": "QĐ 361/2014: < 3 g/ngày (Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1); chọn 3 g thận trọng. Ngừng diclofenac tự mua; NSAID khác chỉ khi chuyên khoa chỉ định (mục 4.2)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng, giữ nguyên)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Duy trì",
+      "ghi_chu": "Không đổi đơn; đo lại HA sau khi ngừng NSAID; mục tiêu huyết áp người cao tuổi: không có trong tài liệu đã tải. Không kê kháng sinh, corticoid uống, methotrexat tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Ngón sưng là khớp viêm do vảy nến, không phải mủ; cần khám chuyên khoa sớm để khỏi biến dạng khớp (QĐ 361/2014, Viêm khớp vảy nến mục 1, 4.2).",
+     "Ngừng diclofenac, dùng paracetamol đúng liều; không tự mua thuốc 'xương khớp', thuốc nam, 'gia truyền' vì có thể chứa corticoid (QĐ 361/2014 mục 4.2). Tiếp tục bôi thuốc, dưỡng ẩm; mang giấy chuyển, tuýp thuốc, vỉ diclofenac; khám chuyên khoa trong vài ngày tới (thời hạn: không có trong tài liệu đã tải).",
+     "Xét nghiệm: bà bàn với con trai út; bệnh viện sẽ giải thích lại, rút máu một lần đủ ống; bà có quyền đồng ý hoặc không, nhưng thuốc mạnh hơn cần kết quả mới dùng an toàn.",
+     "Đến cấp cứu nếu: da đỏ khắp người, mụn mủ, sốt; ngón đỏ nóng đau dữ dội, có mủ, ớn lạnh; nhiều khớp sưng nóng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Sáu khám da liễu và cơ xương khớp ở bệnh viện tỉnh 4 ngày sau. Chị Hà và con trai út thuyết phục, bà đồng ý rút máu một lần; được NBUVB 2–3 lần/tuần kèm thuốc bôi (QĐ 4416, mục 3.2.2: 20–30 lần chiếu tấn công, sau đó duy trì) và thuốc viêm khớp vảy nến theo chuyên khoa (methotrexat liều thấp theo tuổi, theo dõi thận: S3 2026; QĐ 361/2014 mục 4.2). Da sạch dần sau khoảng 3 tháng, ngón hết sưng sau khoảng 4 tháng. Khoảng 8 tháng sau bà ngưng chiếu duy trì vì đi lại xa, lại tự mua diclofenac, mùa lạnh: vảy nến tái phát nhẹ ở thân và chân, được bôi lại, hẹn tái khám. Nguyên nhân: duy trì không đủ, tuân thủ giảm, yếu tố thuận lợi còn (QĐ 75/2015); mốc thời gian là số liệu thiết kế. Tái phát không đồng nghĩa chẩn đoán sai.",
+ "nhieu": [
+  "Đòi kháng sinh: bà tin nổi lở là nhiễm trùng, đã tự uống amoxicillin; lý do thật là lo cho cháu, rồi sợ ngón 'có mủ'. Nghe, nói rõ không mủ, không sốt, cho thuốc đúng.",
+  "Từ chối xét nghiệm: bà sợ kim; giải thích một lần, ghi hồ sơ, phương án B lâm sàng, nhắc lại khi cần thuốc toàn thân.",
+  "Mảng đồng tiền nhỏ, ngứa ở người 78 tuổi dễ nhầm chàm đồng tiền, nấm thân, 'ngứa tuổi già'; 'gàu' dễ nhầm viêm da tiết bã; diclofenac tự mua nên tránh ở người cao tuổi, tăng huyết áp."
+ ],
+ "bai_hoc_bien": [
+  "Khởi phát sau sinh, êm nhiều thập kỷ rồi tái phát ở tuổi 78: hỏi 'á sừng', khuỷu, đầu gối thời trẻ; vảy nến chỉ ngủ yên (QĐ 4416 mục 1.1).",
+  "Ngứa nhiều, mảng nhỏ ở thân, chân người rất cao tuổi: đừng dừng ở 'ngứa tuổi già'; da đầu, móng, Brocq cứu chẩn đoán (QĐ 4416 mục 2.1, 2.3)."
+ ],
+ "diem_nho": [
+  "Vảy nến thể đồng tiền 1–3 cm; Brocq, Auspitz; rỗ móng; mức độ theo PASI, DLQI, BSA (QĐ 4416, Vảy nến mục 2.1, 2.3, 2.5; QĐ 75/2015). QĐ 4416 (mục 2.5, sơ đồ) và S3 2026 (II-1) cùng xếp nhẹ ở lượt 1, vừa – nặng ở lượt 2; S3 2026 thêm tiêu chí nâng mức.",
+  "Viêm khớp vảy nến: CASPAR ≥ 3 điểm (vảy nến đang hoạt động 2, mục khác 1); không corticoid toàn thân (QĐ 361/2014, mục 3, 4.2).",
+  "Người cao tuổi gầy, tăng huyết áp: paracetamol < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc ≤ 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1), ghi cả hai, 3 g thận trọng; NSAID có chỉ định ở viêm khớp vảy nến nhưng tránh nếu có thể ở nhóm nguy cơ (cùng văn bản).",
+  "Từ chối xét nghiệm: giải thích một lần, ghi nhận, phương án B lâm sàng (QĐ 4416 mục 2.3); thuốc toàn thân cần xét nghiệm trước (QĐ 4416 mục 2.2; S3 2026)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Vảy nến thể thông thường mục 1.1–1.3, 2.1–2.6, 3.1, 3.2.1–3.2.3, sơ đồ điều trị; Viêm da dầu mục 1.1, 2.1; Bệnh da do nấm sợi mục 2.1, 2.2; Lupus ban đỏ hệ thống mục 2.1.2; Bệnh chốc mục 2.1.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015, Bệnh vảy nến (TL-0241; kho cũ) – yếu tố thuận lợi, chẩn đoán xác định (Brocq), chẩn đoán thể, mục 4a, 4b, 4c.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 (TL-0286) – Viêm khớp vảy nến mục 1, 2.1, 2.2, 3 (CASPAR), 4.2, 5; Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1.",
+  "AAD-NPF 2021 (TL-0425) – khuyến cáo 1.1, 1.2, 3.2, 3.4, 3.5, 5.1; mục corticoid bôi, vitamin D, BSA. S3 2026 (TL-0404) – II-1, III-3; methotrexat (người cao tuổi, NSAID). EuroGuiDerm 2020 (TL-0427) – methotrexat. EULAR/ACR 2019 (TL-0375).",
+  "Nguồn bổ sung tự tìm: tờ thông tin sản phẩm Dovobet mỡ, gel (xem DL-0541) – hàm lượng, 4 tuần, 15 g/ngày; không mở lại được trang trong lượt này.",
+  "Không có trong tài liệu đã tải: 'vảy nến không lây'; vảy nến ảnh hưởng khả năng sinh con; NSAID bùng phát vảy nến; khởi phát sau sinh; mốc tái khám vảy nến nhẹ; liều methotrexat người ≥ 75 tuổi; thời hạn chuyển tuyến; SBAR; quyền từ chối xét nghiệm và cách ghi; tiêu chí viêm khớp nhiễm khuẩn; tên corticoid class 3–5, dưỡng ẩm; mục tiêu huyết áp người cao tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 07/11/2026. Lượt 1 ve_hen; lượt 2 chuyen_tuyen (có hẹn). Lượt 2 tiếp diễn từ xử trí đúng lượt 1 (bôi đúng, chị Hà bôi hộ); diclofenac uống lại là yếu tố thêm ở lượt 2.",
+  "Tài liệu đã đọc: QĐ 4416 (TL-0397) Vảy nến, Viêm da dầu, Nấm sợi, Lupus, Chốc; QĐ 75/2015 Bệnh vảy nến; QĐ 361/2014 (TL-0286) Viêm khớp vảy nến, Phụ lục NSAID, thuốc giảm đau; AAD-NPF 2021 (TL-0425); S3 2026 (TL-0404); EULAR/ACR 2019 (TL-0375); EuroGuiDerm 2020 (TL-0427).",
+  "Ảnh da: dùng lại HA-DA-0146 (lượt 1), HA-DA-0038 (lượt 2), đã xem: không lộ mặt, xăm, chữ. Không có media mới.",
+  "Mâu thuẫn: dùng lại calcipotriol, định nghĩa mức độ vảy nến, paracetamol người cao tuổi, liều methotrexat khởi đầu; mục đề xuất mới trong DL-0538_mau_thuan.md.",
+  "Số liệu thiết kế (không phải khuyến cáo): mốc lành, tái phát 8 tháng, số tuýp, BSA/PASI/DLQI ước. Khởi phát sau sinh: tài liệu đã tải không nêu liên quan, viết như tiền sử người bệnh kể."
+ ]
+}

@@ -1,0 +1,902 @@
+{
+ "ma_ca": "NH-1237",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_thieu_mau_thieu_sat",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thiếu máu thiếu sắt / thiếu vi chất",
+  "chan_doan_phai_loai_tru": [
+   "Thalassemia",
+   "Suy dinh dưỡng"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau stress công việc (của mẹ)",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khang",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 103,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời rất ngắn khi được hỏi trực tiếp. Mẹ kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán, đang chốt sổ cuối quý nên nói nhanh, sốt ruột. Mẹ nghe đồng nghiệp bảo 'truyền nước, truyền sắt là hết ngay' nên muốn bé được truyền cho nhanh khỏe. Bé tròn trịa, rụt rè, bám mẹ, nói rất ít.",
+  "kieu_nhieu": "Mẹ giấu tiền sử: hỏi chung 'bé ăn uống bình thường chứ?' thì đáp 'bình thường ạ'; hỏi 'bé uống thuốc gì' thì chỉ kể siro dị ứng. Mẹ chỉ kể chuyện bé từng uống sắt 10 ngày rồi bỏ và 4–5 hộp sữa mỗi ngày khi bác sĩ hỏi cụ thể từng bữa, hỏi riêng về thuốc sắt/xét nghiệm cũ, hoặc nói nhẹ nhàng không trách móc. Mẹ ngại vì đã không tái khám theo hẹn lần trước.",
+  "nguoi_nha": "Mẹ bé (chị Hạnh, 33 tuổi) đi cùng; bà nội trông bé ban ngày ở nhà. Mẹ trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng bé thì bé đáp ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f1cba8",
+   "toc": "#1f1712",
+   "kieuToc": "tre",
+   "ao": "#6fa8dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b992",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#8a7fb8",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé hay ốm vặt, mệt, kém ăn; mẹ xin truyền sắt",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám nhi chỉ làm được xét nghiệm huyết học – sinh hóa cơ bản và soi phân, nước tiểu; không có máy X-quang (và do đó không có CT, nội soi)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 17 kg, mẹ đưa đến vì ba tháng nay bé hay ốm vặt, sụt sịt, quấy khóc, kém ăn, chóng mệt khi chạy chơi. Mẹ nói bé 'bị dị ứng, sức đề kháng kém' và xin bác sĩ truyền nước hoặc truyền sắt cho bé khỏe nhanh. Sinh hiệu: nhiệt 36,8 °C, mạch 108 l/p, nhịp thở 24 l/p, SpO₂ 98%. Bé tỉnh, hơi lờ đờ, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khang nhập viện truyền dịch hoặc truyền máu theo ý chị Hạnh là không có chỉ định: Hb 86 g/L là thiếu máu mức vừa (WHO 2024 Bảng 3: 70–99 g/L), bé tỉnh, không suy tim. Truyền khối hồng cầu chỉ khi Hb ≤ 40 g/L, cần nâng nhanh Hb hoặc suy tim (QĐ 3312/2015, mục 4.2); QĐ 1832/2022 (mục 5.1) hạn chế truyền máu. Hb nhích lên tạm thời nhưng nguyên nhân (sữa hộp thay bữa, ăn ít sắt) không đổi nên thiếu sắt quay lại, trong khi chị Hạnh nghỉ làm thêm ngày.",
+    "chuyen_tuyen": "Chuyển bé lên huyết học ngay lượt đầu là quá tay: thiếu máu hồng cầu nhỏ nhược sắc kèm sắt, ferritin giảm đủ để chẩn đoán và điều trị uống tại tuyến cơ sở (QĐ 3312/2015, mục 3.3, 4.2; QĐ 1832/2022, mục 4.1, 5.1). Chị Hạnh mất thêm một ngày công, bé chờ nhiều giờ mà chưa uống viên sắt nào; chị càng tin bé mắc bệnh máu nặng và càng đòi truyền."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em dạo này hay ốm vặt, sụt sịt, ăn kém, mệt lắm. Em nghĩ cháu bị dị ứng. Bác sĩ cho cháu truyền nước, truyền sắt gì đó cho khỏe nhanh nha, em đang bận chốt sổ cuối quý.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tháng nay bé hay ốm vặt, sụt sịt, quấy, kém ăn, ở lớp cô nhận xét lơ đãng, chóng mệt khi chạy chơi. Mẹ nghĩ bé bị dị ứng, sức đề kháng kém và muốn bé được truyền nước hoặc truyền sắt cho khỏe nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mệt và kém ăn tăng dần trong ba tháng, không sốt kéo dài, không ho kéo dài, không tiêu chảy kéo dài. Sinh đủ tháng, bú mẹ đến 10 tháng, tiêm chủng đủ, chưa tẩy giun bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, triệu chứng toàn thân"
+    },
+    {
+     "id": "mat_mau",
+     "noi_dung": "Chưa từng đi ngoài phân đen hay phân có máu (trước khi dùng sắt), không tiểu ra máu, không chảy máu cam, không nôn ra máu, không đau bụng kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm mất máu mạn (QĐ 3312, Thiếu máu thiếu sắt mục 2)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Hai bên nội ngoại không ai thiếu máu kéo dài, không ai phải truyền máu, không ai vàng da hay cắt lách. Bố xét nghiệm công thức máu khi khám sức khỏe công ty vẫn bình thường. Bé chưa bao giờ vàng da, chưa phải truyền máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình (loại trừ thalassemia)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Mẹ nói chung chung 'bé ăn bình thường'. Khi hỏi từng bữa: sáng bé chỉ uống một hộp sữa tươi, trưa ăn vài thìa cơm với nước canh, rất ít thịt cá; chiều tối bà nội 'sợ bé đói' nên cho uống thêm; tổng cộng 4–5 hộp sữa tươi 180 mL mỗi ngày. Bé ít khi ăn thịt đỏ, gan, rau xanh.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ kể khi bác sĩ hỏi từng bữa trong ngày, lượng sữa mỗi ngày, bé ăn thịt cá gan rau thế nào.",
+     "k": 1,
+     "y": "Khẩu phần sắt, sữa bò (QĐ 3312, mục 1 và 2)"
+    },
+    {
+     "id": "sat_cu",
+     "noi_dung": "Ba tháng trước phòng khám tư đã làm công thức máu (Hb 92 g/L, giấy mẹ để quên ở nhà) và kê siro sắt dặn tái khám. Mẹ cho bé uống 10 ngày thì tự ngưng vì bé táo, phân đen, mẹ sợ 'chảy máu trong'; mẹ không tái khám và không kể vì ngại bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể; hỏi 'bé uống thuốc gì' chỉ kể siro dị ứng. Chỉ kể khi bác sĩ hỏi riêng về thuốc bổ, thuốc sắt, vitamin, xét nghiệm hoặc khám trước đây, hoặc nói nhẹ nhàng rằng sắt làm phân đen là bình thường và nhiều mẹ cũng lo.",
+     "k": 1,
+     "y": "Tiền sử điều trị sắt trước đó, lý do bỏ thuốc"
+    },
+    {
+     "id": "thuoc_di_ung",
+     "noi_dung": "Hai tuần nay mẹ tự mua siro kháng histamin cho bé uống buổi tối vì sụt sịt buổi sáng; mẹ nghĩ bé ngủ sâu là hết mệt. Không thuốc nào khác, không dị ứng thuốc, bé không ngứa, không mề đay, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc tự mua"
+    },
+    {
+     "id": "stress_me",
+     "noi_dung": "Ba tháng nay mẹ chốt sổ cuối quý, về muộn, nhờ bà nội lo bữa ăn nên sữa hộp thành bữa chính cho nhanh. Mẹ áp lực, muốn bé khỏi 'một lần cho xong'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bối cảnh khởi phát (áp lực công việc của mẹ)",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ nghe chị đồng nghiệp nói 'truyền nước, truyền sắt là hết ngay' và ngại cho bé uống sắt vì phân đen, táo. Mẹ sẽ yên tâm nếu bác sĩ giải thích rõ vì sao uống là đủ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Động cơ ẩn: muốn được truyền dịch",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, tròn trịa, hơi lờ đờ. Da xanh nhợt nhẹ, niêm mạc môi nhợt. Không vàng da, không phù.",
+     "k": 1,
+     "hien": "Bé tỉnh, hơi lờ đờ, bám mẹ."
+    },
+    "mat": {
+     "a": "Kết mạc mi nhợt rõ, củng mạc không vàng, đồng tử đều.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Lòng bàn tay nhợt nhạt, móng tay nhợt, trơn, hơi mỏng, chưa có khía. Tóc không rụng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, không co lõm lồng ngực. Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 24 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau. Gan lách không sờ thấy.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ. Mặt cân đối, trán không dô, sống mũi không tẹt.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 17 kg, chiều cao 103 cm, MUAC 160 mm. Không phù hai chân. Bé tròn trịa, không gầy mòn.",
+     "k": 1,
+     "hien": "Cân nặng 17 kg, cao 103 cm, MUAC 160 mm, không phù."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 8,4 G/L · Hb 86 g/L · MCV 63,6 fL · MCH 19,5 pg · RDW 17,8% · TC 395 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 47.5,
+      "neu": 3.99,
+      "lym_pct": 42.0,
+      "lym": 3.53,
+      "mono_pct": 6.0,
+      "mono": 0.5,
+      "eos_pct": 4.0,
+      "eos": 0.34,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.4,
+      "hgb": 86,
+      "hct": 0.28,
+      "mcv": 63.6,
+      "mch": 19.5,
+      "mchc": 307,
+      "rdw": 17.8,
+      "plt": 395
+     },
+     "n": "Thiếu máu hồng cầu nhỏ nhược sắc, RDW > 14,5% (QĐ 3312, Thiếu máu thiếu sắt mục 3.2). Hb 86 g/L < 110 g/L (WHO 2024 Bảng 2, 24–59 tháng), < 115 g/L (QĐ 3312 mục 1) và < 93 g/L (WHO Pocket book 2013 mục 10.5): thiếu máu mức vừa (WHO 2024 Bảng 3: 70–99 g/L). Bảng MCV theo tuổi: không có trong tài liệu đã tải; dùng mốc MCV < 78 fL của QĐ 3312 (Thalassemia mục 2.1c)."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 6 ng/mL · sắt huyết thanh 4,8 µmol/L · bão hòa transferrin 8%",
+     "ab": 1,
+     "n": "Ferritin < 12 ng/mL, sắt < 9 µmol/L, bão hòa < 16% (QĐ 3312, mục 3.2) hoặc ferritin < 30 ng/mL và/hoặc bão hòa < 30% (QĐ 1832/2022, mục 4.1): bé đạt cả hai. Thalassemia thì sắt, ferritin bình thường hay tăng (QĐ 3312, Thalassemia mục 2.1c)."
+    },
+    "hong_cau_luoi": {
+     "v": "u",
+     "r": "Hồng cầu lưới 0,9%",
+     "ab": 1,
+     "n": "Giảm trong thiếu sắt (QĐ 1832, mục 3.2); làm mốc, sẽ tăng sau 5–10 ngày uống sắt (QĐ 3312, mục 4.2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không viêm nên ferritin thấp đáng tin; thiếu máu do viêm thì ferritin, CRP tăng (QĐ 1832, mục 4.3b)."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Phân thành khuôn, không hồng cầu, không bạch cầu, không thấy trứng giun.",
+     "n": "Tìm mất máu và giun móc (QĐ 3312, Thiếu máu thiếu sắt mục 2; Nhiễm KST mục 3.1c)."
+    },
+    "dien_di_hb": {
+     "v": "a",
+     "r": "HbA 97,0% · HbA2 2,6% · HbF 0,4%; không có Hb H, Hb E.",
+     "n": "Không bắt buộc vì ferritin thấp đã gợi ý thiếu sắt (QĐ 3312, Thalassemia mục 2.1c). HbA2 < 3,5% không ủng hộ thalassemia dị hợp tử (mục 2.2d). Ảnh hưởng của thiếu sắt lên HbA2: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt mức vừa do ăn thiếu sắt (sữa hộp thay bữa), đã từng bỏ điều trị",
+     "ok": 1,
+     "n": "Hb 86 g/L, hồng cầu nhỏ nhược sắc, ferritin 6, sắt 4,8, bão hòa 8% (QĐ 3312 mục 3.2; QĐ 1832 mục 4.1); nguyên nhân do cung cấp thiếu, ăn sữa bò (QĐ 3312 mục 1–2)."
+    },
+    {
+     "t": "Thalassemia",
+     "n": "Không có tiền sử gia đình, không vàng da, không gan lách to, không biến dạng xương; ferritin và sắt giảm (thalassemia thì bình thường hay tăng; QĐ 3312, Thalassemia mục 2.1); điện di Hb bình thường (mục 2.2)."
+    },
+    {
+     "t": "Suy dinh dưỡng (kèm thiếu máu do suy dinh dưỡng)",
+     "n": "Bé tròn trịa, MUAC 160 mm, không phù; MUAC > 125 mm không đủ tiêu chuẩn (QĐ 4487/2016, mục II Tiêu chuẩn chẩn đoán SDD cấp). Thiếu máu do SDD có biểu hiện gầy yếu (QĐ 1832, mục 4.3c)."
+    },
+    {
+     "t": "Thiếu máu do mất máu mạn (tiêu hóa, tiết niệu) hoặc nhiễm giun móc",
+     "n": "Không phân máu hay đen trước khi dùng sắt, nước tiểu không hồng cầu, soi phân không trứng giun, ở thành phố không đi chân đất (QĐ 3312 mục 2; Nhiễm KST mục 3.1c)."
+    },
+    {
+     "t": "Thiếu máu do bệnh mạn tính / viêm",
+     "n": "CRP 2 mg/L, ferritin giảm chứ không tăng (QĐ 1832, mục 4.3b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Sắt uống liều điều trị: 4–6 mg sắt nguyên tố/kg/ngày trong 6–8 tuần HOẶC 2 mg/kg/ngày trong 6–12 tháng, tiếp thêm 3 tháng sau khi Hb bình thường HOẶC cho 14 ngày rồi tái khám, điều trị khoảng 3 tháng",
+     "v": "c",
+     "n": "QĐ 3312/2015 (mục 4.2: 4–6 mg Fe/kg/ngày, 6–8 tuần); QĐ 1832/2022 (mục 5.1–5.2: 2 mg/kg/ngày, 6–12 tháng, thêm 3 tháng sau Hb bình thường); WHO Pocket book 2013 (mục 10.5: 14 ngày rồi tái khám, khoảng 3 tháng). Ghi cả ba theo sổ mâu thuẫn NH-1243, NH-1255."
+    },
+    {
+     "t": "Giải thích vì sao bé uống sắt là đủ, không cần truyền dịch hay truyền máu",
+     "v": "c",
+     "n": "Hb 86 g/L chưa đến ngưỡng truyền ≤ 40 g/L (QĐ 3312 mục 4.2); sắt tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu, bệnh mạn tiến triển (QĐ 1832 mục 5.1)."
+    },
+    {
+     "t": "Điều chỉnh ăn uống: bớt sữa hộp thay bữa, thêm thức ăn nhiều sắt và vitamin C",
+     "v": "c",
+     "n": "Ăn sữa bò hoàn toàn gây thiếu sắt (QĐ 3312 mục 1); thức ăn nhiều sắt và vitamin C (mục 6). Lượng sữa tối đa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn uống sắt lúc đói hoặc xa bữa sữa; phân đen và táo khi uống sắt là bình thường",
+     "v": "c",
+     "n": "QĐ 1832 mục 5.2: hấp thu tốt nhất lúc đói, phân đen táo không phải xuất huyết; QĐ 3312 mục 5. Tách khỏi sữa: suy ra từ uống lúc đói, không có điều khoản riêng về sữa."
+    },
+    {
+     "t": "Hẹn tái khám sau 14 ngày: công thức máu và hồng cầu lưới",
+     "v": "c",
+     "n": "WHO Pocket book 2013 (mục 10.5): tái khám sau 14 ngày; hồng cầu lưới tăng sau 5–10 ngày nếu đúng thiếu sắt (QĐ 3312, mục 4.2); xét nghiệm theo dõi gồm tổng phân tích tế bào máu, hồng cầu lưới (QĐ 1832, mục 6)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: mệt lả, thở nhanh, tim đập nhanh, li bì, da nhợt nhiều hơn",
+     "v": "c",
+     "n": "Thiếu máu kéo dài gây suy tim (QĐ 3312, mục 5); thiếu máu nặng: nhợt lòng bàn tay nặng, mạch nhanh (WHO Pocket book 2013, tr. 160)."
+    },
+    {
+     "t": "Tẩy giun mebendazol một liều",
+     "v": "a",
+     "n": "WHO 2013 (mục 10.5): trẻ ≥ 1 tuổi chưa dùng mebendazol trong 6 tháng, cho một liều 500 mg; QĐ 3312 (Nhiễm KST mục 3.1a): Fugacar 500 mg một viên duy nhất. Soi phân âm tính nên không bắt buộc."
+    },
+    {
+     "t": "Bổ sung vitamin C 50–100 mg/ngày cùng sắt",
+     "v": "a",
+     "n": "QĐ 3312 (mục 4.2): vitamin C 50–100 mg/ngày để tăng hấp thu; QĐ 1832 (mục 5.2): thêm vitamin C hoặc nước cam."
+    },
+    {
+     "t": "Tiêm hoặc truyền sắt (tiêm bắp, tĩnh mạch) ngay từ đầu",
+     "v": "w",
+     "n": "Tiêm khi không uống được, không hấp thu (QĐ 3312 mục 4.2); tĩnh mạch chỉ cho thiếu máu nặng (QĐ 1832 mục 5.1)."
+    },
+    {
+     "t": "Truyền khối hồng cầu",
+     "v": "w",
+     "n": "Hb 86 g/L chưa đạt ngưỡng nào: ≤ 40 g/L (QĐ 3312 mục 4.2; WHO 2013 mục 10.6), duy trì tối thiểu 80 g/L (QĐ 1832 mục 4.1)."
+    },
+    {
+     "t": "Truyền dịch (nước muối, glucose) hoặc 'truyền bổ' cho khỏe",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho thiếu máu thiếu sắt; bé uống được, không mất nước."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt mức vừa (Hb 86 g/L; hồng cầu nhỏ nhược sắc; ferritin 6 ng/mL, bão hòa transferrin 8%)",
+     "Nguyên nhân: ăn thiếu sắt, sữa hộp 4–5 hộp mỗi ngày thay bữa chính (QĐ 3312 mục 1–2); không có dấu mất máu mạn hay giun",
+     "Đã từng bỏ điều trị sắt 10 ngày vì phân đen và táo (hiểu lầm)",
+     "Loại trừ thalassemia, suy dinh dưỡng, mất máu mạn, thiếu máu do viêm; không có dấu nặng cần nhập viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám → diễn tiến → mất máu → tiền sử gia đình → khẩu phần từng bữa, lượng sữa → thuốc và xét nghiệm trước đây. Hỏi chung mẹ chỉ nói 'ăn bình thường'; hỏi từng bữa mới lộ 4–5 hộp sữa và rất ít thịt cá.",
+     "Khám: da niêm nhợt, kết mạc, lòng bàn tay, móng nhợt; tim 108 l/p; gan lách không to, không biến dạng xương (loại thalassemia thể nặng; QĐ 3312, Thalassemia mục 2.1b); MUAC 160 mm, không phù (loại SDD; QĐ 4487/2016 mục II). Bé tròn trịa nên dễ bỏ sót: mẹ chỉ kể ốm vặt, quấy, lơ đãng (QĐ 3312 mục 3.1: mệt mỏi, kích thích, kém tập trung).",
+     "CLS: Hb 86, MCV 63,6, RDW 17,8; ferritin 6, sắt 4,8, bão hòa 8% đạt tiêu chuẩn của QĐ 3312 mục 3.2 và QĐ 1832 mục 4.1; hồng cầu lưới 0,9%; CRP 2; soi phân không giun; điện di Hb bình thường chỉ là phụ. Không có X-quang: không cần cho ca này.",
+     "Mức độ: 86 g/L thấp hơn ngưỡng WHO 2024 (< 110), QĐ 3312 (< 115) và WHO 2013 (< 93); mức vừa theo WHO 2024 Bảng 3 (70–99). Ba nguồn đồng thuận.",
+     "Loại thalassemia: sắt, ferritin giảm, HbA2 2,6% (< 3,5%), không tiền sử gia đình, không vàng da, không gan lách to (QĐ 3312, Thalassemia mục 2.1–2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám 14 ngày (WHO 2013 mục 10.5): thiếu máu mức vừa, bé tỉnh, mạch 108, không suy tim, uống được. Nhập viện hay chuyển tuyến đều không có chỉ định.",
+     "Sắt uống: ghi cả ba cách (QĐ 3312 mục 4.2; QĐ 1832 mục 5.1–5.2; WHO 2013 mục 10.5); đơn chọn 4 mg/kg/ngày = 70 mg sắt nguyên tố cho 17 kg; theo QĐ 1832 thì 2 mg/kg = 34 mg.",
+     "Giải thích bằng tiêu chí cụ thể (Hb 86 g/L chưa đến ngưỡng truyền ≤ 40 g/L; uống sắt là đường điều trị chính), không chỉ từ chối. Hỏi lại nhẹ nhàng việc bỏ thuốc lần trước; phân đen, táo là bình thường (QĐ 1832 mục 5.2).",
+     "Ăn uống: bớt sữa hộp, thêm thịt, cá, gan, rau, trái cây (QĐ 3312 mục 6); dặn cả bà nội vì bà cho bé ăn ban ngày.",
+     "Không tiêm hay truyền sắt, không truyền máu, không truyền dịch (QĐ 3312 mục 4.2; QĐ 1832 mục 5.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) fumarat siro (hoặc muối sắt uống tương đương)",
+      "ham_luong": "20 mg sắt nguyên tố/mL (100 mg/5 mL, WHO Pocket book 2013 Annex 2 tr. 364); xem hàm lượng sắt nguyên tố ghi trên nhãn thuốc thực tế",
+      "lieu": "3,5 mL (70 mg sắt nguyên tố, 4 mg/kg/ngày) một lần mỗi ngày; hoặc 1,7 mL (34 mg, 2 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói hoặc giữa hai bữa, xa hộp sữa; nếu bé kích ứng dạ dày thì uống trong bữa ăn",
+      "so_ngay": "14 ngày rồi tái khám; tổng 6–8 tuần (QĐ 3312) hoặc 6–12 tháng, thêm 3 tháng sau khi Hb bình thường (QĐ 1832) hoặc khoảng 3 tháng (WHO 2013)",
+      "ghi_chu": "QĐ 3312/2015 Thiếu máu thiếu sắt mục 4.2 (4–6 mg Fe/kg/ngày); QĐ 1832/2022 mục 5.2 (2 mg/kg/ngày, uống lúc đói); WHO Pocket book 2013 mục 10.5. Phân đen và táo là bình thường (QĐ 1832 mục 5.2)."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "100 mg",
+      "lieu": "1 viên nhai hoặc 1 lần uống 100 mg mỗi ngày (hoặc uống kèm nước cam)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc uống sắt",
+      "so_ngay": "Trong thời gian uống sắt",
+      "ghi_chu": "QĐ 3312/2015 mục 4.2 (vitamin C 50–100 mg/ngày để tăng hấp thu sắt); QĐ 1832/2022 mục 5.2 (vitamin C hoặc nước cam, chanh)."
+     },
+     {
+      "thuoc": "Mebendazol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên duy nhất",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, sau bữa ăn",
+      "so_ngay": "1 liều",
+      "ghi_chu": "WHO Pocket book 2013 mục 10.5 (trẻ ≥ 1 tuổi chưa dùng trong 6 tháng); QĐ 3312/2015 Nhiễm KST đường ruột mục 3.1a. Không bắt buộc vì soi phân âm tính."
+     }
+    ],
+    "dan_do": [
+     "Bé thiếu máu do thiếu sắt mức vừa, uống sắt tại nhà là đủ; truyền nước hay truyền máu không có lợi và không chữa nguyên nhân (QĐ 3312 mục 4.2; QĐ 1832 mục 5.1).",
+     "Uống sắt đều mỗi ngày, lúc đói hoặc xa hộp sữa; phân đen, táo là bình thường (QĐ 1832 mục 5.2), cho ăn rau, trái cây để đỡ táo. Không tự ngưng; bé khó uống thì quay lại hỏi.",
+     "Giảm sữa hộp thay bữa chính, thêm thịt, cá, gan, rau xanh, trái cây có vitamin C (QĐ 3312 mục 6); nhờ bà nội cùng thực hiện, mang sổ và giấy xét nghiệm cũ.",
+     "Tái khám sau 14 ngày với công thức máu và hồng cầu lưới. Đến ngay nếu mệt lả, thở nhanh, tim đập nhanh, li bì, da nhợt hơn (QĐ 3312 mục 5; WHO 2013 mục 10.5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 14 ngày theo hẹn. Chị Hạnh nói bé 'đỡ hơn chút nhưng chưa hồng hào', bé chơi lâu hơn trước; chị hỏi có nên truyền sắt vào tĩnh mạch cho nhanh vì 'uống mà chưa lên nhiều'. Sinh hiệu: nhiệt 36,9 °C, mạch 104 l/p, nhịp thở 22 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khang nhập viện truyền sắt tĩnh mạch hoặc truyền máu vì 'uống mà chưa lên' là quá tay: Hb đã 92 g/L, hồng cầu lưới tăng từ 0,9% lên 2,2% tức sắt đang có tác dụng, bé không suy tim. Sắt tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu hoặc bệnh mạn tiến triển (QĐ 1832/2022, mục 5.1). Chị Hạnh sẽ hiểu rằng thuốc uống 'không có tác dụng', còn nguyên nhân (uống không đều, pha sữa) vẫn không được sửa.",
+    "chuyen_tuyen": "Chuyển bé lên huyết học sau 14 ngày là quá sớm: Hb tăng chậm vì bé uống khoảng 4–5 ngày mỗi tuần, hồng cầu lưới đã tăng; WHO Pocket book 2013 (mục 10.5) cần 2–4 tuần chỉnh thiếu máu và 1–3 tháng tạo kho sắt. Ca đã loại thalassemia (điện di bình thường), không dấu mất máu. Chị mất một ngày công, có thể kèm xét nghiệm không cần thiết, mà cách uống thuốc vẫn chưa đổi."
+   },
+   "loi_mo": "Bác sĩ ơi, em cho cháu uống thuốc sắt hai tuần rồi mà cháu vẫn chưa hồng hào mấy. Hay bác sĩ cho cháu truyền sắt vào tĩnh mạch đi, em đỡ phải nhớ uống mỗi ngày.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé chơi lâu hơn, ăn khá hơn một chút nhưng chưa hồng hào. Mẹ thấy uống sắt hai tuần chưa lên nhiều và muốn truyền sắt vào tĩnh mạch cho nhanh, khỏi nhớ uống hằng ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ nói 'uống đều'. Thật ra bé uống khoảng 4–5 ngày mỗi tuần: bé chê vị, mẹ pha siro vào hộp sữa buổi sáng cho dễ uống; vài hôm mẹ về muộn quên; hôm bà nội thấy phân đen lo nên không cho.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ kể khi bác sĩ hỏi cụ thể tuần qua bé uống mấy ngày, uống lúc nào, uống cùng gì, hoặc hỏi nhẹ nhàng không trách mẹ.",
+     "k": 1,
+     "y": "Tuân thủ thuốc, cách uống"
+    },
+    {
+     "id": "phan_den",
+     "noi_dung": "Bé đi ngoài phân sẫm màu gần như đen vài ngày, hơi táo, không nôn, không đau bụng, không phân máu hay phân nhầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dung nạp thuốc, phân đen do sắt"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Sữa hộp giảm còn 3 hộp mỗi ngày; thêm trứng, cá hấp 2–3 bữa mỗi tuần; vẫn ít thịt đỏ và rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn sau điều chỉnh"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không sốt, không ho, không tiêu chảy, không khó thở, không phù, không li bì, không nôn ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng, dấu hiệu mất máu"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ nghĩ truyền sắt một lần là xong, khỏi phải nhớ uống mỗi ngày và khỏi đưa bé đi khám nhiều lần. Mẹ cũng sợ bé 'uống sắt hại gan'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Động cơ ẩn: muốn được truyền",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, chơi được. Da còn xanh nhẹ, niêm mạc môi hồng hơn lần trước.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc mi nhợt nhẹ, hồng hơn lần trước.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Lòng bàn tay nhợt nhẹ, móng hồng nhạt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không sờ thấy.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 9,1 G/L · Hb 92 g/L · MCV 64,4 fL · MCH 20,4 pg · RDW 18,4% · TC 360 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 9.1,
+      "neu_pct": 45.0,
+      "neu": 4.1,
+      "lym_pct": 44.0,
+      "lym": 4.0,
+      "mono_pct": 6.0,
+      "mono": 0.55,
+      "eos_pct": 4.0,
+      "eos": 0.36,
+      "baso_pct": 1.0,
+      "baso": 0.09,
+      "rbc": 4.5,
+      "hgb": 92,
+      "hct": 0.29,
+      "mcv": 64.4,
+      "mch": 20.4,
+      "mchc": 317,
+      "rdw": 18.4,
+      "plt": 360
+     },
+     "n": "Hb tăng 6 g/L sau 14 ngày (khoảng 0,4 g/L/ngày), thấp hơn mốc 1,0–1,5 g/L/ngày sau 10 ngày của QĐ 3312 (mục 4.2); WHO Pocket book 2013 (mục 10.5): 2–4 tuần để chỉnh thiếu máu."
+    },
+    "hong_cau_luoi": {
+     "v": "e",
+     "r": "Hồng cầu lưới 2,2%",
+     "ab": 1,
+     "n": "Tăng 0,9% → 2,2%: có đáp ứng (QĐ 3312, mục 4.2: tăng sau 5–10 ngày). Đây là điểm phân biệt hồi phục chậm với thất bại điều trị."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt đáp ứng một phần: hồng cầu lưới đã tăng, Hb tăng chậm vì uống sắt không đều và pha vào sữa; chưa phải thất bại điều trị",
+     "ok": 1,
+     "n": "Hồng cầu lưới 0,9% → 2,2%, Hb 86 → 92 g/L (QĐ 3312 mục 4.2); bé chỉ uống 4–5 ngày mỗi tuần; WHO 2013 mục 10.5: 2–4 tuần để chỉnh thiếu máu."
+    },
+    {
+     "t": "Thất bại điều trị sắt uống: nghi thalassemia hoặc mất máu tiêu hóa, cần chuyển tuyến",
+     "n": "Đã loại thalassemia (điện di bình thường, ferritin thấp); không dấu mất máu; hồng cầu lưới tăng. Thất bại thật là dùng đủ liều đúng cách mà Hb không tăng (QĐ 1832 mục 5.3)."
+    },
+    {
+     "t": "Kém hấp thu sắt đường uống, cần sắt tiêm hoặc tĩnh mạch",
+     "n": "Chỉ định sắt tĩnh mạch: thiếu máu nặng, không hấp thu (cắt đoạn ruột, dạ dày, bệnh bẩm sinh) hoặc bệnh mạn đang tiến triển (QĐ 1832 mục 5.1); bé không thuộc nhóm nào."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục sắt uống cùng liều, uống đều mỗi ngày: 4–6 mg Fe/kg/ngày trong 6–8 tuần HOẶC 2 mg/kg/ngày trong 6–12 tháng HOẶC khoảng 3 tháng",
+     "v": "c",
+     "n": "QĐ 3312/2015 (mục 4.2), QĐ 1832/2022 (mục 5.1–5.2), WHO Pocket book 2013 (mục 10.5); ghi cả ba theo sổ mâu thuẫn NH-1255. Không tăng liều để bù ngày quên."
+    },
+    {
+     "t": "Hỏi lại nhẹ nhàng về cách uống thuốc; dặn không pha vào sữa, uống lúc đói hoặc xa bữa sữa; phân đen là bình thường",
+     "v": "c",
+     "n": "QĐ 1832 mục 5.2: hấp thu tốt nhất lúc đói; phân đen, táo không phải xuất huyết. Pha sữa làm giảm hấp thu: không có trong tài liệu đã tải, suy ra từ nguyên tắc uống lúc đói."
+    },
+    {
+     "t": "Giải thích vì sao chưa cần truyền sắt tĩnh mạch: sắt uống đang có tác dụng",
+     "v": "c",
+     "n": "Hồng cầu lưới tăng sau 5–10 ngày (QĐ 3312 mục 4.2); sắt tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu, bệnh mạn tiến triển (QĐ 1832 mục 5.1)."
+    },
+    {
+     "t": "Hẹn tái khám sau 6 tuần: công thức máu, hồng cầu lưới, ferritin; đến ngay nếu mệt lả, thở nhanh, li bì",
+     "v": "c",
+     "n": "Theo dõi bằng tổng phân tích tế bào máu, hồng cầu lưới, ferritin, bilan sắt (QĐ 1832 mục 6); 6–8 tuần (QĐ 3312 mục 4.2); WHO 2013: 1–3 tháng để tạo kho sắt (mục 10.5)."
+    },
+    {
+     "t": "Truyền sắt tĩnh mạch hoặc tiêm sắt theo ý mẹ",
+     "v": "w",
+     "n": "QĐ 1832 mục 5.1; QĐ 3312 mục 4.2 (tiêm khi không thể uống hoặc không hấp thu). Bé uống được."
+    },
+    {
+     "t": "Chuyển huyết học / soi tiêu hóa vì 'không đáp ứng' sau 14 ngày",
+     "v": "w",
+     "n": "Hồng cầu lưới đã tăng; WHO 2013 mục 10.5 cần 2–4 tuần để chỉnh thiếu máu."
+    },
+    {
+     "t": "Ngưng sắt vì phân đen",
+     "v": "w",
+     "n": "Phân đen khi uống sắt là bình thường (QĐ 1832 mục 5.2; QĐ 3312 mục 5)."
+    },
+    {
+     "t": "Tăng liều sắt gấp đôi để bù những ngày quên",
+     "v": "w",
+     "n": "Liều 4–6 mg/kg/ngày (QĐ 3312 mục 4.2); liều cao hơn khoảng này: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt đang đáp ứng một phần sau 14 ngày (Hb 86 → 92 g/L, hồng cầu lưới 0,9% → 2,2%)",
+     "Nguyên nhân chậm: uống sắt không đều (4–5 ngày mỗi tuần), pha vào sữa; vẫn còn 3 hộp sữa mỗi ngày",
+     "Không có dấu thất bại điều trị, không có chỉ định sắt tĩnh mạch hay chuyển tuyến"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: tình trạng chung và tác dụng thuốc → hỏi cụ thể tuần qua uống mấy ngày, lúc nào, uống cùng gì (mẹ giấu) → dung nạp, phân đen → ăn uống sau điều chỉnh → dấu hiệu nặng. Hỏi chung 'uống đều chứ?' mẹ sẽ đáp 'đều ạ'.",
+     "Khám: da và niêm mạc hồng hơn, mạch 104 l/p (giảm từ 108), gan lách không to (QĐ 3312 mục 3.1).",
+     "CLS: Hb 92, MCV 64,4 còn thấp; hồng cầu lưới 2,2% so với 0,9% là bằng chứng đáp ứng sớm (QĐ 3312 mục 4.2). Hb tăng 0,4 g/L/ngày thấp hơn mốc 1,0–1,5 g/L/ngày của QĐ 3312 nhưng WHO 2013 (mục 10.5) chỉ nêu 2–4 tuần; ghi cả hai, khoảng cách giải thích bằng tuân thủ.",
+     "Phân biệt hồi phục chậm với thất bại điều trị: thất bại là đủ liều, đúng cách mà hồng cầu lưới và Hb không tăng, lúc đó mới xét thalassemia, mất máu, kém hấp thu (QĐ 1832 mục 4.2, 5.3). Bé chưa thuộc nhóm này."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn 6 tuần: cải thiện tuân thủ là can thiệp chính; ghi cả ba mốc thời gian điều trị (QĐ 3312; QĐ 1832; WHO 2013).",
+     "Sắt tĩnh mạch, chuyển tuyến và nội soi đều không có chỉ định (QĐ 1832 mục 5.1); thalassemia đã loại ở lượt 1. Không tăng liều bù ngày quên; liều trên 6 mg/kg/ngày: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) fumarat siro (hoặc muối sắt uống tương đương)",
+      "ham_luong": "20 mg sắt nguyên tố/mL (100 mg/5 mL, WHO Pocket book 2013 Annex 2 tr. 364); xem hàm lượng ghi trên nhãn thuốc thực tế",
+      "lieu": "3,5 mL (70 mg sắt nguyên tố, khoảng 4 mg/kg/ngày) một lần mỗi ngày; hoặc 1,7 mL (34 mg, 2 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói hoặc giữa hai bữa, KHÔNG pha vào hộp sữa; kích ứng dạ dày thì uống trong bữa ăn",
+      "so_ngay": "Tiếp tục uống đều mỗi ngày; tổng 6–8 tuần (QĐ 3312) hoặc 6–12 tháng (QĐ 1832) hoặc khoảng 3 tháng (WHO 2013)",
+      "ghi_chu": "Giữ nguyên liều lượt 1. QĐ 3312/2015 mục 4.2; QĐ 1832/2022 mục 5.2 (uống lúc đói; phân đen không phải xuất huyết); WHO Pocket book 2013 mục 10.5."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "100 mg",
+      "lieu": "1 viên nhai 100 mg mỗi ngày (hoặc uống kèm nước cam)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc uống sắt",
+      "so_ngay": "Trong thời gian uống sắt",
+      "ghi_chu": "QĐ 3312/2015 mục 4.2 (vitamin C 50–100 mg/ngày); QĐ 1832/2022 mục 5.2."
+     }
+    ],
+    "dan_do": [
+     "Thuốc sắt đang có tác dụng (hồng cầu lưới tăng), cần uống ĐỀU mỗi ngày mới lên nhanh; không cần truyền sắt (QĐ 1832 mục 5.1).",
+     "Không pha thuốc vào sữa; cho uống lúc đói hoặc xa bữa sữa; phân đen, táo là bình thường (QĐ 1832 mục 5.2). Bé chê vị thì hỏi bác sĩ đổi chế phẩm, đừng bỏ.",
+     "Giảm sữa hộp, thêm thịt, cá, trứng, rau (QĐ 3312 mục 6); bà nội cùng thực hiện.",
+     "Tái khám sau 6 tuần với công thức máu và ferritin (QĐ 1832 mục 6). Đến ngay nếu mệt lả, thở nhanh, tim đập nhanh, li bì (QĐ 3312 mục 5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau 6 tuần (tuần thứ 8 kể từ lần khám đầu). Bé hồng hào, chơi tốt, ăn khá. Chị Hạnh cho biết 7 ngày trước chị tự ngưng sắt vì thấy bé hết nhợt, rồi xin bác sĩ 'truyền sắt một lần cho chắc để khỏi uống nữa'. Sinh hiệu: nhiệt 36,7 °C, mạch 94 l/p, nhịp thở 22 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khang nhập viện truyền sắt một lần theo ý chị Hạnh là quá tay: bé uống được, hấp thu tốt và đã đáp ứng (Hb 86 lên 111 g/L), không thuộc chỉ định sắt tĩnh mạch (QĐ 1832/2022, mục 5.1). Bé 4 tuổi chịu kim truyền; chị vẫn chưa hiểu kho sắt cần sắt uống thêm vài tháng nên về bỏ cả thuốc lẫn chế độ ăn. Nguy cơ cụ thể của sắt tĩnh mạch ở trẻ: không có trong tài liệu đã tải (QĐ 3312 mục 4.2 chỉ nói sắt sucrose, gluconate an toàn hơn dextran).",
+    "chuyen_tuyen": "Chuyển bé lên huyết học vì 'chưa khỏi hẳn' là quá tay: Hb tăng 25 g/L, MCV từ 63,6 lên 72 fL: quỹ đạo hồi phục bình thường (WHO Pocket book 2013 mục 10.5: 2–4 tuần chỉnh thiếu máu, 1–3 tháng tạo kho sắt; QĐ 3312 mục 5: Hb phục hồi sau 2–3 tháng). Chị mất ngày công, bé bị lấy máu lần nữa, điều bé cần vẫn là uống tiếp sắt và ăn đủ."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hồng hào lắm rồi, em nghĩ khỏi rồi. Em ngưng thuốc sắt một tuần nay. Bác sĩ cho cháu truyền sắt một lần cho chắc, rồi cháu khỏi phải uống nữa nha.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé hồng hào, ăn khá, ít sụt sịt, cô giáo nói bé tập trung hơn. Mẹ tự ngưng sắt 7 ngày nay vì thấy bé hết nhợt, và muốn truyền sắt một lần để khỏi uống thuốc nữa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Sau lần khám trước bé uống sắt gần như mỗi ngày (bỏ khoảng 4 ngày trong 6 tuần), uống một mình trước bữa sáng, không pha sữa. Sữa còn 2 hộp mỗi ngày, ăn thịt gà, cá, trứng khoảng 4 bữa mỗi tuần. Ngưng hẳn từ 7 ngày trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, ăn uống, thời điểm ngưng thuốc"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Không sốt, không phân đen kéo dài sau khi ngưng thuốc, không phân máu, không tiểu máu, không chảy máu cam; thỉnh thoảng táo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất máu, dung nạp thuốc"
+    },
+    {
+     "id": "hieu_biet",
+     "noi_dung": "Mẹ nghĩ 'hết nhợt là hết bệnh' và sợ uống sắt nhiều tháng 'hại gan'; mẹ không biết thiếu máu hết rồi vẫn cần uống thêm để đầy kho sắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hiểu biết của mẹ về thời gian điều trị"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ muốn 'xong một lần' vì không muốn đưa bé đi khám thêm; mẹ không thích cảnh cho bé uống thuốc mỗi sáng khi vội đi làm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Động cơ ẩn: muốn được truyền",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé hồng hào, linh hoạt. Niêm mạc môi hồng.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc mi hồng nhạt.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Lòng bàn tay và móng hồng. Móng trơn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, mạch 94 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 17,9 kg (tăng 0,9 kg), cao 103,8 cm, MUAC 163 mm.",
+     "k": 1,
+     "hien": "Cân nặng 17,9 kg, cao 103,8 cm, MUAC 163 mm."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,6 G/L · Hb 111 g/L · MCV 72,3 fL · MCH 23,6 pg · RDW 15,4% · TC 310 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 44.5,
+      "neu": 3.38,
+      "lym_pct": 44.0,
+      "lym": 3.34,
+      "mono_pct": 6.0,
+      "mono": 0.46,
+      "eos_pct": 4.5,
+      "eos": 0.34,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.7,
+      "hgb": 111,
+      "hct": 0.34,
+      "mcv": 72.3,
+      "mch": 23.6,
+      "mchc": 326,
+      "rdw": 15.4,
+      "plt": 310
+     },
+     "n": "Hb 111 g/L: đạt ngưỡng WHO 2024 (≥ 110, Bảng 2–3) và WHO 2013 (≥ 93) nhưng chưa đạt QĐ 3312 (< 115, mục 1): hết thiếu máu hay chưa tùy nguồn, cả hai đều đúng. MCV lên 72 fL cùng Hb, khó nghĩ thalassemia (QĐ 3312 Thalassemia mục 2.1c)."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 16 ng/mL · sắt huyết thanh 8,5 µmol/L · bão hòa transferrin 14%",
+     "ab": 1,
+     "n": "Ferritin 16 ≥ 12 (QĐ 3312 mục 3.2) nên không còn dưới ngưỡng này, nhưng < 30 ng/mL (QĐ 1832 mục 4.1) nên kho sắt vẫn chưa đầy; bão hòa 14% < 16% và sắt 8,5 < 9 µmol/L vẫn dưới ngưỡng QĐ 3312. Theo sổ mâu thuẫn NH-1243: ghi cả hai."
+    },
+    "hong_cau_luoi": {
+     "v": "u",
+     "r": "Hồng cầu lưới 1,3%",
+     "n": "Đã giảm về mức bình thường sau giai đoạn đáp ứng; Hb đã tăng 25 g/L (QĐ 3312 mục 4.2; QĐ 1832 mục 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt đang hồi phục chậm hơn dự kiến: Hb 111 g/L (đạt WHO 2024, chưa đạt QĐ 3312), kho sắt chưa đầy (ferritin 16, bão hòa 14%); mẹ ngưng sắt sớm",
+     "ok": 1,
+     "n": "Hb 86 → 92 → 111 g/L; ngưỡng thiếu máu 2–6 tuổi < 115 (QĐ 3312 mục 1) so với 24–59 tháng < 110 (WHO 2024 Bảng 2); ferritin < 30 (QĐ 1832 mục 4.1) hoặc bão hòa < 16% (QĐ 3312 mục 3.2). WHO 2013 mục 10.5: 1–3 tháng để tạo kho sắt."
+    },
+    {
+     "t": "Đã khỏi hoàn toàn vì Hb về bình thường, ngưng sắt",
+     "n": "Kho sắt chưa đầy; QĐ 1832 mục 5.1: bổ sung thêm 3 tháng sau khi Hb về bình thường; WHO 2013: điều trị khoảng 3 tháng. QĐ 3312 mục 4.2 chỉ nêu 6–8 tuần, mục 5 nêu Hb phục hồi sau 2–3 tháng."
+    },
+    {
+     "t": "Thalassemia thể nhẹ vì MCV còn 72 fL",
+     "n": "MCV tăng từ 63,6 lên 72 fL theo Hb sau khi bổ sung sắt, điện di bình thường lượt 1; thalassemia không đáp ứng sắt như vậy (QĐ 3312 Thalassemia mục 2.1c, 2.2). Làm lại điện di nếu MCV không bình thường sau khi đủ sắt."
+    },
+    {
+     "t": "Thất bại điều trị sắt, cần xét lại nguyên nhân",
+     "n": "Hb tăng 25 g/L trong 8 tuần, hồng cầu lưới đáp ứng ở lượt 2: là hồi phục chậm, không phải thất bại (WHO 2013 mục 10.5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho uống lại sắt cùng liều: tổng khoảng 3 tháng từ lúc bắt đầu HOẶC thêm 3 tháng sau khi Hb bình thường; 4–6 mg Fe/kg/ngày hay 2 mg/kg/ngày",
+     "v": "c",
+     "n": "WHO Pocket book 2013 (mục 10.5: khoảng 3 tháng để tạo kho sắt) HOẶC QĐ 1832/2022 (mục 5.1–5.2: thêm 3 tháng sau khi Hb bình thường, 2 mg/kg/ngày); QĐ 3312/2015 (mục 4.2) nêu 4–6 mg/kg/ngày trong 6–8 tuần, bé đã đủ 8 tuần nhưng Hb còn dưới 115 g/L và ferritin dưới 30 ng/mL. Ghi cả ba, theo sổ mâu thuẫn NH-1255."
+    },
+    {
+     "t": "Giải thích: Hb về mức bình thường chưa phải kho sắt đã đầy; không truyền sắt vì bé uống được và đã đáp ứng",
+     "v": "c",
+     "n": "Ferritin 16, bão hòa 14% (QĐ 1832 mục 4.1; QĐ 3312 mục 3.2); sắt tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu, bệnh mạn tiến triển (QĐ 1832 mục 5.1)."
+    },
+    {
+     "t": "Giữ chế độ ăn giàu sắt, sữa hộp ít hơn và không thay bữa chính",
+     "v": "c",
+     "n": "QĐ 3312 mục 6; điều trị nguyên nhân để tránh thiếu sắt tái phát (QĐ 1832 mục 5.3)."
+    },
+    {
+     "t": "Hẹn tái khám sau 6 tuần (khoảng 3 tháng từ lần đầu) với công thức máu và ferritin; ngưng sắt khi kho sắt đủ",
+     "v": "c",
+     "n": "Xét nghiệm theo dõi: công thức máu, hồng cầu lưới, sắt, ferritin (QĐ 1832 mục 6); ngưng sau khi Hb bình thường và kho sắt đủ (QĐ 1832 mục 5.1)."
+    },
+    {
+     "t": "Dừng sắt ở tuần 8 theo QĐ 3312, hẹn kiểm lại công thức máu và ferritin",
+     "v": "a",
+     "n": "QĐ 3312/2015 mục 4.2: 6–8 tuần, mục 5: Hb phục hồi sau 2–3 tháng; cách này vẫn đúng một nguồn nhưng phải kiểm lại ferritin."
+    },
+    {
+     "t": "Ngưng sắt hoàn toàn, không cần kiểm lại vì 'Hb đã bình thường'",
+     "v": "w",
+     "n": "QĐ 1832 mục 5.1 và 6; WHO 2013 mục 10.5. Ferritin 16 cho thấy kho sắt chưa đầy; ngưng không theo dõi dễ tái phát."
+    },
+    {
+     "t": "Truyền sắt tĩnh mạch một lần theo ý mẹ",
+     "v": "w",
+     "n": "QĐ 1832 mục 5.1: tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu, bệnh mạn tiến triển; bé không thuộc nhóm nào."
+    },
+    {
+     "t": "Tăng liều sắt gấp đôi để nhanh đầy kho",
+     "v": "w",
+     "n": "Liều 4–6 mg/kg/ngày (QĐ 3312 mục 4.2); liều cao hơn: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt đang hồi phục, đáp ứng sắt tốt nhưng chậm hơn dự kiến (Hb 86 → 92 → 111 g/L)",
+     "Hb đạt ngưỡng WHO 2024 (≥ 110 g/L) nhưng chưa đạt ngưỡng QĐ 3312 (< 115 g/L); kho sắt chưa đầy (ferritin 16 ng/mL, bão hòa 14%)",
+     "Mẹ tự ngưng sắt 7 ngày vì hiểu 'hết nhợt là khỏi', muốn truyền sắt một lần; không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và việc ngưng thuốc → uống thuốc và ăn uống từ lần khám trước → dấu mất máu, dung nạp → hiểu biết của mẹ về thời gian điều trị. Bỏ qua mẹ đã ngưng thuốc sẽ đọc sai ferritin.",
+     "Khám: hồng hào, kết mạc, lòng bàn tay, móng hồng; gan lách không to; cân tăng 0,9 kg (QĐ 3312 mục 3.1 đối chiếu lượt 1).",
+     "CLS: Hb 111, MCV 72,3, RDW 15,4%: cả ba đều tiến gần bình thường, quỹ đạo hồi phục đúng. Hb ≥ 110 g/L nên hết thiếu máu theo WHO 2024 (Bảng 2) nhưng < 115 g/L nên còn thiếu máu theo QĐ 3312 (mục 1); ghi cả hai, không phải chọn. Ferritin 16 ≥ 12 (QĐ 3312) nhưng < 30 (QĐ 1832 mục 4.1); bão hòa 14% < 16% (QĐ 3312 mục 3.2).",
+     "Phân biệt hồi phục chậm với thất bại điều trị: thất bại khi uống đủ liều đúng cách mà Hb không tăng; bé tăng 25 g/L trong 8 tuần, MCV về gần bình thường, nên là hồi phục chậm do 2 tuần đầu uống không đều và vừa ngưng thuốc (WHO 2013 mục 10.5: 2–4 tuần chỉnh thiếu máu, 1–3 tháng tạo kho sắt).",
+     "Thalassemia: MCV tăng cùng Hb khi có sắt, điện di lượt 1 bình thường; nếu đủ sắt mà MCV vẫn < 78 fL thì làm lại điện di (QĐ 3312, Thalassemia mục 2.1c, 2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, uống sắt tiếp, hẹn 6 tuần: không có chỉ định sắt tĩnh mạch hay chuyển tuyến (QĐ 1832 mục 5.1). Ghi cả ba mốc: QĐ 3312 (6–8 tuần), QĐ 1832 (thêm 3 tháng sau khi Hb bình thường), WHO 2013 (khoảng 3 tháng).",
+     "Giải thích 'Hb bình thường' khác 'kho sắt đầy', dùng ferritin 16 làm bằng chứng với mẹ; giảm gánh nặng: uống một lần mỗi sáng, đổi chế phẩm nếu bé chê vị. Ngưng sắt khi hết cả thiếu máu lẫn thiếu sắt, có kiểm lại (QĐ 1832 mục 5.1, 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) fumarat siro (hoặc muối sắt uống tương đương)",
+      "ham_luong": "20 mg sắt nguyên tố/mL (100 mg/5 mL, WHO Pocket book 2013 Annex 2 tr. 364); xem hàm lượng ghi trên nhãn thuốc thực tế",
+      "lieu": "3,5 mL (70 mg sắt nguyên tố, khoảng 4 mg/kg/ngày) một lần mỗi ngày; hoặc 1,7 mL (34 mg, 2 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói hoặc giữa hai bữa, KHÔNG pha vào hộp sữa; kích ứng dạ dày thì uống trong bữa ăn",
+      "so_ngay": "Tiếp tục uống đều: tổng khoảng 3 tháng (WHO 2013) hoặc thêm 3 tháng sau khi Hb bình thường (QĐ 1832); tái khám sau 6 tuần",
+      "ghi_chu": "WHO Pocket book 2013 mục 10.5; QĐ 1832/2022 mục 5.1–5.2; QĐ 3312/2015 mục 4.2 (4–6 mg/kg/ngày, 6–8 tuần, đã đủ 8 tuần nhưng còn dưới ngưỡng)."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "100 mg",
+      "lieu": "1 viên nhai 100 mg mỗi ngày (hoặc uống kèm nước cam)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc uống sắt",
+      "so_ngay": "Trong thời gian uống sắt",
+      "ghi_chu": "QĐ 3312/2015 mục 4.2 (vitamin C 50–100 mg/ngày); QĐ 1832/2022 mục 5.2."
+     }
+    ],
+    "dan_do": [
+     "Cháu hồng hào là tốt, nhưng 'hết nhợt' chưa phải kho sắt đã đầy: ferritin còn 16 ng/mL; cần uống tiếp sắt vài tháng để tránh tái phát (QĐ 1832 mục 5.1; WHO 2013 mục 10.5).",
+     "Không cần truyền sắt: bé uống được, đáp ứng tốt. Uống mỗi sáng lúc đói, không pha sữa; táo thì cho ăn rau, trái cây.",
+     "Tiếp tục bữa ăn nhiều sắt, sữa hộp không thay bữa chính (QĐ 3312 mục 6).",
+     "Tái khám sau 6 tuần với công thức máu, ferritin (QĐ 1832 mục 6). Đến ngay nếu mệt lả, nhợt trở lại, thở nhanh, li bì (QĐ 3312 mục 5)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé uống tiếp sắt đủ khoảng 3 tháng từ lúc bắt đầu; ở lần kiểm sau đó Hb 124 g/L, MCV 77 fL, ferritin 38 ng/mL, bão hòa transferrin 22% (đã vượt cả ngưỡng QĐ 3312 và QĐ 1832), nên ngưng sắt. Bé ăn thêm thịt cá, sữa còn hai hộp mỗi ngày, cô giáo ghi nhận bé tập trung hơn. Thời gian khỏi dài hơn 6–8 tuần ban đầu vì hai tuần đầu uống sắt không đều và mẹ ngưng sớm một lần (QĐ 3312 mục 5: Hb thường phục hồi sau 2–3 tháng; WHO 2013 mục 10.5: 1–3 tháng tạo kho sắt).",
+ "nhieu": [
+  "Giấu tiền sử: mẹ không kể bé từng uống sắt 10 ngày rồi bỏ, không kể 4–5 hộp sữa mỗi ngày; ở lượt 2 mẹ nói 'uống đều' trong khi uống 4–5 ngày mỗi tuần, pha vào sữa.",
+  "Áp lực công việc của mẹ (chốt sổ cuối quý): là lý do bữa ăn thất thường, sữa hộp thay bữa và mẹ muốn bé khỏi 'một lần cho xong'; không phải triệu chứng của bé.",
+  "Thuốc dị ứng tự mua và không có X-quang: siro kháng histamin khiến mẹ gán sụt sịt cho dị ứng; X-quang không cần, chẩn đoán dựa vào lâm sàng, công thức máu, ferritin và theo dõi có mốc."
+ ],
+ "bai_hoc_bien": [
+  "Giấu tiền sử: hỏi từng bữa và lượng sữa, hỏi riêng về thuốc sắt và xét nghiệm cũ, nói nhẹ nhàng rằng phân đen khi uống sắt là bình thường để mẹ dám kể; khi tái khám hỏi 'tuần qua uống mấy ngày, uống cùng gì' thay vì 'có uống đều không'.",
+  "Không điển hình: bé tròn trịa, không xanh xao rõ; lý do khám là ốm vặt, quấy, lơ đãng nên dễ gán cho dị ứng (QĐ 3312 mục 3.1: thiếu máu thiếu sắt tiến triển từ từ, thường nhẹ đến vừa).",
+  "Muốn được truyền dịch: giải thích bằng tiêu chí cụ thể (Hb 86 g/L chưa đến ngưỡng truyền ≤ 40 g/L; sắt tĩnh mạch chỉ cho thiếu máu nặng, không hấp thu, bệnh mạn tiến triển) thay vì chỉ từ chối.",
+  "Đỡ một phần ở lượt 2: phân biệt hồi phục chậm (hồng cầu lưới đã tăng, tuân thủ kém) với thất bại điều trị (đủ liều, đúng cách mà không tăng): chưa chuyển tuyến, sửa cách uống.",
+  "Khỏi chậm hơn dự kiến: Hb về mức bình thường chưa có nghĩa kho sắt đầy; hai nguồn có ngưỡng khác nhau (Hb 110 g/L theo WHO 2024, 115 g/L theo QĐ 3312; ferritin 12 hoặc 30 ng/mL) nên ghi cả hai, và cần giải thích cho mẹ vì sao uống tiếp."
+ ],
+ "diem_nho": [
+  "Ngưỡng Hb thiếu máu: 24–59 tháng < 110 g/L (WHO 2024 Bảng 2), mức vừa 70–99 g/L (Bảng 3); 2–6 tuổi < 115 g/L (QĐ 3312/2015 Thiếu máu thiếu sắt mục 1); trẻ < 6 tuổi < 93 g/L (WHO Pocket book 2013 mục 10.5).",
+  "Chẩn đoán thiếu sắt: Hb giảm, MCV, MCH, MCHC giảm, RDW > 14,5%, sắt < 9 µmol/L, ferritin < 12 ng/mL, bão hòa < 16% (QĐ 3312 mục 3.2); ferritin < 30 ng/mL và/hoặc bão hòa < 30% (QĐ 1832/2022 mục 4.1).",
+  "Điều trị: sắt 4–6 mg/kg/ngày trong 6–8 tuần (QĐ 3312 mục 4.2); 2 mg/kg/ngày trong 6–12 tháng, thêm 3 tháng sau khi Hb bình thường (QĐ 1832 mục 5.1–5.2); 14 ngày rồi tái khám, điều trị khoảng 3 tháng (WHO 2013 mục 10.5). Vitamin C 50–100 mg/ngày (QĐ 3312 mục 4.2). Phân đen là bình thường (QĐ 1832 mục 5.2).",
+  "Truyền khối hồng cầu: Hb ≤ 40 g/L, cần nâng nhanh Hb, hoặc suy tim (QĐ 3312 mục 4.2); sắt tĩnh mạch: thiếu máu nặng, không hấp thu, bệnh mạn tiến triển (QĐ 1832 mục 5.1).",
+  "Suy dinh dưỡng cấp: MUAC > 115 đến 125 mm là vừa, < 115 mm là nặng (QĐ 4487/2016 mục II)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Thiếu máu thiếu sắt (mục 1–6, tr. 539–542); Bệnh Thalassemia (mục 2–3, tr. 543–546); Nhiễm ký sinh trùng đường ruột ở trẻ em (mục 3.1a–c, tr. 335–337)",
+  "QĐ 1832 – Bộ Y tế, QĐ 1832/QĐ-BYT 2022, Hướng dẫn chẩn đoán và điều trị một số bệnh lý huyết học – TL-0542 (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Thiếu máu thiếu sắt (mục 3.2, 4.1–4.3, 5.1–5.3, 6, tr. 17–20)",
+  "WHO 2024 – WHO guideline on haemoglobin cutoffs to define anaemia in individuals and populations – TL-0244 – ĐÃ ĐỌC: Bảng 2 và Bảng 3 (trẻ 24–59 tháng)",
+  "WHO Pocket book 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 10.5 Management of anaemia (tr. 307); mục 10.6 truyền máu (tr. 308); Annex 2 liều thuốc, sắt (tr. 364); thiếu máu nặng trong sốt rét (tr. 160)",
+  "QĐ 4487 – Bộ Y tế, QĐ 4487/QĐ-BYT 2016, Hướng dẫn chẩn đoán và điều trị bệnh suy dinh dưỡng cấp tính ở trẻ em từ 0 đến 72 tháng tuổi – TL-0240 – ĐÃ ĐỌC: mục II Tiêu chuẩn chẩn đoán (MUAC, cân nặng theo chiều cao)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: lượng sữa bò tối đa mỗi ngày cho trẻ 4 tuổi; ảnh hưởng của thiếu sắt lên HbA2 trong điện di; chỉ định xét nghiệm hồng cầu to hay chì máu khi MCV thấp; tác dụng phụ cụ thể của sắt tĩnh mạch ở trẻ; liều sắt trên 6 mg/kg/ngày; bảng MCV theo tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "07/11/2026 – bản 1. Đặc tả sổ cái khớp: chẩn đoán đích thiếu máu thiếu sắt; loại trừ thalassemia (lượt 1), suy dinh dưỡng (lượt 1); 3 lượt; đỡ một phần ở lượt 2; khỏi chậm ở lượt 3; giấu tiền sử; không có X-quang; mẹ chốt sổ cuối quý; siro dị ứng tự mua; muốn truyền sắt.",
+  "Tài liệu đã đọc: xem nguon (TL-0037, TL-0542, TL-0244, TL-0250, TL-0240).",
+  "Áp dụng các mục đã có trong sổ mâu thuẫn: ngưỡng ferritin (NH-1243), liều sắt uống (NH-1243), ngưỡng truyền (NH-1243), thời gian bổ sung sắt (NH-1255), ngưỡng Hb 24–59 tháng (NH-0929). Mục mới: tốc độ tăng Hb mong đợi; ngưỡng Hb 93 g/L của WHO Pocket book 2013 (xem NH-1237_mau_thuan.md).",
+  "Chỗ thiếu tài liệu: xem mục cuối của nguon. Mốc tái khám 6 tuần và các giá trị xét nghiệm lượt 2–3 là thiết kế của ca, không phải số liệu trích từ tài liệu."
+ ]
+}
