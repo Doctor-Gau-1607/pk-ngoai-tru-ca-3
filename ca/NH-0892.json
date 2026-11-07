@@ -1,0 +1,720 @@
+{
+ "ma_ca": "NH-0892",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_thuy_dau",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thủy đậu",
+  "chan_doan_phai_loai_tru": [
+   "Tay chân miệng",
+   "Chốc"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là không làm gì",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Võ Gia Phúc",
+  "tuoi": 0.06,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.9,
+  "chieu_cao": 54,
+  "xung_ho": "Bé trai 22 ngày tuổi, chưa nói được, khóc khi bị khám. Mẹ (chị Thảo) bế con và kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Mẹ 30 tuổi, đang nghỉ thai sản, thiếu ngủ, lo lắng, nói nhanh, cầm ba xấp toa của ba nơi đã khám và cứ nhắc 'mỗi nơi nói một kiểu'. Mất niềm tin, hay hỏi dồn, xin xét nghiệm 'cho chắc'. Dịu lại khi được lắng nghe và giải thích bằng tiêu chí cụ thể, không bị trách.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mẹ ngắt lời khi bác sĩ hỏi, nhắc lại chẩn đoán của từng nơi (rôm sảy, chốc, viêm da do trở trời), đòi xét nghiệm máu và thuốc. Không tự kể chuyện anh trai từng nổi mụn nước vì nghĩ không liên quan; chỉ kể khi được hỏi cụ thể về người trong nhà. Lượt 2 vẫn do dự giữa 'nghe bác sĩ' và 'đi bệnh viện cho chắc'.",
+  "nguoi_nha": "Mẹ bé, chị Thảo, 30 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thảo)",
+  "ngoai_hinh": {
+   "da": "#f3cba8",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#cfe3f2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c97b84",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 22 ngày tuổi nổi mụn nước, đã khám 3 nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, CRP, tổng phân tích nước tiểu). Không có X-quang, siêu âm, CT, nội soi; không làm PCR virus, lam Tzanck hay marker chuyên sâu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 22 ngày tuổi, 3,9 kg, mẹ bế đến vì nổi mụn nước, mụn đỏ rải rác 3 ngày nay, đã khám ở 3 nơi mà chưa khỏi; mẹ xin 'kiểm tra tổng quát cho bé'. Sinh hiệu: nhiệt 37,3 °C (nách), mạch 138 l/p, nhịp thở 44 l/p, SpO₂ 98%. Bé tỉnh, hồng hào, đang ngậm vú.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Phúc để điều trị là quá tay: bé 22 ngày tuổi nhưng bú khỏe, không sốt, tỉnh, thở 44 l/p, không có dấu hiệu nguy hiểm nào của trẻ sơ sinh (WHO 2013 Pocket book, mục 3.6), mẹ đã có miễn dịch và bé sinh đủ tháng (CDC 2024, mục Who is at risk), còn thủy đậu ở trẻ khỏe thường lành tính, ít khi cần nhập viện (QĐ 5642/2015, Thủy đậu mục 5a). Bé đang lây phải cách ly hô hấp và tiếp xúc cho đến khi nốt đóng vảy (CDC 2024, mục Patient management), nằm cùng khoa với trẻ sơ sinh khác là phơi nhiễm cho những bé chưa có miễn dịch. Mẹ thêm một đêm xa nhà, thêm chi phí, càng tin con bệnh nặng. Dù vậy, đây không phải lựa chọn sai về an toàn: trẻ sơ sinh mắc thủy đậu có thể tiến triển nặng (QĐ 5642/2015, Thủy đậu mục 1).",
+    "chuyen_tuyen": "Chuyển bé Phúc lên bệnh viện nhi để 'chắc ăn' vì bé là sơ sinh cũng quá tay: bé không có tiêu chí nào cần chuyển (không sốt trên 38 °C, bú tốt, không li bì, không nhiều mụn mủ, rốn khô: WHO 2013 Pocket book, mục 3.6, 3.8), và thủy đậu chẩn đoán bằng lâm sàng, không cần xét nghiệm khẳng định (QĐ 5642/2015, Thủy đậu mục 3.3). Cả nhà mang một bé đang lây qua phòng chờ đông trẻ nhỏ, thêm một ngày công, chi phí đi lại, mà việc cần làm (giải thích, ngưng các thuốc không cần, dặn dấu hiệu nguy hiểm) phòng khám làm được ngay. Mẹ lại nhận thêm một nơi khám nữa mà không có gì khác. Dù vậy, đây không phải lựa chọn sai về an toàn: trẻ sơ sinh mắc thủy đậu có thể tiến triển nặng (QĐ 5642/2015, Thủy đậu mục 1)."
+   },
+   "loi_mo": "Bác sĩ ơi, con em nổi mụn nước ba ngày nay rồi. Em đưa đi ba chỗ rồi mà chỗ nào nói một kiểu, thuốc bôi thuốc nhỏ đủ cả mà không thấy bớt. Bác sĩ khám tổng quát cho cháu giúp em, xét nghiệm máu luôn cho chắc.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "37,3 (nách)",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé nổi mụn đỏ rồi mụn nước từ 3 ngày nay, mọc thêm mỗi ngày, bắt đầu ở mặt và ngực rồi ra bụng, lưng, tay, chân. Mẹ muốn được khám tổng quát và xét nghiệm máu cho chắc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến ban"
+    },
+    {
+     "id": "sot_bu",
+     "noi_dung": "Bé không sốt, bú mẹ hoàn toàn 8–9 cữ/ngày, bú khỏe, ngủ ngoan, tiểu trên 6 tã/ngày, đại tiện phân vàng. Không nôn, không co giật, không ho, không khò khè, không chảy mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, bú, dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 Pocket book mục 3.6)"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Bé sinh thường lúc 39 tuần, nặng 3,2 kg, khóc ngay, không ngạt, không vàng da phải chiếu đèn. Đã tiêm lao và viêm gan B sơ sinh, chưa tới lịch 2 tháng. Rốn rụng lúc 8 ngày, khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh (đủ tháng, không bệnh sơ sinh)"
+    },
+    {
+     "id": "me_mien_dich",
+     "noi_dung": "Mẹ (chị Thảo, 30 tuổi) bị thủy đậu năm 8 tuổi, bà ngoại còn nhớ. Lúc mang thai và sinh mẹ không sốt, không phát ban. Cả nhà không ai bị zona.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Miễn dịch của mẹ, mẹ không mắc thủy đậu quanh sinh (CDC 2024, QĐ 5642 mục 5b)"
+    },
+    {
+     "id": "anh_trai",
+     "noi_dung": "Anh trai Minh, 4 tuổi, chưa tiêm ngừa thủy đậu, nổi mụn nước khắp người cách đây khoảng 3 tuần, nghỉ học 7 ngày, ở nhà tự khỏi, vài chỗ còn vảy. Mẹ nghĩ anh bị 'nhiệt, dị ứng' nên không nhắc, và không nghĩ liên quan tới bé.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi trong nhà hay người tiếp xúc gần có ai nổi mụn nước, phát ban, nghỉ học trong tháng qua.",
+     "k": 1,
+     "y": "Nguồn lây: anh trai (ủ bệnh 10–21 ngày, CDC 2024; QĐ 5642 mục 3.1)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Nơi 1 (trạm y tế phường, ngày ban thứ 1): nói rôm sảy, cho phấn rôm, dặn mặc thoáng. Nơi 2 (phòng khám nhi tư, ngày thứ 2): nói chốc, cho thuốc mỡ kháng sinh bôi ngày 2 lần, và nhỏ mắt vì gỉ mắt. Nơi 3 (phòng khám da liễu, hôm qua): nói viêm da do trở trời, chỉ dặn dưỡng ẩm. Mẹ cầm đủ ba xấp toa, mệt mỏi, giận vì 'mỗi nơi nói một kiểu'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đã khám 3 nơi, mất niềm tin"
+    },
+    {
+     "id": "thuoc_nho_mat",
+     "noi_dung": "Từ 2 ngày nay mẹ nhỏ cho bé lọ thuốc nhỏ mắt phối hợp kháng sinh và dexamethasone (corticoid), 1 giọt mỗi mắt, 3 lần/ngày, vì bé gỉ mắt từ tuần thứ hai. Vẫn còn gỉ vàng nhạt ở khóe mắt phải. Mẹ còn bôi thuốc mỡ kháng sinh lên các nốt 2 ngày nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (nhỏ mắt có corticoid, thuốc mỡ kháng sinh)"
+    },
+    {
+     "id": "thoi_tiet",
+     "noi_dung": "Hai hôm trước khi bé nổi ban trời trở lạnh đột ngột, mẹ cho rằng 'bé bị trái gió trở trời, nóng trong' nên ủ bé ba lớp áo, đóng kín cửa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát theo mẹ (thay đổi thời tiết), không phải nguyên nhân"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Điều mẹ sợ nhất là con mắc bệnh nặng mà chưa ai tìm ra, và sợ mình sơ ý (anh bị bệnh mà không cách ly cho bé). Từ chuyện đó mẹ đòi 'xét nghiệm hết'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ lắng nghe, hỏi mẹ lo điều gì nhất, hoặc ghi nhận mẹ đã đi nhiều nơi mệt mỏi.",
+     "k": 0,
+     "y": "Lý do thật sự đến khám: muốn kiểm tra tổng quát"
+    },
+    {
+     "id": "tieu_hoa_ho_hap",
+     "noi_dung": "Bé không bỏ bú, không chảy nước dãi nhiều, không tiêu chảy; mẹ không thấy loét trong miệng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ tay chân miệng (QĐ 292/2024)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, khóc to khi khám, trương lực tốt, cử động tay chân đều, hồng hào, không vàng da. Cân nặng 3,9 kg (sinh 3,2 kg). Không li bì, không rên, không tím.",
+     "k": 1,
+     "hien": "Bé tỉnh, khóc to khi khám, cử động tốt. Cân nặng 3,9 kg."
+    },
+    "da": {
+     "a": "Khoảng 18 tổn thương rải rác ở mặt (2 nốt má), da đầu, ngực, bụng, lưng, hai tay, hai chân; 2–5 mm, có viền đỏ. Nhiều giai đoạn trên cùng vùng: dát sẩn đỏ, mụn nước trong như giọt sương, vài mụn nước dịch hơi đục, khoảng 3 nốt đã đóng vảy khô nâu. Lòng bàn tay, bàn chân, mông, vùng quanh hậu môn da bình thường. Không vảy tiết vàng mật ong, không mủ, không đỏ lan quanh nốt, không sưng nóng. Bôi thuốc mỡ ở vài nốt ngực.",
+     "k": 1,
+     "hien": "Khoảng 18 tổn thương rải rác ở mặt, da đầu, thân, tay, chân, kích thước 2–5 mm, có viền đỏ; nhiều nốt ở các giai đoạn khác nhau. Lòng bàn tay, bàn chân, mông da bình thường.",
+     "media": [
+      {
+       "vi_tri": "Bụng quanh rốn",
+       "id": "HA-DA-0026",
+       "chu": "Nhiều sẩn đỏ nhỏ rải rác ở bụng, vài nốt có chấm mụn nước hoặc vảy nhỏ ở đỉnh; các tổn thương ở những giai đoạn khác nhau."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Miệng, lưỡi, vòm họng hồng, không loét, không mụn nước. Màng nhĩ hai bên bình thường, mũi thông.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Khóe mắt phải có gỉ vàng nhạt; kết mạc không đỏ, không phù mi, không có mụn nước ở mi và quanh mắt. Bé nhìn theo mặt mẹ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Hạch cổ không sờ thấy. Cổ mềm.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ, không chảy mủ, da quanh rốn bình thường.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p đều, không rút lõm ngực, không rên. Rì rào phế nang êm, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú đúng, bú mạnh, nuốt đều, nghỉ rồi bú tiếp, thả vú tự nhiên. Không bỏ bú vì đau miệng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,6 G/L · Neutrophil 38% · Hb 148 g/L · TC 310 G/L (làm được tại chỗ, nhưng không đổi xử trí).",
+     "n": "Không cần: thủy đậu chẩn đoán bằng lâm sàng; bạch cầu bình thường hoặc giảm như nhiễm virus khác (QĐ 5642/2015, Thủy đậu mục 3.2, 3.3). Bé không có dấu hiệu nhiễm khuẩn nặng nên không cần xét nghiệm máu tìm nhiễm khuẩn (WHO 2013 Pocket book, mục 3.6, 3.8). Đáp ứng lo lắng của mẹ bằng giải thích, không bằng xét nghiệm lặp lại."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 3 mg/L.",
+     "n": "Không cần: không có dấu hiệu bội nhiễm (không mủ, không đỏ lan; QĐ 5642/2015, Thủy đậu mục 4.3, 5b)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Nước tiểu: bạch cầu, nitrit âm tính.",
+     "n": "Không cần: không triệu chứng tiết niệu; không có dấu hiệu nguy hiểm của sơ sinh (WHO 2013 Pocket book, mục 3.6)."
+    },
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Không mọc vi khuẩn (kết quả sau 48 giờ).",
+     "n": "Không cần: nốt không mủ, không vảy tiết mật ong, không phải chốc (QĐ 4416/2023, Bệnh chốc mục 2.1; IDSA 2014, Evidence summary impetigo)."
+    },
+    "pcr_hsv": {
+     "n": "Cơ sở không làm được PCR VZV/HSV. Không cần để quyết định hôm nay: PCR là xét nghiệm hữu ích nhất để xác nhận thủy đậu (CDC 2024, mục Testing and diagnosis) nhưng QĐ 5642/2015 (Thủy đậu mục 3.3) nêu chẩn đoán dựa lâm sàng và các xét nghiệm xác nhận 'rất ít khi được sử dụng'."
+    },
+    "tzanck": {
+     "n": "Không cần và cơ sở không làm (QĐ 5642/2015, Thủy đậu mục 3.3: lam Tzanck không sẵn có trong lâm sàng)."
+    },
+    "pcr_entero": {
+     "n": "Không cần: ban rải rác thân mặt, lòng bàn tay chân và miệng bình thường, không phải tay chân miệng (QĐ 292/2024, mục II.1.1, II.4.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ở trẻ sơ sinh 22 ngày tuổi, đủ tháng, mẹ có miễn dịch, tổng trạng tốt, chưa biến chứng, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Ban dát sẩn – mụn nước – vảy nhiều giai đoạn, rải rác mặt, thân, tay chân; có tiếp xúc anh trai bị thủy đậu cách 16 ngày, nằm trong thời gian ủ bệnh 10–21 ngày (QĐ 5642/2015, Thủy đậu mục 3.1, 3.3; CDC 2024, mục Incubation period). Bé không thuộc nhóm nguy cơ nặng được nêu cụ thể: mẹ có miễn dịch, không mắc quanh sinh, đủ tháng (CDC 2024, mục Who is at risk; WHO 2025, mục Treatment and post-exposure prophylaxis). Tuy vậy sơ sinh vẫn là nhóm có thể diễn tiến nặng (QĐ 5642/2015, Thủy đậu mục 1; WHO 2025) nên phải rà từng dấu hiệu nguy hiểm."
+    },
+    {
+     "t": "Tay chân miệng",
+     "n": "Ban tập trung tay chân, mông và loét miệng (QĐ 292/2024, mục II.1.1, II.4.2; QĐ 5642/2015, Thủy đậu mục 3.4). Bé có ban ở mặt, thân; lòng bàn tay, bàn chân, mông bình thường, miệng không loét, bú tốt."
+    },
+    {
+     "t": "Chốc",
+     "n": "Chốc có vảy tiết vàng mật ong, nền đỏ ướt, quanh hốc tự nhiên và chi, hoặc bọng nước nông ở sơ sinh (QĐ 4416/2023, Bệnh chốc mục 2.1; IDSA 2014, Evidence summary). Ban của bé không mủ, không vảy tiết vàng, nhiều giai đoạn cùng lúc. Tuy vậy mẹ đã bôi thuốc lên nốt và bé còn gỉ mắt: cần dặn theo dõi bội nhiễm."
+    },
+    {
+     "t": "Herpes simplex sơ sinh",
+     "n": "Ban do herpes simplex thường ở vùng da chuyển tiếp niêm mạc quanh các hốc tự nhiên, không phân bố toàn thân (QĐ 5642/2015, Thủy đậu mục 3.4). Bé có ban toàn thân, nhiều giai đoạn, kèm tiếp xúc thủy đậu, không có nốt ở mi hay quanh miệng."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / nhiễm khuẩn nặng sơ sinh",
+     "n": "Không có dấu hiệu nào: bú tốt, tỉnh, không sốt trên 38 °C hay hạ thân nhiệt dưới 35,5 °C, thở 44 l/p (nhanh là 60 l/p), không rên, không rút lõm, không nhiều mụn mủ, rốn không đỏ, thóp phẳng (WHO 2013 Pocket book, mục 3.6, 3.8)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Thủy đậu ở sơ sinh khỏe, mẹ có miễn dịch: chăm sóc hỗ trợ, không kê thuốc, hẹn khám lại sau 3 ngày",
+     "v": "c",
+     "n": "Ở người miễn dịch bình thường chủ yếu điều trị hỗ trợ (QĐ 5642/2015, Thủy đậu mục 4.1); người khỏe xử trí hỗ trợ, thuốc kháng virus và VZIG dành cho nhóm nguy cơ cao (WHO 2025, mục Treatment and post-exposure prophylaxis; CDC 2024, mục Who is at risk). Bé không thuộc các nhóm nguy cơ ghi trong CDC 2024. Tỉ lệ biến chứng cụ thể ở sơ sinh có mẹ miễn dịch: không có trong tài liệu đã tải. Mốc 3 ngày do người viết chọn vì ngưỡng nhập viện ở sơ sinh thấp và nốt còn mọc thêm đến ngày thứ 5–7 của ban (WHO 2025); mốc tái khám cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Acyclovir uống 20 mg/kg/lần mỗi 6 giờ (3,9 kg: khoảng 78 mg), 5–7 ngày",
+     "v": "a",
+     "n": "QĐ 5642/2015 (Thủy đậu mục 4.2): trẻ dưới 12 tuổi 'có thể dùng' 20 mg/kg mỗi 6 giờ, tốt nhất trong 24 giờ đầu sau phát ban; bé đã sang ngày thứ 3 của ban. Chấp nhận, không bắt buộc, khớp sổ mâu thuẫn (acyclovir ở trẻ khỏe). Liều, an toàn riêng cho trẻ dưới 1 tháng và chỉ định thường quy theo CDC: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mắt có dexamethasone; gỉ mắt nhẹ không đỏ kết mạc thì theo dõi",
+     "v": "c",
+     "n": "Không có chỉ định: kết mạc không đỏ, gỉ nhẹ, không nốt ở mi. Trong viêm giác mạc do herpes, corticoid tra mắt 'cần hết sức thận trọng và phải dùng kèm thuốc chống virus' (QĐ 40/2015, mục 12 Viêm giác mạc do herpes, Điều trị bổ sung). Tài liệu bàn riêng về corticoid nhỏ mắt ở sơ sinh đang thủy đậu: không có trong tài liệu đã tải. Nếu mi hoặc mắt có nốt mụn nước hay đỏ mắt thì đi khám mắt ngay."
+    },
+    {
+     "t": "Ngưng thuốc mỡ kháng sinh bôi nốt, không kê kháng sinh",
+     "v": "c",
+     "n": "Đây không phải chốc (QĐ 4416/2023, Bệnh chốc mục 2.1). Kháng sinh chỉ khi bội nhiễm da hoặc cơ quan khác (QĐ 5642/2015, Thủy đậu mục 4.3). Mupirocin 5 ngày là điều trị chốc (IDSA 2014, khuyến cáo impetigo 2a). Tác hại cụ thể của kháng sinh không cần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ da sạch, khô thoáng, không ủ nhiều lớp áo, cắt ngắn móng, không bóc nốt; không dùng aspirin",
+     "v": "c",
+     "n": "Chăm sóc tổn thương da, sát khuẩn tại chỗ khi cần (QĐ 5642/2015, Thủy đậu mục 4.3); tránh aspirin ngừa hội chứng Reye (cùng mục). Tác hại của ủ nóng và sản phẩm sát khuẩn phù hợp cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục bú mẹ hoàn toàn theo nhu cầu; không cho uống thêm thuốc hạ sốt, thuốc ngứa, thuốc dân gian",
+     "v": "c",
+     "n": "Bú mẹ hoàn toàn giúp phòng nhiễm khuẩn muộn ở sơ sinh (WHO 2013 Pocket book, mục 3.4). Bé không sốt, không ngứa nên không có chỉ định paracetamol hay kháng histamin (QĐ 5642/2015, Thủy đậu mục 4.3). Liều paracetamol ở trẻ dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cách ly tại nhà đến khi tất cả nốt đóng vảy; không cho tiếp xúc trẻ sơ sinh khác, phụ nữ có thai chưa miễn dịch, người suy giảm miễn dịch",
+     "v": "c",
+     "n": "Lây từ 1–2 ngày trước ban đến khi tất cả nốt đóng vảy (CDC 2024, mục How it spreads; QĐ 5642/2015, Thủy đậu mục 2); tránh tiếp xúc người bệnh (QĐ 5642/2015, mục 6.3); nhóm nguy cơ nặng (CDC 2024, mục Who is at risk)."
+    },
+    {
+     "t": "Dặn đưa bé đến ngay nếu: sốt trên 38 °C hoặc hạ thân nhiệt dưới 35,5 °C, bú kém hoặc bỏ bú, li bì, co giật, thở nhanh 60 l/p trở lên, rên, rút lõm ngực, tím, nốt mủ nhiều hoặc đỏ lan sưng nóng, đỏ quanh rốn, nốt ở mi hoặc đỏ mắt, nốt chảy máu",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm và nhiễm khuẩn nặng sơ sinh (WHO 2013 Pocket book, mục 3.6, 3.8); bội nhiễm da là biến chứng thường gặp nhất ở trẻ (CDC 2024, mục Clinical features; QĐ 5642/2015, mục 5b); thủy đậu sơ sinh có thể nặng (QĐ 5642/2015, mục 1); tổn thương xuất huyết ở nền nốt gặp ở người suy giảm miễn dịch (mục 3.1)."
+    },
+    {
+     "t": "Giải thích cho mẹ vì sao ba nơi nói khác nhau, cho biết nguồn lây từ anh trai và rằng mẹ không có lỗi",
+     "v": "c",
+     "n": "Ủ bệnh 10–21 ngày, lây từ 1–2 ngày trước khi ban (CDC 2024); ban thủy đậu đặc trưng nhiều giai đoạn cùng lúc (QĐ 5642/2015, mục 3.1, 3.3). Đáp ứng lý do thật bằng giải thích cụ thể, không bằng xét nghiệm."
+    },
+    {
+     "t": "Nhập viện cách ly hoặc chuyển bệnh viện nhi cho bé",
+     "v": "a",
+     "n": "Chấm a (trưởng nhóm sửa từ w): QĐ 5642/2015, Thủy đậu mục 1: ở trẻ sơ sinh thủy đậu có thể tiến triển nặng (viêm phổi, viêm cơ tim, tử vong), nên nhập viện/chuyển nhi để theo dõi ở bé 22 ngày tuổi không sai, dù bé đang ổn, mẹ đã có miễn dịch và đủ tháng nên cho về có hẹn sát là đáp án. Không có chỉ định lúc này (WHO 2013 Pocket book, mục 3.6, 3.8; QĐ 5642/2015, mục 5a). Nếu có dấu hiệu nguy hiểm thì phải nhập viện, đó là lý do dặn kỹ."
+    },
+    {
+     "t": "Acyclovir tĩnh mạch hoặc truyền dịch theo mong muốn của mẹ",
+     "v": "w",
+     "n": "Acyclovir tĩnh mạch dành cho người suy giảm miễn dịch nặng hoặc biến chứng viêm não (QĐ 5642/2015, mục 4.2); bé không thuộc nhóm đó. Tai biến cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh uống hoặc tiếp tục thuốc mỡ kháng sinh vì bị chẩn đoán chốc ở nơi trước",
+     "v": "w",
+     "n": "Chưa bội nhiễm (QĐ 5642/2015, mục 4.3, 5b); không đúng bệnh (QĐ 4416/2023, Bệnh chốc mục 2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu nguyên phát ở trẻ sơ sinh 22 ngày tuổi (ngày ban thứ 3), nguồn lây từ anh trai",
+     "Sơ sinh đủ tháng, mẹ có miễn dịch (thủy đậu năm 8 tuổi), mẹ không phát ban quanh sinh; không thuộc nhóm nguy cơ cao nêu trong CDC 2024",
+     "Không dấu hiệu nguy hiểm, không nhiễm khuẩn nặng sơ sinh, chưa bội nhiễm da",
+     "Loại trừ tay chân miệng, chốc, herpes simplex; chẩn đoán sai ở 3 nơi trước",
+     "Đang dùng thuốc nhỏ mắt có corticoid và thuốc mỡ kháng sinh không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và diễn tiến ban, sốt bú, dấu hiệu nguy hiểm sơ sinh, tiền sử sinh, thuốc đã dùng, tiếp xúc người bệnh trong nhà, miễn dịch của mẹ. Hai câu chọn hướng xử trí là 'ai trong nhà từng nổi mụn nước, khoảng bao lâu' (anh trai, cách 16 ngày, trong ủ bệnh 10–21 ngày: CDC 2024) và 'mẹ từng bị thủy đậu chưa, lúc mang thai và sinh có phát ban không' (CDC 2024: nguy cơ nặng khi mẹ bị từ 5 ngày trước đến 2 ngày sau sinh; QĐ 5642/2015 mục 5b: thủy đậu chu sinh rất nặng).",
+     "Khám: ban nhiều giai đoạn cùng lúc (dát sẩn, mụn nước trong, mụn nước đục, vảy), rải rác mặt, thân, chi; lòng bàn tay, bàn chân, mông bình thường; miệng không loét; không vảy tiết mật ong; rốn khô; thóp phẳng; thở 44 l/p, nhiệt 37,3 °C, bú mạnh (QĐ 5642/2015, mục 3.1; WHO 2013 Pocket book, mục 3.6, 3.8).",
+     "Vì sao vẫn là ca 'không làm gì' dù là sơ sinh: tài liệu đã tải xếp sơ sinh, đặc biệt con của mẹ không có kháng thể và trẻ sinh non, vào nhóm nguy cơ nặng (QĐ 5642/2015 mục 1; CDC 2024; WHO 2025), nên việc không can thiệp phải dựa trên từng yếu tố bảo vệ của bé này: đủ tháng, mẹ có miễn dịch (kháng thể sơ sinh tương quan chặt với kháng thể của mẹ: WHO 2025), tổng trạng tốt, không dấu hiệu nguy hiểm. Mức bảo vệ tuyệt đối và số liệu biến chứng ở nhóm này: không có trong tài liệu đã tải. Vì vậy 'không làm gì' đi kèm tái khám sớm và danh sách dấu hiệu nguy hiểm.",
+     "Vì sao không phải chốc: ban không mủ, không vảy tiết vàng mật ong (QĐ 4416/2023, mục 2.1). Vì sao không phải tay chân miệng: lòng bàn tay chân, mông, miệng bình thường (QĐ 292/2024). Vì sao không phải herpes simplex: ban toàn thân, không tập trung quanh hốc tự nhiên (QĐ 5642/2015, mục 3.4).",
+     "Nhiễu: mẹ đã khám 3 nơi, mỗi nơi một chẩn đoán (rôm sảy, chốc, viêm da do trở trời) và mẹ tin do trở trời. Thời tiết không phải nguyên nhân, nguồn lây là anh trai; thừa nhận mệt mỏi của mẹ, nối kết ba chẩn đoán trước bằng một giải thích duy nhất, không chê đồng nghiệp. Lý do thật (muốn 'kiểm tra tổng quát') là nỗi sợ bỏ sót bệnh nặng và áy náy vì anh trai: trả lời bằng cân nặng, khám toàn diện ngay trong buổi, tiêu chí cụ thể."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn tái khám sau 3 ngày và dặn dấu hiệu nguy hiểm. Ngưỡng nhập viện ở sơ sinh thấp nên các mốc đưa đến ngay phải viết rõ (WHO 2013 Pocket book, mục 3.6, 3.8). Mốc 3 ngày do người viết chọn, không có trong tài liệu đã tải.",
+     "Không kê thuốc kháng virus: ở người miễn dịch bình thường chủ yếu điều trị hỗ trợ, acyclovir giảm mức độ nặng và thời gian bệnh, tốt nhất trong 24 giờ đầu của ban (QĐ 5642/2015, mục 4.1, 4.2); WHO 2025 chỉ dành cho nhóm nguy cơ. Dùng acyclovir uống ngày thứ 3 của ban được chấp nhận (không bắt buộc); liều và an toàn cho trẻ dưới 1 tháng: không có trong tài liệu đã tải.",
+     "Không kháng sinh: kháng sinh chỉ khi bội nhiễm (QĐ 5642/2015, mục 4.3). Ngưng thuốc mỡ kháng sinh (điều trị chốc: IDSA 2014) và thuốc nhỏ mắt có corticoid (không có chỉ định; QĐ 40/2015 mục 12 đề cập corticoid tra mắt thận trọng trong herpes giác mạc).",
+     "Không hạ sốt, không kháng histamin vì bé không sốt, không ngứa (QĐ 5642/2015, mục 4.3). Tuyệt đối không aspirin.",
+     "Cách ly đến khi hết vảy: bé lây từ 1–2 ngày trước ban đến khi tất cả nốt đóng vảy (CDC 2024). Tránh bé sơ sinh khác và phụ nữ có thai chưa miễn dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc kháng virus, kháng sinh, hạ sốt hay thuốc ngứa",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Tái khám sau 3 ngày",
+      "ghi_chu": "Hỗ trợ là chính (QĐ 5642/2015, Thủy đậu mục 4.1); WHO 2025 mục Treatment and post-exposure prophylaxis. Acyclovir uống 20 mg/kg mỗi 6 giờ là lựa chọn chấp nhận được, không bắt buộc (QĐ 5642/2015, mục 4.2)."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mắt phối hợp kháng sinh và dexamethasone (đang dùng)",
+      "ham_luong": "Theo lọ mẹ đang có",
+      "lieu": "Ngưng",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Ngưng ngay từ hôm nay",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "Không có chỉ định; corticoid tra mắt cần hết sức thận trọng ở bệnh do herpes (QĐ 40/2015, mục 12). Gỉ mắt nhẹ: theo dõi, khám mắt khi đỏ mắt hoặc nốt ở mi."
+     },
+     {
+      "thuoc": "Thuốc mỡ kháng sinh bôi nốt (đang dùng)",
+      "ham_luong": "Theo tuýp mẹ đang có",
+      "lieu": "Ngưng",
+      "duong": "Bôi da",
+      "thoi_diem": "Ngưng ngay từ hôm nay",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "Chẩn đoán chốc là không đúng (QĐ 4416/2023, Bệnh chốc mục 2.1); kháng sinh khi bội nhiễm (QĐ 5642/2015, mục 4.3)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị thủy đậu do lây từ anh Minh, đây là bệnh thường lành tính và tự khỏi, nhưng bé còn rất nhỏ nên mình theo dõi sát (QĐ 5642/2015, mục 1, 5a). Đây không phải lỗi của chị; nốt mọc thêm vài ngày nữa là bình thường.",
+     "Ba nơi trước thấy mỗi nơi một kiểu vì ban thủy đậu lúc mới mọc dễ nhầm với rôm, chốc, viêm da; ban nhiều giai đoạn cùng lúc là đặc điểm nhận ra bệnh (QĐ 5642/2015, mục 3.1, 3.3). Không cần xét nghiệm máu: không đổi cách chữa.",
+     "Ngưng thuốc nhỏ mắt và thuốc mỡ kháng sinh. Giữ da sạch, thoáng, mặc 1–2 lớp, cắt móng, không bóc nốt (QĐ 5642/2015, mục 4.3).",
+     "Tiếp tục cho bú mẹ như bình thường (WHO 2013 Pocket book, mục 3.4).",
+     "Đến ngay khi: sốt trên 38 °C hoặc người lạnh dưới 35,5 °C, bú kém, li bì, co giật, thở nhanh 60 l/p trở lên, rên, tím, nốt mủ nhiều hoặc đỏ lan, đỏ quanh rốn, đỏ mắt hoặc nốt ở mi (WHO 2013 Pocket book, mục 3.6, 3.8; QĐ 5642/2015, mục 5b).",
+     "Giữ bé ở nhà đến khi tất cả nốt đã đóng vảy; tránh trẻ sơ sinh khác và phụ nữ có thai chưa miễn dịch (CDC 2024, mục How it spreads). Anh Minh đã mắc nên không cần tiêm lại.",
+     "Tái khám sau 3 ngày. Mốc 3 ngày do người viết chọn, không có trong tài liệu đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 ngày. Bé 25 ngày tuổi, vẫn không sốt, bú tốt; mẹ nghe lời dặn và ngưng thuốc nhỏ mắt, nhưng lo vì vẫn thấy mọc thêm vài nốt mới, có nốt 'đục như mủ', và nghĩ 'chữa không khỏi'. Sinh hiệu: nhiệt 36,9 °C (nách), mạch 134 l/p, nhịp thở 42 l/p, SpO₂ 98%.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Phúc vì 'nốt còn mọc và có nốt đục' là hiểu sai diễn tiến: sau 3 ngày bé vẫn không sốt, bú tốt, tỉnh, thở 42 l/p, nốt cũ đã đóng vảy, tức là đang thoái triển (QĐ 5642/2015, Thủy đậu mục 3.1, 5a; WHO 2013 Pocket book, mục 3.6). Nốt mọc thêm trong 2–4 ngày (QĐ 5642/2015) hoặc khoảng 5–7 ngày (WHO 2025) và dịch trong rồi đục là bình thường. Bé nằm khu cách ly trong lúc vẫn còn lây (CDC 2024, mục Patient management), mẹ tốn thêm ngày công và chi phí, còn niềm tin vào 'cứ khám là có chuyện' càng tăng. Dù vậy, đây không phải lựa chọn sai về an toàn: trẻ sơ sinh mắc thủy đậu có thể tiến triển nặng (QĐ 5642/2015, Thủy đậu mục 1).",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi để làm PCR hay xét nghiệm 'cho chắc' là không cần: chẩn đoán thủy đậu dựa lâm sàng, xét nghiệm xác nhận rất ít khi được sử dụng (QĐ 5642/2015, mục 3.3); PCR hữu ích để xác nhận nhưng kết quả không đổi cách chăm sóc cho một bé khỏe, đang thoái triển (CDC 2024, mục Testing and diagnosis). Bé đang còn lây phải qua phòng chờ đông, mẹ mất cả ngày, thêm một nơi khám khiến mẹ nghe thêm lời khuyên mới và tiếp tục tìm 'chỗ khác'. Dấu hiệu cần chuyển thật sự đã được dặn từ lượt trước (WHO 2013 Pocket book, mục 3.6, 3.8). Dù vậy, đây không phải lựa chọn sai về an toàn: trẻ sơ sinh mắc thủy đậu có thể tiến triển nặng (QĐ 5642/2015, Thủy đậu mục 1)."
+   },
+   "loi_mo": "Bác sĩ ơi, em nghe lời bác sĩ rồi, không nhỏ mắt, không bôi thuốc nữa. Nhưng sao bé vẫn mọc thêm nốt, mà có mấy cái đục đục như mủ. Em sợ bé nhiễm trùng, hay bác sĩ cho bé uống kháng sinh đi?",
+   "sinh_hieu": {
+    "mach": 134,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 42,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Trong 3 ngày qua vẫn có vài nốt mới ở lưng và đùi; các nốt cũ ở mặt và ngực đã đóng vảy nâu. Có nốt dịch đục. Mẹ sợ bé nhiễm trùng, muốn kháng sinh hoặc đi bệnh viện lớn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, diễn tiến ban"
+    },
+    {
+     "id": "sot_bu",
+     "noi_dung": "Bé không sốt, bú 8–9 cữ/ngày, bú khỏe, ngủ ngoan, tiểu trên 6 tã/ngày, không nôn, không co giật, không ngủ li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, bú, dấu hiệu nguy hiểm sơ sinh (WHO 2013 Pocket book mục 3.6)"
+    },
+    {
+     "id": "mat",
+     "noi_dung": "Mẹ đã ngưng thuốc nhỏ mắt từ hôm khám; gỉ mắt bớt nhiều, không đỏ mắt, không thấy mụn nước ở mi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng thuốc nhỏ mắt có corticoid, theo dõi mắt"
+    },
+    {
+     "id": "boi_thuoc",
+     "noi_dung": "Hai tối đầu mẹ lén bôi lại thuốc mỡ cũ lên vài nốt ở lưng vì không yên tâm; hôm qua dừng. Mẹ sợ bác sĩ trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể đã làm đúng các dặn dò chưa, hỏi nhẹ nhàng không trách móc.",
+     "k": 1,
+     "y": "Tuân thủ dặn dò, thuốc bôi tự ý"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Anh Minh khỏe, vảy đã rụng gần hết. Không ai khác trong nhà sốt hay nổi ban; bà ngoại (đã từng bị thủy đậu) thỉnh thoảng sang bế bé.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người tiếp xúc, miễn dịch người chăm sóc"
+    },
+    {
+     "id": "sau_3_noi",
+     "noi_dung": "Mẹ vẫn nhớ lời hai nơi trước nói 'nhiễm trùng, phải uống kháng sinh'. Em họ của mẹ nhắn khuyên đi bệnh viện nhi 'khám cho chắc'. Mẹ do dự giữa hai bên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đã khám 3 nơi, ý kiến trái chiều"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Mẹ thật sự muốn được nghe một người dứt khoát nói bé ổn, sau nhiều ngày thức đêm; chị cũng muốn biết khi nào bé hết lây để đưa bé sang thăm bà nội.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi mẹ ngủ và sinh hoạt thế nào, hoặc hỏi kế hoạch những ngày tới.",
+     "k": 0,
+     "y": "Lý do thật sự: muốn kiểm tra tổng quát, cần được trấn an"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hồng hào, khóc to, trương lực tốt. Cân nặng 4,0 kg. Không li bì, không vàng da.",
+     "k": 1,
+     "hien": "Bé tỉnh, khóc to khi khám. Cân nặng 4,0 kg."
+    },
+    "da": {
+     "a": "Khoảng 24 tổn thương: 13 nốt đã đóng vảy khô nâu (mặt, ngực, bụng), 5 mụn nước (2 nốt dịch đục), 6 sẩn đỏ hoặc mụn nước nhỏ mới ở lưng và đùi. Không vảy tiết vàng mật ong, không mủ vàng đặc, không đỏ lan hay sưng nóng quanh nốt. Lòng bàn tay, bàn chân, mông bình thường. Không nốt chảy máu.",
+     "k": 1,
+     "hien": "Khoảng 24 tổn thương rải rác thân, mặt, chi: nhiều nốt đã đóng vảy nâu, vài mụn nước, vài nốt nhỏ mới ở lưng và đùi; hai nốt dịch hơi đục. Quanh nốt không đỏ lan. Lòng bàn tay, bàn chân, mông bình thường."
+    },
+    "mat": {
+     "a": "Gỉ mắt rất ít, kết mạc không đỏ, không mụn nước ở mi và quanh mắt.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Miệng, họng hồng, không loét, không mụn nước.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 134 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 134 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p đều, không rút lõm ngực, không rên. Rì rào phế nang êm, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú tốt, bú mạnh, nuốt đều.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,2 G/L · Hb 146 g/L · TC 330 G/L.",
+     "n": "Không cần: bé không sốt, bú tốt, không dấu hiệu nhiễm khuẩn nặng (WHO 2013 Pocket book, mục 3.6, 3.8); thủy đậu chẩn đoán lâm sàng (QĐ 5642/2015, Thủy đậu mục 3.3). Không lặp lại xét nghiệm đã không cần ở lượt trước."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 2 mg/L.",
+     "n": "Không cần: không đỏ lan, không mủ, không sưng nóng quanh nốt (QĐ 5642/2015, mục 4.3, 5b)."
+    },
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Không mọc vi khuẩn (kết quả sau 48 giờ).",
+     "n": "Không cần: dịch nốt đục chuyển từ dịch trong là diễn tiến bình thường của mụn nước thủy đậu (QĐ 5642/2015, Thủy đậu mục 3.1), không phải mủ nhiễm khuẩn."
+    },
+    "pcr_hsv": {
+     "n": "Cơ sở không làm được PCR. Không cần: lâm sàng điển hình, đang thoái triển (QĐ 5642/2015, Thủy đậu mục 3.3; CDC 2024, mục Testing and diagnosis)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ở trẻ sơ sinh, ngày ban thứ 7, đang thoái triển (còn vài nốt mọc cuối), chưa bội nhiễm, không biến chứng",
+     "ok": 1,
+     "n": "Nốt cũ đóng vảy, vài nốt mới ở nhiều giai đoạn; không sốt, bú tốt (QĐ 5642/2015, mục 3.1). Nốt mọc thêm 2–4 ngày (QĐ 5642/2015) hoặc khoảng 5–7 ngày (WHO 2025): ngày thứ 7 vẫn còn trong khoảng; dịch trong rồi đục là bình thường. Diễn tiến 'đỡ một phần' đúng thường lệ, không phải thất bại điều trị."
+    },
+    {
+     "t": "Bội nhiễm vi khuẩn da (chốc hóa)",
+     "n": "Bội nhiễm là biến chứng thường gặp ở trẻ (CDC 2024; QĐ 5642/2015, mục 5b) nhưng bé không có vảy tiết vàng mật ong, không mủ đặc, không đỏ lan, không sưng nóng, không sốt trở lại (QĐ 4416/2023, Bệnh chốc mục 2.1). Chưa có chỉ định kháng sinh."
+    },
+    {
+     "t": "Thủy đậu nặng có biến chứng nội tạng (viêm phổi, thần kinh)",
+     "n": "Viêm phổi thường bắt đầu 3–5 ngày sau ban, chủ yếu ở người lớn (QĐ 5642/2015, mục 5b); bé thở 42 l/p, SpO₂ 98%, phổi không ran, không rên, tỉnh, bú tốt (WHO 2013 Pocket book, mục 3.6). Biến chứng thần kinh điển hình xuất hiện khoảng 21 ngày sau ban (QĐ 5642/2015, mục 5b) nên hiện không loại trừ hết mà dặn theo dõi."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / nhiễm khuẩn nặng sơ sinh",
+     "n": "Không dấu hiệu nguy hiểm nào: không sốt, tỉnh, bú tốt, rốn khô, thóp phẳng (WHO 2013 Pocket book, mục 3.6, 3.8)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục chăm sóc hỗ trợ, không thêm thuốc; giải thích nốt mọc thêm và dịch đục là diễn tiến bình thường",
+     "v": "c",
+     "n": "Chủ yếu điều trị hỗ trợ ở người miễn dịch bình thường (QĐ 5642/2015, Thủy đậu mục 4.1); dịch nốt trong rồi đục, ban xuất hiện từng đợt 2–4 ngày (QĐ 5642/2015, mục 3.1) hoặc khoảng 5–7 ngày (WHO 2025, mục Clinical features) – sổ mâu thuẫn, hai nguồn khác nhau về thời gian mọc nốt mới, đều gồm ngày thứ 7 của ban."
+    },
+    {
+     "t": "Không kê kháng sinh uống hay bôi; dặn dấu hiệu bội nhiễm (đỏ lan, sưng nóng, mủ vàng đặc, đau, sốt lại)",
+     "v": "c",
+     "n": "Kháng sinh khi bội nhiễm da hoặc cơ quan khác (QĐ 5642/2015, Thủy đậu mục 4.3); bội nhiễm vi khuẩn da mô mềm là biến chứng thường gặp nhất ở trẻ (CDC 2024, mục Clinical features). Tác hại cụ thể của kháng sinh không cần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận mẹ đã tự bôi lại thuốc mỡ, ngưng hẳn; không trách mẹ",
+     "v": "c",
+     "n": "Chốc mới là bệnh dùng mupirocin 5 ngày (IDSA 2014, khuyến cáo impetigo 2a); bé không bị chốc (QĐ 4416/2023, mục 2.1). Tác hại của thuốc bôi tự ý ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục cách ly tại nhà đến khi tất cả nốt đóng vảy; chưa sang thăm bà nội, tránh trẻ sơ sinh và phụ nữ có thai chưa miễn dịch",
+     "v": "c",
+     "n": "Lây đến khi tất cả nốt đóng vảy (CDC 2024, mục How it spreads; QĐ 5642/2015, mục 2). Thời điểm vảy hết: không có trong tài liệu đã tải cho từng ca; vảy rụng sau 1–2 tuần (QĐ 5642/2015, mục 3.1)."
+    },
+    {
+     "t": "Tiếp tục cho bú mẹ; theo dõi mắt, không dùng lại thuốc nhỏ mắt có corticoid",
+     "v": "c",
+     "n": "Bú mẹ hoàn toàn (WHO 2013 Pocket book, mục 3.4). Corticoid tra mắt cần hết sức thận trọng trong bệnh do herpes (QĐ 40/2015, mục 12). Khuyến cáo cho sơ sinh thủy đậu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi tại nhà, không hẹn khám định kỳ; đến ngay khi sốt trên 38 °C hoặc hạ thân nhiệt dưới 35,5 °C, bú kém, li bì, co giật, thở 60 l/p trở lên, rên, tím, nốt mủ nhiều, đỏ lan, đỏ mắt hay nốt ở mi, hoặc sau này đi loạng choạng, nôn ói nhiều",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm sơ sinh (WHO 2013 Pocket book, mục 3.6, 3.8); biến chứng thần kinh trung ương: rối loạn tiểu não, viêm màng não thường khoảng 21 ngày sau ban (QĐ 5642/2015, mục 5b). Mốc cụ thể hẹn khám lại khi hết vảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn về miễn dịch và zona: bé thường có miễn dịch lâu dài sau bệnh; nhiễm sớm ở sơ sinh có thể gặp zona trong những năm đầu đời",
+     "v": "c",
+     "n": "Thủy đậu thường để lại miễn dịch suốt đời; trẻ nhiễm VZV ở giai đoạn sơ sinh sớm có nguy cơ zona cao hơn trong những năm đầu (WHO 2025, mục Severe complications in mother and fetus/newborn, mục Infection-acquired immunity). Lịch tiêm chủng thủy đậu cho trẻ khác trong nhà: ghi hai nguồn QĐ 5642/2015 mục 6.1 (một liều) và CDC 2024 (hai liều); lịch hiện hành ở Việt Nam không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Acyclovir uống bắt đầu từ hôm nay (ngày ban thứ 7)",
+     "v": "w",
+     "n": "Hiệu quả tốt nhất khi bắt đầu trong 24 giờ đầu sau phát ban (QĐ 5642/2015, Thủy đậu mục 4.2); bé đang thoái triển, nốt đóng vảy. Hiệu quả khi bắt đầu muộn ở sơ sinh: không có trong tài liệu đã tải. Theo sổ mâu thuẫn: ngày 5 trở đi chấm w."
+    },
+    {
+     "t": "Kê kháng sinh hoặc mupirocin 'cho mẹ yên tâm'",
+     "v": "w",
+     "n": "Chưa bội nhiễm (QĐ 5642/2015, mục 4.3, 5b; QĐ 4416/2023, mục 2.1). Đáp ứng nỗi sợ thật của mẹ bằng tiêu chí cụ thể."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện nhi làm PCR",
+     "v": "a",
+     "n": "Chấm a (trưởng nhóm sửa từ w): QĐ 5642/2015, Thủy đậu mục 1: ở trẻ sơ sinh thủy đậu có thể tiến triển nặng (viêm phổi, viêm cơ tim, tử vong), nên nhập viện/chuyển nhi để theo dõi ở bé 22 ngày tuổi không sai, dù bé đang ổn, mẹ đã có miễn dịch và đủ tháng nên cho về có hẹn sát là đáp án. Không có chỉ định: không dấu hiệu nguy hiểm (WHO 2013 Pocket book, mục 3.6), chẩn đoán lâm sàng (QĐ 5642/2015, mục 3.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu sơ sinh, ngày ban thứ 7, 'đỡ một phần' đúng diễn tiến: nốt cũ đóng vảy, vài nốt mới mọc cuối",
+     "Chưa bội nhiễm da, chưa biến chứng, không dấu hiệu nguy hiểm",
+     "Mẹ đã ngưng thuốc nhỏ mắt có corticoid, gỉ mắt bớt; mẹ từng tự bôi lại thuốc mỡ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: nghe nỗi lo của mẹ, hỏi sốt, bú, tiểu, dấu hiệu nguy hiểm (WHO 2013 Pocket book, mục 3.6); hỏi mẹ đã làm theo dặn chưa (không trách); khám da từng vùng, mắt, rốn, phổi, quan sát bú.",
+     "Vì sao 'đỡ một phần' không phải thất bại: ban thủy đậu mọc từng đợt, mọi giai đoạn cùng lúc; nốt mọc thêm đến ngày 2–4 (QĐ 5642/2015, mục 3.1) hoặc 5–7 (WHO 2025); dịch đục là bình thường. Dấu hiệu thật của thất bại hoặc biến chứng: sốt trở lại, bú kém, đỏ lan quanh nốt, mủ đặc, nốt chảy máu, thở nhanh (QĐ 5642/2015, mục 3.1, 5b; WHO 2013 Pocket book, mục 3.6) – bé không có.",
+     "Vì sao chưa phải bội nhiễm: không vảy tiết vàng mật ong, không đỏ lan, không sưng nóng (QĐ 4416/2023, mục 2.1; IDSA 2014, Evidence summary).",
+     "Nhiễu: sau ba nơi khám và lời khuyên trái chiều, mẹ vừa tin vừa nghi và đã lén bôi lại thuốc. Cách tái lập niềm tin: nhắc lại điều bác sĩ đã dự đoán ở lượt 1 (nốt sẽ mọc thêm vài ngày) và nay đã đúng, ghi nhận nỗ lực của mẹ, không xét nghiệm lặp lại vô ích.",
+     "Lý do thật của mẹ: cần được nghe dứt khoát rằng bé ổn và biết khi nào hết lây để sắp xếp gia đình; trả lời bằng tiêu chí cụ thể (vảy khô hết, QĐ 5642/2015, mục 2; CDC 2024)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: tiếp tục theo dõi tại nhà, không thêm thuốc, không xét nghiệm. 'Không làm gì' là quyết định chủ động, nhưng vẫn có danh sách dấu hiệu quay lại rõ ràng.",
+     "Không acyclovir: quá thời điểm có hiệu quả tốt nhất, bé đang thoái triển (QĐ 5642/2015, mục 4.2).",
+     "Không kháng sinh: chưa bội nhiễm (QĐ 5642/2015, mục 4.3). Không nhập viện, không chuyển tuyến: không có chỉ định.",
+     "Cách ly đến khi tất cả nốt đóng vảy (CDC 2024); hoãn việc đưa bé sang bà nội."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc kháng virus, kháng sinh, hạ sốt hay thuốc ngứa",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Theo dõi đến khi tất cả nốt đóng vảy",
+      "ghi_chu": "Hỗ trợ là chính (QĐ 5642/2015, Thủy đậu mục 4.1); acyclovir tốt nhất trong 24 giờ đầu của ban (mục 4.2), đã quá."
+     },
+     {
+      "thuoc": "Không dùng lại thuốc nhỏ mắt có dexamethasone và thuốc mỡ kháng sinh",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Ngưng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Không có chỉ định (QĐ 40/2015, mục 12; QĐ 4416/2023, Bệnh chốc mục 2.1; IDSA 2014)."
+     }
+    ],
+    "dan_do": [
+     "Bé đang đỡ đúng cách của thủy đậu: các nốt cũ đã khô vảy, vài nốt mới mọc là bình thường, dịch đục không phải mủ nhiễm trùng (QĐ 5642/2015, mục 3.1; WHO 2025). Điều bác sĩ dự đoán hôm trước đã xảy ra đúng.",
+     "Không cần kháng sinh, không cần xét nghiệm hay đi bệnh viện lớn. Cảm ơn chị đã ngưng thuốc nhỏ mắt; cũng không sao việc chị bôi lại thuốc mỡ vì lo, từ nay xin ngưng hẳn (QĐ 40/2015, mục 12; QĐ 4416/2023).",
+     "Bé còn lây đến khi tất cả nốt đóng vảy: chưa sang nhà bà nội, tránh bé sơ sinh khác và phụ nữ có thai chưa miễn dịch (CDC 2024, mục How it spreads).",
+     "Chăm sóc da sạch, thoáng, cắt móng, không bóc nốt; tiếp tục cho bú mẹ (QĐ 5642/2015, mục 4.3; WHO 2013 Pocket book, mục 3.4).",
+     "Đến ngay khi: sốt trên 38 °C hoặc người lạnh dưới 35,5 °C, bú kém, li bì, co giật, thở nhanh 60 l/p trở lên, rên, tím, đỏ lan hoặc mủ đặc quanh nốt, đỏ mắt hoặc nốt ở mi (WHO 2013 Pocket book, mục 3.6, 3.8; QĐ 5642/2015, mục 5b).",
+     "Bé thường miễn dịch lâu dài sau bệnh; vì nhiễm lúc rất nhỏ nên có nguy cơ bị zona sớm trong vài năm đầu, nếu thấy đám mụn nước đau theo dải thì khám lại (WHO 2025).",
+     "Hỏi điểm tiêm chủng về việc tiếp tục lịch tiêm của bé sau khi hết vảy: thời điểm cụ thể không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé khỏi thủy đậu: các nốt còn lại đóng vảy trong khoảng một tuần sau lượt 2, vảy rụng sau 1–2 tuần (QĐ 5642/2015, Thủy đậu mục 3.1), không bội nhiễm, không sốt lại, bú tốt, lúc 2 tháng cân nặng tăng đều. Mẹ ngưng hẳn thuốc nhỏ mắt và thuốc mỡ, ở nhà đến hết vảy rồi mới đưa bé sang thăm bà nội, và kể với chị em họ lý do chị không đi bệnh viện nhi. Chị nhận ra điều mẹ cần là được giải thích, không phải xét nghiệm.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: mẹ mất niềm tin, đòi xét nghiệm; giải thích ba chẩn đoán trước bằng một nguồn lây duy nhất, không chê đồng nghiệp, không lặp lại xét nghiệm vô ích.",
+  "Chỉ có xét nghiệm cơ bản: không cần xét nghiệm để quyết định; PCR VZV không có tại cơ sở nhưng cũng không cần.",
+  "Thay đổi thời tiết: mẹ tin bé 'trái gió trở trời', ủ nhiều lớp; thời tiết chỉ trùng thời điểm, nguồn lây là anh trai (ủ bệnh 10–21 ngày).",
+  "Thuốc nhỏ mắt corticoid: dấu hiệu 'thuốc đang dùng' phải hỏi; ngưng vì không có chỉ định.",
+  "Muốn kiểm tra tổng quát: mẹ sợ bỏ sót bệnh nặng và áy náy vì anh trai; dùng khám toàn diện, cân nặng và giải thích để đáp ứng."
+ ],
+ "bai_hoc_bien": [
+  "Đáp án là không làm gì ở một trẻ sơ sinh: phải chứng minh bằng từng yếu tố bảo vệ (đủ tháng, mẹ có miễn dịch, mẹ không mắc quanh sinh, tổng trạng tốt, không dấu hiệu nguy hiểm), thay vì bỏ qua nguy cơ của tuổi sơ sinh; không làm gì đi kèm tái khám sớm và danh sách dấu hiệu nguy hiểm rõ.",
+  "Hai câu hỏi then chốt: 'trong nhà có ai nổi mụn nước, cách đây bao lâu' (ủ bệnh 10–21 ngày) và 'mẹ có từng bị thủy đậu, lúc có thai và sinh có phát ban không' (CDC 2024; QĐ 5642/2015 mục 5b).",
+  "Nhận diện ban thủy đậu: nhiều giai đoạn cùng lúc, rải rác, không tập trung tay chân miệng, không vảy tiết mật ong (QĐ 5642/2015 mục 3.1, 3.4; QĐ 4416/2023 mục 2.1). Ba nơi trước nhầm vì ban mới mọc.",
+  "'Đỡ một phần' ≠ thất bại: nốt mới mọc và dịch đục là diễn tiến bình thường; thất bại hoặc biến chứng là sốt lại, bú kém, đỏ lan, mủ đặc, thở nhanh.",
+  "Dừng thuốc không có chỉ định (nhỏ mắt có corticoid, thuốc mỡ kháng sinh) cũng là một quyết định chủ động; hỏi thuốc mẹ tự dùng và hỏi lại nhẹ nhàng việc tuân thủ."
+ ],
+ "diem_nho": [
+  "Thủy đậu: ủ bệnh 10–21 ngày, lây từ 1–2 ngày trước ban đến khi hết vảy; ban nhiều giai đoạn; chẩn đoán lâm sàng (QĐ 5642/2015 mục 2, 3.1, 3.3; CDC 2024).",
+  "Nhóm nguy cơ nặng: người suy giảm miễn dịch, phụ nữ có thai chưa miễn dịch, sơ sinh có mẹ mắc từ 5 ngày trước đến 2 ngày sau sinh, trẻ sinh non (CDC 2024, mục Who is at risk).",
+  "Điều trị: hỗ trợ ở người khỏe; acyclovir uống 20 mg/kg mỗi 6 giờ cho trẻ dưới 12 tuổi 'có thể dùng', tốt nhất trong 24 giờ đầu; không dùng aspirin (QĐ 5642/2015 mục 4.1–4.3).",
+  "Sơ sinh: dấu hiệu nguy hiểm gồm bú kém, co giật, li bì, thở nhanh 60 l/p, rên, rút lõm ngực, sốt trên 38 °C, hạ thân nhiệt dưới 35,5 °C, tím (WHO 2013 Pocket book mục 3.6).",
+  "Chốc: bọng nước hóa mủ, vảy tiết vàng mật ong, quanh hốc tự nhiên (QĐ 4416/2023 mục 2.1); mupirocin 5 ngày (IDSA 2014). Tay chân miệng: ban lòng bàn tay chân, mông, loét miệng (QĐ 292/2024)."
+ ],
+ "nguon": [
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh thủy đậu (mục 1–6, tr. 22–25)",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella), cập nhật 15/07/2024 – TL-0255 – ĐÃ ĐỌC: toàn bộ (Who is at risk, Incubation period, How it spreads, Clinical features, Testing and diagnosis, Patient management)",
+  "WHO 2025 – WHO position paper on varicella vaccines, WER 47, 21/11/2025 – kho tltk-10000-ca – ĐÃ ĐỌC: Clinical features/Complications, Treatment and post-exposure prophylaxis, Infection-acquired immunity",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.4 (phòng nhiễm khuẩn sơ sinh), 3.6 (dấu hiệu nguy hiểm sơ sinh), 3.8 (nhiễm khuẩn nặng)",
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu – kho tltk-10000-ca – ĐÃ ĐỌC: Bệnh chốc, mục 1–2.1",
+  "QĐ 292 – Bộ Y tế, QĐ 292/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị bệnh Tay chân miệng – TL-0239 – ĐÃ ĐỌC: mục II.1.1, II.4.2",
+  "IDSA 2014 – Practice guidelines for the diagnosis and management of skin and soft tissue infections – TL-0270 – ĐÃ ĐỌC: khuyến cáo impetigo 1–2, Evidence summary",
+  "QĐ 40 – Bộ Y tế, QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – kho tltk-10000-ca – ĐÃ ĐỌC: mục 12 Viêm giác mạc do herpes (Điều trị bổ sung, corticoid tra mắt)",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: liều/an toàn acyclovir cho trẻ dưới 1 tháng; tỉ lệ biến chứng ở sơ sinh có mẹ miễn dịch; mốc tái khám sau thủy đậu sơ sinh; liều paracetamol dưới 1 tháng; lịch tiêm chủng thủy đậu hiện hành ở Việt Nam; corticoid nhỏ mắt khi đang thủy đậu."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-07: viết ca mới NH-0892, 2 lượt. Tài liệu đã đọc: TL-0038 (Thủy đậu mục 1–6), TL-0255, WHO 2025 vắc xin thủy đậu, TL-0250 (mục 3.4, 3.6, 3.8), QĐ 4416 (Bệnh chốc), TL-0239, TL-0270, QĐ 40 (mục 12).",
+  "Thiết kế: bẫy 'đáp án là không làm gì' ở sơ sinh: bé đủ tháng, mẹ có miễn dịch (không mắc quanh sinh), tổng trạng tốt, nguồn lây là anh trai cách 16 ngày (đúng thời gian ủ bệnh); ket_luan lượt 1 ve_hen (tái khám sau 3 ngày, mốc người viết chọn), lượt 2 theo_doi. Lượt 2 'đỡ một phần': nốt cũ đóng vảy, vài nốt mới mọc, dịch đục bình thường.",
+  "Thuốc đang dùng: thuốc nhỏ mắt kháng sinh – dexamethasone kê vì gỉ mắt; ngưng vì không có chỉ định. Tài liệu đã tải chỉ bàn corticoid tra mắt trong herpes giác mạc (QĐ 40 mục 12), không bàn riêng trường hợp thủy đậu sơ sinh: đã ghi rõ.",
+  "Mâu thuẫn: acyclovir ở trẻ khỏe và số liều vắc xin theo sổ mâu thuẫn mục NH-0874; mới thêm: thời gian mọc nốt mới 2–4 ngày (QĐ 5642) và khoảng 5–7 ngày (WHO 2025), xem NH-0892_mau_thuan.md.",
+  "Ảnh da: dùng lại HA-DA-0026 (SCIN, thủy đậu trẻ nhỏ, bụng quanh rốn); không có ảnh mới. Bé sơ sinh nên ảnh chỉ mang tính minh họa dạng tổn thương.",
+  "07/11/2026 – trưởng nhóm (Opus) sửa: mục nhập viện/chuyển tuyến w → a vì QĐ 5642/2015 Thủy đậu mục 1 nêu trẻ sơ sinh có thể tiến triển nặng; neu_sai bổ sung câu này."
+ ]
+}
