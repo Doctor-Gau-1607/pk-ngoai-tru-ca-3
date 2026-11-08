@@ -1,0 +1,896 @@
+{
+ "ma_ca": "NH-0449",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_tieu_chay_cap_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không dùng thuốc nào",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng nên lo lắng",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khang",
+  "tuoi": 0.04,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.45,
+  "chieu_cao": 51,
+  "xung_ho": "Bé trai 13 ngày tuổi, chưa nói được, chỉ khóc, ngủ, bú. Ở lượt 1 bố là người kể bệnh: bác sĩ gọi bố là 'anh', bố xưng 'em', gọi bé là 'cháu' hoặc 'bé Khang'. Mẹ (chị Hà) ở nhà, chỉ nói được khi bác sĩ gọi điện hoặc gọi video cho mẹ; từ lượt 2 mẹ đi cùng.",
+  "tinh_cach": "Bố 31 tuổi, kỹ sư phần mềm, con đầu lòng, nói nhanh, hay tra mạng, dễ hoảng khi đọc về 'nhiễm khuẩn huyết sơ sinh', muốn xét nghiệm đủ cho yên tâm; nghe được lời giải thích có số liệu và tiêu chí cụ thể. Mẹ 28 tuổi, đang ở cữ, đau vết khâu tầng sinh môn, ít sữa buổi tối, thương con và sợ mình làm con bệnh.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bố không ở nhà ban ngày nên trả lời 'bú bình thường' dù không biết số cữ bú; mẹ mới là người nắm cữ bú, sữa công thức, tã ướt. Chỉ khi bác sĩ hỏi thẳng cữ bú, tã ướt, sữa công thức và đề nghị gọi cho mẹ thì mẹ mới nói. Bố cũng đưa ra 'chẩn đoán' tìm trên mạng (nhiễm khuẩn huyết, tả, lồng ruột) và xin xét nghiệm máu, cấy phân, siêu âm.",
+  "nguoi_nha": "Lượt 1: bố bé, anh Việt, 31 tuổi, đưa bé đi một mình (nguoi_noi = nguoi_nha); mẹ trả lời qua điện thoại khi được hỏi. Lượt 2, 3: cả bố và mẹ (chị Hà, 28 tuổi) đi cùng, mẹ bế bé. Bé chỉ khóc.",
+  "ten_nguoi_nha": "Bố bé (anh Việt)",
+  "ngoai_hinh": {
+   "da": "#f1c7a4",
+   "toc": "#1b1411",
+   "kieuToc": "tre",
+   "ao": "#f6efe0",
+   "aoKieu": "quan",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e9bd96",
+    "toc": "#171210",
+    "kieuToc": "ngan",
+    "ao": "#5a7ba6",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 13 ngày tuổi đi ngoài phân lỏng, bố lo nhiễm trùng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 13 ngày tuổi, bố bế đến vì đi ngoài phân lỏng từ hôm qua, anh lo bé nhiễm trùng. Cân nặng 3,45 kg. Sinh hiệu: nhiệt (nách) 36,9 °C, mạch 138 l/p, nhịp thở 46 l/p, SpO₂ 98%. Bé tỉnh, khóc to khi đói.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang 13 ngày tuổi tỉnh, bú hăng, chưa mất nước, không sốt, không nôn: chưa đủ tiêu chí nhập viện của QĐ 3312 (Tiêu chảy cấp mục 5.1, tr. 323–324). Nằm viện làm bé và mẹ đang ở cữ bị tách khỏi nhà, tốn kém, bé tiếp xúc thêm vi khuẩn bệnh viện (không có số liệu trong tài liệu đã tải), trong khi điều trị cần thiết là Phác đồ A (mục 4.1). Hướng này chỉ chấp nhận nếu gia đình không đảm bảo chăm tại nhà; cần nói rõ lý do chứ không thay cho việc hướng dẫn.",
+    "chuyen_tuyen": "Chuyển bé Khang lên bệnh viện nhi chỉ vì anh Việt đọc báo thấy 'nhiễm khuẩn huyết sơ sinh' là quá tay: bé không sốt, không hạ thân nhiệt, bú hăng, tỉnh, không có dấu hiệu nguy hiểm nào của sơ sinh (WHO 2013 mục 3.6, tr. 52). Gia đình mất cả ngày, bé nằm chờ nơi đông bệnh nhân mà điều trị vẫn là bù nước bằng đường uống và tiếp tục bú mẹ (QĐ 3312 mục 4.1, 4.4)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu mới hơn hai tuần mà đi ngoài lỏng từ hôm qua, em đọc mạng thấy sơ sinh tiêu chảy là nguy hiểm lắm, có khi nhiễm trùng máu. Bác sĩ khám kỹ giúp em, xét nghiệm máu, cấy phân cho chắc.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 46,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài phân lỏng từ hôm qua, bố lo vì bé mới 13 ngày tuổi và đọc mạng thấy sơ sinh tiêu chảy rất nguy hiểm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Trước đây bé đi 3–4 lần/ngày phân vàng sệt. Hôm qua khoảng 6 lần, đêm qua thêm 3 lần: phân vàng, lỏng, có hạt sữa, thấm nước quanh tã. Không máu, không nhầy, không giống nước vo gạo. Bố chỉ thấy một vài tã vì ban ngày đi làm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần, tính chất phân so với nền của bé (QĐ 3312 mục 3.1a)"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Không nôn, chỉ ọc ít sau bú như mọi hôm; không nôn xanh vàng. Bố đo nách ở nhà 36,8–37,0 °C. Không co giật, không tím tái, không khóc từng cơn, bụng không chướng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, sốt, khóc từng cơn, dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6; Bảng 11)"
+    },
+    {
+     "id": "bu_bo",
+     "noi_dung": "Bố nói 'bé bú bình thường, bú hăng'. Bác sĩ thấy bé bú hăng khi thử bú trong phòng khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tỉnh táo (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "so_cu_bu",
+     "noi_dung": "Mẹ nói qua điện thoại: ngày thường bé bú mẹ 8–9 cữ. Từ hôm qua mẹ sợ 'sữa có đồ biển' làm con đi ngoài nên chỉ cho bú mẹ 5–6 cữ, thay 3 cữ bằng sữa công thức pha sẵn trong bình, bé bú mỗi cữ khoảng 40–50 ml.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Bố không biết. Chỉ lộ khi bác sĩ hỏi cụ thể số cữ bú mẹ, sữa công thức, hoặc đề nghị gọi cho mẹ (người chăm chính) để hỏi riêng.",
+     "y": "Chế độ nuôi dưỡng thật sự (QĐ 3312 mục 3.1a, 4.4)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Mẹ đếm hôm qua khoảng 6 tã ướt (bình thường 7–8), nước tiểu hơi vàng. Cân ở nhà hai ngày trước 3,50 kg.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ khi hỏi mẹ về tã ướt hoặc cân nặng gần đây.",
+     "y": "Lượng nước tiểu, cân nền (QĐ 3312 mục 3.1b)"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Ba ngày trước cả nhà ăn tiệc hải sản (ghẹ, nghêu, tôm). Bố đau bụng đi ngoài một lần rồi tự hết; mẹ ăn tôm chín, không triệu chứng. Bé không ban, không mề đay, không sưng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ăn hải sản, người nhà có triệu chứng không"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường đủ tháng 39 tuần, nặng 3,2 kg, đã tiêm vitamin K, viêm gan B, BCG. Rốn rụng ngày thứ 8, khô. Không vàng da phải chiếu đèn, chưa nằm viện. Chưa dùng thuốc, men vi sinh hay thuốc dân gian nào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử sản khoa, thuốc đang dùng"
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Bố đọc mạng: 'tiêu chảy ở sơ sinh có thể là nhiễm khuẩn huyết, tả, lồng ruột'; 'ăn hải sản thì đạm qua sữa mẹ gây dị ứng'. Anh muốn xét nghiệm máu, cấy phân, siêu âm bụng cho yên tâm.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều anh Việt thật sự lo: đêm qua đọc một bài kể trẻ sơ sinh tiêu chảy rồi mất trong vài ngày; anh sợ mình chủ quan. Anh mong được nghe 'dấu hiệu nào thì phải đưa con đi ngay'.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi 'anh lo nhất điều gì' hoặc ghi nhận nỗi lo của anh.",
+     "y": "Lý do thật sự đến khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, khóc to và mạnh khi đói, nín khi được bế. Da hồng, chi ấm, đổ đầy mao mạch dưới 2 giây. Mắt không trũng, môi lưỡi ẩm. Nếp véo da bụng trở lại nhanh (dưới 1 giây). Cân nặng 3,45 kg, giảm 1,4% so với 3,50 kg hai ngày trước (dưới 5%): chưa có dấu hiệu mất nước.",
+     "k": 1,
+     "hien": "Tỉnh, khóc to khi đói. Cân nặng 3,45 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, không phồng, không lõm. Cổ mềm, không hạch. Không vàng mắt.",
+     "k": 1
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú tốt, bú hăng, nuốt đều, bú liên tục khoảng 10 phút thì nhả, ngủ yên sau bú. Không bỏ bú, không nôn sau bú.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng không chướng, mềm, bé không nhăn mặt khi ấn. Nhu động ruột tăng nhẹ. Không khối, gan lách không to. Rốn khô, không đỏ, không mủ. Bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng không chướng, mềm."
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p, đều, không rút lõm, không rên. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 46 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không mụn mủ, không tím tái. Hăm đỏ nhẹ quanh hậu môn.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Không cần thăm trực tràng (phân không máu, bụng không chướng, không khối). Hậu môn đỏ nhẹ, không nứt; tã có phân vàng lỏng thấm nước, hạt sữa, không máu, không nhầy.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 12,4 G/L · Neutrophil 40% · Lymphocyte 50% · Hb 170 g/L · TC 320 G/L",
+     "n": "Không cần: không sốt, không mất nước, không nghi nhiễm khuẩn ngoài ruột. Phần lớn trẻ tiêu chảy cấp không cần xét nghiệm thường quy; công thức máu, CRP chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312 mục 3.2, tr. 320). Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "r": "CRP 2 mg/L",
+     "n": "Không cần (như công thức máu; QĐ 3312 mục 3.2). Kết quả không đổi xử trí."
+    },
+    "lyte": {
+     "r": "Na 138 · K 4,2 · Cl 104 mmol/L",
+     "n": "Không cần: điện giải chỉ khi điều trị tại bệnh viện và có mất nước (QĐ 3312 mục 3.2; QĐ 4068 ô [6]). Bé chưa mất nước."
+    },
+    "test_rota": {
+     "r": "Test nhanh rotavirus trong phân: dương tính.",
+     "n": "Không cần: kết quả không đổi xử trí (bù dịch, tiếp tục bú, không kháng sinh). Chỉ định test rotavirus: không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "n": "Không cần: không máu trong phân, không khóc từng cơn, không khối, bụng mềm (WHO 2013 Bảng 11, tr. 127). Tiêu chuẩn siêu âm lồng ruột: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ở trẻ sơ sinh 13 ngày tuổi, chưa mất nước, chưa có dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Phân lỏng nhiều hơn nền 3–4 lần/ngày, không máu, bắt đầu hôm qua (<14 ngày: QĐ 3312 mục 1); cân giảm 1,4% (<5%), thóp phẳng, mắt không trũng, nếp véo nhanh: không mất nước (QĐ 3312 mục 3.1b–c, tr. 318–319; WHO 2013 Bảng 12). Mẹ giảm cữ bú mẹ làm lượng dịch vào giảm."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân vàng, hạt sữa, không như nước vo gạo, không mất nước, không dịch tễ (QĐ 4178/2007 mục II.1: tả điển hình toàn nước trắng lờ đục như nước vo gạo; WHO 2013 Bảng 11: nước nhiều kèm mất nước nặng trong vụ dịch)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không khóc từng cơn kèm tái nhợt, không phân máu nhầy, không khối, bụng mềm (WHO 2013 Bảng 11, tr. 127). Chưa loại hẳn nên dặn đến ngay nếu khóc ngằn kèm tái nhợt hoặc phân có máu."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Không sốt >38 °C hay hạ thân nhiệt <35,5 °C, bú hăng, tỉnh, thở 46 l/p (<60), không rên, không tím (WHO 2013 mục 3.6, tr. 52: các dấu hiệu nguy hiểm). Sơ sinh có thể xấu nhanh nên hẹn tái khám 24 giờ."
+    },
+    {
+     "t": "Dị ứng đạm hải sản qua sữa mẹ hoặc không dung nạp lactose",
+     "n": "Không ban, không mề đay, phân không máu; truyền dị ứng hải sản qua sữa mẹ: không có trong tài liệu đã tải. Không dùng sữa không lactose thường quy cho tiêu chảy cấp (QĐ 3312 mục 4.4, tr. 323)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại không mất nước, điều trị ngoại trú theo Phác đồ A, hẹn tái khám sau 24 giờ",
+     "v": "c",
+     "n": "Phác đồ A cho tiêu chảy chưa mất nước (QĐ 3312 mục 4.1, tr. 320; WHO 2013 Chart 15). Ngoại trú khi không mất nước, người nhà được hướng dẫn, tái khám được (QĐ 4068 ô [8]). Tái khám 1–2 ngày (QĐ 4068 ô [8]) hoặc 5 ngày nếu không đỡ (WHO 2013 Bảng 12, tr. 128): sổ mâu thuẫn; sơ sinh chọn 24 giờ là lựa chọn thận trọng của ca, mốc riêng cho sơ sinh không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng mẹ (gọi điện) về cữ bú; dặn trở lại bú mẹ đủ 8–9 cữ, không giảm cữ bú vì sợ hải sản",
+     "v": "c",
+     "n": "Trẻ bú mẹ tiếp tục bú nhiều lần hơn và lâu hơn (QĐ 3312 mục 4.4, tr. 323; WHO 2013 Chart 15). Thân nhân trả lời thay: người chăm chính mới biết cữ bú. Truyền chất từ hải sản qua sữa mẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho thêm ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài, từng thìa nhỏ ngoài sữa mẹ; chuẩn bị đủ ORS ở nhà",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 320–321): <24 tháng 50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày, <2 tuổi từng thìa; WHO 2013 Chart 15 (tr. 138): trẻ chỉ bú mẹ cho ORS hoặc nước sạch thêm."
+    },
+    {
+     "t": "Không dùng kháng sinh",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.2 (tr. 322); WHO 2024 khuyến cáo 1a: không kháng sinh cho tiêu chảy phân nước. Chưa có dấu hiệu nhiễm trùng toàn thân."
+    },
+    {
+     "t": "Không xét nghiệm máu, cấy phân, siêu âm bụng thường quy; giải thích bằng tiêu chí lâm sàng",
+     "v": "c",
+     "n": "Phần lớn tiêu chảy cấp không cần xét nghiệm (QĐ 3312 mục 3.2, tr. 320). Anh Việt xin làm để yên tâm: đáp lại bằng danh sách dấu hiệu phải đưa bé đến ngay."
+    },
+    {
+     "t": "Dặn đến ngay khi: bú kém hoặc bỏ bú, li bì, sốt >38 °C hoặc nhiệt <35,5 °C, thở ≥60 l/p, phân nhiều nước hơn, nôn nhiều, phân máu, khóc từng cơn kèm tái nhợt, tã khô trên 6 giờ",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6, tr. 52); QĐ 3312 mục 5.1–5.2 (tr. 323–324): ăn uống kém, sốt, tiêu chảy tăng, nôn nhiều, phân nhầy máu; WHO 2013 Bảng 11: khóc từng cơn kèm tái nhợt. Mốc 'tã khô trên 6 giờ': do người viết chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rửa tay trước khi chăm bé, dùng nước sạch, bình sữa và dụng cụ vệ sinh sạch",
+     "v": "c",
+     "n": "QĐ 3312 mục 6 (tr. 324): nguồn nước sạch, an toàn vệ sinh thực phẩm, rửa tay thường xuyên khi chăm sóc trẻ. Cách rửa bình, thời gian giữ sữa pha: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bổ sung kẽm 5 mg/ngày trong 10–14 ngày, hoặc không bổ sung ở trẻ dưới 1 tháng",
+     "v": "a",
+     "n": "Sổ mâu thuẫn (kẽm <1 tháng): WHO 2024 khuyến cáo 3a, 3c 5 mg/ngày, không giới hạn tuổi dưới; QĐ 3312 mục 4.3 (tr. 323) chỉ ghi từ 1 tháng; ESPGHAN/ESPID 2014 mục 9.3 (tr. 145): trẻ <6 tháng kẽm không rút ngắn bệnh."
+    },
+    {
+     "t": "Cho men vi sinh",
+     "v": "a",
+     "n": "Sổ mâu thuẫn (probiotic): WHO 2024 khuyến cáo 4a không dùng; QĐ 3312 mục 4.5, ESPGHAN 2023 chấp nhận chọn lọc. Liều cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện theo dõi ngay từ lượt 1",
+     "v": "a",
+     "n": "Thận trọng vì sơ sinh (WHO 2013 mục 3.6: dấu hiệu nặng kín đáo). Chưa đủ tiêu chí nhập viện QĐ 3312 mục 5.1 (chưa mất nước, không nôn, không li bì, bú tốt); mốc riêng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng bú mẹ vài hôm, đổi sang sữa không lactose",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.4: bú mẹ tiếp tục, không dùng sữa không lactose thường quy; ngưng bú làm giảm lượng dịch vào."
+    },
+    {
+     "t": "Cho racecadotril hoặc diosmectit",
+     "v": "w",
+     "n": "Sổ mâu thuẫn (NH-0513 #2): QĐ 3312 mục 4.5 và ESPGHAN 2014 mục 9.3.3–9.3.4 cho trẻ lớn; không có dữ liệu cho <1 tháng (không suy diễn)."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu (loperamid) hoặc thuốc cầm nôn",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5: không dùng; WHO 2013 mục 5 (tr. 126): có thể tử vong ở trẻ nhỏ; ESPGHAN 2014 mục 9.3.2."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước, ngày thứ 2, ở trẻ sơ sinh 13 ngày tuổi",
+     "Chưa mất nước (cân giảm 1,4%, thóp phẳng, mắt không trũng, nếp véo nhanh); chưa có dấu hiệu nguy hiểm của sơ sinh",
+     "Nguy cơ mất nước: mẹ giảm cữ bú mẹ còn 5–6 cữ vì sợ hải sản",
+     "Đã cân nhắc và chưa thấy bằng chứng tả, lồng ruột, nhiễm khuẩn huyết"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (số lần phân so với nền, máu, nôn, sốt, bú, tã ướt, tiền sử sản khoa) → khám (cân, mắt, thóp, nếp véo, bụng, thân nhiệt) → quyết định không cần cận lâm sàng → chẩn đoán → xử trí.",
+     "Vì sao tiêu chảy cấp: phân lỏng nhiều nước, nhiều hơn nền 3–4 lần/ngày, bắt đầu <14 ngày, không máu (QĐ 3312 mục 1; WHO 2013 Bảng 11). Bé bú mẹ vốn đi phân sệt nhiều lần; số lần cụ thể của sơ sinh bú mẹ: không có trong tài liệu đã tải, nên so với nền của chính bé.",
+     "Vì sao chưa mất nước: sơ sinh 1 tuần–2 tháng cần hai trong ba dấu hiệu (li bì, mắt trũng, nếp véo rất chậm = nặng; vật vã, mắt trũng, nếp véo chậm = có mất nước) (QĐ 3312 mục 3.1c, tr. 319); bé không có dấu nào; cân giảm <5% (mục 3.1b, tr. 318).",
+     "Vì sao chưa nhiễm khuẩn huyết: không có dấu hiệu nào trong danh sách của WHO 2013 mục 3.6 (bú kém, li bì, thở ≥60, rên, sốt >38, nhiệt <35,5, tím). Nhưng 'dấu hiệu nặng ở sơ sinh rất kín đáo' nên hẹn tái khám 24 giờ.",
+     "Vì sao hỏi riêng mẹ: bố không biết cữ bú và tã ướt; mẹ đã giảm bú mẹ, đây là yếu tố làm bé dễ mất nước. Khởi phát sau tiệc hải sản: không có tài liệu nói hải sản gây tiêu chảy qua sữa mẹ; bố cũng đau bụng đi ngoài một lần nên nguyên nhân nhiễm trùng ruột từ bữa ăn là khả năng, tác nhân không xác định được."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ A: tiếp tục bú mẹ nhiều hơn, thêm ORS sau mỗi lần đi ngoài (QĐ 3312 mục 4.1, 4.4); không kháng sinh (mục 4.2; WHO 2024 khuyến cáo 1a).",
+     "Không xét nghiệm: chỉ định xét nghiệm hạn chế (QĐ 3312 mục 3.2). Điện giải khi có mất nước; công thức máu, CRP khi nghi nhiễm khuẩn kèm theo; cấy phân khi phân máu, nghi tả, nặng/kéo dài.",
+     "Tái khám: QĐ 4068 ô [8] mỗi 1–2 ngày; WHO 2013 Bảng 12 sau 5 ngày nếu không đỡ; chọn 24 giờ cho sơ sinh. Đến ngay khi có dấu hiệu nguy hiểm (WHO 2013 mục 3.6; QĐ 3312 mục 5.2).",
+     "Kẽm 5 mg/ngày hoặc không dùng đều chấp nhận ở trẻ <1 tháng (sổ mâu thuẫn); racecadotril, diosmectit chấm w; loperamid, cầm nôn chấm h ở sơ sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dung dịch bù nước đường uống ORS áp lực thẩm thấu thấp",
+      "ham_luong": "Gói pha theo hướng dẫn nhà sản xuất",
+      "lieu": "50–100 ml sau mỗi lần đi ngoài (tối đa khoảng 500 ml/ngày), cho từng thìa nhỏ",
+      "duong": "Uống",
+      "thoi_diem": "Sau mỗi lần đi ngoài, ngoài các cữ bú mẹ",
+      "so_ngay": "Đến khi hết tiêu chảy; tái khám sau 24 giờ",
+      "ghi_chu": "QĐ 3312 mục 4.1 (tr. 320–321); WHO 2013 Chart 15. Nôn thì đợi 5–10 phút rồi cho chậm hơn. Dùng ORS thường nếu không có loại áp lực thẩm thấu thấp (QĐ 4068 mục 1.2)."
+     }
+    ],
+    "dan_do": [
+     "Cháu chưa mất nước và chưa có dấu hiệu nặng; bệnh thường tự khỏi nhưng sơ sinh có thể xấu nhanh nên cần theo dõi sát.",
+     "Cho bú mẹ đủ 8–9 cữ như trước, bú nhiều lần hơn và lâu hơn; không bỏ cữ vì sợ hải sản (QĐ 3312 mục 4.4). Mẹ không có lỗi.",
+     "Sau mỗi lần đi ngoài cho thêm 50–100 ml ORS từng thìa; nôn thì đợi 5–10 phút rồi cho chậm lại (QĐ 3312 mục 4.1).",
+     "Không tự cho uống thuốc cầm tiêu, thuốc dân gian, nước lá, nước đường; không đổi sữa.",
+     "Rửa tay trước khi chăm bé, dùng nước và dụng cụ sạch (QĐ 3312 mục 6).",
+     "Đưa bé đến ngay nếu bú kém hoặc bỏ bú, li bì, sốt >38 °C hoặc người lạnh (<35,5 °C), thở nhanh từ 60 l/p, phân nhiều hơn, nôn nhiều, phân có máu, khóc ngằn từng cơn kèm tái nhợt, tã khô trên 6 giờ (WHO 2013 mục 3.6; QĐ 3312 mục 5.2).",
+     "Tái khám sau 24 giờ dù bé có vẻ khá hơn; mẹ cùng đi để hỏi cữ bú và cân lại."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 24 giờ",
+   "tiep_don": "Sáng hôm sau, bố mẹ đưa bé 14 ngày tuổi đến tái khám đúng hẹn: bé vẫn đi ngoài nhiều, bú chậm hơn, quấy. Cân nặng 3,30 kg. Sinh hiệu: nhiệt (nách) 37,2 °C, mạch 152 l/p, nhịp thở 52 l/p, SpO₂ 98%. Bé tỉnh, quấy khóc, khó dỗ.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Bé Khang đã giảm 5,7% cân nặng (3,50 → 3,30 kg), mắt trũng, nếp véo chậm, quấy: đã có mất nước vừa/nhẹ (QĐ 3312 mục 3.1b–c, tr. 318–319). Cho về tiếp tục Phác đồ A thì lượng dịch vào không đủ bù, vì bé bú chậm và đang đi ngoài nhiều; Phác đồ B phải bù đủ 75 ml/kg dưới sự theo dõi (mục 4.1, tr. 321). Mẹ còn do dự chuyện cữ bú nên khó tự bù đủ ở nhà; bé có thể tiến triển nặng hơn trong ngày và gia đình chỉ đến lại khi bé đã li bì.",
+    "nhap_vien": "Nhập viện ngay lượt này cho bé Khang là quá tay: bé tỉnh, bú còn được, chưa nôn, chưa sốt, chưa có dấu hiệu nguy hiểm của sơ sinh (WHO 2013 mục 3.6), mất nước mức vừa/nhẹ có thể điều trị ORS 4 giờ tại phòng khám (QĐ 3312 mục 4.1; WHO 2013 Chart 14, tr. 135). Nhập viện chỉ khi thất bại bù dịch đường uống hoặc nôn tái diễn (QĐ 3312 mục 5.1). Gia đình tốn kém và mẹ ở cữ phải rời nhà sớm mà chưa thử cách điều trị ít xâm lấn hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, từ hôm qua về cháu vẫn đi ngoài nhiều, mẹ đếm chắc chín mười lần, cháu bú ít hơn và quấy cả đêm. Mẹ cũng đã cho bú lại đủ cữ rồi mà cháu vẫn không đỡ.",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "Không đo",
+    "nhiet": "37,2",
+    "nhip_tho": 52,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Về nhà mẹ cho bú mẹ lại 8 cữ, nhưng mỗi cữ ngắn (5–7 phút) rồi nhả vú quấy. Phân lỏng 9 lần từ hôm qua, nhiều nước hơn, có hạt sữa, không máu, không nhầy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau Phác đồ A"
+    },
+    {
+     "id": "ors",
+     "noi_dung": "Mẹ cho uống ORS từng thìa sau mỗi lần đi ngoài nhưng bé chỉ nhận khoảng 30–40 ml/lần, hay nhả ra. Tổng lượng ORS cả ngày khoảng 200 ml.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng ORS thực sự uống được (QĐ 3312 mục 4.1)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tã ướt chỉ 4 cái từ hôm qua, nước tiểu vàng đậm; tã đêm qua khô khoảng 5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước tiểu (QĐ 3312 mục 3.1b)"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Ọc 1 lần sau bú, không nôn vọt, không nôn xanh vàng. Không sốt (37,0–37,2 °C ở nhà), không co giật, không khóc ngằn từng cơn, bụng không chướng, phân không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, sốt, dấu hiệu nguy hiểm (WHO 2013 mục 3.6; Bảng 11)"
+    },
+    {
+     "id": "quay",
+     "noi_dung": "Bé quấy, khóc to nhưng nín khi bú, bú được. Không li bì, vẫn tỉnh khi gọi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tri giác, bú (QĐ 3312 mục 3.1c: vật vã/kích thích)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố nói thêm: 'Em đã bảo là phải xét nghiệm máu từ hôm qua'. Mẹ im lặng, rơm rớm nước mắt vì nghĩ do mình cho bé bú ít một ngày.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ ghi nhận cả hai người và hỏi mẹ cảm thấy thế nào.",
+     "y": "Tâm lý gia đình"
+    },
+    {
+     "id": "tu_tra2",
+     "noi_dung": "Bố vẫn muốn truyền dịch ngay cho bé 'cho nhanh' và xét nghiệm máu.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mong muốn của bố"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh nhưng quấy, khó dỗ, khóc có nước mắt ít. Mắt trũng nhẹ, môi khô. Nếp véo da bụng trở lại chậm (khoảng 2 giây). Đổ đầy mao mạch khoảng 2 giây, chi ấm. Cân nặng 3,30 kg, giảm 5,7% so với 3,50 kg (5–10%: mất nước vừa/nhẹ).",
+     "k": 1,
+     "hien": "Quấy, khó dỗ. Cân nặng 3,30 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước lõm nhẹ, mềm. Cổ mềm, không hạch.",
+     "k": 1
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú được, bú mạnh khoảng 5 phút rồi nhả, quấy, bú lại được. Không bỏ bú, không nôn sau bú.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng không chướng, mềm, nhu động ruột tăng. Không khối, không điểm đau khu trú. Rốn khô.",
+     "k": 1,
+     "hien": "Bụng không chướng, mềm."
+    },
+    "tim": {
+     "a": "Tim đều 152 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 152 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, không rút lõm, không rên. Phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, không ban, không tím. Hăm đỏ quanh hậu môn nặng hơn hôm qua.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "a",
+     "r": "Na 137 · K 4,0 · Cl 103 mmol/L",
+     "bang": {
+      "na": 137,
+      "k": 4.0,
+      "cl": 103
+     },
+     "n": "Chấp nhận, không bắt buộc: điện giải khi điều trị tại bệnh viện và có mất nước (QĐ 3312 mục 3.2; QĐ 4068 ô [6]); bé mất nước vừa/nhẹ, đang điều trị tại phòng khám nên không bắt buộc."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 3,8 mmol/L",
+     "n": "Chấp nhận: đường huyết khi rối loạn tri giác, co giật (QĐ 4068 ô [6]); bé tỉnh nên không bắt buộc. Ngưỡng hạ đường huyết sơ sinh: < 2,2 mmol/L cần glucose IV (WHO 2013 mục 3.6, tr. 53)."
+    },
+    "cay_phan": {
+     "n": "Không cần: phân nước, không máu, không nghi tả (QĐ 3312 mục 3.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ngày thứ 3, có mất nước vừa/nhẹ (sụt 5,7% cân), không đỡ sau Phác đồ A, sơ sinh 14 ngày tuổi",
+     "ok": 1,
+     "n": "Quấy, mắt trũng, nếp véo chậm: hai trong ba dấu hiệu 'có mất nước' của trẻ 1 tuần–2 tháng (QĐ 3312 mục 3.1c, tr. 319); WHO 2013 Bảng 12; cân giảm 5–10% (mục 3.1b). Lượng ORS thực sự uống được quá ít."
+    },
+    {
+     "t": "Mất nước nặng cần Phác đồ C",
+     "n": "Không li bì, nếp véo không rất chậm (≥2 giây), uống được: chưa đủ hai dấu hiệu nặng (QĐ 3312 mục 3.1c; WHO 2013 Bảng 12)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Chưa có: không sốt >38 °C hay nhiệt <35,5 °C, tỉnh, bú được, thở 52 (<60), không rên, không tím (WHO 2013 mục 3.6, tr. 52). Chưa loại hẳn: theo dõi đáp ứng bù dịch và sinh hiệu."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không khóc ngằn từng cơn kèm tái nhợt, không phân máu nhầy, không khối, bụng mềm (WHO 2013 Bảng 11, tr. 127)."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân có hạt sữa, số lần chưa tới mức 'rất nhiều nước' kèm mất nước nặng, không dịch tễ (QĐ 4178/2007 mục II.1; WHO 2013 Bảng 11)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại có mất nước (vừa/nhẹ), Phác đồ B: ORS 75 ml/kg trong 4 giờ (3,30 kg ≈ 250 ml; WHO <6 kg: 200–400 ml), từng thìa nhỏ ngay tại phòng khám, tiếp tục cho bú mẹ; đánh giá lại sau 4 giờ",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (tr. 321): cân nặng × 75 ml trong 4 giờ, <2 tuổi từng thìa, nôn thì ngừng 10 phút; sau 4 giờ đánh giá lại; WHO 2013 Chart 14 (tr. 135): ≤4 tháng, <6 kg 200–400 ml, tiếp tục bú; QĐ 4068 ô [4]: <4 tháng 200–400 ml. Bé đủ tiêu chuẩn điều trị bằng đường uống: tỉnh, uống được."
+    },
+    {
+     "t": "Giải thích cho bố và mẹ vì sao không truyền dịch lúc này; ghi nhận cả hai; mẹ không có lỗi",
+     "v": "c",
+     "n": "Bù dịch uống hiệu quả với mất nước vừa/nhẹ; IV khi mất nước kèm nôn, thất bại bù dịch (QĐ 4068 mục 1.2; ESPGHAN/ESPID 2014 mục 8.4, tr. 140). Mẹ bú ít hơn một ngày không phải nguyên nhân duy nhất của bệnh."
+    },
+    {
+     "t": "Giữ bé ở phòng khám theo dõi sát (nhiệt, mạch, nhịp thở, tri giác, số lần đi ngoài, nôn, lượng uống) và đánh giá lại sau 4 giờ",
+     "v": "c",
+     "n": "WHO 2013 Chart 14 (tr. 135): 'give the recommended amount of ORS in the clinic over 4 h', sau 4 giờ đánh giá lại và chọn phác đồ tiếp theo; QĐ 3312 mục 4.1. Mốc theo dõi các chỉ số: do người viết chọn."
+    },
+    {
+     "t": "Không dùng kháng sinh; không xét nghiệm máu thường quy",
+     "v": "c",
+     "n": "QĐ 3312 mục 3.2, 4.2; WHO 2024 khuyến cáo 1a. Điện giải, đường huyết làm cũng chấp nhận (QĐ 4068 ô [6])."
+    },
+    {
+     "t": "Khi bé khá hơn: ghi rõ hẹn đánh giá lại tại chỗ; nếu nôn tái diễn, uống không đủ, thêm dấu hiệu nguy hiểm thì nhập viện",
+     "v": "c",
+     "n": "QĐ 3312 mục 5.1 (tr. 323–324): thất bại bù dịch đường uống, nôn tái diễn, sốt, li bì là chỉ định nhập viện; WHO 2013 mục 3.6."
+    },
+    {
+     "t": "Nhập viện ngay lượt này",
+     "v": "a",
+     "n": "Thận trọng hợp lý vì sơ sinh; nhưng chưa có tiêu chí nhập viện của QĐ 3312 mục 5.1 (bé uống được, chưa nôn). Chấp nhận nếu gia đình không ở lại theo dõi được."
+    },
+    {
+     "t": "Cho về nhà, tiếp tục Phác đồ A",
+     "v": "w",
+     "n": "Bé đã mất nước vừa/nhẹ, không bù đủ ở nhà; Phác đồ B phải thực hiện dưới theo dõi (QĐ 3312 mục 4.1; WHO 2013 Chart 14)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay hoặc Phác đồ C",
+     "v": "w",
+     "n": "Phác đồ C dành cho mất nước nặng (QĐ 3312 mục 4.1); bé chưa nặng, uống được. IV khi thất bại bù dịch hoặc nôn kéo dài (ESPGHAN/ESPID 2014 mục 8.4)."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu (loperamid) hoặc thuốc cầm nôn",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5; WHO 2013 mục 5 (tr. 126): có thể tử vong ở trẻ nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 3, sơ sinh 14 ngày tuổi",
+     "Có mất nước vừa/nhẹ (cân giảm 5,7%, mắt trũng, nếp véo chậm, quấy)",
+     "Không đỡ sau Phác đồ A vì bé bú chậm, uống ORS ít (khoảng 200 ml/ngày) và đi ngoài 9 lần",
+     "Chưa có dấu hiệu nguy hiểm sơ sinh, chưa nôn tái diễn, chưa sốt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến, lượng ORS thực sự uống, tã ướt → khám (cân, mắt, thóp, nếp véo, tri giác) → xét nghiệm không bắt buộc → chẩn đoán → Phác đồ B.",
+     "Vì sao có mất nước: quấy khó dỗ, mắt trũng, nếp véo chậm (QĐ 3312 mục 3.1c, tr. 319; WHO 2013 Bảng 12), cân giảm 5,7% so với cân nền (mục 3.1b), tã ướt 4/ngày. Không đủ dấu hiệu nặng (li bì, nếp véo ≥2 giây rất chậm).",
+     "Vì sao 'không đỡ': không phải thuốc sai hay chẩn đoán sai mà là bù dịch không đủ (ORS 200 ml/ngày, 30–40 ml mỗi lần) (diễn tiến tự nhiên của tiêu chảy virus: không có trong tài liệu đã tải). Vẫn phải tự hỏi lại: có sốt, nôn, bụng chướng, phân máu gợi bệnh khác không (câu hỏi dừng chẩn đoán).",
+     "Loại trừ lại: nhiễm khuẩn huyết sơ sinh (không dấu hiệu WHO 2013 mục 3.6), lồng ruột (WHO 2013 Bảng 11), tả (QĐ 4178/2007 mục II.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ B tại phòng khám: 75 ml/kg trong 4 giờ (QĐ 3312 mục 4.1, tr. 321): 3,30 kg × 75 ≈ 250 ml, nằm trong 200–400 ml của WHO 2013 Chart 14. Từng thìa nhỏ, nôn thì đợi 10 phút (tương tự), vẫn cho bú mẹ khi bé đòi.",
+     "Sau 4 giờ đánh giá lại và chọn phác đồ: hết mất nước → Phác đồ A; còn mất nước → tiếp tục B hoặc nhập viện nếu thất bại/nôn (QĐ 3312 mục 4.1, 5.1; WHO 2013 Chart 14).",
+     "Không nhập viện ngay: chưa có tiêu chí; không IV: bù dịch uống còn khả thi (ESPGHAN/ESPID 2014 mục 8.3–8.4: NG trước IV khi uống không được, IV khi thất bại hoặc nôn kéo dài). Điện giải, đường huyết chấp nhận, không bắt buộc (QĐ 4068 ô [6])."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dung dịch bù nước đường uống ORS áp lực thẩm thấu thấp (Phác đồ B)",
+      "ham_luong": "Gói pha theo hướng dẫn nhà sản xuất",
+      "lieu": "75 ml/kg trong 4 giờ ≈ 250 ml (3,30 kg); từng thìa nhỏ, cứ 1–2 phút một thìa",
+      "duong": "Uống",
+      "thoi_diem": "Ngay tại phòng khám, liên tục 4 giờ",
+      "so_ngay": "Một đợt 4 giờ rồi đánh giá lại",
+      "ghi_chu": "QĐ 3312 mục 4.1 (tr. 321); WHO 2013 Chart 14 (tr. 135: <6 kg 200–400 ml). Nôn thì ngừng 10 phút rồi cho chậm hơn."
+     }
+    ],
+    "dan_do": [
+     "Cháu đã mất nước ở mức vừa/nhẹ; cách điều trị là cho uống ORS từng thìa nhỏ ngay tại phòng khám, vừa uống vừa bú mẹ.",
+     "Bố mẹ ở lại cùng, giúp cho uống từng thìa, ghi giờ và số lần đi ngoài; gọi nhân viên ngay nếu bé nôn, li bì, sốt hoặc lạnh.",
+     "Không truyền dịch vì cháu còn uống được; nếu sau 4 giờ cháu uống không đủ hoặc nôn nhiều thì sẽ cho nhập viện để bù dịch an toàn hơn.",
+     "Mẹ cho con bú là điều tốt, không có lỗi; bú mẹ tiếp tục trong lúc bù dịch (QĐ 3312 mục 4.4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 4 giờ",
+   "tiep_don": "Bốn giờ sau, đánh giá lại tại phòng khám. Bé uống được khoảng 130 ml trong 250 ml, nôn 2 lần, đi ngoài thêm 3 lần. Cân nặng 3,31 kg. Sinh hiệu: nhiệt (nách) 37,5 °C, mạch 158 l/p, nhịp thở 56 l/p, SpO₂ 97%. Bé tỉnh nhưng mệt hơn, bú yếu.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Khang về lúc này là nguy hiểm: sau 4 giờ bé chỉ uống được khoảng một nửa lượng ORS, nôn 2 lần, đi ngoài thêm và vẫn còn mắt trũng, nếp véo chậm. Thất bại bù dịch đường uống và nôn tái diễn đều là chỉ định theo dõi tại cơ sở y tế (QĐ 3312 mục 5.1, tr. 323–324), IV cần khi 'không đỡ dù bù dịch uống hoặc qua ống thông dạ dày' (ESPGHAN/ESPID 2014 mục 8.4). Ở nhà, bé 14 ngày tuổi bú yếu có thể nhanh chóng li bì, hạ thân nhiệt; bố mẹ phát hiện muộn.",
+    "theo_doi": "Tiếp tục Phác đồ B thêm 4 giờ ở phòng khám có vẻ hợp lý (WHO 2013 Chart 14: còn mất nước thì tiếp tục), nhưng bé Khang đã nôn tái diễn và không uống đủ: thêm 4 giờ ORS bằng thìa sẽ lại thất bại và kéo dài thời gian bé mất nước. Trong khi đó đường truyền hoặc ống thông dạ dày chỉ có ở khu nội trú (ESPGHAN/ESPID 2014 mục 8.3–8.4). Chấp nhận tiếp tục tại chỗ chỉ khi nhà có người theo dõi từng giờ; với sơ sinh, chuyển nội trú an toàn hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu uống được có một nửa, nôn thêm hai lần rồi, đi ngoài nữa. Bé mệt hẳn, bú cũng yếu. Em lo lắm.",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "37,5",
+    "nhip_tho": 56,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bốn giờ qua mẹ cho uống từng thìa theo đúng hướng dẫn, uống được khoảng 130 ml trong 250 ml. Nôn 2 lần sau khi uống, không nôn xanh vàng, không nôn vọt. Đi ngoài thêm 3 lần phân nước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng Phác đồ B sau 4 giờ (QĐ 3312 mục 4.1)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Từ lúc đến chưa đi tiểu, tã còn khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước tiểu"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không co giật, không tím, không thở rên. Vẫn mở mắt khi gọi nhưng khóc yếu, bú yếu hơn buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Bụng không chướng, không nôn xanh vàng, phân không máu, bé không khóc ngằn từng cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lồng ruột, tắc ruột (WHO 2013 Bảng 11)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Bố im lặng sau lời giải thích buổi sáng. Hai vợ chồng muốn bác sĩ nói rõ: 'nằm viện bao lâu, có sao không'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo của gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh nhưng mệt, khóc yếu. Mắt trũng rõ hơn, môi khô. Nếp véo da bụng trở lại chậm (khoảng 2 giây, chưa quá 2 giây). Đổ đầy mao mạch 2–3 giây, chi hơi mát. Cân nặng 3,31 kg (vẫn thấp hơn cân nền 3,50 kg 5,4%).",
+     "k": 1,
+     "hien": "Mệt, khóc yếu. Cân nặng 3,31 kg."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước lõm rõ hơn buổi sáng.",
+     "k": 1
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú được nhưng bú yếu, nhả sớm, không nuốt đều.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng không chướng, mềm, nhu động ruột tăng. Không khối.",
+     "k": 0,
+     "hien": "Bụng không chướng, mềm."
+    },
+    "tim": {
+     "a": "Tim đều 158 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 56 l/p, không rút lõm, không rên. Phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 56 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 3,4 mmol/L",
+     "ab": 0,
+     "n": "Bé bú yếu, mệt hơn: kiểm tra đường huyết (WHO 2013 mục 3.6, tr. 53; QĐ 4068 ô [6]). Ngưỡng <2,2 mmol/L cần glucose 10% IV 2 ml/kg; 3,4 mmol/L chưa cần, theo dõi."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 134 · K 3,6 · Cl 100 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 134,
+      "k": 3.6,
+      "cl": 100
+     },
+     "n": "Chỉ định: mất nước kèm nôn, thất bại bù dịch (QĐ 3312 mục 3.2; QĐ 4068 ô [6]). Na 134 hơi thấp, K 3,6 sát ngưỡng; chưa cần can thiệp riêng, tiếp tục theo dõi ở nội trú (ngưỡng hạ natri, hạ kali: QĐ 3312 mục 3.1d, tr. 319–320). Không làm chậm nhập viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ngày thứ 3, mất nước vừa/nhẹ, thất bại bù dịch đường uống (Phác đồ B 4 giờ) và nôn tái diễn, sơ sinh 14 ngày tuổi",
+     "ok": 1,
+     "n": "Uống được ~130/250 ml, nôn 2 lần, đi ngoài thêm, còn mắt trũng, nếp véo chậm, chưa đi tiểu (QĐ 3312 mục 3.1c, 4.1, 5.1: thất bại bù dịch uống, nôn tái diễn; WHO 2013 Chart 14)."
+    },
+    {
+     "t": "Mất nước nặng, sốc",
+     "n": "Tỉnh, đổ đầy mao mạch 2–3 giây, nếp véo chưa quá 2 giây, mạch 158 l/p vẫn bắt được: chưa nặng nhưng đang xấu dần (QĐ 3312 mục 3.1c; WHO 2013 Bảng 12)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh",
+     "n": "Chưa có dấu hiệu nguy hiểm: nhiệt 37,5 °C (<38), không hạ thân nhiệt, không thở ≥60, không rên (WHO 2013 mục 3.6); bú yếu và mệt là hậu quả mất nước nhưng cần theo dõi ở nội trú và cấy máu nếu sốt hoặc li bì."
+    },
+    {
+     "t": "Lồng ruột, tắc ruột",
+     "n": "Không nôn xanh vàng, không khóc ngằn kèm tái nhợt, không phân máu, bụng không chướng (WHO 2013 Bảng 11)."
+    },
+    {
+     "t": "Tả",
+     "n": "Dịch tễ không có, phân không như nước vo gạo (QĐ 4178/2007 mục II.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện nhi/sơ sinh để bù dịch và theo dõi; chuyển bằng xe có nhân viên y tế đi cùng, gọi báo trước cho bệnh viện nhi",
+     "v": "c",
+     "n": "Thất bại bù dịch đường uống, nôn tái diễn (QĐ 3312 mục 5.1, tr. 323–324); IV hoặc NG khi uống không đủ hoặc nôn kéo dài (QĐ 4068 mục 1.2; ESPGHAN/ESPID 2014 mục 8.3–8.4, tr. 139–140). Nhập viện tại cơ sở có sẵn nội trú nhi cũng đúng; xe cấp cứu có nhân viên: lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trong lúc chờ chuyển: tiếp tục cho ORS từng thìa nhỏ, cho bú mẹ khi bé đòi, giữ ấm, đo nhiệt, mạch, nhịp thở mỗi 15–30 phút",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1 (từng thìa; nôn đợi 5–10 phút); WHO 2013 mục 3.10.1 (tr. 56–57): giữ ấm; Chart 14: tiếp tục bú. Mốc đo 15–30 phút: do người viết chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bù dịch tại bệnh viện: ORS qua ống thông dạ dày 40–50 ml/kg trong 3–6 giờ, hoặc truyền tĩnh mạch Ringer lactat hoặc NaCl 0,9% nếu nôn kéo dài/không dùng được đường tiêu hóa",
+     "v": "c",
+     "n": "ESPGHAN/ESPID 2014 mục 8.3 (NG trước IV, 40–50 ml/kg trong 3–6 giờ), mục 8.4 (IV khi nôn kéo dài, thất bại); QĐ 3312 mục 4.1 (LR hoặc muối sinh lý). Liều IV riêng cho mất nước vừa ở sơ sinh <28 ngày: không có trong tài liệu đã tải; để bệnh viện quyết định. Hai cách đều đúng."
+    },
+    {
+     "t": "Đo đường huyết mao mạch, lấy điện giải (có thể công thức máu) khi lập đường truyền; không làm chậm chuyển viện",
+     "v": "c",
+     "n": "QĐ 3312 mục 3.2; QĐ 4068 ô [6]; WHO 2013 mục 3.6 (tr. 53) đường huyết khi li bì."
+    },
+    {
+     "t": "Không dùng kháng sinh tiêm kinh nghiệm ở phòng khám; báo bệnh viện về khả năng nhiễm khuẩn huyết nếu sốt, li bì",
+     "v": "c",
+     "n": "Tiêu chảy phân nước không kháng sinh (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 1a); kháng sinh sơ sinh chỉ khi có dấu hiệu nguy hiểm (WHO 2013 mục 3.6). Bé chưa có."
+    },
+    {
+     "t": "Giải thích cho bố mẹ lý do nhập viện, thời gian dự kiến, mẹ đi cùng và tiếp tục cho bú; ghi nhận nỗi lo của bố",
+     "v": "c",
+     "n": "Người chăm sóc chưa đảm bảo bù đủ nước là chỉ định nhập viện (QĐ 3312 mục 5.1); thời gian nằm viện dự kiến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục Phác đồ B thêm 4 giờ ở phòng khám",
+     "v": "a",
+     "n": "WHO 2013 Chart 14 (tr. 135): sau 4 giờ còn mất nước thì chọn phác đồ tiếp; QĐ 4068 ô [4]. Chấp nhận nếu bé uống được và chưa nôn; ở đây nôn tái diễn nên ưu tiên nhập viện."
+    },
+    {
+     "t": "Cho về nhà tiếp tục ORS tại nhà",
+     "v": "w",
+     "n": "Thất bại bù dịch uống, nôn tái diễn (QĐ 3312 mục 5.1); sơ sinh về nhà có thể tiến triển nhanh (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu, cầm nôn",
+     "v": "h",
+     "n": "QĐ 3312 mục 4.5; WHO 2013 mục 5 (tr. 126): có thể tử vong ở trẻ nhỏ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 3 ở sơ sinh 14 ngày tuổi",
+     "Mất nước vừa/nhẹ, thất bại bù dịch đường uống sau 4 giờ, nôn tái diễn",
+     "Đường huyết 3,4 mmol/L, Na 134, K 3,6: rối loạn nhẹ",
+     "Chưa dấu hiệu nguy hiểm sơ sinh; chưa sốc; chưa nhiễm khuẩn huyết"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: đánh giá lại (uống bao nhiêu, nôn, đi ngoài, nước tiểu) → khám lại (cân, mắt, thóp, nếp véo, mao mạch, tri giác) → cận lâm sàng khi nhập viện → chẩn đoán → nhập viện.",
+     "Vì sao thất bại: uống ~130/250 ml (52%), nôn 2 lần, đi ngoài thêm 3 lần, chưa tiểu, mắt trũng rõ hơn (QĐ 3312 mục 5.1; WHO 2013 Chart 14).",
+     "Vì sao chưa phải nhiễm khuẩn huyết: không sốt, không hạ thân nhiệt, không thở nhanh ≥60, không tím, không rên (WHO 2013 mục 3.6); nhưng bú yếu, mệt là dấu hiệu 'bú kém' cần theo dõi sát, nên không để bé ở nhà.",
+     "Điểm gãy cần truy nguyên: (1) lượt 1, thân nhân trả lời thay làm lộ muộn việc mẹ giảm cữ bú; (2) hai ngày đầu lượng dịch vào thấp hơn lượng mất; (3) bù dịch uống bằng thìa không đủ vì nôn. Nếu bỏ qua mốc 4 giờ đánh giá lại hoặc cho về ở lượt 2 thì bé mất nước nặng hơn tại nhà."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện: thất bại bù dịch đường uống và nôn tái diễn (QĐ 3312 mục 5.1); IV khi nôn kéo dài, thất bại bù dịch uống hoặc NG (ESPGHAN/ESPID 2014 mục 8.3–8.4; QĐ 4068 mục 1.2).",
+     "Trước khi chuyển: tiếp tục ORS từng thìa, giữ ấm, theo dõi sinh hiệu, đo đường huyết, gọi bệnh viện nhận (WHO 2013 mục 3.6, 3.10).",
+     "Giấy chuyển: lý do (thất bại Phác đồ B, nôn), cân 3,50 → 3,31 kg, đường huyết 3,4, Na 134, K 3,6, thuốc đã dùng (không), tiêm chủng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS áp lực thẩm thấu thấp trong lúc chờ chuyển",
+      "ham_luong": "Gói pha theo hướng dẫn",
+      "lieu": "Từng thìa nhỏ khi bé tỉnh, nuốt được; ngưng 5–10 phút nếu nôn; thể tích: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Liên tục trong lúc chờ xe",
+      "so_ngay": "Đến khi nhận tại bệnh viện",
+      "ghi_chu": "QĐ 3312 mục 4.1 (từng thìa; nôn đợi 5–10 phút); lượng cho sơ sinh chờ chuyển: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Bù dịch tại bệnh viện (không kê ở phòng khám)",
+      "ham_luong": "ORS qua NG hoặc Ringer lactat / NaCl 0,9%",
+      "lieu": "ORS NG 40–50 ml/kg trong 3–6 giờ; IV: liều cho sơ sinh <28 ngày không có trong tài liệu đã tải",
+      "duong": "Ống thông dạ dày hoặc tĩnh mạch",
+      "thoi_diem": "Ngay khi nhận vào viện",
+      "so_ngay": "Theo đánh giá lại 1–2 giờ",
+      "ghi_chu": "ESPGHAN/ESPID 2014 mục 8.3–8.4; QĐ 3312 mục 4.1. Bệnh viện quyết định."
+     }
+    ],
+    "dan_do": [
+     "Cháu cần nằm viện vì uống ORS không đủ và đã nôn; ở bệnh viện sẽ được bù nước bằng ống thông dạ dày hoặc đường tĩnh mạch.",
+     "Mẹ đi cùng, mang theo sổ tiêm chủng, tiếp tục cho bú khi bé đòi; bố làm thủ tục. Mẹ không có lỗi.",
+     "Trong lúc chờ xe: cho ORS từng thìa nhỏ, giữ ấm, báo ngay nếu bé li bì, lạnh, tím, co giật.",
+     "Không tự cho thuốc cầm tiêu hay thuốc dân gian."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được nhập khu sơ sinh – nhi: bù ORS qua ống thông dạ dày rồi uống lại được sau 8 giờ, không phải truyền tĩnh mạch; cấy máu âm tính, test rotavirus dương tính, natri về 137 mmol/L. Tiêu chảy kéo dài đến ngày thứ 6, ra viện sau 3 ngày với cân 3,45 kg, bú mẹ hoàn toàn. Nếu bé về nhà ở lượt 2 hoặc lượt 3 thì nguy cơ mất nước nặng hơn tại nhà; điểm gãy của chuỗi quyết định là thân nhân trả lời thay ở lượt 1 làm lộ muộn việc mẹ giảm cữ bú.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bố không biết cữ bú, tã ướt; phải gọi hỏi mẹ.",
+  "Đọc thông tin trên mạng (lý do thật): bố sợ nhiễm khuẩn huyết, xin xét nghiệm; giải bằng tiêu chí lâm sàng cụ thể.",
+  "Không đỡ: do bù dịch thiếu, không phải sai thuốc.",
+  "Nguồn lực đầy đủ: vẫn biện luận vì sao không cần công thức máu, CRP, cấy phân, siêu âm ở lượt 1."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: hỏi người chăm chính (cữ bú, tã ướt, sữa công thức); gọi điện hoặc mời mẹ vào khi bố không biết.",
+  "Sơ sinh có tiêu chảy: dấu hiệu nặng kín đáo (bú kém, li bì, hạ thân nhiệt); ngoại trú chỉ khi không mất nước, bú tốt, tái khám sớm được (WHO 2013 mục 3.6).",
+  "Lo lắng vì đọc mạng: ghi nhận phần đúng của nỗi lo, giải thích bằng tiêu chí cụ thể, đưa danh sách dấu hiệu phải đến ngay thay cho xét nghiệm thường quy.",
+  "Không đỡ sau Phác đồ A: tìm điểm gãy (lượng dịch vào) trước khi đổi thuốc; mất nước vừa → Phác đồ B có mốc đánh giá lại 4 giờ; thất bại + nôn → nhập viện (QĐ 3312 mục 5.1).",
+  "Cặp tương phản với NH-0513 (sơ sinh tiêu chảy sau hải sản, mẹ tự tra, mâu thuẫn bà nội): ca đó nặng lên do nước tự chế; ca này không đỡ do giảm bú và thân nhân trả lời thay."
+ ],
+ "diem_nho": [
+  "Sơ sinh 1 tuần–2 tháng: có mất nước khi có hai trong ba dấu hiệu vật vã, mắt trũng, nếp véo chậm; nặng khi li bì, mắt trũng, nếp véo rất chậm (QĐ 3312 mục 3.1c, tr. 319).",
+  "Phác đồ B: ORS 75 ml/kg trong 4 giờ, đánh giá lại; ≤4 tháng, <6 kg: 200–400 ml (QĐ 3312 mục 4.1; WHO 2013 Chart 14).",
+  "Chỉ định nhập viện gồm thất bại bù dịch đường uống và nôn tái diễn (QĐ 3312 mục 5.1).",
+  "Dấu hiệu nguy hiểm sơ sinh: bú kém, li bì, thở ≥60, rên, sốt >38, nhiệt <35,5, tím (WHO 2013 mục 3.6).",
+  "Không kháng sinh cho tiêu chảy phân nước (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2)."
+ ],
+ "nguon": [
+  "QĐ 3312/2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp mục 1–6 (tr. 316–324), gồm mục 3.1b–d (tr. 318–320), 3.2 (tr. 320), 4.1 Phác đồ A, B, C (tr. 320–322), 4.2 (tr. 322), 4.3–4.5 (tr. 323), 5.1–5.2 (tr. 323–324), 6 (tr. 324)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.10 (tr. 56–57); mục 5 Diarrhoea: Bảng 11 (tr. 127), Bảng 12 (tr. 128), Chart 14 (tr. 135), mục 5 phần mở đầu (tr. 125–126)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Diarrhoea khuyến cáo 1a, 3a, 3c, 4a",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 8.3 (NG rehydration, tr. 139–140), 8.4 (IV rehydration, tr. 140), 9.3 (tr. 144–145)",
+  "ESPGHAN 2023 – Probiotics for pediatric gastrointestinal disorders – TL-0258 – chỉ đối chiếu qua sổ mâu thuẫn (probiotic chấp nhận)",
+  "QĐ 4068/QĐ-BYT (kho cũ tltk-10000-ca, 'Quy trình chuyên môn điều trị tiêu chảy cấp ở trẻ em', phiên bản 1.0 …/2016) – ĐÃ ĐỌC: ô [1], [2], [4], [6], [8]; mục 1.2",
+  "QĐ 4178/QĐ-BYT 2007 – Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: truyền chất từ hải sản qua sữa mẹ; số lần phân bình thường của sơ sinh bú mẹ; kẽm, racecadotril, diosmectit, men vi sinh cho trẻ <1 tháng; liều dịch tĩnh mạch riêng cho sơ sinh <28 ngày; khoảng tham chiếu sơ sinh của công thức máu; cách rửa bình, thời gian giữ sữa pha; mốc tái khám riêng cho sơ sinh; thời gian nằm viện dự kiến."
+ ],
+ "phien_ban_ca": "1 – viết 2026-11-08",
+ "ghi_chu_bien_tap": [
+  "2026-11-08 – viết bản 1 (Sonnet 5.5). Đặc tả sổ cái: sơ sinh nam, 3 lượt, không đỡ, thân nhân trả lời thay, nguồn lực đầy đủ, khởi phát sau ăn hải sản, không thuốc, lý do thật 'đọc thông tin trên mạng nên lo lắng', kết cục 'biến chứng do bỏ sót' (thể hiện ở điểm gãy trong ket_cuc, bai_hoc_bien và neu_sai; ca đúng đáp án không có biến chứng).",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp mục 1–6), TL-0250 (mục 3.6, 3.10, 5), TL-0245 (khuyến cáo 1a, 3, 4), TL-0268 (mục 8.3–8.4, 9.3), QĐ 4068 (kho cũ), TL-0176 (mục II.1). Chỗ thiếu tài liệu: xem cuối trường nguon.",
+  "Mâu thuẫn: dùng các mục sổ đã có (kẽm <1 tháng, probiotic, racecadotril/diosmectit/loperamid ở sơ sinh, mốc tái khám QĐ 4068 và WHO 2013). Không có mâu thuẫn mới.",
+  "Âm thanh tim: mạch 138, 152, 158 l/p dùng AT-TIM-NHANH-01 (~115 l/p, tệp nhanh duy nhất); 'hien' chỉ ghi tần số bằng chữ theo ca.",
+  "Lượt 2 theo_doi = Phác đồ B giữ tại phòng khám 4 giờ; lượt 3 là đánh giá lại cùng ngày. Lựa chọn thiết kế của người viết: mốc 24 giờ tái khám, mốc theo dõi 15–30 phút, cân nền 3,50 kg (cân ở nhà hai ngày trước lượt 1). Cặp với NH-0513 (cùng chẩn đoán, sơ sinh)."
+ ]
+}
