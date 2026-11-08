@@ -1,0 +1,714 @@
+{
+ "ma_ca": "NH-1225",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_ket_mac_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm kết mạc (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm giác mạc",
+   "Sởi"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh 10 ngày tuổi ở lượt 1, 26 ngày tuổi ở lượt 2)",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi (anh trai 3 tuổi ho, sổ mũi một tuần trước; mẹ hắt hơi nhẹ; bé đỏ mắt từ ngày thứ 7 sau sinh)",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua (bà nội cho bé uống gói men vi sinh vì 'đầy hơi'; thêm thuốc nhỏ mắt tobramycin mua ở tiệm thuốc 2 ngày nay)",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước (dược sĩ tiệm thuốc bảo 'đau mắt đỏ do virus, nhỏ thuốc là hết', hai ngày sau mắt nặng hơn, mẹ sợ bé mù)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Khôi",
+  "tuoi": 0.03,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi (sơ sinh 10 ngày tuổi ở lượt 1, 26 ngày tuổi ở lượt 2)",
+  "can_nang": 3.4,
+  "chieu_cao": 51,
+  "xung_ho": "Bé trai 10 ngày tuổi (lượt 1), 26 ngày tuổi (lượt 2), chỉ khóc, ngủ, bú. Mẹ bé (chị Nhung, 27 tuổi) bế bé và trả lời hầu hết câu hỏi: gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'bé' hoặc 'con'. Bà nội (bà Hằng, 58 tuổi) ngồi cạnh, thỉnh thoảng chen vào.",
+  "tinh_cach": "Chị Nhung: con đầu lòng, nghỉ thai sản, lo lắng, hay nghe lời bà nội và nhóm mẹ bỉm, sợ con 'mù mắt'. Thương con, nghe được khi bác sĩ giải thích bằng dấu hiệu cụ thể và không bị chê trách. Bà Hằng: quyết đoán, tin 'trẻ con ốm phải truyền mới nhanh khỏi'.",
+  "kieu_nhieu": "Đòi truyền dịch: mẹ và bà nội xin 'truyền nước biển kèm kháng sinh cho bé mau khỏi, nhỏ thuốc mãi không hết'. Dịu lại khi bác sĩ công nhận nỗi lo, chỉ ra bé bú mạnh, đi tiểu nhiều (không mất nước) và nói rõ vì sao phải đến bệnh viện (lấy bệnh phẩm, thuốc uống hoặc tiêm đúng loại) chứ không phải để truyền nước. Chuyện thai kỳ (khí hư cuối thai kỳ) chỉ lộ khi bác sĩ hỏi nhẹ nhàng, không trách.",
+  "nguoi_nha": "Mẹ bé (chị Nhung) bế bé; bà nội (bà Hằng) đi cùng",
+  "ten_nguoi_nha": "Mẹ bé (chị Nhung)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1b1411",
+   "kieuToc": "tre",
+   "ao": "#e3d9f2",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6b891",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#a8c4a2",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 10 ngày tuổi đỏ hai mắt, ghèn vàng đặc",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám nhi tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, tổng phân tích nước tiểu) và nhuộm Gram tại chỗ; không cấy kết mạc, không PCR hay miễn dịch tìm Chlamydia, không test nhanh adenovirus. Không có X-quang, siêu âm, CT, nội soi. Bệnh viện Nhi tỉnh cách khoảng 30 km (45 phút xe) có khoa Nhi, khoa Mắt và phòng xét nghiệm vi sinh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · bé 10 ngày tuổi",
+   "tiep_don": "Bé trai 10 ngày tuổi, 3,4 kg, mẹ và bà nội đưa đến lúc 8 giờ 30 vì hai mắt đỏ, nhiều ghèn vàng, nhỏ thuốc ở tiệm 2 ngày không đỡ. Sinh hiệu: nách 36,9 °C, mạch 142 l/p, nhịp thở 44 l/p, SpO₂ 99%. Bé tỉnh, mắt khó mở.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Khôi về nhỏ thuốc rồi 'tái khám sau 2–3 ngày' bỏ qua việc nhập viện bắt buộc cho viêm kết mạc sơ sinh (AAO 2018, Provider and Setting) và việc lấy bệnh phẩm. Nếu là lậu cầu, bệnh tiến nhanh đến nhiễm trùng giác mạc, thủng giác mạc, nhiễm khuẩn huyết, viêm khớp, viêm màng não; nếu là Chlamydia, bệnh kéo dài 3–12 tháng, để lại sẹo giác mạc và kết mạc, và tới 50% có kèm nhiễm trùng mũi họng, sinh dục hoặc phổi (AAO 2018, Table 1). Bé đã nhỏ tobramycin 2 ngày mà nặng thêm, nên 2–3 ngày nữa là quá dài; chị Nhung dễ chờ vì tin lời dược sĩ 'đau mắt đỏ do virus, nhỏ thuốc là hết'.",
+    "theo_doi": "Giữ Khôi ở phòng khám theo dõi vài giờ rồi cho về với thuốc nhỏ không thay được xét nghiệm mủ và điều trị toàn thân: phòng khám không cấy kết mạc, không tìm Chlamydia (AAO 2018, Diagnostic Tests – Cultures; CDC STI 2021 tr. 69), và thuốc nhỏ tại chỗ đơn độc không đủ (tr. 69, 79). Chờ càng lâu càng tăng nguy cơ loét giác mạc nếu là lậu cầu (AAO 2018, Table 1). Gia đình thêm một ngày tin 'nhỏ thuốc là khỏi' và có thể đi tiệm thuốc lần nữa."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỏ hai mắt, ghèn vàng đặc dính hết mi, nhỏ thuốc hai hôm không đỡ mà còn sang mắt bên kia. Bà nội bảo cho cháu truyền nước biển với kháng sinh cho nhanh khỏi, bác sĩ nhé?",
+   "sinh_hieu": {
+    "mach": 142,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 44,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ, ghèn vàng đặc từ 3 ngày nay (bé 7 ngày tuổi), mắt trái đỏ từ sáng qua. Sáng nay hai mi dính chặt, mẹ phải lau bằng bông mới mở được. Mẹ và bà nội xin truyền nước biển kèm kháng sinh 'cho mau hết'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian khởi phát"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Ghèn vàng đặc như mủ, lau xong một lúc lại ứ ra. Bé không dụi mắt nhiều, mở mắt được khi lau sạch, không có mụn nước ở mi hay quanh mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ghèn, hai mắt, mụn nước"
+    },
+    {
+     "id": "thuoc_nho",
+     "noi_dung": "Hôm kia mẹ ra tiệm thuốc, dược sĩ bảo 'đau mắt đỏ do virus giống anh'. Mẹ mua thuốc nhỏ mắt tobramycin 0,3%, nhỏ 2 giọt mỗi mắt, 4–5 lần/ngày được 2 ngày, thêm nước muối sinh lý lau mắt. Mắt không bớt, mắt trái bị thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã nhỏ ở nhà, đáp ứng; lý do thật đến khám"
+    },
+    {
+     "id": "tong_trang",
+     "noi_dung": "Bé không sốt (mẹ sờ thấy ấm bình thường, nách 36,9 °C ở phòng khám), không li bì, không co giật, không tím, không ho, không khò khè, không thở rên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân ở sơ sinh (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, 8–10 cữ/ngày, bú mạnh, mỗi cữ khoảng 12 phút. Tã ướt 7–8 cái/ngày, phân vàng sệt 3 lần, không nôn, không trớ nhiều. Cân nặng sinh 3,2 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt: không mất nước, không có dấu hiệu nặng"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường đủ 39 tuần ở bệnh viện huyện, nặng 3,2 kg, khóc ngay, không ngạt. Mẹ nhớ y tá có tra thuốc mỡ vào mắt bé sau sinh nhưng không nhớ tên. Ra viện sau 2 ngày, rốn rụng ngày thứ 7.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, dự phòng mắt sau sinh"
+    },
+    {
+     "id": "thai_ky",
+     "noi_dung": "Mẹ khám thai 2 lần, siêu âm 'bình thường', không làm xét nghiệm dịch âm đạo. Hai tháng cuối mẹ ra khí hư vàng, hơi ngứa; mẹ tự mua thuốc đặt âm đạo 1 lần ở tiệm rồi hết, ngại không kể với bác sĩ sản. Lúc sinh không ai nói gì về nhiễm khuẩn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể; hỏi chung 'thai kỳ có gì bất thường không' thì trả lời 'bình thường'. Chỉ nói khi bác sĩ hỏi nhẹ nhàng, không trách, về khí hư, ngứa, viêm âm đạo hay xét nghiệm trong thai kỳ, hoặc giải thích rằng cần biết để chọn thuốc cho bé.",
+     "k": 1,
+     "y": "Tiền sử nhiễm khuẩn sinh dục của mẹ lúc mang thai (Chlamydia, lậu cầu)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tuần trước anh trai 3 tuổi ho, sổ mũi, không đỏ mắt, giờ đã đỡ. Mẹ hắt hơi nhẹ vài hôm. Bé không ho, không sổ mũi. Mẹ nghĩ 'bé lây cảm của anh'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát: người nhà nhiễm siêu vi hô hấp (gợi virus, dễ làm lệch)"
+    },
+    {
+     "id": "men",
+     "noi_dung": "Bà nội mua gói men tiêu hóa pha sữa mẹ cho bé uống mỗi ngày 1 gói từ hôm bé 5 ngày tuổi vì bé hay 'đầy hơi'. Bé không nôn, bụng không chướng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng: men tiêu hóa tự mua (không liên quan bệnh mắt)"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Bà nội kể 'cháu hàng xóm đau mắt cũng truyền nước biển một ngày là khỏi'. Mẹ sợ nhỏ thuốc lâu bé bị mù, xin truyền dịch và kháng sinh tiêm cho chắc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yêu cầu truyền dịch: cần lập luận nguy cơ/lợi ích và câu nói thay thế"
+    },
+    {
+     "id": "lay",
+     "noi_dung": "Cả nhà dùng chung khăn mặt phơi ngoài sân; mẹ rửa tay trước khi lau mắt cho bé, bà nội thì không. Không ai trong nhà đỏ mắt hay chảy ghèn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lây trong gia đình"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Hai mắt: mi phù vừa, kết mạc cương tụ đỏ tươi, phù nhẹ kết mạc; mắt phải nặng hơn mắt trái. Ghèn vàng đặc dạng mủ nhầy dính hai bờ mi, lau sạch vài phút sau lại ứ ra. Lật mi dưới thấy kết mạc sụn mi đỏ, nhẵn, không hột, không giả mạc, không màng. Giác mạc trong, tiền phòng bình thường, đồng tử đều, đáp ứng ánh sáng tốt.",
+     "k": 1,
+     "hien": "Hai mắt đỏ, mi phù, ghèn vàng đặc dính mi, mắt phải nặng hơn. Bé mở được mắt sau khi lau sạch."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không thấy ổ thâm nhiễm hay loét.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "le_dao": {
+     "a": "Ấn vùng túi lệ hai bên không thấy trào mủ ra điểm lệ; da vùng khóe mắt trong không sưng đỏ.",
+     "k": 0,
+     "hien": "Ấn vùng túi lệ hai bên."
+    },
+    "toan_than": {
+     "a": "Cân 3,40 kg (sinh 3,2 kg). Nách 36,9 °C. Bé tỉnh, khóc to khi khám, dỗ nín được, môi hồng, tay chân ấm, mao mạch hồi sắc dưới 2 giây, niêm mạc ẩm, không vàng da, thóp trước phẳng.",
+     "k": 1,
+     "hien": "Cân 3,4 kg. Tỉnh, khóc to, dỗ nín được, môi hồng, nách 36,9 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm. Không sờ thấy hạch trước tai, hạch dưới hàm hay hạch cổ.",
+     "k": 0,
+     "hien": "Thóp phẳng, cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ít dịch trong. Họng không đỏ, không giả mạc. Màng nhĩ hai bên xám hồng, thấy cán búa.",
+     "k": 0,
+     "hien": "Mũi ít dịch trong, họng không đỏ."
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không rút lõm lồng ngực, không rên. Rì rào phế nang rõ hai bên, không ran. Không ho cơn.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều nhanh 142 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ, đều.",
+     "k": 0,
+     "hien": "Tim đều, tần số 142 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to, không sờ thấy khối. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 0,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không mụn nước, không mụn mủ, không chấm xuất huyết.",
+     "k": 1,
+     "hien": "Da hồng, không ban, không mụn nước, không mụn mủ."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút nuốt đều khoảng 12 phút, bú mạnh, không nhả vú giữa chừng, không trớ.",
+     "k": 1,
+     "hien": "Bú khoảng 12 phút, mút nuốt đều, bú mạnh, không trớ."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 12,4 G/L · Neutrophil 44% · Lymphocyte 46% · Hb 166 g/L · TC 305 G/L",
+     "n": "Chấp nhận, không bắt buộc: bé không có dấu hiệu toàn thân (không sốt, bú mạnh), công thức máu không quyết định hướng xử trí; căn nguyên do bệnh phẩm kết mạc quyết định (AAO 2018, Diagnostic Tests – Cultures, Smears).",
+     "ghi_chu_mau": "Tham chiếu in trên phiếu là của người lớn; tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "3 mg/L",
+     "n": "Chấp nhận, không bắt buộc (như công thức máu). Bình thường không loại được Chlamydia hay lậu cầu."
+    },
+    "phet_ket_mac": {
+     "v": "e",
+     "r": "Phòng khám nhuộm Gram được: nhiều bạch cầu đa nhân, không thấy song cầu Gram âm hình hạt cà phê. Cấy kết mạc và xét nghiệm tìm Chlamydia (PCR hoặc miễn dịch huỳnh quang): cơ sở không làm được, bệnh phẩm lấy ở rìa mi lật, phải gửi hoặc lấy tại bệnh viện tuyến trên.",
+     "ab": 1,
+     "n": "Bắt buộc lấy bệnh phẩm: cấy kết mạc chỉ định cho mọi ca nghi viêm kết mạc nhiễm khuẩn sơ sinh; phết nhuộm Gram, Giemsa khuyến cáo (AAO 2018, Diagnostic Tests – Cultures, Smears); bệnh phẩm tìm Chlamydia phải có tế bào kết mạc, không chỉ mủ, và đồng thời thử lậu cầu (CDC STI 2021 tr. 69). QĐ 40/2015 (Viêm kết mạc cấp, mục 3b): nhuộm Gram, nuôi cấy. Gram âm tính tại chỗ không loại được lậu cầu và hoàn toàn không loại Chlamydia (không bắt màu Gram): không có trong tài liệu đã tải độ nhạy của Gram ở sơ sinh."
+    },
+    "test_adeno": {
+     "v": "n",
+     "n": "Không cần: test nhanh adenovirus có độ nhạy 88–89%, độ đặc hiệu 91–94% trong nghiên cứu 186 bệnh nhân, không riêng sơ sinh (AAO 2018, Diagnostic Tests – Viral); sơ sinh mủ đặc phải được cấy và tìm Chlamydia, kết quả âm tính hay dương tính cũng không thay đổi việc phải nhập viện."
+    },
+    "igm_soi": {
+     "v": "n",
+     "n": "Không cần: bé không sốt, không ho, không chảy mũi, không ban, không tiếp xúc ca sởi; chẩn đoán lâm sàng sởi cần sốt, ho hoặc chảy mũi hoặc viêm kết mạc, hạt Koplik hoặc ban (QĐ 1019/2025 mục 2.4.2)."
+    },
+    "pcr_hsv": {
+     "v": "n",
+     "n": "Không cần ở phòng khám: không mụn nước ở mi, da hay miệng, không sốt, bú mạnh. Nếu tuyến trên thấy tổn thương dạng cành cây hay mụn nước thì cân nhắc; sơ sinh nghi HSV cần hội chẩn nhi ngay vì nhiễm HSV toàn thân đe dọa tính mạng (AAO 2018, Treatment – HSV Conjunctivitis)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc nhiễm khuẩn sơ sinh hai mắt, 10 ngày tuổi, mủ nhầy kèm phù mi, giác mạc còn trong: nghi nhiều nhất Chlamydia trachomatis, chưa loại trừ lậu cầu; cần bệnh phẩm và điều trị toàn thân tại bệnh viện",
+     "ok": 1,
+     "n": "Chlamydia sơ sinh khởi phát 5–19 ngày sau sinh, mi phù, cương tụ, tiết tố mủ hoặc nhầy mủ, không hột (AAO 2018, Table 1); CDC STI 2021 tr. 69: nghĩ tới Chlamydia ở mọi trẻ ≤ 30 ngày bị viêm kết mạc, mủ thường xuất hiện sau 5–12 ngày. Lậu cầu: 1–7 ngày sau sinh, có thể muộn hơn nếu đã dùng kháng sinh nhỏ (AAO 2018, Table 1). Bé khởi phát ngày thứ 7 và đã nhỏ tobramycin nên chưa loại được lậu cầu. Mẹ có khí hư cuối thai kỳ, không xét nghiệm: đúng yếu tố nguy cơ (AAO 2018, Table 1: sinh đường âm đạo từ mẹ nhiễm khuẩn, chăm sóc thai kỳ không đủ)."
+    },
+    {
+     "t": "Viêm kết mạc do virus (adenovirus) lây từ anh trai",
+     "n": "Loại: virus thường tiết tố nước, phản ứng hột, hạch trước tai, kèm nhiễm hô hấp (AAO 2018, Table 1); QĐ 40/2015 (Viêm kết mạc cấp, mục 3, thể virus): tiết tố trắng hoặc hồng, sốt nhẹ, hạch trước tai. Bé mủ đặc vàng, phù mi, không hạch, anh không đỏ mắt. Nhưng chi tiết 'anh vừa cảm' là điều làm dễ dừng lại ở chẩn đoán virus."
+    },
+    {
+     "t": "Viêm giác mạc (nhiễm khuẩn hoặc HSV)",
+     "n": "Loại: giác mạc trong, nhỏ fluorescein không bắt màu, không ổ thâm nhiễm. Vẫn phải theo dõi vì lậu cầu và HSV ở sơ sinh có thể gây loét, thủng giác mạc nếu chậm điều trị (AAO 2018, Table 1). Tổn thương giác mạc là chỉ định chuyển nhãn khoa (AAO 2018, Provider and Setting)."
+    },
+    {
+     "t": "Sởi",
+     "n": "Loại: sởi cần sốt, ho hoặc chảy mũi hoặc viêm kết mạc, hạt Koplik hoặc ban dạng sởi (QĐ 1019/2025 mục 2.4.2); bé không sốt, không ho, không ban, không tiếp xúc người sởi trong 7–21 ngày (mục 2.4.1). Viêm kết mạc trong sởi là mắt đỏ chảy nước kèm viêm long hô hấp (QĐ 1019/2025 mục 2.1.1, giai đoạn khởi phát), không phải mủ đặc một bên đi đầu."
+    },
+    {
+     "t": "Nhiễm HSV sơ sinh (mắt – da – niêm mạc)",
+     "n": "Ít nghĩ: không mụn nước ở mi hay da, không sốt, bú mạnh, tỉnh táo. Sơ sinh nghi HSV cần hội chẩn nhi ngay (AAO 2018, Treatment – HSV Conjunctivitis). Nếu có mụn nước, loét giác mạc hoặc li bì thì tăng mức khẩn."
+    },
+    {
+     "t": "Tắc lệ đạo bẩm sinh / viêm túi lệ",
+     "n": "Ít nghĩ: ấn túi lệ không trào mủ, cả hai mắt đỏ cương tụ rõ chứ không chỉ ghèn một bên. Tắc ống lệ mũi là yếu tố thuận lợi của viêm kết mạc vi khuẩn ở trẻ nhỏ (AAO 2018, Table 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay trong ngày đến khoa Nhi (có khoa Mắt) bệnh viện tuyến trên để nhập viện: lấy bệnh phẩm kết mạc (Gram, cấy, tìm Chlamydia, thử lậu cầu) và điều trị toàn thân",
+     "v": "c",
+     "n": "Hai nguồn: (1) AAO 2018, Provider and Setting: nhập viện BẮT BUỘC cho viêm kết mạc sơ sinh [I+, Good, Strong]; cấy kết mạc chỉ định mọi ca nghi nhiễm khuẩn sơ sinh (Diagnostic Tests). (2) WHO 2013 mục 3.12.2: 'dính mắt, viêm kết mạc nhẹ' có thể ngoại trú (rửa mắt, mỡ mắt tetracyclin hoặc chloramphenicol 4 lần/ngày × 5 ngày, tái khám sau 48 giờ), còn nhiều mủ hoặc phù mi thì điều trị nội trú vì nguy cơ mù, khám lại 2 lần/ngày. Khác nhau ở thể nhẹ; bé phù mi, mủ đặc, đã nhỏ kháng sinh 2 ngày không đỡ, nên cả hai nguồn cùng hướng nhập viện. Phòng khám không cấy, không làm PCR Chlamydia nên không thể làm tại chỗ."
+    },
+    {
+     "t": "Trước khi đi: lau sạch ghèn bằng bông riêng cho từng mắt với nước muối sinh lý 0,9% (từ khóe trong ra ngoài), tiếp tục cho bú, mẹ rửa tay trước và sau mỗi lần lau",
+     "v": "c",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): rửa mắt bằng NaCl 0,9% để loại mủ và tiết tố. WHO 2013 mục 3.12.2: hướng dẫn mẹ rửa mắt bằng nước hoặc sữa mẹ, mẹ rửa tay trước và sau. AAO 2018, Counseling and Referral: rửa tay giảm lây."
+    },
+    {
+     "t": "Viết giấy chuyển nêu tuổi, cân nặng, ngày khởi phát, thuốc đã nhỏ, tiền sử khí hư của mẹ lúc mang thai, chưa dùng kháng sinh toàn thân",
+     "v": "c",
+     "n": "Tuyến trên cần biết mẹ có nguy cơ Chlamydia, lậu cầu để chọn bệnh phẩm và thuốc (CDC STI 2021 tr. 69: nghĩ tới Chlamydia ở trẻ ≤ 30 ngày, nhất là khi mẹ có tiền sử nhiễm; mẹ và bạn tình cần được đánh giá sau khi bé có kết quả: tr. 70)."
+    },
+    {
+     "t": "Giải thích cho mẹ và bà nội vì sao không truyền dịch: bé bú mạnh, tã ướt nhiều, không sốt, không có dấu hiệu nguy hiểm; lý do đi bệnh viện là lấy bệnh phẩm và dùng đúng thuốc kháng sinh toàn thân, không phải để bù nước",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm của sơ sinh (không bú, li bì, thở nhanh 60 l/p, sốt > 38 °C, hạ thân nhiệt < 35,5 °C, tím…) bé không có (WHO 2013 mục 3.6). Chỉ định truyền dịch cho viêm kết mạc sơ sinh: không có trong tài liệu đã tải. Câu nói thay thế: 'Mắt cháu cần thuốc đúng loại và xét nghiệm mủ ở bệnh viện, truyền nước không chữa được mắt'."
+    },
+    {
+     "t": "Báo mẹ rằng khi có kết quả, mẹ (và chồng) cũng cần được khám và điều trị nếu bé nhiễm Chlamydia hoặc lậu cầu",
+     "v": "a",
+     "n": "CDC STI 2021 tr. 70, 79: mẹ và bạn tình của mẹ cần được đánh giá và điều trị nếu bé viêm kết mạc do Chlamydia hoặc lậu cầu. Nói sớm ở lượt này không bắt buộc, vì chưa có kết quả."
+    },
+    {
+     "t": "Tiêm ceftriaxone 1 liều trước khi chuyển",
+     "v": "a",
+     "n": "Không bắt buộc, không trừ điểm: bé không có dấu hiệu toàn thân nặng, chưa có bằng chứng lậu cầu; ceftriaxone dành cho lậu cầu (QĐ 40/2015, Viêm kết mạc cấp mục 4b: toàn thân chỉ cho lậu cầu, bạch hầu; CDC STI 2021 tr. 79). Tài liệu đã tải không yêu cầu tiêm kháng sinh trước chuyển cho thể này. Liều ceftriaxone xem đơn thuốc."
+    },
+    {
+     "t": "Cho về, kê kháng sinh nhỏ mắt hoặc mỡ tra mắt (tobramycin, tetracyclin…) và hẹn tái khám sau 2–3 ngày",
+     "v": "w",
+     "n": "Sai: viêm kết mạc sơ sinh phải nhập viện (AAO 2018, Provider and Setting); Chlamydia và lậu cầu phải điều trị toàn thân, thuốc nhỏ tại chỗ đơn độc không đủ (CDC STI 2021 tr. 69, 79); bé đã nhỏ tobramycin 2 ngày mà nặng thêm. Hậu quả chậm trễ: loét, thủng giác mạc (AAO 2018, Table 1)."
+    },
+    {
+     "t": "Cho về kèm kháng sinh uống (erythromycin hoặc azithromycin) không có bệnh phẩm, không chuyển tuyến",
+     "v": "w",
+     "n": "Sai: không loại được lậu cầu (điều trị bằng ceftriaxone, không phải macrolid: CDC STI 2021 tr. 79; AAO 2018, Table 3), không có bệnh phẩm để chọn thuốc, và vi phạm nguyên tắc nhập viện bắt buộc (AAO 2018, Provider and Setting). CDC cho điều trị theo kinh nghiệm bằng azithromycin chỉ khi nghi cao nhưng mẹ khó đưa bé quay lại (tr. 70); mẹ bé ở cách phòng khám gần và đang lo lắng, không thuộc tình huống đó."
+    },
+    {
+     "t": "Truyền dịch hoặc kháng sinh tĩnh mạch tại phòng khám theo yêu cầu của gia đình rồi cho về",
+     "v": "w",
+     "n": "Không có chỉ định truyền dịch (bé không có dấu hiệu nguy hiểm, WHO 2013 mục 3.6; không có trong tài liệu đã tải chỉ định truyền dịch cho bệnh mắt này) và không giải quyết nhu cầu bệnh phẩm và thuốc đúng loại; còn làm chậm nhập viện."
+    },
+    {
+     "t": "Nhỏ thuốc có corticoid (dexamethason…) cho 'hết đỏ'",
+     "v": "w",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): thận trọng corticoid; AAO 2018, Treatment – HSV: corticoid nhỏ làm HSV nặng thêm và nên tránh; chưa loại trừ HSV hay loét giác mạc ở sơ sinh. Chấm w theo sổ mâu thuẫn mục TM-0072."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc nhiễm khuẩn sơ sinh hai mắt (mắt phải nặng hơn), bé 10 ngày tuổi, khởi phát ngày 7 sau sinh; chưa tổn thương giác mạc",
+     "Nghi nhiều nhất do Chlamydia trachomatis (nhiễm từ mẹ khi sinh); chưa loại trừ lậu cầu và các vi khuẩn khác; chưa có bệnh phẩm",
+     "Không có dấu hiệu nguy hiểm toàn thân: không sốt, bú mạnh, thở 44 l/p, SpO₂ 99%, không mất nước",
+     "Điều trị tại tiệm thuốc (tobramycin 0,3% nhỏ 2 ngày) không đáp ứng, bệnh lan sang mắt trái",
+     "Yếu tố nguy cơ: mẹ có khí hư vàng ngứa cuối thai kỳ, không xét nghiệm, tự đặt thuốc; mẹ ngại kể"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: tuổi bé, mắt nào, ghèn thế nào, đã nhỏ gì; bú, tã ướt, sốt, dấu hiệu nguy hiểm; tiền sử sinh và dự phòng mắt; tiền sử thai kỳ của mẹ (khí hư, xét nghiệm); người nhà bệnh; thuốc, men đang cho uống. Khám: toàn trạng, mắt (mi, kết mạc, ghèn, giác mạc), nhuộm fluorescein, ấn túi lệ, da, phổi, bụng và rốn, quan sát bú. CLS: phết Gram kết mạc (và cấy, tìm Chlamydia ở tuyến trên); công thức máu, CRP chỉ chấp nhận.",
+     "Vì sao là nhiễm khuẩn chứ không phải virus: sơ sinh, mủ đặc vàng, phù mi, không hột, khởi phát ngày thứ 7 nằm trong cửa sổ 5–19 ngày của Chlamydia (AAO 2018, Table 1) và 5–12 ngày (CDC STI 2021 tr. 69). Anh vừa cảm là yếu tố gây nhiễu: viêm kết mạc adenovirus điển hình là tiết tố nước, hạch trước tai, thường kèm nhiễm hô hấp (AAO 2018, Table 1); bé không có.",
+     "Dự phòng mắt bằng mỡ erythromycin sau sinh không loại được Chlamydia: thuốc này không hiệu quả với viêm kết mạc Chlamydia sơ sinh (CDC STI 2021 tr. 69). Lậu cầu: 1–7 ngày sau sinh, có thể muộn hơn nếu từng dùng kháng sinh nhỏ (AAO 2018, Table 1), nên bé 'đã nhỏ tobramycin 2 ngày' vẫn phải thử lậu cầu. Cả hai đều có thể có thêm nhiễm trùng mũi họng, sinh dục, phổi: tới 50% với Chlamydia sơ sinh (AAO 2018, Table 1).",
+     "Giác mạc trong, fluorescein không bắt màu: chưa viêm giác mạc, nhưng lậu cầu và HSV ở sơ sinh có thể gây loét và thủng giác mạc, nên mọi trẻ sơ sinh viêm kết mạc mủ cần theo dõi sát (AAO 2018, Table 1).",
+     "Sởi: không sốt, không ho, không ban, không tiếp xúc ca sởi, nên không đủ ca bệnh lâm sàng (QĐ 1019/2025 mục 2.4.1–2.4.2); chuyển tuyến cho sởi sẽ không đúng lý do.",
+     "Phòng khám chỉ có xét nghiệm cơ bản (công thức máu, sinh hóa, nước tiểu): không làm được cấy kết mạc, PCR Chlamydia. Nhuộm Gram tại chỗ không loại được lậu cầu. Đây là lý do thứ hai (ngoài quy định nhập viện) để chuyển ngay."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng: chuyển tuyến để nhập viện trong ngày. AAO 2018 (Provider and Setting): nhập viện bắt buộc cho viêm kết mạc sơ sinh; WHO 2013 (mục 3.12.2): thể nhẹ có thể ngoại trú, thể nhiều mủ hoặc phù mi nhập viện, khám 2 lần/ngày. Bé thuộc thể có mủ nhiều và phù mi nên hai nguồn cùng một hướng.",
+     "Tại bệnh viện tuyến trên dự kiến: bệnh phẩm kết mạc (Gram, cấy, tìm Chlamydia, thử lậu cầu); khám nhãn khoa; điều trị toàn thân theo căn nguyên, thuốc nhỏ tại chỗ đơn độc không đủ (CDC STI 2021 tr. 69, 79). Chlamydia sơ sinh: erythromycin uống 50 mg/kg/ngày chia 4 lần × 14 ngày (CDC STI 2021 tr. 69; AAO 2018, Table 3) hoặc azithromycin uống 20 mg/kg/ngày × 3 ngày (QĐ 5169/2021 mục 3.2.5 xếp ưu tiên thứ nhất; CDC tr. 69–70 coi azithromycin là lựa chọn thay thế vì số liệu còn ít). Hai nguồn khác nhau về năm, bằng chứng và nguồn lực; cả hai đều đúng, ghi chú ở đơn thuốc. Lậu cầu: ceftriaxone liều duy nhất.",
+     "Không truyền dịch: bé không có chỉ định; câu nói thay thế dựa vào dấu hiệu cụ thể (bú mạnh, tã ướt 7–8 cái, không sốt).",
+     "Tránh sai lầm: cho về nhỏ thuốc tại chỗ (bé đã thử 2 ngày không đỡ; CDC STI 2021 tr. 69, 79: thuốc nhỏ đơn độc không đủ); kê macrolid uống không bệnh phẩm; nhỏ corticoid (QĐ 40/2015, Viêm kết mạc cấp mục 4b).",
+     "Kháng sinh liều đầu trước chuyển không bắt buộc vì bé không có dấu hiệu toàn thân nặng; ưu tiên có bệnh phẩm (QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) chỉ cho toàn thân ở lậu cầu, bạch hầu)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%, lọ nhỏ 10 mL, dùng bông hoặc gạc sạch riêng cho từng mắt",
+      "lieu": "Lau/rửa mắt khi ghèn tích lại, lau một chiều từ khóe trong ra ngoài",
+      "duong": "Lau, rửa mắt tại chỗ",
+      "thoi_diem": "Trước khi chuyển và trong lúc chờ, rồi theo bệnh viện",
+      "so_ngay": "Đến khi bệnh viện điều trị (không kê thêm thuốc nhỏ)",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) (rửa mắt NaCl 0,9%); WHO 2013 mục 3.12.2 (rửa mắt, mẹ rửa tay trước và sau)."
+     },
+     {
+      "thuoc": "Kháng sinh toàn thân: KHÔNG kê ở phòng khám. Dự kiến tuyến trên: erythromycin hoặc azithromycin nếu Chlamydia; ceftriaxone nếu lậu cầu",
+      "ham_luong": "Cân 3,4 kg",
+      "lieu": "Chlamydia: erythromycin base hoặc ethylsuccinate 50 mg/kg/ngày (khoảng 170 mg/ngày, chia 4 lần khoảng 42 mg/lần) × 14 ngày (CDC STI 2021 tr. 69; AAO 2018, Table 3); hoặc azithromycin 20 mg/kg/ngày (khoảng 68 mg) 1 lần/ngày × 3 ngày (QĐ 5169/2021 mục 3.2.5; CDC STI 2021 tr. 69 alternative). Lậu cầu: ceftriaxone 25–50 mg/kg (85–170 mg) tiêm bắp hoặc tĩnh mạch 1 liều, tối đa 125 mg theo AAO 2018 Table 3, 150 mg theo WHO 2013 mục 3.12.2, 250 mg theo CDC STI 2021 tr. 79 (số 125 mg thận trọng nhất)",
+      "duong": "Uống (macrolid) hoặc tiêm (ceftriaxone), do tuyến trên chỉ định",
+      "thoi_diem": "Sau khi lấy bệnh phẩm",
+      "so_ngay": "Theo từng phác đồ ở cột liều",
+      "ghi_chu": "Nguồn như cột liều. Macrolid trong 6 tuần đầu liên quan hẹp phì đại môn vị: CDC STI 2021 tr. 69 (chú thích) và QĐ 5169/2021 mục 3.2.5 đều dặn theo dõi. Ceftriaxone dùng thận trọng khi bé vàng da tăng bilirubin hoặc đang truyền canxi tĩnh mạch (CDC STI 2021 tr. 79); bé không vàng da. Thuốc nhỏ mắt kháng sinh đơn độc không đủ (CDC STI 2021 tr. 69, 79)."
+     }
+    ],
+    "dan_do": [
+     "Đưa bé đến bệnh viện Nhi ngay trong ngày, mang theo giấy chuyển và lọ thuốc nhỏ mắt đã mua; không nhỏ thêm thuốc nào, không nhỏ sữa mẹ hay lá vào mắt.",
+     "Lau mắt bằng nước muối sinh lý, bông riêng mỗi mắt, một chiều từ trong ra ngoài, rửa tay trước và sau; khăn mặt và gối riêng cho bé (AAO 2018, Counseling and Referral; WHO 2013 mục 3.12.2).",
+     "Tiếp tục cho bé bú như bình thường. Dặn thêm: bé không có chỉ định truyền nước; cần nhập viện để lấy mủ xét nghiệm và dùng đúng thuốc.",
+     "Báo bác sĩ ở bệnh viện về khí hư vàng ngứa của mẹ cuối thai kỳ; mẹ (và chồng) sẽ được khám và điều trị nếu bé xác định Chlamydia hoặc lậu cầu (CDC STI 2021 tr. 70, 79).",
+     "Trên đường đi, đưa bé đi cấp cứu ngay (không đợi) nếu bé bỏ bú, li bì, sốt, thở nhanh, tím hay co giật (WHO 2013 mục 3.6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 16 ngày (bé 26 ngày tuổi)",
+   "tiep_don": "Tái khám sau khi ra Bệnh viện Nhi tỉnh. Bé 26 ngày tuổi, mắt đã hết đỏ, hôm nay hết thuốc uống ngày thứ 14. Sinh hiệu: nách 36,8 °C, mạch 138 l/p, nhịp thở 42 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ Khôi nhập viện lại để 'theo dõi thêm' hoặc cho đợt macrolid thứ hai khi mắt đã sạch, bú mạnh, tăng 550 g là không có chỉ định: đợt hai chỉ khi điều trị không hiệu quả (CDC STI 2021 tr. 69) và macrolid ở trẻ < 6 tuần liên quan hẹp phì đại môn vị (CDC STI 2021 tr. 69). Bé phải xa mẹ, chị Nhung vắt sữa thay vì cho bú, gia đình thêm chi phí; bà nội càng tin 'cháu còn nặng'. Quan trọng hơn, mẹ không được dặn dấu hiệu cần nhớ khi về nhà.",
+    "chuyen_tuyen": "Chuyển Khôi lại bệnh viện Nhi hoặc khoa Mắt chỉ để 'kiểm tra' là không cần: mắt hồng, không ghèn, giác mạc trong; tiêu chí chuyển nhãn khoa là mất thị lực, đau vừa hoặc nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng điều trị, tái phát (AAO 2018, Provider and Setting), bé không có điều nào. Cả buổi chờ ở nơi đông bệnh nhân, mẹ có thể vẫn không được nghe lời dặn về nôn vọt và ho cơn, và việc điều trị chồng bị bỏ qua."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt cháu hết đỏ rồi, hôm nay cháu uống thuốc hết hôm cuối. Bà nội bảo cháu ốm lâu còi lắm, nên truyền nước bồi bổ, bác sĩ xem có cần không?",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "36,8 (nách)",
+    "nhip_tho": 42,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé tái khám sau 16 ngày (26 ngày tuổi). Hết đỏ, hết ghèn từ ngày thứ 5 uống thuốc; hôm nay uống hết ngày thứ 14. Mẹ muốn bác sĩ xem lại mắt, và hỏi 'bé ốm một trận có cần truyền nước bồi bổ không'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, kết thúc đợt thuốc"
+    },
+    {
+     "id": "ra_vien",
+     "noi_dung": "Giấy ra viện (bé nằm Bệnh viện Nhi tỉnh 4 ngày): viêm kết mạc sơ sinh do Chlamydia trachomatis (PCR bệnh phẩm kết mạc dương tính); cấy kết mạc không mọc vi khuẩn, không thấy lậu cầu; giác mạc không tổn thương; không có triệu chứng viêm phổi. Điều trị: erythromycin uống 50 mg/kg/ngày chia 4 lần × 14 ngày (bệnh viện không có azithromycin dạng hỗn dịch). Mẹ được khám sản và cho azithromycin 1 g uống một liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả và điều trị tuyến trên"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ cho uống đủ 4 lần/ngày × 14 ngày, không bỏ liều nào. Bé không tiêu chảy, không phát ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, tác dụng phụ"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mạnh 8–9 cữ/ngày, tã ướt 7–8 cái. Thỉnh thoảng trớ một ít sữa sau bú, không vọt, không có mật, bé vẫn vui; không đòi bú ngay sau khi trớ. Phân vàng sệt 2–3 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, trớ, nôn: đường cơ sở để theo dõi hẹp môn vị"
+    },
+    {
+     "id": "ho_hap",
+     "noi_dung": "Không ho, không khò khè, không thở nhanh khi ngủ; ngủ yên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp (Chlamydia ở trẻ nhỏ)"
+    },
+    {
+     "id": "chong",
+     "noi_dung": "Mẹ đã uống thuốc, còn anh Phúc (chồng) chưa đi khám vì 'khỏe, không đau, không có gì' và ngại. Hai vợ chồng đã quan hệ lại từ khi mẹ ra viện.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể chồng đã khám hoặc uống thuốc chưa, hỏi nhẹ nhàng không trách, hoặc giải thích nguy cơ mẹ nhiễm lại.",
+     "k": 1,
+     "y": "Điều trị bạn tình, tái nhiễm"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Bà nội nói 'ốm cả tháng, cháu còi, phải truyền nước bồi bổ mới lại sức'. Mẹ không đồng ý hẳn nhưng lo.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đòi truyền dịch 'bồi bổ'"
+    },
+    {
+     "id": "khac",
+     "noi_dung": "Anh trai khỏi cảm. Mẹ vẫn cho bé uống gói men tiêu hóa mỗi ngày. Chưa tiêm mũi nào mới kể từ khi ra viện.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng, tiêm chủng"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Hai mắt: mi không phù, kết mạc hồng, không cương tụ, không ghèn, giác mạc trong, đồng tử đều, đáp ứng ánh sáng tốt. Lật mi dưới: kết mạc sụn mi hồng nhạt, nhẵn.",
+     "k": 1,
+     "hien": "Hai mắt không đỏ, không ghèn, mi không phù."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu.",
+     "k": 0,
+     "hien": "Soi giác mạc sau nhỏ fluorescein."
+    },
+    "toan_than": {
+     "a": "Cân 3,95 kg (tăng 550 g trong 16 ngày; sinh 3,2 kg). Nách 36,8 °C. Tỉnh, hồng, môi ẩm, tay chân ấm, mao mạch hồi sắc dưới 2 giây, thóp phẳng, không vàng da, khóc to.",
+     "k": 1,
+     "hien": "Cân 3,95 kg. Tỉnh, hồng, môi ẩm, nách 36,8 °C."
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p, đều, không rút lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không thấy sóng nhu động nhìn qua thành bụng, không sờ thấy khối vùng thượng vị, gan lách không to. Rốn khô.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, bú mạnh khoảng 12 phút, nhả vú tự nhiên, trớ ra một ít sữa không vọt; bé vui, không đòi bú lại ngay.",
+     "k": 1,
+     "hien": "Bú khoảng 12 phút, bú mạnh, trớ ít, không vọt."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông, họng không đỏ, màng nhĩ hai bên xám hồng.",
+     "k": 0,
+     "hien": "Mũi thông, họng không đỏ."
+    },
+    "da": {
+     "a": "Da hồng, không vàng da, không ban.",
+     "k": 0,
+     "hien": "Da hồng, không ban."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "n": "Không cần: bé khỏe, mắt sạch, bú mạnh, tăng cân; không có chỉ định xét nghiệm máu kiểm tra."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: mắt hết đỏ, hết ghèn sau đủ 14 ngày. Xét nghiệm kiểm tra khỏi (test of cure) cho viêm kết mạc Chlamydia sơ sinh: không có trong tài liệu đã tải; CDC STI 2021 tr. 69–70 chỉ nói theo dõi lâm sàng để biết điều trị có hiệu quả (hiệu quả erythromycin khoảng 80%, có thể cần đợt hai nếu không đáp ứng)."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm, và chưa có chỉ định vì bé chưa có triệu chứng nôn vọt, bụng không có khối. Nếu có nôn vọt không mật thì chuyển ngay (WHO 2013 mục 9.2.2, tr. 265)."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang, và chưa có chỉ định: không ho, nhịp thở 42 l/p, phổi không ran. Viêm phổi Chlamydia thường ở tuổi 1–3 tháng, ho cơn kiểu staccato, thở nhanh (CDC STI 2021 tr. 70)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc sơ sinh do Chlamydia trachomatis đã khỏi sau đủ 14 ngày erythromycin uống; chưa biến chứng giác mạc hoặc phổi; chồng chưa được điều trị (nguy cơ tái nhiễm)",
+     "ok": 1,
+     "n": "PCR kết mạc dương tính (giấy ra viện), mắt sạch từ ngày điều trị thứ 5, đủ 14 ngày (CDC STI 2021 tr. 69; AAO 2018, Table 3). Bé nằm trong cửa sổ nguy cơ viêm phổi Chlamydia (tuổi 1–3 tháng) và hẹp phì đại môn vị liên quan macrolid (< 6 tuần): cần dặn, chưa có dấu hiệu."
+    },
+    {
+     "t": "Điều trị thất bại, cần đợt macrolid thứ hai",
+     "n": "Không: hiệu quả erythromycin khoảng 80% nên có thể cần đợt hai (CDC STI 2021 tr. 69), nhưng chỉ khi còn triệu chứng; bé hết đỏ, hết ghèn, bú mạnh, tăng cân."
+    },
+    {
+     "t": "Viêm phổi do Chlamydia",
+     "n": "Chưa: không ho cơn, nhịp thở 42 l/p (dưới 60), phổi không ran, SpO₂ 99%. Thường ở tuổi 1–3 tháng với ho cơn, thở nhanh (CDC STI 2021 tr. 70). Cần dặn mẹ theo dõi."
+    },
+    {
+     "t": "Hẹp phì đại môn vị liên quan thuốc",
+     "n": "Chưa: không nôn vọt, bụng không khối, bú mạnh, tăng cân. Nhưng bé ở trong khoảng nguy cơ: macrolid uống ở trẻ < 6 tuần liên quan hẹp phì đại môn vị (CDC STI 2021 tr. 69; AAO 2018, Table 3 chú thích; QĐ 5169/2021 mục 3.2.5); hẹp môn vị điển hình nôn vọt không mật, tuổi 3–6 tuần (WHO 2013 mục 9.2.2). Đây là điều phải dặn, không phải loại trừ vĩnh viễn."
+    },
+    {
+     "t": "Tái nhiễm từ chồng chưa điều trị",
+     "n": "Có khả năng: mẹ và bạn tình cần được điều trị Chlamydia và nên tránh quan hệ 7 ngày sau khi bắt đầu điều trị (QĐ 5169/2021 mục 3.1; CDC STI 2021 tr. 70). Chồng chưa uống thuốc, hai vợ chồng đã quan hệ lại: mẹ có thể nhiễm lại, bé tiếp xúc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hẹn tái khám sau 1 tuần (cân nặng, bú, hỏi nôn trớ), không kê thêm kháng sinh vì mắt đã sạch sau đủ 14 ngày",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 69–70: theo dõi lâm sàng để biết điều trị có hiệu quả; chỉ cần đợt hai khi không đáp ứng. Mốc 1 tuần là thiết kế của ca, không có trong tài liệu đã tải mốc tái khám cụ thể cho viêm kết mạc Chlamydia sơ sinh."
+    },
+    {
+     "t": "Dặn mẹ dấu hiệu hẹp môn vị: nôn vọt thành tia sau bú (nhất là không có mật), đói đòi bú ngay sau nôn, tã ướt ít, sụt cân; xuất hiện thì đưa bé khám ngay, không tự cho ăn hay uống thêm",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 69 (chú thích): trẻ dùng erythromycin hoặc azithromycin cần được theo dõi dấu hiệu hẹp phì đại môn vị; QĐ 5169/2021 mục 3.2.5 dặn theo dõi chặt chẽ; WHO 2013 mục 9.2.2 (tr. 265): nôn vọt không mật, 3–6 tuần tuổi, có thể sờ khối như quả ôliu, mất nước; nôn mật xanh là cấp cứu ngoại khoa."
+    },
+    {
+     "t": "Dặn dấu hiệu viêm phổi Chlamydia trong 1–3 tháng đầu: ho cơn liên tục, thở nhanh, bú kém; và các dấu hiệu nguy hiểm của sơ sinh",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 70: viêm phổi Chlamydia ở tuổi 1–3 tháng, ho cơn staccato, thở nhanh; WHO 2013 mục 3.6: bú kém, thở 60 l/p, sốt > 38 °C, hạ thân nhiệt < 35,5 °C, tím, li bì."
+    },
+    {
+     "t": "Khuyên chồng đi khám và điều trị Chlamydia ngay, hai vợ chồng tránh quan hệ 7 ngày sau khi chồng bắt đầu điều trị để mẹ không nhiễm lại",
+     "v": "c",
+     "n": "QĐ 5169/2021 mục 3.1: điều trị bạn tình để ngăn tái nhiễm; tránh quan hệ tình dục 7 ngày sau khi bắt đầu điều trị. CDC STI 2021 tr. 70: mẹ và bạn tình của mẹ cần được đánh giá và điều trị. Phác đồ cho chồng: không ghi vào ca, giao bác sĩ khám chồng (QĐ 5169/2021 mục 3.2.1, bản chữ liệt kê azithromycin 1 g uống liều duy nhất)."
+    },
+    {
+     "t": "Giải thích không cần truyền dịch bồi bổ: bé bú mạnh, tăng 550 g trong 16 ngày, tã ướt đủ, không mất nước; thứ giúp bé là sữa mẹ và theo dõi đúng dấu hiệu",
+     "v": "c",
+     "n": "Chỉ định truyền dịch 'bồi bổ' ở sơ sinh khỏe: không có trong tài liệu đã tải; bé không có dấu hiệu nguy hiểm (WHO 2013 mục 3.6). Chuẩn tăng cân sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho thêm đợt erythromycin hoặc azithromycin thứ hai 'cho chắc' khi mắt đã sạch",
+     "v": "w",
+     "n": "Sai: đợt hai chỉ khi điều trị không hiệu quả (CDC STI 2021 tr. 69), và macrolid trong 6 tuần đầu liên quan hẹp phì đại môn vị (tr. 69; QĐ 5169/2021 mục 3.2.5): thêm thuốc tức là thêm nguy cơ."
+    },
+    {
+     "t": "Truyền dịch bồi bổ cho bé theo ý bà nội",
+     "v": "w",
+     "n": "Không có chỉ định (WHO 2013 mục 3.6: bé không có dấu hiệu nguy hiểm); đặt kim truyền cho sơ sinh khỏe là can thiệp xâm lấn không cần."
+    },
+    {
+     "t": "Tra tiếp thuốc mỡ hoặc thuốc nhỏ mắt kháng sinh cho đến khi 'chắc chắn' hết",
+     "v": "a",
+     "n": "Không cần: thuốc tại chỗ không cần thêm khi đã điều trị toàn thân (CDC STI 2021 tr. 69); mắt đã sạch. Không gây hại rõ nên không chấm w."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc sơ sinh do Chlamydia trachomatis (PCR dương tính), đã khỏi lâm sàng sau đủ 14 ngày erythromycin uống",
+     "Chưa biến chứng giác mạc, chưa viêm phổi; tăng cân tốt (3,4 → 3,95 kg), bú mạnh, không nôn vọt",
+     "Bé đang trong khoảng nguy cơ hẹp phì đại môn vị liên quan macrolid (< 6 tuần tuổi, vừa uống 14 ngày erythromycin) và cửa sổ viêm phổi Chlamydia (1–3 tháng)",
+     "Chồng chưa điều trị, hai vợ chồng đã quan hệ lại: nguy cơ mẹ nhiễm lại, bé tiếp xúc lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: giấy ra viện (kết quả, thuốc), uống thuốc có đủ không, bú và trớ (nôn vọt hay không), ho, tã ướt, điều trị của mẹ và của chồng, lý do xin truyền dịch. Khám: mắt, fluorescein, cân nặng và toàn trạng, phổi, bụng (sóng nhu động, khối thượng vị), quan sát bú. CLS: không cần.",
+     "Vì sao khỏi: mắt hết đỏ, ghèn, phù mi sau ngày thứ 5; đủ 14 ngày. Erythromycin chỉ hiệu quả khoảng 80%, nên theo dõi lâm sàng để biết có cần đợt hai không (CDC STI 2021 tr. 69–70).",
+     "Điểm tư duy: quyết định lượt trước (chuyển tuyến, dùng macrolid) đúng, nhưng thuốc có nguy cơ riêng. Macrolid uống ở trẻ < 6 tuần liên quan hẹp phì đại môn vị (CDC STI 2021 tr. 69; AAO 2018, Table 3; QĐ 5169/2021 mục 3.2.5 ghi nguy cơ cho erythromycin). Hẹp môn vị điển hình: nôn vọt không mật, 3–6 tuần tuổi (WHO 2013 mục 9.2.2). Không loại bỏ nguy cơ, chỉ dặn để phát hiện sớm.",
+     "Viêm phổi Chlamydia thường ở tuổi 1–3 tháng, ho cơn, thở nhanh (CDC STI 2021 tr. 70). Lượt này chưa có.",
+     "Tái nhiễm: nhiễm Chlamydia sinh dục thường không triệu chứng (QĐ 5169/2021 mục 2.1.1: 70% ở nữ, 50% ở nam), nên 'chồng khỏe' không nghĩa là không nhiễm; cần điều trị bạn tình để ngăn tái nhiễm (mục 3.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám sau 1 tuần: không thêm kháng sinh khi mắt đã sạch (CDC STI 2021 tr. 69). Mốc 1 tuần là thiết kế của ca; không có trong tài liệu đã tải mốc tái khám cụ thể.",
+     "Dặn rõ nôn vọt và dấu hiệu hô hấp bằng lời dễ nhớ; dặn đưa bé đi ngay, nôn mật xanh là cấp cứu (WHO 2013 mục 9.2.2).",
+     "Khuyên chồng khám và điều trị, tránh quan hệ 7 ngày sau khi bắt đầu điều trị (QĐ 5169/2021 mục 3.1). Nói với chị Nhung rằng đây là bệnh thường không triệu chứng ở cả hai giới, không quy lỗi cho ai.",
+     "Từ chối truyền dịch bằng số liệu: bé tăng 550 g trong 16 ngày, tã ướt đủ, bú mạnh, không có dấu hiệu nguy hiểm (WHO 2013 mục 3.6). Với bà nội: 'Cháu đủ nước và đang lên cân; truyền nước cho bé khỏe là chọc kim không cần thiết'.",
+     "Đơn thuốc: không kê thuốc mới. Không tra thêm thuốc mắt. Gói men tiêu hóa bà nội cho có thể dừng vì bé không đầy hơi (không có trong tài liệu đã tải bằng chứng về men tiêu hóa cho sơ sinh)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới. Erythromycin uống đã đủ 14 ngày: ngưng",
+      "ham_luong": "Erythromycin 50 mg/kg/ngày chia 4 lần × 14 ngày đã hoàn thành (tuyến trên kê)",
+      "lieu": "Không dùng thêm",
+      "duong": "Không",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Đã đủ 14 ngày",
+      "ghi_chu": "CDC STI 2021 tr. 69 (14 ngày; đợt hai chỉ khi không hiệu quả); AAO 2018, Table 3. Azithromycin 20 mg/kg/ngày × 3 ngày theo QĐ 5169/2021 mục 3.2.5 là cách khác, không dùng thêm."
+     }
+    ],
+    "dan_do": [
+     "Đưa bé đến ngay nếu bé nôn vọt thành tia sau bú, nhất là khi vừa nôn đã đòi bú lại, tã ít ướt, sụt cân, hoặc nôn ra mật xanh; không cho ăn uống gì thêm trên đường đi (WHO 2013 mục 9.2.2; CDC STI 2021 tr. 69).",
+     "Đưa bé đến ngay nếu ho thành cơn, thở nhanh, bú kém, sốt hay lạnh, tím, li bì (WHO 2013 mục 3.6; CDC STI 2021 tr. 70).",
+     "Chồng khám và uống thuốc Chlamydia; hai vợ chồng tránh quan hệ 7 ngày sau khi bắt đầu điều trị (QĐ 5169/2021 mục 3.1).",
+     "Tái khám sau 1 tuần để cân nặng và hỏi lại nôn, ho (CDC STI 2021 tr. 69–70: theo dõi lâm sàng; mốc 1 tuần là thiết kế của ca, không có trong tài liệu đã tải).",
+     "Không truyền dịch bồi bổ; tiếp tục bú mẹ hoàn toàn; rửa tay trước khi chạm mắt bé; dừng gói men nếu bé không đầy hơi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé 5 ngày sau tái khám (31 ngày tuổi): bắt đầu trớ nhiều hơn, rồi nôn vọt thành tia không có mật sau mỗi cữ bú, đòi bú ngay sau nôn, tã ướt ít, sụt 150 g. Chị Nhung nhớ lời dặn nên đưa đi ngay sáng hôm đó. Bệnh viện Nhi tỉnh: sờ được khối như quả ôliu ở thượng vị, mất nước nhẹ; chẩn đoán hẹp phì đại môn vị; ngừng ăn đường miệng, truyền dịch bù nước và điện giải (lần đầu bé thực sự cần truyền dịch), phẫu thuật. Ba ngày sau bé bú lại bình thường, ra viện. Mắt không tái phát, không viêm phổi. Chồng chị Nhung đã uống thuốc sau khi được tư vấn. Quyết định dùng macrolid ở lượt trước vẫn đúng: thuốc cần để cứu mắt và phổi; điều dặn cụ thể giúp phát hiện biến chứng sớm, tránh mất nước nặng.",
+ "nhieu": [
+  "Đòi truyền dịch (cả hai lượt): mẹ và bà nội xin truyền nước biển cho nhanh khỏi; đáp án không truyền, giải thích bằng dấu hiệu cụ thể (bú mạnh, tã ướt, tăng cân) và nói rõ lý do đi bệnh viện (bệnh phẩm, thuốc đúng loại). Điểm mỉa mai của ca: bé chỉ thật sự cần truyền dịch khi mất nước do hẹp môn vị.",
+  "Anh trai cảm một tuần trước (sau nhiễm siêu vi): gợi viêm kết mạc virus, làm dễ dừng ở chẩn đoán 'đau mắt đỏ' như dược sĩ đã nói.",
+  "Men tiêu hóa tự mua: không liên quan bệnh mắt, không gây hại rõ trong tài liệu đã tải.",
+  "Phòng khám chỉ có xét nghiệm cơ bản: không cấy kết mạc, không PCR Chlamydia; phải chuyển tuyến để có bệnh phẩm."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh bị viêm kết mạc là một bệnh khác với trẻ lớn: nghĩ tới Chlamydia và lậu cầu, lấy bệnh phẩm, nhập viện bắt buộc (AAO 2018); không dừng ở 'đau mắt đỏ'.",
+  "Hỏi tiền sử thai kỳ của mẹ một cách nhẹ nhàng: khí hư, xét nghiệm Chlamydia và lậu cầu trong thai kỳ. Mẹ ngại nên không tự kể.",
+  "Kháng sinh nhỏ mắt hai ngày không đỡ là dấu hiệu cần đổi hướng, không phải thêm thuốc nhỏ.",
+  "Đòi truyền dịch: trả lời bằng dấu hiệu bé không mất nước và lý do thật phải vào viện, không chỉ từ chối.",
+  "Đỡ hoàn toàn khi tái khám: xác nhận đủ 14 ngày, mắt sạch, không thêm kháng sinh; điều trị mẹ và chồng để tránh tái nhiễm; dặn dấu hiệu hô hấp và tiêu hóa.",
+  "Chống outcome bias: bé có biến chứng (hẹp môn vị) sau thuốc, nhưng quyết định dùng macrolid vẫn đúng. Cách dặn trước giúp phát hiện sớm. Đừng kết luận 'lẽ ra không nên dùng thuốc'."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc sơ sinh: khởi phát Chlamydia 5–19 ngày (AAO 2018, Table 1), lậu cầu 1–7 ngày; cấy kết mạc mọi ca nghi nhiễm khuẩn; nhập viện bắt buộc (AAO 2018, Provider and Setting).",
+  "Chlamydia sơ sinh: erythromycin 50 mg/kg/ngày chia 4 × 14 ngày (CDC STI 2021 tr. 69; AAO 2018, Table 3) hoặc azithromycin 20 mg/kg/ngày × 3 ngày (QĐ 5169/2021 mục 3.2.5); hiệu quả erythromycin khoảng 80%; thuốc nhỏ đơn độc không đủ.",
+  "Macrolid và hẹp phì đại môn vị ở trẻ < 6 tuần: CDC STI 2021 tr. 69, QĐ 5169/2021 mục 3.2.5; hẹp môn vị: nôn vọt không mật, 3–6 tuần tuổi, khối ôliu (WHO 2013 mục 9.2.2).",
+  "Mẹ và bạn tình phải được điều trị khi bé nhiễm Chlamydia hoặc lậu cầu (CDC STI 2021 tr. 70, 79); tránh quan hệ 7 ngày sau khi bắt đầu điều trị (QĐ 5169/2021 mục 3.1).",
+  "Sởi: sốt, ho hoặc chảy mũi hoặc viêm kết mạc, hạt Koplik hoặc ban (QĐ 1019/2025 mục 2.4.2). Viêm giác mạc: fluorescein, chuyển nhãn khoa (AAO 2018, Provider and Setting).",
+  "Dấu hiệu nguy hiểm của sơ sinh: không bú, li bì, co giật, thở 60 l/p, sốt > 38 °C, hạ thân nhiệt < 35,5 °C, tím (WHO 2013 mục 3.6)."
+ ],
+ "nguon": [
+  "AAO Conjunctivitis PPP 2018 – American Academy of Ophthalmology, Varu DM et al., Ophthalmology 2019;126(1):P94–P169 – TL-0266 – ĐÃ ĐỌC: Table 1 (viêm kết mạc lậu cầu, Chlamydia sơ sinh; adenovirus; yếu tố thuận lợi), Diagnostic Tests (Cultures, Smears, Viral), Table 3 (kháng sinh toàn thân lậu cầu và Chlamydia sơ sinh), Treatment – HSV Conjunctivitis, Provider and Setting, Counseling and Referral",
+  "QĐ 40/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 1–4b), Viêm giác mạc do herpes (mục 2)",
+  "CDC STI 2021 – Sexually Transmitted Infections Treatment Guidelines, 2021, MMWR Recomm Rep 2021;70(4) – TL-0370 (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Chlamydial Infection Among Neonates – Ophthalmia Neonatorum (tr. 68–70); Ophthalmia Neonatorum Caused by N. gonorrhoeae (tr. 78–79)",
+  "QĐ 5169/QĐ-BYT 2021 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh Chlamydia trachomatis – TL-0498 (bản chữ để trống số hiệu và ngày) – ĐÃ ĐỌC: mục 2.1.1–2.1.2, 3.1, 3.2.1, 3.2.5",
+  "WHO 2013 – Pocket book of hospital care for children, 2nd ed. – TL-0250 – ĐÃ ĐỌC: mục 3.6 (dấu hiệu nguy hiểm sơ sinh), 3.12.2 (viêm kết mạc, tr. 66), 9.2.2 (tắc ruột sơ sinh, hẹp môn vị, tr. 265)",
+  "QĐ 1019/QĐ-BYT 2025 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh Sởi – TL-0238 – ĐÃ ĐỌC: mục 2.1.1 (khởi phát), 2.4.1–2.4.2 (ca nghi ngờ, ca lâm sàng)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08: bản 1. Đã đọc TL-0266 (AAO 2018), TL-0242 (QĐ 40/2015), TL-0370 (CDC 2021), TL-0498 (QĐ 5169/2021), TL-0250 (WHO 2013), TL-0238 (QĐ 1019/2025).",
+  "Mâu thuẫn dùng lại: corticoid nhỏ mắt (TM-0072). Mâu thuẫn mới: (1) viêm kết mạc sơ sinh thể nhẹ — WHO 2013 ngoại trú, AAO 2018 nhập viện bắt buộc; ca thiết kế thể có phù mi và mủ đặc nên hai nguồn cùng hướng nhập viện; (2) Chlamydia sơ sinh — QĐ 5169/2021 azithromycin ưu tiên, CDC 2021 và AAO 2018 erythromycin; (3) liều tối đa ceftriaxone lậu cầu sơ sinh 125 mg (AAO) / 150 mg (WHO) / 250 mg (CDC). Chi tiết: NH-1225_mau_thuan.md.",
+  "Chỗ không có trong tài liệu đã tải: độ nhạy Gram ở sơ sinh, test kiểm tra khỏi Chlamydia sơ sinh, mốc tái khám cụ thể, chuẩn tăng cân sơ sinh, chỉ định truyền dịch cho bệnh này, tham chiếu công thức máu sơ sinh, kỹ thuật phẫu thuật hẹp môn vị. QĐ 5169/2021: bản chữ ghi 'số /QĐ-BYT ngày tháng năm 2021' (dạng trình ký); số hiệu 5169 và ngày 09/11/2021 lấy từ chỉ mục TL-0498.",
+  "Không dùng ảnh: mắt đỏ không phải tổn thương da (người dùng chốt 17/10/2026 chỉ áp dụng ảnh SCIN cho da). Âm thanh tim/phổi: AT-TIM-NHANH-01 (mạch 142, 138) và AT-PHOI-BT-NL-01, chữ khớp tệp.",
+  "Hậu quả hẹp môn vị trong ket_cuc là diễn tiến tưởng tượng phù hợp mô tả của WHO 2013 mục 9.2.2 và CDC 2021; không phải số liệu tần suất. Tần suất hẹp môn vị sau macrolid: không có trong tài liệu đã tải."
+ ]
+}
