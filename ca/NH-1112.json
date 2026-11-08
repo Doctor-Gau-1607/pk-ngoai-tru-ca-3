@@ -1,0 +1,693 @@
+{
+ "ma_ca": "NH-1112",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_dau_bung_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Đau bụng chức năng tái diễn",
+  "chan_doan_phai_loai_tru": [
+   "Viêm ruột thừa",
+   "Nhiễm giun",
+   "Lồng ruột"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Em gái chào đời 5 tháng trước, mẹ đi làm lại và bé ở với bà nội (yếu tố \"sau quan hệ tình dục\" của sổ cái không áp dụng được cho trẻ 4 tuổi nên thay bằng yếu tố này)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (bà nội cho nguyên viên 500 mg mỗi lần bé kêu đau, khoảng 6 tuần)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (bà sợ bé có giun hoặc bệnh lây sang em gái 5 tháng tuổi)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Gia Bảo",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 15.8,
+  "chieu_cao": 101,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', nói câu rất ngắn, hay chỉ tay. Bà nội (bà Sáu, 66 tuổi) kể bệnh thay: xưng 'bà', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi bà là 'bà'.",
+  "tinh_cach": "Bé hiền, nhút nhát, nép vào bà, nói nhỏ, chơi được ngay khi hết đau, hơi ghen với em. Bà nội thương cháu, nói nhiều, tin kinh nghiệm dân gian ('đau bụng là có giun'), hay đoán ý cháu rồi trả lời thay. Mẹ bé (chị Lan, 29 tuổi, công nhân may ca ngày) không đi cùng.",
+  "kieu_nhieu": "Bà nội trả lời thay cả những điều chỉ bé cảm nhận (chỗ đau) và những điều bà không chứng kiến (ở lớp, chuyện đi cầu, tâm trạng). Bà tự đoán bé đau 'dưới bụng bên phải' trong khi bé chỉ quanh rốn nếu được hỏi thẳng. Bà coi paracetamol là thuốc lành nên chỉ kể khi bác sĩ hỏi thuốc đã cho uống, và không kể nỗi lo lây sang em bé nếu không được hỏi vì sao hôm nay mới đi khám hoặc đang lo điều gì.",
+  "nguoi_nha": "Bà nội bé (bà Sáu) đi cùng. Hầu hết câu hỏi do bà trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé (vd 'Bảo chỉ cho bác sĩ chỗ đau nào?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Bà nội (bà Sáu)",
+  "ngoai_hinh": {
+   "da": "#e9bd98",
+   "toc": "#1a1411",
+   "kieuToc": "tre",
+   "ao": "#6aa6d6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d8a47c",
+    "toc": "#bdbdbd",
+    "kieuToc": "bui",
+    "ao": "#8b6a52",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đau bụng từng cơn nhiều tuần nay, ăn ít",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết mao mạch, men gan, nước tiểu, soi phân); không có X-quang, siêu âm, CT, nội soi, không làm được calprotectin hay huyết thanh học chuyên sâu. Bệnh viện nhi tuyến trên có siêu âm cách khoảng 40 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 15,8 kg, bà nội đưa đến vì đau bụng từng cơn nhiều tuần nay. Sinh hiệu: nhiệt 36,8 °C, mạch 98 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, nép vào bà, chơi được với đồ chơi trong phòng.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Bảo nằm viện 'theo dõi ruột thừa, làm cho hết xét nghiệm' khi bụng mềm, hố chậu phải không đau, không sốt, không nôn là không có chỉ định (WHO 2013 mục 9.4.2: viêm ruột thừa cần đau và đau ấn liên tục hố chậu phải kèm sốt, chán ăn). Bé phải xa mẹ, bà và em gái lần đầu, đúng điều QĐ 3312 (Đau bụng chức năng mục 4.2) cảnh báo là làm tăng đau khi quan hệ gia đình thay đổi; mẹ nghỉ làm, bà càng tin bé mắc bệnh nặng và tiếp tục kiêng khem, cân nặng của bé càng khó hồi phục.",
+    "chuyen_tuyen": "Chuyển bé Bảo lên bệnh viện nhi tuyến trên ngay để siêu âm, CT hoặc nội soi khi xét nghiệm cơ bản bình thường và sụt cân nhẹ đã có giải thích (ăn ít do bà kiêng) là quá tay ở lượt này: QĐ 3312 (Đau bụng chức năng mục 3.2) nói siêu âm bất thường dưới 1% và xét nghiệm xâm nhập cần cân nhắc kỹ; WSES 2020 (khuyến cáo 1.14.2) không dùng CT thường quy đầu tiên cho trẻ. Bà một mình đưa hai cháu nhỏ đi xa, tốn kém, bé chịu thủ thuật không cần và nỗi lo bệnh nặng của bà tăng thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Bảo nhà tôi đau bụng mấy tuần nay, đau dưới bụng bên phải, bữa đau bữa không. Chắc nó có giun, bác sĩ coi giùm tôi. Nó ăn ít lắm, ốm đi thấy rõ.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đau bụng từng cơn khoảng 10 tuần nay. Bà nghĩ bé có giun nên đưa đi khám. Bé ăn ít, thấy ốm đi.",
+     "che_do": "tu_ke",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "vi_tri_ba",
+     "noi_dung": "Bà nói bé đau 'dưới bụng bên phải' vì thấy bé hay xoa bụng, bà không để ý bé chỉ chỗ nào. Bà tự đoán thay bé.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thân nhân đoán vị trí đau, không chắc chắn"
+    },
+    {
+     "id": "vi_tri_be",
+     "noi_dung": "Khi bác sĩ hỏi thẳng bé, bé chỉ vào quanh rốn: 'đau chỗ này', tả 'xoắn xoắn' một lúc rồi hết, rồi chạy chơi. Bé không chỉ vào hố chậu phải.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "benh_nhan",
+     "k": 1,
+     "y": "Hỏi riêng bé: vị trí thật quanh rốn (đau quanh rốn không đặc hiệu, WHO 2013 mục 9.4.1)"
+    },
+    {
+     "id": "tinh_chat_dau",
+     "noi_dung": "Mỗi cơn khoảng 10–20 phút rồi tự hết, 4–5 lần mỗi tuần, từ đầu tháng 8 đến giờ. Không lan, không làm bé lăn lộn hay khóc thét co chân, không đau liên tục nhiều giờ, không làm bé thức giấc ban đêm.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Tính chất, tần suất, thời gian đau (≥ 1 lần/tuần, ≥ 2 tháng)"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Bé không sốt, không nôn, không ỉa lỏng, không ỉa máu hay phân đen, không phát ban, không đau khớp, không loét miệng, không ngứa hậu môn, không khóc đêm. Mỗi ngày đi cầu 1 lần, phân thành khuôn, không máu, không nhầy. Tiểu bình thường, không buốt.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Dấu hiệu báo động âm tính và đại tiểu tiện (QĐ 3312 Bảng 1)"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Sổ sức khỏe ở trường ghi 16,4 kg hồi tháng 5, nay cân 15,8 kg, nhẹ hơn 0,6 kg. Khoảng 6 tuần nay bé ăn kém: nửa chén cháo, bỏ rau, uống ít sữa. Bà tự kiêng: nấu cháo loãng, không cho đồ cứng, đồ sống, sữa vì 'sợ đau thêm'. Bé không kêu đau tăng ngay sau khi ăn.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Dấu báo động duy nhất: giảm cân (QĐ 3312 Bảng 1) và nguyên nhân có thể giải thích (ăn ít, kiêng)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Khoảng 6 tuần nay mỗi khi bé kêu đau bà cho uống nguyên 1 viên paracetamol 500 mg mua ở tiệm thuốc ('thuốc hạ sốt giảm đau lành, mẹ nó cũng cho em uống'), nghiền với nước. Mỗi ngày đau cho đúng 1 viên, 4–5 ngày mỗi tuần, hôm qua cũng 1 viên. Thuốc làm bé đỡ khoảng 1 giờ rồi lại đau. Bà không cho thuốc cảm hay thuốc nào khác có paracetamol.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao mỗi lần, kéo dài (tính mg/kg)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, 3,2 kg, tiêm chủng theo lịch, không dị ứng, chưa nằm viện, chưa mổ. Gia đình không ai bị viêm ruột. Khoảng 8 tháng trước trường phát thuốc tẩy giun, bé uống một lần. Bé hay chơi cát ở sân trường, không ngứa hậu môn, không thấy giun trong phân.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Tiền sử, tẩy giun, triệu chứng giun kim/giun đũa"
+    },
+    {
+     "id": "boi_canh",
+     "noi_dung": "Em gái bé (bé Bông) chào đời 5 tháng trước. Mười tuần trước mẹ đi làm công nhân may ca ngày trở lại, bà nội trông cả hai cháu và đưa đón bé đi lớp mầm. Bé hay đau buổi sáng trước khi vào lớp và lúc bà bế, ru em; cuối tuần có mẹ ở nhà thì 2 tuần liền gần như không đau. Bé nói nhỏ: 'Mẹ đi làm. Bà bế em.' Bà đã cho bé nghỉ học 3 buổi vì đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi đau vào lúc nào trong ngày hay tuần, hỏi chuyện ở nhà (ai trông bé, nhà có thêm em bé), tâm trạng, chuyện đi học; hoặc khi hỏi thẳng bé.",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Bối cảnh tâm lý: em mới sinh, mẹ đi làm lại, bé ghen/nhớ mẹ (QĐ 3312 mục 3.1, 4.2)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà sợ bé có giun hoặc 'bệnh lây' rồi truyền sang bé Bông 5 tháng tuổi mà bà cũng đang trông. Hai tuần nay bà không cho bé lại gần em, không cho hôn em, cho bé ăn chén đũa riêng; bé tủi, hay khóc đòi mẹ. Mẹ bé chưa biết bà đã đưa bé đi khám. Bà muốn biết bé có bệnh lây không và có phải tiếp tục cách ly em không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi vì sao hôm nay mới đưa bé đi khám, bà đang lo nhất điều gì, trong nhà còn ai nhỏ tuổi, hoặc bà đã làm gì để phòng cho em.",
+     "nguoi_noi": "nguoi_nha",
+     "nhieu": 1,
+     "k": 1,
+     "y": "Động cơ thật: sợ bệnh lây sang em bé"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, niêm mạc ẩm, không xanh xao, không phù, không mất nước. Dáng gầy vừa phải, lớp mỡ dưới da hơi mỏng nhưng không suy kiệt.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 15,8 kg, chiều cao 101 cm, MUAC bình thường. Đối chiếu sổ trường: 16,4 kg hồi tháng 5, giảm 0,6 kg. Chiều cao tăng bình thường theo sổ.",
+     "k": 1,
+     "hien": "Cân 15,8 kg, cao 101 cm."
+    },
+    "bung": {
+     "a": "Bụng cân đối, không chướng, nhu động ruột bình thường. Ấn nhẹ quanh rốn bé hơi nhăn mặt nhưng không đau rõ, không phản ứng thành bụng. Hố chậu phải ấn sâu không đau, không co cứng, bé nhảy tại chỗ không đau. Không khối, gan lách không to, không đau khi ho.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn quanh rốn không đau rõ, hố chậu phải không đau."
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Thở 22 l/p, không co lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, không giả mạc. Tai, mũi bình thường.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng và góc sườn cột sống không đau, không căng cầu bàng quang.",
+     "k": 0
+    },
+    "quan_sat_hau_mon": {
+     "a": "Da quanh hậu môn bình thường, không đỏ, không xước, không nứt, không dò; không thấy giun.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai bìu cân đối, hai tinh hoàn trong bìu, không đau, không sưng; vùng bẹn không khối.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không loét miệng.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống không đau, các khớp không sưng đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 8,1 G/L · Neutrophil 50% · Lym 41% · Eos 3% · Hb 123 g/L · TC 310 G/L",
+     "n": "Cần: có dấu báo động giảm cân nên xét nghiệm theo định hướng (QĐ 3312, Đau bụng chức năng mục 3.2): loại thiếu máu (QĐ 3312, Thiếu máu thiếu sắt mục 1: < 115 g/L ở trẻ 2–6 tuổi), nhiễm khuẩn, tăng bạch cầu ái toan gợi ý giun (Nhiễm ký sinh trùng đường ruột mục 3.1a). Bình thường."
+    },
+    "soi_phan": {
+     "v": "e",
+     "r": "Không thấy trứng giun, không thấy ký sinh trùng. Không hồng cầu, không bạch cầu.",
+     "n": "Cần: loại nhiễm giun, cũng là câu hỏi thật của bà (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a, 3.1d: chẩn đoán bằng soi phân tìm trứng). Giun kim cần băng keo buổi sáng (mục 3.1b); bé không ngứa hậu môn, quanh hậu môn bình thường nên chưa cần."
+    },
+    "crp": {
+     "v": "a",
+     "r": "2 mg/L",
+     "n": "Chấp nhận, không bắt buộc: bình thường, không có dấu hiệu viêm. CRP và bạch cầu chỉ hữu ích khi đang nghi viêm ruột thừa ở trẻ (WSES 2020 khuyến cáo 1.6.1); bé chưa nghi."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Không protein, không bạch cầu, không hồng cầu, nitrit âm tính.",
+     "n": "Chấp nhận: đau bụng và ăn kém ở trẻ nhỏ nên loại nhiễm khuẩn tiết niệu; bình thường. Không bắt buộc vì bé không sốt, không tiểu buốt."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 28 · ALT 21 U/L",
+     "n": "Chấp nhận: bé uống paracetamol 500 mg mỗi ngày đau khoảng 6 tuần. Ngưỡng nguy cơ ở trẻ dưới 6 tuổi là ≥ 100 mg/kg trong 72 giờ (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3); bé khoảng 32 mg/kg/ngày nên không bắt buộc."
+    },
+    "paracetamol_mau": {
+     "v": "u",
+     "r": "Dưới ngưỡng phát hiện.",
+     "n": "Không cần (300 nghìn): lần uống cuối đã hơn 24 giờ, liều ngày dưới ngưỡng độc. QĐ 3610/2015 (Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3): đồ thị Rumack-Matthew không áp dụng khi dùng lặp lại; quyết định dựa vào lượng thuốc đã uống kèm AST, ALT."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Không cần chuyển chỉ để siêu âm: khám bụng bình thường, siêu âm bất thường dưới 1% (QĐ 3312, Đau bụng chức năng mục 3.2). Nếu nghi viêm ruột thừa thì siêu âm là hình ảnh đầu tiên ở trẻ (WSES 2025 khuyến cáo 3.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau bụng chức năng tái diễn ở trẻ mẫu giáo (đau bụng chức năng ở trẻ em theo Rome III); có một dấu hiệu báo động (giảm cân nhẹ) đã giải thích được và xét nghiệm định hướng bình thường",
+     "ok": 1,
+     "n": "Đau quanh rốn từng cơn 10–20 phút, 4–5 lần/tuần, khoảng 10 tuần (≥ 1 lần/tuần, ≥ 2 tháng, Rome III, QĐ 3312 mục 3.2 Bảng 2), khám bụng bình thường (QĐ 3312 mục 3.1). Giảm cân 0,6 kg là dấu báo động (Bảng 1) nhưng có nguyên nhân rõ (ăn ít, bà kiêng) và công thức máu, CRP, nước tiểu, men gan, soi phân bình thường. Căng thẳng gia đình, thay đổi quan hệ xã hội làm tăng đau (mục 3.1, 4.2). Tiêu chuẩn Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải (ca thỏa cả ba: đau ≥ 1 lần/tuần, ≥ 2 tháng)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Ít nghĩ: bé tự chỉ quanh rốn (không đặc hiệu, WHO 2013 mục 9.4.1), hố chậu phải ấn không đau, không sốt, không nôn, kéo dài 10 tuần; viêm ruột thừa có đau và đau ấn liên tục hố chậu phải kèm sốt, chán ăn (mục 9.4.2). Nếu nghi: siêu âm trước (WSES 2025 khuyến cáo 3.2). Lời bà 'bên phải' là đoán."
+    },
+    {
+     "t": "Nhiễm giun (giun đũa, giun kim)",
+     "n": "Ít nghĩ: không xanh xao, bạch cầu ái toan 3%, không ngứa hậu môn, không khóc đêm, soi phân âm tính (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a–3.1b). Giun kim hay gặp 3–7 tuổi và mang tính gia đình (mục 3.1b) nên giải thích để bà đỡ lo."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không phù hợp: thường gặp ở trẻ dưới 2 tuổi; biểu hiện đau quặn kèm nôn, khóc co chân, ỉa như thạch nho, khối ở bụng (WHO 2013 mục 9.4.4). Bé 4 tuổi, 10 tuần, cơn đau xong là chơi, không nôn, không ỉa máu, không khối."
+    },
+    {
+     "t": "Ngộ độc hoặc tổn thương gan do paracetamol dùng kéo dài",
+     "n": "Không: mỗi ngày 1 viên 500 mg ≈ 32 mg/kg, dưới 60 mg/kg/24 giờ và dưới ngưỡng nguy cơ ≥ 100 mg/kg trong 72 giờ (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3); bé không buồn nôn, không đau hạ sườn phải, men gan bình thường. Liều mỗi lần vẫn gấp 2–3 lần 10–15 mg/kg/lần (QĐ 3312, Co giật do sốt mục 4.1) nên phải sửa."
+    },
+    {
+     "t": "Bệnh thực thể khác gây sụt cân (thiếu máu, viêm ruột, bệnh celiac, nhiễm khuẩn tiết niệu)",
+     "n": "Chưa có bằng chứng: công thức máu, CRP, nước tiểu bình thường, không ỉa lỏng, ỉa máu, sốt. Xét nghiệm chuyên sâu không có ở cơ sở; mốc cân sau 4 tuần để mở lại chẩn đoán."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán tích cực: đây là đau bụng chức năng (ruột nhạy cảm, liên quan đường truyền ruột – não), không phải ruột thừa, không phải bệnh nặng, không ảnh hưởng sức khỏe sau này",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1): khẳng định với cha mẹ bệnh không ảnh hưởng sức khỏe tương lai, giải thích cơ chế tăng nhạy cảm nội tạng, ruột – não, không phân tích sâu. ESPGHAN/NASPGHAN 2025 (Best practice statement 1): giáo dục ngay buổi khám đầu, nhấn mạnh tính lành tính."
+    },
+    {
+     "t": "Trả lời nỗi lo của bà: soi phân không có giun, đau bụng chức năng không phải bệnh nhiễm trùng, không cần cách ly bé khỏi em; chỉ cần rửa tay trước khi bế em, cắt móng tay cho bé",
+     "v": "c",
+     "n": "QĐ 3312 (Nhiễm ký sinh trùng đường ruột mục 2, 3.1a–3.1b: giun lây qua đường miệng; giun kim hay gặp 3–7 tuổi, mang tính gia đình); soi phân âm tính (mục 3.1d). Nói rõ tại sao bà hết cớ cách ly. Bác sĩ hỏi nỗi lo của bà là kỹ năng chính."
+    },
+    {
+     "t": "Cho bé trở lại sinh hoạt bình thường: đi học đều, cho lại gần em, ăn chung; bà phản ứng vừa đủ khi bé kêu đau (an ủi ngắn rồi cho chơi), mẹ dành thời gian riêng cho bé mỗi ngày",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1: mục tiêu đầu là sinh hoạt bình thường, đi học đều; mục 4.2: thái độ gia đình vừa đủ, bé không được quan tâm thì hành vi đau tăng, thay đổi quan hệ trong gia đình làm tăng đau). Thời lượng riêng mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm xét nghiệm cơ bản định hướng vì có dấu báo động giảm cân (công thức máu, soi phân; nước tiểu, CRP, men gan tùy); không làm thêm loạt xét nghiệm đắt",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 3.1, Bảng 1: giảm cân là dấu báo động; mục 3.2: xét nghiệm khi có dấu báo động, theo định hướng nguyên nhân). Cơ sở chỉ có xét nghiệm cơ bản."
+    },
+    {
+     "t": "NGƯNG cho paracetamol nguyên viên 500 mg mỗi khi đau: liều mỗi lần gấp 2–3 lần liều chuẩn; không dùng thuốc giảm đau hằng ngày cho đau bụng chức năng",
+     "v": "c",
+     "n": "QĐ 3312 (Co giật do sốt mục 4.1): paracetamol 15 mg/kg/lần, nhắc lại sau 4–6 giờ, không quá 60 mg/kg/24 giờ; 500 mg ≈ 32 mg/kg. ESPGHAN/NASPGHAN 2025 (Best practice statement 4): thuốc giảm đau không kê đơn chỉ dùng ngắt quãng, cẩn thận khi vượt liều hướng dẫn vì nguy cơ độc gan. QĐ 3610/2015 (Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3): liều lặp lại quá liều điều trị là nguyên nhân tử vong ở trẻ dưới 6 tuổi."
+    },
+    {
+     "t": "Bỏ kiêng khem khắt khe: cho bé ăn đủ bữa, đủ nhóm, uống sữa bình thường; theo dõi cân",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2025 (Best practice statement 2): chế độ ăn hạn chế có thể đòi hỏi cam kết không thực tế, nguy cơ thiếu dinh dưỡng ở trẻ đang lớn. QĐ 3312 (mục 4.3): loại trừ lactose hiệu quả không rõ ràng. Bé có sụt cân nhẹ do ăn ít nên càng không nên kiêng."
+    },
+    {
+     "t": "Dặn đưa bé đến ngay nếu đau bụng liên tục hơn 4 giờ, đau chỉ ở hố chậu phải, sốt, nôn, ỉa lỏng, ỉa máu hoặc phân đen, khóc thét từng cơn co chân, bụng chướng, vàng da, sụt cân thêm",
+     "v": "c",
+     "n": "WHO 2013 (mục 9.4.1: đau > 4 giờ là cấp cứu tiềm tàng; mục 9.4.2: viêm ruột thừa; mục 9.4.4: lồng ruột); QĐ 3312 (Đau bụng chức năng Bảng 1: nôn, ỉa lỏng, xuất huyết tiêu hóa, sốt, giảm cân)."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 4 tuần, mang sổ cân của trường và nhật ký cơn đau; nêu mốc: cân không tăng hoặc giảm thêm, hoặc xuất hiện dấu báo động thì chuyển tuyến nhi làm siêu âm và xét nghiệm chuyên sâu",
+     "v": "c",
+     "n": "Khoảng thời gian tái khám và ngưỡng sụt cân cần chuyển tuyến: không có trong tài liệu đã tải; người viết chọn 4 tuần để đánh giá đáp ứng can thiệp không dùng thuốc (QĐ 3312 mục 4.1–4.2) và cân lại, có mốc mở lại chẩn đoán vì dấu báo động giảm cân (QĐ 3312 Bảng 1)."
+    },
+    {
+     "t": "Thuốc: chống co thắt, ức chế H2, men vi sinh Bifidobacterium infantis (QĐ 3312) hoặc không dùng thuốc thường quy (ESPGHAN 2025)",
+     "v": "a",
+     "n": "Hai nguồn khác nhau, đã ghi trong sổ mâu thuẫn. QĐ 3312 (mục 4.3–4.4): thuốc chỉ giảm nhẹ triệu chứng, ức chế H2 có hiệu quả, chống co thắt khi co thắt ruột, bổ sung Bifidobacterium infantis. ESPGHAN/NASPGHAN 2025: mebeverine, drotaverine 'không gợi ý'; chống co thắt kháng cholinergic không đủ bằng chứng; probiotic nhiều chủng 'có thể gợi ý' (điều kiện, chứng cứ thấp). Không nguồn nào nói có hại; liều cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tẩy giun một liều albendazole 400 mg hoặc mebendazole 500 mg, hoặc không tẩy vì soi phân âm tính",
+     "v": "a",
+     "n": "WHO 2017 (khuyến cáo cho trẻ mầm non 24–59 tháng: albendazole 400 mg hoặc mebendazole 500 mg liều đơn, nơi tỷ lệ nhiễm giun ≥ 20%, mạnh, chứng cứ thấp); QĐ 3312 (Nhiễm ký sinh trùng đường ruột mục 3.1a: mebendazole 500 mg liều duy nhất khi có chẩn đoán giun đũa). Tỷ lệ nhiễm tại địa phương: không có trong tài liệu đã tải. Bé soi phân âm tính, không triệu chứng giun: cả hai cách chấp nhận."
+    },
+    {
+     "t": "Tiếp tục cách ly bé khỏi em (không cho lại gần, ăn riêng) đến khi 'hết bệnh'",
+     "v": "w",
+     "n": "Không có bệnh lây (đau bụng chức năng, soi phân âm tính). QĐ 3312 (Đau bụng chức năng mục 4.2): thay đổi quan hệ trong gia đình, bé cảm giác không được quan tâm làm tăng hành vi đau."
+    },
+    {
+     "t": "Tiếp tục cho nguyên viên paracetamol 500 mg mỗi khi bé đau",
+     "v": "w",
+     "n": "Liều 32 mg/kg/lần gấp 2–3 lần liều chuẩn (QĐ 3312, Co giật do sốt mục 4.1); dùng lặp lại vượt liều điều trị là nguyên nhân tử vong liên quan paracetamol ở trẻ dưới 6 tuổi (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3); ESPGHAN/NASPGHAN 2025 (Best practice statement 4) cảnh báo độc gan."
+    },
+    {
+     "t": "Mổ thăm dò hoặc cắt ruột thừa dự phòng vì đau bụng tái diễn",
+     "v": "h",
+     "n": "ESPGHAN/NASPGHAN 2025 (Best practice statement 10): khuyến cáo mạnh chống phẫu thuật để đánh giá và điều trị đau bụng chức năng. Bé không có chỉ định ngoại khoa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau bụng chức năng tái diễn (đau bụng chức năng ở trẻ em theo Rome III) ở bé trai 4 tuổi",
+     "Có một dấu hiệu báo động (giảm cân 0,6 kg trong 3 tháng) đã giải thích được (ăn kém, bà kiêng khem) và xét nghiệm cơ bản bình thường; chưa có bằng chứng bệnh thực thể",
+     "Yếu tố tâm lý – hoàn cảnh: em gái 5 tháng, mẹ đi làm lại, bé ở với bà, đau nhiều buổi sáng đến lớp, ít đau cuối tuần có mẹ",
+     "Đã loại viêm ruột thừa, nhiễm giun, lồng ruột trên lâm sàng và soi phân",
+     "Dùng paracetamol nguyên viên 500 mg (≈ 32 mg/kg/lần) 4–5 ngày/tuần khoảng 6 tuần: vượt liều mỗi lần nhưng dưới ngưỡng độc theo ngày, men gan bình thường",
+     "Nỗi lo thật của bà: sợ bé có giun/bệnh lây sang em, đã cách ly bé khỏi em 2 tuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự làm đúng: hỏi bệnh (hỏi riêng bé chỗ đau, nhịp cơn đau, dấu báo động, ăn uống, cân nặng, đại tiểu tiện, giun, thuốc đã cho, bối cảnh gia đình – trường học, nỗi lo của bà) → khám (toàn trạng, cân đo, bụng kỹ, hố thắt lưng, hậu môn) → xét nghiệm cơ bản định hướng → chẩn đoán → xử trí.",
+     "Tách bé ra hỏi: bà đoán đau 'bên phải', bé chỉ quanh rốn. Đau quanh rốn là không đặc hiệu (WHO 2013 mục 9.4.1); khám hố chậu phải không đau, nhảy tại chỗ không đau.",
+     "Vì sao là đau bụng chức năng: đau từng cơn 10–20 phút, 4–5 lần/tuần, khoảng 10 tuần, khám bụng bình thường (QĐ 3312, Đau bụng chức năng mục 3.1). Rome III: đau từng cơn hoặc liên tục, không đủ tiêu chuẩn rối loạn khác, ≥ 1 lần/tuần, ≥ 2 tháng (mục 3.2, Bảng 2). Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải. Chỉ khoảng 8% đau bụng mạn ở trẻ liên quan bệnh thực thể (mục 1).",
+     "Dấu báo động giảm cân: QĐ 3312 Bảng 1 cho phép chẩn đoán chức năng chỉ khi không có dấu báo động và khám bình thường (mục 3.1), nên giảm cân phải được giải thích và kiểm bằng xét nghiệm cơ bản (mục 3.2): ăn ít, bà kiêng; công thức máu, CRP, nước tiểu, men gan, soi phân bình thường. Ngưỡng sụt cân buộc chuyển tuyến: không có trong tài liệu đã tải; mốc cân sau 4 tuần là lựa chọn của người viết.",
+     "Vì sao không phải viêm ruột thừa, giun, lồng ruột: không sốt, không nôn, hố chậu phải không đau, bạch cầu ái toan 3%, soi phân âm tính, không cơn khóc thét co chân (WHO 2013 mục 9.4.2, 9.4.4; QĐ 3312 Nhiễm ký sinh trùng đường ruột mục 3.1).",
+     "Paracetamol: 500 mg ÷ 15,8 kg ≈ 32 mg/kg/lần, gấp 2–3 lần 10–15 mg/kg/lần (QĐ 3312, Co giật do sốt mục 4.1) nhưng 1 lần/ngày nên dưới 60 mg/kg/24 giờ và dưới ngưỡng nguy cơ ở trẻ dưới 6 tuổi (≥ 100 mg/kg trong 72 giờ, QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3). Không cần định lượng paracetamol máu; men gan bình thường là đủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Giáo dục là điều trị đầu tiên: bệnh lành tính, giải thích cơ chế ruột – não, thuyên giảm tự nhiên 30–70% (QĐ 3312 mục 4.1, 5; ESPGHAN/NASPGHAN 2025 Best practice statement 1). Trả lời thẳng nỗi sợ lây của bà: soi phân không giun, không phải bệnh nhiễm trùng, bỏ cách ly.",
+     "Can thiệp hành vi và hoàn cảnh: đi học đều, bà phản ứng vừa đủ, mẹ dành thời gian riêng cho bé, cho bé tham gia chăm em (QĐ 3312 mục 4.1–4.2). Liệu pháp tâm lý là bước sau nếu vẫn đau (QĐ 3312 mục 4.5).",
+     "Thuốc: không dùng thuốc thường quy là đáp án chính (ESPGHAN 2025); thuốc chống co thắt, H2, men vi sinh theo QĐ 3312 mục 4.3–4.4 cũng chấp nhận (sổ mâu thuẫn). Liều cho trẻ 4 tuổi: không có trong tài liệu đã tải nên không kê.",
+     "An toàn: dặn dấu hiệu quay lại ngay (WHO 2013 mục 9.4.1, 9.4.2, 9.4.4; QĐ 3312 Bảng 1) và hẹn 4 tuần; sau mốc cân mới quyết định chuyển tuyến siêu âm, xét nghiệm chuyên sâu (khoảng thời gian do người viết chọn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc điều trị đau bụng chức năng",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không có",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Điều trị đầu tay là giáo dục và can thiệp hành vi (QĐ 3312, Đau bụng chức năng mục 4.1–4.2; ESPGHAN/NASPGHAN 2025 Best practice statement 1). Thuốc chỉ giảm nhẹ triệu chứng (QĐ 3312 mục 4.4); liều cho trẻ 4 tuổi không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol viên 500 mg cho đau bụng: NGƯNG",
+      "ham_luong": "500 mg/viên",
+      "lieu": "Ngừng cho nguyên viên. Chỉ khi cần giảm đau/hạ sốt do bệnh khác: 10–15 mg/kg/lần = 160–240 mg (1/3–1/2 viên), tối đa 60 mg/kg/24 giờ ≈ 948 mg",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay; cách nhau ít nhất 4–6 giờ nếu có dùng",
+      "so_ngay": "Không dùng hằng ngày",
+      "ghi_chu": "QĐ 3312 (Co giật do sốt mục 4.1): 15 mg/kg/lần, nhắc lại sau 4–6 giờ, không quá 60 mg/kg/24 giờ. QĐ 3610/2015 (Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3). ESPGHAN/NASPGHAN 2025 (Best practice statement 4). Men gan bình thường: không cần xử trí thêm."
+     }
+    ],
+    "dan_do": [
+     "Bé bị đau bụng chức năng: ruột nhạy cảm hơn bình thường, liên quan chuyện nhớ mẹ, có em mới, không phải ruột thừa, không có giun và không lây sang em (QĐ 3312 mục 4.1; soi phân không có trứng giun).",
+     "Cho bé lại gần em, chơi, ăn chung như trước; chỉ cần rửa tay trước khi bế em và cắt móng tay cho bé (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1b: giun kim mang tính gia đình, phòng bằng vệ sinh).",
+     "Cho bé đi học đều, kể cả khi kêu đau nhẹ: an ủi ngắn rồi cho chơi tiếp. Dặn mẹ dành ít phút riêng cho bé mỗi tối; cho bé phụ chăm em (QĐ 3312 mục 4.1–4.2).",
+     "Không cho paracetamol nguyên viên 500 mg nữa. Nếu bé sốt hoặc đau nhiều: 160–240 mg mỗi lần (khoảng 1/3–1/2 viên), cách ít nhất 4–6 giờ, không quá 948 mg mỗi 24 giờ (QĐ 3312, Co giật do sốt mục 4.1). Hỏi dược sĩ nếu thuốc có thành phần paracetamol khác.",
+     "Cho bé ăn uống bình thường: cháo hoặc cơm mềm, đủ rau, thịt cá, sữa; không kiêng khắt khe (ESPGHAN/NASPGHAN 2025 Best practice statement 2). Mang sổ cân và nhật ký cơn đau khi tái khám.",
+     "Đưa bé đến ngay nếu đau bụng liên tục hơn 4 giờ (WHO 2013 mục 9.4.1), đau chỉ ở hố chậu phải, sốt, nôn nhiều, ỉa lỏng, ỉa máu hay phân đen, khóc thét từng cơn co chân, bụng chướng, vàng da, bé sụt cân thêm (WHO 2013 mục 9.4.2, 9.4.4; QĐ 3312 Bảng 1). Hẹn tái khám sau khoảng 4 tuần (khoảng thời gian do người viết chọn, QĐ 3312 không nêu)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần, bà nội đưa bé đến. Bà nói bé còn đau nhưng ít hơn trước. Sinh hiệu: nhiệt 36,7 °C, mạch 96 l/p, nhịp thở 21 l/p, SpO₂ 99%. Bé tỉnh, bám tay bà nhưng chịu chơi và cười.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Bảo nằm viện 'để làm cho hết bệnh' khi bé đã đỡ rõ (từ 4–5 xuống 1–2 cơn mỗi tuần, tăng 0,3 kg, không dấu báo động) là không có chỉ định (QĐ 3312, Đau bụng chức năng mục 3.2: xét nghiệm khi có dấu báo động; mục 5: thuyên giảm tự nhiên 30–70%). Bé lại xa mẹ, bà, em; lo âu tăng dễ làm cơn đau quay lại (mục 4.2). Mẹ nghỉ làm, tốn kém, bà tin bé còn bệnh nặng và có thể lại kiêng khem, cân nặng hồi phục chậm thêm.",
+    "chuyen_tuyen": "Chuyển bé Bảo đi nội soi, CT hoặc xét nghiệm 'tìm nguyên nhân' ngay vì bé 'chưa khỏi hẳn' là quá tay khi đau đã giảm rõ và không dấu báo động mới: QĐ 3312 (mục 3.2) coi xét nghiệm xâm nhập cần cân nhắc kỹ, WSES 2020 (khuyến cáo 1.14.2) không CT thường quy. Gia đình tốn công, tiền, bé chịu thủ thuật không cần. Chuyển tuyến chỉ hợp lý khi vi phạm mốc theo dõi (còn đau hoặc cân không tăng sau thêm 4–6 tuần, hoặc có dấu báo động)."
+   },
+   "loi_mo": "Dạ bác sĩ, thằng Bảo bớt đau rồi nhưng chưa hết, tuần rồi nó còn kêu đau hai bận. Bà đưa nó đi coi lại, với hỏi bác sĩ sao chưa hết, có phải thuốc không công hiệu không.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 21,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bốn tuần qua bé còn đau khoảng 1–2 lần mỗi tuần, mỗi cơn 5–10 phút rồi chạy chơi (trước đây 4–5 lần/tuần, 10–20 phút). Bé vẫn đau nhiều nhất buổi sáng đi học. Bà đã cho bé nghỉ 2 buổi vì bé khóc đòi mẹ.",
+     "che_do": "tu_ke",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Diễn tiến đau: giảm tần suất và thời gian, chưa hết"
+    },
+    {
+     "id": "canh_bao_am2",
+     "noi_dung": "Không sốt, không nôn, không ỉa lỏng, không ỉa máu hay phân đen, không đau hố chậu phải, không khóc đêm. Bé ăn khá hơn, ăn hết gần một chén cháo hoặc cơm mềm, uống sữa lại. Cân ở trường tuần trước 16,1 kg.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Dấu báo động âm tính, cân nặng tăng 0,3 kg (QĐ 3312 Bảng 1)"
+    },
+    {
+     "id": "lam_theo_dan",
+     "noi_dung": "Bà đã ngưng cho nguyên viên paracetamol, cho bé lại gần em, ăn chung chén đũa, bé vui hơn. Hai lần bé đau nhiều bà cho nửa viên 250 mg (khoảng 15 mg/kg), bé đỡ sau chừng 1 giờ. Mẹ biết chuyện, giờ tối nào cũng ru bé ngủ và cho bé phụ đưa bình sữa cho em.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Tuân thủ dặn dò, tính mg/kg của thuốc giảm đau"
+    },
+    {
+     "id": "thuc_hien_chua_deu",
+     "noi_dung": "Bà còn thương cháu nên 2 buổi sáng bé khóc, bà cho nghỉ học. Mẹ vẫn chưa sắp xếp được nghỉ nửa ngày để ở nhà buổi sáng. Cô giáo báo bé hay đòi mẹ lúc đầu giờ rồi chơi bình thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi bé có đi học đều không, buổi sáng bé thế nào, mẹ có sắp xếp được thời gian cho bé không, cô giáo nói gì.",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "y": "Lý do khỏi chậm: thực hiện chưa đều (nghỉ học khi bé khóc, mẹ chưa có thời gian)"
+    },
+    {
+     "id": "cau_hoi_ba",
+     "noi_dung": "Bà hỏi sao cháu chưa hết hẳn, có nên đưa lên bệnh viện lớn chụp chiếu cho chắc không. Bà nghe hàng xóm nói trẻ đau bụng lâu ngày nên 'nội soi'. Bà cũng hỏi cháu bế em được chưa, vì mấy hôm nay cháu thích bế em.",
+     "che_do": "khi_hoi",
+     "nguoi_noi": "nguoi_nha",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Câu hỏi thật của bà: khỏi chậm có phải thất bại điều trị, có cần làm thêm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, niêm mạc ẩm. Bé cười khi chơi.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 16,1 kg (tăng 0,3 kg so với lượt 1, chưa về mức 16,4 kg của tháng 5), cao 101,5 cm.",
+     "k": 1,
+     "hien": "Cân 16,1 kg."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn quanh rốn và hố chậu phải không đau, không khối, gan lách không to. Bé cười khi ấn.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn không đau."
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Thở 21 l/p, không co lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 21 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,6 G/L · Hb 125 g/L · TC 295 G/L",
+     "n": "Không cần: đã xét nghiệm lượt 1 bình thường, bé đỡ, tăng cân, không dấu báo động mới (QĐ 3312, Đau bụng chức năng mục 3.2)."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Không thấy trứng giun, không thấy ký sinh trùng.",
+     "n": "Không cần làm lại: soi phân lượt 1 âm tính, không triệu chứng giun (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1)."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm; không cần chuyển chỉ để siêu âm vì bé đỡ, khám bụng bình thường (QĐ 3312 mục 3.2: siêu âm bất thường dưới 1%)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau bụng chức năng tái diễn đang thuyên giảm một phần sau can thiệp không dùng thuốc (chậm hơn dự kiến, chưa khỏi hẳn), chưa dấu báo động",
+     "ok": 1,
+     "n": "Đau giảm từ 4–5 xuống 1–2 lần/tuần, cơn ngắn hơn, tăng 0,3 kg, khám bụng bình thường. QĐ 3312 (Đau bụng chức năng mục 5): thuyên giảm tự nhiên 30–70% nhưng 25–66% trẻ còn đau hoặc có triệu chứng khác về sau; mục 4.1: mục tiêu đầu tiên là sinh hoạt bình thường, không phải hết đau hoàn toàn. Thời gian bao lâu thì coi là 'chậm bất thường': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thất bại điều trị hoặc bỏ sót bệnh thực thể (viêm ruột, bệnh celiac, viêm ruột thừa mạn)",
+     "n": "Chưa có: đau giảm, tăng cân, không dấu báo động (QĐ 3312 Bảng 1). Thất bại sẽ là đau không giảm hoặc nặng thêm, cân không tăng, xuất hiện dấu báo động. Lý do khỏi chậm có thể giải thích: nghỉ học khi bé khóc, mẹ chưa dành thời gian, bé đang thích nghi với em (QĐ 3312 mục 4.2). Mốc mở lại chẩn đoán ghi trong xử trí."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol dùng kéo dài",
+     "n": "Không: đã ngừng 4 tuần, lượt 1 men gan bình thường, chỉ dùng 2 lần nửa viên 250 mg ≈ 15 mg/kg; bé không vàng da, không đau hạ sườn phải (QĐ 3610/2015, Ngộ độc paracetamol mục 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận bé đang đáp ứng một phần: đau giảm rõ về số cơn và thời gian, tăng cân, không dấu báo động; tiếp tục kế hoạch không dùng thuốc, chưa cần xét nghiệm hay chuyển tuyến",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 3.2: chỉ xét nghiệm khi có dấu báo động; mục 5: thuyên giảm tự nhiên 30–70%, 25–66% còn đau). Phân biệt hồi phục chậm bình thường với thất bại điều trị: đau đang giảm, cân đang lên là hồi phục chậm."
+    },
+    {
+     "t": "Giữ và củng cố kế hoạch: bé đi học đều (kể cả khi khóc nhẹ đầu giờ, nhờ cô đón vào lớp), mẹ sắp xếp thời gian buổi sáng và buổi tối với bé, bà an ủi ngắn rồi cho chơi",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1: đi học đều; mục 4.2: thái độ gia đình vừa đủ, bé không được quan tâm thì hành vi đau tăng). ESPGHAN/NASPGHAN 2025 (Best practice statement 1): giáo dục lặp lại về yếu tố khơi cơn. Hai buổi nghỉ học là lý do khỏi chậm."
+    },
+    {
+     "t": "Trả lời bà: chưa cần chụp chiếu hay nội soi vì bé đang đỡ; cho bé bế em, chơi với em bình thường; nêu mốc sẽ chuyển tuyến",
+     "v": "c",
+     "n": "QĐ 3312 (mục 3.2): xét nghiệm xâm nhập cần cân nhắc kỹ, siêu âm bất thường dưới 1%; WSES 2020 (khuyến cáo 1.14.2): không CT thường quy. Giải thích mốc chuyển tuyến là việc làm chủ động."
+    },
+    {
+     "t": "Hẹn tái khám sau 4–6 tuần với nhật ký đau và sổ cân; nếu vẫn đau ≥ 1 lần/tuần, cân không tăng hoặc giảm lại, hoặc có dấu báo động thì chuyển tuyến nhi để đánh giá và cân nhắc liệu pháp tâm lý",
+     "v": "c",
+     "n": "QĐ 3312 (mục 4.5: nếu điều trị ban đầu đã áp dụng mà triệu chứng kéo dài hoặc tái diễn, bậc tiếp theo là điều trị tâm bệnh; Bảng 1: dấu báo động). ESPGHAN/NASPGHAN 2025: liệu pháp thôi miên và nhận thức hành vi 'khuyến cáo mạnh' (nghiên cứu ở trẻ 5–18 tuổi; áp dụng cho trẻ 4 tuổi: không có trong tài liệu đã tải). Khoảng 4–6 tuần do người viết chọn."
+    },
+    {
+     "t": "Không dùng paracetamol hằng ngày; khi bé đau nhiều thì cho đúng liều 10–15 mg/kg/lần (160–240 mg, 1/3–1/2 viên 500 mg), cách 4–6 giờ, tối đa 60 mg/kg/24 giờ",
+     "v": "c",
+     "n": "QĐ 3312 (Co giật do sốt mục 4.1: 15 mg/kg/lần, nhắc lại sau 4–6 giờ, không quá 60 mg/kg/24 giờ). ESPGHAN/NASPGHAN 2025 (Best practice statement 4): thuốc giảm đau không kê đơn dùng ngắt quãng, thận trọng khi vượt liều. Nửa viên 250 mg ≈ 15 mg/kg bà đã cho là đúng liều."
+    },
+    {
+     "t": "Dặn lại dấu hiệu quay lại ngay: đau liên tục hơn 4 giờ, đau hố chậu phải, sốt, nôn, ỉa lỏng, ỉa máu, khóc thét co chân, bụng chướng, sụt cân",
+     "v": "c",
+     "n": "WHO 2013 (mục 9.4.1, 9.4.2, 9.4.4); QĐ 3312 (Đau bụng chức năng Bảng 1)."
+    },
+    {
+     "t": "Thuốc: chống co thắt, ức chế H2, men vi sinh (QĐ 3312) hoặc không dùng thuốc (ESPGHAN 2025); hoặc bắt đầu sớm liệu pháp tâm lý nếu có điều kiện",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn: QĐ 3312 (mục 4.3–4.5) và ESPGHAN/NASPGHAN 2025 không nói có hại; bé đang đỡ nên chưa cần thêm. Liều cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nội soi, CT hoặc nhập viện làm loạt xét nghiệm cho bé đang đỡ",
+     "v": "w",
+     "n": "Không dấu báo động, đang đỡ (QĐ 3312 mục 3.2, 5); WSES 2020 (khuyến cáo 1.14.2) không CT thường quy."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau bụng chức năng tái diễn ở bé trai 4 tuổi, đang thuyên giảm một phần sau 4 tuần can thiệp không dùng thuốc: 1–2 cơn/tuần (trước 4–5), cân 16,1 kg (tăng 0,3 kg), không dấu báo động",
+     "Khỏi chậm vì thực hiện chưa đều: nghỉ học khi bé khóc, mẹ chưa dành đủ thời gian buổi sáng; bé còn đang thích nghi với em",
+     "Paracetamol đã ngừng nguyên viên; dùng nửa viên đúng liều khi đau nhiều; men gan lượt 1 bình thường",
+     "Nỗi lo của bà đã được giải: không giun, không lây; còn câu hỏi 'có cần chụp chiếu, nội soi không'"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: đang giảm số cơn, thời gian cơn, tăng cân, không dấu báo động mới thì là hồi phục chậm (QĐ 3312, Đau bụng chức năng mục 4.1, 5, Bảng 1). Thất bại là đau không giảm hoặc nặng thêm, cân không tăng, có dấu báo động. Khoảng thời gian cụ thể để coi là bất thường: không có trong tài liệu đã tải.",
+     "Dấu báo động ở lượt 1 (giảm cân, QĐ 3312 Bảng 1) đã quay lại kiểm: cân tăng 0,3 kg sau khi bỏ kiêng, tức sụt cân do ăn ít chứ không do bệnh thực thể. Đây là kết quả của diagnostic timeout 4 tuần.",
+     "Vì sao chậm: nghỉ học 2 buổi, mẹ chưa dành thời gian buổi sáng, thay đổi trong gia đình (em mới) còn đó; hành vi đau tăng khi trẻ thấy không được quan tâm (QĐ 3312 mục 4.2). Thuyên giảm tự nhiên 30–70% và 25–66% còn đau về sau (mục 5) nên cần dặn lâu dài.",
+     "Không cần xét nghiệm lại: công thức máu, soi phân đã bình thường, bé đỡ (QĐ 3312 mục 3.2). Men gan chỉ nhắc nếu còn lo paracetamol; ngưỡng nguy cơ ở trẻ dưới 6 tuổi ≥ 100 mg/kg trong 72 giờ, bé thấp xa (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục không dùng thuốc: giáo dục, đi học đều, thái độ gia đình vừa đủ, thời gian riêng cho bé (QĐ 3312 mục 4.1–4.2; ESPGHAN/NASPGHAN 2025 Best practice statement 1).",
+     "Mốc chuyển tuyến nói rõ với bà: vẫn đau ≥ 1 lần/tuần thêm 4–6 tuần, cân không tăng hoặc giảm, hoặc có dấu báo động → chuyển tuyến nhi, cân nhắc liệu pháp tâm lý (QĐ 3312 mục 4.5; ESPGHAN 2025: thôi miên, nhận thức hành vi; áp dụng cho trẻ 4 tuổi không có trong tài liệu). Đây là tiêu chuẩn chuyển tuyến do người viết chọn; không có số tuần trong tài liệu.",
+     "Không CT, nội soi, phẫu thuật (WSES 2020 khuyến cáo 1.14.2; ESPGHAN 2025 Best practice statement 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không có",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Bé đang đỡ không dùng thuốc (QĐ 3312, Đau bụng chức năng mục 4.1–4.2, 5; ESPGHAN/NASPGHAN 2025). Thuốc giảm nhẹ triệu chứng: liều cho trẻ 4 tuổi không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (nếu bé đau nhiều hoặc sốt do bệnh khác), giữ nguyên cách bà đang làm đúng",
+      "ham_luong": "500 mg/viên (cho 1/3–1/2 viên)",
+      "lieu": "10–15 mg/kg/lần = 160–240 mg; tối đa 60 mg/kg/24 giờ ≈ 966 mg (16,1 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi cần, cách nhau ít nhất 4–6 giờ",
+      "so_ngay": "Không dùng hằng ngày",
+      "ghi_chu": "QĐ 3312 (Co giật do sốt mục 4.1); ESPGHAN/NASPGHAN 2025 (Best practice statement 4). Không cần thêm thuốc nào khác."
+     }
+    ],
+    "dan_do": [
+     "Bé đang đỡ đúng hướng (còn 1–2 cơn ngắn mỗi tuần, tăng cân); khỏi hẳn có thể cần thêm vài tuần; thuyên giảm tự nhiên là phổ biến nhưng một số trẻ còn đau về sau (QĐ 3312 mục 5).",
+     "Cho bé đi học đều, kể cả khi khóc đầu giờ; nhờ cô đón vào lớp. Mẹ cố gắng ở nhà buổi sáng vài hôm hoặc đưa bé đến lớp; mỗi tối dành ít phút riêng cho bé (QĐ 3312 mục 4.1–4.2).",
+     "Cho bé bế và chơi với em như bình thường; rửa tay trước khi bế em.",
+     "Không dùng paracetamol hằng ngày; khi cần: 1/3–1/2 viên 500 mg, cách ít nhất 4–6 giờ, không quá 966 mg mỗi 24 giờ (QĐ 3312, Co giật do sốt mục 4.1).",
+     "Chưa cần chụp chiếu hay nội soi. Quay lại sớm nếu: đau ≥ 1 lần/tuần kéo dài thêm 4–6 tuần, cân không tăng hoặc giảm lại, hoặc đau liên tục hơn 4 giờ, đau hố chậu phải, sốt, nôn, ỉa lỏng, ỉa máu, khóc thét co chân, bụng chướng (WHO 2013 mục 9.4.1, 9.4.2, 9.4.4; QĐ 3312 Bảng 1).",
+     "Hẹn tái khám sau 4–6 tuần (khoảng thời gian do người viết chọn, QĐ 3312 không nêu), mang sổ cân và nhật ký đau."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau lượt 1, bà ngừng cho nguyên viên paracetamol, bỏ cách ly bé khỏi em, cho bé ăn bình thường; mẹ báo bà thấy bé tủi nên ru bé ngủ mỗi tối. Lượt 2 sau 4 tuần: còn 1–2 cơn ngắn mỗi tuần, tăng 0,3 kg, không dấu báo động; tiếp tục không dùng thuốc, hẹn lại 4–6 tuần. Bé còn đau thưa thêm khoảng 5 tuần rồi hết, cân về 16,5 kg sau 3 tháng, chậm hơn bà mong ('khỏi sau vài hôm'). Không cần thuốc hay xét nghiệm thêm. Kết cục: khỏi, chậm hơn dự kiến.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bà nói bé đau 'bên phải, dưới bụng' (đoán), bé chỉ quanh rốn khi được hỏi thẳng. Tách bé ra hỏi riêng, kiểm chứng bằng khám.",
+  "Paracetamol nguyên viên 500 mg (≈ 32 mg/kg/lần), 1 lần/ngày, khoảng 6 tuần: vượt liều mỗi lần nhưng dưới ngưỡng độc theo ngày; bà chỉ kể khi được hỏi thuốc. Phải tính mg/kg và dặn lại.",
+  "Lý do thật: bà sợ bệnh lây sang em 5 tháng, đã cách ly bé 2 tuần, làm bé tủi và đau thêm. Chỉ kể khi được hỏi nỗi lo; trả lời bằng soi phân và giải thích.",
+  "Dấu báo động giảm cân nhẹ có nguyên nhân giải thích được (ăn ít, bà kiêng): đủ xét nghiệm cơ bản, không đủ để chuyển tuyến ngay; mốc cân sau 4 tuần là diagnostic timeout.",
+  "Không có X-quang, siêu âm, CT, nội soi: không cần cho ca này; nếu nghi viêm ruột thừa thì chuyển nơi có siêu âm (WSES 2025 khuyến cáo 3.2)."
+ ],
+ "bai_hoc_bien": [
+  "Gặp dấu báo động (giảm cân) không phải lúc nào cũng chuyển tuyến: tìm nguyên nhân giải thích được, làm xét nghiệm định hướng, đặt mốc theo dõi (QĐ 3312, Đau bụng chức năng mục 3.1–3.2, Bảng 1).",
+  "Khi người nhà trả lời thay, hỏi riêng bé những gì chỉ bé biết (chỗ đau) và kiểm chứng lời kể bằng khám.",
+  "Hỏi thuốc đã cho uống và tính mg/kg: liều mỗi lần cao nhưng tổng ngày dưới ngưỡng độc thì hướng dẫn lại liều (QĐ 3312 Co giật do sốt mục 4.1; QĐ 3610/2015 Ngộ độc paracetamol).",
+  "Hỏi 'bà đang lo điều gì' để tìm nỗi sợ lây cho em; xóa cách ly vì cách ly làm tăng hành vi đau (QĐ 3312 mục 4.2).",
+  "Lượt tái khám đỡ một phần: phân biệt hồi phục chậm (số cơn giảm, tăng cân) với thất bại điều trị; nêu mốc chuyển tuyến rõ ràng thay vì làm thêm xét nghiệm."
+ ],
+ "diem_nho": [
+  "Đau bụng mạn ở trẻ 1–19%, chỉ khoảng 8% có nguyên nhân thực thể (QĐ 3312, Đau bụng chức năng mục 1).",
+  "Dấu báo động (QĐ 3312 Bảng 1): giảm cân hoặc chậm phát triển, nôn, ỉa lỏng, xuất huyết tiêu hóa, sốt chưa rõ nguyên nhân, phát ban/viêm khớp/tiền sử viêm ruột; khám: đau khu trú ¼ trên hoặc dưới bên phải, đau toàn bụng hoặc có khối, gan lách to, loét miệng, nứt hoặc dò quanh hậu môn.",
+  "Rome III (QĐ 3312 Bảng 2): đau bụng chức năng ở trẻ em ≥ 1 lần/tuần và ≥ 2 tháng. Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải.",
+  "Paracetamol: 10–15 mg/kg/lần (15 mg/kg/lần, nhắc lại sau 4–6 giờ), không quá 60 mg/kg/24 giờ (QĐ 3312, Co giật do sốt mục 4.1); trẻ dưới 6 tuổi nguy cơ khi ≥ 100 mg/kg trong 72 giờ (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt mục 3).",
+  "Đau bụng kéo dài > 4 giờ là cấp cứu tiềm tàng; đau quanh rốn không đặc hiệu (WHO 2013 mục 9.4.1). Viêm ruột thừa ở trẻ: siêu âm trước (WSES 2025 khuyến cáo 3.2)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Đau bụng chức năng (mục 1–5, Bảng 1, Bảng 2, tr. 344–347); Nhiễm ký sinh trùng đường ruột ở trẻ em (mục 1–3.1, tr. 335–338); Co giật do sốt mục 4.1 (paracetamol); Thiếu máu thiếu sắt mục 1",
+  "QĐ 3610 – Bộ Y tế, QĐ 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc (kho tltk-10000-ca, 00 Dùng chung/BYT) – ĐÃ ĐỌC: Ngộ độc paracetamol (mục 1–3, Các trường hợp đặc biệt mục 3, tr. 20–26)",
+  "WHO 2013 – Pocket book of hospital care for children, 2nd edition – TL-0250 – ĐÃ ĐỌC: mục 9.4.1 Abdominal pain (tr. 281), 9.4.2 Appendicitis (tr. 282), 9.4.4 Intussusception (tr. 284)",
+  "ESPGHAN/NASPGHAN 2025 – Guidelines for treatment of IBS and functional abdominal pain-NOS in children aged 4–18 years. J Pediatr Gastroenterol Nutr. 2025, doi:10.1002/jpn3.70070 (kho tltk-10000-ca, 03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Executive summary, Best practice statements 1, 2, 4, 10; khuyến cáo thôi miên, nhận thức hành vi, probiotic",
+  "WSES 2020 – Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27 – TL-0263 – ĐÃ ĐỌC: khuyến cáo 1.5, 1.6.1, 1.14.1, 1.14.2 (trẻ em)",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: khuyến cáo 3.2 (siêu âm là hình ảnh đầu tiên ở trẻ em)",
+  "WHO 2017 – Guideline: preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – ĐÃ ĐỌC: khuyến cáo cho trẻ mầm non 24–59 tháng (albendazole 400 mg hoặc mebendazole 500 mg liều đơn)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: tiêu chuẩn Rome IV và Rome V cho đau bụng chức năng ở trẻ; liều thuốc chống co thắt/ức chế H2/men vi sinh cho trẻ 4 tuổi; tỷ lệ nhiễm giun tại địa phương; ngưỡng sụt cân buộc chuyển tuyến; khoảng thời gian tái khám cho đau bụng chức năng và số tuần coi là hồi phục chậm bất thường; hiệu quả liệu pháp thôi miên/nhận thức hành vi ở trẻ dưới 5 tuổi; thời lượng dành riêng cho bé mỗi ngày."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (08/11/2026): viết theo đặc tả sổ cái NH-1112 (2 lượt, đỡ một phần khi tái khám, thân nhân trả lời thay, chỉ có xét nghiệm cơ bản, có cờ đỏ, khỏi chậm).",
+  "Tài liệu đã đọc: TL-0037 (QĐ 3312, Đau bụng chức năng tr. 344–347; Nhiễm KST tr. 335–338; Co giật do sốt mục 4.1), QĐ 3610/2015 (kho cũ, Ngộ độc paracetamol), TL-0250 (WHO 2013 mục 9.4.1–9.4.4), ESPGHAN/NASPGHAN 2025 (kho cũ), TL-0263 (WSES 2020), TL-0053 (WSES 2025), TL-0248 (WHO 2017).",
+  "Biến 'yếu tố khởi phát = sau quan hệ tình dục' không áp dụng được cho trẻ 4 tuổi: ca thay bằng em gái chào đời, mẹ đi làm lại; ghi rõ trong so_cai. Cờ đỏ (co_co_do = Có): sụt cân 0,6 kg giải thích được và xét nghiệm cơ bản bình thường.",
+  "Tim, phổi: tệp bình thường (mạch 98 và 96 l/p dưới 100). Không có ảnh da. Không đề xuất mục danh mục mới. Mâu thuẫn: theo các mục NH-1114 (thuốc, xét nghiệm, Rome III), mục paracetamol 60 mg/kg/24 giờ (sổ mâu thuẫn, phần ghi nhận); không có mâu thuẫn mới."
+ ]
+}
