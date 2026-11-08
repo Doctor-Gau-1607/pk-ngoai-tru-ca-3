@@ -1,0 +1,704 @@
+{
+ "ma_ca": "NH-0318",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh 24 ngày tuổi)",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi (bố bé cảm, sổ mũi, ho 5 ngày, ngủ chung phòng; bé sổ mũi sau đó 2 ngày)",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua (mẹ cho uống 4 ngày vì nghĩ bé ọc sữa, bú ít là rối loạn tiêu hóa)",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước (hôm qua phòng khám khác chỉ nghe phổi, kết luận cảm siêu vi, không soi tai, không cân bé)",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Trần Minh Khôi",
+  "tuoi": 0.07,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi (sơ sinh)",
+  "can_nang": 3.9,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai 24 ngày tuổi (lượt 1), chỉ khóc, ngủ, bú. Mẹ (chị Ngọc, 26 tuổi, con đầu lòng) kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em', gọi bé là 'con' hoặc 'bé Khôi'. Bà ngoại (bà Lan, 55 tuổi) lên chăm cữ, ngồi cạnh, hay chen vào: bác sĩ gọi 'bà', bà xưng 'bà' hoặc 'tôi', gọi bé là 'thằng cháu'.",
+  "tinh_cach": "Mẹ lo lắng, hay đọc diễn đàn mẹ và bé, nói nhanh, ngại làm phiền bác sĩ nhưng không giấu khi được hỏi nhẹ nhàng. Bà ngoại quyết đoán, tin 'bú ít thì phải truyền nước cho có sức', từng thấy cháu họ bú kém được truyền nước 'khỏe liền'; bà sợ nhất là 'chích sống lưng' và 'nằm viện'.",
+  "kieu_nhieu": "Đòi truyền dịch: bà ngoại và mẹ liên tục yêu cầu 'truyền nước cho bé có sức bú', lần đầu vì bé bú ít, lần hai đòi truyền nước ngay tại phòng khám trước khi đi đâu. Bác sĩ phải giải thích bằng dấu hiệu cụ thể của chính bé (bú được hay không, số tã ướt, sốt, thóp), không chỉ nói 'không cần'.",
+  "nguoi_nha": "Mẹ và bà ngoại",
+  "ten_nguoi_nha": "Chị Ngọc (mẹ) và bà Lan (bà ngoại)",
+  "ngoai_hinh": {
+   "da": "#f1cba7",
+   "toc": "#1f1612",
+   "kieuToc": "tre",
+   "ao": "#cfe3f1",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#d9a77c",
+    "toc": "#3a2a22",
+    "kieuToc": "bui",
+    "ao": "#a8556d",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sổ mũi, ngạt mũi, bú ít",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết mao mạch, sinh hóa nền, nước tiểu); không có X-quang, siêu âm, CT, nội soi, không cấy máu, không procalcitonin, không chọc dò tủy sống, không nhĩ lượng đồ, không giường nội trú sơ sinh. Bệnh viện huyện có khoa Nhi cách 15 km (khoảng 30 phút xe)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh thứ 3 (bé 24 ngày tuổi)",
+   "tiep_don": "Bé trai 24 ngày tuổi, mẹ bế đến lúc 9 giờ sáng, bà ngoại đi cùng. Mẹ kể bé sổ mũi, ngạt mũi 3 ngày, bú ít hơn; hôm qua đã khám ở phòng khám khác. Cân 3,9 kg. Sinh hiệu lúc tiếp đón: mạch 148 l/p, nhiệt độ nách 37,4 °C, nhịp thở 46 l/p, SpO₂ 98%. Bé tỉnh, khóc to.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khôi không sốt, tỉnh, bú được, tiểu 6–7 tã, thở 46 l/p, thóp phẳng, tăng 700 g sau 24 ngày: chưa có dấu hiệu bệnh nặng nào của trẻ 0–2 tháng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6), nên nhập viện hôm nay là quá tay. Hai mẹ con phải xa nhà và xa bố, mẹ đang cho bú mẹ hoàn toàn và bà ngoại càng tin bé 'bệnh nặng'. Phòng khám tư nhân cũng không có giường nội trú sơ sinh.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện chỉ vì ngạt mũi và bú ít: bé có nhóm nguy cơ thấp (NICE NG143 mục 1.2.7) và có thể chăm sóc tại nhà (mục 1.4.5). Mẹ phải ôm bé đi xe 30 phút giữa cơn gió lạnh, bị lấy máu thêm, tốn kém, mà không đổi gì về điều trị ngoài hút mũi và nước muối (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1, tr. 83). Điều cần là hẹn tái khám sớm và dặn dấu hiệu."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng cháu sổ mũi ba ngày rồi, bú ít lắm. Hôm qua khám chỗ khác người ta bảo cảm thôi, mà bà thấy cháu yếu quá. Bác sĩ truyền nước cho cháu có sức bú đi.",
+   "sinh_hieu": {
+    "mach": 148,
+    "ha": "Không đo",
+    "nhiet": "37,4 (nách)",
+    "nhip_tho": 46,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé sổ mũi, ngạt mũi 3 ngày, khò khè mũi khi bú, bú ít hơn mọi hôm, đêm quấy. Hôm qua mẹ đưa bé đi phòng khám khác, được nhỏ nước muối rồi về; hôm nay mẹ thấy bé vẫn bú ít nên đưa đến lại. Bà ngoại muốn truyền nước cho bé có sức bú.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, yêu cầu truyền nước"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bố bé cảm, sổ mũi, ho 5 ngày nay, ngủ chung phòng với mẹ con; bé bắt đầu sổ mũi sau đó 2 ngày. Không ai trong nhà sốt cao, không có ai đi vùng dịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người ốm (khởi phát sau nhiễm siêu vi)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Mẹ đo nách bằng nhiệt kế điện tử sáng và tối: 36,9–37,4 °C từ hôm qua tới nay, không lần nào từ 38 °C. Chưa cho thuốc hạ sốt. Bé không lạnh, không hạ thân nhiệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, cách đo nhiệt độ ở sơ sinh (NICE NG143 mục 1.1.2, 1.2.12)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn. Trước đây 10–11 cữ/ngày, 3 ngày nay còn 8–9 cữ; mỗi cữ ngắn hơn vì bé bỏ vú thở bằng miệng rồi bú lại, cuối cữ vẫn no, ngủ được 2 giờ. Không nôn, ọc sữa ít như mọi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú: bỏ bú hay bú kém (QĐ 2341 mục 2.2.2)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tiểu 6–7 tã ướt/ngày, nước tiểu vàng nhạt. Phân vàng sệt 2–3 lần/ngày. Không tiêu chảy. Mẹ tự cân hôm nay ở nhà: bé 3,9 kg (lúc sinh 3,2 kg).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiểu, phân, cân nặng (mất nước, tăng cân)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé tỉnh, khóc to, đòi bú khi đói, không li bì, không co giật, không thở nhanh, không rút lõm ngực, không tím, không vàng da, rốn khô rụng ngày thứ 8.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu bệnh nặng ở trẻ dưới 2 tháng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không chảy dịch hay mủ ở tai, không sưng đỏ sau tai. Mẹ không để ý bé kéo tai (bé chưa tự đưa tay lên tai được).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Mẹ tự mua men tiêu hóa dạng siro, cho uống 2,5 mL × 2 lần/ngày được 4 ngày vì nghĩ bé ngạt mũi, bú ít là 'rối loạn tiêu hóa'. Không cho kháng sinh, thuốc hạ sốt, thuốc nhỏ mũi có hoạt chất, thuốc ho hay thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ nói thật: hôm qua bác sĩ chỉ nghe phổi rồi cho về, không soi tai, không cân bé, nói 'cảm siêu vi, không cần làm gì'. Mẹ thấy bé khác ngày thường (quấy khi đặt nằm xuống) nên không yên tâm, đưa đi khám lại và nhờ bà ngoại đi cùng vì bà nói 'phải truyền nước cho chắc'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám lại",
+     "dieu_kien_lo": "Mẹ chỉ kể khi bác sĩ hỏi lần khám trước đã làm gì, hoặc hỏi chị còn điều gì lo, không trách móc."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, khóc to dỗ nín trong vài giây, cử động tự nhiên bốn chi, môi hồng, mao mạch hồi sắc 2 giây, tay chân ấm, niêm mạc ẩm, không vàng da. Cân 3,9 kg (sinh 3,2 kg), tăng 700 g sau 24 ngày.",
+     "k": 1,
+     "hien": "Tỉnh, khóc to, môi hồng, da hồng không vàng. Nách 37,4 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, đập theo mạch, kích thước khoảng 2 × 2 cm. Vòng đầu bình thường. Sau tai hai bên không sưng, không đỏ, vành tai không đẩy ra trước. Hạch cổ không sờ thấy.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc phù, dịch trong loãng hai lỗ mũi, sau hút mũi bé thở êm hơn. Họng hơi đỏ, không giả mạc. Tai: ống tai hẹp, soi được cả hai bên; màng nhĩ hai bên xám hồng, còn thấy cán búa và mốc sáng, không phồng, không đục toàn bộ, không chảy dịch. Chưa đủ tiêu chuẩn viêm tai giữa cấp (màng nhĩ không phồng; AAP 2013 KAS 1A–1C). Không có nhĩ lượng đồ để đánh giá thêm.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 148 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 148 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 46 l/p, đều, không co lõm lồng ngực, không rên, không phập phồng cánh mũi. Phổi thông khí đều hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 46 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Bé tỉnh, trương lực cơ bình thường, phản xạ bú và nắm tốt, khóc to tiếng bình thường, không co giật, không run, không rên.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không mụn mủ, không vàng da.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Mẹ bế đúng tư thế, bé ngậm bắt vú tốt. Bé bú 8 phút, có tiếng nuốt, phải bỏ vú hai lần để thở rồi bú lại; sau hút mũi bú liền được 10 phút và no. Mẹ thấy có sữa.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,6 G/L · Neutrophil 38% · Lympho 52% · Hb 150 g/L · TC 360 G/L",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 38,
+      "lym_pct": 52,
+      "mono_pct": 8,
+      "eos_pct": 1,
+      "baso_pct": 1,
+      "hgb": 150,
+      "plt": 360
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Không bắt buộc: bé không sốt, tỉnh, bú được; viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2, tr. 134). Làm thì chấp nhận; số bình thường."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "n": "Không bắt buộc (như công thức máu). Ngưỡng bất thường ở sơ sinh 8–60 ngày là 20 mg/L (AAP 2021 Hình 1 chú thích b), bé dưới ngưỡng."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không có triệu chứng tiết niệu, bé không sốt.",
+     "n": "Không chỉ định ở bé không sốt, tiểu tốt; nước tiểu sơ sinh phải lấy bằng thông tiểu khi cần (AAP 2021 KAS 8)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi họng cấp nghĩ do virus ở sơ sinh 24 ngày, không sốt, bú được, chưa có dấu hiệu bệnh nặng",
+     "ok": 1,
+     "n": "Sổ mũi, ngạt mũi, thở miệng khi bú sau tiếp xúc người ốm, màng nhĩ hồng nhạt không phồng, không sốt, tỉnh, bú được, tiểu đủ. Virus thường tự khỏi sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp tính mục 5.1, tr. 136). Không có dấu hiệu bệnh nặng ở trẻ 0–2 tháng (QĐ 2341 mục 2.2.2)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Chưa đủ tiêu chuẩn: màng nhĩ không phồng, chưa sốt, không chảy dịch (AAP 2013 KAS 1A–1C). Biến chứng hay gặp của viêm mũi họng và phải nhớ tới (QĐ 5643 Viêm mũi họng cấp tính mục 5.2, tr. 136). Tiêu chuẩn AAP 2013 áp dụng cho trẻ từ 6 tháng; dưới 6 tháng chẩn đoán khó, dễ nhầm với viêm màng nhĩ và ứ dịch (Italian Consensus 2025). Phải soi tai lại ở lần khám sau."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / nhiễm khuẩn nặng ở sơ sinh",
+     "n": "Ít nghĩ: không sốt, không hạ thân nhiệt, tỉnh, bú được, thở 46 l/p dưới ngưỡng thở nhanh 60 l/p, không co giật (WHO 2013 mục 3.6, tr. 52; QĐ 2341 mục 2.2.2). Nhưng triệu chứng ở sơ sinh kín đáo nên ngưỡng nhập viện thấp: dặn và hẹn lại sớm."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Ít nghĩ: không sốt, thóp phẳng, không li bì, không co giật, khóc bình thường (WHO 2013 mục 3.9, tr. 55). Dấu màng não thường vắng ở trẻ nhỏ (NICE NG143 mục 1.2.20) nên phải dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm xương chũm",
+     "n": "Không nghĩ: sau tai không sưng đỏ, vành tai không đẩy ra trước (QĐ 5643 Viêm xương chũm cấp tính mục 3.1.1, tr. 195); chưa có viêm tai giữa."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích đây là viêm mũi họng do virus, thường lui sau 3–5 ngày",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi họng cấp tính mục 5.1 (tr. 136): virus tự khỏi sau 3–5 ngày. Xem sổ mâu thuẫn: mục 4.1 (tr. 135) của bài này kê kháng sinh cho mọi viêm mũi họng, mâu thuẫn bài Viêm V.A cấp mục 4.1 và hướng dẫn quốc tế; ở bé dưới 1 tháng tài liệu đã tải không có liều kháng sinh uống nên kháng sinh uống chấm w. Chọn cách ghi từ NH-0217."
+    },
+    {
+     "t": "Hút mũi và nhỏ nước muối sinh lý trước mỗi cữ bú; để bé nằm đầu cao khi bú",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1 (tr. 83): nước muối sinh lý, rửa mũi, hút mũi để đỡ nghẹt. Số giọt và số lần nhỏ cho sơ sinh: không có trong tài liệu đã tải. Tư thế đầu cao: không có trong tài liệu đã tải, chỉ là lời khuyên thông thường."
+    },
+    {
+     "t": "Tiếp tục bú mẹ hoàn toàn theo nhu cầu, thức dậy bú nếu ngủ quá 3 giờ; quan sát một cữ bú tại chỗ",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.2 (tr. 57): khuyến khích bú thường xuyên; QĐ 2341 mục 2.2.3: kiểm tra nuôi con bằng sữa mẹ gồm đánh giá bữa bú, cân nặng. Ngưỡng 3 giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích vì sao chưa cần truyền dịch: bé bú được, tiểu 6–7 tã, thóp phẳng, niêm mạc ẩm, tăng cân",
+     "v": "c",
+     "n": "NICE NG143 mục 1.2.7 (nhóm nguy cơ thấp: tỉnh, da và mắt bình thường, niêm mạc ẩm), mục 1.4.5 (chăm sóc tại nhà); WHO 2013 mục 3.10.2 (tr. 57): truyền tĩnh mạch ở sơ sinh dễ quá tải dịch, chỉ dùng thận trọng. Truyền dịch cho viêm mũi họng uống được: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng men tiêu hóa tự mua; không dùng thuốc co mạch mũi, kháng histamin, thuốc ho cho bé",
+     "v": "a",
+     "n": "Chỉ định men tiêu hóa cho sơ sinh ngạt mũi: không có trong tài liệu đã tải, nên ngưng để dễ theo dõi. QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1 (tr. 83): thận trọng co mạch mũi và kháng histamin dưới 2 tuổi. Nhỏ mũi co mạch, kháng histamin, thuốc ho ở bé 24 ngày chấm w (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Dạy mẹ đo nhiệt độ nách bằng nhiệt kế điện tử (hoặc hậu môn theo AAP) mỗi khi bé quấy; từ 38 °C hoặc dưới 36 °C, bỏ bú, li bì, thở nhanh, co giật thì đến ngay, không chờ hẹn",
+     "v": "c",
+     "n": "Đo nách bằng nhiệt kế điện tử ở dưới 4 tuần (NICE NG143 mục 1.1.2) hoặc hậu môn từ 38,0 °C (AAP 2021, phần đối tượng); dưới 3 tháng từ 38 °C là nhóm nguy cơ cao (NICE mục 1.2.12); sốt, hạ thân nhiệt, bỏ bú, co giật, thở nhanh là dấu hiệu bệnh nặng 0–2 tháng (QĐ 2341 mục 2.2.2). Ngưỡng hạ thân nhiệt dưới 35,5 °C (WHO 2013 mục 3.6). Sổ mâu thuẫn: nách hay hậu môn."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày (sớm hơn nếu bú kém đi), soi lại tai lần sau",
+     "v": "c",
+     "n": "Khám lại sau 2 ngày theo mẫu bảng kiểm xử trí nhiễm khuẩn tại chỗ trẻ 0–2 tháng (QĐ 2341 Bảng kiểm 3, tr. 16). Lịch tái khám viêm mũi họng sơ sinh: không có trong tài liệu đã tải; chọn 2 ngày vì ngưỡng nhập viện thấp ở sơ sinh. Soi lại tai: AAP 2013 KAS 1A–1C."
+    },
+    {
+     "t": "Hỏi riêng mẹ chuyện lần khám trước, công nhận mẹ đưa bé đi khám lại là đúng; giải thích những gì hôm nay đã khám thêm (cân, soi tai, quan sát cữ bú)",
+     "v": "c",
+     "n": "Mẹ không yên tâm là lý do thật đến khám. Giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin) cho bé 24 ngày vì ngạt mũi bú ít",
+     "v": "w",
+     "n": "Không có chỉ định: không sốt, màng nhĩ không phồng; liều amoxicillin dưới 1 tháng tuổi không có trong tài liệu đã tải (NICE NG91 chỉ có liều từ 1 tháng); bé dưới 6 tháng khi có viêm tai giữa mới cần kháng sinh ngay (Italian Consensus 2025, khuyến cáo 1.1)."
+    },
+    {
+     "t": "Truyền dịch tại phòng khám theo ý bà ngoại",
+     "v": "w",
+     "n": "Bé bú được, tiểu đủ, không mất nước: không chỉ định. WHO 2013 mục 3.10.2 (tr. 57): truyền tĩnh mạch cho sơ sinh dễ quá tải dịch, không quá 100 mL/kg/ngày nếu không mất nước."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi họng cấp nghĩ do virus, sơ sinh 24 ngày, ngày bệnh thứ 3, sau tiếp xúc bố bị cảm",
+     "Chưa có viêm tai giữa cấp (màng nhĩ không phồng), chưa có dấu hiệu bệnh nặng, không mất nước",
+     "Bú giảm nhẹ do ngạt mũi, tăng cân tốt (3,9 kg từ 3,2 kg)",
+     "Đang dùng men tiêu hóa tự mua, không có chỉ định trong tài liệu đã tải",
+     "Mẹ không yên tâm sau lần khám trước, bà ngoại đòi truyền dịch"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ở sơ sinh, bệnh sử hoàn toàn qua người nuôi nên phải hỏi từng dấu hiệu bệnh nặng: bỏ bú hoặc bú kém, co giật, thở nhanh, rút lõm ngực, sốt hoặc hạ thân nhiệt, li bì (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6, tr. 52). Bé không có dấu hiệu nào; mẹ đo nách 36,9–37,4 °C, dưới ngưỡng 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12). Bú giảm 8–9 cữ nhưng no, tiểu 6–7 tã. Hỏi thêm thuốc tự mua (men tiêu hóa), người ốm trong nhà (bố cảm) và lý do thật đến lại (lần khám trước không soi tai, không cân).",
+     "Khám: bé tỉnh, cân 3,9 kg (tăng 700 g), thóp phẳng, mao mạch 2 giây, niêm mạc ẩm: nhóm nguy cơ thấp, không mất nước (NICE NG143 mục 1.2.7, 1.2.16). Thở 46 l/p dưới ngưỡng thở nhanh 60 l/p của sơ sinh (WHO 2013 mục 3.6), phổi không ran. Họng hơi đỏ, mũi dịch trong. Màng nhĩ hai bên xám hồng, còn mốc sáng, không phồng: chưa đủ tiêu chuẩn viêm tai giữa cấp (AAP 2013 KAS 1A–1C; QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 210–211). Sau tai không sưng, không đẩy vành tai: không nghĩ viêm xương chũm (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195). Quan sát cữ bú: ngậm bắt vú tốt, bú được 10 phút sau hút mũi, nghĩa là bú ít do ngạt mũi (QĐ 2341 mục 2.2.3).",
+     "Cận lâm sàng: không bắt buộc vì không sốt và không dấu hiệu bệnh nặng (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2, tr. 134). Cơ sở chỉ có xét nghiệm cơ bản (công thức máu, CRP, nước tiểu, đường huyết mao mạch); không cấy máu, không chọc dò tủy, không X-quang, siêu âm. Làm công thức máu, CRP chấp nhận; kết quả bình thường (CRP dưới ngưỡng 20 mg/L, AAP 2021 Hình 1 chú thích b).",
+     "Chẩn đoán: viêm mũi họng cấp do virus, chưa biến chứng. Điều phải nhớ cho lần sau: viêm tai giữa cấp là biến chứng gần của viêm mũi họng (QĐ 5643 Viêm mũi họng cấp tính mục 5.2, tr. 136), vòi nhĩ ở trẻ nhỏ dễ bị viêm lan lên tai giữa (QĐ 5643 Viêm tai giữa cấp mục 2, tr. 210); sơ sinh có thể chưa đau tai rõ. Bẫy ở lượt này là kết luận 'cảm siêu vi' rồi đóng hồ sơ: phải hẹn lại sớm và dặn dấu hiệu, tai phải soi lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn lại sau 2 ngày. Bé không có dấu hiệu bệnh nặng, bú được, tiểu đủ, nhà gần, mẹ biết đo nhiệt độ: chăm sóc tại nhà (NICE NG143 mục 1.4.5; QĐ 2341 Bảng kiểm 3). Nhập viện hay chuyển tuyến hôm nay là quá tay.",
+     "Không kháng sinh: virus 3–5 ngày tự khỏi (QĐ 5643 Viêm mũi họng cấp tính mục 5.1); QĐ 5643 mục 4.1 của cùng bài kê kháng sinh cho mọi viêm mũi họng nhưng ở bé dưới 1 tháng không có liều trong tài liệu đã tải (sổ mâu thuẫn). Chăm sóc mũi: hút mũi, nước muối sinh lý (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1, tr. 83). Không hạ sốt vì bé không sốt.",
+     "Không truyền dịch: giải thích bằng chính dấu hiệu của bé (bú được, 6–7 tã, thóp phẳng, tăng 700 g) thay vì chỉ từ chối; truyền tĩnh mạch ở sơ sinh dễ quá tải dịch (WHO 2013 mục 3.10.2, tr. 57). Dặn đo nhiệt độ và tiêu chí quay lại ngay. Ngưng men tiêu hóa (không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ mũi",
+      "ham_luong": "0,9%, lọ nhỏ giọt hoặc ống đơn liều",
+      "lieu": "1–2 giọt mỗi bên mũi, sau đó hút mũi nhẹ bằng bóng hút (số giọt chọn cho bé 24 ngày; không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và trước khi ngủ, khoảng 4–6 lần/ngày khi ngạt mũi",
+      "so_ngay": "Đến khi hết ngạt mũi, thường 3–5 ngày",
+      "ghi_chu": "QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1 (tr. 83): nước muối sinh lý, hút mũi; virus 3–5 ngày (Viêm mũi họng cấp tính mục 5.1, tr. 136). Số lần và số giọt cho sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Sữa mẹ",
+      "ham_luong": "Sữa mẹ",
+      "lieu": "Bú theo nhu cầu, 8–12 cữ/ngày",
+      "duong": "Bú trực tiếp",
+      "thoi_diem": "Mỗi khi bé đòi, đánh thức nếu ngủ quá lâu",
+      "so_ngay": "Hàng ngày",
+      "ghi_chu": "WHO 2013 mục 3.10.2 (tr. 57): khuyến khích bú thường xuyên. Số cữ chuẩn: không có trong tài liệu đã tải; 8–12 là cách nói thông thường."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm mũi họng do virus bố lây; thường tự khỏi sau 3–5 ngày (QĐ 5643 mục 5.1, tr. 136). Không cần kháng sinh, không cần truyền nước vì bé bú được, tiểu 6–7 tã, thóp phẳng, tăng cân. Nhắc lại bằng chính con số của bé với bà ngoại.",
+     "Nhỏ nước muối và hút mũi trước mỗi cữ bú; bế đầu cao khi bú; ngưng men tiêu hóa đang cho. Bố đeo khẩu trang, rửa tay trước khi bế bé, ngủ phòng khác trong vài ngày.",
+     "Đo nhiệt độ nách bằng nhiệt kế điện tử mỗi khi bé quấy hoặc bú ít. Đưa bé đến ngay, không chờ hẹn, nếu: từ 38 °C hoặc dưới 36 °C; bỏ bú hoặc bú kém hẳn; li bì, khó đánh thức, rên; thở nhanh, rút lõm ngực; co giật; thóp phồng; tím tái; đỏ hoặc sưng sau tai, chảy dịch tai; tiểu dưới 4–5 tã ướt/ngày (NICE NG143 mục 1.2.12; QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6). Ngưỡng số tã: không có trong tài liệu đã tải, chỉ là lời dặn thường dùng.",
+     "Hẹn tái khám sau 2 ngày (QĐ 2341 Bảng kiểm 3) để cân, soi tai và xem bú; nếu mẹ lo lắng trước hẹn, cứ đến, không cần ngại."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · ngày bệnh thứ 5 (bé 26 ngày tuổi), không đỡ",
+   "tiep_don": "Bé trai 26 ngày tuổi, mẹ bế đến lúc 14 giờ, bà ngoại đi cùng. Bà kể hai ngày nay làm đúng lời dặn mà bé không đỡ, chiều qua nóng, bú ít, quấy, ngủ nhiều hơn; bà đòi truyền nước. Cân 3,85 kg. Sinh hiệu lúc tiếp đón: mạch 166 l/p, nhiệt độ nách 38,3 °C, nhịp thở 52 l/p, SpO₂ 97%. Bé nằm yên trong lòng mẹ, khóc yếu khi chạm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Khôi 26 ngày sốt 38,3 °C, bú còn một nửa, mạch 166 l/p, ANC và CRP tăng: nhóm nguy cơ cao (NICE NG143 mục 1.2.12), dấu hiệu bệnh nặng (QĐ 2341 mục 2.2.2). Cho về với kháng sinh uống vì 'chỉ viêm tai' là bỏ sót nhiễm khuẩn huyết hoặc viêm màng não, vốn kín đáo ở sơ sinh (NICE mục 1.2.20); thuốc uống che sốt, trì hoãn cấy máu và chọc dò tủy. Đêm nay bé có thể li bì thêm mà ở nhà không ai nhận ra.",
+    "nhap_vien": "Phòng khám không có giường sơ sinh, không cấy máu, không chọc dò tủy, không người theo dõi từng giờ; giữ bé lại truyền dịch và kháng sinh là mất thời gian quý của bé có dấu hiệu bệnh nặng (WHO 2013 mục 3.6, 3.8). Truyền dịch sơ sinh dễ quá tải khi không tính theo cân nặng (WHO mục 3.10.2). Bà ngoại được an ủi nhưng bé chưa hề được loại trừ viêm màng não.",
+    "theo_doi": "Giữ bé theo dõi vài giờ ở phòng khám là chờ bé xấu đi tại nơi không hồi sức được: sốt, bú kém, mạch nhanh đã đủ chuyển (WHO 2013 mục 3.6, 3.8; QĐ 2341 mục 2.2.2). Theo dõi thêm không làm có thêm cấy máu hay chọc dò tủy."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu làm theo lời bác sĩ hai ngày mà không đỡ, còn nóng lên, bú ít hơn nữa. Bác sĩ truyền nước cho cháu ở đây đi, đi bệnh viện chi cho xa, cháu mệt thế này.",
+   "sinh_hieu": {
+    "mach": 166,
+    "ha": "Không đo",
+    "nhiet": "38,3 (nách)",
+    "nhip_tho": 52,
+    "spo2": 97,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Theo lời dặn bác sĩ lần trước, nhỏ muối, hút mũi, ngưng men tiêu hóa. Chiều hôm qua bé nóng: mẹ đo nách 38,1 °C, sáng nay 38,2 °C bằng nhiệt kế điện tử. Đêm qua bỏ hai cữ, bú ngắn rồi bỏ vú, khóc quấy, ngủ nhiều hơn nhưng gọi vẫn dậy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn biến sau 2 ngày: sốt, bú kém"
+    },
+    {
+     "id": "bu2",
+     "noi_dung": "Còn 5–6 cữ/24 giờ, mỗi cữ 3–5 phút rồi bỏ. Có một lần khóc thét khi đặt nằm nghiêng bên phải bú, đổi sang bên trái thì nín. Bé hay quay đầu sang phải, cọ tai phải vào ngực mẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, quấy khi nằm nghiêng, cọ tai"
+    },
+    {
+     "id": "tieu2",
+     "noi_dung": "Còn 4 tã ướt/24 giờ, nước tiểu vàng sậm. Phân vàng sệt 2 lần. Không nôn vọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiểu, mất nước"
+    },
+    {
+     "id": "nguy_hiem2",
+     "noi_dung": "Không co giật, không rên, không thở khó, không tím, không phát ban. Ngủ nhiều hơn nhưng đánh thức được và khóc được; tiếng khóc yếu hơn hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu bệnh nặng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "thuoc2",
+     "noi_dung": "Chưa cho thuốc hạ sốt, chưa cho kháng sinh hay thuốc nhỏ tai. Đã ngưng men tiêu hóa. Bố bé đã đỡ cảm, vẫn bế bé khi chưa đeo khẩu trang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng, hạ sốt"
+    },
+    {
+     "id": "tai_sau",
+     "noi_dung": "Sau tai không sưng đỏ, không chảy mủ tai; mẹ không thấy vành tai lệch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu lan sau tai"
+    },
+    {
+     "id": "yeu_cau2",
+     "noi_dung": "Bà ngoại nằng nặc: 'Truyền nước ở đây cho cháu có sức rồi hẵng tính, đi bệnh viện xa, cháu mệt thế này sao chịu nổi.' Mẹ nghe bà.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đòi truyền dịch tại chỗ"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Mẹ nghe người quen kể 'bé nhỏ vào viện là bị chích sống lưng, hư thần kinh'; bà ngoại sợ nhất chuyện này nên cứ muốn truyền nước tại phòng khám để khỏi phải đi. Cả hai sợ tốn kém.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nỗi sợ thật khi nghe chuyển viện",
+     "dieu_kien_lo": "Mẹ và bà chỉ nói khi bác sĩ hỏi thẳng chị và bà đang lo điều gì khi nghe chuyển lên bệnh viện."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,85 kg (giảm 50 g so với lượt 1). Bé nằm yên trong lòng mẹ, mở mắt khi gọi, khóc yếu hơn lần trước nhưng dỗ nín được, môi hồng, mao mạch hồi sắc 2 giây, tay chân ấm, niêm mạc hơi khô, không vàng da. Nách 38,3 °C.",
+     "k": 1,
+     "hien": "Cân 3,85 kg. Mở mắt khi gọi, khóc yếu, dỗ nín được. Nách 38,3 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, hơi căng khi khóc, mềm khi bé yên. Sau tai hai bên không sưng, không đỏ, nếp sau tai còn, vành tai không đẩy ra trước, ấn xương chũm bé không rên thêm. Hạch cổ không sờ thấy.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch, màng nhĩ đỏ, phồng ra ngoài, mất mốc sáng và cán búa mờ, chưa chảy mủ. Tai trái: màng nhĩ đục nhẹ, không phồng, còn cán búa. Mũi: dịch đục nhầy ít, họng hơi đỏ, không giả mạc. Màng nhĩ phải phồng đủ tiêu chuẩn viêm tai giữa cấp (AAP 2013 KAS 1A; QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211); không có nhĩ lượng đồ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Bé ngủ nhiều hơn nhưng đánh thức được, trương lực cơ bình thường, phản xạ bú còn nhưng yếu, không co giật, không run, không cứng gáy trên mức khám được ở sơ sinh. Dấu màng não cổ điển thường vắng ở trẻ nhỏ bị viêm màng não mủ (NICE NG143 mục 1.2.20), nên khám thần kinh bình thường không loại trừ viêm màng não.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 166 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 166 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, đều, không co lõm lồng ngực, không rên. Phổi thông khí đều hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to, rốn khô.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không vàng da.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú được nhưng bú 3 phút rồi bỏ, khóc, không bú tiếp khi nằm nghiêng phải; bú tiếp bên trái 4 phút rồi ngủ. Không đủ cữ.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 18,4 G/L (neu 64% = 11,78 G/L, lym 28%) · Hb 148 g/L · TC 372 G/L",
+     "bang": {
+      "wbc": 18.4,
+      "neu_pct": 64,
+      "neu": 11.78,
+      "lym_pct": 28,
+      "lym": 5.15,
+      "mono_pct": 7,
+      "mono": 1.29,
+      "eos_pct": 1,
+      "eos": 0.18,
+      "baso_pct": 0,
+      "baso": 0,
+      "hgb": 148,
+      "plt": 372
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "ANC 11.780/mm³ trên ngưỡng 4000–5200/mm³ (AAP 2021 Hình 1 chú thích b), khác lượt 1 (3,65 G/L): chỉ điểm viêm tăng. Củng cố hướng chuyển, không được làm chậm chuyển."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 38 mg/L",
+     "n": "Trên ngưỡng 20 mg/L (AAP 2021 Hình 1 chú thích b), lượt 1 là 3 mg/L. Có thể do viêm tai giữa nhưng không loại trừ nhiễm khuẩn huyết hoặc viêm màng não."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Mẫu lấy bằng túi dán: bạch cầu âm tính, nitrit âm tính, protein vết.",
+     "n": "Mẫu túi dán dễ nhiễm, không loại trừ nhiễm trùng tiểu; sơ sinh cần nước tiểu lấy bằng thông tiểu, làm ở tuyến trên (AAP 2021 KAS 8; NICE NG143 mục 1.5.3)."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 3,3 mmol/L",
+     "n": "Chưa hạ (ngưỡng điều trị 2,2 mmol/L, WHO 2013 mục 3.6, tr. 53) nhưng bé bú kém, phải cho bú trên đường chuyển (QĐ 2341 mục 2.2.2 và Bảng kiểm 1)."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Cơ sở không cấy máu được.",
+     "n": "Cấy máu làm ở tuyến trên trước kháng sinh khi có thể (NICE NG143 mục 1.5.3, 1.5.5; AAP 2021 KAS 2)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "e",
+     "r": "Cơ sở không chọc dò tủy được.",
+     "n": "Bé dưới 1 tháng có sốt: chọc dò tủy (NICE NG143 mục 1.5.4); bé 22–28 ngày chỉ điểm viêm tăng thì nên chọc (AAP 2021 KAS 11b). Làm ở tuyến trên."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải ở sơ sinh 26 ngày, sốt 38,3 °C, bú kém",
+     "ok": 1,
+     "n": "Màng nhĩ phải phồng, đỏ, mất mốc, kèm sốt, quấy khi nằm nghiêng phải, cọ tai (AAP 2013 KAS 1A; QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Tiêu chuẩn AAP 2013 cho trẻ từ 6 tháng; dưới 6 tháng chẩn đoán khó (Italian Consensus 2025), nhưng ở sơ sinh sốt, viêm tai giữa không loại được nhiễm khuẩn nặng. Mở lại chẩn đoán lượt 1: 'viêm mũi họng' không còn giải thích hết."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng ở sơ sinh (nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu) chưa loại trừ; cần tuyến trên cấy máu, nước tiểu thông tiểu, chọc dò tủy",
+     "ok": 1,
+     "n": "Dưới 1 tháng sốt từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); sốt, bú kém là dấu hiệu bệnh nặng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6). Viêm tai giữa 'nghi có' không loại trừ nhiễm khuẩn huyết: AAP 2021 (phần đối tượng, tr. 9–10) cho bé nghi viêm tai giữa vẫn vào quy trình sốt sơ sinh. ANC 11.780, CRP 38 là chỉ điểm bất thường (AAP 2021 Hình 1)."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Chưa loại trừ được ở cơ sở: thóp phẳng, tỉnh, không co giật nhưng dấu màng não thường vắng ở trẻ nhỏ (NICE NG143 mục 1.2.20; WHO 2013 mục 3.9, tr. 55); chỉ chọc dò tủy xác định. Không chọc được ở cơ sở nên phải chuyển."
+    },
+    {
+     "t": "Viêm xương chũm",
+     "n": "Chưa nghĩ: sau tai không sưng đỏ, vành tai không đẩy ra trước, không phập phều (QĐ 5643 Viêm xương chũm cấp tính mục 3.1.1, tr. 195). Là biến chứng cấp tính quan trọng nhất của viêm tai giữa (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214): phải dặn, tuyến trên theo dõi. X-quang Schuller không có ở cơ sở."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra bé 26 ngày sốt 38,3 °C, bú kém, mạch 166 l/p là nhóm nguy cơ cao, không điều trị viêm tai giữa tại chỗ như trẻ lớn",
+     "v": "c",
+     "n": "NICE NG143 mục 1.2.12 (dưới 3 tháng từ 38 °C nguy cơ cao), Bảng 2 (mạch trên 160 l/p dưới 12 tháng, bú kém là dấu hiệu nguy cơ trung bình); QĐ 2341 mục 2.2.2 và WHO 2013 mục 3.6 (sốt, bú kém: dấu hiệu bệnh nặng, chuyển gấp)."
+    },
+    {
+     "t": "Chuyển ngay đến khoa Nhi bệnh viện huyện (30 phút): gọi xe cấp cứu có nhân viên y tế đi kèm, báo trước, mẹ đi cùng; để cấy máu, nước tiểu thông tiểu, chọc dò tủy, kháng sinh tiêm và theo dõi nội viện",
+     "v": "c",
+     "n": "NICE NG143 mục 1.5.3–1.5.6 (xét nghiệm, chọc dò tủy cho dưới 1 tháng, kháng sinh tiêm); WHO 2013 mục 3.8 (tr. 54): nhập viện, cấy máu, chọc dò tủy khi có thể trước kháng sinh; QĐ 2341 mục 2.2.2 và Bảng kiểm 1 (chuyển gấp, giữ ấm trên đường đi). Cơ sở không có giường sơ sinh, cấy máu, chọc dò tủy."
+    },
+    {
+     "t": "Cho liều kháng sinh tiêm đầu tiên (ampicillin cộng gentamicin) rồi chuyển gấp, hoặc chuyển ngay không tiêm tại chỗ để tuyến trên cấy máu và chọc dò tủy trước kháng sinh",
+     "v": "c",
+     "n": "Cách A: QĐ 2341 Bảng kiểm 1 và WHO 2013 mục 3.6 (tr. 52): ampicillin và gentamicin, liều đầu trước chuyển. Cách B: NICE NG143 mục 1.5.5 và AAP 2021 KAS 2, 4, 5: chọc dò tủy, cấy trước kháng sinh khi có thể. Khác bối cảnh (nơi không cấy được, đường chuyển xa so với bệnh viện làm được cấy ngay); xem sổ mâu thuẫn NH-1378 mục 2. Đường chuyển 30 phút: cả hai chấp nhận."
+    },
+    {
+     "t": "Đo đường huyết mao mạch, cho bú hoặc vắt sữa cho uống trước khi đi và dọc đường, giữ ấm da kề da với mẹ",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52–53): kiểm tra hạ đường huyết, ngưỡng điều trị 2,2 mmol/L; mục 3.10.1–3.10.2 (tr. 56–57): giữ ấm, bú mẹ thường xuyên; QĐ 2341 mục 2.2.2 và Bảng kiểm 1: phòng hạ đường huyết, giữ ấm."
+    },
+    {
+     "t": "Không truyền dịch tại phòng khám và không chờ truyền xong mới đi: bé còn bú được, chưa sốc, bệnh viện quyết dịch theo cân nặng; giải thích cho bà ngoại bằng dấu hiệu của bé",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.2 (tr. 57): truyền tĩnh mạch cho sơ sinh phải thận trọng, dễ quá tải, không quá 100 mL/kg/ngày nếu không mất nước; mục 3.8 (tr. 54): ưu tiên nhập viện, kháng sinh. Dấu hiệu sốc: không có (mao mạch 2 giây, tay chân ấm; NICE NG143 mục 1.2.9). Bù dịch nếu cần do tuyến trên quyết."
+    },
+    {
+     "t": "Không cho thuốc hạ sốt để che sốt, cởi bớt quần áo, không lau mát; hoặc chỉ cho khi bé khó chịu và không để hạ cho đẹp số đo",
+     "v": "c",
+     "n": "WHO 2013 mục 3.10.4 (tr. 58): không dùng paracetamol để kiểm soát sốt ở trẻ nhỏ, điều chỉnh môi trường; NICE NG143 mục 1.6.2–1.6.4: không lau mát, cân nhắc paracetamol hoặc ibuprofen khi trẻ khó chịu, không dùng chỉ để hạ số đo. Liều paracetamol an toàn cho sơ sinh: không có trong tài liệu đã tải. Sổ mâu thuẫn: NH-1378 mục 3."
+    },
+    {
+     "t": "Hỏi thẳng mẹ và bà đang lo điều gì khi nghe chuyển viện; công nhận mẹ quay lại đúng lúc, giải thích chọc dò tủy là để loại trừ viêm màng não và quyết định kháng sinh",
+     "v": "c",
+     "n": "Chọc dò tủy ở dưới 1 tháng có sốt (NICE NG143 mục 1.5.4) vì dấu màng não hay vắng (mục 1.2.20). Nguy cơ của thủ thuật: không có trong tài liệu đã tải. Phần còn lại là giao tiếp."
+    },
+    {
+     "t": "Cho về nhà với amoxicillin uống, hẹn tái khám sau 24–48 giờ",
+     "v": "w",
+     "n": "Sốt ở bé dưới 1 tháng cần cấy máu, nước tiểu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6); liều amoxicillin dưới 1 tháng: không có trong tài liệu đã tải (NICE NG91 từ 1 tháng). Italian Consensus 2025 khuyến cáo 1.1 cho kháng sinh ngay ở dưới 6 tháng nhưng không nói về bé sốt dưới 1 tháng."
+    },
+    {
+     "t": "Giữ bé tại phòng khám truyền dịch và kháng sinh rồi xem tiếp, hoặc hẹn mai khám lại",
+     "v": "w",
+     "n": "Phòng khám không cấy máu, không chọc dò tủy, không giường sơ sinh; chậm chuyển ở bé có dấu hiệu bệnh nặng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.8, 3.10.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải ở sơ sinh 26 ngày, ngày bệnh thứ 5, sau viêm mũi họng virus",
+     "Sốt 38,3 °C ở bé dưới 1 tháng và bú kém: nhóm nguy cơ cao, nhiễm khuẩn nặng (nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu) chưa loại trừ",
+     "Chỉ điểm viêm tăng (ANC 11.780, CRP 38 mg/L), đường huyết 3,3 mmol/L, mất nước nhẹ (cân giảm 50 g, niêm mạc hơi khô)",
+     "Chưa thấy viêm xương chũm; viêm màng não chưa chứng minh được, cần chọc dò tủy ở tuyến trên",
+     "Chỉ định: chuyển gấp bệnh viện huyện khoa Nhi; không truyền dịch tại chỗ"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bé hết 'cảm' mà sốt lại sau lần khám đầu: sốt từ chiều qua 38,1 °C, sáng nay 38,2 °C, bú còn 5–6 cữ, bỏ bú nửa chừng, 4 tã ướt, tiếng khóc yếu, ngủ nhiều hơn nhưng đánh thức được. Bé khóc thét khi nằm nghiêng phải và cọ tai phải vào ngực mẹ: ở sơ sinh đây là cách duy nhất bé 'nói' đau tai. Dưới 3 tháng từ 38 °C là nguy cơ cao (NICE NG143 mục 1.2.12); sốt và bú kém là dấu hiệu bệnh nặng 0–2 tháng (QĐ 2341 mục 2.2.2; WHO 2013 mục 3.6). Hỏi thêm thuốc: chưa hạ sốt, chưa kháng sinh.",
+     "Khám: nách 38,3 °C, mạch 166 l/p (trên 160 l/p dưới 12 tháng, NICE NG143 Bảng 2), thở 52 l/p (dưới ngưỡng 60), SpO₂ 97%, mao mạch 2 giây, tay chân ấm: chưa sốc. Cân giảm 50 g, niêm mạc hơi khô: mất nước nhẹ (NICE mục 1.2.16). Thóp phẳng nhưng dấu màng não thường vắng ở trẻ nhỏ viêm màng não mủ (NICE mục 1.2.20; WHO 2013 mục 3.9, tr. 55), nên khám thần kinh bình thường không an ủi được. Tai phải: màng nhĩ đỏ, phồng, mất mốc: viêm tai giữa cấp (AAP 2013 KAS 1A; QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Sau tai bình thường: chưa nghĩ viêm xương chũm (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195).",
+     "Cận lâm sàng ở cơ sở: công thức máu ANC 11.780, CRP 38 mg/L đều trên ngưỡng AAP 2021 (ANC 4000–5200, CRP 20; Hình 1 chú thích b); đường huyết 3,3 mmol/L (ngưỡng điều trị 2,2); nước tiểu túi dán không đáng tin. Không cấy máu, không chọc dò tủy, không X-quang xương chũm Schuller. Cận lâm sàng để củng cố chuyển, không để đợi: không cho chờ kết quả mới đi.",
+     "Chẩn đoán và mở lại chẩn đoán: lượt 1 'viêm mũi họng' đúng với dữ kiện lúc đó (không sốt, màng nhĩ không phồng); mốc buộc mở lại hồ sơ là sốt 38,3 °C xuất hiện sau hai ngày kèm bú kém và màng nhĩ phải phồng. Viêm tai giữa cấp là biến chứng gần của viêm mũi họng (QĐ 5643 Viêm mũi họng cấp tính mục 5.2, tr. 136). Nhưng ở sơ sinh, viêm tai giữa 'tìm ra' không làm hết việc: bé sơ sinh nghi viêm tai giữa vẫn vào quy trình sốt sơ sinh (AAP 2021, phần đối tượng, tr. 9–10), vì sốt có thể do nhiễm khuẩn huyết hoặc viêm màng não. Viêm xương chũm và viêm màng não là hai biến chứng phải loại trừ (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214); bé chưa có dấu của hai bệnh này nhưng không loại trừ được ở cơ sở. Tiêu chuẩn AAP 2013 cho trẻ từ 6 tháng; dưới 6 tháng chẩn đoán khó (Italian Consensus 2025)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: chuyển tuyến ngay, không nhập viện tại chỗ (không có giường sơ sinh), không cho về. Mục đích: cấy máu, nước tiểu thông tiểu, chọc dò tủy, kháng sinh tiêm, theo dõi nội viện (NICE NG143 mục 1.5.3–1.5.6; WHO 2013 mục 3.8, tr. 54; QĐ 2341 mục 2.2.2). Đường chuyển 30 phút, xe cấp cứu có nhân viên đi kèm, báo trước; mẹ đi cùng để cho bú.",
+     "Kháng sinh: tuyến trên quyết. Cách ghi cả hai (xem sổ mâu thuẫn): cho liều đầu ampicillin cộng gentamicin tiêm bắp rồi chuyển gấp (QĐ 2341 Bảng kiểm 1; WHO 2013), hoặc chuyển ngay không tiêm để tuyến trên cấy và chọc dò tủy trước kháng sinh (NICE mục 1.5.5; AAP 2021 KAS 2, 4, 5). Phác đồ nội viện: ampicillin cộng gentamicin (WHO 2013 mục 3.8, tr. 54) hoặc cephalosporin thế hệ ba cộng ampicillin (NICE mục 1.5.7); điều trị ít nhất 7–10 ngày nếu nhiễm khuẩn nặng (WHO mục 3.8). Điều trị viêm tai giữa riêng ở dưới 1 tháng: không có trong tài liệu đã tải (NICE NG91 từ 1 tháng; AAP 2013 từ 6 tháng).",
+     "Không truyền dịch tại chỗ vì chưa sốc, bé còn bú, không đáng để chậm chuyển; ở sơ sinh truyền dịch phải tính theo cân nặng, dễ quá tải (WHO 2013 mục 3.10.2, tr. 57). Giữ ấm da kề da, cho bú, đo đường huyết (WHO mục 3.6, 3.10.1–3.10.2; QĐ 2341 Bảng kiểm 1). Không hạ sốt thuốc để che sốt; hạ sốt bằng thuốc nếu khó chịu thì NICE mục 1.6.4, WHO mục 3.10.4 nói không dùng (sổ mâu thuẫn NH-1378 mục 3). Chích rạch màng nhĩ do tuyến trên cân nhắc (QĐ 5643 mục 4.3.1, tr. 213)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ampicillin cộng gentamicin tiêm bắp (chỉ liều đầu trước chuyển, hoặc không tiêm tại chỗ)",
+      "ham_luong": "Ampicillin lọ 250 mg; gentamicin ống 80 mg/2 mL pha thành 10 mg/mL",
+      "lieu": "Ampicillin 50 mg/kg = 195 mg (bé 3,9 kg); gentamicin 7,5 mg/kg = 29 mg một lần/ngày (WHO 2013) hoặc 4 mg/kg = 16 mg mỗi 24 giờ (AAP 2021 Bảng 3, thận trọng hơn)",
+      "duong": "Tiêm bắp, hai vị trí khác nhau",
+      "thoi_diem": "Một liều trước khi lên xe cấp cứu",
+      "so_ngay": "Chỉ liều đầu; tuyến trên tiếp tục (ampicillin mỗi 8 giờ ở tuần 2–4 tuổi)",
+      "ghi_chu": "WHO 2013 mục 3.14 (tr. 70–71): ampicillin 50 mg/kg mỗi 8 giờ, gentamicin 7,5 mg/kg/ngày ở tuần 2–4; AAP 2021 Bảng 3: gentamicin 4 mg/kg mỗi 24 giờ. QĐ 2341 Bảng kiểm 1: liều kháng sinh tiêm bắp đầu tiên. Không tiêm tại chỗ nếu chọn cách NICE mục 1.5.5."
+     },
+     {
+      "thuoc": "Sữa mẹ",
+      "ham_luong": "Sữa mẹ",
+      "lieu": "Cho bú từng ít một, hoặc vắt cho uống bằng thìa",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi lên xe và trên đường",
+      "so_ngay": "Đến khi vào bệnh viện",
+      "ghi_chu": "QĐ 2341 Bảng kiểm 1 (phòng hạ đường huyết); WHO 2013 mục 3.10.2 (tr. 57). Đường huyết 3,3 mmol/L."
+     }
+    ],
+    "dan_do": [
+     "Với mẹ và bà ngoại: con sốt, bú kém, tai phải đã viêm; bé nhỏ như vậy có thể kèm nhiễm khuẩn trong máu hoặc màng não, chỉ khám và thử máu, tủy sống ở bệnh viện mới loại trừ được. Truyền nước ở đây không thay được các xét nghiệm đó và làm chậm điều trị. Chọc dò tủy là để biết có viêm màng não không và chọn thuốc đúng; nói rõ thủ thuật do bác sĩ Nhi làm (nguy cơ thủ thuật: không có trong tài liệu đã tải).",
+     "Trên đường đi: mẹ ôm da kề da, quấn ấm nhưng không ủ kín; cho bú từng ít một; không cho thuốc hạ sốt; không tự cho kháng sinh. Mang theo giấy chuyển và sổ khám, kể rõ giờ sốt đầu tiên và các cữ bú đã bỏ.",
+     "Nếu bé li bì, rên, co giật, thở nhanh từ 60 l/p, tím, thóp phồng: gọi nhân viên y tế ngay trên xe (WHO 2013 mục 3.6, 3.9).",
+     "Phòng viêm tai giữa tái phát: bú mẹ, không bú bình nằm ngửa, tránh khói thuốc (AAP 2013 KAS 6C, 6D, tr. e988); bố bé đeo khẩu trang và rửa tay khi còn ho."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được xe cấp cứu đưa đến khoa Nhi bệnh viện huyện ngay chiều đó, mẹ đi cùng. Cấy máu và nước tiểu thông tiểu lấy trước kháng sinh, chọc dò tủy: dịch trong, tế bào bình thường, cấy dịch não tủy và cấy máu âm; chẩn đoán viêm tai giữa cấp tai phải, không có nhiễm khuẩn huyết hay viêm màng não. Bé dùng ampicillin cộng gentamicin tiêm, hết sốt sau hai ngày, bú lại bình thường, ra viện sau một tuần (các con số của diễn biến nội viện là tình huống minh họa của ca, không phải khuyến cáo). Tai trái cũng được soi và theo dõi. Hai tháng sau bé tái phát viêm tai giữa cấp tai trái: mẹ đi làm lại, cho bé bú bình nằm ngửa ban đêm, bố hút thuốc trong nhà. Nguyên nhân nền chưa được xử lý: phải gỡ bú bình nằm ngửa và khói thuốc (AAP 2013 KAS 6C, 6D, tr. e988), không phải do điều trị lần đầu sai.",
+ "nhieu": [
+  "Bà ngoại đòi truyền nước hai lần, lần đầu vì 'bú ít cần có sức', lần hai vì sợ chọc dò tủy: động lực thật là sợ thủ thuật và sợ tốn kém, không phải thiếu nước.",
+  "Men tiêu hóa tự mua: mẹ gán bú ít và ngạt mũi cho 'rối loạn tiêu hóa', làm lệch cách giải thích triệu chứng; không che sốt.",
+  "Chỉ có xét nghiệm cơ bản: CTM và CRP bất thường ở lượt 2 củng cố nhưng không quyết định; quyết định chuyển dựa vào lâm sàng và tuổi."
+ ],
+ "bai_hoc_bien": [
+  "Mở lại chẩn đoán: lượt 1 'viêm mũi họng' đúng với dữ kiện lúc đó. Mốc buộc mở lại hồ sơ ở lượt 2: sốt 38,3 °C ở bé 26 ngày, bú còn nửa, tai phải màng nhĩ phồng. Chẩn đoán đúng (viêm tai giữa cấp) chưa phải là hết việc: ở sơ sinh còn phải loại trừ nhiễm khuẩn nặng (NICE NG143 mục 1.2.12, 1.5.3–1.5.6; AAP 2021, phần đối tượng).",
+  "Sơ sinh không đỡ sau 2 ngày không phải 'điều trị thất bại' để tăng thuốc: chạy lại các câu hỏi sai chẩn đoán, biến chứng, bệnh nặng hơn (viêm màng não, viêm xương chũm); ở bé này là biến chứng tai trên nền virus.",
+  "Đòi truyền dịch: lượt 1 trả lời bằng tiêu chí của chính bé (bú được, 6–7 tã, thóp phẳng, tăng 700 g); lượt 2 hỏi thẳng nỗi sợ chọc dò tủy phía sau lời đòi (WHO 2013 mục 3.10.2).",
+  "Soi tai trẻ sơ sinh ngay cả khi 'chỉ là cảm': lượt khám trước bỏ bước này. Tiêu chuẩn viêm tai giữa dưới 6 tháng khó áp dụng, phải khám lại (Italian Consensus 2025).",
+  "Tái phát: điều trị đúng chưa đủ nếu nguyên nhân nền còn nguyên (bú bình nằm ngửa, khói thuốc; AAP 2013 KAS 6C, 6D)."
+ ],
+ "diem_nho": [
+  "Trẻ 0–2 tháng: bỏ bú hoặc bú kém, co giật, thở nhanh, rút lõm ngực nặng, sốt hoặc hạ thân nhiệt, không cử động hoặc chỉ cử động khi kích thích là dấu hiệu bệnh nặng, chuyển gấp (QĐ 2341 mục 2.2.2). Thở nhanh sơ sinh từ 60 l/p; sốt trên 38 °C; hạ thân nhiệt dưới 35,5 °C (WHO 2013 mục 3.6).",
+  "Dưới 3 tháng, nhiệt độ từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); dưới 1 tháng có sốt: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm (mục 1.5.3–1.5.6). Sơ sinh nghi viêm tai giữa vẫn vào quy trình sốt sơ sinh (AAP 2021, phần đối tượng).",
+  "Chẩn đoán viêm tai giữa cấp: màng nhĩ phồng vừa–nặng, hoặc phồng nhẹ kèm đau tai mới dưới 48 giờ hoặc đỏ rực (AAP 2013 KAS 1A–1B); dưới 6 tháng cho kháng sinh ngay (Italian Consensus 2025, khuyến cáo 1.1). Liều kháng sinh uống cho dưới 1 tháng: không có trong tài liệu đã tải.",
+  "Viêm xương chũm: sưng nề đỏ sau tai, đẩy vành tai ra trước, phập phều sau tai (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195). Biến chứng nội sọ của viêm tai giữa gồm viêm màng não (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214); dấu màng não thường vắng ở trẻ nhỏ (NICE mục 1.2.20).",
+  "Sơ sinh truyền dịch tĩnh mạch: dễ quá tải, không quá 100 mL/kg/ngày nếu không mất nước (WHO 2013 mục 3.10.2); không dùng paracetamol để kiểm soát sốt ở trẻ nhỏ (WHO mục 3.10.4)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1–5, tr. 195–197); Viêm mũi họng cấp tính (mục 3.1.2, 4.1, 5.1–5.2, tr. 133–136); Viêm mũi xoang trẻ em (mục 4.2.1, tr. 83)",
+  "AAP 2013 – Lieberthal AS et al., The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964–99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C (tr. e968–969), KAS 6C–6D và phòng ngừa (tr. e988); áp dụng cho trẻ 6 tháng–12 tuổi, không áp dụng trực tiếp cho sơ sinh",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children (kho cũ tltk-10000-ca, 03 Nhi ngoại trú) – ĐÃ ĐỌC: khuyến cáo 1.1; phần chẩn đoán dưới 6 tháng",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.2, 1.2.7, 1.2.9, 1.2.12, 1.2.16, 1.2.20, 1.4.5, 1.5.3–1.5.7, 1.6.2–1.6.4, Bảng 2",
+  "AAP 2021 – Pantell RH et al., Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics 2021;148(2):e2021052228 – TL-0261 – ĐÃ ĐỌC: phần đối tượng (tr. 9–10), Hình 1 chú thích b, KAS 2, 4, 5, 8, 11, Bảng 3",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 (tr. 52–53), 3.8 (tr. 54), 3.9 (tr. 55), 3.10.1–3.10.4 (tr. 56–58), 3.14 (tr. 69–71)",
+  "QĐ 2341 – Bộ Y tế, QĐ 2341/QĐ-BYT 2024, Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: mục 2.2.2, 2.2.3, Bảng kiểm 1 và 3 (tr. 15–16)",
+  "NICE NG91 2018 (kho cũ) – Otitis media (acute): antimicrobial prescribing – ĐÃ ĐỌC: liều kháng sinh từ 1 tháng tuổi, không có liều dưới 1 tháng"
+ ],
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "2026-11-08 – viết bản 1. Sơ sinh nam 24–26 ngày, 2 lượt, ca bẫy mở lại chẩn đoán: lượt 1 viêm mũi họng virus (ve_hen), lượt 2 sốt + viêm tai giữa phải + nghi nhiễm khuẩn nặng (chuyen_tuyen). Đòi truyền dịch, chỉ có xét nghiệm cơ bản, men tiêu hóa tự mua, khởi phát sau nhiễm virus (bố), lý do thật là không yên tâm lần khám trước, kết cục tái phát.",
+  "Tài liệu đã đọc: xem trường nguon (TL-0130, TL-0271, TL-0262, TL-0261, TL-0250, Italian Consensus 2025, QĐ 2341/2024, NICE NG91).",
+  "Chỗ thiếu tài liệu: kháng sinh uống và liều cho viêm tai giữa dưới 1 tháng; liều paracetamol sơ sinh; số giọt và số lần nước muối nhỏ mũi sơ sinh; lịch tái khám viêm mũi họng sơ sinh; khoảng tham chiếu xét nghiệm sơ sinh; vi khuẩn gây viêm tai giữa sơ sinh; nguy cơ chọc dò tủy. Đã ghi 'không có trong tài liệu đã tải'.",
+  "Áp dụng mục có sẵn trong sổ mâu thuẫn: NH-0355, NH-0217 mục 1–2, NH-1378 mục 1–3, mục kháng sinh uống cho sơ sinh chấm w. Không thêm mục mâu thuẫn mới."
+ ]
+}
