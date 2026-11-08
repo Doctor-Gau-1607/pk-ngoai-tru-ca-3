@@ -1,0 +1,725 @@
+{
+ "ma_ca": "DL-0436",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_choc_viem_mo_te_bao_nhe",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Chốc / nhiễm khuẩn da (viêm mô tế bào nhẹ)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mô tế bào nặng",
+   "Zona",
+   "Nấm da"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ mẫu giáo (học lớp Chồi ở trường mầm non)",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục (không áp dụng cho trẻ 4 tuổi; đặt ở cha mẹ: cha bé nổi mụn mủ vài ngày sau lần gần gũi vợ chồng gần nhất, xem lý do thật)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Gia Bảo",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo, học lớp Chồi ở trường mầm non; lớp đang có 2 bạn bị lở da",
+  "can_nang": 16,
+  "chieu_cao": 103,
+  "xung_ho": "Bé gọi bác sĩ là \"bác sĩ\", xưng \"con\". Mẹ gọi bác sĩ là \"bác sĩ\", xưng \"em\"; bác sĩ gọi chị là \"chị Mai\".",
+  "tinh_cach": "Bé hay nhõng nhẽo, sợ đau, hay gãi, nhổ thuốc đắng. Mẹ lo xa, tự cho thuốc hạ sốt theo giờ để con đi học, hay nói \"không sao đâu bác sĩ\", ngại kể chuyện riêng của vợ chồng.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: mẹ mở đầu \"cháu không sốt, không đau, vẫn đi học\", chỉ xin thuốc bôi. Hỏi \"bé có đau không\" thì trả lời \"không\"; hỏi theo sinh hoạt (đi, ăn, ngủ, cô giáo gọi đón sớm, mỗi ngày cho thuốc hạ sốt mấy lần, mấy mg) thì lộ mức nặng thật. Nếu bác sĩ gạt đi hay trách mẹ cho nhiều thuốc thì mẹ im lặng, giấu chuyện của chồng; nếu ghi nhận nỗi lo thì mẹ kể thật.",
+  "nguoi_nha": "Mẹ bé (chị Mai), 32 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng bé thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Mai)",
+  "ngoai_hinh": {
+   "da": "#f1cfa8",
+   "toc": "#1f1710",
+   "kieuToc": "ngan",
+   "ao": "#8fb4c9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "quay",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#d9c3a0",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Vết lở, vảy vàng ở chân khoảng 1 tuần; mẹ xin thuốc bôi, nói cháu không sốt, không đau",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, đường huyết, AST/ALT, creatinin, tổng phân tích nước tiểu); không nuôi cấy vi sinh tại chỗ (mẫu gửi ngoài, 48 – 72 giờ), không định lượng paracetamol máu, không X-quang, siêu âm, CT, nội soi. Bệnh viện nhi tỉnh cách khoảng 25 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Thanh Mai đưa bé Phạm Gia Bảo, 4 tuổi, học lớp Chồi, đến khám vì vết lở ở chân khoảng 1 tuần. Hồ sơ cũ: không có. Sinh hiệu: mạch 112 l/p, HA 92/58 mmHg, nhiệt độ 37,6 °C, nhịp thở 24 l/p, SpO₂ 98%. Cân nặng 16 kg, chiều cao 103 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Bảo 4 tuổi, mạch 112, nhịp thở 24, tỉnh, không đau không tương xứng, quầng 6 × 7 cm: viêm mô tế bào nhẹ, IDSA 2014 (KC 18) cho ngoại trú khi không SIRS. Nằm viện truyền kháng sinh là quá tay: bé xa nhà, mẹ nghỉ làm, tốn tiền giường, trong khi cephalexin uống (QĐ 4416, Chốc mục 3.2.2) đủ. Trong viện nếu không ai hỏi giờ giấc thuốc hạ sốt, mẹ vẫn cho thêm paracetamol, và khi về bố vẫn lây tiếp.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi theo NICE NG153 2020 (mục 1.1.15) là cách làm có nguồn, nhưng IDSA 2014 (KC 18) cho ngoại trú khi không SIRS: hai nguồn khác bối cảnh. Với nhà chị Mai, chuyển tuyến mất nửa ngày, chờ khám, chi phí; tuyến trên cũng chỉ kê kháng sinh uống rồi cho về, còn việc ngưng paracetamol theo giờ và dặn vệ sinh trong nhà vẫn chưa được làm."
+   },
+   "loi_mo": "Chào bác sĩ. Cháu bị lở ở cái chân, chắc muỗi đốt rồi gãi thôi, không sao đâu. Cháu không sốt, không đau, vẫn đi học bình thường. Bác sĩ kê giùm em tuýp thuốc bôi là được.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "92/58",
+    "nhiet": "37,6",
+    "nhip_tho": 24,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Mai nói: cháu Bảo bị lở ở chân khoảng 1 tuần, chắc muỗi đốt rồi gãi, chị xin tuýp thuốc bôi. Chị nhấn mạnh cháu không sốt, không đau, vẫn đi học.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; người nhà giảm nhẹ triệu chứng"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 6 ngày trước bé bị muỗi đốt ở mặt trước gối trái, gãi nhiều. 4 ngày trước nổi mụn nước nhỏ, vỡ chảy nước vàng rồi đóng vảy vàng như mật ong. 2 ngày nay quanh đó đỏ lan, sờ nóng; thêm 2 chỗ nhỏ ở cổ chân trái và 1 chỗ ở cẳng tay phải do bé gãi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ vết côn trùng cắn, gãi; mụn nước, vảy tiết vàng mật ong; quầng đỏ lan; tổn thương mới do tự lây"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hỏi theo sinh hoạt: 2 hôm nay bé không chạy nhảy, đi khập khiễng, ngồi lì ở góc lớp, ăn nửa chén cơm, đêm quấy khóc 2 – 3 lần vì đau chân; hôm qua cô giáo gọi mẹ đón sớm. Không nôn, không tiêu chảy, không thở nhanh, nước tiểu vàng trong, không phù mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Câu hỏi chức năng lộ mức nặng thật (người nhà phủ nhận); không dấu hiệu toàn thân nặng, không phù, nước tiểu bình thường"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Chỉ khi hỏi thẳng đã cho thuốc gì: 6 ngày nay chị cho gói bột paracetamol 250 mg, mỗi lần 1 gói, ngày 5 lần (mỗi 4 – 5 giờ, kể cả nửa đêm) \"cho đỡ đau để đi học, ngủ được\", sợ bé sốt; lần cuối cách đây 3 giờ. Chị không đo nhiệt độ lúc chưa uống thuốc. Bé nặng 16 kg. Không thuốc nào khác, không kháng sinh tự mua, không bôi corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài (250 mg × 5 lần = 1.250 mg/ngày, khoảng 78 mg/kg/ngày × 6 ngày); thuốc có thể làm nhiệt độ lúc khám không phản ánh thật"
+    },
+    {
+     "id": "khong_zona_nam",
+     "noi_dung": "Không có đợt kêu đau, rát, châm chích chạy dọc một dải da trước khi nổi mụn; mụn nước không mọc thành chùm theo một đường. Không có mảng tròn đỏ có vảy, lành ở giữa, ngứa. Cháu chưa từng bị thủy đậu theo chị biết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ zona, nấm da"
+    },
+    {
+     "id": "nha_tre",
+     "noi_dung": "Ở lớp cháu có 2 bạn cũng bị lở ở tay, chân đang nghỉ học. Cháu hay gãi, móng tay dài, hay ôm gối chân. Cháu ngủ chung giường với bố mẹ, dùng chung khăn tắm với bố.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ nhà trẻ, ổ lây; tự lây truyền do gãi"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Cháu chưa từng dị ứng thuốc nào, chưa dùng penicillin hay cephalosporin; không bệnh mạn tính, không ăn uống thất thường; tiêm chủng theo lịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc trước khi kê kháng sinh"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra chị đến sớm vì sợ. Vợ chồng chị cố có em bé thứ hai hơn 14 tháng chưa được, định đi khám hiếm muộn. Khoảng 3 ngày trước, vài ngày sau lần gần gũi vợ chồng, chồng chị nổi vài mụn mủ ở đùi và bẹn. Chị sợ là bệnh lây qua đường tình dục, lây cả sang con, và sợ bệnh da của con \"dính\" vào chuyện sinh con của hai vợ chồng. Chị ngại nói nên chỉ xin thuốc bôi cho con.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: lo lắng về khả năng sinh sản; yếu tố khởi phát sổ cái đặt ở cha mẹ (mụn của cha sau gần gũi vợ chồng)",
+     "dieu_kien_lo": "Chị không tự kể. Chỉ nói khi bác sĩ hỏi người nhà có ai bị lở hay mụn không, hoặc hỏi riêng chị còn điều gì lo lắng, vì sao hôm nay đến sớm."
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Mặt trước gối trái: quầng đỏ không đều, ranh giới mờ, khoảng 6 × 7 cm, hơi nề, nóng, ấn đau; ở giữa một trợt nhỏ phủ vảy tiết vàng mật ong khoảng 4 mm, nền đỏ ướt. Cổ chân trái: 2 trợt 3 – 4 mm phủ vảy vàng. Cẳng tay phải: 1 trợt 3 mm phủ vảy vàng. Không bọng nước lớn, xuất huyết, bầm tím, hoại tử, bóc tách da, ấn lép bép, không đường đỏ lan lên đùi; không mụn nước chùm theo dải, không mảng tròn lành giữa. Mặt, thân mình, bẹn, lòng bàn tay chân, miệng: không tổn thương.",
+     "k": 1,
+     "hien": "Mặt trước gối trái: vùng đỏ khoảng 6 × 7 cm quanh một trợt nhỏ phủ vảy vàng ở giữa (ảnh); cổ chân trái 2 và cẳng tay phải 1 trợt nhỏ phủ vảy vàng. Mặt, thân mình, bẹn: không có tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Mặt trước gối trái (cận cảnh)",
+       "id": "HA-DA-0293",
+       "chu": "Vùng đỏ lan rộng quanh một trợt nhỏ phủ vảy tiết vàng ở trung tâm, da xung quanh không có bọng nước lớn."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, quấy, mệt, khóc khi bị chạm vào chân, dỗ được; không li bì, không vẻ mặt nhiễm độc, không thở nhanh co kéo; môi hồng; niêm hồng; không phù mặt, mi mắt.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Chân trái: đi khập khiễng nhẹ, không dám đặt mạnh gót. Không phù cẳng chân, bắp chân mềm, ấn không đau căng, không đau không tương xứng với vẻ ngoài da. Mạch mu chân bắt rõ. Kẽ ngón chân hai bên bình thường. Hạch bẹn trái 1 cm, mềm, hơi đau; hạch bẹn phải không sờ thấy.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 12,6 G/L · Neutrophil 64% · Lympho 28% · Hb 124 g/L · TC 310 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.6,
+      "neu_pct": 64,
+      "lym_pct": 28,
+      "mono_pct": 6,
+      "eos_pct": 2,
+      "baso_pct": 0,
+      "hgb": 124,
+      "plt": 310
+     },
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (Chốc mục 2.2) ghi bạch cầu có thể tăng; bất thường là một tiêu chí SIRS (IDSA 2014, chú thích Hình 1). Ngưỡng theo tuổi trẻ em: không có trong tài liệu đã tải (cột ↑↓ của app theo người lớn)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "24 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 24
+     },
+     "n": "Chấp nhận: QĐ 4416 (Chốc mục 2.2) ghi CRP có thể tăng; không quyết định xử trí vì chẩn đoán chủ yếu bằng lâm sàng (mục 2.3)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 52 · ALT 48 U/L (tăng nhẹ so với mức mặc định của kho: AST 24 · ALT 20 U/L)",
+     "ab": 1,
+     "n": "Hữu ích khi biết bé dùng paracetamol khoảng 78 mg/kg/ngày × 6 ngày: ngộ độc paracetamol gây tăng ALT, AST (QĐ 3610/2015, Ngộ độc paracetamol mục 3.4); liều ngộ độc cấp > 150 mg/kg (mục 3) chưa đạt; ngưỡng cho liều lặp kéo dài ở trẻ và ngưỡng men gan theo tuổi: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Không protein · Không glucose · Không hồng cầu · Bạch cầu âm tính",
+     "n": "Chấp nhận: QĐ 4416 (Chốc mục 2.1) nêu viêm cầu thận ở trẻ em là biến chứng, tiên lượng lành tính; tần suất và thời điểm làm nước tiểu theo dõi: không có trong tài liệu đã tải."
+    },
+    "cay_dich_da": {
+     "v": "a",
+     "r": "Phòng khám không nuôi cấy được. Mẫu dịch vảy tổn thương gửi phòng xét nghiệm ngoài, trả lời sau 48 – 72 giờ (xem lượt 2).",
+     "n": "Chấp nhận, không bắt buộc: chốc điển hình điều trị không cần Gram, cấy (IDSA 2014, chốc KC 1); viêm mô tế bào điển hình không cấy thường quy (KC 12). QĐ 4416 (Chốc mục 2.2): cấy, kháng sinh đồ giúp điều trị ca khó."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc không bọng nước ở gối trái, cổ chân trái, cẳng tay phải (ít tổn thương, do gãi), kèm viêm mô tế bào nhẹ quanh tổn thương gối; không dấu hiệu toàn thân; ổ lây ở nhà trẻ và trong gia đình",
+     "ok": 1,
+     "n": "Sau muỗi đốt, gãi: vảy tiết vàng mật ong trên nền đỏ ướt (QĐ 4416, Chốc mục 2.1, 1.2); chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). Quầng đỏ nóng đau, không lơ mơ, không đau không tương xứng là viêm mô tế bào điển hình mức nhẹ (IDSA 2014, KC 14, 18, chú thích Hình 1)."
+    },
+    {
+     "t": "Dùng paracetamol vượt liều tối đa khuyến cáo kéo dài (khoảng 78 mg/kg/ngày × 6 ngày), men gan tăng nhẹ",
+     "ok": 1,
+     "n": "Liều tối đa 60 mg/kg/ngày, mỗi lần 10 – 15 mg/kg (QĐ 292/2024, mục 3.1, 3.2.1); NICE NG143 2021 (mục 1.6.4 – 1.6.6): chỉ dùng khi trẻ khó chịu, không dùng chỉ để hạ nhiệt độ. Tăng AST, ALT: QĐ 3610/2015 (Ngộ độc paracetamol mục 3.4). Che sốt khi uống theo giờ: suy luận, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mô tế bào nặng, viêm cân cơ hoại tử",
+     "n": "Loại trừ: không lơ mơ, thở nhanh, đau không tương xứng, bọng nước xuất huyết, hoại tử, khí dưới da (IDSA 2014, phần viêm cân cơ hoại tử; KC 27; chú thích Hình 1)."
+    },
+    {
+     "t": "Zona",
+     "n": "Loại trừ: zona có đau, bỏng rát 1 – 5 ngày trước, rồi mụn nước chùm dọc dây thần kinh, thường một bên (QĐ 4416, Zona mục 2.1). Bé không có; vảy vàng mật ong ở nhiều chỗ không theo dải."
+    },
+    {
+     "t": "Nấm da",
+     "n": "Loại trừ: nấm thân là mảng đỏ tròn hay nhiều cung, có vảy, lành giữa, ngứa nhiều (QĐ 4416, Nấm sợi mục 2.1); bé có vảy tiết vàng, không lành giữa."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh uống phủ tụ cầu và liên cầu cho trẻ: cephalexin 25 mg/kg/ngày chia 4 lần, hoặc 25 – 50 mg/kg/ngày chia 4 lần, hoặc flucloxacillin 125 – 250 mg × 4 lần/ngày",
+     "v": "c",
+     "n": "Cách A: 25 mg/kg/ngày chia 4 lần (QĐ 4416, Chốc mục 3.2.2, cột trẻ em). Cách B: 25 – 50 mg/kg/ngày chia 4 lần (IDSA 2014, Bảng 2). Cách C: flucloxacillin 125 – 250 mg × 4 lần/ngày, 2 – 9 tuổi (NICE NG153 2020, Bảng 2). Bé 16 kg: A = 100 mg × 4; B = 100 – 200 mg × 4. Uống vì có quầng, nhiều ổ, ổ dịch (NICE mục 1.1.5; IDSA chốc KC 2). Thêm cách thứ ba: cefalexin 25 mg/kg/liều mỗi 12 giờ (16 kg: 500 mg × 2 lần/ngày) × 5 ngày (WHO AWaRe 2022, nhóm 15–<20 kg) – cả ba cách đều đúng."
+    },
+    {
+     "t": "Thời gian kháng sinh uống: 5 ngày rồi đánh giá, có thể 7 ngày; hoặc 7 ngày",
+     "v": "c",
+     "n": "5 ngày, có thể 7 theo số tổn thương, mức nặng (NICE NG153 2020, Bảng 2); viêm mô tế bào 5 ngày, kéo dài nếu chưa cải thiện (IDSA 2014, KC 15); chốc uống 7 ngày (KC 2b). QĐ 4416 không ghi số ngày. Hai bên khác phạm vi, đều đúng."
+    },
+    {
+     "t": "Chỉ dùng kháng sinh uống, không bôi thêm; hoặc uống kết hợp mupirocin, acid fusidic bôi",
+     "v": "c",
+     "n": "Cách A: không kết hợp bôi và uống (NICE NG153 2020, mục 1.1.6; bôi lặp lại dễ kháng thuốc, mục 1.1.4). Cách B: kết hợp tại chỗ và toàn thân (QĐ 4416, Chốc mục 3.1), bôi 2 lần/ngày thường 7 ngày (mục 3.2.1)."
+    },
+    {
+     "t": "Chăm sóc tại chỗ: đắp gạc nước muối sinh lý 9‰ cho mềm vảy, hoặc ngâm tắm nước thuốc tím loãng 1/10.000 ngày một lần",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 3.2.1): ngâm tắm một lần/ngày thuốc tím 1/10.000; nhiều vảy thì đắp nước muối 9‰ đến khi bong vảy. Hydrogen peroxide 1% (NICE mục 1.1.2) không đủ khi có quầng viêm (mục 1.1.5)."
+    },
+    {
+     "t": "Ngưng cho paracetamol theo giờ; chỉ khi bé khó chịu, 10 – 15 mg/kg/lần (khoảng 160 – 240 mg), cách nhau ≥ 4 – 6 giờ, tối đa 60 mg/kg/ngày (khoảng 960 mg)",
+     "v": "c",
+     "n": "QĐ 292/2024 (mục 3.1: 10 – 15 mg/kg/lần mỗi 4 – 6 giờ; mục 3.2.1: tối đa 60 mg/kg/ngày). NICE NG143 2021 (mục 1.6.4 – 1.6.6): dùng khi trẻ khó chịu, không dùng chỉ để hạ nhiệt độ. Mẹ đang cho 78 mg/kg/ngày."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày (hết đợt); quay lại ngay nếu xấu nhanh",
+     "v": "c",
+     "n": "Đánh giá ở ngày 5, kéo dài nếu chưa cải thiện (IDSA 2014, KC 15). NICE NG153 2020 (mục 1.1.7, 1.1.8): quay lại khi xấu nhanh hoặc chưa cải thiện sau đợt điều trị. Mốc 48 – 72 giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều trị ngoại trú ngay hôm nay; hoặc gửi bệnh viện, tuyến trên đánh giá",
+     "v": "c",
+     "n": "Cách A: ngoại trú khi không có SIRS, rối loạn ý thức, huyết động không ổn (IDSA 2014, KC 18, mức nhẹ). Cách B: chuyển bệnh viện chốc kèm dấu hiệu bệnh nặng hơn như viêm mô tế bào (NICE NG153 2020, mục 1.1.15). Ngưỡng SIRS theo tuổi trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vệ sinh tránh lây: cắt móng tay, không gãi, khăn riêng, giặt ga gối; báo nhà trẻ (có 2 bạn bị); người nhà có tổn thương tương tự nên đi khám da liễu",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 4: cắt móng tay, tránh gãi; mục 2.1: tự lây truyền). NICE NG153 2020 (mục 1.1.1). IDSA 2014 (chốc KC 2): uống khi nhiều tổn thương hoặc ổ dịch để giảm lây. Số ngày nghỉ học; xử trí người tiếp xúc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận nỗi lo của mẹ, không hứa hẹn về sinh sản; khuyên vợ chồng khám hiếm muộn riêng, cha bé khám da liễu",
+     "v": "c",
+     "n": "Liên quan giữa nhiễm khuẩn da và sinh sản: không có trong tài liệu đã tải, không khẳng định hay trấn an sai. Vô sinh: trên một năm sống chung không tránh thai mà không có thai (QĐ 315/2015, Vô sinh nữ mục 1, 2.2). Bệnh của người lớn không thuộc ca này."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch",
+     "v": "w",
+     "n": "Không cần: viêm mô tế bào nhẹ không SIRS điều trị ngoại trú (IDSA 2014, KC 18). Kháng sinh tiêm trong bảng QĐ 4416 (Chốc mục 3.2.2) dành cho tổn thương nhiều, lan tỏa."
+    },
+    {
+     "t": "Chỉ bôi mupirocin hoặc hydrogen peroxide 1%, không uống kháng sinh",
+     "v": "w",
+     "n": "Không đủ: có quầng viêm mô tế bào, nhiều ổ, ổ dịch; NICE NG153 2020 (mục 1.1.5): uống cho chốc kèm dấu hiệu nặng hơn; viêm mô tế bào cần kháng sinh toàn thân (IDSA 2014, KC 14)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc không bọng nước (gối trái, cổ chân trái, cẳng tay phải) kèm viêm mô tế bào nhẹ quanh tổn thương gối, bé 4 tuổi 16 kg, không dấu hiệu toàn thân; ổ lây ở nhà trẻ và gia đình",
+     "Dùng paracetamol quá liều tối đa kéo dài (khoảng 78 mg/kg/ngày × 6 ngày) kèm men gan tăng nhẹ",
+     "Đã loại trừ trên lâm sàng: viêm mô tế bào nặng hoặc hoại tử, zona, nấm da, thủy đậu, herpes simplex",
+     "Lý do thật của mẹ: lo bệnh lây qua đường tình dục và ảnh hưởng khả năng sinh sản (cha bé có mụn mủ); không có nguồn nối nhiễm khuẩn da với sinh sản, cần khám riêng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi khởi phát (muỗi đốt, gãi) → hỏi chức năng (đi, ăn, ngủ, đón sớm) vì mẹ phủ nhận → hỏi mọi thuốc đã cho, giờ, mg → hỏi người nhà, lớp có ai bị → hỏi vì sao hôm nay đến → khám da, hạch, toàn thân → xét nghiệm cơ bản.",
+     "Chốc: vảy tiết vàng mật ong, nền đỏ ướt, hay gặp ở trẻ em (QĐ 4416, Chốc mục 1.2, 2.1); chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). Viêm mô tế bào nhẹ khi không SIRS (IDSA 2014, chú thích Hình 1). Nhiệt 37,6 °C đo sau 3 giờ kể từ liều paracetamol nên dựa thêm mạch, nhịp thở, ý thức, bạch cầu (suy luận; ngưỡng theo tuổi: không có trong tài liệu đã tải). Xét nghiệm cơ bản không bắt buộc (IDSA 2014, KC 1, 12); men gan hữu ích nhờ tiền sử paracetamol."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, hẹn tái khám sau 5 ngày (ve_hen) vì không SIRS (IDSA 2014, KC 18); NICE NG153 2020 (mục 1.1.15) chuyển bệnh viện khi chốc kèm viêm mô tế bào: khác bối cảnh, ghi cả hai. Kháng sinh uống vì có quầng, nhiều ổ, ổ dịch (NICE mục 1.1.5; IDSA chốc KC 2). Dị ứng penicillin: clarithromycin 12 – 19 kg 125 mg × 2 lần/ngày × 5 ngày (NICE Bảng 2).",
+     "Giảm paracetamol về đúng liều, chỉ khi khó chịu. Không kết luận gì về sinh sản; mẹ đi khám hiếm muộn, cha đi khám da liễu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (dạng bột pha uống)",
+      "ham_luong": "Theo chế phẩm sẵn có (hàm lượng: không có trong tài liệu đã tải)",
+      "lieu": "100 mg/lần × 4 lần/ngày, tức 25 mg/kg/ngày (QĐ 4416, Chốc mục 3.2.2) hoặc 100 – 200 mg/lần × 4 lần/ngày, tức 25 – 50 mg/kg/ngày (IDSA 2014, Bảng 2) hoặc 500 mg mỗi 12 giờ × 5 ngày (WHO AWaRe 2022, chương nhiễm khuẩn da – mô mềm, nhóm cân nặng 15–<20 kg; liều cao nhất trong ba cách, theo sổ mâu thuẫn mục DL-0416 mục 2 bổ sung NH-1179)",
+      "duong": "Uống",
+      "thoi_diem": "Chia đều 4 lần, cách nhau khoảng 6 giờ. Tương quan với bữa ăn: không có trong tài liệu đã tải.",
+      "so_ngay": "5 ngày rồi đánh giá, có thể 7 ngày (NICE NG153 2020, Bảng 2; IDSA 2014, KC 15) hoặc 7 ngày (IDSA 2014, chốc KC 2b)",
+      "ghi_chu": "Thay thế: flucloxacillin 125 – 250 mg × 4 lần/ngày × 5 ngày (NICE Bảng 2, 2 – 9 tuổi); cloxacillin 50 – 100 mg/kg/ngày chia 3 – 4 lần (QĐ 4416, bảng chốc). Trẻ không uống được dạng đắng: NICE Bảng 2 gợi ý đổi dạng bào chế."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 9‰ (hoặc thuốc tím 1/10.000 để ngâm)",
+      "ham_luong": "NaCl 0,9%; KMnO₄ pha loãng 1/10.000",
+      "lieu": "Đắp gạc ẩm lên tổn thương cho mềm vảy; hoặc ngâm tắm",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Ngâm tắm ngày một lần; đắp đến khi bong hết vảy (QĐ 4416, Chốc mục 3.2.1)",
+      "so_ngay": "Đến khi bong hết vảy, thường tới hết đợt kháng sinh",
+      "ghi_chu": "Số phút đắp nước muối: không có trong tài liệu đã tải. Thuốc tím chỉ ngâm, không uống, để xa tầm tay trẻ (suy luận)."
+     },
+     {
+      "thuoc": "Paracetamol (dạng bột hoặc siro), chỉ khi bé khó chịu",
+      "ham_luong": "Tính theo mg, không theo gói: 160 – 240 mg/lần",
+      "lieu": "10 – 15 mg/kg/lần (khoảng 160 – 240 mg), tối đa 60 mg/kg/ngày (khoảng 960 mg) (QĐ 292/2024, mục 3.1, 3.2.1)",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau 4 – 6 giờ, chỉ khi bé đau hoặc quấy (QĐ 292/2024, mục 3.1; NICE NG143 2021, mục 1.6.5)",
+      "so_ngay": "Khi cần, ngắn ngày",
+      "ghi_chu": "Gói 250 mg ≈ 15,6 mg/kg cho bé 16 kg, hơi vượt 15 mg/kg: dùng 4/5 gói hoặc siro theo mg (QĐ 292/2024, mục 3.1). Không dùng paracetamol và ibuprofen cùng lúc (NICE NG143 2021, mục 1.6.6)."
+     }
+    ],
+    "dan_do": [
+     "Đây là nhiễm khuẩn ngoài da do vi khuẩn từ vết muỗi đốt bị gãi, lan thành quầng đỏ nhẹ. Cho uống kháng sinh đủ 4 lần/ngày, đủ ngày dù bé thấy đỡ (IDSA 2014, KC 15). Bé nhổ thuốc thì báo lại để đổi cách cho, không tự giảm liều.",
+     "Paracetamol chỉ khi bé khó chịu, đúng mg theo cân, tối đa 60 mg/kg/ngày (QĐ 292/2024, mục 3.2.1; NICE NG143 2021, mục 1.6.5). Đã cho 5 gói/ngày × 6 ngày là quá nhiều, men gan tăng nhẹ.",
+     "Đắp nước muối cho mềm vảy, không cạy; cắt móng, khăn riêng, giặt ga gối (QĐ 4416, Chốc mục 4; NICE NG153 2020, mục 1.1.1). Báo cô giáo. Nghỉ học đến khi vảy khô, không chảy dịch (số ngày: không có trong tài liệu đã tải).",
+     "Quay lại ngay nếu bé sốt, li bì, thở nhanh, đỏ lan nhanh, đau dữ dội, bọng nước đỏ tím, da đen (IDSA 2014, KC 27; NICE NG153 2020, mục 1.1.7). Tái khám sau 5 ngày, mang theo thuốc đã dùng.",
+     "Chồng chị nên khám da liễu. Chuyện sinh con: không có tài liệu nói nhiễm khuẩn da này ảnh hưởng; sống chung trên một năm không có thai thì khám hiếm muộn cả hai (QĐ 315/2015, Vô sinh nữ mục 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Chị Mai đưa bé Bảo tái khám đúng hẹn sau 5 ngày. Chị nói bé \"gần hết rồi\", xin thêm thuốc bôi cho chỗ mới mọc ở cổ chân. Sinh hiệu: mạch 104 l/p, HA 90/56 mmHg, nhiệt độ 37,2 °C, nhịp thở 22 l/p, SpO₂ 99%. Cân nặng 16 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Bảo đỡ một phần vì chỉ uống khoảng 12/20 liều (nhổ siro), quầng nhỏ lại 2 cm, hết nóng, không sốt, cấy MSSA nhạy cephalexin: không phải thất bại điều trị (IDSA 2014, KC 14, 15). IDSA (KC 18) nêu tuân thủ kém là lý do nhập viện cho thể vừa và nặng; ở thể nhẹ đang đáp ứng, vấn đề sửa được tại nhà nên nhập viện là quá tay (suy luận). Bé nằm viện, mẹ nghỉ làm; về nhà cha vẫn còn mụn, ga gối, khăn chung nên tái nhiễm.",
+    "chuyen_tuyen": "Gửi bé lên tuyến trên vì \"đỡ chậm\" là coi đáp ứng một phần như thất bại, trong khi quầng nhỏ lại và cấy phù hợp thuốc đang dùng (IDSA 2014, KC 15). Nguy cơ bị đổi sang kháng sinh phổ rộng hoặc phủ MRSA không cần (IDSA 2014, KC 14). Cách cho thuốc và nguồn lây tại nhà vẫn không được sửa nên tổn thương mới tiếp tục xuất hiện."
+   },
+   "loi_mo": "Chào bác sĩ. Cháu gần hết rồi, vảy khô bớt, mà có mọc thêm một chỗ nhỏ ở cổ chân. Bác sĩ kê giùm em thuốc bôi chỗ đó là xong, thuốc uống đắng quá cháu không chịu uống.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "90/56",
+    "nhiet": "37,2",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "So với 5 ngày trước, chị thấy bé đỡ nhiều: quầng ở gối nhỏ lại, hết nóng, vảy khô. Nhưng 3 ngày trước mọc thêm một chỗ nhỏ có vảy vàng ở cổ chân phải do bé gãi. Bé không sốt, ăn được cả chén, chạy chơi lại, vẫn còn hơi nhăn mặt khi bị chạm vào gối.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 5 ngày: đỡ một phần, một tổn thương mới nhỏ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Hỏi cách cho thuốc: bé nhổ siro vì đắng, chị sợ bé nôn nên chỉ cho 2 – 3 lần/ngày, tính ra khoảng 12 trên 20 liều. Chị cho paracetamol giảm còn 3 gói 250 mg/ngày (khoảng 47 mg/kg/ngày) \"trước khi đi học cho chắc\", vì thấy bác sĩ dặn \"đừng cho nhiều\". Bé vẫn đi học từ ngày thứ 3.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng thuốc thiếu liều, vẫn đi học: giải thích đỡ một phần (không phải thất bại điều trị); paracetamol giảm nhưng vẫn theo giờ"
+    },
+    {
+     "id": "nha_tre_gia_dinh",
+     "noi_dung": "Lớp bé còn 1 bạn nghỉ vì lở. Bố bé chưa đi khám, tự bôi thuốc mỡ mua ở tiệm, mụn ở đùi chưa khô; ba người vẫn ngủ chung giường, dùng chung khăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn tái nhiễm trong gia đình, nhà trẻ"
+    },
+    {
+     "id": "khong_toan_than",
+     "noi_dung": "Không sốt, không li bì, không thở nhanh, không nôn. Quầng nhỏ lại chứ không lan; không đường đỏ chạy lên, không bọng nước, không tím đen. Nước tiểu vàng trong, mi mắt không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu thất bại điều trị"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị hỏi nhỏ: \"Em cũng thấy ngứa ở cánh tay, bác sĩ coi giúp em có bị lây không, vì tháng này em đang theo dõi rụng trứng để có em bé.\" Chị vẫn chưa đưa chồng đi khám vì ngại nói chuyện \"bệnh nam khoa\".",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật vẫn còn: lo lây và ảnh hưởng sinh sản; dùng câu hỏi mở, không phán xét",
+     "dieu_kien_lo": "Chị chỉ nói khi bác sĩ hỏi chị và chồng có ai bị lây không, hoặc hỏi lại chuyện đã lo ở lần trước."
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Gối trái: trợt trung tâm đã khô, vảy tiết dày đang bong, nền dưới hồng, không ướt. Quầng đỏ còn khoảng 2 cm, ranh giới mờ, không nóng, ấn đau rất nhẹ. Cổ chân trái: 2 vảy cũ khô. Cẳng tay phải: vảy khô sắp bong. Có tổn thương mới ở cổ chân phải 4 mm, trợt nông phủ vảy vàng mỏng, chưa có quầng. Không bọng nước, không bầm tím, không hoại tử, không đường đỏ lan lên.",
+     "k": 1,
+     "hien": "Gối trái: vảy khô dày đang bong, quầng đỏ còn khoảng 2 cm. Cổ chân phải: một trợt nhỏ khoảng 4 mm phủ vảy vàng mỏng (mới). Cổ chân trái, cẳng tay phải: vảy khô cũ."
+    },
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, không sốt, không nhiễm độc, niêm hồng, không phù mi mắt.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Đi lại bình thường, bắp chân mềm, không đau căng, không phù. Hạch bẹn trái còn 5 mm, mềm, không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "a",
+     "r": "Kết quả cấy dịch tổn thương làm lượt 1: Staphylococcus aureus nhạy methicillin (MSSA); nhạy cephalexin, oxacillin, clindamycin; kháng penicillin G.",
+     "n": "Có sau 48 – 72 giờ nên không đổi quyết định lượt 1. MSSA nên không cần phủ MRSA (IDSA 2014, chốc KC 2b: dicloxacillin hoặc cephalexin); đổi theo kết quả nếu chưa cải thiện, ưu tiên thuốc phổ hẹp (NICE NG153 2020, mục 1.1.14)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 30 · ALT 26 U/L",
+     "n": "Hữu ích: theo dõi sau giảm paracetamol; về mức gần mặc định của kho (AST 24 · ALT 20 U/L). Lịch xét nghiệm lại: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc kèm viêm mô tế bào nhẹ do tụ cầu vàng nhạy methicillin, đáp ứng một phần sau 5 ngày do bé uống thiếu liều (khoảng 12/20 liều), vẫn đi học và ngủ chung; một tổn thương mới ở cổ chân do gãi; không thất bại điều trị",
+     "ok": 1,
+     "n": "Quầng nhỏ lại, hết nóng, vảy khô bong, không sốt: đang đáp ứng; chậm vì thiếu liều, tự lây do gãi, nguồn lây trong nhà và lớp (QĐ 4416, Chốc mục 2.1: dai dẳng do tự lây truyền, vệ sinh kém; IDSA 2014, KC 15, 16). Cấy MSSA phù hợp với thuốc đã kê."
+    },
+    {
+     "t": "Thất bại kháng sinh, viêm mô tế bào tiến triển hoặc nhiễm khuẩn sâu",
+     "n": "Loại trừ: quầng nhỏ lại, không sốt, không đau không tương xứng, không bọng nước, hoại tử (IDSA 2014, chú thích Hình 1; KC 27). Đỡ một phần khi thiếu liều chưa phải thất bại."
+    },
+    {
+     "t": "Men gan tăng do paracetamol còn tồn tại",
+     "n": "Loại trừ: AST 30, ALT 26 U/L sau khi giảm liều (QĐ 3610/2015, Ngộ độc paracetamol mục 3.4 nêu tăng ALT, AST). Dùng 47 mg/kg/ngày dưới mức 60 mg/kg/ngày (QĐ 292/2024, mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh uống đủ liều từ nay, thuốc phổ hẹp: giữ cephalexin 4 lần/ngày hoặc đổi sang amoxicillin–acid clavulanic chia 2 lần/ngày cho dễ uống; không phủ MRSA, không tiêm",
+     "v": "c",
+     "n": "Cách A: giữ cephalexin 25 mg/kg/ngày chia 4 (QĐ 4416, Chốc mục 3.2.2) hoặc 25 – 50 mg/kg/ngày (IDSA 2014, Bảng 2). Cách B: amoxicillin–clavulanic 40 – 80 mg/kg/ngày chia 2 – 3 lần (QĐ 4416, bảng chốc) hoặc 25 mg/kg/ngày thành phần amoxicillin chia 2 lần (IDSA 2014, Bảng 2, dòng chốc). Hai nguồn khác liều: ghi cả hai, liều 25 mg/kg/ngày thận trọng hơn. Đổi chỉ vì tuân thủ; MSSA nhạy cephalexin. MSSA, đang cải thiện: không phủ MRSA, không tiêm tĩnh mạch (IDSA 2014, KC 14; NICE mục 1.1.14). Thêm cách thứ ba: cefalexin 25 mg/kg/liều mỗi 12 giờ (16 kg: 500 mg × 2 lần/ngày) × 5 ngày (WHO AWaRe 2022, nhóm 15–<20 kg) – cả ba cách đều đúng."
+    },
+    {
+     "t": "Kéo dài thêm để đủ liệu trình vì thiếu liều: uống đủ liều thêm 5 ngày",
+     "v": "c",
+     "n": "Kéo dài nếu chưa cải thiện hết trong 5 ngày (IDSA 2014, KC 15); chốc uống 7 ngày (KC 2b); NICE NG153 2020 (Bảng 2): 5 ngày, có thể 7. Số ngày thêm chính xác khi thiếu liều: không có trong tài liệu đã tải (lấy tổng ≥ 7 ngày uống đủ liều, suy luận)."
+    },
+    {
+     "t": "Tổn thương mới ở cổ chân phải: đắp nước muối, chỉ kháng sinh uống hoặc thêm kháng sinh bôi",
+     "v": "c",
+     "n": "Cách A: không kết hợp bôi và uống (NICE NG153 2020, mục 1.1.6). Cách B: mupirocin, acid fusidic, retapamulin bôi 2 lần/ngày, thường 7 ngày, kết hợp toàn thân (QĐ 4416, Chốc mục 3.1, 3.2.1)."
+    },
+    {
+     "t": "Sửa nguyên nhân chậm lành: cách cho thuốc, cắt móng, khăn riêng, ga gối, nghỉ học đến khi vảy khô, cha bé đi khám da liễu",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 2.1, 4); IDSA 2014 (KC 16: sửa yếu tố thuận lợi); NICE NG153 2020 (mục 1.1.1). Số ngày nghỉ học, xử trí người tiếp xúc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol chỉ khi bé khó chịu, không cho trước đi học theo thói quen; tối đa 60 mg/kg/ngày",
+     "v": "c",
+     "n": "QĐ 292/2024 (mục 3.1, 3.2.1); NICE NG143 2021 (mục 1.6.5, 1.6.6). Bé đã hết đau chạy chơi lại nên không cần thuốc đều đặn."
+    },
+    {
+     "t": "Hỏi mẹ có bị lây không, khuyên mẹ và cha đi khám riêng; không hứa hẹn về sinh sản",
+     "v": "c",
+     "n": "Nguy cơ lây trong gia đình: NICE NG153 2020 (mục 1.1.1). Liên quan nhiễm khuẩn da với sinh sản: không có trong tài liệu đã tải. Vô sinh trên một năm: QĐ 315/2015 (Vô sinh nữ mục 1)."
+    },
+    {
+     "t": "Hẹn tái khám sau 7 ngày hoặc khi hết thuốc; quay lại ngay nếu xấu đi",
+     "v": "c",
+     "n": "IDSA 2014 (KC 15): đánh giá khi hết đợt; NICE NG153 2020 (mục 1.1.7, 1.1.8). Mốc 7 ngày cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi bệnh viện tuyến trên đánh giá",
+     "v": "a",
+     "n": "Chấp nhận nhưng không cần: bé đang cải thiện, sai sót là cách dùng thuốc (NICE NG153 2020, mục 1.1.15 dành cho dấu hiệu nặng hơn; IDSA 2014, KC 18)."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch vì \"thuốc uống không hiệu quả\"",
+     "v": "w",
+     "n": "Không cần: đang đáp ứng, MSSA nhạy thuốc uống (IDSA 2014, KC 14, 18); thất bại là do thiếu liều, không phải do thuốc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc kèm viêm mô tế bào nhẹ do MSSA, đáp ứng một phần sau 5 ngày do thiếu liều, một tổn thương mới nhỏ ở cổ chân phải; không thất bại điều trị",
+     "Nguồn tái nhiễm: bé vẫn đi học, ngủ chung và dùng chung khăn với cha có mụn chưa khô",
+     "Paracetamol giảm còn 47 mg/kg/ngày, men gan về gần bình thường",
+     "Nỗi lo sinh sản của mẹ còn; mẹ có thể bị lây (chưa khám, không thuộc ca này)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi diễn tiến → hỏi cách cho thuốc (mỗi ngày mấy lần, bé nhổ bao nhiêu) → hỏi bé còn đi học, ai trong nhà còn mụn → hỏi thuốc hạ sốt hiện nay → khám da → xem cấy. Đỡ một phần ở ngày 5 khi tuân thủ kém, nguồn lây còn: nghĩ thất bại điều trị chỉ khi đã uống đủ liều mà quầng lan, sốt, đau không tương xứng (IDSA 2014, chú thích Hình 1; KC 15)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ kháng sinh phổ hẹp theo cấy MSSA, sửa cách cho thuốc (có thể đổi dạng uống 2 lần/ngày), kéo dài để đủ liệu trình (IDSA 2014, KC 15; NICE Bảng 2); ghi cả liều QĐ 4416 và IDSA. Gốc rễ là nguồn lây: nghỉ học đến khi vảy khô, cha đi khám, khăn riêng. Paracetamol chỉ khi khó chịu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (dạng bột pha uống)",
+      "ham_luong": "Theo chế phẩm sẵn có (không có trong tài liệu đã tải)",
+      "lieu": "100 – 200 mg/lần × 4 lần/ngày (25 – 50 mg/kg/ngày, IDSA 2014, Bảng 2) hoặc 100 mg/lần × 4 lần/ngày (25 mg/kg/ngày, QĐ 4416, Chốc mục 3.2.2) hoặc 500 mg mỗi 12 giờ × 5 ngày (WHO AWaRe 2022, chương nhiễm khuẩn da – mô mềm, nhóm cân nặng 15–<20 kg; liều cao nhất trong ba cách, theo sổ mâu thuẫn mục DL-0416 mục 2 bổ sung NH-1179)",
+      "duong": "Uống",
+      "thoi_diem": "Chia đều 4 lần; trộn với ít sữa, nước trái cây cho bớt đắng (suy luận); cho đủ liều, không bỏ",
+      "so_ngay": "Thêm 5 ngày uống đủ liều (tổng ≥ 7 ngày; IDSA 2014, KC 2b, 15; NICE Bảng 2: 5 – 7 ngày)",
+      "ghi_chu": "Hoặc amoxicillin–acid clavulanic 40 – 80 mg/kg/ngày chia 2 – 3 lần (QĐ 4416) hoặc 25 mg/kg/ngày chia 2 lần (IDSA Bảng 2) khi bé không chịu uống 4 lần. Paracetamol chỉ khi khó chịu (xem lượt 1)."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 9‰ (đắp gạc ẩm)",
+      "ham_luong": "NaCl 0,9%",
+      "lieu": "Đắp lên tổn thương mới ở cổ chân cho mềm vảy",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Đắp đến khi bong vảy (QĐ 4416, Chốc mục 3.2.1)",
+      "so_ngay": "Đến khi bong hết vảy",
+      "ghi_chu": "Số phút đắp: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đỡ nhưng chỉ uống khoảng 12/20 liều nên chưa đủ. Cho uống đủ 4 lần/ngày (hoặc đổi thuốc 2 lần/ngày nếu bé không uống được), trộn cho bớt đắng, không giảm liều vì sợ bé nôn (IDSA 2014, KC 15).",
+     "Nghỉ học đến khi vảy khô, không chảy dịch (số ngày: không có trong tài liệu đã tải). Cắt móng, khăn và ga gối riêng; cha bé đi khám da liễu, không tự mua thuốc mỡ (QĐ 4416, Chốc mục 4; NICE NG153 2020, mục 1.1.1).",
+     "Paracetamol chỉ khi bé khó chịu, đúng mg theo cân, tối đa 60 mg/kg/ngày (QĐ 292/2024, mục 3.2.1; NICE NG143 2021, mục 1.6.5).",
+     "Chị ngứa tay thì khám da; có em bé: không có tài liệu nói bệnh da của con ảnh hưởng, khám hiếm muộn cả hai vợ chồng (QĐ 315/2015, Vô sinh nữ mục 1). Quay lại ngay nếu bé sốt, li bì, đỏ lan nhanh (IDSA 2014, KC 27); tái khám sau 7 ngày."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 12 ngày",
+   "tiep_don": "Chị Mai đưa bé Bảo tái khám sau 12 ngày (khoảng 5 ngày sau khi hết thuốc). Chị nói bé \"khỏi rồi\", muốn cho bé đi học và hỏi có để sẹo không. Sinh hiệu: mạch 98 l/p, HA 90/55 mmHg, nhiệt độ 36,8 °C, nhịp thở 20 l/p, SpO₂ 99%. Cân nặng 16,2 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Bảo đã hết quầng, không sốt, chạy chơi; chỉ còn một vảy 5 mm không mủ, không có dấu hiệu bệnh nặng (NICE NG153 2020, mục 1.1.15, 1.1.16). Nhập viện hoặc truyền kháng sinh vì \"lâu lành\" là điều trị quá mức, tốn kém, và mẹ vẫn chưa được dặn phòng tái nhiễm (cắt móng, khăn riêng), nên tổn thương nhỏ có thể tái phát khi bé về học.",
+    "chuyen_tuyen": "Gửi bé lên tuyến trên vì một tổn thương nhỏ lâu lành, trong khi đã có cấy MSSA nhạy và không tái phát thường xuyên (NICE NG153 2020, mục 1.1.12, 1.1.13). Mẹ mất thêm một buổi, bé nghỉ học thêm, tuyến trên cũng chỉ kê thuốc bôi và dặn vệ sinh; nỗi lo sinh sản của mẹ vẫn không được trả lời trung thực."
+   },
+   "loi_mo": "Chào bác sĩ. Cháu khỏi rồi, em cho cháu đi học lại nhé. Chỉ còn cái vảy nhỏ ở cổ chân thôi. Bác sĩ coi giùm có để sẹo không.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "90/55",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Chị nói bé \"khỏi rồi\". Hỏi theo sinh hoạt: bé chạy chơi, ăn ngủ tốt, đi học lại từ 3 ngày nay. Nhưng bé vẫn hay gãi chỗ cổ chân phải, chị thấy vẫn còn một vảy nhỏ chưa bong. Gối đã lành, còn vết thâm. Không sốt, không tổn thương mới.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 12 ngày: gần khỏi, một tổn thương nhỏ lâu lành (khỏi chậm); người nhà giảm nhẹ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Từ sau lần khám trước chị cho uống đủ 4 lần/ngày hết 5 ngày, trộn với nước cam nên bé uống được. Paracetamol chỉ cho 1 lần ở ngày thứ 2 vì bé quấy; từ đó không cho nữa. Cha bé đã đi khám da liễu, được kê thuốc, mụn đã khô; khăn và ga gối đã tách riêng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt hơn; paracetamol ngưng; nguồn lây đã xử lý"
+    },
+    {
+     "id": "khong_dau_hieu",
+     "noi_dung": "Không phù mặt, nước tiểu vàng trong, không tiểu sẫm màu hay đỏ, không đau đầu, không nôn. Không tổn thương nào ở nơi khác. Chị tự thấy tay hết ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu biến chứng cầu thận, không tổn thương mới"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị hỏi nhỏ: \"Bác sĩ nói giúp, bệnh da của con và chồng em lần này có làm ảnh hưởng chuyện vợ chồng em muốn có em bé không? Em đã hẹn khám hiếm muộn rồi.\" Chị cảm thấy nhẹ nhõm nhưng vẫn lo.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật (lo lắng sinh sản): thu hoạch lại, trả lời trung thực không có nguồn",
+     "dieu_kien_lo": "Chị chỉ nói khi bác sĩ hỏi chị còn lo gì không, hoặc hỏi về chuyện đã kể ở hai lần khám trước."
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Gối trái: tổn thương đã lành, còn dát thâm nâu nhạt 3 cm, không vảy, không nóng, không đau. Cổ chân phải: một vảy tiết nâu khô khoảng 5 mm, nền hồng nhạt, không ướt, không quầng, không mủ. Cổ chân trái, cẳng tay phải: dát thâm phẳng. Không tổn thương mới ở nơi khác.",
+     "k": 1,
+     "hien": "Gối trái: dát thâm nâu nhạt, da phẳng, không vảy. Cổ chân phải: một vảy nâu khô khoảng 5 mm, không quầng, không chảy dịch. Nơi khác: không có tổn thương."
+    },
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, không sốt, không phù mi mắt, không phù chân.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Đi lại bình thường, không phù, hạch bẹn không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu",
+     "n": "Hữu ích, không bắt buộc: QĐ 4416 (Chốc mục 2.1) nêu viêm cầu thận ở trẻ em là biến chứng tiên lượng lành tính; thời điểm làm nước tiểu theo dõi: không có trong tài liệu đã tải. Không có dấu hiệu lâm sàng nên bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc kèm viêm mô tế bào nhẹ do MSSA đã khỏi gần hết sau 17 ngày; một tổn thương nhỏ ở cổ chân phải lâu lành do gãi, không quầng, không toàn thân; còn dát thâm sau viêm; không tái phát",
+     "ok": 1,
+     "n": "Các bọng nước lành sau 1 – 2 tuần nhưng có thể dai dẳng do tự lây truyền (QĐ 4416, Chốc mục 2.1). Đáp ứng đủ liều sau khi sửa cách cho thuốc, nguồn lây (IDSA 2014, KC 15, 16). Thời gian mờ dát thâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thất bại điều trị, nhiễm khuẩn tái phát thường xuyên",
+     "n": "Loại trừ: tổn thương mới chỉ do gãi, đang lành; tái phát thường xuyên mới cần cấy, tìm mang tụ cầu mũi (NICE NG153 2020, mục 1.1.13). Chưa đạt."
+    },
+    {
+     "t": "Biến chứng viêm cầu thận sau nhiễm khuẩn da",
+     "n": "Loại trừ: không phù, nước tiểu vàng trong, TPTNT bình thường (QĐ 4416, Chốc mục 2.1 nêu viêm cầu thận, tiên lượng lành tính)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tổn thương nhỏ còn lại ở cổ chân, không quầng, không toàn thân: không thêm kháng sinh uống; chăm sóc tại chỗ có thể kèm hydrogen peroxide 1% 5 ngày hoặc kháng sinh bôi",
+     "v": "c",
+     "n": "Cách A: hydrogen peroxide 1% bôi 2 – 3 lần/ngày × 5 ngày cho chốc khu trú (NICE NG153 2020, mục 1.1.2, Bảng 2). Cách B: mupirocin 2 lần/ngày × 5 ngày (IDSA 2014, KC 2a) hoặc mupirocin, acid fusidic, retapamulin bôi 2 lần/ngày, thường 7 ngày (QĐ 4416, Chốc mục 3.2.1); NICE Bảng 2 ghi acid fusidic 2% hoặc mupirocin 2% 3 lần/ngày × 5 ngày. Bôi lặp lại dễ kháng thuốc (NICE mục 1.1.4). Không cần cấy lại vì đã có MSSA nhạy và đang cải thiện (NICE mục 1.1.12, 1.1.14)."
+    },
+    {
+     "t": "Cắt móng, không gãi, khăn riêng, tắm rửa sạch; bé đi học được khi vảy khô, không chảy dịch",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 4); NICE NG153 2020 (mục 1.1.1). Số ngày nghỉ học: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi lo sinh sản trung thực: không có tài liệu nối nhiễm khuẩn da với sinh sản, khám hiếm muộn cả hai vợ chồng theo hẹn",
+     "v": "c",
+     "n": "Liên quan: không có trong tài liệu đã tải. Vô sinh: trên một năm sống chung không tránh thai (QĐ 315/2015, Vô sinh nữ mục 1, 2.2); vô sinh nam: tinh dịch đồ là thăm dò chính (Vô sinh nam mục 1)."
+    },
+    {
+     "t": "Hẹn tái khám nếu sau 7 ngày chăm sóc tại chỗ vảy vẫn chưa bong, hoặc có tổn thương mới nhiều lần",
+     "v": "c",
+     "n": "NICE NG153 2020 (mục 1.1.8, 1.1.13): đánh giá lại khi chưa cải thiện; tái phát thường xuyên thì cấy, cân nhắc xét mũi. Số ngày: không có trong tài liệu đã tải. Dấu hiệu phù, tiểu sẫm màu để quay lại: không có trong tài liệu đã tải (suy luận); viêm cầu thận tiên lượng lành tính (QĐ 4416, Chốc mục 2.1). Thời gian mờ dát thâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thêm một đợt kháng sinh uống \"cho chắc\"",
+     "v": "w",
+     "n": "Không cần: chỉ một tổn thương nhỏ khu trú, không toàn thân; kháng sinh dùng kéo dài hoặc lặp lại làm kháng thuốc phát triển nhanh (NICE NG153 2020, mục 1.1.4)."
+    },
+    {
+     "t": "Chuyển bệnh viện vì lâu lành",
+     "v": "w",
+     "n": "Không cần: không có dấu hiệu bệnh nặng, không tái phát thường xuyên (NICE NG153 2020, mục 1.1.15, 1.1.16)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc kèm viêm mô tế bào nhẹ do MSSA, gần khỏi sau khoảng 17 ngày (chậm hơn dự kiến), còn một tổn thương nhỏ ở cổ chân phải do gãi và dát thâm sau viêm",
+     "Nguồn lây trong nhà đã xử lý (cha đã khám da liễu), paracetamol đã ngưng, men gan bình thường",
+     "Nỗi lo sinh sản của mẹ: cần trả lời trung thực, không có nguồn, khám hiếm muộn riêng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi bằng sinh hoạt (chạy chơi, đi học, còn gãi không) vì mẹ nói \"khỏi rồi\" → hỏi thuốc, paracetamol, cha → hỏi nỗi lo của mẹ → khám da từng chỗ. Khỏi chậm do tự lây truyền (QĐ 4416, Chốc mục 2.1); báo động chỉ khi chưa cải thiện sau đợt uống (NICE mục 1.1.8, 1.1.12) hoặc tái phát thường xuyên (mục 1.1.13), không phải ca này."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thêm kháng sinh uống; chăm sóc tại chỗ tổn thương nhỏ (NICE mục 1.1.2, 1.1.3; IDSA KC 2a), ghi cả hai cách. Phòng tái nhiễm; trả lời nỗi lo sinh sản không có nguồn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrogen peroxide 1% (kem)",
+      "ham_luong": "1%",
+      "lieu": "Bôi lên tổn thương cổ chân phải 2 – 3 lần/ngày (NICE NG153 2020, Bảng 2)",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Sau khi đắp nước muối cho mềm vảy",
+      "so_ngay": "5 ngày (NICE Bảng 2)",
+      "ghi_chu": "Hoặc mupirocin 2% bôi 2 lần/ngày × 5 ngày (IDSA 2014, KC 2a) hoặc 7 ngày (QĐ 4416, mục 3.2.1); NICE Bảng 2: mupirocin 2%, acid fusidic 2%, 3 lần/ngày × 5 ngày. Chế phẩm hydrogen peroxide 1% sẵn có ở Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Nước muối sinh lý 9‰ (đắp gạc ẩm)",
+      "ham_luong": "NaCl 0,9%",
+      "lieu": "Đắp lên vảy ở cổ chân cho mềm",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Trước khi bôi thuốc",
+      "so_ngay": "Đến khi bong vảy",
+      "ghi_chu": "QĐ 4416 (Chốc mục 3.2.1)."
+     }
+    ],
+    "dan_do": [
+     "Bé gần khỏi; còn một vảy nhỏ ở cổ chân do gãi. Chăm sóc tại chỗ 5 ngày, cắt móng, không cho gãi, khăn riêng (QĐ 4416, Chốc mục 4; NICE NG153 2020, mục 1.1.1). Dát thâm nhạt dần (thời gian: không có trong tài liệu đã tải). Bé đi học khi vảy khô, không chảy dịch (số ngày: không có trong tài liệu đã tải).",
+     "Quay lại nếu có tổn thương mới nhiều lần, vảy không bong sau 7 ngày, hoặc bé sốt, đỏ lan, phù mặt, tiểu sẫm màu (NICE NG153 2020, mục 1.1.7).",
+     "Chị hỏi về sinh sản: không có tài liệu nối nhiễm khuẩn da này với khả năng sinh sản; vợ chồng đi khám hiếm muộn theo hẹn (QĐ 315/2015, Vô sinh nữ mục 1, Vô sinh nam mục 2.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 2 đỡ một phần vì bé nhổ siro, chỉ uống khoảng 12/20 liều, vẫn đi học, ngủ chung với cha có mụn chưa khô; cấy MSSA nhạy cephalexin, kháng sinh được dặn lại cách dùng, kéo dài đủ liệu trình, cha đi khám da liễu. Lượt 3 sau 12 ngày: gần khỏi (chậm hơn dự kiến), còn một vảy nhỏ ở cổ chân và dát thâm, men gan và nước tiểu bình thường, không dùng thêm kháng sinh uống. Mẹ được trả lời trung thực về nỗi lo sinh sản và hẹn khám hiếm muộn riêng.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: mẹ nói \"không sốt, không đau\". Câu hỏi chức năng (bé còn chạy không, ăn mấy muỗng, cô giáo gọi đón sớm) và hỏi từng gói thuốc đã cho mới lộ mức nặng thật.",
+  "Paracetamol 250 mg × 5 lần/ngày × 6 ngày (khoảng 78 mg/kg/ngày): chỉ lộ khi hỏi thuốc đã cho kèm giờ và hàm lượng; che nhiệt độ, men gan tăng nhẹ.",
+  "Lý do thật (lo khả năng sinh sản, sợ bệnh lây): mẹ giấu vì ngại; chỉ kể khi bác sĩ hỏi người nhà có ai bị không và ghi nhận nỗi lo.",
+  "Quầng viêm mô tế bào nhẹ trên nền chốc: cám dỗ chỉ bôi thuốc mỡ, hoặc truyền kháng sinh, nhập viện, chuyển tuyến vì sợ.",
+  "Lượt 2 \"đỡ một phần\": dễ nghĩ thất bại rồi đổi sang kháng sinh phổ rộng; thật ra là thiếu liều, vẫn đi học, nguồn lây ở nhà. Có xét nghiệm cơ bản: cám dỗ cấy, ASLO, định lượng paracetamol (IDSA 2014, KC 1, 12)."
+ ],
+ "bai_hoc_bien": [
+  "Chốc kèm viêm mô tế bào nhẹ ở trẻ mẫu giáo: vảy vàng mật ong sau muỗi đốt, gãi; quầng lan nhẹ, không toàn thân thì điều trị ngoại trú, kháng sinh uống theo cân nặng (QĐ 4416, Chốc mục 2.1, 3.2.2; IDSA 2014, KC 18; NICE NG153 2020, Bảng 2).",
+  "Người nhà phủ nhận: hỏi bằng sinh hoạt và hỏi từng loại thuốc, giờ, mg thay vì hỏi cảm giác; paracetamol theo giờ quá 60 mg/kg/ngày là quá liều tối đa (QĐ 292/2024, mục 3.2.1).",
+  "Đỡ một phần ở lượt 2: hỏi cách cho thuốc, ai trong nhà còn mụn, bé còn đi học; thường là thiếu liều và tái nhiễm, không phải thất bại (IDSA 2014, KC 15).",
+  "Hai nguồn lệch ở kết hợp bôi và uống, 5 hay 7 ngày, liều trẻ em, ngoại trú hay chuyển bệnh viện: ghi cả hai, không chọn một bên."
+ ],
+ "diem_nho": [
+  "Chốc không bọng nước: vảy tiết vàng mật ong trên nền đỏ ướt, chẩn đoán chủ yếu bằng lâm sàng (QĐ 4416, Chốc mục 2.1, 2.3). Nhiều tổn thương hoặc ổ dịch dùng kháng sinh uống (mục 3.2.2; IDSA 2014, chốc KC 2).",
+  "Liều trẻ em: cephalexin 25 mg/kg/ngày chia 4 (QĐ 4416) hoặc 25 – 50 mg/kg/ngày (IDSA Bảng 2); flucloxacillin 125 – 250 mg × 4 lần/ngày cho 2 – 9 tuổi (NICE Bảng 2); 5 ngày, có thể 7.",
+  "Paracetamol cho trẻ: 10 – 15 mg/kg/lần mỗi 4 – 6 giờ, tối đa 60 mg/kg/ngày (QĐ 292/2024); chỉ khi trẻ khó chịu, không để hạ nhiệt độ đơn thuần (NICE NG143 2021, mục 1.6.4 – 1.6.6)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Chốc mục 1.2, 2.1 – 2.4, 3.1, 3.2.1, 3.2.2 (cột trẻ em), 4; Zona mục 2.1; Nấm sợi mục 2.1, 2.2.",
+  "IDSA 2014 (TL-0270; Clin Infect Dis 2014;59:e10–52) – chốc KC 1, 2; viêm mô tế bào KC 12, 14 – 18; KC 27; Bảng 2 (cột trẻ em); chú thích Hình 1.",
+  "NICE NG153 2020 – Impetigo: antimicrobial prescribing (TL-0428) – mục 1.1.1 – 1.1.16; Bảng 2 (trẻ em và thanh thiếu niên dưới 18 tuổi).",
+  "QĐ 292/2024 (TL-0239) – mục 3.1, 3.2.1; NICE NG143 2021 (TL-0262) – mục 1.6.2 – 1.6.6.",
+  "Bộ Y tế – QĐ 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc (TL-0035) – Ngộ độc paracetamol mục 2, 3, 3.4.",
+  "Bộ Y tế – QĐ 315/QĐ-BYT 2015, bệnh sản phụ khoa (TL-0036) – Vô sinh nữ mục 1, 2.2, 3.2; Vô sinh nam mục 1, 2.1.1.",
+  "Không có trong tài liệu đã tải: ngưỡng SIRS, mạch, nhịp thở, bạch cầu, men gan theo tuổi trẻ em; ngưỡng liều paracetamol lặp kéo dài gây độc ở trẻ; mốc tái khám 48 – 72 giờ; số ngày nghỉ học; xử trí người tiếp xúc; thời gian mờ dát thâm; hàm lượng chế phẩm; liên quan nhiễm khuẩn da với sinh sản."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08, viết: Sonnet). Tài liệu đã đọc: TL-0397 (QĐ 4416: Chốc 1–4; Zona 2.1; Nấm sợi 2.1–2.2); TL-0270 (IDSA 2014: chốc KC 1–2, KC 12–18, 27, Bảng 2); TL-0428 (NICE NG153 1.1.1–1.1.16, Bảng 2); TL-0239 (QĐ 292/2024 3.1, 3.2.1); TL-0262 (NICE NG143 1.6.2–1.6.6); TL-0035 (QĐ 3610/2015, Ngộ độc paracetamol); TL-0036 (QĐ 315/2015: Vô sinh nữ, Vô sinh nam); mau_thuan.md (mục DL-0416, NH-0666 đã áp dụng).",
+  "Thiết kế: biến \"sau quan hệ tình dục\" không áp dụng cho trẻ 4 tuổi nên đặt ở cha mẹ (cha nổi mụn mủ sau lần gần gũi vợ chồng, mẹ lo bệnh lây và ảnh hưởng sinh sản); khởi phát của bé là muỗi đốt, gãi. Không khẳng định nguồn lây hay bệnh lây qua đường tình dục ở người lớn (không có trong tài liệu đã tải). Men gan tăng nhẹ là dữ kiện thiết kế (độ lớn chưa có nguồn). Lượt 2 đỡ một phần do thiếu liều, vẫn đi học, nguồn lây ở nhà; lượt 3 khỏi chậm do một tổn thương nhỏ vì gãi.",
+  "Ảnh: SCIN case -5048121674534375075 (nhãn Insect Bite, vùng chân), HA-DA-0293 (mặt trước gối: vùng đỏ quanh trợt nhỏ vảy vàng); các tổn thương khác mô tả bằng chữ; các ảnh khác trong lượt chọn đã loại. Khai báo: DL-0436_media.json.",
+  "Mâu thuẫn mới: DL-0436_mau_thuan.md (liều kháng sinh uống cho trẻ em). Danh mục đề xuất: không có.",
+  "08/11/2026 trưởng nhóm duyệt: mâu thuẫn liều cephalexin trẻ em đã có trong sổ (DL-0416 mục 2, bổ sung NH-1179) nên không thêm mục mới; bổ sung cách AWaRe 2022 (500 mg × 2 lần/ngày × 5 ngày cho 15–<20 kg) vào đơn thuốc và xu_tri lượt 1–2."
+ ]
+}
