@@ -1,0 +1,561 @@
+{
+ "ma_ca": "NH-0621",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_phoi_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm phổi trẻ em",
+  "chan_doan_phai_loai_tru": [
+   "Lao",
+   "Dị vật đường thở",
+   "Viêm tiểu phế quản"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Phan Khánh Chi",
+  "tuoi": 0.42,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 6.2,
+  "chieu_cao": 62,
+  "xung_ho": "Bé gái 5 tháng (ở nhà gọi bé Na), chỉ khóc yếu, ê a. Mẹ (chị Hương, 27 tuổi) trả lời mọi câu hỏi, gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'cháu' hoặc 'con'.",
+  "tinh_cach": "Chị Hương hiền, hay lo, nói nhanh khi lo, hay chen câu hỏi 'có lây không, bác sĩ'. Sợ phiền người khác và sợ tốn tiền xe nên cứ muốn xin thuốc về nhà. Tin rằng bé mệt là do thuốc mới.",
+  "kieu_nhieu": "Ở xa, khó tái khám: chị nhắc nhiều lần nhà cách 35 km, chiều phải về, mai khó lên lại; hay giảm nhẹ triệu chứng ('chắc do thuốc mới thôi') và chỉ kể đủ khi được hỏi cụ thể từng việc (bú mấy cữ, thở, thuốc đang uống). Khi nghe phải chuyển tuyến thì từ chối, viện lý do con trai 3 tuổi ở nhà và đi xa. Chỉ đồng ý khi bác sĩ giải thích bằng tiêu chí cụ thể, hỏi ra nỗi lo lây bệnh cho người nhà, và có sắp xếp cụ thể (xe, gọi ông bà, số điện thoại).",
+  "nguoi_nha": "Mẹ bé (chị Hương, 27 tuổi) đi cùng; chồng làm công nhân xa nhà, ông bà ở nhà trông anh trai 3 tuổi.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#f1c9a8",
+   "toc": "#1c1511",
+   "kieuToc": "tre",
+   "ao": "#f4d6e0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e2b48c",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#7a9e7e",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé bú kém, ngủ nhiều hai ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám ngoại trú không có máy CT và không có giường lưu bệnh qua đêm. Có xét nghiệm cơ bản, X-quang ngực, siêu âm, máy đo SpO₂ đầu dò trẻ nhỏ và bình oxy cấp cứu kèm gọng mũi cho trẻ nhỏ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 5 tháng, 6,2 kg, mẹ đưa đến vì bú kém, ngủ nhiều hai ngày nay; mẹ ngờ do thuốc mới bệnh viện vừa đổi. Sinh hiệu: nhiệt 36,9 °C, mạch 158 l/p, nhịp thở 62 l/p, SpO₂ 91% (khí trời). Bé tỉnh, quấy yếu.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Chi gần như bỏ bú, thở 62 l/p, rút lõm ngực dưới và SpO₂ chỉ 91% khi nghỉ (tụt thấp hơn khi bú): không bú được là dấu hiệu nguy hiểm toàn thân, viêm phổi nặng phải điều trị tại bệnh viện (QĐ 101/QĐ-BYT 2014 mục V.2, VII.2; WHO 2013 Bảng 7 tr. 81); WHO 2024 (khuyến cáo 2a) chỉ cho amoxicillin uống ngoại trú khi KHÔNG có dấu hiệu nguy hiểm toàn thân. Về nhà cách 35 km đường đất, không có sóng điện thoại, tối bé thiếu oxy và bỏ bú tiếp (nguy cơ hạ đường huyết và mất nước ở trẻ nhỏ: QĐ 101 mục VII.2.3b) mà mẹ không có phương tiện đưa đi ngay. Chồng đi làm xa nên chị Hương khó quay lại, đúng loại ca không được hẹn 'mai khám lại'.",
+    "theo_doi": "Giữ bé vài giờ ở phòng khám 'xem sao' rồi mới quyết định: bé đã có tiêu chuẩn viêm phổi nặng nên mỗi giờ chờ là một giờ chưa có oxy liên tục và kháng sinh tiêm ở nơi có đủ phương tiện (QĐ 101 mục VII.2.1: trẻ có dấu hiệu suy hô hấp phải nhập viện cấp cứu; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.3, 5.12: SpO₂ < 92% nhập viện, cho oxy). Quãng đường tới bệnh viện tỉnh khoảng 1 giờ 45 phút; kéo sang chiều tối thì phải đi đêm với bé đang thiếu oxy, và phòng khám không có điều kiện theo dõi bé qua đêm. Chờ có thêm kết quả xét nghiệm không làm đổi quyết định chuyển."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu bú kém hai hôm nay, sáng giờ bỏ bú gần hết, ngủ nhiều lắm. Em ngờ do thuốc bệnh viện mới đổi cho cháu cách đây mười ngày. Bác sĩ khám nhanh giùm em, nhà em xa lắm, chiều em còn phải về.",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 62,
+    "spo2": 91,
+    "canh_bao": [
+     "mach",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé bú kém từ 3 ngày nay, hôm nay gần như bỏ bú, ngủ nhiều hơn. Mẹ cho rằng do thuốc mới đổi nên muốn hỏi có phải tác dụng phụ không, và xin khám nhanh để về trong ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho_sot",
+     "noi_dung": "Bé không sốt: mẹ đo nách ba lần trong hai ngày đều 36,6–37,4 °C. Ho rất ít, chỉ vài tiếng ho khan mỗi ngày từ hôm qua, chảy mũi trong nhẹ. Mẹ chưa cho thuốc ho, kháng sinh hay thuốc nam nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, ho (biểu hiện không điển hình)"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Từ hôm qua mẹ thấy bụng bé phập phồng nhanh cả lúc ngủ, lúc bú phải nhả ra thở dốc. Bé không thở rên, không khò khè, không tím, không có cơn ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thở nhanh, khó thở khi bú"
+    },
+    {
+     "id": "bu_an",
+     "noi_dung": "Bé bú mẹ hoàn toàn, trước đây 7–8 cữ/ngày. Hôm qua còn 4 cữ, mỗi cữ vài phút; từ sáng nay chỉ bú được 2 cữ, mỗi cữ vài ngụm rồi nhả ra. Từ sáng bé đi tiểu 2 lần, không nôn, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, dấu hiệu nguy hiểm toàn thân (WHO 2024; QĐ 101)"
+    },
+    {
+     "id": "sac_nghet",
+     "noi_dung": "Bé chưa bò, chưa tự cầm đồ ăn. Không có lần nào sặc, tím đột ngột hay ho sặc sụa. Anh trai 3 tuổi có chơi đồ chơi nhỏ nhưng mẹ không thấy bé ngậm hay nuốt thứ gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hội chứng xâm nhập (loại trừ dị vật đường thở)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Trong nhà không ai ho kéo dài, sụt cân hay ho ra máu. Bé tiêm BCG từ lúc sinh, cân nặng tăng đều (sinh 3,2 kg, nay 6,2 kg). Không ai trong nhà hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người ho kéo dài, tăng trưởng (loại trừ lao)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng 3,2 kg. Lúc 3 tuần tuổi bé nằm viện Nhi tỉnh vì nhiễm khuẩn sơ sinh, được đặt catheter ở đùi, sau đó phát hiện huyết khối tĩnh mạch đùi trái. Siêu âm tim lúc đó bình thường, bé không tím, không đổ mồ hôi khi bú trước đây. Chưa từng khò khè, không tiền sử hen hay dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sơ sinh, bệnh nền (huyết khối), tim bẩm sinh"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bé đang uống thuốc kháng đông (warfarin, mẹ đọc theo giấy ra viện) mỗi tối. Mười ngày trước bệnh viện đổi từ thuốc tiêm dưới da sang thuốc uống để về nhà đỡ phải tiêm. Mẹ không nhớ liều, chỉ biết viên được bẻ nhỏ; có mang theo giấy ra viện và sổ theo dõi. Không có vết bầm, không chảy máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (kháng đông): ảnh hưởng tiêm bắp, thủ thuật, bàn giao"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Năm ngày trước mẹ đưa bé lên bệnh viện tỉnh thử máu theo dõi thuốc mới, ngồi chờ khoảng 3 giờ ở khu khám đông, có người ho. Hai ngày sau bé bắt đầu bú kém. Mẹ nối hai việc này với việc đổi thuốc nên tin là do thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát (đổi thuốc điều trị)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Bé tiêm đủ mũi 5 trong 1 theo tháng tuổi trong chương trình tiêm chủng mở rộng, chưa tiêm phế cầu (vắc xin dịch vụ, nhà xa không có điều kiện).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử tiêm chủng"
+    },
+    {
+     "id": "hiv_me",
+     "noi_dung": "Mẹ có làm xét nghiệm HIV khi mang thai, kết quả âm tính; bé bú mẹ hoàn toàn từ sinh đến nay. Mẹ và chồng không có nguy cơ lây nhiễm khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguy cơ HIV (loại trừ Pneumocystis)"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám 35 km, hơn một nửa là đường đất, sóng điện thoại ở nhà chập chờn. Chồng làm công nhân xa nhà. Bé trai 3 tuổi ở nhà với ông bà. Đi bệnh viện tỉnh từ đây thêm khoảng 70 km. Mẹ đi nhờ xe người quen nên 'chiều phải về'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều mẹ lo nhất là bệnh của bé lây sang anh trai 3 tuổi và bà ngoại hay ho, vì hôm ngồi chờ ở bệnh viện có người ho; mẹ ngủ chung giường với cả hai con. Chị muốn biết cách ly thế nào hơn là nghe chuyện nằm viện, nên cứ hỏi 'có lây không' và tìm cách xin thuốc về nhà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi 'chị lo nhất điều gì', hỏi ai ở nhà với bé, hỏi về anh chị em hoặc người thân hay ho, hoặc tỏ ra thông cảm với hoàn cảnh gia đình.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, quấy yếu khi khám, mắt nhìn theo mẹ, đáp ứng kích thích tốt. Cánh mũi phập phồng, không gật đầu theo nhịp thở, không thở rên. Môi hồng khi nghỉ, hơi tái quanh môi khi bé khóc. Niêm mạc hơi khô, khóc ít nước mắt, thóp phẳng. Chi ấm, thời gian phục hồi mao mạch dưới 2 giây.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 62 l/p, thở bụng. Rút lõm lồng ngực dưới rõ, không thở rít, không khò khè. Đáy phổi phải (phía sau): thông khí giảm, ran nổ nhỏ hạt khu trú, gõ hơi đục. Phổi trái: rì rào phế nang rõ. Lồng ngực hai bên di động đều, không căng phồng.",
+     "k": 1,
+     "hien": "Nhịp thở 62 l/p. Rút lõm lồng ngực dưới rõ. Không thở rên, không thở rít.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt khu trú ở đáy phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú đúng nhưng chỉ mút được 1–2 phút thì nhả ra thở dốc, quấy, không bú tiếp dù mẹ dỗ nhiều lần. Có tiếng nuốt, không sặc, không thở rên. Trong lúc bú SpO₂ tụt xuống 86–88%, ngừng bú một lúc thì lên lại 90–91%. Không đổ mồ hôi trán.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 6,2 kg, chiều dài 62 cm, MUAC 13,8 cm. Phù hợp tuổi, không suy dinh dưỡng; tăng cân đều theo sổ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 158 l/p, T1 T2 rõ, không âm thổi, không T3. Mạch bẹn rõ hai bên, chi ấm.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan dưới bờ sườn 1 cm, lách không sờ thấy, không chướng. Chi dưới: đùi trái không sưng hơn đùi phải.",
+     "k": 0
+    },
+    "da": {
+     "a": "Sẹo BCG vai trái. Không ban, không chấm xuất huyết, không vết bầm. Tím nhẹ quanh môi khi khóc, không tím đầu chi khi nghỉ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi ít dịch trong. Họng hơi đỏ, không giả mạc. Màng nhĩ hai bên hồng nhạt, không phồng.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Thóp phẳng. Không sờ thấy hạch cổ hay hạch nách. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 18,4 G/L · Neutrophil 68% · Hb 108 g/L · TC 380 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 18.4,
+      "neu_pct": 68.0,
+      "neu": 12.51,
+      "lym_pct": 24.0,
+      "lym": 4.42,
+      "mono_pct": 6.0,
+      "mono": 1.1,
+      "eos_pct": 1.5,
+      "eos": 0.28,
+      "baso_pct": 0.5,
+      "baso": 0.09,
+      "rbc": 3.9,
+      "hgb": 108,
+      "hct": 0.33,
+      "mcv": 84.6,
+      "mch": 27.7,
+      "mchc": 327,
+      "rdw": 14.2,
+      "plt": 380
+     },
+     "n": "Không bắt buộc, chấp nhận nếu không làm chậm việc chuyển: chẩn đoán viêm phổi chủ yếu dựa lâm sàng (QĐ 101 mục V); bạch cầu và đa nhân trung tính thường tăng khi do vi khuẩn (QĐ 101 mục VI.2). Kết quả không đổi hướng xử trí. Các giá trị tham chiếu của máy là của người lớn; bé 5 tháng có Hb thấp hơn và lympho chiếm tỉ lệ cao hơn là bình thường theo tuổi (không có trong tài liệu đã tải, nhận xét của người soạn)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "46 mg/L",
+     "ab": 1,
+     "n": "Không bắt buộc, chấp nhận (QĐ 101 mục VI.2: CRP thường tăng cao khi viêm phổi do vi khuẩn). Không đổi hướng xử trí."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Đám mờ đồng nhất vùng thùy dưới phổi phải, trong đó thấy hình phế quản chứa khí. Góc sườn hoành phải còn nhọn, không tràn dịch, không tràn khí màng phổi. Không ứ khí khu trú hay lan tỏa, không xẹp phổi, không hạch rốn phổi, bóng tim không to.",
+     "ab": 1,
+     "n": "Hữu ích nếu làm nhanh và không làm chậm chuyển tuyến: viêm phổi nặng nên chụp X-quang nếu có thể để tìm tràn dịch, tràn mủ, tràn khí (WHO 2013 tr. 82; QĐ 101 mục VI.1 hình ảnh điển hình). Phim còn giúp loại dị vật (không ứ khí khu trú) và lao (không hạch rốn phổi) nhưng không thay đổi quyết định chuyển. Kết quả gửi kèm bệnh nhân."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 2,4",
+     "n": "Hữu ích để bàn giao: bé đang dùng thuốc kháng đông, tuyến trên cần biết mức đông máu trước khi tiêm bắp hay làm thủ thuật. Khoảng INR đích cho trẻ nhũ nhi và cách chỉnh liều khi dùng kháng sinh: không có trong tài liệu đã tải (do bệnh viện kê đơn quyết định). Không bắt buộc phải có kết quả mới chuyển."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "4,6 mmol/L",
+     "n": "Chấp nhận: bé bỏ bú nên có nguy cơ hạ đường huyết, QĐ 101 mục VII.2.3b nêu 'có thể hạ đường huyết ở trẻ nhỏ'; ngưỡng cụ thể: không có trong tài liệu đã tải."
+    },
+    "sa_phoi": {
+     "n": "Không cần: WHO 2024 (Table 1, khuyến cáo 3) không có khuyến cáo siêu âm phổi để chẩn đoán viêm phổi ở trẻ 2–59 tháng (khoảng trống bằng chứng); X-quang đã đủ."
+    },
+    "pct": {
+     "n": "Không cần: QĐ 101, QĐ 3312 không đưa procalcitonin vào chẩn đoán hay quyết định chuyển viêm phổi trẻ em."
+    },
+    "cay": {
+     "n": "Không làm tại phòng khám (cấy mất vài ngày); cấy máu nếu có do tuyến trên làm. Không trì hoãn liều kháng sinh đầu và việc chuyển để chờ cấy (xem 'Từ ca HH-0737' mục 5 trong sổ mâu thuẫn)."
+    },
+    "abg": {
+     "n": "Không cần ở phòng khám: SpO₂ đo trực tiếp đã đủ để quyết định cho oxy và chuyển (QĐ 101 Phụ lục 2; WHO 2013 tr. 82). Khí máu do tuyến trên quyết định."
+    },
+    "xpert_tre": {
+     "n": "Chưa cần: bé không ho kéo dài trên 14 ngày, không tiếp xúc người ho kéo dài, tăng cân đều, có sẹo BCG, bệnh khởi phát cấp (WHO 2013 Bảng 6, tr. 79)."
+    },
+    "igra": {
+     "n": "Không cần: không có yếu tố gợi ý lao (WHO 2013 Bảng 6, tr. 79)."
+    },
+    "noi_soi_pq": {
+     "n": "Không cần và không làm được ở phòng khám: không có hội chứng xâm nhập, không có khò khè khu trú, X-quang không ứ khí khu trú (QĐ 3312, Dị vật đường thở mục 3.1; WHO 2013 Bảng 6, tr. 79)."
+    },
+    "pcr_ho_hap": {
+     "n": "Không cần: tìm virus không đổi quyết định chuyển và điều trị ban đầu (QĐ 101 mục VI không đưa vào chẩn đoán)."
+    },
+    "mycoplasma": {
+     "n": "Không cần: M. pneumoniae là nguyên nhân hàng đầu ở trẻ trên 5 tuổi, còn ở trẻ 2 tháng đến 5 tuổi thường gặp phế cầu, H. influenzae (QĐ 101 mục IV)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Không thực hiện được tại cơ sở",
+     "n": "Cơ sở không có CT và ca này không cần: viêm phổi nặng chẩn đoán dựa lâm sàng, X-quang đã thấy đông đặc thùy; nếu không đáp ứng sau 48 giờ thì tuyến trên tìm biến chứng hay chẩn đoán khác (WHO 2013 tr. 83; QĐ 101 mục VII.2.4). Trẻ nhũ nhi chụp CT cần cân nhắc vì bức xạ; mức độ cụ thể: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi nặng ở nhũ nhi 5 tháng (thùy dưới phổi phải), thiếu oxy khi bú, không sốt, ho ít; bệnh nền huyết khối tĩnh mạch đùi đang dùng thuốc kháng đông",
+     "ok": 1,
+     "n": "Thở 62 l/p (ngưỡng thở nhanh trẻ 2–11 tháng ≥ 50 l/p: QĐ 101 mục V.1; WHO 2013 tr. 80), rút lõm lồng ngực, ran nổ khu trú; có dấu hiệu nặng: bỏ bú, SpO₂ < 90% khi bú, cánh mũi phập phồng (QĐ 101 mục V.2; WHO 2013 Bảng 7 tr. 81). QĐ 101 mục V.1 và QĐ 3312 viết 'ho, sốt kèm…' còn WHO 2013 chỉ cần ho hoặc khó thở: bé không sốt, ho ít vẫn đủ tiêu chuẩn (sổ mâu thuẫn đã ghi). Đây là chỗ không điển hình: bệnh biểu hiện bằng bỏ bú và thở nhanh, dễ bị gán cho tác dụng phụ của thuốc mới."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Ít nghĩ: bệnh cảnh không có khò khè, ran rít hay ran ngáy lan tỏa; ran nổ khu trú một bên, không sốt cao, X-quang đông đặc thùy chứ không mờ lan tỏa/ứ khí (QĐ 3312, Viêm tiểu phế quản cấp mục 3.1–3.2; WHO 2013 Bảng 6 tr. 78: khò khè và ran nổ, tuổi thường dưới 1 tuổi). Tuổi dưới 6 tháng là yếu tố nguy cơ nặng (QĐ 3312 mục 1.2) nhưng không đổi hướng xử trí: cả hai đều phải theo dõi sát tại bệnh viện khi SpO₂ thấp, bỏ bú."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không có hội chứng xâm nhập (không sặc, không tím đột ngột), bé 5 tháng chưa bò, chưa tự cầm đồ ăn, không khò khè hay giảm thông khí khu trú kiểu tắc nghẽn, X-quang không ứ khí khu trú (QĐ 3312, Dị vật đường thở mục 3.1; WHO 2013 Bảng 6 tr. 79)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Không ho kéo dài trên 14 ngày, không tiếp xúc người ho kéo dài, không chậm tăng cân, có sẹo BCG, khởi phát cấp vài ngày, X-quang không hạch rốn phổi (WHO 2013 Bảng 6 tr. 79)."
+    },
+    {
+     "t": "Bệnh tim bẩm sinh / suy tim",
+     "n": "Bú kém, thở nhanh gợi suy tim nhưng bé không tím khi nghỉ, tim không thổi, không T3, gan không to, không đổ mồ hôi trán khi bú, siêu âm tim lúc nằm viện bình thường (WHO 2013 Bảng 6 tr. 78). Nếu tuyến trên nghi ngờ vẫn siêu âm tim."
+    },
+    {
+     "t": "Viêm phổi do Pneumocystis (nhiễm HIV)",
+     "n": "Tuổi 2–6 tháng, thở nhanh là bối cảnh gợi ý (WHO 2013 Bảng 6 tr. 79), nhưng bé có ran nổ khu trú và X-quang đông đặc thùy, mẹ có HIV âm tính khi mang thai, bú mẹ hoàn toàn. Chưa đủ gợi ý; tuyến trên cân nhắc xét nghiệm HIV theo hướng dẫn (WHO 2013 tr. 84)."
+    },
+    {
+     "t": "Tác dụng phụ của thuốc kháng đông mới (xuất huyết, quá liều)",
+     "n": "Mẹ nghi như vậy, nhưng bé không có vết bầm, chấm xuất huyết, chảy máu hay phân đen; bệnh biểu hiện bằng thở nhanh, rút lõm, ran nổ khu trú và hình đông đặc trên phim, INR 2,4. Khoảng INR chấp nhận được và các tác dụng phụ ở trẻ nhũ nhi: không có trong tài liệu đã tải, do bệnh viện kê đơn đánh giá. Triệu chứng không giải thích được bằng thuốc, nhưng vẫn phải báo bệnh viện về việc đổi thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định viêm phổi NẶNG, chuyển bé ngay đến khoa Nhi bệnh viện tỉnh bằng xe cấp cứu có oxy; không cho về, không chờ hết các kết quả",
+     "v": "c",
+     "n": "Viêm phổi nặng điều trị tại bệnh viện (QĐ 101 mục VII.2; QĐ 3312, Viêm phổi do vi khuẩn mục 4, phần 2); WHO 2013 Bảng 7 tr. 81 'admit to hospital'. Bé có đủ nhiều tiêu chuẩn độc lập: bỏ bú (dấu hiệu nguy hiểm toàn thân: QĐ 101 mục V.2; WHO 2024 tr. 8 chú thích), SpO₂ < 90% khi bú, SpO₂ 91% khi nghỉ < 92% (QĐ 708 Phụ lục 1 khuyến cáo 5.3), bệnh mạn tính kèm theo cần nhập viện (khuyến cáo 5.3, mức C). Hai ngưỡng SpO₂ (< 90% theo QĐ 101/WHO 2013, < 92% theo QĐ 708) khác bối cảnh; chọn bên thận trọng hơn, bé nằm dưới cả hai khi bú nên quyết định không đổi."
+    },
+    {
+     "t": "Thở oxy gọng mũi ngay, theo dõi SpO₂ liên tục, chỉnh lưu lượng để SpO₂ lên ≥ 92% (QĐ 101) hoặc > 90% (WHO 2013); lưu lượng tối đa gọng mũi trẻ bú mẹ 2–3 l/p",
+     "v": "c",
+     "n": "Chỉ định oxy: SpO₂ < 90%, không bú/uống được nghi do thiếu oxy (QĐ 101 Phụ lục 2 mục 1); QĐ 708 Phụ lục 1 khuyến cáo 5.12 cho oxy khi SpO₂ < 92%; WHO 2013 tr. 82: oxy nếu SpO₂ < 90%, giữ > 90%, gọng mũi là cách ưu tiên cho nhũ nhi. QĐ 101 Phụ lục 2 mục 3: giữ SpO₂ > 92%, trẻ tỉnh và ăn uống được. Hai mục tiêu khác nhau nhẹ: chọn ≥ 92% là bên thận trọng hơn. Lưu lượng khởi đầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho nằm đầu hơi cao, hút mũi thông thoáng, giữ ấm; không ép bú khi bé đang thở dốc",
+     "v": "c",
+     "n": "Thông thoáng đường thở, hút rửa mũi miệng (QĐ 101 mục VII.2.1.1); giữ ấm khi chuyển tuyến (QĐ 101 mục VII.2.3a); hút nhẹ chất tiết ở mũi họng mà trẻ không tự làm sạch (WHO 2013 tr. 83)."
+    },
+    {
+     "t": "Cho một liều kháng sinh đầu trước khi đi: amoxicillin uống 40 mg/kg (6,2 kg: 250 mg) nếu bé nuốt được, HOẶC ampicillin 50 mg/kg (≈ 310 mg) tiêm bắp/tiêm tĩnh mạch",
+     "v": "c",
+     "n": "Viêm phổi nặng: 'cho 1 liều kháng sinh thích hợp, chuyển gấp trẻ đi bệnh viện' (QĐ 2341/QĐ-BYT 2024, Bảng kiểm 8, tr. 19). Amoxicillin ≥ 40 mg/kg/liều: WHO 2024 (Rec 2a, mục Remarks) và sổ mâu thuẫn 'Từ ca HH-0737' mục 5 (liều đầu rồi chuyển); QĐ 708 mục 5.3b cho 45 mg/kg/ngày chia 3 lần (liều đơn thấp hơn), cũng chấp nhận (sổ mâu thuẫn 'Liều amoxicillin cho trẻ 2–59 tháng'). Ampicillin 50 mg/kg: QĐ 101 mục VII.2.2; WHO 2013 tr. 82. Bé đang dùng kháng đông nên tiêm bắp có nguy cơ tụ máu tại chỗ (nhận xét của người soạn, không có trong tài liệu đã tải): đường uống hoặc tĩnh mạch được ưu tiên."
+    },
+    {
+     "t": "Không truyền dịch tại phòng khám; nếu tuyến trên thấy bé không bú được thì đặt ống thông dạ dày, cho dịch duy trì vừa đủ",
+     "v": "c",
+     "n": "Đảm bảo dịch duy trì theo tuổi nhưng tránh thừa dịch; chỉ đặt sonde dạ dày khi trẻ không uống đủ, còn uống được thì không đặt vì tăng nguy cơ viêm phổi hít (WHO 2013 tr. 83); QĐ 101 mục VII.2.3b: bù dịch tĩnh mạch khi mất nước và không uống được. Bé hiện bú được vài ngụm nên giữ cho bú từng ít một; quyết định dịch thuộc tuyến trên."
+    },
+    {
+     "t": "Gọi điện báo trước cho khoa Nhi bệnh viện tỉnh; nhân viên y tế đi cùng, mẹ đi cùng, SpO₂ đo liên tục trên đường đi; chuyển ngay trong buổi này",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 8: chuyển gấp; QĐ 101 mục VII.2.1: trẻ có dấu hiệu suy hô hấp phải nhập viện cấp cứu và xử lý kịp thời. Mẫu bàn giao (SBAR) và quy trình vận chuyển cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bàn giao: ghi rõ thuốc kháng đông đang dùng (tên, liều theo giấy ra viện, ngày đổi thuốc, giờ uống gần nhất), INR 2,4, kết quả X-quang, công thức máu, thuốc đã cho; mẹ mang theo giấy ra viện, sổ theo dõi và lọ thuốc",
+     "v": "c",
+     "n": "Kháng đông có ý nghĩa với tiêm bắp, thủ thuật (chọc màng phổi, đặt sonde) và tương tác khi đổi kháng sinh: nội dung này và INR đích không có trong tài liệu đã tải; đây là lý do cần bàn giao đầy đủ cho nơi kê đơn. Không tự ý ngừng hay đổi liều thuốc ở phòng khám."
+    },
+    {
+     "t": "Nói chuyện với mẹ: giải thích bằng tiêu chí cụ thể (bỏ bú, SpO₂ thấp, thở nhanh, rút lõm), hỏi nỗi lo thật, trấn an chuyện lây và sắp xếp việc nhà (gọi ông bà trông anh trai), cho số điện thoại phòng khám",
+     "v": "c",
+     "n": "Bệnh nhân ở xa, khó tái khám: phải xử trí trọn gói và dặn bằng văn bản (đặc tả sổ cái). Dấu hiệu nặng: QĐ 101 mục VII.1. Hướng dẫn cách ly người thân khi con viêm phổi: không có trong tài liệu đã tải; nên giữ vệ sinh tay và không hút thuốc trong nhà (QĐ 3312, Viêm tiểu phế quản mục 6, phòng bệnh)."
+    },
+    {
+     "t": "Chụp X-quang ngực nhanh tại phòng khám trước khi đi",
+     "v": "a",
+     "n": "Chấp nhận nếu làm ngay và không làm chậm chuyển; WHO 2013 tr. 82 'nếu có thể'. Không bắt buộc vì đã đủ tiêu chuẩn chuyển bằng lâm sàng và SpO₂ (QĐ 101 mục V)."
+    },
+    {
+     "t": "Công thức máu, CRP trước khi đi",
+     "v": "a",
+     "n": "Chấp nhận nếu không làm chậm chuyển (QĐ 101 mục VI.2); không đổi quyết định."
+    },
+    {
+     "t": "Ceftriaxon 80 mg/kg (≈ 500 mg) liều đầu tiêm tĩnh mạch hoặc tiêm bắp thay amoxicillin/ampicillin",
+     "v": "a",
+     "n": "QĐ 101 mục VII.2.2: ceftriaxon 80 mg/kg/24 giờ dùng khi thất bại hoặc có thể dùng ngay từ đầu; QĐ 3312 (Viêm phổi do vi khuẩn mục 4, phần 2.3) tương tự. Không phải lựa chọn đầu tay của WHO 2013 (ampicillin + gentamicin) và tiêm bắp ở bé đang dùng kháng đông cần cân nhắc."
+    },
+    {
+     "t": "Cho về, uống amoxicillin 5 ngày theo hướng ngoại trú, hẹn khám lại sau 2–3 ngày",
+     "v": "w",
+     "n": "WHO 2024 Rec 2a chỉ cho trẻ rút lõm lồng ngực KHÔNG có dấu hiệu nguy hiểm toàn thân (không bú được, thiếu oxy là dấu hiệu nguy hiểm: tr. 8 chú thích); bé bỏ bú, SpO₂ < 90% khi bú nên phải nhập viện (QĐ 101 mục V.2, VII.2; QĐ 708 khuyến cáo 5.3). Ngoài ra nhà xa, không hẹn khám lại được trong 2–3 ngày."
+    },
+    {
+     "t": "Giữ bé quan sát vài giờ tại phòng khám để xem đáp ứng rồi mới quyết định chuyển",
+     "v": "w",
+     "n": "Trì hoãn chuyển để chờ diễn tiến (sổ mâu thuẫn 'Từ ca HH-0737' mục 5): bé đã đủ tiêu chuẩn viêm phổi nặng, đường chuyển dài 1 giờ 45 phút, phòng khám không có điều kiện theo dõi qua đêm."
+    },
+    {
+     "t": "Truyền tĩnh mạch dịch 'cho bé khỏe' hoặc 'bù nước' rồi cho về",
+     "v": "w",
+     "n": "Không có chỉ định: bé còn bú được, niêm mạc chỉ hơi khô; WHO 2013 tr. 83 dặn tránh thừa dịch ở viêm phổi nặng; không đáp ứng được nhu cầu thật là oxy và kháng sinh."
+    },
+    {
+     "t": "Khí dung salbutamol và corticoid uống như điều trị viêm tiểu phế quản",
+     "v": "w",
+     "n": "Bé không khò khè; WHO 2013 tr. 83 chỉ cho thuốc giãn phế quản nhanh khi có khò khè; không có chỉ định corticoid trong viêm phổi nặng ở các tài liệu đã đọc (QĐ 101 mục VII.2, WHO 2013 tr. 82–83)."
+    },
+    {
+     "t": "Bảo mẹ ngừng thuốc kháng đông mới vì nghi do thuốc, hoặc tự đổi liều",
+     "v": "w",
+     "n": "Quyết định ngừng hay chỉnh thuốc kháng đông thuộc bệnh viện kê đơn; tài liệu đã tải không có hướng dẫn về thuốc kháng đông ở trẻ nhũ nhi. Triệu chứng của bé giải thích bằng viêm phổi, không phải do thuốc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi nặng ở nhũ nhi 5 tháng, vùng thùy dưới phổi phải, nghĩ do vi khuẩn (phế cầu, H. influenzae)",
+     "Dấu hiệu nặng: bỏ bú gần hết, SpO₂ 91% khi nghỉ và 86–88% khi bú, thở nhanh 62 l/p, rút lõm lồng ngực dưới, cánh mũi phập phồng",
+     "Biểu hiện không điển hình: không sốt, ho rất ít, bệnh khởi đầu bằng bú kém và ngủ nhiều",
+     "Bệnh nền: tiền sử huyết khối tĩnh mạch đùi trái, đang dùng thuốc kháng đông uống mới đổi 10 ngày",
+     "Đã loại trừ ở mức lâm sàng: viêm tiểu phế quản, dị vật đường thở, lao, tim bẩm sinh, Pneumocystis, tác dụng phụ xuất huyết của thuốc",
+     "Hoàn cảnh: ở xa, khó tái khám; mẹ lo lây bệnh cho anh trai 3 tuổi và bà ngoại"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: 'bú kém, ngủ nhiều' ở nhũ nhi là lý do khám mơ hồ. Cần hỏi thở (bụng phập phồng, nhả vú thở dốc), sốt, ho, bú mấy cữ, số lần tiểu, nôn, co giật; sự thật then chốt: bé gần như bỏ bú, thở nhanh từ hôm qua, không sốt, ho ít. Không sốt, ho ít không loại trừ viêm phổi: QĐ 101 mục V.1 và QĐ 3312 viết 'ho, sốt kèm thở nhanh…' còn WHO 2013 tr. 76 chỉ cần ho hoặc khó thở (sổ mâu thuẫn đã ghi).",
+     "Hỏi để loại trừ: sặc, tím đột ngột, đồ vật nhỏ (dị vật: QĐ 3312 Dị vật đường thở mục 3.1; WHO 2013 tr. 79); ho trên 14 ngày, tiếp xúc người ho kéo dài, tăng cân (lao: WHO 2013 tr. 79); khò khè (viêm tiểu phế quản: QĐ 3312 mục 3.1); tím, đổ mồ hôi khi bú, tiền sử tim (tim bẩm sinh: WHO 2013 tr. 78); HIV mẹ (WHO 2013 tr. 79, 84). Hỏi thuốc đang dùng: bé uống kháng đông, mới đổi 10 ngày, mẹ ngờ do thuốc; hỏi tiếp xúc người ho (ngồi chờ ở bệnh viện) và tiêm chủng (chưa tiêm phế cầu).",
+     "Khám: đếm nhịp thở 1 phút khi bé yên (62 l/p, ngưỡng ≥ 50 l/p cho 2–11 tháng: QĐ 101 mục V.1), nhìn rút lõm lồng ngực dưới, cánh mũi, thở rên (dấu suy hô hấp: QĐ 101 mục V.2), nghe phổi (ran nổ khu trú đáy phải), đo SpO₂, quan sát một cữ bú để thấy bé không bú được và SpO₂ tụt khi bú. Dấu hiệu khiến suýt bỏ sót: bé không sốt, ho gần như không có, mẹ giải thích 'do thuốc'; chỉ khi đếm nhịp thở và đo SpO₂ mới thấy.",
+     "Cận lâm sàng: viêm phổi chẩn đoán chủ yếu dựa lâm sàng (QĐ 101 mục V); X-quang giúp xác định, loại biến chứng, nên chụp nếu làm nhanh được (WHO 2013 tr. 82); công thức máu, CRP chấp nhận; INR để bàn giao thuốc kháng đông. Không cần CT (cơ sở không có CT): thay bằng lâm sàng, SpO₂, X-quang; CT không đổi quyết định (WHO 2013 tr. 83).",
+     "Vì sao là viêm phổi nặng: bỏ bú là dấu hiệu nguy hiểm toàn thân (QĐ 101 mục V.2; WHO 2013 Bảng 7 tr. 81; WHO 2024 tr. 8 chú thích); SpO₂ < 90% khi bú; cánh mũi phập phồng là dấu suy hô hấp (WHO 2024 Table 1 chú thích a). SpO₂ lúc nghỉ 91% nằm giữa hai ngưỡng (< 90% theo QĐ 101/WHO 2013, < 92% theo QĐ 708 Phụ lục 1 khuyến cáo 5.3, 5.12); hai ngưỡng khác mục đích nên chọn ngưỡng thận trọng hơn, và nếu chỉ dựa riêng SpO₂ lúc nghỉ thì còn có hai tiêu chuẩn độc lập khác.",
+     "Vì sao không phải viêm tiểu phế quản, dị vật, lao: ran nổ khu trú một bên và đông đặc thùy dưới phải trên phim, không khò khè, không hội chứng xâm nhập, bệnh cấp vài ngày, không tiếp xúc lao, có sẹo BCG (QĐ 3312 các mục đã nêu; WHO 2013 Bảng 6). Tim bẩm sinh và Pneumocystis: không có tím, tim không thổi, gan không to, mẹ HIV âm tính khi có thai.",
+     "Vì sao không phải tác dụng phụ thuốc: không có bầm, chảy máu, INR 2,4; triệu chứng tương hợp viêm phổi. Việc đổi thuốc chỉ là bối cảnh khiến mẹ hiểu sai và đến muộn (chờ 3 giờ ở khu khám đông là nguồn phơi nhiễm có thể, nhận xét người soạn). Đích INR và nguy cơ xuất huyết ở trẻ nhũ nhi: không có trong tài liệu đã tải.",
+     "Lý do thật đến khám: mẹ lo bệnh lây cho anh trai và bà ngoại, vì thế hỏi 'có lây không', xin thuốc đem về và muốn về ngay. Bác sĩ hỏi 'chị lo nhất điều gì' để lộ ra; khi nỗi lo được nghe và có kế hoạch cho người nhà, mẹ mới đồng ý chuyển."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: chuyển tuyến ngay, không điều trị ngoại trú. Viêm phổi nặng điều trị tại bệnh viện (QĐ 101 mục VII.2; QĐ 3312 (Viêm phổi do vi khuẩn mục 4, phần 2); WHO 2013 tr. 82). WHO 2024 Rec 2a (amoxicillin uống ngoại trú) và QĐ 101 mục VII.1 chỉ áp dụng khi không có dấu hiệu nguy hiểm toàn thân: bé không đủ điều kiện, đồng thời ở xa nên không đảm bảo theo dõi.",
+     "Trước khi đi (làm song song, không kéo dài): oxy gọng mũi theo dõi SpO₂ liên tục, đầu cao, hút mũi, giữ ấm (QĐ 101 Phụ lục 2, mục VII.2.1, 2.3a); liều kháng sinh đầu: amoxicillin uống 40 mg/kg hoặc ampicillin 50 mg/kg (QĐ 2341/2024 Bảng kiểm 8; WHO 2024; QĐ 101 mục VII.2.2); đo INR, đường huyết nếu làm nhanh được. Không chờ kết quả xét nghiệm hay phim mới đi.",
+     "Hai cách ghi cho liều amoxicillin: ≥ 40 mg/kg/liều × 2 lần/ngày (WHO 2024; QĐ 101 mục VII.1.1: 80 mg/kg/ngày chia 2) hoặc 45 mg/kg/ngày chia 3 lần, tăng 75–90 mg/kg/ngày chia 2 ở nơi phế cầu kháng cao (QĐ 708/2015 mục 5.3b). Hai nguồn khác năm và khuyến cáo liều; cả hai đều được chấp nhận cho liều đầu, liều ≥ 40 mg/kg cao hơn nên dùng khi chỉ cho một liều trước chuyển.",
+     "Thuốc kháng đông: không ngừng, không đổi liều ở phòng khám; ghi rõ thuốc, ngày đổi, giờ uống gần nhất để tuyến trên cân nhắc tiêm bắp, chọc màng phổi, tương tác với kháng sinh (tài liệu đã tải không có nội dung về kháng đông ở trẻ nhũ nhi).",
+     "Chuyển tuyến kịp thời: xe cấp cứu có oxy, nhân viên y tế đi cùng, gọi báo trước, giữ ấm, theo dõi SpO₂ trên đường đi (QĐ 101 mục VII.2.1, 2.3a; QĐ 2341/2024). Mẫu SBAR và quy trình vận chuyển chi tiết: không có trong tài liệu đã tải.",
+     "Tại bệnh viện (để người học biết tiếp theo, không phải việc của phòng khám): ampicillin 50 mg/kg × 4 lần/ngày phối hợp gentamicin 7,5 mg/kg × 1 lần/ngày, ít nhất 5 ngày; đổi ceftriaxon 80 mg/kg/ngày nếu thất bại; theo dõi y tá mỗi 3 giờ, sau 2 ngày phải thấy thở chậm hơn, bớt rút lõm, bú tốt hơn, SpO₂ cao hơn (QĐ 101 mục VII.2.2, 2.4; WHO 2013 tr. 82–83). Xuất viện khi hết suy hô hấp, SpO₂ > 90% không oxy, bú tốt (WHO 2013 tr. 84).",
+     "Ở xa, khó tái khám: xử trí trọn gói ngay hôm nay, dặn bằng lời và giấy, cho số điện thoại, hỏi bệnh viện hẹn tái khám tại trạm y tế gần nhà sau xuất viện, giải quyết nỗi lo lây và việc nhà để mẹ chấp nhận đi; không dùng cách 'hẹn mai khám lại'."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy qua gọng mũi trẻ nhỏ",
+      "ham_luong": "Oxy y tế",
+      "lieu": "Chỉnh lưu lượng để SpO₂ ≥ 92% (QĐ 101) hoặc > 90% (WHO 2013); lưu lượng tối đa gọng mũi cho trẻ bú mẹ 2–3 l/p",
+      "duong": "Hít qua gọng mũi",
+      "thoi_diem": "Ngay khi có SpO₂ < 90% hoặc không bú được do thiếu oxy; duy trì trong khi chuyển",
+      "so_ngay": "Đến khi tới bệnh viện; tuyến trên quyết định ngưng thử mỗi ngày khi SpO₂ ổn > 90% ít nhất 15 phút khí trời (WHO 2013 tr. 82)",
+      "ghi_chu": "QĐ 101 Phụ lục 2 mục 1, 2.1, 3; QĐ 708/2015 Phụ lục 1 khuyến cáo 5.12; WHO 2013 tr. 82. Lưu lượng khởi đầu: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (viên phân tán hoặc gói bột trẻ em)",
+      "ham_luong": "250 mg",
+      "lieu": "40 mg/kg = 250 mg một liều (6,2 kg)",
+      "duong": "Uống từng ít một bằng bơm tiêm, bé nằm đầu cao",
+      "thoi_diem": "Một liều trước khi lên xe chuyển, nếu bé nuốt được và không nôn",
+      "so_ngay": "Liều đầu duy nhất; tuyến trên tiếp tục theo phác đồ viêm phổi nặng",
+      "ghi_chu": "WHO 2024 (Rec 2a, Remarks; sổ mâu thuẫn 'Từ ca HH-0737' mục 5); QĐ 2341/2024 Bảng kiểm 8. Cách khác: 45 mg/kg/ngày chia 3 lần (QĐ 708/2015 mục 5.3b); liều ≥ 40 mg/kg thận trọng hơn khi chỉ cho một liều."
+     },
+     {
+      "thuoc": "Ampicillin (thay amoxicillin nếu bé nuốt kém hay nôn)",
+      "ham_luong": "Lọ 500 mg hoặc 1 g",
+      "lieu": "50 mg/kg = 310 mg một liều",
+      "duong": "Tiêm tĩnh mạch chậm (ưu tiên khi bé dùng kháng đông); tiêm bắp nếu không có đường tĩnh mạch",
+      "thoi_diem": "Một liều trước chuyển; liều kế tiếp cách 6 giờ do tuyến trên",
+      "so_ngay": "Liều đầu duy nhất tại phòng khám; tuyến trên dùng ít nhất 5 ngày",
+      "ghi_chu": "QĐ 101 mục VII.2.2; WHO 2013 tr. 82; QĐ 3312 (Viêm phổi do vi khuẩn mục 4, phần 2.3: 200 mg/kg/24 giờ chia 4 lần). Nguy cơ tụ máu khi tiêm bắp ở bé dùng kháng đông: nhận xét người soạn, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Gentamicin (do tuyến trên kê, phối hợp ampicillin)",
+      "ham_luong": "Theo dạng sẵn có ở bệnh viện",
+      "lieu": "7,5 mg/kg = khoảng 46 mg",
+      "duong": "Tiêm tĩnh mạch hoặc tiêm bắp",
+      "thoi_diem": "Một lần mỗi ngày",
+      "so_ngay": "Ít nhất 5 ngày",
+      "ghi_chu": "QĐ 101 mục VII.2.2; WHO 2013 tr. 82. Phòng khám không kê; ghi để bàn giao. Kiểm tra chức năng thận và tương tác: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm phổi nặng (bỏ bú, thở nhanh, rút lõm ngực, thiếu oxy), phải vào bệnh viện để thở oxy và tiêm kháng sinh; ở nhà không đủ an toàn (QĐ 101 mục VII.2). Không phải do thuốc mới, nhưng vẫn phải báo bệnh viện về việc đổi thuốc.",
+     "Mang theo giấy ra viện, sổ theo dõi, lọ thuốc kháng đông; nói rõ thuốc uống lần cuối lúc nào. Không tự ngừng hay đổi liều thuốc kháng đông; bác sĩ ở bệnh viện sẽ quyết định.",
+     "Trên đường đi: bé nằm đầu cao, giữ ấm, giữ gọng mũi oxy, cho bú từng ít một nếu bé muốn bú, không ép (QĐ 101 mục VII.2.3a; WHO 2013 tr. 83). Báo ngay cho nhân viên đi cùng nếu bé tím, thở rên, ngưng thở hoặc lịm đi.",
+     "Chuyện lây: viêm phổi lây qua giọt bắn; trong lúc bé nằm viện, chị rửa tay trước và sau khi chăm bé, cho anh trai và bà ngoại hạn chế tiếp xúc nếu đang ho, không hút thuốc trong nhà (QĐ 3312, Viêm tiểu phế quản mục 6). Hướng dẫn cách ly cụ thể cho viêm phổi: không có trong tài liệu đã tải; hỏi thêm bác sĩ ở bệnh viện.",
+     "Gọi ông bà trông anh trai trước khi đi. Phòng khám ghi số điện thoại để chị gọi khi cần; nhà sóng yếu nên cần để lại số hàng xóm hoặc trạm y tế xã.",
+     "Khi bé ra viện, xin giấy hẹn tái khám tại trạm y tế gần nhà thay vì quay lại xa; đưa bé đi khám ngay nếu bú kém trở lại, thở nhanh, rút lõm ngực, tím, li bì, co giật (QĐ 101 mục VII.1).",
+     "Sau khi khỏi, hỏi bác sĩ về tiêm phòng phế cầu, Hib, ho gà, cúm; bú mẹ tiếp tục (QĐ 101 mục VIII.2, VIII.3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được chuyển bằng xe cấp cứu có oxy, có nhân viên y tế và mẹ đi cùng, tới khoa Nhi bệnh viện tỉnh sau khoảng 1 giờ 45 phút với SpO₂ 93% trên oxy gọng mũi. Tại đó bé được thở oxy, tiêm ampicillin phối hợp gentamicin, bác sĩ kê đơn kiểm tra lại INR và điều chỉnh thuốc kháng đông. Sau 2 ngày bé thở chậm hơn, hết rút lõm, bú lại được, SpO₂ trên 90% khi ngừng oxy; ra viện sau khoảng một tuần, hẹn tái khám tại trạm y tế xã gần nhà. Anh trai và bà ngoại không bị lây.",
+ "nhieu": [
+  "Ở xa, khó tái khám: mẹ muốn 'khám nhanh rồi về', hứa mai lên lại; đó là lý do phải chuyển ngay trong ngày thay vì hẹn khám lại, và phải dặn trọn gói bằng lời và giấy.",
+  "Đổi thuốc điều trị: mẹ gắn việc bé mệt với thuốc kháng đông mới đổi, che mất bệnh thật (viêm phổi). Thuốc đang dùng cũng ảnh hưởng đường tiêm và bàn giao.",
+  "Lý do thật đến khám (sợ lây bệnh cho anh trai và bà ngoại): mẹ chỉ lộ ra khi được hỏi nỗi lo; đây là chìa khóa để mẹ chấp nhận chuyển tuyến.",
+  "Không có CT: không cần cho ca này; thay bằng lâm sàng, SpO₂, X-quang ngực."
+ ],
+ "bai_hoc_bien": [
+  "Nhũ nhi 'bú kém, ngủ nhiều' dù không sốt, ho ít vẫn có thể là viêm phổi nặng: đếm nhịp thở 1 phút, nhìn rút lõm, đo SpO₂, quan sát một cữ bú (QĐ 101 mục V; WHO 2013 tr. 80–81).",
+  "Bỏ bú là dấu hiệu nguy hiểm toàn thân: không đủ điều kiện điều trị ngoại trú theo WHO 2024 khuyến cáo 2a; cũng là nhóm cần oxy và kháng sinh tiêm tại bệnh viện (QĐ 101 mục VII.2).",
+  "Hai ngưỡng SpO₂ (< 90% theo QĐ 101/WHO 2013; < 92% theo QĐ 708): SpO₂ 91% ở giữa; chọn ngưỡng thận trọng và tìm thêm các tiêu chuẩn độc lập khác (bỏ bú, tụt SpO₂ khi bú, bệnh nền).",
+  "Bệnh nhân ở xa: giảm ngưỡng chấp nhận theo dõi tại nhà; xử trí trọn gói (oxy, liều kháng sinh đầu, bàn giao, số điện thoại, kế hoạch sau xuất viện).",
+  "Hỏi 'chị lo nhất điều gì' để tìm lý do thật; giải quyết nỗi lo lây bệnh và việc nhà thì người nhà mới đồng ý chuyển.",
+  "Thuốc kháng đông ở nhũ nhi: ghi và bàn giao rõ, không tự ý ngừng/đổi liều; ưu tiên đường uống hoặc tĩnh mạch hơn tiêm bắp cho liều đầu (nhận xét người soạn; tài liệu đã tải không có nội dung này)."
+ ],
+ "diem_nho": [
+  "Thở nhanh theo tuổi: < 2 tháng ≥ 60 l/p; 2–11 tháng ≥ 50 l/p; 1–5 tuổi ≥ 40 l/p (QĐ 101 mục V.1; WHO 2013 tr. 80).",
+  "Viêm phổi nặng khi có viêm phổi kèm bỏ bú/không uống được, rối loạn tri giác, co giật, thở rên, rút lõm rất nặng, tím hoặc SpO₂ < 90%, hoặc trẻ < 2 tháng (QĐ 101 mục V.2; WHO 2013 Bảng 7 tr. 81).",
+  "Dấu hiệu nguy hiểm toàn thân (WHO 2024 tr. 8): không uống/bú được, nôn hết, co giật, li bì/hôn mê, thở rít, thiếu oxy. Có dấu hiệu này thì không điều trị ngoại trú.",
+  "Oxy khi SpO₂ < 90% (QĐ 101 Phụ lục 2; WHO 2013 tr. 82) hoặc < 92% (QĐ 708 khuyến cáo 5.12); gọng mũi trẻ bú mẹ tối đa 2–3 l/p (QĐ 101 Phụ lục 2).",
+  "Viêm phổi nặng điều trị tại bệnh viện: ampicillin 50 mg/kg mỗi 6 giờ + gentamicin 7,5 mg/kg mỗi ngày, ít nhất 5 ngày; ceftriaxon 80 mg/kg/ngày khi thất bại (QĐ 101 mục VII.2.2; WHO 2013 tr. 82).",
+  "Trước khi chuyển: 'cho 1 liều kháng sinh thích hợp, chuyển gấp trẻ đi bệnh viện' (QĐ 2341/2024 Bảng kiểm 8); amoxicillin ≥ 40 mg/kg/liều (WHO 2024).",
+  "Phân biệt: viêm tiểu phế quản (khò khè + ran, dưới 1 tuổi), dị vật (hội chứng xâm nhập), lao (ho > 14 ngày, tiếp xúc), tim bẩm sinh, Pneumocystis 2–6 tháng (WHO 2013 Bảng 6 tr. 77–79)."
+ ],
+ "nguon": [
+  "QĐ 101/QĐ-BYT 2014, Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: toàn văn (mục IV–VIII, Phụ lục 1–2)",
+  "QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em (mục 1–4, tr. 262–265); Viêm tiểu phế quản cấp (mục 1–6, tr. 275–278); Dị vật đường thở (mục 1–3, tr. 279)",
+  "QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: mục 5.3b (viêm phổi trẻ 2 tháng–5 tuổi); Phụ lục 1 khuyến cáo 5.3, 5.12",
+  "WHO 2024, Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 1 (khuyến cáo 1–6), khuyến cáo 1, 2a, 2b và chú thích dấu hiệu nguy hiểm (tr. 4–8), khuyến cáo 5 (chú thích a)",
+  "WHO 2013, Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.2 Pneumonia, 4.2.1 Severe pneumonia (tr. 76–84), Bảng 6 (tr. 77–79), Bảng 7 (tr. 81)",
+  "QĐ 2341/QĐ-BYT 2024, Hướng dẫn xử trí lồng ghép chăm sóc trẻ bệnh (IMCI) – kho tltk-10000-ca (tai-lieu/03 Nhi ngoại trú/BYT) – ĐÃ ĐỌC: Bảng kiểm 8 (tr. 19)",
+  "Sổ mâu thuẫn tai-lieu/mau_thuan.md: 'Từ ca HH-0737' mục 5 (liều kháng sinh đầu trước chuyển), 'Liều amoxicillin cho trẻ 2–59 tháng: QĐ 708/2015 và WHO 2024', 'Ngưỡng SpO₂ cho oxy và nhập viện ở viêm phổi trẻ em'"
+ ],
+ "phien_ban_ca": "1 – viết 2026-11-08",
+ "ghi_chu_bien_tap": [
+  "2026-11-08: viết ca mới NH-0621 theo sổ cái (Viêm phổi trẻ em, nhũ nhi, không điển hình, ở xa khó tái khám, không CT, chuyển tuyến kịp thời, đổi thuốc điều trị, kháng đông, sợ lây cho người thân). Đã đọc: TL-0243 (QĐ 101/2014) toàn văn; TL-0037 (QĐ 3312/2015) Viêm phổi do vi khuẩn, Viêm tiểu phế quản, Dị vật đường thở; TL-0015 mục 5.3b và Phụ lục 1; TL-0245 (WHO 2024) Table 1, khuyến cáo 1–2b, 5, 6; TL-0250 (WHO 2013) mục 4.2, Bảng 6–7; QĐ 2341/2024 Bảng kiểm 8.",
+  "Thiếu tài liệu đã tải: thuốc kháng đông ở trẻ nhũ nhi (đích INR, tương tác kháng sinh, tiêm bắp khi dùng kháng đông), lưu lượng oxy khởi đầu, mẫu SBAR và quy trình vận chuyển, hướng dẫn cách ly người thân khi trẻ viêm phổi, giá trị tham chiếu công thức máu theo tuổi. Các chỗ này đã ghi 'không có trong tài liệu đã tải' hoặc 'nhận xét của người soạn'.",
+  "Cốt truyện kháng đông (huyết khối tĩnh mạch đùi sau đặt catheter lúc sơ sinh, đổi enoxaparin sang warfarin) là chi tiết thiết kế của người soạn để thể hiện biến thuốc đang dùng và khởi phát 'đổi thuốc'; không dựa vào tài liệu và không được dùng làm khuyến cáo điều trị.",
+  "Mâu thuẫn nguồn đã ghi theo đúng sổ: ngưỡng SpO₂ 90% / 92%, liều amoxicillin WHO 2024 / QĐ 708, liều kháng sinh đầu trước chuyển (HH-0737). Mục mới đề xuất xem NH-0621_mau_thuan.md.",
+  "Âm thanh: tim 158 l/p dùng AT-TIM-NHANH-01 (khoảng 115 l/p, theo quy ước đã chốt); phổi dùng AT-PHOI-RAN-NO-01 (đáy phải) và AT-PHOI-BT-NL-01 (đáy trái); đặc điểm tiếng chỉ để trong 'a'."
+ ]
+}
