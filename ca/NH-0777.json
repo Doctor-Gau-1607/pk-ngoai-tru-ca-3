@@ -1,0 +1,828 @@
+{
+ "ma_ca": "NH-0777",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-08 (Sonnet)",
+ "benh": "NH_sot_xuat_huyet_dengue_so_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sốt xuất huyết Dengue (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Sốt phát ban virus",
+   "Nhiễm khuẩn huyết",
+   "Sởi"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là chuyển tuyến",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Trẻ nhũ nhi (bé sơ sinh bú mẹ hoàn toàn; mẹ nghỉ thai sản ở nhà)",
+  "yeu_to_khoi_phat": "Sau nhiễm siêu vi (mẹ bị 'siêu vi' sốt, đau mỏi người, nổi ban, giảm tiểu cầu quanh ngày sinh; bé sốt sau sinh 5 ngày)",
+  "thuoc_dang_dung": "Men tiêu hóa tự mua (bà ngoại mua gói men vi sinh pha nước cho bé uống từ ngày thứ 3 sau sinh vì bé hay ọc sữa)",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch (mẹ được truyền một chai nước biển ở trạm y tế thì khỏe lên, nghĩ con nóng, bú kém cũng cần truyền nước cho có sức)",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Bảo",
+  "tuoi": 0.02,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.15,
+  "chieu_cao": 50,
+  "xung_ho": "Bé trai sơ sinh 6 ngày tuổi (lượt 1). Mẹ bé (chị Hà, 29 tuổi) bế bé và kể bệnh: gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'cháu'. Bà ngoại ở nhà phụ chăm; bố làm xa. Bé chỉ khóc, ngủ, bú.",
+  "tinh_cach": "Chị Hà sinh con đầu lòng, còn mệt sau đợt sốt quanh ngày sinh. Nói nhỏ nhẹ, trả lời đúng và đủ điều được hỏi, nghe giải thích thì làm theo. Lo cho con nên nhớ chai nước biển mình từng được truyền, nhưng chỉ nhắc khi được hỏi, không ép bác sĩ.",
+  "kieu_nhieu": "Hợp tác tốt, không nhiễu: mẹ khai thẳng, chấp nhận chuyển tuyến khi được giải thích bằng dấu hiệu cụ thể. Cái khó nằm ở bệnh cảnh: bé nhìn khỏe, còn bú, mẹ và bà tin 'chỉ là siêu vi, khó tiêu', công thức máu không rõ rệt.",
+  "nguoi_nha": "Mẹ bé, chị Hà, 29 tuổi, bế bé đi khám. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#f0c9a6",
+   "toc": "#1f1612",
+   "kieuToc": "tre",
+   "ao": "#e8dcc8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e2b48e",
+    "toc": "#1c1410",
+    "kieuToc": "dai",
+    "ao": "#8aa6c1",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 6 ngày tuổi nóng từ tối qua, sáng nay bú nhả vú nhiều hơn mọi hôm; mẹ lo, bà ngoại cho rằng bé khó tiêu",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám đa khoa tư ở thị trấn chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm men gan, đường huyết, CRP, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm cấy máu, procalcitonin, chọc dò tủy, NS1/huyết thanh dengue. Bệnh viện Nhi của tỉnh cách khoảng 38 km (khoảng 50 phút đi xe)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 2 của bệnh (bé 6 ngày tuổi)",
+   "tiep_don": "Bé trai 6 ngày tuổi, 3,15 kg, mẹ bế đến vì tối qua bé nóng, sáng nay bú nhả vú nhiều hơn mọi hôm. Nhiệt độ nách 38,2 °C, mạch 152 l/p, nhịp thở 52 l/p, SpO₂ 98%. Bé tỉnh, khóc to khi thay tã, da hồng, mặc một lớp áo. Mẹ trả lời mạch lạc nhưng còn mệt.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho về với lời dặn 'khó tiêu, theo dõi', hẹn mai: bé 6 ngày tuổi sốt 38,2 °C thuộc nhóm nguy cơ cao dù nhìn khỏe (NICE NG143 mục 1.2.12); trên 38 °C là dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6). Nếu là nhiễm khuẩn huyết hay viêm màng não thì mỗi giờ ở nhà là mất giờ cấy máu, chọc dò tủy và kháng sinh tiêm (WHO 2013 mục 3.8). Nếu là sốt xuất huyết lây từ mẹ thì giai đoạn nguy hiểm (ngày 3–7 của bệnh, QĐ 2760/2023 mục II.2) rơi đúng lúc bé ở nhà với người mẹ còn mệt, cách bệnh viện 50 phút.",
+    "theo_doi": "Giữ bé ở phòng khám, truyền một chai nước biển theo ý mẹ rồi chờ công thức máu: phòng khám không có cấy máu, chọc dò tủy, khoa sơ sinh nên các giờ ấy không đổi được gì. Dịch truyền ở sơ sinh dễ gây quá tải, WHO 2013 mục 3.10.2 dặn không quá 100 ml/kg/ngày và theo dõi từng giờ, điều kiện phòng khám không có. Bé chuyển muộn hơn mà không được điều trị đặc hiệu nào."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em tối qua nóng người, sáng nay bú nhả vú nhiều hơn mọi hôm. Em đo nách được hơn 38 độ. Bà ngoại bảo chắc cháu khó tiêu, đã cho thêm gói men tiêu hóa mà cháu vẫn nóng, em lo quá nên bế cháu đi khám.",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "Không đo",
+    "nhiet": "38,2 (nách)",
+    "nhip_tho": 52,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé nóng từ khoảng 9 giờ tối qua; sáng nay bú nhả vú nhiều hơn mọi hôm. Mẹ lo, bà ngoại bảo bé khó tiêu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối qua bà ngoại sờ trán thấy nóng; mẹ đo nách bằng nhiệt kế điện tử được 38,3 °C, nửa đêm đo lại 38,0 °C; chưa đo hậu môn. Chưa cho thuốc hạ sốt, chỉ cởi bớt áo; bà muốn lau nước ấm nhưng mẹ chưa làm. Đây là cơn sốt đầu tiên từ lúc sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt: đo thế nào, thuốc đã cho"
+    },
+    {
+     "id": "me_om",
+     "noi_dung": "Mẹ sốt cao liên tục 5 ngày trước ngày sinh, đau mỏi người, nhức hai hố mắt, nổi ban hồng ở thân. Vào bệnh viện huyện lúc chuyển dạ vẫn sốt nhẹ 37,8 °C; xét nghiệm máu mẹ tiểu cầu 92 G/L. Bác sĩ sản ghi 'nhiễm siêu vi', không làm xét nghiệm sốt xuất huyết. Mẹ hết sốt sau sinh một ngày, ra viện cùng bé sau 2 ngày, ở nhà còn rất mệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh của mẹ quanh ngày sinh (yếu tố khởi phát: sau nhiễm siêu vi)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Xóm có nhiều ca sốt xuất huyết gần đây, hai nhà cách vài căn có trẻ nằm viện tháng này. Nhà có chum hứng nước mưa. Mẹ những đêm trước sinh nằm không màn; bé nằm màn từ lúc về nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ sốt xuất huyết quanh nhà"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn, 8 cữ/ngày. Từ sáng nay chỉ bú nửa cữ rồi nhả vú, phải đánh thức mới bú tiếp. Từ tối qua thay 5 tã ướt, phân vàng 3 lần. Không nôn, không tím, không rên, không co giật, không ngưng thở; vẫn khóc to khi thay tã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt; dấu hiệu nguy hiểm sơ sinh (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường đủ 39 tuần, 3,3 kg, Apgar tốt; ối vỡ trước sinh 4 giờ, ối trong. Ra viện sau 2 ngày. Tiêm viêm gan B và lao ở nhà hộ sinh trong tuần đầu. Vàng da nhẹ ngày thứ 3 tự hết. Bé chưa được xét nghiệm máu nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thai kỳ, sinh, chăm sóc sơ sinh"
+    },
+    {
+     "id": "kem",
+     "noi_dung": "Không ho, chảy mũi, nôn hay tiêu chảy. Không ban. Không chảy máu rốn, máu mũi, phân không có máu, nước tiểu vàng trong. Rốn đã rụng, khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng kèm theo, xuất huyết"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ ngày thứ 3 bà ngoại mua gói men tiêu hóa (men vi sinh) pha nước cho bé uống mỗi ngày 1 gói vì bé hay ọc sữa; sáng nay cho thêm 1 gói. Không cho thuốc nào khác, không thuốc cam, không nước lá.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ngày thứ 3 sau sinh mẹ mệt lả, được truyền một chai nước biển ở trạm y tế xã và thấy khỏe hẳn lên. Chị nghĩ con nóng, bú kém là 'thiếu nước, thiếu sức' nên muốn bác sĩ cho con truyền một chai cho mát người, có sức bú. Chị không tự nói vì ngại bị cho là bày việc; nghe giải thích rõ thì chị đồng ý theo.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chị không tự nói. Chỉ kể khi bác sĩ hỏi 'chị mong muốn gì cho bé hôm nay?', hỏi chị đã được điều trị gì khi bệnh, hoặc nhắc tới tiêm hay truyền.",
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: muốn được truyền dịch"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,15 kg (cân sinh 3,3 kg). Cởi bớt quần áo, chờ 10 phút: nách 38,0 °C, hậu môn 38,2 °C. Tỉnh, mắt mở, khóc to, dỗ nín sau khoảng 30 giây; môi hồng, niêm mạc ẩm, mao mạch hồi sắc dưới 2 giây, tay chân ấm, không vàng da, không nổi vân tím.",
+     "k": 1,
+     "hien": "Cân 3,15 kg. Tỉnh, khóc to, dỗ nín được, môi hồng, tay chân ấm. Cởi bớt quần áo 10 phút: nách 38,0 °C, hậu môn 38,2 °C."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm, không cứng gáy. Không hạch. Kết mạc hơi đỏ hai mắt, không ghèn, không phù mi.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm. Kết mạc hơi đỏ hai mắt, không ghèn."
+    },
+    "tim": {
+     "a": "Tim đều nhanh 152 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên đều, rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 152 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p, đều, dưới 60 l/p. Không rút lõm lồng ngực, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan bờ dưới sườn phải 1,5 cm, mềm; không sờ thấy lách. Rốn khô, không đỏ, không rỉ dịch.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "than_kinh": {
+     "a": "Khóc to, quắp tay chân, phản xạ bú và nắm tốt, trương lực cơ bình thường, không co giật, không dấu màng não.",
+     "k": 1,
+     "hien": "Khóc to, trương lực bình thường, phản xạ bú tốt."
+    },
+    "da": {
+     "a": "Da hồng, xung huyết nhẹ ở mặt và ngực, ấm. Không ban, không chấm xuất huyết, không bầm tím ở chỗ tiêm đùi, không phồng nước, không vàng da. Không chảy máu rốn, mũi, lợi.",
+     "k": 1,
+     "hien": "Da hồng, xung huyết nhẹ ở mặt, ngực. Chưa thấy ban hay chấm xuất huyết."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút 5–6 nhịp rồi nhả vú, ngủ gà; phải kích thích gót chân mới mút tiếp; cữ bú chỉ khoảng 6 phút, ít hơn thường lệ.",
+     "k": 1,
+     "hien": "Mút vài nhịp rồi nhả vú, phải kích thích mới bú tiếp."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,6 G/L (neu 36% = 1,66 G/L, lym 52%) · Hb 172 g/L · Hct 0,53 · TC 128 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 4.6,
+      "neu_pct": 36.0,
+      "neu": 1.66,
+      "lym_pct": 52.0,
+      "lym": 2.39,
+      "mono_pct": 9.0,
+      "mono": 0.41,
+      "eos_pct": 2.0,
+      "eos": 0.09,
+      "baso_pct": 1.0,
+      "baso": 0.05,
+      "rbc": 4.9,
+      "hgb": 172,
+      "hct": 0.53,
+      "mcv": 108.0,
+      "mch": 35.1,
+      "mchc": 325,
+      "rdw": 15.5,
+      "plt": 128
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu công thức máu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Làm trong lúc chuẩn bị chuyển, không trì hoãn chuyển. Bạch cầu thấp, tiểu cầu giảm nhưng còn trên 100 G/L hợp giai đoạn sốt của sốt xuất huyết (QĐ 2760/2023 mục II.1.2), không đặc hiệu, không loại được nhiễm khuẩn. Trẻ sinh từ mẹ sốt xuất huyết cần công thức máu và huyết thanh (mục IV.C.2.6 ý 4). Gửi kèm, ghi giờ lấy làm mốc hematocrit."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "Hữu ích, không quyết định: NICE NG143 mục 1.5.3 xếp CRP vào bộ làm ở bệnh viện. AAP 2021 loại trẻ tuần đầu đời nên không có ngưỡng CRP cho bé 6 ngày; độ nhạy CRP ở tuần đầu: không có trong tài liệu đã tải. CRP thấp không đủ để cho về."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Nước tiểu hứng túi: bạch cầu esterase âm, nitrit âm, protein âm.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "Hữu ích: NICE NG143 mục 1.5.3 (nước tiểu). Mẫu hứng túi chỉ để tầm soát, không loại được nhiễm khuẩn tiết niệu; tuyến trên lấy bằng thông tiểu hoặc chọc trên xương mu."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 3,8 mmol/L.",
+     "n": "Nên làm trước chuyển (QĐ 2341/2024 Bảng kiểm 1 mục 19a: phòng hạ đường huyết; WHO 2013 mục 3.6: can thiệp khi dưới 2,2 mmol/L và li bì). Bé 3,8: chưa cần can thiệp; cho bú trước khi đi."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "Cơ sở không làm được. (Nếu gửi tuyến trên: NS1 dương tính.)",
+     "n": "Cơ sở không làm được. NS1 làm từ ngày 1 đến 7 của bệnh (QĐ 2760/2023 mục III.1.1). Việc cần làm: ghi vào giấy chuyển 'mẹ nghi sốt xuất huyết quanh ngày sinh' để tuyến trên làm."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Cơ sở không làm được. Cấy máu trước kháng sinh khi có thể (WHO 2013 mục 3.8; NICE NG143 mục 1.5.3): lý do để chuyển."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Cơ sở không làm được. Dưới 1 tháng sốt thì chọc dò tủy (trừ chống chỉ định), không trì hoãn, nếu được thì trước kháng sinh (NICE NG143 mục 1.5.4–1.5.5): lý do để chuyển."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt ở sơ sinh 6 ngày tuổi (nách 38,2 °C), bú kém, mẹ sốt và tiểu cầu thấp quanh ngày sinh, xóm có dịch: nghĩ sốt xuất huyết Dengue sơ sinh lây từ mẹ (chưa xác nhận) và chưa loại nhiễm khuẩn xâm lấn; phải chuyển tuyến",
+     "ok": 1,
+     "n": "Trẻ sinh từ mẹ sốt xuất huyết có thể mắc do mẹ lây (khoảng 6%), sốt thường ngày 1–6 sau sinh (QĐ 2760/2023 mục IV.C.2.6 ý 4). Bạch cầu thấp, tiểu cầu 128 G/L hợp giai đoạn sốt (mục II.1.2). Xác định cần NS1 (mục III.1.1): tuyến trên làm."
+    },
+    {
+     "t": "Sốt phát ban do virus",
+     "n": "Chưa có ban ở ngày thứ 2 của bệnh; nằm trong chẩn đoán phân biệt (QĐ 2760/2023 mục III.2). Dù là virus khác, sơ sinh sốt vẫn phải làm bộ đánh giá nhiễm khuẩn (NICE NG143 mục 1.5.3)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / viêm màng não / nhiễm khuẩn tiết niệu sơ sinh",
+     "n": "Chưa loại được: sốt trên 38 °C, bú kém là dấu hiệu nguy hiểm (WHO 2013 mục 3.6, 3.8); phòng khám không cấy máu, chọc dò tủy; CRP 4 mg/L và nước tiểu túi không đủ để loại (NICE NG143 mục 1.5.3–1.5.4). Thóp phẳng, cổ mềm chỉ bớt nghĩ viêm màng não. Nhiễm khuẩn huyết nằm trong chẩn đoán phân biệt của sốt xuất huyết (QĐ mục III.2)."
+    },
+    {
+     "t": "Sởi",
+     "n": "Không ho, chảy mũi, không ban, không tiếp xúc ca sởi: chưa là ca nghi ngờ (QĐ 1019/2025 mục 2.4.1)."
+    },
+    {
+     "t": "Sốt do ủ nóng hoặc do men tiêu hóa",
+     "n": "Cởi bớt quần áo 10 phút nách vẫn 38,0 °C (NICE NG143 mục 1.6.3: không ủ quá kín); men vi sinh ở sơ sinh: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra sốt ở sơ sinh nguy cơ cao: cởi bớt quần áo, đo nách bằng nhiệt kế điện tử (và hậu môn); không gán cho 'khó tiêu'",
+     "v": "c",
+     "n": "Dưới 4 tuần đo nách (NICE NG143 mục 1.1.2); dưới 3 tháng từ 38 °C là nhóm nguy cơ cao (mục 1.2.12); trên 38 °C là dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6). AAP 2021 (hậu môn từ 38,0 °C) không áp dụng cho tuần đầu đời (sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần')."
+    },
+    {
+     "t": "Chuyển tuyến ngay bằng xe, mẹ đi cùng, đến bệnh viện nhi hoặc sản nhi có khoa sơ sinh; không cho về, không chờ xét nghiệm mới quyết định",
+     "v": "c",
+     "n": "Sơ sinh sốt: nhập viện, khi có thể cấy máu và chọc dò tủy trước kháng sinh (WHO 2013 mục 3.8; NICE NG143 mục 1.4.3, 1.5.2–1.5.4). IMCI: sốt ở trẻ 0–2 tháng là bệnh nặng, chuyển gấp (QĐ 2341/2024 mục 2.2.2, Bảng kiểm 1 mục 19a). Trẻ nhũ nhi nghi sốt xuất huyết: xem xét nhập viện (QĐ 2760/2023 mục IV.A), chuyển khoa sơ sinh khi có dấu hiệu nặng (mục IV.C.2.6 ý 4); WHO 2025 mục 2.7."
+    },
+    {
+     "t": "Chuẩn bị và bàn giao: giữ ấm, cho bú trước khi đi, đo đường huyết, gọi báo nơi nhận, giấy chuyển tuyến kèm công thức máu có giờ lấy; ghi rõ mẹ sốt, tiểu cầu thấp quanh ngày sinh, nghi sốt xuất huyết để xin NS1, theo dõi hematocrit",
+     "v": "c",
+     "n": "QĐ 2341/2024 Bảng kiểm 1 mục 19a (giữ ấm, phòng hạ đường huyết); QĐ 2760/2023 mục IV.C.2.6 ý 4 (công thức máu, huyết thanh, theo dõi sát, tiếp tục bú mẹ), Phụ lục 13 ý 2 (hội chẩn trước chuyển), Phụ lục 14 (giấy chuyển theo mẫu hiện hành). Dạng S–B–A–R: không có trong tài liệu đã tải, là cách trình bày của người soạn."
+    },
+    {
+     "t": "Tiêm liều kháng sinh đầu (ampicillin 50 mg/kg, kèm gentamicin 5 mg/kg theo WHO) rồi chuyển gấp; HOẶC chuyển ngay không tiêm tại chỗ để tuyến trên cấy máu, chọc dò tủy trước kháng sinh",
+     "v": "c",
+     "n": "A: QĐ 2341/2024 Bảng kiểm 1 mục 19a (liều kháng sinh tiêm bắp đầu); WHO 2013 mục 3.8, tr. 69, 71 (tuần đầu đời, đủ cân: ampicillin 50 mg/kg mỗi 12 giờ, gentamicin 5 mg/kg một lần/ngày); NICE mục 1.5.6–1.5.7 (cephalosporin thế hệ ba cộng ampicillin). B: NICE mục 1.5.5, WHO mục 3.8. Khác bối cảnh, không nguồn nào nói cách kia gây hại (sổ mâu thuẫn 'Sơ sinh sốt, phải chuyển tuyến')."
+    },
+    {
+     "t": "Không dùng thuốc hạ sốt, không lau ấm, không ủ, cởi bớt quần áo, tiếp tục bú — HOẶC chỉ paracetamol đơn chất khi bé khó chịu, không dùng chỉ để hạ số đo",
+     "v": "c",
+     "n": "A: WHO 2013 mục 3.10.4. B: NICE NG143 mục 1.6.2–1.6.6; sốt xuất huyết chỉ paracetamol đơn chất 10–15 mg/kg/lần cách 4–6 giờ, tối đa 60 mg/kg/24 giờ, không nêu tuổi tối thiểu (QĐ 2760/2023 mục IV.A.1; WHO 2025 mục 4.2.1, Bảng 4-2). Liều an toàn cho sơ sinh: không có trong tài liệu đã tải (sổ mâu thuẫn 'Thuốc hạ sốt cho sơ sinh có sốt')."
+    },
+    {
+     "t": "Làm công thức máu, CRP, đường huyết, nước tiểu trong lúc chờ xe, gửi kết quả theo bé",
+     "v": "a",
+     "n": "NICE NG143 mục 1.5.3; QĐ 2760/2023 mục IV.C.2.6 ý 4. Không bắt buộc ở phòng khám và không được kéo dài giờ chuyển."
+    },
+    {
+     "t": "Giải thích vì sao không truyền dịch ở phòng khám, ghi nhận nỗi lo của mẹ",
+     "v": "c",
+     "n": "Bù dịch sớm bằng đường uống; truyền khi lừ đừ, không uống được, nôn nhiều, đau bụng nhiều, mất nước, hematocrit tăng (QĐ 2760/2023 mục IV.A.2, IV.B1.4). Sơ sinh dễ quá tải dịch (WHO 2013 mục 3.10.2)."
+    },
+    {
+     "t": "Truyền một chai nước biển cho bé theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định: bé còn bú, mao mạch dưới 2 giây, tay chân ấm, tã ướt đủ (QĐ 2760/2023 mục IV.B1.4a). Quá tải dịch ở sơ sinh, không quá 100 ml/kg/ngày (WHO 2013 mục 3.10.2). Truyền dịch theo yêu cầu: sổ mâu thuẫn (w)."
+    },
+    {
+     "t": "Cho về với paracetamol và men tiêu hóa, hẹn khám lại ngày mai; hoặc chờ công thức máu, CRP 'bình thường' rồi mới quyết định",
+     "v": "w",
+     "n": "Quyết định chuyển dựa vào tuổi và sốt, không dựa vào xét nghiệm của phòng khám (NICE NG143 mục 1.2.12, 1.5.2–1.5.4; WHO 2013 mục 3.6, 3.8); thuốc hạ sốt làm khó đọc diễn tiến (NICE mục 1.4.8)."
+    },
+    {
+     "t": "Cho ibuprofen, analgin hoặc aspirin hạ sốt",
+     "v": "w",
+     "n": "Không dùng aspirin, analgin, ibuprofen vì có thể gây xuất huyết, toan máu (QĐ 2760/2023 mục IV.A.1); WHO 2025 mục 4.2.3 khuyến cáo mạnh không dùng NSAID. Theo mục 'ibuprofen khi chưa loại trừ sốt xuất huyết' đã có trong sổ."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin…) cho bé",
+     "v": "w",
+     "n": "NICE NG143 mục 1.4.9: không kê kháng sinh uống cho trẻ sốt chưa rõ ổ; sơ sinh cần kháng sinh tiêm sau khi lấy bệnh phẩm (mục 1.5.6–1.5.7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt ở sơ sinh 6 ngày tuổi, ngày thứ 2 của bệnh, bú kém, nguy cơ cao; nghĩ nhiều sốt xuất huyết Dengue sơ sinh lây từ mẹ (mẹ sốt, tiểu cầu 92 G/L quanh ngày sinh, xóm có dịch), chưa xác nhận NS1",
+     "Chưa loại nhiễm khuẩn xâm lấn (nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu) vì phòng khám không cấy máu, không chọc dò tủy",
+     "Chưa dấu hiệu cảnh báo hay sốc (tay chân ấm, mao mạch dưới 2 giây, gan 1,5 cm, không xuất huyết); chưa phải sốt phát ban hay sởi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám; sốt từ bao giờ, đo thế nào, thuốc đã cho; bú, tã ướt, dấu hiệu nguy hiểm sơ sinh; sinh nở; BỆNH CỦA MẸ quanh ngày sinh; dịch tễ quanh nhà; thuốc đang dùng; chị mong muốn gì cho bé hôm nay. Khám: cởi bớt quần áo rồi đo nách và hậu môn, tri giác, mao mạch, thóp, phổi, bụng và gan, thần kinh, da (ban, xuất huyết), quan sát một cữ bú. Cận lâm sàng trong lúc chờ xe: công thức máu, CRP, nước tiểu, đường huyết.",
+     "Điểm bản lề (bẫy): bé nhìn khỏe, còn bú, tay chân ấm; bà bảo 'khó tiêu', mẹ nghĩ 'siêu vi giống mẹ', công thức máu và CRP không rõ rệt. Nhưng sơ sinh sốt từ 38 °C luôn là nhóm nguy cơ cao (NICE NG143 mục 1.2.12), trên 38 °C là dấu hiệu nguy hiểm (WHO 2013 mục 3.6), và AAP 2021 loại trẻ tuần đầu đời khỏi hướng dẫn nên không có đường 'về nhà' nào để viện dẫn (phần Thách thức ý 1). Phòng khám không cấy máu, không chọc dò tủy: giới hạn của tuyến này chính là lý do chuyển.",
+     "Vì sao nghĩ sốt xuất huyết: trẻ sinh từ mẹ sốt xuất huyết có thể mắc do mẹ lây trước hoặc khi sinh (khoảng 6%), sốt thường từ ngày 1 đến 6 sau sinh, phần lớn thể nhẹ (QĐ 2760/2023 mục IV.C.2.6 ý 4). Mẹ sốt 5 ngày, nhức hốc mắt, ban, tiểu cầu 92 G/L, xóm có dịch; bé bạch cầu thấp, tiểu cầu 128 G/L, xung huyết da (mục II.1.1–1.2). Giai đoạn nguy hiểm ngày 3–7 (mục II.2), thoát huyết tương điển hình ngày 4–6 (WHO 2025 mục 5.2), nên cần nơi theo dõi hematocrit, tiểu cầu mỗi 4–6 giờ (mục IV.B1.3).",
+     "Loại sốt phát ban virus, sởi: chưa có ban, không viêm long, không tiếp xúc ca sởi (QĐ 1019/2025 mục 2.4.1); dù là virus khác, sơ sinh sốt vẫn phải làm bộ đánh giá nhiễm khuẩn. Nhiễm khuẩn huyết không loại được tại phòng khám nên chuyển (WHO 2013 mục 3.8). Men tiêu hóa không liên quan sốt."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay (phòng khám không có giường sơ sinh): sơ sinh sốt từ 38 °C (NICE mục 1.4.3, 1.5.2–1.5.4; WHO 2013 mục 3.6, 3.8; QĐ 2341/2024 mục 2.2.2) cộng nghi sốt xuất huyết ở trẻ nhũ nhi (QĐ 2760/2023 mục IV.A) và có chẩn đoán phân biệt nhiễm khuẩn huyết (Phụ lục 13 ý 1).",
+     "Trước chuyển: giữ ấm, cho bú, đo đường huyết, mẹ đi cùng, gọi báo nơi nhận, giấy chuyển theo mẫu kèm công thức máu có giờ lấy (QĐ 2341/2024 Bảng kiểm 1 mục 19a; QĐ 2760/2023 Phụ lục 13 ý 2, Phụ lục 14). Kháng sinh liều đầu: hai cách đều đúng.",
+     "Không truyền dịch tại phòng khám (QĐ 2760/2023 mục IV.B1.4a; WHO 2013 mục 3.10.2); dịch bằng bú mẹ (QĐ mục IV.A.2; WHO 2025 mục 4.1). Không ibuprofen, aspirin, analgin (QĐ mục IV.A.1; WHO 2025 mục 4.2.3); hạ sốt theo hai cách đều đúng ở bảng xử trí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh tiêm liều đầu trước chuyển (không bắt buộc): ampicillin kèm gentamicin; HOẶC không tiêm tại chỗ, chuyển ngay",
+      "ham_luong": "Ampicillin lọ 250 mg; gentamicin lọ 80 mg/2 ml pha loãng thành 10 mg/ml (WHO 2013 tr. 69, 71)",
+      "lieu": "Ampicillin 50 mg/kg (3,15 kg: khoảng 160 mg); gentamicin 5 mg/kg một liều (khoảng 16 mg), tuần đầu đời, trẻ đủ cân (WHO 2013 tr. 69, 71). Thể tích theo cách pha: bảng WHO tr. 69, 71",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một liều ngay trước khi lên xe, nếu chọn cách tiêm",
+      "so_ngay": "Một liều; kháng sinh tiếp do tuyến trên quyết định sau khi lấy bệnh phẩm (WHO 2013 mục 3.8: nhiễm khuẩn nặng sơ sinh ít nhất 7–10 ngày)",
+      "ghi_chu": "(QĐ 2341/2024 Bảng kiểm 1 mục 19a; WHO 2013 mục 3.8, tr. 69, 71; NICE NG143 mục 1.5.5–1.5.7). Cách B: chuyển ngay để cấy trước kháng sinh. Không kê thuốc uống, thuốc hạ sốt, men tiêu hóa."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại với mẹ: 'Em hiểu chị đang lo và thương con. Cháu mới 6 ngày tuổi mà đã sốt thì dù nhìn khỏe, em phải xem là nặng cho tới khi chứng minh được ngược lại. Chị kể mình sốt, tiểu cầu thấp, xóm có dịch nên em còn nghĩ tới sốt xuất huyết lây từ mẹ. Phòng khám không cấy máu, không chọc dò tủy, không có giường sơ sinh nên em chuyển cháu lên bệnh viện Nhi ngay. Truyền chai nước ở đây không giúp cháu và có thể làm cháu thừa nước; chị đi cùng và tiếp tục cho cháu bú.'",
+     "Trên đường đi: giữ ấm, không ủ, không lau nước ấm, không cho thuốc hạ sốt, men tiêu hóa hay thuốc nam; mang hộp men và giấy ra viện của mẹ (WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.2–1.6.3; QĐ 2341/2024 Bảng kiểm 1 mục 19a).",
+     "Giấy chuyển (S–B–A–R do người soạn đặt): bé nam 6 ngày, sốt từ tối qua, bú kém; mẹ sốt và tiểu cầu thấp quanh sinh, xóm có dịch; nách 38,2 °C, mạch 152, thở 52, SpO₂ 98%, tay chân ấm, gan 1,5 cm, không xuất huyết; kèm công thức máu, CRP, nước tiểu, đường huyết; chưa dùng thuốc hạ sốt; đề nghị cấy máu, chọc dò tủy, NS1, theo dõi hematocrit.",
+     "Gọi xe cấp cứu nếu trên đường: bỏ bú, li bì, co giật, thở từ 60 l/p, rên, rút lõm ngực, tím, thóp phồng, tay chân lạnh, chảy máu (WHO 2013 mục 3.6; QĐ 2760/2023 Phụ lục 25 mục 3.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · ngày thứ 9 của bệnh, 2 ngày sau ra viện (bé 13 ngày tuổi)",
+   "tiep_don": "Bé trai 13 ngày tuổi, mẹ bế đến tái khám theo hẹn của bệnh viện nhi tỉnh, mang giấy ra viện. Cân 3,22 kg. Nhiệt độ nách 36,9 °C, mạch 146 l/p, nhịp thở 46 l/p, SpO₂ 99%. Bé nằm im, hồng hào, mở mắt khi được gọi.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập lại bệnh viện nhi vì tiểu cầu chưa về bình thường: bé đã đủ tiêu chuẩn ra viện (hết sốt ít nhất 2 ngày, ăn bú được, hematocrit về bình thường, tiểu cầu hồi phục trên 50 G/L; QĐ 2760/2023 mục IV.D.3), nên nhập lại không thêm lợi ích mà thêm nguy cơ nhiễm khuẩn bệnh viện và tách mẹ khỏi con. Mẹ còn yếu, chi phí và thời gian đi lại 38 km vô ích.",
+    "theo_doi": "Giữ bé ở phòng khám truyền một chai nước biển 'cho lại sức': bé tiểu đủ, bú được, không có chỉ định truyền (QĐ 2760/2023 mục IV.B1.4a), trong khi giai đoạn hồi phục có thể có suy hô hấp do quá tải dịch truyền (QĐ mục II.3.1) và sơ sinh dễ quá tải (WHO 2013 mục 3.10.2). Mẹ tin rằng nước biển làm bé khỏe, lần sau sẽ lại đòi truyền khi bé chỉ ngủ nhiều."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu ra viện hôm kia, đây là giấy ra viện. Cháu hết sốt mấy hôm rồi nhưng em thấy cháu vẫn ngủ nhiều, bú chưa được như hồi mới sinh, lại nổi ban ngứa khắp người. Em lo quá nên đưa cháu đi khám lại sớm.",
+   "sinh_hieu": {
+    "mach": 146,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 46,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện: sốt xuất huyết Dengue (NS1 dương tính ngày thứ 2 của bệnh), sơ sinh, không sốc, không xuất huyết. Nằm 5 ngày. Hết sốt từ ngày thứ 4 của bệnh. Tiểu cầu thấp nhất 58 G/L và hematocrit cao nhất 0,58 (ngày thứ 4); lúc vào viện hematocrit 0,53; siêu âm không tràn dịch. AST/ALT cao nhất 118/44 U/L. Cấy máu, nước tiểu âm; dịch não tủy bình thường; kháng sinh tiêm 48 giờ rồi ngưng. Ra viện ngày thứ 7 của bệnh: tiểu cầu 96 G/L, hematocrit 0,50, cân 3,18 kg. Dặn: bú mẹ, tái khám sau 2 ngày làm công thức máu tại phòng khám huyện.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Giấy ra viện, diễn tiến ở tuyến trên"
+    },
+    {
+     "id": "tai_nha",
+     "noi_dung": "Từ khi về nhà bé không sốt (mẹ đo nách 3 lần/ngày, cao nhất 37,3 °C). Bú 7–8 cữ/ngày, mỗi cữ ngắn hơn lúc khỏe, phải đánh thức mới bú tiếp; thay 6–7 tã ướt/ngày, phân vàng. Từ hôm qua nổi ban hồng nhạt, ngứa ở thân và tay chân, bé quấy khi gãi. Không nôn, không chướng bụng, không khóc thét từng cơn, không chảy máu, không phân đen, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau ra viện: sốt, bú, tiểu, ban, dấu hiệu cảnh báo"
+    },
+    {
+     "id": "thuoc2",
+     "noi_dung": "Mẹ đã ngưng men tiêu hóa theo lời bác sĩ bệnh viện; không dùng thuốc nào khác, không bôi gì lên ban.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "ly_do_that2",
+     "noi_dung": "Ở viện bé được truyền dịch duy trì hai ngày vì bú kém, mẹ thấy bé tươi lên. Về nhà bé ngủ nhiều, mẹ sợ bé 'yếu, thiếu nước' nên muốn xin một chai truyền thêm. Chị chỉ nói khi được hỏi 'chị lo điều gì nhất' hoặc khi bị từ chối truyền; nghe giải thích dựa trên số tã ướt và cân nặng thì yên tâm.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chị không tự nói. Kể khi bác sĩ hỏi chị lo điều gì nhất, hỏi hồi nằm viện bé được làm gì, hoặc khi nghe nói không truyền.",
+     "nhieu": 1,
+     "y": "Lý do thật: muốn được truyền dịch"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,22 kg (tăng 40 g so với lúc ra viện hai ngày trước, cân sinh 3,3 kg). Nằm im, mở mắt khi gọi, khóc to khi thay tã, dỗ nín; bú ngay khi chạm môi. Môi hồng, niêm mạc ẩm, thóp phẳng không trũng, mao mạch hồi sắc dưới 2 giây, tay chân ấm.",
+     "k": 1,
+     "hien": "Cân 3,22 kg. Mở mắt khi gọi, khóc to, bú ngay khi chạm môi. Niêm mạc ẩm, thóp phẳng, tay chân ấm."
+    },
+    "tim": {
+     "a": "Tim đều 146 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 146 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không dấu hiệu dịch tự do. Gan bờ dưới sườn phải 1,5 cm, không to hơn lúc vào viện. Không sờ thấy lách. Rốn khô.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "da": {
+     "a": "Ban dát sẩn hồng nhạt, ngứa, ở thân, lưng và tay chân; ấn nhạt đi. Không chấm xuất huyết, không bầm tím ở chỗ tiêm hay chỗ lấy máu, không vàng da, không phồng nước.",
+     "k": 1,
+     "hien": "Ban hồng nhạt ở thân, tay chân, ấn nhạt đi. Không chấm xuất huyết."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút khỏe, nuốt đều, bú khoảng 10 phút rồi tự nhả vú, thỏa mãn.",
+     "k": 1,
+     "hien": "Mút khỏe, nuốt đều, tự nhả vú sau khoảng 10 phút."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 9,4 G/L (neu 45% = 4,23 G/L, lym 42%) · Hb 164 g/L · Hct 0,50 · TC 112 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 45.0,
+      "neu": 4.23,
+      "lym_pct": 42.0,
+      "lym": 3.95,
+      "mono_pct": 10.0,
+      "mono": 0.94,
+      "eos_pct": 2.0,
+      "eos": 0.19,
+      "baso_pct": 1.0,
+      "baso": 0.09,
+      "rbc": 4.7,
+      "hgb": 164,
+      "hct": 0.5,
+      "mcv": 106.0,
+      "mch": 34.9,
+      "mchc": 328,
+      "rdw": 15.2,
+      "plt": 112
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu công thức máu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Cần làm theo hẹn: tiểu cầu 96 lên 112 G/L, hematocrit 0,50 không tăng (không cô đặc máu: tăng quá 20% so với ban đầu mới là cô đặc, QĐ 2760/2023 mục II.2.2). Bạch cầu tăng lại sớm, tiểu cầu hồi phục chậm hơn bạch cầu: đúng giai đoạn hồi phục (mục II.3.2)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 58 U/L · ALT 30 U/L",
+     "n": "Hữu ích: AST, ALT có khuynh hướng giảm ở giai đoạn hồi phục (QĐ 2760/2023 mục II.3.2); đang giảm từ 118/44. Khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Chấp nhận, không bắt buộc: bé không sốt, không có ổ nhiễm khuẩn mới."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "Cơ sở không làm được. (Nếu gửi nơi làm được: NS1 âm tính, IgM dương tính.)",
+     "n": "Không cần: đã xác nhận ở bệnh viện; NS1 chỉ có giá trị từ ngày 1 đến 7 của bệnh (QĐ 2760/2023 mục III.1.1), bé đang ngày thứ 9."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt xuất huyết Dengue sơ sinh (NS1 dương ở tuyến trên) đang hồi phục, ngày thứ 9: hết sốt 5 ngày, tiểu cầu 112 G/L đang lên, hematocrit ổn định; đỡ một phần (còn ngủ nhiều, bú chưa trọn cữ), ban hồi phục gây ngứa; không có dấu hiệu cảnh báo",
+     "ok": 1,
+     "n": "Hồi phục thường ngày 7–10: hết sốt, toàn trạng tốt lên, tiểu nhiều, có thể ban hồi phục hoặc ngứa; tiểu cầu về bình thường muộn hơn bạch cầu (QĐ 2760/2023 mục II.3.1–3.2). Bé đạt tiêu chuẩn ra viện (mục IV.D.3)."
+    },
+    {
+     "t": "Thất bại điều trị sớm / dấu hiệu cảnh báo muộn (thoát huyết tương, xuất huyết)",
+     "n": "Không có: không sốt, không khó chịu hơn, nôn, khóc thét, chảy máu, tay chân lạnh, tiểu ít, li bì (QĐ 2760/2023 mục IV.A.3b, Phụ lục 2); gan không to, hematocrit không tăng."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / nhiễm khuẩn bệnh viện sau nằm viện; sởi, sốt phát ban virus",
+     "n": "Không sốt, bú được, CRP thấp, cấy ở viện âm; quay lại ngay nếu sốt lại (NICE NG143 mục 1.7.3). Không viêm long; ban đúng thời điểm hồi phục."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân biệt hồi phục chậm bình thường với thất bại điều trị: kiểm sốt, tri giác khi đánh thức, bú và tã ướt, cân, tay chân ấm, mao mạch, gan, chảy máu, nôn/đau bụng, rồi công thức máu (tiểu cầu, hematocrit)",
+     "v": "c",
+     "n": "Dấu hiệu phải quay lại ngay, dấu hiệu cảnh báo: QĐ 2760/2023 mục IV.A.3b, Phụ lục 2. Thoát huyết tương thường ngày 4–6 và cải thiện sau 48–72 giờ (WHO 2025 mục 5.2). Hồi phục: QĐ mục II.3."
+    },
+    {
+     "t": "Không truyền dịch; tiếp tục bú mẹ theo nhu cầu, đánh thức nếu ngủ lâu, theo dõi tã ướt và cân",
+     "v": "c",
+     "n": "Không có chỉ định truyền (QĐ 2760/2023 mục IV.B1.4a); tiếp tục bú mẹ (mục IV.C.2.6 ý 4); bù dịch sớm đường uống (mục IV.A.2; WHO 2025 mục 4.1). Mốc giờ đánh thức: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ kèm công thức máu; quay lại ngay khi sốt lại, bú kém hơn, li bì, tay chân lạnh, tiểu ít, chảy máu, nôn nhiều",
+     "v": "c",
+     "n": "Mốc tái khám sau ra viện: không có trong tài liệu đã tải (QĐ 2760/2023 chỉ dặn dấu hiệu quay lại, mục IV.A.3b). Mốc 48–72 giờ là lựa chọn của người soạn."
+    },
+    {
+     "t": "Ban ngứa: không bôi hay uống thuốc; cắt móng, bao tay mềm, mặc đồ rộng",
+     "v": "c",
+     "n": "Ban hồi phục hoặc ngứa là bình thường (QĐ 2760/2023 mục II.3.1). Điều trị ngứa cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền một chai nước biển cho bé tại phòng khám",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 2760/2023 mục IV.B1.4a); có thể quá tải dịch trong giai đoạn hồi phục (mục II.3.1; WHO 2013 mục 3.10.2). Truyền dịch theo yêu cầu: sổ mâu thuẫn (w)."
+    },
+    {
+     "t": "Nhập lại hoặc chuyển lại bệnh viện nhi vì tiểu cầu chưa bình thường; hoặc kê kháng sinh, thuốc hạ sốt 'phòng ngừa'",
+     "v": "w",
+     "n": "Tiêu chuẩn ra viện đã đạt (QĐ 2760/2023 mục IV.D.3), chưa có tiêu chuẩn chuyển tuyến. Bé không sốt, không ổ nhiễm khuẩn: không kháng sinh uống (NICE NG143 mục 1.4.9), không thuốc hạ sốt (WHO 2013 mục 3.10.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt xuất huyết Dengue sơ sinh (NS1 dương ở tuyến trên), ngày thứ 9, giai đoạn hồi phục, không biến chứng",
+     "Đỡ một phần: hết sốt 5 ngày, bú và tỉnh táo tốt dần, tiểu cầu 112 G/L (từ 96), hematocrit 0,50 ổn định; còn ngủ nhiều và ban hồi phục gây ngứa",
+     "Không dấu hiệu cảnh báo, không nhiễm khuẩn mới; chưa có chỉ định truyền dịch, nhập viện hay chuyển lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: giấy ra viện (tiểu cầu thấp nhất, hematocrit, kháng sinh); từ khi về có sốt không; bú, tã ướt, ban, nôn, đau bụng, chảy máu, tri giác; thuốc đang dùng; chị lo điều gì nhất. Khám: cân, tri giác khi đánh thức, niêm mạc, thóp, mao mạch, bụng và gan, da, một cữ bú. Cận lâm sàng: công thức máu (e), men gan (u).",
+     "Điểm bản lề: hồi phục chậm bình thường (hết sốt, tiểu nhiều, tiểu cầu lên chậm hơn bạch cầu, ban hồi phục và ngứa; QĐ 2760/2023 mục II.3) hay thất bại điều trị sớm (khó chịu hơn, bú kém, nôn, đau bụng, tay chân lạnh, tiểu ít, chảy máu, hematocrit tăng; mục IV.A.3b, II.2). Bé có đủ dấu hiệu nhóm đầu, không có dấu hiệu nhóm sau.",
+     "Ngủ nhiều ở sơ sinh 13 ngày tuổi vẫn trong khả năng bình thường khi đánh thức dễ, bú ngay, tã ướt đủ; lừ đừ, li bì mới là dấu hiệu cảnh báo (QĐ 2760/2023 mục II.2.1). Mức ngủ bình thường ở sơ sinh: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Về nhà theo dõi sát, tái khám 48–72 giờ: bé đạt tiêu chuẩn ra viện (QĐ 2760/2023 mục IV.D.3), mẹ theo dõi được, nhà gần phòng khám; trẻ nhũ nhi là nhóm xem xét nhập viện lúc đầu (mục IV.A) nhưng không còn lý do giữ lại khi đã hồi phục.",
+     "Không truyền dịch: bé uống được, tiểu đủ (mục IV.B1.4a); quá tải dịch giai đoạn hồi phục (mục II.3.1; WHO 2013 mục 3.10.2). Giải thích bằng số tã ướt và cân tăng 40 g. Không kháng sinh, thuốc hạ sốt, thuốc bôi ban (NICE NG143 mục 1.4.9; WHO 2013 mục 3.10.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "(QĐ 2760/2023 mục II.3, IV.B1.4, IV.D.3). Không kháng sinh, thuốc hạ sốt, truyền dịch, thuốc ngứa; bú mẹ hoàn toàn. Điều trị ngứa cho sơ sinh: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại với mẹ: 'Cháu đang hồi phục đúng đường: hết sốt 5 ngày, bú ngay khi chạm môi, mỗi ngày 6–7 tã ướt, cân tăng 40 g, tiểu cầu từ 96 lên 112. Ngủ nhiều và ban ngứa là dấu hiệu bệnh đang lui. Em không truyền nước vì cháu uống được, tiểu đủ; truyền thêm có thể làm cháu thừa nước, khó thở. Chị cho bú đều là cách bù nước tốt nhất.'",
+     "Quay lại ngay khi: sốt lại từ 38,0 °C, bú kém hơn, lừ đừ khó đánh thức, tay chân lạnh, không tiểu trên 6 giờ, nôn nhiều, khóc thét, chảy máu mũi, miệng, phân đen, thở từ 60 l/p (QĐ 2760/2023 mục IV.A.3b, Phụ lục 25 mục 3.2; WHO 2013 mục 3.6; NICE NG143 mục 1.7.3). Tái khám 48–72 giờ kèm công thức máu (lựa chọn của người soạn); mang giấy ra viện.",
+     "Cả nhà ngủ màn, diệt lăng quăng, đậy chum nước mưa (QĐ 2760/2023 Phụ lục 25 mục 3.4)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · ngày thứ 12 của bệnh, tái khám sau 3 ngày (bé 16 ngày tuổi)",
+   "tiep_don": "Bé trai 16 ngày tuổi, mẹ bế đến tái khám theo hẹn, mang giấy hẹn lần trước. Cân 3,31 kg. Nhiệt độ nách 36,8 °C, mạch 140 l/p, nhịp thở 42 l/p, SpO₂ 99%. Bé tỉnh táo, hồng hào, ban đã mờ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện hoặc chuyển lại bệnh viện nhi 'để theo dõi thêm cho chắc': bé hết sốt 8 ngày, tiểu cầu đã về trên 150 G/L, ban hết, tăng cân đều; không còn tiêu chuẩn nhập viện nào (QĐ 2760/2023 mục IV.D.3, II.3). Bé phơi nhiễm vi khuẩn bệnh viện không cần thiết, mẹ vừa hồi sức phải đi lại 38 km, và lòng tin vào việc 'đã khỏi' bị xói mòn.",
+    "theo_doi": "Hẹn khám mỗi ngày thêm một tuần và truyền 'nước bồi bổ' theo ý bà ngoại: tài liệu đã tải không có chỉ định truyền hay bổ sung vitamin sau sốt xuất huyết ở sơ sinh đã hồi phục; truyền dịch dễ quá tải ở sơ sinh (WHO 2013 mục 3.10.2). Mẹ mất công đi lại, bé phơi nhiễm lây chéo ở phòng khám, mà không thêm lợi ích."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu khỏe hơn nhiều rồi, bú tốt, hết ngứa. Em đem cháu đến khám lại như bác sĩ dặn. Cháu như vậy là khỏi hẳn chưa ạ? Em có phải cho cháu uống thuốc bồi bổ gì không?",
+   "sinh_hieu": {
+    "mach": 140,
+    "ha": "Không đo",
+    "nhiet": "36,8 (nách)",
+    "nhip_tho": 42,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tai_nha3",
+     "noi_dung": "Từ lần khám trước bé không sốt. Bú 8–9 cữ/ngày, mỗi cữ 10–15 phút, tự nhả vú no; thay 7–8 tã ướt, phân vàng. Ban nhạt dần sau 2 ngày, hết ngứa, da bàn tay bàn chân bong vảy mịn. Tỉnh táo hơn, thức lâu hơn giữa các cữ. Không nôn, không chảy máu, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến từ lần khám trước"
+    },
+    {
+     "id": "me3",
+     "noi_dung": "Mẹ đã khỏe; đi khám lại ở bệnh viện huyện, tiểu cầu bình thường. Cả nhà ngủ màn, đã đậy chum nước mưa, xóm được phun thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sức khỏe mẹ, phòng bệnh trong nhà"
+    },
+    {
+     "id": "ly_do_that3",
+     "noi_dung": "Bà ngoại bảo 'sau trận ốm nặng phải truyền nước, bồi bổ cho mau lên cân'; mẹ phân vân, hỏi bác sĩ vì tin bác sĩ hơn. Chị chỉ nói khi được hỏi trong nhà có ai góp ý gì về việc chăm bé.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chị kể khi bác sĩ hỏi ai trong nhà có ý kiến về việc chăm bé hoặc hỏi chị còn băn khoăn gì; hoặc khi chị hỏi về thuốc bồi bổ.",
+     "nhieu": 1,
+     "y": "Lý do thật: muốn được truyền dịch"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,31 kg (tăng 90 g trong 3 ngày, khoảng 30 g/ngày; đã qua cân sinh 3,3 kg). Tỉnh, khóc to, dỗ nín, mắt nhìn theo. Môi hồng, niêm mạc ẩm, thóp phẳng, mao mạch dưới 2 giây, tay chân ấm.",
+     "k": 1,
+     "hien": "Cân 3,31 kg. Tỉnh, khóc to, dỗ nín, niêm mạc ẩm, thóp phẳng, tay chân ấm."
+    },
+    "tim": {
+     "a": "Tim đều 140 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 140 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng; gan bờ dưới sườn phải 1 cm; không sờ thấy lách. Rốn khô.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Rốn khô."
+    },
+    "da": {
+     "a": "Ban đã mờ, còn vài vết hồng nhạt ở thân. Da bàn tay, bàn chân bong vảy mịn. Không chấm xuất huyết, không bầm tím, không vàng da.",
+     "k": 1,
+     "hien": "Ban mờ, bong vảy mịn ở bàn tay, bàn chân. Không xuất huyết."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 10,1 G/L (neu 38%, lym 50%) · Hb 160 g/L · Hct 0,48 · TC 186 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 10.1,
+      "neu_pct": 38.0,
+      "neu": 3.84,
+      "lym_pct": 50.0,
+      "lym": 5.05,
+      "mono_pct": 9.0,
+      "mono": 0.91,
+      "eos_pct": 2.0,
+      "eos": 0.2,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.6,
+      "hgb": 160,
+      "hct": 0.48,
+      "mcv": 104.0,
+      "mch": 34.8,
+      "mchc": 333,
+      "rdw": 15.0,
+      "plt": 186
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu công thức máu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Hữu ích để chốt: tiểu cầu 186 G/L (từ 112), hematocrit 0,48; số lượng tiểu cầu dần trở về bình thường ở giai đoạn hồi phục (QĐ 2760/2023 mục II.3.2). Mốc tiểu cầu để ngưng theo dõi: không có trong tài liệu đã tải; ngưỡng dùng ở đây là lựa chọn của người soạn."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Không cần: chẩn đoán đã xác nhận ở bệnh viện; làm lại không đổi xử trí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không cần: bé không sốt, không ổ nhiễm khuẩn."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt xuất huyết Dengue sơ sinh đã hồi phục: hết sốt 8 ngày, tiểu cầu 186 G/L, hematocrit 0,48, hết ban ngứa, tăng cân đạt; kết thúc theo dõi",
+     "ok": 1,
+     "n": "Hồi phục: toàn trạng tốt, tiểu nhiều, tiểu cầu về bình thường muộn hơn bạch cầu (QĐ 2760/2023 mục II.3). Bong vảy mịn sau ban: tài liệu đã tải không nêu."
+    },
+    {
+     "t": "Tái phát, nhiễm khuẩn muộn; thiếu dịch cần truyền",
+     "n": "Không sốt, bú đều, tã ướt 7–8/ngày, tăng cân 30 g/ngày; sốt lại thì quay lại ngay (NICE NG143 mục 1.7.3; WHO 2013 mục 3.6). Không có chỉ định truyền hay bồi bổ trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết thúc theo dõi sốt xuất huyết: không xét nghiệm thêm; quay lại ngay khi sốt lại hoặc có dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "Hồi phục QĐ 2760/2023 mục II.3; dấu hiệu quay lại mục IV.A.3b, Phụ lục 25 mục 3.2; WHO 2013 mục 3.6. Lịch khám trẻ sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch, không thuốc bồi bổ; tiếp tục bú mẹ hoàn toàn",
+     "v": "c",
+     "n": "Không có chỉ định trong tài liệu đã tải (sổ mâu thuẫn: truyền dịch theo yêu cầu chấm w); bú mẹ: QĐ 2760/2023 mục IV.C.2.6 ý 4."
+    },
+    {
+     "t": "Dặn phòng bệnh cho cả nhà: màn, diệt lăng quăng, đậy chum; người nhà sốt thì đi khám sớm",
+     "v": "c",
+     "n": "QĐ 2760/2023 Phụ lục 25 mục 3.3–3.4."
+    },
+    {
+     "t": "Làm lại NS1 hoặc IgM để 'xác nhận khỏi'",
+     "v": "a",
+     "n": "Không cần: chẩn đoán đã có, NS1 chỉ có giá trị ngày 1–7 (QĐ 2760/2023 mục III.1.1)."
+    },
+    {
+     "t": "Truyền dịch hoặc thuốc bồi bổ theo ý bà ngoại; hoặc nhập viện, chuyển lại để theo dõi thêm",
+     "v": "w",
+     "n": "Không có chỉ định; quá tải dịch ở sơ sinh (WHO 2013 mục 3.10.2). Đã đạt tiêu chuẩn hồi phục, không có tiêu chuẩn chuyển tuyến (QĐ 2760/2023 mục IV.D.3, II.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt xuất huyết Dengue sơ sinh đã hồi phục hoàn toàn (hết sốt 8 ngày, tiểu cầu 186 G/L, hematocrit 0,48, hết ban ngứa, tăng cân 30 g/ngày)",
+     "Không tái phát, không nhiễm khuẩn muộn; không còn chỉ định theo dõi dengue"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt từ lần trước; bú, tã ướt, ban, tri giác; ai trong nhà góp ý gì về chăm bé. Khám: cân, tri giác, niêm mạc, bụng, da. Cận lâm sàng: công thức máu (u) để chốt tiểu cầu.",
+     "Điểm bản lề: biết khi nào dừng. Tiểu cầu về bình thường muộn hơn bạch cầu (QĐ 2760/2023 mục II.3.2); khi trên 150 G/L, hematocrit ổn định và bé khỏe thì kết thúc. Mốc cụ thể để ngưng xét nghiệm: không có trong tài liệu đã tải, là lựa chọn của người soạn."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, không hẹn lại xét nghiệm: đã đủ tiêu chí hồi phục (QĐ 2760/2023 mục II.3, IV.D.3). Bồi bổ, truyền dịch: không có trong tài liệu đã tải, chấm w. Dặn dấu hiệu quay lại và phòng bệnh (Phụ lục 25 mục 3.2–3.4); sốt lại ở sơ sinh là nhóm nguy cơ cao (NICE NG143 mục 1.2.12, 1.7.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "(QĐ 2760/2023 mục II.3, IV.D.3). Không thuốc bồi bổ, không truyền dịch; bú mẹ hoàn toàn. Vitamin sau sốt xuất huyết ở sơ sinh: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại với mẹ: 'Cháu đã khỏi sốt xuất huyết: không sốt 8 ngày, tiểu cầu 186, cân tăng đều. Sữa mẹ là bồi bổ tốt nhất, không cần truyền nước hay thuốc bổ. Chị nói giúp bà ngoại là bác sĩ đã kiểm tra, cháu không thiếu nước.'",
+     "Quay lại ngay khi: sốt từ 38,0 °C, bú kém, li bì, thở từ 60 l/p, tím, chảy máu, co giật (WHO 2013 mục 3.6; QĐ 2760/2023 Phụ lục 25 mục 3.2). Cả nhà ngủ màn, diệt lăng quăng (Phụ lục 25 mục 3.4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: bé được chuyển bằng xe sang bệnh viện nhi tỉnh trong vòng một giờ, mẹ đi cùng và cho bú trên đường; NS1 dương tính ngày thứ 2 của bệnh, cấy máu, nước tiểu âm, dịch não tủy bình thường, kháng sinh tiêm 48 giờ rồi ngưng; hết sốt ngày thứ 4, tiểu cầu thấp nhất 58 G/L, không sốc, ra viện ngày thứ 7. Lượt 2 (13 ngày tuổi): hồi phục chậm bình thường, không truyền dịch. Lượt 3 (16 ngày tuổi): tiểu cầu 186 G/L, khỏi hẳn, kết thúc theo dõi.",
+ "nhieu": [
+  "Bé nhìn khỏe, còn bú, tay chân ấm; bà bảo 'khó tiêu', mẹ nghĩ 'siêu vi giống mẹ': dễ kết luận lành tính. Công thức máu và CRP không rõ rệt, nước tiểu túi âm: dễ chờ kết quả 'đẹp' rồi cho về.",
+  "Bệnh của mẹ quanh ngày sinh chỉ lộ khi hỏi về mẹ; nhãn 'siêu vi' của nhà hộ sinh khiến cả nhà bỏ qua sốt xuất huyết.",
+  "Mẹ nhớ chai nước biển mình từng được truyền nên muốn truyền cho con; hợp tác, nghe giải thích thì đồng ý chuyển. Gói men tiêu hóa không liên quan sốt."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh sốt từ 38 °C luôn mở một quy trình; xét nghiệm 'bình thường' ở phòng khám không loại được nhiễm khuẩn xâm lấn. Nhận ra giới hạn của tuyến mình (không cấy máu, chọc dò tủy, khoa sơ sinh) chính là lý do chuyển.",
+  "Hỏi về mẹ: sơ sinh có thể mắc sốt xuất huyết do mẹ lây (khoảng 6%), sốt ngày 1–6 sau sinh (QĐ 2760/2023 mục IV.C.2.6 ý 4); 'siêu vi' ghi ở nhà hộ sinh chưa phải chẩn đoán.",
+  "Sau ra viện: phân biệt hồi phục chậm bình thường (hết sốt, tiểu nhiều, tiểu cầu lên dần, ban ngứa) với thất bại (khó chịu hơn, bú kém, tay chân lạnh, tiểu ít, chảy máu); biết khi nào dừng theo dõi. Từ chối truyền dịch bằng số liệu cụ thể (tã ướt, cân, niêm mạc)."
+ ],
+ "diem_nho": [
+  "Sơ sinh sốt: nhóm nguy cơ cao từ 38 °C (NICE NG143 mục 1.2.12); dưới 1 tháng: công thức máu, cấy máu, CRP, nước tiểu, chọc dò tủy, kháng sinh tiêm (mục 1.5.3–1.5.7); trên 38 °C là dấu hiệu nguy hiểm (WHO 2013 mục 3.6); IMCI chuyển gấp (QĐ 2341/2024 mục 2.2.2). AAP 2021 loại trẻ tuần đầu đời.",
+  "Dengue sơ sinh lây từ mẹ: khoảng 6%, sốt ngày 1–6 sau sinh, phần lớn thể nhẹ (QĐ 2760/2023 mục IV.C.2.6 ý 4); trẻ nhũ nhi: xem xét nhập viện (mục IV.A). Giai đoạn nguy hiểm ngày 3–7; cô đặc máu khi hematocrit tăng trên 20% (mục II.2.2); ra viện khi hết sốt ít nhất 2 ngày, tiểu cầu hồi phục trên 50 G/L (mục IV.D.3). Không ibuprofen, aspirin, analgin (mục IV.A.1; WHO 2025 mục 4.2.3).",
+  "Truyền dịch theo yêu cầu không có chỉ định; sơ sinh dễ quá tải, IV không quá 100 ml/kg/ngày (WHO 2013 mục 3.10.2)."
+ ],
+ "nguon": [
+  "QĐ 2760/QĐ-BYT 2023 – Sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II.1–3, III.1.1, III.2, IV.A, IV.B1, IV.C.2.6 ý 4, IV.D.3, Phụ lục 2, 13, 14, 25 mục 3 (số hiệu, ngày chưa đối chiếu nguồn thứ hai theo ghi chú của kho)",
+  "WHO 2025 – Clinical management of arboviral diseases – TL-0042 – ĐÃ ĐỌC: mục 2.7, 4.1, 4.2.1 (Bảng 4-2), 4.2.3, 5.2",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.2, 1.2.12, 1.4.3, 1.4.8–1.4.9, 1.5.2–1.5.7, 1.6.2–1.6.6, 1.7.3",
+  "WHO 2013 – Pocket book of hospital care for children – TL-0250 – ĐÃ ĐỌC: mục 3.6, 3.8, 3.10.2, 3.10.4, 3.14 (tr. 69, 71)",
+  "AAP 2021 – Pediatrics 148(2):e2021052228 – TL-0261 – ĐÃ ĐỌC: phần Thách thức (loại trẻ tuần đầu đời khỏi hướng dẫn)",
+  "QĐ 2341/QĐ-BYT 2024 – IMCI (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: mục 2.2.2, Bảng kiểm 1 mục 19a. QĐ 1019/QĐ-BYT 2025 – Sởi – TL-0238 – ĐÃ ĐỌC: mục 2.4.1",
+  "Không có trong tài liệu đã tải: liều paracetamol an toàn cho sơ sinh; khoảng tham chiếu công thức máu, men gan, đường huyết sơ sinh; ngưỡng CRP, procalcitonin cho trẻ tuần đầu; mốc tái khám sau ra viện và mốc ngưng theo dõi tiểu cầu; xử trí ngứa ở sơ sinh; men vi sinh ở sơ sinh; cấu trúc S–B–A–R."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08 – viết: Sonnet. Bản 1. Sơ sinh nam 6–16 ngày, 3 lượt, bẫy 'đáp án là chuyển tuyến', đỡ một phần, hợp tác tốt, chỉ có xét nghiệm cơ bản, sau nhiễm siêu vi (mẹ), men tiêu hóa tự mua, lý do thật muốn truyền dịch. L1 chuyen_tuyen (đáp án), L2 ve_hen, L3 ve_hen.",
+  "Tài liệu đã đọc: TL-0029 (II–IV, Phụ lục 2, 13, 14, 25), TL-0042 (2.7, 4.1, 4.2, 5.2), TL-0262 (1.1–1.7), TL-0250 (3.6, 3.8, 3.10, 3.14), TL-0261 (phạm vi), QĐ 2341/2024 (2.2.2), TL-0238 (2.4.1). Mâu thuẫn đã có trong sổ: đo nhiệt độ sơ sinh (NH-0217), kháng sinh kinh nghiệm, liều đầu trước chuyển, thuốc hạ sốt sơ sinh (NH-1378), ibuprofen khi chưa loại sốt xuất huyết (HH-0737), truyền dịch theo yêu cầu.",
+  "Lựa chọn của người soạn (không có nguồn): mốc tái khám 48–72 giờ (lượt 2), mốc tiểu cầu chốt khỏi (lượt 3), dạng S–B–A–R, mọi số liệu xét nghiệm. Không dùng ảnh da: lượt 1 chưa có ban, ban hồi phục lượt 2 mô tả bằng chữ."
+ ]
+}
