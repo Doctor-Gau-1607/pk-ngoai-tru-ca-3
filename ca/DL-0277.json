@@ -1,0 +1,767 @@
+{
+ "ma_ca": "DL-0277",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_may_day_cap",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Mày đay cấp",
+  "chan_doan_phai_loai_tru": [
+   "Phản vệ",
+   "Viêm mạch mày đay",
+   "Phù mạch"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi, ở nhà với mẹ và bà ngoại, sắp gửi nhà trẻ",
+  "yeu_to_khoi_phat": "Sau ăn quá nhiều đạm (bát cháo trưa nấu thêm trứng, thịt bò và cá 'cho mau lớn')",
+  "thuoc_dang_dung": "Paracetamol liều thông thường (mẹ cho 2 gói 80 mg trong ngày vì thấy bé hơi ấm người)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (nhà trẻ bắt buộc nộp trước khi nhận bé; mẹ sắp đi làm lại)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Khánh Vy",
+  "tuoi": 0.75,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi, ở nhà với mẹ và bà ngoại, sắp gửi nhà trẻ",
+  "can_nang": 8.9,
+  "chieu_cao": 72,
+  "xung_ho": "Bé gái 9 tháng, chưa nói được, ngồi vững, biết bò, hay cười, gãi bằng cả hai tay. Mẹ (chị Phạm Thị Thu Hiền, 29 tuổi) kể bệnh: bác sĩ gọi mẹ là 'chị', chị xưng 'em', gọi bé là 'bé Vy' hoặc 'con'; bà ngoại ở nhà trông bé ban ngày.",
+  "tinh_cach": "Mẹ làm kế toán, nghỉ thai sản sắp hết, hay đọc diễn đàn mẹ bỉm, nói nhanh, lo xa, tay run khi sợ. Bé hiếu động, hay cười, hơi sợ người lạ, quấy khi ngứa.",
+  "kieu_nhieu": "Sợ hãi quá mức: chị mở điện thoại đưa xem bài 'sốc phản vệ ở trẻ nhỏ', hỏi lặp 'bé có bị sốc không, có chết không', xin 'thử máu dị ứng hết đi, cho bé nằm viện đêm nay cho chắc', không dám cho bé ăn gì ngoài sữa. Trấn an chung chung ('không sao đâu') làm chị hoảng hơn; chị bình tĩnh khi bác sĩ nói từng dấu hiệu nguy hiểm bé KHÔNG có và đưa danh sách cụ thể dấu hiệu phải đến ngay. Lý do thật (giấy khám sức khỏe cho nhà trẻ) chỉ lộ khi bác sĩ hỏi vì sao chị đưa bé đi ngay hôm nay hoặc chị lo nhất điều gì.",
+  "nguoi_nha": "Mẹ bé (chị Hiền) bế bé đi cả ba lượt, kể mọi bệnh sử (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hiền)",
+  "ngoai_hinh": {
+   "da": "#f1c9a5",
+   "toc": "#1f1713",
+   "kieuToc": "tre",
+   "ao": "#f7c6d0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e9bd96",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#6b8ec4",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 9 tháng nổi mẩn đỏ, ngứa khắp người từ trưa nay; mẹ rất sợ bé bị sốc phản vệ",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có siêu âm (nên cũng không có CT, nội soi); làm được xét nghiệm máu, nước tiểu cơ bản và X-quang ngực. Mày đay cấp ở bé này không cần hình ảnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Phạm Thị Thu Hiền (29 tuổi) bế bé Phạm Khánh Vy, nữ 9 tháng, 8,9 kg, dài 72 cm, đến lúc 17 giờ 30 chiều thứ Ba vì bé nổi mẩn đỏ khắp người từ khoảng 13 giờ. Sinh hiệu: nhiệt độ 36,9 °C, mạch 126 l/p, nhịp thở 34 l/p, SpO₂ 99%, không đo huyết áp (nhũ nhi). Bé tỉnh, quấy từng lúc, gãi liên tục bằng cả hai tay, bú còn tốt. Chị run tay, mở điện thoại đưa điều dưỡng Linh xem một bài báo về sốc phản vệ. Phòng khám làm được xét nghiệm máu, nước tiểu và X-quang ngực; không có siêu âm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé nhập viện theo dõi 24 giờ là quá tay: bé chỉ có da, không phù mạch ở lưỡi, không đau bụng (hai chỉ định nhập viện, QĐ 4416, Bệnh mày đay mục 3.2.1), không khó thở, bú tốt, không nôn nên chưa đủ tiêu chuẩn phản vệ (TT 51/2017, Phụ lục I mục I.2); theo dõi ≥ 24 giờ của TT 51 (Phụ lục III mục II.2) viết cho người đã chẩn đoán phản vệ. Hai mẹ con nằm một đêm ở phòng bệnh, mẹ càng tin bé 'suýt sốc' và càng sợ cho bé ăn lại.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi 'làm xét nghiệm dị ứng cho chắc' là quá tay: mày đay cấp thường không cần chẩn đoán thêm ngoài bệnh sử (TL-0405 mục 4.1), IgE dương tính với một thức ăn không nhất thiết là nguyên nhân (TL-0405 mục 4). Mẹ mất cả tối ở nơi đông, bé bị lấy máu, mẹ nhận xấp kết quả 'mẫn cảm' không ai giải thích hết nên càng sợ.",
+    "cap_cuu": "Tiêm adrenalin bắp hoặc gọi xe cấp cứu là sai chỉ định: adrenalin tiêm bắp ngay khi phản vệ từ độ II trở lên (TT 51/2017, Phụ lục III mục I.3), bé chỉ có da (độ I, Phụ lục II), thở êm, bú tốt. Bé 8,9 kg sẽ nhận 0,2 ml adrenalin 1 mg/ml (Phụ lục III mục IV.1.a) không có chỉ định, hoảng vì mũi tiêm, mẹ tin thêm rằng bé 'suýt chết'. Tác dụng không mong muốn của adrenalin ở nhũ nhi: không có trong tài liệu đã tải."
+   },
+   "loi_mo": "Bác sĩ ơi cứu con em với! Từ trưa bé nổi mẩn đỏ khắp người, em đọc báo nói nổi mẩn là dị ứng, họng sưng lên là sốc rồi chết đó bác sĩ. Bác sĩ thử máu dị ứng hết cho bé, rồi cho bé nằm lại đêm nay theo dõi giùm em, em không dám đem con về!",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể: bé nổi mẩn đỏ khắp người từ khoảng 13 giờ, ngứa, gãi, quấy. Mẹ chụp ảnh một mảng ở ngực lúc 15 giờ; chiều mảng đó đã phẳng nhưng chỗ khác nổi thêm. Mẹ sợ bé bị sốc phản vệ vì đọc báo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, giờ khởi phát, mảng nổi rồi lặn (ảnh mẹ chụp là dữ liệu hợp lệ, TL-0405 mục 4)"
+    },
+    {
+     "id": "moi_not",
+     "noi_dung": "Mỗi mảng nổi lên rồi lặn trong khoảng 1–3 giờ, lặn xong da phẳng, không thâm, không bầm. Khắp người ước 30–40 mảng, từ vài mm đến 3 cm, nhiều ở ngực, bụng, lưng và đùi, có chỗ nối nhau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sẩn phù lặn dưới 24 giờ không thâm: tách viêm mạch mày đay; dưới 50 sẩn phù/24 giờ: mức thông thường"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Bé không nôn, không trớ nhiều, không tiêu chảy, không quấy khóc từng cơn co chân. Không khò khè, không thở rít, tiếng khóc không khàn. Môi, mi mắt, lưỡi không sưng. Không lả, không tím; bú đủ cữ buổi chiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không hô hấp, tiêu hóa, tụt HA, phù mạch: không phải phản vệ, không có chỉ định nhập viện"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Trưa nay lúc 11 giờ bà ngoại cho bé ăn một bát cháo đầy: thịt bò xay, nguyên một quả trứng gà, thêm cá; mẹ dặn nấu thêm 'cho mau lớn'. Mọi hôm bé chỉ ăn nửa bát cháo thịt. Khoảng 2 tiếng sau bé ngứa rồi nổi mẩn. Từng ăn riêng trứng, thịt bò, cá nhiều lần, không nổi gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau bữa nhiều đạm; thức ăn là nguyên nhân thường gặp nhưng không kết luận được (QĐ 75/2015 mục 2a)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Sáng 7 giờ 30 mẹ thấy bé hơi ấm người, đo nách 37,6 °C, cho 1 gói paracetamol 80 mg (gói trẻ em, làm theo hộp). Khoảng 14 giờ 30, sau khi bé đã nổi mẩn, mẹ cho thêm 1 gói vì tưởng 'sốt do dị ứng'. Không kháng sinh, ibuprofen, vitamin hay thuốc lạ. Paracetamol đã dùng vài lần trước đây, bé chưa từng nổi mẩn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng và mốc giờ: nổi mẩn sau bữa ăn 2 giờ, sau liều sáng 5,5 giờ, trước liều thứ hai"
+    },
+    {
+     "id": "boi_canh",
+     "noi_dung": "Bé sổ mũi trong từ Chủ nhật, ho khẽ, không sốt trên 37,6 °C, ăn bú bình thường. Sinh đủ tháng, ăn dặm từ 6 tháng, tiêm chủng theo lịch, chưa từng nổi mẩn, không chàm, không khò khè. Ba có viêm mũi dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễm hô hấp trên nhẹ là yếu tố kích phát khác; cơ địa dị ứng gia đình"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Mẹ nhắc ít nhất ba lần: 'bé có bị sốc không bác sĩ', 'thử máu dị ứng hết đi', 'cho bé nằm lại đêm nay'; nghe 'không sao đâu' chung chung thì hỏi dồn, tay run. Mẹ định cho bé nhịn ăn dặm cả tuần.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: sợ hãi quá mức; cám dỗ xét nghiệm chiều lòng, nhập viện 'cho yên tâm'"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Khi được hỏi 'vì sao hôm nay chị đưa bé đi ngay' hoặc 'chị lo nhất điều gì': chị nói nhỏ, thứ Hai tuần sau nữa chị hết nghỉ thai sản đi làm lại; nhà trẻ gần cơ quan bắt buộc nộp giấy khám sức khỏe của bé trước ngày nhận. Chị định khám cuối tuần nhưng thấy bé nổi mẩn nên ghé luôn, sợ giấy không được cấp, nhà trẻ không nhận, chị mất việc; chị sẵn sàng xin bác sĩ 'cứ ghi bé bình thường'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi vì sao chị đưa bé đi ngay hôm nay, chị lo nhất điều gì, bé đã đi nhà trẻ chưa, ai trông bé khi chị đi làm.",
+     "k": 0,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe cho nhà trẻ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hay cười, quấy khi gãi; da hồng hào, môi hồng, không tím, lòng bàn tay hồng; thở êm, không co lõm. Mạch quay bắt rõ, tay chân ấm. Thóp phẳng. Cân nặng 8,9 kg.",
+     "k": 1,
+     "hien": "Tỉnh, hồng hào, thở êm, mạch quay rõ, tay chân ấm."
+    },
+    "da": {
+     "a": "Khoảng 30–40 sẩn phù hồng đến đỏ nhạt, nổi gồ nhẹ, mềm, tròn hoặc bầu dục, vài chỗ nối thành mảng, 3 mm đến 3 cm, nhợt đi khi ấn; nhiều ở ngực, bụng, lưng, hai đùi, rải rác ở cánh tay; vài vệt xước ở cổ tay. Không dát thâm, xuất huyết, mụn nước, bọng nước, vảy, mụn mủ, không tổn thương hình bia. Lòng bàn tay, bàn chân, kẽ ngón, nách, vùng tã, quanh rốn: sạch, không luống ghẻ. Mặt, môi, mi mắt, lưỡi: không phù. Chưa phù mạch; dưới 50 sẩn phù/24 giờ.",
+     "k": 1,
+     "hien": "Bụng, hông, ngực, lưng, đùi: các mảng sẩn đỏ hồng nổi gồ nhẹ, tròn hoặc bầu dục, bờ khá rõ, vài chỗ nối nhau. Vài vệt xước ở cổ tay. Mặt, môi, mi mắt, lòng bàn tay, bàn chân, kẽ ngón: không thấy tổn thương. Không mụn nước, không vết bầm.",
+     "media": [
+      {
+       "vi_tri": "Bụng – hông bên",
+       "id": "HA-DA-0294",
+       "chu": "Nhiều sẩn đỏ hồng nổi gồ, tròn hoặc bầu dục, rải rác và tụ thành đám ở bụng – hông bên; da giữa các sẩn bình thường."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Môi, mi mắt, lưỡi, lưỡi gà không sưng; tiếng khóc bình thường, không khàn, không rít. Không sờ thấy hạch cổ, dưới hàm.",
+     "k": 1,
+     "hien": "Môi, mi mắt, lưỡi không sưng; tiếng khóc bình thường. Không sờ thấy hạch."
+    },
+    "tim": {
+     "a": "Tim đều 126 l/p (bé quấy khi khám), T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, không co lõm, không khò khè, không thở rít; rì rào phế nang êm dịu hai phế trường, không ran. Thở nhanh khi ≥ 50 l/p ở trẻ 2–11 tháng (WHO 2013, bảng phân loại ho, tr. 81): bé không nhanh.",
+     "k": 1,
+     "hien": "Nhịp thở 34 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn không đau (bé không nhăn mặt, không rút chân), không sờ thấy gan lách, nhu động bình thường.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn không đau; không sờ thấy gan lách."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 10,4 G/L · Neutrophil 38% · Lymphocyte 52% · Bạch cầu ái toan 3% · Hb 118 g/L · TC 330 G/L",
+     "bang": {
+      "wbc": 10.4,
+      "neu_pct": 38.0,
+      "neu": 3.95,
+      "lym_pct": 52.0,
+      "lym": 5.41,
+      "mono_pct": 6.0,
+      "mono": 0.62,
+      "eos_pct": 3.0,
+      "eos": 0.31,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 4.4,
+      "hgb": 118,
+      "hct": 0.35,
+      "mcv": 80.0,
+      "mch": 27.0,
+      "mchc": 337,
+      "rdw": 13.5,
+      "plt": 330
+     },
+     "n": "Không bắt buộc: QĐ 4416 (mục 2.2) có công thức máu, TL-0405 (mục 4.1, Bảng 8) không làm thường quy ở mày đay cấp; ghi cả hai (sổ mâu thuẫn), làm để trấn an thì chấp nhận. Bạch cầu ái toan bình thường (QĐ 75/2015 mục 3a). Trị số tham chiếu nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "ige_tong": {
+     "v": "n",
+     "r": "Kết quả (nếu làm) không đổi xử trí hôm nay.",
+     "n": "Không cần: IgE toàn phần thuộc xét nghiệm của mày đay mạn tự phát (TL-0405 Bảng 8); QĐ 4416 (mục 2.2) có trong danh sách chung, không bắt buộc ở thể cấp."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp (tự phát), mức thông thường, nhũ nhi 9 tháng: khởi phát khoảng 13 giờ hôm nay, 30–40 sẩn phù/24 giờ, chưa phù mạch, chưa có dấu hiệu hô hấp – tiêu hóa – tụt HA; sau bữa cháo nhiều đạm, trong bối cảnh sổ mũi nhẹ và paracetamol; chưa xác định yếu tố chính",
+     "ok": 1,
+     "n": "Sẩn phù ngứa, đỏ, ranh giới rõ, xuất hiện và biến mất trong 24 giờ không để lại dát thâm (QĐ 4416, Bệnh mày đay mục 2.1, 2.3); dưới 6 tuần: cấp (mục 2.4.1); dưới 50 sẩn phù/24 giờ, không phù mạch: thông thường (mục 3.2.1); gặp nhiều từ sơ sinh đến 9 tuổi (mục 1.2). Yếu tố có thể liên quan: thức ăn như sữa, trứng, cá; thuốc (QĐ 75/2015 mục 2a); nhiễm hô hấp trên (TL-0405 mục 4.1). Paracetamol gây mày đay hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phản vệ",
+     "n": "Cần da kèm hô hấp hoặc tụt HA, hoặc ≥ 2/4 nhóm sau tiếp xúc yếu tố nghi ngờ (TT 51/2017, Phụ lục I mục I.2; WAO 2020 Bảng 2). Bé chỉ có da; không nôn, không đau bụng, thở 34 l/p, SpO₂ 99%, tay chân ấm, tỉnh. Ngưỡng tụt HA ở trẻ: tâm thu < 70 mmHg (TT 51) hoặc < 70 + 2 × tuổi (WAO 2020 Bảng 2, chú thích a); bé không đo HA, đánh giá bằng mạch quay, tay chân ấm."
+    },
+    {
+     "t": "Viêm mạch mày đay",
+     "n": "Sẩn phù kéo dài hơn 24 giờ, mềm, ngứa ít, đáp ứng kém kháng histamin (QĐ 75/2015 mục 3b). Bé: mảng lặn sau 1–3 giờ, ngứa nhiều, không thâm, không ban xuất huyết."
+    },
+    {
+     "t": "Phù mạch",
+     "n": "Sưng nề mi, môi, lưỡi, tay chân, thanh quản, kéo dài đến 72 giờ (QĐ 4416 mục 2.1). Bé không sưng, khóc bình thường, không đau bụng; phù mạch ở lưỡi và đau bụng là chỉ định nhập viện (mục 3.2.1): không có."
+    },
+    {
+     "t": "Phát ban do thuốc (paracetamol), ban do virus, côn trùng đốt, ghẻ, bệnh tự viêm dạng mày đay",
+     "n": "Phát ban do thuốc, hồng ban đa dạng: QĐ 4416 mục 2.5, QĐ 75/2015 mục 3b; bé không sốt, không hình bia, không bọng nước. Ghẻ, côn trùng đốt: không luống, lòng bàn tay chân sạch. Bệnh tự viêm dạng mày đay có sốt (CAPS): bé không sốt (TL-0405 mục 4.4)."
+    },
+    {
+     "t": "Dị ứng thức ăn trung gian IgE (trứng, thịt bò, cá)",
+     "n": "Chưa loại trừ hẳn, chưa chứng minh: bé từng ăn riêng từng món không nổi; hiếm khi là nguyên nhân mày đay tự phát (TL-0405 mục 5.2.6); xét nghiệm dương tính không đồng nghĩa nguyên nhân (TL-0405 mục 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận không phải phản vệ (chỉ có da; hô hấp, tiêu hóa, tuần hoàn âm tính): không tiêm adrenalin, điều trị ngoại trú, không nhập viện, không truyền dịch",
+     "v": "c",
+     "n": "TT 51/2017 (Phụ lục I mục I.2; Phụ lục III mục I.3: adrenalin khi phản vệ từ độ II trở lên); WAO 2020 (Bảng 2); QĐ 4416 (mục 3.2.1): nhập viện khi phù mạch ở lưỡi hoặc đau bụng."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói từng dấu hiệu nguy hiểm bé KHÔNG có (thở êm, môi lưỡi không sưng, bú tốt, không nôn, tỉnh), nói mày đay cấp thường tự lặn, rồi đưa danh sách dấu hiệu phải đến ngay",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1; mục 3.2.1); TL-0405 (mục 4.1: mày đay cấp tự giới hạn). Cách trấn an người nhà sợ hãi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chẩn đoán bằng bệnh sử, khám và ảnh mẹ chụp, không chờ xét nghiệm; không chiều theo 'thử máu dị ứng hết': nói xét nghiệm nào đổi được quyết định (hôm nay không có)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.3); TL-0405 (mục 4: xem ảnh người bệnh chụp; mục 4.1, Bảng 8); QĐ 75/2015 (mục 3a). Xét nghiệm cơ bản chấp nhận được, không bắt buộc: xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2, MỘT loại, hằng ngày: desloratadin siro 2,5 mg/5 ml, 1 mg (2 ml) × 1 lần/ngày (bé 9 tháng); 10 ngày (QĐ 4416 mục 3.2.1) hoặc liên tục đến khi hết triệu chứng (TL-0405 mục 5.4)",
+     "v": "c",
+     "n": "Gộp theo sổ mâu thuẫn 'Thời gian dùng kháng histamin trong mày đay cấp thông thường'. QĐ 3942/2014 (Bảng 3, tr. 119): desloratadin siro 6–11 tháng 1 mg/ngày; TL-0405 (mục 5.5.1): thế hệ 2 ở trẻ, tùy tuổi và thuốc có sẵn. Cetirizin, loratadin siro: Bảng 3 chỉ có liều từ 2 tuổi; liều cho bé 9 tháng không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cho thêm paracetamol khi bé không sốt (36,9 °C), không khó chịu vì sốt; ghi paracetamol vào sổ là thuốc dùng cùng ngày, chưa kết luận liên quan",
+     "v": "c",
+     "n": "WHO 2013 (mục 10.3, tr. 305): trẻ từ 2 tháng sốt ≥ 39 °C và khó chịu, trẻ tỉnh táo ít được lợi; QĐ 3312/2015 (Viêm phổi do vi khuẩn mục 4, 2.2): hạ sốt khi ≥ 38,5 °C; ghi cả hai (sổ mâu thuẫn 'Hạ sốt ở trẻ')."
+    },
+    {
+     "t": "Thức ăn: ghi nhận bữa cháo nhiều đạm là yếu tố nghi ngờ, chưa kết luận dị ứng; không lặp lại bữa nhiều loại đạm cùng lúc; tiếp tục bú mẹ và sữa công thức, không bỏ ăn dặm hay kiêng rộng",
+     "v": "c",
+     "n": "QĐ 75/2015 (mục 4b: dừng thực phẩm nghi ngờ; mục 2a); TL-0405 (mục 5.2.6: chế độ ăn chẩn đoán chỉ giữ 2–3 tuần, không trì hoãn điều trị). Cách cho nhũ nhi ăn dặm và ăn lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay: khó thở, thở rít, khò khè, khàn tiếng, sưng môi – mắt – lưỡi, nôn nhiều, quấy từng cơn co chân, lả, tím, bỏ bú; sẩn quá 24 giờ, bầm tím, sốt. Hẹn tái khám sau 3 ngày; nổi hằng ngày quá 6 tuần là mày đay mạn",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1; mục 3.2.1; mục 1.1, 2.4.1); TT 51/2017 (Phụ lục I mục I.1); QĐ 75/2015 (mục 3b). Dấu hiệu riêng nhũ nhi (bỏ bú, lả) và mốc 3 ngày: không có trong tài liệu đã tải (tự thiết kế)."
+    },
+    {
+     "t": "Giấy nhà trẻ: chưa ký 'Bình thường' hôm nay vì bé đang có mày đay cấp; giải thích sẽ khám đủ và cấp giấy khi bé khỏi, kết luận ghi trung thực",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT (Phụ lục XXIV, Mẫu số 01: Khám lâm sàng 'tìm dấu hiệu bệnh cấp hoặc mạn tính'; Kết luận và tư vấn, hẹn khám lần sau); theo sổ mâu thuẫn. Điều khoản nói thẳng không cấp giấy khi đang bệnh cấp, quy định nhận trẻ của nhà trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày (methylprednisolon 0,5–1 mg/kg/ngày × 5 ngày)",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.1): chỉ mày đay cấp nặng (≥ 50 sẩn phù/24 giờ và/hoặc phù mạch), trẻ ≤ 12 tuổi 0,5–1 mg/kg/ngày × 5 ngày; QĐ 3942/2014 (mục 4.2d): 1 mg/kg/ngày × 5–7 ngày; TL-0405 (mục 5.4): tối đa 10 ngày. Bé dưới 50 sẩn phù, chưa phù mạch: không cần, không sai (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Tiêm adrenalin bắp",
+     "v": "w",
+     "n": "TT 51/2017 (Phụ lục III mục I.3): khi phản vệ từ độ II trở lên; QĐ 3942/2014 (mục 4.2c): phù Quincke có phù nề đường hô hấp hoặc tụt huyết áp. Bé chưa có."
+    },
+    {
+     "t": "Kháng histamin thế hệ 1 (chlorpheniramin, hydroxyzin, promethazin) 'cho bé ngủ yên'",
+     "v": "w",
+     "n": "QĐ 3942/2014 (Bảng 2, tr. 118): liều trẻ em chỉ từ 2 tuổi; TL-0405 (mục 5.4, 5.5.1): không dùng cho trẻ em; nhãn FDA promethazin: không dùng dưới 2 tuổi (nguồn bổ sung tự tìm, đã ghi trong sổ mâu thuẫn)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp (tự phát), mức thông thường: nhũ nhi 9 tháng, khởi phát khoảng 13 giờ, 30–40 sẩn phù/24 giờ (dưới 50), mỗi sẩn lặn sau 1–3 giờ không thâm, chưa phù mạch (QĐ 4416 mục 2.1, 2.4.1, 3.2.1); yếu tố khởi phát không xác định: bữa cháo nhiều đạm, sổ mũi nhẹ, paracetamol; không phải phản vệ, viêm mạch mày đay, phù mạch",
+     "Lý do thật: xin giấy khám sức khỏe cho nhà trẻ; nhiễu: mẹ sợ sốc phản vệ, đòi thử máu và nhập viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: nghe mẹ và xem ảnh mẹ chụp → giờ nổi, mỗi mảng tồn tại bao lâu → mốc giờ thức ăn, thuốc, sốt, sổ mũi → hô hấp, tiêu hóa, bú → hỏi mẹ lo gì nhất → khám da, môi lưỡi, phổi, bụng → chẩn đoán lâm sàng (TL-0405 mục 4, 4.1).",
+     "Không phải phản vệ (chỉ có da; TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2), viêm mạch mày đay (lặn dưới 24 giờ, QĐ 75/2015 mục 3b), phù mạch (QĐ 4416 mục 2.1). Nổi lúc 13 giờ, sau bữa ăn 11 giờ và liều paracetamol 7 giờ 30, trước liều thứ hai: không chọn một thủ phạm (QĐ 75/2015 mục 2a; TL-0405 mục 4.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Một kháng histamin thế hệ 2: desloratadin siro 1 mg (2 ml)/ngày cho trẻ 6–11 tháng (QĐ 3942/2014 Bảng 3, tr. 119), 10 ngày (QĐ 4416 mục 3.2.1) hoặc đến khi hết triệu chứng (TL-0405 mục 5.4); không dùng thế hệ 1 (TL-0405 mục 5.5.1).",
+     "Không adrenalin, truyền dịch, nhập viện (TT 51/2017 Phụ lục III mục I.3; QĐ 4416 mục 3.2.1); không xét nghiệm dị ứng (TL-0405 mục 4.1); dừng paracetamol khi không sốt (WHO 2013 mục 10.3); chưa ký 'Bình thường' khi còn bệnh cấp (TT 25/2026 Phụ lục XXIV Mẫu số 01)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Desloratadin siro",
+      "ham_luong": "2,5 mg/5 ml",
+      "lieu": "1 mg = 2 ml, 1 lần/ngày (trẻ 6–11 tháng)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối cùng một giờ, không uống theo nhu cầu",
+      "so_ngay": "10 ngày, rồi tái khám",
+      "ghi_chu": "QĐ 3942/2014 (Bảng 3, tr. 119); QĐ 4416 (mục 3.2.1: 10 ngày; mục 3.2.2: không phối hợp 2 loại H1); TL-0405 (mục 5.4: dùng hằng ngày đến khi không còn cần)."
+     },
+     {
+      "thuoc": "Paracetamol (đang dùng)",
+      "ham_luong": "80 mg/gói",
+      "lieu": "Ngưng; chỉ khi sốt ≥ 39 °C và bé khó chịu: 15 mg/kg mỗi 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Không cho khi bé không sốt",
+      "so_ngay": "Không kê thêm",
+      "ghi_chu": "WHO 2013 (mục 10.3, tr. 305); QĐ 3312/2015: 10–15 mg/kg/lần, hạ sốt khi ≥ 38,5 °C; ghi cả hai (sổ mâu thuẫn)."
+     }
+    ],
+    "dan_do": [
+     "Desloratadin 2 ml mỗi tối, đều đủ 10 ngày; không tự thêm thuốc khác, kể cả thuốc ho, thuốc 'cho ngủ' (QĐ 4416 mục 3.2.1, 3.2.2; QĐ 3942/2014 Bảng 2).",
+     "Đưa bé đến ngay khi khó thở, thở rít, khò khè, khàn tiếng, sưng môi – mắt – lưỡi, nôn nhiều, quấy từng cơn co chân, lả, tím, bỏ bú; hoặc mảng nổi quá 24 giờ, bầm tím, sốt (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I mục I.1; QĐ 75/2015 mục 3b).",
+     "Tiếp tục bú mẹ, sữa công thức, cháo như mọi hôm, tránh bữa nhiều loại đạm (QĐ 75/2015 mục 4b). Tái khám sau 3 ngày; giấy khám sức khỏe cấp khi bé khỏi, kịp trước thứ Hai tuần sau nữa (TT 25/2026 Phụ lục XXIV Mẫu số 01)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 3 ngày",
+   "tiep_don": "Chị Hiền bế bé Vy, 9 tháng, tái khám lúc 17 giờ chiều thứ Sáu (ngày thứ 4 kể từ khi bé nổi mẩn, ngày thứ 3 uống desloratadin). Cân nặng 8,9 kg. Sinh hiệu: nhiệt độ 37,0 °C, mạch 124 l/p, nhịp thở 36 l/p, SpO₂ 99%, không đo huyết áp. Chị nói bé uống thuốc đều mỗi tối, 'bớt nhiều rồi nhưng tối qua và sáng nay vẫn nổi vài chỗ', bé ho và sổ mũi nhiều hơn.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bé 'truyền thuốc mạnh' vì còn nổi là quá tay: số sẩn còn dưới 20 mỗi ngày (mức nhẹ, TL-0405 Bảng 11, viết cho mày đay mạn), mỗi sẩn lặn trong vài giờ, không phù mạch, không đau bụng, bú tốt nên chưa có chỉ định (QĐ 4416, Bệnh mày đay mục 3.2.1). Bé đổi chỗ ngủ, giờ bú, tiếp xúc thêm người bệnh khi còn sổ mũi, mẹ càng tin 'bệnh nặng hơn lúc đầu'.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi để 'đổi thuốc mạnh hơn' hay test dị ứng là quá tay: tăng liều kháng histamin chỉ nói cho mày đay mạn không đáp ứng sau 2–4 tuần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4), còn bé mới ngày thứ 4 và đang đáp ứng. Thuốc bị đổi giữa chừng nên không biết thuốc đầu có hiệu quả không; mất cả chiều chờ khám, bé bị lấy máu."
+   },
+   "loi_mo": "Bác sĩ ơi, bé uống thuốc đều ba ngày rồi mà vẫn còn nổi, tối qua nổi thêm mấy mảng ở bụng! Em sợ thuốc không hợp, hay bé bị nặng hơn. Bác sĩ đổi thuốc mạnh hơn, hoặc cho bé nhập viện truyền thuốc đi, em không dám để ở nhà nữa. Mà em cũng cần giấy khám sức khỏe cho nhà trẻ nữa, bác sĩ ký giùm em được không?",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 36,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ tối thứ Ba bé uống desloratadin 2 ml đều mỗi tối, bé ngủ lại được từ đêm đầu. Thứ Tư vẫn nổi nhưng ít hơn; thứ Năm ước 15–20 sẩn; tối qua và sáng nay khoảng 8–10 sẩn mới, mỗi sẩn lặn sau 1–3 giờ, không thâm. Bé còn gãi nhưng ngủ được, bú tốt, chơi cười.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Số sẩn giảm trên một nửa, còn mức nhẹ, mỗi sẩn dưới 24 giờ: đỡ một phần bình thường, chưa phải thất bại điều trị"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không sưng môi, mắt, lưỡi; không khò khè, không thở rít, tiếng khóc bình thường. Không nôn, không tiêu chảy, không quấy khóc từng cơn co chân. Không sốt trên 37,5 °C, không ban xuất huyết, không sưng khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không phù mạch, không dấu hiệu nặng: không nhập viện, không chuyển tuyến"
+    },
+    {
+     "id": "ho_so_mui",
+     "noi_dung": "Từ thứ Tư bé ho nhiều hơn, sổ mũi, nghẹt mũi nhẹ lúc ngủ; nhiệt độ cao nhất 37,5 °C, bú giảm chút nhưng vẫn đủ cữ. Cháu họ đang ho đến chơi hôm Chủ nhật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm hô hấp trên đang tiếp diễn: yếu tố duy trì mày đay, giải thích vì sao đỡ chậm; chưa có dấu hiệu viêm phổi"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ cho desloratadin đúng 2 ml lúc 20 giờ mỗi tối, không bỏ ngày nào (3 liều). Ngoài ra vẫn cho paracetamol 80 mg lúc 19 giờ mỗi tối 'để phòng sốt' từ thứ Tư (2 gói). Không kháng sinh, thuốc ho, thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt: không phải thất bại do bỏ thuốc; paracetamol dự phòng không có chỉ định"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Mẹ nói 'đổi thuốc mạnh hơn đi', 'nhập viện truyền thuốc', 'thử máu dị ứng cho biết bé dị ứng cái gì'; bị từ chối chung chung thì tay run, mở lại bài báo. Mẹ xin lỗi 'vì em sợ quá'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: sợ hãi quá mức"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Mẹ nói rõ: thứ Hai tuần sau nữa chị đi làm lại, nhà trẻ nhận bé từ ngày đó và đòi giấy khám sức khỏe; chị mang mẫu giấy và sổ tiêm chủng, hỏi hôm nay lấy giấy được không.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Lý do thật đến khám đã lộ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, linh hoạt, hay cười, hơi nghẹt mũi; da hồng hào, tay chân ấm, mạch quay rõ, thở êm. Cân nặng 8,9 kg.",
+     "k": 1,
+     "hien": "Tỉnh, linh hoạt, hồng hào, thở êm, tay chân ấm."
+    },
+    "da": {
+     "a": "Khoảng 8–10 sẩn phù nhỏ hồng nhạt, nổi gồ nhẹ, 3–15 mm, rải rác ở hông, mông, bụng, vài sẩn nối nhau; không dát thâm, xuất huyết, mụn nước, vảy hay mụn mủ. Vài vệt xước mờ ở cổ tay. Mặt, môi, mi mắt, lưỡi, lòng bàn tay, bàn chân: sạch, không phù. Chưa phù mạch; dưới 20 sẩn phù/24 giờ.",
+     "k": 1,
+     "hien": "Hông, mông, bụng: vài sẩn nhỏ hồng nhạt nổi gồ nhẹ, rải rác. Mặt, môi, mi mắt, lòng bàn tay, bàn chân: không thấy tổn thương. Không vết bầm, không mụn nước.",
+     "media": [
+      {
+       "vi_tri": "Hông – mông",
+       "id": "HA-DA-0066",
+       "chu": "Vài sẩn nhỏ hồng nhạt nổi gồ nhẹ, rải rác và thành vài đám ở hông – mông; da quanh không vảy, không mụn nước."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Môi, mi mắt, lưỡi không sưng; tiếng khóc bình thường, không khàn. Không sờ thấy hạch cổ.",
+     "k": 1,
+     "hien": "Môi, mi mắt, lưỡi không sưng; tiếng khóc bình thường."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi nghẹt nhẹ, chảy dịch trong; họng đỏ nhẹ, không mủ; màng nhĩ xám hồng, bóng, không phồng.",
+     "k": 1,
+     "hien": "Mũi chảy dịch trong. Họng đỏ nhẹ, không mủ. Màng nhĩ không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 36 l/p, không co lõm, không khò khè, không thở rít; rì rào phế nang êm dịu hai phế trường, không ran. Thở nhanh khi ≥ 50 l/p ở trẻ 2–11 tháng (WHO 2013, bảng phân loại ho, tr. 81): bé không nhanh.",
+     "k": 1,
+     "hien": "Nhịp thở 36 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ige_tong": {
+     "v": "n",
+     "r": "Kết quả (nếu làm) không đổi xử trí hôm nay.",
+     "n": "Không cần: TL-0405 (mục 4.1, Bảng 8): mày đay cấp không chẩn đoán thêm ngoài bệnh sử; IgE toàn phần thuộc xét nghiệm mày đay mạn. Bé đã đáp ứng, xét nghiệm không đổi quyết định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp (tự phát), mức thông thường, đáp ứng một phần sau 3 ngày desloratadin (từ 30–40 xuống khoảng 8–10 sẩn phù/24 giờ, mức nhẹ), chưa phù mạch; yếu tố duy trì: viêm hô hấp trên nhẹ đang tiếp diễn; yếu tố khởi phát vẫn chưa xác định",
+     "ok": 1,
+     "n": "Dưới 6 tuần: cấp; dưới 50 sẩn phù/24 giờ, không phù mạch: thông thường, kháng histamin liều tiêu chuẩn 10 ngày (QĐ 4416 mục 2.4.1, 3.2.1). Dưới 20 sẩn phù/24 giờ là mức nhẹ (TL-0405 Bảng 11). Nhiễm hô hấp trên thường gặp trong mày đay cấp (TL-0405 mục 4.1; QĐ 4416 mục 2.1; QĐ 75/2015 mục 2a)."
+    },
+    {
+     "t": "Đáp ứng một phần bình thường (hồi phục chậm), không phải thất bại điều trị sớm",
+     "n": "Đáp ứng: số sẩn giảm trên một nửa, mỗi sẩn lặn dưới 24 giờ, ngủ và bú được, uống thuốc đều. Thất bại hay bệnh khác: số sẩn không giảm hoặc nhiều thêm, sẩn quá 24 giờ (viêm mạch, QĐ 75/2015 mục 3b), phù mạch, đau bụng, sốt kèm ban (TL-0405 mục 4.4: CAPS). Ngưỡng 'đỡ bao nhiêu là đủ' ở mày đay cấp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phản vệ, phù mạch, viêm mạch mày đay, viêm phổi",
+     "n": "Không dấu hiệu hô hấp, tiêu hóa, tụt HA; môi, mi, lưỡi không phù (TT 51/2017 Phụ lục I mục I.2; QĐ 4416 mục 2.1); mỗi sẩn lặn sau 1–3 giờ, không thâm, đáp ứng kháng histamin (QĐ 75/2015 mục 3b). Viêm phổi: thở 36 l/p dưới ngưỡng ≥ 50 l/p ở trẻ 2–11 tháng, không co lõm, phổi không ran, SpO₂ 99% (WHO 2013, bảng phân loại ho, tr. 81)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định đỡ một phần là diễn biến bình thường (số sẩn giảm trên một nửa, mỗi sẩn lặn dưới 24 giờ, không phù mạch, bé ngủ và bú được), không phải thất bại điều trị: cho về, tiếp tục đúng desloratadin, không nhập viện, không chuyển tuyến, không đổi thuốc, không tăng liều, không phối hợp thêm",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1: liều tiêu chuẩn 10 ngày; mục 3.2.2: tăng liều khi sau 2–4 tuần không đáp ứng; phối hợp 2 loại H1 không có lợi); TL-0405 (mục 5.4: tăng liều gấp 4 cho mày đay mạn; không dùng nhiều H1 cùng lúc; Bảng 11). Nhập viện chỉ khi phù mạch ở lưỡi hoặc đau bụng (QĐ 4416 mục 3.2.1)."
+    },
+    {
+     "t": "Tiếp tục desloratadin 1 mg (2 ml) × 1 lần/ngày mỗi tối, đủ 10 ngày (còn 7 ngày) hoặc đến khi hết triệu chứng",
+     "v": "c",
+     "n": "Gộp theo sổ mâu thuẫn 'Thời gian dùng kháng histamin...'. QĐ 3942/2014 (Bảng 3, tr. 119): 6–11 tháng 1 mg/ngày; QĐ 4416 (mục 3.2.1); TL-0405 (mục 5.4)."
+    },
+    {
+     "t": "Giải thích vì sao còn nổi: viêm hô hấp trên đang tiếp diễn có thể duy trì mày đay; không kháng sinh cho ho, sổ mũi khi chưa có dấu hiệu viêm phổi; cho ăn lại các món đã quen, từng món một, không kiêng rộng, không bỏ sữa công thức",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1; mục 5.2.6: chế độ ăn chẩn đoán chỉ giữ thời gian giới hạn); WHO 2013 (mục 4.4, tr. 90: ho, cảm lạnh không dùng kháng sinh). Cách cho ăn lại ở nhũ nhi, sữa công thức: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dừng paracetamol dự phòng: bé không sốt (37,0 °C), không khó chịu vì sốt",
+     "v": "c",
+     "n": "WHO 2013 (mục 10.3, tr. 305): trẻ từ 2 tháng sốt ≥ 39 °C và khó chịu; QĐ 3312/2015: hạ sốt khi ≥ 38,5 °C; ghi cả hai (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Không chiều theo đòi 'thử máu dị ứng', nhập viện: nói xét nghiệm nào đổi được quyết định (hôm nay không có), mốc làm xét nghiệm là còn nổi hằng ngày quá 6 tuần",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, Bảng 8); QĐ 4416 (mục 2.4.1, 2.2: xét nghiệm cơ bản khi mạn); sổ mâu thuẫn 'Xét nghiệm thường quy trong mày đay cấp'."
+    },
+    {
+     "t": "Giấy nhà trẻ: chưa ký 'Bình thường' hôm nay (còn mày đay và viêm hô hấp trên); hẹn khám lại khi hết thuốc, còn kịp trước thứ Hai tuần sau nữa",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT (Phụ lục XXIV, Mẫu số 01: 'tìm dấu hiệu bệnh cấp hoặc mạn tính'; Kết luận và tư vấn, hẹn khám lần sau); theo sổ mâu thuẫn."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (khó thở, thở nhanh, khò khè, khàn tiếng, sưng môi – mắt – lưỡi, nôn nhiều, quấy từng cơn, lả, bỏ bú, sốt; sẩn quá 24 giờ) và hẹn tái khám khi hết thuốc (thứ Sáu tuần sau)",
+     "v": "c",
+     "n": "QĐ 4416 (mục 2.1, 3.2.1); TT 51/2017 (Phụ lục I mục I.1); QĐ 75/2015 (mục 3b); WHO 2013 (tr. 81: thở nhanh ≥ 50 l/p ở trẻ 2–11 tháng). Mốc tái khám: không có trong tài liệu đã tải (tự thiết kế)."
+    },
+    {
+     "t": "Tăng gấp đôi liều desloratadin (2 mg/ngày) vì còn nổi",
+     "v": "w",
+     "n": "Không có chỉ định: tăng liều chỉ nói cho mày đay mạn không đáp ứng sau 2–4 tuần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); bé đã giảm hơn một nửa; liều tăng cho nhũ nhi: không có trong tài liệu đã tải (QĐ 3942/2014 Bảng 3 chỉ có 1 mg/ngày)."
+    },
+    {
+     "t": "Đổi hoặc thêm kháng histamin thế hệ 1 'cho mạnh', hoặc corticoid uống",
+     "v": "w",
+     "n": "Thế hệ 1: QĐ 3942/2014 (Bảng 2) liều trẻ em từ 2 tuổi; TL-0405 (mục 5.4, 5.5.1) không dùng cho trẻ em. Corticoid: QĐ 4416 (mục 3.2.1), QĐ 75/2015 (mục 4b) chỉ cho mày đay cấp nặng và/hoặc phù thanh quản; bé dưới 20 sẩn, đã đỡ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp (tự phát), mức thông thường, đáp ứng một phần sau 3 ngày desloratadin: từ 30–40 xuống khoảng 8–10 sẩn phù/24 giờ (mức nhẹ), chưa phù mạch (QĐ 4416 mục 2.4.1, 3.2.1; TL-0405 Bảng 11)",
+     "Yếu tố duy trì: viêm hô hấp trên nhẹ; không phải thất bại điều trị sớm, phản vệ, phù mạch, viêm mạch mày đay, viêm phổi. Lý do thật: giấy khám sức khỏe cho nhà trẻ; nhiễu: mẹ đòi đổi thuốc mạnh, nhập viện, thử máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Hồi phục chậm bình thường khác thất bại điều trị: số sẩn giảm trên một nửa sau 3 ngày, mỗi sẩn lặn 1–3 giờ, ngủ và bú được, không phù mạch, thuốc uống đều. Thất bại hay bệnh khác: không giảm hoặc nặng thêm, sẩn quá 24 giờ (QĐ 75/2015 mục 3b), phù mạch (QĐ 4416 mục 2.1), sốt kèm ban (TL-0405 mục 4.4). Sổ mũi, ho tiếp diễn là yếu tố duy trì hợp lý (TL-0405 mục 4.1); thở 36 l/p dưới 50 l/p nên không viêm phổi (WHO 2013 tr. 81)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục đúng một kháng histamin thế hệ 2 liều tiêu chuẩn: desloratadin 1 mg (2 ml)/ngày, đủ 10 ngày hoặc đến khi hết triệu chứng (QĐ 3942/2014 Bảng 3; QĐ 4416 mục 3.2.1; TL-0405 mục 5.4). Không tăng liều, đổi, phối hợp (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); không thế hệ 1, không corticoid (TL-0405 mục 5.5.1; QĐ 4416 mục 3.2.1).",
+     "Trả lời nỗi sợ bằng dữ kiện của chính bé (số sẩn giảm, không phù, bú tốt) và danh sách dấu hiệu cần đến ngay; dừng paracetamol dự phòng (WHO 2013 mục 10.3); hẹn cấp giấy khi bé hết bệnh cấp (TT 25/2026 Phụ lục XXIV Mẫu số 01)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Desloratadin siro",
+      "ham_luong": "2,5 mg/5 ml",
+      "lieu": "1 mg = 2 ml, 1 lần/ngày (giữ nguyên)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối cùng một giờ, đều hằng ngày",
+      "so_ngay": "Đủ 10 ngày (còn 7 ngày)",
+      "ghi_chu": "Giữ nguyên liều đang dùng. QĐ 3942/2014 (Bảng 3, tr. 119); QĐ 4416 (mục 3.2.1); TL-0405 (mục 5.4)."
+     },
+     {
+      "thuoc": "Paracetamol (đang dùng)",
+      "ham_luong": "80 mg/gói",
+      "lieu": "Ngưng dự phòng",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt ≥ 39 °C và bé khó chịu",
+      "so_ngay": "Không kê thêm",
+      "ghi_chu": "WHO 2013 (mục 10.3, tr. 305); QĐ 3312/2015 (ngưỡng 38,5 °C): ghi cả hai (sổ mâu thuẫn)."
+     }
+    ],
+    "dan_do": [
+     "Desloratadin 2 ml mỗi tối đến hết thứ Năm tuần sau; không thêm thuốc ho, thuốc 'cho ngủ', thuốc nam (QĐ 4416 mục 3.2.1, 3.2.2).",
+     "Đưa bé đến ngay khi khó thở, thở nhanh, khò khè, khàn tiếng, sưng môi – mắt – lưỡi, nôn nhiều, quấy từng cơn, lả, bỏ bú, sốt cao, hoặc mảng nổi quá 24 giờ (QĐ 4416 mục 2.1; TT 51/2017 Phụ lục I mục I.1; QĐ 75/2015 mục 3b; WHO 2013 tr. 81).",
+     "Cho ăn lại các món đã quen từng món một, sữa công thức như cũ (QĐ 75/2015 mục 4b; TL-0405 mục 5.2.6). Tái khám khi hết thuốc để cấp giấy cho nhà trẻ nếu bé đã khỏi (TT 25/2026 Phụ lục XXIV Mẫu số 01)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 – Tái khám sau 7 ngày",
+   "tiep_don": "Chị Hiền bế bé Vy, 9 tháng, tái khám sáng thứ Sáu tuần sau (ngày thứ 11 kể từ khi nổi mẩn; vừa uống hết 10 ngày desloratadin tối thứ Năm), mang theo sổ tiêm chủng và mẫu giấy khám sức khỏe của nhà trẻ. Cân nặng 9,0 kg. Sinh hiệu: nhiệt độ 36,8 °C, mạch 120 l/p, nhịp thở 32 l/p, SpO₂ 99%, không đo huyết áp. Chị nói bé hết nổi, hết ho; còn lo bé 'bị lại'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé lên khoa dị ứng – miễn dịch làm test thức ăn 'cho chắc trước khi gửi nhà trẻ' khi bé đã khỏi hẳn và ăn lại từng món bình thường là quá tay: mày đay cấp thường không cần chẩn đoán thêm ngoài bệnh sử (TL-0405 mục 4.1), IgE dương tính không chứng minh nguyên nhân (TL-0405 mục 4). Bé bị lấy máu, mẹ nhận kết quả 'mẫn cảm' rồi lại kiêng ăn kéo dài; giấy nhà trẻ trễ.",
+    "nhap_vien": "Cho bé nằm viện 'thử ăn lại dưới theo dõi' khi bé đã ăn lại từng món không nổi là quá tay: tài liệu đã tải không có chỉ định thử thách thức ăn nội trú cho mày đay cấp đã khỏi (TL-0405 mục 5.2.6 chỉ bàn chế độ ăn chẩn đoán ở mày đay mạn). Bé nằm viện không cần thiết, mẹ lo hơn, mất thêm ngày công trước hôm đi làm lại."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết nổi rồi, uống hết thuốc hôm qua. Em mang giấy nhà trẻ đây, bác sĩ khám rồi ký giùm em. Nhưng em vẫn sợ lắm, bác sĩ cho em xin thuốc để sẵn ở nhà, lỡ bé nổi lại đêm khuya thì em làm sao, và có nên đi thử dị ứng trước khi gửi bé không?",
+   "sinh_hieu": {
+    "mach": 120,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bé hết nổi hẳn từ sáng thứ Bảy (ngày thứ 5), hết ngứa, ngủ ngon. Uống đủ 10 ngày desloratadin, liều cuối tối thứ Năm. Sổ mũi, ho hết từ thứ Hai. Từ thứ Tư tuần trước bé ăn lại cháo thịt, trứng, cá, từng món, không nổi lại; không sốt, không paracetamol từ hôm tái khám trước. Hôm nay không nổi, không phù, bú ăn tốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khỏi hoàn toàn, không tái phát khi ngừng thuốc, ăn lại không nổi: chưa phải mạn, không cần xét nghiệm"
+    },
+    {
+     "id": "ho_so",
+     "noi_dung": "Sổ tiêm chủng có đủ các mũi theo lịch của bé đến tháng thứ 9, do trạm y tế ghi. Bé sinh đủ tháng, không bệnh bẩm sinh, không bệnh mạn, chưa từng nằm viện; ngoài lần nổi mẩn này (đã khỏi) chưa nổi lần nào. Gia đình: ba viêm mũi dị ứng, không ai bị lao hay ho kéo dài. Nhà trẻ nhận bé từ thứ Hai tuần sau nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ kiện tiền sử bản thân, gia đình, tiếp xúc lao, tiêm chủng để điền Mẫu số 01; ghi mày đay cấp đã khỏi vào tiền sử"
+    },
+    {
+     "id": "lo_tai_phat",
+     "noi_dung": "Mẹ hỏi: bé có bị lại không, có nên thử dị ứng trước khi gửi nhà trẻ, có nên mua sẵn thuốc tiêm cấp cứu ở nhà; nói hai đêm qua chị vẫn thức mấy lần sờ người bé. Nghe bác sĩ nói từng dấu hiệu cần đến ngay thì chị bớt run, xin chép lại.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu sợ hãi còn dư: cần trả lời bằng dữ kiện, không chiều lòng bằng xét nghiệm hay thuốc dự phòng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, linh hoạt, hay cười; da hồng hào, lòng bàn tay hồng, không vàng, không tím. Thóp phẳng.",
+     "k": 1,
+     "hien": "Tỉnh, linh hoạt, da hồng hào, lòng bàn tay hồng."
+    },
+    "da": {
+     "a": "Da toàn thân sạch: không sẩn phù, dát thâm, vệt xước mới, mụn nước, vảy. Mặt, môi, mi mắt, lưỡi không phù.",
+     "k": 1,
+     "hien": "Da toàn thân sạch, không sẩn, không vết thâm. Môi, mi mắt không sưng."
+    },
+    "tim": {
+     "a": "Tim đều 120 l/p, T1 T2 rõ, không âm thổi; mạch quay – bẹn bắt rõ.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 120 l/p, không âm thổi. Mạch quay – bẹn bắt rõ."
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, không co lõm, không khò khè; rì rào phế nang êm dịu, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 32 l/p, không co lõm lồng ngực."
+    },
+    "bung": {
+     "a": "Bụng mềm, rốn bình thường, không sờ thấy gan lách hay khối; hậu môn, cơ quan sinh dục ngoài bình thường.",
+     "k": 1,
+     "hien": "Bụng mềm, không sờ thấy gan lách."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 9,0 kg, dài 73 cm, vòng đầu bình thường theo tuổi. Chỉ số theo tuổi (SD): không có trong tài liệu đã tải; không thấy dấu hiệu suy dinh dưỡng, thiếu máu, còi xương. Vận động hai bên đối xứng, trương lực cơ bình thường, ngồi vững, bò.",
+     "k": 1,
+     "hien": "Cân 9,0 kg, dài 73 cm. Vận động hai bên đối xứng, ngồi vững, bò."
+    }
+   },
+   "cls": {
+    "test_lay_da": {
+     "v": "n",
+     "r": "Kết quả (nếu làm) không đổi xử trí; dương tính không chứng minh nguyên nhân.",
+     "n": "Không cần: bé khỏi hẳn, ăn lại từng món không nổi; mày đay cấp không chẩn đoán thêm ngoài bệnh sử (TL-0405 mục 4.1); xét nghiệm dị ứng thức ăn dương tính không nhất thiết là nguyên nhân (TL-0405 mục 4). Làm test lẩy da ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay cấp (tự phát), mức thông thường, đã khỏi hoàn toàn: hết nổi từ ngày thứ 5, đủ 10 ngày desloratadin, không tái phát sau ngừng thuốc, ăn lại từng món không nổi; yếu tố khởi phát (bữa cháo nhiều đạm, viêm hô hấp trên, paracetamol) vẫn không xác định; chưa phải mày đay mạn (mốc 6 tuần)",
+     "ok": 1,
+     "n": "Mày đay cấp dưới 6 tuần (QĐ 4416 mục 1.1, 2.4.1); kháng histamin liều tiêu chuẩn 10 ngày (mục 3.2.1); tự giới hạn (TL-0405 mục 4.1). Khoảng một nửa không tìm ra nguyên nhân (QĐ 75/2015 mục 2e). Không kết luận bé dị ứng thức ăn, thuốc hay virus."
+    },
+    {
+     "t": "Phản vệ, phù mạch, viêm mạch mày đay, dị ứng thức ăn trung gian IgE",
+     "n": "Cả ba lượt không có hô hấp – tiêu hóa – tụt HA, không phù mạch, sẩn lặn dưới 24 giờ (TT 51/2017 Phụ lục I mục I.2; QĐ 4416 mục 2.1; QĐ 75/2015 mục 3b). Ăn lại trứng, thịt bò, cá không nổi: không có bằng chứng dị ứng thức ăn; hiếm khi là nguyên nhân mày đay tự phát (TL-0405 mục 5.2.6)."
+    },
+    {
+     "t": "Bé khỏe mạnh về tăng trưởng và phát triển, không bệnh cấp hay mạn khác, đủ điều kiện kết luận 'Bình thường' trên giấy khám sức khỏe",
+     "n": "Khám lâm sàng theo các mục của Mẫu số 01 đều bình thường (TT 25/2026 Phụ lục XXIV). Đánh giá dinh dưỡng theo SD và kiểm đủ lịch tiêm chủng theo tuổi: lịch cụ thể không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám đủ các mục giấy khám sức khỏe trẻ dưới 6 tuổi, kết luận trung thực 'Bình thường' vì bé không còn bệnh cấp; ghi 'mày đay cấp, đã khỏi' vào tiền sử bản thân; tư vấn và hẹn khám lần sau",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT (Phụ lục XXIV, Mẫu số 01: mục 18 Tiền sử bản thân; Khám lâm sàng; Kết luận và tư vấn; Điều 2 khoản 2: hồ sơ trẻ dưới 6 tuổi theo Mẫu số 01). Lịch hẹn khám lần sau, lịch tiêm chủng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng desloratadin (đã đủ 10 ngày, hết triệu chứng), không kê thuốc dự phòng kéo dài; nổi lại thì uống lại desloratadin 1 mg (2 ml)/ngày và quay lại khám; còn nổi hằng ngày quá 6 tuần là mày đay mạn, khi đó mới làm xét nghiệm cơ bản",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.1: 10 ngày; mục 1.1, 2.4.1, 2.2); TL-0405 (mục 5.4: liên tục đến khi không còn cần; mục 4.2, Bảng 8). Số ngày dùng khi nổi lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không làm xét nghiệm dị ứng thức ăn (IgE, lẩy da) cho bé đã khỏi; ăn bình thường các món đã ăn được; nổi lại ngay sau một món thì ghi món đó và báo",
+     "v": "c",
+     "n": "TL-0405 (mục 4.1, Bảng 8; mục 4: IgE dương tính không nhất thiết nhân quả; mục 5.2.6); QĐ 75/2015 (mục 4b). Cách theo dõi khi cho ăn lại ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi sợ còn dư bằng dữ kiện: bé chỉ có da ở cả ba lượt, không phản vệ nên không kê thuốc tiêm adrenalin để ở nhà; nhắc lại dấu hiệu phải đến ngay",
+     "v": "c",
+     "n": "TT 51/2017 (Phụ lục III mục I.3: adrenalin khi phản vệ từ độ II trở lên; Phụ lục I mục I.2); QĐ 4416 (mục 2.1, 3.2.1). Chỉ định thuốc tiêm adrenalin tự dùng tại nhà cho trẻ, cách trấn an: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé kiêng trứng, cá, thịt bò nhiều tuần 'cho chắc'",
+     "v": "w",
+     "n": "TL-0405 (mục 5.2.6): chế độ ăn chẩn đoán chỉ giữ giới hạn 2–3 tuần để tránh tác dụng phụ và rủi ro; bé không có chỉ định (đã khỏi, ăn lại không nổi). Hậu quả dinh dưỡng riêng ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê tiếp kháng histamin dự phòng hằng ngày kéo dài khi đã khỏi",
+     "v": "w",
+     "n": "QĐ 4416 (mục 3.2.1): mày đay cấp thông thường 10 ngày; TL-0405 (mục 5.4): dùng đến khi không còn cần; bé đã khỏi và đủ 10 ngày. Dự phòng kéo dài ở mày đay cấp: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay cấp (tự phát), mức thông thường, đã khỏi hoàn toàn: hết nổi từ ngày thứ 5, đủ 10 ngày desloratadin, ngừng thuốc không tái phát, ăn lại từng món không nổi (QĐ 4416 mục 2.4.1, 3.2.1); yếu tố khởi phát không xác định, không gắn nhãn dị ứng",
+     "Bé khỏe mạnh, không bệnh cấp hay mạn: kết luận 'Bình thường' trên giấy khám sức khỏe (TT 25/2026 Phụ lục XXIV Mẫu số 01); nỗi sợ sốc phản vệ còn dư được trả lời bằng dữ kiện"
+    ],
+    "phan_tich_chan_doan": [
+     "Khỏi: mày đay cấp tự giới hạn (TL-0405 mục 4.1), đủ 10 ngày thuốc (QĐ 4416 mục 3.2.1), ngừng thuốc không tái phát nên không cần xét nghiệm; chưa đến mốc 6 tuần nên không phải mày đay mạn (QĐ 4416 mục 2.4.1). Ăn lại từng món không nổi: không có bằng chứng dị ứng thức ăn (TL-0405 mục 5.2.6); IgE dương tính không chứng minh nguyên nhân (TL-0405 mục 4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giấy khám sức khỏe: khám đều bình thường, hết bệnh cấp nên kết luận 'Bình thường'; tiền sử ghi trung thực mày đay cấp đã khỏi (TT 25/2026 Phụ lục XXIV Mẫu số 01). Không kê thuốc dự phòng, không xét nghiệm dị ứng, không kê adrenalin để ở nhà (TT 51/2017 Phụ lục III mục I.3; TL-0405 mục 4.1, 5.4); dặn mốc 6 tuần và dấu hiệu cấp cứu để trấn an bằng thông tin cụ thể."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Desloratadin siro",
+      "ham_luong": "2,5 mg/5 ml",
+      "lieu": "Ngưng (đủ 10 ngày); nếu nổi lại: 1 mg = 2 ml, 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi nổi lại, mỗi tối, rồi quay lại khám",
+      "so_ngay": "Không kê thêm hôm nay",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1); TL-0405 (mục 5.4); QĐ 3942/2014 (Bảng 3, tr. 119). Số ngày dùng khi nổi lại: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Không cần uống thuốc nữa. Nếu bé nổi lại, cho uống lại desloratadin 2 ml mỗi tối và đến khám; còn nổi hằng ngày hoặc gần hằng ngày quá 6 tuần là mày đay mạn, khi đó mới cần xét nghiệm (QĐ 4416 mục 2.4.1, 2.2; TL-0405 Bảng 8).",
+     "Đưa bé đến ngay khi khó thở, thở rít, khò khè, khàn tiếng, sưng môi – mắt – lưỡi, nôn nhiều, quấy từng cơn, lả, bỏ bú (QĐ 4416 mục 2.1, 3.2.1; TT 51/2017 Phụ lục I mục I.1).",
+     "Cho ăn bình thường các món đã ăn được, thêm món mới từng món một; không tự cho thuốc khi bé không sốt (TL-0405 mục 5.2.6; WHO 2013 mục 10.3). Giấy khám sức khỏe đã hoàn thành kết luận 'Bình thường'; hẹn khám lần sau theo lịch của cơ sở (TT 25/2026 Phụ lục XXIV Mẫu số 01), lịch cụ thể không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Vy hết ngứa, ngủ lại được từ đêm đầu uống desloratadin, hết nổi hẳn từ ngày thứ 5, đủ 10 ngày thuốc, không phù mạch, không nhập viện, không tái phát khi ngừng thuốc; yếu tố khởi phát không xác định, bé ăn lại từng món bình thường. Mẹ bớt sợ nhờ được nói từng dấu hiệu bé không có và danh sách dấu hiệu cần đến ngay; giấy khám sức khỏe Mẫu số 01 được cấp 'Bình thường' khi bé khỏi, kịp ngày nhà trẻ nhận. Kết cục ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Sợ hãi quá mức: mẹ đòi thử máu dị ứng, nhập viện, đổi thuốc mạnh; trấn an chung chung làm mẹ hoảng hơn, chỉ chịu khi nghe từng dấu hiệu bé không có và danh sách dấu hiệu phải đến ngay.",
+  "Paracetamol hai liều trong ngày (một liều trước, một liều sau khi nổi mẩn) và thức ăn nhiều đạm: hai ứng viên thủ phạm không thể tách riêng; mốc giờ đúng mới tránh gán nhãn dị ứng sai.",
+  "Lý do thật là giấy khám sức khỏe cho nhà trẻ: mẹ chỉ nói khi được hỏi vì sao đi ngay hôm nay; cám dỗ 'ký bình thường cho nhanh' khi bé còn bệnh."
+ ],
+ "bai_hoc_bien": [
+  "Mày đay cấp ở nhũ nhi: sẩn phù lặn dưới 24 giờ không thâm, dưới 6 tuần; dưới 50 sẩn phù và không phù mạch là mức thông thường, ngoại trú với một kháng histamin thế hệ 2; nhập viện khi phù mạch ở lưỡi hoặc đau bụng (QĐ 4416 mục 2.1, 2.4.1, 3.2.1).",
+  "Phân biệt đáp ứng một phần bình thường với thất bại điều trị: đếm sẩn, thời gian mỗi sẩn, phù mạch, tuân thủ thuốc; không tăng liều hay đổi thuốc ở ngày thứ 4 (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4, Bảng 11).",
+  "Trấn an người nhà sợ hãi bằng dữ kiện của chính bé và danh sách dấu hiệu cụ thể; không chiều lòng bằng xét nghiệm dị ứng hay nhập viện (TL-0405 mục 4.1, Bảng 8).",
+  "Giấy khám sức khỏe trẻ dưới 6 tuổi (Mẫu số 01): ghi trung thực, không ký 'Bình thường' khi còn bệnh cấp, hẹn khám lại khi khỏi (TT 25/2026 Phụ lục XXIV)."
+ ],
+ "diem_nho": [
+  "Mày đay cấp: sẩn phù đỏ nhợt, ranh giới rõ, xuất hiện và biến mất trong 24 giờ không để lại dát thâm; cấp dưới 6 tuần, mạn khi nổi hằng ngày hoặc gần hằng ngày quá 6 tuần (QĐ 4416 mục 2.1, 2.4.1).",
+  "Phản vệ: da kèm hô hấp hoặc tụt HA, hoặc ≥ 2/4 nhóm sau tiếp xúc yếu tố nghi ngờ; adrenalin tiêm bắp từ độ II, trẻ < 10 kg 0,2 ml (TT 51/2017 Phụ lục I mục I.2; Phụ lục III mục I.3, IV.1.a).",
+  "Desloratadin siro 2,5 mg/5 ml: 6–11 tháng 1 mg/ngày; thế hệ 1 ở trẻ em chỉ có liều từ 2 tuổi và không được khuyến cáo (QĐ 3942/2014 Bảng 2, 3; TL-0405 mục 5.5.1)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Bệnh mày đay mục 1.1, 1.2, 2.1–2.5, 3.2.1, 3.2.2.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015 (kho cũ tltk-10000-ca) – Bệnh mày đay mục 2a, 2e, 3a, 3b, 4b.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014 (kho cũ tltk-10000-ca) – Mày đay – phù Quincke mục 4.2c, 4.2d; Các thuốc kháng histamin H1, Bảng 2 (tr. 118), Bảng 3 (tr. 119).",
+  "Bộ Y tế – TT 51/2017/TT-BYT (TL-0014) – Phụ lục I mục I.1, I.2; Phụ lục II; Phụ lục III mục I.3, II.2, IV.1.a.",
+  "GA²LEN/EAACI 2026 (TL-0405), Allergy 2026;81(8):2582-2632 – mục 4, 4.1, 4.2, 4.4, 5.2.6, 5.4, 5.5.1; Bảng 8, 11.",
+  "WAO Anaphylaxis Guidance 2020 (TL-0025) – Bảng 2, chú thích a.",
+  "WHO 2013, Pocket book of hospital care for children (kho cũ tltk-10000-ca) – mục 10.3 (tr. 305); bảng phân loại ho (tr. 81); mục 4.4 (tr. 90).",
+  "Bộ Y tế – QĐ 3312/QĐ-BYT 2015 (TL-0037) – Viêm phổi do vi khuẩn mục 4, 2.2: paracetamol 10–15 mg/kg/lần, hạ sốt khi ≥ 38,5 °C.",
+  "Bộ Y tế – TT 25/2026/TT-BYT (TL-0668) – Điều 2 khoản 2; Phụ lục XXIV Mẫu số 01 (giấy khám sức khỏe trẻ dưới 6 tuổi)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08): mày đay cấp ở nhũ nhi nữ 9 tháng, 8,9 kg; khởi phát sau bữa cháo nhiều đạm, paracetamol 80 mg × 2 gói trong ngày, sổ mũi nhẹ; nhiễu sợ hãi quá mức; lý do thật xin giấy khám sức khỏe cho nhà trẻ; không có siêu âm. 3 lượt, cả ba ve_hen. Ảnh da: dùng lại HA-DA-0294 (lượt 1), HA-DA-0066 (lượt 2); lượt 3 chữ. HA-DA-0170 trùng tệp với 0294. Ảnh là da người lớn hoặc trẻ lớn, chỉ khớp hình thái sẩn phù.",
+  "Tài liệu đã đọc: QĐ 4416 (TL-0397) Bệnh mày đay; QĐ 75/2015 Bệnh mày đay; QĐ 3942/2014 Mày đay – phù Quincke, Các thuốc kháng histamin H1 (Bảng 2, 3); TT 51/2017 (TL-0014) Phụ lục I–III; TL-0405 mục 4, 4.1, 4.4, 5.2.6, 5.4, 5.5.1, Bảng 8, 11; WAO 2020 Bảng 2; WHO 2013 mục 10.3, bảng ho; TT 25/2026 (TL-0668) Mẫu số 01.",
+  "Không có trong tài liệu đã tải: liều cetirizin, loratadin siro dưới 2 tuổi; tác dụng không mong muốn của adrenalin ở nhũ nhi; paracetamol có gây mày đay không; cách cho nhũ nhi ăn dặm và ăn lại; test lẩy da ở nhũ nhi; trị số tham chiếu công thức máu nhũ nhi; SD cân nặng, chiều dài; lịch tiêm chủng và hẹn khám lần sau; ngưỡng đáp ứng một phần của mày đay cấp; mốc tái khám 3 ngày và dấu hiệu riêng nhũ nhi (tự thiết kế).",
+  "Đã tra mau_thuan.md: áp dụng các mục 'Xét nghiệm thường quy trong mày đay cấp', 'Corticoid uống trong mày đay cấp', 'Mày đay đơn thuần có thuộc phản vệ độ I', 'Thời gian dùng kháng histamin trong mày đay cấp thông thường', 'Kháng histamin H1 thế hệ 1 cho mày đay ở trẻ em' (ghi nhận kho DL-0750), 'Hạ sốt ở trẻ', 'Giấy khám sức khỏe khi trẻ đang bệnh cấp'. Không có mâu thuẫn mới."
+ ]
+}
