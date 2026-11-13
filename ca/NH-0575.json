@@ -1,0 +1,747 @@
+{
+ "ma_ca": "NH-0575",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tieu_phe_quan",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tiểu phế quản",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Hen",
+   "Tim bẩm sinh"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi (bé 7 tháng, bú mẹ và ăn dặm; ban ngày ở nhà với bà nội khi mẹ đi làm lại)",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ (sổ mũi nhẹ và ho khẽ vài ngày, bú vẫn tốt, rồi ho nhiều dần và khò khè)",
+  "thuoc_dang_dung": "Tự mua amoxicillin (bà nội mua gói bột 250 mg cho bé uống từ 2 ngày nay, mẹ không đồng ý)",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình (mẹ và bà nội bất đồng cách chăm bé; mẹ đưa bé đi khám riêng để bác sĩ nói với bà là không cần truyền nước, không cần kháng sinh)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Khánh An",
+  "tuoi": 0.58,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi (bú mẹ, ban ngày ở với bà nội)",
+  "can_nang": 7.6,
+  "chieu_cao": 68,
+  "xung_ho": "Bé 7 tháng không nói được, chỉ khóc, ngọ nguậy, bám mẹ. Mẹ (chị Vy, 27 tuổi) kể bệnh, gọi bác sĩ là 'bác sĩ' và xưng 'em'. Bác sĩ gọi mẹ là 'chị', gọi bé là 'bé An'.",
+  "tinh_cach": "Mẹ trẻ, lo lắng, nói nhỏ, dễ nghe theo khi được giải thích rõ; đang bị bà nội trách là 'không biết chăm con'. Bà nội (không có mặt) quyết liệt: 'phải truyền nước, phải uống kháng sinh mới khỏi'. Mẹ nài truyền dịch vì sợ bà, không phải vì chính mình tin.",
+  "kieu_nhieu": "Đòi truyền dịch: mẹ lặp lại lời bà nội 'cho bé truyền nước đi bác sĩ', nhắc ở cả hai lượt, nhấn mạnh bé 'bỏ bú'. Dịu lại khi bác sĩ giải thích bằng tiêu chí cụ thể (bú được bao nhiêu, tã ướt, SpO₂) và đưa câu nói thay thế để mẹ nói lại với bà. Mẹ giấu chuyện bà tự cho amoxicillin và mâu thuẫn gia đình, chỉ nói khi được hỏi nhẹ nhàng.",
+  "nguoi_nha": "Mẹ bé (chị Vy) bế bé đi khám, trả lời mọi câu hỏi (nguoi_noi = nguoi_nha). Bà nội không đi cùng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Vy)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#2a1b14",
+   "kieuToc": "tre",
+   "ao": "#f6d6e0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#9ccbd6",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 7 tháng ho, khò khè, bú kém",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 7 tháng, 7,6 kg, mẹ bế đến vì ho, sổ mũi 4 ngày, hai ngày nay khò khè, bú kém hơn. Sinh hiệu: nhiệt 37,9 °C, mạch 126 l/p, nhịp thở 48 l/p, SpO₂ 95% (khí trời). Bé tỉnh, bám mẹ, hơi quấy.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé An thở 48 l/p, SpO₂ 95%, vẫn bú được khoảng 4/5 lượng thường ngày, tã ướt đủ: chưa có tiêu chí nhập viện (apnea, SpO₂ kéo dài < 90%, bú còn 50–75% hoặc ít hơn, suy hô hấp nặng: NICE NG9 2021 mục 1.3.2). Nhập viện hay truyền tĩnh mạch theo ý bà nội là can thiệp không cần; truyền dịch chỉ dành cho trẻ không bú nổi và không dung nạp sonde dạ dày (NICE NG9 2021 mục 1.4.11–1.4.12; AAP 2014 KAS 9), và bù dịch quá mức có thể làm nặng thêm tình trạng ở trẻ nhỏ (WHO 2013 mục 4.5.1: tránh bù quá nhiều dịch). Mẹ còn bị bà nội cho rằng 'phải nằm viện mới là chữa', làm mâu thuẫn trong nhà nặng thêm.",
+    "chuyen_tuyen": "Chuyển bé An lên tuyến trên là quá tay: thở 48 l/p (dưới 60 l/p), SpO₂ 95%, bú đủ, không phập phồng cánh mũi, không apnea (NICE NG9 2021 mục 1.2.1–1.2.2). Mẹ phải xin nghỉ làm, bé bị đưa vào nơi đông trẻ bệnh; WHO 2013 mục 4.5.1 nhắc tiểu phế quản rất dễ lây và nguy hiểm cho trẻ khác trong bệnh viện. Điều cần làm là dặn mẹ các dấu hiệu nặng cụ thể và hẹn tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, con em ho, khò khè mấy hôm nay, bú cũng kém. Nhà em ai cũng bảo phải truyền nước với uống kháng sinh mới khỏi, bác sĩ cho bé truyền nước đi bác sĩ.",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 48,
+    "spo2": 95,
+    "canh_bao": [
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, sổ mũi từ 4 ngày trước, nhẹ lúc đầu, bú vẫn tốt. Hai ngày nay ho nhiều hơn, nghe khò khè, thở nhanh khi bú. Sốt nhẹ 37,8–38,3 °C vài lần. Bú còn khoảng 4/5 lượng bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian bệnh (NICE NG9 mục 1.1.3)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bé bú mẹ, mỗi cữ ngắn hơn vì nghẹt mũi, bú còn khoảng 4/5 bình thường, vẫn bú hết ngụm. Ngày thay khoảng 5–6 tã ướt. Không nôn trớ nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt (tiêu chí nhập viện: lượng bú, NICE mục 1.3.2)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không có cơn ngưng thở, không tím môi khi bú hay khóc, không co giật, vẫn nhìn và cười với mẹ, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Apnea, tím, dấu hiệu nguy hiểm (NICE mục 1.2.1; WHO 4.5.1)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, 3,1 kg, bú mẹ hoàn toàn đến 6 tháng rồi ăn dặm. Chưa từng khò khè, không chàm. Gia đình không ai có hen hay dị ứng. Tiêm chủng theo lịch. Tăng cân đều, không tím khi bú, không vã mồ hôi khi bú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, loại trừ tim bẩm sinh và hen (NICE mục 1.1.7)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Hai ngày nay bà nội tự mua amoxicillin gói bột 250 mg cho bé uống mỗi ngày 2 gói. Mẹ không đồng ý nhưng bà cho uống khi mẹ đi làm. Không cho thuốc ho. Có cho paracetamol 80 mg một lần khi bé sốt 38,3 °C.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể vì ngại bà nội. Chỉ nói khi bác sĩ hỏi 'đã cho bé uống thuốc gì chưa', 'ai chăm bé ban ngày', hoặc hỏi nhẹ nhàng, không trách.",
+     "k": 1,
+     "y": "Thuốc tự mua (amoxicillin không có chỉ định)"
+    },
+    {
+     "id": "khoi",
+     "noi_dung": "Mẹ mới đi làm lại 1 tuần, bé ở với bà nội. Không có trẻ nhỏ khác trong nhà bị ho. Bé không đi nhà trẻ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Bối cảnh khởi phát âm thầm, từ từ"
+    },
+    {
+     "id": "khoi_thuoc",
+     "noi_dung": "Ông nội hút thuốc lá, hay hút ngay trong phòng khách có bé nằm. Ba bé hút ngoài hiên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khói thuốc (NICE mục 1.6.1; AAP KAS 12a–b)"
+    },
+    {
+     "id": "mau_thuan",
+     "noi_dung": "Mẹ và bà nội cãi nhau từ hôm qua. Bà nói bé phải truyền nước, uống kháng sinh, bà thấy mẹ 'không biết chăm'. Mẹ muốn chăm bằng sữa mẹ và hút mũi nhẹ như bác sĩ ở trạm y tế dặn. Hôm nay mẹ lén đưa bé đi khám, mong bác sĩ nói giúp để bà nghe và để hai người thôi cãi nhau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói khi bác sĩ hỏi ở nhà mọi người có đồng ý cách chăm bé không, hoặc hỏi 'chị muốn tôi giúp gì cho chị và gia đình'.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: mâu thuẫn gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hơi quấy, bám mẹ, nhìn theo, cười khi chọc. Môi hồng, niêm mạc miệng ướt, thóp trước phẳng, mắt không trũng, da véo trở lại nhanh, đổ đầy mao mạch dưới 2 giây. Cân 7,6 kg, dài 68 cm, đúng đường tăng cân. Không mất nước.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không hạch to, không dấu hiệu màng não.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Chảy mũi nhầy trong lẫn đục hai bên, nghẹt mũi nhẹ. Họng hơi đỏ, không giả mạc. Màng nhĩ hai bên hồng nhạt, không phồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 48 l/p, đếm đủ 1 phút khi bé nằm yên. Co kéo nhẹ khoảng liên sườn, không rút lõm lồng ngực dưới, không phập phồng cánh mũi, không thở rên, không tím. Lồng ngực hơi căng, thì thở ra kéo dài. Nghe ran rít thì thở ra lan tỏa hai bên và ran nổ nhỏ hạt rải rác ở hai đáy phổi, không khu trú một vùng, không tiếng thở phế quản.",
+     "k": 1,
+     "hien": "Nhịp thở 48 l/p. Co kéo nhẹ khoảng liên sườn, không rút lõm lồng ngực dưới, không phập phồng cánh mũi.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít lan tỏa, thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 126 l/p, T1 T2 rõ, không âm thổi, không ngựa phi, mỏm tim ở vị trí bình thường.",
+     "k": 1,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan sờ dưới bờ sườn phải 1 cm, bờ mềm (lồng ngực căng đẩy gan xuống). Lách không sờ thấy.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch bẹn hai bên rõ, đều, bằng nhau. Không phù mặt, không phù chi.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không ban, không chấm xuất huyết, không chàm. Không tím đầu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 9,8 G/L · Lympho 58% · Hb 112 g/L · TC 310 G/L",
+     "n": "Không cần: không xét nghiệm máu thường quy (NICE NG9 2021 mục 1.3.6; AAP 2014 KAS 1c). QĐ 3312/2015 (Viêm tiểu phế quản cấp mục 3.2) chỉ nêu là tiêu chuẩn phụ."
+    },
+    "crp": {
+     "v": "n",
+     "r": "6 mg/L",
+     "n": "Không cần (như công thức máu: NICE NG9 2021 mục 1.3.6; AAP 2014 KAS 1c). Giá trị CRP phân biệt viêm phổi ở trẻ tiểu phế quản: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Ứ khí hai phế trường, vòm hoành thấp, vài đám mờ nhẹ cạnh rốn phổi hai bên, không đông đặc thùy, bóng tim không to.",
+     "n": "Chấp nhận, không bắt buộc: NICE NG9 2021 mục 1.3.7 và AAP 2014 KAS 1c không chụp thường quy vì hình ảnh dễ lẫn viêm phổi; mục 1.3.8 chỉ cân nhắc khi sắp hồi sức. QĐ 3312/2015 mục 3.2 có nêu X-quang là tiêu chuẩn phụ."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần: chẩn đoán bằng lâm sàng (AAP 2014 KAS 1a, 1c; NICE NG9 2021 mục 1.1.3). Việc tìm virus có đổi xử trí ngoại trú hay không: không có trong tài liệu đã tải."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "RSV dương tính",
+     "n": "Không cần (như test nhanh: AAP 2014 KAS 1c). Tìm virus có đổi xử trí ngoại trú: không có trong tài liệu đã tải."
+    },
+    "abg": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: chỉ cân nhắc khi sắp suy hô hấp (NICE NG9 2021 mục 1.4.9–1.4.10)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: không tím, tăng cân đều, mạch 126 l/p (suy tim: > 160 l/p ở trẻ < 12 tháng, WHO 2013 mục 4.8), không ngựa phi, không âm thổi. Chỉ định siêu âm tim ngoại trú: không có trong tài liệu đã tải."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: không dấu hiệu bệnh tim hay rối loạn nhịp (WHO 2013 mục 4.8)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Cơ sở không có CT.",
+     "n": "Không cần: tiểu phế quản chẩn đoán bằng lâm sàng (NICE NG9 2021 mục 1.1.3); CT không nằm trong khuyến cáo nào đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tiểu phế quản cấp (nghi RSV) ở nhũ nhi 7 tháng, mức nhẹ–vừa, chưa có tiêu chí nhập viện",
+     "ok": 1,
+     "n": "Tiền triệu sổ mũi vài ngày, rồi ho dai dẳng, thở nhanh, khò khè và ran nổ (NICE NG9 2021 mục 1.1.3); tuổi 3–6 tháng đỉnh mắc (mục 1.1.1); sốt nhẹ dưới 39 °C (mục 1.1.4); lồng ngực căng, ran rít và ran nổ nhỏ hạt (WHO 2013 mục 4.5.1; QĐ 3312/2015 mục 3.1)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Ít nghĩ: sốt dưới 39 °C, ran rải rác hai bên không khu trú dai dẳng (NICE NG9 2021 mục 1.1.6); thở 48 l/p dưới 50 l/p của trẻ 2–11 tháng và không rút lõm lồng ngực dưới (WHO 2013 mục 4.1, Bảng 7). Nếu sau đó sốt cao hoặc ran khu trú dai dẳng thì xét lại."
+    },
+    {
+     "t": "Hen / khò khè do virus",
+     "n": "Chưa nghĩ: 7 tháng, lần khò khè đầu, có ran nổ, không chàm, không tiền sử gia đình dị ứng (NICE NG9 2021 mục 1.1.7: hen hiếm ở trẻ dưới 1 tuổi). QĐ 3312/2015 mục 3.3: rất khó phân biệt với cơn hen đầu tiên, theo dõi diễn tiến."
+    },
+    {
+     "t": "Tim bẩm sinh / suy tim",
+     "n": "Không tím, tăng cân đều, bú không vã mồ hôi, tim không âm thổi hay ngựa phi, mạch 126 l/p dưới 160 l/p, gan 1 cm do ứ khí (WHO 2013 mục 4.8)."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Không có cơn sặc khởi phát đột ngột, ran hai bên không một bên (QĐ 3312/2015, Dị vật đường thở mục 3.1); nhớ lại nếu khò khè một bên kéo dài."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị tại nhà, hẹn tái khám sau 2–3 ngày hoặc đến ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Chưa có tiêu chí nhập viện (NICE NG9 2021 mục 1.3.2) hoặc chuyển (mục 1.2.1–1.2.2); WHO 2013 mục 4.5.1: hầu hết điều trị tại nhà. Triệu chứng đỉnh ngày 3–5 nên cần theo dõi (NICE mục 1.1.2; QĐ 3312/2015 mục 3.1). Mốc 2–3 ngày: tài liệu đã tải không có mốc riêng cho tiểu phế quản ngoại trú; dùng mốc 3 ngày của WHO 2013 Bảng 7 (viêm phổi điều trị tại nhà). Mẹ đi làm lại, bà chăm: mục 1.2.4, 1.3.4 yêu cầu cân nhắc người chăm."
+    },
+    {
+     "t": "Chăm sóc hỗ trợ, không dùng thuốc giãn phế quản thường quy HOẶC khí dung salbutamol 150 µg/kg/lần (7,6 kg: 1,14 mg) khi có thở rít/co thắt",
+     "v": "c",
+     "n": "Hai cách: NICE NG9 2021 mục 1.4.3 và AAP 2014 KAS 2: không salbutamol; QĐ 3312/2015 Viêm tiểu phế quản cấp mục 5.2: khí dung ẩm salbutamol khi co thắt hay thở rít (bản chữ ghi '150g/lần/kg', nghi µg). Khác nhau do năm ban hành và bối cảnh (NICE/AAP dựa thử nghiệm ngẫu nhiên, BYT 2015 là hướng dẫn thực hành); xem sổ mâu thuẫn mục NH-0521/NH-0523."
+    },
+    {
+     "t": "Ngưng amoxicillin bà nội tự mua; không dùng kháng sinh vì chưa có bằng chứng bội nhiễm",
+     "v": "c",
+     "n": "NICE NG9 2021 mục 1.4.3, AAP 2014 KAS 8: không kháng sinh trừ khi có nhiễm khuẩn kèm; QĐ 3312/2015 mục 5.2: rất cân nhắc kháng sinh. WHO 2013 mục 4.5.1 chỉ cho amoxicillin 40 mg/kg × 2 lần/ngày × 5 ngày khi thở nhanh kèm rút lõm lồng ngực dưới: bé chưa có rút lõm (thở 48 l/p < 50 l/p). Xem sổ mâu thuẫn mục NH-0532."
+    },
+    {
+     "t": "Nhỏ nước muối sinh lý vào mũi trước cữ bú, hút nhẹ ngoài mũi khi nghẹt làm bé khó bú; không hút sâu thường quy",
+     "v": "c",
+     "n": "Không hút thường quy; cân nhắc hút nông khi nghẹt mũi gây khó thở hay khó bú (NICE NG9 2021 mục 1.4.6–1.4.7; Australasian 2025 Q16a–b); nhỏ nước muối từng lúc ở trẻ bú kém (Australasian 2025 Q17 ii). WHO 2013 mục 4.5.1: hút nhẹ khi nghẹt mũi."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, chia nhỏ cữ bú, theo dõi lượng bú và số tã ướt; không truyền dịch",
+     "v": "c",
+     "n": "Bé bú còn 4/5 lượng, tã ướt đủ: không có chỉ định bù dịch tĩnh mạch; NG hoặc tĩnh mạch chỉ khi không duy trì được hydrat hóa đường uống (AAP 2014 KAS 9; NICE NG9 2021 mục 1.4.11–1.4.12; Australasian 2025 Q20a). Khuyến khích bú mẹ (AAP 2014 KAS 13; WHO 2013 mục 4.5.1)."
+    },
+    {
+     "t": "Hạ sốt khi bé quấy khó chịu: paracetamol 10–15 mg/kg/lần (7,6 kg: 76–114 mg, chọn 80 mg) cách ít nhất 6 giờ; không cho thêm thuốc hạ sốt khác cùng lúc",
+     "v": "c",
+     "n": "WHO 2013 Phụ lục 2: 10–15 mg/kg; mục 10.3: 15 mg/kg mỗi 6 giờ, chỉ cho trẻ từ 2 tháng sốt ≥ 39 °C và khó chịu; NICE NG143 2021 mục 1.6.4–1.6.6: cân nhắc khi trẻ khó chịu, không dùng chỉ để hạ nhiệt độ. Hiện 37,9 °C: không cần uống thường quy."
+    },
+    {
+     "t": "Dặn tránh khói thuốc lá trong nhà; ông nội ra ngoài hút",
+     "v": "c",
+     "n": "NICE NG9 2021 mục 1.6.1: không hút thuốc trong nhà vì làm nặng triệu chứng; AAP 2014 KAS 12a–b; WHO 2013 mục 4.5.1: gia đình có người hút thuốc có nguy cơ tiểu phế quản tái phát."
+    },
+    {
+     "t": "Dặn mẹ và bà nội cùng nghe các dấu hiệu nặng phải đến ngay: thở khó hơn (rên, phập phồng cánh mũi, rút lõm lồng ngực), bú còn 50–75% hoặc không có tã ướt 12 giờ, ngưng thở hay tím, li bì khó đánh thức",
+     "v": "c",
+     "n": "NICE NG9 2021 mục 1.6.1 (dấu hiệu cảnh báo; theo dõi); mục 1.3.9: đưa thông tin an toàn khi không nhập viện. Mâu thuẫn gia đình: đưa cho cả người chăm chính (bà nội) cùng tờ dặn, hỏi mẹ muốn hỗ trợ thế nào (mục 1.2.4, 1.3.4 về người chăm)."
+    },
+    {
+     "t": "Nói rõ với mẹ vì sao chưa cần truyền nước và kháng sinh (câu nói để mẹ chuyển cho bà nội)",
+     "v": "c",
+     "n": "Hướng dẫn giải thích bằng tiêu chí: bé còn bú được, tã ướt đủ, SpO₂ 95% (NICE NG9 2021 mục 1.3.2, 1.4.11–1.4.12). Câu giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch hoặc nhập viện theo yêu cầu của bà nội",
+     "v": "w",
+     "n": "Chưa có chỉ định (NICE NG9 2021 mục 1.3.2, 1.4.11–1.4.12; AAP 2014 KAS 9); WHO 2013 mục 4.5.1: tránh bù dịch quá mức. Tỉ lệ biến chứng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kháng sinh (amoxicillin) 'cho chắc' hoặc corticoid uống/khí dung",
+     "v": "w",
+     "n": "Kháng sinh: xem mục trên (chưa đủ tiêu chí WHO). Corticoid: NICE NG9 2021 mục 1.4.3; AAP 2014 KAS 5 (đề nghị không dùng ở mọi bối cảnh); QĐ 3312/2015 mục 5.1 chỉ nêu 'cân nhắc' methylprednisolon 2 mg/kg/24 giờ ở thể có suy hô hấp, bé chưa có."
+    },
+    {
+     "t": "Khí dung nước muối ưu trương 3% tại phòng khám",
+     "v": "w",
+     "n": "AAP 2014 KAS 4a: không dùng ở khoa cấp cứu; NICE NG9 2021 mục 1.4.3; Australasian 2025 Q10: không dùng thường quy."
+    },
+    {
+     "t": "Vỗ rung, vật lý trị liệu hô hấp tại nhà",
+     "v": "a",
+     "n": "NICE NG9 2021 mục 1.4.1, AAP 2014 KAS 7: không làm nếu không bệnh nền; QĐ 3312/2015 mục 5.2 có nêu vỗ rung. Hai nguồn trái chiều nên không chấm sai; xem sổ mâu thuẫn mục vật lý trị liệu hô hấp."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein, atropin, cồn hoặc thuốc long đờm",
+     "v": "h",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc ho chứa codein, atropin, cồn, thuốc long đờm cho trẻ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tiểu phế quản cấp, nghi RSV, nhũ nhi 7 tháng, ngày thứ 4 của bệnh",
+     "Mức nhẹ–vừa: thở 48 l/p, SpO₂ 95%, bú còn 4/5, chưa có tiêu chí nhập viện",
+     "Không viêm phổi, không hen (lần khò khè đầu, 7 tháng), không dấu hiệu tim bẩm sinh",
+     "Đang dùng amoxicillin bà nội tự mua, không có chỉ định",
+     "Yếu tố nguy cơ nặng và tái phát: khói thuốc lá trong nhà, mẹ đi làm lại (cai bú ban ngày)",
+     "Mâu thuẫn gia đình về cách chăm bé"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là tiểu phế quản: tiền triệu sổ mũi 1–3 ngày rồi ho dai dẳng, thở nhanh, khò khè và ran nổ (NICE NG9 2021 mục 1.1.3); tuổi 7 tháng trong năm đầu (mục 1.1.1). Sốt nhẹ chỉ ở khoảng 30% ca, thường dưới 39 °C, bú kém thường sau 3–5 ngày (mục 1.1.4). Lồng ngực căng, ran rít và ran nổ nhỏ hạt (WHO 2013 mục 4.5.1; QĐ 3312/2015 mục 3.1). Triệu chứng đỉnh ngày 3–5 (mục 1.1.2).",
+     "Vì sao không phải viêm phổi: sốt dưới 39 °C và ran rải rác hai bên (NICE mục 1.1.6); thở 48 l/p dưới ngưỡng thở nhanh 50 l/p của trẻ 2–11 tháng và không rút lõm lồng ngực dưới (WHO 2013 mục 4.1, Bảng 7). X-quang không làm thường quy vì hình ảnh dễ lẫn viêm phổi (NICE mục 1.3.7).",
+     "Vì sao chưa nghĩ hen: bé 7 tháng, lần đầu, có ran nổ, không chàm, không tiền sử dị ứng gia đình (NICE mục 1.1.7). Nhưng QĐ 3312/2015 mục 3.3 thừa nhận rất khó phân biệt với cơn hen đầu tiên, nên theo dõi các đợt sau.",
+     "Vì sao không nghĩ tim bẩm sinh: không tím, bú không vã mồ hôi, tăng cân đều, tim không âm thổi và không ngựa phi, mạch dưới 160 l/p (WHO 2013 mục 4.8). Tim bẩm sinh có ý nghĩa huyết động là yếu tố nguy cơ nặng (NICE mục 1.2.3): hỏi và nghe kỹ là đủ.",
+     "Lý do thật đến khám: mẹ lén đến để bác sĩ phân xử với bà nội. Cách giữ lòng tin: nói rõ vì sao chưa cần truyền nước và kháng sinh bằng tiêu chí, đưa tờ dặn cho cả hai người chăm (NICE mục 1.2.4, 1.3.4 yêu cầu cân nhắc người chăm và khả năng nhận ra dấu hiệu nặng)."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị tại nhà với chăm sóc hỗ trợ: nước muối sinh lý, hút nông khi nghẹt, bú mẹ chia nhỏ cữ, theo dõi bú và tã ướt (NICE mục 1.4.7, 1.4.11; Australasian 2025 Q16a, Q17; WHO 2013 mục 4.5.1). Salbutamol: NICE mục 1.4.3 và AAP KAS 2 không dùng; QĐ 3312/2015 mục 5.2 dùng khi co thắt hay thở rít (khí dung 150 µg/kg/lần, nghi µg). Hai cách đều chấp nhận (sổ mâu thuẫn).",
+     "Không kháng sinh (NICE mục 1.4.3; AAP KAS 8). WHO 2013 mục 4.5.1 dành amoxicillin cho trẻ thở nhanh kèm rút lõm lồng ngực dưới; bé chưa có, nên ngưng amoxicillin bà nội cho. Không corticoid, nước muối ưu trương, thuốc ho.",
+     "Không truyền dịch: bé bú đủ. Bù dịch NG hay tĩnh mạch chỉ khi không duy trì được đường uống (AAP KAS 9; NICE mục 1.4.11–1.4.12).",
+     "Hạ sốt chỉ khi khó chịu (NICE NG143 mục 1.6.4–1.6.6; WHO 2013 mục 10.3). Tránh khói thuốc (NICE mục 1.6.1; AAP KAS 12). Dặn dấu hiệu nặng bằng chữ (NICE mục 1.6.1). Tái khám sau 2–3 ngày, vì ca này mẹ đi làm lại, người chăm là bà nội và có mâu thuẫn; mốc cụ thể không có trong tài liệu đã tải (dùng mốc 3 ngày WHO Bảng 7 làm tham khảo).",
+     "Những việc sai: truyền dịch hay nhập viện theo ý bà nội; kháng sinh 'cho chắc'; corticoid, nước muối 3%; thuốc ho. Không dạy mẹ vỗ rung mạnh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột)",
+      "ham_luong": "80 mg/lần (7,6 kg)",
+      "lieu": "10–15 mg/kg/lần (76–114 mg), cách ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé quấy khó chịu",
+      "so_ngay": "Chỉ khi cần, ngưng khi bé thoải mái",
+      "ghi_chu": "WHO 2013 Phụ lục 2: 10–15 mg/kg; mục 10.3: 15 mg/kg mỗi 6 giờ, cho trẻ ≥ 2 tháng sốt ≥ 39 °C và khó chịu; NICE NG143 2021 mục 1.6.4–1.6.6. Không phối hợp thuốc hạ sốt khác."
+     },
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "0,9% (lọ nhỏ mũi)",
+      "lieu": "Nhỏ vài giọt mỗi bên mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước cữ bú khi nghẹt mũi",
+      "so_ngay": "Trong lúc còn nghẹt mũi",
+      "ghi_chu": "Australasian 2025 Q17 (ii): thử nhỏ từng lúc ở trẻ bú kém; NICE NG9 2021 mục 1.4.7. Số giọt cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (gói bột bà nội mua)",
+      "ham_luong": "250 mg/gói",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng ngay",
+      "so_ngay": "0",
+      "ghi_chu": "NICE NG9 2021 mục 1.4.3; AAP 2014 KAS 8: không kháng sinh khi chưa có bằng chứng bội nhiễm. Cách WHO 2013 mục 4.5.1 (amoxicillin 40 mg/kg × 2 lần/ngày × 5 ngày khi thở nhanh kèm rút lõm lồng ngực dưới) chưa đủ tiêu chí."
+     }
+    ],
+    "dan_do": [
+     "Cho bú mẹ như thường, chia nhỏ cữ nếu bé mệt; nhỏ nước muối và hút nhẹ ngoài mũi trước cữ bú (WHO 2013 mục 4.5.1).",
+     "Ông nội và ba không hút thuốc trong nhà hay cạnh bé (NICE NG9 2021 mục 1.6.1).",
+     "Đến ngay nếu: thở rên, phập phồng cánh mũi, rút lõm lồng ngực; bú còn dưới 3/4 hoặc không có tã ướt 12 giờ; ngưng thở hay tím; li bì, khó đánh thức (NICE NG9 2021 mục 1.6.1).",
+     "Ho có thể kéo dài tới 3 tuần, triệu chứng có thể nặng thêm tới ngày 5 (NICE NG9 2021 mục 1.1.2; WHO 2013 mục 4.5.1).",
+     "Hẹn tái khám sau 2–3 ngày (mốc tham khảo WHO 2013 Bảng 7); cả mẹ và bà nội cùng nghe dặn, nhận cùng một tờ dặn.",
+     "Không tự mua kháng sinh cho bé; hỏi bác sĩ trước (WHO 2013 mục 4.5.1: kháng sinh khi có dấu hiệu viêm phổi)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 ngày theo hẹn. Mẹ bế bé An, nói bé không đỡ: ho nhiều hơn, thở mệt, bú kém. Bà nội đã bỏ không cho amoxicillin từ hôm khám, nhưng vẫn đòi truyền nước. Sinh hiệu: nhiệt 38,2 °C, mạch 132 l/p, nhịp thở 66 l/p, SpO₂ 88% (khí trời, đo lại sau 10 phút vẫn 88–89%).",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Bé An thở 66 l/p (trên 60 l/p), SpO₂ kéo dài 88% (dưới 90%), bú chỉ còn khoảng 2/5, tã ướt rất ít: đủ tiêu chí nhập viện (NICE NG9 2021 mục 1.2.2, 1.3.2; WHO 2013 mục 4.5.1). Cho về nhà với bà nội và mẹ đang mâu thuẫn, ban đêm không ai đo SpO₂, bé có thể kiệt sức vì thở nhanh (dấu hiệu cảnh báo suy hô hấp: NICE mục 1.1.10) và mất nước thêm. Mẹ mất lòng tin vào bác sĩ, bà nội càng cho rằng 'nằm nhà là hại'.",
+    "theo_doi": "Giữ bé An lại theo dõi vài giờ ở phòng khám không có oxy là trì hoãn việc cần làm: SpO₂ đã dưới 90% kéo dài (NICE NG9 2021 mục 1.4.4; WHO 2013 mục 4.5.1 cho oxy khi ≤ 90%), cần oxy, sonde dạ dày hoặc dịch tĩnh mạch trong bệnh viện (mục 1.4.11–1.4.12). Mỗi giờ trễ làm bé mệt thêm, có thể đến mức ngưng thở hay tím (NICE mục 1.2.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em không đỡ, mệt hơn, bú gần như bỏ. Bà nội lại bảo em: thấy chưa, không truyền nước nên con mới nặng. Em sợ lắm bác sĩ.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "Không đo",
+    "nhiet": "38,2",
+    "nhip_tho": 66,
+    "spo2": 88,
+    "canh_bao": [
+     "nhip_tho",
+     "spo2",
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba ngày qua ho tăng dần, hai đêm nay thở nhanh, khò khè nhiều, ngực lõm khi thở, không rên. Sốt 38–38,5 °C. Hôm nay bú gần như bỏ, mỗi cữ vài phút rồi ngừng thở dốc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đỡ"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú chỉ còn khoảng 2/5 lượng bình thường. Từ sáng đến giờ (khoảng 10 giờ) chỉ thay 1 tã ướt. Có nôn trớ sau ho một lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt (NICE mục 1.2.2, 1.3.2, 1.6.1)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không có cơn ngưng thở, không tím môi, không co giật. Bé mệt, ít cười, vẫn nhìn theo mẹ khi gọi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Apnea, tím, mệt lả (NICE mục 1.1.10, 1.2.1)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bà nội đã ngưng amoxicillin từ hôm khám. Mẹ nhỏ nước muối và hút mũi nhẹ trước cữ bú. Bà chăm ban ngày: cho bé nằm trong phòng khách; ông nội vẫn hút thuốc ở đó 'chỉ một hai điếu'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, khói thuốc (NICE mục 1.6.1)"
+    },
+    {
+     "id": "khong_dap_ung",
+     "noi_dung": "Không sốt cao trên 39 °C, không nôn tất cả, không tiêu chảy, không phát ban. Không nghe ai trong nhà ho nặng, không ai sốt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ viêm phổi nặng, bệnh khác"
+    },
+    {
+     "id": "mau_thuan",
+     "noi_dung": "Hôm nay bà nội và mẹ cãi nhau lớn vì bé nặng hơn; bà trách mẹ. Mẹ sợ và nhờ bác sĩ nói rõ. Mẹ đồng ý đi viện nếu bác sĩ giải thích cho cả bà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mâu thuẫn gia đình (hợp tác khi chuyển viện)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé mệt, ít phản ứng hơn lượt trước nhưng còn nhìn theo mẹ, không li bì. Môi hồng nhạt, niêm mạc miệng hơi khô, thóp trước hơi trũng, mắt hơi trũng, véo da trở lại hơi chậm, đổ đầy mao mạch khoảng 2 giây. Cân 7,5 kg. Dấu hiệu mất nước mức nhẹ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không hạch to, không dấu hiệu màng não.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Nhầy trong ở hai lỗ mũi, nghẹt mũi, cánh mũi phập phồng theo nhịp thở. Họng đỏ nhẹ, không giả mạc. Màng nhĩ hồng nhạt, không phồng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 66 l/p, đếm đủ 1 phút. Phập phồng cánh mũi, rút lõm lồng ngực dưới rõ, co kéo cơ liên sườn và hõm ức. Chưa thở rên, không tím trung tâm, không ngưng thở. Lồng ngực căng, gõ trong, thì thở ra kéo dài. Nghe ran rít và ran nổ nhỏ hạt lan tỏa hai bên, ran nhiều hơn lượt trước, không tiếng thở phế quản, không ran khu trú một bên.",
+     "k": 1,
+     "hien": "Nhịp thở 66 l/p. Phập phồng cánh mũi, rút lõm lồng ngực dưới rõ, co kéo cơ liên sườn.",
+     "media": [
+      {
+       "vi_tri": "Vùng giữa phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít lan tỏa, thì thở ra."
+      },
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt rải rác."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 132 l/p, T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 132 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Gan sờ dưới bờ sườn phải 1,5 cm, bờ mềm, đẩy xuống do ứ khí. Lách không sờ thấy.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch bẹn hai bên rõ, đều. Đầu chi mát nhẹ, đổ đầy mao mạch khoảng 2 giây. Không phù.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hơi xanh nhạt, không ban, không chấm xuất huyết. Không tím đầu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 11,2 G/L · Lympho 52% · Hb 110 g/L · TC 330 G/L",
+     "n": "Không cần để quyết định nhập viện (NICE NG9 2021 mục 1.3.6; AAP 2014 KAS 1c)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "14 mg/L",
+     "n": "Không cần (như công thức máu). Giá trị CRP phân biệt viêm phổi ở trẻ tiểu phế quản: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Ứ khí hai phế trường, xẹp nhẹ thùy trên phải, không đông đặc thùy, bóng tim không to, không tràn khí màng phổi.",
+     "n": "Chấp nhận, không bắt buộc và không được làm chậm việc chuyển: NICE NG9 2021 mục 1.3.7–1.3.8, AAP 2014 KAS 1c không chụp thường quy; WHO 2013 mục 4.5.1 chụp khi không đáp ứng oxy hoặc xấu đột ngột (nghi tràn khí màng phổi). Bệnh viện sẽ quyết định."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "RSV dương tính",
+     "n": "Không cần (AAP 2014 KAS 1c); không đổi quyết định nhập viện."
+    },
+    "abg": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần ở phòng khám: chỉ cân nhắc khi suy hô hấp nặng ở bệnh viện (NICE NG9 2021 mục 1.4.9–1.4.10)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: mạch 132 l/p dưới 160 l/p, không ngựa phi, không âm thổi, gan đẩy xuống do ứ khí (WHO 2013 mục 4.8). Chỉ định siêu âm tim ngoại trú: không có trong tài liệu đã tải."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Cơ sở không có CT.",
+     "n": "Không cần và không làm chậm nhập viện: tiểu phế quản chẩn đoán bằng lâm sàng (NICE NG9 2021 mục 1.1.3). Nếu hình ảnh cần thêm thì bệnh viện quyết."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tiểu phế quản cấp tiến triển nặng, giảm oxy máu (SpO₂ 88%), thở nhanh, bú kém, mất nước nhẹ: cần nhập viện",
+     "ok": 1,
+     "n": "Diễn tiến điển hình, triệu chứng nặng nhất ngày 3–5 và bú kém sau 3–5 ngày (NICE NG9 2021 mục 1.1.2, 1.1.4). Đủ tiêu chí nhập viện: SpO₂ kéo dài < 90% ở trẻ ≥ 6 tuần, bú chỉ còn dưới 50–75%, thở 66 l/p (> 60 l/p cân nhắc chuyển) (mục 1.2.2, 1.3.2). SpO₂ < 90% cũng là tiêu chí điều trị tại bệnh viện của WHO 2013 mục 4.5.1."
+    },
+    {
+     "t": "Viêm phổi (do virus hoặc bội nhiễm vi khuẩn)",
+     "n": "Chưa chứng minh: sốt 38,2 °C dưới 39 °C, ran lan tỏa hai bên không khu trú dai dẳng (NICE NG9 2021 mục 1.1.6). Nhưng thở 66 l/p kèm rút lõm lồng ngực dưới ở bé 7 tháng đạt tiêu chí viêm phổi của WHO 2013 Bảng 7 và hướng điều trị giống viêm phổi (mục 4.5.1: bội nhiễm có thể xảy ra); bệnh viện đánh giá."
+    },
+    {
+     "t": "Hen / khò khè do virus",
+     "n": "Vẫn chưa nghĩ: lần đầu, bé 7 tháng, có ran nổ, không chàm, không tiền sử dị ứng (NICE NG9 2021 mục 1.1.7). Không đáp ứng salbutamol không phải bằng chứng của hen (WHO 2013 mục 4.5.1 mô tả khò khè không đáp ứng thuốc giãn phế quản là đặc trưng tiểu phế quản)."
+    },
+    {
+     "t": "Tim bẩm sinh / suy tim",
+     "n": "Không âm thổi, không ngựa phi, mạch 132 l/p dưới 160 l/p, gan 1,5 cm do ứ khí, đầu chi không tím (WHO 2013 mục 4.8). Bù dịch quá nhiều có thể làm suy tim nặng thêm: nhắc bệnh viện truyền thận trọng (WHO 2013 mục 4.8, 4.5.1)."
+    },
+    {
+     "t": "Dị vật đường thở hoặc tràn khí màng phổi",
+     "n": "Không sặc khởi phát, ran hai bên, không giảm thông khí một bên, không xấu đột ngột (QĐ 3312/2015 Dị vật đường thở mục 3.1; WHO 2013 mục 4.5.1: chụp X-quang nếu xấu đột ngột)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện (khoa nhi bệnh viện có oxy) ngay trong ngày, chuyển bằng phương tiện có thở oxy, mẹ đi cùng",
+     "v": "c",
+     "n": "SpO₂ kéo dài < 90% ở trẻ ≥ 6 tuần, bú còn dưới 50–75%, thở > 60 l/p (NICE NG9 2021 mục 1.2.2, 1.3.2); WHO 2013 mục 4.5.1: SpO₂ < 90% điều trị tại bệnh viện. Chưa có apnea, tím, rên: chưa đến mức gọi cấp cứu ngay (mục 1.2.1). Phòng khám không có CT: không cần cho quyết định này."
+    },
+    {
+     "t": "Cho thở oxy qua gọng mũi trong lúc chờ và chuyển (đích SpO₂ trên 90%)",
+     "v": "c",
+     "n": "NICE NG9 2021 mục 1.4.4: oxy khi SpO₂ kéo dài < 90% ở trẻ ≥ 6 tuần (< 92% nếu dưới 6 tuần hoặc có bệnh nền); WHO 2013 mục 4.5.1: oxy khi ≤ 90%; AAP 2014 KAS 6a: có thể không cho oxy khi trên 90%. Cùng hướng, khác ngưỡng 90% so với 92% (sổ mâu thuẫn): bé 7 tháng không bệnh nền nên 90%."
+    },
+    {
+     "t": "Hút nông mũi, nằm đầu cao, mẹ bế; chưa cho ăn nhiều thêm ở phòng khám",
+     "v": "c",
+     "n": "Hút nông khi nghẹt mũi gây khó thở hay khó bú (NICE NG9 2021 mục 1.4.7); WHO 2013 mục 4.5.1: hút nhẹ. Nằm đầu cao: không có trong tài liệu đã tải. Bù dịch NG hoặc tĩnh mạch do bệnh viện quyết (AAP 2014 KAS 9; NICE mục 1.4.11–1.4.12)."
+    },
+    {
+     "t": "Không kháng sinh khi chưa có bằng chứng bội nhiễm HOẶC tiêm liều đầu ampicillin 50 mg/kg (7,5 kg: 375 mg) và gentamicin 7,5 mg/kg rồi chuyển",
+     "v": "c",
+     "n": "Hai cách: NICE NG9 2021 mục 1.4.3, AAP 2014 KAS 8, QĐ 3312/2015 mục 5.2: không kháng sinh khi chưa nhiễm khuẩn thứ phát; WHO 2013 mục 4.5.1 (tr. 95): có dấu hiệu viêm phổi nặng (SpO₂ < 90%) thì ampicillin 50 mg/kg mỗi 6 giờ hay benzylpenicillin cùng gentamicin 7,5 mg/kg ngày một lần. Khác bối cảnh: NICE/AAP viết cho tiểu phế quản đã chẩn đoán có bệnh viện; WHO viết cho nơi khó cấy máu. Bệnh viện quyết (sổ mâu thuẫn mục NH-0532, NH-0573)."
+    },
+    {
+     "t": "Giải thích với mẹ và bà nội vì sao phải nhập viện, bé không nặng vì thiếu truyền nước; chuyển hồ sơ và tờ tóm tắt (SBAR) cho bệnh viện",
+     "v": "c",
+     "n": "Quyết định theo tiêu chí SpO₂, bú và nhịp thở (NICE NG9 2021 mục 1.3.2). Nhập viện cũng đáp ứng điều bà nội mong muốn mà không đổi cơ sở khoa học. SBAR: không có trong tài liệu đã tải cho ca này; thực hành chuyển viện."
+    },
+    {
+     "t": "Cho về nhà với đơn thuốc, hẹn tái khám 2 ngày",
+     "v": "w",
+     "n": "SpO₂ kéo dài < 90%, thở > 60 l/p, bú dưới 50–75% (NICE NG9 2021 mục 1.2.2, 1.3.2); WHO 2013 mục 4.5.1: SpO₂ < 90% điều trị ở bệnh viện."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch tại phòng khám rồi cho về",
+     "v": "w",
+     "n": "Không phải nơi bù dịch cho trẻ thiếu oxy; trẻ có thể không dung nạp dịch (NICE NG9 2021 mục 1.4.12: tĩnh mạch khi không dung nạp sonde hay sắp suy hô hấp; WHO 2013 mục 4.8, 4.5.1: bù quá nhiều làm nặng bệnh tim và tránh bù quá mức)."
+    },
+    {
+     "t": "Khí dung nước muối ưu trương 3%, corticoid, vỗ rung mạnh ở trẻ đang thiếu oxy",
+     "v": "w",
+     "n": "NICE NG9 2021 mục 1.4.1, 1.4.3; AAP 2014 KAS 4a, 5, 7. Không nguồn nào cho thấy lợi ích ở bé này."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein, atropin, cồn hoặc thuốc an thần cho bé ngủ",
+     "v": "h",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc ho chứa codein, atropin, cồn cho trẻ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tiểu phế quản cấp tiến triển nặng hơn, ngày thứ 7 của bệnh, nghi RSV",
+     "Giảm oxy máu: SpO₂ 88% khí trời, kéo dài",
+     "Suy hô hấp mức vừa: thở 66 l/p, phập phồng cánh mũi, rút lõm lồng ngực dưới; chưa ngưng thở, chưa tím",
+     "Bú kém còn khoảng 2/5, mất nước nhẹ",
+     "Chưa có bằng chứng viêm phổi, hen hay tim bẩm sinh",
+     "Yếu tố làm nặng: khói thuốc lá trong nhà; mâu thuẫn gia đình ảnh hưởng chăm sóc"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao 'không đỡ' vẫn hợp với tiểu phế quản: triệu chứng đỉnh ngày 3–5, bú kém thường sau 3–5 ngày (NICE NG9 2021 mục 1.1.2, 1.1.4); QĐ 3312/2015 mục 3.1: sau 3–5 ngày ho tăng, xuất hiện khó thở. Bé hiện ngày 7, nặng hơn lượt 1 đủ để đi qua ngưỡng nhập viện.",
+     "Quy trình khi điều trị thất bại: (1) sai chẩn đoán? Viêm phổi: không sốt ≥ 39 °C, ran không khu trú (NICE mục 1.1.6). Hen: 7 tháng, lần đầu, không dị ứng (mục 1.1.7). Tim bẩm sinh: không ngựa phi, không âm thổi, mạch < 160 l/p (WHO mục 4.8). Dị vật: không khởi phát đột ngột. (2) sai thuốc hoặc thiếu tuân thủ? Bà nội đã ngưng amoxicillin; mẹ làm đủ nước muối và hút mũi; không phải do thiếu thuốc vì bệnh không có thuốc đặc hiệu (NICE mục 1.4.3). (3) Biến chứng hoặc yếu tố làm nặng? Khói thuốc lá trong phòng bé nằm làm nặng triệu chứng (NICE mục 1.6.1; AAP KAS 12a–b). (4) Diễn tiến tự nhiên đạt đỉnh: giải thích phần lớn.",
+     "Đủ tiêu chí nhập viện: SpO₂ kéo dài 88% (< 90% ở trẻ ≥ 6 tuần), bú còn khoảng 2/5 (dưới 50–75%), thở 66 l/p (> 60 l/p, mục 1.2.2) (NICE mục 1.2.2, 1.3.2). WHO 2013 mục 4.5.1: SpO₂ < 90% điều trị tại bệnh viện. Chưa có apnea, tím, thở rên, rút lõm nặng: chưa cần cấp cứu bằng xe cấp cứu khẩn (mục 1.2.1).",
+     "Vì sao CT hay X-quang không cần: tiểu phế quản chẩn đoán lâm sàng (NICE mục 1.1.3); X-quang không thường quy (mục 1.3.7), cân nhắc khi sắp hồi sức (mục 1.3.8) hoặc xấu đột ngột (WHO 2013 mục 4.5.1). Phòng khám không có CT: không ảnh hưởng quyết định.",
+     "Mâu thuẫn gia đình: bé nặng hơn là cơ hội bà nội cho rằng 'không truyền nước nên con nặng'. Nói rõ diễn tiến là của bệnh, không do thiếu truyền nước; nhập viện vì thiếu oxy và bú kém, không vì thiếu truyền nước. Mẹ và bà cùng nhận thông tin (NICE mục 1.2.4, 1.3.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện ngay: tiêu chí SpO₂, bú, nhịp thở (NICE mục 1.2.2, 1.3.2; WHO mục 4.5.1). Trước và trong chuyển: oxy gọng mũi khi SpO₂ kéo dài < 90% (NICE mục 1.4.4; WHO mục 4.5.1); hút nông mũi khi nghẹt (NICE mục 1.4.7). Ngưỡng oxy: NICE 90% (< 92% cho dưới 6 tuần hay bệnh nền), AAP KAS 6a trên 90%, WHO ≤ 90%: bé 7 tháng không bệnh nền nên dùng 90% (sổ mâu thuẫn).",
+     "Kháng sinh: hai cách ghi như trên (NICE/AAP không; WHO mục 4.5.1 ampicillin + gentamicin khi dấu hiệu nặng). Bệnh viện quyết định sau khi đánh giá.",
+     "Bù dịch: NG trước, tĩnh mạch đẳng trương khi không dung nạp sonde hoặc sắp suy hô hấp (NICE mục 1.4.11–1.4.12; AAP KAS 9; Australasian 2025 Q20a); WHO 2013 mục 4.5.1: tránh bù dịch quá mức. Hỗ trợ nâng cao (CPAP) khi sắp suy hô hấp (NICE mục 1.4.5): thuộc bệnh viện.",
+     "Những việc sai: cho về, truyền dịch tại phòng khám rồi cho về, giữ theo dõi ở nơi không có oxy, nước muối 3%, corticoid, thuốc ho."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Qua gọng mũi",
+      "lieu": "Lưu lượng theo máy đo, đích SpO₂ trên 90%",
+      "duong": "Hít",
+      "thoi_diem": "Ngay khi SpO₂ kéo dài < 90% và trong chuyển viện",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "NICE NG9 2021 mục 1.4.4 (SpO₂ kéo dài < 90% ở trẻ ≥ 6 tuần); WHO 2013 mục 4.5.1 (≤ 90%). Lưu lượng cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "80 mg/lần (7,5 kg)",
+      "lieu": "10–15 mg/kg/lần, cách ít nhất 6 giờ",
+      "duong": "Uống nếu bé còn nuốt",
+      "thoi_diem": "Chỉ khi sốt làm bé quấy khó chịu",
+      "so_ngay": "Chỉ khi cần",
+      "ghi_chu": "WHO 2013 Phụ lục 2 và mục 10.3; NICE NG143 2021 mục 1.6.4–1.6.6. Bé thở nhanh, bú kém nên bệnh viện quyết định đường dùng."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê tại phòng khám (HOẶC ampicillin 50 mg/kg + gentamicin 7,5 mg/kg theo WHO)",
+      "lieu": "Bệnh viện quyết định",
+      "duong": "Tiêm",
+      "thoi_diem": "Sau đánh giá ở bệnh viện",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Không kháng sinh: NICE NG9 2021 mục 1.4.3, AAP 2014 KAS 8. WHO 2013 mục 4.5.1: ampicillin 50 mg/kg mỗi 6 giờ + gentamicin 7,5 mg/kg ngày một lần ít nhất 5 ngày khi dấu hiệu nặng. Xem sổ mâu thuẫn mục NH-0532."
+     }
+    ],
+    "dan_do": [
+     "Mẹ đi cùng, mang theo sổ tiêm chủng và tờ tóm tắt; giải thích cho bà nội cùng biết bệnh viện sẽ cho oxy và hỗ trợ bú hay truyền dịch khi cần.",
+     "Ngưng cho uống amoxicillin, thuốc ho (WHO 2013 mục 4.4).",
+     "Gọi cấp cứu ngay nếu trên đường có ngưng thở, tím, thở rên nặng (NICE NG9 2021 mục 1.2.1).",
+     "Khi ra viện: không hút thuốc trong nhà (NICE mục 1.6.1; WHO 2013 mục 4.5.1: trẻ ở gia đình có người hút thuốc dễ bị tiểu phế quản tái phát); ho có thể kéo dài tới 3 tuần (NICE mục 1.1.2; WHO mục 4.5.1).",
+     "Ra viện khi hết suy hô hấp, hết thiếu oxy, không ngưng thở và bú tốt (WHO 2013 mục 4.5.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé An nhập khoa nhi, thở oxy 3 ngày, được cho ăn qua sonde dạ dày hai ngày rồi bú lại, không phải thở máy; cấy và X-quang không thêm bệnh khác. Ra viện sau 5 ngày khi hết thiếu oxy và bú tốt. Mười ngày sau bé ho, khò khè lại sau một cơn cảm: tái phát. Nguyên nhân nền chưa xử lý: ông nội vẫn hút thuốc trong nhà, mẹ và bà nội vẫn bất đồng về cách chăm nên không ai theo dõi nhất quán; đợt này nhẹ, điều trị hỗ trợ tại nhà, theo dõi thêm để cân nhắc hen khi khò khè lặp lại. Mẹ và bà nội được hẹn gặp bác sĩ cùng nhau để thống nhất cách chăm.",
+ "nhieu": [
+  "Đòi truyền dịch: do áp lực của bà nội lên mẹ, không do bệnh; xử trí bằng tiêu chí cụ thể và câu nói thay thế.",
+  "Không có CT: không cần cho chẩn đoán tiểu phế quản; quyết định dựa SpO₂, nhịp thở, lượng bú.",
+  "Amoxicillin tự mua: có thể làm đánh lạc hướng sang viêm phổi.",
+  "X-quang có thể thấy đám mờ cạnh rốn phổi: dễ lẫn viêm phổi (NICE NG9 2021 mục 1.3.7)."
+ ],
+ "bai_hoc_bien": [
+  "Khởi phát âm thầm rồi nặng dần: triệu chứng đỉnh ngày 3–5, vì vậy lượt 1 phải có mốc tái khám và tờ dặn dấu hiệu nặng bằng chữ cho cả người chăm (NICE NG9 2021 mục 1.1.2, 1.6.1).",
+  "Đòi truyền dịch do mâu thuẫn gia đình: hỏi 'ở nhà mọi người có đồng ý cách chăm bé không' để thấy động cơ thật; giải thích bằng tiêu chí (bú, tã ướt, SpO₂).",
+  "Ca không đỡ: chạy quy trình thất bại điều trị (chẩn đoán lại, thuốc, tuân thủ, yếu tố nặng, diễn tiến tự nhiên) trước khi quyết định (NICE mục 1.1.6, 1.1.7, 1.6.1).",
+  "Hai ngưỡng SpO₂ của NICE: tuyến cơ sở cân nhắc chuyển khi < 92% (mục 1.2.2), nhập viện/thở oxy khi < 90% ở trẻ ≥ 6 tuần (mục 1.3.2, 1.4.4); bé 7 tháng 88% là dưới cả hai.",
+  "Tái phát: xử lý nguyên nhân nền (khói thuốc, bú mẹ, mâu thuẫn trong chăm sóc) chứ không chỉ điều trị đợt mới."
+ ],
+ "diem_nho": [
+  "Chẩn đoán lâm sàng: tiền triệu 1–3 ngày, ho dai dẳng, thở nhanh hoặc rút lõm, khò khè hoặc ran nổ (NICE NG9 2021 mục 1.1.3).",
+  "Thở nhanh trẻ 2–11 tháng: ≥ 50 l/p (WHO 2013 mục 4.1); NICE: > 60 l/p cân nhắc chuyển, > 70 l/p suy hô hấp nặng (mục 1.2.1–1.2.2).",
+  "Nhập viện: apnea, SpO₂ kéo dài < 90% (trẻ ≥ 6 tuần), bú còn 50–75% hoặc ít hơn, suy hô hấp nặng (NICE NG9 2021 mục 1.3.2; WHO 2013 mục 4.5.1).",
+  "Không thường quy: kháng sinh, salbutamol, corticoid, nước muối 3%, X-quang, xét nghiệm máu (NICE NG9 2021 mục 1.3.6–1.3.7, 1.4.3; AAP 2014 KAS 1c, 2–5, 8). Salbutamol theo QĐ 3312/2015 mục 5.2 khi co thắt: xem sổ mâu thuẫn.",
+  "Dịch: bú → NG → tĩnh mạch đẳng trương khi không dung nạp (NICE mục 1.4.11–1.4.12; AAP KAS 9); tránh bù quá mức (WHO 2013 mục 4.5.1).",
+  "Phòng tái phát: không hút thuốc trong nhà, bú mẹ (NICE mục 1.6.1; WHO 2013 mục 4.5.1; AAP KAS 12–13)."
+ ],
+ "nguon": [
+  "TL-0260 · NICE NG9 – Bronchiolitis in children (cập nhật 08/2021): mục 1.1.1–1.1.10, 1.2.1–1.2.4, 1.3.2–1.3.9, 1.4.1–1.4.12, 1.6.1",
+  "TL-0267 · AAP 2014 – Bronchiolitis (Pediatrics 2014;134:e1474): KAS 1a–1c, 2, 3, 4a–4b, 5, 6a, 7, 8, 9, 12a–b, 13",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015: Viêm tiểu phế quản cấp ở trẻ em mục 1.2, 3.1–3.3, 4, 5.1–5.2, 6; Dị vật đường thở mục 3.1",
+  "TL-0250 · WHO Pocket book of hospital care for children, ấn bản 2 (2013): mục 4.1 (tr. 76), Bảng 7 (tr. 81), 4.4, 4.5.1 (tr. 94–96), 4.8 (tr. 120–121), 10.3, Phụ lục 2 (tr. 353)",
+  "TL-0262 · NICE NG143 – Fever in under 5s (2021): mục 1.6.4–1.6.6",
+  "Australasian 2025 – Bronchiolitis guideline update (tltk-10000-ca, 03 Nhi ngoại trú/Quốc tế): Q10, Q12b, Q16a–b, Q17, Q20a",
+  "Không có trong tài liệu đã tải: mốc tái khám cụ thể sau tiểu phế quản ngoại trú (dùng mốc 3 ngày WHO Bảng 7 viêm phổi làm tham khảo); số giọt nước muối nhỏ mũi; lưu lượng oxy; tư thế đầu cao; chỉ định siêu âm tim, siêu âm phổi, giá trị CRP ngoại trú; đơn vị liều salbutamol bản chữ QĐ 3312/2015 ('150g/kg', nghi µg)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-13: bản 1. Tài liệu đã đọc: NICE NG9 2021 (TL-0260), AAP 2014 (TL-0267), QĐ 3312/2015 Viêm tiểu phế quản cấp (TL-0037), WHO Pocket book 2013 (TL-0250), NICE NG143 mục 1.6, Australasian 2025.",
+  "Mâu thuẫn áp dụng theo sổ: salbutamol/adrenalin/corticoid (NH-0521, NH-0523), kháng sinh khi thở nhanh kèm rút lõm (NH-0532), kháng sinh khi nặng (NH-0573), ngưỡng SpO₂ (NH-0521 mục 3), vỗ rung (NH-0521 mục 2).",
+  "Âm thanh tim dùng AT-TIM-NHANH-01 (khoảng 115 l/p) cho mạch 126 và 132 l/p; tần số ghi bằng chữ trong hien.",
+  "Lượt 1 thở 48 l/p (dưới 50 l/p) và không rút lõm lồng ngực dưới để không đủ tiêu chí viêm phổi WHO; lượt 2 SpO₂ 88%, thở 66 l/p, bú 2/5.",
+  "Mâu thuẫn gia đình: bà nội không có mặt, thể hiện qua lời mẹ."
+ ]
+}
