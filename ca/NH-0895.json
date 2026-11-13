@@ -1,0 +1,670 @@
+{
+ "ma_ca": "NH-0895",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_thuy_dau",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thủy đậu",
+  "chan_doan_phai_loai_tru": [
+   "Tay chân miệng",
+   "Chốc"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc động vật",
+  "thuoc_dang_dung": "Thuốc đái tháo đường đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc"
+ },
+ "benh_nhan": {
+  "ten": "Trần Khánh Vy",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.1,
+  "chieu_cao": 70,
+  "xung_ho": "Bé gái 8 tháng, chưa nói được, bám mẹ, khóc khi bị khám. Mẹ (chị Hằng) bế con và kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Mẹ 29 tuổi, công nhân may, nói nhanh, mệt, hay xin 'giùm em'. Chỉ muốn có giấy bác sĩ để nghỉ làm ở nhà chăm con, sợ bé bị nhập viện thì không ai thay và mất thưởng chuyên cần. Dịu lại khi được ghi nhận vất vả và được nói rõ giấy tờ xử lý thế nào.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi chung thì mẹ nói 'bé vẫn chơi, vẫn bú, chắc không sao'. Chỉ kể số cữ bú, số tã ướt, giờ ngủ li bì khi bác sĩ hỏi chức năng cụ thể. Không tự kể chuyện bà nội bị zona vì nghĩ không liên quan.",
+  "nguoi_nha": "Mẹ bé, chị Hằng, 29 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hằng)",
+  "ngoai_hinh": {
+   "da": "#f3cba8",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#f4c2cf",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#6aa0c7",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé gái 8 tháng nổi mụn nước ở mông, cổ 2 ngày nay; mẹ xin giấy xác nhận để nghỉ làm chăm con",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm nào (không công thức máu, CRP, nuôi cấy, PCR, lam Tzanck); do thiếu xét nghiệm nên cũng không có X-quang, CT, nội soi. Chỉ có khám lâm sàng, cân, nhiệt kế, máy đo SpO₂."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 8 tháng, 8,1 kg, mẹ bế đến vì nổi mụn đỏ, mụn nước ở mông, cổ 2 ngày nay. Mẹ nói 'chỉ vài cái, bé vẫn chơi', nhờ bác sĩ viết giấy xác nhận bé bệnh để mẹ xin nghỉ. Sinh hiệu: nhiệt 37,6 °C (nách), mạch 128 l/p, nhịp thở 38 l/p, SpO₂ 98%. Bé tỉnh, hồng hào, cười với mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Vy lúc này là quá tay: bé 8 tháng, tỉnh, cười, không sốt cao, không có dấu hiệu nguy hiểm (không bỏ bú hẳn, không li bì, không co giật; WHO 2013 Pocket book, mục 4.2.1), không thuộc nhóm nguy cơ nặng được nêu (CDC 2024, mục Who is at risk), còn thủy đậu ở trẻ khỏe ít khi cần nhập viện (QĐ 5642/2015, Thủy đậu mục 5a). Bé đang lây nên phải cách ly đến khi đóng vảy (CDC 2024, mục Patient management), nằm khoa nhi là phơi nhiễm cho trẻ chưa có miễn dịch. Mẹ mất thêm nhiều ngày công và tiền, càng sợ mất việc nên lần sau có thể giấu bệnh của con.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi 'cho chắc' là quá tay: không có tiêu chí chuyển nào (WHO 2013 Pocket book, mục 1.2, 4.2.1) và thủy đậu chẩn đoán bằng lâm sàng, không cần xét nghiệm khẳng định (QĐ 5642/2015, Thủy đậu mục 3.3). Bé phải đi xa, chờ lâu ở phòng chờ đông trẻ nhỏ trong khi đang lây, mẹ nghỉ thêm ngày làm không giấy phép, mà việc cần làm (giải thích, dặn dấu hiệu nguy hiểm, hẹn khám lại) phòng khám làm được ngay.",
+    "theo_doi": "Cho về chỉ dặn chung chung, không hẹn ngày khám lại cụ thể là thiếu an toàn: thủy đậu ở trẻ nhỏ còn mọc nốt mới (2–4 ngày theo QĐ 5642/2015 mục 3.1, hoặc khoảng 5–7 ngày theo WHO 2025, mục Disease), và bội nhiễm vi khuẩn da là biến chứng hay gặp nhất ở trẻ em (CDC 2024, Key points). Mẹ có thói quen nói nhẹ tình trạng của con, nếu không có mốc khám lại và danh sách dấu hiệu phải quay lại thì dấu hiệu xấu có thể bị trì hoãn thêm."
+   },
+   "loi_mo": "Dạ bác sĩ, con em nổi mấy cái mụn đỏ ở mông với cổ hai bữa nay, chắc nhà em có mèo nên bị bọ chét cắn. Bé vẫn chơi, bú được, bác sĩ khám qua rồi viết giùm em tờ giấy bé bệnh để em xin nghỉ ở xưởng nhé.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "37,6 (nách)",
+    "nhip_tho": 38,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé nổi mụn đỏ, mụn nước ở mông trước, hôm nay có thêm ở cổ, ngực, hai nốt ở khóe miệng. Mỗi ngày thấy mọc thêm vài cái, bé ngứa nhẹ, hay cọ gãi. Mẹ cho là do bọ chét mèo hoặc hăm tã.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến ban"
+    },
+    {
+     "id": "sot_bu",
+     "noi_dung": "Hỏi cụ thể: tối qua bé nóng, mẹ đo 37,9 °C, cho uống paracetamol siro một lần (mẹ nhớ khoảng nửa muỗng nhỏ). Bú mẹ 5 cữ/ngày thay vì 6–7 cữ, mỗi cữ ngắn hơn, ăn bột được nửa chén, tiểu 5 tã/ngày, vẫn cười, ngủ được. Mẹ nói 'bình thường' khi chỉ hỏi chung, chỉ kể số cữ khi hỏi chức năng (bú mấy cữ, mấy tã ướt, có cười không).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, bú, tiểu: câu hỏi chức năng vì mẹ nói nhẹ"
+    },
+    {
+     "id": "dau_hieu_nguy",
+     "noi_dung": "Không co giật, không nôn tất cả, không li bì, không thở nhanh hay rút lõm ngực, không ho, không khò khè. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm (WHO 2013 Pocket book mục 4.2.1)"
+    },
+    {
+     "id": "ba_zona",
+     "noi_dung": "Bà nội (67 tuổi) trông bé ban ngày khi mẹ đi làm, bế sát ngực. Khoảng 17 ngày trước bà nổi chùm mụn nước ở ngực, lưng bên trái, rát, bà bôi thuốc nam; nay đã đóng vảy nhưng còn đau nhức. Mẹ cho là 'bà bị rộp do nóng', không nghĩ liên quan tới bé.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nguồn lây: zona của bà (ủ bệnh 10–21 ngày)",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi trong nhà hay người chăm bé có ai nổi mụn nước, bị zona, bị 'rộp' hoặc phát ban gần đây."
+    },
+    {
+     "id": "me_mien_dich",
+     "noi_dung": "Mẹ (chị Hằng, 29 tuổi) bị thủy đậu lúc 7 tuổi. Lúc mang thai và sinh không sốt, không phát ban. Bé sinh đủ tháng 38 tuần, 3,0 kg, bú mẹ kèm sữa công thức, tiêm chủng theo lịch đến 6 tháng, chưa đủ 1 tuổi nên chưa tiêm thủy đậu. Bé không đi nhà trẻ, không tiếp xúc ca tay chân miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Miễn dịch mẹ, bé không thuộc nhóm nguy cơ (CDC 2024, Who is at risk)"
+    },
+    {
+     "id": "meo",
+     "noi_dung": "Nhà nuôi 2 con mèo, ngủ cả trên giường bé. Mẹ không thấy bọ chét trên mèo hay trên bé; các nốt không xếp thành cụm 3 nốt thẳng hàng, nốt nào cũng có giọt nước trong.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố khởi phát theo mẹ (tiếp xúc động vật), không phải nguyên nhân",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bé không dùng thuốc thường xuyên. Mẹ bôi kem trị hăm có kẽm ở mông, bà lau vài nốt bằng nước lá 1 lần. Thuốc đái tháo đường của bà (metformin 500 mg, 2 lần/ngày) để trong túi bà đặt cạnh nôi, bé chưa với tới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kem trị hăm, nước lá; bà dùng thuốc đái tháo đường"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Xưởng may cho mẹ hết phép, nghỉ không giấy bị trừ thưởng chuyên cần. Mẹ cần giấy bác sĩ để nghỉ 2–3 ngày ở nhà chăm con, và sợ nếu nói bé nặng thì bác sĩ bắt nhập viện, không ai thay mẹ, nên mẹ nói nhẹ.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật sự đến khám: muốn được nghỉ việc",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi mẹ lo điều gì nhất, hỏi chuyện đi làm và ai trông bé, hoặc ghi nhận mẹ đang vất vả."
+    },
+    {
+     "id": "ban_ngua",
+     "noi_dung": "Hai nốt ở khóe miệng bé có từ hôm qua, bé vẫn mút được, không chảy dãi nhiều. Lòng bàn tay, bàn chân không có nốt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ tay chân miệng (QĐ 292/2024)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, cười, nhìn theo mẹ, trương lực tốt, hồng hào, niêm mạc ẩm, không vàng da. Cân nặng 8,1 kg. Không li bì, không rên, không tím.",
+     "k": 1,
+     "hien": "Bé tỉnh, cười, cử động tốt. Cân nặng 8,1 kg."
+    },
+    "da": {
+     "a": "Khoảng 14 tổn thương 2–5 mm, có viền đỏ, rải rác: mông 5, nếp bẹn 2, cổ 2, ngực – lưng 3, khóe miệng 2. Nhiều giai đoạn cùng vùng: dát sẩn đỏ, mụn nước trong như giọt sương, 3 nốt dịch hơi đục, 2 nốt đã đóng vảy nâu khô. Lòng bàn tay, bàn chân da bình thường. Nếp bẹn hăm đỏ nhẹ. Không vảy tiết vàng mật ong, không mủ, không đỏ lan quanh nốt, không sưng nóng. Không có dải đỏ nốt chấm đỏ theo cụm 3 nốt như vết đốt.",
+     "k": 1,
+     "hien": "Khoảng 14 tổn thương 2–5 mm có viền đỏ, rải rác ở mông, bẹn, cổ, ngực, lưng, khóe miệng; nhiều nốt ở các giai đoạn khác nhau. Lòng bàn tay, bàn chân da bình thường."
+    },
+    "hong_tai_mui": {
+     "a": "Hai mụn nước nhỏ 2 mm ở khóe miệng; niêm mạc miệng, lưỡi, vòm họng hồng, không loét. Màng nhĩ hai bên bình thường, mũi thông.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Hạch bẹn hai bên nhỏ 5 mm, di động, không đau. Cổ mềm.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 38 l/p đều, không rút lõm ngực, không rên. Rì rào phế nang êm, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 38 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_hau_mon": {
+     "a": "Quanh hậu môn và mông: vài mụn nước như mô tả, hăm đỏ nhẹ nếp bẹn, không loét, không mủ.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú đúng, bú mạnh 4–5 phút rồi nhả vú, nuốt đều, không bỏ bú vì đau miệng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Cơ sở không làm được. Không cần để quyết định: thủy đậu chẩn đoán bằng lâm sàng, bạch cầu bình thường hoặc giảm (QĐ 5642/2015, Thủy đậu mục 3.2, 3.3). Quyết định dựa vào tổng trạng, bú, tiểu, nhịp thở (WHO 2013 Pocket book, mục 1.2, 4.2.1)."
+    },
+    "crp": {
+     "n": "Cơ sở không làm được. Chưa có dấu hiệu bội nhiễm (không mủ, không đỏ lan), nên không cần (QĐ 5642/2015, Thủy đậu mục 4.3, 5b; Nhiễm trùng da mô mềm mục 3.2: xét nghiệm không bắt buộc ở thể nhẹ)."
+    },
+    "pcr_hsv": {
+     "n": "Cơ sở không làm được và không cần: PCR là xét nghiệm hữu ích nhất để xác nhận thủy đậu (CDC 2024, Testing and diagnosis) nhưng QĐ 5642/2015 (Thủy đậu mục 3.3) nêu chẩn đoán dựa lâm sàng và xét nghiệm xác nhận rất ít khi dùng."
+    },
+    "tzanck": {
+     "n": "Cơ sở không làm được và không cần (QĐ 5642/2015, Thủy đậu mục 3.3: lam Tzanck không sẵn có trong lâm sàng)."
+    },
+    "pcr_entero": {
+     "n": "Cơ sở không làm được và không cần: ban rải rác thân, cổ, mông, lòng bàn tay chân bình thường, không loét miệng lan (QĐ 292/2024, mục II.1.1, II.4.2; QĐ 5642/2015, Thủy đậu mục 3.4)."
+    },
+    "cay_dich_da": {
+     "n": "Cơ sở không làm được và không cần: nốt không mủ, không vảy tiết vàng mật ong (QĐ 4416/2023, Bệnh chốc mục 2.1; AWaRe 2022 mục 16: không cần xét nghiệm vi sinh ở ca nhẹ)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ở nhũ nhi 8 tháng, ngày 2 của ban, thể ít nốt khởi đầu ở vùng tã, chưa biến chứng, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Ban dát sẩn – mụn nước – vảy nhiều giai đoạn cùng vùng, rải rác thân, cổ, mông (QĐ 5642/2015, Thủy đậu mục 3.1, 3.3; WHO 2025, mục Disease). Trẻ nhỏ thường có ít ban hơn (QĐ 5642/2015, mục 3.1) nên bé 'không điển hình': ban khởi đầu vùng tã. Tiếp xúc: zona của bà cách 15 ngày, trong thời gian ủ bệnh 10–21 ngày; lây từ zona bằng khoảng 20% nguy cơ từ thủy đậu, WHO 2025 nêu ít hơn khoảng 5 lần (CDC 2024, How it spreads; WHO 2025, đoạn về lây truyền từ zona, trước mục Disease). Mẹ có miễn dịch, bé đủ tháng nên không thuộc nhóm nguy cơ nặng (CDC 2024, Who is at risk)."
+    },
+    {
+     "t": "Tay chân miệng",
+     "n": "Ban tập trung tay, chân, mông, có cả lòng bàn tay chân và loét miệng (QĐ 5642/2015, Thủy đậu mục 3.4; QĐ 292/2024, mục II.1.1). Bé có ban ở thân, cổ nhiều giai đoạn, lòng bàn tay chân sạch, miệng chỉ 2 nốt khóe môi, không bỏ bú."
+    },
+    {
+     "t": "Chốc",
+     "n": "Chốc là bọng nước nông hóa mủ, vảy tiết vàng mật ong, thường ở mặt và chi (QĐ 4416/2023, Bệnh chốc mục 2.1; QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.1). Ban của bé không mủ, không vảy tiết vàng, có giọt sương trong và nhiều giai đoạn."
+    },
+    {
+     "t": "Sẩn ngứa do côn trùng đốt (bọ chét mèo)",
+     "n": "Sẩn côn trùng đốt thường thành cụm, có chấm đốt ở giữa, không tiến triển thành mụn nước nhiều giai đoạn. Không thấy bọ chét; có tiếp xúc zona. Tiếp xúc mèo chỉ là yếu tố khởi phát theo mẹ."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng, mất nước, viêm phổi",
+     "n": "Không có dấu hiệu: bé tỉnh, bú 5 cữ và tiểu 5 tã, thở 38 l/p (nhanh là ≥ 50 l/p ở trẻ 2–11 tháng), SpO₂ 98%, không rút lõm (WHO 2013 Pocket book, mục 4.2.1, Bảng 7). Nhưng bú đã giảm nhẹ nên cần hẹn khám lại sớm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Thủy đậu không biến chứng: điều trị hỗ trợ tại nhà, hẹn khám lại sau 2 ngày",
+     "v": "c",
+     "n": "Ở người miễn dịch bình thường chủ yếu hỗ trợ (QĐ 5642/2015, Thủy đậu mục 4.1); người khỏe xử trí hỗ trợ, thuốc kháng virus dành cho nhóm nguy cơ cao (WHO 2025, mục Treatment and post-exposure prophylaxis). Mốc 2 ngày do người viết chọn: nốt còn mọc thêm (2–4 ngày theo QĐ 5642 mục 3.1 hoặc 5–7 ngày theo WHO 2025, mục Disease; xem sổ mâu thuẫn NH-0892) và bé đã bú giảm; mốc tái khám cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Acyclovir uống 20 mg/kg/lần mỗi 6 giờ (8,1 kg: khoảng 160 mg), 5–7 ngày",
+     "v": "a",
+     "n": "QĐ 5642/2015 (Thủy đậu mục 4.2): trẻ dưới 12 tuổi 'có thể dùng', tốt nhất trong 24 giờ đầu sau phát ban; bé đã sang ngày 2. Chấp nhận, không bắt buộc (sổ mâu thuẫn mục NH-0874). Liều tối đa mỗi lần và an toàn riêng ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol 10–15 mg/kg/lần (8,1 kg: 81–122 mg, chọn 100 mg) mỗi 4–6 giờ khi sốt làm bé khó chịu, tối đa 60 mg/kg/ngày; không dùng aspirin",
+     "v": "c",
+     "n": "Hạ nhiệt bằng paracetamol, tránh aspirin ngừa hội chứng Reye (QĐ 5642/2015, Thủy đậu mục 4.3). Liều theo QĐ 292/2024 mục 3.1 và tối đa 60 mg/kg/ngày (mục 3.2.1) theo sổ mâu thuẫn NH-0666. WHO 2013 mục 4.4: chỉ hạ sốt khi sốt ≥ 39 °C làm trẻ khó chịu."
+    },
+    {
+     "t": "Chăm sóc da: giữ khô sạch, cắt ngắn móng, mặc đồ thoáng, dung dịch sát khuẩn muối nhôm acetat tại chỗ; ngưng nước lá; không bóc nốt",
+     "v": "c",
+     "n": "QĐ 5642/2015 (Thủy đậu mục 4.3): làm ẩm, chống ngứa tại chỗ, sát khuẩn muối nhôm acetat ngừa bội nhiễm. Tác hại của nước lá: không có trong tài liệu đã tải; ngưng vì không có bằng chứng và ngừa nhiễm bẩn nốt."
+    },
+    {
+     "t": "Không kê kháng sinh uống hay thuốc mỡ kháng sinh khi chưa có bội nhiễm",
+     "v": "c",
+     "n": "Kháng sinh khi bội nhiễm da hoặc cơ quan khác (QĐ 5642/2015, Thủy đậu mục 4.3); đây không phải chốc (QĐ 4416/2023, Bệnh chốc mục 2.1). Tác hại cụ thể của kháng sinh không cần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cách ly tại nhà đến khi tất cả nốt đóng vảy; tránh tiếp xúc trẻ sơ sinh, phụ nữ có thai chưa miễn dịch, người suy giảm miễn dịch; cấp giấy xác nhận bé mắc thủy đậu cho mẹ nghỉ chăm con",
+     "v": "c",
+     "n": "Lây từ 1–2 ngày trước ban đến khi tất cả nốt đóng vảy (CDC 2024, How it spreads; QĐ 5642/2015, Thủy đậu mục 2). Chế độ nghỉ chăm con ốm của mẹ: không có trong tài liệu đã tải; giấy chỉ ghi đúng chẩn đoán và thời gian cách ly."
+    },
+    {
+     "t": "Cho bú theo nhu cầu, thêm bú; dặn trở lại ngay khi bú ít, ít tiểu, sốt cao, đỏ lan quanh nốt, mủ, thở nhanh, li bì",
+     "v": "c",
+     "n": "Tăng bú khi sốt, trở lại nếu bé nặng hơn hoặc không bú được (WHO 2013 Pocket book, mục 4.2, 4.4). Bội nhiễm da là biến chứng thường gặp nhất ở trẻ (CDC 2024, Key points), thường do tụ cầu vàng hoặc liên cầu (QĐ 5642/2015, Thủy đậu mục 5b)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện nhi ngay ở ngày 2 vì mẹ 'kể không rõ'",
+     "v": "a",
+     "n": "Không có tiêu chí chuyển (bé tỉnh, bú, tiểu, thở 38 l/p). Chấp nhận được về an toàn, không cần thiết (QĐ 5642/2015, Thủy đậu mục 5a: ít khi cần nhập viện), và làm bé phơi nhiễm lây chéo."
+    },
+    {
+     "t": "Kê kháng sinh uống hoặc mupirocin bôi 'cho yên tâm, phòng bội nhiễm'",
+     "v": "w",
+     "n": "Chưa bội nhiễm; kháng sinh chỉ khi có biến chứng bội nhiễm (QĐ 5642/2015, Thủy đậu mục 4.3). Đáp ứng nỗi lo của mẹ bằng tiêu chí quay lại cụ thể."
+    },
+    {
+     "t": "Aspirin hạ sốt",
+     "v": "h",
+     "n": "Tránh aspirin ở thủy đậu vì hội chứng Reye (QĐ 5642/2015, Thủy đậu mục 4.3; QĐ 292/2024 mục 3.2: không dùng aspirin)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu ngày 2 của ban ở nhũ nhi 8 tháng, thể ít nốt, ban khởi đầu vùng tã (không điển hình)",
+     "Nguồn lây: zona của bà nội, cách 15 ngày (trong ủ bệnh 10–21 ngày)",
+     "Chưa biến chứng, không dấu hiệu nguy hiểm; bú giảm nhẹ, cần theo dõi",
+     "Đã loại tay chân miệng, chốc, sẩn côn trùng đốt do mèo"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (diễn tiến ban, bú mấy cữ, tiểu mấy tã, ai trong nhà nổi mụn nước, miễn dịch mẹ, thuốc/nước lá) → khám (da từng vùng kể cả miệng, lòng bàn tay chân; thóp, niêm mạc, phổi, nhịp thở) → không có cận lâm sàng → chẩn đoán lâm sàng (QĐ 5642/2015, Thủy đậu mục 3.3).",
+     "Vì sao thủy đậu: ban rải rác nhiều giai đoạn trên cùng vùng, viền đỏ, có giọt sương và vảy (QĐ 5642/2015, mục 3.1). Mẹ nói nhẹ và đổ cho bọ chét mèo; bà nội bị zona 17 ngày trước, chỉ lộ khi hỏi trực tiếp (CDC 2024: lây từ zona bằng khoảng 20% nguy cơ lây từ thủy đậu; WHO 2025: ít hơn khoảng 5 lần).",
+     "Vì sao không điển hình: nhũ nhi ít ban hơn trẻ lớn (QĐ 5642/2015, mục 3.1), ban khởi đầu vùng tã nên dễ nhầm hăm, tay chân miệng (mông) và côn trùng đốt; 2 nốt khóe miệng dễ gợi tay chân miệng nhưng lòng bàn tay chân sạch.",
+     "Vì sao chưa nặng: bé tỉnh, cười, bú 5 cữ, tiểu 5 tã, thở 38 l/p < 50 l/p, SpO₂ 98% (WHO 2013 Pocket book, mục 4.2.1, Bảng 7). Mẹ có miễn dịch, bé đủ tháng nên không thuộc nhóm nguy cơ nặng (CDC 2024, Who is at risk).",
+     "Lý do thật: mẹ cần giấy nghỉ việc và sợ bé bị nhập viện, nên nói nhẹ. Dùng câu hỏi chức năng (bú mấy cữ, mấy tã ướt, có cười, có ngủ li bì) thay câu hỏi cảm giác ('bé có sao không')."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hỗ trợ, hẹn lại 2 ngày: QĐ 5642/2015 (mục 4.1, 5a); mốc 2 ngày do người viết chọn. Chuyển tuyến cho 'chắc' là không cần; cho về mà không hẹn là thiếu an toàn vì bé nhỏ, bú đã giảm và mẹ có xu hướng nói nhẹ.",
+     "Acyclovir ngày 2 là tùy chọn (QĐ 5642/2015, mục 4.2: tốt nhất trong 24 giờ đầu); không dùng cũng đúng ở trẻ khỏe (WHO 2025). Chỉ định thường quy theo CDC (trang người nguy cơ cao): không có trong tài liệu đã tải.",
+     "Hạ sốt chỉ paracetamol, liều theo QĐ 292/2024 (mục 3.1: 10–15 mg/kg mỗi 4–6 giờ; mục 3.2.1 tối đa 60 mg/kg/ngày); không aspirin (QĐ 5642/2015, mục 4.3).",
+     "Không kháng sinh khi chưa bội nhiễm (QĐ 5642/2015, mục 4.3); chăm sóc da và cách ly đến hết vảy (CDC 2024, How it spreads).",
+     "Giấy xác nhận cho mẹ: ghi chẩn đoán, cách ly đến hết vảy; mẹ cũng cần được hỏi ai thay thế trông bé vì bà đang đau sau zona. Bà cần đi khám zona (đái tháo đường là yếu tố nguy cơ nhiễm trùng da, QĐ 5642/2015, Nhiễm trùng da mô mềm mục 1); điều trị zona cho bà: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol siro hoặc gói bột cho trẻ",
+      "ham_luong": "Theo dạng sẵn có (tính theo mg)",
+      "lieu": "100 mg/lần (≈ 12 mg/kg; cho phép 81–122 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu; các lần cách nhau 4–6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 60 mg/kg/ngày (≈ 486 mg, không quá 4 lần 100 mg)",
+      "ghi_chu": "QĐ 292/2024 (mục 3.1, 3.2.1); QĐ 5642/2015 (Thủy đậu mục 4.3). Không dùng aspirin."
+     },
+     {
+      "thuoc": "Dung dịch sát khuẩn chứa muối nhôm acetat",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Thoa nhẹ lên nốt đã vỡ hoặc trợt; số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Khi nốt vỡ, trợt hoặc ngứa nhiều",
+      "so_ngay": "Đến khi nốt đóng vảy",
+      "ghi_chu": "QĐ 5642/2015 (Thủy đậu mục 4.3). Không bôi kháng sinh khi chưa bội nhiễm."
+     }
+    ],
+    "dan_do": [
+     "Hẹn khám lại sau 2 ngày (hoặc sớm hơn nếu có dấu hiệu dưới đây). Đến ngay nếu bé sốt cao khó hạ, bú ít hơn nửa thường lệ hoặc bỏ bú, tiểu ít (dưới 3–4 tã/ngày), ngủ li bì khó đánh thức, thở nhanh hoặc rút lõm ngực, đỏ lan quanh nốt, sưng nóng, đau khi chạm, chảy mủ (WHO 2013 Pocket book, mục 4.2; QĐ 5642/2015, Thủy đậu mục 5b).",
+     "Cách ly: bé ở nhà đến khi tất cả nốt đóng vảy; tránh để bé gần thai phụ chưa miễn dịch, trẻ sơ sinh, người suy giảm miễn dịch (CDC 2024; QĐ 5642/2015, mục 6.3).",
+     "Giữ móng ngắn, đeo bao tay mỏng khi ngủ, không bóc nốt; không bôi nước lá hay thuốc nam lên nốt.",
+     "Cho bú nhiều hơn khi sốt. Cho bà và người trông bé biết dấu hiệu cần quay lại.",
+     "Mẹ nhắn với xưởng: giấy xác nhận ghi thủy đậu, nghỉ cách ly. Mời bà nội đi khám zona. Cất thuốc đái tháo đường của bà ở nơi bé không với tới (cụ thể về nguy cơ với trẻ: không có trong tài liệu đã tải).",
+     "Sau khi khỏi, bé không cần tiêm vắc xin thủy đậu vì đã mắc (QĐ 5642/2015, mục 6.1: chỉ định cho trẻ chưa mắc)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Bé Vy quay lại sau 2 ngày (ngày 4 của ban), mẹ làm đúng dặn (hạ sốt, cắt móng, ngưng nước lá, ở nhà). Mẹ nói 'bé không đỡ nhưng chắc không sao', vì mai phải đi làm lại. Sinh hiệu: nhiệt 39,3 °C (nách), mạch 166 l/p, nhịp thở 52 l/p, SpO₂ 96%. Bé quấy yếu, ít cười, mắt hơi trũng.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Vy về nhà uống kháng sinh hẹn mai khám lại là sai nguy hiểm nhất: bé 8 tháng đã sốt cao, bú ít, tiểu ít và có đám đỏ sưng đau lan nhanh ở mông – đùi, đủ dấu hiệu toàn thân của nhiễm khuẩn da nặng (IDSA 2014, Figure 1), kháng sinh uống không đủ và cần tiêm tĩnh mạch khi lan nhanh (AWaRe 2022, mục 16). Đêm đó bé có thể li bì, mất nước nặng hơn, đám đỏ lan rộng hoặc nghĩ tới viêm cân hoại tử, một biến chứng hiếm nhưng gặp sau thủy đậu ở trẻ nhỏ (AWaRe 2022, mục 37, Children); mất thời gian là mất cơ hội xử trí sớm.",
+    "theo_doi": "Giữ bé lại phòng khám theo dõi vài giờ rồi tính tiếp là trì hoãn: cơ sở không có xét nghiệm, không có kháng sinh tiêm tĩnh mạch hay bù dịch, nên theo dõi không thay đổi được điều gì mà chỉ làm mất thêm thời gian trong khi bé đang lây và có dấu hiệu nhiễm khuẩn da nặng (IDSA 2014, Figure 1; QĐ 5642/2015, Nhiễm trùng da mô mềm mục 4.1, 4.2c).",
+    "nhap_vien": "Nhập viện giữ bé lại ngay tại cơ sở này không phù hợp: cơ sở không có xét nghiệm, không có điều kiện truyền dịch, kháng sinh tĩnh mạch hay hồi sức, trong khi bé cần các điều trị đó (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 4.1, 4.2c; AWaRe 2022, mục 16). Bé còn nằm cạnh trẻ khác dù đang lây (CDC 2024, mục Patient management). Đúng là phải đi bệnh viện, nhưng là chuyển lên tuyến có đủ phương tiện, có báo trước để cách ly."
+   },
+   "loi_mo": "Bác sĩ ơi, con em hai bữa nay không đỡ, nổi thêm nhiều, hơi nóng với đỏ ở mông. Chắc không sao đâu bác sĩ, bé vẫn bú. Mai em phải đi làm rồi, bác sĩ cho thêm thuốc rồi viết giùm em tờ giấy nữa nha.",
+   "sinh_hieu": {
+    "mach": 166,
+    "ha": "Không đo",
+    "nhiet": "39,3 (nách)",
+    "nhip_tho": 52,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet",
+     "mach",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai ngày nay ban mọc thêm nhiều, nhất là ngực, lưng, đùi; ngứa, bé gãi nhiều về đêm. Tối qua bé sốt lại cao, sáng nay 39,3 °C. Mẹ cho paracetamol 100 mg ba lần, mỗi lần hạ được 1–2 giờ rồi sốt lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến, sốt lại sau hạ"
+    },
+    {
+     "id": "bu_tieu",
+     "noi_dung": "Hỏi cụ thể: từ tối qua bé bú được 3 cữ, mỗi cữ 1–2 phút rồi buông khóc, không ăn bột, chỉ uống vài ngụm nước thìa. Từ sáng qua tới giờ chỉ 2 tã ướt, nước tiểu sẫm, khóc ít nước mắt. Mẹ ban đầu nói 'bé vẫn bú' chỉ vì có bú, không nói số cữ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tiểu, dấu hiệu mất nước: câu hỏi chức năng"
+    },
+    {
+     "id": "vung_do",
+     "noi_dung": "Từ hôm qua có một đám đỏ quanh vài nốt ở mông trái, sáng nay to hơn, bé khóc thét khi lau tã hay chạm vào. Mẹ nghĩ là hăm tã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bội nhiễm da tại chỗ, đau"
+    },
+    {
+     "id": "ngu_nhieu",
+     "noi_dung": "Chiều qua bé ngủ li bì 2 giờ, mẹ phải lay mới dậy, mẹ nghĩ do bé mệt. Không co giật, không nôn, không ho, không khò khè, không thở khò khè rít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm (WHO 2013 Pocket book, mục 1.2, 4.2.1)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ làm đúng dặn: cắt móng, đeo bao tay khi ngủ, ngưng nước lá, bôi dung dịch sát khuẩn muối nhôm acetat, không kháng sinh, không aspirin, không uống acyclovir. Bé vẫn gãi đêm, mông có vài vết xước. Bà nội ít bế vì còn đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ tốt: loại trừ 'không tuân thủ' trong quy trình thất bại điều trị"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Mẹ đã dùng hết giấy nghỉ lượt trước, mai nếu không đi làm thì mất việc. Mẹ giấu bớt vì sợ bé phải nhập viện thì không có ai thay, tiền viện phí cũng lo.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật sự đến khám: muốn nghỉ việc; nhiễu phủ nhận triệu chứng nặng",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi mẹ lo gì nhất, hỏi chuyện đi làm, tiền, ai trông bé, hoặc nói rõ bé cần đi viện và mẹ được hỗ trợ giấy tờ."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé quấy yếu, khóc nhỏ, ít cười, mở mắt khi gọi nhưng đáp ứng kém hơn lượt trước. Môi khô, mắt hơi trũng, véo da trở lại chậm khoảng 2 giây. Cân nặng 7,8 kg (giảm 0,3 kg). Không tím, không rên, không co giật.",
+     "k": 1,
+     "hien": "Bé quấy yếu, khóc nhỏ, ít cười, môi khô. Cân nặng 7,8 kg."
+    },
+    "da": {
+     "a": "Khoảng 70 tổn thương toàn thân, nhiều giai đoạn; nhiều nốt mới ở ngực, lưng, đùi, nhiều nốt đã đóng vảy. Vùng mông – đùi trái: đám đỏ 6 × 7 cm quanh 5 nốt mụn mủ, hai bọng nước 8 mm dịch đục, vảy tiết vàng; da nóng, sưng cứng, bé khóc thét khi chạm. Không bọng xuất huyết, không tím, không hoại tử, không lép bép khí. Hạch bẹn trái 1 cm, đau. Lòng bàn tay, bàn chân bình thường.",
+     "k": 1,
+     "hien": "Khoảng 70 tổn thương toàn thân nhiều giai đoạn. Mông – đùi trái: đám đỏ 6 × 7 cm quanh các nốt mụn mủ, hai bọng nước đục, vảy tiết vàng, da nóng, sưng cứng, bé khóc thét khi chạm."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước hơi trũng, mềm. Cổ mềm. Hạch bẹn trái 1 cm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Môi khô; vài nốt trắng nhỏ ở khóe miệng, niêm mạc hồng, họng không loét. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 166 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 166 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p đều, nông, không rút lõm ngực, không rên, không khò khè. Rì rào phế nang êm, không ran. Nhịp thở nhanh khi đang sốt 39,3 °C; không có X-quang để loại trừ viêm phổi.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay nhanh, rõ; đầu chi ấm, thời gian đổ đầy mao mạch 2 giây. Không dấu hiệu sốc.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Không co giật, không dấu màng não, khóc yếu, đáp ứng kích thích chậm.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú, bú 1–2 phút rồi nhả vú, khóc, bú yếu, nuốt không đều.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Cơ sở không làm được. Với nhiễm trùng da mô mềm nặng, bạch cầu và CRP là dấu ấn hỗ trợ (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.2) nhưng không làm được thì không được chờ: quyết định chuyển dựa trên lâm sàng (IDSA 2014, Figure 1). Tuyến trên sẽ làm."
+    },
+    "crp": {
+     "n": "Cơ sở không làm được (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.2: CRP, procalcitonin khi nặng). Không trì hoãn chuyển để chờ."
+    },
+    "cay_dich_da": {
+     "n": "Cơ sở không làm được. Cấy dịch tổn thương và cấy máu làm ở tuyến trên khi bệnh nặng (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.2)."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang. Thở 52 l/p khi sốt 39,3 °C, phổi không ran, không rút lõm: chưa đủ chẩn đoán viêm phổi nhưng chưa loại trừ; viêm phổi thủy đậu thường bắt đầu 3–5 ngày sau ban (QĐ 5642/2015, Thủy đậu mục 5b). Tuyến trên chụp nếu cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ngày 4 của ban, bội nhiễm vi khuẩn da – mô mềm (viêm mô tế bào vùng mông – đùi trái) kèm sốt cao, mất nước nhẹ, bú kém ở nhũ nhi 8 tháng: cần chuyển tuyến",
+     "ok": 1,
+     "n": "Sốt lại 39,3 °C sau khi ban đã mọc 4 ngày, đám đỏ nóng sưng cứng đau, mụn mủ, bọng nước đục, hạch bẹn đau (QĐ 5642/2015, Thủy đậu mục 5b: bội nhiễm do tụ cầu vàng hoặc liên cầu; Nhiễm trùng da mô mềm mục 3.1: viêm mô tế bào). Bội nhiễm da là biến chứng hay gặp nhất ở trẻ em (CDC 2024, Key points). Dấu hiệu toàn thân (sốt, tim nhanh, thở nhanh) = nhiễm khuẩn vừa – nặng (IDSA 2014, Figure 1). Mất nước nhẹ: kích thích, mắt trũng, véo da chậm (WHO 2013 Pocket book, mục 5.2.2, nói trong bối cảnh tiêu chảy). Người viết chọn mức này theo mục tiêu 'không đỡ' và 'chuyển tuyến kịp thời'."
+    },
+    {
+     "t": "Viêm cân hoại tử / nhiễm trùng hoại tử da",
+     "n": "Biến chứng rất hiếm ở trẻ nhưng có thể xảy ra sau thủy đậu; đau không tương xứng với tổn thương da là triệu chứng chính (AWaRe 2022, mục 37, Children; QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.1). Bé khóc thét khi chạm đám đỏ nên phải nghĩ tới. Hiện chưa có bọng xuất huyết, hoại tử, khí dưới da, đám đỏ khu trú; không chắc chắn loại trừ được ở cơ sở nên càng cần chuyển."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / sốc nhiễm khuẩn",
+     "n": "Chưa sốc: đầu chi ấm, đổ đầy mao mạch 2 giây (< 3 giây), bé còn đáp ứng (WHO 2013 Pocket book, mục 1.2). Không có cấy máu để loại trừ nhiễm khuẩn huyết (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 3.2)."
+    },
+    {
+     "t": "Viêm phổi do thủy đậu hoặc do vi khuẩn",
+     "n": "Thở 52 l/p (≥ 50 l/p ở trẻ 2–11 tháng là nhanh, WHO 2013 Pocket book, mục 4.2.1, Bảng 7) nhưng đang sốt 39,3 °C, không rút lõm, SpO₂ 96%, phổi không ran. Không có X-quang để loại trừ."
+    },
+    {
+     "t": "Biến chứng thần kinh (viêm não, viêm màng não)",
+     "n": "Thường xuất hiện khoảng 21 ngày sau ban, hiếm khi trước ban (QĐ 5642/2015, Thủy đậu mục 5b). Không co giật, không dấu màng não; thóp mềm; ngủ nhiều là do sốt, mất nước và nhiễm khuẩn."
+    },
+    {
+     "t": "Tay chân miệng; chốc",
+     "n": "Đã loại ở lượt 1: lòng bàn tay chân sạch (QĐ 292/2024, mục II.1.1). Vảy tiết vàng và mụn mủ hiện nay là bội nhiễm trên nền thủy đậu, không phải chốc nguyên phát (QĐ 4416/2023, Bệnh chốc mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay hôm nay lên bệnh viện nhi có khoa nhiễm – nhi, có người y tế đi kèm nếu có, gọi báo trước để cách ly",
+     "v": "c",
+     "n": "Nhiễm khuẩn da – mô mềm nặng có dấu hiệu toàn thân (IDSA 2014, Figure 1; AWaRe 2022, mục 16: kháng sinh tĩnh mạch khi lan nhanh), nhiễm trùng nặng cần kháng sinh, hồi sức, điều chỉnh nước điện giải (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 4.1, 4.2c). Nhiễm trùng hoại tử cần phẫu thuật sớm (QĐ 5642/2015, mục 4.2b). Bé còn lây, tuyến trên cần cách ly hô hấp và tiếp xúc đến khi nốt khô vảy (CDC 2024, Patient management). Phương tiện và đơn vị đón: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt paracetamol 10–15 mg/kg (7,8 kg: 78–117 mg, chọn 100 mg) trước khi đi, tối đa 60 mg/kg/ngày; không aspirin",
+     "v": "c",
+     "n": "QĐ 292/2024 mục 3.1, 3.2.1 (sổ mâu thuẫn NH-0666); mẹ đã cho 100 mg ba lần, chú ý tổng liều trong ngày (tối đa 468 mg) và giờ liều gần nhất; không dùng aspirin (QĐ 5642/2015, Thủy đậu mục 4.3)."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, cho uống từng thìa nhỏ trên đường đi; không để bé nhịn bú",
+     "v": "c",
+     "n": "Tiếp tục bú khi mất nước, cho từng thìa nhỏ mỗi 1–2 phút ở trẻ dưới 2 tuổi (WHO 2013 Pocket book, mục 5.2.2, nói trong bối cảnh tiêu chảy). Liều dịch bù cụ thể cho trẻ sốt không tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy chuyển tuyến và bàn giao (tình trạng, ngày ban, ngày sốt lại, thuốc đã dùng, cân nặng 7,8 kg, giờ liều paracetamol cuối); cấp giấy xác nhận cho mẹ",
+     "v": "c",
+     "n": "Chuyển tuyến có bàn giao đầy đủ: người viết thiết kế theo tiêu chí chuyển tuyến của sổ cái; mẫu SBAR: không có trong tài liệu đã tải. Chế độ nghỉ chăm con ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không chờ xét nghiệm hay kháng sinh uống thử trước khi chuyển; gọi điện báo tuyến trên",
+     "v": "c",
+     "n": "Không có xét nghiệm tại chỗ; chẩn đoán và quyết định dựa lâm sàng (IDSA 2014, Figure 1; QĐ 5642/2015, Thủy đậu mục 3.3). Chờ làm chậm điều trị kháng sinh tiêm."
+    },
+    {
+     "t": "Cho 1 liều kháng sinh trước khi chuyển nếu cơ sở có sẵn",
+     "v": "a",
+     "n": "Kháng sinh khi bội nhiễm da (QĐ 5642/2015, Thủy đậu mục 4.3). Liều và loại tiêm khởi đầu trước chuyển cho nhũ nhi: không có trong tài liệu đã tải; không được làm chậm việc chuyển."
+    },
+    {
+     "t": "Cho về uống kháng sinh (cefalexin hoặc amoxicillin–clavulanate) hẹn mai khám lại",
+     "v": "w",
+     "n": "Kháng sinh uống dành cho nhiễm khuẩn nhẹ (AWaRe 2022, mục 16: cefalexin, amoxicillin–clavulanate 5 ngày); bé có dấu hiệu toàn thân, mất nước, lan nhanh nên cần tiêm tĩnh mạch (AWaRe 2022, mục 16; IDSA 2014, Figure 1)."
+    },
+    {
+     "t": "Acyclovir uống ở ngày 4 của ban để 'trị tận gốc'",
+     "v": "w",
+     "n": "Hiệu quả tốt nhất khi bắt đầu trong 24 giờ đầu sau ban (QĐ 5642/2015, Thủy đậu mục 4.2); vấn đề của bé là bội nhiễm vi khuẩn, không phải virus; trì hoãn chuyển để chờ thuốc là sai."
+    },
+    {
+     "t": "Cho về, chỉ dặn theo dõi, ngày mai khám lại, kèm giấy nghỉ làm",
+     "v": "w",
+     "n": "Không phù hợp tiêu chí nhiễm khuẩn da vừa – nặng ở nhũ nhi (IDSA 2014, Figure 1); không đáp ứng nỗi lo của mẹ về việc làm."
+    },
+    {
+     "t": "Aspirin hạ sốt",
+     "v": "h",
+     "n": "Tránh aspirin ở thủy đậu vì hội chứng Reye (QĐ 5642/2015, Thủy đậu mục 4.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu ngày 4 của ban có bội nhiễm vi khuẩn da – mô mềm (viêm mô tế bào) vùng mông – đùi trái ở nhũ nhi 8 tháng",
+     "Sốt cao, tim nhanh, thở nhanh, mất nước nhẹ, bú kém: có dấu hiệu toàn thân; chưa sốc",
+     "Cần loại trừ viêm cân hoại tử, nhiễm khuẩn huyết, viêm phổi: không có điều kiện ở cơ sở",
+     "Kết cục lượt: chuyển tuyến kịp thời"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (sốt, số cữ bú, số tã ướt, đám đỏ, giờ li bì, thuốc đã làm) → khám (cân, mắt – môi – thóp, da từng vùng, mạch – CRT, nhịp thở, phổi) → không có xét nghiệm → chẩn đoán lâm sàng → chuyển tuyến.",
+     "Quy trình thất bại điều trị: không sai chẩn đoán (ban đúng thủy đậu), không sai thuốc, mẹ tuân thủ tốt; nguyên nhân là biến chứng bội nhiễm da, biến chứng thường gặp nhất ở trẻ (CDC 2024, Key points; QĐ 5642/2015, Thủy đậu mục 5b). Không có đề kháng thuốc vì chưa dùng thuốc nào.",
+     "Vì sao không để ý sớm: mẹ nói 'bé vẫn bú'; phải hỏi số cữ (3 cữ), tã ướt (2 tã) và li bì chiều qua. Dấu hiệu nguy hiểm theo WHO 2013 Pocket book (mục 1.2: sốt cao, đau nhiều, kích thích, li bì là dấu ưu tiên).",
+     "Vì sao nặng: sốt lại 39,3 °C, mạch 166, thở 52 và đám đỏ nóng sưng cứng, bọng nước đục, hạch đau: viêm mô tế bào có dấu hiệu toàn thân (IDSA 2014, Figure 1); bọng nước, bong da, rối loạn tuần hoàn là dấu hiệu nhiễm trùng sâu (cùng nguồn). Đau tăng khi chạm cần nghĩ viêm cân hoại tử (AWaRe 2022, mục 37).",
+     "Vì sao chưa sốc: tay chân ấm, đổ đầy mao mạch 2 giây (< 3 giây), còn đáp ứng (WHO 2013 Pocket book, mục 1.2). Vì sao chưa chẩn đoán viêm phổi: không rút lõm, SpO₂ 96%, phổi không ran dù thở 52 l/p; không có X-quang nên để tuyến trên quyết định."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay: bội nhiễm lan, dấu hiệu toàn thân, mất nước, bú kém ở nhũ nhi, cơ sở không có xét nghiệm, bù dịch hay kháng sinh tĩnh mạch (IDSA 2014, Figure 1; AWaRe 2022, mục 16; QĐ 5642/2015, Nhiễm trùng da mô mềm mục 4.1–4.2).",
+     "Trước chuyển: hạ sốt đúng liều (QĐ 292/2024), tiếp tục cho bú, viết bàn giao, gọi báo trước để cách ly, mẹ đi cùng. Không chờ xét nghiệm, không cho uống kháng sinh thử.",
+     "Kháng sinh uống (cefalexin 250 mg mỗi 12 giờ cho 6–<10 kg, hoặc amoxicillin–clavulanate 375 mg amoxicillin mỗi 12 giờ, 5 ngày; AWaRe 2022, mục 16) chỉ dành cho nhiễm khuẩn nhẹ; liều kháng sinh tĩnh mạch ở bệnh viện: không có trong tài liệu đã tải cho nhũ nhi (QĐ 5642/2015 mục 4.2a ghi liều người lớn).",
+     "Lý do thật của mẹ: cần giấy nghỉ việc và sợ không ai thay. Cấp giấy xác nhận cho nghỉ chăm con, bàn với mẹ nhờ người thân hoặc bà (đang đau ngực sau zona) đi cùng; chế độ nghỉ chăm con ốm: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol siro hoặc gói bột cho trẻ",
+      "ham_luong": "Theo dạng sẵn có (tính theo mg)",
+      "lieu": "100 mg/lần (≈ 12,8 mg/kg; cho phép 78–117 mg)",
+      "duong": "Uống",
+      "thoi_diem": "1 liều trước khi đi nếu đã quá 4 giờ kể từ liều trước; sau đó mỗi 4–6 giờ khi sốt làm bé khó chịu",
+      "so_ngay": "Đến khi bé tới bệnh viện; tối đa 60 mg/kg/ngày (≈ 468 mg, không quá 4 lần 100 mg)",
+      "ghi_chu": "QĐ 292/2024 (mục 3.1, 3.2.1). Không dùng aspirin. Kháng sinh: do tuyến trên chỉ định, không kê cho bé tại cơ sở."
+     }
+    ],
+    "dan_do": [
+     "Mẹ đưa bé đi ngay, ngồi bế bé, cho bú trên đường đi, giữ mát thoáng, không ủ; cầm theo giấy chuyển và lọ paracetamol, nói rõ bé bị thủy đậu để bệnh viện cách ly (CDC 2024, Patient management).",
+     "Nếu trên đường bé li bì khó đánh thức, co giật, tím, thở rên hoặc rút lõm: dừng và gọi cấp cứu (WHO 2013 Pocket book, mục 1.2).",
+     "Mẹ nhắn xưởng: giấy xác nhận thủy đậu có biến chứng, cần điều trị tại bệnh viện; bà nội không nên là người đi cùng vì đang đau, nên nhờ người thân thứ hai.",
+     "Sau bệnh viện: khi về nhà tiếp tục cách ly đến khi tất cả nốt đóng vảy, cắt móng, không bôi nước lá; khám lại theo hẹn của bệnh viện.",
+     "Mời bà nội đi khám zona. Cất thuốc đái tháo đường của bà ở nơi bé không với tới."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Vy được chuyển trong ngày lên khoa nhi bệnh viện tỉnh, được cách ly, điều trị kháng sinh và bù nước; không có dấu hiệu viêm cân hoại tử, nốt đóng vảy dần sau đó, vảy rụng sau 1–2 tuần để lại sẹo lõm nông (QĐ 5642/2015, Thủy đậu mục 3.1). Diễn tiến sau chuyển do người viết thiết kế, tài liệu đã tải không nêu thời gian nằm viện. Mẹ có giấy xác nhận để nghỉ chăm con, nhờ dì thay ca trông bé. Bà nội đi khám zona. Mẹ nhận ra lần sau cần nói thật bé bú mấy cữ, tã ướt mấy lần.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: mẹ nói 'bé vẫn bú, chắc không sao'; hỏi chức năng (bú mấy cữ, mấy tã ướt, có cười, có ngủ li bì) thay vì hỏi cảm giác; lượt 2 mẹ giấu bớt vì sợ nhập viện.",
+  "Không có xét nghiệm nào: quyết định thuần lâm sàng cả hai lượt; lượt 2 không chờ xét nghiệm, chuyển tuyến vì dấu hiệu toàn thân.",
+  "Tiếp xúc động vật: mẹ đổ cho bọ chét mèo; mèo chỉ là yếu tố khởi phát theo mẹ, nguồn lây thật là zona của bà nội.",
+  "Thuốc đái tháo đường đang dùng (của bà nội trông bé): đái tháo đường là yếu tố nguy cơ nhiễm trùng da (QĐ 5642/2015, Nhiễm trùng da mô mềm mục 1) và gợi ý bà bị zona; dặn cất thuốc ngoài tầm với của bé.",
+  "Muốn được nghỉ khỏi công việc: lý do thật đến khám, dùng giấy xác nhận để đáp ứng mà không bỏ sót bệnh."
+ ],
+ "bai_hoc_bien": [
+  "Thủy đậu không điển hình ở nhũ nhi: ít nốt, khởi đầu vùng tã nên dễ nhầm hăm, côn trùng đốt, tay chân miệng; nhìn nhiều giai đoạn cùng vùng và lòng bàn tay chân sạch (QĐ 5642/2015, mục 3.1, 3.4).",
+  "Hỏi nguồn lây rộng hơn 'bị thủy đậu': zona ở người lớn trong nhà cũng lây (CDC 2024: khoảng 20% nguy cơ; WHO 2025: ít hơn khoảng 5 lần); ủ bệnh 10–21 ngày.",
+  "Với nhũ nhi và người nhà nói nhẹ: dùng câu hỏi chức năng (số cữ bú, tã ướt, cười, li bì) và cân bé.",
+  "Ca không đỡ: chạy quy trình thất bại điều trị (sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng, đề kháng); ở đây là biến chứng bội nhiễm da.",
+  "Tiêu chí chuyển tuyến khi thiếu xét nghiệm: sốt lại cao, dấu hiệu toàn thân, đám đỏ lan, mất nước, bú kém ở nhũ nhi (IDSA 2014, Figure 1; AWaRe 2022, mục 16, 37); chuẩn bị trước chuyển và báo cách ly."
+ ],
+ "diem_nho": [
+  "Thủy đậu: ủ bệnh 10–21 ngày, lây từ 1–2 ngày trước ban đến khi hết vảy; chẩn đoán lâm sàng; nốt mới còn mọc 2–4 ngày (QĐ 5642/2015) hoặc khoảng 5–7 ngày (WHO 2025).",
+  "Nhũ nhi khỏe: điều trị hỗ trợ; acyclovir uống 20 mg/kg mỗi 6 giờ 'có thể dùng', tốt nhất trong 24 giờ đầu; không aspirin (QĐ 5642/2015, mục 4.1–4.3).",
+  "Biến chứng thường gặp nhất ở trẻ: bội nhiễm da do tụ cầu vàng hoặc liên cầu (CDC 2024; QĐ 5642/2015, mục 5b); viêm cân hoại tử rất hiếm nhưng gặp sau thủy đậu ở trẻ (AWaRe 2022, mục 37).",
+  "Nhiễm khuẩn da nhẹ: kháng sinh uống 5 ngày (cefalexin, amoxicillin–clavulanate; AWaRe 2022, mục 16); có dấu hiệu toàn thân hoặc lan nhanh: kháng sinh tĩnh mạch tại bệnh viện.",
+  "Thở nhanh ≥ 50 l/p ở trẻ 2–11 tháng (WHO 2013 Pocket book, mục 4.2.1); paracetamol 10–15 mg/kg mỗi 4–6 giờ, tối đa 60 mg/kg/ngày (QĐ 292/2024)."
+ ],
+ "nguon": [
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh thủy đậu (mục 1–6, tr. 21–25); Nhiễm trùng da và mô mềm (mục 1–4.2, tr. 65–68)",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella), cập nhật 15/07/2024 – TL-0255 – ĐÃ ĐỌC: Key points, Who is at risk, Incubation period, How it spreads, Clinical features, Testing and diagnosis, Patient management (Isolation)",
+  "WHO 2025 – WHO position paper on varicella vaccines, WER 47, 21/11/2025 – kho tltk-10000-ca – ĐÃ ĐỌC: đoạn lây truyền từ zona (trước mục Disease), Disease (diễn tiến ban, biến chứng), Treatment and post-exposure prophylaxis",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 16 (nhiễm khuẩn da nhẹ: impetigo, viêm quầng, viêm mô tế bào; tr. 193–199, liều trẻ em theo cân nặng) và mục 37 (viêm cân hoại tử, phần Children)",
+  "IDSA 2014 – Practice guidelines for the diagnosis and management of skin and soft tissue infections – TL-0270 – ĐÃ ĐỌC: Figure 1 (phân độ nhẹ, vừa, nặng), phần nhập viện trong viêm mô tế bào",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 1.2–1.3 (dấu hiệu cấp cứu và ưu tiên), 4.2.1 và Bảng 7 (thở nhanh, viêm phổi), 4.4, 5.2.2 (mất nước nhẹ, trong bối cảnh tiêu chảy)",
+  "QĐ 292 – Bộ Y tế, QĐ 292/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị bệnh Tay chân miệng – TL-0239 – ĐÃ ĐỌC: mục II.1.1, II.4.2, 3.1, 3.2 (paracetamol, aspirin), 3.2.1 (liều tối đa)",
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu – kho tltk-10000-ca – ĐÃ ĐỌC (theo ca NH-0892): Bệnh chốc, mục 1–2.1",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: liều/an toàn acyclovir cho nhũ nhi và chỉ định thường quy theo CDC; liều kháng sinh tĩnh mạch khởi đầu cho nhũ nhi trước chuyển; liều dịch bù cho trẻ sốt không tiêu chảy; mẫu bàn giao SBAR; chế độ nghỉ chăm con ốm của mẹ; điều trị zona cho người lớn (bà nội); nguy cơ ngộ độc thuốc đái tháo đường ở trẻ nhỏ; tác hại của nước lá bôi nốt; lịch tiêm vắc xin thủy đậu hiện hành ở Việt Nam."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-13: viết ca mới NH-0895, 2 lượt. Tài liệu đã đọc: TL-0038 (Thủy đậu mục 1–6; Nhiễm trùng da mô mềm mục 1–4.2), TL-0255 (toàn bộ), WHO 2025 vắc xin thủy đậu (Epidemiology, Disease, Treatment), TL-0018 (mục 16, 37), TL-0270 (Figure 1, phần nhập viện), TL-0250 (mục 1.2–1.3, 4.2.1, 5.2.2), TL-0239 (paracetamol, aspirin), QĐ 4416 (Bệnh chốc, theo NH-0892).",
+  "Thiết kế: nhũ nhi 8 tháng không điển hình (ít nốt, khởi đầu vùng tã), nguồn lây là zona của bà nội (hỏi mới lộ). Lượt 1 ve_hen (ngày 2 của ban), lượt 2 'không đỡ' do bội nhiễm da – mô mềm có dấu hiệu toàn thân; ket_luan chuyen_tuyen; mẹ tuân thủ tốt nên loại trừ 'không tuân thủ' và 'sai thuốc'. Các số đo, thời điểm hẹn 2 ngày do người viết chọn.",
+  "Thuốc đang dùng: metformin của bà nội, không phải của bé; tài liệu đã tải không nêu nguy cơ với trẻ nhỏ (đã ghi). Yếu tố khởi phát 'tiếp xúc động vật' là mẹ cho rằng do mèo; nguồn lây thực là zona.",
+  "Mâu thuẫn: acyclovir (ngày 2 = a, ngày 4 = w) theo mục NH-0874; thời gian mọc nốt mới (2–4 ngày hoặc 5–7 ngày) theo mục NH-0892; paracetamol theo mục NH-0666. Mâu thuẫn mới: không có (xem NH-0895_mau_thuan.md).",
+  "Ảnh da: dùng lại HA-DA-0026 (SCIN, thủy đậu giai đoạn sớm ở thân mình trẻ nhỏ) ở lượt 1; lượt 2 không có ảnh phù hợp (đám bội nhiễm quanh mông bé 8 tháng), dùng chữ.",
+  "Chỗ thiếu tài liệu đã ghi trong xu_tri và dap_an: xem mục 'CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI' trong nguon.",
+  "13/11/2026 (Opus duyệt): bỏ ảnh HA-DA-0026 vì ảnh có khoảng 30 nốt dày ở bụng, không khớp mô tả 14 nốt rải rác (ngực–lưng 3) của ca; khám da dùng chữ."
+ ]
+}
