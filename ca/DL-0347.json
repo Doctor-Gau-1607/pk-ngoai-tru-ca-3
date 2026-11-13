@@ -1,0 +1,696 @@
+{
+ "ma_ca": "DL-0347",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_trung_ca_nu_hoc_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Trứng cá",
+  "chan_doan_phai_loai_tru": [
+   "Viêm nang lông",
+   "Trứng cá đỏ"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Hà My",
+  "tuoi": 14,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 9, học khá, thích vẽ; đang ôn thi vào lớp 10, học thêm tối ba buổi mỗi tuần",
+  "can_nang": 45,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi em là 'em' (hoặc 'cháu'). Em xưng 'em' hoặc 'con', gọi 'bác sĩ'; nói với mẹ xưng 'con'.",
+  "tinh_cach": "Ít nói, lễ phép, ngại làm phiền người lớn. Ông ngoại mất đột ngột 6 tuần trước, em đứng cạnh nên sau đó hay thức khuya, ăn qua loa, cười gượng 'con không sao'.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi chung 'có đau, có mệt, có khó chịu gì không' thì em gạt đi 'dạ không ạ, con không sao'. Chỉ nói thật khi bác sĩ hỏi theo chức năng (giờ thể dục, chạy, leo cầu thang) hoặc cụ thể (đau ở đâu, lúc nào, bôi thuốc thế nào, một ngày mấy lần). Nỗi sợ nhồi máu cơ tim chỉ lộ khi bác sĩ nói riêng với em và nhắc tới ông ngoại nhẹ nhàng. Trách hay hỏi dồn dập thì em im lặng, trả lời 'dạ đúng ạ'.",
+  "nguoi_nha": "Mẹ, chị Phạm Thị Thu, 41 tuổi, nhân viên văn phòng, nói nhanh, lo con có sẹo mụn như chị hồi trẻ. Chị biết: mụn, chuyến đi, siro ho, em thức khuya, ông ngoại mới mất. Chị KHÔNG biết: em sợ nhồi máu cơ tim, em né giờ thể dục, em nặn mụn và rửa chà nhiều lần, cách em thực sự bôi thuốc (lượt 2). Chị thường trả lời phần sinh hoạt, thuốc, chuyến đi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Thu (mẹ)",
+  "ngoai_hinh": {
+   "da": "#e6c3a0",
+   "toc": "#1f1a17",
+   "kieuToc": "dai",
+   "ao": "#8fb3c9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b48f",
+    "toc": "#2a1f1a",
+    "kieuToc": "bui",
+    "ao": "#a3626b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nổi mụn ở mặt, ngực và lưng khoảng 3 tháng, nhiều hơn từ sau chuyến du lịch; mẹ đưa đi khám, em nói thêm ngực đau chỗ mụn",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Em Nguyễn Hà My, 14 tuổi, học sinh lớp 9, đi cùng mẹ (chị Phạm Thị Thu), đến khám vì nổi mụn ở mặt, ngực và lưng khoảng 3 tháng, nhiều hơn từ sau chuyến du lịch 3 tuần trước. Chưa điều trị mụn ở đâu. Đang uống siro ho long đờm mẹ mua, 3 ngày nay. Sinh hiệu: mạch 84 l/p, HA 108/68 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%. Cân nặng 45 kg, chiều cao 156 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển My lên tuyến trên (da liễu hoặc tim mạch) là quá tay: mụn chỉ ở mức nhẹ (viêm 13 < 15, không viêm 15 < 20, tổng 28 < 30 theo McCoy, QĐ 75/2015 mục 4c; không cục, nang, sẹo, QĐ 4416 mục 2.5), chưa thử thuốc bôi nào, khám tim phổi bình thường. Isotretinoin chỉ dành cho thể trung bình và nặng (QĐ 4416 mục 3.2), em chưa thuộc nhóm này. Cả nhà mất một ngày, em nghỉ học thêm, còn nỗi sợ trong lòng em vẫn chưa ai gọi tên.",
+    "nhap_vien": "Cho My nhập viện theo dõi tim vì 'tức ngực' là không cần: sinh hiệu bình thường, tim phổi bình thường, đau chỉ ở đúng chỗ sẩn viêm và tái hiện khi ấn. Nằm viện làm em tin mình mắc bệnh nặng, nghỉ học nhiều ngày, còn mụn vẫn chưa được điều trị trong khi điều trị sớm mới tránh được biến chứng (QĐ 4416 mục 3.1).",
+    "theo_doi": "Chỉ trấn an rồi cho em về, không kê thuốc bôi, là bỏ lỡ điều trị: trứng cá là bệnh viêm mạn, cần điều trị sớm để tránh biến chứng và điều trị theo mức độ (QĐ 4416 mục 3.1); em đã bị 3 tháng, tăng nhanh, hay nặn mụn nên dễ thâm và sẹo. Nỗi sợ nhồi máu cơ tim không được hỏi tới nên em tiếp tục né giờ thể dục và mất ngủ."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Mẹ bắt con đi khám mụn thôi ạ, chứ con không sao hết. Mụn nổi nhiều từ hồi đi chơi về, cả mặt, cả ngực, cả lưng.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "108/68",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 3 tháng nay nổi mụn ở trán, hai má, cằm, rồi xuống giữa ngực và lưng trên. Có chấm đen, nốt trắng nhỏ, vài cái đỏ, vài cái có đầu mủ. Mấy cái ở ngực đau khi ấn hoặc khi áo lót cọ vào. Không có cục lớn đau sâu, không chảy dịch.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, loại và vị trí tổn thương"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ lớp 7 thỉnh thoảng có vài mụn ở trán, tự hết. Từ sau chuyến đi chơi 3 tuần trước mụn nhiều hẳn lên và lan xuống ngực, lưng. Không có sẹo lõm; vài vết thâm đỏ phẳng chỗ hay nặn. Kinh đầu năm 12 tuổi, chu kỳ khoảng 28–30 ngày, đều; không rậm lông, không rụng tóc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, không cục nang sẹo, kinh đều, không dấu cường androgen"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cả nhà đi du lịch 5 ngày ở một tỉnh ven biển miền Trung (lúc đó báo đưa tin có dịch sốt xuất huyết). Trời nóng, ra nhiều mồ hôi, em bôi kem chống nắng dày, ngủ trễ, ăn uống thất thường, về nhà thì mụn nổi nhiều. Mẹ đi cùng, nhớ rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: nóng ẩm, mồ hôi, kem dày, thức khuya"
+    },
+    {
+     "id": "sot_xuat_huyet",
+     "noi_dung": "Trong chuyến đi và từ lúc về không sốt, không nhức đầu, đau cơ, đau hốc mắt, không phát ban, không chảy máu chân răng hay máu mũi. Có bị muỗi đốt vài chỗ ở chân.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: vùng dịch, nhưng không có dấu hiệu sốt xuất huyết"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan nhẹ từ khoảng 10 ngày trước (sau khi về), ho ít về đêm. Mẹ mua siro ho long đờm ở nhà thuốc, uống 3 ngày nay thấy đỡ. Không sốt, không khó thở, không ho ra máu, không đau ngực khi ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng; ho nhẹ sau nhiễm virus, không liên quan mụn"
+    },
+    {
+     "id": "cham_soc_da",
+     "noi_dung": "Em rửa mặt 4–5 lần/ngày bằng sữa rửa mặt có hạt, chà khá mạnh vì sợ 'bít lỗ chân lông'. Hay nặn mụn bằng tay, nhất là mụn ở mặt và ngực, vì ngại bạn nhìn. Chưa bôi thuốc hay kem trị mụn nào, không dùng thuốc nào khác ngoài siro ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chà xát, nặn mụn; chưa thuốc bôi; thuốc đang dùng"
+    },
+    {
+     "id": "an_ngu",
+     "noi_dung": "Uống trà sữa gần như mỗi ngày, ăn vặt nhiều, ngủ khoảng 1 giờ sáng từ khi ông mất. Không hút thuốc, không dùng thuốc tránh thai, không dùng thuốc corticoid hay vitamin liều cao.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ăn uống, giấc ngủ, thuốc làm nặng trứng cá"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hai tuần nay em xin nghỉ giờ thể dục với lý do 'đau bụng kinh', không tham gia chạy 400 m, không leo cầu thang một mạch như trước, đi bộ chậm. Thật ra em không đau bụng mà sợ chạy sẽ 'lên cơn tim'. Ở nhà vẫn đi lại, làm bài bình thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có mệt hay đau ngực không' thì em nói 'dạ không ạ, con không sao'. Chỉ nói khi bác sĩ hỏi theo chức năng: giờ thể dục ở trường, chạy, leo cầu thang, việc trước làm được mà nay né, hoặc hỏi lần thứ hai riêng với em.",
+     "k": 1,
+     "y": "Hỏi theo chức năng: né gắng sức do sợ"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Khoảng 3 tuần nay hay tức nhói ở giữa ngực, đúng chỗ có mụn, nhói hơn khi ấn hoặc khi áo lót cọ; không lan tay hay hàm, không liên quan đi bộ, không khó thở, không ngất, không đánh trống ngực khi đi học. Có vài đêm tim đập mạnh, nhanh khi nằm nghĩ về ông, vài phút rồi hết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có đau ngực không' thì em nói 'không đau đâu ạ'. Chỉ nhận khi bác sĩ hỏi vị trí cụ thể, đau khi ấn hay khi áo cọ, lúc nào xuất hiện, hoặc hỏi có lúc tim đập mạnh về đêm không.",
+     "k": 1,
+     "y": "Đau ngực tại chỗ tổn thương, không tính chất bệnh tim; hồi hộp về đêm khi lo"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ông ngoại 58 tuổi mất đột ngột 6 tuần trước vì nhồi máu cơ tim, ông ngồi uống trà thì gục xuống; em đứng ngay cạnh. Ông có tăng huyết áp, hút thuốc lá nhiều năm. Ba mẹ khỏe, chưa ai trong nhà bị bệnh tim sớm ngoài ông. Cả nhà đi du lịch sau đó cho 'đỡ buồn'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nhắc 'ông ngoại mới mất' khi được hỏi trong nhà gần đây có chuyện gì hoặc tiền sử gia đình có ai bị bệnh tim, huyết áp. Nguyên nhân mất và việc em đứng cạnh chỉ lộ khi hỏi tiếp nhẹ nhàng.",
+     "k": 1,
+     "y": "Tiền sử gia đình, sự kiện mất người thân"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Em sợ mình cũng bị nhồi máu cơ tim như ông: em tra mạng thấy 'tức ngực, tim đập nhanh là báo hiệu nhồi máu', mà em lại tức ngực. Em không dám nói với mẹ vì mẹ còn đang buồn, nên lấy cớ khám mụn để được bác sĩ nghe tim. Em muốn nhờ bác sĩ kiểm tra tim mà không biết mở lời.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ nói chuyện riêng với em (nhờ mẹ ra ngoài), hỏi 'em lo điều gì nhất', hoặc nhắc tới ông ngoại một cách nhẹ nhàng và ghi nhận nỗi buồn. Hỏi dồn dập hoặc có mặt mẹ thì em im lặng.",
+     "k": 1,
+     "y": "Động cơ ẩn: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Mặt (trán, hai má, cằm): 10 nhân mụn (6 đầu đen, 4 đầu trắng), 5 sẩn đỏ 2–4 mm, 2 mụn mủ đầu trắng vàng < 5 mm. Giữa ngực (xương ức và rãnh ngực): 3 nhân mụn, 4 sẩn đỏ, 1 mụn mủ nhỏ; một sẩn ngay trên xương ức ấn đau; vài vết đỏ thâm do nặn. Lưng trên: 2 nhân đóng, 1 sẩn viêm. Tổng: viêm 13, không viêm 15, cộng 28 tổn thương. Không cục, không nang, không sẹo lõm; vài vết thâm đỏ phẳng. Các tổn thương nhiều dạng, có nhân mụn (đầu đen, đầu trắng), không phải mụn mủ đồng dạng; không thấy sợi lông xuyên giữa mụn; không ban đỏ dai dẳng ở má, mũi, không giãn mạch, không bừng đỏ. Da nhờn vùng chữ T. Không rậm lông ở cằm, môi trên, bụng.",
+     "k": 1,
+     "hien": "Trán, hai má, cằm: nhiều chấm đen, nốt trắng nhỏ, xen vài sẩn đỏ và hai mụn mủ nhỏ. Giữa ngực và rãnh ngực: vài sẩn đỏ, một mụn mủ nhỏ, vài chấm đen; một sẩn trên xương ức ấn đau. Lưng trên: ba tổn thương nhỏ. Không thấy cục lớn, không thấy sẹo lõm; vài vết thâm đỏ phẳng. Không ban đỏ lan tỏa ở má."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng ít nói, mắt tránh nhìn khi nói về ông. BMI 18,5 kg/m². Da niêm hồng, không phù, không vàng da, không tím. Không rậm lông, giọng bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không T3, không âm thổi. Mỏm đập khoảng khoang liên sườn V đường trung đòn trái. Mạch quay đều, rõ, mạch bẹn bắt rõ hai bên.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Lồng ngực cân đối, di động đều. Rì rào phế nang rõ hai bên, không ran. Rung thanh bình thường, gõ trong.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p. Lồng ngực cân đối, di động đều hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Thành ngực: ấn dọc bờ ức và các sụn sườn I–V hai bên không đau; không sưng. Đau chỉ khi ấn đúng lên sẩn viêm giữa xương ức, hết khi bỏ tay. Hít sâu, vặn mình, dang tay không gây đau. Cột sống thẳng.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Tóc dày, không rụng thưa; da đầu không vảy. Móng bình thường.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, định hướng tốt, khí sắc hơi trầm, lo lắng khi nhắc tới ông ngoại và khi hỏi về tim. Nói chậm, mắt hoe đỏ. Không có ý nghĩ tự hại, không hoang tưởng, không ảo giác, ngủ muộn nhưng ngủ được, ăn kém hơn bình thường nhưng không sụt cân.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, trục bình thường, PR 140 ms, QRS 80 ms, QTc 410 ms, không thay đổi ST-T.",
+     "n": "Chấp nhận, không bắt buộc: đau ngực tại chỗ sẩn viêm, tái hiện khi ấn, khám tim bình thường, nên không phải đau ngực do tim; điện tim rẻ, không xâm lấn và giúp em tin kết quả khi trấn an. Hướng dẫn đau ngực ở người dưới 18 tuổi: không có trong tài liệu đã tải (AHA/ACC 2026, TL-0045, viết cho người lớn)."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Siêu âm tim bình thường: không bất thường van, EF 66%.",
+     "ab": 1,
+     "thay_the": "ecg",
+     "n": "Cơ sở không có siêu âm; không cần ở em có khám tim bình thường. Cách thay: khám tim kỹ, điện tim nếu muốn trấn an."
+    },
+    "trop": {
+     "v": "n",
+     "n": "Không cần: không đau ngực kiểu tim, khám bình thường, 14 tuổi, không yếu tố nguy cơ. Chỉ định troponin ở người dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    "ns1": {
+     "v": "n",
+     "n": "Không cần: không sốt, không nhức đầu, đau cơ, phát ban hay chảy máu từ lúc về; sốt xuất huyết khởi phát với sốt cao đột ngột liên tục (QĐ 2760/2023, TL-0029, Phần II.1.1)."
+    },
+    "androgen": {
+     "v": "n",
+     "n": "Không cần: kinh đều, không rậm lông, không rụng tóc. Chỉ cân nhắc khi có dấu cường androgen (rậm lông, kinh không đều, rụng tóc kiểu nam: AAD 2024, đoạn endocrine; QĐ 4416 mục 2.1: kinh không đều, vòng kinh > 35 hoặc < 21 ngày)."
+    },
+    "soi_nam": {
+     "v": "n",
+     "n": "Không cần: tổn thương nhiều dạng, có nhân mụn, không đồng dạng; soi nấm hoặc nghĩ viêm nang lông do Malassezia chỉ khi sẩn mụn mủ đồng dạng ở thân (AAD 2024, đoạn microbiology; QĐ 4416, Viêm nang lông mục 1.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trứng cá thông thường mức độ nhẹ (viêm 13, không viêm 15, tổng 28; không cục, nang, sẹo), ở mặt, ngực, lưng trên; yếu tố làm nặng: nóng ẩm, mồ hôi, kem chống nắng dày, chà rửa quá mức, nặn mụn, thức khuya, trà sữa",
+     "ok": 1,
+     "n": "Mụn nhiều dạng ở nơi nhiều tuyến bã (mặt, ngực, lưng trên): nhân đóng, nhân mở, sẩn viêm, mụn mủ < 5 mm (QĐ 4416 mục 2.1); chẩn đoán xác định dựa vào lâm sàng (mục 2.3). Nhẹ: một vài tổn thương mỗi vùng, không cục, không sẹo (mục 2.5); McCoy: viêm < 15, không viêm < 20, tổng < 30 (QĐ 75/2015 mục 4c). Khởi phát tuổi dậy thì (QĐ 75/2015 mục 2d: 13–19 tuổi); yếu tố làm nặng: khí hậu nóng ẩm, stress, chà xát, nặn (QĐ 75/2015 mục 2d; QĐ 4416 mục 1.3, 4). ICD-10 L70.0 (TL-0001)."
+    },
+    {
+     "t": "Đau ngực thành ngực tại chỗ sẩn viêm kèm lo sợ bệnh tim sau khi ông ngoại mất vì nhồi máu cơ tim; không có dấu hiệu bệnh tim",
+     "ok": 1,
+     "n": "Đau khu trú ở sẩn trên xương ức, tái hiện khi ấn, không đau khi hít sâu hay vận động, khám tim bình thường, sinh hiệu bình thường; hồi hộp về đêm gắn với lo lắng. Cách phân biệt đau ngực ở vị thành niên: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ho cấp nhẹ sau nhiễm virus hô hấp trên, đang giảm",
+     "ok": 1,
+     "n": "Ho khan 10 ngày, không sốt, phổi sạch, SpO₂ 99%. Viêm phế quản cấp thường do virus (50–90%) và tự khỏi (Hướng dẫn chẩn đoán và điều trị bệnh hô hấp, TL-0131, Viêm phế quản cấp mục 2.3.1, 3; nội dung cho người lớn)."
+    },
+    {
+     "t": "Viêm nang lông",
+     "n": "Sẩn nhỏ ở nang lông có vảy tiết, thường đơn dạng, không đau (QĐ 4416, Viêm nang lông mục 2.1); thuận lợi: quần áo chật, da ẩm, mồ hôi (mục 1.3). My có nhiều dạng tổn thương kèm nhân mụn, nên là trứng cá; trứng cá là chẩn đoán phân biệt của viêm nang lông (mục 2.4). Malassezia: nghĩ khi sẩn mủ đồng dạng ở thân (AAD 2024, đoạn microbiology)."
+    },
+    {
+     "t": "Trứng cá đỏ",
+     "n": "Tài liệu đã tải không có bài riêng; QĐ 4416 (Viêm da do Demodex mục 2.1) nêu biểu hiện điển hình là ban đỏ, cơn đỏ bừng thoáng qua, giãn mạch. My không có ban đỏ dai dẳng, không giãn mạch, không bừng đỏ, lại có nhân mụn và tổn thương ở ngực, lưng, tuổi 14. Tiêu chuẩn chẩn đoán trứng cá đỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sốt xuất huyết dengue (vùng dịch)",
+     "n": "Không sốt, không đau cơ, nhức hốc mắt, không xuất huyết (QĐ 2760/2023, Phần II.1.1); sau 3 tuần không có biểu hiện nào, không cần xét nghiệm."
+    },
+    {
+     "t": "Bệnh tim (nhồi máu cơ tim, viêm cơ tim, bệnh tim bẩm sinh)",
+     "n": "Không có đau ngực khi gắng sức, khó thở, ngất, hồi hộp khi vận động; khám tim bình thường, không âm thổi, mạch bẹn rõ. Nhồi máu cơ tim ở tuổi 14: tỷ lệ, tiêu chuẩn chẩn đoán ở trẻ em: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán trứng cá nhẹ, vì sao không phải viêm nang lông hay trứng cá đỏ; không nặn, không chà",
+     "v": "c",
+     "n": "QĐ 4416 (Trứng cá mục 1.1, 2.3, 2.5; Chẩn đoán phân biệt; mục 1.3: nặn, chà xát, mỹ phẩm làm nặng; QĐ 75/2015 mục 2d)."
+    },
+    {
+     "t": "Nói chuyện riêng với My, hỏi điều em lo nhất, ghi nhận nỗi buồn mất ông; giải thích đau ngực là do sẩn viêm ở ngực, tim bình thường; hẹn nhắc lại khi có dấu hiệu cảnh báo",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải: cách trấn an lo âu sức khỏe ở vị thành niên và hướng dẫn đau ngực ở người dưới 18 tuổi; dựa vào khám lâm sàng bình thường (tim, thành ngực). QĐ 4416 mục 1.1, 2.1: trứng cá ảnh hưởng tâm lý."
+    },
+    {
+     "t": "Adapalen kết hợp benzoyl peroxid (BPO) dạng chế phẩm cố định, hoặc adapalen 0,1% và BPO 2,5% bôi riêng, bôi mỏng 1 lần/ngày buổi tối lên vùng mụn; 2 tuần đầu cách ngày hoặc sau dưỡng ẩm",
+     "v": "c",
+     "n": "QĐ 4416 (Trứng cá mục 3.2, sơ đồ nhẹ: sẩn mụn mủ ± không viêm → retinoid bôi và BPO; adapalen 0,1%; bôi mỏng 1 lần/ngày buổi tối, giảm tần suất vài tuần đầu; BPO 2,5–10% 1 lần/ngày buổi tối; adapalen, BPO dùng được từ 12 tuổi). AAD 2024 (khuyến cáo 1.10, mạnh); EuroGuiDerm 2026 (Bảng 2: adapalen + BPO cố định, mạnh, thể nhẹ – vừa; ưu tiên adapalen hơn tretinoin)."
+    },
+    {
+     "t": "Dưỡng ẩm hằng ngày, kem chống nắng ban ngày (không bôi dày), rửa mặt và thân ngày 2 lần với sản phẩm dịu, ngưng sữa rửa mặt có hạt",
+     "v": "c",
+     "n": "QĐ 4416 (Trứng cá mục 3.2: bôi sau dưỡng ẩm để hạn chế kích ứng; retinoid tăng nhạy cảm ánh sáng). AAD 2024 (đoạn topical retinoids: kem chống nắng hằng ngày, kem dưỡng ẩm giảm kích ứng). Số lần rửa mặt, loại sản phẩm, chỉ số SPF: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạn chế đường và sữa quá nhiều, trà sữa; ngủ đủ, bớt căng thẳng",
+     "v": "c",
+     "n": "Chế độ ăn: QĐ 4416 (Trứng cá mục 4: tránh ăn quá nhiều đường, sữa) hoặc AAD 2024 (đoạn Diet: bằng chứng về chế độ glycemic thấp còn trái chiều; chưa đủ để khuyến cáo về sữa, chocolate); QĐ 75/2015 mục 2d nêu sô-cô-la, đường, bơ, cà phê. Stress, thức khuya: QĐ 4416 mục 4. Mâu thuẫn đã ghi trong sổ (mục mới của ca)."
+    },
+    {
+     "t": "Ho nhẹ đang giảm: không kê kháng sinh; siro long đờm đang dùng giữ nguyên cho đến khi hết ho",
+     "v": "c",
+     "n": "Không cần kháng sinh cho viêm phế quản cấp đơn thuần ở người bình thường (TL-0131, Viêm phế quản cấp mục 3; nội dung cho người lớn). Liều thuốc long đờm cho trẻ 14 tuổi: không có trong tài liệu đã tải; giữ liều theo nhãn."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để xem dung nạp thuốc, đánh giá hiệu quả sau 12 tuần; về ngay nếu sốt, đau ngực khi gắng sức, ngất, khó thở, mặt phù, mụn nước",
+     "v": "c",
+     "n": "Mốc đánh giá hiệu quả 12 tuần: AAD 2024 (các thử nghiệm so sánh tại tuần 12). Mốc 4 tuần: không có trong tài liệu đã tải (ca tự đặt để kiểm dung nạp, QĐ 4416 mục 3.2: tác dụng phụ thường gặp trong 2 tuần đầu)."
+    },
+    {
+     "t": "Kê doxycyclin uống ngay cùng thuốc bôi",
+     "v": "a",
+     "n": "Chấp nhận: doxycyclin dùng được từ 8 tuổi (QĐ 4416 mục 3.2) và kết hợp thuốc bôi (AAD 2024, 2.1, 2.6), nhưng mụn nhẹ chưa cần kháng sinh toàn thân, nên hạn chế dùng (AAD 2024, 2.5) và tối đa 3–4 tháng (QĐ 4416; AAD 2024) hoặc 3 tháng (EuroGuiDerm 2026, Bảng 3)."
+    },
+    {
+     "t": "Bắt đầu isotretinoin uống hoặc chuyển da liễu để kê isotretinoin",
+     "v": "a",
+     "n": "Chưa đủ chỉ định: isotretinoin cho trứng cá trung bình và nặng (QĐ 4416 mục 3.2), em ở mức nhẹ, chưa dùng thuốc bôi. Tuổi tối thiểu: QĐ 4416 (không dùng dưới 12 tuổi) hoặc QĐ 75/2015 mục 5b (không dùng dưới 16 tuổi; thận trọng hơn); em 14 tuổi nên cần da liễu quyết định."
+    },
+    {
+     "t": "Chỉ bôi kháng sinh (clindamycin) đơn độc",
+     "v": "w",
+     "n": "Không khuyến cáo đơn trị liệu kháng sinh bôi, nên kết hợp BPO để giảm kháng thuốc (QĐ 4416 mục 3.2, Kháng sinh bôi: lưu ý; AAD 2024, 1.4 chú thích)."
+    },
+    {
+     "t": "Kê kháng sinh uống cho ho nhẹ",
+     "v": "w",
+     "n": "Không dùng kháng sinh cho viêm phế quản cấp đơn thuần ở người bình thường (TL-0131, Viêm phế quản cấp mục 3; nội dung cho người lớn)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trứng cá thông thường (ICD-10 L70.0), mức độ nhẹ: viêm 13, không viêm 15, tổng 28; không cục, nang, sẹo; mặt, ngực, lưng trên",
+     "Yếu tố làm nặng: nóng ẩm và mồ hôi sau chuyến đi, kem chống nắng dày, rửa chà 4–5 lần/ngày bằng sữa rửa mặt có hạt, nặn mụn, thức khuya, trà sữa",
+     "Đau ngực thành ngực tại sẩn viêm, kèm lo sợ nhồi máu cơ tim sau khi ông ngoại mất; khám tim và thành ngực bình thường",
+     "Ho cấp nhẹ sau nhiễm virus, đang giảm (đang dùng siro long đờm)",
+     "Đã loại trừ: viêm nang lông, trứng cá đỏ, sốt xuất huyết dengue, bệnh tim"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: lý do khám, vị trí, loại mụn → diễn tiến và kinh nguyệt → yếu tố khởi phát (chuyến đi vùng dịch, hỏi sốt, phát ban) → chăm sóc da, nặn, thuốc đã bôi → thuốc đang dùng (siro ho) → hỏi theo chức năng (giờ thể dục) → tiền sử gia đình, chuyện trong nhà → nói riêng với em → khám da toàn bộ (mặt, ngực, lưng), tim, phổi, thành ngực, tâm thần → chẩn đoán lâm sàng (QĐ 4416 mục 2.3).",
+     "Vì sao là trứng cá: tổn thương ở vùng nhiều tuyến bã (mặt, ngực, lưng trên), có nhân đóng, nhân mở và sẩn viêm, mụn mủ < 5 mm (QĐ 4416 mục 2.1). Mức nhẹ vì mỗi vùng chỉ vài tổn thương, không cục, không sẹo (mục 2.5); McCoy viêm 13 < 15, không viêm 15 < 20, tổng 28 < 30 (QĐ 75/2015 mục 4c). Không cần xét nghiệm để chẩn đoán (QĐ 4416 mục 2.3).",
+     "Viêm nang lông: sẩn nhỏ ở nang lông, vảy tiết, thường đơn dạng, không đau (QĐ 4416, Viêm nang lông mục 2.1); My có nhiều dạng và có nhân mụn. Trứng cá đỏ: biểu hiện điển hình là ban đỏ, bừng đỏ, giãn mạch (QĐ 4416, Viêm da do Demodex mục 2.1); My không có. Tiêu chuẩn chẩn đoán trứng cá đỏ: không có trong tài liệu đã tải.",
+     "Điểm nhiễu: vùng dịch nhưng không sốt, nhức hốc mắt, phát ban, chảy máu nên không phải sốt xuất huyết (QĐ 2760/2023 Phần II.1.1); ho nhẹ 10 ngày, phổi sạch là nhiễm virus, tự khỏi (TL-0131 mục 2.3.1, 3).",
+     "Đau ngực: sẩn viêm trên xương ức ấn đau, tái hiện khi ấn, không liên quan gắng sức, tim bình thường. 'Không đau, không sao' là phủ nhận; hỏi theo chức năng (giờ thể dục, chạy 400 m, leo cầu thang) mới lộ em né gắng sức vì sợ. Nỗi sợ nhồi máu cơ tim (ông ngoại mất 6 tuần trước, em đứng cạnh) chỉ lộ khi nói riêng với em. Hướng dẫn đau ngực ở người dưới 18 tuổi: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng ve_hen: ngoại trú, thuốc bôi, tái khám sau 4 tuần; không chuyển tuyến, không nhập viện, không kháng sinh uống vì thể nhẹ chưa dùng thuốc bôi (QĐ 4416 mục 2.5, 3.2).",
+     "Thuốc: sẩn mụn mủ → retinoid bôi và BPO (QĐ 4416 mục 3.2); AAD 2024 khuyến cáo mạnh phối hợp cố định retinoid + BPO (1.10); EuroGuiDerm 2026 (Bảng 2) khuyến cáo mạnh adapalen + BPO cố định cho thể nhẹ – vừa. Ba nguồn cùng hướng. Adapalen và BPO dùng được từ 12 tuổi (QĐ 4416 mục 3.2); My 14 tuổi.",
+     "Cách dùng: bôi mỏng, 1 lần/ngày buổi tối, hai tuần đầu cách ngày hoặc sau dưỡng ẩm vì khô, kích ứng, bong da thường gặp trong 2 tuần đầu (QĐ 4416 mục 3.2); giảm tần suất và dùng chất làm ẩm giảm kích ứng (AAD 2024). BPO làm bạc màu áo, gối (QĐ 4416; AAD 2024).",
+     "Đánh giá hiệu quả sau khoảng 12 tuần (AAD 2024); sau khi ổn định 3–6 tháng chuyển sang retinoid duy trì (QĐ 4416, sơ đồ nhẹ). Tránh yếu tố làm nặng: stress, thức khuya, ăn quá nhiều đường, sữa (QĐ 4416 mục 4; AAD 2024 cho rằng bằng chứng chế độ ăn chưa đủ).",
+     "Nỗi lo tim: ECG không bắt buộc, có thể làm để trấn an; không cần troponin hay siêu âm tim (cơ sở không có siêu âm, ECG là cách thay thế). Hướng dẫn xử trí đau ngực ở vị thành niên: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Adapalen + benzoyl peroxid (BPO) dạng gel phối hợp cố định",
+      "ham_luong": "Theo chế phẩm (không có trong tài liệu đã tải)",
+      "lieu": "Bôi một lớp mỏng lên vùng mụn (mặt, ngực, lưng trên); tránh mắt, môi",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối sau rửa mặt và lau khô; 2 tuần đầu cách ngày hoặc sau dưỡng ẩm, sau đó mỗi tối",
+      "so_ngay": "Dùng liên tục; đánh giá sau 4 tuần (dung nạp) và 12 tuần (hiệu quả)",
+      "ghi_chu": "QĐ 4416 (Trứng cá mục 3.2: adapalen + BPO; bôi mỏng 1 lần/ngày buổi tối; giảm tần suất vài tuần đầu); AAD 2024 (1.10); EuroGuiDerm 2026 (Bảng 2). Hoặc thay bằng hai thuốc rời ở dưới (cùng hiệu lực)."
+     },
+     {
+      "thuoc": "Adapalen gel 0,1% (nếu dùng thuốc rời) + benzoyl peroxid gel 2,5%",
+      "ham_luong": "Adapalen 0,1%; BPO 2,5%",
+      "lieu": "Mỗi thuốc bôi mỏng 1 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối sau rửa mặt; tuần đầu cách ngày",
+      "so_ngay": "Như trên",
+      "ghi_chu": "QĐ 4416 (Trứng cá mục 3.2: adapalen 0,1%; BPO 2,5–10% ngày 1 lần buổi tối); AAD 2024: nồng độ BPO thấp, dạng rửa trôi dung nạp tốt hơn."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm dịu nhẹ",
+      "ham_luong": "Loại cụ thể không có trong tài liệu đã tải",
+      "lieu": "Thoa mặt và ngực 1–2 lần/ngày, nhất là trước hoặc sau thuốc bôi",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Trong suốt thời gian dùng thuốc bôi",
+      "ghi_chu": "QĐ 4416 (Trứng cá mục 3.2: bôi sau dưỡng ẩm để hạn chế kích ứng); AAD 2024 (chất làm ẩm giảm kích ứng retinoid)."
+     },
+     {
+      "thuoc": "Kem chống nắng",
+      "ham_luong": "Chỉ số SPF: không có trong tài liệu đã tải",
+      "lieu": "Thoa một lớp mỏng lên vùng da hở khi ra nắng",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi sáng, trước khi đi học",
+      "so_ngay": "Trong suốt thời gian dùng retinoid bôi",
+      "ghi_chu": "AAD 2024 (đoạn topical retinoids: kem chống nắng hằng ngày giảm nguy cơ cháy nắng); QĐ 4416 (retinoid tăng nhạy cảm ánh sáng)."
+     },
+     {
+      "thuoc": "Siro ho long đờm đang dùng",
+      "ham_luong": "Giữ theo nhãn đã mua",
+      "lieu": "Giữ nguyên liều theo nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Theo nhãn",
+      "so_ngay": "Đến khi hết ho, thường vài ngày",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng; viêm phế quản cấp đơn thuần không cần kháng sinh (TL-0131, mục 3, nội dung người lớn); liều cho trẻ 14 tuổi: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mụn nhẹ, chữa được bằng thuốc bôi, cần kiên nhẫn: đánh giá hiệu quả sau khoảng 12 tuần (AAD 2024), không có phép màu một tuần.",
+     "Bôi mỏng một lớp, cách ngày hai tuần đầu, không bôi thêm hay bôi nhiều lần cho nhanh; vài tuần đầu khô, đỏ, bong da là thường gặp, giảm bằng dưỡng ẩm (QĐ 4416 mục 3.2). Nếu rát nhiều, quay lại, đừng tự bỏ thuốc.",
+     "Không nặn mụn, không chà bằng hạt; rửa mặt dịu, tránh kem chống nắng dày; BPO làm bạc màu áo, gối (QĐ 4416; AAD 2024).",
+     "Đau ở ngực là do mụn viêm nên hết dần khi mụn xẹp; tim của em khám bình thường. Nếu về sau thấy đau ngực khi chạy, khó thở, ngất, tim đập nhanh kéo dài, quay lại ngay (dựa lâm sàng, không có trong tài liệu đã tải).",
+     "Tái khám sau 4 tuần, mang theo thuốc đã dùng; sốt, đau cơ, phát ban, chảy máu thì khám ngay (sốt xuất huyết, QĐ 2760/2023)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Em Hà My tái khám sau 4 tuần theo hẹn, đi cùng mẹ. Mẹ kể em than hai má và ngực đỏ rát, bong vảy mấy tuần nay; em nói 'không sao đâu ạ'. Ho đã hết, em đã thôi uống siro. Sinh hiệu: mạch 78 l/p, HA 106/66 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 45 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển My đi da liễu hoặc dị ứng vì 'dị ứng thuốc' là quá tay: ban đỏ, bong vảy khô, rát nhiều hơn ngứa, nằm gọn ở vùng đã bôi, không mụn nước, không phù, đúng kiểu kích ứng thường gặp trong vài tuần đầu dùng retinoid và BPO (QĐ 4416 mục 3.2; AAD 2024); dị ứng tiếp xúc với BPO không thường gặp (AAD 2024). Em mất thêm một buổi khám và có thể bị gắn nhãn 'dị ứng' rồi bỏ hẳn thuốc đang hiệu quả.",
+    "nhap_vien": "Nhập viện chỉ vì ngực và má đỏ rát, bong vảy là không cần: không sốt, không phù mặt, không khó thở, không nhiễm khuẩn, sinh hiệu bình thường. Nằm viện làm em lại tin mình bệnh nặng, nghỉ học dài ngày trong khi chỉ cần chỉnh cách bôi.",
+    "theo_doi": "Dặn em ngưng hết thuốc, khi nào hết rát thì tự bôi lại, không hẹn lịch: mụn viêm nổi trở lại trong vài tuần và mất mốc đánh giá 12 tuần (AAD 2024); em đã sợ thuốc nên có thể bỏ luôn. Nguyên nhân thật (bôi quá nhiều, chà nhiều lần) vẫn không được sửa nên lần bôi lại sẽ rát như cũ."
+   },
+   "loi_mo": "Dạ con chào bác sĩ. Con vẫn bôi thuốc đều ạ, không sao đâu, chỉ hơi khô thôi. Mẹ cứ lo.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "106/66",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung_moi",
+     "noi_dung": "Từ ngày thứ 4–5 sau khi bắt đầu bôi, hai má, cằm, trán sát chân tóc và giữa ngực đỏ, rát như bỏng, bong vảy mịn, hơi ngứa nhẹ. Nặng nhất ở tuần 2–3, đến nay còn rát, nhất là sau tắm và khi ra nắng. Không phù mặt, không sưng môi, mắt, không mụn nước, không rịn dịch, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng mới: đỏ, rát, bong vảy vùng bôi; không dấu hiệu dị ứng nặng"
+    },
+    {
+     "id": "vung_boi",
+     "noi_dung": "Chỗ đỏ rát đúng bằng vùng em bôi thuốc (mặt và ngực), không lan xuống cổ, tay hay lưng chỗ không bôi. Lưng trên em bôi ít nên ít đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân bố đúng vùng bôi: gợi kích ứng hơn dị ứng"
+    },
+    {
+     "id": "cach_boi",
+     "noi_dung": "Mẹ dặn bôi cách ngày 2 tuần đầu, mỗi lần mỏng. Em thấy ngày đầu êm nên từ ngày thứ 3 bôi mỗi tối, thêm buổi sáng, bôi dày gấp đôi cho 'mau hết trước kỳ thi và chụp ảnh lớp'. Từ ngày 10 em còn rửa mặt thêm bằng sữa rửa mặt có hạt vì sợ 'bít lỗ chân lông', mỗi ngày 4 lần. Em nói 'bôi đúng ạ' vì sợ mẹ la.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có bôi đúng không' thì em trả lời 'dạ đúng ạ'. Chỉ lộ khi bác sĩ hỏi chi tiết: một ngày bôi mấy lần, sáng có bôi không, mỗi lần lấy lượng thế nào, ngày nào cách ngày, rửa mặt mấy lần, bằng gì; hoặc nói riêng với em và nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Nguyên nhân kích ứng: bôi quá liều, quá tần suất, chà"
+    },
+    {
+     "id": "dau_nguc_moi",
+     "noi_dung": "Giữa ngực đỏ rát, thỉnh thoảng nhói khi mặc áo hoặc khi ấn. Em lại lo 'thuốc ngấm vào làm hại tim'; 3 ngày nay em tự thôi bôi vùng ngực nhưng vẫn bôi mặt, nên ngực có thêm vài mụn mới. Không đau ngực khi chạy, không khó thở, không hồi hộp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có đau ngực không' thì em nói 'không ạ'. Chỉ nói khi bác sĩ hỏi vị trí ở ngực, lúc nào rát, có bỏ thuốc chỗ nào không, hoặc hỏi em có lo gì về thuốc.",
+     "k": 1,
+     "y": "Rát ngực tại da, nỗi lo thuốc hại tim; tự ngừng thuốc vùng ngực"
+    },
+    {
+     "id": "cai_thien",
+     "noi_dung": "Mụn đầu đen, nốt trắng ít hơn; sẩn đỏ cũ xẹp dần; vài mụn mới ở cằm quanh kỳ kinh vừa qua và ở ngực chỗ em ngừng thuốc. Không có cục, không thêm vết thâm lớn. Vẫn nặn thỉnh thoảng nhưng ít hơn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đáp ứng điều trị: tổn thương viêm giảm"
+    },
+    {
+     "id": "chuc_nang2",
+     "noi_dung": "Em đã đi học thể dục lại bình thường từ tuần trước, chạy 400 m được, leo cầu thang bình thường. Em nói đã nói chuyện với mẹ về ông, khóc một trận rồi ngủ ngon hơn, đi ngủ khoảng 22 giờ, bớt mơ thấy ông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượt trước xử trí đúng: nỗi sợ được giải tỏa, vận động lại bình thường"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Vòng kinh vừa rồi đúng kỳ, đều. Không ngứa nhiều, không nổi mề đay, không dùng thêm thuốc hay kem nào khác ngoài thuốc bác sĩ kê và kem dưỡng ẩm, kem chống nắng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ thuốc khác, dị ứng lan tỏa"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Mặt: hai má, cằm, trán sát chân tóc ban đỏ nhẹ – vừa, khô, bong vảy mịn, ấn nhẹ nóng và rát; không phù, không mụn nước, không rịn dịch, không đóng vảy tiết vàng. Ngực: ban đỏ hơi sẫm, bong vảy mịn, ranh giới đúng vùng bôi, trong đó vài sẩn viêm mới nổi ở nơi ngừng thuốc. Lưng trên: gần như sạch, ít đỏ. Số tổn thương: viêm 7 (mặt 3, ngực 4), không viêm 9. Không cục, không nang, không sẹo lõm; vài vết thâm đỏ phẳng. Không ban lan ra cổ, tay; không phù quanh mắt, môi.",
+     "k": 1,
+     "hien": "Hai má, cằm, trán sát chân tóc đỏ, khô, bong vảy mịn. Giữa ngực đỏ sẫm, bong vảy, ranh giới đúng vùng bôi, vài sẩn nhỏ. Lưng trên gần sạch. Không mụn nước, không rịn dịch, không phù mặt, không ban ngoài vùng bôi."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p. Rì rào phế nang rõ hai bên, không ran, hết ho.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p. Lồng ngực cân đối, di động đều."
+    },
+    "co_xuong_khop": {
+     "a": "Thành ngực: ấn dọc bờ ức, sụn sườn không đau; đau rát chỉ khi chạm vào ban đỏ ở da ngực.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, khí sắc tốt hơn, cười được, nhìn thẳng khi nói. Còn lo lắng nhẹ khi nói tới thuốc ngấm vào tim; không có ý nghĩ tự hại, ngủ ăn bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_ap": {
+     "v": "n",
+     "n": "Không cần: tổn thương khô, rát hơn ngứa, đúng vùng bôi, xuất hiện sớm sau khi bôi nhiều, không mụn nước; dị ứng tiếp xúc với BPO không thường gặp (AAD 2024, đoạn benzoyl peroxide). Chỉ cân nhắc khi ban ngứa nhiều, lan ngoài vùng bôi hoặc tái phát khi đã bôi đúng cách."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "n": "Không cần: không mụn mủ đồng dạng, không rịn dịch, không vảy tiết, không sốt; không có dấu hiệu bội nhiễm."
+    },
+    "ecg": {
+     "v": "n",
+     "n": "Không cần lặp lại: rát tại da, không đau ngực kiểu tim, khám tim bình thường; thuốc bôi hấp thu toàn thân rất thấp (QĐ 4416 mục 3.2, Benzoyl peroxid: lưu ý)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da kích ứng do thuốc bôi (adapalen, benzoyl peroxid) trên nền trứng cá nhẹ đang đáp ứng, do bôi quá liều, quá tần suất và rửa chà nhiều",
+     "ok": 1,
+     "n": "Khô, kích ứng, bong da, tăng nhạy cảm ánh sáng thường gặp trong 2 tuần đầu dùng retinoid (QĐ 4416 mục 3.2; QĐ 75/2015 mục 5b); BPO gây kích ứng (QĐ 4416 mục 3.2). Kích ứng nhiều hơn ở nồng độ cao, giảm khi giảm tần suất và dùng chất làm ẩm (AAD 2024, đoạn topical retinoids, benzoyl peroxide). Ban nằm đúng vùng bôi, không mụn nước."
+    },
+    {
+     "t": "Trứng cá nhẹ đang đáp ứng (viêm 7, không viêm 9, giảm so với lượt 1: viêm 13, không viêm 15)",
+     "ok": 1,
+     "n": "Số tổn thương giảm sau 4 tuần; mốc hiệu quả đầy đủ ở tuần 12 (AAD 2024). Vài mụn mới ở ngực là nơi ngưng thuốc; không cần đổi sang thuốc khác."
+    },
+    {
+     "t": "Viêm da tiếp xúc dị ứng với BPO hoặc adapalen",
+     "n": "Dị ứng tiếp xúc với BPO không thường gặp (AAD 2024). Ngứa nhẹ, không mụn nước, không lan ngoài vùng bôi, xuất hiện sớm và cải thiện khi giảm bôi. Test áp: nếu nghi (tái phát dù bôi đúng cách); tiêu chuẩn phân biệt kích ứng và dị ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bội nhiễm da",
+     "n": "Không mủ đồng dạng, vảy tiết vàng, không sốt, không đau tăng. Không có chỉ định kháng sinh bôi hay uống."
+    },
+    {
+     "t": "Đau ngực do tim hoặc tác dụng toàn thân của thuốc bôi",
+     "n": "Rát ở da ngực, không liên quan gắng sức, tim bình thường, ECG lượt 1 bình thường; BPO hấp thu toàn thân rất thấp (QĐ 4416 mục 3.2: BPO, lưu ý thai kỳ). Hấp thu toàn thân của adapalen: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi chi tiết cách bôi và rửa mặt, phát hiện bôi quá liều và quá tần suất mà không trách em",
+     "v": "c",
+     "n": "Kích ứng giảm khi giảm tần suất, dùng chất làm ẩm (AAD 2024); thường gặp trong 2 tuần đầu (QĐ 4416 mục 3.2)."
+    },
+    {
+     "t": "Giữ thuốc, không bỏ: giảm còn adapalen + BPO mỏng 1 lần/ngày buổi tối, cách ngày cho tới khi hết rát (ngưng 2–3 ngày nếu rát nhiều), thoa dưỡng ẩm trước hoặc sau; bôi lại vùng ngực",
+     "v": "c",
+     "n": "QĐ 4416 (Trứng cá mục 3.2: bôi cách ngày hoặc sau dưỡng ẩm để hạn chế kích ứng). AAD 2024: giảm tần suất, chất làm ẩm; BPO nồng độ thấp, dạng rửa trôi dung nạp tốt hơn. Ngưng tạm 2–3 ngày: không có trong tài liệu đã tải (ca tự đặt)."
+    },
+    {
+     "t": "Ngưng sữa rửa mặt có hạt và rửa chà nhiều lần; dưỡng ẩm nhiều lần trong ngày; kem chống nắng ban ngày",
+     "v": "c",
+     "n": "AAD 2024 (đoạn topical retinoids: kem chống nắng hằng ngày; chất làm ẩm). QĐ 4416 mục 1.3: chà xát, vệ sinh không hợp lý làm trứng cá nặng thêm. Số lần rửa mặt, loại sản phẩm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích rát ngực là do kích ứng da; thuốc bôi hấp thu toàn thân rất thấp, không làm hại tim; không tự ngừng thuốc một vùng",
+     "v": "c",
+     "n": "QĐ 4416 mục 3.2 (BPO: tỷ lệ hấp thu toàn thân rất thấp; adapalen: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Hẹn tái khám 4 tuần nữa để đủ mốc 12 tuần; về ngay nếu phù mặt, mụn nước, rịn dịch, khó thở",
+     "v": "c",
+     "n": "Mốc 12 tuần: AAD 2024. Dấu hiệu cảnh báo dị ứng: dựa lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng hẳn adapalen + BPO, đổi sang doxycyclin uống vì 'thuốc bôi không hợp'",
+     "v": "a",
+     "n": "Không cần: tổn thương đáp ứng, kích ứng sửa được bằng giảm tần suất (AAD 2024); kháng sinh uống nên hạn chế (AAD 2024, 2.5) và dùng kèm thuốc bôi (AAD 2024, 2.6; QĐ 4416 mục 3.2). Chấm a vì doxycyclin chấp nhận được ở ≥ 8 tuổi (QĐ 4416)."
+    },
+    {
+     "t": "Bôi corticoid mạnh lên vùng đỏ để hết rát nhanh",
+     "v": "w",
+     "n": "Corticoid là thuốc làm tăng trứng cá, gây trứng cá ở mặt, lưng (QĐ 75/2015, Trứng cá mục 2d, 3c); thuốc bôi corticoid lâu ngày là yếu tố thuận lợi viêm nang lông (QĐ 4416, Viêm nang lông mục 1.3)."
+    },
+    {
+     "t": "Đòi test áp hoặc IgE tìm dị ứng thuốc ngay",
+     "v": "a",
+     "n": "Không cần ở lần này: nghĩ nhiều kích ứng; dị ứng BPO không thường gặp (AAD 2024). Test áp làm sau nếu tái phát dù bôi đúng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da kích ứng do adapalen, BPO bôi trên da khô sau 4 tuần, nặng nhất tuần 2–3, đúng vùng bôi, không dấu hiệu dị ứng hay bội nhiễm",
+     "Nguyên nhân: tự tăng liều và tần suất (2 lần/ngày, bôi dày), rửa mặt nhiều lần bằng sản phẩm có hạt",
+     "Trứng cá nhẹ đang đáp ứng (viêm 13 → 7, không viêm 15 → 9), không cục, không sẹo",
+     "Rát ngực tại da kèm lo thuốc hại tim, tự ngừng thuốc vùng ngực; tim phổi bình thường",
+     "Đã loại trừ: viêm da tiếp xúc dị ứng, bội nhiễm da, bệnh tim"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi triệu chứng mới (bắt đầu, vị trí, mức độ, ngứa hay rát, nước, phù) → hỏi chi tiết cách bôi, rửa mặt (vì 'dạ đúng ạ' chỉ là phủ nhận) → lượng, tần suất → vùng ngực (rát, có tự bỏ thuốc không) → nỗi lo thuốc → khám da toàn bộ, tim, tâm thần → chẩn đoán → điều chỉnh cách bôi.",
+     "Kích ứng thường gặp trong 2 tuần đầu (khô, kích ứng, bong da, tăng nhạy cảm ánh sáng; QĐ 4416 mục 3.2) và tăng ở nồng độ cao, giảm khi giảm tần suất và dùng chất làm ẩm (AAD 2024). Dị ứng tiếp xúc với BPO không thường gặp (AAD 2024); My ngứa nhẹ, đúng vùng bôi, không mụn nước nên nghiêng về kích ứng.",
+     "Triệu chứng mới sau thuốc vừa kê dễ bị kết luận 'dị ứng' hay 'thuốc không hợp' để đổi thuốc; việc cần làm trước là hỏi cách bôi thực sự (nguyên nhân dễ sửa).",
+     "Rát ngực làm nỗi sợ tim quay lại: ghi nhận, giải thích hấp thu toàn thân của BPO rất thấp (QĐ 4416 mục 3.2); hấp thu toàn thân của adapalen: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng ve_hen: tiếp tục điều trị ngoại trú, điều chỉnh cách bôi, tái khám đủ mốc 12 tuần (AAD 2024); không chuyển tuyến, không nhập viện; kháng sinh uống chỉ kèm thuốc bôi, tối đa 3–4 tháng (QĐ 4416; AAD 2024) hoặc 3 tháng (EuroGuiDerm 2026, Bảng 3), ở mức nhẹ chưa cần.",
+     "Cách điều chỉnh: giảm tần suất, bôi sau dưỡng ẩm (QĐ 4416 mục 3.2; AAD 2024); ngừng chà hạt; tiếp tục chống nắng ban ngày (AAD 2024).",
+     "Tránh corticoid bôi: làm tăng trứng cá (QĐ 75/2015 mục 2d, 3c).",
+     "Sau khi ổn định ít nhất 3–6 tháng chuyển sang retinoid bôi duy trì (QĐ 4416, sơ đồ nhẹ)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Adapalen + BPO (giữ chế phẩm lượt 1)",
+      "ham_luong": "Như lượt 1",
+      "lieu": "Một lớp mỏng, 1 lần/ngày, cách ngày cho tới khi hết rát, sau đó mỗi tối; ngực bôi lại như mặt",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối, sau dưỡng ẩm; không bôi sáng",
+      "so_ngay": "Tiếp tục tới tái khám tuần 12, sau đó duy trì retinoid",
+      "ghi_chu": "QĐ 4416 (Trứng cá mục 3.2: bôi cách ngày hoặc sau dưỡng ẩm); AAD 2024 (giảm tần suất, chất làm ẩm). Ngưng tạm 2–3 ngày nếu rát nhiều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm dịu nhẹ",
+      "ham_luong": "Loại cụ thể không có trong tài liệu đã tải",
+      "lieu": "Thoa dày hơn lượt 1, 2–3 lần/ngày, mặt và ngực",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sáng, trưa, tối và sau tắm",
+      "so_ngay": "Suốt thời gian dùng thuốc bôi",
+      "ghi_chu": "AAD 2024 (chất làm ẩm giảm kích ứng retinoid, BPO); QĐ 4416 mục 3.2."
+     },
+     {
+      "thuoc": "Kem chống nắng",
+      "ham_luong": "Chỉ số SPF: không có trong tài liệu đã tải",
+      "lieu": "Một lớp mỏng khi ra nắng",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi sáng trước khi đi học",
+      "so_ngay": "Suốt thời gian dùng retinoid bôi",
+      "ghi_chu": "AAD 2024 (đoạn topical retinoids); QĐ 4416 mục 3.2 (nhạy cảm ánh sáng)."
+     }
+    ],
+    "dan_do": [
+     "Chỗ rát là kích ứng do bôi nhiều và rửa nhiều chứ không phải dị ứng nặng hay bệnh tim; chỉ cần bôi mỏng, cách ngày, dưỡng ẩm là hết (QĐ 4416 mục 3.2; AAD 2024).",
+     "Một lớp mỏng, một lần/ngày vào buổi tối; không bôi dày, không bôi thêm buổi sáng; không tự ngừng thuốc một vùng.",
+     "Không dùng sữa rửa mặt có hạt, không chà; rửa mặt dịu; dưỡng ẩm nhiều lần; chống nắng ban ngày.",
+     "Về ngay nếu phù mặt, môi, mắt, mụn nước, rịn dịch, khó thở.",
+     "Hẹn tái khám 4 tuần nữa (tuần 12) để đánh giá hiệu quả (AAD 2024)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau lượt 1 em hết sợ phần nào, đi thể dục lại. Lượt 2 em bôi theo cách mới: đỏ rát hết sau khoảng 10 ngày, rồi bôi mỗi tối. Tuần 12 tổn thương viêm giảm còn khoảng 2–3 sẩn, nhân mụn ít, vết thâm mờ dần, không sẹo; em đã nói chuyện với mẹ về ông và cùng đi viếng mộ. Thời gian sạch mụn rõ khoảng 4–5 tháng (số liệu minh họa của ca, thời gian sạch hẳn: không có trong tài liệu đã tải), sau đó chuyển retinoid bôi duy trì (QĐ 4416, sơ đồ nhẹ: sau khi ổn định 3–6 tháng). Bất thường là tuần 12 gần như không giảm, có cục, nang, sẹo, hoặc em buồn kéo dài.",
+ "nhieu": [
+  "Lý do thật là sợ nhồi máu cơ tim: em lấy cớ khám mụn để được nghe tim, không dám nói vì mẹ còn buồn; chỉ lộ khi nói riêng và nhắc tới ông ngoại.",
+  "Phủ nhận triệu chứng nặng: 'không đau, không sao'; phải hỏi theo chức năng (giờ thể dục, chạy 400 m, leo cầu thang) mới biết em né gắng sức.",
+  "Vùng dịch và ho: du lịch tỉnh có dịch sốt xuất huyết, ho nhẹ đang uống siro long đờm; dễ chạy xét nghiệm sốt xuất huyết hay kê kháng sinh trong khi không sốt, phổi sạch.",
+  "Đau ngực thật nhưng là đau thành ngực tại sẩn viêm: dễ bỏ qua tâm lý lo sợ, hoặc ngược lại gọi cấp cứu, chụp phim; cơ sở không có siêu âm.",
+  "Lượt 2: đỏ rát là triệu chứng mới, dễ kết luận 'dị ứng thuốc' rồi đổi thuốc; em nói 'bôi đúng ạ', chỉ khi hỏi chi tiết mới lộ bôi quá nhiều, rửa chà nhiều lần."
+ ],
+ "bai_hoc_bien": [
+  "Trứng cá ở thiếu niên nhẹ: nhiều vùng (mặt, ngực, lưng) nhưng mỗi vùng chỉ vài tổn thương, không cục, không sẹo vẫn là nhẹ (QĐ 4416 mục 2.5; McCoy, QĐ 75/2015 mục 4c); chẩn đoán xác định bằng lâm sàng, không cần xét nghiệm (QĐ 4416 mục 2.3).",
+  "Hỏi theo chức năng thay vì hỏi cảm giác: ở học sinh phủ nhận 'không sao', câu hỏi về giờ thể dục, chạy, leo cầu thang mới lộ triệu chứng ẩn và nỗi sợ (kỹ năng hỏi, không phải nội dung nguồn).",
+  "Động cơ ẩn của trẻ vị thành niên: nói riêng với em, nhắc người mất nhẹ nhàng; đau ngực tại sẩn viêm tái hiện khi ấn khác với đau ngực do tim. Cách tiếp cận đau ngực ở người dưới 18 tuổi: không có trong tài liệu đã tải.",
+  "Nhiễu vùng dịch và ho: hỏi sốt, đau cơ, phát ban, chảy máu (QĐ 2760/2023, Phần II.1.1); không sốt, phổi sạch thì không cần xét nghiệm sốt xuất huyết hay kháng sinh (TL-0131, Viêm phế quản cấp mục 3).",
+  "Triệu chứng mới sau thuốc vừa kê thường là kích ứng và lỗi cách dùng: hỏi cách bôi thực tế, giảm tần suất, dưỡng ẩm trước khi đổi thuốc (QĐ 4416 mục 3.2; AAD 2024); dị ứng BPO không thường gặp (AAD 2024).",
+  "Chế độ ăn: QĐ 4416 khuyên tránh quá nhiều đường, sữa; AAD 2024 cho rằng bằng chứng chưa đủ hoặc trái chiều. Ghi cả hai, không áp đặt."
+ ],
+ "diem_nho": [
+  "Trứng cá: viêm mạn đơn vị tuyến bã – nang lông; 4 cơ chế; vị trí mặt, ngực, lưng (QĐ 4416 mục 1.1, 1.3).",
+  "Nhẹ: nhân đóng, sẩn viêm, sẩn mủ < 5 mm, rải rác, không cục, không sẹo (QĐ 4416 mục 2.5); McCoy: viêm < 15, không viêm < 20, tổng < 30 (QĐ 75/2015 mục 4c).",
+  "Thể nhẹ có sẩn mủ: retinoid bôi + BPO (QĐ 4416 mục 3.2); adapalen + BPO cố định, mạnh (AAD 2024, 1.10; EuroGuiDerm 2026, Bảng 2); adapalen, BPO từ 12 tuổi (QĐ 4416).",
+  "Kích ứng thuốc bôi: thường trong 2 tuần đầu; giảm tần suất, dưỡng ẩm, không bỏ thuốc (QĐ 4416 mục 3.2; AAD 2024)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Trứng cá mục 1.1, 1.3, 2.1–2.3, 2.5, Chẩn đoán phân biệt, 3.1, 3.2 (sơ đồ nhẹ, retinoid, kháng sinh bôi, BPO, kháng sinh toàn thân, isotretinoin), 4; Viêm nang lông mục 1.3, 2.1, 2.4; Viêm da do Demodex mục 2.1.",
+  "Bộ Y tế – QĐ 75/QĐ-BYT 2015 (kho cũ) – Trứng cá mục 2d, 3c, 4c, 5b.",
+  "AAD 2024, Guidelines of care for the management of acne vulgaris (TL-0415) – Bảng III khuyến cáo 1.1–1.10, 2.1, 2.5, 2.6; đoạn microbiology, endocrine, topical retinoids, benzoyl peroxide, Diet.",
+  "EuroGuiDerm 2026, Treatment of acne – short version (TL-0406; J Eur Acad Dermatol Venereol 2026;40:1162–1172) – Bảng 2, 3, 5.",
+  "Bộ Y tế – QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue (TL-0029) – Phần II.1.1.",
+  "Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh hô hấp 2012 (TL-0131) – Viêm phế quản cấp mục 2.3.1, 3.",
+  "AHA/ACC 2026, Chest pain guideline (TL-0045) – người lớn, chỉ để đối chiếu.",
+  "Phụ lục ICD-10, Thông tư 2026 (TL-0001) – L70.0."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-13): ca nhẹ ở học sinh nữ 14 tuổi, trọng tâm là động cơ ẩn (sợ nhồi máu cơ tim), phủ nhận triệu chứng, nhiễu vùng dịch và ho. Thuốc đầu tay adapalen + BPO (QĐ 4416, AAD 2024, EuroGuiDerm 2026 cùng hướng). Lượt 2: kích ứng do tự tăng liều; không đổi thuốc.",
+  "Ảnh da: không dùng ảnh. Đã xem trước 4 ảnh SCIN nhãn Acne (mã HA-DA-0309..0312, vùng ngực/lưng): cả 4 lộ mặt, tai, râu hoặc má nên loại, không đưa lên web; còn lại ứng viên cùng ca SCIN bệnh nhân nam hoặc cũng lộ mặt. Khám da dùng chữ.",
+  "Thiếu tài liệu: cách tiếp cận đau ngực và lo âu sức khỏe ở người dưới 18 tuổi; tiêu chuẩn trứng cá đỏ; nồng độ chế phẩm adapalen + BPO cố định; số lần rửa mặt, loại sản phẩm, SPF; hấp thu toàn thân của adapalen; mốc tái khám thuốc bôi; liều thuốc long đờm cho trẻ 14 tuổi. Đã ghi 'không có trong tài liệu đã tải'.",
+  "Khóa cơ sở: khoa_cls nhóm sieu_am (siêu âm tim có thay_the ecg).",
+  "Mâu thuẫn mới: nhap/DL-0347_mau_thuan.md (chế độ ăn trong trứng cá). Các mục cũ dùng lại: isotretinoin (liều, tuổi tối thiểu), thời gian kháng sinh toàn thân."
+ ]
+}
