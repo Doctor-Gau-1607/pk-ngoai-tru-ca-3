@@ -1,0 +1,872 @@
+{
+ "ma_ca": "TQ-0076",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TQ_hbsag_duong_phat_hien_qua_kham_rat_cao_tuoi_thuoc_nho_mui_kho_tien",
+ "so_cai": {
+  "chuyen_khoa": "Tư vấn kết quả khám tổng quát",
+  "chan_doan_dich": "HBsAg dương tính phát hiện qua khám",
+  "chan_doan_phai_loai_tru": [
+   "VGB mạn hoạt động",
+   "Người lành mang virus"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Sáu",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa trong chợ phường (ngồi quầy từ 4 giờ sáng đến chiều)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bà xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ' hoặc 'cô/cậu' tùy tuổi; gọi con gái là 'con Hồng'.",
+  "tinh_cach": "Nhanh nhẹn, tính toán từng đồng, nói nhanh, hay cười; học hết lớp 5. Cẩn thận giữ phiếu hẹn (bọc nilon trong túi áo). Nghĩ 'già rồi, bệnh nào cũng tới lúc' nên dễ bỏ qua tái khám nếu không thấy lợi rõ.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: hôm nay bà mang theo khoảng 250 nghìn (tiền dành nhập hàng ngày mai). Không nói 'hết tiền' mà hỏi giá từng xét nghiệm và 'cái này có đổi cách chữa không bác sĩ?'; đồng ý ngay khi nghe rõ xét nghiệm đổi quyết định, từ chối khi nghe 'để cho chắc'. Lời mở đầu chỉ nói tới phiếu hẹn; chuyện nhỏ mũi chỉ nói khi bác sĩ hỏi riêng từng thuốc, kể cả thuốc nhà thuốc; chuyện chân sưng chỉ nói khi được hỏi có gì khác không. Hỏi chung 'có dùng thuốc gì không' thì đáp 'không, tôi có uống thuốc gì đâu'.",
+  "nguoi_nha": "Con gái út, chị Hồng, 49 tuổi, bán chung hàng, đưa mẹ đi ở lượt 3. Nói chắc nịch, lo cho mẹ, sẵn sàng cho tiền xét nghiệm từ lượt 2; hay hỏi 'ở chung có lây không bác sĩ' (nguoi_noi = nguoi_nha ở lượt 3).",
+  "ten_nguoi_nha": "Chị Hồng (con gái út)",
+  "ngoai_hinh": {
+   "da": "#c19a73",
+   "toc": "#c9c5c0",
+   "kieuToc": "bui",
+   "ao": "#7b5a6b",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#cda37d",
+    "toc": "#4a423d",
+    "kieuToc": "dai",
+    "ao": "#5d7a6e",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Cầm phiếu hẹn của trạm y tế sau đợt khám sức khỏe người cao tuổi (HBsAg dương tính), đến tái khám theo hẹn; chân hơi sưng sau chuyến xe về quê",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (kéo theo không có FibroScan, CT bụng, nội soi tiêu hóa tại chỗ; siêu âm bụng làm ở bệnh viện huyện). Có sinh hóa, công thức máu, test nhanh tại giường (kết quả trong buổi khám); HBV DNA và huyết thanh HBV gửi ngoài, sau khoảng 3 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · sáng thứ Hai (tái khám theo hẹn)",
+   "tiep_don": "Sáng thứ Hai, 9 giờ 30, phòng khám đông vừa. Bà Lê Thị Sáu, 78 tuổi, bán tạp hóa trong chợ, đến một mình, tay giữ tờ phiếu hẹn bọc nilon. Ba tuần trước, trong đợt khám sức khỏe người cao tuổi do phường tổ chức, trạm y tế thử nhanh HBsAg dương tính và hẹn 'hai tuần nữa lên phòng khám bác sĩ nội xem kết quả'; bà lùi một tuần vì đi giỗ ở quê. Cân nặng 46 kg, cao 150 cm. Sinh hiệu: mạch 78 l/p, HA 142/84 mmHg, nhiệt độ 36,6 °C, nhịp thở 18 l/p, SpO₂ 97%. Lưu ý cơ sở: phòng khám không có máy siêu âm (kéo theo không có FibroScan, CT bụng, nội soi); sinh hóa và công thức máu có kết quả trong buổi khám; HBV DNA gửi ngoài, sau khoảng 3 ngày.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện hôm nay để 'làm cho hết các xét nghiệm gan' là quá tay: bà tỉnh, không vàng da, không báng, ăn ngon, chưa có dấu bệnh gan tiến triển (QĐ 1740/2026 mục 4.1.2a); tiêu chí nhập viện cho nhiễm HBV mạn ổn định không có trong tài liệu đã tải. Bà mất mấy ngày bán hàng và tiền giường, 'xin về' giữa chừng và từ nay ngại quay lại mọi cuộc hẹn gan.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến tỉnh ngay để 'đo tải lượng và siêu âm' khiến bà phải đi xe khách cả buổi chỉ để có thứ phòng khám này vẫn gửi làm được sau khoảng 3 ngày (HBV DNA gửi ngoài); siêu âm bụng có thể làm ở bệnh viện huyện khi đã rõ kế hoạch. Chi phí vượt xa 250 nghìn bà mang theo, chân sưng thêm vì ngồi xe nữa, và bà dễ bỏ hẳn việc theo dõi."
+   },
+   "loi_mo": "Bác sĩ coi giùm cái phiếu hẹn này. Trạm nói tôi có cái gì trong gan nên hẹn lên đây. Tôi mang có chừng này tiền thôi nghe.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "142/84",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần trước, khám sức khỏe người cao tuổi do phường tổ chức: thử nhanh HBsAg dương tính; nhân viên trạm dặn 'gan có chuyện' và hẹn lên phòng khám nội sau hai tuần, mang theo phiếu. Bà đến vì phiếu hẹn; không lo lắng nhiều ('già rồi, bệnh nào cũng tới lúc'). Bà chưa từng biết mình nhiễm viêm gan B.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mốc phát hiện HBsAg"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Trong túi có khoảng 250 nghìn đồng, tiền để nhập hàng sáng mai. Thẻ BHYT đăng ký ở trạm y tế phường; xét nghiệm ở phòng khám này bà tự trả. Bà hỏi giá từng xét nghiệm và 'cái này có đổi cách chữa không?'. Con gái út có thể cho thêm tiền vào tuần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách và ưu tiên xét nghiệm"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Phiếu của trạm: HBsAg test nhanh dương tính; HA 150/90; đường huyết mao mạch ngẫu nhiên 6,1 mmol/L; cân nặng 46 kg. Chưa có AST, ALT, công thức máu, HBV DNA, anti-HCV, anti-HIV.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã có gì, chưa có gì"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Không vàng da, vàng mắt, nước tiểu vàng trong, phân vàng, ăn được, không sụt cân (46 kg mấy năm nay), không ngứa, không chướng bụng, không chảy máu răng. Có mệt 'như người già'. Rượu bia không uống. Không đái tháo đường. Không truyền máu, không xăm, không tiêm chích; chồng mất 12 năm trước vì tai biến.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng gan; yếu tố nguy cơ"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ mất lúc 80 tuổi vì già yếu; không ai trong họ hàng bị xơ gan hay ung thư gan. Bà có 4 con, 5 cháu, con út ở cùng; chưa ai trong nhà xét nghiệm viêm gan B; không ai biết có tiêm vắc xin hay chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình ung thư gan, xơ gan; người tiếp xúc"
+    },
+    {
+     "id": "chan",
+     "noi_dung": "Năm ngày trước bà đi xe khách khoảng 9 giờ về quê giỗ, ngồi gập chân suốt. Chiều hôm sau hai cổ chân sưng, mỏi, đau thắt lưng; sáng ngủ dậy bớt, chiều lại hơi sưng. Không đau một bắp chân, không khó thở khi nằm, không đau ngực, không tiểu ít. Bà không kể trừ khi được hỏi có gì khác không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát phù sau ngồi lâu; không dấu huyết khối, suy tim"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà nhỏ mũi xylometazolin 0,1% (lọ mua ở nhà thuốc đầu chợ) mỗi tối 2–3 giọt mỗi bên suốt bốn năm nay vì 'ngạt mũi không ngủ được'; hết một lọ trong khoảng ba tuần; bà không coi là thuốc. Mấy hôm nay thêm nước lá hạ châu hàng xóm cho. Không dùng thuốc khác, chưa dùng thuốc huyết áp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi riêng thuốc nhỏ mũi, thuốc nhà thuốc bán hoặc thảo dược, hoặc xin xem vỏ thuốc; hỏi chung 'có dùng thuốc gì không' thì bà đáp không",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi kéo dài, thảo dược"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, hơi gầy (BMI 20,4). Da, củng mạc không vàng. Không sao mạch, không ban đỏ lòng bàn tay, không vú to nam hóa. Không hạch cổ. Cân nặng 46 kg.",
+     "k": 1,
+     "hien": "Tỉnh, hơi gầy; da, củng mạc không vàng."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan không sờ dưới bờ sườn, gõ đục gan 8 cm đường trung đòn phải, không đau. Lách không sờ thấy. Không báng (gõ không đục vùng thấp), không tuần hoàn bàng hệ.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng, không báng."
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ (độ 1) hai cổ chân, đối xứng, không lên quá mắt cá; bắp chân hai bên mềm, chu vi bằng nhau, không đau khi bóp, không nóng đỏ. Giãn tĩnh mạch nông nhẹ cẳng chân. Mạch mu chân bắt rõ.",
+     "k": 1,
+     "hien": "Phù nhẹ hai cổ chân, đối xứng; bắp chân mềm."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi. Tĩnh mạch cổ không nổi khi ngồi 45 độ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, phổi thông khí đều hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, phổi sạch."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, bóng, cuốn dưới phù nề, ít dịch trong; vách ngăn lệch nhẹ. Họng không đỏ, không mủ.",
+     "k": 0,
+     "hien": "Mũi nghẹt thở bằng miệng khi nằm; họng không đỏ."
+    },
+    "co_xuong_khop": {
+     "a": "Đau cơ cạnh sống thắt lưng hai bên khi ấn, không điểm đau xương, Lasègue âm tính, hai gối không sưng nóng.",
+     "k": 0,
+     "hien": "Đau cơ thắt lưng, không điểm đau xương."
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 22 · ALT 23 U/L",
+     "ab": 1,
+     "n": "ALT 23 vượt giới hạn trên nữ 19 U/L (QĐ 1740/2026 mục 4.1.2b; WHO 2024) nhưng dưới 40 (EASL 2025, APASL 2026): xem mục mâu thuẫn. AST giới hạn trên 40 theo QĐ 1740 Phụ lục 2. Cần cho APRI và quyết định chỉ định điều trị."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 126 g/L · bạch cầu 6,4 G/L · tiểu cầu 224 G/L",
+     "ab": 0,
+     "bang": {
+      "hgb": 126,
+      "wbc": 6.4,
+      "plt": 224
+     },
+     "n": "Tiểu cầu để tính APRI = (22/40) × 100/224 = 0,25: dưới 0,5, chưa có xơ hóa đáng kể (QĐ 1740/2026 mục 4.1.2b, Phụ lục 2; WHO 2024 Chapter 4). FIB-4 (công thức chỉ có ở phần thuật ngữ WHO 2024) khoảng 1,6: trên 1,3 nhưng dưới 2,0 là ngưỡng hiệu chỉnh cho ≥ 65 tuổi (APASL 2026 tr. 925): chưa chạm xơ hóa tiến triển ở cả hai cách đọc."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu: protein âm tính, hồng cầu âm tính, glucose âm tính.",
+     "ab": 0,
+     "n": "Loại hội chứng thận hư gây phù và theo dõi viêm cầu thận liên quan HBV (QĐ 1740/2026 mục 4.1.2a, 4.3.1 dặn tổng phân tích nước tiểu). 15 nghìn, đáng làm."
+    },
+    "hbv_dna": {
+     "v": "e",
+     "r": "Mẫu gửi phòng xét nghiệm ngoài, kết quả sau khoảng 3 ngày. Giá 500 nghìn: vượt ngân sách hôm nay.",
+     "n": "HBV DNA quyết định chỉ định điều trị (HBV DNA > 2.000 IU/mL kèm ALT > ULN: QĐ 1740/2026 mục 4.2.3a) và phân giai đoạn (Phụ lục 1). Thật sự cần nhưng ngân sách 250 nghìn không đủ; ALT đã nhỉnh hơn ULN nữ nên DNA là xét nghiệm tiếp theo, làm ở lượt sau khi có tiền."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "Test nhanh HBsAg, anti-HCV, anti-HIV tại giường, 100 nghìn: chưa làm hôm nay vì hết ngân sách.",
+     "n": "Tìm đồng nhiễm HCV, HIV (QĐ 1740/2026 mục 4.1.2c). Đồng nhiễm chỉ đổi quyết định điều trị khi HBV DNA trên ngưỡng phát hiện (mục 4.2.3a) nên xếp sau DNA, làm cùng lượt sau. HBsAg đã dương: không làm lại."
+    },
+    "chuc_nang_gan": {
+     "v": "n",
+     "r": "Bilirubin, ALP, GGT, albumin, PT/INR (200 nghìn): chưa cần hôm nay.",
+     "n": "APRI dưới 0,5 và khám không có dấu bệnh gan tiến triển nên chưa đổi quyết định; làm nếu APRI trên 0,5, phù không hết sau nghỉ chân hoặc có dấu xơ gan (QĐ 1740/2026 mục 4.1.2b, Phụ lục 2 Child-Pugh)."
+    },
+    "hbv_huyet_thanh": {
+     "v": "n",
+     "r": "HBeAg, anti-HBe, HBsAg định lượng, anti-HDV (600 nghìn): chưa cần hôm nay.",
+     "n": "Giúp đánh giá giai đoạn (QĐ 1740/2026 mục 4.1.2b) nhưng chưa đổi quyết định điều trị hôm nay; qHBsAg chỉ làm khi có điều kiện."
+    },
+    "afp": {
+     "v": "n",
+     "r": "AFP (120 nghìn): chưa làm hôm nay.",
+     "n": "Tầm soát ung thư gan cần siêu âm cùng AFP (TL-0169 mục 3.2); không có siêu âm tại chỗ nên gộp sau, siêu âm ở bệnh viện huyện."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Phòng khám không có máy siêu âm. Siêu âm bụng làm ở bệnh viện huyện (bà có BHYT, cách khoảng 15 km).",
+     "thay_the": "liver",
+     "n": "Siêu âm là phương tiện tầm soát ung thư gan (TL-0169 mục 3.2). Hôm nay chưa đổi quyết định; thay bằng khám gan, AST, ALT, tiểu cầu để ước lượng xơ hóa (APRI) và hẹn siêu âm ở nơi khác. Mức BHYT chi trả: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm HBV mạn (HBsAg dương ở người lớn) mới phát hiện, chưa xác định giai đoạn; phù hai cổ chân nhẹ do ngồi xe lâu; viêm mũi do thuốc co mạch (xylometazolin dùng 4 năm); tuổi 78, nhẹ cân 46 kg",
+     "ok": 1,
+     "n": "QĐ 1740/2026 mục 4.1.1: HBsAg dương ở người lớn là nhiễm HBV mạn. Giai đoạn cần HBV DNA, ALT, HBeAg (Phụ lục 1). Dùng thuốc co mạch mũi kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10). Nhẹ cân dưới 50 kg là yếu tố nguy cơ thận khi chọn thuốc kháng vi rút (QĐ 1740/2026 mục 4.2.3b)."
+    },
+    {
+     "t": "Viêm gan B mạn hoạt động",
+     "n": "ALT 23 chỉ nhỉnh hơn giới hạn trên nữ 19, APRI 0,25, không vàng da. Tiêu chuẩn điều trị cần HBV DNA > 2.000 IU/mL kèm ALT > ULN (QĐ 1740/2026 mục 4.2.3a): chưa có HBV DNA nên chưa kết luận được, làm ở lượt sau."
+    },
+    {
+     "t": "Người lành mang virus (nhiễm HBV HBeAg âm, hoạt độ thấp)",
+     "n": "Chưa gọi tên được khi chưa có HBV DNA và HBeAg (QĐ 1740/2026 Phụ lục 1: HBV DNA < 10^3, ALT bình thường); cần theo dõi 3–6 tháng trong năm đầu để xác định pha (EASL 2025 Bảng 7 chú thích 1). Tên 'người lành mang' là cách gọi cũ (WHO 2024 mục 2.3; APASL 2026 tr. 925)."
+    },
+    {
+     "t": "Xơ gan hoặc bệnh gan tiến triển gây phù",
+     "n": "Phù là một đặc điểm của bệnh gan tiến triển (QĐ 1740/2026 mục 4.1.2a) nhưng ở bà chỉ hai cổ chân, hết bớt buổi sáng, không báng, không sao mạch, APRI 0,25: không gợi ý. Albumin, INR chưa đo vì chưa đổi quyết định hôm nay."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu chi dưới sau ngồi xe 9 giờ",
+     "n": "Phù hai bên đối xứng, bắp chân mềm, không đau, không khó thở: không gợi ý; đánh giá lâm sàng của người soạn (tài liệu đã tải không dùng để chốt chi tiết này). Dặn khám lại ngay nếu phù lệch một bên hoặc đau bắp chân."
+    },
+    {
+     "t": "Suy tim hoặc hội chứng thận hư gây phù",
+     "n": "Tĩnh mạch cổ không nổi, phổi sạch, SpO₂ 97%, không khó thở nằm; que nước tiểu protein âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng lý do đến, triệu chứng gan, yếu tố nguy cơ, tiền sử gia đình xơ gan hoặc ung thư gan, từng loại thuốc kể cả thuốc nhỏ mũi và thảo dược; hỏi ngân sách trước khi chỉ định xét nghiệm",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b (khai thác thời gian phát hiện, tiền sử gia đình, thuốc đang dùng, thảo dược không rõ nguồn gốc)."
+    },
+    {
+     "t": "Chỉ làm xét nghiệm đổi được quyết định và vừa 250 nghìn: AST, ALT và công thức máu (APRI), que nước tiểu; hẹn HBV DNA ở lượt sau",
+     "v": "c",
+     "n": "APRI để xét xơ hóa ≥ F2 (QĐ 1740/2026 mục 4.1.2b, 4.2.3a); ALT trên ULN thì HBV DNA là bước kế tiếp (mục 4.2.3a)."
+    },
+    {
+     "t": "Làm cả bilirubin, albumin, INR (200 nghìn) và huyết thanh HBV hôm nay",
+     "v": "a",
+     "n": "Có trong danh sách đánh giá (QĐ 1740/2026 mục 4.1.2b) nhưng không đổi quyết định hôm nay và vượt ngân sách của bà; chấm chấp nhận được nhưng không phải ưu tiên."
+    },
+    {
+     "t": "Kê thuốc kháng vi rút (entecavir hoặc tenofovir) ngay hôm nay vì bà đã già",
+     "v": "w",
+     "n": "Chưa có HBV DNA và chưa có xơ hóa ≥ F2 (APRI 0,25) nên chưa đủ tiêu chuẩn (QĐ 1740/2026 mục 4.2.3a); lại là thuốc dùng lâu dài, có thể suốt đời (mục 4.2.2), bà nhẹ cân 46 kg thuộc nhóm nguy cơ thận (mục 4.2.3b)."
+    },
+    {
+     "t": "Giải thích phù cổ chân do ngồi xe lâu: nằm kê cao chân, đi lại, không tự uống thuốc lợi tiểu; quay lại ngay nếu phù lệch một bên, đau bắp chân, khó thở, bụng to",
+     "v": "c",
+     "n": "Phù là dấu của bệnh gan tiến triển khi đi kèm các đặc điểm khác (QĐ 1740/2026 mục 4.1.2a); khám và APRI chưa có. Lời dặn cụ thể do người soạn chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhận ra thuốc nhỏ mũi xylometazolin dùng 4 năm, giải thích nên bỏ vì dùng kéo dài làm ngạt mũi nặng thêm",
+     "v": "c",
+     "n": "EPOS 2020 mục 6.1.10 (dùng kéo dài gây viêm mũi do thuốc và ngạt hơn khi ngừng); ARIA-EAACI 2024–2025 (không dùng quá 5 ngày, người cao tuổi nên tránh); QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1 (xịt ngắn ngày, ví dụ 3 ngày). ESH 2023 Bảng 20, AHA/ACC 2025 Bảng 11: thuốc thông mũi có thể làm tăng huyết áp (HA bà 142/84, 150/90)."
+    },
+    {
+     "t": "Ngừng hẳn hoặc giảm dần thuốc nhỏ mũi và thay bằng rửa mũi nước muối sinh lý 0,9%",
+     "v": "a",
+     "n": "Đồng thuận với các mục cũ trong sổ: cách ngưng (dừng ngay hay giảm dần) không có trong tài liệu đã tải; QĐ 5643/2015 liệt kê rửa mũi natri clorid 0,9%, không nêu số lần."
+    },
+    {
+     "t": "Dặn không tự uống thảo dược, thuốc bổ gan; thận trọng thuốc giảm đau như acetaminophen; báo mình nhiễm HBV cho mọi thầy thuốc",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b (thận trọng thuốc có nguy cơ độc gan, thảo dược không rõ nguồn gốc, thông báo khi cần ức chế miễn dịch). Liều giảm đau an toàn ở bà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích ngắn: HBsAg dương ở người lớn là nhiễm HBV mạn, thường không triệu chứng nhiều năm; chưa thấy dấu hiệu nặng; cần HBV DNA để biết có cần thuốc; mời con cháu xét nghiệm và tiêm vắc xin nếu chưa nhiễm",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.1.2a, 4.2.3b (nguy cơ lây cho người thân, tiêm vắc xin cho người chưa nhiễm). Câu riêng về ăn chung mâm: không có trong tài liệu đã tải. Lịch tiêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn trở lại sau 7–10 ngày, khi có tiền, để làm HBV DNA kèm test nhanh anti-HCV, anti-HIV; mang theo toàn bộ phiếu",
+     "v": "c",
+     "n": "Thứ tự ưu tiên theo QĐ 1740/2026 mục 4.2.3a, 4.1.2c. Khoảng 7–10 ngày do người soạn chọn theo thời gian có kết quả DNA và nguồn tiền của bà."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm HBV mạn (HBsAg dương ở người lớn), chưa xác định giai đoạn; ALT 23 hơi trên ULN nữ 19, APRI 0,25, không dấu bệnh gan tiến triển",
+     "Phù hai cổ chân nhẹ do ngồi xe 9 giờ (không gợi ý bệnh gan, tim, thận, huyết khối)",
+     "Viêm mũi do thuốc co mạch (xylometazolin 4 năm); HA 142/84",
+     "Người rất cao tuổi (78), nhẹ cân 46 kg; ngân sách xét nghiệm 250 nghìn"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: lý do đến là phiếu hẹn nên đừng bỏ qua 'có gì khác không' (phù chân), thuốc nhỏ mũi (không coi là thuốc), thảo dược; tiền sử gia đình ung thư gan, xơ gan, vì có thể đổi tiêu chuẩn điều trị (QĐ 1740/2026 mục 4.2.3a).",
+     "Khám: tìm dấu bệnh gan tiến triển (gan to, lách to, sao mạch, ban đỏ lòng bàn tay, phù, báng) (QĐ 1740/2026 mục 4.1.2a): không có; phù hai cổ chân đối xứng, bắp chân mềm; mũi niêm mạc đỏ sẫm, phù nề.",
+     "CLS ưu tiên theo giá: AST, ALT, công thức máu cho APRI = 0,25 (< 0,5, chưa ≥ F2: QĐ 1740/2026 mục 4.1.2b); ALT 23 > 19 (QĐ, WHO 2024) nhưng < 40 (EASL 2025): hai cách đọc cùng dẫn tới cần HBV DNA mới quyết được. FIB-4 khoảng 1,6 (chỉ có công thức ở WHO 2024): > 1,3 nhưng < 2,0 ngưỡng cho ≥ 65 tuổi (APASL 2026). Không làm: albumin, INR, huyết thanh HBV, AFP hôm nay vì chưa đổi quyết định.",
+     "Ghi chú áp dụng cho người ≥ 75 tuổi: khuyến cáo HBV chủ yếu dựa trên người trẻ hơn, người lớn tuổi hay đến khi đã có xơ gan, biến chứng (WHO 2024 mục 20.2); QĐ 1740/2026 mục 4.2.3a không đặt giới hạn tuổi. Tuổi thọ còn lại và mong muốn của bà: không có trong tài liệu đã tải.",
+     "Diagnostic timeout: APRI > 0,5, phù không hết hoặc có dấu xơ gan thì làm bộ chức năng gan."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn lại: không nhập viện, không chuyển tuyến (tiêu chí nhập viện cho nhiễm HBV mạn ổn định: không có trong tài liệu đã tải).",
+     "Chưa dùng thuốc kháng vi rút: chưa có HBV DNA, APRI < 0,5 (QĐ 1740/2026 mục 4.2.3a).",
+     "Thuốc nhỏ mũi: bỏ; cách ngưng không có trong tài liệu đã tải (ghi cả ngừng ngay hoặc giảm dần, đều chấp nhận); thay rửa mũi nước muối 0,9% (QĐ 5643/2015); thuốc co mạch mũi kéo dài: EPOS 2020 mục 6.1.10, ARIA-EAACI 2024–2025.",
+     "Hẹn lấy HBV DNA kèm anti-HCV, anti-HIV ở lượt sau; tầm soát ung thư gan bằng siêu âm ở bệnh viện huyện sẽ bàn khi đã rõ giai đoạn (TL-0169 mục 3.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi, số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Rửa/nhỏ mũi",
+      "thoi_diem": "Thay cho giọt xylometazolin, buổi tối trước khi ngủ",
+      "so_ngay": "Tới lượt tái khám sau",
+      "ghi_chu": "QĐ 5643/2015 liệt kê rửa mũi natri clorid 0,9%; EPOS 2020 mục 6.1.10"
+     },
+     {
+      "thuoc": "Xylometazolin 0,1% nhỏ mũi (thuốc bà đang dùng)",
+      "ham_luong": "0,1%",
+      "lieu": "Ngừng hẳn hoặc giảm dần (cách ngưng: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Không dùng mỗi tối như trước",
+      "so_ngay": "Bỏ trong vài tuần tới",
+      "ghi_chu": "ARIA-EAACI 2024–2025 (không dùng quá 5 ngày, người cao tuổi nên tránh); QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1"
+     },
+     {
+      "thuoc": "Thuốc kháng vi rút viêm gan B",
+      "ham_luong": "Chưa kê",
+      "lieu": "Không",
+      "duong": "Không",
+      "thoi_diem": "Quyết định ở lượt sau khi có HBV DNA",
+      "so_ngay": "Không",
+      "ghi_chu": "QĐ 1740/2026 mục 4.2.3a: chưa đủ tiêu chuẩn khi chưa có HBV DNA và APRI 0,25"
+     }
+    ],
+    "dan_do": [
+     "Hẹn lại sau 7–10 ngày với khoảng 600 nghìn để làm HBV DNA và test nhanh anti-HCV, anti-HIV (QĐ 1740/2026 mục 4.2.3a, 4.1.2c); con gái có thể cho thêm.",
+     "Chân sưng: tối nằm kê cao chân; khi ngồi bán hàng nên đứng dậy đi lại; quay lại ngay nếu một chân sưng hơn hoặc đau bắp chân, khó thở, bụng to, vàng da, tiểu ít (QĐ 1740/2026 mục 4.1.2a).",
+     "Bỏ dần thuốc nhỏ mũi, rửa mũi nước muối; nghẹt mũi có thể nặng hơn vài tuần đầu (EPOS 2020 mục 6.1.10); đừng mua lại thuốc nhỏ mũi.",
+     "Không uống nước lá, thuốc bổ gan, thuốc giảm đau tự mua (QĐ 1740/2026 mục 4.2.3b); nói với mọi thầy thuốc là bà nhiễm viêm gan B.",
+     "Dặn con cháu đến xét nghiệm HBsAg, kháng thể và tiêm vắc xin nếu chưa nhiễm (QĐ 1740/2026 mục 4.2.3b)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · mười ngày sau (đã có kết quả HBV DNA)",
+   "tiep_don": "Thứ Năm tuần sau, 9 giờ 45. Bà Sáu đến một mình. Năm ngày trước, khi con gái út cho 600 nghìn, bà đã ghé phòng khám lấy máu gửi HBV DNA; hôm nay đến lấy kết quả và làm tiếp phần còn lại. Bà nói: 'chân hết sưng rồi, mũi thì vẫn ngạt, tôi chỉ nhỏ cách đêm thôi'. Sinh hiệu: mạch 76 l/p, HA 136/80 mmHg, nhiệt độ 36,5 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 46 kg. Phòng khám vẫn không có siêu âm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện chỉ vì 'ALT hơi cao hơn 19' là không cần: HBV DNA 640 IU/mL, APRI 0,25, bà khỏe, ăn ngon, chân đã hết phù (QĐ 1740/2026 mục 4.2.3a chưa đủ tiêu chuẩn; tiêu chí nhập viện cho nhiễm HBV mạn ổn định không có trong tài liệu đã tải). Bà nghỉ bán hàng mất thu nhập, tốn thêm tiền giường, và hiểu nhầm mình 'bệnh nặng lắm'.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến tỉnh 'khám chuyên khoa gan' ngay là quá tay: chưa có chỉ định điều trị thuốc kháng vi rút, theo dõi ALT, công thức máu mỗi 3–6 tháng làm được tại đây (QĐ 1740/2026 mục 4.3.1; EASL 2025 Bảng 7). Bà mất một ngày bán hàng, vượt ngân sách, rất dễ không quay lại hẹn 3 tháng."
+   },
+   "loi_mo": "Bác sĩ coi kết quả giùm tôi. Con Hồng nó cho tiền rồi. Chân hết sưng, còn cái mũi tôi bỏ không nổi, tối ngạt quá.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "136/80",
+    "nhiet": "36,5",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Chân hết sưng sau hai đêm kê cao chân và đi lại. Đau thắt lưng còn nhẹ khi ngồi lâu. Mũi: tuần đầu bà thử bỏ hẳn ba đêm nhưng ngạt đến không ngủ nên nhỏ lại cách đêm, mỗi bên 1 giọt. Đã ngừng nước lá hạ châu từ hôm dặn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 10 ngày: phù hết; mũi đỡ một phần"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà có 600 nghìn (con gái cho). Bà hỏi 'cái nào làm trước, cái nào để sau', và chỉ đồng ý xét nghiệm khi nghe rõ nó đổi quyết định.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách lượt 2: HBV DNA 500 nghìn đã trả, còn 100 nghìn cho test nhanh"
+    },
+    {
+     "id": "phieu",
+     "noi_dung": "Phiếu HBV DNA 640 IU/mL (2,8 log10) từ mẫu lấy 5 ngày trước, trả hôm nay. Bà chưa làm anti-HCV, anti-HIV, HBeAg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả cũ"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Con gái út cùng ở nhà, nghe bà kể nên hỏi chuyện ăn chung; cả nhà chưa ai xét nghiệm hay biết đã tiêm vắc xin viêm gan B chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người tiếp xúc gần"
+    }
+   ],
+   "kham": {
+    "chi_duoi": {
+     "a": "Hết phù ấn lõm hai cổ chân; bắp chân mềm, hai bên đối xứng, không đau.",
+     "k": 1,
+     "hien": "Hết phù; bắp chân mềm."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan không sờ dưới bờ sườn, lách không sờ thấy, không báng.",
+     "k": 1,
+     "hien": "Bụng mềm, không báng."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi vẫn đỏ sẫm nhưng bớt phù nề hơn lượt trước; ít dịch trong.",
+     "k": 0,
+     "hien": "Mũi còn nghẹt nhưng bớt hơn."
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui hơn lượt trước. Da, củng mạc không vàng. Cân nặng 46 kg.",
+     "k": 0,
+     "hien": "Tỉnh; da, củng mạc không vàng."
+    }
+   },
+   "cls": {
+    "hbv_dna": {
+     "v": "e",
+     "r": "HBV DNA 640 IU/mL (2,8 log10) – mẫu lấy 5 ngày trước, trả hôm nay",
+     "ab": 1,
+     "n": "Dưới 2.000 IU/mL: không đạt tiêu chuẩn HBV DNA > 2.000 kèm ALT > ULN (QĐ 1740/2026 mục 4.2.3a); dưới 10^3 phù hợp nhiễm HBV HBeAg âm (Phụ lục 1); nguy cơ xơ gan, ung thư gan thấp nhất khi dưới 2.000 (EASL 2025 mục Treatment indications). Chưa làm HBeAg nên chưa gọi tên chắc chắn."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "Điều dưỡng Linh làm tại giường: anti-HCV âm tính; anti-HIV âm tính (HBsAg dương như cũ).",
+     "ab": 0,
+     "n": "Loại đồng nhiễm HCV, HIV (QĐ 1740/2026 mục 4.1.2c); âm tính nên không có yếu tố hạ ngưỡng điều trị (mục 4.2.3a)."
+    },
+    "hbv_huyet_thanh": {
+     "v": "n",
+     "r": "HBeAg, anti-HBe, HBsAg định lượng (600 nghìn): hoãn.",
+     "n": "Không đổi quyết định hôm nay khi HBV DNA < 2.000 và chưa có xơ hóa; qHBsAg chỉ khi có điều kiện (QĐ 1740/2026 mục 4.1.2b). Nếu sau này HBV DNA tăng hoặc ALT tăng thì làm."
+    },
+    "liver": {
+     "v": "n",
+     "r": "Không làm lại: AST 22, ALT 23 mười ngày trước.",
+     "n": "Chưa cần lặp sau 10 ngày; làm lại ở mốc 3 tháng (QĐ 1740/2026 mục 4.3.1; EASL 2025 Bảng 7)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Phòng khám không có máy siêu âm; siêu âm bụng làm ở bệnh viện huyện.",
+     "thay_the": "liver",
+     "n": "Siêu âm là phương tiện tầm soát ung thư gan (TL-0169 mục 3.2) và nên có để thấy hình thái gan khi không có FibroScan; hẹn làm ở bệnh viện huyện (BHYT). Mức chi trả: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm HBV mạn, HBV DNA 640 IU/mL (< 2.000), ALT 23 hơi trên ULN nữ 19, APRI 0,25, anti-HCV, anti-HIV âm: chưa có chỉ định điều trị kháng vi rút, nhiều khả năng thể HBeAg âm hoạt độ thấp (chưa đo HBeAg); viêm mũi do thuốc co mạch đang cai dở",
+     "ok": 1,
+     "n": "QĐ 1740/2026 mục 4.2.3a (chưa đạt cả ba nhánh), Phụ lục 1; ALT 23 dưới 40 theo EASL 2025, APASL 2026 nên theo cách này cũng không là 'ALT > ULN kéo dài'. Cách ghi bệnh nhân không điều trị: mục 4.3.1."
+    },
+    {
+     "t": "Viêm gan B mạn hoạt động",
+     "n": "HBV DNA 640 IU/mL < 2.000 và APRI 0,25: không đạt tiêu chuẩn điều trị (QĐ 1740/2026 mục 4.2.3a); ALT chỉ nhỉnh 4 U/L trên ULN nữ. Khi ALT hơi cao với DNA thấp, EASL 2025 dặn tìm nguyên nhân gan khác (mỡ gan, HCV, HDV) và chỉ cân nhắc điều trị khi ALT tăng kéo dài; chưa HDV, chưa mỡ gan."
+    },
+    {
+     "t": "Người lành mang virus (nhiễm HBV HBeAg âm, hoạt độ thấp)",
+     "n": "DNA < 10^3, ALT gần bình thường hợp với thể không hoạt động (QĐ 1740/2026 Phụ lục 1; WHO 2024 mục 2.3) nhưng chưa thể kết luận khi mới một lần xét nghiệm và chưa có HBeAg; năm đầu phải theo dõi 3–6 tháng để xác định pha (EASL 2025 Bảng 7 chú thích 1). Không được hiểu là 'mang mà không bệnh nên khỏi theo dõi': APASL 2026 tr. 925 vẫn thấy nguy cơ ung thư gan."
+    },
+    {
+     "t": "Đồng nhiễm HCV hoặc HIV",
+     "n": "Test nhanh anti-HCV, anti-HIV đều âm (QĐ 1740/2026 mục 4.1.2c)."
+    },
+    {
+     "t": "Tăng huyết áp do thuốc thông mũi",
+     "n": "HA 136/80 khi giảm thuốc nhỏ mũi; chưa kết luận nguyên nhân (liên hệ thuốc thông mũi với HA: ESH 2023 Bảng 20, AHA/ACC 2025 Bảng 11 có nêu, mức đóng góp ở bà không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đọc đúng kết quả: HBV DNA 640 < 2.000, APRI < 0,5, anti-HCV, anti-HIV âm: chưa có chỉ định kháng vi rút, chưa kê entecavir hay tenofovir",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3a; Bảng 3 tránh TDF ở người lớn tuổi, nhẹ cân (mục 4.2.3b: tuổi cao, cân dưới 50 kg là yếu tố nguy cơ thận)."
+    },
+    {
+     "t": "Kê thuốc kháng vi rút vì ALT 23 cao hơn 19 dù HBV DNA 640",
+     "v": "a",
+     "n": "Hai nguồn cùng hướng chưa điều trị: QĐ 1740/2026 mục 4.2.3a cần HBV DNA > 2.000; EASL 2025 chỉ xét điều trị trong tình huống chưa rõ khi ALT cao kéo dài và đã loại nguyên nhân khác. Một lần ALT 23, tuổi 78, 46 kg: không phải việc cần làm, chấp nhận được nếu giải thích rõ."
+    },
+    {
+     "t": "Hẹn xét nghiệm lại ALT, công thức máu, nước tiểu sau 3 tháng; lặp HBV DNA ở khoảng 24 tuần; sau khi xác định pha thì ALT, HBV DNA mỗi 12 tháng (EASL 2025) hoặc HBV DNA 24–48 tuần/lần (QĐ 1740/2026)",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.3.1 (sinh hóa gan, công thức máu, nước tiểu 3–6 tháng; HBV DNA 24–48 tuần); EASL 2025 Bảng 7 và chú thích 1 (3–6 tháng trong năm đầu; sau đó 12 tháng nếu pha đã rõ). Hai nguồn khác nhau về khoảng cách nhưng cùng hướng: gộp một mục."
+    },
+    {
+     "t": "Tầm soát ung thư gan: siêu âm bụng ở bệnh viện huyện kèm AFP, mỗi 6 tháng (TL-0169) hoặc 24–48 tuần tùy nguy cơ (QĐ 1740/2026 mục 4.3.1; phần lưu ý chung cuối mục 4.3 lại ghi 12–24 tuần cho mọi trường hợp); EASL 2025 chỉ khuyến cáo khi nguy cơ trung bình, cao và đánh giá lại nguy cơ định kỳ",
+     "v": "c",
+     "n": "TL-0169 (QĐ 3129/2020) mục 3.1, 3.2: HBV mạn chưa điều trị thuộc nhóm nguy cơ cao, 6 tháng/lần; QĐ 1740/2026 mục 4.3.1: 24–48 tuần/lần tùy nguy cơ (lưu ý chung cuối mục 4.3: 12–24 tuần); EASL 2025 Bảng 11: người không xơ gan nguy cơ thấp 'không đề nghị' nhưng đánh giá lại. Bà 78 tuổi nên làm một lần siêu âm làm mốc."
+    },
+    {
+     "t": "Không làm HBeAg, HBsAg định lượng, bộ chức năng gan, AFP trong lượt này vì ngân sách 600 nghìn và chưa đổi quyết định",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.1.2b (huyết thanh, qHBsAg khi có điều kiện)."
+    },
+    {
+     "t": "Mời con gái và người nhà xét nghiệm HBsAg, anti-HBs; tiêm vắc xin viêm gan B nếu chưa nhiễm; giải thích đường lây (mẹ truyền con, máu, tình dục), dùng riêng dao cạo, bàn chải đánh răng",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b. Lịch tiêm vắc xin và câu riêng về ăn chung mâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đây là hồi phục chậm bình thường, không phải thất bại: tiếp tục giảm, không dùng lại xylometazolin hằng đêm; rửa mũi nước muối; nếu sau 4–6 tuần vẫn ngạt nặng thì khám tai mũi họng",
+     "v": "c",
+     "n": "EPOS 2020 mục 6.1.10: dùng kéo dài làm ngạt tăng hơn khi ngừng; ARIA-EAACI 2024–2025; mốc 4–6 tuần do người soạn chọn (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Cho dùng lại xylometazolin mỗi đêm vì bà 'ngạt không ngủ được'",
+     "v": "w",
+     "n": "Người cao tuổi nên tránh thuốc co mạch mũi, không quá 5 ngày (ARIA-EAACI 2024–2025); dùng kéo dài làm ngạt tăng khi ngừng (EPOS 2020 mục 6.1.10); thuốc thông mũi có thể làm tăng HA (ESH 2023 Bảng 20)."
+    },
+    {
+     "t": "Dặn tiếp: không tự dùng thảo dược, thuốc bổ gan; báo nhiễm HBV cho mọi thầy thuốc, nhất là trước khi dùng corticoid hay thuốc ức chế miễn dịch",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b, 4.3.1; Phụ lục 3."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm HBV mạn, HBV DNA 640 IU/mL, ALT 23 (ULN nữ 19 theo QĐ 1740), APRI 0,25; anti-HCV, anti-HIV âm; chưa có chỉ định điều trị; nhiều khả năng HBeAg âm hoạt độ thấp (chưa đo HBeAg)",
+     "Phù cổ chân đã hết (phù do tư thế)",
+     "Viêm mũi do thuốc co mạch, cai dở (đỡ một phần); HA 136/80",
+     "Nhẹ cân 46 kg, tuổi 78: tránh TDF nếu sau này phải điều trị (QĐ 1740/2026 mục 4.2.3b, Bảng 3)"
+    ],
+    "phan_tich_chan_doan": [
+     "Đọc phiếu theo thứ tự: AST, ALT, tiểu cầu (APRI) trước, rồi HBV DNA, rồi đồng nhiễm; không bỏ qua phiếu cũ.",
+     "HBV DNA 640 < 2.000: ngoài ba nhánh tiêu chuẩn điều trị (xơ hóa ≥ F2 hoặc DNA > 2.000 kèm ALT > ULN hoặc yếu tố nguy cơ kèm DNA phát hiện được: QĐ 1740/2026 mục 4.2.3a). Bà không có đái tháo đường, không đồng nhiễm, không tiền sử gia đình xơ gan, ung thư gan, không dùng thuốc ức chế miễn dịch, nên không thuộc nhánh thứ ba.",
+     "ALT: 23 U/L lớn hơn 19 (QĐ 1740/2026 mục 4.1.2b; WHO 2024) nhưng nhỏ hơn 40 (EASL 2025, APASL 2026): hai ngưỡng khác nhau, ghi cả hai; kết quả điều trị như nhau vì DNA < 2.000.",
+     "Đỡ một phần: phù hết (không còn gợi ý bệnh gan); mũi còn ngạt vì ngừng thuốc co mạch gây ngạt tăng tạm thời (EPOS 2020 mục 6.1.10), không phải 'cai thất bại'. Phân biệt hồi phục chậm bình thường với thất bại: thất bại là bà dùng lại thuốc hằng đêm."
+    ],
+    "phan_tich_xu_tri": [
+     "Không điều trị: chưa đạt tiêu chuẩn (QĐ 1740/2026 mục 4.2.3a); điều trị NA kéo dài có thể suốt đời (mục 4.2.2).",
+     "Theo dõi: ALT, công thức máu, nước tiểu 3–6 tháng; HBV DNA 24–48 tuần (QĐ 1740/2026 mục 4.3.1) hoặc 3–6 tháng trong năm đầu (EASL 2025 Bảng 7 chú thích 1): hẹn 3 tháng.",
+     "Tầm soát ung thư gan: ghi cả ba cách (TL-0169 mục 3.2, QĐ 1740/2026 mục 4.3.1, EASL 2025 Bảng 11); với phòng khám không có siêu âm, giấy giới thiệu siêu âm ở bệnh viện huyện làm mốc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Rửa/nhỏ mũi",
+      "thoi_diem": "Buổi tối và khi nghẹt",
+      "so_ngay": "Tới lượt tái khám sau",
+      "ghi_chu": "QĐ 5643/2015 liệt kê rửa mũi natri clorid 0,9%"
+     },
+     {
+      "thuoc": "Xylometazolin 0,1% nhỏ mũi",
+      "ham_luong": "0,1%",
+      "lieu": "Tiếp tục giảm tới ngừng, không dùng lại hằng đêm",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Chỉ khi quá ngạt để ngủ trong lúc cai (cách ngưng: không có trong tài liệu đã tải)",
+      "so_ngay": "Ngừng hẳn trong vài tuần",
+      "ghi_chu": "ARIA-EAACI 2024–2025; EPOS 2020 mục 6.1.10"
+     },
+     {
+      "thuoc": "Thuốc kháng vi rút viêm gan B",
+      "ham_luong": "Chưa kê",
+      "lieu": "Không",
+      "duong": "Không",
+      "thoi_diem": "Chỉ khi HBV DNA > 2.000 kèm ALT > ULN hoặc xơ hóa ≥ F2",
+      "so_ngay": "Không",
+      "ghi_chu": "QĐ 1740/2026 mục 4.2.3a"
+     }
+    ],
+    "dan_do": [
+     "Hẹn 3 tháng: AST, ALT, công thức máu, nước tiểu; HBV DNA lặp khoảng 24 tuần (QĐ 1740/2026 mục 4.3.1; EASL 2025 Bảng 7 chú thích 1).",
+     "Mang giấy giới thiệu lên bệnh viện huyện siêu âm bụng, kèm AFP nếu được (TL-0169 mục 3.2); mang kết quả về.",
+     "Đưa con cháu đi xét nghiệm và tiêm vắc xin; dùng riêng dao cạo, bàn chải đánh răng (QĐ 1740/2026 mục 4.2.3b).",
+     "Nghẹt mũi nặng hơn trong vài tuần đầu là bình thường khi bỏ thuốc; rửa mũi nước muối; đừng mua lại thuốc nhỏ mũi.",
+     "Quay lại sớm nếu vàng da, bụng to, phù, sụt cân, chán ăn (QĐ 1740/2026 mục 4.1.2a)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · mười hai tuần sau (có phiếu siêu âm)",
+   "tiep_don": "Chiều thứ Tư, ba tháng sau lượt 2, bà Sáu đi cùng con gái út, chị Hồng, 49 tuổi, vì 'tới hẹn'. Hai mẹ con mang phiếu siêu âm bụng và AFP làm ở bệnh viện huyện theo giấy giới thiệu. Bà nói đã bỏ hẳn thuốc nhỏ mũi gần tám tuần, chỉ rửa nước muối. Sinh hiệu: mạch 74 l/p, HA 134/78 mmHg, nhiệt độ 36,5 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 46,5 kg. Chị Hồng cho mẹ 250 nghìn để xét nghiệm.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện 'theo dõi gan' khi ALT 18, APRI 0,24, siêu âm không có khối là không cần và còn gây hại: bà nghỉ bán hàng, tốn tiền, nhiễm khuẩn bệnh viện, và hiểu rằng việc theo dõi phải ở giường bệnh nên càng khó duy trì tái khám định kỳ (QĐ 1740/2026 mục 4.3.1 theo dõi ngoại trú 3–6 tháng; tiêu chí nhập viện không có trong tài liệu đã tải).",
+    "chuyen_tuyen": "Chuyển lên tuyến tỉnh khám gan và đo đàn hồi gan khi mọi chỉ số bình thường là quá tay: APRI 0,24 và siêu âm gan nhu mô đều đã trả lời câu hỏi xơ hóa (QĐ 1740/2026 mục 4.1.2b: APRI hoặc đàn hồi gan). Hai mẹ con tốn nửa ngày, hơn 1 triệu tiền xe và xét nghiệm, và bà nghe 'bệnh nặng' nên dễ sợ rồi bỏ cuộc hẹn."
+   },
+   "loi_mo": "Bác sĩ ơi mẹ tôi làm đủ rồi đó, coi giùm xem sao. Mũi bà bỏ hẳn rồi, ngủ được. Hai mẹ con còn hỏi chuyện nhà tôi có phải đi thử không.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "134/78",
+    "nhiet": "36,5",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lượt trước bà giảm dần, tuần thứ năm hết cữ nhỏ mũi, từ tuần thứ sáu ngủ được chỉ với nước muối; mũi còn hơi khô buổi sáng. Chân không sưng lại. Bà vẫn bán hàng cả ngày, đau thắt lưng thỉnh thoảng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến 12 tuần: đã ngừng thuốc nhỏ mũi, không phù"
+    },
+    {
+     "id": "phieu_huyen",
+     "noi_dung": "Phiếu bệnh viện huyện (BHYT): siêu âm bụng: gan kích thước bình thường, nhu mô đều, bờ đều, không tổn thương khu trú; lách, thận bình thường; không dịch ổ bụng. AFP 3,4 ng/mL. Bà chỉ đưa phiếu khi được hỏi có làm siêu âm chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát ung thư gan đã làm"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị Hồng cho 250 nghìn. Bà ngại làm 'nhiều thứ', hỏi từng xét nghiệm có đổi cách chữa không; bà đồng ý nếu nghe rõ là để biết có cần uống thuốc hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách lượt 3"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chị Hồng và hai cháu đã đi xét nghiệm ở trạm: chị HBsAg âm, anti-HBs dương (đã có miễn dịch); cháu lớn đã tiêm đủ lúc nhỏ; cháu nhỏ chưa tiêm mũi nhắc. Con gái hỏi 'ở chung, ăn chung có lây không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người tiếp xúc: xét nghiệm, vắc xin"
+    },
+    {
+     "id": "tai_kham",
+     "noi_dung": "Bà nói 'khỏe rồi thì khỏi cần lên nữa chắc được': nếu không được giải thích sao phải theo dõi thì dễ bỏ hẹn sau này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ mất theo dõi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui. Da, củng mạc không vàng, không sao mạch, không ban đỏ lòng bàn tay. Cân nặng 46,5 kg.",
+     "k": 1,
+     "hien": "Tỉnh; da, củng mạc không vàng."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan không sờ dưới bờ sườn, lách không sờ thấy, không báng.",
+     "k": 1,
+     "hien": "Bụng mềm, không báng."
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm, đối xứng.",
+     "k": 0,
+     "hien": "Không phù."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hồng nhạt, hơi khô, cuốn dưới không phù nề; không dịch.",
+     "k": 0,
+     "hien": "Mũi thông, hơi khô."
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 21 · ALT 18 U/L",
+     "ab": 0,
+     "n": "ALT 18 dưới ULN nữ 19 (QĐ 1740/2026 mục 4.1.2b) và dưới 40 (EASL 2025): bình thường theo cả hai. Mốc 3 tháng cho pha (QĐ 1740/2026 mục 4.3.1; EASL 2025 Bảng 7 chú thích 1)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 128 g/L · bạch cầu 6,1 G/L · tiểu cầu 218 G/L",
+     "ab": 0,
+     "bang": {
+      "hgb": 128,
+      "wbc": 6.1,
+      "plt": 218
+     },
+     "n": "APRI = (21/40) × 100/218 = 0,24 (< 0,5: QĐ 1740/2026 mục 4.1.2b, Phụ lục 2; WHO 2024 Chapter 4). FIB-4 khoảng 1,8: dưới 2,0 là ngưỡng hiệu chỉnh cho ≥ 65 tuổi (APASL 2026 tr. 925), trên 1,3 của ngưỡng chung."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu: protein âm tính, hồng cầu âm tính.",
+     "ab": 0,
+     "n": "Theo dõi viêm cầu thận liên quan HBV mỗi 3–6 tháng (QĐ 1740/2026 mục 4.3.1). 15 nghìn."
+    },
+    "hbv_dna": {
+     "v": "u",
+     "r": "Mẫu gửi ngoài, kết quả sau khoảng 3 ngày, 500 nghìn: chưa làm hôm nay.",
+     "n": "Mới 12 tuần kể từ lần đo trước; HBV DNA lặp ở mốc khoảng 24 tuần (QĐ 1740/2026 mục 4.3.1: 24–48 tuần; EASL 2025 Bảng 7 chú thích 1). Hôm nay vượt 250 nghìn và chưa đổi quyết định."
+    },
+    "afp": {
+     "v": "n",
+     "r": "AFP đã có từ bệnh viện huyện: 3,4 ng/mL. Không làm lại.",
+     "n": "Tránh lặp (TL-0169 mục 3.2)."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Phòng khám không có máy siêu âm. Đã có phiếu siêu âm bệnh viện huyện.",
+     "n": "Đã làm mốc; lần kế theo lịch tầm soát."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm HBV mạn thể HBeAg âm hoạt độ thấp (HBV DNA 640 IU/mL, ALT 18, APRI 0,24, siêu âm gan bình thường, AFP bình thường), chưa có chỉ định điều trị, cần theo dõi định kỳ lâu dài",
+     "ok": 1,
+     "n": "QĐ 1740/2026 mục 4.2.3a, Phụ lục 1; mục 4.3.1. HBeAg chưa đo nên 'HBeAg âm' là suy ra từ DNA thấp, ALT bình thường (EASL 2025 mục Monitoring: DNA < 2.000, ALT < ULN, không xơ hóa có giá trị tiên đoán cao cho HBeAg âm)."
+    },
+    {
+     "t": "Viêm gan B mạn hoạt động",
+     "n": "HBV DNA < 2.000, ALT 18 bình thường, APRI 0,24, siêu âm đều: không đạt tiêu chuẩn điều trị nào (QĐ 1740/2026 mục 4.2.3a)."
+    },
+    {
+     "t": "Người lành mang virus (cách gọi cũ của nhiễm HBV HBeAg âm hoạt độ thấp)",
+     "n": "Dùng như 'mang mà không bệnh, khỏi theo dõi' là sai: tên này đã bị thay (WHO 2024 mục 2.3: 'trước đây gọi là inactive carriers'; APASL 2026 tr. 925: thay bằng chronic HBV infection vì còn nguy cơ sinh ung thư). Vẫn tầm soát và theo dõi định kỳ (QĐ 1740/2026 mục 4.3.1)."
+    },
+    {
+     "t": "Ung thư biểu mô tế bào gan",
+     "n": "Siêu âm không tổn thương khu trú, AFP 3,4 ng/mL (TL-0169 mục 3.2, 4.1)."
+    },
+    {
+     "t": "Viêm mũi do thuốc co mạch đã cai xong",
+     "n": "Bỏ thuốc hơn tám tuần, mũi thông, niêm mạc hồng (EPOS 2020 mục 6.1.10)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đọc đúng phiếu bệnh viện huyện (siêu âm gan nhu mô đều, không khối; AFP 3,4) và xét nghiệm hôm nay (ALT 18, APRI 0,24): kết luận không xơ hóa đáng kể, chưa có ung thư gan, vẫn không kê thuốc kháng vi rút",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.1.2b, 4.2.3a; TL-0169 mục 3.2."
+    },
+    {
+     "t": "Chỉ làm AST, ALT, công thức máu, que nước tiểu hôm nay (115 nghìn); chưa lặp HBV DNA (500 nghìn), hẹn khoảng 24 tuần sau lần đo đầu",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.3.1 (sinh hóa gan, công thức máu, nước tiểu 3–6 tháng; HBV DNA 24–48 tuần); EASL 2025 Bảng 7 chú thích 1."
+    },
+    {
+     "t": "Lên lịch theo dõi lâu dài: ALT, công thức máu, nước tiểu mỗi 3–6 tháng; HBV DNA lặp rồi 12 tháng/lần nếu pha đã rõ (EASL 2025) hoặc 24–48 tuần/lần (QĐ 1740/2026); tầm soát ung thư gan siêu âm ± AFP mỗi 6 tháng (TL-0169) hoặc 24–48 tuần (QĐ 1740) hoặc theo nguy cơ (EASL 2025 Bảng 11)",
+     "v": "c",
+     "n": "Ba nguồn khác khoảng cách; ghi cả ba, mỗi cách đều chấp nhận."
+    },
+    {
+     "t": "Giải thích vì sao khỏe vẫn phải theo dõi: HBV vẫn ở trong gan, có thể hoạt động trở lại; nguy cơ xơ gan, ung thư gan nếu không theo dõi; báo mình nhiễm HBV cho mọi thầy thuốc, nhất là khi dùng corticoid, hóa trị",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.3.1 (nhấn mạnh duy trì theo dõi lâu dài); Phụ lục 3."
+    },
+    {
+     "t": "Dặn 'không còn gì nữa, khỏe thì khỏi tái khám' vì mọi xét nghiệm bình thường",
+     "v": "w",
+     "n": "QĐ 1740/2026 mục 4.3.1 yêu cầu theo dõi lâu dài, hướng dẫn lịch tái khám; EASL 2025 Bảng 7 vẫn theo dõi ALT, HBV DNA mỗi 12 tháng ở người HBeAg âm DNA < 2.000."
+    },
+    {
+     "t": "Khen bà đã bỏ thuốc nhỏ mũi; dặn không dùng lại, mũi khô thì rửa nước muối",
+     "v": "c",
+     "n": "ARIA-EAACI 2024–2025; EPOS 2020 mục 6.1.10."
+    },
+    {
+     "t": "Xét nghiệm HBsAg, anti-HBs cho người nhà chưa xét nghiệm; tiêm vắc xin cho người chưa nhiễm và chưa có miễn dịch (cháu nhỏ chưa tiêm mũi nhắc); trả lời chuyện ăn chung",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b. Lịch tiêm nhắc và câu riêng về ăn chung mâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi bà lên tuyến tỉnh đo đàn hồi gan để chắc chắn",
+     "v": "a",
+     "n": "Đàn hồi gan là phương pháp đánh giá xơ hóa (QĐ 1740/2026 mục 4.1.2b) nhưng APRI < 0,5 và siêu âm đã đủ; không bắt buộc."
+    },
+    {
+     "t": "Dặn quay lại sớm nếu vàng da, bụng to, phù, chán ăn, sụt cân, hoặc phải dùng thuốc ức chế miễn dịch, hóa trị",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.1.2a, 4.3.1, Phụ lục 3."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm HBV mạn thể HBeAg âm hoạt độ thấp: HBV DNA 640 IU/mL, ALT 18, APRI 0,24; siêu âm gan bình thường, AFP 3,4; chưa có chỉ định điều trị",
+     "Viêm mũi do thuốc co mạch đã cai xong",
+     "Nhẹ cân 46,5 kg, tuổi 78; ổn định",
+     "Người nhà: con gái miễn dịch bảo vệ; cháu nhỏ cần mũi nhắc"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: có làm siêu âm, AFP chưa; mũi, chân; người nhà đã xét nghiệm; lý do bà muốn bỏ hẹn.",
+     "Khám: không dấu bệnh gan tiến triển; không phù; mũi hồng.",
+     "Xét nghiệm chỉ những gì đổi quyết định: ALT, công thức máu (APRI), nước tiểu theo mốc 3 tháng; HBV DNA chờ mốc 24 tuần (QĐ 1740/2026 mục 4.3.1).",
+     "Ba cách đọc APRI, FIB-4 cùng kết luận không xơ hóa đáng kể: APRI 0,24 < 0,5 (QĐ 1740, WHO 2024); FIB-4 khoảng 1,8 > 1,3 nhưng < 2,0 ngưỡng cho ≥ 65 tuổi (APASL 2026); EASL 2025 nêu sai phân loại của ngưỡng chuẩn ở HBV nên kèm siêu âm gan bình thường để yên tâm.",
+     "Ghi chú áp dụng cho ≥ 75 tuổi: bằng chứng chủ yếu từ người trẻ hơn; mục tiêu theo dõi của bà (phát hiện sớm xơ gan, ung thư gan, bùng phát khi dùng corticoid) vẫn đúng (WHO 2024 mục 20.2). Lợi ích kéo dài của tầm soát ở tuổi 78: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Theo dõi ngoại trú: không nhập viện, không chuyển tuyến (QĐ 1740/2026 mục 4.3.1; tiêu chí nhập viện: không có trong tài liệu đã tải).",
+     "Không điều trị kháng vi rút: không đạt nhánh nào của mục 4.2.3a.",
+     "Lịch: ghi cả ba nguồn (QĐ 1740/2026 mục 4.3.1; EASL 2025 Bảng 7; TL-0169 mục 3.2; EASL Bảng 11).",
+     "Phòng mất theo dõi là việc lớn nhất của lượt này: giải thích, hẹn bằng ngày, nhờ chị Hồng nhắc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc kháng vi rút viêm gan B",
+      "ham_luong": "Không kê",
+      "lieu": "Không",
+      "duong": "Không",
+      "thoi_diem": "Chỉ khi có xơ hóa ≥ F2 hoặc HBV DNA > 2.000 kèm ALT > ULN",
+      "so_ngay": "Không",
+      "ghi_chu": "QĐ 1740/2026 mục 4.2.3a"
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa/nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Khi khô mũi; số lần: không có trong tài liệu đã tải",
+      "duong": "Rửa/nhỏ mũi",
+      "thoi_diem": "Buổi sáng khi mũi khô",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 5643/2015 liệt kê rửa mũi natri clorid 0,9%; không dùng lại xylometazolin (ARIA-EAACI 2024–2025)"
+     }
+    ],
+    "dan_do": [
+     "Hẹn tái khám 3–6 tháng: AST, ALT, công thức máu, nước tiểu; HBV DNA lặp ở khoảng 24 tuần kể từ lần đầu (QĐ 1740/2026 mục 4.3.1).",
+     "Siêu âm bụng ± AFP lần kế sau khoảng 6 tháng ở bệnh viện huyện (TL-0169 mục 3.2).",
+     "Báo mình nhiễm HBV cho mọi bác sĩ, nhất là trước khi dùng corticoid hoặc hóa trị (QĐ 1740/2026 mục 4.3.1, Phụ lục 3).",
+     "Cháu nhỏ chưa tiêm mũi nhắc đi tiêm; ai chưa xét nghiệm thì xét nghiệm (QĐ 1740/2026 mục 4.2.3b).",
+     "Quay lại sớm nếu vàng da, bụng to, phù chân hai bên tăng, chán ăn, sụt cân (QĐ 1740/2026 mục 4.1.2a)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tháng 6: HBV DNA lặp 410 IU/mL, ALT 17 U/L, APRI 0,23; siêu âm lần hai ở bệnh viện huyện không tổn thương; HBeAg âm, anti-HBe dương khi làm cùng đợt, xác nhận nhiễm HBV mạn HBeAg âm hoạt độ thấp (QĐ 1740/2026 Phụ lục 1). Bà Sáu không dùng lại thuốc nhỏ mũi, vẫn bán hàng; chị Hồng nhắn hẹn trên điện thoại, cháu nhỏ tiêm mũi nhắc. Kế hoạch ALT, công thức máu 3–6 tháng, HBV DNA 12 tháng/lần, siêu âm 6 tháng/lần do bà và con gái cùng giữ sổ hẹn.",
+ "nhieu": [
+  "Bà đến chỉ vì phiếu hẹn, không lo lắng, và chỉ có 250 nghìn: phải xếp ưu tiên xét nghiệm đổi được quyết định (AST, ALT, tiểu cầu, que nước tiểu), dời HBV DNA, huyết thanh HBV, bộ chức năng gan sang sau hoặc bỏ.",
+  "Chân sưng sau chuyến xe là mồi nhử: 'phù' nằm trong dấu bệnh gan tiến triển nhưng ở bà là phù do tư thế; phải khám và APRI để không vội gán cho gan, cũng không bỏ qua.",
+  "Thuốc nhỏ mũi 4 năm bị bà coi như không phải thuốc, chỉ lộ khi hỏi riêng; cai thuốc đỡ một phần ở lượt 2 là bình thường, không phải thất bại.",
+  "Tuổi 78: ngưỡng FIB-4 hiệu chỉnh theo tuổi, tránh TDF ở nhẹ cân, lợi ích tầm soát chưa rõ, nguy cơ lớn nhất là bỏ theo dõi."
+ ],
+ "bai_hoc_bien": [
+  "HBsAg dương ở người lớn là nhiễm HBV mạn; việc đầu tiên là xếp giai đoạn bằng ALT, HBV DNA, APRI, không phải kê thuốc (QĐ 1740/2026 mục 4.1.1, 4.2.3a).",
+  "Khi ngân sách có hạn, chọn xét nghiệm theo câu hỏi 'có đổi quyết định hôm nay không': ALT + tiểu cầu + AST trước (APRI), rồi HBV DNA, sau cùng huyết thanh HBV.",
+  "Không điều trị ≠ không theo dõi: nhiễm HBV hoạt độ thấp vẫn cần ALT, DNA, tầm soát ung thư gan định kỳ; tên 'người lành mang virus' dễ khiến bệnh nhân và thầy thuốc bỏ theo dõi (WHO 2024; APASL 2026).",
+  "Cai thuốc co mạch mũi ở người cao tuổi: ngạt tăng tạm thời; khuyên bỏ, rửa nước muối, không dùng lại (EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025).",
+  "Phù chân sau ngồi lâu: khám đối xứng, bắp chân, tim, nước tiểu trước khi nghĩ tới bệnh gan."
+ ],
+ "diem_nho": [
+  "ULN ALT nữ 19, nam 30 U/L (QĐ 1740/2026 mục 4.1.2b); EASL 2025, APASL 2026 coi trên 40 là cao.",
+  "Điều trị khi xơ hóa ≥ F2 (APRI > 0,5) bất kể DNA, ALT; hoặc HBV DNA > 2.000 kèm ALT > ULN (QĐ 1740/2026 mục 4.2.3a).",
+  "HBV DNA < 10^3, ALT bình thường, HBeAg âm: nhiễm HBV HBeAg âm (QĐ 1740/2026 Phụ lục 1).",
+  "Theo dõi chưa điều trị: ALT, công thức máu, nước tiểu 3–6 tháng; HBV DNA 24–48 tuần (QĐ 1740/2026 mục 4.3.1).",
+  "Tầm soát ung thư gan: siêu âm ± AFP 6 tháng/lần (TL-0169 mục 3.2)."
+ ],
+ "nguon": [
+  "BYT QĐ 1740/QĐ-BYT 2026 – viêm gan vi rút B – TL-0164 – mục 4.1.1, 4.1.2, 4.2.2, 4.2.3, 4.3.1, Phụ lục 1, 2, 3",
+  "BYT QĐ 3129/QĐ-BYT 2020 – ung thư biểu mô tế bào gan – TL-0169 – mục 3.1, 3.2, 4.1",
+  "WHO 2024 – chronic hepatitis B guidelines – TL-0180 – Chapter 2, 4, 5, mục 20.2",
+  "EASL 2025 – nhiễm HBV – TL-0197 – Bảng 7 và chú thích 1, Bảng 11, mục Treatment indications, Monitoring",
+  "APASL 2026 – chronic hepatitis B – TL-0185 – tr. 925 (inactive carrier), mục đánh giá xơ hóa (FIB-4 hiệu chỉnh ≥ 65 tuổi)",
+  "EPOS 2020 – TL-0087 – mục 6.1.10 (thuốc co mạch mũi); ARIA-EAACI 2024–2025 – TL-0546 – khuyến cáo thuốc co mạch mũi; BYT QĐ 5643/QĐ-BYT 2015 – TL-0130 – Viêm mũi xoang cấp tính mục 4.2.1; ESH 2023 Bảng 20, AHA/ACC 2025 Bảng 11 (thuốc thông mũi và huyết áp, theo sổ mâu thuẫn)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-13: viết mới. Biến sổ cái: nữ 78 tuổi, tiểu thương chợ; không điển hình; không bẫy cấu trúc; không cờ đỏ; 3 lượt, đỡ một phần ở lượt 2 (phù hết, mũi cai dở); nhiễu không đủ tiền xét nghiệm (250 nghìn, 600 nghìn, 250 nghìn); không có siêu âm (khoa_cls sieu_am; abdus thay_the); khởi phát sau ngồi xe 9 giờ; thuốc nhỏ mũi xylometazolin 4 năm; lý do thật là tái khám theo hẹn; kết cục ổn định.",
+  "Tài liệu đã đọc: TL-0164 (mục 4.1.1, 4.1.2, 4.2.2, 4.2.3, 4.3.1, Phụ lục 1, 2), TL-0169 (mục 3.1, 3.2), TL-0180 (Chapter 2, mục 20.2), TL-0197 (Bảng 7, 11, Treatment indications, Monitoring), TL-0185 (FIB-4 ≥ 65 tuổi, inactive carrier), TL-0087 (mục 6.1.10), TL-0546 (thuốc co mạch), TL-0130 (viêm mũi xoang cấp). Mâu thuẫn: ULN ALT 19 và 40, FIB-4/APRI, khoảng cách theo dõi, tầm soát HCC (xem TQ-0076_mau_thuan.md).",
+  "Không có trong tài liệu đã tải: tiêu chí nhập viện cho nhiễm HBV mạn ổn định; cách ngưng thuốc co mạch mũi; số lần rửa mũi/ngày; liều giảm đau an toàn; lịch tiêm vắc xin mũi nhắc; câu riêng về ăn chung mâm; mức BHYT chi trả siêu âm; lợi ích tầm soát ở tuổi 78; công thức FIB-4 chỉ ở WHO 2024 phần thuật ngữ.",
+  "Chi tiết do người soạn chọn, không có nguồn (đã ghi trong n): số liệu xét nghiệm, mốc 7–10 ngày và 4–6 tuần, tên và gia đình nhân vật, ngân sách từng lượt, kết quả siêu âm bệnh viện huyện.",
+  "Thiếu danh mục: không cần mục mới. Test nhanh anti-HCV/HIV dùng test_nhanh_virus (gồm cả HBsAg), que nước tiểu dùng que_nt."
+ ]
+}
