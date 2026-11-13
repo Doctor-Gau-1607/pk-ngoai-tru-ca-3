@@ -1,0 +1,672 @@
+{
+ "ma_ca": "DL-0713",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_may_day_man_tu_phat",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Mày đay mạn",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mạch",
+   "Bệnh hệ thống"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân đã nghỉ (làm ruộng hơn 50 năm, nay chỉ làm vườn nhà, nuôi vài con gà)",
+  "yeu_to_khoi_phat": "Sau khi uống nước không sạch (nước giếng chưa đun sôi lúc làm vườn)",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà (hàng xóm từng làm y tá thôn truyền giúp)",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình (con dâu cho là bệnh lây, tách chén đũa; con trai con dâu cãi nhau vì tiền chữa bệnh cho mẹ)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Bưởi",
+  "tuoi": 83,
+  "gioi": "Nữ",
+  "nghe": "Nông dân đã nghỉ, làm ruộng hơn 50 năm, nay làm vườn nhà, nuôi vài con gà; sống với con trai, con dâu ở xã, không lương hưu, sống nhờ con trai và trợ cấp người cao tuổi; cháu nội chở đi khám bằng xe máy",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'bà', gọi bác sĩ là 'bác sĩ' hoặc 'cháu'. Cháu Tuấn xưng 'cháu', gọi bà là 'bà', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, chậm rãi, hơi nặng tai, giọng quê, hay xin lỗi ('bà phiền con cháu'). Trả lời đúng ý, nghe lời bác sĩ. Ít kể chuyện nhà; chỉ lộ khi được hỏi nhẹ nhàng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời rõ, chấp nhận giải thích, làm theo lời dặn (uống thuốc đều, ghi sổ nhờ cháu). Chỉ nói thêm điều bà cho là liên quan (ngứa, mất ngủ); chuyện truyền dịch ở nhà và chuyện trong nhà chỉ lộ khi bác sĩ hỏi đúng chỗ. Bà từ chối xét nghiệm máu ('già rồi, máu ít, lấy đau, tốn tiền của con') nhưng nghe giải thích thì nhận phương án điều trị theo lâm sàng, chỉ đồng ý thử phân. Lượt 2, khi được giải thích rõ và nói trước tiền, bà đồng ý lấy máu một lần.",
+  "nguoi_nha": "Cháu nội Tuấn (17 tuổi) chở bà đi khám, ngồi ngoài, vào khi được gọi; ghi sổ hằng ngày giúp bà",
+  "ten_nguoi_nha": "Tuấn",
+  "ngoai_hinh": {
+   "da": "#c99f7b",
+   "toc": "#e6e6e6",
+   "kieuToc": "bui",
+   "ao": "#7d6a58",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 4,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d4a982",
+    "toc": "#1f1a17",
+    "kieuToc": "ngan",
+    "ao": "#3a4a6b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Nổi mẩn ngứa khắp lưng, bụng, tay hơn 2 tháng, ngứa dữ về đêm không ngủ được; đã tự lo ở nhà mà không hết hẳn",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 – Khám lần đầu",
+   "tiep_don": "Bà Trần Thị Bưởi, 83 tuổi, nông dân đã nghỉ, được cháu nội Tuấn chở đến khám vì nổi mẩn ngứa khắp người hơn 2 tháng, ngứa nhiều về đêm. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 146/84 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 46 kg, cao 150 cm. Bà tỉnh, nghe hơi kém, trả lời rõ ràng. Linh đưa bà vào phòng khám.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bà Bưởi là quá tay: bà không phù lưỡi, không đau bụng, sinh hiệu ổn (QĐ 4416 mục 3.2.1 chỉ nhập viện khi phù mạch lưỡi hoặc đau bụng). Bà nằm viện xa nhà, tốn tiền con trai đúng lúc vợ chồng anh cãi nhau vì tiền, con dâu càng tin bà bệnh nặng, bệnh lây.",
+    "chuyen_tuyen": "Chuyển bà lên tuyến trên làm xét nghiệm khi chưa thử kháng histamin H1 thế hệ 2 liều chuẩn là không cần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Bà đã từ chối lấy máu nên chuyến đi dễ thành công cốc, bà bỏ về rồi nhờ bà Tư truyền dịch tiếp.",
+    "theo_doi": "Giữ bà 24 giờ như phản vệ độ I là không cần: bà chỉ có biểu hiện da, không hô hấp, tuần hoàn, tiêu hóa (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2). Cháu Tuấn phải nghỉ học trông bà, bà càng áy náy là gánh nặng cho con cháu."
+   },
+   "loi_mo": "Chào bác sĩ. Bà nổi mề đay hơn hai tháng rồi, đêm nào cũng ngứa, gãi không ngủ được. Bà tự lo ở nhà mà không hết hẳn. Bác sĩ cho bà thuốc uống thôi nghe, đừng lấy máu bà, bà già rồi lấy máu đau lắm, mà tốn tiền của thằng con nó nữa.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "146/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nổi mẩn ngứa ở lưng, bụng, hai tay hơn 2 tháng. Đêm ngứa dữ, gãi nhiều, mất ngủ. Bà đến khám vì ngứa và mất ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Khoảng 9 tuần. Bắt đầu sau buổi bà làm vườn, khát, uống nước giếng chưa đun sôi; 2 ngày sau đi phân lỏng 2 ngày (không máu, không sốt) rồi tự hết; 3 ngày sau nổi mẩn lần đầu. Từ đó hầu như ngày nào cũng nổi, chỉ yên 1–2 ngày sau mỗi lần truyền nước. Bà tin 'độc nước còn trong người'. Hiện đã hết tiêu chảy, ăn uống bình thường, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian, khởi phát sau nước không sạch, tính liên tục: mày đay mạn (trên 6 tuần)"
+    },
+    {
+     "id": "tung_not",
+     "noi_dung": "Mỗi nốt nổi cao, đỏ hồng, ngứa, tồn tại khoảng 2–8 giờ rồi tự xẹp hết, không để lại thâm hay bầm; nốt này xẹp thì nốt khác nổi chỗ khác. Không đau, không rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mỗi sẩn phù dưới 24 giờ, không để lại dấu: loại viêm mạch"
+    },
+    {
+     "id": "so_luong",
+     "noi_dung": "Mỗi ngày nổi chừng 20–40 nốt, đêm ngứa phải ngồi dậy gãi, ngủ được 2–3 giờ; ban ngày vẫn làm vườn nhẹ. Không sưng môi, mi, lưỡi, họng; không khàn tiếng, khó thở, đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số sẩn phù/24 giờ, mức ngứa (tính UAS); không phù mạch"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, đau sưng khớp, loét miệng, ban sau nắng, tiểu bọt hay tiểu máu, rụng tóc; không nốt nằm lì quá một ngày, không bầm tím.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại viêm mạch và bệnh hệ thống (lupus, tuyến giáp...)"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Bà Tư hàng xóm, từng làm y tá thôn, truyền giúp ở nhà 4 lần trong 9 tuần để 'giải độc nước', lần cuối 6 ngày trước. Mỗi lần: 1 chai nước muối sinh lý 0,9% 500 mL pha 1 ống vitamin C và 1 ống dexamethason 4 mg (bà thấy vỏ ống ghi), truyền khoảng 1 giờ ở mu bàn tay trái. Sau mỗi lần bà đỡ ngứa 2–3 ngày rồi nổi lại như cũ. Không sốt rét run, chỗ kim không sưng đỏ. Bà muốn truyền tiếp vì 'thấy đỡ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: tự truyền dịch có corticoid tại nhà; đỡ ngắn hạn rồi nổi lại"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Tăng huyết áp 10 năm, uống amlodipin 5 mg buổi sáng (không ức chế men chuyển, sartan). Đau hai gối, thỉnh thoảng uống 1 viên paracetamol 500 mg. Không uống ibuprofen, diclofenac, meloxicam, aspirin (sợ đau bao tử). Không thuốc nam, thuốc ngủ. Chưa uống kháng histamin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc: không NSAID, không ức chế men chuyển; chưa dùng kháng histamin"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nổi mề đay; không chàm, hen, viêm mũi dị ứng; không dị ứng thuốc, hải sản. Mấy năm nay chưa kiểm tra đường huyết, thận, tuyến giáp. Nổi cả chỗ áo rộng không đụng; nước nóng, lạnh, mồ hôi, cọ xát không làm nổi riêng một chỗ. Con trai, con dâu, các cháu không ai ngứa hay nổi mẩn, chỉ mình bà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử; không yếu tố vật lý đặc hiệu (không phải mày đay cảm ứng); loại ghẻ (không ai trong nhà ngứa)"
+    },
+    {
+     "id": "xet_nghiem",
+     "noi_dung": "Bà không đồng ý lấy máu ('già rồi, máu ít, lấy đau, tốn tiền của con'), không cho cắt da; đồng ý lấy phân nếu bác sĩ thấy cần. Nếu được giải thích rõ, không bị ép, bà vẫn theo hướng điều trị của bác sĩ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: tôn trọng, ghi hồ sơ, phương án B (điều trị theo lâm sàng)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị Hoa, con dâu, cho bà 'bệnh ghê, lây' nên hơn một tháng nay để chén đũa riêng, không cho bà ngồi ăn chung, không cho bế bé Su (3 tuổi). Anh Hùng, con trai, cãi vợ vì chuyện này và tiền chữa bệnh cho mẹ; bà nghe thấy, thương con nên nhờ bà Tư truyền nước cho rẻ và từ chối xét nghiệm. Cháu Tuấn thương bà nên chở đi. Bà mong nhất là bác sĩ nói giùm với con dâu: bệnh không lây.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ở nhà ai chăm bà, bà có lo điều gì, chuyện ăn uống sinh hoạt trong nhà, hoặc nhắc đến bệnh có lây không; hoặc khi nhắc đến tiền xét nghiệm.",
+     "k": 0,
+     "y": "Lý do thật đến khám: mâu thuẫn gia đình, sợ bị coi là bệnh lây"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nghe hơi kém, gầy (46 kg, BMI 20,4). Da niêm hồng, không phù chi, không hạch cổ, nách, bẹn. Mu bàn tay trái có vết kim cũ, không sưng đỏ.",
+     "k": 0,
+     "hien": "Tỉnh, nghe hơi kém, gầy, da niêm hồng, không phù chi, không hạch. Mu bàn tay trái có vết kim cũ."
+    },
+    "da": {
+     "a": "Lưng, thắt lưng, hai bên sườn: nhiều sẩn phù hồng 0,5–3 cm, nổi gồ, vài chỗ liền thành mảng 5–8 cm, giữa nhợt khi ấn. Mặt duỗi hai cẳng tay: mảng hồng gồ nhẹ 6–10 cm, ranh giới mờ. Khoảng 30 sẩn. Xước móng rải rác; không thâm, ban xuất huyết, mụn nước, bọng nước, vảy. Kẽ ngón, cổ tay, nách, bẹn không có đường hầm hay mụn nước. Vạch da: chỉ ửng đỏ. Da cẳng chân khô nhẹ.",
+     "k": 1,
+     "hien": "Lưng, thắt lưng, hai bên sườn: nhiều sẩn nổi gồ màu hồng, vài chỗ nối thành mảng (ảnh); mặt duỗi cẳng tay: mảng hồng gồ nhẹ, ranh giới mờ. Khoảng 30 sẩn. Xước móng rải rác. Không mụn nước, bọng nước, vảy, ban xuất huyết, thâm. Kẽ ngón, cổ tay, nách, bẹn bình thường. Vạch da: chỉ ửng đỏ.",
+     "media": [
+      {
+       "vi_tri": "Lưng và thắt lưng",
+       "id": "HA-DA-0308",
+       "chu": "Lưng, thắt lưng: nhiều sẩn nổi gồ màu hồng, tụ thành đám, vài chỗ liền thành mảng nhỏ. Không mụn nước, loét, vảy, thâm."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Môi, mi mắt, lưỡi, lưỡi gà không sưng. Họng không đỏ, amiđan không to. Mũi thông. Giọng bình thường, không khàn.",
+     "k": 1,
+     "hien": "Môi, mi mắt, lưỡi, lưỡi gà không sưng; họng không đỏ; giọng bình thường."
+    },
+    "co_xuong_khop": {
+     "a": "Khớp tay, chân không sưng nóng đỏ; hai gối lạo xạo, không tràn dịch. Không đau cơ.",
+     "k": 1,
+     "hien": "Khớp tay, chân không sưng; hai gối lạo xạo nhẹ, không tràn dịch."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Bà không đồng ý lấy máu ('già rồi, máu ít, lấy đau, tốn tiền của con').",
+     "n": "Xét nghiệm cơ bản của mày đay mạn tự phát (TL-0405 mục 4.2, Bảng 8; QĐ 4416 mục 2.2) nhưng không bắt buộc: chẩn đoán xác định dựa vào lâm sàng (QĐ 4416 mục 2.3). Bà từ chối: ghi hồ sơ, giải thích lợi hại, không ép."
+    },
+    "crp": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu.",
+     "n": "CRP và/hoặc máu lắng giúp loại viêm mạch, bệnh hệ thống (TL-0405 Bảng 8). Không bắt buộc khi lâm sàng không gợi ý."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu.",
+     "n": "Không bắt buộc, nhưng bà 83 tuổi, 46 kg, chưa rõ chức năng thận: QĐ 3942/2014 (bài H1, Bảng 4) ghi fexofenadin cần giảm liều khi tổn thương thận (ngưỡng, mức giảm: không có trong tài liệu đã tải). Vì vậy hôm nay chỉ dùng liều chuẩn, chưa tăng."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Soi phân (bà đồng ý): không thấy trứng giun, ký sinh trùng; không hồng cầu, bạch cầu.",
+     "n": "QĐ 4416 (mục 2.2) có tìm ký sinh trùng; TL-0405 (mục 4.2.2, Bảng 8) chỉ làm khi bệnh sử gợi ý. Không bắt buộc vì bà hết tiêu chảy; kết quả bình thường. 40.000 đồng."
+    },
+    "ige_tong": {
+     "n": "Không cần: IgE toàn phần, anti-TPO ở tuyến chuyên khoa (TL-0405 mục 4.2, Bảng 8); bà cũng từ chối lấy máu."
+    },
+    "sinh_thiet_da": {
+     "n": "Không cần, bà từ chối: chỉ khi nghi viêm mạch mày đay (TL-0405 Hình 1, chú thích 7); sẩn phù của bà dưới 24 giờ, không thâm (chú thích 4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay mạn tính tự phát (CSU): sẩn phù hằng ngày khoảng 9 tuần, không yếu tố vật lý đặc hiệu, không phù mạch; UAS7 ước khoảng 33/42",
+     "ok": 1,
+     "n": "Mày đay mạn: sẩn phù hoặc phù mạch hằng ngày hoặc gần như hằng ngày trên 6 tuần (QĐ 4416 mục 1.1, 2.4.1; TL-0405 mục 3.2); tự phát khi không có yếu tố khởi phát đặc hiệu (QĐ 4416 mục 2.4.2). UAS7: TL-0405 mục 4.2.6, Bảng 11. Uống nước không sạch kèm tiêu chảy chỉ là mốc khởi phát: mày đay cấp thường theo sau nhiễm trùng và một số ca tiến triển thành CSU (TL-0405 mục 4.2.2)."
+    },
+    {
+     "t": "Mày đay viêm mạch",
+     "n": "Nghĩ khi mỗi sẩn phù tồn tại trên 24 giờ, đau rát hơn ngứa, để lại thâm hay xuất huyết, kèm sốt, đau khớp (QĐ 4416 mục 2.5; TL-0405 Hình 1, chú thích 4, 7). Bà: nốt 2–8 giờ, không thâm, không sốt, không đau khớp."
+    },
+    {
+     "t": "Bệnh hệ thống (lupus ban đỏ hệ thống, bệnh tuyến giáp tự miễn, bệnh tế bào mast, bệnh tự viêm, ung thư tiềm ẩn)",
+     "n": "QĐ 4416 (mục 2.5) nêu lupus, bệnh tế bào mast; TL-0405 (mục 4.2.1, 4.2.2) nêu bệnh tự viêm, ung thư rất hiếm. Bà không sốt, sụt cân, đau khớp, loét miệng, nhạy cảm ánh sáng, tiểu bất thường: loại bằng lâm sàng vì bà từ chối xét nghiệm, theo dõi sát, đề nghị lại khi cần."
+    },
+    {
+     "t": "Mày đay cấp sau nhiễm khuẩn hoặc ký sinh trùng tiêu hóa (nước giếng chưa đun)",
+     "n": "Mày đay cấp ≤ 6 tuần, bà trên 9 tuần nên là mạn (QĐ 4416 mục 2.4.1). Tiêu chảy đã hết, soi phân bình thường; nhiễm trùng âm thầm rất hiếm góp phần vào CSU, không tầm soát rộng (TL-0405 mục 4.2.2)."
+    },
+    {
+     "t": "Ghẻ (con dâu nghi lây) hoặc pemphigoid giai đoạn sẩn ngứa ở người cao tuổi",
+     "n": "Ghẻ: mụn nước kẽ ngón, cổ tay, nách, bẹn, đường hầm, nhiều người trong nhà cùng ngứa (QĐ 4416, Bệnh ghẻ mục 2.1): bà không có, cả nhà không ai ngứa. Pemphigoid sẩn ngứa nằm trong chẩn đoán phân biệt (QĐ 4416 mục 2.5) nhưng nốt xẹp hết trong ngày, không bọng nước, không vảy."
+    },
+    {
+     "t": "Mày đay cảm ứng (do nước, chứng vẽ nổi, áp lực, lạnh, nhiệt, cholinergic) hoặc do thuốc",
+     "n": "Mỗi loại có yếu tố khởi phát riêng, có nghiệm pháp (QĐ 4416 mục 2.2, 2.4.2; TL-0405 Hình 1, chú thích 8): bà nổi cả chỗ áo rộng, không theo nóng, lạnh, mồ hôi, tắm; vạch da âm tính. Thuốc: không NSAID, dexamethason truyền sau khi đã nổi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: mày đay mạn tự phát là nổi hằng ngày trên 6 tuần không tìm thấy nguyên nhân rõ, không phải 'độc nước còn trong người', không phải ghẻ; dùng thuốc uống hằng ngày để kiểm soát, có thể mất nhiều tuần đến nhiều tháng",
+     "v": "c",
+     "n": "Tế bào mast giải phóng histamin (QĐ 4416 mục 1.3); mạn tính cần duy trì thuốc kéo dài (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Thời gian bệnh và tỉ lệ khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2 liều chuẩn, uống hằng ngày (không chỉ khi nổi): fexofenadin 180 mg × 1 lần/ngày; hoặc cetirizin 10 mg, loratadin 10 mg, levocetirizin 5 mg, desloratadin 5 mg × 1 lần/ngày",
+     "v": "c",
+     "n": "Lựa chọn thứ nhất, liều chuẩn (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); liều: QĐ 3942/2014, bài H1, Bảng 3. Fexofenadin không giảm liều theo tuổi, giảm khi tổn thương thận (Bảng 4; mức giảm: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Ghi nhận bà từ chối xét nghiệm máu, giải thích lợi hại, không ép; chẩn đoán dựa vào lâm sàng; chỉ soi phân nếu bà đồng ý; hẹn đề nghị lại khi cần (vd trước khi tăng liều)",
+     "v": "c",
+     "n": "Chẩn đoán xác định dựa vào lâm sàng (QĐ 4416 mục 2.3); xét nghiệm hạn chế, không tầm soát rộng (TL-0405 mục 4.2, 4.2.2, Bảng 8); QĐ 4416 mục 2.2 liệt kê rộng hơn (ghi cả hai theo mục sổ mâu thuẫn). Quyền từ chối: không có điều khoản cụ thể trong tài liệu đã tải."
+    },
+    {
+     "t": "Tránh yếu tố làm nặng: không tự uống NSAID (ibuprofen, diclofenac, meloxicam, aspirin), đau gối dùng paracetamol; tránh cào gãi; giữ tinh thần thoải mái",
+     "v": "c",
+     "n": "NSAID làm nặng mày đay mạn ở tới 1/4 người bệnh, ngoại trừ paracetamol; stress ở tới 1/3 (TL-0405 mục 4.2.3, 5.2.4); tránh cào gãi (QĐ 4416 mục 4). Paracetamol 1–2 g/ngày cho thoái hóa khớp gối (QĐ 361/2014, mục 4.2.2)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần (sớm hơn nếu nặng lên), ghi sổ UAS hằng ngày nhờ cháu Tuấn; dặn dấu hiệu quay lại ngay: sưng môi, mi, lưỡi, họng, khàn tiếng, khó thở, đau bụng, chóng mặt; nốt nằm lì trên 24 giờ, thâm, sốt, đau khớp",
+     "v": "c",
+     "n": "Ghi cả hai mốc: QĐ 4416 (mục 3.2.2) 2–4 tuần; TL-0405 (mục 5.4, Hình 3) thụ thể bão hòa sau 1 tuần, tăng bậc sau 7–28 ngày nếu UCT dưới 12. Chọn 2 tuần vì bà 83 tuổi, ở xa, từ chối xét nghiệm. Phù mạch lưỡi hoặc đau bụng là chỉ định nhập viện (QĐ 4416 mục 3.2.1); khó thở cần cấp cứu (mục 2.1). UAS7 ghi hằng ngày giúp phát hiện yếu tố làm nặng như NSAID (TL-0405 mục 4.2.6, Bảng 11)."
+    },
+    {
+     "t": "Khuyên không tự truyền dịch ở nhà (nhất là chai pha corticoid); giải thích vì sao 'đỡ vài ngày rồi nổi lại'",
+     "v": "a",
+     "n": "Dexamethason 4 mg ≈ 27 mg prednison, tác dụng 36–72 giờ (QĐ 3942/2014, Glucocorticoid, Bảng 1); TL-0405 (mục 5.4) khuyến cáo mạnh không dùng corticoid dài ngày. Rủi ro truyền dịch tại nhà: không có trong tài liệu đã tải (có nguồn báo trong nguon), nên chấm a."
+    },
+    {
+     "t": "Hỏi chuyện ở nhà, giải thích cho cháu Tuấn nói lại với cha mẹ, hẹn mời anh Hùng, chị Hoa cùng đến buổi sau",
+     "v": "a",
+     "n": "Mâu thuẫn gia đình là lý do thật; stress làm nặng bệnh, thảo luận stress là một phần quản lý (TL-0405 mục 4.2.3, 5.2.4). Cách làm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền hoặc tiêm corticoid (dexamethason, depot) để cắt nhanh, hay uống corticoid kéo dài",
+     "v": "w",
+     "n": "Khuyến cáo mạnh không dùng corticoid toàn thân kéo dài hay depot trong mày đay mạn (TL-0405 mục 5.4); dùng kéo dài không được khuyến cáo (QĐ 4416 mục 3.2.2). Bà 83 tuổi, tăng huyết áp, chưa biết đường huyết."
+    },
+    {
+     "t": "Kê kháng histamin thế hệ 1 buổi tối (chlorpheniramin, promethazin, hydroxyzin) để bà ngủ được",
+     "v": "w",
+     "n": "AGS Beers 2023 (Bảng 2): 'Avoid' ở người ≥ 65 tuổi (khuyến cáo mạnh); TL-0405 (mục 5.4): không dùng thế hệ 1 đầu tay. QĐ 3942/2014 (mục 4a) từng cho buổi tối: khác năm và đối tượng (ghi cả hai theo sổ mâu thuẫn)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay mạn tính tự phát (CSU), không phù mạch; ICD-10 L50.1 (TL-0001, Phụ lục ICD-10)",
+     "Khoảng 9 tuần, hầu như hằng ngày; mỗi sẩn phù 2–8 giờ, không thâm; 20–40 sẩn phù/ngày, ngứa mất ngủ; UAS7 ước khoảng 33/42; vạch da âm tính",
+     "Khởi phát sau uống nước giếng chưa đun kèm tiêu chảy 2 ngày (đã hết, soi phân bình thường); không NSAID",
+     "Đã loại trên lâm sàng (bà từ chối xét nghiệm máu): viêm mạch mày đay, bệnh hệ thống, ghẻ, pemphigoid sẩn ngứa, mày đay cảm ứng, mày đay cấp",
+     "Thuốc cần chỉnh: truyền dịch tại nhà có dexamethason 4 mg (4 lần, lần cuối 6 ngày trước); tăng huyết áp (amlodipin), thoái hóa gối (paracetamol)",
+     "Lý do thật: con dâu sợ lây, tách chén đũa, vợ chồng con trai cãi nhau vì tiền; nhiễu: hợp tác nhưng từ chối xét nghiệm máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: lý do khám → thời gian, khởi phát, mỗi nốt tồn tại bao lâu, số nốt/ngày, ngứa → phù mạch, hô hấp, toàn thân, khớp → thuốc (cả truyền dịch, NSAID) → người nhà có ngứa không → khám da (kẽ ngón, nách, bẹn), môi họng, khớp → chuyện nhà.",
+     "Mày đay mạn tự phát: sẩn phù ngứa, xuất hiện rồi biến mất trong 24 giờ không để lại dát thâm (QĐ 4416 mục 2.1, 2.3); hằng ngày trên 6 tuần (mục 1.1, 2.4.1; TL-0405 mục 3.2); không yếu tố khởi phát đặc hiệu (QĐ 4416 mục 2.4.2). Loại viêm mạch khi không có xét nghiệm: hỏi 'mỗi nốt tồn tại bao lâu', sốt, đau khớp, tìm thâm (TL-0405 Hình 1, chú thích 4, 7).",
+     "Từ chối xét nghiệm: giải thích chẩn đoán chủ yếu dựa vào lâm sàng (QĐ 4416 mục 2.3), xét nghiệm cơ bản chỉ gồm công thức máu, máu lắng/CRP (TL-0405 Bảng 8) và hôm nay chưa đổi xử trí. Ghi hồ sơ; phương án B: điều trị theo lâm sàng, theo dõi sát, đề nghị lại khi tăng liều hoặc có dấu hiệu mới."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về nhà, kháng histamin H1 thế hệ 2 liều chuẩn hằng ngày, ghi sổ UAS, tái khám sau 2 tuần. Không nhập viện (chỉ khi phù mạch lưỡi hoặc đau bụng, QĐ 4416 mục 3.2.1), không chuyển tuyến (chưa thử bậc đầu), không theo dõi 24 giờ (không đủ tiêu chuẩn phản vệ; TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2).",
+     "Thuốc bậc 1: kháng histamin H1 thế hệ 2 liều chuẩn, theo dõi 2–4 tuần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4, Hình 4); fexofenadin 180 mg/ngày (QĐ 3942/2014 Bảng 3). Chưa đáp ứng: tăng tới gấp 4 lần, rồi omalizumab ở chuyên khoa.",
+     "Bà 83 tuổi: số liệu riêng cho người ≥ 75 tuổi không có trong tài liệu đã tải. Tránh thế hệ 1 (Beers 2023 Bảng 2). Chưa có creatinin nên chưa tăng liều (QĐ 3942/2014 Bảng 4). Chống corticoid dài ngày, depot (TL-0405 mục 5.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fexofenadin",
+      "ham_luong": "180 mg/viên",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Mỗi ngày cùng một giờ, buổi tối vì bà ngứa nặng về đêm; giờ uống tối ưu: không có trong tài liệu đã tải",
+      "so_ngay": "14 ngày, rồi tái khám; tổng thời gian theo đáp ứng, không tự ngưng (QĐ 4416 mục 3.2.2, mục 4)",
+      "ghi_chu": "Liều chuẩn: QĐ 3942/2014, bài H1, Bảng 3. Uống đều hằng ngày kể cả hôm không nổi (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Không giảm liều theo tuổi; giảm khi tổn thương thận (Bảng 4). Không dùng cùng erythromycin, ketoconazol (QĐ 3942/2014 mục 5a)."
+     },
+     {
+      "thuoc": "Paracetamol (thay NSAID khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau ít nhất 6 giờ, tối đa 2 viên/ngày (1 g)",
+      "duong": "uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Paracetamol 1–2 g/ngày cho thoái hóa khớp gối (QĐ 361/2014, mục 4.2.2); an toàn hơn NSAID ở người mày đay mạn (TL-0405 mục 4.2.3). Mức 1 g vì bà 46 kg, 83 tuổi; mức tối đa riêng cho người cao tuổi nhẹ cân: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem/lotion dưỡng ẩm (không mùi, không thuốc)",
+      "ham_luong": "—",
+      "lieu": "Bôi mỏng 1–2 lần/ngày lên vùng da khô, nhất là cẳng chân, sau tắm",
+      "duong": "bôi ngoài da",
+      "thoi_diem": "Sau tắm nước ấm, không chà xát",
+      "so_ngay": "Theo nhu cầu",
+      "ghi_chu": "Dưỡng ẩm, làm dịu da, tránh yếu tố kích thích (QĐ 4416 mục 3.2.2, điều trị hỗ trợ). Loại và lượng cụ thể: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng truyền dịch ở nhà, nhất là chai có dexamethason; đỡ vài ngày rồi nổi lại là do corticoid, không phải giải độc (QĐ 3942/2014, Glucocorticoid, Bảng 1; TL-0405 mục 5.4). Cảm ơn bà Tư nhưng nhờ bà không truyền nữa.",
+     "Uống fexofenadin mỗi tối một viên, kể cả hôm không nổi, ít nhất đến ngày tái khám, không tự ngưng (QĐ 4416 mục 4). Không uống thuốc xương khớp hay thuốc 'tây' hàng xóm cho (NSAID làm nặng, TL-0405 mục 4.2.3); đau gối dùng paracetamol.",
+     "Ghi sổ mỗi tối (số nốt 0–3, ngứa 0–3) nhờ cháu Tuấn (TL-0405 mục 4.2.6). Tái khám sau 2 tuần; đến ngay khi sưng môi, mi, lưỡi, họng, khàn tiếng, khó thở, đau bụng, chóng mặt, hoặc nốt nằm lì trên 1 ngày, thâm, sốt, đau khớp (QĐ 4416 mục 2.1, 3.2.1).",
+     "Chuyện ở nhà: nhờ cháu Tuấn nói lại rằng bệnh của bà là mày đay mạn, không phải ghẻ; mời anh Hùng, chị Hoa đến buổi sau để bác sĩ giải thích. Xét nghiệm máu vẫn có thể làm sau khi bà sẵn sàng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 2 tuần (nặng hơn)",
+   "tiep_don": "Bà Trần Thị Bưởi tái khám đúng hẹn sau 2 tuần, cháu Tuấn chở đến. Bà đã ngưng truyền dịch ở nhà theo lời dặn và uống fexofenadin 180 mg mỗi tối. Bà nói không bớt, mấy hôm nay nổi nhiều hơn, sáng nay mắt và môi sưng. Sinh hiệu: mạch 84 l/p, HA 152/88 mmHg, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bà là quá tay: bà chỉ sưng nhẹ mi và môi, không phù lưỡi, họng, không đau bụng, khó thở (QĐ 4416 mục 3.2.1); thuốc chính vẫn là kháng histamin tăng liều (TL-0405 mục 5.4). Bà nằm viện xa nhà, tốn tiền con, con dâu càng cho là bệnh nặng, bệnh lây.",
+    "chuyen_tuyen": "Chuyển bà đi tiêm omalizumab là quá sớm: chỉ thêm khi không đáp ứng kháng histamin liều gấp 4 sau 2–4 tuần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4), mà bà mới dùng liều chuẩn 14 ngày và còn uống NSAID chưa ai biết. Chuyến đi xa, tốn kém đúng lúc nhà căng chuyện tiền; bà dễ bỏ giữa chừng.",
+    "theo_doi": "Giữ bà 24 giờ như phản vệ độ I là không cần: chỉ có da và phù mạch mi môi, không hô hấp, tuần hoàn, tiêu hóa (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2). Điều thật sự đổi bệnh là ngưng NSAID và tăng liều kháng histamin."
+   },
+   "loi_mo": "Bác sĩ ơi, bà uống thuốc đều mà không bớt, mấy hôm nay còn nổi nhiều hơn, ngứa không chợp mắt được. Sáng nay bà thấy mắt bên phải với môi trên sưng lên. Bà không truyền nước nữa như bác sĩ dặn đâu.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "152/88",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Bà uống fexofenadin 180 mg mỗi tối đủ 14 ngày. Không bớt; 5 ngày nay nổi nhiều hơn khắp lưng, bụng, đùi, tay, mỗi ngày trên 50 nốt, nhiều chỗ liền thành mảng lớn; ngứa gần như thức trắng 3 đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đáp ứng liều chuẩn 2 tuần, nặng hơn"
+    },
+    {
+     "id": "so_diem",
+     "noi_dung": "Sổ cháu Tuấn viết giúp, 7 ngày gần nhất: 5 ngày mỗi ngày 6 điểm (nốt trên 50 hoặc liền mảng = 3, ngứa mất ngủ = 3) và 2 ngày 5 điểm: UAS7 = 40/42. UCT 4 tuần: bà chọn mức xấu nhất cả 4 câu, tổng 3/16.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "UAS7 = 40, UCT = 3: chưa kiểm soát (UCT dưới 12)"
+    },
+    {
+     "id": "phu_mach",
+     "noi_dung": "Sáng nay mi mắt phải và môi trên sưng căng, không đau, hơi ngứa; chưa từng bị. Không sưng lưỡi, họng, không khàn tiếng, khó thở, khò khè, đau bụng, nôn, chóng mặt; nuốt bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phù mạch nhẹ mi, môi; không phù lưỡi, họng, không đau bụng: không nhập viện"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "6 ngày trước trời trở lạnh, đau hai gối dữ, bà Tư cho 5 viên 'thuốc xương khớp' (hộp ghi meloxicam 7,5 mg). Bà uống mỗi sáng 1 viên đủ 5 ngày, ngưng từ hôm qua. Nổi nhiều hơn từ ngày thứ hai uống thuốc đó nhưng bà không nghĩ thuốc xương liên quan nên không nói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố làm nặng: NSAID (meloxicam) lấy từ hàng xóm"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Vẫn uống amlodipin 5 mg buổi sáng; không ức chế men chuyển, sartan, gliptin. Không truyền dịch lại, chỗ kim cũ bình thường; hôm nổi nhiều bà Tư rủ truyền 'thuốc mạnh hơn', bà từ chối vì bác sĩ đã dặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc: không ức chế men chuyển; đã ngưng truyền dịch"
+    },
+    {
+     "id": "dau_hieu",
+     "noi_dung": "Nốt vẫn nổi rồi xẹp trong ngày (3–8 giờ), không thâm, bầm, đau rát, bọng nước. Không sốt, đau sưng khớp, loét miệng, tiểu bọt hay tiểu máu, sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu viêm mạch, bệnh hệ thống"
+    },
+    {
+     "id": "stress",
+     "noi_dung": "Tuần qua trong nhà cãi nhau lớn: chị Hoa nói to 'mẹ đừng ra bếp nấu ăn nữa kẻo lây', anh Hùng bỏ cơm hai bữa. Bà ngủ buồng riêng, nằm khóc, lo, ăn ít; thấy nổi nhiều hơn từ lúc đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Stress làm nặng mày đay mạn"
+    },
+    {
+     "id": "xet_nghiem",
+     "noi_dung": "Lần này bà đồng ý lấy máu một lần nếu bác sĩ giải thích rõ vì sao cần và nói trước tiền: cháu Tuấn khuyên, anh Hùng dặn 'mẹ cứ làm, đừng lo tiền'. Vẫn không cho cắt da.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Từ chối lần trước, đồng ý một lần khi được giải thích: tôn trọng quyền tự quyết"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hôm qua anh Hùng nghe mẹ khóc, vào hỏi; chị Hoa nói 'bác sĩ nào cũng nói mề đay mà nổi hoài thì chắc bệnh ghê'. Bà vẫn mong bác sĩ nói giùm với con dâu: bệnh không lây, bà không bẩn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chuyện ở nhà tuần qua, ai chăm bà, bà lo điều gì, hoặc nhắc đến bệnh có lây không; hoặc khi hỏi vì sao nổi nhiều hơn.",
+     "k": 0,
+     "y": "Mâu thuẫn gia đình tiếp tục: nguồn stress và nỗi sợ bị xa lánh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mệt vì thiếu ngủ. Gầy, 46 kg. Da niêm hồng, không phù chi, không hạch ngoại biên. Mu bàn tay trái bình thường.",
+     "k": 0,
+     "hien": "Tỉnh, mệt, thiếu ngủ, da niêm hồng, không phù chi, không hạch ngoại biên."
+    },
+    "da": {
+     "a": "Lưng, bụng, hai đùi, hai tay: sẩn phù hồng, nhiều chỗ liền thành mảng 8–15 cm bờ lượn sóng, ước trên 50 sẩn/24 giờ; mặt duỗi cẳng tay: mảng hồng gồ nhẹ lan rộng, ranh giới mờ. Xước móng nhiều hơn lần trước. Không bọng nước, ban xuất huyết, thâm. Vạch da: chỉ ửng đỏ.",
+     "k": 1,
+     "hien": "Lưng, bụng, đùi, tay: nhiều sẩn nổi gồ màu hồng, nhiều chỗ liền thành mảng lớn bờ lượn sóng; mặt duỗi cẳng tay: mảng hồng nổi gờ nhẹ lan rộng, ranh giới mờ (ảnh). Vết xước móng nhiều hơn lần trước. Không bọng nước, ban xuất huyết, vết thâm. Vạch da: chỉ ửng đỏ.",
+     "media": [
+      {
+       "vi_tri": "Mặt duỗi cẳng tay",
+       "id": "HA-DA-0306",
+       "chu": "Cẳng tay: vùng ửng hồng lan rộng, nổi gờ nhẹ, ranh giới mờ, vài chỗ liền thành mảng; rải rác chấm đỏ nhỏ; vài vết xước. Không mụn nước, không bọng nước, không loét, không vảy, không thâm."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Môi trên sưng nhẹ, mềm, không đau, không đổi màu; mi mắt phải sưng nhẹ, mềm. Lưỡi, lưỡi gà, họng bình thường; giọng không khàn; không thở rít.",
+     "k": 1,
+     "hien": "Môi trên và mi mắt phải sưng nhẹ, mềm, không đau; lưỡi, lưỡi gà, họng bình thường; giọng không khàn, không thở rít."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, thở êm. Rì rào phế nang rõ hai bên, không ran rít, ran ngáy.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, thở êm, không co kéo cơ hô hấp phụ."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không chướng, không phản ứng.",
+     "k": 1,
+     "hien": "Bụng mềm, không đau, không chướng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,1 G/L · Neutrophil 64% · Eos 2% · Hb 124 g/L · TC 238 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 64.0,
+      "neu": 4.54,
+      "lym_pct": 26.5,
+      "lym": 1.88,
+      "mono_pct": 6.5,
+      "mono": 0.46,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.1,
+      "hgb": 124,
+      "hct": 0.37,
+      "mcv": 90.2,
+      "mch": 30.2,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 238
+     },
+     "n": "Xét nghiệm cơ bản của mày đay mạn tự phát (TL-0405 mục 4.2, Bảng 8; QĐ 4416 mục 2.2). Bình thường: không tăng bạch cầu, không giảm bạch cầu ái toan hay ái kiềm (giảm kèm CRP cao gợi CSU týp IIb, TL-0405 mục 4.2.2). Đáng làm vì đợt nặng, có phù mạch, 83 tuổi, sắp tăng liều. 50.000 đồng."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "CRP hoặc máu lắng giúp loại viêm mạch, bệnh hệ thống (TL-0405 mục 4.2, Bảng 8). Bình thường. 80.000 đồng."
+    },
+    "mau_lang": {
+     "v": "a",
+     "r": "VS giờ đầu 24 mm",
+     "n": "Chỉ cần máu lắng hoặc CRP (TL-0405 Bảng 8); làm cả hai không đổi quyết định."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,8 mmol/L · Creatinin 84 µmol/L · eGFR 59 mL/phút/1,73 m²",
+     "bang": {
+      "ure": 6.8,
+      "creat": 84,
+      "egfr": 59
+     },
+     "n": "Hữu ích trước khi tăng liều ở người 83 tuổi, 46 kg: QĐ 3942/2014 (bài H1, Bảng 4) ghi fexofenadin cần giảm liều khi tổn thương thận, không nêu ngưỡng eGFR hay mức giảm (không có trong tài liệu đã tải). Nên chọn gấp 2, kiểm tra lại sau 2 tuần."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,1 mIU/L · FT4 14 pmol/L (trong giới hạn bình thường)",
+     "n": "QĐ 4416 (mục 2.2) có hormon tuyến giáp; TL-0405 (mục 4.2.2, Bảng 8) chỉ làm khi bệnh sử gợi ý. Chấp nhận, không bắt buộc. 180.000 đồng."
+    },
+    "sinh_thiet_da": {
+     "n": "Không cần, bà từ chối: không gợi ý viêm mạch (TL-0405 Hình 1, chú thích 7)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay mạn tính tự phát, đợt nặng hơn, chưa kiểm soát sau 2 tuần fexofenadin liều chuẩn (UAS7 = 40/42, UCT = 3/16), kèm phù mạch nhẹ mi mắt phải và môi trên; yếu tố làm nặng: meloxicam 5 ngày (NSAID), căng thẳng gia đình",
+     "ok": 1,
+     "n": "Mục tiêu UAS = 0, UCT = 16; UCT dưới 12 là chưa kiểm soát (TL-0405 mục 5.1, 4.2.6, Hình 2, 3). NSAID làm nặng ở tới 1/4 người bệnh, stress tới 1/3 (mục 4.2.3). Có phù mạch và hoạt động cao gợi bệnh dai dẳng, kém đáp ứng kháng histamin (mục 4.2.5)."
+    },
+    {
+     "t": "Phản vệ hoặc phù mạch đe dọa đường thở",
+     "n": "Không: không phù lưỡi, họng, khàn tiếng, khó thở, khò khè, đau bụng, tụt huyết áp (QĐ 4416 mục 2.1, 3.2.1); không đủ tiêu chuẩn phản vệ (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2)."
+    },
+    {
+     "t": "Phù mạch do bradykinin (thuốc ức chế men chuyển, phù mạch di truyền hay mắc phải)",
+     "n": "Phù mạch đi cùng sẩn phù; bà dùng amlodipin, không ức chế men chuyển (TL-0405 mục 4.2.1, Hình 1, chú thích 1). Không cần C4, C1-INH."
+    },
+    {
+     "t": "Mày đay viêm mạch",
+     "n": "Nốt xẹp trong ngày, không thâm, không sốt, không đau khớp, CRP và bạch cầu bình thường (QĐ 4416 mục 2.5; TL-0405 Hình 1, chú thích 4, 7)."
+    },
+    {
+     "t": "Bệnh hệ thống (lupus, tuyến giáp tự miễn, bệnh tế bào mast, bệnh tự viêm, ung thư tiềm ẩn) hoặc pemphigoid sẩn ngứa",
+     "n": "Không dấu hiệu lâm sàng; công thức máu, CRP, TSH bình thường (QĐ 4416 mục 2.5; TL-0405 mục 4.2.1, 4.2.2). Pemphigoid phải nhớ ở bà 83 tuổi nhưng không bọng nước, nốt xẹp trong ngày; nếu còn nghi thì chuyển chuyên khoa (cách làm: không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hẳn meloxicam và mọi NSAID (ibuprofen, diclofenac, aspirin); đau gối dùng paracetamol; bà Tư không cho thuốc nữa",
+     "v": "c",
+     "n": "NSAID là thuốc làm nặng thường gặp nhất, ngoại trừ paracetamol; thuốc nghi ngờ thì bỏ hẳn (TL-0405 mục 4.2.3, 5.2.1). QĐ 361/2014 (thoái hóa khớp gối mục 4.2.2) nêu cả meloxicam 7,5 mg: khác bối cảnh, người mày đay mạn nên tránh NSAID."
+    },
+    {
+     "t": "Tăng bậc kháng histamin: fexofenadin 180 mg × 2 lần/ngày (gấp 2), uống đều hằng ngày; giải thích đây là dùng ngoài chỉ định, có thể lên tới gấp 4 nếu cần",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.2.2): sau 2–4 tuần không đáp ứng cân nhắc tăng, tới gấp 4; QĐ 3942/2014 (mục 4a): gấp 2–4; TL-0405 (mục 5.4, Hình 3): khuyến cáo mạnh tăng tới gấp 4 trước thuốc khác, không quá 4 lần; UCT dưới 12 sau 7–28 ngày thì tăng bậc; phải nói với người bệnh là off-label. Chọn gấp 2 vì 83 tuổi, eGFR 59 (mức giảm liều: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Đánh giá lại toàn diện: thuốc, yếu tố làm nặng, phù mạch; khám môi, họng, phổi, bụng; loại phản vệ; xét nghiệm hạn chế khi bà đồng ý: công thức máu, CRP (hoặc máu lắng), creatinin; không sinh thiết, ANA",
+     "v": "c",
+     "n": "Nhập viện chỉ khi phù mạch lưỡi hoặc đau bụng (QĐ 4416 mục 3.2.1); xét nghiệm hạn chế theo TL-0405 (mục 4.2, Bảng 8), QĐ 4416 (mục 2.2) rộng hơn (ghi cả hai theo sổ). Tôn trọng việc lần trước bà từ chối; lần này bà đồng ý một lần sau khi được giải thích."
+    },
+    {
+     "t": "Ngoại trú, tái khám sau 1–2 tuần (UAS7, UCT, chỉnh liều); dặn quay lại ngay hoặc gọi cấp cứu khi sưng lưỡi, họng, khàn tiếng, khó thở, đau bụng, chóng mặt, ngất, sưng mi môi tăng",
+     "v": "c",
+     "n": "Ghi cả hai mốc: TL-0405 (mục 5.4, Hình 3) 7–28 ngày; QĐ 4416 (mục 3.2.2) 2–4 tuần; hẹn sớm vì nặng hơn, 83 tuổi, ở xa. Phù mạch lưỡi hoặc đau bụng là chỉ định nhập viện (QĐ 4416 mục 3.2.1); khó thở cần cấp cứu (mục 2.1)."
+    },
+    {
+     "t": "Giảm stress: nghe bà, mời anh Hùng, chị Hoa cùng đến; nói rõ với gia đình đây là mày đay mạn, không phải ghẻ hay bệnh lây; ghi sổ UAS, không truyền dịch hay tiêm thuốc ở nhà",
+     "v": "c",
+     "n": "Hỏi về stress, nói biện pháp giảm stress có thể giúp (TL-0405 mục 4.2.3, 5.2.4); UAS7, UCT ở mọi lần khám (mục 4.2.6); không tự ý dùng thuốc ngoài đơn (QĐ 4416 mục 4). Cách làm việc với gia đình, rủi ro truyền dịch tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid uống đợt ngắn cho đợt bùng (prednison hoặc methylprednisolon)",
+     "v": "a",
+     "n": "Ghi cả hai (theo sổ): QĐ 4416 (mục 3.2.2) 0,3–0,5 mg/kg trong 10–14 ngày (bà 46 kg: khoảng 14–23 mg/ngày); TL-0405 (mục 5.4) tối đa 10 ngày, 20–50 mg/ngày quy prednison. Chấp nhận, không bắt buộc; bà 83 tuổi, HA 152/88 nên ưu tiên tăng kháng histamin trước."
+    },
+    {
+     "t": "Kháng histamin thế hệ 1 (chlorpheniramin, promethazin) hoặc thuốc ngủ để bà ngủ được",
+     "v": "w",
+     "n": "AGS Beers 2023 (Bảng 2): tránh ở người ≥ 65 tuổi (khuyến cáo mạnh); TL-0405 (mục 5.4): không dùng thế hệ 1 đầu tay; QĐ 3942/2014 (mục 4a) từng cho buổi tối: khác năm và đối tượng."
+    },
+    {
+     "t": "Truyền hoặc tiêm corticoid, tiêm depot, hay prednison kéo dài để cắt nhanh đợt nổi",
+     "v": "w",
+     "n": "Khuyến cáo mạnh không dùng corticoid toàn thân kéo dài hoặc depot trong mày đay mạn (TL-0405 mục 5.4); dùng kéo dài không được khuyến cáo (QĐ 4416 mục 3.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay mạn tính tự phát (CSU), đợt nặng hơn, chưa kiểm soát sau 2 tuần liều chuẩn: UAS7 = 40/42, UCT = 3/16; ICD-10 L50.1",
+     "Phù mạch nhẹ mi mắt phải và môi trên; không phù lưỡi, họng, không khó thở, đau bụng; không phản vệ",
+     "Yếu tố làm nặng: meloxicam 7,5 mg × 5 ngày (hàng xóm cho); căng thẳng gia đình tuần qua",
+     "Đã loại: viêm mạch mày đay, bệnh hệ thống (công thức máu, CRP, TSH bình thường), phù mạch do bradykinin, pemphigoid sẩn ngứa; creatinin 84 µmol/L, eGFR 59",
+     "Nhiễu và lý do thật: hợp tác, đồng ý lấy máu một lần sau khi được giải thích; nỗi sợ bị coi là bệnh lây, cãi vã trong nhà tiếp diễn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: đáp ứng thuốc, tuân thủ → sổ UAS, UCT → phù mạch, hô hấp, tiêu hóa → vì sao nặng lên: thuốc mới (cả thuốc hàng xóm cho, NSAID), stress → viêm mạch, toàn thân → khám da, môi họng, phổi → xét nghiệm hạn chế → xử trí.",
+     "Nặng hơn là CSU chưa kiểm soát: UCT dưới 12 sau 7–28 ngày liều chuẩn thì tăng bậc (TL-0405 Hình 3). Không hỏi lại chẩn đoán từ đầu nhưng đánh giá lại toàn diện để tìm yếu tố làm nặng và dấu hiệu mới.",
+     "Phù mạch nhẹ mi, môi cùng sẩn phù gợi mày đay mạn có phù mạch; bà không dùng ức chế men chuyển nên không nghĩ phù mạch bradykinin (TL-0405 Hình 1, chú thích 1). Có phù mạch và hoạt động cao là dấu hiệu bệnh dai dẳng (TL-0405 mục 4.2.5). Nhập viện chỉ khi phù lưỡi, họng hoặc đau bụng (QĐ 4416 mục 2.1, 3.2.1); bà SpO₂ 96%, phổi không ran, bụng mềm.",
+     "Tôn trọng quyền tự quyết: lần trước bà từ chối nên không ép; lần này giải thích xét nghiệm nào đổi quyết định (công thức máu, CRP, creatinin trước khi tăng liều), nói rõ tiền, bà đồng ý một lần; vẫn không cắt da."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về nhà, ngưng NSAID, tăng kháng histamin gấp 2, tái khám sau 1–2 tuần. Không nhập viện, không chuyển tuyến để tiêm omalizumab (chỉ thêm khi không đáp ứng liều gấp 4, QĐ 4416 mục 3.2.2; TL-0405 mục 5.4), không giữ theo dõi 24 giờ.",
+     "Tăng liều: 2 viên fexofenadin 180 mg/ngày; chưa gấp 4 vì 83 tuổi, eGFR 59, QĐ 3942/2014 (Bảng 4) ghi giảm liều khi tổn thương thận nhưng không nêu ngưỡng (không có trong tài liệu đã tải). Tăng tới gấp 4 chưa ghi nhận biến cố nghiêm trọng; một nghiên cứu Đài Loan gợi tín hiệu sa sút trí tuệ, TL-0405 (mục 5.4) coi là cần theo dõi, chưa đổi khuyến cáo.",
+     "Nếu sau 2 tuần ở gấp 2 vẫn UCT dưới 12: tăng tới gấp 4; vẫn không đáp ứng: omalizumab ở chuyên khoa (QĐ 4416: 150–300 mg dưới da mỗi 4 tuần; TL-0405: khởi đầu 300 mg mỗi 4 tuần). Khi kiểm soát: duy trì vài tuần đến 1 tháng, mày đay mạn lâu hơn (QĐ 4416 mục 3.2.2); hạ bậc khi hết triệu chứng 3–6 tháng (TL-0405 Hình 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fexofenadin",
+      "ham_luong": "180 mg/viên",
+      "lieu": "1 viên × 2 lần/ngày (gấp 2 liều chuẩn)",
+      "duong": "uống",
+      "thoi_diem": "Sáng và tối, cách nhau khoảng 12 giờ; giờ tối ưu: không có trong tài liệu đã tải",
+      "so_ngay": "14 ngày, rồi tái khám; không tự ngưng (QĐ 4416 mục 3.2.2, mục 4)",
+      "ghi_chu": "Gấp 2 (QĐ 4416 mục 3.2.2 tới gấp 4; QĐ 3942/2014 mục 4a gấp 2–4; TL-0405 mục 5.4 tới gấp 4, off-label). Liều chuẩn: QĐ 3942/2014 Bảng 3; giảm liều khi tổn thương thận (Bảng 4, ngưỡng: không có trong tài liệu đã tải). Không dùng cùng erythromycin, ketoconazol (QĐ 3942/2014 mục 5a)."
+     },
+     {
+      "thuoc": "Paracetamol (thay NSAID khi đau gối)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau ít nhất 6 giờ, tối đa 2 viên/ngày (1 g)",
+      "duong": "uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Paracetamol 1–2 g/ngày (QĐ 361/2014, mục 4.2.2); an toàn hơn NSAID ở người mày đay mạn (TL-0405 mục 4.2.3). Mức tối đa riêng cho người 83 tuổi, 46 kg: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn meloxicam và mọi thuốc xương khớp loại NSAID (ibuprofen, diclofenac, aspirin); đau gối dùng paracetamol (TL-0405 mục 4.2.3). Đem hộp thuốc bà Tư cho đến cho bác sĩ xem.",
+     "Uống fexofenadin 1 viên sáng, 1 viên tối, kể cả khi nổi ít; không tự ngưng, không tự tăng thêm (QĐ 4416 mục 4). Tăng gấp đôi là ngoài chỉ định chính thức nhưng đã được y văn nghiên cứu (TL-0405 mục 5.4).",
+     "Ghi sổ UAS mỗi tối; tái khám sau 1–2 tuần; đến ngay khi sưng lưỡi, họng, khàn tiếng, khó thở, đau bụng, chóng mặt, ngất, hoặc sưng mi môi tăng (QĐ 4416 mục 2.1, 3.2.1). Không truyền dịch hay tiêm thuốc ở nhà.",
+     "Với gia đình: bệnh của bà là mày đay mạn, thường không tìm ra nguyên nhân, không phải ghẻ, cần uống thuốc đều nhiều tuần đến nhiều tháng; căng thẳng làm nặng bệnh (TL-0405 mục 4.2.3). Mời anh Hùng, chị Hoa đến buổi sau; bà cần được ăn ngủ cùng gia đình."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Bưởi bỏ meloxicam, không truyền dịch nữa, uống fexofenadin 360 mg/ngày. Phù mi và môi hết sau 2 ngày nhưng sẩn phù còn hằng ngày: sau 2 tuần UAS7 còn khoảng 18, phải tăng tiếp lên gấp 4, đến tuần thứ 6 UCT 13 và tuần thứ 8 sau lượt 2 hết nổi (UAS7 = 0). Bà khỏi chậm hơn bà và gia đình mong ('truyền vài chai là hết'), còn phải uống thuốc nhiều tháng rồi hạ bậc dần. Sau buổi giải thích với anh Hùng và chị Hoa, con dâu cho bà ăn chung lại; bà nhẹ lòng, ngủ được, không phải chuyển tuyến hay nhập viện.",
+ "nhieu": [
+  "Hợp tác tốt nhưng từ chối xét nghiệm máu (sợ đau, tốn tiền của con): tôn trọng, ghi hồ sơ, giải thích, chẩn đoán lâm sàng, đề nghị lại khi cần; lượt 2 bà đồng ý một lần sau khi được giải thích.",
+  "Tự truyền dịch tại nhà: 4 lần nước muối pha vitamin C và dexamethason 4 mg do hàng xóm truyền; bà đỡ 2–3 ngày (tác dụng corticoid) rồi nổi lại, tin là 'giải độc'; chỉ lộ khi hỏi kỹ về thuốc.",
+  "Khởi phát sau uống nước giếng chưa đun kèm tiêu chảy: dễ kết luận nhiễm trùng, ký sinh trùng, kê kháng sinh hay xổ giun; nhưng trên 6 tuần là mạn tự phát, tiêu chảy đã hết.",
+  "Lý do thật là mâu thuẫn gia đình: con dâu sợ lây, tách chén đũa, vợ chồng con trai cãi nhau vì tiền; chỉ lộ khi hỏi chuyện nhà.",
+  "Rất cao tuổi: nặng hơn ở lượt 2 do meloxicam bà Tư cho (bà không nghĩ liên quan) và căng thẳng gia đình; dễ vội chuyển tuyến, nhập viện hay cho kháng histamin thế hệ 1 để ngủ."
+ ],
+ "bai_hoc_bien": [
+  "Mày đay mạn tự phát: sẩn phù hằng ngày trên 6 tuần, mỗi sẩn dưới 24 giờ không thâm là dấu loại viêm mạch (QĐ 4416 mục 1.1, 2.1, 2.4.1; TL-0405 mục 3.2, Hình 1, chú thích 4, 7); chẩn đoán lâm sàng (QĐ 4416 mục 2.3); ghi UAS7 làm mốc (TL-0405 Bảng 11).",
+  "Từ chối xét nghiệm: ghi hồ sơ, giải thích, không ép; xét nghiệm hạn chế đủ cho quyết định (TL-0405 mục 4.2, Bảng 8); khi bà sẵn sàng thì làm đúng xét nghiệm đổi quyết định (creatinin trước tăng liều); QĐ 4416 mục 2.2 liệt kê rộng hơn.",
+  "Rà thuốc và yếu tố làm nặng: corticoid truyền tại nhà (QĐ 3942/2014, Glucocorticoid, Bảng 1; TL-0405 mục 5.4), NSAID (mục 4.2.3), stress (mục 4.2.3, 5.2.4), kháng histamin thế hệ 1 (Beers 2023 Bảng 2).",
+  "Nặng hơn: UCT dưới 12 sau 7–28 ngày liều chuẩn thì tăng bậc, tới gấp 4 trước omalizumab (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4, Hình 3, 4); phù mạch nhẹ không phải chỉ định nhập viện khi không phù lưỡi hay đau bụng (QĐ 4416 mục 3.2.1).",
+  "Ghi chú áp dụng người ≥ 75 tuổi: bằng chứng chủ yếu từ người trưởng thành; số liệu riêng nhóm này, tỉ lệ và thời gian khỏi: không có trong tài liệu đã tải; thận trọng chức năng thận khi tăng liều (QĐ 3942/2014 Bảng 4), tín hiệu sa sút trí tuệ cần theo dõi (TL-0405 mục 5.4)."
+ ],
+ "diem_nho": [
+  "Mày đay mạn: sẩn phù hoặc phù mạch hằng ngày hoặc gần như hằng ngày trên 6 tuần; tự phát khi không có yếu tố khởi phát đặc hiệu (QĐ 4416 mục 1.1, 2.4.1, 2.4.2).",
+  "UAS7 = tổng 7 ngày (mỗi ngày 0–3 sẩn phù + 0–3 ngứa), tối đa 42; UCT 4 câu, tối đa 16, từ 12 là kiểm soát tốt (TL-0405 mục 4.2.6, Bảng 11, Hình 2, 3).",
+  "Kháng histamin thế hệ 2 liều chuẩn hằng ngày; sau 2–4 tuần không đáp ứng tăng tới gấp 4 (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); fexofenadin 180 mg × 1/ngày (QĐ 3942/2014 Bảng 3).",
+  "Nhập viện khi phù mạch lưỡi hoặc đau bụng (QĐ 4416 mục 3.2.1); NSAID làm nặng ở tới 1/4 người bệnh, paracetamol an toàn hơn (TL-0405 mục 4.2.3)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023 (TL-0397) – Bệnh mày đay mục 1.1, 1.3, 2.1–2.5, 3.1, 3.2.1, 3.2.2, 4; Bệnh ghẻ mục 2.1.",
+  "GA²LEN/EAACI 2026, International Guideline for Urticaria (TL-0405; Allergy 2026;81(8):2582-2632) – mục 3.2, 4.1, 4.2, 4.2.1–4.2.6, Bảng 8, Bảng 11, Hình 1–4, mục 5.1, 5.2.1, 5.2.4, 5.4.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho cũ tltk-10000-ca) – bài Các thuốc kháng histamin H1 mục 2c (Bảng 3), Bảng 4, mục 4a, 5a; bài Glucocorticoid Bảng 1; bài Mày đay – phù Quincke mục 4.2.",
+  "AGS Beers Criteria 2023 (TL-0022; J Am Geriatr Soc 2023) – Bảng 2, kháng histamin thế hệ 1.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, bệnh cơ xương khớp (TL-0286) – thoái hóa khớp gối mục 4.2.2 (paracetamol 1–2 g/ngày).",
+  "TT 51/2017/TT-BYT (TL-0014) Phụ lục I mục I.2; WAO 2020 Anaphylaxis Guidance (TL-0025) Bảng 2 – mày đay đơn thuần không phải phản vệ.",
+  "TL-0001 (Phụ lục ICD-10) – L50.1.",
+  "Nguồn bổ sung tự tìm (chỉ cảnh báo chung, không phải hướng dẫn chuyên môn): Sức khỏe & Đời sống, 'Cảnh báo nguy cơ tử vong khi tự tiêm, truyền tại nhà', 02/2026, https://suckhoedoisong.vn/canh-bao-nguy-co-tu-vong-khi-tu-tiem-truyen-tai-nha-169260226122604008.htm",
+  "Không dùng được toàn văn: TL-0440 (remibrutinib), TL-0441 (dupilumab) – chỉ dùng tóm tắt trong TL-0405 mục 5.4.",
+  "Ảnh: SCIN (Google Research & Stanford), case 7555277930479653112, dataset/images/-298848235389824552.png (HA-DA-0306); case -1822381819381484229, dataset/images/7779758798320382398.png (HA-DA-0308); SCIN Data Use License – ghi nguồn."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-13): mày đay mạn tự phát, nữ 83 tuổi, nông dân đã nghỉ, 2 lượt, khoa_cls null; nhiễu hợp tác nhưng từ chối xét nghiệm máu (đồng ý soi phân lượt 1, lấy máu một lần lượt 2); khởi phát sau uống nước giếng chưa đun; thuốc đang dùng: truyền dịch tại nhà có dexamethason; lý do thật: mâu thuẫn gia đình. Hai lượt ket_luan ve_hen; neu_sai cả hai lượt: nhap_vien, chuyen_tuyen, theo_doi. Lượt 2 sau 2 tuần, tiếp từ xử trí chuẩn lượt 1: nặng hơn do meloxicam và stress (UAS7 = 40, UCT = 3, phù mạch nhẹ mi môi).",
+  "Tài liệu đã đọc: QĐ 4416 (TL-0397) Bệnh mày đay mục 1–4, Bệnh ghẻ mục 2.1; TL-0405 mục 3.2, 4.1–4.2.6, Bảng 8, 11, Hình 1–4, mục 5.1, 5.2.1, 5.2.4, 5.4; QĐ 3942/2014 (bài H1, bài Glucocorticoid Bảng 1, bài Mày đay mục 4.2); AGS Beers 2023 Bảng 2; QĐ 361/2014 thoái hóa khớp gối; sổ mâu thuẫn.",
+  "Không có trong tài liệu đã tải: rủi ro truyền dịch tại nhà (chỉ có nguồn báo); ngưỡng eGFR, mức giảm liều fexofenadin; mức tối đa paracetamol ở người cao tuổi nhẹ cân; giờ uống thuốc tối ưu; tỉ lệ, thời gian khỏi; cách làm việc với gia đình; điều khoản quyền từ chối xét nghiệm; toàn văn TL-0440, TL-0441.",
+  "Mâu thuẫn ghi cả hai (theo sổ): xét nghiệm mày đay mạn; kháng histamin thế hệ 1; corticoid đợt ngắn; thời gian duy trì; tăng liều. Mục mới: mốc đánh giá và tăng liều (DL-0713_mau_thuan.md).",
+  "Ảnh SCIN: xem trước HA-DA-0304 đến 0308; dùng 0308 (lưng, thắt lưng: sẩn phù hồng) cho lượt 1 và 0306 (cẳng tay: mảng hồng liên kết) cho lượt 2, không mặt, chữ, hình xăm (0308 có ô đen che sẵn ở góc); loại 0304 (tổn thương rất nhạt), 0305 (vệt xước), 0307 (vệt đỏ dài ở sườn, giống chứng vẽ nổi). Nghi ngờ: ảnh người trẻ hơn bệnh nhân."
+ ]
+}
