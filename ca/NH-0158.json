@@ -1,0 +1,715 @@
+{
+ "ma_ca": "NH-0158",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-14",
+ "benh": "NH_nhiem_khuan_ho_hap_tren_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh lớp 6",
+  "yeu_to_khoi_phat": "Mất ngủ kéo dài (ôn thi giữa kỳ, thức khuya 2 tuần)",
+  "thuoc_dang_dung": "Thuốc nam không rõ loại (nước sắc lá mẹ lấy của hàng xóm, uống 4 ngày); paracetamol vài liều",
+  "ly_do_that_su_den_kham": "Sợ mắc lao (bạn cùng bàn có bố đang điều trị lao phổi)"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Thu Hà",
+  "tuoi": 11,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 34,
+  "chieu_cao": 140,
+  "xung_ho": "Bé 11 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, nhỏ giọng. Mẹ là chị Hương, 38 tuổi, bán rau ở chợ, xưng 'em' với bác sĩ, gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Hà ngoan, ít nói, hay lo, sợ kim tiêm từ lần lấy máu năm lớp 3 và sợ buồn nôn khi bị ngoáy họng. Mẹ thương con nhưng thu nhập bấp bênh, ngại nói chuyện tiền, quen dùng thuốc nam của hàng xóm, nói nhanh, hay ngắt lời khi bác sĩ đề nghị xét nghiệm.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ gạt mọi đề nghị xét nghiệm bằng 'thôi bác sĩ, cháu sợ kim, khám sơ sơ cho thuốc thôi' chứ không nói thẳng là không có tiền; chỉ cởi mở khi bác sĩ hỏi nhẹ nhàng về chi phí và nói rõ xét nghiệm nào đổi được cách chữa, xét nghiệm nào bỏ được. Bé từ chối thật vì sợ kim, sợ ngoáy họng. Hà không tự nói nỗi sợ mắc lao (sợ bị bạn xa lánh, sợ mẹ tốn tiền); chỉ nói khi được hỏi riêng, nhẹ nhàng, không phán xét. Mẹ không tự kể chuyện cho uống nước lá vì nghĩ 'không phải thuốc tây'.",
+  "nguoi_nha": "Mẹ bé, chị Hương, 38 tuổi, đi cùng. Hà tự trả lời về triệu chứng của mình khi được hỏi trực tiếp (nguoi_noi = benh_nhan); mẹ trả lời về thuốc đã cho, tiền, tiêm chủng, đo nhiệt độ (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#e8bf9a",
+   "toc": "#17110e",
+   "kieuToc": "dai",
+   "ao": "#8ec5a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a679",
+    "toc": "#2a1d15",
+    "kieuToc": "bui",
+    "ao": "#c98f6b",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé ho, sổ mũi, sốt 5 ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 11 tuổi, 34 kg, mẹ đưa đến vì ho, sổ mũi 5 ngày, sốt từ ngày thứ 2, ăn kém. Mẹ nói sẵn 'khám sơ sơ cho thuốc thôi bác sĩ, cháu sợ kim'. Sinh hiệu: nhiệt 38,4 °C, mạch 96 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, mệt, ngồi sát mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bé Hà chỉ vì sốt 4 ngày và ho là không có chỉ định: bé tỉnh, uống được, thở 22 l/p, SpO₂ 98%, không rút lõm, không dấu hiệu nguy hiểm toàn thân; ho, cảm lạnh chăm sóc tại nhà, tái khám sau 5 ngày nếu không đỡ (WHO 2013 mục 4.4, Bảng 7; QĐ 101/2014 mục V.1). Mẹ bán rau phải bỏ buôn bán nhiều ngày, chi phí vượt xa tiền thuốc, bé vốn sợ kim lại bị đặt đường truyền, và gia đình càng sợ bệnh viện nên lần sau càng chần chừ đi khám.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên 'để thử máu, chụp phổi, thử lao cho chắc' là quá tay: ho mới 5 ngày chưa đủ tiêu chí nghi lao (cần kéo dài trên 2 tuần, QĐ 162/2024 Phần II mục 1.1 Bảng 1), phổi trong, không thở nhanh nên chưa nghĩ viêm phổi (QĐ 101/2014 mục V.1). Mẹ đã nói rõ không đủ tiền xét nghiệm nên nhiều khả năng không đi, và bé về nhà không có hướng dẫn chăm sóc nào, vẫn tiếp tục uống nước lá."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em ho, sổ mũi, sốt mấy hôm nay rồi. Bác sĩ khám sơ sơ rồi cho thuốc uống thôi nha, đừng thử máu thử gì, cháu sợ kim lắm.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho, sổ mũi 5 ngày; sốt 38–38,5 °C từ ngày thứ 2; ăn ít hơn nhưng vẫn uống nước. Mẹ chỉ muốn thuốc uống, không xét nghiệm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan là chủ yếu, buổi sáng hơi có đờm trong; ho nhiều khi nằm. Không khó thở, không khò khè, không đau ngực, không ho ra máu. Đau họng nhẹ hai ngày đầu, nuốt được. Nước mũi trong, nghẹt nhẹ. Không đau tai, không đau má, không đau đầu nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, đau họng, mũi, tai"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé vẫn tự đi lại, uống nước được, không nôn tất cả mọi thứ, không co giật, không li bì, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Bốn ngày nay mẹ cho bé uống nước sắc lá 'thanh nhiệt, dễ ngủ' lấy của một cô hàng xóm, ngày hai bát; mẹ không biết tên lá, không còn gói. Hôm qua cho paracetamol 500 mg một lần khi sốt. Chưa dùng kháng sinh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể vì cho rằng 'thuốc nam không phải thuốc'. Chỉ nói khi bác sĩ hỏi đã cho uống gì, kể cả thuốc nam, nước lá, thuốc bổ.",
+     "k": 1,
+     "y": "Thuốc nam không rõ loại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bạn cùng bàn nghỉ học hai tuần nay vì bố bạn bị lao phổi đang điều trị; bé nghe bạn bè nói 'ho là bị lao'. Bé chỉ ngồi cạnh bạn trong lớp, chưa từng đến nhà bạn. Bé sợ mình bị lao, sợ bị bạn xa lánh và sợ mẹ tốn tiền nên không dám nói với mẹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bé không tự nói trước mặt mẹ. Chỉ nói khi bác sĩ hỏi riêng, nhẹ nhàng, không phán xét: 'em có đang lo điều gì về cơn ho không', hoặc hỏi về bạn bè, người quen ho lâu.",
+     "k": 1,
+     "y": "Lý do thật: sợ mắc lao"
+    },
+    {
+     "id": "lao_tc",
+     "noi_dung": "Cân nặng vẫn 34 kg, không sụt cân, không ra mồ hôi đêm, không sốt kéo dài trước đợt này. Có sẹo BCG ở cánh tay trái. Trong nhà không ai ho lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng nghi lao, tiếp xúc, BCG"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Hai tuần trước kỳ thi giữa kỳ bé thức ôn bài đến 0–1 giờ sáng, ngủ 4–5 giờ mỗi đêm, sáng dậy sớm đi học; ho, sổ mũi bắt đầu sau những đêm đó. Thi xong từ hôm kia, bé mới ngủ lại được nhưng ho làm thức giấc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mất ngủ kéo dài (khởi phát)"
+    },
+    {
+     "id": "tien_xn",
+     "noi_dung": "Mẹ bán rau, thu nhập mỗi ngày không chắc; hai ngày nay bé nghỉ học, mẹ nghỉ bán. Mẹ sợ xét nghiệm 'tốn mấy trăm nghìn' nên nói bé sợ kim. Bé có sợ kim thật, lần lấy máu năm lớp 3 bị bầm lâu, và sợ buồn nôn khi bị ngoáy họng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền, từ chối xét nghiệm"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mỗi năm cảm vài lần. Không hen, không dị ứng thuốc, không bệnh mạn tính, chưa dùng kháng sinh gần đây.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, quầng thâm nhẹ quanh mắt, da ấm, niêm mạc miệng ẩm, khóc có nước mắt: không mất nước.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ (< 1 cm), mềm, di động, không đau. Không hạch cổ sau, hạch thượng đòn. Cổ mềm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau có nhầy trong chảy xuống; hai amiđan độ I, không xuất tiết, không giả mạc. Niêm mạc mũi phù, hồng, dịch trong. Hai màng nhĩ xám hồng, bóng, nón sáng rõ, không phồng. Ấn má và trán không đau.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, đều, không rút lõm lồng ngực. Gõ trong, rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 34 kg, chiều cao 140 cm, thể trạng bình thường, không gầy.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không điểm đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Mẹ và bé không đồng ý lấy máu (bé sợ kim, mẹ ngại tốn kém). Không có kết quả.",
+     "n": "Không cần: viêm mũi họng cấp dựa vào triệu chứng và khám thực thể (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); xét nghiệm máu thường không cần (AWaRe 2022, tr. 49). CRP cũng không cần; ngưỡng CRP để chọn kháng sinh: không có trong tài liệu đã tải. Từ chối: tôn trọng, ghi vào hồ sơ; thủ tục: không có trong tài liệu đã tải."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Bé không đồng ý ngoáy họng (sợ buồn nôn). Không có kết quả.",
+     "n": "Chấp nhận, không bắt buộc: có ho, sổ mũi nên thường không test (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (AWaRe 2022, tr. 50); McIsaac 2 điểm, nguy cơ trung gian (IDSA 2025 Bảng 3) nên làm test không bị trừ điểm. Bé từ chối: không ép."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Mẹ không đồng ý chụp (bé không khó thở, tốn tiền). Không làm.",
+     "n": "Không bắt buộc: chẩn đoán viêm phổi trẻ em chủ yếu dựa lâm sàng, 2–3 ngày đầu X-quang có thể bình thường (QĐ 101/2014 mục V, VI.1); ho mới 5 ngày chưa nghi lao (QĐ 162/2024 Phần II Bảng 1). Chụp để trấn an chấp nhận được, không đổi xử trí."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Không chỉ định, không thực hiện.",
+     "n": "Không cần hôm nay: ho dưới 2 tuần, không sụt cân, không mồ hôi đêm, không tiếp xúc hộ gia đình (QĐ 162/2024 Phần II mục 1.1 Bảng 1, mục 1.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp) nghĩ do virus, ngày thứ 5, chưa biến chứng, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Ho, sổ mũi, sốt, họng đỏ nhẹ, amiđan không xuất tiết (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); virus chiếm 60–80% (mục 2.1.2); WHO 2013 mục 4.4, Bảng 7."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: có ho, sổ mũi (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (AWaRe 2022, tr. 50); McIsaac 2 điểm (IDSA 2025 Bảng 3). Bé từ chối ngoáy họng nên kết luận dựa hoàn toàn vào lâm sàng."
+    },
+    {
+     "t": "Viêm phổi (kể cả do Mycoplasma)",
+     "n": "Thở 22 l/p, dưới ngưỡng > 30 l/p của trẻ trên 5 tuổi; không rút lõm; phổi không ran (QĐ 101/2014 mục V.1). M. pneumoniae có thể tới 50% nguyên nhân ở trẻ trên 5 tuổi (mục IV) nên hẹn tái khám."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ bóng, không phồng, không đỏ rực: chưa đủ tiêu chuẩn (AAP 2013, KAS 1A–1B)."
+    },
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn",
+     "n": "Chưa nghĩ: mới ngày 5, nước mũi trong, không đau mặt; nghĩ khi xấu đi sau 5–7 ngày hoặc kéo dài hơn 10 ngày (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.1)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Chưa đủ tiêu chí: ho mới 5 ngày (cần trên 2 tuần), không sụt cân, không mồ hôi đêm, không tiếp xúc hộ gia đình (QĐ 162/2024 Phần II mục 1.1 Bảng 1, mục 1.3); ho từ 14 ngày mới tìm lao (WHO 2013 mục 4.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán lâm sàng nhiễm khuẩn hô hấp trên cấp do virus, chăm sóc tại nhà, hẹn tái khám sau 5 ngày nếu không đỡ",
+     "v": "c",
+     "n": "Viêm mũi họng cấp không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); ho, cảm lạnh không có dấu hiệu viêm phổi thì chăm sóc tại nhà, tái khám sau 5 ngày nếu không đỡ (WHO 2013 mục 4.4, Bảng 7)."
+    },
+    {
+     "t": "Không dùng kháng sinh hôm nay, giải thích bệnh do virus, sốt thường lui sau 3–5 ngày, HOẶC amoxicillin uống theo QĐ 5643 (điều trị như liên cầu khi chưa có xét nghiệm)",
+     "v": "c",
+     "n": "Cách A (không kháng sinh): WHO 2013 mục 4.4; IDSA 2012 khuyến cáo I.4; AWaRe 2022, tr. 50 (Centor 0–2 chỉ điều trị triệu chứng; ca này 1 điểm). Cách B: QĐ 5643, Viêm mũi họng cấp tính mục 4.1, 4.3.1 (amoxicillin 10 ngày); liều IDSA 2012 Bảng 2 và AWaRe 2022, tr. 50: xem đơn thuốc. Khác nhau vì QĐ 5643 viết cho bối cảnh chưa có xét nghiệm, IDSA/AWaRe dùng thang điểm. Mức lưu hành thấp tim ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận mẹ và bé từ chối xét nghiệm: tôn trọng, giải thích một lần vì sao hôm nay chưa xét nghiệm nào đổi được cách chữa, hỏi nhẹ nhàng về chi phí, ghi vào hồ sơ có mẹ đồng ý, nêu phương án B",
+     "v": "c",
+     "n": "Chưa bắt buộc: QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2; AWaRe 2022, tr. 49–50; QĐ 101/2014 mục V. Xếp ưu tiên: nếu chỉ đủ tiền cho một xét nghiệm thì vẫn chưa cần, vì không kết quả nào đổi quyết định (nhận xét của người biên soạn). Phương án B: tái khám sớm, test liên cầu khi Centor 3–4 (AWaRe tr. 50). Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng bé, nhẹ nhàng, phát hiện nỗi sợ mắc lao; trấn an bằng tiêu chí: ho mới 5 ngày, không sụt cân, không mồ hôi đêm, không tiếp xúc hộ gia đình; hẹn đánh giá lao nếu ho từ 14 ngày",
+     "v": "c",
+     "n": "Nghi lao khi bệnh kéo dài trên 2 tuần kèm ho, giảm cân, sốt, mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1); nguy cơ: tiếp xúc trực tiếp với nguồn lây (mục 1.3); ho từ 14 ngày: lao, hen, ho gà (WHO 2013 mục 4.4). Xử trí người tiếp xúc gián tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi thuốc đã cho ở nhà, phát hiện nước lá không rõ loại; đề nghị ngưng hẳn, không trách mẹ",
+     "v": "c",
+     "n": "Thuốc cổ truyền có thể gây ngộ độc (WHO 2013 mục 1.6). Thành phần, độc tính nước lá này: không có trong tài liệu đã tải; ngưng là nguyên tắc thận trọng theo sổ mâu thuẫn."
+    },
+    {
+     "t": "Paracetamol 500 mg/lần (≈ 15 mg/kg) khi sốt làm bé khó chịu, cách nhau ít nhất 6 giờ, tối đa 4 lần/24 giờ",
+     "v": "c",
+     "n": "Ngưỡng: WHO 2013 mục 4.4 (≥ 39 °C và khó chịu); QĐ 3312/2015 (Viêm phổi do vi khuẩn mục 4 phần 2.2: ≥ 38,5 °C). Liều: AWaRe 2022, tr. 50 (≥ 30 kg): 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; QĐ 708/2015 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/ngày (2.040 mg). Chọn mức thận trọng 4 × 500 mg = 2 g/ngày."
+    },
+    {
+     "t": "Rửa hoặc nhỏ mũi bằng nước muối sinh lý, uống đủ nước, ăn lỏng chia nhiều bữa",
+     "v": "c",
+     "n": "Nước muối sinh lý, rửa mũi, hút mũi: QĐ 5643 (Viêm mũi xoang trẻ em mục 4.2.1); cho dịch theo nhu cầu cộng thêm khi sốt (WHO 2013 mục 4.4). Số lần mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đến ngay nếu thở nhanh (trên 30 l/p), rút lõm ngực, không uống được, li bì, co giật; sốt lại, đau má, nước mũi vàng xanh, sưng quanh mắt; ho kéo dài đến 14 ngày thì tái khám để xem lao",
+     "v": "c",
+     "n": "Thở nhanh trên 5 tuổi > 30 l/p; viêm phổi nặng khi không uống được, lơ mơ, co giật, tím tái, SpO₂ < 90% (QĐ 101/2014 mục V.1, V.2). Biến chứng xoang, tai, phổi (QĐ 5643 Viêm mũi họng cấp tính mục 5.2). Dấu cảnh báo xoang (AWaRe 2022, tr. 65). Mốc 14 ngày: WHO 2013 mục 4.4, Bảng 7."
+    },
+    {
+     "t": "Ibuprofen 200–400 mg mỗi 6–8 giờ thay paracetamol khi sốt khó chịu (không dùng đồng thời cả hai)",
+     "v": "a",
+     "n": "AWaRe 2022, tr. 50: ibuprofen ≥ 30 kg 200–400 mg mỗi 6–8 giờ, tối đa 2,4 g/ngày, ngang hàng paracetamol (hai thuốc coi là lựa chọn ngang nhau)."
+    },
+    {
+     "t": "Test nhanh liên cầu nếu bé đồng ý sau khi được giải thích",
+     "v": "a",
+     "n": "McIsaac 2 điểm là nguy cơ trung gian (IDSA 2025 Bảng 3); IDSA 2012 khuyến cáo I.4 thường không test khi dấu hiệu virus rõ nên không bắt buộc."
+    },
+    {
+     "t": "Giữ hoặc ép bé để lấy máu, ngoáy họng, chụp phổi sau khi mẹ và bé đã từ chối, hoặc nói 'không xét nghiệm thì không khám'",
+     "v": "w",
+     "n": "Xét nghiệm không bắt buộc hôm nay (QĐ 5643 mục 3.1.2; AWaRe 2022, tr. 49–50); ép buộc làm bé thêm sợ kim, gia đình bỏ khám. Quy định đồng ý của trẻ dưới 18 tuổi: không có trong tài liệu đã tải; ca theo nguyên tắc tôn trọng quyền tự quyết."
+    },
+    {
+     "t": "Cho uống tiếp nước lá 'thanh nhiệt, dễ ngủ' hoặc kê thêm thuốc an thần cho bé ngủ",
+     "v": "w",
+     "n": "Không biết thành phần, thuốc cổ truyền có thể gây ngộ độc (WHO 2013 mục 1.6); hiệu quả, an toàn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ho có codein hoặc atropin, thuốc long đờm, thuốc nhỏ mũi có hoạt chất",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc chứa atropin, codein hoặc dẫn xuất, rượu (có thể có hại), thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất."
+    },
+    {
+     "t": "Aspirin để hạ sốt hoặc giảm đau họng",
+     "v": "h",
+     "n": "IDSA 2012 khuyến cáo IV.2: tránh aspirin ở trẻ em (mạnh, trung bình); QĐ 5643 (mục 4.3.2) nêu aspirin không kèm liều cho trẻ; theo sổ mâu thuẫn chọn bên thận trọng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp), nghĩ do virus, ngày thứ 5",
+     "Không dấu hiệu nguy hiểm, không thở nhanh, không viêm phổi, không viêm tai giữa cấp, chưa nghĩ viêm xoang vi khuẩn",
+     "Chưa đủ tiêu chí nghi lao; bé đang lo bị lao vì bạn cùng bàn có bố bệnh lao",
+     "Đang uống nước lá không rõ thành phần; mất ngủ kéo dài trước khi bệnh",
+     "Mẹ và bé từ chối xét nghiệm (sợ kim, tốn kém): xử trí bằng lâm sàng, ghi nhận từ chối"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là nhiễm khuẩn hô hấp trên do virus: ho, sổ mũi nước trong, sốt, họng đỏ nhẹ, amiđan không xuất tiết, màng nhĩ bình thường. Viêm mũi họng cấp không cần cận lâm sàng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); virus chiếm 60–80% (mục 2.1.2), tự khỏi sau 3–5 ngày (mục 5.1); cảm lạnh hầu hết hết trong 14 ngày (WHO 2013 mục 4.4): hai mốc khác nhau, 3–5 ngày cho sốt, đau họng; 14 ngày cho cả đợt kể cả ho, sổ mũi.",
+     "Vì sao liên cầu ít nghĩ: Centor 1 điểm, chỉ điều trị triệu chứng (AWaRe 2022, tr. 50); McIsaac 2 điểm, nguy cơ trung gian (IDSA 2025 Bảng 3); dấu hiệu virus rõ thì thường không test (IDSA 2012 khuyến cáo I.4). Bé từ chối ngoáy họng nên kết luận này dựa hoàn toàn vào lâm sàng.",
+     "Vì sao chưa phải viêm phổi: cần ho, sốt kèm thở nhanh (trên 5 tuổi > 30 l/p), rút lõm hoặc phổi bất thường (QĐ 101/2014 mục V.1); bé thở 22 l/p, phổi trong, SpO₂ 98%. Dặn quay lại nếu ho dai dẳng, vì M. pneumoniae có thể tới 50% nguyên nhân ở trẻ trên 5 tuổi (mục IV). Không phải viêm tai giữa cấp: màng nhĩ không phồng (AAP 2013, KAS 1A–1B).",
+     "Vì sao chưa nghĩ viêm xoang: nghĩ khi xấu đi sau 5–7 ngày hoặc kéo dài hơn 10 ngày (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.1; AWaRe 2022, tr. 64); bé mới ngày 5, nhưng sắp đến mốc phải theo dõi.",
+     "Vì sao chưa nghi lao dù bé lo: người nghi lao cần biểu hiện lâm sàng (trẻ em: bệnh kéo dài trên 2 tuần kèm ho kéo dài, giảm cân, sốt, mồ hôi đêm), yếu tố nguy cơ hoặc hình ảnh bất thường (QĐ 162/2024 Phần II mục 1, Bảng 1). Bé ho 5 ngày, cân nặng ổn, có sẹo BCG; bạn cùng bàn chỉ ngồi cạnh con người bệnh, không phải tiếp xúc hộ gia đình (mục 1.3). Hỏi riêng bé để biết nỗi lo là một nửa việc điều trị.",
+     "Diagnostic timeout: hỏi lại bốn câu: dấu hiệu nguy hiểm toàn thân? tai, phổi, xoang? bé còn lo điều gì, có tiếp xúc người bệnh lao không? đã cho uống gì kể cả nước lá? Đủ bốn câu mới cho về."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh hoặc amoxicillin: hai cách đều đúng. Không kháng sinh theo WHO 2013 mục 4.4, IDSA 2012 khuyến cáo I.4, AWaRe 2022, tr. 50; amoxicillin theo QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1). Khác nhau vì QĐ 5643 viết khi chưa có xét nghiệm, nguồn quốc tế dùng thang điểm.",
+     "Xét nghiệm bị từ chối: tôn trọng, giải thích một lần, hỏi nhẹ nhàng về chi phí, ghi hồ sơ. Hôm nay không xét nghiệm nào đổi được quyết định (QĐ 5643 mục 3.1.2; AWaRe 2022, tr. 49–50). Phương án B: tái khám sau 5 ngày, test liên cầu khi Centor 3–4, xét nghiệm lao khi ho từ 14 ngày.",
+     "Hạ sốt: paracetamol 10–15 mg/kg mỗi 6 giờ (AWaRe 2022, tr. 50), trần 60 mg/kg/ngày (QĐ 708/2015); 34 kg chọn 500 mg, tối đa 4 lần = 2 g/ngày, chỉ khi bé khó chịu (WHO 2013 mục 4.4). Không aspirin (IDSA 2012 khuyến cáo IV.2).",
+     "Ngưng nước lá: thuốc cổ truyền có thể gây ngộ độc (WHO 2013 mục 1.6); không thay bằng thuốc an thần, thuốc ho (WHO 2013 mục 4.4). Thành phần nước lá, giấc ngủ trẻ 11 tuổi: không có trong tài liệu đã tải.",
+     "Chăm sóc mũi họng, uống đủ nước (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1; WHO 2013 mục 4.4). Hẹn tái khám sau 5 ngày nếu không đỡ (WHO 2013 Bảng 7), dặn rõ dấu hiệu quay lại gồm dấu cảnh báo xoang vì bé sắp đến mốc 10 ngày (QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.1; AWaRe 2022, tr. 65)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol viên 500 mg",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên/lần (≈ 15 mg/kg; cho phép 10–15 mg/kg = 340–510 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu (≥ 38,5 °C theo QĐ 3312 hoặc ≥ 39 °C theo WHO 2013); cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt, thường 3–5 ngày; tối đa 4 viên/24 giờ (2 g ≈ 59 mg/kg, dưới 60 mg/kg/ngày = 2.040 mg)",
+      "ghi_chu": "AWaRe 2022, tr. 50 (≥ 30 kg): 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; QĐ 708/2015 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/ngày; QĐ 3312/2015; WHO 2013 mục 4.4. Chọn mức thận trọng theo sổ mâu thuẫn."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) lọ nhỏ hoặc rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc rửa mỗi bên mũi, sau đó xì nhẹ hoặc hút sạch dịch",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Khi nghẹt mũi, nhất là trước khi ngủ",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm mũi xoang trẻ em mục 4.2.1). Số lần mỗi ngày và số ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (CHỈ khi chọn cách B theo QĐ 5643; đáp án chính cách A không kê)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "Cách 1: 500 mg/lần × 2 lần/ngày (25 mg/kg, tối đa 500 mg/lần) hoặc 1.000 mg × 1 lần/ngày. Cách 2: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chia đều trong ngày",
+      "so_ngay": "10 ngày (QĐ 5643, IDSA 2012) hoặc 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao (AWaRe 2022)",
+      "ghi_chu": "QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1: 10 ngày, không nêu liều trẻ); IDSA 2012 Bảng 2 (cách 1); AWaRe 2022, tr. 50 (cách 2). Mức lưu hành thấp tim ở Việt Nam: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh do virus, sốt thường lui sau 3–5 ngày, ho và sổ mũi có thể kéo dài đến 14 ngày (QĐ 5643 mục 5.1; WHO 2013 mục 4.4). Phần lớn không cần kháng sinh.",
+     "Ngưng hẳn nước lá không rõ loại; không tự mua thuốc ho, thuốc long đờm, thuốc an thần cho bé (WHO 2013 mục 1.6, 4.4).",
+     "Paracetamol 500 mg chỉ khi sốt làm bé khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần/24 giờ (AWaRe 2022; QĐ 708). Không aspirin (IDSA 2012 IV.2). Rửa mũi nước muối, uống nước đều, ăn lỏng; ngủ lại đủ giấc sau kỳ thi.",
+     "Chị và bé chưa cần lo bị lao: ho mới 5 ngày, cân nặng ổn, không mồ hôi đêm. Nếu ho đến 14 ngày thì đưa bé đi kiểm tra (WHO 2013 mục 4.4; QĐ 162/2024 Bảng 1). Em nên nói với mẹ hoặc thầy cô khi lo lắng.",
+     "Xét nghiệm hôm nay chưa cần; sẽ làm khi có dấu hiệu mới, chị có quyền hỏi giá trước.",
+     "Đưa bé đến ngay nếu thở nhanh (trên 30 lần/phút khi nằm yên), rút lõm ngực, không uống được, nôn tất cả, li bì, co giật (QĐ 101/2014; WHO 2013); hoặc sốt lại, đau má, nhức đầu nhiều, nước mũi vàng xanh kèm sốt, sưng đỏ quanh mắt (AWaRe 2022, tr. 65; QĐ 5643).",
+     "Tái khám sau 5 ngày nếu chưa hết sốt hoặc chưa đỡ (WHO 2013 Bảng 7), không chờ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Tái khám sau 5 ngày, bệnh đã 10 ngày. Bé không hết sốt, ho vẫn còn, nghẹt mũi tăng, nước mũi vàng xanh, kêu đau hai bên má. Mẹ đã ngưng nước lá, cho paracetamol và rửa mũi như dặn. Sinh hiệu: nhiệt 38,7 °C, mạch 104 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé mệt, nói chậm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Hà ngay hôm nay là chưa có chỉ định: bé tỉnh, uống được, không sưng đỏ quanh mắt, vận nhãn bình thường, cổ mềm, không đau đầu dữ dội; chỉ khi có dấu cảnh báo (sốt dai dẳng ≥ 39 °C, sưng đỏ quanh mắt, đau đầu dữ dội, rối loạn ý thức) mới cần điều trị mạnh hơn (AWaRe 2022, tr. 65). Mẹ mất thêm nhiều ngày bán hàng, chi phí vượt xa tiền thuốc uống, và bé phải chịu kim tiêm vốn rất sợ.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên 'làm CT xoang' ngay là quá tay và làm chậm điều trị: chẩn đoán viêm xoang vi khuẩn là chẩn đoán lâm sàng, hình ảnh chỉ khi nghi biến chứng (AWaRe 2022, tr. 64; IDSA ABRS 2012 khuyến cáo 24); kháng sinh phải bắt đầu ngay khi đã chẩn đoán lâm sàng (khuyến cáo 2). Mẹ đã hai lần từ chối xét nghiệm vì tiền nên nhiều khả năng không đi, bé sốt thêm nhiều ngày không có kháng sinh.",
+    "theo_doi": "Giữ bé theo dõi, chỉ rửa mũi và hạ sốt, hẹn lại sau 3 ngày mà không kê kháng sinh là bỏ lỡ thời điểm: bệnh đã 10 ngày không đỡ, kèm sốt, mủ mũi, đau má, thuộc tiêu chuẩn viêm xoang vi khuẩn cần khởi kháng sinh ngay (IDSA ABRS 2012 khuyến cáo 1, 2; QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.1). Bé sốt thêm nhiều ngày, mẹ mất lòng tin và quay lại nước lá."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu vẫn sốt, ho, mũi chảy mủ vàng xanh, kêu đau hai bên má. Em đã bỏ thuốc nước lá như bác sĩ dặn rồi, mà cháu không đỡ.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "38,7",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ ngày thứ 8 bé không ngày nào hết sốt, cao nhất 39,0 °C hôm kia; nước mũi vàng xanh đặc từ 3 ngày nay, nghẹt mũi tăng; ho vẫn nhiều về đêm; ăn ít. Không có ngày nào đỡ hẳn từ lúc khám lần trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến, không đỡ"
+    },
+    {
+     "id": "dau_mat",
+     "noi_dung": "Đau nhức hai bên má và vùng trán, nặng hơn khi cúi đầu; hơi thở hôi. Không đau tai. Không nhìn mờ, không nhìn đôi, không sưng mi, không đau khi đảo mắt, không đau đầu dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau mặt, dấu hiệu cảnh báo (mắt, đầu)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé tỉnh, uống được, không nôn, không co giật, không cứng cổ, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "thuoc_sau",
+     "noi_dung": "Từ lần khám trước mẹ đã bỏ nước lá, chỉ cho paracetamol 500 mg khi sốt (2–3 lần/ngày) và rửa mũi nước muối. Chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã làm theo hướng dẫn"
+    },
+    {
+     "id": "ho_lao",
+     "noi_dung": "Bé hỏi nhỏ 'con ho 10 ngày rồi, có phải lao không?'. Không ho ra máu, không sụt cân (vẫn 34 kg), không mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo lao, triệu chứng nghi lao"
+    },
+    {
+     "id": "tien_2",
+     "noi_dung": "Mẹ lo tiền: 'thuốc kháng sinh có đắt không bác sĩ, xét nghiệm thì thôi'. Mẹ vẫn từ chối lấy máu, chụp phim; bé vẫn sợ kim.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền, từ chối xét nghiệm"
+    },
+    {
+     "id": "ngu_2",
+     "noi_dung": "Thi xong, bé ngủ lại được nhưng ho và nghẹt mũi làm thức giấc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ, phù, có mủ vàng xanh đặc ở khe mũi hai bên và chảy xuống thành sau họng; họng đỏ, có mủ nhầy thành sau; amiđan độ I, không giả mạc. Hai màng nhĩ xám hồng, không phồng. Ấn đau hai bên má, nhẹ hơn ở trán.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Hai mi mắt không phù, không đỏ; kết mạc không đỏ; đồng tử đều, phản xạ ánh sáng tốt; vận nhãn đủ, không đau khi đảo mắt; thị lực bình thường.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, má hồng, da nóng; niêm mạc ẩm: không mất nước. Cổ mềm, không nhức đầu dữ dội, không dấu màng não.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, đều, không rút lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 34 kg, không sụt cân so với lần khám trước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Mẹ và bé vẫn không đồng ý lấy máu. Không có kết quả.",
+     "n": "Không cần: xét nghiệm không thực sự có giá trị trong viêm mũi xoang cấp (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.2). Từ chối lần hai: ghi nhận lại, vẫn tôn trọng."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Mẹ không đồng ý chụp. Không làm.",
+     "n": "Không cần: chẩn đoán lâm sàng, hình ảnh thường không cần nếu chưa nghi biến chứng (AWaRe 2022, tr. 64; IDSA ABRS 2012 khuyến cáo 24); hình ảnh viêm xoang cấp do vi khuẩn không rõ trừ khi có biến chứng (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.2)."
+    },
+    "ct_xoang": {
+     "v": "n",
+     "r": "Không chỉ định, không thực hiện.",
+     "n": "Chỉ khi nghi biến chứng mủ (sưng đỏ quanh mắt, rối loạn thị giác, cứng cổ, lơ mơ): chụp CT cản quang trục và đứng ngang (IDSA ABRS 2012 khuyến cáo 24); bé chưa có dấu nào. Chụp sớm không đổi xử trí."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Mẹ không đồng ý chụp; không làm.",
+     "n": "Không cần: bé thở 22 l/p (không quá 30 l/p), không rút lõm, phổi không ran, SpO₂ 98% nên chưa nghĩ viêm phổi (QĐ 101/2014 mục V.1)."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Không chỉ định, không thực hiện.",
+     "n": "Ho mới 10 ngày, chưa quá 2 tuần, cân nặng ổn, không mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Mốc đánh giá lao là ho từ 14 ngày (WHO 2013 mục 4.4, Bảng 7)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp: viêm mũi xoang cấp do vi khuẩn (bội nhiễm sau viêm mũi họng cấp), ngày thứ 10, chưa biến chứng hốc mắt, nội sọ",
+     "ok": 1,
+     "n": "Triệu chứng kéo dài từ 10 ngày không đỡ, sốt, mủ mũi, đau mặt (IDSA ABRS 2012 khuyến cáo 1; AWaRe 2022, tr. 64; QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.1, Viêm mũi xoang trẻ em mục 3.1.1)."
+    },
+    {
+     "t": "Viêm mũi họng do virus kéo dài, chưa cần kháng sinh",
+     "n": "Không phù hợp: bệnh đã 10 ngày không đỡ, kèm sốt dai dẳng, mủ vàng xanh, đau má (IDSA ABRS 2012 khuyến cáo 1); viêm nhiễm đường hô hấp trên do virus chỉ kéo dài trung bình 5–7 ngày (QĐ 5643, Viêm mũi xoang trẻ em mục 3.2). Màu mủ đơn độc không đủ (AWaRe 2022, tr. 61)."
+    },
+    {
+     "t": "Viêm phổi (kể cả Mycoplasma)",
+     "n": "Thở 22 l/p dưới ngưỡng > 30 l/p, không rút lõm, phổi không ran, SpO₂ 98% (QĐ 101/2014 mục V.1). Vẫn dặn quay lại vì M. pneumoniae hay gặp ở trẻ trên 5 tuổi (mục IV)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng (AAP 2013, KAS 1A–1B)."
+    },
+    {
+     "t": "Biến chứng hốc mắt hoặc nội sọ của viêm xoang",
+     "n": "Chưa có: mi không phù, không đỏ, vận nhãn bình thường, không đau khi đảo mắt, cổ mềm, tỉnh, không đau đầu dữ dội (QĐ 5643, Viêm mũi xoang cấp tính mục 5.2.1, 5.2.2; AWaRe 2022, tr. 65: dấu cảnh báo). Nhiễm khuẩn hốc mắt là biến chứng hay gặp nhất, ở trẻ nhỏ cao hơn người lớn (mục 5.2.1) nên phải dặn kỹ."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Chưa đủ tiêu chí: ho 10 ngày, chưa quá 2 tuần, không sụt cân, không mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1). Hẹn đánh giá nếu ho từ 14 ngày (WHO 2013 mục 4.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán lâm sàng viêm xoang vi khuẩn, không cần xét nghiệm, X-quang hay CT xoang hôm nay; ghi nhận lần từ chối thứ hai",
+     "v": "c",
+     "n": "Chẩn đoán lâm sàng, vi sinh và xét nghiệm thường không cần (AWaRe 2022, tr. 64); chụp hình chỉ khi nghi biến chứng (IDSA ABRS 2012 khuyến cáo 24); xét nghiệm không có giá trị trong viêm xoang cấp (QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.2). Không xét nghiệm nào đổi cách chữa nên từ chối này không gây hại (nhận xét của người biên soạn)."
+    },
+    {
+     "t": "Kê kháng sinh ngay: amoxicillin–clavulanic acid, 1 g amoxicillin/liều × 2 lần/ngày (hoặc 500 mg × 3 lần/ngày), 5 ngày (AWaRe 2022) HOẶC 10–14 ngày (IDSA 2012; QĐ 5643)",
+     "v": "c",
+     "n": "Cách A: AWaRe 2022, tr. 65 (≥ 20 kg): 80–90 mg/kg/ngày thành phần amoxicillin, 500 mg/liều mỗi 8 giờ hoặc 1 g/liều mỗi 12 giờ, 5 ngày. Cách B: IDSA ABRS 2012 khuyến cáo 2, 3, 15: khởi kháng sinh khi đã chẩn đoán lâm sàng, ưu tiên amoxicillin–clavulanate, trẻ em 10–14 ngày; liều cao 90 mg/kg/ngày chia 2 lần khi sốt ≥ 39 °C (khuyến cáo 5); QĐ 5643: thể nặng 10–14 ngày (Viêm mũi xoang cấp tính mục 4.2.1), 7–14 ngày (Viêm mũi xoang trẻ em mục 4.2.1). Khác nhau vì AWaRe viết cho viêm xoang không biến chứng ở tuyến đầu. Liều AWaRe thận trọng hơn. Tỉ lệ amoxicillin:clavulanat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt, giảm đau: paracetamol 500 mg mỗi 6 giờ khi cần (tối đa 4 lần/24 giờ) HOẶC ibuprofen 200–400 mg mỗi 6–8 giờ",
+     "v": "c",
+     "n": "AWaRe 2022, tr. 65: hai thuốc ngang hàng; paracetamol ≥ 30 kg 500 mg–1 g mỗi 4–6 giờ, ibuprofen 200–400 mg mỗi 6–8 giờ (tối đa 2,4 g/ngày); QĐ 708/2015 mục 4.2: ≤ 60 mg/kg/ngày (2.040 mg), chọn 4 × 500 mg = 2 g."
+    },
+    {
+     "t": "Rửa mũi nước muối sinh lý nhiều lần; không dùng thuốc co mạch quá 3 ngày; không kháng histamin hay co mạch uống",
+     "v": "c",
+     "n": "Rửa mũi nước muối: QĐ 5643 (Viêm mũi xoang cấp tính mục 4.2.1; Viêm mũi xoang trẻ em mục 4.2.1); AWaRe 2022, tr. 65. QĐ 5643 mục 4.2.1: xịt co mạch ngắn ngày (ví dụ 3 ngày), kéo dài làm bệnh nặng hơn; IDSA ABRS 2012 khuyến cáo 18 (mạnh): không khuyến cáo co mạch, kháng histamin bổ trợ."
+    },
+    {
+     "t": "Dặn kỹ dấu hiệu phải đến ngay, không chờ lịch hẹn: sưng đỏ mi mắt, đau khi đảo mắt, nhìn đôi hoặc mờ, đau đầu dữ dội, nôn, cứng cổ, lơ mơ, sốt ≥ 39 °C kéo dài; tái khám sau 48–72 giờ",
+     "v": "c",
+     "n": "Dấu cảnh báo: AWaRe 2022, tr. 65. Biến chứng mắt, màng não, áp xe ngoài màng cứng: QĐ 5643 Viêm mũi xoang cấp tính mục 5.2.1–5.2.3. Xấu đi sau 48–72 giờ kháng sinh hoặc không đỡ sau 3–5 ngày thì đánh giá lại (IDSA ABRS 2012 khuyến cáo 19, 20; QĐ 5643 mục 4.2.1: thất bại 72 giờ); nghi biến chứng thì CT cản quang (khuyến cáo 24)."
+    },
+    {
+     "t": "Trả lời nỗi lo lao: ho 10 ngày chưa đủ tiêu chí; nếu ho kéo dài đến 14 ngày thì đánh giá lao; nói với bé là bệnh của bé có cách chữa",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 1.1 Bảng 1 (bệnh kéo dài trên 2 tuần); WHO 2013 mục 4.4, Bảng 7 (ho từ 14 ngày: tìm lao, hen, ho gà)."
+    },
+    {
+     "t": "Amoxicillin đơn thuần (liều cao 80–90 mg/kg/ngày)",
+     "v": "a",
+     "n": "AWaRe 2022, tr. 65: amoxicillin và amoxicillin–clavulanic acid là hai lựa chọn ngang nhau, trẻ ≥ 20 kg 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ; IDSA ABRS 2012 khuyến cáo 3 ưu tiên có clavulanate (mạnh). Theo sổ mâu thuẫn chấm a."
+    },
+    {
+     "t": "Chỉ rửa mũi, hạ sốt, hẹn lại sau 3 ngày rồi mới quyết định kháng sinh",
+     "v": "a",
+     "n": "AWaRe 2022, tr. 64–65 chỉ khuyên theo dõi chờ khi dưới 10 ngày và đang đỡ; ca này không đỡ nên không phải đáp án chính. AAO-HNSF 2015 Statement 4 (người lớn) cho phép theo dõi chờ, chỉ tham khảo; chấp nhận vì mẹ lo tiền, phải hẹn lại sớm."
+    },
+    {
+     "t": "Macrolid (azithromycin, clarithromycin) hoặc co-trimoxazole làm kháng sinh đầu tay",
+     "v": "w",
+     "n": "IDSA ABRS 2012 khuyến cáo 7, 8 (mạnh): không khuyến cáo vì kháng thuốc cao (macrolid khoảng 30% ở phế cầu; TMP-SMX 30–40% ở phế cầu và H. influenzae); QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1: kháng macrolid, TMP/SMX rất phổ biến."
+    },
+    {
+     "t": "Cho CT hoặc X-quang xoang ngay hôm nay 'cho chắc', hoặc ép mẹ làm xét nghiệm sau khi đã từ chối",
+     "v": "w",
+     "n": "Hình ảnh chỉ khi nghi biến chứng (IDSA ABRS 2012 khuyến cáo 24; AWaRe 2022, tr. 64); bé chưa có dấu biến chứng; ép buộc làm gia đình bỏ khám. Quy định đồng ý của trẻ dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho uống lại nước lá 'thanh nhiệt' hoặc dùng thuốc xịt mũi co mạch kéo dài trên 3 ngày",
+     "v": "w",
+     "n": "Nước lá không rõ thành phần (WHO 2013 mục 1.6; hiệu quả: không có trong tài liệu đã tải); xịt kéo dài làm bệnh nặng hơn (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp: viêm mũi xoang cấp do vi khuẩn, ngày thứ 10, không đỡ sau chăm sóc đúng",
+     "Chưa biến chứng hốc mắt, nội sọ; không viêm phổi; không viêm tai giữa cấp",
+     "Chưa đủ tiêu chí nghi lao; bé vẫn lo bị lao",
+     "Mẹ và bé tiếp tục từ chối xét nghiệm vì sợ kim, tốn kém: xử trí bằng lâm sàng"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là viêm xoang vi khuẩn chứ không phải cảm lạnh kéo dài: bệnh đã 10 ngày không đỡ, sốt đến 39,0 °C, mủ vàng xanh đặc, đau hai bên má và trán, hơi thở hôi. Một trong ba kiểu khởi phát của viêm xoang vi khuẩn là triệu chứng kéo dài từ 10 ngày không cải thiện (IDSA ABRS 2012 khuyến cáo 1); AWaRe 2022, tr. 64: ≥ 10 ngày không đỡ hoặc nặng lên sau giai đoạn nhẹ; QĐ 5643 (Viêm mũi xoang cấp tính mục 3.1.1): xấu đi sau 5–7 ngày hoặc kéo dài hơn 10 ngày. Màu mủ đơn độc không đủ (AWaRe tr. 61), ca này đủ nhiều tiêu chí.",
+     "Vì sao chưa có biến chứng: mi không phù, không đỏ, vận nhãn bình thường, không đau khi đảo mắt; cổ mềm, tỉnh, không đau đầu dữ dội. Nhiễm khuẩn hốc mắt là biến chứng hay gặp nhất, ở trẻ nhỏ cao hơn người lớn (QĐ 5643, Viêm mũi xoang cấp tính mục 5.2.1); viêm màng não, áp xe ngoài màng cứng: mục 5.2.2–5.2.3. Dấu cảnh báo: AWaRe 2022, tr. 65.",
+     "Vì sao không phải viêm phổi: thở 22 l/p, không rút lõm, phổi không ran (QĐ 101/2014 mục V.1); ho từ 10 ngày ở trẻ trên 5 tuổi vẫn dặn quay lại nếu thở nhanh (M. pneumoniae, mục IV). Không phải viêm tai giữa: màng nhĩ không phồng (AAP 2013, KAS 1A–1B). Chưa nghi lao: ho 10 ngày, chưa quá 2 tuần, cân nặng không đổi (QĐ 162/2024 Phần II mục 1.1 Bảng 1); mốc đánh giá là ho từ 14 ngày (WHO 2013 mục 4.4).",
+     "Vì sao không cần xét nghiệm dù bệnh nặng hơn: viêm xoang là chẩn đoán lâm sàng (AWaRe 2022, tr. 64; QĐ 5643 Viêm mũi xoang cấp tính mục 3.1.2). Nếu chỉ có tiền cho một việc thì dùng cho thuốc; CT qua tuyến trên chỉ khi có dấu biến chứng (IDSA ABRS 2012 khuyến cáo 24)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: khởi ngay khi chẩn đoán lâm sàng viêm xoang vi khuẩn (IDSA ABRS 2012 khuyến cáo 2); amoxicillin–clavulanic acid theo IDSA khuyến cáo 3 (trẻ em, mạnh) và AWaRe 2022, tr. 65. Hai cách đều đúng: 5 ngày (AWaRe) hoặc 10–14 ngày (IDSA khuyến cáo 15; QĐ 5643 thể nặng; Viêm mũi xoang trẻ em mục 4.2.1: 7–14 ngày). Liều: bé 34 kg (≥ 20 kg) 1 g amoxicillin/liều mỗi 12 giờ hoặc 500 mg mỗi 8 giờ (AWaRe tr. 65); liều cao 90 mg/kg/ngày ≈ 3.060 mg/ngày chia 2 lần khi sốt ≥ 39 °C (IDSA khuyến cáo 5). Mức AWaRe thận trọng hơn.",
+     "Không macrolid, không co-trimoxazole đầu tay (IDSA ABRS 2012 khuyến cáo 7, 8); quinolon khi không dị ứng: không (sổ mâu thuẫn). Dị ứng penicillin: cephalosporin uống kèm clindamycin hoặc levofloxacin (IDSA khuyến cáo 10, 12); bé không dị ứng.",
+     "Hạ sốt, giảm đau: paracetamol 500 mg hoặc ibuprofen 200–400 mg (AWaRe 2022, tr. 65), trần paracetamol 60 mg/kg/ngày (QĐ 708/2015). Rửa mũi nước muối (QĐ 5643); co mạch xịt chỉ ≤ 3 ngày (QĐ 5643 mục 4.2.1).",
+     "Safety-net: nhiễm khuẩn hốc mắt là biến chứng hay gặp nhất (QĐ 5643 mục 5.2.1) nên phải dặn cụ thể dấu cảnh báo và 'đến ngay, đừng chờ lịch hẹn' (AWaRe 2022, tr. 65). Tái khám sau 48–72 giờ; xấu đi sau 72 giờ hoặc không đỡ sau 3–5 ngày thì đánh giá lại (IDSA ABRS 2012 khuyến cáo 19, 20; QĐ 5643 mục 4.2.1).",
+     "Chi phí, từ chối xét nghiệm: ghi nhận lần hai, hỏi nhẹ nhàng, chọn thuốc rẻ trong khuyến cáo (giá thuốc: không có trong tài liệu đã tải); trả lời nỗi lo lao bằng mốc cụ thể (QĐ 162/2024 Bảng 1; WHO 2013 mục 4.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin–clavulanic acid (liều tính theo thành phần amoxicillin)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở; tỉ lệ amoxicillin:clavulanat không có trong tài liệu đã tải",
+      "lieu": "1 g amoxicillin/liều × 2 lần/ngày (≈ 59 mg/kg/ngày) hoặc 500 mg/liều × 3 lần/ngày (AWaRe 2022, tr. 65). Liều cao IDSA: 90 mg/kg/ngày ≈ 3.060 mg/ngày chia 2 lần",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, đều giờ mỗi 12 giờ (hoặc 8 giờ)",
+      "so_ngay": "5 ngày (AWaRe 2022) hoặc 10–14 ngày (IDSA ABRS 2012 khuyến cáo 15; QĐ 5643 thể nặng); tái khám sau 48–72 giờ để chọn",
+      "ghi_chu": "AWaRe 2022, tr. 65 (≥ 20 kg: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ); IDSA ABRS 2012 khuyến cáo 3, 5, 15; QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1, Viêm mũi xoang trẻ em mục 4.2.1 (7–14 ngày). Liều AWaRe thận trọng hơn."
+     },
+     {
+      "thuoc": "Paracetamol viên 500 mg (hoặc ibuprofen 200–400 mg)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên/lần (≈ 15 mg/kg); ibuprofen thay thế 200–400 mg/lần (không dùng đồng thời)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau mặt làm bé khó chịu; cách nhau ít nhất 6 giờ (ibuprofen 6–8 giờ)",
+      "so_ngay": "Những ngày còn sốt, đau; paracetamol tối đa 4 viên/24 giờ (2 g ≈ 59 mg/kg, dưới 60 mg/kg/ngày); ibuprofen tối đa 2,4 g/ngày",
+      "ghi_chu": "AWaRe 2022, tr. 65; QĐ 708/2015 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/ngày. Mức thận trọng theo sổ mâu thuẫn."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc nhỏ mỗi bên mũi rồi hút, xì nhẹ",
+      "duong": "Rửa, nhỏ mũi",
+      "thoi_diem": "Nhiều lần trong ngày khi nghẹt mũi, trước khi ngủ",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm mũi xoang cấp tính mục 4.2.1; Viêm mũi xoang trẻ em mục 4.2.1); AWaRe 2022, tr. 65. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm xoang do vi khuẩn sau cảm: bệnh 10 ngày không đỡ, sốt cao, mủ mũi, đau má nên hôm nay cần kháng sinh (IDSA ABRS 2012; AWaRe 2022, tr. 64). Uống đủ liều, đủ ngày kể cả khi hết sốt.",
+     "Rửa mũi nước muối nhiều lần; hạ sốt khi bé khó chịu bằng paracetamol 500 mg (không quá 4 lần/24 giờ) hoặc ibuprofen, không dùng cùng lúc. Không cho nước lá, không xịt mũi co mạch quá 3 ngày (QĐ 5643).",
+     "Đến ngay (đừng chờ lịch hẹn) nếu sưng đỏ mi hoặc quanh mắt, đau khi đảo mắt, nhìn đôi, mờ, đau đầu dữ dội, nôn, cứng cổ, lơ mơ, sốt từ 39 °C kéo dài, thở nhanh (trên 30 lần/phút), rút lõm ngực (AWaRe 2022, tr. 65; QĐ 5643 mục 5.2; QĐ 101/2014 mục V).",
+     "Tái khám sau 48–72 giờ; nặng lên sau 72 giờ hoặc chưa đỡ sau 3–5 ngày thì đánh giá lại, có thể đổi thuốc hoặc chuyển tuyến chụp hình (IDSA ABRS 2012 khuyến cáo 19, 20, 24).",
+     "Bé và chị chưa cần lo bị lao: ho 10 ngày, cân nặng giữ nguyên, không mồ hôi đêm. Đến ngày thứ 14 còn ho thì quay lại kiểm tra (QĐ 162/2024 Bảng 1; WHO 2013 mục 4.4).",
+     "Xét nghiệm, chụp hình chưa cần hôm nay; nếu có dấu hiệu cảnh báo thì sẽ cần, bác sĩ sẽ nói rõ vì sao, chị có quyền quyết định."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé uống amoxicillin–clavulanic acid đúng giờ, ngày đầu sốt giảm. Sáng ngày thứ 3, bé sốt lại 39,5 °C, mi mắt phải sưng đỏ, đau khi đảo mắt. Mẹ nhớ lời dặn nên đưa bé đi ngay, không chờ lịch hẹn 48–72 giờ. Bệnh viện nhi tỉnh chụp CT cản quang (IDSA ABRS 2012 khuyến cáo 24), ghi nhận viêm mô tế bào hốc mắt do viêm xoang (QĐ 5643, Viêm mũi xoang cấp tính mục 5.2.1), cho bé nằm viện dùng kháng sinh tĩnh mạch; phác đồ và thời gian tại viện: không có trong tài liệu đã tải. Bé khỏi, thị lực bình thường, nhưng mẹ bỏ buôn bán nhiều ngày và vay tiền trả viện phí. Mẹ nói: 'Em nghe bác sĩ hết mà cháu vẫn nặng'. Quyết định ở lượt 2 vẫn đúng với dấu hiệu lúc đó; kết cục xấu không chứng minh quyết định sai, và lời dặn cụ thể đã giúp bé được phát hiện sớm.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: mẹ nói 'cháu sợ kim' để tránh nói chuyện tiền; bé cũng sợ kim thật. Việc đúng là hỏi nhẹ nhàng về chi phí và chỉ ra xét nghiệm nào không đổi được cách chữa.",
+  "Nước lá không rõ loại và mất ngủ kéo dài: mẹ không coi nước lá là thuốc nên không kể; phải hỏi 'đã cho uống gì, kể cả nước lá, thuốc bổ'. Mất ngủ chỉ là hoàn cảnh khởi phát, không đổi chẩn đoán.",
+  "Nỗi sợ mắc lao của bé là lý do thật khiến mẹ đưa đi khám; bé không tự nói, cần hỏi riêng. Ho 5–10 ngày chưa đủ tiêu chí nghi lao."
+ ],
+ "bai_hoc_bien": [
+  "Quyết định đúng vẫn có thể có kết cục xấu: lượt 2 kê kháng sinh đúng lúc, không chuyển tuyến vì chưa có dấu cảnh báo, vậy mà bé vẫn bị biến chứng hốc mắt. Đánh giá quyết định bằng thông tin lúc quyết định, không bằng kết cục (chống outcome bias).",
+  "Safety-net cụ thể giúp phát hiện sớm: nói rõ dấu hiệu phải đến ngay và 'đừng chờ lịch hẹn'; câu dặn chung chung 'không đỡ thì quay lại' không đủ.",
+  "Từ chối xét nghiệm vì tiền: không ép, không bỏ mặc; hỏi nhẹ nhàng, nêu xét nghiệm nào đổi quyết định, ghi nhận, có phương án B và mốc tái khám. Ca này không xét nghiệm nào đổi xử trí; tiền dành cho thuốc.",
+  "Lý do thật là nỗi sợ lao: hỏi riêng bé, trả lời bằng tiêu chí cụ thể (ho trên 2 tuần, sụt cân, mồ hôi đêm, tiếp xúc hộ gia đình) thay vì cho xét nghiệm để trấn an. Hỏi nước lá, thuốc nam như hỏi thuốc."
+ ],
+ "diem_nho": [
+  "Cảm lạnh hầu hết hết trong 14 ngày, ho từ 14 ngày cần tìm lao, hen, ho gà (WHO 2013 mục 4.4); tái khám sau 5 ngày nếu không đỡ (Bảng 7). Thở nhanh trên 5 tuổi khi > 30 l/p (QĐ 101/2014 mục V.1).",
+  "Viêm xoang vi khuẩn khi ≥ 10 ngày không đỡ, hoặc sốt ≥ 39 °C kèm mủ mũi 3–4 ngày đầu, hoặc xấu lại sau 5–6 ngày đang đỡ (IDSA ABRS 2012 khuyến cáo 1); amoxicillin–clavulanate ở trẻ em, 10–14 ngày (khuyến cáo 3, 15) hoặc 5 ngày (AWaRe 2022, tr. 65).",
+  "Dấu cảnh báo viêm xoang có biến chứng: sưng đỏ quanh mắt, sốt dai dẳng ≥ 39 °C, đau đầu dữ dội, rối loạn ý thức (AWaRe 2022, tr. 65); nhiễm khuẩn hốc mắt hay gặp nhất, ở trẻ nhỏ cao hơn người lớn (QĐ 5643 mục 5.2.1); CT cản quang khi nghi biến chứng mủ (IDSA ABRS 2012 khuyến cáo 24).",
+  "Nghi lao ở trẻ: bệnh kéo dài trên 2 tuần kèm ho, giảm cân, sốt, mồ hôi đêm; tiếp xúc trực tiếp với nguồn lây là yếu tố nguy cơ (QĐ 162/2024 Phần II mục 1.1 Bảng 1, mục 1.3).",
+  "Paracetamol 10–15 mg/kg/lần mỗi 6 giờ, trần 60 mg/kg/ngày (AWaRe 2022; QĐ 708/2015); tránh aspirin ở trẻ em (IDSA 2012 khuyến cáo IV.2)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2.1, 3.1, 4.1, 4.3, 5, 6); Viêm mũi xoang cấp tính (mục 3.1.1, 3.1.2, 4.2.1, 5.2.1–5.2.3); Viêm mũi xoang trẻ em (mục 3.1.1, 3.2, 4.2.1)",
+  "QĐ 101 – Bộ Y tế, QĐ 101/QĐ-BYT 2014, Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: mục IV, V.1, V.2, VI.1. Bản chữ OCR có lỗi dấu",
+  "QĐ 162 – Bộ Y tế, QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – ĐÃ ĐỌC: Phần II mục 1.1 Bảng 1, mục 1.3",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2 (trần paracetamol 60 mg/kg/ngày)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em mục 4 phần 2.2 (ngưỡng hạ sốt)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care, 6. Pharyngitis (tr. 47–51); 7. Acute sinusitis, trẻ em (tr. 61–65)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 1.6 (thuốc cổ truyền), mục 4.4 (tr. 90–91), Bảng 7 (tr. 81)",
+  "IDSA 2012 – Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, IV.2; Bảng 2",
+  "IDSA 2025 – 2025 clinical practice guideline update by IDSA on group A streptococcal pharyngitis (clinical scoring systems) – TL-0140 – ĐÃ ĐỌC: Bảng 3",
+  "IDSA ABRS 2012 – IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults – TL-0159 – ĐÃ ĐỌC: khuyến cáo 1–5, 7, 8, 10–12, 15, 16, 18–20, 24 (bản tóm tắt điều hành)",
+  "AAP 2013 – AAP/AAFP The diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1B",
+  "AAO-HNSF 2015 – Clinical practice guideline update: adult sinusitis – TL-0157 – CHỈ THAM KHẢO (viết cho người lớn): Statement 4",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: thủ tục ghi nhận từ chối xét nghiệm; quy định đồng ý của trẻ dưới 18 tuổi; thành phần, độc tính nước lá không rõ loại; liên quan thiếu ngủ và nhiễm khuẩn hô hấp; mức lưu hành thấp tim ở Việt Nam; xử trí người tiếp xúc gián tiếp với bệnh nhân lao; điều trị viêm mô tế bào hốc mắt tại viện; số lần dùng nước muối; tỉ lệ amoxicillin:clavulanat"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-14. Tài liệu đã đọc: TL-0130 (Viêm mũi họng cấp tính; Viêm mũi xoang cấp tính; Viêm mũi xoang trẻ em), TL-0243 (mục IV–VI), TL-0123 (Phần II mục 1), TL-0015, TL-0037, TL-0018 (tr. 47–51, 61–65), TL-0250 (mục 1.6, 4.4, Bảng 7), TL-0158, TL-0140 (Bảng 3), TL-0159, TL-0271 (KAS 1A–1B), TL-0157 (chỉ tham khảo).",
+  "Sổ cái khớp: loại trừ viêm phổi, viêm tai giữa cấp có trong chan_doan cả hai lượt; 2 lượt; không đỡ ở lượt 2 (ngày 10); không đủ tiền xét nghiệm; từ chối xét nghiệm (khoa_cls = null, CLS có r ghi nhận từ chối); khởi phát mất ngủ; nước lá; lý do thật sợ lao; kết cục xử trí đúng nhưng diễn tiến xấu (biến chứng hốc mắt sau lượt 2). Lượt 2 là viêm mũi xoang cấp do vi khuẩn, một thể nhiễm khuẩn hô hấp trên cấp; viết tiếp từ cách A của lượt 1 (không kháng sinh).",
+  "Áp dụng mục sổ mâu thuẫn: viêm họng đỏ cấp trẻ > 3 tuổi (gộp một mục c); hạ sốt ở trẻ; trần paracetamol ≥ 30 kg; aspirin h; viêm xoang trẻ em: thời gian kháng sinh, liều ≥ 20 kg (HH-0994); macrolid, TMP-SMX w; hình ảnh thường quy w; co mạch ngắn ngày a. Mới: xem NH-0158_mau_thuan.md.",
+  "Chỗ còn nghi ngờ: AWaRe 2022 ghi 80–90 mg/kg/ngày nhưng bảng cân nặng cho 1,5–2 g/ngày; sổ HH-0994 đã chọn liều AWaRe làm chính. Biến chứng hốc mắt ở ket_cuc là diễn biến hư cấu hợp lý (QĐ 5643 mục 5.2.1: hay gặp nhất; tỉ lệ: không có trong tài liệu)."
+ ]
+}
