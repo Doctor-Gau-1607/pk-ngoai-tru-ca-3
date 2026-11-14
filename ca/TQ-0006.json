@@ -1,0 +1,571 @@
+{
+ "ma_ca": "TQ-0006",
+ "phien_ban_kho": "0.3",
+ "benh": "TQ_ksk_binh_thuong_rat_cao_tuoi_tu_choi_xn",
+ "so_cai": {
+  "chuyen_khoa": "Tư vấn kết quả khám tổng quát",
+  "chan_doan_dich": "Tư vấn kết quả khám sức khỏe bình thường",
+  "chan_doan_phai_loai_tru": [
+   "(đảm bảo không bỏ sót bất thường)"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Buôn bán nhỏ (bà tự trông quầy tạp hóa trước cửa nhà)",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Nhàn",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Buôn bán nhỏ: bà trông quầy tạp hóa trước cửa nhà",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ', gọi con gái là 'con Hạnh'.",
+  "tinh_cach": "Trông quầy tạp hóa hơn 50 năm, nhanh nhẹn, tự lập, tự ái khi bị coi là yếu. Tiết kiệm, sợ kim chích, coi thử máu là 'rút sức'. Gọi huyết áp là 'áp huyết', thuốc bổ là 'thuốc bồi'. Không muốn làm gánh nặng cho con.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi chung ('có mệt không', 'ăn uống sao') thì gạt đi 'tôi khỏe lắm, không sao'; chỉ nói thật khi bác sĩ hỏi cụ thể việc làm được và không làm được (đi chợ có phải dừng không, mấy ngày ốm ăn được mấy bữa). Khi nghe thử máu, thử nước tiểu, chụp phim thì từ chối: 'già rồi, rút máu làm chi, tôi sợ kim'; được giải thích một lần vẫn không đổi ý hôm nay. Hỏi chung 'uống thuốc gì' thì đáp 'chỉ thuốc bổ'; chỉ kể chi tiết khi được hỏi thuốc bổ, thuốc con cái mua, thuốc ho hoặc bảo đưa vỏ thuốc.",
+  "nguoi_nha": "Con gái út, chị Hạnh, 54 tuổi, đưa bà đi khám. Bà tự trả lời về triệu chứng của mình (nguoi_noi = benh_nhan); chị Hạnh trả lời về thuốc, ảnh vỏ thuốc trên điện thoại, bữa ăn mấy ngày ốm, cân nặng, chuyện ở nhà (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Con gái (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#d8b08c",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#6f8f7a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d3a37c",
+    "toc": "#2b211b",
+    "kieuToc": "bui",
+    "ao": "#b5886b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Muốn khám sức khỏe tổng quát sau đợt không khí lạnh tuần trước; con gái đưa đi",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đỗ Thị Nhàn, 82 tuổi, trông quầy tạp hóa nhỏ trước nhà, đến khám cùng con gái. Bà muốn 'kiểm tra tổng quát' sau đợt không khí lạnh tuần trước. Chưa có phiếu khám sức khỏe hay kết quả xét nghiệm nào đưa theo. Sinh hiệu lúc tiếp đón: mạch 72 l/p, HA 126/74 mmHg, nhiệt 36,6°C, nhịp thở 18 l/p, SpO₂ 96%; cân nặng 46 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Nhàn bị giữ nhập viện 'khám tổng quát toàn diện' dù mạch 72, thở 18, nhiệt 36,6°C, phổi không ran, ăn lại bình thường: không có dấu hiệu nghĩ viêm phổi (QĐ 708/2015 mục 2) và cận lâm sàng khám định kỳ không bắt buộc mọi người (CV 7311 mục 1.2). Người vừa nằm viện là nhóm nguy cơ dùng thuốc không phù hợp (ICOPE 2025 mục 4.2.4), khi túi thuốc 'không rõ tên' của bà vẫn chưa ai xem. Bà bỏ quầy tạp hóa nhiều ngày, lạ giường, sợ kim, mà vẫn không thể bị ép thử máu (Luật KBCB 15/2023 Điều 10 khoản 4).",
+    "chuyen_tuyen": "Bà Nhàn bị gửi lên bệnh viện tuyến trên 'khám tổng quát lại' dù chưa có bất thường nào cần làm rõ. Bà đi xa, mệt giữa lúc đang hồi phục, mất một ngày bán hàng; ở đó vẫn không thể bắt bà thử máu (Luật KBCB 15/2023 Điều 10 khoản 4, Điều 13 khoản 1) nên chuyến đi không thêm thông tin nào, còn việc cần làm là xem thuốc và hẹn mốc theo dõi (ICOPE 2025 mục 4.2.4) vẫn bị bỏ sót.",
+    "theo_doi": "Chỉ dặn 'nghỉ ngơi, theo dõi ở nhà', không nói ho và mệt có thể kéo dài, không hẹn mốc, không xem vỏ thuốc: đến ngày thứ 18 bà Nhàn vẫn húng hắng ho nên lo, nghe bà Tư mua kháng sinh uống 'cho dứt ho'. Ho sau cảm thường kéo dài đến 20 ngày, hầu hết không cần kháng sinh (QĐ 708/2015 mục 2, 4.1a), và viêm phế quản cấp thường gắn với dùng kháng sinh không phù hợp (QĐ 708 mục 1). Calci–D tự mua và siro chưa rõ thành phần tiếp tục không được kiểm lại (ICOPE 2025 mục 3.1.4)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi khỏe mà, có bệnh gì đâu. Tại hôm trước trời lạnh đột ngột, tôi ho sổ mũi một trận, con gái nó cuống lên bắt đi khám tổng quát. Thôi thì khám cho nó yên bụng.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "126/74",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến 'khám tổng quát' vì con gái lo sau đợt không khí lạnh tuần trước; bà cho rằng mình khỏe. Hôm nay không đau chỗ nào, không sốt, không khó thở.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám: muốn kiểm tra tổng quát"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Tám ngày trước, đợt lạnh đột ngột, bà ngồi trông quầy ngoài hiên, mặc áo mỏng. Hôm sau hắt hơi, sổ mũi, ho khan, rét run một đêm (không đo nhiệt độ; con gái sờ trán thấy hơi ấm, hết sau hai ngày). Hai ngày đầu ho nhiều, nay chỉ húng hắng vài tiếng buổi sáng, ít đờm trắng; mũi gần hết chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau đợt lạnh: đang hồi phục"
+    },
+    {
+     "id": "dau_hieu_nang_am",
+     "noi_dung": "Không khó thở, không khò khè, không đau ngực, không ho ra máu, không ra mồ hôi đêm, không lú lẫn. Ho không làm mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu nặng đường hô hấp"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tuần này đi chợ cách nhà khoảng 500 m phải dừng nghỉ hai lần, trước giờ đi một mạch; hôm qua chỉ dừng một lần. Mấy ngày đầu ngủ trưa thêm một, hai tiếng. Bà cho là chuyện bình thường, không nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có mệt không', 'có khỏe không' thì bà đáp 'tôi khỏe lắm, không sao'. Chỉ kể khi bác sĩ hỏi cụ thể việc trước làm được nay phải chậm hoặc dừng (đi chợ, bưng hàng, leo cầu thang, ngủ trưa mấy ngày nay).",
+     "k": 1,
+     "y": "Hỏi theo chức năng: đi chợ phải dừng nghỉ (hồi phục sau bệnh cấp)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bốn ngày đầu chán ăn, chỉ ăn nửa chén cháo mỗi bữa; ba ngày nay ăn lại ba bữa cơm với cá, rau. Theo con gái, cân nặng hồi tháng trước (cân ở nhà thuốc) 47 kg, nay 46 kg; ba tháng nay không sụt thêm. Răng giả hàm trên, nhai được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'ăn uống sao' thì bà đáp 'ăn được'. Chỉ kể ăn nửa chén cháo khi bác sĩ hỏi cụ thể các bữa trong mấy ngày ốm, hoặc khi con gái bổ sung; cân nặng do con gái nói.",
+     "k": 1,
+     "y": "Ăn uống và cân nặng (sụt cân, chán ăn)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà không nhớ tên thuốc nào. Theo con gái: một viên 'canxi' có chữ D3 mỗi sáng (mua ở nhà thuốc, vỉ cắt rời nên mất chữ hàm lượng), thỉnh thoảng vitamin B tổng hợp, và từ hôm ốm uống siro ho thảo dược (chai gần hết, thành phần chữ nhỏ không đọc được). Con gái chụp ảnh vỉ thuốc và chai siro bằng điện thoại. Không thuốc huyết áp, tiểu đường, tim, ngủ, an thần, giảm đau, không thuốc nam nấu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà uống thuốc gì không' thì đáp 'không, tôi có uống thuốc gì đâu, chỉ thuốc bổ thôi'. Chỉ nói chi tiết khi bác sĩ hỏi thuốc bổ, vitamin, thuốc con cái mua, thuốc ho, hoặc bảo mang, chụp vỏ thuốc; khi đó con gái đưa ảnh điện thoại.",
+     "k": 1,
+     "y": "Rà thuốc kể cả thuốc bổ, thuốc tự mua; nhờ mang vỏ thuốc"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa nghe bác sĩ nói bị cao huyết áp, tiểu đường, bệnh tim, phổi, thận, loãng xương. Chưa nằm viện, chưa mổ. Không hút thuốc, không rượu. Mãn kinh từ khoảng 50 tuổi. Chưa tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, thói quen, vắc xin"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Chưa làm xét nghiệm hay chụp phim nào ở bất cứ đâu từ nhiều năm nay; trạm y tế mời khám định kỳ nhưng bà không đi. Trên điện thoại con gái chỉ có hai lần khám BHYT vì cảm ở trạm, không có cận lâm sàng; Sổ sức khỏe điện tử chưa có kết quả nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tra kết quả cũ (VNeID, sổ sức khỏe điện tử, BHYT) trước khi chỉ định"
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Năm nay không té ngã, không chóng mặt khi đứng dậy. Đêm dậy tiểu một lần, bật đèn, vịn tay vịn. Bà ngủ tầng trệt, nhà có một bậc cửa thấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Té ngã, chóng mặt, tiểu đêm"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hay trò chuyện với khách và hàng xóm, xem ti vi mỗi tối, ngủ khoảng sáu tiếng, dậy sớm. Hai tuần qua không buồn chán, không mất hứng thú với việc bán hàng. Tự lo ăn uống, tắm rửa, đi vệ sinh, cầm tiền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tâm trạng, sinh hoạt hằng ngày"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Lý do thật: bà Tư hàng xóm 80 tuổi vừa nhập viện vì viêm phổi trong đợt lạnh; bà sợ mình cũng bị rồi 'nằm một chỗ' làm khổ con. Bà muốn bác sĩ khám kỹ và nói 'ổn' để yên tâm tiếp tục bán hàng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có lo gì không' lúc đầu thì đáp 'không lo gì'. Chỉ nói khi bác sĩ hỏi vì sao muốn khám lúc này, hỏi chuyện hàng xóm, hoặc hỏi điều bà sợ nhất.",
+     "k": 1,
+     "y": "Động cơ thật: sợ viêm phổi và sợ thành gánh nặng"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Khi nghe thử máu, thử nước tiểu, chụp phim, bà từ chối: 'già rồi, rút máu làm chi, tôi sợ kim, rút máu người càng yếu'. Nếu bác sĩ giải thích một lần lợi và hại, nói trạm y tế khám định kỳ miễn phí và có thể khám tại nhà, bà vẫn không làm hôm nay: 'để tôi nghĩ, con nó bàn thêm'. Bà vui lòng cho nhìn, nghe, sờ, đo huyết áp, thử đi lại, làm điện tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: quyền tự quyết, ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "loi_khuyen_xom",
+     "noi_dung": "Bà Tư khuyên: 'ho là phải uống kháng sinh cho dứt, người già không để lâu'. Bà hỏi bác sĩ có cần uống kháng sinh không.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0,
+     "y": "Nhiễu: lời khuyên uống kháng sinh của hàng xóm"
+    },
+    {
+     "id": "xa_hoi",
+     "noi_dung": "Ở với con gái út và cháu ngoại; bà tự trông quầy, con gái phụ nhập hàng. Đại tiện đều, không máu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thể trạng nhỏ nhắn. Cao 150 cm, nặng 46 kg, BMI 20,4; vòng eo 78 cm. Da niêm hồng, không phù, không hạch ngoại biên.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 72 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Nhịp thở 18 l/p, không co kéo cơ hô hấp. Gõ trong.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều hai bên, gõ trong. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, không mủ. Niêm mạc mũi hơi phù nhẹ, ít dịch trong. Màng nhĩ hai tai bình thường.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 126/74 mmHg, mạch 72 l/p. Đứng 1 phút: 124/74, mạch 76. Đứng 3 phút: 122/72. Không giảm ≥ 20/10 mmHg, không chóng mặt.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi hành lang 3 phút: SpO₂ 96% trước và 95% sau, mạch 72 lên 88 l/p, không khó thở, không phải dừng.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc hồng, đồng tử đều, phản xạ ánh sáng tốt. Thị lực xa với kính đang dùng: mắt phải 6/9, mắt trái 6/9. Nhìn gần với kính lão: đọc được chữ N6 hai mắt.",
+     "k": 1
+    },
+    "nghe_thi_tham": {
+     "a": "Thì thầm bốn từ không liên quan cách tai khoảng 60 cm, che mắt: hai tai đều nghe và lặp lại đúng.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không chống tay; đi thẳng 5 m bước đều, quay người ổn, không loạng choạng. Ngồi–đứng 5 lần không dùng tay mất 11 giây.",
+     "k": 1
+    },
+    "nhan_thuc_moca": {
+     "a": "Không làm MoCA đầy đủ; dùng bộ câu hỏi ngắn: nói đúng ngày tháng năm đầy đủ và nơi đang ở; nhớ lại đủ ba từ (hoa, cửa, gạo) sau vài phút. Trả lời mạch lạc.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Gọn gàng, khí sắc ổn, trả lời mạch lạc, hay cười khi kể về quầy hàng. Hai câu hỏi trong hai tuần qua (buồn chán, tuyệt vọng; ít hứng thú làm việc): đều \"không\". Không ý tưởng tự hại.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Mạch mu chân bắt được hai bên.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ, tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không dấu thần kinh khu trú, phản xạ gân xương đều, không run.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Không đau điểm cột sống. Khớp gối hai bên không sưng nóng, gập duỗi gần đủ, đứng lên ngồi xuống không đau.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da khô nhẹ ở cẳng chân, không loét, không bầm, không ban. Da gót chân nguyên vẹn.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Hàm trên răng giả tháo lắp vừa khít, hàm dưới còn một số răng; niêm mạc miệng hồng, không loét. Nhai được cơm và thịt mềm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Già rồi, rút máu làm chi, tôi sợ kim.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "CLS khi khám định kỳ làm theo chỉ định, không bắt buộc mọi người (CV 7311 mục 1.2). Không triệu chứng gợi ý thiếu máu (da niêm hồng, đi lại được). Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "glu": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Già rồi, rút máu làm chi, tôi sợ kim.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "CLS khi khám định kỳ làm theo chỉ định, không bắt buộc mọi người (CV 7311 mục 1.2). Không khát, không tiểu nhiều; sàng lọc đái tháo đường chỉ khuyến cáo cho người 35–70 tuổi thừa cân, béo phì (USPSTF trang A&B, B 2021); bà 82 tuổi, BMI 20,4. Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "lipid": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Già rồi, rút máu làm chi, tôi sợ kim.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "CLS khi khám định kỳ làm theo chỉ định, không bắt buộc mọi người (CV 7311 mục 1.2). Statin phòng ngừa tiên phát chỉ có khuyến cáo tuổi 40–75 (USPSTF trang A&B, B 8/2022); quyết định sau 75 tuổi: không có trong tài liệu đã tải. Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "ua": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Thử nước tiểu làm chi, tôi không thấy gì.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "CLS khi khám định kỳ làm theo chỉ định (CV 7311 mục 1.2). Không triệu chứng tiết niệu. Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "test_nhanh_virus": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Già rồi, rút máu làm chi, tôi sợ kim.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "HBsAg: người sinh ở nơi HBsAg ≥ 2% như châu Á (USPSTF 2020, B, TL-0685; không nêu tuổi trên). Anti-HCV: 18–79 tuổi (USPSTF 2020, B, TL-0686): bà 82 tuổi, ngoài khoảng. Không bắt buộc hôm nay; hướng dẫn BYT về sàng lọc miễn phí còn hoàn thiện (CV 7311 mục 1.1 điểm 4). Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "fit": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Thử phân làm chi, tôi không làm.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Sàng lọc đại trực tràng cho người 50–75 tuổi (USPSTF trang A&B, A 5/2021): bà 82 tuổi, ngoài khoảng; quyết định sau 75 tuổi: không có trong tài liệu đã tải. Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "dxa": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Đo xương làm chi, tôi đi đứng được.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Nữ ≥ 65 tuổi: sàng lọc loãng xương bằng DXA, có hoặc không kèm công cụ ước tính nguy cơ (USPSTF 2025, B, TL-0351). Đúng nhóm; không bắt buộc hôm nay, đề nghị không ép. Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "cxr": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Nhàn từ chối: 'Chụp phim làm chi, tôi hết ho rồi.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Hai nguồn cùng chấp nhận được: QĐ 708/2015 mục 2 'nên chỉ định' X-quang khi tuổi > 75; CHEST 2020 khuyến cáo 1–2 không chụp thường quy, đánh giá lại nếu ho kéo dài hoặc nặng thêm. Bà ngày 8, hết sốt, phổi sạch: cách nào cũng được nếu có mốc theo dõi (sổ mâu thuẫn HH-0671 số 1). Từ chối: ghi hồ sơ, phương án B lâm sàng (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "crp": {
+     "n": "Không cần: không cân nhắc kháng sinh; CHEST 2020 khuyến cáo 1 không làm CRP thường quy."
+    },
+    "flu": {
+     "n": "Không cần: ho đã 8 ngày, hết rét; kháng virus chỉ cho ca nặng và trong 48 giờ đầu (QĐ 708/2015 mục 4.1b)."
+    },
+    "sa_phoi": {
+     "n": "Không cần: không sốt, thở không nhanh, phổi không ran, SpO₂ 96%."
+    },
+    "ecg": {
+     "r": "Nhịp xoang 72 l/p, trục trung gian, không bất thường ST–T.",
+     "n": "Không triệu chứng tim mạch nên không cần: điện tim sàng lọc người không triệu chứng nguy cơ thấp mức D, nguy cơ trung bình–cao mức I (USPSTF 2018, TL-0689). Bà đồng ý làm nhưng không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khám sức khỏe tổng quát bình thường trên lâm sàng ở nữ 82 tuổi; ho nhẹ và mệt còn lại sau cảm lạnh đang hồi phục theo quỹ đạo bình thường; chưa có cận lâm sàng do người bệnh từ chối",
+     "ok": 1,
+     "n": "Sinh hiệu bình thường, BMI 20,4 (18,5–22,9 là bình thường, QĐ 2892/2022 mục 4.1 Bảng 4.1), không hạ HA tư thế (VSH/VNHA 2024 Đ1.2.1), 6 lĩnh vực đánh giá cơ bản đều đạt (ICOPE 2025 Bảng 3.1). Ho có thể kéo dài đến 20 ngày (QĐ 708/2015 mục 2), ho bán cấp sau nhiễm kéo dài 3–8 tuần (ACCP 2006). Tiêu chuẩn phân loại sức khỏe (Mẫu số 03 mục IV, TT 25/2026): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi cộng đồng",
+     "n": "Mạch 72, thở 18, nhiệt 36,6°C, dưới ngưỡng nghĩ viêm phổi (QĐ 708/2015 mục 2; CHEST 2020), phổi không ran, SpO₂ 96%, ăn lại, tỉnh táo. Người > 65 tuổi có thể không điển hình (QĐ 1840/2025 mục II.1.1) nên vẫn dặn mốc quay lại."
+    },
+    {
+     "t": "Cúm mùa hoặc bệnh nhiễm khuẩn hô hấp nặng đang diễn tiến",
+     "n": "Hết rét, ho giảm, ăn lại. Người > 65 tuổi thuộc nhóm nguy cơ nặng (QĐ 1840/2025 mục I): cần dặn dấu hiệu nặng."
+    },
+    {
+     "t": "Suy giảm chức năng, nguy cơ té ngã",
+     "n": "Ngồi–đứng 5 lần mất 11 giây (< 14 giây là đạt, ICOPE 2025 Bảng 3.1), không té ngã, không chóng mặt, HA tư thế ổn."
+    },
+    {
+     "t": "Suy dinh dưỡng",
+     "n": "BMI 20,4; sụt khoảng 1 kg do ốm, không sụt > 3 kg/3 tháng; ăn lại bình thường (ICOPE 2025 Bảng 3.1)."
+    },
+    {
+     "t": "Suy giảm nhận thức hoặc trầm cảm",
+     "n": "Nhớ đủ 3 từ, đúng định hướng, hai câu tâm trạng đều không (ICOPE 2025 Bảng 3.1)."
+    },
+    {
+     "t": "Thuốc đang dùng không phù hợp hoặc trùng hoạt chất",
+     "n": "Ba sản phẩm, chưa tới ngưỡng đa thuốc ≥ 5 loại gồm cả thuốc tự mua và cổ truyền (ICOPE 2025 mục 4.2.4); hàm lượng, thành phần chưa rõ, cần xem vỏ thuốc."
+    },
+    {
+     "t": "Bệnh mạn chưa phát hiện (đái tháo đường, thiếu máu, bệnh thận, loãng xương, viêm gan B...)",
+     "n": "Chưa loại trừ hoàn toàn vì bà từ chối xét nghiệm; hỏi và khám không gợi ý. Cận lâm sàng định kỳ theo chỉ định bác sĩ (CV 7311 mục 1.2 điểm 1). Hẹn hỏi lại, không ép."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả khám: không thấy bất thường ở phần đã khám, cả 6 lĩnh vực chức năng đạt, ho và mệt là hồi phục sau cảm lạnh; nói rõ 'bình thường' là trên lâm sàng, chưa có xét nghiệm",
+     "v": "c",
+     "n": "Hồ sơ và nội dung khám theo TT 25/2026 (CV 5008/BYT-KCB mục 1–2; Mẫu số 03 mục IV; tiêu chuẩn phân loại sức khỏe không có trong tài liệu đã tải). Được giải thích về tình trạng sức khỏe (Luật KBCB 15/2023 Điều 9 khoản 1)."
+    },
+    {
+     "t": "Hỏi và đáp lại nỗi lo thật: sợ giống bà Tư bị viêm phổi, sợ nằm một chỗ làm khổ con; cho bà biết điều bác sĩ đã kiểm (phổi, thở, ăn, đi lại) để bà yên tâm",
+     "v": "c",
+     "n": "Lý do thật chỉ lộ khi hỏi vì sao muốn khám lúc này; chăm sóc lấy người bệnh làm trung tâm (ICOPE 2025 chương 1)."
+    },
+    {
+     "t": "Tra Sổ sức khỏe điện tử, VNeID, dữ liệu BHYT trước khi bàn xét nghiệm: chưa có kết quả nào còn giá trị nên việc chỉ định cận lâm sàng mới được đặt ra",
+     "v": "c",
+     "n": "CV 7311 mục 1.3: bác sĩ xem kết quả có sẵn trên cổng BHYT, VNeID, sổ sức khỏe điện tử; còn giá trị thì không chỉ định lại. Ở đây không có kết quả."
+    },
+    {
+     "t": "Tư vấn một lần về lợi và hại của xét nghiệm tầm soát; nói trạm y tế khám định kỳ miễn phí, có thể khám tại nhà; tôn trọng quyết định không làm hôm nay; ghi từ chối vào hồ sơ; hẹn hỏi lại",
+     "v": "c",
+     "n": "Luật KBCB 15/2023 Điều 9 khoản 1, Điều 11 khoản 1, Điều 13 khoản 1 (từ chối phải cam kết bằng văn bản sau khi được tư vấn); CV 7311 mục 1.2 điểm 1 và mục 3.2 (khám tại nhà cho người cao tuổi khi cần). Cách áp dụng cam kết văn bản cho xét nghiệm tầm soát tùy chọn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rà thuốc: xem ảnh vỉ thuốc, chai siro; nhờ con gái mang toàn bộ vỏ thuốc, thuốc bổ, thuốc nam lần sau; dặn không tự mua thêm thuốc, thực phẩm bổ sung; thuốc cảm thì tránh kháng histamin thế hệ 1 như chlorpheniramine",
+     "v": "c",
+     "n": "ICOPE 2025 mục 4.2.4 (rà thuốc gồm thuốc không kê đơn, cổ truyền; bỏ thuốc trùng hoạt chất) và mục 3.1.4 (tránh thuốc, thực phẩm bổ sung khi chưa có lời khuyên). AGS Beers 2023 Bảng 2: kháng histamin thế hệ 1 (gồm chlorpheniramine) nên tránh ở người ≥ 65 tuổi."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích ho sau cảm lạnh thường tự hết, có thể kéo dài đến khoảng 3 tuần",
+     "v": "c",
+     "n": "QĐ 708/2015 mục 2 (ho có thể kéo dài đến 20 ngày), mục 4.1a (hầu hết không cần kháng sinh; bà không có tình huống nào trong 4 tình huống, đái tháo đường chưa biết nhưng không triệu chứng). CHEST 2020 khuyến cáo 3; ACCP 2006: kháng sinh không có vai trò trong ho sau nhiễm."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại sớm hoặc đi cấp cứu: sốt ≥ 37,8°C, thở nhanh > 24 l/p hoặc khó thở, mạch ≥ 100 l/p, đau ngực, ho ra máu, lú lẫn, ngủ li bì hoặc bỏ ăn; ho vẫn còn sau 8 tuần",
+     "v": "c",
+     "n": "Ngưỡng nghĩ viêm phổi: QĐ 708/2015 mục 2 (mạch > 100, thở > 24, nhiệt > 38°C), CHEST 2020 (mạch ≥ 100, nhiệt ≥ 37,8°C); ghi cả hai, 37,8°C thận trọng hơn (sổ mâu thuẫn HH-0671 số 4). Người > 65 tuổi có thể không điển hình (QĐ 1840/2025 mục II.1.1). Ho > 8 tuần: tìm nguyên nhân khác (ACCP 2006). Đau ngực, ho ra máu, lú lẫn, bỏ ăn: do người viết chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–4 tuần: cân nặng, hỏi chức năng, đo ngồi–đứng 5 lần, xem toàn bộ vỏ thuốc, hỏi lại xét nghiệm",
+     "v": "c",
+     "n": "ICOPE 2025 chương 3 (kế hoạch chăm sóc có ngày hẹn, tr. 37). Mốc 3–4 tuần do người viết chọn, cuối giai đoạn ho bán cấp 3–8 tuần (ACCP 2006); khoảng tái khám cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lối sống theo khả năng: vận động tăng dần tới ≥ 150 phút/tuần, tập sức mạnh 2 ngày và thăng bằng 3 ngày; muối dưới 5 g, ≥ 400 g rau quả mỗi ngày; ăn đủ cá, trứng, đậu",
+     "v": "c",
+     "n": "ICOPE 2025 mục 6.1 (150 phút/tuần, sức mạnh ≥ 2 ngày, thăng bằng ≥ 3 ngày) và mục 3.1.4 (≥ 400 g rau quả, dưới 5 g muối). Đạm: mục 7.2.1 nêu cho người suy dinh dưỡng; bà chưa suy dinh dưỡng nên chỉ dặn ăn đủ, không áp con số."
+    },
+    {
+     "t": "Tư vấn tiêm vắc xin cúm mùa hằng năm (chưa tiêm), hẹn bàn tiếp khi tái khám",
+     "v": "c",
+     "n": "ICOPE 2025 chương 3 (tiêm chủng định kỳ gồm cúm hằng năm); QĐ 1840/2025 mục IV.1 và mục I (> 65 tuổi nguy cơ nặng). Thời điểm tiêm sau khi mới ốm, loại vắc xin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ nguyên calci + vitamin D3 bà đang dùng, chưa thêm thuốc bổ; không cần xét nghiệm 25(OH)D",
+     "v": "a",
+     "n": "Endocrine Society 2024 khuyến cáo 6 (người ≥ 75 tuổi bổ sung vitamin D thường quy, liều thấp hằng ngày), khuyến cáo 7 (không xét nghiệm 25(OH)D thường quy); USPSTF 2021 (TL-0683): sàng lọc thiếu vitamin D người không triệu chứng là phát biểu I. Hàm lượng bà uống chưa rõ."
+    },
+    {
+     "t": "Đề nghị (không ép) đo mật độ xương DXA và thử HBsAg một lần; hẹn hỏi lại khi tái khám hoặc khi khám định kỳ miễn phí",
+     "v": "a",
+     "n": "USPSTF 2025, B (TL-0351): nữ ≥ 65 tuổi sàng lọc loãng xương; USPSTF 2020, B (TL-0685): HBsAg cho người sinh ở nơi HBsAg ≥ 2% như châu Á. Không bắt buộc hôm nay; hướng dẫn BYT về sàng lọc còn hoàn thiện (CV 7311 mục 1.1 điểm 4)."
+    },
+    {
+     "t": "Cho kháng sinh 'phòng cho chắc' hoặc theo lời bà Tư",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 708/2015 mục 4.1a); ACCP 2006: kháng sinh không có vai trò trừ viêm xoang do vi khuẩn hoặc ho gà sớm; QĐ 708 mục 1 nêu viêm phế quản cấp thường gắn với dùng kháng sinh không phù hợp. Bà không rét run, không đờm mủ, đang đỡ dần."
+    },
+    {
+     "t": "Ép làm xét nghiệm: nói 'không thử máu thì không khám tiếp', hoặc bắt ký giấy cam kết ngay khi chưa tư vấn",
+     "v": "w",
+     "n": "Luật KBCB 15/2023 Điều 10 khoản 4: không bị ép buộc khám bệnh, chữa bệnh; Điều 13 khoản 1: cam kết bằng văn bản sau khi đã được người hành nghề tư vấn."
+    },
+    {
+     "t": "Kê thêm vitamin tổng hợp, 'thuốc bổ' hoặc truyền dịch 'cho khỏe' khi chưa xem thuốc đang dùng",
+     "v": "w",
+     "n": "ICOPE 2025 mục 4.2.4: bỏ thuốc trùng hoạt chất; mục 3.1.4: tránh thực phẩm bổ sung khi chưa có lời khuyên. Đa sinh tố thường chứa 800–1000 IU vitamin D (Endocrine Society 2024), dễ trùng với calci–D đang dùng. Truyền dịch: không tài liệu đã tải nào chỉ định cho người khỏe, ăn uống được."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khám sức khỏe tổng quát ở nữ 82 tuổi: không phát hiện bất thường trên lâm sàng (sinh hiệu, BMI 20,4, tim, phổi, HA tư thế, đánh giá ICOPE 6 lĩnh vực đều đạt)",
+     "Ho nhẹ và mệt còn lại sau cảm lạnh trong đợt không khí lạnh, đang hồi phục (ngày thứ 8); không có dấu hiệu viêm phổi",
+     "Chưa có cận lâm sàng: người bệnh từ chối sau khi được tư vấn; đã ghi vào hồ sơ",
+     "Chưa loại trừ hoàn toàn bệnh mạn chưa biết (đái tháo đường, thiếu máu, bệnh thận, loãng xương, viêm gan B...); không triệu chứng gợi ý; hẹn hỏi lại",
+     "Thuốc đang dùng chưa rõ hàm lượng: calci + vitamin D3, vitamin B tổng hợp, siro ho thảo dược; chưa thấy thuốc nguy cơ cao, cần xem vỏ thuốc",
+     "Nỗi lo thật: sợ bị viêm phổi như bà Tư hàng xóm, sợ nằm một chỗ làm khổ con; đã được giải đáp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (diễn tiến sau đợt lạnh, dấu hiệu nặng, hỏi theo chức năng, ăn uống, thuốc kể cả thuốc bổ, té ngã, tâm trạng, kết quả cũ) → khám (sinh hiệu, BMI, tim, phổi, HA tư thế, SpO₂ khi đi bộ, ngồi–đứng, thì thầm, thị lực, nhận thức, tâm trạng) → cận lâm sàng (bà từ chối; tra dữ liệu cũ) → chẩn đoán → xử trí.",
+     "Hỏi chung bà đáp 'khỏe lắm'; hỏi 'đi chợ có phải dừng không' mới lộ phải nghỉ hai lần: đang hồi phục sau bệnh cấp. ICOPE 2025 dùng bài kiểm tra đo được (ngồi–đứng 5 lần trong 14 giây) thay câu hỏi cảm giác (Bảng 3.1).",
+     "ICOPE 2025 Bảng 3.1, cả 6 lĩnh vực đạt: nhận thức (nhớ 3 từ, đúng ngày tháng, nơi ở); vận động (11 giây, ngưỡng 14); dinh dưỡng (không sụt > 3 kg/3 tháng); thị lực (6/9, ngưỡng 6/12; gần N6); thính lực (thì thầm); tâm trạng (hai câu đều không). Chỉ cần lời khuyên lối sống và hẹn theo dõi.",
+     "BMI 46/(1,50)² = 20,4, bình thường 18,5–22,9 (QĐ 2892/2022 mục 4.1 Bảng 4.1). Không hạ HA tư thế: đứng 3 phút giảm 4/2 mmHg, ngưỡng ≥ 20/10 (VSH/VNHA 2024 Đ1.2.1).",
+     "Ho và mệt: ho có thể kéo dài đến 20 ngày (QĐ 708/2015 mục 2); ho > 3 tuần với X-quang bình thường là ho bán cấp sau nhiễm, tới 8 tuần, thường tự hết (ACCP 2006). Bà mới ngày 8, 'khỏi chậm hơn bà tưởng' là bình thường, phải nói trước để bà không hoảng và không mua kháng sinh. Quỹ đạo bất thường: sốt lại, thở nhanh, đau ngực, bỏ ăn, lú lẫn, hoặc ho quá 8 tuần.",
+     "Chưa nghĩ viêm phổi: mạch 72, thở 18, nhiệt 36,6°C, phổi không ran, SpO₂ 96%, ăn lại, tỉnh táo, dưới mọi ngưỡng (QĐ 708/2015 mục 2; CHEST 2020). X-quang: QĐ 708 mục 2 'nên chụp' khi > 75 tuổi, CHEST 2020 khuyến cáo 1 không chụp thường quy; ghi cả hai, cách nào cũng được nếu có mốc theo dõi (sổ mâu thuẫn HH-0671 số 1).",
+     "Từ chối xét nghiệm: có quyền được giải thích, lựa chọn sau tư vấn, từ chối (Luật KBCB 15/2023 Điều 9 khoản 1, Điều 11 khoản 1, Điều 13 khoản 1); không bị ép buộc (Điều 10 khoản 4). Cận lâm sàng định kỳ theo chỉ định, không bắt buộc mọi người (TT 25/2026 Điều 2 khoản 3; CV 7311 mục 1.2 điểm 1). Phương án B: đánh giá chức năng, tra dữ liệu cũ, hẹn lại; ghi rõ 'chưa loại trừ bằng xét nghiệm'.",
+     "Lưu ý áp dụng ≥ 75 tuổi: khuyến cáo sàng lọc đều có tuổi trên (HCV 18–79; đại trực tràng 50–75; vú 40–74; cổ tử cung 21–65; statin 40–75; đái tháo đường 35–70 kèm thừa cân; USPSTF trang A&B, TL-0686) nên bà ngoài khoảng; quyết định tiếp tục hay dừng sàng lọc ở tuổi này: không có trong tài liệu đã tải. Chỉ loãng xương (nữ ≥ 65, USPSTF 2025) và HBsAg (USPSTF 2020) áp được. Với nhóm này dùng đánh giá chức năng ICOPE 2025 thay vì xét nghiệm hàng loạt.",
+     "Vitamin D: Endocrine Society 2024 khuyến cáo 6 bổ sung thường quy cho người ≥ 75 tuổi, khuyến cáo 7 không xét nghiệm 25(OH)D thường quy; bà uống calci–D là hợp lý, không cần thử máu để quyết định; cần xem vỏ thuốc để tránh trùng vitamin D.",
+     "Thuốc không rõ: đa thuốc là ≥ 5 loại mỗi ngày kể cả thuốc không kê đơn, cổ truyền (ICOPE 2025 mục 4.2.4); bà dùng 3 sản phẩm. Việc cần làm là biết đích danh từng loại, không phải ngưng ngay."
+    ],
+    "phan_tich_xu_tri": [
+     "Không xét nghiệm hôm nay vẫn là xử trí đúng: không triệu chứng, không chỉ định bắt buộc, bà từ chối sau tư vấn, có ghi chép và phương án B (CV 7311 mục 1.2; Luật KBCB 15/2023 Điều 13 khoản 1).",
+     "Đáp đúng nỗi lo thật: nói rõ đã kiểm những gì và 'bình thường' chỉ trên những gì đã kiểm; nói 'khỏe hoàn toàn' là hứa điều chưa kiểm chứng.",
+     "Không kháng sinh (QĐ 708/2015 mục 4.1a; CHEST 2020 khuyến cáo 3; ACCP 2006). Chưa cần thuốc ho: ho húng hắng buổi sáng, không mất ngủ. X-quang ngực: chụp hay không đều được nếu có mốc theo dõi (QĐ 708 mục 2; CHEST 2020 khuyến cáo 1).",
+     "Dặn dấu hiệu quay lại: sốt ≥ 37,8°C, thở > 24 l/p hoặc khó thở, mạch ≥ 100, đau ngực, ho ra máu, lú lẫn, ngủ li bì, bỏ ăn; ho quá 8 tuần (QĐ 708/2015 mục 2; CHEST 2020; QĐ 1840/2025 mục II.1.1; ACCP 2006). Đau ngực, ho ra máu, lú lẫn, bỏ ăn do người viết chọn.",
+     "Tái khám 3–4 tuần cùng toàn bộ vỏ thuốc: ICOPE 2025 chương 3 (kế hoạch có ngày hẹn), mục 4.2.4 (rà thuốc); mốc 3–4 tuần do người viết chọn.",
+     "Lối sống: vận động tăng dần (ICOPE 2025 mục 6.1), muối dưới 5 g, ≥ 400 g rau quả (mục 3.1.4); ăn đủ đạm khi hồi phục, không áp con số của người suy dinh dưỡng (mục 7.2.1).",
+     "Vắc xin cúm hằng năm: QĐ 1840/2025 mục IV.1, mục I; ICOPE 2025 chương 3; hẹn bàn khi tái khám.",
+     "DXA (USPSTF 2025) và HBsAg (USPSTF 2020): đề nghị mềm, hẹn hỏi lại khi tái khám hoặc khám định kỳ miễn phí; khám tại nhà là lựa chọn cho người cao tuổi (CV 7311 mục 3.2); không ép (Luật KBCB 15/2023 Điều 10 khoản 4).",
+     "Hồ sơ: kết luận theo Mẫu số 03 mục IV (TT 25/2026): không phát hiện bệnh thực thể trên lâm sàng; cận lâm sàng: bà từ chối sau tư vấn; phân loại sức khỏe theo quy định BYT (tiêu chuẩn không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê kháng sinh, thuốc ho, corticoid hay thuốc bổ mới",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Ho sau cảm lạnh tự hết (QĐ 708/2015 mục 2); CHEST 2020 khuyến cáo 3: không kê thường quy kháng sinh, thuốc ho, corticoid cho ho cấp; ICOPE 2025 mục 4.2.4: không thêm thuốc khi chưa rà thuốc."
+     },
+     {
+      "thuoc": "Calci + vitamin D3 (viên bà đang tự dùng)",
+      "ham_luong": "Không rõ (vỉ cắt rời, mất chữ hàm lượng)",
+      "lieu": "1 viên mỗi ngày như bà đang dùng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng như hiện tại",
+      "so_ngay": "Giữ nguyên đến khi xem được vỏ thuốc ở lần tái khám",
+      "ghi_chu": "Giữ nguyên, không thêm: Endocrine Society 2024 khuyến cáo 6 (người ≥ 75 tuổi bổ sung vitamin D thường quy, liều thấp hằng ngày). Liều calci và tổng vitamin D của sản phẩm này: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Siro ho thảo dược (đã dùng 5 ngày, chai gần hết)",
+      "ham_luong": "Không rõ thành phần",
+      "lieu": "Như bà đang dùng khi ho",
+      "duong": "Uống",
+      "thoi_diem": "Khi ho",
+      "so_ngay": "Đến hết chai, không mua thêm; chụp ảnh đủ nhãn thành phần",
+      "ghi_chu": "Thành phần chưa đọc được: không có trong tài liệu đã tải. Có kháng histamin thế hệ 1 như chlorpheniramine thì ngưng (AGS Beers 2023 Bảng 2); ICOPE 2025 mục 3.1.4."
+     }
+    ],
+    "dan_do": [
+     "Nói giản dị: 'Hôm nay bác sĩ nghe phổi, đo huyết áp, thử đi lại, hỏi trí nhớ và tâm trạng, tất cả đều ổn. Chưa có xét nghiệm nên chưa dám nói khỏe hoàn toàn, nhưng không thấy dấu hiệu viêm phổi.'",
+     "Ho và mệt sau cảm lạnh có thể kéo dài khoảng 3 tuần, đôi khi lâu hơn rồi tự hết; chậm hơn bà tưởng là bình thường (QĐ 708/2015 mục 2; ACCP 2006). Không cần kháng sinh.",
+     "Quay lại ngay hoặc đi cấp cứu nếu sốt từ 37,8°C, thở nhanh hoặc khó thở (trên 24 lần/phút), tim nhanh (từ 100 lần/phút), đau ngực, ho ra máu, lẫn lộn, ngủ li bì, bỏ ăn; hoặc ho còn sau 8 tuần (QĐ 708/2015 mục 2; ACCP 2006; đau ngực, ho ra máu, lẫn lộn, bỏ ăn do người viết chọn, không có trong tài liệu đã tải).",
+     "Tái khám sau 3–4 tuần, mang theo tất cả thuốc, thuốc bổ, thuốc nam và vỏ thuốc (mốc người viết chọn; ICOPE 2025 chương 3). Chưa biết hàm lượng calci–D thì uống như cũ, đừng mua thêm vitamin hay thuốc bổ.",
+     "Ăn đủ ba bữa có cá, trứng, đậu; muối dưới 5 g mỗi ngày; rau quả ít nhất 400 g; đi bộ tăng dần (ICOPE 2025 mục 3.1.4, 6.1). Mặc ấm khi trời lạnh.",
+     "Xét nghiệm là quyền của bà, chưa muốn thì bác sĩ ghi lại và tôn trọng. Trạm y tế khám định kỳ miễn phí, có thể khám tại nhà nếu khó đi; lúc đó hỏi lại về đo xương, thử viêm gan B (CV 7311 mục 1.2, 3.2; Luật KBCB 15/2023 Điều 13). Hỏi bác sĩ về vắc xin cúm hằng năm (QĐ 1840/2025 mục IV.1); không mua kháng sinh hay thuốc cảm theo lời hàng xóm, nếu mua thì đưa tên thuốc cho bác sĩ xem (AGS Beers 2023 Bảng 2).",
+     "Với con gái: bà ổn nhưng hồi phục chậm; để ý ăn, ngủ, đi lại, lú lẫn trong 2–3 tuần tới; không để bà ngồi quầy ngoài hiên khi trời lạnh (người viết khuyến nghị, không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Nhàn hồi phục đúng quỹ đạo bình thường nhưng chậm hơn bà tưởng: tuần thứ ba vẫn húng hắng ho buổi sáng và mệt, đi chợ vẫn dừng một lần; tuần thứ năm hết ho, ngồi–đứng 5 lần còn 10 giây, cân 46,5 kg. Vì được dặn trước mốc ho kéo dài và các dấu hiệu phải quay lại, bà không mua kháng sinh theo lời bà Tư. Tái khám, con gái mang đủ vỏ thuốc: calci–D3 và vitamin B tổng hợp, không trùng hoạt chất. Bà vẫn từ chối thử máu, nhưng nhận lời hỏi lại ở đợt khám định kỳ miễn phí của trạm. Ca này không có biến cố: bài học là tốc độ hồi phục của người ≥ 75 tuổi chậm hơn kỳ vọng, và biết điều đó trước thì không sinh ra thuốc thừa hay hoảng sợ.",
+ "nhieu": [
+  "Bà Tư hàng xóm nhập viện vì viêm phổi: là lý do thật khiến bà đến khám và là nguồn lời khuyên 'uống kháng sinh cho dứt ho', không phải dữ kiện của bà. Ho 8 ngày, hết sốt, phổi sạch, ăn lại: không phải viêm phổi.",
+  "Thuốc bổ, vitamin, siro thảo dược 'không rõ tên': không phải thuốc gây bệnh; việc cần làm là xem vỏ thuốc và tổng vitamin D.",
+  "'Tôi khỏe lắm' cho mọi câu hỏi chung: không có nghĩa hết triệu chứng; hỏi chức năng cho thấy phải dừng nghỉ hai lần khi đi chợ, hợp với hồi phục sau bệnh cấp (ngồi–đứng 11 giây, ICOPE 2025 Bảng 3.1).",
+  "Từ chối xét nghiệm không phải 'không hợp tác' mà là quyết định có lý do (sợ kim, 'rút sức'): tư vấn một lần, ghi hồ sơ, phương án B.",
+  "Đợt không khí lạnh: yếu tố khởi phát cảm lạnh (QĐ 708/2015 mục 3: thay đổi thời tiết, nhiễm lạnh đột ngột), không phải bằng chứng bệnh nặng."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: câu hỏi chung ('có mệt không') nhận về 'không sao'; câu hỏi chức năng ('đi chợ có phải dừng không') nhận về sự thật. ICOPE dùng bài kiểm tra đo được thay lời kể.",
+  "Từ chối xét nghiệm: tôn trọng, tư vấn một lần, ghi hồ sơ, chuyển sang phương án B (đánh giá chức năng, tra dữ liệu cũ, hẹn lại). Ép buộc là sai (Luật KBCB 15/2023 Điều 10 khoản 4).",
+  "'Bình thường' ở đây là bình thường trên lâm sàng; nói rõ phần chưa kiểm chứng, không hứa 'khỏe hoàn toàn'.",
+  "Người ≥ 75 tuổi: khuyến cáo sàng lọc có giới hạn tuổi trên; dùng đánh giá chức năng và nguyện vọng của người bệnh, không khám tầm soát hàng loạt 'cho chắc'.",
+  "Khỏi chậm hơn dự kiến: nói trước ho có thể kéo dài 3 tuần hoặc hơn và mốc phải quay lại; ngăn kháng sinh thừa và hoảng sợ."
+ ],
+ "diem_nho": [
+  "Đánh giá cơ bản 6 lĩnh vực mất khoảng 8–12 phút; ngồi–đứng 5 lần trong 14 giây là đạt; sụt > 3 kg/3 tháng hoặc chán ăn là không đạt (ICOPE 2025 Bảng 3.1).",
+  "Khám định kỳ: cận lâm sàng theo chỉ định, không bắt buộc mọi người; kết quả còn giá trị thì không làm lại, tra VNeID, sổ sức khỏe điện tử (CV 7311 mục 1.2, 1.3; TT 25/2026 Điều 2 khoản 3).",
+  "Người bệnh có quyền từ chối sau khi được tư vấn, không bị ép buộc (Luật KBCB 15/2023 Điều 9, 10, 11, 13).",
+  "Ho sau cảm có thể kéo dài đến 20 ngày (QĐ 708/2015 mục 2); ho bán cấp 3–8 tuần thường tự hết, kháng sinh không có vai trò (ACCP 2006); ho > 8 tuần phải tìm nguyên nhân khác.",
+  "Người ≥ 75 tuổi: bổ sung vitamin D thường quy, không xét nghiệm 25(OH)D (Endocrine Society 2024); nữ ≥ 65 tuổi sàng lọc loãng xương (USPSTF 2025, B)."
+ ],
+ "nguon": [
+  "BYT – CV 5008/BYT-KCB ngày 06/7/2026 – TL-0666 – mục 1–3.",
+  "BYT – CV 7311/BYT-KCB 2026 (29/9/2026) – TL-0667 – mục 1.1 (điểm 4), 1.2 (điểm 1), 1.3, 3.2.",
+  "BYT – TT 25/2026/TT-BYT ngày 30/6/2026 và Phụ lục XXIV Mẫu số 03 – TL-0668 và bản kho cũ – Điều 2 khoản 3; Mẫu số 03 phần II–IV.",
+  "Luật Khám bệnh, chữa bệnh 15/2023/QH15 – TL-0007 – Điều 9 khoản 1, Điều 10 khoản 4, Điều 11 khoản 1, Điều 13 khoản 1.",
+  "WHO – ICOPE 2025 (person-centred assessment and pathways in primary care) – TL-0016 – Bảng 3.1 (tr. 19), mục 3.1.4, chương 3 (kế hoạch chăm sóc, tr. 37), mục 4.2.4, 6.1, 7.2.1.",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – Viêm phế quản cấp ở người lớn, mục 1, 2, 3, 4.1a, 4.1b.",
+  "BYT – QĐ 1840/QĐ-BYT ngày 03/6/2025, Hướng dẫn chẩn đoán và điều trị cúm mùa – TL-0122 – mục I, II.1.1, IV.1.",
+  "CHEST 2020 – Acute cough due to acute bronchitis, adult outpatients – TL-0151 – khuyến cáo 1–4.",
+  "ACCP 2006 – Postinfectious cough – TL-0160 – Abstract.",
+  "Endocrine Society 2024 – Vitamin D for the prevention of disease – TL-0676 – khuyến cáo 6, 7; Evidence-to-Decision considerations.",
+  "USPSTF – A and B recommendations (trang web, kho cũ): loãng xương, đại trực tràng, vú, cổ tử cung, HCV, HBV, HIV, trầm cảm, statin, đái tháo đường.",
+  "USPSTF 2025 – Osteoporosis screening – TL-0351; 2020 – HBV TL-0685, HCV TL-0686; 2018 – ECG TL-0689; 2015 – tuyến giáp TL-0697; 2021 – thiếu vitamin D TL-0683.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (kháng histamin thế hệ 1).",
+  "BYT – QĐ 2892/QĐ-BYT 2022, béo phì – TL-0281 – mục 4.1 Bảng 4.1; VSH/VNHA 2024 – TL-0288 – Đ1.2.1."
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "2026-11-14: viết bản 1 (viết: Sonnet). Đã đọc CV 5008 (TL-0666), CV 7311 (TL-0667) mục 1.1–1.3, 3.2; TT 25/2026 (TL-0668 và bản kho cũ) Điều 2 khoản 3, Mẫu số 03; Luật KBCB 15/2023 (TL-0007) Điều 9–13; ICOPE 2025 (TL-0016) Bảng 3.1, mục 3.1.4, 4.2.4, 6.1, 7.2.1; QĐ 708/2015 (TL-0015); QĐ 1840/2025 (TL-0122); CHEST 2020 (TL-0151); ACCP 2006 (TL-0160); Endocrine Society 2024 (TL-0676) khuyến cáo 6–7; USPSTF trang A&B, loãng xương 2025, HBV, HCV, ECG, tuyến giáp, vitamin D; Beers 2023; QĐ 2892/2022; VSH/VNHA 2024.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn phân loại sức khỏe (Mẫu số 03 mục IV chỉ nêu 'phân loại'); nội dung sàng lọc miễn phí theo tuổi (BYT còn hoàn thiện); quyết định dừng sàng lọc ung thư sau 75 tuổi; cách áp dụng cam kết văn bản khi từ chối xét nghiệm tùy chọn; thời điểm tiêm vắc xin cúm sau khi mới ốm; hàm lượng calci–D; dấu hiệu quay lại ngoài ngưỡng sinh hiệu. Mốc tái khám 3–4 tuần và mốc ho 8 tuần do người viết chọn theo ACCP 2006.",
+  "Mâu thuẫn: dùng mục sổ HH-0671 'X-quang ngực cho người > 75 tuổi nghi viêm phế quản cấp' và 'Ngưỡng sinh hiệu nghi viêm phổi'; ghi cả hai cách. Không thêm mục mới. Đề xuất danh mục: dxa."
+ ]
+}
