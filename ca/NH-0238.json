@@ -1,0 +1,734 @@
+{
+ "ma_ca": "NH-0238",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_hong_va_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm họng / VA cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau uống nước không sạch (bé uống nước giếng chưa đun sôi khi về quê chơi)",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà (bà nội nhờ người quen truyền chai nước muối kèm một ống thuốc)",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám (bà nội gọi điện bắt đi; mẹ thấy bé đã đỡ nên đi cho yên lòng bà)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Bảo Ngọc",
+  "tuoi": 9,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 4",
+  "can_nang": 28,
+  "chieu_cao": 133,
+  "xung_ho": "Bé 9 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ (chị Hạnh) xưng 'em' với bác sĩ, gọi bé là 'con Ngọc' hoặc 'con bé'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Chị Hạnh 34 tuổi, công nhân may, hiền, ít nói, sợ bị trách, nghe lời bà nội chồng. Ngọc nhút nhát, sợ que ngoáy họng và kim tiêm, ôm tay mẹ, trả lời rất ngắn khi được hỏi trực tiếp.",
+  "kieu_nhieu": "Mẹ giấu tiền sử: nói 'em chỉ cho bé uống thuốc hạ sốt thôi', không kể bà nội nhờ cô y tá hàng xóm truyền dịch tại nhà (kèm một ống thuốc nghi 'dexa') vì sợ bị trách; chỉ nói khi bác sĩ hỏi cụ thể từng thứ bé đã uống, tiêm, truyền hoặc hỏi lại nhẹ nhàng. Tiêm chủng: hỏi chung trả lời 'đủ', hỏi cụ thể thì mở ảnh sổ. Bệnh nhân từ chối xét nghiệm: Ngọc sợ que ngoáy họng và kim, khóc, mẹ không ép.",
+  "nguoi_nha": "Mẹ bé (chị Hạnh) đi cùng, trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng Ngọc (vd \"Ngọc đau họng thế nào?\", \"Con có uống nước giếng không?\") thì Ngọc trả lời ngắn (nguoi_noi = benh_nhan). Bà nội ở quê chỉ gọi điện.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#e8a0b4",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b48d",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#7a9cc6",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt và đau họng ba ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 9 tuổi, 28 kg, mẹ đưa đến vì sốt và đau họng 3 ngày. Sinh hiệu: nhiệt 38,3 °C, mạch 98 l/p, huyết áp 100/65 mmHg, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt, ôm tay mẹ, nhìn bác sĩ dè chừng.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Ngọc nhập viện vì sốt 38,3 °C và đau họng là quá tay: bé tỉnh, uống và nuốt được, thở 22 l/p, không giả mạc, không sưng một bên họng, không mất nước (WHO 2013 mục 5.2.2: mất nước khi có từ hai dấu hiệu như quấy khóc, mắt trũng, khát uống tham, véo da chậm). Viêm họng do virus thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1). Chị Hạnh là công nhân may, nghỉ làm ở bệnh viện mất thu nhập; bé sợ kim và lại phải bị chích tĩnh mạch, chỉ củng cố ý bà nội rằng bệnh nặng phải truyền dịch.",
+    "chuyen_tuyen": "Chuyển Ngọc lên tuyến trên để ngoáy họng, cấy tìm liên cầu hay bạch hầu là không cần: có ho, sổ mũi, giọng khàn nhẹ thì thường không xét nghiệm liên cầu (IDSA 2012 khuyến cáo I.4), còn nghi bạch hầu phải có giả mạc dai dính (QĐ 2957 mục 5.1) mà bé không có. Bé sợ que ngoáy họng nên nhiều khả năng mẹ con bỏ giữa đường, mất một ngày, mất lòng tin với bác sĩ và không còn ai theo dõi bé."
+   },
+   "loi_mo": "Bác sĩ khám giùm con bé, nó sốt với đau họng mấy bữa nay. Thật ra em thấy nó đỡ rồi, mà bà nội ở quê gọi điện bắt đi khám cho được.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "100/65",
+    "nhiet": "38,3",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau họng khi nuốt và sốt 38–38,5 °C đã ba ngày, đau đầu nhẹ, mệt, ăn ít hơn. Hôm nay vẫn sốt 38,3 °C.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian"
+    },
+    {
+     "id": "ho_mui",
+     "noi_dung": "Sổ mũi nước trong, hơi nghẹt mũi, ho khan từng cơn nhẹ, giọng hơi khàn. Không khạc đờm, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, sổ mũi, khàn tiếng (dấu hiệu virus)"
+    },
+    {
+     "id": "nuot",
+     "noi_dung": "Nuốt đau nhưng vẫn ăn cháo, uống nước được. Không chảy dãi, không giọng ngậm hạt thị, không khó mở miệng, không cứng cổ, không khó thở, không thở rít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ áp xe quanh amidan, thành sau họng, viêm thanh quản"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Ngọc vẫn đi lại, chơi được một lúc rồi nằm; không nôn mọi thứ, không li bì, không co giật; đi tiểu bình thường, nước tiểu vàng nhạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2024), mất nước"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Bốn ngày trước cả nhà về quê chơi, Ngọc uống nước giếng chưa đun sôi cùng các anh em họ. Hôm sau Ngọc đau bụng quanh rốn, nôn một lần, đi ngoài phân sệt một lần rồi hết. Không tiêu chảy kéo dài, không phân có máu. Các anh em họ không ai bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau uống nước không sạch; loại trừ viêm dạ dày ruột"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ nói ban đầu: \"Em chỉ cho bé uống thuốc hạ sốt thôi\". Sự thật hỏi cụ thể mới ra: hôm qua và hôm nay mẹ cho uống paracetamol gói 250 mg, tổng cộng ba lần, không có kháng sinh uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Hôm kia (ngày thứ 2) bà nội gọi điện nhờ cô Sáu, một cô y tá về hưu ở xóm, sang truyền cho Ngọc một chai nước muối 500 ml tại nhà \"cho mau khỏe\". Cô Sáu có bơm thêm một ống thuốc vào dây truyền; mẹ nhớ vỏ ống có chữ \"dexa\" nhưng không nhớ tên đầy đủ, không giữ vỏ ống. Truyền xong bé hết sốt vài giờ rồi sốt lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể vì sợ bị trách. Chỉ nói khi bác sĩ hỏi cụ thể bé đã uống, tiêm hay truyền gì chưa, thấy băng cá nhân ở mu bàn tay rồi hỏi, hoặc hỏi lại nhẹ nhàng, không phán xét. Tên và liều ống thuốc mẹ không biết.",
+     "k": 1,
+     "y": "Tiền sử giấu: truyền dịch tại nhà kèm một ống thuốc có thể là dexamethason"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Ở lớp có hai ba bạn ho, sổ mũi. Không ai trong nhà hay lớp bị bạch hầu, ho gà; gia đình không đến vùng có dịch bạch hầu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dịch tễ (bạch hầu)"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Hỏi chung thì mẹ nói \"tiêm đủ rồi\". Hỏi cụ thể và xin xem sổ thì mẹ mở ảnh sổ tiêm chủng trong điện thoại: ghi đủ các mũi cơ bản và mũi nhắc khi vào lớp 1.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử tiêm chủng (bạch hầu)"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Ngọc sợ que ngoáy họng (từng bị ọe khi bạn trong lớp bị ngoáy họng) và sợ kim tiêm, khóc và lắc đầu. Chị Hạnh nói \"thôi con sợ thì thôi bác sĩ\". Nếu bác sĩ giải thích rõ vì sao có hoặc không cần làm thì chị gật đầu hiểu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ràng buộc: bệnh nhân từ chối xét nghiệm"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Chị Hạnh thấy Ngọc đã đỡ sau chai nước hôm kia nên định chờ thêm. Bà nội ở quê gọi ba lần hôm nay, nói \"con nhỏ sốt ba ngày rồi, không đi khám bà về bà đưa đi\", lại dặn xin bác sĩ \"cho đơn có kháng sinh cho bà yên tâm\". Chị đi để bà khỏi lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không tự kể. Chỉ nói khi bác sĩ hỏi vì sao hôm nay mới đưa bé đi, ai quyết định đưa bé đi khám, hoặc gia đình mong muốn gì; nếu hỏi nhẹ nhàng, chị thú nhận do bà nội thúc ép.",
+     "k": 0,
+     "y": "Lý do thật đến khám: gia đình thúc ép"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, niêm mạc ẩm, mắt không trũng, véo da trở lại nhanh, uống nước tốt. Giọng khàn nhẹ. Không mất nước.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ vừa, thành sau họng có nhầy trong chảy từ vòm xuống, tổ chức lympho thành sau họng hơi to. Amidan hai bên to độ II, đỏ, không có mủ, không bựa trắng, không giả mạc. Lưỡi gà giữa, không phù; mở miệng bình thường; khẩu cái không phồng một bên. Niêm mạc mũi phù nề, nhầy trong. Màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Họng đỏ, amidan hai bên to. Mũi có nhầy trong."
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên 0,5–1 cm, di động, ấn không đau. Không có hạch trước cổ sưng đau. Cổ mềm, không bạnh, không cứng.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn quanh rốn không đau, không chướng, nhu động ruột bình thường, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết. Mu bàn tay trái có một miếng băng cá nhân; mở ra thấy vết kim nhỏ, bầm nhẹ 1 cm, không đỏ, không sưng, không nóng.",
+     "k": 1,
+     "hien": "Mu bàn tay trái có miếng băng cá nhân. Không ban."
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp lớn nhỏ không sưng, nóng, đỏ, đau; vận động bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Ngọc sợ que ngoáy họng, vừa nhìn thấy que đã khóc, nói \"con mắc ói\"; chị Hạnh không ép. Hai mẹ con từ chối. Không có kết quả.",
+     "n": "Chấp nhận, không bắt buộc: có ho, sổ mũi, khàn tiếng nên thường không test (IDSA 2012 khuyến cáo I.4). Centor 1 điểm nếu chỉ tính xuất tiết (AWaRe 2022 tr. 49–50), 2 điểm nếu tính cả amidan sưng (IDSA 2025 Bảng 3); McIsaac 3 điểm (sốt, amidan to, tuổi 3–14) = nguy cơ trung gian 20,8–33,6% (IDSA 2025 Bảng 3). Phương án B khi từ chối: dựa vào thang điểm và dấu hiệu virus, hẹn tái khám; nếu test muộn thì vẫn kịp phòng thấp tim khi điều trị trong 9 ngày từ lúc khởi phát (IDSA 2012, phần Diagnosis). Từ chối: bác sĩ giải thích một lần, tôn trọng quyết định và ghi vào hồ sơ; thủ tục ghi nhận từ chối ở trẻ dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    "cay_hong_gas": {
+     "v": "a",
+     "r": "Từ chối như test nhanh. Không có kết quả.",
+     "n": "Chấp nhận, không bắt buộc: cấy họng là chuẩn đối chiếu nhưng có kết quả sau 1–2 ngày, không đổi quyết định hôm nay (IDSA 2012 khuyến cáo I.1, I.4). Cùng lý do với test nhanh. Từ chối: ghi vào hồ sơ."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Từ chối như test nhanh. Không có kết quả.",
+     "n": "Không cần: nghi bạch hầu phải có giả mạc, bệnh phẩm lấy ở rìa giả mạc (QĐ 2957 mục 4.1, 5.1); Ngọc không có giả mạc. Từ chối: ghi vào hồ sơ."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không cần: viêm mũi họng cấp thường không cần xét nghiệm, dựa vào triệu chứng và khám họng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); AWaRe 2022 tr. 49: xét nghiệm máu thường không cần. Từ chối: ghi vào hồ sơ."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không cần, như công thức máu (AWaRe 2022 tr. 49). Từ chối: ghi vào hồ sơ."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không dùng chẩn đoán viêm họng cấp: kháng thể phản ánh nhiễm trước đây, không phải hiện tại (IDSA 2012 khuyến cáo I.3). Từ chối: ghi vào hồ sơ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng cấp (viêm mũi họng cấp, có thể kèm viêm V.A cấp: nhầy từ vòm chảy xuống thành sau họng) nghĩ do virus ở trẻ 9 tuổi, ngày thứ 3, chưa biến chứng",
+     "ok": 1,
+     "n": "Sốt, đau họng, ho khan, sổ mũi, khàn nhẹ, họng đỏ, amidan to không mủ, hạch nhỏ không đau; virus chiếm 60–80% (QĐ 5643, Viêm mũi họng cấp tính mục 2.1.2, 3.1.1), thường tự khỏi sau 3–5 ngày (mục 5.1). Viêm V.A cấp ở trẻ lớn rất hiếm vì V.A thoái triển từ 5–6 tuổi (QĐ 5643, Viêm V.A mục 1). Dấu hiệu virus rõ (IDSA 2012 khuyến cáo I.1, I.4)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ nhưng chưa loại hẳn vì không test: có ho, sổ mũi, khàn tiếng, hạch không đau, amidan không xuất tiết (IDSA 2012 khuyến cáo I.4; Bảng 4 các đặc điểm gợi ý). Centor 1–2, McIsaac 3 (IDSA 2025 Bảng 3, AWaRe 2022 tr. 50). QĐ 5643 (Viêm họng cấp tính mục 4.1) điều trị như liên cầu khi chưa có xét nghiệm: xem sổ mâu thuẫn. Dặn tái khám nếu không đỡ."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc dai dính, hạch không đau, cổ không bạnh, không dịch tễ (QĐ 2957 mục 3.1.3, 3.2, 5.1). Khởi phát bạch hầu cũng sốt 37,5–38 °C, đau họng, sổ mũi, hạch nhỏ không đau (mục 3.1.2), bệnh hay gặp ở trẻ dưới 15 tuổi chưa tiêm đủ (mục 1): đã xem sổ tiêm chủng, khám họng kỹ và dặn quay lại ngay nếu có mảng trắng bám."
+    },
+    {
+     "t": "Viêm dạ dày ruột sau uống nước không sạch",
+     "n": "Đau bụng, nôn một lần, phân sệt một lần rồi hết; bụng mềm, không mất nước (WHO 2013 mục 5.2.2). Đau bụng, nôn cũng nằm trong bệnh cảnh viêm họng liên cầu ở trẻ (IDSA 2012, Bảng 4). Hướng dẫn nước giếng chưa đun: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Áp xe quanh amidan, áp xe thành sau họng",
+     "n": "Không khó mở miệng, không giọng ngậm hạt thị, khẩu cái và lưỡi gà không lệch, nuốt nước bọt được (QĐ 5643, Viêm họng cấp tính mục 5; Viêm mũi họng cấp tính mục 5.2)."
+    },
+    {
+     "t": "Tác dụng của chai dịch và ống thuốc truyền tại nhà (có thể làm triệu chứng đỡ tạm thời)",
+     "n": "Chỉ ghi nhận, không có chỉ định: tài liệu đã tải không có chỉ định truyền dịch cho viêm họng cấp khi trẻ uống được (xem sổ mâu thuẫn); ống thuốc nghi dexamethason, tên và liều không rõ. Tác động của một liều corticoid lên diễn biến viêm họng: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nhẹ nhàng, không trách về thuốc, tiêm, truyền đã dùng ở nhà; ghi vào hồ sơ chai nước và ống thuốc nghi \"dexa\"; giải thích bé uống được nên không cần truyền dịch",
+     "v": "c",
+     "n": "Bé uống được, không mất nước (WHO 2013 mục 5.2.2), không dấu hiệu nguy hiểm (WHO 2024). Tài liệu đã tải không có chỉ định truyền dịch hay tiêm thuốc cho viêm họng cấp ở trẻ uống được (sổ mâu thuẫn: truyền dịch theo yêu cầu). Tên và liều thuốc đã bơm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích một lần vì sao xét nghiệm liên cầu không bắt buộc và cách chọn khi bé từ chối; ghi nhận từ chối vào hồ sơ; chuyển phương án B (dựa vào lâm sàng, thang điểm, hẹn tái khám)",
+     "v": "c",
+     "n": "Có ho, sổ mũi, khàn tiếng nên thường không xét nghiệm (IDSA 2012 khuyến cáo I.4); Centor 0–2 xét nghiệm thường không cần (AWaRe 2022 tr. 49–50). Còn kịp phòng thấp tim trong 9 ngày từ khởi phát (IDSA 2012, phần Diagnosis). Thủ tục ghi nhận từ chối ở trẻ dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh, điều trị triệu chứng HOẶC amoxicillin 10 ngày (cách của QĐ 5643)",
+     "v": "c",
+     "n": "Cách 1: không kháng sinh khi có dấu hiệu virus và Centor 0–2 (IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 50: Centor 0–2 chỉ điều trị triệu chứng). Cách 2: viêm họng đỏ cấp ở người trên 3 tuổi điều trị như do liên cầu khi chưa có xét nghiệm, amoxicillin 10 ngày (QĐ 5643, Viêm họng cấp tính mục 4.1; Viêm mũi họng cấp tính mục 4.1, 4.3.1). Khác nhau do năm ban hành (2015 so với AWaRe 2022) và bối cảnh có hay không xét nghiệm; theo sổ mâu thuẫn cả hai cách đều đúng. Liều amoxicillin xem lượt 2. Lượt 2 viết tiếp từ cách 1."
+    },
+    {
+     "t": "Paracetamol 300 mg/lần (10–15 mg/kg: 280–420 mg), cách ít nhất 6 giờ, tối đa 4 lần/ngày, chỉ khi sốt hoặc đau họng làm bé khó chịu",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50: 10–15 mg/kg mỗi 6 giờ, nhóm 20 đến dưới 30 kg: 300 mg mỗi 6 giờ. Trần 60 mg/kg/24 giờ (QĐ 708/2015, Viêm màng não mủ mục 4.2): 28 kg tối đa 1.680 mg; 4 × 300 mg = 1.200 mg. IDSA 2012 khuyến cáo IV.10(i): dùng khi triệu chứng vừa đến nặng. Ibuprofen 200 mg mỗi 8 giờ cho nhóm 20 đến dưới 30 kg (AWaRe 2022 tr. 50) chấm a; bé vừa nôn, đau bụng nên dùng sau ăn (QĐ 5643, Viêm mũi họng cấp tính mục 4.3.2)."
+    },
+    {
+     "t": "Uống nước đều, ăn lỏng dễ nuốt, súc họng nước muối ấm, nghỉ ngơi",
+     "v": "c",
+     "n": "QĐ 5643, Viêm họng cấp tính mục 4.1, 4.2.2 (xúc họng 3–4 lần/ngày). Công thức nước muối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu có giả mạc hoặc mảng trắng bám chắc, khó mở miệng, sưng một bên họng, chảy dãi, khó thở, thở rít, không uống được, li bì, đau khớp sưng, nổi ban; hẹn tái khám sau 3 ngày nếu vẫn sốt hoặc nặng hơn",
+     "v": "c",
+     "n": "Virus thường khỏi sau 3–5 ngày, kéo dài hơn thì nghi bội nhiễm liên cầu (QĐ 5643, Viêm họng cấp tính mục 5). Dấu hiệu nguy hiểm (WHO 2024); biến chứng tại chỗ (QĐ 5643, Viêm họng cấp tính mục 5); giả mạc bạch hầu (QĐ 2957 mục 3.1.3). Thấp tim xuất hiện 2–3 tuần sau viêm họng (AWaRe 2022 tr. 51)."
+    },
+    {
+     "t": "Truyền dịch, tiêm thuốc (kể cả corticoid tiêm) hoặc tiêm kháng sinh cho bé theo ý bà nội",
+     "v": "w",
+     "n": "Không có chỉ định: bé uống được, không mất nước, không dấu hiệu nguy hiểm; tài liệu đã tải không có truyền dịch cho viêm họng cấp (sổ mâu thuẫn). Kháng sinh nếu dùng thì đường uống (IDSA 2012 khuyến cáo III.8; QĐ 5643, Viêm mũi họng cấp tính mục 4.3.1)."
+    },
+    {
+     "t": "Prednisolon uống (QĐ 5643)",
+     "v": "a",
+     "n": "QĐ 5643 (Viêm họng cấp tính mục 4.2.1) nêu prednisolon 5 mg; IDSA 2012 khuyến cáo IV.10(iii) không khuyến cáo corticoid (yếu, trung bình). Hai nguồn khác nhau: chấp nhận, không bắt buộc, nhất là khi bé vừa có thể nhận một liều corticoid ở nhà."
+    },
+    {
+     "t": "Aspirin hạ sốt cho bé",
+     "v": "h",
+     "n": "Tránh aspirin ở trẻ em vì hội chứng Reye (IDSA 2012 khuyến cáo IV.10(ii), mạnh, trung bình). QĐ 5643 (Viêm mũi họng cấp tính mục 4.3.2) liệt kê aspirin nhưng không nêu liều cho trẻ; chọn bên thận trọng (sổ mâu thuẫn)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng cấp / viêm mũi họng cấp, có thể kèm viêm V.A cấp, nghĩ do virus, ngày thứ 3",
+     "Chưa biến chứng: không áp xe quanh amidan, không viêm tai giữa, không viêm phổi, không mất nước",
+     "Chưa loại hẳn viêm họng liên cầu vì bệnh nhân từ chối xét nghiệm: có dấu hiệu virus rõ, Centor 1–2, McIsaac 3",
+     "Chưa có dấu hiệu bạch hầu (không giả mạc, hạch không đau, tiêm chủng đủ)",
+     "Tiền sử giấu: đã được truyền một chai nước muối kèm một ống thuốc nghi dexamethason tại nhà",
+     "Bối cảnh: uống nước giếng chưa đun, bà nội thúc ép đi khám dù mẹ thấy bé đã đỡ"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là viêm họng do virus: sốt, đau họng, ho khan, sổ mũi, khàn nhẹ, họng đỏ, amidan to không mủ, hạch nhỏ không đau (QĐ 5643, Viêm mũi họng cấp tính mục 2.1.2, 3.1.1, 5.1; IDSA 2012 khuyến cáo I.1, I.4). Nhầy từ vòm xuống thành sau họng gợi ý viêm V.A cấp kèm theo (QĐ 5643, Viêm V.A mục 3.1.1.1), nhưng hiếm ở trẻ lớn (mục 1).",
+     "Vì sao chưa loại liên cầu: Centor 1 điểm theo AWaRe 2022 tr. 50 (chỉ có sốt), 2 điểm theo IDSA 2025 Bảng 3 vì tính cả amidan sưng; McIsaac 3 điểm, nguy cơ trung gian 21–34% (IDSA 2025 Bảng 3); khuyến cáo I.4 của IDSA 2012 vẫn còn. Không xét nghiệm nên không khẳng định được. QĐ 5643 điều trị như liên cầu khi chưa có xét nghiệm; AWaRe và IDSA không kháng sinh khi dấu hiệu virus rõ và Centor thấp: khác năm ban hành và bối cảnh.",
+     "Vì sao không nghĩ bạch hầu: không giả mạc dai dính bóc chảy máu, hạch góc hàm nhỏ không đau, cổ không bạnh, không dịch tễ (QĐ 2957 mục 3.1.3, 3.2, 5.1). Khởi phát bạch hầu giống bệnh cảnh này (sốt nhẹ, đau họng, sổ mũi, hạch nhỏ không đau, mục 3.1.2) nên phải hỏi cụ thể sổ tiêm chủng: mẹ nói \"đủ\" mới đúng khi xem sổ.",
+     "Vì sao ghi nhận truyền dịch tại nhà: mẹ giấu vì sợ bị trách; đầu mối là băng cá nhân ở mu bàn tay; hỏi lại không phán xét là kỹ thuật chính. Ống thuốc nghi dexamethason: tên, liều không rõ, ảnh hưởng đến diễn biến: không có trong tài liệu đã tải. Đau bụng, nôn sau uống nước giếng: bụng mềm, không mất nước (WHO 2013 mục 5.2.2), là mồi nhử khởi phát, không phải căn nguyên. Không biến chứng: nuốt được, mở miệng bình thường, khẩu cái và lưỡi gà không lệch (QĐ 5643, Viêm họng cấp tính mục 5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Xét nghiệm: không bắt buộc (IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 49–50). Test nhanh và cấy họng chấm \"chấp nhận\"; giải thích một lần vì sao làm hoặc không làm, rồi tôn trọng quyết định và ghi vào hồ sơ. Phương án B: dựa vào thang điểm và dấu hiệu virus, hẹn tái khám; nếu không đỡ thì test sau, vẫn kịp phòng thấp tim trong 9 ngày từ khởi phát (IDSA 2012, phần Diagnosis).",
+     "Kháng sinh: hai cách đều đúng. Không kháng sinh vì dấu hiệu virus và Centor thấp (IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 50). Hoặc amoxicillin 10 ngày theo QĐ 5643 (Viêm họng cấp tính mục 4.1; Viêm mũi họng cấp tính mục 4.1, 4.3.1). Lượt 2 viết tiếp từ cách 1: chưa dùng kháng sinh.",
+     "Hạ sốt, giảm đau: paracetamol 300 mg/lần mỗi 6 giờ khi cần (AWaRe 2022 tr. 50), không quá 4 lần/ngày, trần 60 mg/kg/24 giờ (QĐ 708/2015, Viêm màng não mủ mục 4.2). Dùng khi bé khó chịu (IDSA 2012 khuyến cáo IV.10(i)). Không aspirin cho trẻ (IDSA 2012 khuyến cáo IV.10(ii)). Corticoid: QĐ 5643 nêu prednisolon, IDSA 2012 không khuyến cáo: chấp nhận, không bắt buộc.",
+     "Không truyền dịch, không tiêm thuốc: bé uống được, không mất nước; tài liệu đã tải không có chỉ định. Giải thích bằng tiêu chí cụ thể (uống được, tiểu bình thường, không li bì); nhờ chị Hạnh nói lại với bà nội. Dặn quay lại ngay khi có dấu hiệu nguy hiểm hoặc biến chứng (WHO 2024; QĐ 5643, Viêm họng cấp tính mục 5; QĐ 2957 mục 3.1.3); tái khám sau 3 ngày nếu vẫn sốt (QĐ 5643, Viêm họng cấp tính mục 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "300 mg/lần (≈ 10,7 mg/kg; cho phép 10–15 mg/kg = 280–420 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau họng làm bé khó chịu; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt hoặc đau; tối đa 4 lần/24 giờ (1.200 mg, dưới trần 60 mg/kg/ngày = 1.680 mg)",
+      "ghi_chu": "AWaRe 2022 tr. 50 (20 đến dưới 30 kg: 300 mg mỗi 6 giờ); QĐ 708/2015 (Viêm màng não mủ mục 4.2): không quá 60 mg/kg/24 giờ. Ibuprofen 200 mg mỗi 8 giờ sau ăn là lựa chọn thay thế (AWaRe 2022 tr. 50)."
+     },
+     {
+      "thuoc": "Nước muối ấm súc họng",
+      "ham_luong": "Nồng độ: không có trong tài liệu đã tải",
+      "lieu": "Súc họng 3–4 lần/ngày (QĐ 5643, Viêm họng cấp tính mục 4.2.2)",
+      "duong": "Súc họng, không nuốt",
+      "thoi_diem": "Sau ăn, trước khi ngủ",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 ghi \"xúc họng BBM ngày 3–4 lần\"; thành phần cụ thể không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé uống được, tiểu bình thường, không li bì nên không cần truyền dịch; nhờ chị Hạnh nói lại với bà nội. Từ nay không truyền dịch hay tiêm thuốc tại nhà khi chưa có chỉ định của bác sĩ.",
+     "Không cho uống aspirin. Không tự mua thêm thuốc ho, thuốc cảm, kháng sinh còn thừa.",
+     "Quay lại ngay nếu có mảng trắng bám chắc ở họng, khó mở miệng, sưng một bên họng, chảy dãi, khó thở, thở rít, không uống được, li bì, nổi ban (QĐ 5643, Viêm họng cấp tính mục 5; QĐ 2957 mục 3.1.3); hẹn tái khám sau 3 ngày nếu vẫn sốt.",
+     "Xét nghiệm sau này vẫn làm được nếu bé hết sợ hoặc bệnh không đỡ; còn kịp trong 9 ngày từ lúc khởi phát (IDSA 2012)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 ngày theo hẹn (ngày thứ 6 của bệnh). Mẹ nói bé vẫn sốt, đau họng hơn. Bé theo hướng xử trí lượt trước: chưa dùng kháng sinh, uống paracetamol. Sinh hiệu: nhiệt 38,7 °C, mạch 108 l/p, huyết áp 100/60 mmHg, nhịp thở 22 l/p, SpO₂ 98%. Bé mệt hơn, ngồi gục vào mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Ngọc nhập viện vì sốt 38,7 °C ngày thứ 6 là quá tay: bé tỉnh, uống được, không khó mở miệng, không sưng một bên họng, không mất nước, không dấu hiệu nguy hiểm (WHO 2013 mục 5.2.2; WHO 2024). Viêm họng liên cầu thường là bệnh tự giới hạn và đáp ứng lâm sàng sau 24–48 giờ dùng kháng sinh uống (IDSA 2012, mục III, phần Evidence Summary). Nằm viện làm chị Hạnh mất thêm ngày công, bé bị đặt kim truyền mà chính nỗi sợ kim đã khiến bé từ chối lấy máu, và bà nội nghĩ truyền dịch mới là chữa đúng.",
+    "chuyen_tuyen": "Chuyển Ngọc lên tuyến trên để cấy họng hoặc hội chẩn bạch hầu là không cần: amidan có mủ trắng lau ra dễ, không giả mạc dai dính bóc chảy máu, cổ không bạnh, có sổ tiêm chủng đủ (QĐ 2957 mục 3.1.3, 3.2, 5.1). Có thể xử trí bằng kháng sinh uống tại tuyến này. Bé vẫn sợ ngoáy họng và lấy máu nên mẹ con dễ bỏ giữa đường, bé thêm một ngày sốt không có kháng sinh, trong khi điều trị trong 9 ngày từ lúc khởi phát vẫn phòng được thấp tim (IDSA 2012, phần Diagnosis)."
+   },
+   "loi_mo": "Bác sĩ ơi, ba bữa nay con bé vẫn sốt, giờ nó kêu đau họng nuốt không nổi, hết ho luôn rồi. Em làm đúng lời bác sĩ mà nó không đỡ.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "100/60",
+    "nhiet": "38,7",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 38,5–39 °C kéo dài, đau họng tăng dần, nuốt nước bọt cũng đau, ăn uống ít đi, đau đầu, đau bụng nhẹ. Thuốc hạ sốt chỉ giúp được vài giờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: không đỡ"
+    },
+    {
+     "id": "ho_mui",
+     "noi_dung": "Ho và sổ mũi hết từ hôm qua. Không ho, không nghẹt mũi, giọng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất dấu hiệu virus (Centor: không ho)"
+    },
+    {
+     "id": "nuot",
+     "noi_dung": "Nuốt đau nhiều nhưng vẫn uống sữa và nước được. Không chảy dãi, không giọng ngậm hạt thị, không khó mở miệng, không cứng cổ, không khó thở, không thở rít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ áp xe quanh amidan, thành sau họng"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Ngọc tỉnh, mệt, uống được, không nôn mọi thứ, không co giật, đi tiểu 3 lần hôm nay nước vàng nhạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, mất nước"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị Hạnh làm đúng lời dặn: paracetamol 300 mg ba bốn lần mỗi ngày, súc họng nước muối, uống nước. Không cho aspirin hay kháng sinh nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lượt 1 (một bước của quy trình thất bại điều trị)"
+    },
+    {
+     "id": "truyen_lan2",
+     "noi_dung": "Đêm qua Ngọc sốt cao nên bà nội gọi cô Sáu sang truyền thêm một chai nước đường 500 ml ở nhà, lần này không bơm thuốc nào. Sáng nay bé vẫn sốt 38,5 °C. Mẹ không nói vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi cụ thể từ lần khám trước bé có uống, tiêm hay truyền gì thêm không, thấy băng cá nhân mới ở mu bàn tay phải rồi hỏi, hoặc hỏi lại nhẹ nhàng không phán xét.",
+     "k": 1,
+     "y": "Tiền sử giấu: truyền dịch lần 2 tại nhà"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Sổ tiêm chủng trong ảnh điện thoại ghi đủ các mũi cơ bản và mũi nhắc khi vào lớp 1.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêm chủng (loại trừ bạch hầu)"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bé vẫn sợ que ngoáy họng và kim; nhìn thấy que là nấc, khóc thét. Chị Hạnh xót con nên không ép. Chị nói nếu bác sĩ \"chắc chắn cần\" thì chị nghe, nhưng sợ bé hoảng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ràng buộc: bệnh nhân từ chối xét nghiệm"
+    },
+    {
+     "id": "lo_thuoc",
+     "noi_dung": "Chị Hạnh kể bà nội nghe \"kháng sinh uống nhiều hại gan hại thận\" và dặn \"hết sốt là ngưng thuốc, đừng cho uống hết vỉ\". Chị cũng hơi nghĩ vậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không tự kể. Chỉ nói khi bác sĩ hỏi gia đình có lo lắng gì về thuốc kháng sinh, hoặc hỏi chị nghĩ sao nếu bé phải uống thuốc nhiều ngày.",
+     "k": 0,
+     "y": "Rào cản tuân thủ kháng sinh 10 ngày"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không dị ứng thuốc. Từng uống amoxicillin hồi nhỏ, không phản ứng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, môi hơi khô, mắt không trũng, véo da trở lại nhanh, uống được từng ngụm. Giọng bình thường. Không mất nước.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ rực. Amidan hai bên to độ II–III, đỏ, nhiều chấm mủ trắng và bựa trắng phủ bề mặt; dùng tăm bông lau ra dễ, không chảy máu, không giả mạc dai dính. Vòm miệng có vài chấm xuất huyết nhỏ. Lưỡi gà giữa, không phù; mở miệng bình thường; khẩu cái không phồng một bên. Mũi khô, không nhầy. Màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Họng đỏ, amidan hai bên to có mủ trắng. Mũi khô."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước cổ hai bên 1–1,5 cm, ấn đau. Cổ mềm, không bạnh, không cứng.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 108 l/p do sốt, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban dạng tinh hồng nhiệt, không chấm xuất huyết dưới da. Mu bàn tay trái vết kim cũ đã lành. Mu bàn tay phải có miếng băng cá nhân mới, vết kim nhỏ, không đỏ, không sưng, không nóng.",
+     "k": 1,
+     "hien": "Mu bàn tay phải có miếng băng cá nhân mới. Không ban."
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp không sưng, nóng, đỏ, đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_lien_cau": {
+     "v": "u",
+     "r": "Ngọc vẫn sợ que ngoáy họng, vừa thấy que đã nấc và khóc; chị Hạnh nói \"con nó khóc thét, em không nỡ\". Từ chối. Không có kết quả.",
+     "n": "Nên làm nếu được: Centor 4, McIsaac 5 (nguy cơ cao, 51–69% dương tính; IDSA 2025 Bảng 3), đã mất dấu hiệu virus (IDSA 2012 khuyến cáo I.1; AWaRe 2022 tr. 49). Bé từ chối nên dùng phương án B: quyết định theo điểm lâm sàng (QĐ 5643, Viêm mũi họng cấp tính mục 4.1; NICE NG84 2018 khuyến cáo 1.1.10). Cách thuyết phục bé sợ que ngoáy: không có trong tài liệu đã tải. Từ chối: bác sĩ giải thích một lần, tôn trọng quyết định và ghi vào hồ sơ; thủ tục ghi nhận từ chối ở trẻ dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    "cay_hong_gas": {
+     "v": "a",
+     "r": "Từ chối như test nhanh. Không có kết quả.",
+     "n": "Chấp nhận: cấy họng là chuẩn đối chiếu nhưng kết quả chậm, không đổi quyết định hôm nay khi đã quyết dùng kháng sinh theo điểm (IDSA 2012 khuyến cáo I.1). Từ chối: ghi vào hồ sơ."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Từ chối như test nhanh. Không có kết quả.",
+     "n": "Không cần: nghi bạch hầu phải có giả mạc dai dính, bóc chảy máu, bệnh phẩm lấy ở rìa giả mạc (QĐ 2957 mục 3.1.3, 4.1, 5.1); mủ ở amidan của Ngọc lau ra dễ, và bé tiêm đủ. Từ chối: ghi vào hồ sơ."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không cần: viêm mũi họng cấp thường không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); AWaRe 2022 tr. 49: xét nghiệm máu thường không cần. Bạch cầu tăng không phân biệt được liên cầu với bội nhiễm khác. Từ chối: ghi vào hồ sơ."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không cần (AWaRe 2022 tr. 49). Từ chối: ghi vào hồ sơ."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "Từ chối lấy máu. Không có kết quả.",
+     "n": "Không dùng chẩn đoán viêm họng cấp: kháng thể phản ánh nhiễm trước đây (IDSA 2012 khuyến cáo I.3). Từ chối: ghi vào hồ sơ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng - amidan cấp nghi do liên cầu nhóm A ở trẻ 9 tuổi, ngày thứ 6, chưa biến chứng (Centor 4, McIsaac 5), chưa xác nhận vì bé từ chối xét nghiệm",
+     "ok": 1,
+     "n": "Sốt, mất ho và sổ mũi, hạch trước cổ đau, amidan xuất tiết, chấm xuất huyết vòm miệng (IDSA 2012, Bảng 4 các đặc điểm gợi ý; IDSA 2025 Bảng 3: Centor 4 khoảng 57%, McIsaac 4–5 khoảng 51–69%). Kéo dài hơn 3–5 ngày của virus nên nghi bội nhiễm liên cầu (QĐ 5643, Viêm họng cấp tính mục 5; Viêm mũi họng cấp tính mục 5.1). Ngay cả Centor 4 xác suất GAS cũng chỉ khoảng 50% (AWaRe 2022 tr. 50)."
+    },
+    {
+     "t": "Viêm họng do virus tiếp diễn, bạch cầu đơn nhân nhiễm khuẩn (EBV)",
+     "n": "Viêm mũi họng do EBV có thể có mủ trắng ở amidan (QĐ 5643, Viêm mũi họng cấp tính mục 2.1.2); QĐ 2957 mục 5.3.1 liệt kê EBV khi có giả mạc. Hạch chỉ ở trước cổ, bụng mềm, gan lách không sờ thấy, không phù mi: chưa nghĩ; tài liệu đã tải không nêu tiêu chuẩn chẩn đoán EBV, để theo dõi."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Mủ trắng lau ra dễ, không giả mạc trắng ngà dai dính bóc chảy máu, không sổ mũi lẫn máu, cổ không bạnh, hạch không sưng biến dạng (QĐ 2957 mục 3.1.3, 3.2); sổ tiêm chủng ghi đủ mũi cơ bản và mũi nhắc; không dịch tễ (mục 5.1). Vẫn dặn quay lại ngay nếu thấy giả mạc."
+    },
+    {
+     "t": "Áp xe quanh amidan, áp xe thành sau họng",
+     "n": "Không khó mở miệng, không giọng ngậm hạt thị, khẩu cái và lưỡi gà không lệch, không chảy dãi, cổ không cứng (QĐ 5643, Viêm họng cấp tính mục 5; Viêm mũi họng cấp tính mục 5.2)."
+    },
+    {
+     "t": "Biến chứng chỗ truyền dịch tại nhà (viêm tĩnh mạch, nhiễm trùng chỗ chích)",
+     "n": "Hai chỗ chích mu bàn tay không đỏ, sưng, nóng. Màng nhĩ bình thường, mũi khô, phổi sạch: chưa có biến chứng gần (QĐ 5643, Viêm họng cấp tính mục 5). Hướng dẫn xử trí biến chứng truyền dịch ngoại trú: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại nhẹ nhàng thuốc, tiêm, truyền đã dùng thêm ở nhà, ghi nhận lần truyền thứ hai; không trách; khám hai chỗ chích",
+     "v": "c",
+     "n": "Hỏi lại tiền sử thuốc ở mỗi lượt khám. Không có chỉ định truyền dịch: bé uống được, không mất nước (WHO 2013 mục 5.2.2); tài liệu đã tải không có truyền dịch cho viêm họng cấp (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Ghi nhận lại việc bé và mẹ từ chối xét nghiệm liên cầu; giải thích vì sao lúc này test đáng làm hơn lượt trước; chuyển phương án B: quyết định theo điểm lâm sàng, không chờ kết quả",
+     "v": "c",
+     "n": "Centor 4, McIsaac 5, đã mất dấu hiệu virus (IDSA 2012 khuyến cáo I.1, I.4; IDSA 2025 Bảng 3; AWaRe 2022 tr. 49–50). Còn trong 9 ngày từ khởi phát (IDSA 2012, phần Diagnosis). Thủ tục ghi nhận từ chối ở trẻ dưới 18 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh uống ngay theo điểm lâm sàng (amoxicillin 10 ngày) HOẶC đơn kháng sinh dự phòng, hoãn dùng khi theo dõi",
+     "v": "c",
+     "n": "Cách 1: điều trị kháng sinh ngay khi chưa có xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 4.1, 4.2, 4.3.1; Viêm họng cấp tính mục 4.1; NICE NG84 2018 khuyến cáo 1.1.10 cân nhắc kê ngay). Cách 2: đơn dự phòng, dùng nếu không đỡ (NICE NG84 khuyến cáo 1.1.9–1.1.10); AWaRe 2022 tr. 50: Centor 3–4 nơi nguy cơ thấp tim thấp có thể không dùng kháng sinh, nơi nguy cơ trung bình hoặc cao khuyến cáo dùng. Tài liệu đã tải không có số liệu thấp tim ở Việt Nam để chọn. Khác nhau do năm ban hành, bối cảnh và nguy cơ thấp tim; theo sổ mâu thuẫn cả hai cách đều đúng. Đơn mẫu ghi kháng sinh ngay vì Centor 4, bé 9 tuổi (thấp tim hay gặp 5–15 tuổi, AWaRe 2022 tr. 51), mất dấu hiệu virus, gia đình khó theo dõi lại; cách đơn dự phòng cũng đúng."
+    },
+    {
+     "t": "Amoxicillin 500 mg × 2 lần/ngày (25 mg/kg, tối đa 500 mg/lần), 10 ngày HOẶC 500 mg × 3 lần/ngày, hay 1 g × 2 lần/ngày (AWaRe 2022), 10 ngày",
+     "v": "c",
+     "n": "IDSA 2012 Bảng 2: 50 mg/kg × 1 lần/ngày (tối đa 1.000 mg) hoặc 25 mg/kg (tối đa 500 mg) × 2 lần/ngày, 10 ngày. AWaRe 2022 tr. 50: nhóm từ 20 kg: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ; 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao; tài liệu đã tải không có số liệu thấp tim ở Việt Nam. QĐ 5643 (Viêm mũi họng cấp tính mục 4.3.1): amoxicillin 10 ngày, không nêu liều. Liều/ngày thận trọng hơn: IDSA 2012; đơn mẫu ghi 10 ngày vì IDSA 2012, QĐ 5643 và AWaRe (nơi nguy cơ cao) đều có 10 ngày."
+    },
+    {
+     "t": "Tiêm bắp benzathine penicillin G 1.200.000 đơn vị một liều (bé 28 kg)",
+     "v": "a",
+     "n": "IDSA 2012 Bảng 2: từ 27 kg 1.200.000 đơn vị, một liều; nên cân nhắc khi khó uống đủ 10 ngày (mục III, Evidence Summary). QĐ 5643 (Viêm mũi họng cấp tính mục 4.3.1): 600.000 đơn vị cho trẻ dưới 30 kg. Bé sợ kim và cần thử phản ứng penicillin: chấp nhận, không bắt buộc. Cách thử phản ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol 300 mg/lần mỗi 6 giờ khi sốt hoặc đau họng làm bé khó chịu, tối đa 4 lần/ngày",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50 (20 đến dưới 30 kg: 300 mg mỗi 6 giờ); trần 60 mg/kg/24 giờ (QĐ 708/2015, Viêm màng não mủ mục 4.2); IDSA 2012 khuyến cáo IV.10(i). Ibuprofen 200 mg mỗi 8 giờ sau ăn chấm a (AWaRe 2022 tr. 50)."
+    },
+    {
+     "t": "Giải thích phải uống đủ 10 ngày dù đã hết sốt, nói chuyện với mẹ về lo ngại \"hại gan\" của bà nội",
+     "v": "c",
+     "n": "Phần lớn kháng sinh uống phải dùng đủ 10 ngày để diệt tận gốc liên cầu ở họng (IDSA 2012, mục III, phần Evidence Summary); tái phát gần sau điều trị có thể do không tuân thủ (IDSA 2012, mục V, phần Evidence Summary). Số liệu về tổn thương gan do amoxicillin khi dùng 10 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều trị ngoại trú; hẹn tái khám sau 2–3 ngày hoặc ngay nếu không đỡ; dặn dấu hiệu nguy hiểm, biến chứng, thấp tim sau 2–3 tuần",
+     "v": "c",
+     "n": "Đáp ứng lâm sàng thường sau 24–48 giờ dùng kháng sinh (IDSA 2012, mục III, phần Evidence Summary). Biến chứng tại chỗ, lân cận, xa (QĐ 5643, Viêm họng cấp tính mục 5); thấp tim xuất hiện 2–3 tuần sau viêm họng (AWaRe 2022 tr. 51). Dấu hiệu nguy hiểm (WHO 2024)."
+    },
+    {
+     "t": "Truyền dịch hoặc tiêm thêm thuốc (corticoid, kháng sinh tiêm tĩnh mạch) cho bé theo ý bà nội",
+     "v": "w",
+     "n": "Không có chỉ định: bé uống được, không mất nước, không dấu hiệu nguy hiểm; kháng sinh đường uống đủ (IDSA 2012 khuyến cáo III.8). Tài liệu đã tải không có truyền dịch cho viêm họng cấp."
+    },
+    {
+     "t": "Aspirin hạ sốt",
+     "v": "h",
+     "n": "IDSA 2012 khuyến cáo IV.10(ii): tránh aspirin ở trẻ em (hội chứng Reye)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng - amidan cấp nghi do liên cầu nhóm A, ngày thứ 6, Centor 4, McIsaac 5; chưa xác nhận vì bé từ chối xét nghiệm",
+     "Chưa biến chứng: không áp xe quanh amidan, không viêm tai giữa, không viêm phổi, không mất nước, chưa có dấu hiệu thấp tim hay viêm cầu thận",
+     "Không nghĩ bạch hầu: mủ lau ra dễ, không giả mạc dai dính, tiêm chủng đủ",
+     "Không đỡ ở lượt 2 vì diễn tiến tự nhiên của viêm họng liên cầu không điều trị kháng sinh, không do sai thuốc hay không tuân thủ",
+     "Tiền sử giấu: truyền dịch lần 2 tại nhà (chỉ nước đường); lo ngại kháng sinh của bà nội (nguy cơ ngưng sớm)"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình thất bại điều trị: sai chẩn đoán? sai thuốc? không tuân thủ? biến chứng? đề kháng? Bé chưa dùng kháng sinh nên không thể sai thuốc hay đề kháng; mẹ làm đúng lời dặn; không biến chứng. Còn lại là bệnh cảnh đã đổi từ nghĩ virus sang nghi liên cầu: virus tự khỏi sau 3–5 ngày, kéo dài hơn thì nghi bội nhiễm liên cầu (QĐ 5643, Viêm họng cấp tính mục 5; Viêm mũi họng cấp tính mục 5.1).",
+     "Centor 4 điểm: sốt 38,7 °C, không ho, hạch trước cổ đau, amidan xuất tiết (AWaRe 2022 tr. 50). McIsaac 5 điểm: thêm tuổi 3–14 (IDSA 2025 Bảng 3), nguy cơ cao khoảng 51–69%. Chấm xuất huyết vòm miệng và hạch trước cổ đau là đặc điểm gợi ý liên cầu (IDSA 2012, Bảng 4). Tuy vậy ngay cả Centor 4 xác suất GAS chỉ khoảng 50% và thang chỉ được kiểm định ở nước thu nhập cao (AWaRe 2022 tr. 50); vì vậy test vẫn nên làm nếu bé đồng ý.",
+     "Vì sao không bạch hầu: giả mạc bạch hầu trắng ngà, dai, dính chặt, bóc chảy máu, hạch góc hàm sưng đau, có thể cổ bạnh (QĐ 2957 mục 3.1.3, 3.2); mủ ở amidan của Ngọc lau ra dễ; sổ tiêm chủng ghi đủ; không dịch tễ (mục 5.1). Khác lượt 1 ở chỗ bây giờ có mủ nên phải phân biệt kỹ.",
+     "Không áp xe, không biến chứng gần: mở miệng bình thường, khẩu cái và lưỡi gà không lệch, cổ mềm, màng nhĩ và phổi bình thường (QĐ 5643, Viêm họng cấp tính mục 5; Viêm mũi họng cấp tính mục 5.2). Thấp tim xuất hiện 2–3 tuần sau (AWaRe 2022 tr. 51), lượt này chưa thể có. Hai chỗ chích mu bàn tay không đỏ, sưng; lần truyền thứ hai (nước đường) mới lộ khi hỏi lại: gia đình đang tự xử trí song song nên cần dặn cụ thể."
+    ],
+    "phan_tich_xu_tri": [
+     "Xét nghiệm: test nhanh, cấy họng nên làm nếu bé đồng ý (IDSA 2012 khuyến cáo I.1; AWaRe 2022 tr. 49). Bé vẫn từ chối: ghi nhận vào hồ sơ và dùng điểm lâm sàng. Máu (công thức, CRP, ASLO): không cần (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2; IDSA 2012 khuyến cáo I.3; AWaRe 2022 tr. 49).",
+     "Kháng sinh: hai cách đều đúng. Kê amoxicillin ngay theo điểm (QĐ 5643, Viêm mũi họng cấp tính mục 4.1–4.3.1; NICE NG84 2018 khuyến cáo 1.1.10), hoặc đơn dự phòng dùng nếu không đỡ (NICE NG84 khuyến cáo 1.1.9–1.1.10; AWaRe 2022 tr. 50 nơi nguy cơ thấp tim thấp). Đơn mẫu ghi kháng sinh ngay vì nguy cơ cao, trẻ 9 tuổi, gia đình khó theo dõi. Liều ghi cả hai: 25 mg/kg × 2 lần/ngày, tối đa 500 mg/lần, 10 ngày (IDSA 2012 Bảng 2) = 500 mg × 2; hoặc 500 mg mỗi 8 giờ hay 1 g mỗi 12 giờ, 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao (AWaRe 2022 tr. 50). Liều/ngày thận trọng hơn: IDSA 2012. Số liệu thấp tim ở Việt Nam: không có trong tài liệu đã tải; đơn mẫu ghi 10 ngày.",
+     "Benzathine penicillin G tiêm bắp: đúng khi nghi bé không uống đủ 10 ngày (IDSA 2012, mục III, phần Evidence Summary); chấp nhận, không bắt buộc vì bé sợ kim. Ngưỡng cân khác nhau: IDSA 27 kg (1.200.000 đơn vị), QĐ 5643 30 kg (600.000 đơn vị cho trẻ dưới 30 kg); bé 28 kg.",
+     "Hạ sốt: paracetamol 300 mg mỗi 6 giờ khi cần (AWaRe 2022 tr. 50). Không aspirin (IDSA 2012 khuyến cáo IV.10(ii)). Không truyền dịch, không tiêm thêm thuốc. Nói rõ với mẹ để mẹ nói lại với bà nội: uống thuốc đủ 10 ngày dù hết sốt sớm, vì ngưng sớm dễ tái phát và nguy cơ thấp tim. Chuyển tuyến, nhập viện: không có chỉ định. Tái khám sau 2–3 ngày nếu không đỡ sau 48 giờ dùng thuốc (IDSA 2012, mục III); quay lại ngay khi có dấu hiệu nguy hiểm, khó mở miệng, sưng một bên họng, giả mạc (WHO 2024; QĐ 5643, Viêm họng cấp tính mục 5; QĐ 2957 mục 3.1.3); chú ý đau khớp, phù, tiểu sẫm màu trong 2–3 tuần sau (AWaRe 2022 tr. 51)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (viên 500 mg hoặc gói bột cho trẻ)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần × 2 lần/ngày (25 mg/kg/lần, tối đa 500 mg/lần; IDSA 2012 Bảng 2) HOẶC 500 mg × 3 lần/ngày hay 1 g × 2 lần/ngày (AWaRe 2022 tr. 50)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối cách nhau 12 giờ, sau ăn",
+      "so_ngay": "10 ngày (IDSA 2012 Bảng 2; QĐ 5643 mục 4.3.1); AWaRe 2022 ghi 5 ngày nếu nguy cơ thấp tim thấp, 10 ngày nếu cao",
+      "ghi_chu": "Liều/ngày thận trọng hơn: IDSA 2012. Không có số liệu thấp tim ở Việt Nam trong tài liệu đã tải. Bé từng dùng amoxicillin, không dị ứng."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "300 mg/lần (≈ 10,7 mg/kg; cho phép 10–15 mg/kg = 280–420 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau họng làm bé khó chịu; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt hoặc đau; tối đa 4 lần/24 giờ (1.200 mg, dưới trần 60 mg/kg/ngày = 1.680 mg)",
+      "ghi_chu": "AWaRe 2022 tr. 50; QĐ 708/2015 (Viêm màng não mủ mục 4.2): không quá 60 mg/kg/24 giờ."
+     },
+     {
+      "thuoc": "Nước muối ấm súc họng",
+      "ham_luong": "Nồng độ: không có trong tài liệu đã tải",
+      "lieu": "Súc họng 3–4 lần/ngày (QĐ 5643, Viêm họng cấp tính mục 4.2.2)",
+      "duong": "Súc họng, không nuốt",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "Thành phần cụ thể không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống amoxicillin đủ 10 ngày dù hết sốt sau 2 ngày: ngưng sớm thì liên cầu chưa bị diệt hết, dễ tái phát và có nguy cơ thấp tim (IDSA 2012, mục III, V). Đưa mẹ lịch uống thuốc ghi sẵn từng ngày để chị nhắc bà nội.",
+     "Từ nay không truyền dịch hay tiêm thuốc tại nhà khi chưa có chỉ định; bé uống được và không mất nước. Nhờ chị Hạnh nói với bà nội rằng bác sĩ đã khám kỹ, đã kê kháng sinh và hẹn khám lại.",
+     "Nếu sau 48 giờ dùng thuốc vẫn sốt cao hoặc đau hơn (IDSA 2012, mục III), hoặc có mảng trắng bám chắc, khó mở miệng, sưng một bên họng, chảy dãi, khó thở, không uống được, li bì: quay lại ngay (QĐ 2957 mục 3.1.3; WHO 2024).",
+     "Trong 2–3 tuần tới, nếu bé đau khớp, sưng khớp, phù mặt, tiểu sẫm màu hoặc đau ngực: đi khám ngay (AWaRe 2022 tr. 51)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ngọc uống amoxicillin, hết sốt sau hai ngày, đau họng giảm nhanh. Đến ngày thứ 5 bé khỏe hẳn, bà nội gọi điện dặn \"khỏi rồi thì ngưng kẻo hại gan\", chị Hạnh ngưng thuốc, còn dư năm ngày. Ba tuần sau Ngọc sốt 38,5 °C và đau họng trở lại; lần này cô y tá trường cho bé xem que trước nên bé đồng ý test nhanh liên cầu: dương tính. Nguyên nhân tái phát chưa xử lý là tuân thủ kháng sinh; cũng có thể nhiễm mới từ bạn cùng lớp hoặc người lành mang liên cầu bị virus liên tiếp (IDSA 2012, mục V, phần Evidence Summary). Bé được điều trị lại bằng một thuốc trong Bảng 2, chị cam kết cho uống đủ 10 ngày; không còn truyền dịch tại nhà; không có biến chứng thấp tim.",
+ "nhieu": [
+  "Bà nội ở quê thúc ép đi khám dù mẹ thấy bé đã đỡ: lý do thật đến khám không phải triệu chứng nặng lên; chỉ lộ khi hỏi vì sao hôm nay mới đi.",
+  "Truyền dịch tại nhà và một ống thuốc nghi dexamethason là chi tiết mẹ giấu; băng cá nhân ở mu bàn tay là đầu mối. Lượt 2 còn một lần truyền nữa.",
+  "Uống nước giếng chưa đun, đau bụng, nôn: mồi nhử viêm dạ dày ruột, không phải căn nguyên.",
+  "Từ chối xét nghiệm: bé sợ que ngoáy họng và kim; ghi nhận từ chối và dùng phương án B (thang điểm, dấu hiệu virus, hẹn tái khám)."
+ ],
+ "bai_hoc_bien": [
+  "Mẹ giấu tiền sử vì sợ bị trách: hỏi từng thứ bé đã uống, tiêm, truyền; nhìn băng cá nhân ở mu bàn tay; hỏi lại nhẹ nhàng, không phán xét. Việc truyền dịch tại nhà lộ ra ở lượt 1 và lượt 2.",
+  "Bé từ chối ngoáy họng và lấy máu: giải thích một lần, tôn trọng, ghi vào hồ sơ; dùng Centor/McIsaac và dấu hiệu virus, hẹn tái khám, không ép và không bỏ rơi; lượt 2 điểm cao hơn thì quyết định theo điểm.",
+  "Lượt 1 và lượt 2 cùng một bệnh nhưng dấu hiệu đổi: lượt 1 ho, sổ mũi nên nghĩ virus; lượt 2 mất ho, hạch đau, amidan có mủ nên nghi liên cầu. Hẹn tái khám có mốc rõ là cách làm cho phương án B an toàn.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị (sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng, đề kháng). Ở ca này bé chưa dùng kháng sinh nên diễn tiến tự nhiên mới là lời giải.",
+  "Bà nội thúc ép và sợ kháng sinh \"hại gan\": ghi nhận lo ngại, nói rõ vì sao phải uống đủ 10 ngày; ngưng sớm là nguyên nhân hay gặp của tái phát. Cân nhắc benzathine penicillin G tiêm bắp khi gia đình khó tuân thủ."
+ ],
+ "diem_nho": [
+  "Viêm họng cấp: virus 60–80%, thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 2.1.2, 5.1; Viêm họng cấp tính mục 2.1, 5).",
+  "Dấu hiệu virus rõ (ho, sổ mũi, khàn tiếng, loét miệng) thì thường không test liên cầu (IDSA 2012 khuyến cáo I.4); Centor 0–2: chỉ điều trị triệu chứng (AWaRe 2022 tr. 50).",
+  "McIsaac cộng 1 điểm cho tuổi 3–14; tính \"amidan xuất tiết hoặc sưng\"; 2–3 điểm nguy cơ trung gian, 4–5 điểm nguy cơ cao (IDSA 2025 Bảng 3). Ngay cả Centor 4 xác suất GAS chỉ khoảng 50% (AWaRe 2022 tr. 50).",
+  "Điều trị trong 9 ngày từ khởi phát phòng được thấp tim: test muộn vẫn kịp (IDSA 2012, phần Diagnosis). Thấp tim xuất hiện 2–3 tuần sau viêm họng (AWaRe 2022 tr. 51).",
+  "Amoxicillin 25 mg/kg × 2 lần/ngày (tối đa 500 mg/lần) 10 ngày (IDSA 2012 Bảng 2) hoặc 500 mg mỗi 8 giờ / 1 g mỗi 12 giờ, 5–10 ngày (AWaRe 2022 tr. 50). Benzathine penicillin G 1.200.000 đơn vị từ 27 kg (IDSA 2012 Bảng 2).",
+  "Bạch hầu: giả mạc trắng ngà dai dính, bóc chảy máu, hạch góc hàm sưng đau; khởi phát dễ nhầm viêm họng thường (QĐ 2957 mục 3.1.2, 3.1.3). Mủ lau ra dễ không phải giả mạc."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 1–6, tr. 133–136); Viêm họng cấp tính (mục 1–6, tr. 155–158); Viêm V.A cấp và mạn tính (mục 1, 3.1.1.1, 4.1–4.2, tr. 137–139)",
+  "QĐ 2957 – Bộ Y tế, QĐ 2957/QĐ-BYT 2020, Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu – TL-0129 (bản chữ để trống số hiệu) – ĐÃ ĐỌC: mục 1, 3.1–3.2, 4.1, 5.1–5.3, 6.1",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care, 6. Pharyngitis (tr. 46–51; Centor, liều trẻ em theo cân nặng tr. 49–50)",
+  "IDSA 2012 – GAS pharyngitis guideline (Clin Infect Dis 2012;55:e86–e102) – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.1, I.3, I.4, III.8, IV.10, V.11; Bảng 2, Bảng 4; phần Evidence Summary mục III và V",
+  "IDSA 2025 – GAS pharyngitis update: clinical scoring systems – TL-0140 – ĐÃ ĐỌC: Bảng 3 (Centor, McIsaac)",
+  "NICE NG84 2018 – Sore throat (acute): antimicrobial prescribing – tltk-10000-ca (kho cũ: 01 Hô hấp cấp tính/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1.3, 1.1.9–1.1.12",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 5.2.2 Some dehydration (tr. 132; nêu cho trẻ 2 tháng đến 5 tuổi, áp dụng suy rộng cho bé 9 tuổi)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children – TL-0245 – dấu hiệu nguy hiểm toàn thân (chú thích 1 các khuyến cáo viêm phổi; định nghĩa cho trẻ đến 10 tuổi)",
+  "QĐ 708/2015 – TL-0015, Viêm màng não mủ mục 4.2: trần paracetamol 60 mg/kg/24 giờ",
+  "Không có trong tài liệu đã tải: thủ tục ghi nhận từ chối xét nghiệm ở trẻ dưới 18 tuổi; số liệu thấp tim ở Việt Nam; công thức nước muối súc họng; tác động của một liều corticoid tiêm lên viêm họng; tiêu chuẩn chẩn đoán EBV; cách thử phản ứng penicillin trước tiêm benzathine; hướng dẫn nước giếng chưa đun; lịch tiêm nhắc bạch hầu"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-18: viết bản 1 (tác tử viết ca). Ca 2 lượt, ket_luan ve_hen cả hai lượt; neu_sai: nhap_vien, chuyen_tuyen mỗi lượt.",
+  "Theo sổ mâu thuẫn mục \"Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu\" (lượt 1: một mục c \"không kháng sinh HOẶC amoxicillin theo QĐ 5643\") và đề xuất HH-0466 (Centor 3–4 không xét nghiệm; lượt 2: một mục c \"kháng sinh ngay HOẶC đơn dự phòng/hoãn\"); liều/thời gian amoxicillin ghi cả IDSA 2012 và AWaRe 2022; aspirin chấm h, corticoid chấm a, truyền dịch theo yêu cầu chấm w.",
+  "Lượt 2 viết tiếp từ cách 1 của lượt 1 (chưa dùng kháng sinh). Nếu người học đã chọn amoxicillin ở lượt 1 thì tiếp đón lượt 2 vẫn dùng được cho phần lớn dữ kiện; chỗ \"chưa dùng kháng sinh\" trong tiep_don và tuan_thu cần hiểu theo hướng chuẩn.",
+  "Biến sổ cái: học sinh 9 tuổi; khởi phát sau uống nước giếng chưa đun (mồi nhử viêm dạ dày ruột); thuốc đang dùng là truyền dịch tại nhà (giấu, lộ ở lượt 1 và lượt 2); lý do thật là bà nội thúc ép; không đỡ ở lượt 2; từ chối xét nghiệm (test liên cầu, cấy, máu); tái phát ở ket_cuc (ngưng kháng sinh sớm).",
+  "Điểm cần bác sĩ biết: hai nguồn chia ngưỡng benzathine penicillin G khác nhau (IDSA 2012: 27 kg; QĐ 5643: 30 kg). Centor tính \"xuất tiết\" theo AWaRe 2022 nhưng \"xuất tiết hoặc sưng\" theo IDSA 2025 nên lượt 1 Centor 1–2."
+ ]
+}
