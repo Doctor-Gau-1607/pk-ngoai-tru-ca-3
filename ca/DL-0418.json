@@ -1,0 +1,607 @@
+{
+ "ma_ca": "DL-0418",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Chốc / nhiễm khuẩn da (viêm mô tế bào nhẹ)",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Chốc / nhiễm khuẩn da (viêm mô tế bào nhẹ)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mô tế bào nặng",
+   "Zona",
+   "Nấm da"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Buôn bán nhỏ (sạp đồ gia dụng ở chợ huyện)",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng (tự bỏ thuốc mỡ máu)",
+  "thuoc_dang_dung": "Statin đang dùng (rosuvastatin)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Dương Văn Mười",
+  "tuoi": 79,
+  "gioi": "Nam",
+  "nghe": "Buôn bán nhỏ: sạp đồ nhựa gia dụng ở chợ huyện gần 40 năm, ngồi hoặc đứng sạp từ 5 giờ đến 17 giờ, chân thòng xuống nền xi măng ẩm, tự khiêng thùng hàng; sống với con gái và cháu ngoại",
+  "can_nang": 54,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông xưng 'tôi', gọi 'bác sĩ'; với con gái thì gọi 'con'.",
+  "tinh_cach": "Điềm đạm, hiền, nói chậm, nghe lời bác sĩ. Quen chịu đựng, ít than đau, coi vết lở là chuyện tuổi già nên không kể thêm nếu không được hỏi. Sợ mất chỗ bán ở chợ nên không muốn nghe chữ nhập viện.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đúng trọng tâm, cho khám, chấp nhận giải thích, uống thuốc đúng giờ, không cãi, không đòi thuốc bừa. Ông chỉ nói điều ông cho là liên quan; chuyện tự ngưng thuốc mỡ máu, ăn ít, giấy ở chợ chỉ lộ khi bác sĩ hỏi đúng chỗ.",
+  "nguoi_nha": "Con gái, chị Thu Hà, 50 tuổi, bán hàng ở sạp cạnh ba, đưa ba đi khám sau khi đóng sạp. Lo, nói nhiều hơn ông, hay xác nhận điều ba kể. Chị biết ba ăn ít, mệt, ngủ nhiều, chân lở; KHÔNG biết chuyện ba tự ngưng thuốc mỡ máu và giấy ở chợ. Chị xếp thuốc cho ba, trả lời giúp khi bác sĩ hỏi ăn uống, ai ở nhà, thuốc đã uống.",
+  "ten_nguoi_nha": "Chị Thu Hà (con gái)",
+  "ngoai_hinh": {
+   "da": "#d8ae88",
+   "toc": "#d6d3cd",
+   "kieuToc": "ngan",
+   "ao": "#8a9a7c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dcb08c",
+    "toc": "#2a1d16",
+    "kieuToc": "bui",
+    "ao": "#a56d5a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Lở, đóng vảy ở chân phải khoảng 10 ngày, mấy hôm nay mệt, ăn ít",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên xét nghiệm đã về: phòng khám không chạy được xét nghiệm tối nay (mẫu gửi phòng xét nghiệm ngoài, kết quả sáng hôm sau; cấy dịch mủ mất vài ngày), nên cũng không làm được X-quang, CT, nội soi. Điều dưỡng Linh vẫn đo được đường huyết mao mạch và điện tim. Bệnh viện huyện cách 15 km, nhận người bệnh 24/24. Quyết định phải đưa ra trước khi có kết quả."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Dương Văn Mười, 79 tuổi, buôn bán nhỏ ở chợ huyện, con gái đưa đến vào buổi tối sau khi đóng sạp. Ông đến vì chân phải có mấy chỗ lở đóng vảy khoảng 10 ngày chưa lành, mấy hôm nay thấy mệt và ăn ít. Sinh hiệu: mạch 82 l/p, HA 136/78 mmHg, nhiệt độ 37,0 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 54 kg, chiều cao 160 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện truyền kháng sinh tĩnh mạch cho ông Mười là quá tay: không SIRS (nhiệt độ 37,0 °C, mạch 82, nhịp thở 18), tỉnh, ăn uống được, đau không vượt vùng đỏ nên thuộc mức nhẹ, điều trị ngoại trú (IDSA 2014 khuyến cáo 18). Ông mất mấy ngày không ra sạp, tốn viện phí, càng sợ mất chỗ bán nên về sau ngại quay lại khi nặng lên. Tuy vậy NICE NG153 mục 1.1.15 cho phép gửi bệnh viện khi chốc kèm viêm mô tế bào, nên đây là quá tay chứ không nguy hiểm.",
+    "chuyen_tuyen": "Chuyển tuyến trên chỉ để xét nghiệm hay cấy mủ là không cần cho chốc kèm viêm mô tế bào nhẹ điển hình (IDSA 2014 khuyến cáo 1, 12; QĐ 4416 Chốc mục 2.3: chẩn đoán chủ yếu bằng lâm sàng). Ông 79 tuổi, ăn ít, đi chậm, phải nhờ con gái bỏ sạp chở 15 km giữa đêm, tốn chi phí, mệt thêm, trong khi thuốc uống có thể bắt đầu ngay tối nay."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi tới nhờ bác sĩ coi giùm cái chân, mấy chỗ lở hồi giờ chưa lành. Chắc già rồi nên nó vậy, chứ tôi thấy cũng không có gì nặng, con tôi nó đòi đưa đi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "136/78",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chân phải có nhiều chỗ lở, mụn mủ nhỏ, đóng vảy khoảng 10 ngày, ngứa nhẹ, chưa lành. Mấy hôm nay thấy mệt, ăn ít hơn thường, ngủ nhiều hơn. Ông không kêu đau.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và tổn thương chính; biểu hiện không điển hình ở người rất cao tuổi (mệt, ăn kém, không than đau)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 10 ngày trước, ngồi sạp bị cạnh thùng hàng cào xước cẳng chân phải, ngứa nên gãi. Vài ngày sau các chỗ xước nổi nốt đỏ có đầu mủ, vỡ ra đóng vảy vàng nâu; mỗi ngày thêm vài chỗ, nay khoảng 12 chỗ ở mặt trước và ngoài cẳng chân phải. Ba ngày nay cẳng chân dưới và quanh mắt cá phải hơi đỏ, nặng chân, hơi sưng. Ông tự bôi dầu cù là và thuốc đỏ, chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: xước da, gãi, mụn mủ có vảy, lan thêm, đỏ sưng vùng cẳng chân dưới; chưa dùng kháng sinh"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không rét run, không đau nhiều. Hơi mệt, ăn nửa chén cơm mỗi bữa trong 3 ngày nay, uống nước ít hơn thường. Tỉnh táo, nói chuyện đúng như mọi hôm (con gái xác nhận), không té ngã, không lú lẫn, không khó thở, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân: loại trừ nhiễm khuẩn nặng; ở người ≥ 75 tuổi dễ chỉ biểu hiện bằng mệt, ăn kém"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Đau chỉ nhẹ, đúng chỗ da đỏ. Không phồng nước máu, không chỗ tím đen, không tê, không nghe lạo xạo dưới da. Đi lại được, gập duỗi gối bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu nhiễm trùng mô mềm hoại tử"
+    },
+    {
+     "id": "khong_zona",
+     "noi_dung": "Trước khi nổi mụn không bỏng rát, châm chích, tê dọc một vùng da. Các nốt rải rác, không thành chùm hay dải theo một đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ zona"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không đái tháo đường (thử đường huyết cách đây một năm bình thường), không bệnh thận, gan. Chưa từng bị viêm mô tế bào hay chốc. Không dùng corticoid, thuốc chống đông. Không dị ứng thuốc: từng uống amoxicillin, cephalexin nhiều lần, chưa nổi mẩn. Mỡ máu cao ba năm nay. Hai chân hay sưng nhẹ vào chiều nhiều năm nay vì ngồi sạp lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơ địa, dị ứng thuốc, bệnh nền trước khi kê kháng sinh cho người 79 tuổi"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mỡ máu cao nên bác sĩ tim mạch kê rosuvastatin 10 mg uống tối từ ba năm trước. Khoảng ba tuần trước ông tự ngưng vì nghe bạn bán hàng nói uống thuốc mỡ lâu hại gan, đau cơ; ông không đau cơ, không vàng da. Ông cho rằng bỏ thuốc nên “máu dơ sinh ra lở”. Không dùng thuốc nào khác, thỉnh thoảng uống paracetamol khi nhức đầu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi đang dùng thuốc gì, thuốc mỡ máu hay tim mạch, có tự ngưng thuốc nào không, hoặc hỏi lúc nổi lở có thay đổi gì trong sinh hoạt và thuốc",
+     "k": 1,
+     "y": "Thuốc đang dùng và yếu tố khởi phát theo sổ cái: tự ngưng statin ba tuần; mối liên quan với nhiễm khuẩn da không có trong tài liệu đã tải"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Bán đồ nhựa gia dụng ở chợ huyện gần 40 năm, ngồi hoặc đứng sạp 5–17 giờ, chân thòng xuống nền xi măng ẩm, mặc quần ngắn, tự khiêng thùng hàng nên hay va xước cẳng chân. Nghỉ trưa nửa giờ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề: da ẩm, xước da, ngồi lâu chân thòng, khó kê cao chân, khó nghỉ làm"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ban quản lý chợ yêu cầu người buôn bán lớn tuổi nộp giấy chứng nhận sức khỏe để ký lại chỗ ngồi, hạn cuối tuần này. Ông ghé khám để xin giấy, tiện coi cái chân. Ông sợ bác sĩ thấy chân lở thì không cấp giấy hoặc bắt nằm viện, mất chỗ bán. Ông hỏi: “bác sĩ cho tôi lấy giấy được chưa?”.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi vì sao hôm nay ông đi khám, ông đang cần gì hay đang vội việc gì, có cần giấy tờ gì không, hoặc ông lo điều gì nhất",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe; nỗi sợ mất chỗ bán, dễ giấu bệnh"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Sống với con gái và cháu ngoại 10 tuổi, hai người không có mụn lở. Con gái thấy ba ăn ít, mệt nên bắt đi khám; chị chưa biết chuyện giấy ở chợ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người sống chung, nguy cơ lây trong nhà, nguồn theo dõi tại nhà"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân phải, mặt trước và ngoài: khoảng 12 tổn thương rải rác 5–30 mm: vài mảng đỏ trợt ướt nông 1–3 cm có mụn nhỏ li ti ở rìa, vài mảng đỏ cam 1–1,5 cm phủ vảy tiết vàng nâu mỏng, nhiều sẩn đỏ 2–4 mm (vài sẩn có chấm mủ), vài vết xước do gãi. Tổn thương nông, không bọng nước lớn, không loét đục lỗ (chốc không bọng nước, QĐ 4416 Chốc mục 2.1). Cẳng chân dưới và quanh mắt cá ngoài phải: vùng da đỏ nhạt, hơi phù, khoảng 6 × 8 cm, ranh giới không rõ, nóng hơn bên trái, ấn đau nhẹ; không bọng nước, không tím, không hoại tử, không lạo xạo; mô dưới da mềm, không cứng như gỗ; không lằn đỏ chạy lên. Đau tương xứng (không nghi hoại tử: IDSA 2014, mục viêm cân mạc hoại tử). Chân trái và các vùng da khác: không tổn thương.",
+     "k": 1,
+     "hien": "Cẳng chân phải, mặt trước và mặt ngoài: khoảng 12 tổn thương rải rác 5–30 mm, gồm mảng đỏ trợt ướt có mụn nhỏ ở rìa, mảng đỏ cam phủ vảy mỏng và sẩn đỏ nhỏ (ảnh 1–2 chỉ minh họa vài vị trí). Cẳng chân dưới và quanh mắt cá phải: vùng da đỏ nhạt, hơi sưng khoảng 6 × 8 cm, ranh giới không rõ, nóng hơn bên trái, ấn đau nhẹ. Chân trái và các vùng da khác: không có tổn thương.",
+     "media": [
+      {
+       "vi_tri": "Cẳng chân phải, mặt trước (nhìn rộng)",
+       "id": "HA-DA-0321",
+       "chu": "Một mảng đỏ trợt ướt khoảng 2–3 cm kèm nhiều mụn nhỏ ở rìa và vài sẩn đỏ rải rác xung quanh."
+      },
+      {
+       "vi_tri": "Cẳng chân phải, mặt ngoài (cận cảnh)",
+       "id": "HA-DA-0322",
+       "chu": "Vài mảng đỏ cam 1–1,5 cm phủ vảy mỏng, xen sẩn đỏ nhỏ rải rác."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Chân phải phù nhẹ quanh mắt cá và cẳng chân dưới, ấn lõm nông; chân trái phù rất nhẹ ở mắt cá. Hạch bẹn phải 1 cm, mềm, di động, hơi đau (QĐ 4416 Chốc mục 2.1: nổi hạch vùng). Kẽ các ngón chân phải sạch, khô, không nứt, không bong vảy, không ẩm ngâm (IDSA 2014 khuyến cáo 17). Bắp chân hai bên mềm, không đau khi bóp, chu vi hai bắp chân gần bằng nhau. Mạch mu chân bắt rõ hai bên.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, trả lời đúng, hợp tác, nói chậm. Gầy, BMI khoảng 21,1 kg/m². Da niêm hồng nhạt, môi hơi khô, nếp véo da mất hơi chậm. Không vàng da.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Mẫu lấy tối nay, gửi phòng xét nghiệm ngoài, kết quả sáng mai (Linh sẽ gọi báo).",
+     "n": "QĐ 4416 (Chốc mục 2.2): bạch cầu, CRP có thể tăng, không dùng để xác định chẩn đoán; chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). Không đổi xử trí tối nay vì ông không SIRS (IDSA 2014 khuyến cáo 18). Gửi mẫu làm mốc nền cho người 79 tuổi."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Mẫu lấy tối nay, gửi phòng xét nghiệm ngoài, kết quả sáng mai.",
+     "n": "Liều cephalexin của WHO AWaRe 2022 (chương 16, tr. 197) ghi 'cho chức năng thận bình thường'; ông 79 tuổi, gầy 54 kg, uống ít nước nên thận chưa biết. Không chờ kết quả mới khởi kháng sinh; gọi lại sáng mai, nếu eGFR giảm thì chỉnh liều (cách chỉnh liều cephalexin: không có trong tài liệu đã tải)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Linh đo tại giường: 6,2 mmol/L (ăn tối cách 2 giờ).",
+     "n": "QĐ 4416 (Nhọt – áp xe da mục 1.2): đái tháo đường là yếu tố thuận lợi; IDSA 2014 khuyến cáo 19: corticoid chỉ cho người không đái tháo đường. Đo nhanh, không cần kỹ thuật viên."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không làm được tối nay; kết quả cấy mất vài ngày.",
+     "n": "IDSA 2014 khuyến cáo 1: Gram, cấy dịch chốc không bắt buộc ở ca điển hình; QĐ 4416 (Chốc mục 2.2): cấy giúp ích ở ca khó. NICE NG153 mục 1.1.12: cân nhắc gửi phết khi chưa đỡ sau đợt kháng sinh uống, tức lượt sau nếu cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc không bọng nước, nhiều tổn thương, bội nhiễm sau xước da ở cẳng chân phải, kèm viêm mô tế bào nhẹ ở cẳng chân dưới phải, ở người rất cao tuổi (không có SIRS)",
+     "ok": 1,
+     "n": "Chốc không bọng nước: sẩn đỏ thành mụn mủ nhỏ, vỡ đóng vảy tiết, thường ở các chi, nhiều tổn thương; thuận lợi do nóng ẩm, vệ sinh kém, xước da (QĐ 4416, Chốc mục 1.2, 2.1); chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). QĐ 4416 ghi chốc thường gặp ở trẻ em (mục 1.2), nên ở ông 79 tuổi là không điển hình; chốc nặng có thể kèm mệt mỏi, kém ăn, nổi hạch vùng (mục 2.1), khớp với ông. Chốc có thể thành viêm mô bào (mục 2.1): vùng đỏ nóng đau, ranh giới không rõ, phù nhẹ (IDSA 2014 khuyến cáo 14, Hình 1: mức nhẹ là không có dấu hiệu toàn thân). Nhiệt độ 37,0 °C, mạch 82, nhịp thở 18 dưới ngưỡng SIRS của IDSA 2014 (nhiệt độ trên 38 °C hoặc dưới 36 °C, mạch trên 90, nhịp thở trên 24); ngưỡng này của người lớn nói chung, người cao tuổi có thể không sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mô tế bào nặng, nhiễm trùng mô mềm hoại tử (viêm cân mạc hoại tử)",
+     "n": "Loại trừ: không đau vượt tương xứng, không bọng nước xuất huyết, không tím hoại tử, không lạo xạo, mô dưới da không cứng như gỗ, không nhiễm độc toàn thân (IDSA 2014, mục viêm cân mạc hoại tử, 8 dấu hiệu gợi ý mô sâu; WSES 2018, tr. 13). Nếu xuất hiện: hội chẩn ngoại khoa khẩn (IDSA 2014 khuyến cáo 27)."
+    },
+    {
+     "t": "Zona",
+     "n": "Zona: mụn nước thành chùm theo một dây thần kinh, một bên, đau bỏng rát trước hoặc cùng lúc (QĐ 4416, Bệnh zona mục 2.1). Ông không đau thần kinh, tổn thương rải rác, là mụn mủ có vảy tiết chứ không phải mụn nước chùm."
+    },
+    {
+     "t": "Nấm da (nấm thân, nấm kẽ chân)",
+     "n": "Nấm sợi: mảng đỏ tròn hoặc nhiều cung, có vảy, lành giữa, ngứa nhiều (QĐ 4416, Bệnh da do nấm sợi mục 2.1). Ông có sẩn mủ vảy tiết vàng nâu, không lành giữa, kẽ ngón sạch. Nấm da nằm trong chẩn đoán phân biệt của chốc (QĐ 4416, Chốc mục 2.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, hẹn đánh giá lại, hoặc gửi bệnh viện",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, cả hai đều đúng: IDSA 2014 khuyến cáo 18: ngoại trú nếu không có SIRS, rối loạn ý thức hay huyết động không ổn (mức nhẹ). NICE NG153 (2020) mục 1.1.15: chuyển bệnh viện người chốc có dấu hiệu nghi bệnh nặng hơn như viêm mô tế bào. Khác vì IDSA định nghĩa mức nhẹ của viêm mô tế bào điển hình, còn NICE xếp chốc có viêm mô tế bào vào nhóm cần bác sĩ bệnh viện (sổ mâu thuẫn, mục DL-0416). Ông Mười không SIRS, tỉnh, ăn uống được, có con gái theo dõi nên ngoại trú hợp lý; tuổi 79 và tối nay không có xét nghiệm là lý do hẹn đánh giá lại sớm."
+    },
+    {
+     "t": "Cephalexin uống: 500 mg × 3 lần/ngày, hoặc 250 mg × 4 lần/ngày, hoặc 500 mg × 4 lần/ngày; 5 ngày (kéo dài nếu chưa đỡ) hoặc 7 ngày; hoặc dicloxacillin, cloxacillin, flucloxacillin, amoxicillin-clavulanic tùy sẵn có",
+     "v": "c",
+     "n": "Chốc nhiều tổn thương: kháng sinh uống (QĐ 4416 Chốc mục 3.2.2: cephalexin 250 mg × 4 lần/ngày, dicloxacillin 500 mg × 4 lần/ngày, amoxicillin-clavulanic 1–2 g chia 2–3 lần/ngày; IDSA 2014 khuyến cáo 2, Bảng 2: cephalexin 250 mg × 4 dòng chốc, 500 mg × 4 dòng nhiễm tụ cầu nhạy methicillin; WHO AWaRe 2022 chương 16, tr. 197: cefalexin 500 mg mỗi 8 giờ, cloxacillin 500 mg mỗi 6 giờ; NICE NG153 Bảng 1: flucloxacillin 500 mg × 4 lần/ngày). Số ngày: viêm mô tế bào 5, kéo dài nếu chưa cải thiện (IDSA khuyến cáo 15; AWaRe); chốc uống 7 (IDSA khuyến cáo 2b); NICE 5 (có thể 7); QĐ 4416 không ghi số ngày. Tổng liều: 250 mg × 4 là 1 g/ngày (thấp nhất), 500 mg × 3 là 1,5 g, 500 mg × 4 là 2 g (sổ mâu thuẫn, mục DL-0416, bổ sung AWaRe từ DL-0405). Ông chưa có creatinin, AWaRe tính cho thận bình thường nên nghiêng về mức thấp."
+    },
+    {
+     "t": "Chỉ dùng kháng sinh uống (không bôi thêm), hoặc uống kết hợp kháng sinh bôi (mupirocin, acid fusidic, retapamulin)",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 3.1, 3.2.1): kết hợp thuốc tại chỗ và toàn thân, bôi 2 lần/ngày, thường 7 ngày. NICE NG153 mục 1.1.6: không kết hợp bôi và uống; mục 1.1.4: dùng kéo dài làm kháng thuốc nhanh. Cả hai cách đều đúng (sổ mâu thuẫn, mục DL-0416)."
+    },
+    {
+     "t": "Chăm sóc tại chỗ: ngâm hoặc rửa nước thuốc tím loãng 1/10.000 ngày 1 lần, đắp gạc tẩm nước muối sinh lý 9‰ (hoặc dung dịch Jarisch, hoặc gạc mỡ vaseline) vùng nhiều vảy cho đến khi bong",
+     "v": "c",
+     "n": "QĐ 4416, Chốc mục 3.2.1: ngâm tắm thuốc tím 1/10.000 hoặc dung dịch sát khuẩn khác ngày 1 lần; nhiều vảy tiết thì đắp nước muối sinh lý 9‰, Jarisch hoặc gạc vaseline đến khi bong hết vảy."
+    },
+    {
+     "t": "Kê cao chân khi nghỉ, giảm thời gian chân thòng, giữ da khô sạch, không gãi, hướng dẫn vệ sinh để không lây",
+     "v": "c",
+     "n": "IDSA 2014 khuyến cáo 16: kê cao và điều trị yếu tố thuận lợi như phù; QĐ 4416 (Chốc mục 3.1, 4): chống ngứa tránh tự lây, vệ sinh, cắt móng tay; NICE NG153 mục 1.1.1: khuyên vệ sinh giảm lây. Thời gian kê cao mỗi ngày, mốc hết lây: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi mẫu creatinin, công thức máu sáng mai và hẹn gọi báo; dặn quay lại ngay nếu đỏ lan nhanh, đau tăng nhiều, bọng nước máu, tím đen, sốt, lú lẫn, ăn uống kém hơn; tái khám khi hết đợt thuốc hoặc sớm hơn nếu không đỡ",
+     "v": "c",
+     "n": "NICE NG153 mục 1.1.7–1.1.8: quay lại khi nặng lên hoặc chưa đỡ sau đợt thuốc; IDSA 2014, mục viêm cân mạc hoại tử: đau không tương xứng, bọng nước, hoại tử, sốt gợi ý mô sâu; khuyến cáo 15: đánh giá lại khi hết 5 ngày. Ngày tái khám cụ thể và tái khám sớm hơn cho người 79 tuổi: không có trong tài liệu đã tải; chọn sớm vì tối nay không có xét nghiệm."
+    },
+    {
+     "t": "Hỏi ông về việc tự ngưng rosuvastatin, giải thích không tự bỏ thuốc, khuyên báo lại bác sĩ tim mạch đã kê để xét lại thuốc mỡ máu",
+     "v": "a",
+     "n": "Việc nên hỏi để rà thuốc đang dùng. Lợi ích statin ở người ≥ 75 tuổi chưa có bệnh mạch vành, cách xử trí khi nghi tác dụng phụ cơ hay gan, tương tác statin với cephalexin: không có trong tài liệu đã tải (IDSA 2014, QĐ 4416, NICE NG153 không nêu). Không đổi xử trí đợt này nên chấm a."
+    },
+    {
+     "t": "Hỏi lý do ông đi khám hôm nay, trấn an chuyện giấy chứng nhận sức khỏe: giải thích chưa cấp giấy khi đang nhiễm khuẩn, cấp khi khỏi, và việc điều trị ngoại trú không làm ông mất chỗ bán",
+     "v": "a",
+     "n": "Nhu cầu ẩn của ông. Tiêu chuẩn cấp giấy chứng nhận sức khỏe: không có trong tài liệu đã tải; việc cấp giấy ngay tối nay khi đang nhiễm khuẩn kèm mệt, ăn kém, chưa có xét nghiệm là chưa hợp lý nhưng không có nguồn nói gây hại nên chấm a."
+    },
+    {
+     "t": "Khởi đầu ngay kháng sinh phủ tụ cầu kháng methicillin (doxycycline 100 mg × 2 lần/ngày hoặc trimethoprim-sulfamethoxazole)",
+     "v": "a",
+     "n": "WHO AWaRe 2022 chương 16 (tr. 197): thuốc cho MRSA cộng đồng cân nhắc ở một số ca theo yếu tố nguy cơ, định cư vi khuẩn, tỉ lệ lưu hành tại chỗ; IDSA 2014 khuyến cáo 2b: khi nghi ngờ hoặc xác định MRSA. Ông chưa có yếu tố nguy cơ rõ; AGS Beers 2023 Bảng 6: TMP-SMX giảm liều khi CrCl 15–29 mL/phút mà chưa có creatinin. Không nguồn nào nói là hại nên chấm a."
+    },
+    {
+     "t": "Chỉ dùng penicillin V hoặc amoxicillin đơn độc",
+     "v": "w",
+     "n": "Chốc thường do tụ cầu: IDSA 2014 khuyến cáo 2b dùng thuốc phủ tụ cầu (dicloxacillin, cephalexin); penicillin uống chỉ khi cấy ra liên cầu đơn độc. Amoxicillin đơn độc không nằm trong bảng thuốc của QĐ 4416 (mục 3.2.2), IDSA 2014 (Bảng 2), AWaRe 2022 (chương 16), NICE NG153 (Bảng 1); chấm w vì không nguồn nào ủng hộ (sổ mâu thuẫn, mục DL-0434)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc không bọng nước, nhiều tổn thương, do tụ cầu hoặc liên cầu bội nhiễm sau xước da ở cẳng chân phải (QĐ 4416, Chốc mục 1.3, 2.1)",
+     "Kèm viêm mô tế bào nhẹ ở cẳng chân dưới phải, chưa có dấu hiệu toàn thân (IDSA 2014 khuyến cáo 14, Hình 1); không có dấu hiệu hoại tử; chưa có ổ mủ",
+     "Yếu tố thuận lợi: ngồi sạp chân thòng, phù chân, nền ẩm, xước da, vệ sinh hạn chế (QĐ 4416 mục 1.2; IDSA 2014 khuyến cáo 16)",
+     "Người 79 tuổi gầy, ăn kém, mất nước nhẹ, thận chưa biết; tự ngưng rosuvastatin ba tuần (không liên quan da; mối liên quan không có trong tài liệu đã tải)",
+     "Nhu cầu ẩn: xin giấy chứng nhận sức khỏe để giữ chỗ bán, sợ bị cho nằm viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi lý do khám và diễn tiến → sốt, đau tương xứng, mệt, ăn kém, lú lẫn (dấu hiệu nặng) → tiền sử, dị ứng → thuốc đang dùng, kể cả thuốc tự ngưng → nghề → vì sao hôm nay đi khám → khám da cả chân, ranh giới vùng đỏ, mô dưới da, hạch bẹn, kẽ ngón, phù, tri giác → cận lâm sàng (tối nay chỉ có đường huyết mao mạch) → chẩn đoán → xử trí.",
+     "Vì sao là chốc kèm viêm mô tế bào nhẹ: sẩn mụn mủ, vảy tiết vàng nâu ở chi sau xước da trong điều kiện ẩm (QĐ 4416, Chốc mục 1.2, 2.1); cẳng chân dưới đỏ, nóng, phù, đau nhẹ, ranh giới không rõ; không SIRS (IDSA 2014 khuyến cáo 14, 18, Hình 1); chẩn đoán chủ yếu bằng lâm sàng (QĐ 4416 mục 2.3).",
+     "Vì sao không điển hình: QĐ 4416 (Chốc mục 1.2) ghi chốc thường gặp ở trẻ em; ông 79 tuổi không sốt, không kêu đau, chỉ mệt và ăn kém, đúng nhóm triệu chứng của chốc nặng (mệt mỏi, kém ăn, nổi hạch vùng, mục 2.1) và dễ bị coi là chuyện tuổi già. Điều suýt bỏ sót: ông chỉ nhờ xem 'cái chân lở'.",
+     "Ghi chú áp dụng người ≥ 75 tuổi: IDSA 2014, NICE NG153, QĐ 4416, AWaRe 2022 không có hướng dẫn riêng cho nhóm này; liều AWaRe tính cho thận bình thường; ngưỡng SIRS IDSA là của người lớn nói chung. Việc người cao tuổi có thể không sốt dù nhiễm khuẩn: không có trong tài liệu đã tải, nên hẹn đánh giá lại sớm.",
+     "Loại trừ viêm mô tế bào nặng, viêm cân mạc hoại tử: 8 dấu hiệu IDSA 2014 (đau không tương xứng, không đáp ứng kháng sinh ban đầu, mô dưới da cứng như gỗ, nhiễm độc toàn thân, phù đau vượt vùng đỏ, lạo xạo, bọng nước, hoại tử hoặc bầm máu) đều không có; WSES 2018 (tr. 13). Loại trừ zona, nấm da: QĐ 4416 (Zona mục 2.1; Nấm sợi mục 2.1).",
+     "Tối nay không có xét nghiệm, quyết định trước khi có kết quả. Cấy dịch không bắt buộc ở ca điển hình (IDSA 2014 khuyến cáo 1), cần nếu không đỡ (NICE NG153 mục 1.1.12)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú hay bệnh viện: IDSA 2014 khuyến cáo 18 cho ngoại trú khi không SIRS; NICE NG153 mục 1.1.15 gửi bệnh viện khi chốc có viêm mô tế bào. Ghi cả hai; chọn ngoại trú vì ông không có tiêu chí nặng, có con gái theo dõi, nhưng hẹn đánh giá lại sớm vì tuổi 79 và chưa có xét nghiệm.",
+     "Kháng sinh uống: chốc nhiều tổn thương cần uống (QĐ 4416 mục 3.2.2; IDSA 2014 khuyến cáo 2). Cephalexin 250 mg × 4, 500 mg × 4 (IDSA Bảng 2) hoặc 500 mg × 3 lần/ngày (AWaRe 2022) đều có nguồn; 250 mg × 4 thận trọng hơn khi chưa biết eGFR. Số ngày: 5 (IDSA khuyến cáo 15; NICE), 7 cho chốc (khuyến cáo 2b); kéo dài nếu chưa cải thiện.",
+     "Kháng sinh bôi: QĐ 4416 mục 3.1, 3.2.1 kết hợp hoặc NICE NG153 mục 1.1.6 không kết hợp; ghi cả hai. Chưa khởi đầu kháng sinh phủ MRSA vì chưa có yếu tố nguy cơ (AWaRe 2022 tr. 197); không đỡ thì xét lại (NICE NG153 mục 1.1.9).",
+     "Chưa cấp giấy sức khỏe khi đang điều trị; giải thích để ông không giấu bệnh vì sợ mất chỗ bán. Statin: không tự ngưng, hỏi lại bác sĩ đã kê (không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin",
+      "ham_luong": "500 mg/viên (hoặc 250 mg/viên)",
+      "lieu": "500 mg × 3 lần/ngày (WHO AWaRe 2022 chương 16, tr. 197: mỗi 8 giờ), hoặc 250 mg × 4 lần/ngày (QĐ 4416 Chốc mục 3.2.2; IDSA 2014 Bảng 2 dòng chốc), hoặc 500 mg × 4 lần/ngày (IDSA 2014 Bảng 2 dòng nhiễm tụ cầu nhạy methicillin). Mức thận trọng hơn: 250 mg × 4 lần/ngày (1 g/ngày), vì ông chưa có creatinin",
+      "duong": "Uống",
+      "thoi_diem": "Chia đều trong ngày, uống sau ăn",
+      "so_ngay": "5 ngày (IDSA 2014 khuyến cáo 15; AWaRe 2022; NICE NG153), kéo dài nếu chưa cải thiện; hoặc 7 ngày nếu tính theo chốc (IDSA khuyến cáo 2b)",
+      "ghi_chu": "QĐ 4416 Chốc mục 3.2.2 không ghi số ngày. AWaRe 2022: liều cho thận bình thường; cách chỉnh liều theo eGFR: không có trong tài liệu đã tải. Thay thế: dicloxacillin 500 mg × 4 lần/ngày (QĐ 4416; IDSA Bảng 2), cloxacillin 500 mg mỗi 6 giờ (AWaRe) hoặc flucloxacillin 500 mg × 4 lần/ngày × 5 ngày (NICE Bảng 1)."
+     },
+     {
+      "thuoc": "Thuốc tím (kali permanganat) pha loãng, hoặc nước muối sinh lý 9‰, hoặc gạc mỡ vaseline",
+      "ham_luong": "Thuốc tím 1/10.000; nước muối 0,9%; mỡ vaseline",
+      "lieu": "Ngâm hoặc rửa chân ngày 1 lần bằng thuốc tím 1/10.000; vùng nhiều vảy đắp gạc nước muối 9‰ hoặc vaseline đến khi bong vảy (QĐ 4416 Chốc mục 3.2.1)",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "Ngày 1 lần (ngâm); số lần đắp gạc: không có trong tài liệu đã tải",
+      "so_ngay": "Đến khi bong hết vảy, thường 1–2 tuần (QĐ 4416 mục 2.1)",
+      "ghi_chu": "QĐ 4416 mục 3.2.1. Kháng sinh bôi (mupirocin, acid fusidic, retapamulin 2 lần/ngày, thường 7 ngày) tùy chọn kết hợp (QĐ 4416 mục 3.1); NICE NG153 mục 1.1.6 khuyên không kết hợp."
+     },
+     {
+      "thuoc": "Rosuvastatin (ông đang tự ngưng)",
+      "ham_luong": "10 mg/viên",
+      "lieu": "Không kê lại tối nay; hẹn bác sĩ tim mạch đã kê xét lại",
+      "duong": "Uống",
+      "thoi_diem": "Không đổi trong đợt này",
+      "so_ngay": "Theo bác sĩ tim mạch",
+      "ghi_chu": "Giữ nguyên, không đổi; chỉ định statin ở người 79 tuổi và tương tác với cephalexin: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ thuốc đúng giờ, không bỏ liều dù thấy đỡ; uống đủ nước, ăn từng ít một, nhờ con gái nhắc.",
+     "Kê cao chân khi nghỉ trưa và tối, nhờ người thay vài giờ để chân không thòng liên tục; thay quần ẩm (IDSA 2014 khuyến cáo 16; QĐ 4416 mục 4).",
+     "Không gãi, không nặn, không bôi dầu cù là hay đắp lá lên chỗ lở; rửa tay, giặt riêng khăn, che tổn thương bằng gạc (QĐ 4416 mục 3.1, 4; NICE NG153 mục 1.1.1).",
+     "Quay lại ngay hoặc đến bệnh viện huyện nếu đỏ lan nhanh, đau tăng nhiều, bọng nước máu, tím đen, sốt, rét run, lú lẫn, ăn uống kém hơn (IDSA 2014, mục viêm cân mạc hoại tử; NICE NG153 mục 1.1.7).",
+     "Gọi báo creatinin, công thức máu sáng mai; tái khám khi hết đợt thuốc hoặc sớm hơn nếu chưa đỡ (IDSA 2014 khuyến cáo 15; NICE NG153 mục 1.1.8); ngày cụ thể: không có trong tài liệu đã tải.",
+     "Chuyện chợ: chưa cấp giấy khi chân còn nhiễm khuẩn, khỏi sẽ khám lại và cấp; xin lùi hạn với ban quản lý chợ, đừng giấu bệnh. Thuốc mỡ máu: đừng tự bỏ, hỏi lại bác sĩ tim mạch."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (quay lại sau 4 ngày, không đỡ)",
+   "tiep_don": "Ông Mười quay lại vào buổi tối, con gái đưa đến vì sau 4 ngày uống kháng sinh chân đỏ lan thêm, ông mệt hơn và gần như bỏ ăn hai ngày nay. Chị Hà nói đã xếp thuốc cho ba uống đủ. Sinh hiệu: mạch 98 l/p, HA 126/70 mmHg, nhiệt độ 38,1 °C, nhịp thở 20 l/p, SpO₂ 95%. Cân nặng 53 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông về nhà đổi thuốc uống khi chân đã đỏ lan, có ổ mủ, nhiệt độ 38,1 °C, mạch 98 là bỏ qua tiêu chí ngoại trú thất bại: IDSA 2014 khuyến cáo 18 chỉ cho ngoại trú khi không SIRS; NICE NG153 mục 1.1.15 gửi bệnh viện khi chốc kèm viêm mô tế bào. Tối nay không rạch dẫn lưu được ổ mủ, không có xét nghiệm, nên qua đêm vùng đỏ có thể lan tiếp khi ông ăn uống kém, dễ mất nước; QĐ 4416 (Chốc mục 2.1) nêu viêm mô bào, nhiễm khuẩn huyết là biến chứng.",
+    "theo_doi": "Giữ ông nằm lại phòng khám qua đêm là không đủ: tối nay không có kỹ thuật viên, không truyền kháng sinh tĩnh mạch, không rạch dẫn lưu. Ông chờ đến sáng mới sang bệnh viện, mất thêm nhiều giờ trong khi cần dẫn lưu ổ mủ (IDSA 2014 khuyến cáo 5; QĐ 4416 Nhọt – áp xe da mục 3.1) và kháng sinh phù hợp.",
+    "cap_cuu": "Gọi 115 chuyển cấp cứu là quá tay: ông tỉnh, HA 126/70 mmHg, SpO₂ 95%, không dấu hiệu mô sâu (IDSA 2014 khuyến cáo 27 chỉ cho nghi hoại tử). Bệnh viện huyện cách 15 km, con gái đưa đi được ngay bằng xe nhà; gọi cấp cứu chỉ làm gia đình hoảng sợ, tốn chi phí."
+   },
+   "loi_mo": "Thuốc uống mấy bữa rồi mà chân tôi đỏ thêm, nặng hơn, tôi thấy mệt quá. Bác sĩ coi cho tôi chút rồi cho tôi về, mai còn phải ra chợ.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "126/70",
+    "nhiet": "38,1",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": [
+     "Nhiệt độ trên 38 °C kèm mạch trên 90 l/p: đạt hai tiêu chí SIRS của IDSA 2014"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Quay lại vì chân phải đỏ lan lên gần gối và xuống mu bàn chân, đau và căng hơn, ớn lạnh từ tối qua, mệt, ăn gần như bỏ hai ngày. Ông nói “thuốc không ăn thua”.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: không đỡ, nặng lên"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đủ cephalexin theo đơn lần trước, con gái xếp thuốc từng buổi và đếm lại số viên, không bỏ liều, không tiêu chảy, không nổi mẩn. Không uống thêm thuốc nào ngoài paracetamol 1 viên tối qua. Vẫn chưa uống lại rosuvastatin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểm tra tuân thủ và thuốc tự dùng: loại trừ không tuân thủ"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai ngày đầu bớt ngứa. Từ ngày thứ 3 vùng đỏ ở cẳng chân dưới lan lên gần gối và xuống mu bàn chân, căng và đau hơn, mọc thêm vài nốt mủ. Ở mặt trước cẳng chân dưới có một chỗ căng bóng bằng đầu ngón tay cái, sờ mềm, đau; hôm qua chảy ít mủ vàng đục. Đêm qua ớn lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến thất bại điều trị: vùng đỏ lan, ổ mủ nhỏ, đáp ứng toàn thân"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Đau tăng nhưng vẫn đúng vùng đỏ. Không bọng nước máu, không tím đen, không tê, không lạo xạo. Còn gập duỗi gối, đi chậm phải có con dìu. Nói chuyện đúng nhưng ngủ nhiều hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa có dấu hiệu mô sâu, nhưng đã có SIRS"
+    },
+    {
+     "id": "yeu_to_giu",
+     "noi_dung": "Sau lần khám trước ông vẫn ngồi sạp khoảng 12 giờ mỗi ngày, chân thòng xuống nền xi măng, chỉ kê cao khoảng nửa giờ lúc nghỉ trưa; tự bôi thêm dầu cù là vì ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: chân thòng, không kê cao (IDSA 2014 khuyến cáo 16)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ban quản lý chợ vẫn chờ giấy chứng nhận sức khỏe; ông sợ nhập viện là mất chỗ bán nên muốn “thuốc mạnh hơn uống ở nhà”. Ông hỏi lại: “có cần nằm viện không bác sĩ?”.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi ông lo điều gì nhất, vì sao ông muốn về nhà, hoặc hỏi chuyện giấy chợ và việc ở sạp",
+     "k": 1,
+     "y": "Nỗi sợ mất chỗ bán, dễ từ chối chuyển tuyến"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Chị Hà đồng ý đưa ba đi bệnh viện huyện (15 km) ngay tối nay bằng xe của chồng chị.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Phương tiện và người đi cùng khi chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng chân phải: vùng da đỏ sẫm, căng bóng, phù, nóng rõ so với bên trái, lan từ trên mắt cá đến dưới gối và mu bàn chân, khoảng 15 × 12 cm, ranh giới không rõ, ấn đau nhiều hơn lượt trước. Mặt trước cẳng chân dưới có khối căng bóng khoảng 2 × 2 cm, mềm, bập bềnh, da phía trên mỏng, đỉnh có chấm mủ vàng, ấn chảy ít mủ đục (ổ mủ nhỏ; QĐ 4416 Nhọt – áp xe da mục 2.1: da phía trên mỏng, sờ mềm). Một lằn đỏ mảnh dài khoảng 6 cm chạy lên mặt trong cẳng chân trên (viêm bạch mạch, QĐ 4416 Chốc mục 2.1). Tổn thương chốc cũ phần lớn khô vảy, có 3–4 sẩn mủ mới. Không bọng nước máu, không tím đen, không hoại tử, không lạo xạo; mô dưới da mềm; đau tương xứng với vùng đỏ (IDSA 2014, mục viêm cân mạc hoại tử).",
+     "k": 1,
+     "hien": "Cẳng chân phải: vùng da đỏ sẫm, căng bóng, sưng, nóng, ranh giới không rõ, khoảng 15 × 12 cm, từ trên mắt cá đến dưới gối và mu bàn chân, ấn đau. Mặt trước cẳng chân dưới có khối căng bóng khoảng 2 × 2 cm, mềm, ấn chảy ít mủ đục. Một lằn đỏ mảnh dài khoảng 6 cm chạy lên mặt trong cẳng chân trên. Các nốt cũ phần lớn khô vảy, có vài sẩn mủ mới. Chân trái: bình thường."
+    },
+    "chi_duoi": {
+     "a": "Chân phải phù ấn lõm nông ở cẳng chân; bắp chân căng nhưng mềm, không đau khi bóp, chu vi chênh khoảng 1 cm so với chân trái. Hạch bẹn phải 1,5 cm, đau. Kẽ ngón sạch. Mạch mu chân bắt được, hồi lưu mao mạch dưới 2 giây.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, uể oải, nói chậm nhưng đúng. Gầy, BMI khoảng 20,7 kg/m². Môi khô, nếp véo da mất chậm, da niêm hồng nhạt. Không vàng da.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 20 l/p.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Mẫu lấy tối nay, gửi phòng xét nghiệm ngoài, kết quả sáng mai (Linh sẽ gọi báo).",
+     "n": "QĐ 4416 (Chốc mục 2.2): bạch cầu, CRP có thể tăng. Đáng làm ở tuyến nhận vì đã có SIRS lâm sàng, ổ mủ và thất bại điều trị; không chờ kết quả mới chuyển tuyến."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Mẫu lấy tối nay, gửi phòng xét nghiệm ngoài, kết quả sáng mai.",
+     "n": "Cần trước khi chọn và chỉnh liều kháng sinh ở người 79 tuổi mất nước nhẹ: AGS Beers 2023 Bảng 6: TMP-SMX giảm liều khi CrCl 15–29 mL/phút, tránh khi dưới 15; AWaRe 2022: liều cho thận bình thường."
+    },
+    "cay_dich_da": {
+     "v": "e",
+     "r": "Không làm được tối nay ở phòng khám; kết quả cấy mất vài ngày. Linh có thể ngoáy dịch mủ ở ổ mủ nhỏ gửi theo người bệnh.",
+     "n": "IDSA 2014 khuyến cáo 3: nhuộm Gram và cấy mủ ổ áp xe; NICE NG153 mục 1.1.12, 1.1.14: gửi phết khi chưa đỡ sau kháng sinh uống và đổi kháng sinh theo kết quả; QĐ 4416 (Chốc mục 3.2.2): chốc kháng thuốc theo kháng sinh đồ. Lấy trước khi đổi kháng sinh; kết quả sau nhiều ngày nên không đợi để quyết định hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc nhiều tổn thương kèm viêm mô tế bào cẳng chân phải thất bại điều trị cephalexin sau 4 ngày: đã có ổ mủ nhỏ (áp xe da), viêm bạch mạch và đáp ứng viêm toàn thân (SIRS), ở người 79 tuổi; nghi tụ cầu kháng methicillin hoặc ổ mủ chưa dẫn lưu; chưa có dấu hiệu nhiễm trùng hoại tử",
+     "ok": 1,
+     "n": "Thất bại điều trị: không đỡ sau đợt kháng sinh uống (NICE NG153 mục 1.1.8–1.1.9; IDSA 2014 Hình 1: mức nặng gồm người đã thất bại điều trị uống). Ổ mủ mềm, da mỏng (QĐ 4416 Nhọt – áp xe da mục 2.1) và SIRS: nhiệt độ 38,1 trên 38, mạch 98 trên 90 (IDSA 2014 khuyến cáo 6). Chốc có thể tiến triển thành viêm mô bào, viêm bạch mạch (QĐ 4416 Chốc mục 2.1). Tụ cầu kháng methicillin là nguyên nhân khả dĩ khi cephalexin không đáp ứng (IDSA 2014 khuyến cáo 2b; AWaRe 2022 tr. 197); tỉ lệ MRSA tại địa phương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm cân mạc hoại tử, nhiễm trùng mô mềm hoại tử",
+     "n": "Chưa có: đau tương xứng, không bọng nước máu, không tím đen, không lạo xạo, mô dưới da mềm, tỉnh, huyết áp ổn (IDSA 2014, mục viêm cân mạc hoại tử; WSES 2018 tr. 13). Nhưng 'không đáp ứng kháng sinh ban đầu' là một dấu hiệu gợi ý của IDSA nên theo dõi sát; hội chẩn ngoại khoa khẩn nếu xuất hiện dấu hiệu (khuyến cáo 27)."
+    },
+    {
+     "t": "Thất bại do không tuân thủ, do kê sai thuốc hoặc sai liều",
+     "n": "Loại trừ: con gái xếp thuốc và đếm viên, uống đủ; cephalexin là lựa chọn đúng (QĐ 4416 Chốc mục 3.2.2; IDSA 2014 khuyến cáo 2b, 14); không dị ứng hay tiêu chảy do thuốc."
+    },
+    {
+     "t": "Sai chẩn đoán: zona, nấm da, huyết khối tĩnh mạch",
+     "n": "Không đổi so với lượt 1 (QĐ 4416 Zona mục 2.1; Nấm sợi mục 2.1). Có ổ mủ, sốt, viêm bạch mạch, hạch bẹn đau nên hướng nhiễm khuẩn; bắp chân mềm, không đau khi bóp. Tiêu chuẩn loại huyết khối tĩnh mạch sâu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Chưa loại trừ được tối nay vì không có xét nghiệm; QĐ 4416 (Chốc mục 2.1) nêu nhiễm khuẩn huyết là biến chứng nếu không điều trị. Ông tỉnh, HA 126/70, SpO₂ 95%; cấy máu và đánh giá tại bệnh viện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện huyện ngay tối nay (không gọi cấp cứu), có người nhà đi cùng",
+     "v": "c",
+     "n": "IDSA 2014 khuyến cáo 18: ngoại trú chỉ khi không SIRS; nhập viện nếu nghi nhiễm khuẩn sâu hơn, tuân thủ kém, suy giảm miễn dịch nặng hoặc ngoại trú đang thất bại. NICE NG153 mục 1.1.15: chuyển bệnh viện chốc kèm viêm mô tế bào. Hai nguồn cùng hướng ở ca này (SIRS, thất bại sau 4 ngày, ổ mủ, tuổi 79, tối nay không có xét nghiệm); không phải mâu thuẫn."
+    },
+    {
+     "t": "Ghi và chuyển kèm thông tin: kháng sinh đã dùng (cephalexin 4 ngày), không dị ứng, tự ngưng rosuvastatin 3 tuần, giờ khởi phát và lan, sinh hiệu, creatinin và công thức máu chưa có kết quả, ngoáy dịch mủ gửi cấy",
+     "v": "c",
+     "n": "NICE NG153 mục 1.1.9: khi đánh giá lại phải tính kháng sinh trước đó (có thể gây kháng) và dấu hiệu bệnh nặng hơn; mục 1.1.12, 1.1.14: gửi phết, đổi kháng sinh theo kết quả; QĐ 4416 (Chốc mục 3.2.2): chốc kháng thuốc theo kháng sinh đồ. Mẫu thư chuyển tuyến chuẩn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khuyến nghị cho tuyến nhận: rạch dẫn lưu ổ mủ, nhuộm Gram và cấy mủ, kháng sinh phủ MRSA (doxycycline 100 mg × 2 lần/ngày; hoặc TMP-SMX 160/800 mg × 2 lần/ngày; hoặc clindamycin 300–450 mg × 4 lần/ngày; hoặc vancomycin tĩnh mạch nếu nặng), kéo dài 7–10 ngày",
+     "v": "c",
+     "n": "IDSA 2014 khuyến cáo 5 (rạch dẫn lưu), 3 (Gram, cấy mủ), 6 (kháng sinh phủ MRSA cho ổ mủ khi có SIRS; tóm tắt tr. e13 thêm người đã thất bại kháng sinh ban đầu), Bảng 2 (MRSA: doxycycline 100 mg × 2, TMP-SMX 1–2 viên liều kép × 2, clindamycin 300–450 mg × 4, vancomycin 30 mg/kg/ngày chia 2). QĐ 4416 Nhọt – áp xe da mục 3.1, 3.2.2: ổ áp xe cần trích rạch dẫn lưu và kháng sinh toàn thân 7–10 ngày; TMP-SMX 160/800 mg × 2, vancomycin 30 mg/kg/ngày chia 4 (không quá 2 g/ngày), linezolid 600 mg × 2. NICE NG153 Bảng 1: nghi MRSA thì hỏi vi sinh vật học tại chỗ. Mọi cách đều có nguồn; TMP-SMX thận trọng ở người cao tuổi (AGS Beers 2023 Bảng 6)."
+    },
+    {
+     "t": "Hạ sốt giảm đau bằng paracetamol 500 mg khi sốt hoặc đau, tối đa 3 g/ngày hoặc tối đa 4 g/ngày, tránh NSAID",
+     "v": "c",
+     "n": "QĐ 361/2014 (Phụ lục NSAID mục 3.3, nhóm nguy cơ cao: người cao tuổi, gầy yếu): acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể; AHA/ACC 2025 (Bảng 11): dưới 4 g/ngày, tránh NSAID toàn thân. 3 g thận trọng hơn nên chọn cho ông 79 tuổi, gầy, mất nước (sổ mâu thuẫn, mục TH-0295)."
+    },
+    {
+     "t": "Kê cao chân, đánh dấu ranh giới vùng đỏ trước khi đi, cho uống nước từng ngụm nếu tỉnh táo",
+     "v": "a",
+     "n": "Kê cao: IDSA 2014 khuyến cáo 16. Đánh dấu ranh giới và uống nước trước chuyển: không có trong tài liệu đã tải; chấm a."
+    },
+    {
+     "t": "Nói chuyện với ông và con gái về lý do cần đi bệnh viện, trấn an chuyện chợ và giấy sức khỏe: sẽ cấp sau khi khỏi, có thể viết giấy xác nhận tình trạng bệnh",
+     "v": "a",
+     "n": "Nhu cầu ẩn của ông; tiêu chuẩn cấp giấy và mẫu giấy xác nhận: không có trong tài liệu đã tải; chấm a."
+    },
+    {
+     "t": "Cho về nhà, đổi sang kháng sinh uống phủ MRSA (doxycycline hoặc TMP-SMX), hẹn tái khám sáng mai",
+     "v": "w",
+     "n": "IDSA 2014 khuyến cáo 18 chỉ cho ngoại trú khi không SIRS và nhập viện khi ngoại trú đang thất bại; Hình 1 xếp người thất bại điều trị uống vào mức nặng; NICE NG153 mục 1.1.15 gửi bệnh viện. Cả hai nguồn chỉ hướng bệnh viện cho ca này nên chấm w; không phải 'hai cách đều đúng'."
+    },
+    {
+     "t": "Gọi 115 chuyển cấp cứu",
+     "v": "a",
+     "n": "Ông tỉnh, huyết áp, SpO₂ ổn, không có dấu hiệu mô sâu (IDSA 2014 khuyến cáo 27 chỉ cho nghi hoại tử); chuyển bằng xe nhà là đủ. Quá tay chứ không gây hại nên chấm a."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc nhiều tổn thương kèm viêm mô tế bào cẳng chân phải thất bại điều trị cephalexin sau 4 ngày, đã có ổ mủ nhỏ và viêm bạch mạch (QĐ 4416 Chốc mục 2.1; Nhọt – áp xe da mục 2.1)",
+     "SIRS: nhiệt độ 38,1 °C và mạch 98 l/p (IDSA 2014 khuyến cáo 6, 18); nghi tụ cầu kháng methicillin hoặc ổ mủ chưa dẫn lưu; chưa có dấu hiệu hoại tử",
+     "Mất nước nhẹ, thận chưa biết; yếu tố duy trì: ngồi sạp chân thòng 12 giờ/ngày",
+     "Chỉ định bệnh viện (IDSA 2014 khuyến cáo 18; NICE NG153 mục 1.1.15); nhu cầu ẩn: sợ mất chỗ bán"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: hỏi vì sao quay lại và diễn tiến → kiểm tuân thủ (đếm viên) và thuốc tự dùng → dấu hiệu nặng, đau tương xứng, tri giác → yếu tố duy trì (nghề, kê cao chân) → sinh hiệu → khám lại vùng đỏ, ổ mủ, viêm bạch mạch, hạch, bắp chân → xét lại chẩn đoán → xử trí, chuyển tuyến.",
+     "Quy trình thất bại điều trị: (1) sai chẩn đoán? không đổi, có ổ mủ, sốt, viêm bạch mạch nên hướng nhiễm khuẩn; (2) sai thuốc, liều? cephalexin đúng hướng (QĐ 4416 Chốc mục 3.2.2; IDSA 2014 khuyến cáo 14, 2b); (3) không tuân thủ? loại trừ; (4) biến chứng? ổ mủ nhỏ, viêm bạch mạch (QĐ 4416 Chốc mục 2.1); (5) đề kháng? nghi MRSA, tỉ lệ địa phương: không có trong tài liệu đã tải; (6) yếu tố duy trì: chân thòng (IDSA 2014 khuyến cáo 16).",
+     "Vì sao phải chuyển: đã có SIRS (IDSA 2014 khuyến cáo 6), khuyến cáo 18 chỉ cho ngoại trú khi không SIRS và nhập viện khi ngoại trú đang thất bại; NICE NG153 mục 1.1.15 gửi bệnh viện. Thêm tuổi 79, ăn kém, tối nay không có xét nghiệm nên chưa biết thận, bạch cầu, và không rạch dẫn lưu được.",
+     "Dấu hiệu mô sâu (IDSA 2014; WSES 2018 tr. 13) chưa có, nhưng 'không đáp ứng kháng sinh ban đầu' là một dấu hiệu nên chuyển trong đêm; dặn tuyến nhận hội chẩn ngoại khoa nếu có dấu hiệu (khuyến cáo 27). Không cần cấp cứu vì tỉnh, huyết động ổn, SpO₂ 95%.",
+     "Ghi chú áp dụng người ≥ 75 tuổi: ngưỡng SIRS, thuốc, liều của IDSA, QĐ 4416 là của người lớn nói chung; tài liệu đã tải không có khuyến cáo riêng cho người rất cao tuổi (ngưỡng sốt, tỉ lệ MRSA, chỉnh liều theo thận ngoài Beers Bảng 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển bệnh viện huyện ngay tối nay, ghi kèm kháng sinh đã dùng, dị ứng, statin tự ngưng, chưa có creatinin, ngoáy dịch mủ gửi cấy (NICE NG153 mục 1.1.9, 1.1.12, 1.1.14).",
+     "Việc ở tuyến nhận: rạch dẫn lưu ổ mủ (IDSA 2014 khuyến cáo 5; QĐ 4416 Nhọt – áp xe da mục 3.1), Gram và cấy mủ (IDSA khuyến cáo 3), kháng sinh phủ MRSA vì có SIRS và thất bại (IDSA khuyến cáo 6): doxycycline 100 mg × 2 lần/ngày; hoặc TMP-SMX 160/800 mg × 2 (QĐ 4416) hay 1–2 viên liều kép × 2 (IDSA Bảng 2); hoặc clindamycin 300–450 mg × 4; vancomycin tĩnh mạch 30 mg/kg/ngày chia 4, không quá 2 g/ngày (QĐ 4416) hoặc chia 2 (IDSA Bảng 2) nếu nặng; 7–10 ngày (QĐ 4416 mục 3.2.2).",
+     "Chọn thuốc cho người 79 tuổi 53 kg chưa biết thận: TMP-SMX giảm liều khi CrCl 15–29 mL/phút, tránh khi dưới 15 (AGS Beers 2023 Bảng 6); chỉnh liều doxycycline, clindamycin, vancomycin theo tuổi và thận: không có trong tài liệu đã tải.",
+     "Paracetamol 500 mg khi sốt hoặc đau, tối đa 3 g/ngày (QĐ 361/2014) hoặc 4 g/ngày (AHA/ACC 2025), 3 g thận trọng hơn; tránh NSAID. Thuyết phục vì ông sợ mất chỗ: giải thích cần dẫn lưu và thuốc đúng; giấy sức khỏe cấp sau khi khỏi (tiêu chuẩn cấp giấy: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg mỗi lần khi sốt hoặc đau, cách nhau ít nhất 6 giờ; tối đa 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc 4 g/ngày (AHA/ACC 2025 Bảng 11); chọn 3 g vì 79 tuổi, gầy",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau, sau ăn",
+      "so_ngay": "Vài ngày đến khi hết sốt, theo bệnh viện",
+      "ghi_chu": "QĐ 361/2014; AHA/ACC 2025 Bảng 11. Tránh NSAID (QĐ 361 Phụ lục NSAID mục 3.3)."
+     },
+     {
+      "thuoc": "Kháng sinh phủ MRSA (đề xuất cho tuyến nhận, không kê tại phòng khám)",
+      "ham_luong": "Doxycycline 100 mg; TMP-SMX 160/800 mg; clindamycin 300 mg hoặc 450 mg",
+      "lieu": "Doxycycline 100 mg × 2 lần/ngày (IDSA 2014 Bảng 2); TMP-SMX 160/800 mg × 2 lần/ngày (QĐ 4416) hoặc 1–2 viên liều kép × 2 lần/ngày (IDSA Bảng 2), thận trọng nếu CrCl dưới 30 (AGS Beers 2023 Bảng 6); clindamycin 300–450 mg × 4 lần/ngày (IDSA Bảng 2; QĐ 4416)",
+      "duong": "Uống (tĩnh mạch nếu nặng: vancomycin 30 mg/kg/ngày chia 4 lần, tối đa 2 g/ngày, QĐ 4416)",
+      "thoi_diem": "Theo chỉ định của tuyến nhận sau khi có creatinin và đã lấy mẫu cấy",
+      "so_ngay": "7–10 ngày (QĐ 4416 Nhọt – áp xe da mục 3.2.2)",
+      "ghi_chu": "Kèm rạch dẫn lưu ổ mủ (IDSA 2014 khuyến cáo 5; QĐ 4416 Nhọt – áp xe da mục 3.1). NICE NG153 Bảng 1: nghi MRSA thì hỏi vi sinh vật học tại chỗ. Cephalexin đã dùng 4 ngày không đáp ứng."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện huyện ngay tối nay, không chờ sáng; không phải vì 'bệnh nặng' mà để rạch chỗ mủ và dùng thuốc đúng (IDSA 2014 khuyến cáo 5, 18; NICE NG153 mục 1.1.15).",
+     "Mang hộp thuốc đã uống (cephalexin), thuốc rosuvastatin ở nhà, thông tin dị ứng. Dọc đường kê cao chân, uống nước từng ngụm; báo ngay nếu đau tăng nhiều, bọng nước máu, tím đen, lú lẫn, khó thở (IDSA 2014, mục viêm cân mạc hoại tử).",
+     "Sau khi về: kê cao chân, giảm ngồi chân thòng, giữ da khô sạch, không nặn, không bôi dầu cù là hay đắp lá (QĐ 4416 Chốc mục 3.1, 4; IDSA 2014 khuyến cáo 16).",
+     "Chuyện chợ: nhờ chị Hà báo ban quản lý chợ xin lùi hạn; giấy sức khỏe cấp khi khỏi. Hỏi lại bác sĩ tim mạch về rosuvastatin khi ra viện, đừng tự bỏ (không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Mười được con gái chở sang bệnh viện huyện đêm đó. Ổ mủ nhỏ được rạch dẫn lưu, ông dùng kháng sinh phủ MRSA 7–10 ngày (QĐ 4416 Nhọt – áp xe da mục 3.2.2), nằm viện vài ngày rồi về nhà uống tiếp. Vùng đỏ lui trong khoảng một tuần, vảy bong hết sau hai tuần (QĐ 4416 Chốc mục 2.1: lành sau 1–2 tuần), không nốt mới. Ông ngồi sạp thấp hơn, kê cao chân buổi trưa, uống lại rosuvastatin sau khi gặp bác sĩ tim mạch. Ông quay lại lấy giấy chứng nhận sức khỏe sau khi khỏi; ban quản lý chợ đồng ý lùi hạn. Ổn định, khỏi bệnh, dù nhập viện ngoài dự đoán của ông.",
+ "nhieu": [
+  "Ông không kể đau, sốt, ăn kém, chỉ nhờ xem 'cái chân lở': dễ chỉ vá chân mà bỏ sót dấu hiệu toàn thân ở người 79 tuổi.",
+  "Tự ngưng rosuvastatin ba tuần và ý 'bỏ thuốc nên máu dơ sinh lở': phải hỏi mới biết; không liên quan chốc (mối liên quan không có trong tài liệu đã tải).",
+  "Giấy chứng nhận sức khỏe là lý do thật, ông giấu vì sợ không được cấp hoặc bị nhập viện, nên lượt 2 càng muốn về nhà.",
+  "Tối nay không có xét nghiệm; không đỡ sau 4 ngày dễ khiến tăng liều hay kéo dài cephalexin tại nhà (IDSA 2014 khuyến cáo 15) trong khi đã có SIRS, ổ mủ, nghi MRSA."
+ ],
+ "bai_hoc_bien": [
+  "Chốc thường gặp ở trẻ em (QĐ 4416 Chốc mục 1.2) nhưng người rất cao tuổi vẫn bị; biểu hiện có thể chỉ là mệt, ăn kém (mục 2.1); luôn khám vùng quanh tổn thương vì chốc có thể thành viêm mô bào (mục 2.1).",
+  "Viêm mô tế bào nhẹ ngoại trú khi không SIRS (IDSA 2014 khuyến cáo 18), NICE NG153 mục 1.1.15 đề nghị gửi bệnh viện; ghi cả hai, hẹn đánh giá lại sớm ở người ≥ 75 tuổi (thời hạn cụ thể không có trong tài liệu đã tải).",
+  "Không đỡ thì chạy quy trình: sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng (ổ mủ, viêm bạch mạch), đề kháng (MRSA), yếu tố duy trì (chân thòng) (NICE NG153 mục 1.1.9; IDSA 2014 khuyến cáo 16).",
+  "SIRS cộng thất bại ngoại trú thì chuyển bệnh viện (IDSA 2014 khuyến cáo 18; NICE NG153 mục 1.1.15); ổ mủ cần rạch dẫn lưu (IDSA khuyến cáo 5; QĐ 4416 Nhọt – áp xe da mục 3.1).",
+  "Hỏi 'vì sao hôm nay đi khám': lý do thật (giấy sức khỏe, sợ mất chỗ bán) quyết định ông có chịu chuyển tuyến không; ngoài giờ không xét nghiệm thì quyết định bằng lâm sàng, gửi mẫu, lấy phết trước khi đổi kháng sinh (NICE NG153 mục 1.1.12, 1.1.14)."
+ ],
+ "diem_nho": [
+  "Chốc không bọng nước: sẩn đỏ, mụn mủ nhỏ, vảy tiết vàng mật ong khi điển hình, thường ở chi, nhiều tổn thương; chẩn đoán lâm sàng (QĐ 4416 Chốc mục 2.1, 2.3).",
+  "Cephalexin 250 mg × 4 lần/ngày (QĐ 4416 mục 3.2.2; IDSA 2014 Bảng 2), 500 mg × 4 (IDSA Bảng 2), 500 mg mỗi 8 giờ (AWaRe 2022 chương 16). Số ngày: 5 (viêm mô tế bào, IDSA khuyến cáo 15), 7 (chốc uống, khuyến cáo 2b).",
+  "Ngưỡng SIRS IDSA 2014: nhiệt độ trên 38 °C hoặc dưới 36 °C, mạch trên 90, nhịp thở trên 24; ngoại trú chỉ khi không SIRS (khuyến cáo 18). Paracetamol ở người cao tuổi: tối đa 3 g/ngày (QĐ 361/2014) hoặc 4 g/ngày (AHA/ACC 2025 Bảng 11); tránh NSAID.",
+  "Ổ áp xe: rạch dẫn lưu (IDSA 2014 khuyến cáo 5), gửi Gram và cấy (khuyến cáo 3); thuốc phủ MRSA: doxycycline 100 mg × 2, TMP-SMX 160/800 mg × 2, clindamycin 300–450 mg × 4 (IDSA Bảng 2; QĐ 4416 Nhọt – áp xe da mục 3.2.2); TMP-SMX thận trọng khi CrCl dưới 30 (AGS Beers 2023 Bảng 6). Dấu hiệu mô sâu: IDSA 2014, mục viêm cân mạc hoại tử; WSES 2018 tr. 13."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị các bệnh da liễu (TL-0397): Chốc mục 1.2, 1.3, 2.1–2.4, 3.1, 3.2.1, 3.2.2, 4; Nhọt – áp xe da mục 1.2, 2.1, 3.1, 3.2.1, 3.2.2; Bệnh zona mục 2.1; Bệnh da do nấm sợi mục 2.1.",
+  "IDSA 2014 – Practice guidelines for the diagnosis and management of skin and soft tissue infections (TL-0270): khuyến cáo 1–3, 5, 6, 12, 14–19, 27; Bảng 2; Hình 1; mục viêm cân mạc hoại tử.",
+  "NICE NG153 2020 – Impetigo: antimicrobial prescribing (TL-0428): mục 1.1.1–1.1.15, Bảng 1.",
+  "WHO AWaRe antibiotic book 2022 (TL-0018): chương 16, tr. 195–197 (cefalexin 500 mg mỗi 8 giờ; 5 ngày; liều cho thận bình thường; MRSA cộng đồng cân nhắc theo yếu tố nguy cơ).",
+  "WSES/SIS-E 2018 (TL-0430): tr. 13 – dấu hiệu nhiễm trùng mô mềm hoại tử.",
+  "AGS Beers 2023 (TL-0022): Bảng 4, Bảng 6 (TMP-SMX). QĐ 361/2014 (TL-0286): Phụ lục NSAID mục 3.3 (acetaminophen). AHA/ACC 2025 tăng huyết áp (TL-0297): Bảng 11.",
+  "Ảnh da: SCIN (Google Research & Stanford), HA-DA-0321 và HA-DA-0322; SCIN Data Use License."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-18): ca 2 lượt, lượt 2 tiếp nối xử trí chuẩn lượt 1 (ngoại trú, cephalexin, hẹn tái khám). Ràng buộc 'ngoài giờ, không kỹ thuật viên' dựng thành khoa_cls.nhom xn (không có công thức máu, creatinin, CRP, cấy mủ tối nay; chỉ có đường huyết mao mạch). Lượt 2 'không đỡ' là thất bại điều trị có ổ mủ nhỏ, viêm bạch mạch, SIRS (nhiệt 38,1, mạch 98); xử trí chuẩn chuyển bệnh viện huyện (IDSA 2014 khuyến cáo 18 và NICE NG153 mục 1.1.15 cùng hướng).",
+  "Ảnh SCIN: đợt xem trước đầu loại cả 4 ảnh (một ảnh trẻ em, ba ảnh lộ một phần mặt và dây chuyền); đợt hai loại HA-DA-0320 (mờ), HA-DA-0323 (không khớp). Dùng HA-DA-0321 (cẳng chân; góc ảnh có nhãn sản phẩm, chữ không đọc được) và HA-DA-0322. Ảnh không có vùng đỏ viêm mô tế bào; lượt 2 không có ảnh.",
+  "Không có trong tài liệu đã tải: ngưỡng sốt hay SIRS riêng cho người ≥ 75 tuổi; chỉnh liều cephalexin, doxycycline, clindamycin, vancomycin theo eGFR; tỉ lệ MRSA địa phương; mối liên quan ngưng statin với nhiễm khuẩn da, chỉ định và xử trí statin ở người ≥ 75 tuổi, tương tác statin với kháng sinh; ngày tái khám cụ thể; mốc hết lây; tiêu chuẩn loại huyết khối tĩnh mạch sâu; tiêu chuẩn cấp giấy chứng nhận sức khỏe; đánh dấu ranh giới; thư chuyển tuyến chuẩn.",
+  "Mâu thuẫn: áp dụng 3 mục sổ DL-0416 (bôi với uống; thuốc, liều, số ngày; ngoại trú hay bệnh viện ở lượt 1), bổ sung AWaRe 2022 liều cephalexin người lớn từ DL-0405, và mục paracetamol người cao tuổi (TH-0295). Lượt 2 không có mâu thuẫn thật về nơi điều trị."
+ ]
+}
