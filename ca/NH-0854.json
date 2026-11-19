@@ -1,0 +1,789 @@
+{
+ "ma_ca": "NH-0854",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-19)",
+ "benh": "NH_soi_so_sinh_khong_dien_hinh_tu_cho_thuoc",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Sởi",
+  "chan_doan_phai_loai_tru": [
+   "Rubella",
+   "Kawasaki",
+   "Sốt xuất huyết"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh 22 ngày tuổi)",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (tổ dân phố phun thuốc diệt muỗi phòng sốt xuất huyết quanh nhà, 3 hôm trước khi bé bắt đầu sốt; mẹ nghi bé 'hít hóa chất' nên nóng và nổi ban)",
+  "thuoc_dang_dung": "Vitamin thực phẩm chức năng (mẹ nhỏ vitamin tổng hợp dạng giọt cho bé mỗi sáng từ 10 ngày tuổi; 5 ngày qua mẹ còn tự cho bé uống amoxicillin thừa của chị)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc (mẹ sợ ban là phản ứng với amoxicillin mà mình tự cho bé uống, sợ đã làm hại con, nhưng ngại nói ra)"
+ },
+ "benh_nhan": {
+  "ten": "Lương Gia Hưng",
+  "tuoi": 0.06,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi (sơ sinh)",
+  "can_nang": 3.6,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai 22 ngày tuổi, chỉ khóc, ngủ, bú. Mẹ bé (chị Quyên, 30 tuổi) bế bé, gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'con'. Bà nội (bà Mận, 62 tuổi) ngồi cạnh, xưng 'bà', gọi bé là 'thằng cu', hay chen lời.",
+  "tinh_cach": "Chị Quyên: nghỉ thai sản, con thứ hai, cho con bú hoàn toàn, lo xa, hay tự trách, thức trắng mấy đêm; nói nhỏ, vòng vo khi sợ bị chê, rõ ràng khi được hỏi riêng nhẹ nhàng. Bà Mận: nói nhiều, quyết đoán, tin 'thuốc thừa của đứa lớn cho đứa nhỏ cũng được', ngại bệnh viện.",
+  "kieu_nhieu": "Tự cho bé uống thuốc trước 5 ngày: amoxicillin gói 250 mg thừa của chị Na, nửa gói × 2 lần/ngày × 5 ngày. Hỏi chung 'bé có uống thuốc gì không' thì mẹ nói 'dạ không, chỉ nhỏ vitamin thôi'; chỉ nói thật khi hỏi cụ thể (thuốc thừa của anh chị, kháng sinh, mấy lần, mấy ngày) hoặc hỏi lại nhẹ nhàng. Lý do thật (sợ ban là dị ứng do mình cho thuốc) chỉ lộ khi hỏi 'chị nghĩ vì sao bé nổi ban', 'chị lo điều gì nhất'.",
+  "nguoi_nha": "Mẹ bé và bà nội đi cùng; bố đi làm. Mẹ trả lời chính (nguoi_noi = nguoi_nha); bà nội chen vào chuyện thuốc và hóa chất; bé chỉ khóc.",
+  "ten_nguoi_nha": "Mẹ bé (chị Quyên) và bà nội (bà Mận)",
+  "ngoai_hinh": {
+   "da": "#f3cba8",
+   "toc": "#1f1612",
+   "kieuToc": "tre",
+   "ao": "#cfe8d5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e2b48c",
+    "toc": "#241a14",
+    "kieuToc": "dai",
+    "ao": "#e8a7a7",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 22 ngày tuổi nóng nhẹ mấy hôm, nổi mẩn đỏ ở mặt; mẹ xin bác sĩ xem bé bị gì",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · sốt nhẹ, nổi mẩn mặt, bé 22 ngày tuổi",
+   "tiep_don": "Bé trai 22 ngày tuổi, 3,6 kg, mẹ bế đến phòng khám ngoại trú của bệnh viện lúc 9 giờ 20, bà nội ngồi cạnh. Mẹ kể bé nóng nhẹ năm sáu hôm, hôm kia nổi mẩn đỏ ở mặt; xin bác sĩ xem bé bị gì. Sinh hiệu: nhiệt độ nách 38,1 °C, mạch 148 l/p, nhịp thở 48 l/p, SpO₂ 98%. Bé tỉnh, hồng hào, đang ngậm vú.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Hưng về với lời giải thích 'ban do thuốc hoặc hóa chất' rồi hẹn tái khám 2–3 ngày là bỏ sót nhiễm khuẩn nặng chưa loại trừ: bé 22 ngày tuổi sốt thuộc nhóm nguy cơ cao dù bú tốt (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6), virus dương tính vẫn nguy cơ nhiễm khuẩn xâm lấn 1,1–2,1% (AAP 2021, phần đối tượng). Chưa cấy máu, chưa chọc dò tủy thì AAP KAS 13b yêu cầu nằm viện; bé còn là nguồn lây cho người nhà chưa tiêm (QĐ 1019 mục 5.1.1).",
+    "theo_doi": "Giữ bé vài giờ ở phòng khám rồi cho về không trả lời được câu hỏi chính: cấy máu cần 24–36 giờ mới cho ngưng kháng sinh và ra viện (AAP 2021 KAS 14a), chưa chọc dò tủy thì phải nằm viện (KAS 13b). Trong lúc đó bé ở chung khu khám khi sởi lây qua không khí (QĐ 1019 mục 5.1.1), làm phơi nhiễm thêm các bé nhỏ chưa tiêm.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện Nhi tuyến trên là quá tay: bệnh viện này đủ khoa Nhiễm, phòng cách ly, cấy máu và chọc dò tủy; QĐ 1019 mục 3.3 chỉ chuyển khi viêm phổi cần oxy, viêm não, nhiễm khuẩn huyết, suy giảm miễn dịch hoặc bệnh nền nặng, bé chưa có. Chuyển đi làm chậm cấy máu và chọc dò tủy, thêm một chặng xe với bé sơ sinh đang sốt."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em nóng nhẹ mấy hôm nay, hôm kia thì nổi mẩn đỏ ở mặt. Bác sĩ xem giúp em bé bị gì với.",
+   "sinh_hieu": {
+    "mach": 148,
+    "ha": "Không đo",
+    "nhiet": "38,1 (nách)",
+    "nhip_tho": 48,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé nóng nhẹ năm sáu hôm nay, hôm kia nổi mẩn đỏ ở mặt. Mẹ đưa đến xem bé bị gì.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Bé nóng từ 5 hôm trước. Mẹ đo nách bằng nhiệt kế điện tử: buổi tối 38,0–38,2 °C, buổi sáng khoảng 37,6 °C; chưa lần nào quá 38,3 °C. Mẹ không cho thuốc hạ sốt, chỉ cởi bớt đồ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sốt, cách đo, thuốc hạ sốt"
+    },
+    {
+     "id": "viem_long",
+     "noi_dung": "Nghẹt mũi, chảy mũi trong ít, ho vài tiếng khô về đêm, mắt hơi đỏ, ghèn trong buổi sáng. Không khò khè, không thở nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, chảy mũi, đỏ mắt"
+    },
+    {
+     "id": "bu_ngu",
+     "noi_dung": "Bú mẹ hoàn toàn, 8–10 cữ/ngày; giảm nhẹ trong 1 ngày rồi bú lại khỏe. Không nôn, phân vàng 2 lần/ngày, tã ướt trên 6 cái/ngày. Ngủ được, gọi dậy được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tiểu, ngủ (dấu hiệu nguy hiểm sơ sinh)"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Mẩn nổi hôm kia ở sau tai và hai má, hôm nay thêm ở cổ và ngực; thưa, không mụn nước, không chảy dịch. Bé không gãi, không cọ mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ban mọc ở đâu trước, lan thế nào"
+    },
+    {
+     "id": "thuoc_tu_cho",
+     "noi_dung": "Từ hôm bé nóng, mẹ cho bé uống amoxicillin gói 250 mg còn thừa của chị Na: nửa gói pha nước, 2 lần/ngày, đủ 5 ngày; liều cuối là sáng hôm qua. Mẩn nổi vào ngày thứ 4 của thuốc nên mẹ nghi 'thuốc làm bé nổi mẩn'. Không cho paracetamol hay thuốc nào khác.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung thì mẹ nói 'dạ không, chỉ nhỏ vitamin'. Chỉ nói thật khi bác sĩ hỏi cụ thể: thuốc thừa của anh chị, kháng sinh, mấy lần, mấy ngày; hoặc hỏi lại nhẹ nhàng, không trách.",
+     "k": 1,
+     "y": "Thuốc tự cho: tên, liều, số ngày (kháng sinh thừa)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Chị Na (4 tuổi) ốm khi bé mới 4 ngày tuổi: sốt cao 4 ngày, ho, đỏ mắt, rồi nổi ban từ sau tai lan khắp người, cách đây khoảng 14 ngày; hết ban cách nay 1 tuần, da còn vằn nâu. Phòng khám tư nói 'viêm họng, nổi ban nhiệt', cho amoxicillin 5 ngày, không xét nghiệm. Chị Na hay ôm hôn em.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người sốt, nổi ban trong 7–21 ngày trước"
+    },
+    {
+     "id": "tiem_chung_nguoi_nha",
+     "noi_dung": "Chị Na chưa tiêm mũi sởi nào (đến hẹn 9 tháng thì nhà chuyển chỗ ở, quên). Mẹ nhớ hồi nhỏ được 1 mũi sởi. Bố không nhớ. Bà nội không có sổ. Bé mới tiêm BCG và viêm gan B sơ sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêm chủng người nhà và bé"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Chiều 8 hôm trước, tổ dân phố phun thuốc diệt muỗi quanh nhà vì khu phố có vài ca sốt xuất huyết; mẹ bế bé trong phòng ngủ, cửa khép nhưng mùi nồng. Người phun không biết tên thuốc. Sau đó bé không ho sặc, không tím, không nôn, không chảy dãi, không quấy dữ dội. Bé nóng sau đó 3 hôm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Tiếp xúc hóa chất, thời điểm, triệu chứng sau đó"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ 10 ngày tuổi mẹ nhỏ 1 ml vitamin tổng hợp dạng giọt mỗi sáng (thực phẩm chức năng, nhãn có vitamin A, D3, C) 'cho bé khỏe'. Mẹ không rõ hàm lượng. Bé chưa dùng thuốc nào khác trước đợt này.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Vitamin, thực phẩm chức năng (có vitamin A không)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ nghĩ mẩn là phản ứng với amoxicillin do chính mình cho bé uống và sợ đã làm hại con (gan, thận, 'dị ứng thuốc cả đời'). Mẹ thức trắng đêm, sợ bị mắng nên lúc đầu không nói chuyện thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ nói khi bác sĩ hỏi 'chị nghĩ vì sao bé nổi mẩn', 'chị lo điều gì nhất', hoặc hỏi riêng nhẹ nhàng, không trách.",
+     "k": 1,
+     "y": "Nỗi lo thật của mẹ"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không co giật, không tím, không thở rên, không li bì, vẫn khóc to khi đói. Không nôn vọt, không tiêu chảy, không chảy mủ tai, rốn khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm ở sơ sinh"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường 39 tuần, 3,2 kg, Apgar tốt; mẹ không sốt hay bệnh lúc mang thai và chuyển dạ; không vàng da kéo dài. Mẹ uống canxi và sắt sau sinh.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dich_te_sxh",
+     "noi_dung": "Khu phố có vài ca sốt xuất huyết; nhà không có người sốt rét, không đi vùng dịch khác.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "hien": "Cân 3,6 kg. Tỉnh, khóc to, dỗ nín. Môi hồng. Nách 38,1 °C.",
+     "a": "Cân 3,6 kg (sinh 3,2 kg). Nách 38,1 °C; hậu môn bằng nhiệt kế điện tử 38,4 °C, đo lại 38,3 °C. Tỉnh, khóc to dỗ nín, cử động tự nhiên, trương lực bình thường. Môi hồng, niêm mạc ẩm, đổ đầy mao mạch dưới 2 giây, không vàng da.",
+     "k": 1
+    },
+    "da": {
+     "hien": "Ban hồng nhạt thưa ở mặt và cổ; vài nốt ở ngực trên.",
+     "a": "Ban dát sẩn hồng nhạt 2–4 mm, thưa (khoảng 40–50 nốt) ở sau hai tai, trán, hai má và cổ; vài nốt ở ngực trên; vài nốt hợp lại ở má phải. Căng da thì ban nhạt. Bụng, lưng, tay, chân, lòng bàn tay, bàn chân chưa có ban. Không bóng nước, không chấm xuất huyết, không bong da; môi không nứt, lòng bàn tay bàn chân không phù đỏ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt đỏ nhẹ, ghèn trong ít, không mủ, mi không phù; giác mạc trong, đồng tử đều.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "hien": "Mũi chảy dịch trong ít. Họng đỏ nhẹ. Niêm mạc má không thấy hạt trắng. Màng nhĩ hai bên xám hồng, không phồng.",
+     "a": "Mũi chảy dịch trong ít. Soi niêm mạc má bằng đèn pin: không thấy hạt Koplik; lưỡi hồng, không đỏ dâu, không loét. Họng đỏ nhẹ. Màng nhĩ hai bên xám hồng, không phồng, không chảy mủ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm. Vài hạch nhỏ như hạt gạo sau tai, di động; không hạch cổ nào lớn từ 1,5 cm.",
+     "k": 1
+    },
+    "tim": {
+     "hien": "Tim đều, tần số 148 l/p.",
+     "a": "Tim đều nhanh 148 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên đều, bắt rõ.",
+     "k": 0
+    },
+    "phoi": {
+     "hien": "Nhịp thở 48 l/p. Không rút lõm lồng ngực.",
+     "a": "Nhịp thở 48 l/p, đều. Không rút lõm, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối. Gan bờ dưới 1 cm, lách không sờ thấy. Rốn khô, không đỏ.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nhìn theo mặt mẹ, khóc to. Trương lực bình thường, tay chân co duỗi đối xứng; phản xạ bú nuốt tốt, Moro đối xứng. Không co giật.",
+     "k": 1
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú tốt, bú liên tục khoảng 12 phút, nuốt đều, không nghẹt, không bỏ vú giữa chừng. Mũi hơi nghẹt nhưng bé tự thở lại.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "hien": "Cân 3,6 kg; dài 53 cm; vòng đầu 35,5 cm.",
+     "a": "Cân 3,6 kg; dài 53 cm; vòng đầu 35,5 cm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,6 G/L (neu 62% = 2,85 G/L, lym 31% = 1,43 G/L, eos 1%) · Hb 150 g/L · TC 142 G/L",
+     "bang": {
+      "wbc": 4.6,
+      "neu_pct": 62.0,
+      "neu": 2.85,
+      "lym_pct": 31.0,
+      "lym": 1.43,
+      "mono_pct": 6.0,
+      "mono": 0.28,
+      "eos_pct": 1.0,
+      "eos": 0.05,
+      "hgb": 150,
+      "plt": 142
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn; khoảng tham chiếu của sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Hợp sởi: thường giảm bạch cầu, lympho, có thể giảm tiểu cầu (QĐ 1019/2025 mục 2.2.1). ANC 2.850/mm³ dưới ngưỡng bất thường 4.000–5.200 (AAP 2021, Hình 2 chú thích b). Eos 1%: không gợi ban dị ứng (QĐ 1019 mục 2.5). Tiểu cầu 142 G/L trên 100 G/L (QĐ 2760/2023 mục II.1.2)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 7 mg/L",
+     "n": "Dưới ngưỡng bất thường 20 mg/L (AAP 2021, Hình 2 chú thích b). NICE NG143 mục 1.5.3 vẫn yêu cầu CRP cho trẻ dưới 3 tháng sốt."
+    },
+    "pct": {
+     "v": "a",
+     "r": "Procalcitonin 0,12 ng/mL",
+     "n": "Dưới ngưỡng bất thường 0,5 ng/mL (AAP 2021, Hình 2 chú thích b); không bắt buộc khi đã có ANC và CRP."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Mẫu nước tiểu qua thông tiểu: bạch cầu esterase âm, nitrit âm, protein âm.",
+     "n": "NICE NG143 mục 1.5.3; AAP 2021 KAS 8: nước tiểu bằng thông tiểu hoặc chọc trên xương mu."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Đã lấy 1 mẫu máu cấy và 1 mẫu nước tiểu thông tiểu gửi cấy, trước khi tiêm kháng sinh. Kết quả chưa có trong buổi khám.",
+     "n": "NICE NG143 mục 1.5.3, 1.5.5; AAP 2021 KAS 9; WHO 2013 mục 3.8. Đã uống amoxicillin 5 ngày: AAP phần đối tượng, diễn giải theo từng ca; mức giảm độ nhạy cấy: không có trong tài liệu đã tải."
+    },
+    "igm_soi": {
+     "v": "e",
+     "r": "RT-PCR sởi (dịch tỵ hầu): dương tính. IgM sởi huyết thanh gửi cùng lúc, chưa có kết quả.",
+     "n": "QĐ 1019/2025 mục 2.2.3: PCR trong 72 giờ đầu từ phát ban, IgM từ ngày thứ 3; mục 2.4.3: xác định khi lâm sàng kèm IgM hoặc PCR dương."
+    },
+    "ns1": {
+     "v": "a",
+     "r": "NS1 âm tính; IgM Dengue âm tính.",
+     "n": "Chấp nhận, không bắt buộc: NS1 ngày 1–7, IgM từ ngày thứ 5 (QĐ 2760/2023 mục III.1.1)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "a",
+     "r": "Không chọc ở phòng khám ngoại trú; khoa Nhiễm chọc dò tủy ngay sau nhập viện, trước kháng sinh tiêm.",
+     "n": "NICE NG143 mục 1.5.4–1.5.5: mọi trẻ dưới 1 tháng sốt, trước kháng sinh; AAP 2021 KAS 11a–11b: 'có thể' khi chỉ điểm bình thường, 'nên' khi bất thường; Hình 2 chú thích c."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp.",
+     "n": "Không có dấu hô hấp (NICE NG143 mục 1.5.3); thở 48 l/p, phổi không ran."
+    },
+    "pche": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không có hội chứng cường cholin (QĐ 3610/2015 mục 6, tiểu mục 2.1)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Mới 2/5 tiêu chuẩn Kawasaki, PCR sởi dương tính (AHA 2017 Bảng 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sởi, ca bệnh lâm sàng thể không điển hình (sốt nhẹ, viêm long và ban thưa, bú tốt, không thấy hạt Koplik), PCR dương tính, ở sơ sinh 22 ngày tuổi; chưa biến chứng; nguồn lây là chị Na",
+     "ok": 1,
+     "n": "Sốt, ho, chảy mũi, đỏ mắt, ban dát sẩn mọc sau tai, trán, má rồi cổ, nhạt khi căng da (QĐ 1019/2025 mục 2.1.1, 2.4.2); tiếp xúc chị Na cách 13–14 ngày hợp ủ bệnh (mục 2.4.1); PCR dương tính (mục 2.4.3). Sốt nhẹ, ban ít, toàn trạng tốt là thể dễ bị bỏ qua (mục 2.1.2); sởi hiếm ở trẻ dưới 3 tháng (WHO 2013 mục 6.4)."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng đồng nhiễm (nhiễm khuẩn huyết, viêm màng não, nhiễm trùng tiểu)",
+     "ok": 0,
+     "n": "Chưa loại trừ khi chưa có cấy và dịch não tủy: sốt dưới 1 tháng là nhóm nguy cơ cao (NICE NG143 mục 1.2.12, 1.5.3–1.5.6); virus dương tính vẫn nguy cơ 1,1–2,1% (AAP 2021, phần đối tượng). Giữ nằm viện chờ cấy."
+    },
+    {
+     "t": "Rubella",
+     "n": "Rubella: phát ban không có trình tự, ít viêm long (QĐ 1019/2025 mục 2.5). Bé ban mọc theo trình tự, có ho, chảy mũi, đỏ mắt, PCR sởi dương tính."
+    },
+    {
+     "t": "Kawasaki",
+     "n": "Mới 2 trong 5 tiêu chuẩn (ban, kết mạc đỏ); không đỏ môi lưỡi, không phù đỏ bàn tay chân, không hạch cổ (AHA 2017 Bảng 3; QĐ 1019 mục 2.5). Trẻ dưới 6 tháng có thể chỉ sốt kéo dài: hết đợt sởi mà còn sốt thì đánh giá lại (AHA 2017 Hình 3 chú thích 3; Common Pitfalls, tr. e936)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Khu phố có ca bệnh, nhưng bé không sốt cao liên tục, không chấm xuất huyết, tiểu cầu 142 G/L, NS1 và IgM âm (QĐ 2760/2023 mục II.1, III.1.1, III.2). SXHD sơ sinh do mẹ lây sốt trong ngày 1–6 sau sinh (mục IV.C.2.6, tiểu mục 4); bé sốt từ ngày 17."
+    },
+    {
+     "t": "Ban dị ứng, ban do amoxicillin",
+     "n": "Ban dị ứng kèm ngứa, tăng bạch cầu ái toan (QĐ 1019/2025 mục 2.5); bé không gãi, bạch cầu ái toan 1%, ban mọc theo trình tự sởi. Nguy cơ phát ban của amoxicillin ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phản ứng hoặc ngộ độc hóa chất diệt muỗi",
+     "n": "Phun trước khi bé sốt 3 ngày, không có hội chứng cường cholin: da hồng ấm, đồng tử không co, không tăng tiết, tim nhanh (QĐ 3610/2015 mục 6, tiểu mục 2.1). Độc tính hóa chất diệt muỗi thường dùng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Biến chứng sởi: viêm phổi, viêm tai giữa, tiêu chảy, mất nước, viêm kết mạc mủ, viêm não",
+     "n": "Thở 48 l/p dưới 60 l/p (WHO 2013 mục 3.6), phổi không ran, màng nhĩ không phồng, không tiêu chảy, môi ẩm, kết mạc không mủ, tỉnh (QĐ 1019 mục 2.6.2, 2.7.1–2.7.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đo nhiệt độ đúng: nách bằng nhiệt kế điện tử hoặc hậu môn ≥ 38,0 °C; không ủ kín, không lau nước ấm",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn NH-0217 mục 1): nách (NICE NG143 mục 1.1.2) hoặc hậu môn ≥ 38,0 °C ở nhà trong 24 giờ trước hoặc tại cơ sở (AAP 2021, phần đối tượng). Không ủ quá kín (NICE mục 1.6.2–1.6.3)."
+    },
+    {
+     "t": "Nghi sởi: đưa bé và người nhà vào phòng riêng ngay, khẩu trang, báo khoa Nhiễm cho vào thẳng phòng cách ly; lau bề mặt bằng clo hoạt tính 0,05%",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 3.1, 5.1.1 (cách ly đến ít nhất 4 ngày sau phát ban), 5.1.2 (khẩu trang, clo 0,05%). Thời gian thông khí phòng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện khoa Nhiễm (hoặc Nhi), phòng cách ly sởi của chính bệnh viện; không cho về, không chuyển tuyến",
+     "v": "c",
+     "n": "Sốt dưới 1 tháng: NICE NG143 mục 1.2.12, 1.5.3–1.5.7; WHO 2013 mục 3.6, 3.8; QĐ 2341/2024 mục 2.2.2. Bú tốt vẫn nhập viện vì tuổi; sởi ngoại trú chỉ cho ca tỉnh, bú tốt (QĐ 1019 mục 2.6.1, 3.2.1), dưới 12 tháng là nguy cơ nặng (mục 2.3). Đủ nguồn lực nên nhập viện tại chỗ (QĐ 1019 mục 3.3; sổ mâu thuẫn NH-0850 mục 1, NH-0846 mục 1)."
+    },
+    {
+     "t": "Lấy trước kháng sinh: công thức máu, CRP (± procalcitonin), cấy máu, nước tiểu thông tiểu; chọc dò tủy (NICE: mọi trẻ dưới 1 tháng; AAP 22–28 ngày: có thể chọc khi chỉ điểm bình thường, nên chọc khi bất thường)",
+     "v": "c",
+     "n": "Gộp hai cách (sổ mâu thuẫn NH-0217 mục 2): NICE NG143 mục 1.5.3–1.5.5; AAP 2021 KAS 8–11b, Hình 2 chú thích b, c; WHO 2013 mục 3.8. Bé đã uống amoxicillin 5 ngày: vẫn làm đủ, đọc thận trọng (AAP, phần đối tượng: diễn giải theo từng ca)."
+    },
+    {
+     "t": "Kháng sinh tiêm sau khi lấy cấy, khoa nội trú quyết: cefotaxim hoặc ceftriaxon cộng ampicillin, hoặc ceftriaxon 50 mg/kg mỗi 24 giờ (có thể quan sát không dùng thuốc nếu mọi chỉ điểm bình thường), hoặc ampicillin cộng gentamicin",
+     "v": "c",
+     "n": "Ghi cả ba (sổ mâu thuẫn NH-1378 mục 1): NICE NG143 mục 1.5.6–1.5.7; AAP 2021 Bảng 3 (22–28 ngày; chú thích c) và KAS 12c; WHO 2013 mục 3.8, 3.14. Ngưng sau 24–36 giờ nếu cấy âm và bé khỏe (AAP KAS 14a)."
+    },
+    {
+     "t": "Làm RT-PCR sởi dịch tỵ hầu kèm IgM; giải thích cho mẹ: ban là ban sởi, bé bị lây từ chị Na",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 2.2.3 (PCR trong 72 giờ đầu từ phát ban; IgM từ ngày thứ 3, âm mà còn nghi thì làm lại sau 72 giờ hoặc PCR), mục 2.4.3. Báo cáo ca bệnh bắt buộc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng amoxicillin và mọi thuốc tự cho; không ghi 'dị ứng amoxicillin' khi chưa có căn cứ; không kê kháng sinh uống mang về; hỏi riêng mẹ, ghi nhận nỗi lo, không trách",
+     "v": "c",
+     "n": "Kháng sinh trong sởi chỉ cho biến chứng (QĐ 1019/2025 mục 3.2.2); không ngứa, không tăng bạch cầu ái toan (mục 2.5). Đánh giá dị ứng thuốc ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vitamin A uống 50.000 IU, hai liều cách nhau 24 giờ; hỏi chế phẩm vitamin đang dùng, không tính nó là liều điều trị",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 3.2.1, Bảng 1; WHO 2013 mục 6.4.2, tr. 369. Dạng bào chế cho sơ sinh, giới hạn an toàn khi dùng cùng vitamin tổng hợp: không có trong tài liệu đã tải (sổ mâu thuẫn NH-0850 mục 3)."
+    },
+    {
+     "t": "Không dùng thuốc hạ sốt thường quy, không ủ kín, không lau nước ấm (WHO), hoặc chỉ cân nhắc paracetamol khi bé khó chịu, không dùng chỉ để hạ số đo (NICE); tiếp tục bú mẹ",
+     "v": "c",
+     "n": "Gộp hai cách (sổ mâu thuẫn NH-1378 mục 3): WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.2–1.6.6, 1.7.2 (bú mẹ là dịch phù hợp nhất). Liều paracetamol cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truy vết: bố, mẹ, bà nội kiểm tra sổ tiêm; người trên 9 tháng chưa tiêm hoặc 1 mũi trên 28 ngày: vắc xin sởi trong 72 giờ; theo dõi sốt, ban đến 21 ngày; không dùng immune globulin cho bé",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 5.1.3, 2.1.1. Vắc xin cho mẹ đang cho bú, xử trí người quá 72 giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích về hóa chất diệt muỗi: bé không có triệu chứng ngộ độc; không làm cholinesterase",
+     "v": "c",
+     "n": "QĐ 3610/2015 mục 6, tiểu mục 2.1: cần hội chứng cường cholin (+), bé không có. Nguy cơ hóa chất diệt muỗi với sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho liều kháng sinh tiêm đầu ngay tại phòng khám, trước khi lấy cấy máu và chọc dò tủy",
+     "v": "a",
+     "n": "Chấp nhận nhưng không tốt nhất: NICE NG143 mục 1.5.5, WHO 2013 mục 3.8 cấy và chọc dò tủy trước; AAP Hình 2 chú thích c."
+    },
+    {
+     "t": "Cho về điều trị sởi ngoại trú, tái khám 2–3 ngày; hoặc chờ công thức máu, CRP rồi quyết; hoặc giữ ở phòng khám theo dõi vài giờ",
+     "v": "w",
+     "n": "Sởi ngoại trú chỉ cho ca không biến chứng (QĐ 1019/2025 mục 2.6.1, 3.2.1); bé 22 ngày sốt thuộc nhóm nguy cơ cao (NICE NG143 mục 1.2.12); AAP KAS 13b: không chọc dò tủy thì nằm viện; cấy cần 24–36 giờ (KAS 14a)."
+    },
+    {
+     "t": "Chuyển bé lên bệnh viện Nhi tuyến trên",
+     "v": "w",
+     "n": "Bệnh viện đủ khả năng; QĐ 1019 mục 3.3 hạn chế chuyển vì sởi lây cao; chuyển làm chậm cấy máu và chọc dò tủy."
+    },
+    {
+     "t": "Cho ibuprofen hạ sốt; tiêm vắc xin sởi hoặc immune globulin cho chính bé; kê kháng sinh uống vì ban 'sau thuốc', kháng histamin hoặc corticoid toàn thân",
+     "v": "w",
+     "n": "WHO 2013 mục 8.7.1: dưới 3 tháng chỉ dùng paracetamol (sổ mâu thuẫn NH-0217 mục 3); vắc xin sởi cho người trên 9 tháng (QĐ 1019 mục 5.1.3); kháng sinh trong sởi chỉ cho biến chứng (mục 3.2.2); không corticoid khi chưa loại trừ sởi (mục 3.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sởi, ca bệnh lâm sàng thể không điển hình ở sơ sinh 22 ngày tuổi (sốt nhẹ, viêm long nhẹ, ban thưa, không thấy Koplik, bú tốt), xác định bằng RT-PCR dương tính; nguồn lây là chị Na 4 tuổi chưa tiêm",
+     "Sốt ở sơ sinh dưới 1 tháng: nhóm nguy cơ cao dù nhìn khỏe; chưa loại hết nhiễm khuẩn nặng đồng nhiễm vì chưa có kết quả cấy và dịch não tủy",
+     "Chưa biến chứng hô hấp, tai, tiêu hóa, thần kinh; không mất nước; chưa có dấu hiệu cường cholin",
+     "Đã loại trừ tạm: rubella, Kawasaki, sốt xuất huyết Dengue, ban dị ứng hoặc ban do amoxicillin, ngộ độc hóa chất diệt muỗi",
+     "Nhiễu cần xử trí: amoxicillin thừa mẹ tự cho 5 ngày, vitamin tổng hợp, người nhà chưa tiêm đủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (sốt, bú, ban, ai quanh bé sốt hay nổi ban 7–21 ngày trước, thuốc đã cho, hóa chất) → khám → cận lâm sàng (công thức máu, CRP, nước tiểu, cấy, PCR sởi) → chẩn đoán → cách ly, nhập viện (QĐ 1019/2025 mục 2.2.3; NICE NG143 mục 1.5.3).",
+     "Vì sao là sởi dù không điển hình: ban dát sẩn mọc sau tai, trán, má rồi cổ, nhạt khi căng da, kèm ho, chảy mũi, đỏ mắt, sốt trước ban 3 ngày (QĐ 1019/2025 mục 2.1.1), tiếp xúc chị Na cách 13–14 ngày (mục 2.4.1). Sốt nhẹ, ban thưa, toàn trạng tốt là thể 'dễ bị bỏ qua' (mục 2.1.2); Koplik chỉ 'có thể thấy'. Sởi hiếm ở trẻ dưới 3 tháng (WHO 2013 mục 6.4) nên chỉ nghĩ đến khi hỏi về tiếp xúc.",
+     "Điều suýt làm bỏ qua: ban 'sau thuốc' dễ gán dị ứng amoxicillin, phun hóa chất dễ gán hóa chất, khu phố có sốt xuất huyết dễ gán SXH (AHA 2017, Common Pitfalls, tr. e936). Ban dị ứng kèm ngứa và tăng bạch cầu ái toan (QĐ 1019 mục 2.5): bé không ngứa, eos 1%.",
+     "Vì sao nhập viện dù bú tốt: sốt ≥ 38 °C dưới 3 tháng là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); virus dương tính vẫn nguy cơ 1,1–2,1% (AAP 2021); NICE và AAP cùng dẫn đến nằm viện đến khi cấy âm (sổ mâu thuẫn NH-0217 mục 2).",
+     "Nhiễu thuốc: amoxicillin 5 ngày không có chỉ định (QĐ 1019 mục 3.2.2), làm khó đọc cấy; mức giảm độ nhạy: không có trong tài liệu đã tải. Lý do thật của mẹ là sợ đã hại con, chỉ lộ khi hỏi 'chị nghĩ vì sao bé nổi mẩn', 'chị lo điều gì nhất'."
+    ],
+    "phan_tich_xu_tri": [
+     "Cách ly, nhập viện tại chỗ, lấy bệnh phẩm trước kháng sinh, kháng sinh tiêm sau cấy, vitamin A 2 liều, truy vết người nhà: nguồn từng việc ghi ở mục xử trí (QĐ 1019/2025 mục 3.1, 3.3, 5.1; NICE NG143 mục 1.5; AAP 2021 KAS 8–14).",
+     "Không cần: X-quang ngực (không dấu hô hấp), cholinesterase (không cường cholin, QĐ 3610 mục 6), siêu âm tim; NS1, procalcitonin chấp nhận nhưng không bắt buộc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Vitamin A (dạng uống phù hợp sơ sinh, theo khoa dược)",
+      "ham_luong": "Dạng có tại bệnh viện (WHO 2013 tr. 369: viên 50.000 IU)",
+      "lieu": "50.000 IU/lần (trẻ dưới 6 tháng), hai liều cách nhau 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Liều 1 ngay khi vào khoa; liều 2 sau 24 giờ",
+      "so_ngay": "2 liều; liều 3 chỉ khi thiếu vitamin A, suy dinh dưỡng nặng hoặc biến chứng nặng (bé chưa thuộc nhóm)",
+      "ghi_chu": "QĐ 1019/2025 mục 3.2.1, Bảng 1; WHO 2013 mục 6.4.2. Dạng bào chế riêng cho sơ sinh, giới hạn an toàn khi đang dùng vitamin tổng hợp: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh tiêm (sau khi lấy cấy máu và dịch não tủy; khoa nội trú quyết)",
+      "ham_luong": "Ceftriaxon, hoặc cefotaxim cộng ampicillin, hoặc ampicillin cộng gentamicin",
+      "lieu": "Ceftriaxon 50 mg/kg (≈ 180 mg) mỗi 24 giờ (AAP 2021 Bảng 3); hoặc ampicillin 50 mg/kg (≈ 180 mg) mỗi 8 giờ cộng gentamicin 7,5 mg/kg (≈ 27 mg) mỗi ngày; cefotaxim 50 mg/kg mỗi 6 giờ (WHO 2013 mục 3.14, tuần 2–4)",
+      "duong": "Tiêm bắp hoặc tĩnh mạch",
+      "thoi_diem": "Sau khi đã cấy máu, nước tiểu và chọc dò tủy",
+      "so_ngay": "Ngưng sau 24–36 giờ nếu cấy âm và bé khỏe (AAP KAS 14a); quan sát không dùng thuốc cũng chấp nhận khi mọi chỉ điểm bình thường (AAP Bảng 3 chú thích c)",
+      "ghi_chu": "NICE NG143 mục 1.5.7 (không nêu liều). AAP nêu gentamicin 4 mg/kg mỗi 24 giờ cho nhóm 8–21 ngày, thận trọng hơn 7,5 mg/kg của WHO (sổ mâu thuẫn NH-1378 mục 1). Ceftriaxon và canxi ở sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin gói 250 mg còn thừa (mẹ tự cho)",
+      "ham_luong": "Gói 250 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Đã uống 5 ngày; không dùng thêm",
+      "ghi_chu": "Không có chỉ định trong sởi chưa biến chứng (QĐ 1019/2025 mục 3.2.2). Ngưng cả vitamin tổng hợp thực phẩm chức năng trong lúc dùng vitamin A điều trị (giới hạn an toàn: không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị sởi, lây từ chị Na; ban là ban sởi chứ không phải dị ứng thuốc hay hóa chất (QĐ 1019 mục 2.1.1, 2.4.3). Lần sau không tự cho bé uống thuốc của anh chị, nhất là kháng sinh (mục 3.2.2).",
+     "Bé nằm viện vì nhỏ hơn 1 tháng mà sốt: phải lấy máu, nước tiểu, dịch não tủy; cấy máu cần 24–36 giờ (NICE NG143 mục 1.5.3–1.5.6; AAP 2021 KAS 14a).",
+     "Cách ly đến ít nhất 4 ngày sau phát ban; đeo khẩu trang, lau bề mặt bằng clo hoạt tính 0,05% (QĐ 1019 mục 5.1.1, 5.1.2). Bố, bà, mẹ kiểm sổ tiêm, người đủ điều kiện tiêm trong 72 giờ (mục 5.1.3); theo dõi đến 21 ngày. Tạm dừng vitamin tổng hợp."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau ra viện 2 ngày, bé 28 ngày tuổi",
+   "tiep_don": "Tái khám theo hẹn, 2 ngày sau ra viện. Bé trai 28 ngày tuổi, 3,75 kg, mẹ bế đến lúc 9 giờ, bà nội đi cùng, mang giấy ra viện khoa Nhiễm. Sinh hiệu: nhiệt độ nách 36,9 °C, mạch 136 l/p, nhịp thở 42 l/p, SpO₂ 99%. Bé tỉnh, hồng hào, đang bú.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện lại cho bé Hưng vì mẹ lo 'thuốc hại gan thận' là không có chỉ định: bé không sốt, bú tốt, tăng cân, cấy âm sau 36 giờ đã đủ tiêu chí ra viện (AAP 2021 KAS 14a), sởi không biến chứng điều trị ngoại trú (QĐ 1019 mục 2.6.1, 3.2.1). Bé thêm một đợt nằm viện, nguy cơ nhiễm khuẩn bệnh viện (WHO 2013 mục 3.11.2), mẹ mất thêm ngày công.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện Nhi để 'kiểm tra kỹ, thử dị ứng thuốc' là quá tay: không có chỉ định chuyển (QĐ 1019 mục 3.3 chỉ chuyển khi viêm phổi cần oxy, viêm não, nhiễm khuẩn huyết, suy giảm miễn dịch, bệnh nền nặng). Một chặng xe với bé 28 ngày tuổi, chờ đợi nơi đông bệnh nhân, có thể thêm lấy máu không đổi xử trí, còn nỗi lo của mẹ chưa được trả lời."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt rồi, bú khỏe, da còn loang nâu nâu. Giấy ra viện đây ạ. Em vẫn lo chuyện thuốc, bác sĩ xem có cần làm xét nghiệm gì nữa cho chắc không?",
+   "sinh_hieu": {
+    "mach": 136,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 42,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện khoa Nhiễm (nằm 4 ngày): sởi, RT-PCR dịch tỵ hầu dương tính; cấy máu và nước tiểu âm sau 36 giờ; dịch não tủy bình thường; kháng sinh tiêm dùng khoảng 36 giờ rồi ngưng; vitamin A 50.000 IU hai liều cách 24 giờ; hết sốt từ ngày nằm viện thứ 2; ban lan xuống thân, tay chân rồi nhạt dần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn biến và kết quả trong viện"
+    },
+    {
+     "id": "o_nha",
+     "noi_dung": "Về nhà 2 ngày: không sốt lại, bú 8–9 cữ/ngày, tã ướt trên 6 cái, phân vàng 2 lần. Ho vài tiếng khô về đêm. Mắt hết đỏ. Ban nhạt rồi thâm nâu, bong vảy mịn ở mặt, cổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn biến ở nhà: sốt, bú, ho"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không thở nhanh, không khò khè, không rút lõm, không tím, không co giật, không li bì, không nôn, không tiêu chảy; tai không chảy mủ, mắt không ghèn mủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng (phổi, tai, thần kinh, tiêu hóa)"
+    },
+    {
+     "id": "lo_thuoc",
+     "noi_dung": "Mẹ day dứt: sợ bé 'dị ứng amoxicillin cả đời', hỏi có nên ghi vào sổ, có thử dị ứng, thử men gan thận 'cho chắc'. Bà nội bảo 'thuốc kháng sinh thừa hại gan thận cháu'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Nỗi lo về thuốc đã cho"
+    },
+    {
+     "id": "vitamin_hoa_chat",
+     "noi_dung": "Mẹ hỏi có cho bé uống lại vitamin giọt không; bà nội muốn cho thêm 'thuốc bổ' và định lau nhà bằng nước tẩy javen đặc 'cho sạch vi trùng sởi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vitamin, thuốc bổ, hóa chất tẩy"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Chị Na đã khỏi, đã đi học lại. Bố đi tiêm bù mũi sởi ngay hôm bé được chẩn đoán (trong 72 giờ). Mẹ (1 mũi hồi nhỏ) và bà nội theo dõi, chưa ai sốt hay nổi ban.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người nhà sau phơi nhiễm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "hien": "Cân 3,75 kg. Tỉnh, hồng hào, khóc to. Nách 36,9 °C.",
+     "a": "Cân 3,75 kg (3,6 kg lúc nhập viện 6 ngày trước). Nách 36,9 °C. Bé tỉnh, hồng hào, môi ẩm, thóp phẳng, tưới máu tốt, không vàng da.",
+     "k": 1
+    },
+    "da": {
+     "hien": "Da mặt, cổ, thân loang nâu, bong vảy mịn; không ban mới.",
+     "a": "Ban đã nhạt, chuyển nâu xám, bong vảy phấn mịn ở mặt, cổ, ngực; để lại vết thâm vằn như da hổ ở thân và lưng; không ban mới, không bóng nước, không chấm xuất huyết, không bong mảng da; nếp bẹn, mông không hăm loét.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Mắt không đỏ, không ghèn, giác mạc trong.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi thông. Họng hồng. Màng nhĩ hai bên xám hồng, không phồng, không chảy mủ.",
+     "k": 1
+    },
+    "phoi": {
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "a": "Nhịp thở 42 l/p, đều. Không rút lõm, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1
+    },
+    "tim": {
+     "hien": "Tim đều, tần số 136 l/p.",
+     "a": "Tim đều 136 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng; gan bờ dưới 1 cm, lách không sờ thấy; rốn khô.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú tốt, bú khoảng 12 phút, nuốt đều, không nghẹt, tự nhả vú khi no.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,2 G/L · Hb 146 g/L · TC 310 G/L",
+     "n": "Không cần: bé khỏe, không sốt, bú tốt (QĐ 1019/2025 mục 2.2 chỉ nêu xét nghiệm để chẩn đoán và theo dõi biến chứng). Xét nghiệm kiểm tra sau khỏi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP < 5 mg/L",
+     "n": "Không cần: không sốt, không dấu nhiễm khuẩn; lặp lại để 'yên tâm' không đổi xử trí."
+    },
+    "igm_soi": {
+     "v": "n",
+     "r": "Không làm lại.",
+     "n": "Đã xác định bằng PCR ở lượt trước (QĐ 1019/2025 mục 2.4.3)."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Giấy ra viện: cấy máu và nước tiểu âm sau 36 giờ.",
+     "n": "Không lấy mẫu mới; gọi bệnh viện xin kết quả cuối của cấy máu và dịch não tủy (AAP 2021 KAS 14a)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp.",
+     "n": "Không cần: thở 42 l/p, phổi không ran (NICE NG143 mục 1.5.3: chỉ chụp khi có dấu hô hấp); theo dõi lâm sàng viêm phổi (QĐ 1019 mục 2.7.1)."
+    },
+    "liver": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: không vàng da, bú tốt, tăng cân; ảnh hưởng của amoxicillin thừa lên gan thận sơ sinh: không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không cần: tiểu đủ, tăng cân, không phù."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sởi đã qua giai đoạn ban, hồi phục hoàn toàn, không biến chứng (hết sốt, ban thâm bong vảy, bú tốt, không khó thở); cấy khuẩn âm",
+     "ok": 1,
+     "n": "Hồi phục: ban nhạt, xám, bong vảy phấn, vết thâm vằn da hổ; ho có thể kéo dài 1–2 tuần (QĐ 1019/2025 mục 2.1.1). Không biến chứng: tỉnh, bú tốt, không khó thở (mục 2.6.1). Cấy âm sau 36 giờ, bé khỏe: đủ tiêu chí ngưng kháng sinh và ra viện (AAP 2021 KAS 14a)."
+    },
+    {
+     "t": "Viêm phổi bội nhiễm sau sởi",
+     "n": "Viêm phổi là nguyên nhân tử vong phổ biến nhất của sởi (QĐ 1019/2025 mục 2.7.1): không sốt lại, thở 42 l/p (dưới 60, WHO 2013 mục 3.6), phổi không ran."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Biến chứng phổ biến nhất của sởi (QĐ 1019/2025 mục 2.7.2): màng nhĩ xám hồng, không phồng, không chảy mủ."
+    },
+    {
+     "t": "Nhiễm khuẩn muộn hoặc sốt lại sau ra viện",
+     "n": "Không sốt, bú tốt, tăng cân; cấy âm 36 giờ (AAP 2021 KAS 14a). Dặn quay lại nếu sốt từ 38 °C hoặc bú giảm (WHO 2013 mục 3.6)."
+    },
+    {
+     "t": "Dị ứng amoxicillin",
+     "n": "Ban theo trình tự sởi, PCR dương tính (QĐ 1019/2025 mục 2.1.1, 2.4.3); ban dị ứng kèm ngứa, tăng bạch cầu ái toan (mục 2.5). Đánh giá dị ứng thuốc ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thiếu vitamin A hoặc suy dinh dưỡng cần liều vitamin A thứ ba",
+     "n": "Tăng cân, mắt không dấu thiếu vitamin A, không biến chứng nặng (QĐ 1019 mục 3.2.1, Bảng 1; WHO 2013 mục 6.4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng: hết sốt, tỉnh, bú tốt, không khó thở; ban nhạt, thâm, bong vảy; tăng cân; ho vài tiếng có thể kéo dài 1–2 tuần",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 2.1.1, 2.6.1, 3.2.1. Xét nghiệm kiểm tra sau khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không làm lại công thức máu, CRP, PCR, IgM, X-quang ngực, men gan, creatinin 'cho chắc'; nói rõ khi nào mới làm",
+     "v": "c",
+     "n": "Chỉ làm khi sốt lại, thở nhanh, bú giảm, ho tăng (QĐ 1019/2025 mục 2.2, 2.7; NICE NG143 mục 1.5.3)."
+    },
+    {
+     "t": "Gọi bệnh viện xin kết quả cuối của cấy máu và dịch não tủy; ghi vào hồ sơ",
+     "v": "c",
+     "n": "Ngưng kháng sinh khi cấy âm 24–36 giờ và bé khỏe (AAP 2021 KAS 14a)."
+    },
+    {
+     "t": "Không kê thêm thuốc: kháng sinh đã ngưng, vitamin A đã đủ 2 liều; liều thứ ba chỉ khi thiếu vitamin A, suy dinh dưỡng nặng hoặc biến chứng nặng, sau 4–6 tuần (QĐ 1019) hoặc 2–4 tuần nếu có dấu hiệu ở mắt (WHO 2013)",
+     "v": "c",
+     "n": "Gộp hai cách (sổ mâu thuẫn NH-0839): QĐ 1019/2025 mục 3.2.1, Bảng 1; WHO 2013 mục 6.4.1. Bé không thuộc nhóm nào."
+    },
+    {
+     "t": "Giải thích ban là ban sởi (PCR dương), không phải dị ứng amoxicillin: không ghi 'dị ứng amoxicillin' vào sổ khi chưa có căn cứ; xác nhận nỗi lo, không trách; dặn không tự cho thuốc thừa",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 2.1.1, 2.4.3, 2.5. Đánh giá dị ứng thuốc ở sơ sinh, tác hại amoxicillin thừa lên gan thận: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng vitamin tổng hợp thực phẩm chức năng; vitamin D 400 IU/ngày từ tháng thứ hai nếu bú mẹ hoàn toàn; không cho 'thuốc bổ'",
+     "v": "c",
+     "n": "QĐ 3312/2015 (TL-0037), bài 11, mục 6.2, tr. 383. Giới hạn an toàn vitamin A ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đã quá 4 ngày kể từ khi phát ban nên hết thời gian hạn chế tiếp xúc; vệ sinh nhà bằng nước clo hoạt tính 0,05% đúng nồng độ, không lau nước tẩy đặc",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 5.1.1, 5.1.2. Cách pha, thời gian thông khí: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu: sốt từ 38 °C hoặc hạ nhiệt dưới 35,5 °C, bú kém, nôn mọi thứ, thở từ 60 l/p, tím tái, li bì, co giật; hoặc sốt từ 5 ngày",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 3.2.1; WHO 2013 mục 3.6; NICE NG143 mục 1.7.3."
+    },
+    {
+     "t": "Người nhà theo dõi sốt, ban đến 21 ngày sau lần tiếp xúc cuối; người chưa tiêm đủ tiêm đủ lịch; bé tiêm vắc xin sởi khi đủ 9 tháng, vắc xin phối hợp lần 1 khi đủ 2 tháng, hẹn khám cùng buổi tiêm",
+     "v": "c",
+     "n": "QĐ 1019/2025 mục 2.1.1, 5.1.3, 5.2; TT 10/2024 (TL-0005, bản chữ OCR). Hoãn tiêm sau sởi, lịch tái khám riêng sau sởi ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm lại công thức máu, CRP, nước tiểu, X-quang ngực hoặc men gan, creatinin 'cho mẹ yên tâm'",
+     "v": "w",
+     "n": "Không có chỉ định: bé hết sốt, bú tốt, tăng cân, phổi sạch (QĐ 1019 mục 2.6.1; NICE NG143 mục 1.5.3)."
+    },
+    {
+     "t": "Nhập viện lại hoặc chuyển bệnh viện Nhi để 'kiểm tra kỹ, thử dị ứng thuốc'",
+     "v": "w",
+     "n": "Đủ tiêu chí ra viện (AAP 2021 KAS 14a); sởi không biến chứng điều trị ngoại trú (QĐ 1019 mục 3.2.1); chỉ chuyển khi có biến chứng nặng (mục 3.3)."
+    },
+    {
+     "t": "Kê kháng sinh uống 'cho chắc' hoặc ghi 'dị ứng amoxicillin' vào sổ",
+     "v": "w",
+     "n": "Kháng sinh trong sởi chỉ cho biến chứng (QĐ 1019 mục 3.2.2); ban là ban sởi (mục 2.4.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sởi đã qua giai đoạn ban, hồi phục hoàn toàn, không biến chứng, ở sơ sinh 28 ngày tuổi (hết sốt, ban nâu bong vảy, bú tốt, tăng cân, phổi sạch, màng nhĩ bình thường)",
+     "Đã điều trị đủ: vitamin A 2 liều, kháng sinh tiêm 36 giờ vì cấy âm; PCR sởi dương tính",
+     "Không có bằng chứng dị ứng amoxicillin, ngộ độc hóa chất hay tổn thương gan thận trên lâm sàng",
+     "Hết thời gian hạn chế tiếp xúc; người nhà đã xử trí sau phơi nhiễm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (sốt lại, bú, ho, dấu hiệu nguy hiểm, giấy ra viện, nỗi lo của mẹ) → khám (cân, da, tai, phổi, bụng, bú) → quyết định không cần cận lâm sàng → chẩn đoán → dặn dò (QĐ 1019/2025 mục 2.6.1, 3.2.1). Ca đỡ hoàn toàn: việc cần làm là xác nhận khỏi, không làm thêm.",
+     "Vì sao xác nhận khỏi: hết sốt, ban thâm vằn da hổ, bong vảy phấn đúng giai đoạn hồi phục; ho vài tiếng có thể kéo dài 1–2 tuần (QĐ 1019/2025 mục 2.1.1); không biến chứng khi tỉnh, bú tốt, không khó thở (mục 2.6.1); cấy âm sau 36 giờ (AAP 2021 KAS 14a).",
+     "Vì sao không cần xét nghiệm: không dấu viêm phổi, viêm tai, nhiễm khuẩn muộn; xét nghiệm kiểm tra sau khỏi sởi: không có trong tài liệu đã tải. Chỉ làm khi sốt lại, thở nhanh, bú giảm (QĐ 1019 mục 2.7). Sởi làm giảm phản ứng tuberculin (mục 2.7.6).",
+     "Vì sao không ghi dị ứng amoxicillin: ban theo trình tự sởi, PCR dương tính, bạch cầu ái toan 1%, không ngứa (QĐ 1019 mục 2.4.3, 2.5). Nỗi lo 'hại gan thận' trả lời bằng lâm sàng (bú tốt, tăng cân, không vàng da); tác hại amoxicillin thừa: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê thuốc: kháng sinh đã ngưng, vitamin A đủ 2 liều (QĐ 1019 Bảng 1; WHO 2013 mục 6.4.1); gọi bệnh viện xin kết quả cấy cuối (AAP KAS 14a). Vitamin D, vệ sinh nhà, dặn quay lại: nguồn ở mục xử trí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Vitamin A 50.000 IU",
+      "ham_luong": "—",
+      "lieu": "Không kê thêm",
+      "duong": "Uống",
+      "thoi_diem": "—",
+      "so_ngay": "Đã uống đủ 2 liều trong viện",
+      "ghi_chu": "QĐ 1019/2025 mục 3.2.1, Bảng 1; liều 3 chỉ khi thiếu vitamin A, suy dinh dưỡng nặng, biến chứng nặng (bé không thuộc nhóm)."
+     },
+     {
+      "thuoc": "Vitamin D3",
+      "ham_luong": "Dạng giọt vitamin D đơn",
+      "lieu": "400 IU/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Từ tháng thứ hai của đời (sau khi bé tròn 1 tháng tuổi), 1 lần/ngày",
+      "so_ngay": "Duy trì; thời gian dùng: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 3312/2015 (TL-0037), bài 11, mục 6.2, tr. 383: cho trẻ bú mẹ hoàn toàn."
+     }
+    ],
+    "dan_do": [
+     "Bé khỏi sởi, không biến chứng. Ban nâu và bong vảy mịn là giai đoạn hồi phục; ho vài tiếng có thể kéo dài 1–2 tuần (QĐ 1019 mục 2.1.1). Không cần xét nghiệm hay thuốc thêm.",
+     "Chị đã làm đúng khi đưa bé đi khám; ban là ban sởi, không phải dị ứng thuốc. Không tự cho bé uống thuốc của anh chị, nhất là kháng sinh. Không cho vitamin tổng hợp hay thuốc bổ; vitamin D riêng từ tháng thứ hai.",
+     "Đã qua 4 ngày kể từ khi phát ban (QĐ 1019 mục 5.1.1). Lau nhà bằng nước clo hoạt tính 0,05% đúng nồng độ, không dùng nước tẩy đặc (mục 5.1.2).",
+     "Đưa bé đến ngay nếu: sốt từ 38 °C, bú kém, nôn mọi thứ, thở nhanh, tím tái, li bì, co giật (QĐ 1019 mục 3.2.1; WHO 2013 mục 3.6). Người nhà theo dõi đến 21 ngày."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Hưng nhập khoa Nhiễm, vào thẳng phòng cách ly sởi. Cấy máu, nước tiểu, dịch não tủy lấy trước kháng sinh; ceftriaxon sau đó, vitamin A hai liều cách 24 giờ. PCR sởi dương tính; dịch não tủy bình thường, cấy âm, kháng sinh ngưng sau khoảng 36 giờ. Bé hết sốt ngày thứ 2, ra viện sau 4 ngày; tái khám sau 2 ngày: khỏe, tăng cân, không biến chứng. Bố tiêm bù vắc xin sởi kịp 72 giờ; mẹ và bà nội không ai nổi ban. Mẹ bớt day dứt, cất hết thuốc thừa; bé không bị ghi 'dị ứng amoxicillin'.",
+ "nhieu": [
+  "Tự cho bé uống amoxicillin gói thừa của chị Na 5 ngày; mẹ ban đầu chỉ nói 'nhỏ vitamin'. Ban 'sau thuốc' bị gán dị ứng, thuốc làm khó đọc cấy (AAP 2021, phần đối tượng).",
+  "Lý do thật: mẹ nghi ban là tác dụng phụ của thuốc mình cho, sợ đã hại con, ngại nói (su_that 'ly_do_that', giấu; lượt 2 'lo_thuoc').",
+  "Khởi phát tiếp xúc hóa chất: phun thuốc diệt muỗi 3 hôm trước khi bé nóng; mẹ và bà gán nguyên nhân cho hóa chất. Nhiễu, không đổi chẩn đoán.",
+  "Thuốc đang dùng là vitamin thực phẩm chức năng (có vitamin A): hỏi trước khi cho vitamin A; ngưng ở lượt 2.",
+  "Không điển hình: sốt nhẹ, ban thưa, không thấy Koplik, bú tốt; nguồn lây chỉ lộ khi hỏi 'trong nhà ai ốm, ai nổi ban'."
+ ],
+ "bai_hoc_bien": [
+  "Sởi ở sơ sinh hiếm (WHO 2013 mục 6.4) và có thể rất nhẹ (QĐ 1019 mục 2.1.2): hỏi 'trong nhà ai sốt, đỏ mắt, nổi ban trong 3 tuần qua' và soi miệng.",
+  "Ban sau khi dùng thuốc chưa chắc do thuốc: ban dị ứng kèm ngứa, tăng bạch cầu ái toan (QĐ 1019 mục 2.5); AHA 2017 cảnh báo ban sau kháng sinh hay bị quy cho 'phản ứng thuốc'.",
+  "Sơ sinh có sốt: nhập viện làm bộ xét nghiệm dù nhìn khỏe và dù đã biết là sởi (NICE NG143 mục 1.5.3–1.5.7; AAP 2021). Đủ nguồn lực thì nhập viện tại chỗ, có cách ly.",
+  "Tự uống thuốc: hỏi cụ thể 'thuốc thừa của anh chị', tên, số lần, số ngày; hỏi lại không trách; hỏi 'chị nghĩ vì sao bé nổi mẩn' để lộ nỗi sợ thật."
+ ],
+ "diem_nho": [
+  "Sởi điển hình: ủ bệnh 7–21 ngày; viêm long 2–4 ngày; ban dát sẩn từ sau tai, trán, mặt, cổ rồi thân, tứ chi, nhạt khi căng da (QĐ 1019/2025 mục 2.1.1). Thể không điển hình: sốt nhẹ, ban ít, toàn trạng tốt (mục 2.1.2).",
+  "Nguy cơ nặng: dưới 12 tháng, chưa tiêm đủ, suy giảm miễn dịch, suy dinh dưỡng nặng, thiếu vitamin A (QĐ 1019 mục 2.3). Biến chứng phổ biến nhất: viêm tai giữa; tử vong: viêm phổi (mục 2.7).",
+  "Vitamin A dưới 6 tháng: 50.000 IU, hai liều cách 24 giờ; liều 3 sau 4–6 tuần (QĐ 1019 Bảng 1) hoặc 2–4 tuần (WHO 2013 mục 6.4.1). Cách ly đến ít nhất 4 ngày sau ban (mục 5.1.1); vắc xin trong 72 giờ cho người trên 9 tháng (mục 5.1.3).",
+  "Sốt dưới 1 tháng: từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); xét nghiệm và kháng sinh tiêm (mục 1.5.3–1.5.7); AAP 2021 22–28 ngày: CRP > 20 mg/L, procalcitonin > 0,5 ng/mL, ANC > 4.000–5.200; không chọc dò tủy thì nằm viện (KAS 13b); cấy âm 24–36 giờ thì ngưng kháng sinh (KAS 14a).",
+  "Kawasaki: sốt từ 5 ngày kèm ≥ 4/5 tiêu chuẩn; trẻ dưới 6 tháng có thể chỉ sốt kéo dài (AHA 2017 Bảng 3, Hình 3 chú thích 3). Sởi nằm trong chẩn đoán phân biệt."
+ ],
+ "nguon": [
+  "QĐ 1019 – Bộ Y tế, QĐ 1019/QĐ-BYT 2025, Hướng dẫn chẩn đoán và điều trị bệnh Sởi – TL-0238 – ĐÃ ĐỌC: mục 1, 2.1.1, 2.1.2, 2.2.1–2.2.3, 2.3, 2.4, 2.5, 2.6, 2.7, 3.1, 3.2.1 (Bảng 1), 3.2.2, 3.3, 5.1.1–5.1.3, 5.2",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.2–1.5.7, 1.6.2–1.6.6, 1.7.2–1.7.3",
+  "AAP 2021 – Pantell RH et al., Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics 148(2):e2021052228 – TL-0261 – ĐÃ ĐỌC: phần đối tượng, Hình 2 (chú thích b, c), KAS 8–14, Bảng 3",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6, 3.8, 3.10.4, 3.11.2, 3.14 (tr. 69–72), 6.4, 6.4.1, 6.4.2, Phụ lục vitamin A (tr. 369), 8.7.1",
+  "QĐ 2341 – Bộ Y tế, QĐ 2341/QĐ-BYT 2024, Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) – kho cũ tltk-10000-ca (03 Nhi ngoại trú) – ĐÃ ĐỌC: mục 2.2.2 (bản chữ OCR)",
+  "QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – ĐÃ ĐỌC: mục II.1, III.1.1, III.2, IV.C.2.6",
+  "AHA 2017 – McCrindle BW et al., Kawasaki Disease. Circulation 135:e927–e999 – TL-0095 – ĐÃ ĐỌC: Bảng 3, Hình 3 chú thích 3, Common Pitfalls (tr. e936)",
+  "QĐ 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc – TL-0035 – ĐÃ ĐỌC: mục 6, tiểu mục 2.1 (hội chứng cường cholin)",
+  "QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: bài 11, mục 6.2 (tr. 383)",
+  "TT 10/2024/TT-BYT – Danh mục bệnh truyền nhiễm, đối tượng và phạm vi phải sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC: Phụ lục, sởi và lịch tiêm chủng (bản chữ OCR, cần đối chiếu PDF gốc)",
+  "Không có trong tài liệu đã tải: liều amoxicillin uống và nguy cơ phát ban ở sơ sinh; mức giảm độ nhạy của cấy máu, dịch não tủy sau 5 ngày kháng sinh uống; giới hạn an toàn vitamin A ở sơ sinh khi dùng cùng vitamin tổng hợp; dạng bào chế vitamin A riêng cho sơ sinh; liều paracetamol cho sơ sinh; hoạt chất và độc tính hóa chất diệt muỗi với sơ sinh; cách đánh giá dị ứng thuốc ở sơ sinh; xét nghiệm kiểm tra sau khỏi sởi; vắc xin sởi cho mẹ đang cho bú, xử trí người đã quá 72 giờ; hoãn tiêm chủng sau sởi; cách pha và thông khí khi dùng nước clo 0,05%; khoảng tham chiếu công thức máu, CRP sơ sinh."
+ ],
+ "ghi_chu_bien_tap": [
+  "19/11/2026 – viết bản 1. Sơ sinh nam 22 ngày (lượt 1) và 28 ngày (lượt 2), nguồn lực đầy đủ (khoa_cls: null). Lượt 1 nhap_vien tại chỗ, lượt 2 ve_hen; kết cục ổn định.",
+  "Cách đặt biến: tự uống thuốc = amoxicillin thừa của chị Na (giấu); lý do thật = nghi tác dụng phụ của thuốc (giấu); khởi phát hóa chất = phun thuốc diệt muỗi (nhiễu); thuốc đang dùng = vitamin thực phẩm chức năng. Tên chị Na, chị Quyên, bà Mận, phòng khám tư, tổ dân phố là chi tiết hư cấu.",
+  "Tài liệu đã đọc: xem mục nguon. Mâu thuẫn áp dụng mục cũ: NH-0217 (1, 2, 3), NH-1378 (1, 3), NH-0850 (1, 3), NH-0846 (1), NH-0839. Không có mâu thuẫn mới.",
+  "Không có ảnh da: SCIN chỉ có ảnh người lớn hoặc không rõ tuổi, không khớp ban sơ sinh; ban mô tả bằng chữ. Không dùng âm thanh: mạch 148 và 136 l/p không khớp tệp tim nhanh ≈ 115 l/p. Số liệu xét nghiệm và diễn biến trong viện (lượt 2, ket_cuc) là hư cấu hợp lý.",
+  "TT 10/2024 chỉ có bản chữ OCR; khoảng tham chiếu công thức máu sơ sinh không có trong tài liệu nên đánh giá theo ngưỡng AAP; nách 38,1 °C vượt 38,0 °C của NICE, hậu môn 38,4 °C dưới 38,5 °C của AAP, cả hai vẫn dẫn tới nằm viện chờ cấy."
+ ]
+}
