@@ -1,0 +1,713 @@
+{
+ "ma_ca": "NH-0113",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nkhh_tren_cap_so_sinh_hoa_chat_doi_khang_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (nhà vừa sơn lại phòng ngủ, mẹ xịt thuốc diệt muỗi mỗi tối trong phòng kín)",
+  "thuoc_dang_dung": "Vitamin thực phẩm chức năng (siro vitamin tổng hợp 'tăng đề kháng, dùng từ sơ sinh', mẹ tự mua cho bé uống)",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước (đã khám ở phòng khám khác, được bảo 'viêm mũi họng', muốn bác sĩ khám kỹ lại và kê kháng sinh cho chắc)",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Nhật Minh",
+  "tuoi": 0.06,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.85,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai sơ sinh 23 ngày tuổi (lượt 1), chỉ khóc, ngủ, bú. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Minh' hoặc 'cháu'.",
+  "tinh_cach": "Mẹ 29 tuổi, nhân viên ngân hàng đang nghỉ thai sản, con thứ hai (anh trai 3 tuổi đi nhà trẻ). Nói nhanh, quả quyết, hay so sánh với con nhà hàng xóm; nhớ rõ tên thuốc từng dùng cho con lớn. Không cãi gay gắt nhưng lặp lại yêu cầu bằng nhiều cách. Dịu đi khi nghe số liệu cụ thể của chính bé và khi bác sĩ nói trước điều kiện nào bé sẽ được dùng kháng sinh.",
+  "kieu_nhieu": "Đòi kháng sinh: lượt 1 xin 'cho bé uống kháng sinh luôn cho chắc', nhắc gói Augmentin của anh trai; lượt 2 (bé sốt) nói 'đúng như em lo, giờ phải cho thuốc rồi chứ' và chìa gói thuốc. Không chê bác sĩ trước, chỉ nói 'bác sĩ đó khám nhanh'. Giấu: gói Augmentin để sẵn, siro vitamin thực phẩm chức năng; chỉ kể khi bác sĩ hỏi cụ thể.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 29 tuổi, đi cùng, bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#efc4a0",
+   "toc": "#1b1310",
+   "kieuToc": "tre",
+   "ao": "#f4e3a1",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e6b48c",
+    "toc": "#2b1c15",
+    "kieuToc": "dai",
+    "ao": "#8fb8d6",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 23 ngày tuổi hắt hơi, ho khan, khụt khịt 3 ngày, bú ngắt quãng; mẹ sợ viêm phổi do hít mùi sơn",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · bé 23 ngày tuổi",
+   "tiep_don": "Bé trai 23 ngày tuổi, 3,85 kg, mẹ bế đến vì hắt hơi, ho khan, khụt khịt 3 ngày, bú phải ngắt quãng. Nhiệt độ nách 36,9 °C, mạch 146 l/p, nhịp thở 52 l/p, SpO₂ 98%. Bé tỉnh, khóc to, hồng hào.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhận bé Minh nhập viện ngay vì nỗi lo viêm phổi của chị Hạnh, khi bé chưa sốt (nách 36,9 °C), bú trọn cữ, thở 52 l/p dưới ngưỡng 60 l/p của trẻ dưới 2 tháng, không rút lõm, SpO₂ 98% (WHO 2013 mục 3.6, 4.1), là quá tay: quy trình cấy máu, chọc dò tủy, kháng sinh tiêm của NICE NG143 mục 1.5.3–1.5.6 và AAP 2021 dành cho trẻ có sốt. Bé bị chích, tách khỏi nhà, vào nơi nhiều nhiễm khuẩn sơ sinh muộn là mắc ngay trong bệnh viện (WHO 2013 mục 3.4, tr. 51). Mẹ ra về với ý nghĩ 'chỉ nằm viện mới chắc' và chưa được dặn ngưỡng 38,0 °C để tự bảo vệ bé ở nhà.",
+    "chuyen_tuyen": "Gửi bé Minh lên bệnh viện nhi tuyến trên chỉ vì hắt hơi, ho khan 3 ngày và nỗi lo viêm phổi là quá tay: bé không thở nhanh từ 60 l/p, không rút lõm, không rên, phổi không ran, không có dấu hiệu nguy hiểm nào của WHO 2013 mục 3.6; bệnh cảnh là viêm mũi họng/V.A cấp, chủ yếu điều trị triệu chứng (QĐ 5643, Viêm V.A cấp mục 4.1, tr. 139). Gia đình mất nửa ngày đi lại, bé chờ nơi đông trẻ bệnh, trong khi điều mẹ cần là nghe giải thích vì sao không cần kháng sinh; mẹ vẫn giữ ý nghĩ 'bác sĩ nào cũng chẩn đoán qua loa'."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em hắt hơi, ho khan mấy hôm nay, bú một lúc là khụt khịt, nghe thở khò khè. Nhà em mới sơn lại phòng, em sợ bé hít mùi sơn bị viêm phổi. Bác sĩ khám kỹ giùm em, nếu viêm phổi thì cho bé uống kháng sinh luôn nha, em có sẵn thuốc ở nhà rồi.",
+   "sinh_hieu": {
+    "mach": 146,
+    "ha": "Không đo",
+    "nhiet": "36,9 (nách)",
+    "nhip_tho": 52,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba ngày nay bé hắt hơi nhiều, ho khan từng tiếng, khụt khịt; mũi khô, ít nước mũi, lúc ngủ nghe thở khò khè ở mũi. Bú vài nhịp phải nhả vú, khụt khịt rồi ngậm lại. Không ho cơn dài, không sặc, không tím.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, kiểu triệu chứng (ít nước mũi, ho khan)"
+    },
+    {
+     "id": "truoc_do",
+     "noi_dung": "Hai ngày trước mẹ đưa bé đến một phòng khám tư: bác sĩ bảo 'viêm mũi họng', dặn nhỏ nước muối, không kê thuốc. Mẹ nói bé 'không đỡ, còn khò khè' và 'bác sĩ đó khám nhanh, chỉ soi họng'. Hàng xóm có bé 1 tháng viêm phổi phải nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chẩn đoán và xử trí trước đó"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ không tin hẳn chẩn đoán 'cảm thôi' lần trước: muốn bác sĩ này xác nhận không phải viêm phổi và kê kháng sinh cho yên tâm, vì sợ 'để chậm rồi hối hận' như người hàng xóm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Lộ khi bác sĩ hỏi đã khám ở đâu, bác sĩ đó nói gì, chị nghĩ sao, hoặc hỏi chị lo nhất điều gì.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: không yên tâm với chẩn đoán trước"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Sáu ngày trước nhà sơn lại tường và cánh cửa phòng ngủ (sơn dầu, mùi nồng). Hai ngày sau, thấy mùi 'đỡ nhiều', mẹ cho bé nằm lại phòng đó, đóng cửa bật máy lạnh cả ngày. Mỗi tối mẹ xịt thuốc diệt muỗi vào phòng rồi đóng cửa. Bé hắt hơi sau đó một ngày. Mẹ tin 'bé hít sơn nên viêm phổi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc hóa chất (sơn, thuốc xịt muỗi)"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bú mẹ hoàn toàn 8–10 cữ/ngày, bú trọn cữ dù phải ngắt quãng để thở. Thay 6–8 tã ướt/ngày, đi tiêu 3–4 lần/ngày phân vàng. Không nôn, không sặc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt, nôn"
+    },
+    {
+     "id": "nhiet_do",
+     "noi_dung": "Mẹ có nhiệt kế điện tử, đo nách và ghi sổ: mấy ngày nay 36,6–37,2 °C. Chưa lần nào từ 37,5 °C. Mẹ chưa cho bé uống thuốc hạ sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiệt độ ở nhà"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Không tím, không ngưng thở, không rên, không rút lõm ngực, không li bì, không co giật, không vàng da lan, thóp không phồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "nguoi_lay",
+     "noi_dung": "Bố bé sổ mũi, ho khan từ 5 ngày nay, vẫn bế bé; anh trai 3 tuổi đi nhà trẻ cũng sổ mũi. Không ai sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây trong nhà"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ ngày thứ 12 mẹ cho bé uống siro vitamin tổng hợp thực phẩm chức năng ghi 'tăng đề kháng, dùng từ sơ sinh' (nhãn: vitamin A, C, D3, kẽm), hai lần mỗi ngày theo nhãn. Mẹ không coi đó là thuốc nên khai 'bé không uống thuốc gì'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi cụ thể ngoài sữa mẹ bé uống thêm gì (thuốc, vitamin, thực phẩm chức năng, nước lá) hoặc xin xem nhãn.",
+     "k": 0,
+     "y": "Thuốc đang dùng: vitamin thực phẩm chức năng"
+    },
+    {
+     "id": "khang_sinh_san",
+     "noi_dung": "Ở nhà còn gói amoxicillin–clavulanate (Augmentin) bác sĩ kê cho anh trai tháng trước. Mẹ tính: nếu bác sĩ không kê thì tối nay sẽ cho bé uống một phần gói 'cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ở nhà có sẵn thuốc kháng sinh nào không, hoặc hỏi 'nếu bé chưa đỡ chị định làm gì'.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Kháng sinh sẵn ở nhà, ý định tự cho uống"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường 39 tuần, 3.300 g, Apgar 9–10; ối vỡ 2 giờ trước sinh, ối trong; mẹ không sốt khi chuyển dạ. Đã tiêm viêm gan B và BCG. Rốn rụng ngày 7. Vàng da nhẹ hết trước ngày 10.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, khóc to có âm sắc, nín khi mẹ bế và ngậm vú. Hồng hào, mao mạch hồi sắc dưới 2 giây, trương lực tốt. Nhiệt độ nách hai lần cách 15 phút: 36,9 và 36,8 °C.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,85 kg (lúc sinh 3,30 kg). Dài 53 cm, vòng đầu 36 cm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm, không hạch.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc đỏ nhạt, khô, có vảy nhầy khô ở lỗ mũi; sau khi lấy vảy và hút nhẹ, hai lỗ mũi thông, bông đặt trước mũi di động theo hơi thở hai bên. Họng hồng nhẹ, không giả mạc. Thấy một phần màng nhĩ hai bên: xám đục, không phồng, không chảy mủ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 52 l/p đếm đủ 1 phút lúc bé yên. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên. Tiếng khụt khịt truyền xuống ngực, mất sau hút mũi; rì rào phế nang rõ hai bên, không ran, không rít.",
+     "k": 1,
+     "hien": "Nhịp thở 52 l/p. Không rút lõm lồng ngực, không rên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 146 l/p (phù hợp tuổi), T1 T2 rõ, không âm thổi. Mạch bẹn hai bên rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 146 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn đã rụng, khô, không đỏ, không chảy mủ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không vàng ở mặt, ngực, lòng bàn tay, lòng bàn chân. Không ban, không mụn mủ, không chấm xuất huyết.",
+     "k": 0
+    },
+    "quan_sat_bu_me": {
+     "a": "Quan sát trọn một cữ bú: ngậm bắt vú đúng, mút – nuốt hiệu quả; bé nhả vú thở khụt khịt 1–2 nhịp rồi ngậm lại; SpO₂ lúc bú 97–98%; bú hết cữ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh khi kích thích, trương lực chi bình thường, phản xạ bú, phản xạ Moro hai bên cân đối.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 9,6 G/L · Hb 165 g/L · TC 320 G/L",
+     "n": "Không cần: bé chưa sốt, bú tốt. NICE NG143 mục 1.5.3 chỉ định cho trẻ dưới 3 tháng CÓ SỐT; QĐ 5643 (Viêm mũi họng cấp tính mục 3.1.2) thường không cần xét nghiệm."
+    },
+    "crp": {
+     "r": "< 5 mg/L",
+     "n": "Không cần (như công thức máu)."
+    },
+    "cxr": {
+     "r": "Phổi sáng, rốn phổi bình thường, không đông đặc.",
+     "n": "Không cần: NICE NG143 mục 1.5.3 chỉ chụp khi trẻ sốt có dấu hiệu hô hấp; NICE NG9 mục 1.3.7, AAP 2014 KAS 1c không chụp thường quy vì hình ảnh có thể giống viêm phổi. Bé không thở nhanh, không rút lõm, phổi không ran."
+    },
+    "pcr_ho_hap": {
+     "r": "Rhinovirus/Enterovirus dương tính; RSV, cúm A/B, SARS-CoV-2 âm tính.",
+     "n": "Không cần: không đổi xử trí; không tài liệu đã tải đòi PCR hô hấp ở trẻ chưa sốt."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng/V.A cấp), nghĩ do virus, ở sơ sinh nam 23 ngày tuổi, chưa sốt, không dấu hiệu nguy hiểm, bú trọn cữ; có thể có yếu tố kích ứng hơi sơn, thuốc xịt muỗi làm nặng thêm",
+     "ok": 1,
+     "n": "Hắt hơi, ho khan, khụt khịt, nhả vú để thở; bố và anh sổ mũi; mũi thông hai bên sau hút. QĐ 5643 (Viêm V.A cấp mục 3.1.1.1, tr. 137): sơ sinh ngạt mũi, thở miệng, thở nhanh, bỏ bú, màng nhĩ xám đục; bài mô tả sốt cao 40–41 °C, bé chưa sốt nên lệch chuẩn, phải dặn kỹ vì sốt có thể đến sau. Hít chất kích thích (bụi, khói, hóa chất) có thể gây viêm mũi (QĐ 5643, Viêm mũi xoang cấp tính mục 2.2, tr. 108); số liệu riêng cho sơn, thuốc xịt muỗi ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 52 l/p dưới 60 l/p của trẻ dưới 2 tháng (WHO 2013 mục 4.1, tr. 76; mục 3.6, tr. 52); không rút lõm, không rên, SpO₂ 98%, phổi không ran. Mục viêm phổi riêng cho trẻ dưới 2 tháng: không có trong tài liệu đã tải. Viêm phổi hóa học: bé không ho cơn, không khó thở."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Chưa sốt, màng nhĩ xám đục không phồng (QĐ 5643 Viêm V.A cấp mục 3.1.1.1: xám đục do tắc vòi nhĩ). AAP 2013 KAS 1A cần màng nhĩ phồng nhưng chỉ áp cho trẻ 6 tháng–12 tuổi; tiêu chuẩn sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "NICE NG9 mục 1.1.3 cần ho dai dẳng, thở nhanh hoặc rút lõm, khò khè hoặc ran; bé không có. Dưới 6 tuần có thể ngưng thở không dấu khác (mục 1.1.5): dặn ngưỡng quay lại."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng sơ sinh (nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu)",
+     "n": "Chưa sốt, bú trọn cữ, tỉnh, thóp phẳng, không rên, không tím, không yếu tố nguy cơ sinh (WHO 2013 mục 3.4, tr. 51), không dấu hiệu nguy hiểm mục 3.6; nhưng chưa sốt không có nghĩa không thể sốt về sau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích bằng số liệu của bé (thở 52 l/p dưới 60, phổi sạch, chưa sốt, bú trọn cữ) và nói trước khi nào bé cần kháng sinh (sốt từ 38,0 °C thì vào viện, kháng sinh tiêm sau lấy mẫu)",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): cảm lạnh là bệnh virus tự giới hạn, kháng sinh không hiệu quả và không ngăn được viêm phổi (chương 4 áp cho trẻ từ 2 tháng, dùng tinh thần cho bé; hướng dẫn riêng dưới 2 tháng: không có trong tài liệu đã tải); QĐ 5643 (Viêm V.A cấp mục 4.1, tr. 139): kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng. Sổ mâu thuẫn 'Viêm họng đỏ cấp…': QĐ 5643 bài Viêm mũi họng cấp tính (mục 4.1, tr. 135) điều trị như liên cầu khi chưa xét nghiệm; ca này không kháng sinh vì dấu hiệu virus rõ, bé dưới 1 tháng và tài liệu đã tải không có liều kháng sinh uống cho tuổi này."
+    },
+    {
+     "t": "Hút mũi và nhỏ nước muối sinh lý 0,9% trước cữ bú; tiếp tục bú mẹ hoàn toàn, chia cữ nhỏ nếu bé mệt",
+     "v": "c",
+     "n": "QĐ 5643 (Ngạt mũi mục 4.1, tr. 117; Viêm V.A cấp mục 4.2, tr. 139); WHO 2013 mục 4.4 (tr. 91). Số giọt, số lần mỗi ngày cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi kỹ tiếp xúc hóa chất và đưa bé ra khỏi nguồn: cho bé ngủ phòng khác, mở cửa thông gió phòng mới sơn, không xịt thuốc diệt muỗi trong phòng có bé",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi xoang cấp tính mục 2.2, tr. 108 và mục 6, tr. 114): tránh chất kích thích (bụi, khói, hóa chất…). Thời gian thông gió sau sơn, độc tính của sơn hoặc thuốc xịt muỗi ở sơ sinh: không có trong tài liệu đã tải (sổ mâu thuẫn 'Hơi hóa chất làm ho', HH-1388)."
+    },
+    {
+     "t": "Cân, đo, quan sát một cữ bú, kiểm tra vàng da, rốn và tình trạng tiêm chủng",
+     "v": "c",
+     "n": "QĐ 2341/2024 (Phụ lục 4, Bảng kiểm 1, tr. 11: đo nhiệt độ nách, cân, đếm nhịp thở 1 phút, hỏi bú kém, kiểm tra nuôi con bằng sữa mẹ). Ngưỡng tăng cân đạt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi mọi thứ bé được cho uống ngoài sữa mẹ (đọc nhãn siro vitamin) và thuốc kháng sinh còn sẵn ở nhà; dặn không tự cho kháng sinh của người khác",
+     "v": "c",
+     "n": "Mẹ không coi vitamin là thuốc nên chỉ lộ khi hỏi cụ thể. Thành phần, liều, độ an toàn của siro vitamin ở sơ sinh và liều kháng sinh uống cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng hoặc giữ nguyên siro vitamin thực phẩm chức năng sau khi đọc nhãn (không cần cho thêm trong đợt bệnh)",
+     "v": "a",
+     "n": "Hai cách đều chấp nhận: ngưng vì không có chỉ định trong tài liệu đã tải (sổ mâu thuẫn NH-0466); QĐ 5643 nêu 'sinh tố, vitamin C' để nâng đỡ (Viêm mũi họng cấp tính mục 4.3.3, tr. 136; Ngạt mũi mục 4.2, tr. 117) nhưng không liều, không riêng sơ sinh. Không tài liệu nói thực phẩm chức năng này có hại hay có lợi."
+    },
+    {
+     "t": "Hướng dẫn đo nhiệt độ (nách bằng nhiệt kế điện tử, hoặc hậu môn); từ 38,0 °C đưa bé đến khám ngay trong ngày dù còn bú, không cho thuốc hạ sốt trước khi đi",
+     "v": "c",
+     "n": "Hai nguồn: nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần (NICE NG143 mục 1.1.1–1.1.2) hoặc hậu môn ≥ 38,0 °C (AAP 2021, phần đối tượng); cả hai đúng (sổ mâu thuẫn 'Đo nhiệt độ sơ sinh', NH-0217). Dưới 3 tháng từ 38 °C là nguy cơ cao (NICE mục 1.2.12); > 38 °C là dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6, tr. 52); không dùng thuốc hạ sốt kiểm soát sốt ở trẻ nhỏ (WHO 2013 mục 3.10.4)."
+    },
+    {
+     "t": "Dặn đến ngay khi: bú kém, bỏ bú, li bì, co giật, thở từ 60 l/p, rên, rút lõm ngực nặng, tím, ngưng thở, thóp phồng, nhiệt độ từ 38,0 °C hoặc dưới 35,5 °C, vàng da lan xuống lòng bàn tay chân. Hẹn tái khám sau 48 giờ dù bé đỡ",
+     "v": "c",
+     "n": "WHO 2013 mục 3.6 (tr. 52): bú kém, co giật, li bì, thở 60 l/p, rên, rút lõm nặng, > 38 °C, < 35,5 °C, tím; mục 4.4 (tr. 91): quay lại nếu thở nhanh, nặng hơn, không bú được; NICE NG9 mục 1.1.5: dưới 6 tuần có thể ngưng thở không dấu khác; WHO mục 3.9 (tr. 55): thóp phồng. Mốc 2 ngày là mốc IMCI cho trẻ 0–2 tháng (QĐ 2341/2024 Bảng kiểm 3, 4, tr. 13–14); mốc riêng cho viêm mũi họng sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kháng sinh uống (amoxicillin, amoxicillin–clavulanate…) theo kinh nghiệm hoặc 'cho một phần gói của anh'",
+     "v": "w",
+     "n": "Bé có dấu hiệu virus (QĐ 5643 Viêm V.A mục 4.1; WHO 2013 mục 4.4). Liều kháng sinh uống cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải; chọn bên thận trọng như NH-0217, NH-0513, NH-0025 (sổ mâu thuẫn). Kháng sinh dùng trước khi bé sốt còn làm khó diễn giải cấy sau này (AAP 2021, phần đối tượng, tr. 10, mục 4)."
+    },
+    {
+     "t": "Làm công thức máu, CRP, cấy máu, chụp X-quang ngực hoặc chọc dò tủy khi bé chưa sốt, bú tốt, chỉ vì mẹ lo",
+     "v": "w",
+     "n": "NICE NG143 mục 1.5.3–1.5.4 và AAP 2021 dành cho trẻ có sốt; NICE NG9 mục 1.3.6–1.3.7, AAP 2014 KAS 1c không làm thường quy. Bé bị chích, mẹ lo thêm."
+    },
+    {
+     "t": "Cho paracetamol hoặc ibuprofen 'phòng sốt' hoặc khi chưa sốt",
+     "v": "w",
+     "n": "WHO 2013 mục 3.10.4 (tr. 58); NICE NG143 mục 1.6.5; bé không sốt. Liều paracetamol sơ sinh dưới 1 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhỏ mũi thuốc co mạch (naphazolin) hoặc thuốc nhỏ mũi có hoạt chất cho bé",
+     "v": "w",
+     "n": "QĐ 5643 (Ngạt mũi mục 4.1, tr. 117): naphtazolin không dùng cho trẻ sơ sinh; WHO 2013 mục 4.4 (tr. 91): không dùng thuốc nhỏ mũi có thuốc. Chỉ nước muối sinh lý."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng/V.A cấp), nghĩ do virus, ở sơ sinh nam 23 ngày tuổi, 3,85 kg, biểu hiện nhẹ và lệch chuẩn (ho khan, mũi khô, chưa sốt)",
+     "Chưa sốt, bú trọn cữ, không dấu hiệu nguy hiểm; chưa có bằng chứng nhiễm khuẩn nặng sơ sinh; không viêm phổi, không viêm tai giữa cấp, chưa phải viêm tiểu phế quản",
+     "Yếu tố liên quan: nguồn lây trong nhà (bố, anh); hơi sơn và thuốc xịt trong phòng kín có thể làm nặng thêm (không có số liệu trong tài liệu đã tải)",
+     "Thuốc: siro vitamin thực phẩm chức năng; gói kháng sinh của anh còn sẵn, mẹ có ý định cho bé uống. Lý do thật đến khám: không yên tâm với chẩn đoán trước, xin kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, diễn tiến; bú, tã ướt, nôn; ngưng thở, tím, li bì, co giật; đo nhiệt độ chưa; tiền sử sinh (WHO 2013 mục 3.4, tr. 51); đã khám ở đâu, nói gì; nguồn lây; khởi phát (sơn, thuốc xịt); bé uống gì ngoài sữa mẹ; ở nhà có sẵn kháng sinh không. Khám: nhiệt độ nách hai lần, tri giác, thóp, mũi, họng, tai, phổi đếm 1 phút, tim, bụng, rốn, da, cân, quan sát cữ bú. CLS: không cần.",
+     "Nhiễm khuẩn hô hấp trên cấp do virus: hắt hơi, ho khan, khụt khịt, nhả vú, bố và anh sổ mũi; QĐ 5643 (Viêm V.A cấp mục 3.1.1.1, tr. 137) mô tả sơ sinh ngạt mũi, thở miệng, thở nhanh, bỏ bú, màng nhĩ xám đục. Lệch chuẩn vì bài mô tả khởi phát sốt cao 40–41 °C, bé chưa sốt, mũi khô thay vì chảy nước; điều suýt làm lạc hướng là 'khò khè' và 'hít sơn' khiến nghĩ tới viêm phổi hóa học hay viêm tiểu phế quản.",
+     "Không viêm phổi: thở 52 l/p dưới 60 l/p (WHO 2013 mục 4.1, tr. 76), không rút lõm, không rên, SpO₂ 98%, phổi không ran; 'khò khè' là tiếng mũi truyền xuống, mất sau hút mũi. Không viêm tai giữa cấp: không sốt, màng nhĩ không phồng (AAP 2013 KAS 1A chỉ áp 6 tháng–12 tuổi). Không viêm tiểu phế quản: không ho dai dẳng, không thở nhanh hay rút lõm, không ran (NICE NG9 mục 1.1.3). Chưa nghĩ nhiễm khuẩn nặng: chưa sốt, bú trọn cữ, thóp phẳng (WHO 2013 mục 3.6); nhưng quyết định đúng nhờ dữ kiện lúc này, không bảo đảm đêm nay nên phải dặn ngưỡng.",
+     "Hóa chất: mẹ đúng ở chỗ nên tránh hơi sơn và thuốc xịt cho sơ sinh, nhưng chưa đủ chứng cứ coi đó là nguyên nhân chính; nguồn lây rõ hơn là bố và anh. Tài liệu đã tải chỉ nêu hít chất kích thích là yếu tố gây viêm mũi (QĐ 5643, Viêm mũi xoang cấp tính mục 2.2).",
+     "Bài học nghề: người khai 'không cho thuốc' vẫn có thể đang cho vitamin thực phẩm chức năng; người xin kháng sinh có thể đã có thuốc sẵn ở nhà. Hỏi từng thứ, không phán xét."
+    ],
+    "phan_tich_xu_tri": [
+     "Lời thoại khi mẹ đòi kháng sinh: 'Em hiểu chị lo, và chị đưa bé khám lại là đúng vì bé còn rất nhỏ. Em vừa khám kỹ: bé thở 52 lần một phút, chưa tới 60 là mức báo viêm phổi ở bé dưới 2 tháng, ngực không rút lõm, phổi sạch, chưa sốt, bú hết cữ. Đây là cảm do virus, kháng sinh không chữa được cảm và không ngăn được viêm phổi (WHO 2013 mục 4.4). Em hứa một điều: nếu bé sốt từ 38 độ, bé phải vào viện, lấy máu, nước tiểu, có khi chọc dò tủy rồi mới dùng kháng sinh tiêm; lúc đó chị không phải xin. Còn bây giờ thuốc tốt nhất của bé là hút mũi, nước muối, bú mẹ và tránh hơi sơn.' Ghi nhận phần mẹ đúng trước khi giải thích; không chê phòng khám trước.",
+     "Không kháng sinh, không xét nghiệm, không X-quang khi chưa sốt (QĐ 5643 Viêm V.A mục 4.1; NICE NG143 mục 1.5.3; NICE NG9 mục 1.3.6–1.3.7; AAP 2014 KAS 1c). Hút mũi, nước muối, bú mẹ hoàn toàn (QĐ 5643 Ngạt mũi mục 4.1; WHO 2013 mục 4.4); không nhỏ thuốc co mạch (QĐ 5643 Ngạt mũi mục 4.1: naphtazolin không dùng cho sơ sinh).",
+     "Tránh hơi sơn và thuốc xịt: cho bé ngủ phòng thoáng khác, không xịt trong phòng có bé (tinh thần QĐ 5643, Viêm mũi xoang cấp tính mục 6, tr. 114); thời gian thông gió sau sơn: không có trong tài liệu đã tải. Gói kháng sinh của anh: không dùng cho bé; liều kháng sinh uống sơ sinh: không có trong tài liệu đã tải. Siro vitamin: ngưng hay giữ đều chấp nhận.",
+     "Về nhà với ngưỡng rõ: từ 38,0 °C là đến ngay (NICE NG143 mục 1.2.12; WHO 2013 mục 3.6). Sơ sinh có sốt: nhập viện, cấy máu, nước tiểu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.6; AAP 2021 KAS 8–14); nói trước để mẹ không bất ngờ. Tái khám sau 48 giờ (QĐ 2341/2024 Bảng kiểm 3, 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Nhỏ nhẹ mỗi bên mũi rồi hút",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước các cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643 (Ngạt mũi mục 4.1, tr. 117; Viêm V.A cấp mục 4.2, tr. 139); WHO 2013 mục 4.4 (tr. 91). Số giọt, số lần mỗi ngày cho sơ sinh: không có trong tài liệu đã tải. Không kê kháng sinh, không kê thuốc hạ sốt."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus, lây từ bố và anh; không cần kháng sinh, không cần chụp phổi lúc này. Chị đúng một điều: sơ sinh sốt từ 38 độ là phải vào viện ngay, và chị đã có nhiệt kế để làm việc đó.",
+     "Không cho bé uống gói Augmentin của anh và không cho thêm thuốc, nước lá nào khi chưa hỏi bác sĩ. Siro vitamin: không cần cho thêm lúc bệnh; mang nhãn cho bác sĩ ghi hồ sơ.",
+     "Cho bé ngủ phòng thoáng khác, mở cửa phòng mới sơn, không xịt thuốc muỗi trong phòng có bé. Bố và anh rửa tay, đeo khẩu trang khi bế nếu đang ho. Hút mũi, nhỏ nước muối trước cữ bú; bú mẹ hoàn toàn.",
+     "Đo nhiệt độ nách khi bé quấy, nóng hoặc lạnh bất thường. Từ 38,0 °C là đưa bé đến bệnh viện ngay, dù bé vẫn bú; đừng cho thuốc hạ sốt trước khi đi.",
+     "Đến ngay khi: bú kém, bỏ bú, li bì, co giật, thở từ 60 lần/phút, rên, rút lõm ngực, tím, ngưng thở, thóp phồng, nhiệt độ ≥ 38,0 °C hoặc < 35,5 °C (WHO 2013 mục 3.6; NICE NG9 mục 1.1.5). Tái khám sau 48 giờ dù bé đỡ; mang sổ nhiệt độ. Vắc xin phối hợp lần 1 lúc đủ 2 tháng (TT 10/2024)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 2 ngày (bé 25 ngày tuổi)",
+   "tiep_don": "Mẹ đưa bé đến sớm hơn giờ hẹn vì sáng nay bé nóng và bú ít. Bé 25 ngày tuổi, 3,90 kg. Nhiệt độ nách 38,2 °C, mạch 158 l/p, nhịp thở 56 l/p, SpO₂ 98%. Bé tỉnh, khóc to, hơi ngủ lơ mơ khi không bị kích thích.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Minh (25 ngày tuổi, nách 38,2 °C) về nhà với nước muối vì bé còn bú, còn tỉnh, hoặc vì PCR rhinovirus dương: sốt từ 38 °C ở trẻ dưới 3 tháng là nhóm nguy cơ cao (NICE NG143 mục 1.2.12), > 38 °C và bú kém là dấu hiệu nguy hiểm ở sơ sinh (WHO 2013 mục 3.6, tr. 52). AAP 2021 (tr. 10): ở trẻ dưới 28 ngày có virus dương, nguy cơ nhiễm khuẩn xâm lấn vẫn 1,1–2,1% nên làm cùng quy trình. Nếu bé thuộc số ít đó, bé có thể xấu đi trong đêm khi chưa có kết quả cấy nào và chưa được tiêm kháng sinh.",
+    "theo_doi": "Giữ bé ở phòng khám 'quan sát vài giờ', làm CRP, công thức máu rồi cho về nếu bình thường, không thay được nhập viện: AAP 2021 KAS 13b yêu cầu nhập viện khi không có dịch não tủy; KAS 9–10 vẫn cần cấy máu và nước tiểu lấy bằng thông tiểu, theo dõi tới khi cấy âm 24–36 giờ (KAS 14a). Phòng khám ngoại trú không có điều dưỡng quen sơ sinh, không chọc dò tủy hay tiêm kháng sinh kịp khi bé xấu đi."
+   },
+   "loi_mo": "Bác sĩ ơi, đúng như em lo, bé sốt rồi, bú cũng ít hẳn. Em có sẵn Augmentin gói đây, bác sĩ cho bé uống ngay đi, em đã làm đúng mọi thứ bác sĩ dặn rồi mà.",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "38,2 (nách)",
+    "nhip_tho": 56,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dem_sot",
+     "noi_dung": "Năm giờ sáng nay bé nóng, quấy; mẹ đo nách 38,1 °C, đo lại sau 15 phút 38,2 °C, rồi đưa đến ngay. Đêm trước bé còn 37,0 °C. Mẹ không cho thuốc hạ sốt, chỉ cởi bớt quần áo như đã dặn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Sốt mới xuất hiện, đo nhiệt độ ở nhà"
+    },
+    {
+     "id": "bu_kem",
+     "noi_dung": "Từ chiều qua bé bú kém dần: mỗi cữ 5–8 phút rồi ngủ, bỏ hai cữ đêm; tã ướt 4 cái trong 24 giờ (trước đó 6–8). Không nôn. Bé ngủ nhiều hơn nhưng gọi và kích thích vẫn tỉnh, khóc to.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú kém, tã ướt, tri giác (WHO 2013 mục 3.6)"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho khan nhiều hơn, khụt khịt, thở nhanh hơn một chút so với hôm trước. Không tím, không ngưng thở, không rên, không rút lõm. Mũi vẫn khô, ít dịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hô hấp: ho, thở"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Hai ngày qua mẹ làm đúng dặn: hút mũi, nhỏ nước muối trước cữ bú, cho bé ngủ phòng khác, mở cửa phòng sơn, ngưng vitamin, không xịt thuốc muỗi, không cho bất kỳ thuốc nào, kể cả kháng sinh. Gói Augmentin của anh vẫn nguyên, mẹ mang theo vì 'chắc giờ phải dùng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dùng kháng sinh hoặc thuốc nào trước lấy mẫu"
+    },
+    {
+     "id": "doi_khang_sinh",
+     "noi_dung": "Mẹ cho rằng bé sốt là 'đúng như em lo, đã thành nhiễm khuẩn' nên phải uống kháng sinh ngay tại đây, và không muốn nằm viện. Mẹ không cãi nếu được nói rõ vì sao kháng sinh lúc này là kháng sinh tiêm sau lấy mẫu và vì sao phải nhập viện.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Đòi kháng sinh lần 2"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh khi kích thích, khóc to có âm sắc, nín khi mẹ bế, hơi lơ mơ khi để yên. Hồng hào, mao mạch hồi sắc 2 giây, trương lực tốt. Nhiệt độ nách 38,2 °C; hậu môn 38,4 °C. Niêm mạc môi ẩm.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 3,90 kg (lượt 1: 3,85 kg). Dài 53,5 cm, vòng đầu 36 cm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, không phồng. Cổ mềm, không hạch.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc đỏ, ít dịch nhầy đục ở lỗ mũi, hai bên thông sau hút. Họng hồng, không giả mạc. Thấy một phần màng nhĩ hai bên: xám đục, không phồng, không chảy mủ.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 56 l/p đếm đủ 1 phút, đều. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên. Rì rào phế nang rõ hai bên, không ran, không rít.",
+     "k": 1,
+     "hien": "Nhịp thở 56 l/p. Không rút lõm lồng ngực, không rên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 158 l/p (sốt), T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, không đỏ, không chảy mủ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không chấm xuất huyết, không mụn mủ. Khớp không sưng, cử động tay chân bình thường.",
+     "k": 1
+    },
+    "quan_sat_bu_me": {
+     "a": "Bú 6 phút rồi nhả vú ngủ, phải đánh thức bú tiếp; SpO₂ lúc bú 96–98%; không sặc.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh khi kích thích mạnh, trương lực bình thường, phản xạ bú yếu hơn hôm trước, Moro cân đối, không co giật, không run.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Nước tiểu lấy bằng thông tiểu: bạch cầu esterase âm, nitrit âm, protein âm.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "Lấy bằng thông tiểu hoặc chọc trên xương mu; dương tính phải lấy lại để cấy (AAP 2021 KAS 8); NICE NG143 mục 1.5.3."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 12,1 G/L (neu 31% = 3,75 G/L, lym 54%) · Hb 142 g/L · TC 352 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.1,
+      "neu_pct": 31.0,
+      "neu": 3.75,
+      "lym_pct": 54.0,
+      "lym": 6.53,
+      "mono_pct": 12.0,
+      "mono": 1.45,
+      "eos_pct": 2.0,
+      "eos": 0.24,
+      "baso_pct": 1.0,
+      "baso": 0.12,
+      "rbc": 4.2,
+      "hgb": 142,
+      "hct": 0.42,
+      "mcv": 100.0,
+      "mch": 33.8,
+      "mchc": 338,
+      "rdw": 15.0,
+      "plt": 352
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn. AAP 2021 dùng ANC (bất thường khi > 4000–5200/mm³); khoảng tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "ANC 3.750/mm³ dưới ngưỡng 4000 (AAP 2021 Hình 2 chú thích); bạch cầu 12,1 G/L chỉ gây nhiễu nếu đọc theo ngưỡng người lớn. NICE NG143 mục 1.5.3."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 7 mg/L",
+     "n": "Không bất thường: ngưỡng > 20 mg/L (AAP 2021 Hình 2 chú thích); NICE NG143 mục 1.5.3. Không dùng CRP bình thường làm căn cứ cho về."
+    },
+    "pct": {
+     "v": "u",
+     "r": "Procalcitonin 0,19 ng/mL",
+     "n": "Không bất thường: ngưỡng > 0,5 ng/mL, nên lấy nếu cơ sở có (AAP 2021 Hình 2 chú thích b)."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Cấy máu đã lấy trước liều kháng sinh đầu tiên. Kết quả sơ bộ sau 24 giờ, cuối cùng sau 36–48 giờ. Đang chờ.",
+     "n": "AAP 2021 KAS 9; NICE NG143 mục 1.5.3; WHO 2013 mục 3.8 (tr. 54): chọc dò tủy và cấy máu trước kháng sinh khi có thể. Dừng kháng sinh sau 24–36 giờ cấy âm (AAP KAS 14a)."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "u",
+     "r": "Dịch trong; bạch cầu 2/mm³; protein 0,60 g/L; glucose 3,0 mmol/L (đường huyết cùng lúc 4,4); Gram không thấy vi khuẩn. Bác sĩ xét nghiệm kết luận bình thường.",
+     "n": "NICE NG143 mục 1.5.4: mọi trẻ dưới 1 tháng sốt; AAP 2021 KAS 11a–11b, 13b (22–28 ngày có thể bỏ qua khi mọi chỉ điểm bình thường nhưng phải nhập viện). Khoảng bình thường dịch não tủy sơ sinh: không có trong tài liệu đã tải."
+    },
+    "pcr_ho_hap": {
+     "v": "u",
+     "r": "PCR đa tác nhân dịch tỵ hầu: Rhinovirus/Enterovirus dương tính; RSV, cúm A/B, SARS-CoV-2 âm tính.",
+     "n": "Xác định virus; ở trẻ dưới 28 ngày virus dương vẫn phải làm cùng quy trình (AAP 2021, tr. 10)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Phổi sáng, rốn phổi bình thường, không đông đặc.",
+     "n": "NICE NG143 mục 1.5.3: chụp ngực khi có dấu hiệu hô hấp; chụp hay không đều chấp nhận (WHO 2013 mục 4.1, tr. 76: dưới 60 l/p, không rút lõm)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sốt (nách 38,2 °C, hậu môn 38,4 °C) ở sơ sinh 25 ngày nhìn khỏe, do rhinovirus trên nền nhiễm khuẩn hô hấp trên cấp; nhiễm khuẩn xâm lấn chưa loại hết nên nhập viện theo dõi",
+     "ok": 1,
+     "n": "Sốt mới 1 buổi sáng, bú kém, ngủ nhiều hơn, bố và anh còn ho, PCR rhinovirus dương, chỉ điểm viêm, nước tiểu, dịch não tủy bình thường, X-quang sạch. Sốt ở sơ sinh luôn mở quy trình (NICE NG143 mục 1.2.12; AAP 2021)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết, viêm màng não hoặc nhiễm khuẩn tiết niệu sơ sinh",
+     "n": "Chưa loại hết khi cấy máu chưa có kết quả (AAP 2021 KAS 14a: 24–36 giờ). Chỉ điểm và dịch não tủy bình thường, bé tỉnh, hồng, thóp phẳng; vẫn nhập viện theo NICE hoặc AAP."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 56 l/p dưới 60 l/p (WHO 2013 mục 4.1, tr. 76; mục 3.6), không rút lõm, không rên, phổi không ran, SpO₂ 98%, X-quang sạch."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Màng nhĩ thấy một phần xám đục, không phồng, không chảy mủ; AAP 2013 KAS 1A chỉ áp 6 tháng–12 tuổi, tiêu chuẩn sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Không ho dai dẳng kèm thở nhanh hoặc rút lõm, không ran hay khò khè (NICE NG9 mục 1.1.3); RSV âm tính."
+    },
+    {
+     "t": "Viêm phổi hóa học hoặc ngộ độc do hít hơi sơn, thuốc xịt muỗi",
+     "n": "Không ho cơn, không khó thở, SpO₂ 98%, X-quang sạch; tiếp xúc đã dừng 2 ngày mà bé sốt mới. Tài liệu đã tải không mô tả viêm phổi hóa học do sơn, thuốc xịt muỗi ở sơ sinh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra bé đang sốt (nách 38,2 °C; hậu môn 38,4 °C) và xử trí như sốt ở sơ sinh nhìn khỏe, không cho về; không dựa vào việc bé còn tỉnh, còn bú hay PCR rhinovirus dương",
+     "v": "c",
+     "n": "Hai nguồn đo: hậu môn ≥ 38,0 °C (AAP 2021) hoặc nách bằng nhiệt kế điện tử ở trẻ dưới 4 tuần, ngưỡng 38 °C (NICE NG143 mục 1.1.2, 1.2.12; mục 1.1.1 không dùng thường quy đường hậu môn); cả hai đúng (sổ mâu thuẫn 'Đo nhiệt độ sơ sinh', NH-0217). > 38 °C và bú kém là dấu hiệu nguy hiểm (WHO 2013 mục 3.6, tr. 52). Dưới 28 ngày, virus dương vẫn cần cùng xét nghiệm và điều trị (AAP 2021, tr. 10)."
+    },
+    {
+     "t": "Nhập viện ở cơ sở có điều dưỡng, bác sĩ quen chăm sóc sơ sinh; lấy trước kháng sinh: nước tiểu bằng thông tiểu hoặc chọc trên xương mu, cấy máu, công thức máu (ANC), CRP, PCT nếu có",
+     "v": "c",
+     "n": "AAP 2021 KAS 8, 9, 10, 13b; NICE NG143 mục 1.5.2–1.5.3; WHO 2013 mục 3.8 (tr. 54): nhập viện, chọc dò tủy và cấy máu trước kháng sinh khi có thể."
+    },
+    {
+     "t": "Chọc dò tủy và kháng sinh tiêm kinh nghiệm theo NICE (mọi bé dưới 1 tháng có sốt); hoặc theo AAP 2021 (22–28 ngày): chọc dò tủy có thể bỏ qua khi mọi chỉ điểm bình thường nhưng khi đó phải nhập viện, kháng sinh tiêm bắt buộc nếu nước tiểu dương tính hoặc dịch não tủy gợi ý viêm màng não, có thể dùng hoặc không khi tất cả bình thường",
+     "v": "c",
+     "n": "A: NICE NG143 mục 1.5.4–1.5.7: dưới 1 tháng sốt, chọc dò tủy (trừ chống chỉ định) và kháng sinh tiêm. B: AAP 2021 KAS 11a–11b, 12a–12d, 13b, Hình 2. Khác vì NICE nêu một quy tắc cho mọi bé dưới 1 tháng, AAP phân tầng vì nguy cơ viêm màng não thấp hơn ở 22–28 ngày (Hình 2 chú thích c); cả hai đúng (sổ mâu thuẫn 'Sốt ở sơ sinh 22–28 ngày', NH-0217). Chọc dò tủy trước kháng sinh (NICE mục 1.5.5)."
+    },
+    {
+     "t": "Chọn kháng sinh tiêm và liều: ceftriaxone 50 mg/kg/liều × 1 lần/24 giờ (AAP 2021 Bảng 3, 22–28 ngày); hoặc cefotaxim/ceftriaxon cộng ampicillin (NICE NG143 mục 1.5.7, không nêu liều); hoặc ampicillin 50 mg/kg/liều mỗi 8 giờ cộng gentamicin 7,5 mg/kg × 1 lần/ngày (WHO 2013 mục 3.14, tr. 69, 71)",
+     "v": "a",
+     "n": "Ba nguồn khác năm và bối cảnh (AAP Hoa Kỳ 2021; NICE Anh, phủ listeria; WHO 2013 nguồn lực thấp); không nguồn nào nói cách kia gây hại; bệnh viện chọn theo phác đồ và kháng sinh đồ địa phương (AAP Bảng 3 chú thích). Chấm a vì phòng khám chỉ lấy mẫu và chuyển. An toàn ceftriaxone ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cho bé uống Augmentin hay kháng sinh nào khác ở nhà hoặc tại phòng khám trước khi lấy mẫu; không cho thuốc hạ sốt, cởi bớt quần áo",
+     "v": "c",
+     "n": "Kháng sinh gần đây làm khó diễn giải cấy (AAP 2021, tr. 10, mục 4); chọc dò tủy trước kháng sinh (NICE mục 1.5.5). Không dùng thuốc hạ sốt kiểm soát sốt ở trẻ nhỏ (WHO 2013 mục 3.10.4, tr. 58; NICE mục 1.6.5). Liều kháng sinh uống sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi tại bệnh viện cho tới khi cấy âm 24–36 giờ, bé khỏe hoặc đang đỡ (sốt, bú): ngưng kháng sinh và cho ra viện; có kết quả cấy dương thì điều trị đích",
+     "v": "c",
+     "n": "AAP 2021 KAS 7a, 14a, 14c; NICE NG143 mục 1.5.2. Nhiễm khuẩn nặng thật: kháng sinh ít nhất 7–10 ngày (WHO 2013 mục 3.8, tr. 55)."
+    },
+    {
+     "t": "Theo dõi tại nhà kèm kháng sinh tiêm nếu nước tiểu, chỉ điểm viêm, dịch não tủy đều bình thường, có dặn dò bằng lời và văn bản, có phương tiện đến cấp cứu, tái khám sau 24 giờ",
+     "v": "a",
+     "n": "AAP 2021 KAS 12d, 13a; Hình 2 chú thích d. Không chọn làm đáp án chính vì sốt mới vài giờ, bú kém, cấy máu chưa có kết quả; NICE không nêu theo dõi tại nhà."
+    },
+    {
+     "t": "Cho bé về nhà vì CRP, PCT bình thường và rhinovirus dương tính, kê Augmentin uống 'cho chắc'",
+     "v": "w",
+     "n": "NICE NG143 mục 1.2.12, 1.5.3–1.5.6; AAP 2021 KAS 8–10, 13b; virus dương không đổi quy trình ở trẻ dưới 28 ngày (tr. 10). Liều kháng sinh uống sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho paracetamol hoặc ibuprofen 'cho hạ sốt' rồi cho về hoặc chờ tại phòng khám",
+     "v": "w",
+     "n": "WHO 2013 mục 3.10.4 (tr. 58); NICE NG143 mục 1.6.5; che dấu hiệu theo dõi. Liều paracetamol sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho rằng bé sốt do hơi sơn và thuốc xịt muỗi nên chỉ cần tránh hóa chất, không xét nghiệm",
+     "v": "w",
+     "n": "Tài liệu đã tải không mô tả sốt do hít hơi sơn, thuốc xịt muỗi ở sơ sinh; tiếp xúc đã dừng 2 ngày; sốt sơ sinh luôn mở quy trình (NICE NG143 mục 1.2.12)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sốt sơ sinh (nách 38,2 °C, hậu môn 38,4 °C) ở bé nam 25 ngày tuổi nhìn khỏe, do rhinovirus (PCR) trên nền nhiễm khuẩn hô hấp trên cấp",
+     "Chưa loại trừ nhiễm khuẩn xâm lấn: nước tiểu, CRP, PCT, ANC, dịch não tủy bình thường nhưng cấy máu đang chờ",
+     "Không viêm phổi (thở 56 l/p, X-quang sạch), không viêm tai giữa cấp, không viêm tiểu phế quản",
+     "Nặng hơn lượt 1: bú kém, ngủ nhiều hơn, tã ướt ít hơn (dấu hiệu nguy hiểm, WHO 2013 mục 3.6); mẹ tuân thủ dặn dò, không dùng kháng sinh hay thuốc nào"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: sốt từ khi nào, đo ở đâu; bú, tã ướt, nôn, tri giác; hô hấp; đã dùng thuốc gì (kháng sinh, hạ sốt); mẹ làm đúng dặn chưa. Khám: nhiệt độ nách và hậu môn, tri giác, thóp, mũi, họng, tai, phổi 1 phút, bụng, rốn, da, khớp, thần kinh, quan sát cữ bú.",
+     "Điểm bản lề: bé 25 ngày thuộc nhóm 22–28 ngày của AAP 2021 (Hình 2) và nhóm dưới 1 tháng của NICE (mục 1.5.4–1.5.6). Bé nhìn khỏe, PCR rhinovirus dương nhưng AAP (tr. 10) nói virus dương ở trẻ dưới 28 ngày không đổi quy trình. Sốt ở sơ sinh mở một quy trình chứ không đóng lại.",
+     "Kết quả: ANC 3.750 (dưới 4000), CRP 7 (dưới 20 mg/L), PCT 0,19 (dưới 0,5 ng/mL; AAP 2021 Hình 2 chú thích b), nước tiểu thông tiểu và dịch não tủy bình thường, X-quang sạch. Cấy máu cần 24–36 giờ nên chưa cho về. Bạch cầu 12,1 G/L trông cao nếu đọc theo khoảng người lớn nhưng AAP dùng ANC.",
+     "Loại viêm phổi: thở 56 l/p dưới 60 l/p (WHO 2013 mục 4.1, tr. 76), không rút lõm, phổi không ran, X-quang sạch. Loại viêm tai giữa cấp: màng nhĩ không phồng. Mẹ đòi kháng sinh lần này có lý do hơn (bé sốt); điều khác là kháng sinh phải tiêm, sau lấy mẫu, ở nơi theo dõi được. Mẹ đến sớm và không tự cho thuốc là thu hoạch của kế hoạch an toàn lượt 1."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện, theo dõi đến khi có kết quả cấy (AAP 2021 KAS 13b; NICE NG143 mục 1.5.2; WHO 2013 mục 3.8). Nếu nước tiểu, chỉ điểm viêm, dịch não tủy bình thường, AAP cho theo dõi tại nhà kèm tái khám 24 giờ (KAS 13a); chấm chấp nhận.",
+     "Kháng sinh: NICE mục 1.5.6–1.5.7 cho mọi bé dưới 1 tháng sốt; AAP 12a–12d bắt buộc nếu nước tiểu dương hay dịch não tủy gợi ý viêm màng não, có thể dùng khi mọi chỉ số bình thường. Thuốc và liều xem đơn thuốc; dừng sau 24–36 giờ nếu cấy âm và bé khỏe (AAP KAS 14a).",
+     "Không kháng sinh uống trước lấy mẫu; không hạ sốt bằng thuốc (WHO 2013 mục 3.10.4; NICE NG143 mục 1.6.5), cởi bớt quần áo; giữ bú mẹ; nếu li bì thì kiểm tra đường huyết (WHO 2013 mục 3.6).",
+     "Giao tiếp: mẹ đã làm đúng và lần trước cho về là đúng dữ kiện lúc đó; kháng sinh lúc này có chỉ định nhưng là kháng sinh tiêm sau lấy mẫu, không phải Augmentin ở nhà; nhập viện vì tuổi bé không cho phép chờ kết quả ở nhà (NICE NG143 mục 1.2.12)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh tiêm theo kinh nghiệm (nội viện, sau khi lấy cấy máu, nước tiểu, dịch não tủy)",
+      "ham_luong": "Ceftriaxone; hoặc cephalosporin thế hệ 3 cộng ampicillin; hoặc ampicillin cộng gentamicin",
+      "lieu": "Bé 3,9 kg: ceftriaxone 50 mg/kg/liều × 1 lần/24 giờ ≈ 195 mg (AAP 2021 Bảng 3); hoặc ampicillin 50 mg/kg/liều mỗi 8 giờ ≈ 195 mg + gentamicin 7,5 mg/kg × 1 lần/ngày ≈ 29 mg (WHO 2013 mục 3.14, tr. 69, 71); NICE NG143 mục 1.5.7 không nêu liều",
+      "duong": "Tiêm tĩnh mạch hoặc tiêm bắp",
+      "thoi_diem": "Ngay sau khi lấy mẫu, không chờ kết quả cấy",
+      "so_ngay": "Ngưng sau 24–36 giờ nếu cấy âm và bé khỏe (AAP 2021 KAS 14a); nhiễm khuẩn nặng sơ sinh thật: ít nhất 7–10 ngày (WHO 2013 mục 3.8, tr. 55)",
+      "ghi_chu": "AAP 2021 cho phép không dùng khi mọi chỉ số bình thường (KAS 12c) hoặc dùng cả khi theo dõi tại nhà (12d); NICE dùng cho mọi bé dưới 1 tháng sốt (mục 1.5.6). Liều theo phác đồ và kháng sinh đồ bệnh viện. An toàn ceftriaxone ở sơ sinh: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đang sốt, cần nằm viện theo dõi chờ cấy máu dù nhìn khỏe; ở tuổi này nhiễm khuẩn nặng có thể không rõ dấu hiệu (NICE NG143 mục 1.2.12). Kết quả hôm nay bình thường là tin tốt nhưng chưa đủ để cho về.",
+     "Không cho bé uống Augmentin hay thuốc nào trước khi lấy máu, nước tiểu, dịch não tủy; ở bệnh viện bé được tiêm kháng sinh đúng lúc. Không cho thuốc hạ sốt; cởi bớt quần áo, giữ bú mẹ.",
+     "Mẹ làm đúng mọi điều dặn; chính nhờ mẹ đo nhiệt độ và đến sớm nên bé được xử trí kịp. Mẹ không có lỗi vì cho bé ở phòng đã sơn.",
+     "Nếu cấy máu và dịch não tủy âm sau 24–36 giờ (AAP 2021 KAS 14a) và bé khỏe, bé ngưng kháng sinh và ra viện; sau đó vẫn hút mũi, nước muối, bú mẹ. Sau ra viện đến ngay khi sốt lại, bú kém, li bì, thở từ 60 lần/phút, rút lõm, tím, co giật (WHO 2013 mục 3.6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé nhập khoa nhi: cấy máu sau 36 giờ không mọc, nước tiểu và dịch não tủy bình thường, kháng sinh tiêm ngưng sau 36 giờ, hết sốt sau khoảng 20 giờ; ra viện ngày thứ 3 (bé 28 ngày tuổi). Về nhà bé còn nghẹt mũi, ho khan, bú ngắt quãng; tuần đầu tăng cân chậm, mẹ chia cữ nhỏ và hút mũi trước bú. Triệu chứng hô hấp hết hẳn vào ngày thứ 14 của bệnh, chậm hơn mốc 3–5 ngày của QĐ 5643 (Viêm mũi họng cấp tính mục 5.1) nhưng vẫn trong 14 ngày (WHO 2013 mục 4.4); bé không thở nhanh, không sốt lại nên không cần thêm xét nghiệm. Gói Augmentin được trả lại nhà thuốc.",
+ "nhieu": [
+  "Đòi kháng sinh hai lần với hai lý do khác nhau: lần 1 'sợ viêm phổi' khi bé chưa sốt (không chỉ định), lần 2 'bé sốt rồi' (có chỉ định nhưng là kháng sinh tiêm sau lấy mẫu, ở viện).",
+  "Hơi sơn, thuốc xịt muỗi kéo sự chú ý khỏi nguồn lây thật là bố và anh; tài liệu đã tải không có số liệu độc tính của chúng ở sơ sinh.",
+  "Gói kháng sinh của anh để sẵn và siro vitamin thực phẩm chức năng: chỉ lộ khi hỏi cụ thể; mẹ không coi vitamin là thuốc. Chẩn đoán trước ('viêm mũi họng') đúng; điều mẹ cần là khám kỹ lại và biết trước ngưỡng nào sẽ đổi xử trí."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: ghi nhận nỗi lo, khám lại kỹ, nói bằng số liệu của chính bé (thở 52 l/p so với 60 l/p) và hứa trước điều kiện bé sẽ được dùng kháng sinh (sốt từ 38 độ thì vào viện, kháng sinh tiêm). Từ chối kèm kế hoạch an toàn giữ được lòng tin; lần 2 mẹ đến sớm, làm đúng dặn.",
+  "Hỏi cụ thể thuốc ở nhà: kháng sinh còn sẵn và thực phẩm chức năng là hai thứ mẹ không tự kể. Chẩn đoán trước đúng thì nói đúng: không chê đồng nghiệp, khám kỹ lại và xác nhận.",
+  "Nặng hơn khi tái khám là lúc đổi mức chăm sóc: sốt ở sơ sinh luôn mở quy trình nhập viện, lấy mẫu trước kháng sinh; virus dương ở trẻ dưới 28 ngày không đóng quy trình (AAP 2021, tr. 10). Quyết định đúng ở lượt 1 vẫn có thể có diễn tiến xấu hơn.",
+  "Khỏi chậm hơn dự kiến: quỹ đạo bình thường là hết sốt sau 1–2 ngày điều trị, bú lại, không thở nhanh, triệu chứng hô hấp giảm dần trong 14 ngày (WHO 2013 mục 4.4). Bất thường: ho từ 14 ngày, ho cơn, ngưng thở hoặc tím khi ho, chưa tiêm chủng thì nghĩ ho gà, lao, hen, HIV (WHO 2013 mục 4.4, 4.7.1, tr. 111–112); trẻ nhỏ ho gà có thể không có tiếng rít."
+ ],
+ "diem_nho": [
+  "Dưới 2 tháng, thở nhanh là từ 60 l/p; dấu hiệu nguy hiểm ở sơ sinh: bú kém, co giật, li bì, thở 60 l/p, rên, rút lõm nặng, > 38 °C, < 35,5 °C, tím trung ương (WHO 2013 mục 3.6, 4.1).",
+  "Cảm lạnh là bệnh virus tự giới hạn, hầu hết kết thúc trong 14 ngày; không kháng sinh, không thuốc nhỏ mũi có thuốc (WHO 2013 mục 4.4). Viêm V.A cấp ở sơ sinh theo sách có sốt cao 40–41 °C (QĐ 5643 mục 3.1.1.1); ca không điển hình chỉ khụt khịt, ho khan, sốt đến sau.",
+  "Sốt ở trẻ dưới 3 tháng từ 38 °C là nguy cơ cao; dưới 1 tháng: máu, cấy máu, nước tiểu, chọc dò tủy, kháng sinh tiêm (NICE NG143 mục 1.2.12, 1.5.3–1.5.7). AAP 2021: 22–28 ngày phân tầng theo ANC > 4000–5200/mm³, CRP > 20 mg/L, PCT > 0,5 ng/mL; dừng kháng sinh sau 24–36 giờ cấy âm (KAS 14a).",
+  "Đo nhiệt độ sơ sinh: nách (NICE mục 1.1.2) hoặc hậu môn (AAP); không thuốc hạ sốt để kiểm soát sốt ở trẻ nhỏ (WHO 2013 mục 3.10.4). Kháng sinh gần đây làm khó diễn giải cấy (AAP 2021, tr. 10)."
+ ],
+ "nguon": [
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.4, 3.6 (tr. 51–52), 3.8–3.9 (tr. 54–55), 3.10.4 (tr. 58), 3.14 (tr. 69, 71), 4.1 (tr. 76), 4.4 (tr. 90–91), 4.7.1 (tr. 111–112)",
+  "NICE NG143 (2021, cập nhật 2025) – Fever in under 5s – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.2–1.5.7, 1.6.4–1.6.6",
+  "AAP 2021 – Pediatrics 148(2):e2021052228, Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old – TL-0261 – ĐÃ ĐỌC: Bảng 1 (KAS 1–21), Hình 2 (22–28 ngày), Bảng 3, phần Population addressed và 'Positive viral test results' (tr. 9–10)",
+  "NICE NG9 (2015, cập nhật 2026) – Bronchiolitis in children – TL-0260 – ĐÃ ĐỌC: mục 1.1.3, 1.1.5, 1.3.6–1.3.7; AAP 2014 Bronchiolitis – TL-0267 – ĐÃ ĐỌC: KAS 1c",
+  "QĐ 5643/QĐ-BYT 2015 – Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm V.A cấp mục 3.1.1.1, 4.1, 4.2 (tr. 137–139); Viêm mũi họng cấp tính mục 3.1.2, 4.1, 4.3.1, 4.3.3, 5.1 (tr. 134–136); Ngạt mũi mục 2.1, 4.1, 4.2 (tr. 115–117); Viêm mũi xoang cấp tính mục 2.2, 6 (tr. 108, 114)",
+  "QĐ 2341/QĐ-BYT 2024 – IMCI – kho cũ tltk-10000-ca – ĐÃ ĐỌC: Phụ lục 4, Bảng kiểm 1 (tr. 11), Bảng kiểm 3 và 4 (tr. 13–14)",
+  "AAP/AAFP 2013 – Pediatrics 131(3):e964, The diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A và phạm vi áp dụng 6 tháng–12 tuổi",
+  "TT 10/2024/TT-BYT – Danh mục bệnh truyền nhiễm, đối tượng và phạm vi phải sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC: Điều 1 khoản 1 (lịch viêm gan B sơ sinh, BCG, vắc xin phối hợp lần 1); bản chữ OCR, cần xác nhận ở PDF gốc",
+  "Không có trong tài liệu đã tải: độc tính của hơi sơn, thuốc xịt muỗi, thời gian thông gió ở sơ sinh; thành phần, liều, độ an toàn của siro vitamin thực phẩm chức năng ở sơ sinh; liều paracetamol và kháng sinh uống cho sơ sinh dưới 1 tháng; số giọt, số lần nhỏ nước muối; hướng dẫn riêng cho cảm lạnh dưới 2 tháng; tiêu chuẩn viêm tai giữa cấp ở sơ sinh; mốc tái khám riêng cho viêm mũi họng sơ sinh; ngưỡng tăng cân đạt; khoảng tham chiếu công thức máu, dịch não tủy sơ sinh; an toàn ceftriaxone ở sơ sinh"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19 – viết bản 1. Đặc tả sổ cái khớp. Cùng bệnh và nhóm tuổi với NH-0025, NH-0217, NH-0005; khác kịch bản: lượt 1 chưa sốt, mẹ đòi kháng sinh và có sẵn thuốc ở nhà; lượt 2 sốt mới, mẹ tuân thủ, đến sớm, nhập viện ngay.",
+  "Tài liệu đã đọc: TL-0250 (mục 3.4, 3.6, 3.8, 3.9, 3.10.4, 3.14, 4.1, 4.4, 4.7.1), TL-0262, TL-0261, TL-0260, TL-0267, TL-0130, kho cũ QĐ 2341/2024, TL-0271, TL-0005. Liều kháng sinh tiêm lấy từ AAP 2021 Bảng 3 và WHO 2013 mục 3.14; NICE không nêu liều.",
+  "Mâu thuẫn dùng (đã có trong sổ): 'Viêm họng đỏ cấp…' (kháng sinh uống sơ sinh chấm w); 'Đo nhiệt độ sơ sinh' và 'Sốt ở sơ sinh 22–28 ngày' (đề xuất từ NH-0217); thuốc tự mua/thực phẩm chức năng ngưng chấm c (NH-0466); hơi hóa chất: không có tài liệu nêu riêng (HH-1388). Mới đề xuất: chọn thuốc và liều kháng sinh tiêm kinh nghiệm ở sơ sinh 22–28 ngày (NH-0113_mau_thuan.md).",
+  "Âm thanh: phổi AT-PHOI-BT-NL-01; tim AT-TIM-NHANH-01 (mạch 146 và 158 l/p; chữ ghi tần số theo sinh hiệu, quy ước 3.3)."
+ ]
+}
