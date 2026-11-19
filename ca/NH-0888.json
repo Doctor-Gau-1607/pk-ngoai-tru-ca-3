@@ -1,0 +1,538 @@
+{
+ "ma_ca": "NH-0888",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_thuy_dau",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thủy đậu",
+  "chan_doan_phai_loai_tru": [
+   "Tay chân miệng",
+   "Chốc"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi (sơ sinh 24 ngày tuổi, chưa đi đâu ngoài nhà)",
+  "yeu_to_khoi_phat": "Sau dùng thuốc kháng viêm không steroid (NSAID): ibuprofen siro do lần khám trước kê, bé uống 3 ngày",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần (bà nội cho uống), ngoài ibuprofen siro và thuốc bôi do lần khám trước kê",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn (đúng ngày hẹn ghi trên phiếu, không phải vì mẹ thấy bé nặng)"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Khang",
+  "tuoi": 0.07,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 3.7,
+  "chieu_cao": 53,
+  "xung_ho": "Bé trai sơ sinh 24 ngày tuổi, chỉ khóc, ngủ, bú. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Khang' hoặc 'cháu'. Bà nội (63 tuổi) ở cùng nhà, trông bé ban ngày, không đi khám.",
+  "tinh_cach": "Mẹ 29 tuổi, nhân viên bán hàng đang nghỉ thai sản, con thứ hai, lễ phép, nói nhanh, hay lo nhưng cũng hay tự trấn an. Đưa điện thoại ra mỗi khi nói về bệnh vì đã tra mạng suốt mấy hôm nay. Mềm đi khi bác sĩ giải thích bằng dấu hiệu cụ thể, và tự ái khi bị nói 'tra mạng làm gì'.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mẹ tin bé bị tay chân miệng vì có mụn nước, sốt nhẹ và 'chấm đỏ trong miệng', đưa điện thoại có bài báo và ảnh bàn tay trẻ lớn bị tay chân miệng. Mẹ đọc được dòng 'trẻ dưới 1 tháng còn kháng thể của mẹ nên không bị thủy đậu' nên gạt thủy đậu ra khỏi đầu, cũng không nối chuyện anh bé từng bị với bệnh của bé. Mẹ không cãi, nhưng sẽ lặp lại 'trên mạng nói là...' nếu bác sĩ bác bỏ thẳng; dịu đi khi bác sĩ đồng ý chỗ mẹ nói đúng (có mụn nước, có lây) rồi chỉ ra từng điểm khác bằng cách cho mẹ nhìn bé. Giấu: thuốc bắc của bà nội và gói siro hạ sốt chỉ kể khi bác sĩ hỏi thẳng thuốc đã uống.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 29 tuổi, đi cùng, bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ngủ, bú.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f0c9a8",
+   "toc": "#1d1511",
+   "kieuToc": "tre",
+   "ao": "#cfe3f0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh_thuong",
+   "nguoiNha": {
+    "da": "#e6b48d",
+    "toc": "#2a1c15",
+    "kieuToc": "dai",
+    "ao": "#e8b4bc",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 24 ngày tuổi nổi mụn nước khắp người, sốt nhẹ, đến tái khám theo hẹn",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Sáng thứ Tư, 11 giờ, phòng khám nhi đang đông. Mẹ bế bé trai 24 ngày tuổi, đưa phiếu hẹn 'Tái khám sau 3 ngày' của lần khám trước. Cân 3,70 kg. Nhiệt độ nách 38,1 °C, mạch 158 l/p, nhịp thở 48 l/p, SpO₂ 98%. Bé nằm trong lòng mẹ, mở mắt khi được gọi, khóc to khi bị cởi áo.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bé Khang về với phiếu hẹn 1–2 ngày vì 'bé còn bú, chỉ là virus' là bỏ sót nhóm nguy cơ cao: sơ sinh 24 ngày, nhiệt độ từ 38 °C (NICE NG143 mục 1.2.12), bú kém và ngủ nhiều là dấu hiệu nặng kín đáo; thủy đậu ở sơ sinh có thể tiến triển nặng, gây viêm phổi, viêm cơ tim (QĐ 5642/2015, Thủy đậu mục 1, tr. 22). Cấy máu, chọc dò tủy, kháng sinh tiêm (NICE mục 1.5.3–1.5.7) bị bỏ qua; nếu có nhiễm khuẩn xâm lấn đi kèm thì mất thời gian quý. Chai ibuprofen và gói thuốc bắc chưa ai thu lại nên có thể vẫn cho bé uống tiếp, và bé còn lây trong nhà có anh mới đi học lại.",
+    "theo_doi": "Giữ bé Khang ở phòng khám vài giờ không thay được nhập viện: cấy máu phải chờ 36–48 giờ, chọc dò tủy và kháng sinh tiêm (NICE NG143 mục 1.5.3–1.5.7) cần đội nhi–sơ sinh, phòng khám không có giường theo dõi sát và không cách ly được khi bé còn lây đến khi nốt đóng vảy (CDC 2024, Patient management – Isolation). Bé ngồi chung phòng chờ với trẻ nhỏ và mẹ bầu là đưa thủy đậu đến người chưa miễn dịch (CDC 2024, Who is at risk). Sau vài giờ tình trạng có thể chưa đổi nên mẹ muốn về, chuyển viện lúc đó thường chậm hơn chuyển ngay."
+   },
+   "loi_mo": "Chào bác sĩ, em đưa bé đi tái khám đúng hẹn ạ. Bé nhà em sốt nhẹ, người nổi mụn nước, em tra mạng thấy giống tay chân miệng lắm, trong miệng bé cũng có chấm đỏ. Bác sĩ khám giúp em, cho bé thuốc để mau khỏi nha.",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "38,1 (nách)",
+    "nhip_tho": 48,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé 24 ngày tuổi nổi mụn nước khắp người từ hai hôm nay, sốt nhẹ. Hôm nay đúng ngày hẹn tái khám ghi trên phiếu nên mẹ đưa đến. Mẹ tra mạng thấy giống tay chân miệng, hỏi bác sĩ có phải không và muốn có thuốc cho bé mau khỏi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, ý mẹ"
+    },
+    {
+     "id": "dien_tien_ban",
+     "noi_dung": "Ba hôm trước (bé 21 ngày) chỉ có vài nốt đỏ nhỏ ở bụng, kèm sốt nhẹ. Hôm qua nốt mọc thêm ra lưng, ngực, tay chân, lên cả da đầu và mặt; có nốt trong như giọt nước, hôm nay vài nốt đục hơn, vài nốt khô lại. Bé hơi quấy khi chạm vào nốt. Mẹ thấy 'chấm đỏ' trong miệng bé khi bé há khóc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến ban: mọc thành từng đợt, nhiều giai đoạn, lan toàn thân"
+    },
+    {
+     "id": "bu_ngu",
+     "noi_dung": "Hai cữ bú gần nhất bé bú ít hơn thường lệ, bú vài phút rồi buông, phải đánh thức mới chịu bú; giữa các cữ ngủ nhiều hơn mấy hôm trước, nhưng gọi thì dậy, khóc to. Tã ướt khoảng 6 lần mỗi ngày, phân vàng mềm, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng kín đáo ở sơ sinh: bú kém, ngủ nhiều"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé không co giật, không tím, không thở nhanh hay rên, không nôn vọt, không bụng chướng, không vàng da, không chảy dịch rốn, không có gì chảy ra từ mắt. Ở nhà mẹ đo nách 38,0 độ hai lần trong ba ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, sốt ở nhà"
+    },
+    {
+     "id": "tiep_xuc_anh",
+     "noi_dung": "Anh của bé, Gia Huy 5 tuổi, chưa tiêm vắc xin thủy đậu, nổi mụn nước khoảng 18 ngày trước (lúc bé 6 ngày tuổi), được bác sĩ phòng khám gần nhà chẩn đoán thủy đậu, nghỉ học 10 ngày, nay đã đóng vảy hết, đi học lại. Hai ngày đầu anh nổi mụn, anh và bé vẫn ngủ chung phòng; mẹ bế bé nhiều. Mẹ không nghĩ chuyện này liên quan vì bé 'còn nhỏ quá, có kháng thể của mẹ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi có ai trong nhà hoặc quanh bé nổi mụn nước, bị bệnh truyền nhiễm, hay anh chị em đi học trong ba tuần qua.",
+     "k": 1,
+     "y": "Tiếp xúc nguồn lây 15–17 ngày trước (ủ bệnh 10–21 ngày)"
+    },
+    {
+     "id": "me_mien_dich",
+     "noi_dung": "Bé sinh thường đủ tháng 39 tuần, nặng 3,2 kg, không vàng da nặng, không thở máy, tiêm lao và viêm gan B sơ sinh. Mẹ không bị thủy đậu hay zona trong thai kỳ cũng như lúc sinh và sau sinh. Hồi nhỏ mẹ từng bị thủy đậu (nhớ vì mẹ kể lại), chưa thử kháng thể. Chưa ai trong nhà tiêm vắc xin thủy đậu ngoài lần anh bị bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, mẹ có thủy đậu quanh sinh hay không; miễn dịch của mẹ"
+    },
+    {
+     "id": "lan_kham_truoc",
+     "noi_dung": "Ba ngày trước (bé 21 ngày), mẹ đưa bé đến phòng khám này khám vì sốt nhẹ và vài nốt đỏ ở bụng. Bác sĩ trực hôm đó (nay không có mặt, phiếu hẹn chỉ ghi 'Tái khám sau 3 ngày') nói do nóng, rôm sảy, không đo hậu môn, không xét nghiệm, kê siro hạ sốt và thuốc bôi, bảo bé còn bú tốt thì cứ theo dõi ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lần khám trước và xử trí"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Mẹ mang theo chai siro nhỏ bác sĩ kê hôm trước: nhãn ghi ibuprofen 100 mg/5 mL. Mẹ nhớ là 'siro hạ sốt màu cam', không rõ tên. Mỗi lần mẹ cho bé uống một lượng nhỏ theo thước chia trong hộp, ngày 3 lần, đã uống 3 ngày (tổng khoảng 8 lần); lần gần nhất 6 giờ sáng nay, cách lúc khám khoảng 5 giờ. Thuốc bôi kê kèm: kem bôi ngoài, mẹ bôi vài lần ở bụng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé đang uống thuốc gì' thì mẹ chỉ nói 'thuốc hạ sốt bác sĩ cho'. Chỉ nói tên thuốc và đưa chai khi bác sĩ hỏi cụ thể thuốc kê lần trước, đã uống mấy lần, lần gần nhất, hoặc xin xem chai thuốc.",
+     "k": 1,
+     "y": "NSAID ở sơ sinh (yếu tố khởi phát); thuốc che sốt"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Từ hôm kia bà nội cho bé uống gói thuốc bắc bà mua ở tiệm thuốc đông y đầu chợ để 'giải nhiệt, hết mụn nóng': pha một nhúm bột với nước ấm, đút từng thìa, ngày 2 lần, lần cuối tối qua. Gói thuốc để ở nhà, không ai biết thành phần; mẹ không đồng ý nhưng ngại cãi bà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể vì sợ bà bị trách. Chỉ nói khi bác sĩ hỏi bà nội hoặc người trông bé có cho uống thêm thuốc nam, thuốc bắc, thuốc cam hay thuốc gì khác không, hỏi nhẹ nhàng không quy trách nhiệm.",
+     "k": 1,
+     "y": "Thuốc bắc không rõ thành phần"
+    },
+    {
+     "id": "me_tra_mang",
+     "noi_dung": "Mẹ đưa điện thoại: bài báo 'tay chân miệng ở trẻ nhỏ' và ảnh bàn tay trẻ lớn nổi bóng nước; mẹ nói bé có mụn nước và chấm đỏ trong miệng nên giống lắm. Mẹ cũng đọc 'bé dưới 1 tháng còn kháng thể của mẹ nên không bị thủy đậu', hỏi 'có đúng không bác sĩ', không cãi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mang chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra mẹ đến vì phiếu hẹn ghi hôm nay. Nếu không có hẹn mẹ định ở nhà thêm vài ngày, vì lần trước bác sĩ bảo không sao, bé vẫn bú, và mẹ ngại mang bé đi ra ngoài trong lúc anh mới đi học lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi mẹ vì sao hôm nay đưa bé đến, nếu không có phiếu hẹn mẹ có định đến không, hoặc mẹ lo điều gì nhất.",
+     "k": 0,
+     "y": "Lý do thật: tái khám theo hẹn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 3,70 kg (sinh 3,2 kg). Nhiệt độ nách 38,1 °C; hậu môn bằng nhiệt kế điện tử 38,3 °C. Bé tỉnh khi đánh thức, khóc to, dỗ nín được sau khoảng 20 giây, mao mạch hồi sắc dưới 2 giây, môi hồng, niêm mạc ẩm, không vàng da, không nổi vân tím. Trương lực và vận động tự nhiên bình thường.",
+     "k": 1,
+     "hien": "Cân 3,70 kg. Tỉnh khi đánh thức, khóc to, dỗ nín. Môi hồng. Nách 38,1 °C."
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút và nuốt tốt nhưng bú ngắt quãng, nghỉ nhiều lần, buông vú sau khoảng 8 phút, tỉnh lại khi vỗ nhẹ lòng bàn chân. Không sặc, không nôn trớ, không bỏ bú.",
+     "k": 1,
+     "hien": "Bú ngắt quãng, nghỉ nhiều lần, buông vú sau khoảng 8 phút; tỉnh lại khi vỗ nhẹ lòng bàn chân."
+    },
+    "da": {
+     "a": "Khoảng 25–30 tổn thương 2–5 mm rải rác ở da đầu, mặt (3 nốt), ngực, bụng quanh rốn, lưng, hai tay, hai chân; nhiều nhất ở thân. Cùng một vùng da có đủ các giai đoạn: dát sẩn đỏ, mụn nước trong như giọt sương có viền đỏ, vài nốt dịch đục, vài nốt lõm giữa, 2–3 nốt đã đóng vảy nhỏ. Lòng bàn tay, bàn chân, mông, vùng tã: da bình thường. Không bọng nước lớn, không vảy tiết vàng mật ong, không đỏ lan hay sưng nóng quanh nốt, không bầm tím. Rốn khô, không đỏ.",
+     "k": 1,
+     "hien": "Bé cởi áo, tã. Khoảng 25–30 tổn thương 2–5 mm rải rác ở da đầu, mặt (3 nốt), ngực, bụng quanh rốn, lưng, hai tay, hai chân; nhiều nốt ở các giai đoạn khác nhau. Lòng bàn tay, bàn chân, mông, vùng tã: da bình thường.",
+     "media": [
+      {
+       "vi_tri": "Bụng quanh rốn",
+       "id": "HA-DA-0026",
+       "chu": "Nhiều sẩn đỏ nhỏ rải rác ở bụng quanh rốn, vài nốt có chấm mụn nước hoặc vảy nhỏ ở đỉnh; các tổn thương ở những giai đoạn khác nhau."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Miệng: hai nốt trợt nông 2 mm viền đỏ ở khẩu cái mềm, không giả mạc, không mảng trắng. Họng đỏ nhẹ. Mũi thông. Tai: màng nhĩ không khám rõ do ống tai nhỏ.",
+     "k": 1,
+     "hien": "Họng đỏ nhẹ, vài chấm đỏ nhỏ ở khẩu cái. Mũi thông."
+    },
+    "tim": {
+     "a": "Tim đều nhanh 158 l/p (có sốt), T1 T2 rõ, không âm thổi. Mạch bẹn hai bên đều, bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 48 l/p, đều, không rút lõm lồng ngực, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 48 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối. Gan bờ dưới 1 cm, lách không sờ thấy. Rốn khô, không chảy dịch.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Thóp trước phẳng, mềm. Cổ mềm. Trương lực cơ bình thường, phản xạ bú và Moro đủ. Không co giật, không run, không giật mình bất thường.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Cổ mềm. Vận động tự nhiên đều hai bên."
+    },
+    "dau_mat_co": {
+     "a": "Không hạch to ở cổ. Thóp trước phẳng, mềm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 9,4 G/L (neu 30% = 2,82 G/L, lym 56%) · Hb 150 g/L · TC 310 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 30.0,
+      "neu": 2.82,
+      "lym_pct": 56.0,
+      "lym": 5.26,
+      "mono_pct": 11.0,
+      "mono": 1.03,
+      "eos_pct": 2.0,
+      "eos": 0.19,
+      "baso_pct": 1.0,
+      "baso": 0.09,
+      "rbc": 4.6,
+      "hgb": 150,
+      "hct": 0.44,
+      "mcv": 100.0,
+      "mch": 33.0,
+      "mchc": 340,
+      "rdw": 15.0,
+      "plt": 310
+     },
+     "ghi_chu_mau": "Khoảng tham chiếu in trên phiếu là của người lớn. Khoảng tham chiếu bạch cầu, Hb ở sơ sinh: không có trong tài liệu đã tải.",
+     "n": "NICE NG143 2021 mục 1.5.3: công thức máu cho trẻ dưới 3 tháng có sốt. Kết quả: bạch cầu bình thường như trong nhiễm virus (QĐ 5642/2015, Thủy đậu mục 3.2, tr. 23); ANC 2.820/mm³ dưới mức tham chiếu 4.000–5.200 mà AAP 2021 dùng để gợi ý nhiễm khuẩn xâm lấn (AAP 2021, Hình 2 chú thích; chỉ để tham khảo, AAP không áp dụng cho trẻ nghi HSV)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4
+     },
+     "n": "NICE NG143 mục 1.5.3. Dưới ngưỡng 20 mg/L AAP 2021 dùng để gợi ý nhiễm khuẩn xâm lấn (tham khảo). CRP thấp không loại được nhiễm khuẩn ở sơ sinh nên không thay cấy máu."
+    },
+    "pct": {
+     "v": "u",
+     "r": "Procalcitonin 0,12 ng/mL",
+     "n": "Không nằm trong NICE NG143; AAP 2021 dùng ngưỡng 0,5 ng/mL (tham khảo). Có thì làm, không thay được cấy máu."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Nước tiểu lấy bằng thông tiểu: bạch cầu esterase âm, nitrit âm, protein âm, bạch cầu 2/vi trường.",
+     "bang": {
+      "u_leu": 0,
+      "u_nit": 0,
+      "u_pro": 0
+     },
+     "n": "NICE NG143 mục 1.5.3: xét nghiệm nước tiểu cho trẻ dưới 3 tháng có sốt. Cách lấy mẫu: NICE dẫn sang hướng dẫn riêng, không có trong tài liệu đã tải; AAP 2021 KAS 8 dùng thông tiểu hoặc chọc trên xương mu."
+    },
+    "cay": {
+     "v": "e",
+     "r": "Cấy máu đã lấy trước khi dùng kháng sinh. Kết quả sơ bộ sau 24 giờ, cuối cùng sau 36–48 giờ. Đang chờ.",
+     "n": "NICE NG143 mục 1.5.3: cấy máu cho trẻ dưới 3 tháng có sốt. Chưa có kết quả lúc khám nên chưa cho về."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "u",
+     "r": "Dịch trong; bạch cầu 2/mm³; protein 0,60 g/L; glucose 3,1 mmol/L (đường huyết cùng lúc 4,3 mmol/L); nhuộm Gram không thấy vi khuẩn. Bác sĩ xét nghiệm kết luận dịch não tủy bình thường. PCR HSV và VZV trong dịch não tủy: âm.",
+     "n": "NICE NG143 mục 1.5.4–1.5.5: chọc dò tủy cho trẻ dưới 1 tháng có sốt, trước kháng sinh khi có thể. Làm ở bệnh viện (cần đội nhi–sơ sinh), không bắt buộc ở phòng khám trước khi chuyển. Khoảng bình thường dịch não tủy sơ sinh: không có trong tài liệu đã tải."
+    },
+    "pcr_hsv": {
+     "v": "u",
+     "r": "PCR dịch nốt phỏng (chọc nốt mới, phết nền): VZV DNA dương tính; HSV-1, HSV-2 âm tính. Kết quả sau khoảng 1 ngày.",
+     "n": "BYT 2015 (QĐ 5642, Thủy đậu mục 3.3, tr. 23): xét nghiệm khẳng định không sẵn có và rất ít dùng, chẩn đoán dựa lâm sàng; CDC 2024 (Testing and diagnosis): PCR là xét nghiệm hữu ích nhất để khẳng định. Ở sơ sinh có bóng nước, loại HSV bằng PCR là hợp lý; kết quả không làm đổi quyết định nhập viện hôm nay."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp: thở 48 l/p, SpO₂ 98%, phổi không ran, không rút lõm.",
+     "n": "NICE NG143 mục 1.5.3: chỉ chụp X-quang ngực khi có dấu hiệu hô hấp. Viêm phổi thủy đậu thường bắt đầu 3–5 ngày sau ban, hay gặp ở người lớn (QĐ 5642 mục 5b, tr. 24): theo dõi lâm sàng."
+    },
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Không cần lấy: không có mủ, không vảy tiết vàng, không đỏ lan quanh nốt.",
+     "n": "Dịch nốt thủy đậu chuyển đục là diễn tiến bình thường (QĐ 5642 mục 3.1, tr. 22); cấy dịch chỉ khi nghi bội nhiễm (QĐ 5642 mục 4.3, tr. 24)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thủy đậu ở sơ sinh 24 ngày tuổi (mắc sau sinh từ anh ruột), ngày thứ hai của ban, có sốt, chưa thấy biến chứng nội tạng hay bội nhiễm",
+     "ok": 1,
+     "n": "Tiếp xúc anh bị thủy đậu 15–17 ngày trước (ủ bệnh 10–21 ngày: QĐ 5642 mục 3.1, tr. 22; CDC 2024, Incubation period); ban rải rác toàn thân, mọc từng đợt, nhiều giai đoạn trên cùng vùng da, có tổn thương niêm mạc hầu họng (QĐ 5642 mục 3.1, 3.3, tr. 22–23). Mẹ không bị thủy đậu trong khoảng 5 ngày trước đến 2 ngày sau sinh nên không phải thủy đậu chu sinh (QĐ 5642 mục 5b, tr. 24; CDC 2024, Who is at risk)."
+    },
+    {
+     "t": "Sốt ở sơ sinh (nách 38,1 °C, hậu môn 38,3 °C) thuộc nhóm nguy cơ cao, nhiễm khuẩn xâm lấn chưa loại trừ cho đến khi cấy máu âm",
+     "ok": 1,
+     "n": "Trẻ dưới 3 tháng từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); nách bằng nhiệt kế điện tử dưới 4 tuần (NICE mục 1.1.2); AAP 2021 xác định sốt bằng hậu môn từ 38,0 °C; cả hai đều xác nhận sốt. Xét nghiệm hôm nay bình thường nhưng cấy máu chưa có kết quả."
+    },
+    {
+     "t": "Phơi nhiễm ibuprofen (NSAID) ở sơ sinh 3 ngày, kèm thuốc bắc không rõ thành phần; chưa thấy hậu quả",
+     "ok": 1,
+     "n": "Dưới 3 tháng chỉ dùng paracetamol (WHO 2013, mục 8.7.1); không dùng hạ sốt chỉ để hạ số đo (NICE NG143 mục 1.6.5). Bé không nôn máu, không phân đen, tiểu 6 lần/ngày. Tác hại cụ thể của ibuprofen và thuốc bắc ở sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tay chân miệng",
+     "n": "Tay chân miệng có phỏng nước ở miệng, lòng bàn tay, bàn chân, gối, mông (QĐ 292/2024 mục II.1.1); ban nhỏ hơn, tập trung tay chân và mông, kể cả lòng bàn tay bàn chân (QĐ 5642 mục 3.4, tr. 23). Bé có ban toàn thân, nhiều giai đoạn, nhiều nhất ở thân và da đầu, lòng bàn tay chân và mông bình thường, có anh bị thủy đậu; QĐ 292 mục II.4.2 ghi thủy đậu là 'phỏng nước nhiều lứa tuổi, rải rác toàn thân'."
+    },
+    {
+     "t": "Chốc (kể cả chốc bọng nước sơ sinh)",
+     "n": "Chốc không bọng nước có vảy tiết vàng mật ong, thường quanh các hốc tự nhiên và chi; chốc bọng nước có bọng nông nhăn nheo chứa dịch vàng trong, hay ở mặt, chi, thân, nách và quanh hậu môn trẻ sơ sinh (QĐ 4416/2023, Chốc mục 2.1). Bé không có vảy vàng mật ong, không bọng nước nhăn nheo, nốt nhỏ 2–5 mm, nhiều giai đoạn, vùng hậu môn và nách bình thường."
+    },
+    {
+     "t": "Nhiễm herpes simplex sơ sinh",
+     "n": "HSV thường tập trung ở da chuyển tiếp niêm mạc quanh hốc tự nhiên, không toàn thân như thủy đậu (QĐ 5642 mục 3.4, tr. 23). Mẹ không có tổn thương sinh dục, bé không co giật; PCR dịch nốt HSV âm. AAP 2021 (Population addressed) loại trẻ sốt có nghi HSV như mụn nước khỏi lược đồ, nên hôm nay cần quyết định nhập viện."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết hoặc viêm màng não sơ sinh",
+     "n": "Chưa loại hẳn: cần cấy máu âm sau 36–48 giờ (NICE NG143 mục 1.5.3–1.5.7). Hôm nay: thóp phẳng, không co giật, CRP, ANC, nước tiểu, dịch não tủy bình thường."
+    },
+    {
+     "t": "Thủy đậu bội nhiễm vi khuẩn da",
+     "n": "Chưa: không mủ, không đỏ lan, không sưng nóng đau. Là biến chứng thường gặp nhất ở trẻ (CDC 2024; QĐ 5642 mục 5b, tr. 24)."
+    },
+    {
+     "t": "Viêm phổi do thủy đậu",
+     "n": "Thở 48 l/p dưới ngưỡng thở nhanh 60 l/p ở trẻ dưới 2 tháng (QĐ 3312/2015, Viêm phổi do vi khuẩn ở trẻ em, mục 1); không rút lõm, phổi không ran, SpO₂ 98%. Viêm phổi thủy đậu thường bắt đầu 3–5 ngày sau ban (QĐ 5642 mục 5b, tr. 24): cần theo dõi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra bé đang sốt (đo nách bằng nhiệt kế điện tử, đo thêm hậu môn) và xếp nhóm nguy cơ cao: sơ sinh 24 ngày, nhiệt độ từ 38 °C, bú kém, ngủ nhiều; không cho về nhà",
+     "v": "c",
+     "n": "NICE NG143 mục 1.1.2 (nách) và mục 1.2.12 (dưới 3 tháng, từ 38 °C là nhóm nguy cơ cao); AAP 2021 (sốt là nhiệt độ hậu môn từ 38,0 °C). Sổ mâu thuẫn 'Đo nhiệt độ ở trẻ dưới 4 tuần': cả hai cách đều đúng, ở ca này cả hai cho kết quả từ 38 °C. QĐ 5642 mục 1, tr. 22: sơ sinh mắc thủy đậu có thể tiến triển nặng."
+    },
+    {
+     "t": "Chuyển nhập viện nơi có khoa nhi – sơ sinh và cách ly được (gọi trước, báo là sơ sinh nghi thủy đậu đang lây)",
+     "v": "c",
+     "n": "Sơ sinh sốt thuộc nhóm nguy cơ cao, cần theo dõi đến khi có kết quả cấy (NICE NG143 mục 1.2.12, 1.5.3); thủy đậu ở sơ sinh có thể gây viêm phổi, viêm cơ tim, tử vong (QĐ 5642 mục 1, tr. 22); dấu hiệu nặng kín đáo như bú kém, ngủ nhiều. Tài liệu đã tải không có khuyến cáo riêng cho thủy đậu sau sinh ở sơ sinh có mẹ miễn dịch nên ca chọn hướng thận trọng."
+    },
+    {
+     "t": "Làm trước khi chuyển (không để chậm chuyển): công thức máu, CRP, nước tiểu lấy bằng thông tiểu, cấy máu; PCR dịch nốt phỏng nếu có",
+     "v": "c",
+     "n": "NICE NG143 mục 1.5.3 (công thức máu, cấy máu, CRP, nước tiểu); PCR là xét nghiệm hữu ích nhất để khẳng định (CDC 2024, Testing and diagnosis), BYT 2015 cho rằng không cần để chẩn đoán (QĐ 5642 mục 3.3, tr. 23). Hai nguồn không trái nhau: lâm sàng đủ để chẩn đoán, PCR để khẳng định và loại HSV ở sơ sinh."
+    },
+    {
+     "t": "Chọc dò tủy và kháng sinh tiêm kinh nghiệm theo NICE tại bệnh viện (sau khi lấy cấy máu, nước tiểu), đội nội viện quyết định",
+     "v": "c",
+     "n": "NICE NG143 mục 1.5.4–1.5.7: trẻ dưới 1 tháng có sốt chọc dò tủy (trừ chống chỉ định) và kháng sinh tiêm: cephalosporin thế hệ 3 (cefotaxim hoặc ceftriaxon) cộng ampicillin hoặc amoxicillin. AAP 2021 không áp dụng vì loại trừ trẻ nghi HSV có mụn nước (Population addressed). Liều kháng sinh: không có trong tài liệu đã tải; không kê ở phòng khám."
+    },
+    {
+     "t": "Acyclovir tĩnh mạch tại bệnh viện nếu đội điều trị thấy cần (không tự kê uống ở phòng khám)",
+     "v": "a",
+     "n": "QĐ 5642 mục 4.2, tr. 23–24: acyclovir tĩnh mạch 10–12,5 mg/kg mỗi 8 giờ, 7 ngày, cho người suy giảm miễn dịch nặng hoặc viêm não; WHO 2025 (Treatment and post-exposure prophylaxis): đường tĩnh mạch dành cho nhiễm trùng nặng ở nhóm nguy cơ cao. Chỉ định và liều acyclovir cho sơ sinh thủy đậu: không có trong tài liệu đã tải. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Ngưng ngay ibuprofen và thuốc bắc; chỉ dùng paracetamol khi cần, theo chỉ định của bệnh viện; ghi tên thuốc, thu chai siro và gói thuốc bắc để bệnh viện xem",
+     "v": "c",
+     "n": "WHO 2013, mục 8.7.1: trẻ dưới 3 tháng chỉ dùng paracetamol; NICE NG143 mục 1.6.5 không dùng hạ sốt chỉ để hạ số đo. Liều paracetamol cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải (QĐ 292/2024 mục 3.1 và 3.2.1 nêu 10–15 mg/kg/lần, tối đa 60 mg/kg/ngày cho trẻ nói chung). Thành phần thuốc bắc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiểm soát lây: dẫn vào phòng riêng, không ngồi phòng chờ chung; nhân viên có miễn dịch chăm sóc; tránh người chưa miễn dịch, đặc biệt trẻ nhỏ và phụ nữ có thai; báo nơi nhận",
+     "v": "c",
+     "n": "CDC 2024 (Patient management, Isolation): phòng áp lực âm hoặc phòng đóng kín, không tiếp xúc người chưa có miễn dịch, nhân viên có miễn dịch chăm sóc, đến khi các nốt đóng vảy; lây từ 1–2 ngày trước ban đến khi đóng vảy (CDC 2024, How it spreads; QĐ 5642 mục 2: khoảng 48 giờ trước ban). Phụ nữ có thai chưa miễn dịch và trẻ suy giảm miễn dịch nguy cơ nặng (CDC 2024, Who is at risk)."
+    },
+    {
+     "t": "Giải thích cho mẹ: mẹ đúng ở chỗ có mụn nước và có lây, nhưng ban toàn thân, nhiều giai đoạn, tay chân và mông bình thường, anh vừa bị bệnh nên hợp thủy đậu hơn; không khẳng định 'dưới 1 tháng không bị thủy đậu'",
+     "v": "c",
+     "n": "QĐ 5642 mục 3.4, tr. 23; QĐ 292/2024 mục II.4.2. Tài liệu đã tải không nói kháng thể mẹ có bảo vệ sơ sinh hay không; WHO 2025 (Disease) và QĐ 5642 mục 1 vẫn ghi sơ sinh có thể mắc nặng."
+    },
+    {
+     "t": "Chăm sóc da: không bôi kháng sinh khi chưa bội nhiễm; nốt trợt chỉ sát khuẩn tại chỗ (muối nhôm acetat) theo bệnh viện; không dùng aspirin",
+     "v": "c",
+     "n": "QĐ 5642 mục 4.3, tr. 24: tránh aspirin (hội chứng Reye); ngừa bội nhiễm bằng thuốc sát khuẩn tại chỗ như muối nhôm acetat; kháng sinh khi có bội nhiễm. Số lần bôi và dạng dùng cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về nhà, hẹn tái khám 1–2 ngày, kê paracetamol vì bé còn bú và 'chỉ là virus'",
+     "v": "w",
+     "n": "Sơ sinh từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); cần xét nghiệm, cấy máu, chọc dò tủy, kháng sinh tiêm (mục 1.5.3–1.5.7); thủy đậu ở sơ sinh có thể nặng (QĐ 5642 mục 1, tr. 22)."
+    },
+    {
+     "t": "Kết luận tay chân miệng độ 1, dặn tái khám mỗi 1–2 ngày",
+     "v": "w",
+     "n": "Sai chẩn đoán: ban không khớp phân bố tay chân miệng (QĐ 292/2024 mục II.1.1, II.4.2; QĐ 5642 mục 3.4); bỏ sót kiểm soát lây, tiếp xúc anh và nguy cơ ở sơ sinh."
+    },
+    {
+     "t": "Cho acyclovir uống (20 mg/kg mỗi 6 giờ) và về nhà",
+     "v": "w",
+     "n": "QĐ 5642 mục 4.2, tr. 23: liều uống 20 mg/kg mỗi 6 giờ dành cho trẻ dưới 12 tuổi khỏe, tốt nhất trong 24 giờ đầu của ban; sơ sinh có thể nặng (mục 1, tr. 22) và chưa loại nhiễm khuẩn xâm lấn. Liều và chỉ định cho sơ sinh: không có trong tài liệu đã tải; chọn bên thận trọng."
+    },
+    {
+     "t": "Cho tiếp ibuprofen hoặc thuốc bắc 'cho mau hết nốt', hoặc kê kháng sinh uống (amoxicillin…) cho 'mụn nước nhiễm trùng' và về nhà",
+     "v": "w",
+     "n": "Dưới 3 tháng chỉ dùng paracetamol (WHO 2013, mục 8.7.1); kháng sinh khi bội nhiễm (QĐ 5642 mục 4.3, tr. 24), bé chưa bội nhiễm; liều kháng sinh uống cho sơ sinh sốt: không có trong tài liệu đã tải; NICE NG143 mục 1.5.6 dùng kháng sinh tiêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thủy đậu ở sơ sinh 24 ngày tuổi (mắc sau sinh, lây từ anh ruột), ngày thứ hai của ban, sốt, ban rải rác toàn thân khoảng 25–30 nốt, có tổn thương niêm mạc hầu họng; mẹ không thủy đậu quanh sinh, bé đủ tháng; chưa biến chứng nội tạng hay bội nhiễm da",
+     "Sốt ở sơ sinh (nách 38,1 °C, hậu môn 38,3 °C), nhóm nguy cơ cao; xét nghiệm máu, nước tiểu, dịch não tủy bình thường nhưng cấy máu chưa có kết quả; bú kém, ngủ nhiều hơn thường lệ",
+     "Phơi nhiễm ibuprofen 3 ngày (lần trước kê) và thuốc bắc không rõ thành phần ở sơ sinh; lần khám trước bỏ sót chẩn đoán (nghĩ rôm sảy, không đo hậu môn)",
+     "Loại trừ: tay chân miệng, chốc (kể cả chốc bọng nước), herpes simplex sơ sinh (PCR âm), viêm phổi thủy đậu, bội nhiễm da; nhiễm khuẩn huyết và viêm màng não chưa loại hẳn đến khi cấy âm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do hôm nay; diễn tiến ban; bú, ngủ, tã, sốt; dấu hiệu nguy hiểm; tiếp xúc người nổi mụn nước, anh chị em đi học trong 3 tuần (nguồn: QĐ 5642 mục 3.1, tr. 22; CDC 2024); sinh nở, mẹ có thủy đậu quanh sinh; lần khám trước và thuốc đã uống (hỏi cụ thể, xin xem chai, hỏi cả người trông bé). Khám: nhiệt độ nách và hậu môn, cân, quan sát bú, cởi hết da, họng, phổi, bụng, thóp, thần kinh.",
+     "Điểm bản lề thứ nhất: mẹ đã có sẵn chẩn đoán tay chân miệng nên dễ sa vào cãi 'có phải tay chân miệng không'. Mẹ đúng ở chỗ có mụn nước, có lây. Điểm phân biệt: ban toàn thân, nhiều giai đoạn trên cùng vùng da, lòng bàn tay chân và mông bình thường (QĐ 5642 mục 3.1, 3.4, tr. 22–23; QĐ 292/2024 mục II.1.1, II.4.2) và dịch tễ: anh ruột nổi mụn nước 18 ngày trước, ủ bệnh 15–17 ngày, trong khoảng 10–21 ngày (CDC 2024, Incubation period). Mẹ chỉ kể chuyện anh khi được hỏi.",
+     "Điểm bản lề thứ hai: tuổi. Sơ sinh mắc thủy đậu có thể nặng (QĐ 5642 mục 1, tr. 22; WHO 2025, Disease). Bé không thuộc thể chu sinh vì mẹ không bệnh trong khoảng 5 ngày trước đến 2 ngày sau sinh (QĐ 5642 mục 5b, tr. 24; CDC 2024, Who is at risk), nhưng tài liệu đã tải không có khuyến cáo riêng cho thủy đậu sau sinh ở sơ sinh có mẹ miễn dịch. Sốt từ 38 °C dưới 3 tháng là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); bú kém, ngủ nhiều là dấu hiệu kín đáo.",
+     "Kết quả: bạch cầu, CRP, procalcitonin, nước tiểu, dịch não tủy bình thường, PCR dịch nốt VZV dương, HSV âm. Thủy đậu chẩn đoán lâm sàng là đủ (QĐ 5642 mục 3.3, tr. 23); PCR giúp khẳng định (CDC 2024, Testing and diagnosis) và loại HSV, chẩn đoán AAP 2021 loại khỏi lược đồ (Population addressed). X-quang ngực, cấy dịch nốt: không cần.",
+     "Loại tay chân miệng, chốc, HSV, viêm phổi, bội nhiễm: xem lý do ở từng chẩn đoán. Nhập viện dựa vào tuổi, sốt và nguy cơ của thủy đậu ở sơ sinh.",
+     "Loại tay chân miệng, chốc, HSV, viêm phổi, bội nhiễm: xem lý do ở từng chẩn đoán. Quyết định nhập viện dựa vào tuổi, sốt và nguy cơ của thủy đậu ở sơ sinh, không dựa vào việc có phải tay chân miệng hay không."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện: sơ sinh sốt từ 38 °C cần xét nghiệm, cấy máu, chọc dò tủy, kháng sinh tiêm và theo dõi đến khi cấy âm (NICE NG143 mục 1.2.12, 1.5.3–1.5.7); thủy đậu ở sơ sinh có thể nặng (QĐ 5642 mục 1, 5b). Thủy đậu ở trẻ khỏe ít khi cần nhập viện (QĐ 5642 mục 5a, tr. 24), nhưng bé không thuộc nhóm đó. Gọi trước cho bệnh viện để chuẩn bị cách ly.",
+     "Điều trị: kháng sinh tiêm theo NICE (cefotaxim hoặc ceftriaxon cộng ampicillin hoặc amoxicillin, mục 1.5.7), liều không có trong tài liệu đã tải. Acyclovir tĩnh mạch: QĐ 5642 mục 4.2 (10–12,5 mg/kg mỗi 8 giờ, 7 ngày) cho suy giảm miễn dịch nặng hoặc viêm não; WHO 2025 dành đường tĩnh mạch cho nhiễm trùng nặng ở nhóm nguy cơ cao; dùng cho sơ sinh: không có trong tài liệu đã tải nên chấm a. Acyclovir uống 20 mg/kg mỗi 6 giờ (QĐ 5642 mục 4.2, tr. 23) dành cho trẻ khỏe dưới 12 tuổi.",
+     "Ngưng ibuprofen, thuốc bắc; chỉ paracetamol khi cần (WHO 2013, mục 8.7.1; NICE NG143 mục 1.6.4–1.6.5). Đây là ca 'xử trí ẩu nhưng may mắn không sao': lần trước kê ibuprofen cho sơ sinh, bé chưa thấy hậu quả; kết cục tốt không biến cách làm đó thành đúng.",
+     "Cách ly và báo bệnh viện: nốt chưa đóng vảy còn lây; phòng áp lực âm hoặc phòng đóng kín, nhân viên có miễn dịch (CDC 2024, Patient management – Isolation). VZIG chỉ trong 72 giờ sau tiếp xúc cho người nguy cơ nặng (QĐ 5642 mục 6.2, tr. 25); bé tiếp xúc cách đây hơn 2 tuần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh tiêm kinh nghiệm (nội viện, sau khi lấy cấy máu, nước tiểu, dịch não tủy)",
+      "ham_luong": "Cefotaxim hoặc ceftriaxon, cộng ampicillin hoặc amoxicillin (NICE NG143 mục 1.5.7)",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Tiêm tĩnh mạch",
+      "thoi_diem": "Sau khi lấy bệnh phẩm, không trì hoãn",
+      "so_ngay": "Theo kết quả cấy; không có trong tài liệu đã tải",
+      "ghi_chu": "(NICE NG143 2021 mục 1.5.6–1.5.7). AAP 2021 không áp dụng cho trẻ nghi HSV có mụn nước (Population addressed). Liều theo phác đồ bệnh viện."
+     },
+     {
+      "thuoc": "Acyclovir (nội viện, nếu đội điều trị quyết định)",
+      "ham_luong": "Theo dạng sẵn có ở bệnh viện",
+      "lieu": "Mức tham chiếu của BYT: 10–12,5 mg/kg mỗi 8 giờ tĩnh mạch cho suy giảm miễn dịch nặng hoặc viêm não; liều cho sơ sinh: không có trong tài liệu đã tải",
+      "duong": "Tiêm tĩnh mạch",
+      "thoi_diem": "Càng sớm càng tốt nếu được chỉ định",
+      "so_ngay": "7 ngày theo mức BYT; sơ sinh: không có trong tài liệu đã tải",
+      "ghi_chu": "(QĐ 5642/2015, Thủy đậu mục 4.2, tr. 23–24); WHO 2025 (Treatment and post-exposure prophylaxis). Không kê uống cho về."
+     },
+     {
+      "thuoc": "Paracetamol đơn chất (nội viện, khi bé khó chịu)",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "Liều cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải. Mức 10–15 mg/kg/lần mỗi 4–6 giờ, tối đa 60 mg/kg/ngày là của trẻ nói chung",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé khó chịu; không dùng chỉ để hạ số đo",
+      "so_ngay": "Những ngày còn sốt, theo bệnh viện",
+      "ghi_chu": "(QĐ 5642 mục 4.3, tr. 24; QĐ 292/2024 mục 3.1, 3.2.1; WHO 2013 mục 8.7.1: dưới 3 tháng chỉ paracetamol; NICE NG143 mục 1.6.4–1.6.5). Không aspirin, không ibuprofen."
+     },
+     {
+      "thuoc": "Dung dịch sát khuẩn tại chỗ chứa muối nhôm acetat",
+      "ham_luong": "Theo sản phẩm sẵn có",
+      "lieu": "Thoa nhẹ lên nốt đã vỡ hoặc trợt; số lần, độ pha cho sơ sinh: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Khi nốt vỡ, trợt hoặc ngứa",
+      "so_ngay": "Đến khi các nốt đóng vảy",
+      "ghi_chu": "(QĐ 5642 mục 4.3, tr. 24). Không bôi kháng sinh khi chưa bội nhiễm; theo chỉ định của bệnh viện."
+     },
+     {
+      "thuoc": "Ibuprofen siro và thuốc bắc của bà nội (ngưng, không kê)",
+      "ham_luong": "Ibuprofen 100 mg/5 mL (chai mẹ mang theo); thuốc bắc: không rõ thành phần",
+      "lieu": "Ngưng hoàn toàn",
+      "duong": "Uống",
+      "thoi_diem": "Ngay hôm nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "(WHO 2013 mục 8.7.1: dưới 3 tháng chỉ paracetamol; NICE NG143 mục 1.6.5). Thành phần thuốc bắc: không có trong tài liệu đã tải; mang cả hai cho bệnh viện xem."
+     }
+    ],
+    "dan_do": [
+     "Mẹ nói đúng là bé có mụn nước và bệnh có lây; điểm khác tay chân miệng là ban rải rác toàn thân, nhiều giai đoạn, lòng bàn tay chân bình thường và anh vừa bị thủy đậu. Bé 24 ngày tuổi cần nằm viện vì sơ sinh có thể mắc nặng và sốt từ 38 °C là nhóm nguy cơ cao, không phải vì mẹ làm sai gì (QĐ 5642 mục 1, 3.4, tr. 22–23; NICE NG143 mục 1.2.12).",
+     "Đưa bé đi ngay, ngồi riêng, che bé khi qua khu đông người. Bệnh lây từ khoảng 48 giờ trước ban đến khi tất cả nốt đóng vảy (QĐ 5642 mục 2; CDC 2024, How it spreads); tránh để bé gần phụ nữ có thai và người chưa từng mắc.",
+     "Mang theo chai siro ibuprofen, gói thuốc bắc và phiếu hẹn, báo giờ uống gần nhất. Không cho bé uống thêm ibuprofen, thuốc bắc, thuốc nam; dưới 3 tháng chỉ dùng paracetamol theo bác sĩ (WHO 2013 mục 8.7.1). Dặn nhẹ nhàng với bà nội, bà không có lỗi.",
+     "Gọi ngay hoặc báo nhân viên bệnh viện nếu bé bú kém hơn, li bì khó đánh thức, thở nhanh từ 60 l/p, rên, tím, co giật, nốt đỏ lan, sưng nóng đau, chảy mủ (QĐ 3312 mục 1: thở nhanh dưới 2 tháng ≥ 60 l/p; QĐ 5642 mục 5b, tr. 24).",
+     "Sau xuất viện: lịch tái khám do bệnh viện ghi; tài liệu đã tải không nêu lịch tái khám riêng cho thủy đậu ở sơ sinh. Người nhà chưa mắc hỏi bác sĩ về tiêm vắc xin thủy đậu (QĐ 5642 mục 6.1: một liều cho trẻ trên 1 tuổi; CDC 2024, Prevention: hai liều)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Khang nhập viện khoa nhi, cách ly phòng riêng. Cấy máu âm sau 48 giờ, kháng sinh ngưng; PCR dịch nốt VZV dương. Bé hết sốt sau 2 ngày, nốt khô và đóng vảy dần, bú tốt lại, không viêm phổi hay bội nhiễm da, xuất viện sau 5 ngày. May mắn là 3 ngày ibuprofen và gói thuốc bắc không để lại hậu quả nhìn thấy; tài liệu đã tải không nêu nguy cơ cụ thể ở sơ sinh, và không có gì bảo đảm lần sau cũng may như vậy. Phòng khám rút kinh nghiệm: sơ sinh sốt từ 38 °C phải đo cả nách và hậu môn, hỏi thuốc đã uống, và không kết luận 'rôm sảy' khi chưa cởi hết da, hỏi tiếp xúc.",
+ "nhieu": [
+  "Mang chẩn đoán tự tra trên mạng (tay chân miệng): mẹ đúng ở chỗ có mụn nước và có lây, sai ở phân bố ban và bỏ qua tiếp xúc với anh. Không bác bỏ thẳng, cho mẹ nhìn từng điểm khác; không xác nhận 'dưới 1 tháng không bị thủy đậu' vì tài liệu đã tải không nói về kháng thể mẹ.",
+  "Nguồn lực đầy đủ: làm được hết xét nghiệm nhưng phần lớn không đổi quyết định; ca dạy vì sao không chụp X-quang ngực, không cấy dịch nốt, và vì sao chọc dò tủy, kháng sinh tiêm thuộc về bệnh viện.",
+  "Sau dùng NSAID: ibuprofen lần trước kê (3 ngày) che sốt, nhiệt độ nách thấp hơn thật; chỉ biết khi hỏi cụ thể và xin xem chai thuốc.",
+  "Thuốc bắc không rõ thành phần: bà nội cho uống, mẹ ngại nói; chỉ biết khi hỏi người trông bé, không quy trách nhiệm.",
+  "Tái khám theo hẹn: lý do thật của mẹ là phiếu hẹn chứ không phải thấy bé nặng; nếu không có hẹn mẹ sẽ chờ ở nhà thêm."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh có sốt từ 38 °C là nhóm nguy cơ cao dù nhìn khỏe và dù đã có một chẩn đoán lành tính (thủy đậu, rôm sảy): mở quy trình nhiễm khuẩn xâm lấn, không đóng lại khi tìm ra 'nguyên nhân'.",
+  "Chẩn đoán tay chân miệng hay thủy đậu nằm ở phân bố ban, các giai đoạn trên cùng vùng da, lòng bàn tay chân và mông; sau đó đến dịch tễ (anh ruột 15–17 ngày trước). Câu hỏi cần có: trong nhà có ai nổi mụn nước không.",
+  "Kết cục tốt không hợp thức hóa quy trình sai: lần khám trước kết luận rôm sảy, không đo hậu môn, không hỏi tiếp xúc, kê ibuprofen cho sơ sinh; bé không sao nhưng đó là may mắn.",
+  "Hỏi thuốc đã uống phải cụ thể (thuốc kê lần trước, đã uống mấy lần, lần gần nhất, xem chai) và hỏi người trông bé về thuốc nam, thuốc bắc.",
+  "Kiểm soát lây từ cổng phòng khám: nốt chưa đóng vảy còn lây, không ngồi phòng chờ chung, nhân viên có miễn dịch chăm sóc."
+ ],
+ "diem_nho": [
+  "Thủy đậu: ủ bệnh 10–21 ngày; lây từ khoảng 48 giờ trước ban đến khi đóng vảy; ban rải rác toàn thân, nhiều giai đoạn trên cùng vùng da; chẩn đoán lâm sàng (QĐ 5642/2015, Thủy đậu mục 2, 3.1, 3.3; CDC 2024).",
+  "Sơ sinh thủy đậu có thể nặng: viêm phổi, viêm cơ tim, tử vong; thể chu sinh có thể tới 30% (QĐ 5642 mục 1, 5b, tr. 22, 24).",
+  "Sơ sinh dưới 3 tháng có nhiệt độ từ 38 °C là nhóm nguy cơ cao; xét nghiệm công thức máu, cấy máu, CRP, nước tiểu; dưới 1 tháng chọc dò tủy và kháng sinh tiêm (NICE NG143 mục 1.2.12, 1.5.3–1.5.7). AAP 2021 loại khỏi lược đồ trẻ nghi HSV có mụn nước.",
+  "Dưới 3 tháng chỉ dùng paracetamol, không ibuprofen (WHO 2013, mục 8.7.1); không aspirin ở thủy đậu (QĐ 5642 mục 4.3).",
+  "Phân biệt: tay chân miệng ban tập trung tay chân, mông; chốc có vảy vàng mật ong hoặc bọng nước nhăn nheo; HSV ở vùng chuyển tiếp niêm mạc (QĐ 5642 mục 3.4; QĐ 292/2024 mục II.1.1, II.4.2; QĐ 4416/2023, Chốc mục 2.1).",
+  "Cách ly: phòng áp lực âm hoặc đóng kín, nhân viên có miễn dịch, đến khi tất cả nốt đóng vảy (CDC 2024, Isolation)."
+ ],
+ "nguon": [
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh thủy đậu (mục 1–6, tr. 22–25)",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella), cập nhật 15/07/2024 – TL-0255 – ĐÃ ĐỌC: Who is at risk, Incubation period, How it spreads, Clinical features, Prevention, Testing and diagnosis, Patient management – Isolation",
+  "WHO 2025 – WHO position paper on varicella vaccines, WER 47, 21/11/2025 – kho tltk-10000-ca – ĐÃ ĐỌC: mục Disease; Treatment and post-exposure prophylaxis",
+  "NICE NG143 2021 (cập nhật 2025) – Fever in under 5s: assessment and initial management – TL-0262 – ĐÃ ĐỌC: mục 1.1.1–1.1.2, 1.2.12, 1.5.3–1.5.7, 1.6.4–1.6.6",
+  "AAP 2021 – Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old, Pediatrics 148(2):e2021052228 – TL-0261 – ĐÃ ĐỌC: Population addressed (tr. 9–10), Hình 2 chú thích (ngưỡng ANC, CRP, PCT; tham khảo)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 8.7.1 Pain control (tr. 250)",
+  "QĐ 292 – Bộ Y tế, QĐ 292/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị bệnh Tay chân miệng – TL-0239 – ĐÃ ĐỌC: mục II.1.1, II.3.1–3.2, II.4.2, III (paracetamol: mục 3.1, 3.2.1)",
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu – kho tltk-10000-ca – ĐÃ ĐỌC: Bệnh chốc, mục 2.1",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em, mục 1 (thở nhanh dưới 2 tháng ≥ 60 l/p)"
+ ],
+ "phien_ban_ca": "1 – viết ngày 19/11/2026",
+ "ghi_chu_bien_tap": [
+  "19/11/2026: viết ca mới NH-0888, 1 lượt. Tài liệu đã đọc: TL-0038 (Thủy đậu), TL-0255, WHO 2025 vắc xin thủy đậu, TL-0262, TL-0261, TL-0250, TL-0239, QĐ 4416 (Chốc), TL-0037 (viêm phổi).",
+  "Thiết kế: chẩn đoán đích thủy đậu ở sơ sinh 24 ngày (mắc sau sinh từ anh ruột, ủ 15–17 ngày; mẹ không thủy đậu quanh sinh, bé đủ tháng). Chẩn đoán kèm: sốt sơ sinh nhóm nguy cơ cao, phơi nhiễm ibuprofen/thuốc bắc. Loại trừ: tay chân miệng, chốc, HSV, viêm phổi, bội nhiễm, nhiễm khuẩn huyết/viêm màng não (chưa loại hẳn đến khi cấy âm). ket_luan nhap_vien vì dưới 1 tháng sốt từ 38 °C (NICE) và thủy đậu sơ sinh có thể nặng (QĐ 5642); không có tài liệu riêng cho thủy đậu sau sinh ở sơ sinh có mẹ miễn dịch.",
+  "Biến sổ cái: 'Sau dùng NSAID' = ibuprofen kê lần trước; 'thuốc bắc không rõ' = bà nội cho uống; 'tái khám theo hẹn' = lý do thật; 'xử trí ẩu nhưng may mắn không sao' = lần khám trước kê ibuprofen, không hậu quả; 'chẩn đoán tự tra trên mạng' = mẹ tin tay chân miệng; 'nguồn lực đầy đủ' nên khoa_cls = null, ca biện luận vì sao không chụp X-quang ngực, không cấy dịch nốt; 'ca 1 lượt'.",
+  "Ảnh da HA-DA-0026 (đã có trong kho, SCIN, nhãn Chicken pox exanthem): bụng quanh rốn, không lộ mặt, không hình xăm, không chữ; bảng SCIN chỉ còn 1 ảnh khớp nhãn (đã dùng ở NH-0874) nên dùng lại, không tải ảnh mới. Mạch 158 l/p nên không gắn âm thanh tim (AT-TIM-NHANH-01 khoảng 115 l/p); phổi dùng AT-PHOI-BT-NL-01.",
+  "Không có trong tài liệu đã tải: chỉ định và liều acyclovir cho sơ sinh thủy đậu; liều paracetamol sơ sinh dưới 1 tháng; liều kháng sinh tiêm; kháng thể mẹ có bảo vệ sơ sinh hay không; thành phần thuốc bắc, tác hại ibuprofen ở sơ sinh; khoảng tham chiếu xét nghiệm sơ sinh; lịch tái khám thủy đậu sơ sinh; lịch tiêm vắc xin thủy đậu ở Việt Nam.",
+  "Mâu thuẫn: đo nhiệt độ dưới 4 tuần (NICE nách, AAP hậu môn) và số liều vắc xin thủy đậu (QĐ 5642 một liều, CDC 2024 hai liều) theo mục cũ trong sổ; acyclovir trẻ khỏe: mục NH-0874; paracetamol: mục NH-0666 (xem NH-0888_mau_thuan.md)."
+ ]
+}
