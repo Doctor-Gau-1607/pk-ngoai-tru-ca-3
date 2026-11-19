@@ -1,0 +1,522 @@
+{
+ "ma_ca": "NH-1103",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_dau_bung_chuc_nang_tai_dien",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Đau bụng chức năng tái diễn",
+  "chan_doan_phai_loai_tru": [
+   "Viêm ruột thừa",
+   "Nhiễm giun",
+   "Lồng ruột"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Học sinh lớp 5",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (10 tuần trước bác sĩ tim mạch đổi thuốc kháng đông từ warfarin sang acenocoumarol)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (acenocoumarol, sau thay van hai lá cơ học)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (nhà trường yêu cầu cho chuyến trải nghiệm 3 ngày 2 đêm đầu tháng 12)"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Minh Châu",
+  "tuoi": 10,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 5",
+  "can_nang": 31,
+  "chieu_cao": 138,
+  "xung_ho": "Bé 10 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hay nhìn mẹ trước khi nói. Mẹ là người kể chính: mẹ xưng 'em' với bác sĩ, bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Bé ngoan, học khá, hay lo, sợ khác bạn và sợ bị bỏ lại khi cả lớp đi chơi. Mẹ 37 tuổi, bán hàng tạp hóa, thương con, nói nhanh, hay lo bé chảy máu vì thuốc loãng máu nên cấm bé chạy nhảy, quen mua thuốc ở nhà thuốc gần nhà và tin 'thuốc giảm đau thì không sao'.",
+  "kieu_nhieu": "Mẹ tự cho bé uống thuốc 5 ngày trước khi đến: khi hỏi chung 'bé có uống thuốc gì không' thì mẹ chỉ kể thuốc tim mạch và nói 'cho thuốc giảm đau thôi'. Chỉ khi bác sĩ hỏi cụ thể tên thuốc, liều, số ngày, lần cuối hoặc xin xem hộp thuốc (mẹ mang theo trong túi) mẹ mới nói là siro ibuprofen và thừa nhận thấy bé đỡ nên tin thuốc hợp. Mẹ cũng không tự kể chuyện cô giáo yêu cầu giấy xác nhận sức khỏe cho chuyến đi của lớp, chỉ nói khi được hỏi chị còn cần gì thêm.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 37 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé (vd 'Châu đau chỗ nào?', 'Châu lo điều gì?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e0b48c",
+   "toc": "#1c1410",
+   "kieuToc": "dai",
+   "ao": "#9bb7d4",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d6a47d",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#c48a7a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đau bụng nhiều lần suốt hơn 2 tháng, đang uống thuốc loãng máu",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 10 tuổi, 31 kg, mẹ đưa đến vì đau bụng nhiều lần mấy tháng nay. Bé đang uống thuốc kháng đông sau thay van tim. Sinh hiệu: nhiệt 36,7 °C, mạch 84 l/p, huyết áp 100/62, nhịp thở 20 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Châu nhập viện ngay khi mỗi cơn đau chỉ 15–30 phút rồi tự hết, bụng mềm không phản ứng, INR 3,0 trong khoảng đích của sổ, Hb 126 g/L và siêu âm không thấy ruột thừa viêm hay khối máu tụ là không có chỉ định: đau bụng trên 4 giờ hoặc có dấu viêm phúc mạc mới là cấp cứu bụng tiềm tàng (WHO 2013 mục 9.4.1). Bé vốn lo mình bị bệnh nặng vì van tim; nằm viện nhiều ngày mà không tìm được bệnh sẽ củng cố nỗi lo, nghỉ học thêm và làm đau bụng dễ kéo dài hơn (QĐ 3312, Đau bụng chức năng mục 4.2). Nguy cơ chảy máu khi lấy máu, tiêm truyền lặp lại ở trẻ đang dùng kháng đông: không có số liệu trong tài liệu đã tải; chuyến trải nghiệm của lớp cũng không thể đi.",
+    "chuyen_tuyen": "Chuyển Châu lên tuyến tỉnh để nội soi hoặc chụp CT khi siêu âm, INR, công thức máu, soi phân đều bình thường là quá sớm: QĐ 3312 (Đau bụng chức năng mục 3.2) coi xét nghiệm xâm nhập là cần cân nhắc kỹ và siêu âm bất thường dưới 1%; WSES 2025 (khuyến cáo 3.2) dành CT liều thấp cho ca siêu âm không kết luận hoặc nghi ngờ lâm sàng vẫn cao, bé không có. Gia đình mất thêm ngày công, bé nghỉ học thêm, và nội soi ở trẻ đang dùng kháng đông phải điều phối ngừng thuốc với tim mạch (cách xử trí không có trong tài liệu đã tải). Bé cũng chưa được thử bước đầu là giải thích bệnh, ngừng ibuprofen và trở lại sinh hoạt bình thường (QĐ 3312 mục 4.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em đau bụng mấy tháng nay, mà cháu đang uống thuốc loãng máu nên em lo lắm. Bác sĩ khám cho cháu hết đau giùm em nha.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "100/62",
+    "nhiet": "36,7",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đau bụng nhiều lần, đã khoảng 10 tuần nay (từ đầu tháng 9), mỗi tuần 3–4 cơn. Mẹ lo vì bé đang uống thuốc kháng đông, mới đổi thuốc, sợ thuốc làm bé đau hay chảy máu trong bụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tinh_chat",
+     "noi_dung": "Hỏi bé chỉ chỗ đau: quanh rốn, âm ỉ, không lan, không quặn dữ dội. Mỗi cơn 15–30 phút rồi tự hết, hay xảy ra buổi sáng trước giờ đến lớp hoặc sau bữa trưa. Bé không bị đánh thức giữa đêm vì đau, giữa các cơn chơi bình thường, ăn được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí, nhịp, thời gian, giờ đau, đau về đêm"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sốt, không nôn, không tiêu chảy, không phân đen, không có máu trong phân, không tiểu máu, không loét miệng, không đau khớp, không phát ban, không đau hậu môn. Chưa có kinh. Không bầm tím tự nhiên, không chảy máu cam hay chảy máu chân răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động (sốt, nôn, ỉa lỏng, xuất huyết tiêu hóa, khớp, loét miệng) và dấu hiệu chảy máu do thuốc"
+    },
+    {
+     "id": "dai_tien",
+     "noi_dung": "Đại tiện mỗi ngày một lần, phân thành khuôn, không táo bón, không rặn. Đau không giảm sau khi đi đại tiện, không liên quan thay đổi phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen đại tiện (táo bón chức năng, ruột kích thích)"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Sổ khám ở trường hai tháng trước ghi 31 kg, hôm nay vẫn 31 kg, cao 138 cm. Ăn uống bình thường, uống sữa hai lần mỗi ngày, uống sữa không đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cân nặng, tăng trưởng, ăn uống"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Năm ngày nay mẹ tự mua siro ibuprofen 100 mg/5 mL ở nhà thuốc quen, cho bé uống 10 mL (200 mg) sáng và tối. Lần cuối là tối qua. Mẹ chỉ nói 'cho thuốc giảm đau thôi'. Trong 5 ngày đó bé chỉ đau 2 cơn nhẹ, hai hôm nay bé kêu hơi rát phía trên bụng sau khi uống. Mẹ không nghĩ thuốc giảm đau có liên quan thuốc loãng máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói tên thuốc. Chỉ kể khi bác sĩ hỏi 'đã cho bé uống thuốc gì ngoài thuốc tim mạch, thuốc giảm đau nào, tên gì, mấy ngày, lần cuối lúc nào' hoặc xin xem hộp thuốc (mẹ có mang trong túi).",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc tự mua trước khi khám (ibuprofen, 5 ngày) trên người đang dùng kháng đông"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Hai năm rưỡi trước (bé 7 tuổi) bé bị bệnh van tim do thấp, được thay van hai lá cơ học. Mười tuần trước bác sĩ tim mạch đổi từ warfarin sang acenocoumarol vì nhà thuốc bảo hiểm hết warfarin. Sổ ghi INR đích 2,5–3,5, lần đo gần nhất cách đây hai tuần là 2,9. Bé uống thuốc mỗi tối đúng giờ, không quên liều, không dùng thuốc nào khác thường xuyên, không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, thuốc kháng đông, lần đổi thuốc, INR"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cơn đau đầu tiên vài ngày sau khi đổi thuốc, nên mẹ tin 'thuốc mới làm đau'. Nhưng cũng là lúc bé lên lớp 5, đổi cô chủ nhiệm, nhiều bài kiểm tra. Từ khi đổi thuốc, mẹ lo chảy máu nên cấm bé chạy nhảy, dẫn đi đo INR hằng tuần, bé nghỉ thêm vài buổi học.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bối cảnh khởi phát: đổi thuốc trùng đổi lớp, mẹ hạn chế vận động"
+    },
+    {
+     "id": "tay_giun",
+     "noi_dung": "Nhà ở thị xã, nước máy, bé không đi chân đất ra vườn. Lần tẩy giun gần nhất cách đây khoảng 6 tháng ở trường. Không ngứa hậu môn, không khó ngủ hay giật mình ban đêm, không thấy giun trong phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giun (yếu tố dịch tễ, ngứa hậu môn)"
+    },
+    {
+     "id": "hoc_duong",
+     "noi_dung": "Bé học khá, hay lo, sợ điểm kém vì nghỉ nhiều buổi và sợ 'khác bạn' vì không được chạy nhảy. Không bị bạn bắt nạt. Có hôm bé nói đau bụng để khỏi phải ở lớp giờ thể dục. Có 'đau' cũng có hôm bé không đau gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bối cảnh học đường, tâm lý, thái độ của gia đình khi bé đau"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Gia đình không ai bị bệnh viêm ruột hay celiac. Bố hay đau dạ dày. Bà ngoại nói 'van tim hở nên mới đau bụng'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Cô chủ nhiệm báo lớp có chuyến trải nghiệm 3 ngày 2 đêm đầu tháng 12, cách thị xã khoảng 60 km, yêu cầu 'giấy xác nhận đủ sức khỏe' vì bé có bệnh tim. Mẹ muốn bác sĩ cho bé hết đau thật nhanh và ký giấy luôn để bé không bị bỏ lại. Bé rất muốn đi cùng các bạn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi chị còn cần giấy tờ gì không, nhà trường hay lớp có yêu cầu gì không, hoặc vì sao chị lo phải hết đau gấp.",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hơi lo, nhìn mẹ trước khi trả lời. Niêm mạc hồng, không vàng da, không bầm tím, không phù.",
+     "k": 1,
+     "hien": "Tỉnh, hơi lo, niêm mạc hồng."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 31 kg, cao 138 cm, BMI 16,3. Khớp với sổ trường hai tháng trước (31 kg).",
+     "k": 1,
+     "hien": "Nặng 31 kg, cao 138 cm."
+    },
+    "bung": {
+     "a": "Bụng cân đối, mềm, không chướng. Ấn sâu quanh rốn bé nhăn nhẹ, ấn thượng vị hơi khó chịu, không đau khu trú hố chậu phải, không phản ứng thành bụng, không dội ngược. Rovsing và psoas âm tính, bé nhảy tại chỗ không đau. Không khối, gan lách không to, không bầm máu thành bụng.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn quanh rốn hơi nhăn mặt, không phản ứng."
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, tiếng đóng van cơ học rõ, không âm thổi mới, không dấu suy tim.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không mảng bầm.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Không loét miệng, nướu không chảy máu.",
+     "k": 0
+    },
+    "quan_sat_hau_mon": {
+     "a": "Không nứt, không dò, không đỏ xước quanh hậu môn.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Bé hợp tác, trả lời ngắn, hơi lo về chuyện nghỉ học và chuyến đi của lớp. Không buồn chán rõ, không ý tưởng tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "e",
+     "r": "Ruột thừa không nhìn thấy viêm, ấn đầu dò hố chậu phải không đau, không dịch tự do, không khối máu tụ thành ruột hay thành bụng, không hạch mạc treo to, không hình ảnh lồng ruột. Thận không sỏi, không ứ nước. Dạ dày co bóp bình thường, thành dạ dày không dày.",
+     "n": "Cần làm: đau bụng ở trẻ đang dùng kháng đông phải loại máu tụ thành bụng, thành ruột; siêu âm là hình ảnh đầu tiên ở trẻ (WSES 2025 khuyến cáo 3.2). QĐ 3312 mục 3.2 nêu siêu âm bất thường dưới 1% nhưng khuyến cáo rộng rãi vì dễ làm (sổ mâu thuẫn NH-1114 số 2). Không cần CT."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 3,0 (đích trong sổ 2,5–3,5).",
+     "n": "Cần làm: trẻ dùng kháng đông có đau bụng thì phải biết INR, đồng thời vừa đổi thuốc và vừa uống NSAID 5 ngày (ESC AF 2024 Hình 9: tránh NSAID với thuốc kháng vitamin K). INR đích cho trẻ thay van cơ học: không có trong tài liệu đã tải; dùng số trong sổ của bé."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,2 G/L · Neutrophil 55% · Eos 3% · Hb 126 g/L · TC 285 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 55.0,
+      "neu": 3.96,
+      "lym_pct": 35.5,
+      "lym": 2.56,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 3.0,
+      "eos": 0.22,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.6,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 82.5,
+      "mch": 27.4,
+      "mchc": 331,
+      "rdw": 13.0,
+      "plt": 285
+     },
+     "n": "Hữu ích: loại thiếu máu do mất máu rỉ rả khi bé dùng kháng đông kèm NSAID 5 ngày, và bạch cầu ái toan (giun) (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a, 3.1c; Đau bụng chức năng mục 3.2: xét nghiệm theo dấu báo động). Bình thường."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Phân thành khuôn, không thấy trứng giun, không hồng cầu, không bạch cầu.",
+     "n": "Hữu ích: giun là chẩn đoán phải loại trừ (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a: soi phân tìm trứng); không hồng cầu giúp loại chảy máu tiêu hóa nhẹ."
+    },
+    "crp": {
+     "v": "a",
+     "r": "2 mg/L",
+     "n": "Chấp nhận, không bắt buộc: không sốt, bụng không phản ứng, siêu âm không viêm ruột thừa; QĐ 3312 mục 3.2 chỉ xét nghiệm khi có dấu báo động."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Không protein, không hồng cầu, không bạch cầu, nitrit âm tính.",
+     "n": "Chấp nhận: loại nhiễm khuẩn tiết niệu và tiểu máu ở trẻ dùng kháng đông. Không bắt buộc khi không có triệu chứng tiết niệu."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng dưới 10 µg Hb/g phân (âm tính).",
+     "n": "Chấp nhận, không bắt buộc: bé uống NSAID cùng thuốc kháng đông, hơi rát thượng vị. Chỉ định FIT ở trẻ: không có trong tài liệu đã tải; không phân đen, Hb bình thường nên không cần."
+    },
+    "bang_keo_hau_mon": {
+     "n": "Không cần: không ngứa hậu môn, không khó ngủ ban đêm; giun kim hay gặp 3–7 tuổi (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1b)."
+    },
+    "calprotectin": {
+     "n": "Không cần: không tiêu chảy, không máu trong phân, không sụt cân, CRP và Hb bình thường (QĐ 3312 Bảng 1 nêu dấu hiệu gợi ý bệnh viêm ruột)."
+    },
+    "celiac": {
+     "n": "Không cần: tăng trưởng bình thường, không tiêu chảy, không thiếu máu (QĐ 3312 mục 3.2: xét nghiệm theo dấu báo động)."
+    },
+    "ct_bung": {
+     "n": "Cơ sở không có CT. Dù có cũng không cần: ở trẻ hình ảnh đầu tiên là siêu âm, CT liều thấp chỉ khi siêu âm không kết luận hoặc nghi ngờ vẫn cao (WSES 2025 khuyến cáo 3.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau bụng chức năng ở trẻ em (đau bụng chức năng tái diễn), kèm yếu tố khởi phát tâm lý và nhiễu do thuốc tự mua",
+     "ok": 1,
+     "n": "Đau quanh rốn từng cơn 3–4 lần/tuần suốt 10 tuần, giữa cơn chơi bình thường, không dấu báo động, khám bụng không phản ứng, cân nặng ổn định, xét nghiệm và siêu âm bình thường (QĐ 3312, Đau bụng chức năng mục 3.1, Bảng 2: đau từng cơn, ≥ 1 lần/tuần và ≥ 2 tháng, không đủ tiêu chuẩn rối loạn khác). Tiêu chuẩn Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quanh rốn kéo dài 10 tuần, không chuyển hố chậu phải, không sốt, không nôn, ấn không phản ứng, Rovsing và psoas âm tính, CRP và bạch cầu bình thường, siêu âm không thấy ruột thừa viêm (WHO 2013 mục 9.4.1–9.4.2; WSES 2025 khuyến cáo 3.2). Bé uống ibuprofen có thể che sốt, đau nên phải dựa vào khám và siêu âm."
+    },
+    {
+     "t": "Nhiễm giun",
+     "n": "Soi phân không trứng, bạch cầu ái toan 3%, Hb 126, không ngứa hậu môn, nhà ở thị xã, mới tẩy giun 6 tháng trước (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1a–c)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Thường dưới 2 tuổi, đau quặn từng cơn kèm nôn, phân máu giai đoạn muộn, khối ở hố chậu phải (WHO 2013 mục 9.4.4); bé 10 tuổi đau 10 tuần, không nôn, không máu, không khối, siêu âm không có hình ảnh lồng ruột."
+    },
+    {
+     "t": "Chảy máu trong thành ruột, thành bụng hoặc chảy máu tiêu hóa do thuốc kháng đông cộng NSAID",
+     "n": "Phải nghĩ vì bé uống kháng đông, mới đổi thuốc và uống ibuprofen 5 ngày (ESC AF 2024 Hình 9: tránh NSAID với thuốc kháng vitamin K). Nhưng đau có từ trước ibuprofen, INR 3,0 trong khoảng đích của sổ, Hb 126, không phân đen, FIT và soi phân không máu, siêu âm không khối máu tụ. Nguy cơ chảy máu theo từng thuốc ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm, loét dạ dày do ibuprofen",
+     "n": "Hai hôm nay bé hơi rát thượng vị sau uống thuốc, ấn thượng vị hơi khó chịu, nhưng cơn đau quanh rốn có trước khi dùng ibuprofen, không nôn máu, không phân đen, Hb bình thường. Cần ngừng ngay NSAID và dặn dấu hiệu xuất huyết tiêu hóa (QĐ 3312 Bảng 1: xuất huyết tiêu hóa là dấu báo động). Tỉ lệ biến chứng dạ dày của NSAID ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Táo bón chức năng",
+     "n": "50% trẻ táo bón chức năng có đau bụng chức năng (QĐ 3312 mục 3.1); bé đại tiện hằng ngày, phân thành khuôn, không rặn."
+    },
+    {
+     "t": "Các thể rối loạn chức năng khác: khó tiêu chức năng, hội chứng ruột kích thích, đau bụng migraine",
+     "n": "Đau quanh rốn, không khu trú thượng vị, không liên quan đại tiện hay thay đổi phân, cơn 15–30 phút (không ≥ 1 giờ), không buồn nôn, đau đầu hay nhợt nhạt (QĐ 3312, Bảng 2: chứng khó tiêu chức năng, hội chứng kích thích ruột, đau bụng migraine)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích cho bé và mẹ: đau bụng chức năng lành tính, ruột nhạy cảm hơn bình thường, liên quan chuyện lo lắng, không phải ruột thừa hay giun, không do thuốc van tim, không để lại hậu quả sau này",
+     "v": "c",
+     "n": "QĐ 3312 (Đau bụng chức năng mục 4.1): khẳng định với cha mẹ bệnh không ảnh hưởng sức khỏe tương lai, giải thích tăng nhạy cảm nội tạng và dẫn truyền não–ruột, không phân tích sâu; ESPGHAN/NASPGHAN 2025 (Best practice statement 1): dành đủ thời gian giáo dục về chẩn đoán trước khi bắt đầu điều trị."
+    },
+    {
+     "t": "Ngưng ngay ibuprofen; không dùng ibuprofen, diclofenac, aspirin hay thuốc giảm đau tự mua khi chưa hỏi bác sĩ; mang hộp thuốc khi đi khám",
+     "v": "c",
+     "n": "Tránh NSAID với thuốc kháng vitamin K (ESC AF 2024 Hình 9, tr. 3343, bảng cho người lớn rung nhĩ, dùng tham khảo cho trẻ vì thiếu tài liệu riêng); thuốc giảm đau không kê đơn chỉ dùng ngắt quãng, theo đúng hướng dẫn liều và thời gian tại địa phương (ESPGHAN/NASPGHAN 2025, Best practice statement 4). Thuốc giảm đau thay thế an toàn cho bé: không có trong tài liệu đã tải, hỏi tim mạch."
+    },
+    {
+     "t": "Tiếp tục acenocoumarol đúng toa, không tự ngưng hay đổi liều; đo INR theo lịch tim mạch; báo bác sĩ tim mạch việc bé đã uống ibuprofen 5 ngày",
+     "v": "c",
+     "n": "Thuốc kháng vitamin K gồm warfarin và các dẫn chất coumarin khác, cần cân bằng giữa phòng tắc mạch và chảy máu (ESC AF 2024 mục 6.2, tr. 3343). Cách xử trí khi đã uống NSAID cùng kháng đông và INR đích ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé đi học đều, ăn chung với cả nhà, sinh hoạt gần như bình thường; mẹ hỏi han vừa đủ rồi cho bé quay lại việc đang làm, báo cô chủ nhiệm; mức vận động an toàn với van cơ học hỏi bác sĩ tim mạch",
+     "v": "c",
+     "n": "Mục tiêu đầu tiên là trở lại phong cách sống bình thường, đi học đều, tham gia hoạt động ở trường; thái độ gia đình vừa đủ, không thái quá (QĐ 3312 mục 4.1–4.2). Mức hoạt động an toàn khi có van cơ học: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc điều trị đau bụng thường quy hôm nay; ghi nhật ký cơn đau và cân nặng",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4: thuốc chỉ giảm nhẹ triệu chứng; không nguồn nào nói không dùng thuốc là có hại (sổ mâu thuẫn NH-1114 số 1). Liều thuốc cho trẻ 10 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho thử chất xơ, thuốc ức chế H2, thuốc chống co thắt hoặc men vi sinh (L. reuteri DSM 17938) nếu gia đình muốn",
+     "v": "a",
+     "n": "QĐ 3312 mục 4.3–4.4 (chất xơ, thuốc ức chế H2 có hiệu quả trong đau bụng và khó tiêu chức năng, chống co thắt cho đau sinh lý); ESPGHAN 2023 tr. 241–242 (L. reuteri DSM 17938 10⁸–2×10⁸ CFU/ngày giảm cường độ đau, khuyến cáo yếu, chứng cứ trung bình); ESPGHAN/NASPGHAN 2025 (men vi sinh đa chủng có thể gợi ý, điều kiện, chứng cứ thấp; thuốc kháng cholinergic không có bằng chứng ủng hộ hay bác bỏ). Tương tác với acenocoumarol: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích khám bệnh hôm nay khác khám sức khỏe cấp giấy; chưa ký giấy 'đủ sức khỏe đi trại'; hẹn khám sức khỏe theo mẫu cho học sinh sau khi hết đau và có ý kiến bác sĩ tim mạch về chuyến đi, kết luận trung thực kể cả bệnh van tim đang dùng kháng đông",
+     "v": "c",
+     "n": "Khám bệnh ngoại trú không thuộc phạm vi khám sức khỏe (TT 32/2023/TT-BYT Điều 30 khoản 2a); khám theo yêu cầu không đủ chuyên khoa thì không phân loại sức khỏe (Điều 32 khoản 3); người từ đủ 6 đến dưới 18 tuổi dùng Mẫu số 02 (TT 25/2026/TT-BYT, Phụ lục XXIV). Nội dung kết luận cho trẻ có van cơ học đi trại 3 ngày, INR xa nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần (sớm hơn nếu có dấu hiệu nguy hiểm); nếu vẫn đau sẽ cân nhắc liệu pháp nhận thức hành vi hoặc thôi miên",
+     "v": "c",
+     "n": "Mốc 2 tuần do người viết chọn, không có trong tài liệu đã tải; QĐ 3312 mục 5: thuyên giảm tự nhiên 30–70%. Dấu hiệu quay lại ngay: đau trên 4 giờ, đau khu trú hố chậu phải, sốt, nôn, bụng cứng, phân đen hay máu, nôn ra máu, tiểu máu, bầm tím hoặc chảy máu không cầm (WHO 2013 mục 9.4.1; QĐ 3312 Bảng 1; ESC AF 2024 mục 6.2 về nguy cơ chảy máu của thuốc kháng đông)."
+    },
+    {
+     "t": "Giới thiệu liệu pháp nhận thức hành vi hoặc thôi miên khi vẫn đau sau các bước đầu",
+     "v": "a",
+     "n": "QĐ 3312 mục 4.5 (điều trị tâm thần khi triệu chứng kéo dài, ưu tiên khi có lo âu); ESPGHAN/NASPGHAN 2025: thôi miên khuyến cáo mạnh (chứng cứ trung bình), liệu pháp nhận thức hành vi khuyến cáo mạnh (chứng cứ thấp). Chưa cần ngay lượt này."
+    },
+    {
+     "t": "Tẩy giun một liều (albendazol 400 mg hoặc mebendazol 500 mg) dù soi phân âm tính",
+     "v": "a",
+     "n": "WHO 2017: tẩy giun định kỳ một liều cho trẻ học đường ở vùng có ≥ 20% trẻ nhiễm; QĐ 3312 (Nhiễm ký sinh trùng đường ruột mục 3.1a) mebendazol 500 mg một viên. Không bắt buộc vì soi phân âm tính, tỉ lệ nhiễm ở nơi bé ở: không có trong tài liệu đã tải; tương tác với acenocoumarol: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ký giấy chứng nhận 'đủ sức khỏe' cho bé đi trại ngay hôm nay",
+     "v": "w",
+     "n": "Khám bệnh ngoại trú không phải khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a); khám không đủ chuyên khoa theo mẫu thì không phân loại sức khỏe (Điều 32 khoản 3). Bé còn đau chưa đánh giá xong, có van cơ học và dùng kháng đông."
+    },
+    {
+     "t": "Tự ý ngưng hay giảm liều acenocoumarol vì sợ chảy máu hoặc cho rằng thuốc gây đau bụng",
+     "v": "w",
+     "n": "Đau đã có trước khi dùng ibuprofen, INR trong khoảng đích; ngưng thuốc kháng đông ở bé thay van cơ học do tim mạch quyết (ESC AF 2024 mục 6.2: cân bằng giữa tắc mạch và chảy máu). Số liệu nguy cơ cho trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho tiếp ibuprofen, diclofenac hay aspirin khi bé đau",
+     "v": "h",
+     "n": "Tránh NSAID ở người dùng thuốc kháng vitamin K (ESC AF 2024 Hình 9); theo sổ mâu thuẫn mục HH-1045 chấm h."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' (kể cả metronidazole hay kháng sinh phổ rộng)",
+     "v": "h",
+     "n": "Không có nhiễm trùng; ESPGHAN/NASPGHAN 2025 không gợi ý kháng sinh cho đau bụng chức năng (sổ mâu thuẫn NH-1114). Với acenocoumarol: metronidazole và sulphonamid phải giảm liều thuốc kháng vitamin K (ghi cho warfarin), penicillin, macrolid, quinolon cần theo dõi INR (ESC AF 2024 Hình 9)."
+    },
+    {
+     "t": "Chỉ định mổ thăm dò hay cắt ruột thừa dự phòng",
+     "v": "h",
+     "n": "Siêu âm không viêm ruột thừa; ESPGHAN/NASPGHAN 2025 khuyến cáo mạnh không dùng phẫu thuật để đánh giá và điều trị đau bụng chức năng. Mổ ở bé có van cơ học phải ngừng kháng đông: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau bụng chức năng ở trẻ em (đau bụng chức năng tái diễn) ở bé gái 10 tuổi: đau quanh rốn từng cơn, ≥ 1 lần/tuần suốt 10 tuần, không đủ tiêu chuẩn rối loạn chức năng khác (QĐ 3312 Bảng 2)",
+     "Không có dấu báo động; đã loại viêm ruột thừa, nhiễm giun, lồng ruột bằng khám, siêu âm, công thức máu, CRP, soi phân",
+     "Bệnh nền: thay van hai lá cơ học sau thấp tim, dùng acenocoumarol, mới đổi từ warfarin 10 tuần trước; INR 3,0 trong khoảng đích của sổ, Hb 126, không chảy máu",
+     "Nhiễu: tự cho uống ibuprofen 5 ngày (làm đau tạm thưa đi, hơi rát thượng vị), là thuốc phải tránh với thuốc kháng vitamin K",
+     "Yếu tố tâm lý: lên lớp mới, mẹ lo bé chảy máu nên cấm vận động và nghỉ học nhiều; lý do thật đến khám là xin giấy chứng nhận sức khỏe"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự làm đúng: hỏi bệnh (nhịp đau, vị trí, dấu báo động, đại tiện, cân nặng, giun, thuốc đang dùng và thuốc tự mua kèm tên, số ngày, lần cuối, lần đổi thuốc, bối cảnh học đường, mẹ cần gì thêm) → khám (tăng trưởng, bụng kỹ, dấu chảy máu) → siêu âm bụng, INR, công thức máu, soi phân → chẩn đoán → xử trí.",
+     "Vì sao là đau bụng chức năng: đau từng cơn quanh rốn 3–4 lần/tuần suốt 10 tuần, giữa cơn chơi bình thường, không sốt, nôn, ỉa lỏng, máu trong phân, cân nặng ổn định. QĐ 3312 (Đau bụng chức năng mục 1, 3.1): phần lớn đau bụng mạn ở trẻ là chức năng (chỉ khoảng 8% có nguyên nhân thực thể), chỉ chẩn đoán khi không có dấu báo động và khám bình thường; Bảng 2: ≥ 1 lần/tuần và ≥ 2 tháng. Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải (Rome V 2026 Bảng 2 chỉ có phân loại H1b).",
+     "Vì sao phải nghĩ tới thuốc kháng đông: đau bụng ở người dùng kháng đông có thể do máu tụ thành ruột hay thành bụng, chảy máu tiêu hóa. Bé INR 3,0 trong khoảng đích của sổ, Hb 126, không phân đen, không bầm, siêu âm không có khối; đau đã có từ trước khi uống ibuprofen. Ngưỡng INR đích cho trẻ và nguy cơ chảy máu riêng cho từng thuốc ở trẻ: không có trong tài liệu đã tải.",
+     "Vì sao phải hỏi tên thuốc tự mua: mẹ chỉ nói 'thuốc giảm đau', thực ra là ibuprofen 5 ngày, thuộc nhóm NSAID phải tránh khi dùng thuốc kháng vitamin K (ESC AF 2024 Hình 9). Ibuprofen làm bé đau thưa đi trong 5 ngày nên mẹ tin 'thuốc này hợp' và tần suất cơn đau ghi trong bệnh sử dễ bị đánh giá thấp; cũng có thể gây rát thượng vị hai hôm nay. Cần hỏi: loại gì, bao nhiêu, mấy ngày, lần cuối, vì sao uống.",
+     "Vì sao không phải viêm ruột thừa, giun, lồng ruột: đau quanh rốn không chuyển hố chậu phải, không sốt, không nôn, bụng không phản ứng, CRP và siêu âm bình thường (WHO 2013 mục 9.4.1–9.4.2; WSES 2025 khuyến cáo 3.2). Soi phân không trứng, bạch cầu ái toan 3% (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1). Lồng ruột thường dưới 2 tuổi, đau quặn kèm nôn, phân máu giai đoạn muộn, khối ở bụng (WHO 2013 mục 9.4.4).",
+     "Vì sao hỏi thêm ngoài đau bụng: tâm lý căng thẳng, lo lắng của gia đình và xung quanh gợi ý đau bụng chức năng (QĐ 3312 mục 3.1). Lên lớp mới, đổi cô, mẹ cấm vận động, nghỉ học vì đi đo INR là các yếu tố làm đau tăng (QĐ 3312 mục 4.2). Lý do thật là xin giấy chứng nhận sức khỏe cho chuyến trải nghiệm; hỏi ra giúp trả lời đúng điều mẹ cần thay vì chỉ cho thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Giáo dục là điều trị đầu tiên: bệnh lành tính, ruột nhạy cảm, mục tiêu đầu tiên là sinh hoạt bình thường chứ không phải hết đau hoàn toàn (QĐ 3312 mục 4.1; ESPGHAN/NASPGHAN 2025 Best practice statement 1). Thuyên giảm tự nhiên 30–70% nhưng 25–66% còn đau kéo dài (QĐ 3312 mục 5), nên khỏi chậm hơn mẹ mong là có thể xảy ra; thời gian có tác dụng của từng điều trị khác nhau (ESPGHAN/NASPGHAN 2025, chú thích Hình 2).",
+     "Ngưng ibuprofen và dặn không tự mua thuốc giảm đau: NSAID cần tránh với thuốc kháng vitamin K (ESC AF 2024 Hình 9); thuốc giảm đau không kê đơn chỉ nên dùng ngắt quãng, theo đúng hướng dẫn liều và thời gian tại địa phương (ESPGHAN/NASPGHAN 2025 Best practice statement 4). Báo tim mạch; xử trí cụ thể sau khi đã uống NSAID cùng kháng đông: không có trong tài liệu đã tải.",
+     "Can thiệp hành vi: đi học đều, ăn chung, tham gia hoạt động ở lớp, mẹ phản ứng vừa đủ khi bé đau (QĐ 3312 mục 4.1–4.2). Hoạt động thể lực an toàn với van cơ học: hỏi tim mạch (không có trong tài liệu đã tải).",
+     "Thuốc: không bắt buộc. QĐ 3312 mục 4.3–4.4 (chất xơ, H2, chống co thắt) và ESPGHAN/NASPGHAN 2025, ESPGHAN 2023 (men vi sinh) đều cho phép thử nhưng chỉ giảm nhẹ triệu chứng; hai cách cùng chấm đúng (sổ mâu thuẫn NH-1114). Kháng sinh không gợi ý, phẫu thuật khuyến cáo mạnh không dùng (ESPGHAN/NASPGHAN 2025). Tẩy giun: WHO 2017 cho phép, không bắt buộc vì soi phân âm tính.",
+     "Giấy chứng nhận sức khỏe: khám bệnh khác khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a, Điều 32 khoản 3); dùng Mẫu số 02 cho học sinh 6–dưới 18 tuổi (TT 25/2026/TT-BYT, Phụ lục XXIV); kết luận trung thực. Hẹn sau khi có ý kiến tim mạch, không ký 'đủ sức khỏe' hôm nay.",
+     "Hẹn tái khám 2 tuần là mốc do người viết chọn (không có trong tài liệu đã tải). Nếu không đỡ: liệu pháp nhận thức hành vi hoặc thôi miên (QĐ 3312 mục 4.5; ESPGHAN/NASPGHAN 2025)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Acenocoumarol (thuốc đang dùng, KHÔNG đổi)",
+      "ham_luong": "Theo toa bác sĩ tim mạch",
+      "lieu": "Theo toa bác sĩ tim mạch",
+      "duong": "Uống",
+      "thoi_diem": "Theo toa (tối)",
+      "so_ngay": "Dài hạn theo tim mạch",
+      "ghi_chu": "Không tự ngưng, không tự đổi liều, đo INR đúng lịch. Liều và INR đích ở trẻ không có trong tài liệu đã tải (đích trong sổ của bé 2,5–3,5)."
+     },
+     {
+      "thuoc": "NGƯNG ibuprofen siro 100 mg/5 mL",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không dùng nữa",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Trong lúc dùng thuốc kháng đông",
+      "ghi_chu": "Tránh NSAID với thuốc kháng vitamin K (ESC AF 2024 Hình 9). Không dùng thay bằng aspirin, diclofenac. Thuốc giảm đau thay thế: không có trong tài liệu đã tải, hỏi bác sĩ."
+     },
+     {
+      "thuoc": "Không kê thuốc điều trị đau bụng chức năng lượt này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không có",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Điều trị đầu tay là giáo dục và can thiệp hành vi (QĐ 3312 mục 4.1–4.2); thuốc chỉ giảm nhẹ triệu chứng (mục 4.4). Nếu gia đình muốn thử: chất xơ, thuốc ức chế H2 (QĐ 3312 mục 4.3–4.4) hoặc L. reuteri DSM 17938 10⁸–2×10⁸ CFU/ngày (ESPGHAN 2023 tr. 241–242); liều H2, chất xơ cho trẻ 10 tuổi và tương tác với acenocoumarol: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đau bụng của Châu là đau bụng chức năng: ruột nhạy cảm hơn bình thường, hay tăng khi lo lắng, không phải ruột thừa, không có giun, không do van tim hay thuốc loãng máu, không để lại hậu quả sau này (QĐ 3312 mục 4.1).",
+     "Ngưng siro ibuprofen từ hôm nay. Không tự mua thuốc giảm đau, thuốc kháng viêm, kháng sinh hay thuốc bắc cho bé khi chưa hỏi bác sĩ; mang hộp thuốc khi đi khám. Mang giấy này cho bác sĩ tim mạch, kể bé đã uống ibuprofen 5 ngày (ESC AF 2024 Hình 9).",
+     "Tiếp tục thuốc loãng máu đúng toa mỗi tối, đo INR theo lịch của bác sĩ tim mạch, không tự ngưng. Hỏi bác sĩ tim mạch mức vận động và chuyến đi của lớp.",
+     "Cho bé đi học đều, ăn chung cả nhà. Khi bé kêu đau thì hỏi han ngắn rồi cho bé quay lại việc đang làm; cô chủ nhiệm biết bé có thể đau và cho bé nghỉ ngắn rồi vào lớp (QĐ 3312 mục 4.1–4.2).",
+     "Ghi nhật ký: ngày giờ đau, bao lâu, bé đang làm gì; cân nặng mỗi tuần. Đau có thể còn vài tuần, thưa dần chứ không hết ngay (QĐ 3312 mục 5).",
+     "Đến ngay nếu: đau trên 4 giờ hoặc đau tăng, đau khu trú hố chậu phải, sốt, nôn, bụng cứng, phân đen hay có máu, nôn ra máu, tiểu máu, bầm tím, chảy máu cam hay chảy máu chân răng không cầm (WHO 2013 mục 9.4.1; QĐ 3312 Bảng 1).",
+     "Giấy chứng nhận sức khỏe: hôm nay là khám bệnh, chưa cấp giấy được. Sau khi có ý kiến bác sĩ tim mạch và Châu hết đau, đưa bé đi khám sức khỏe theo mẫu cho học sinh để bác sĩ kết luận đúng tình trạng (TT 32/2023/TT-BYT Điều 30, 32; TT 25/2026/TT-BYT Mẫu số 02).",
+     "Tái khám sau 2 tuần (mốc này không có trong tài liệu đã tải), mang sổ INR, nhật ký và hộp thuốc đang dùng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau buổi khám Châu ngừng ibuprofen, đi học đều và ăn chung; mẹ báo bác sĩ tim mạch, INR vẫn trong khoảng đích. Bé vẫn còn đau 2–3 cơn mỗi tuần sau 4 tuần, nặng hơn mỗi khi sắp kiểm tra, chậm hơn mẹ kỳ vọng 'vài ngày'. Khám sức khỏe theo Mẫu số 02 sau ý kiến tim mạch: bé chưa đi chuyến đầu tháng 12, chuyến sau khi hết đau mới đi. Cơn đau thưa dần, khoảng 3 tháng sau khám còn dưới 1 cơn/tuần rồi hết, cân nặng tăng 1,5 kg (kết cục minh họa, không có trong tài liệu đã tải). Kết cục: khỏi chậm hơn dự kiến.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: mẹ cho ibuprofen nhưng chỉ nói 'thuốc giảm đau'; thuốc làm cơn đau thưa đi nên bệnh sử bị đánh giá thấp, hơi rát thượng vị, và là NSAID phải tránh với thuốc kháng vitamin K. Phải hỏi tên thuốc, liều, số ngày, lần cuối (ESC AF 2024 Hình 9).",
+  "Ràng buộc nguồn lực: cơ sở không có CT. Thay bằng khám bụng kỹ, siêu âm (hình ảnh đầu tiên ở trẻ), INR và xét nghiệm tối thiểu; CT không cần cho ca này (WSES 2025 khuyến cáo 3.2).",
+  "Đổi thuốc kháng đông 10 tuần trước trùng lúc lên lớp mới: mẹ gán cơn đau cho thuốc mới, thực ra đau không do thuốc; INR trong khoảng đích, Hb bình thường, siêu âm không máu tụ.",
+  "Lý do thật đến khám: xin giấy chứng nhận sức khỏe cho chuyến trải nghiệm. Bỏ qua sẽ cho thuốc rồi ký giấy sai quy định; hỏi ra thì giải thích khám bệnh khác khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a)."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước 5 ngày: hỏi cụ thể 'thuốc nào, tên gì, mấy ngày, lần cuối, vì sao uống', xin xem hộp thuốc. Ở người dùng kháng đông, một chữ 'thuốc giảm đau' có thể là NSAID (ESC AF 2024 Hình 9).",
+  "Ở người dùng kháng đông, đau bụng luôn phải nghĩ chảy máu: xem INR, Hb, siêu âm, hỏi phân đen, nhưng không vì thế mà bỏ chẩn đoán chức năng khi mọi thứ bình thường.",
+  "Đau bụng chức năng không bắt đầu bằng thuốc: giải thích bệnh lành tính, sinh hoạt bình thường, giảm lo lắng của mẹ (QĐ 3312 mục 4.1–4.2; ESPGHAN/NASPGHAN 2025 Best practice statement 1).",
+  "Ca khỏi chậm: thuyên giảm tự nhiên 30–70% nhưng 25–66% còn đau kéo dài (QĐ 3312 mục 5). Dặn mốc tái khám, dấu hiệu quay lại ngay (sụt cân, sốt, nôn, phân đen) để phân biệt hồi phục chậm bình thường với bệnh khác; nếu còn đau, cân nhắc liệu pháp tâm lý (ESPGHAN/NASPGHAN 2025).",
+  "Lý do thật xin giấy: hỏi 'chị còn cần giấy tờ gì không'; giải thích khám bệnh khác khám sức khỏe, không ký giấy 'đủ sức khỏe' khi chưa đánh giá đủ (TT 32/2023/TT-BYT Điều 30 khoản 2a, Điều 32 khoản 3).",
+  "Ca điển hình cần chặt chẽ quy trình: dấu báo động (QĐ 3312 Bảng 1) kiểm từng mục; giữa nhiều ca đau bụng chức năng, ca này khác ở thuốc kháng đông và thuốc tự mua."
+ ],
+ "diem_nho": [
+  "Đau bụng mạn ở trẻ 1–19%, chỉ khoảng 8% có nguyên nhân thực thể (QĐ 3312, Đau bụng chức năng mục 1).",
+  "Dấu báo động (QĐ 3312 Bảng 1): giảm cân hoặc chậm phát triển, chậm dậy thì, nôn, ỉa lỏng, xuất huyết tiêu hóa, sốt chưa rõ nguyên nhân, phát ban, viêm khớp hoặc tiền sử viêm ruột trong gia đình; đau ¼ trên hoặc dưới bên phải, đau toàn bụng hoặc có khối, gan lách to, gai cột sống hoặc góc sườn cột sống, loét miệng, nứt hoặc dò hậu môn.",
+  "Rome III (QĐ 3312 Bảng 2): đau bụng chức năng ở trẻ em là đau từng cơn hoặc liên tục, không đủ tiêu chuẩn rối loạn khác, ≥ 1 lần/tuần, ≥ 2 tháng. Rome IV, Rome V cho trẻ: không có trong tài liệu đã tải.",
+  "Đau bụng kéo dài trên 4 giờ coi là cấp cứu bụng tiềm tàng; hỏi 3 câu: triệu chứng kèm theo, chỗ đau, có viêm phúc mạc không (WHO 2013 mục 9.4.1).",
+  "Thuốc kháng vitamin K: tránh NSAID; metronidazole và sulphonamid phải giảm liều warfarin; penicillin, macrolid, quinolon cần theo dõi INR (ESC AF 2024 Hình 9, bảng cho người lớn rung nhĩ).",
+  "Thôi miên, liệu pháp nhận thức hành vi được ESPGHAN/NASPGHAN 2025 khuyến cáo mạnh cho đau bụng chức năng; kháng sinh không gợi ý, phẫu thuật khuyến cáo mạnh không dùng.",
+  "Khám sức khỏe cấp giấy khác khám bệnh ngoại trú (TT 32/2023/TT-BYT Điều 30 khoản 2a); học sinh 6–dưới 18 tuổi dùng Mẫu số 02 (TT 25/2026/TT-BYT, Phụ lục XXIV)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Đau bụng chức năng (mục 1–5, Bảng 1, Bảng 2, tr. 344–347); Nhiễm ký sinh trùng đường ruột ở trẻ em (mục 3.1a–c, tr. 335–337)",
+  "ESPGHAN/NASPGHAN 2025 – Guidelines for treatment of IBS and functional abdominal pain-NOS in children aged 4–18 years. J Pediatr Gastroenterol Nutr. 2025, doi:10.1002/jpn3.70070 (kho tltk-10000-ca, 03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo thôi miên, liệu pháp nhận thức hành vi, men vi sinh đa chủng; Best practice statement 1, 4; kháng sinh không gợi ý; phẫu thuật khuyến cáo mạnh không dùng",
+  "ESPGHAN 2023 – Probiotics for the management of pediatric gastrointestinal disorders: position paper of the ESPGHAN Special Interest Group on Gut Microbiota and Modifications. J Pediatr Gastroenterol Nutr. 2023;76(2):232-247 – TL-0258 – ĐÃ ĐỌC: mục đau bụng chức năng (tr. 241–242): L. reuteri DSM 17938",
+  "WHO 2013 – Pocket book of hospital care for children, 2nd edition – TL-0250 – ĐÃ ĐỌC: mục 9.4.1 Abdominal pain (tr. 281), 9.4.2 Appendicitis (tr. 282), 9.4.4 Intussusception (tr. 284)",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: khuyến cáo 3.2 (siêu âm là hình ảnh đầu tiên ở trẻ em, CT liều thấp khi siêu âm không kết luận)",
+  "WHO 2017 – Guideline: preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups – TL-0248 – ĐÃ ĐỌC: Recommendations (albendazol 400 mg hoặc mebendazol 500 mg một liều cho trẻ học đường vùng có ≥ 20% nhiễm)",
+  "ESC 2024 – Guidelines for the management of atrial fibrillation – TL-0303 – ĐÃ ĐỌC: mục 6.2, Hình 9 (tr. 3343, tương tác thuốc với thuốc kháng đông uống; bảng cho người lớn, dùng tham khảo cho trẻ vì thiếu tài liệu riêng)",
+  "Rome V 2026 – Drossman DA, Chang L, Tack J. Gastroenterology 2026;170(6):1083-1098 – TL-0252 – ĐÃ ĐỌC: Bảng 2 (phân loại H1b Abdominal pain syndrome – NOS); không có tiêu chuẩn chẩn đoán nhi chi tiết",
+  "TT 32/2023/TT-BYT – Bộ Y tế, Thông tư 32/2023/TT-BYT ngày 31/12/2023 quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh – TL-0669 – ĐÃ ĐỌC: Điều 30 (khoản 1a, 2a), Điều 32 khoản 3",
+  "TT 25/2026/TT-BYT – Bộ Y tế, Thông tư 25/2026/TT-BYT, mẫu khám sức khỏe, định kỳ, hồ sơ và nội dung khám – TL-0668 – ĐÃ ĐỌC: Phụ lục XXIV, Mẫu số 02 (người từ đủ 6 đến dưới 18 tuổi)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: tiêu chuẩn Rome IV và Rome V cho đau bụng chức năng ở trẻ; liều thuốc chống co thắt, ức chế H2, chất xơ cho trẻ 10 tuổi; INR đích, liều thuốc kháng đông và nguy cơ chảy máu ở trẻ thay van cơ học; xử trí khi trẻ đã uống NSAID cùng kháng đông; thuốc giảm đau thay thế an toàn cho trẻ dùng kháng đông; tương tác albendazol, mebendazol, men vi sinh với acenocoumarol; hoạt động thể lực và chuyến đi xa khi có van cơ học; chỉ định FIT ở trẻ; tỉ lệ biến chứng dạ dày của NSAID ở trẻ; nguy cơ chảy máu do lấy máu, tiêm truyền ở trẻ dùng kháng đông; mốc thời gian tái khám đau bụng chức năng"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19): viết theo đặc tả sổ cái NH-1103 (1 lượt, điển hình, tự uống thuốc 5 ngày, không có CT, khỏi chậm hơn dự kiến, xin giấy chứng nhận sức khỏe, đổi thuốc điều trị, thuốc kháng đông).",
+  "Tài liệu đã đọc: TL-0037 (QĐ 3312, Đau bụng chức năng tr. 344–347; Nhiễm KST tr. 335–337), TL-0250 (WHO 2013 mục 9.4.1–9.4.4), ESPGHAN/NASPGHAN 2025 (kho cũ), TL-0258 (ESPGHAN 2023, tr. 241–242), TL-0252 (Rome V 2026 Bảng 2), TL-0053 (WSES 2025), TL-0248 (WHO 2017), TL-0303 (ESC AF 2024 mục 6.2, Hình 9), TL-0669 (TT 32/2023), TL-0668 (TT 25/2026 Mẫu 02).",
+  "Áp dụng đúng các mục sẵn có trong sổ mâu thuẫn: NH-1114 số 1 (thuốc/chế độ ăn), số 2 (siêu âm/xét nghiệm), số 3 (Rome III/IV/V); NH-1135 (kháng đông ở trẻ, ESC AF 2024 Hình 9); HH-1045 (NSAID với kháng vitamin K chấm h); NH-0050 (giấy chứng nhận sức khỏe: TT 32/2023 Điều 30, 32). Không có mâu thuẫn mới.",
+  "Thiết kế: bé có van hai lá cơ học sau thấp tim, dùng acenocoumarol (đổi từ warfarin), khác NH-1135 ở chiều đổi thuốc, 1 lượt, thuốc tự mua là ibuprofen 5 ngày và lý do thật là xin giấy. Dùng bảng tương tác ESC AF 2024 Hình 9 cho warfarin tham khảo cho acenocoumarol vì Hình 9 ghi chung 'vitamin K antagonist'. Kết cục là minh họa.",
+  "Tim: không dùng âm thanh (tiếng van cơ học không có trong kho media), mô tả bằng chữ trong a. Phổi dùng tệp bình thường. Không có ảnh da, không đề xuất mục danh mục mới."
+ ]
+}
