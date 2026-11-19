@@ -1,0 +1,767 @@
+{
+ "ma_ca": "NH-1196",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_choc_impetigo",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Chốc (impetigo)",
+  "chan_doan_phai_loai_tru": [
+   "Thủy đậu",
+   "Herpes"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Mẹ tự ngưng thuốc đang dùng (thuốc bôi kháng sinh, rồi thuốc uống) khi thấy da khô",
+  "thuoc_dang_dung": "Statin (của ông nội sống cùng nhà, bé không dùng)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe cho bé đi học lại"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Tuấn Kiệt",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 104,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn khi được hỏi trực tiếp. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 31 tuổi, công nhân may, hiền, nói chậm rãi, hợp tác, trả lời thẳng mọi câu hỏi, mang theo vỏ thuốc và sổ tiêm chủng. Bé ngoan, hay gãi khi nói chuyện, không quấy khóc.",
+  "kieu_nhieu": "Hợp tác tốt: mẹ khai đủ và đúng, không giấu, kể cả chuyện tự ngưng thuốc khi được hỏi. Khó khăn không nằm ở lời khai mà ở chỗ phải hỏi đúng câu (đã dùng thuốc gì, uống bao nhiêu ngày, nhà còn ai có vết) và nhận ra việc xin giấy sức khỏe là yêu cầu không thể đáp ứng nguyên văn.",
+  "nguoi_nha": "Mẹ bé, chị Thục, 31 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); khi bác sĩ hỏi thẳng bé thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thục)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#7fb3d5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#b5838d",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Xin giấy chứng nhận sức khỏe cho bé đi học lại",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (khoảng 18 giờ 30, cả ba lượt): kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về nên phòng khám không làm được xét nghiệm máu, nhuộm Gram, cấy, Tzanck, PCR, X-quang, siêu âm; kéo theo không có CT và nội soi. Mẫu gửi đi chỉ có kết quả sau khoảng 2 ngày, không có kết quả để quyết định tối nay."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 17 kg, mẹ đưa đến lúc 18 giờ 30 xin giấy chứng nhận sức khỏe để trường mầm non cho bé đi học lại sau 3 ngày nghỉ. Bé tỉnh, chơi, không sốt. Quanh miệng, tay và chân có nhiều nốt đỏ, vảy. Phòng khám đã hết giờ hành chính.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Kiệt có 11 tổn thương nông nhưng không sốt, ăn chơi bình thường, không vùng da nào đỏ nóng đau lan rộng, nên chưa có chỉ định nhập viện; NICE NG153 mục 1.1.15 chỉ chuyển viện khi có dấu hiệu bệnh nặng hơn như viêm mô bào hoặc người suy giảm miễn dịch, còn QĐ 4416 (Chốc mục 3.2.2) cho phép điều trị bằng kháng sinh uống tại nhà. Nằm viện làm bé tách khỏi mẹ, mẹ nghỉ làm thêm vài ngày, tốn kém, mà thuốc cần dùng vẫn chỉ là loại uống.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên trong đêm là quá tay: chốc là bệnh nông, chẩn đoán chủ yếu dựa vào lâm sàng (QĐ 4416, Chốc mục 2.3) và điều trị được ở phòng khám (IDSA 2014 khuyến cáo I.1, I.2). Chị Thục phải đưa con đi xa lúc tối, chờ lâu ở nơi đông bệnh nhân, bé có thể bị lây thêm bệnh khác, mà bác sĩ tuyến trên cũng kê đúng loại kháng sinh uống này.",
+    "theo_doi": "Bé Kiệt chỉ được cho giấy, dặn bôi thuốc ngứa và ở nhà theo dõi, không dùng kháng sinh. Bé vẫn gãi, vi khuẩn lan thêm sang da lành nên số tổn thương tăng dần; QĐ 4416 (Chốc mục 2.1) ghi bệnh có thể dai dẳng do tự lây và tiến triển thành viêm mô bào, viêm hạch mủ nếu không điều trị. Bé tiếp tục là nguồn lây cho em gái 20 tháng và các bạn ở lớp."
+   },
+   "loi_mo": "Bác sĩ ơi, cô giáo cho bé nghỉ học mấy hôm nay vì nổi mụn, cô bảo phải có giấy bác sĩ nói bé khỏe mới cho đi học lại. Bác sĩ khám rồi cấp giấy cho bé giúp em nha.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ xin giấy chứng nhận sức khỏe để bé đi học lại. Cô giáo cho nghỉ từ 3 hôm trước vì bé nổi mụn nước, mụn mủ ở mép miệng, tay, chân; nhà trường yêu cầu giấy của bác sĩ. Mẹ nghĩ chỉ là 'mụn nhiệt', không lo bệnh nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (xin giấy) và việc bé bị nghỉ học vì tổn thương da"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 8 ngày trước bé bị muỗi đốt vài nốt ở cẳng chân, ngứa, gãi trầy. Khoảng 5 ngày trước xuất hiện nốt nước quanh mép rồi vỡ đóng vảy, sau đó lan sang cổ tay, cẳng tay, cẳng chân. Số nốt tăng dần, không nổi theo từng đợt kèm sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát, diễn tiến, yếu tố thuận lợi (côn trùng cắn, gãi)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Mẹ mua một tuýp kem kháng sinh bôi (acid fusidic) ở nhà thuốc, bôi cho bé 2 ngày rồi thấy nốt khô nên tự ngưng, hiện còn tuýp thuốc. Chưa cho uống kháng sinh, chưa bôi corticoid, chưa bôi thuốc lá hay thuốc dân gian.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng và đã tự ngưng (kháng sinh bôi, corticoid)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không ho, không nôn, không tiêu chảy, ăn uống và chơi bình thường, tiểu bình thường, nước tiểu vàng trong, mặt không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân, dấu hiệu biến chứng"
+    },
+    {
+     "id": "ngua_dau",
+     "noi_dung": "Các nốt ngứa là chính, bé hay gãi, không kêu đau rát hay châm chích trước khi nổi. Móng tay bé khá dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa hay đau rát, tiền triệu (phân biệt herpes)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Lớp có 2 bạn nghỉ tuần trước vì 'lở loét, mụn mủ'; không ai nghe nói bị thủy đậu. Trong nhà chưa ai bị thủy đậu hay zona. Bé chưa tiêm vắc xin thủy đậu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc ca tương tự; tiền sử thủy đậu, tiêm vắc xin thủy đậu"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, phát triển bình thường. Không chàm, không dị ứng thuốc, không dùng corticoid hay thuốc ức chế miễn dịch, không bệnh mạn tính.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh da nền, miễn dịch, dị ứng thuốc"
+    },
+    {
+     "id": "vsinh",
+     "noi_dung": "Bé tắm mỗi ngày, dùng chung khăn mặt với em gái 20 tháng. Em gái hiện không có vết gì trên da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vệ sinh, nguồn lây trong nhà"
+    },
+    {
+     "id": "noi_o",
+     "noi_dung": "Nhà có 5 người: ông bà nội, bố mẹ, bé và em gái. Mẹ làm công nhân may. Ông nội 63 tuổi uống atorvastatin buổi tối vì mỡ máu cao; thuốc này của ông, bé không dùng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hoàn cảnh gia đình (thuốc statin là của ông nội)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Quanh mép miệng phải: 2 vảy tiết vàng mật ong 8 và 10 mm trên nền đỏ ướt. Cổ tay phải: 2 vảy nâu 6 mm. Mặt ngoài cẳng tay trái: 3 bọng nước nông, nhăn nheo, 6–10 mm, chứa dịch vàng trong; 1 cái đã vỡ để lại viền vảy mỏng quanh nền đỏ ướt. Hai cẳng chân: 4 tổn thương tương tự (bọng nước xẹp và vảy nâu). Tổng 11 tổn thương rải rác, đa số cùng một giai đoạn. Không có mụn nước nhỏ 2–3 mm lõm giữa, không có cụm mụn nước đứng trên nền ban đỏ, không có tổn thương ở da đầu, thân mình, lòng bàn tay chân; không loét sâu.",
+     "k": 1,
+     "hien": "Quanh mép miệng phải, cổ tay phải, cẳng tay trái và hai cẳng chân có tất cả 11 tổn thương đỏ, bọng nước nông 6–10 mm và vảy; xem mô tả chi tiết bằng chữ."
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, môi hồng, niêm mạc ẩm, không mất nước, không phù mặt, không phù chân. Cân nặng 17 kg.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm phải 8 mm, di động, không đau; da trên hạch không đỏ nóng. Cổ mềm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ. Niêm mạc miệng, lưỡi, vòm họng không có mụn nước hay loét. Lỗ mũi hai bên có ít vảy khô. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Bờ mi không đỏ, không vảy, kết mạc hồng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không rút lõm, rì rào phế nang rõ hai bên.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Cơ sở không làm được tối nay.",
+     "n": "Không cần: chốc khu trú, không sốt, chẩn đoán chủ yếu bằng lâm sàng (QĐ 4416, Chốc mục 2.3)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Cơ sở không làm được tối nay.",
+     "n": "Không cần, lý do như công thức máu (QĐ 4416, Chốc mục 2.2: CRP chỉ 'có thể tăng')."
+    },
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Tối nay không lấy mẫu được (kỹ thuật viên đã về). Nếu lấy sáng hôm sau, kết quả sau khoảng 2 ngày: Gram thấy cầu khuẩn gram dương xếp đám kèm bạch cầu đa nhân trung tính; cấy mọc tụ cầu vàng nhạy methicillin.",
+     "thay_the": "da",
+     "n": "Hữu ích, không bắt buộc: IDSA 2014 (khuyến cáo I.1) nên nhuộm Gram, cấy mủ nhưng điều trị không cần xét nghiệm là hợp lý khi ca điển hình; AWaRe 2022 (tr. 195): hầu hết ca nhẹ không cần. Tối nay không làm được nên quyết định bằng lâm sàng."
+    },
+    "pcr_hsv": {
+     "v": "n",
+     "r": "Cơ sở không làm được tối nay.",
+     "n": "Không cần: không có cụm mụn nước trên nền ban, không đau rát (QĐ 4416, Herpes simplex mục 2.1)."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que thử: hồng cầu, protein, bạch cầu, nitrit đều âm tính; tỷ trọng 1.015.",
+     "n": "Chấp nhận, không bắt buộc: viêm cầu thận là biến chứng đã ghi nhận của chốc ở trẻ em (QĐ 4416, Chốc mục 2.1); không có khuyến cáo tầm soát thường quy trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc (impetigo) thể bọng nước kèm vảy tiết, nhiều tổn thương (11), ở trẻ 4 tuổi, chưa biến chứng",
+     "ok": 1,
+     "n": "Bọng nước nông nhăn nheo chứa dịch vàng trong, vỡ để lại viền vảy quanh nền đỏ ướt, phối hợp vảy vàng mật ong quanh mép, xuất hiện ở mặt và chi (QĐ 4416, Chốc mục 2.1); bệnh thường gặp ở trẻ nhỏ, thuận lợi do côn trùng cắn và gãi (mục 1.2); chẩn đoán chủ yếu bằng lâm sàng (mục 2.3). Không điển hình vì tổn thương lan rộng ra chi, nhiều bọng nước, không chỉ quanh hốc tự nhiên."
+    },
+    {
+     "t": "Thủy đậu",
+     "n": "Ít nghĩ: không sốt, không tiền triệu; tổn thương cùng giai đoạn thay vì sẩn, mụn nước, mụn mủ, vảy cùng lúc (QĐ 4416, Thủy đậu mục 2.1); không có mụn nước 2–3 mm lõm giữa, không ở da đầu hay niêm mạc. CDC 2024 (Clinical features): thủy đậu chưa tiêm tiến triển nhanh từ dát, sẩn đến mụn nước. Bé chưa tiêm vắc xin nên vẫn phải cân nhắc, không loại bằng tiền sử."
+    },
+    {
+     "t": "Herpes simplex (HSV) quanh miệng",
+     "n": "Ít nghĩ: HSV là cụm 2–10 mụn nước trên nền dát đỏ xếp hình vòng cung, có tiền triệu ngứa dấm dứt (QĐ 4416, Herpes simplex mục 2.1); bé có vảy vàng mật ong rời rạc, ngứa không đau rát, tổn thương cả ở chi. QĐ 4416 liệt kê chốc bọng nước trong chẩn đoán phân biệt của HSV (mục 2.4)."
+    },
+    {
+     "t": "Biến chứng: viêm mô bào, viêm hạch mủ, viêm cầu thận",
+     "n": "Chưa có: không sốt, không vùng da đỏ nóng đau lan rộng, hạch dưới hàm 8 mm không đau, không phù, nước tiểu trong, que thử âm tính (QĐ 4416, Chốc mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kháng sinh uống phủ tụ cầu và liên cầu (cephalexin hoặc cloxacillin), 5–7 ngày, vì nhiều tổn thương",
+     "v": "c",
+     "n": "QĐ 4416 (Chốc mục 3.2.2): kháng sinh toàn thân khi tổn thương nhiều, cephalexin 25 mg/kg/ngày chia 4 hoặc cloxacillin 50–100 mg/kg/ngày chia 3–4. IDSA 2014 (khuyến cáo I.2, I.2b): thuốc uống khi nhiều tổn thương, 7 ngày; cephalexin 25–50 mg/kg/ngày (Bảng 2). NICE NG153 (mục 1.1.5; Bảng 2) và AWaRe 2022 (tr. 197): chốc bọng nước dùng thuốc uống, 5 ngày, tới 7 ngày tùy số tổn thương. Liều và số ngày khác nhau giữa nguồn: cả hai đúng."
+    },
+    {
+     "t": "Bôi thêm mupirocin 2% hoặc acid fusidic tại tổn thương cùng lúc với thuốc uống",
+     "v": "a",
+     "n": "QĐ 4416 (Chốc mục 3.1) nêu nguyên tắc 'kết hợp thuốc điều trị tại chỗ và toàn thân' và mục 3.2.1 mupirocin, acid fusidic bôi 2 lần/ngày. NICE NG153 (mục 1.1.6): không phối hợp thuốc bôi và uống. Hai nguồn khác nhau nên cả làm và không làm đều chấp nhận."
+    },
+    {
+     "t": "Ngâm hoặc đắp dung dịch thuốc tím 1/10.000, dung dịch Jarish hay nước muối sinh lý lên vảy",
+     "v": "a",
+     "n": "QĐ 4416 (Chốc mục 3.2.1): ngâm tắm thuốc tím loãng 1/10.000 hoặc sát khuẩn khác ngày 1 lần; đắp nước muối sinh lý 9‰ hoặc Jarish để bong vảy. NICE NG153 (Bảng 2, ghi chú): không có bằng chứng cho các chất sát khuẩn khác ngoài hydrogen peroxide 1% trong chốc. Cả làm và không làm đều chấp nhận."
+    },
+    {
+     "t": "Vệ sinh chống lây: rửa tay, cắt móng, không gãi, khăn mặt và đồ dùng riêng, giặt khăn riêng",
+     "v": "c",
+     "n": "NICE NG153 (mục 1.1.1): tư vấn vệ sinh để giảm lây sang vùng da khác và người khác; QĐ 4416 (Chốc mục 3.1): chống ngứa, tránh tự lây truyền. Bé dùng chung khăn với em gái 20 tháng nên điểm này đặc biệt cần."
+    },
+    {
+     "t": "Không cấp giấy 'khỏe mạnh, đi học bình thường'; cấp giấy ghi đúng chẩn đoán đang điều trị, cho nghỉ học đến ít nhất 24 giờ sau liều kháng sinh đầu (che kín tổn thương nếu có thể)",
+     "v": "c",
+     "n": "Nguồn bổ sung tự tìm: Colorado CDPHE, Impetigo in child care and school settings (https://cdphe.colorado.gov/child-care-school-settings/impetigo): cho nghỉ đến khi bắt đầu kháng sinh nếu che kín được mọi tổn thương; nếu không che kín được thì chờ 24 giờ sau khi bắt đầu kháng sinh. Tổn thương quanh miệng khó che kín nên chọn 24 giờ. Quy định của trường và của Việt Nam về giấy này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–4 ngày, đến sớm nếu nặng lên nhanh, sốt, vùng da đỏ nóng đau lan rộng, mặt phù hoặc tiểu ít, đỏ",
+     "v": "c",
+     "n": "NICE NG153 (mục 1.1.7–1.1.8): quay lại nếu nặng lên nhanh hoặc chưa đỡ; biến chứng viêm mô bào, viêm hạch, viêm cầu thận: QĐ 4416 (Chốc mục 2.1). Số ngày hẹn cụ thể: không có trong tài liệu đã tải, chọn theo diễn tiến; triệu chứng phù, tiểu đỏ là suy luận lâm sàng từ biến chứng viêm cầu thận."
+    },
+    {
+     "t": "Bôi corticoid (kem betamethasone, dermovate…) cho bớt ngứa",
+     "v": "w",
+     "n": "Tài liệu đã tải không nêu corticoid trong điều trị chốc; QĐ 4416 (mục 3.1) chỉ nêu chống ngứa để tránh tự lây. Bôi corticoid lên tổn thương nhiễm khuẩn chưa kiểm soát là suy luận làm chậm khỏi, không có nguồn trực tiếp."
+    },
+    {
+     "t": "Cho acyclovir uống vì nghi thủy đậu hoặc herpes",
+     "v": "w",
+     "n": "Không đúng chẩn đoán. QĐ 4416 (Thủy đậu mục 3.2.2): thuốc kháng virus cho người nguy cơ cao (người lớn chưa tiêm, thai phụ, suy giảm miễn dịch); bé khỏe, tổn thương là chốc."
+    },
+    {
+     "t": "Cấp giấy xác nhận bé khỏe, được đi học bình thường theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Giấy không đúng sự thật khi bé đang có 11 tổn thương nhiễm khuẩn đang lây. Colorado CDPHE: phải bắt đầu kháng sinh và che kín hoặc chờ 24 giờ mới cho đi học (nguồn bổ sung tự tìm). Chốc lây qua tiếp xúc, thường gặp ở trẻ nhỏ (QĐ 4416 mục 1.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc thể bọng nước kèm vảy tiết mật ong, lan rộng (11 tổn thương) ở mép miệng, cổ tay, cẳng tay, cẳng chân",
+     "Trẻ 4 tuổi, 17 kg, không sốt, không hạch viêm, chưa biến chứng, chưa có dấu hiệu viêm cầu thận",
+     "Yếu tố thuận lợi: muỗi đốt, gãi, móng dài, dùng chung khăn",
+     "Đã bôi acid fusidic 2 ngày rồi tự ngưng (dùng thuốc không đủ liệu trình)",
+     "Lý do thật đến khám: xin giấy cho đi học lại, cần giải thích vì sao chưa cấp giấy 'khỏe'"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là chốc: bọng nước nông nhăn nheo, dịch vàng trong, vỡ ra để lại viền vảy quanh nền đỏ ướt, kèm vảy vàng mật ong quanh mép, ở mặt và chi, rải rác, có xu hướng lan (QĐ 4416, Chốc mục 2.1). Bệnh thường gặp ở trẻ nhỏ, thuận lợi do côn trùng cắn (mục 1.2). Chẩn đoán xác định chủ yếu dựa vào lâm sàng (mục 2.3), nên ngoài giờ không có xét nghiệm vẫn quyết định được.",
+     "Vì sao không phải thủy đậu: không sốt, tổn thương cùng giai đoạn, không có mụn nước nhỏ lõm giữa, không ở da đầu và niêm mạc (QĐ 4416, Thủy đậu mục 2.1). Điểm dễ nhầm: bé chưa tiêm thủy đậu, có nhiều bọng nước rải rác, cô giáo cho nghỉ như bệnh lây.",
+     "Vì sao không phải herpes simplex: không có cụm mụn nước trên nền ban xếp vòng cung, không tiền triệu đau rát (QĐ 4416, Herpes simplex mục 2.1). NICE NG153 (mục 1.1.9) nhắc nghĩ lại herpes simplex khi chốc không đỡ: để dành cho lần tái khám nếu cần.",
+     "Vì sao chưa biến chứng: không sốt, hạch nhỏ không đau, không đỏ nóng lan, không phù, que thử nước tiểu âm tính (QĐ 4416, Chốc mục 2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chọn kháng sinh uống vì 11 tổn thương (nhiều, lan tỏa): QĐ 4416 (mục 3.2.2), IDSA 2014 (khuyến cáo I.2), NICE NG153 (mục 1.1.5, chốc bọng nước). Thuốc phải phủ tụ cầu nhạy methicillin và liên cầu: cephalexin hoặc cloxacillin (IDSA 2014 khuyến cáo I.2b); AWaRe 2022 (tr. 197) xếp hai thuốc này phổ hẹp, ưu tiên hơn amoxicillin-clavulanat. Chưa cần phủ MRSA: AWaRe 2022 (tr. 195) và IDSA 2014 (I.2b) chỉ khi nghi hoặc xác định MRSA.",
+     "Bôi kèm hay không bôi: QĐ 4416 (mục 3.1) khuyến khích kết hợp tại chỗ và toàn thân; NICE NG153 (mục 1.1.6) không phối hợp. Đây là mâu thuẫn thật giữa hai nguồn (khác năm 2023 và 2020, khác cách tiếp cận), nên cả hai cách đều được chấm đúng.",
+     "Giấy chứng nhận: bé đang có tổn thương lây, không cấp giấy 'khỏe'. Theo nguồn bổ sung tự tìm (Colorado CDPHE): đã bắt đầu kháng sinh và che kín được tổn thương thì đi học; không che kín (quanh miệng) thì chờ 24 giờ sau liều đầu. Phần quy định Việt Nam: không có trong tài liệu đã tải, mẹ hỏi thêm nhà trường.",
+     "Tái khám: NICE NG153 (mục 1.1.7–1.1.8) quay lại khi nặng lên nhanh hoặc chưa đỡ sau liệu trình; hẹn sau 3–4 ngày để kiểm tra đáp ứng là chọn lâm sàng (không có số ngày trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (gói bột pha hỗn dịch)",
+      "ham_luong": "125 mg/gói",
+      "lieu": "125 mg/lần × 4 lần/ngày (500 mg/ngày ≈ 29 mg/kg/ngày). Các nguồn khác nhau: QĐ 4416 (Chốc mục 3.2.2) 25 mg/kg/ngày chia 4 (≈ 425 mg/ngày); IDSA 2014 (Bảng 2) 25–50 mg/kg/ngày chia 3–4 (425–850 mg/ngày); AWaRe 2022 (tr. 197) 25 mg/kg/lần mỗi 12 giờ, dải 15–<20 kg: 500 mg mỗi 12 giờ (1.000 mg/ngày, cao nhất). QĐ 4416 là mức thận trọng nhất",
+      "duong": "Uống",
+      "thoi_diem": "Chia đều 4 lần trong ngày, cách khoảng 6 giờ, uống trong hoặc sau ăn",
+      "so_ngay": "7 ngày (IDSA 2014 khuyến cáo I.2b) hoặc 5 ngày, tăng lên 7 ngày tùy số tổn thương (NICE NG153 Bảng 2; AWaRe 2022 tr. 197). Ca này nhiều tổn thương nên kê 7 ngày. QĐ 4416 không nêu số ngày cho thuốc uống",
+      "ghi_chu": "Thay thế: cloxacillin uống 50–100 mg/kg/ngày chia 3–4 (QĐ 4416, Chốc mục 3.2.2) hoặc 15 mg/kg/lần mỗi 6 giờ, dải 15–<20 kg: 375 mg mỗi 6 giờ (AWaRe 2022 tr. 197). Bé không dị ứng thuốc."
+     },
+     {
+      "thuoc": "Mupirocin 2% mỡ (tùy chọn, không bắt buộc)",
+      "ham_luong": "Tuýp 5 g",
+      "lieu": "Bôi lớp mỏng tại tổn thương, 2 lần/ngày (IDSA 2014 I.2a; QĐ 4416 mục 3.2.1) hoặc 3 lần/ngày (NICE NG153 Bảng 2)",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sáng, tối sau khi rửa nhẹ và lau khô",
+      "so_ngay": "5 ngày (IDSA 2014; NICE NG153) hoặc thường 7 ngày (QĐ 4416 mục 3.2.1)",
+      "ghi_chu": "Kết hợp với thuốc uống: QĐ 4416 (mục 3.1) có, NICE NG153 (mục 1.1.6) không; cả hai đều chấp nhận. Có thể thay acid fusidic (QĐ 4416 mục 3.2.1)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị chốc, một nhiễm khuẩn nông ngoài da do tụ cầu hoặc liên cầu, rất dễ lây qua tay và đồ dùng (QĐ 4416, Chốc mục 1.3, 2.1). Không phải thủy đậu hay herpes.",
+     "Cho bé uống cephalexin 125 mg, 4 lần/ngày, đủ 7 ngày dù các nốt đã khô; không tự ngưng giữa chừng (IDSA 2014 khuyến cáo I.2b: 7 ngày; NICE NG153 Bảng 2: tối thiểu 5 ngày). Tuýp kem acid fusidic cũ: không dùng thêm khi chưa hỏi bác sĩ.",
+     "Cắt ngắn móng tay, rửa tay bé và cả nhà bằng xà phòng; mỗi người một khăn mặt, giặt khăn và quần áo bé hằng ngày (NICE NG153 mục 1.1.1); không dùng chung khăn với em gái.",
+     "Chưa cấp giấy 'khỏe'. Bé nghỉ học ít nhất 24 giờ sau liều kháng sinh đầu, che kín được tổn thương mới đi học lại (nguồn bổ sung: Colorado CDPHE). Nhà trường cần giấy khám ghi đúng chẩn đoán và đang điều trị.",
+     "Đưa bé đến ngay nếu sốt, vùng da đỏ nóng đau lan rộng, nốt tăng nhanh, mặt phù, tiểu ít hoặc nước tiểu đỏ (QĐ 4416 mục 2.1; NICE NG153 mục 1.1.7).",
+     "Em gái 20 tháng chưa có vết gì: có vảy hay nốt quanh mũi miệng thì đưa đi khám sớm (NICE NG153 mục 1.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày",
+   "tiep_don": "Tái khám lúc 18 giờ 30, ngày thứ 4 của kháng sinh uống. Mẹ cho biết bé uống đủ thuốc, các nốt cũ khô nhiều nhưng có thêm vài nốt mới ở chân, mẹ lo thuốc không hợp. Bé không sốt, chơi bình thường. Cô giáo hỏi lại giấy cho bé đi học. Phòng khám vẫn ngoài giờ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Kiệt đã đỡ phần lớn, không sốt, ăn uống tốt, chỉ có vài nốt mới nhỏ cạnh vùng gãi; đây là đáp ứng một phần giữa liệu trình chứ chưa phải thất bại điều trị (NICE NG153 mục 1.1.8 chỉ tái đánh giá khi nặng lên nhanh hoặc chưa đỡ sau khi hết liệu trình). Nhập viện để tiêm kháng sinh là can thiệp không cần, bé xa mẹ và em gái, bị chọc kim, gia đình tốn thêm ngày nghỉ làm.",
+    "chuyen_tuyen": "Chuyển tuyến trên vì 'có nốt mới' là quá tay: không sốt, không vùng da đỏ nóng đau lan rộng, không có tổn thương loét (QĐ 4416, Chốc mục 2.1, 3.2.2). Tuyến trên cũng chỉ tiếp tục kháng sinh uống, trong khi chị Thục mất cả buổi tối, bé mệt thêm; bệnh nhi có thể bị lây thêm bệnh khác ở nơi đông người.",
+    "theo_doi": "Cho rằng thuốc đã đủ tác dụng, dặn mẹ ngưng cephalexin vì các nốt cũ đã khô sẽ cắt ngang liệu trình mới 4 ngày. IDSA 2014 (khuyến cáo I.2b) khuyến cáo 7 ngày; ngưng sớm khiến vi khuẩn còn sót trên da và mũi có thể gây nốt mới và lây cho em gái. Bé chưa hết nguy cơ tự lây vì vẫn gãi (QĐ 4416, Chốc mục 2.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé uống thuốc đủ rồi, mấy nốt cũ khô hết, nhưng em thấy mọc thêm mấy nốt ở chân. Em sợ thuốc không hợp. Cô giáo cứ hỏi giấy cho bé đi học lại.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé uống cephalexin 4 ngày. Nốt cũ khô và bong vảy; có vài nốt nhỏ mới ở cẳng chân phải và cẳng tay trái. Mẹ lo thuốc không hợp và cần giấy cho cô giáo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, diễn tiến sau 4 ngày điều trị"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ cho uống đúng 4 lần/ngày, không bỏ liều, còn đủ thuốc cho 3 ngày nữa. Không nôn, không tiêu chảy, không nổi mẩn toàn thân sau uống thuốc. Mẹ không bôi thêm thuốc nào, chỉ rửa nước muối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, tác dụng phụ (loại trừ thất bại do bỏ thuốc, dị ứng thuốc)"
+    },
+    {
+     "id": "sot_lan",
+     "noi_dung": "Không sốt, ăn uống tốt, các nốt không đau tăng, không đỏ lan rộng quanh nốt, không sưng hạch mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng lên hoặc biến chứng"
+    },
+    {
+     "id": "gai",
+     "noi_dung": "Bé vẫn gãi lúc ngủ; nốt mới nằm cạnh chỗ bé hay gãi. Mẹ mới cắt móng hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gãi, tự lây"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu vàng trong, đi bình thường, mặt không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu viêm cầu thận"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Tổn thương cũ: bọng nước đã xẹp, vảy nâu khô, nền đỏ nhạt; 2 vảy vàng quanh mép đã bong gần hết, nền hồng. Có 3 bọng nước nhỏ 3–5 mm mới ở cẳng chân phải cạnh tổn thương cũ và 1 bọng nước 4 mm ở cẳng tay trái. Không loét, không đỏ nóng đau lan rộng, không vệt viêm bạch mạch. Tổng 4 tổn thương mới, khoảng 7 tổn thương cũ đang khô.",
+     "k": 1,
+     "hien": "Các tổn thương cũ khô và bong vảy; có 4 bọng nước nhỏ 3–5 mm mới ở cẳng chân phải và cẳng tay trái."
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, niêm hồng, không phù mặt, không phù chân. Không nổi mẩn toàn thân do thuốc.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm phải 5 mm, nhỏ hơn lần trước, không đau.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không tiêu chảy, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "n",
+     "r": "Cơ sở không làm được tối nay.",
+     "n": "Chưa cần: NICE NG153 (mục 1.1.11–1.1.12) chỉ nghĩ đến swab khi nặng lên hoặc chưa đỡ sau khi hoàn tất liệu trình."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc đang đáp ứng một phần với kháng sinh uống (ngày 4): tổn thương cũ khô, có 4 bọng nước mới do tự lây, chưa thất bại điều trị, chưa biến chứng",
+     "ok": 1,
+     "n": "Tổn thương cũ khô và bong vảy, hạch nhỏ lại, không sốt, bé uống thuốc đủ liều. Bệnh có thể dai dẳng do tự lây truyền (QĐ 4416, Chốc mục 2.1). NICE NG153 (mục 1.1.8): tái đánh giá khi nặng lên nhanh hoặc chưa đỡ sau khi hoàn tất liệu trình; chưa đến mức đó. Điểm khó: phân biệt đáp ứng chậm giữa liệu trình với thất bại điều trị."
+    },
+    {
+     "t": "Thất bại điều trị hoặc nhiễm tụ cầu kháng methicillin (MRSA)",
+     "n": "Chưa nghĩ: bé giảm 7 trên 11 tổn thương, không sốt; IDSA 2014 (khuyến cáo I.2b) chỉ đổi thuốc khi nghi hoặc xác định MRSA; AWaRe 2022 (tr. 195): không cần phủ MRSA thường quy. NICE NG153 (mục 1.1.9): khi tái đánh giá, xét thuốc đã dùng trước đó."
+    },
+    {
+     "t": "Biến chứng (viêm mô bào, viêm hạch mủ, viêm cầu thận)",
+     "n": "Chưa có: không đỏ nóng lan rộng, hạch nhỏ lại, không phù, que thử âm tính (QĐ 4416, Chốc mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục cùng thuốc, cùng liều, uống hết liệu trình (7 ngày theo IDSA hoặc tối thiểu 5 ngày theo NICE); không đổi thuốc, không tăng liều",
+     "v": "c",
+     "n": "IDSA 2014 (khuyến cáo I.2b): 7 ngày với thuốc phủ S. aureus. NICE NG153 (Bảng 2): 5 ngày thường đủ, tăng 7 ngày theo số tổn thương; mục 1.1.8: tái đánh giá khi nặng lên nhanh hoặc chưa đỡ sau khi hoàn tất liệu trình. AWaRe 2022 (tr. 197): 5 ngày. Bé có nhiều tổn thương và mới uống 4 ngày: dặn uống tiếp đến hết 7 ngày; cả hai cách ngày điều trị đều đúng."
+    },
+    {
+     "t": "Cắt móng, không gãi, giữ vệ sinh, khăn riêng; che nốt mới bằng băng gạc",
+     "v": "c",
+     "n": "Nốt mới nằm cạnh vùng gãi: tự lây (QĐ 4416, Chốc mục 2.1, 3.1 chống ngứa tránh tự lây); NICE NG153 (mục 1.1.1) vệ sinh giảm lây."
+    },
+    {
+     "t": "Giấy: ghi đúng chẩn đoán, đang điều trị kháng sinh trên 24 giờ; cho đi học nếu che kín được mọi tổn thương",
+     "v": "c",
+     "n": "Nguồn bổ sung tự tìm: Colorado CDPHE (https://cdphe.colorado.gov/child-care-school-settings/impetigo): sau khi bắt đầu kháng sinh và che kín được tổn thương thì được đi học; không che kín thì chờ 24 giờ. Bé đã uống 4 ngày, nốt mới ở chân và tay che kín được. Quy định của Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn quay lại sớm nếu nặng lên nhanh, sốt, đỏ nóng đau lan rộng; hẹn tái khám nếu chưa đỡ sau khi uống hết thuốc",
+     "v": "c",
+     "n": "NICE NG153 (mục 1.1.7–1.1.8, 1.1.12): quay lại nếu nặng lên nhanh hoặc chưa đỡ sau hoàn tất; sau đó cân nhắc swab. Cấp độ biến chứng: QĐ 4416 (Chốc mục 2.1)."
+    },
+    {
+     "t": "Đổi sang kháng sinh phổ rộng hoặc tiêm (ceftriaxone, quinolon) vì 'chưa đỡ hết'",
+     "v": "w",
+     "n": "Bé đang đáp ứng và chưa hết liệu trình; AWaRe 2022 (tr. 193–195): kháng sinh nhóm Access đường uống là đủ cho hầu hết ca, không cần phủ MRSA thường quy. QĐ 4416 (mục 3.2.2) dành quinolon, macrolid cho trường hợp không đáp ứng sau các nhóm trên."
+    },
+    {
+     "t": "Cấp giấy xác nhận bé đã khỏi bệnh",
+     "v": "w",
+     "n": "Bé vẫn còn 4 nốt mới và đang điều trị, chưa khỏi (QĐ 4416, Chốc mục 2.1: lành sau 1–2 tuần); giấy nên ghi 'đang điều trị'. Colorado CDPHE (nguồn bổ sung tự tìm)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc đáp ứng một phần ngày 4 của cephalexin: tổn thương cũ khô, 4 bọng nước nhỏ mới do tự lây",
+     "Không sốt, hạch nhỏ lại, chưa biến chứng, không phản ứng thuốc",
+     "Chưa thất bại điều trị; chưa có chỉ định đổi thuốc, cấy hay chuyển tuyến",
+     "Tuân thủ thuốc tốt; yếu tố còn lại: gãi, khăn dùng chung đã tách",
+     "Yêu cầu giấy đi học của nhà trường"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là 'đỡ một phần', chưa phải thất bại: giảm 7 trên 11 tổn thương, nốt cũ khô bong vảy, hạch từ 8 xuống 5 mm, không sốt, bé uống thuốc đủ. Nốt mới xuất hiện ở vùng gãi nên là tự lây (QĐ 4416, Chốc mục 2.1). NICE NG153 (mục 1.1.8) chỉ tái đánh giá khi xấu đi nhanh hoặc chưa đỡ sau khi hoàn tất liệu trình.",
+     "Vì sao chưa nghĩ kháng thuốc, MRSA: đáp ứng thấy rõ ở phần lớn tổn thương; IDSA 2014 (khuyến cáo I.2b) và AWaRe 2022 (tr. 195) chỉ phủ MRSA khi nghi hoặc xác định. Nếu sau khi hết thuốc vẫn không đỡ mới cân nhắc swab (NICE NG153 mục 1.1.12).",
+     "Vì sao chưa biến chứng: không đỏ nóng lan, không phù, que thử nước tiểu âm tính (QĐ 4416, Chốc mục 2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục cùng thuốc đến hết liệu trình: IDSA 2014 (khuyến cáo I.2b) 7 ngày; NICE NG153 (Bảng 2) và AWaRe 2022 (tr. 197) 5 ngày, tới 7 ngày tùy số tổn thương. Hai nguồn khác nhau do thiết kế tổng hợp và bối cảnh; cả hai đúng. Ca này dặn 7 ngày vì nhiều tổn thương và còn nốt mới.",
+     "Không bôi thêm hoặc bôi thêm đều chấp nhận (QĐ 4416 mục 3.1 so với NICE NG153 mục 1.1.6).",
+     "Giảm tự lây: cắt móng, tách khăn, che nốt (QĐ 4416 mục 3.1; NICE NG153 mục 1.1.1).",
+     "Giấy chứng nhận: ghi đúng bé đang điều trị; che kín tổn thương và đã trên 24 giờ kháng sinh nên có thể đi học (nguồn bổ sung tự tìm: Colorado CDPHE). Không ghi 'đã khỏi'.",
+     "Không đổi sang thuốc rộng hơn: AWaRe 2022 (tr. 193–195). Không ngưng sớm: IDSA 2014 I.2b."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (gói bột pha hỗn dịch) – tiếp tục",
+      "ham_luong": "125 mg/gói",
+      "lieu": "125 mg/lần × 4 lần/ngày, giữ nguyên liều lượt 1 (QĐ 4416 Chốc mục 3.2.2 25 mg/kg/ngày chia 4; IDSA 2014 Bảng 2 25–50 mg/kg/ngày; AWaRe 2022 tr. 197 500 mg mỗi 12 giờ cho 15–<20 kg)",
+      "duong": "Uống",
+      "thoi_diem": "4 lần/ngày, cách khoảng 6 giờ, trong hoặc sau ăn",
+      "so_ngay": "Uống tiếp 3 ngày nữa cho đủ 7 ngày (IDSA 2014 I.2b); tối thiểu 5 ngày theo NICE NG153 Bảng 2",
+      "ghi_chu": "Không đổi thuốc, không tăng liều: NICE NG153 mục 1.1.8; AWaRe 2022 tr. 193–195. Bé không dị ứng, không tác dụng phụ."
+     }
+    ],
+    "dan_do": [
+     "Bé đang đỡ, mấy nốt mới là do gãi lây sang chỗ khác, không phải thuốc không hợp (QĐ 4416, Chốc mục 2.1).",
+     "Tiếp tục cephalexin 125 mg, 4 lần/ngày cho đủ 7 ngày dù da đã khô; không ngưng sớm (IDSA 2014 khuyến cáo I.2b).",
+     "Cắt móng, không gãi, che nốt mới bằng băng gạc; mỗi người một khăn, giặt riêng (NICE NG153 mục 1.1.1).",
+     "Giấy này ghi bé đang điều trị chốc, đã uống kháng sinh trên 24 giờ, được đi học nếu băng kín mọi nốt (nguồn bổ sung: Colorado CDPHE).",
+     "Quay lại ngay nếu nặng lên nhanh, sốt, vùng da đỏ nóng đau lan rộng; hoặc nếu uống hết thuốc rồi vẫn còn nốt (NICE NG153 mục 1.1.7–1.1.8).",
+     "Quan sát em gái 20 tháng; có vảy hay nốt quanh mũi miệng thì đưa đi khám (NICE NG153 mục 1.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 2 tuần",
+   "tiep_don": "Tái khám lúc 18 giờ 30, 14 ngày sau lượt 2. Bé đã sạch da một thời gian nhưng 4 ngày nay lại nổi nốt đóng vảy vàng quanh lỗ mũi, mép và khuỷu tay. Mẹ xin khám và xin giấy vì cô giáo thấy bé lại có nốt. Bé không sốt, chơi bình thường. Ngoài giờ, phòng khám không có kỹ thuật viên.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Kiệt chỉ có 4 tổn thương khu trú, không sốt, không vùng da đỏ nóng đau lan rộng, không suy giảm miễn dịch nên không có chỉ định nhập viện; NICE NG153 (mục 1.1.15) chỉ chuyển viện khi có dấu hiệu bệnh nặng hơn như viêm mô bào hoặc người suy giảm miễn dịch bị chốc lan rộng. Nằm viện làm bé xa mẹ và em gái, bé có thể bị lây bệnh khác, mà nguồn lây trong nhà vẫn chưa được xử lý nên về nhà vẫn tái.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên trong đêm vì 'tái phát' là quá tay: đây mới là đợt thứ hai trong vài tuần và có nguyên nhân rõ (ngưng thuốc sớm, em gái có vảy quanh mũi, khăn dùng chung). NICE NG153 (mục 1.1.16) chỉ nêu cân nhắc xin ý kiến chuyên khoa khi chốc tái phát thường xuyên. Nếu xử lý nguồn lây rồi vẫn tái lần nữa thì mới cần chuyên khoa; chuyển ngay chỉ làm gia đình mất cả buổi tối mà không đổi được điều trị."
+   },
+   "loi_mo": "Bác sĩ ơi, bé khỏi hẳn mấy hôm rồi, giờ lại nổi nốt quanh mũi với miệng. Em lo quá. Cô giáo thấy nên bảo đưa bé khám lại và xin giấy.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "Không đo",
+    "nhiet": "37,0",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé nổi 4 nốt vảy vàng quanh lỗ mũi trái, mép phải và khuỷu tay phải khoảng 4 ngày nay, sau khi da đã sạch gần 10 ngày. Mẹ xin khám và xin giấy cho cô giáo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời điểm tái phát sau khi đã sạch"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Mẹ cho uống cephalexin tới ngày thứ 5 (một ngày sau lần tái khám trước) thì thấy da khô sạch nên ngưng, còn 2 ngày thuốc chưa uống; sau đó không bôi hay uống thuốc nào. Nếu hỏi thẳng 'đã uống đủ 7 ngày chưa' mẹ thừa nhận ngay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tự ngưng thuốc sớm"
+    },
+    {
+     "id": "em_gai",
+     "noi_dung": "Em gái 20 tháng có vài vảy vàng quanh mũi từ khoảng 1 tuần nay, mẹ tưởng sổ mũi; bé gái không sốt, chơi bình thường. Mẹ chưa cho em dùng thuốc gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây trong nhà (em gái, người nhà)"
+    },
+    {
+     "id": "hanh_vi",
+     "noi_dung": "Bé hay ngoáy mũi. Khi bé khỏi, mẹ cho dùng chung khăn mặt với em gái lại. Mẹ cắt móng lần cuối cách đây 1 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vệ sinh, ngoáy mũi (mang tụ cầu ở mũi), khăn dùng chung"
+    },
+    {
+     "id": "tien_su_tai_phat",
+     "noi_dung": "Trước lần này bé chưa từng bị nhọt hay mụn mủ tái đi tái lại; trong nhà chưa ai bị nhọt, áp xe. Đây là đợt thứ hai trong khoảng 5 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ tái phát (có 'thường xuyên' không), tiền sử nhọt trong nhà"
+    },
+    {
+     "id": "thuoc_truoc",
+     "noi_dung": "Lần trước bé uống cephalexin không bị mẩn, không tiêu chảy, không nôn. Mẹ còn tuýp acid fusidic đã bôi 2 ngày hồi đầu, không dùng lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dung nạp thuốc, thuốc bôi đã dùng"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, ăn uống tốt, nước tiểu vàng trong, mặt không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân, biến chứng"
+    },
+    {
+     "id": "truong",
+     "noi_dung": "Cô giáo lại cho nghỉ và hỏi giấy; mẹ lo thời gian nghỉ cứ kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yêu cầu giấy của nhà trường"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Quanh lỗ mũi trái: 2 vảy vàng mật ong 6 và 8 mm nối nhau trên nền đỏ ướt. Mép phải: 1 vảy 5 mm. Khuỷu tay phải: 1 bọng nước xẹp 7 mm có viền vảy. Các tổn thương cũ ở cẳng tay, cẳng chân đã lành, còn vết thâm, không sẹo. Tổng 4 tổn thương mới. Không loét sâu, không đỏ nóng đau lan quanh.",
+     "k": 1,
+     "hien": "Quanh lỗ mũi trái, mép phải và khuỷu tay phải có 4 tổn thương đỏ, vảy hoặc bọng nước xẹp 5–8 mm; xem mô tả chi tiết bằng chữ."
+    },
+    "hong_tai_mui": {
+     "a": "Hai lỗ mũi có vảy khô, niêm mạc mũi đỏ nhẹ. Họng bình thường, niêm mạc miệng không có mụn nước. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm trái 5 mm, di động, không đau.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, niêm hồng, không phù, không mất nước. Không sốt.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Bờ mi và kết mạc bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Tối nay không lấy mẫu được (kỹ thuật viên đã về). Nếu lấy sáng hôm sau (swab tổn thương, thêm swab mũi nếu có), kết quả sau khoảng 2 ngày: tụ cầu vàng nhạy methicillin, nhạy cephalexin.",
+     "thay_the": "da",
+     "n": "Hữu ích khi tái phát: NICE NG153 (mục 1.1.12–1.1.13) cân nhắc swab khi chưa đỡ sau liệu trình uống hoặc khi tái phát thường xuyên, thêm swab mũi và diệt khuẩn mũi; IDSA 2014 (khuyến cáo I.1) cho phép điều trị không cần cấy ở ca điển hình. Tối nay không làm được nên quyết định theo lâm sàng và hẹn lấy sáng mai."
+    },
+    "pcr_hsv": {
+     "v": "n",
+     "r": "Cơ sở không làm được tối nay.",
+     "n": "Không cần: vảy vàng mật ong, không đau rát (QĐ 4416, Herpes simplex mục 2.1)."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que thử: hồng cầu, protein, bạch cầu, nitrit đều âm tính.",
+     "n": "Chấp nhận, không bắt buộc (QĐ 4416, Chốc mục 2.1: viêm cầu thận là biến chứng)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc tái phát, khu trú (4 tổn thương quanh mũi, mép, khuỷu tay): do ngưng kháng sinh sớm ở ngày 5, tái nhiễm từ em gái và khăn dùng chung, nghi bé mang tụ cầu ở mũi do hay ngoáy mũi",
+     "ok": 1,
+     "n": "Vảy vàng mật ong trên nền đỏ ướt quanh hốc tự nhiên (QĐ 4416, Chốc mục 2.1). Tái phát sau khi sạch nên phải tìm nguyên nhân: điều trị chưa đủ (IDSA 2014 khuyến cáo I.2b: 7 ngày), nguồn lây trong nhà (em gái có vảy quanh mũi), hay chẩn đoán sai (NICE NG153 mục 1.1.9). Chưa phải 'tái phát thường xuyên' (NICE NG153 mục 1.1.13) vì mới đợt thứ hai và có nguyên nhân rõ."
+    },
+    {
+     "t": "Chốc kháng thuốc hoặc nhiễm MRSA",
+     "n": "Chưa nghĩ: lần trước đáp ứng tốt với cephalexin; IDSA 2014 (khuyến cáo I.2b) chỉ đổi thuốc khi nghi hoặc xác định MRSA, và doxycyclin không khuyến cáo cho trẻ dưới 8 tuổi (Bảng 2). NICE NG153 (mục 1.1.9) nhắc xét thuốc đã dùng trước đó; swab sáng mai sẽ trả lời."
+    },
+    {
+     "t": "Herpes simplex tái phát quanh mũi, miệng",
+     "n": "NICE NG153 (mục 1.1.9) nêu herpes simplex khi tái đánh giá. Bé không đau rát hay tiền triệu, không cụm mụn nước vòng cung trên nền ban; vảy vàng mật ong, có thêm bọng nước xẹp ở khuỷu (QĐ 4416, Herpes simplex mục 2.1)."
+    },
+    {
+     "t": "Thủy đậu",
+     "n": "Không nghĩ: không sốt, không đợt mụn nước nhiều giai đoạn, tổn thương đúng kiểu chốc (QĐ 4416, Thủy đậu mục 2.1; CDC 2024, Clinical features)."
+    },
+    {
+     "t": "Chốc tái phát thường xuyên hoặc mang tụ cầu mạn cần diệt khuẩn",
+     "n": "Chưa đủ tiêu chuẩn: đợt thứ hai trong khoảng 5 tuần, chưa từng nhọt, có nguyên nhân rõ (NICE NG153 mục 1.1.13: 'recurs frequently'; IDSA 2014 khuyến cáo III.10 cho nhiễm tụ cầu tái diễn, mức yếu, bằng chứng thấp). Cân nhắc diệt khuẩn nếu tái lại sau khi đã điều trị đủ và xử lý nguồn lây."
+    },
+    {
+     "t": "Biến chứng (viêm mô bào, viêm hạch mủ, viêm cầu thận)",
+     "n": "Chưa có: không sốt, hạch nhỏ không đau, không phù, que thử âm tính (QĐ 4416, Chốc mục 2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị lại đủ liệu trình: cephalexin uống đủ 7 ngày, hoặc vì chỉ 4 tổn thương khu trú thì mupirocin bôi 2 lần/ngày 5–7 ngày",
+     "v": "c",
+     "n": "Cách A: IDSA 2014 (khuyến cáo I.2, I.2b): thuốc uống khi nhiều người trong nhà bị (đợt lây), 7 ngày, cephalexin 25–50 mg/kg/ngày (Bảng 2); QĐ 4416 (Chốc mục 3.2.2) 25 mg/kg/ngày chia 4. Cách B: mupirocin 2 lần/ngày 5 ngày (IDSA 2014 I.2a) hoặc thường 7 ngày (QĐ 4416 mục 3.2.1); NICE NG153 (Bảng 2) 3 lần/ngày 5 ngày; NICE nêu mupirocin khi nghi kháng acid fusidic và nhắc dùng thuốc bôi kéo dài hay lặp lại làm tăng kháng thuốc (mục 1.1.4). Bé đã bôi acid fusidic và từng uống cephalexin ngưng sớm nên chọn cách nào cũng đúng, không phối hợp cả hai theo NICE (mục 1.1.6)."
+    },
+    {
+     "t": "Đưa em gái 20 tháng đến khám và điều trị riêng; không dùng chung thuốc, khăn với anh",
+     "v": "c",
+     "n": "IDSA 2014 (khuyến cáo I.2): nhiều người trong nhà bị nên dùng thuốc uống để giảm lây; NICE NG153 (mục 1.1.1) vệ sinh để giảm lây sang người khác; NICE Bảng 2 ghi giấy phép mupirocin ở trẻ nhỏ khác nhau theo sản phẩm. Liều cho bé 20 tháng: không có trong tài liệu đã tải theo cân nặng cụ thể; bác sĩ khám em quyết định."
+    },
+    {
+     "t": "Dặn uống đủ ngày thuốc đã kê và giải thích vì sao ngưng sớm dễ tái",
+     "v": "c",
+     "n": "IDSA 2014 (khuyến cáo I.2b): 7 ngày cho thuốc uống; NICE NG153 (Bảng 2): 5 ngày thường đủ, tăng 7 ngày tùy số tổn thương. Mẹ ngưng ở ngày 5 nên theo NICE là tối thiểu, theo IDSA là thiếu 2 ngày; quan trọng là xử lý thêm nguồn lây."
+    },
+    {
+     "t": "Giấy: ghi đúng chốc tái phát đang điều trị; nghỉ học ít nhất 24 giờ sau liều kháng sinh đầu (tổn thương quanh mũi khó che kín)",
+     "v": "c",
+     "n": "Nguồn bổ sung tự tìm: Colorado CDPHE (https://cdphe.colorado.gov/child-care-school-settings/impetigo): nếu không che kín được thì chờ 24 giờ sau khi bắt đầu kháng sinh. Quy định riêng của trường và Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn quay lại giờ hành chính để lấy swab tổn thương (và swab mũi) nếu không đỡ sau khi hết thuốc hoặc tái lần nữa; khi đó xét diệt khuẩn mũi",
+     "v": "a",
+     "n": "NICE NG153 (mục 1.1.12–1.1.14): cân nhắc swab khi chưa đỡ sau liệu trình uống, đổi thuốc theo kết quả; mục 1.1.13: tái phát thường xuyên thì swab da, cân nhắc swab mũi và diệt khuẩn. IDSA 2014 (khuyến cáo III.10, mức yếu): diệt khuẩn 5 ngày với mupirocin trong mũi 2 lần/ngày, tắm chlorhexidine hằng ngày, khử khuẩn khăn, ga, quần áo hằng ngày. Chưa bắt buộc ở lần tái phát đầu."
+    },
+    {
+     "t": "Doxycyclin hoặc minocyclin cho bé vì nghi MRSA",
+     "v": "w",
+     "n": "IDSA 2014 (Bảng 2): doxycyclin, minocyclin không khuyến cáo cho trẻ dưới 8 tuổi. Bé 4 tuổi, chưa nghi MRSA (IDSA 2014 khuyến cáo I.2b; AWaRe 2022 tr. 195)."
+    },
+    {
+     "t": "Cho bé đi học ngay vì 'chỉ có vài nốt' và cấp giấy khỏe",
+     "v": "w",
+     "n": "Bé còn tổn thương lây quanh mũi chưa điều trị; Colorado CDPHE: phải chờ 24 giờ sau liều kháng sinh khi không che kín được tổn thương (nguồn bổ sung tự tìm). Giấy khỏe sai sự thật."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc tái phát khu trú (4 tổn thương quanh mũi, mép, khuỷu tay), không biến chứng",
+     "Nguyên nhân: uống kháng sinh 5 trên 7 ngày, em gái 20 tháng có vảy quanh mũi, dùng chung khăn, bé hay ngoáy mũi",
+     "Chưa có chỉ định coi là 'tái phát thường xuyên', chưa nghi kháng thuốc hay MRSA",
+     "Chưa biến chứng; chưa chẩn đoán lại thành herpes hay thủy đậu",
+     "Lý do thật đến khám: xin giấy cho đi học lại, lần này cũng chưa cấp giấy 'khỏe'"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là chốc tái phát: vảy vàng mật ong trên nền đỏ ướt quanh lỗ mũi và mép, thêm bọng nước xẹp có viền vảy ở khuỷu; vị trí quanh hốc tự nhiên (QĐ 4416, Chốc mục 2.1). Da đã sạch gần 10 ngày rồi mới nổi lại.",
+     "Vì sao phải tìm nguyên nhân tái phát: NICE NG153 (mục 1.1.8–1.1.9) nhắc xét chẩn đoán khác (herpes simplex), dấu hiệu nặng hơn (viêm mô bào) và thuốc đã dùng trước đó. Ở ca này: mẹ ngưng thuốc ngày 5 (IDSA 2014 khuyến cáo I.2b ghi 7 ngày; NICE NG153 Bảng 2 ghi 5 ngày, tới 7 ngày tùy số tổn thương), em gái có vảy quanh mũi nhưng chưa được điều trị, bé dùng chung khăn và hay ngoáy mũi. QĐ 4416 (Chốc mục 2.1) ghi bệnh có thể dai dẳng do tự lây truyền và vệ sinh kém.",
+     "Vì sao chưa gọi là 'tái phát thường xuyên' và chưa diệt khuẩn mũi: mới đợt thứ hai, chưa tiền sử nhọt; NICE NG153 (mục 1.1.13) và IDSA 2014 (khuyến cáo III.10, mức yếu, bằng chứng thấp) dành cho tái phát nhiều lần. Nếu tái lại sau khi đã điều trị đủ và xử lý nguồn lây thì lấy swab da, mũi và xét diệt khuẩn."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh đủ liệu trình: hoặc cephalexin uống 7 ngày (IDSA 2014 I.2, I.2b: thuốc uống khi nhiều người bị để giảm lây) hoặc mupirocin bôi cho ít tổn thương (IDSA 2014 I.2a: 5 ngày; QĐ 4416 mục 3.2.1: thường 7 ngày; NICE NG153 Bảng 2: 3 lần/ngày 5 ngày). Các nguồn khác nhau về liều, số ngày và lúc nên bôi hay uống; cả hai cách đều đúng. Không phối hợp cả hai theo NICE NG153 mục 1.1.6 (QĐ 4416 mục 3.1 cho phép).",
+     "Xử lý nguồn lây: khám em gái 20 tháng, dặn khăn riêng giặt riêng, cắt móng, không ngoáy mũi (NICE NG153 mục 1.1.1). Đây là điểm quyết định để không tái phát tiếp.",
+     "Giấy: nghỉ ít nhất 24 giờ sau liều kháng sinh đầu vì tổn thương quanh mũi không che kín được (nguồn bổ sung tự tìm: Colorado CDPHE)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cephalexin (gói bột pha hỗn dịch)",
+      "ham_luong": "125 mg/gói",
+      "lieu": "125 mg/lần × 4 lần/ngày (≈ 29 mg/kg/ngày; QĐ 4416 Chốc mục 3.2.2 25 mg/kg/ngày chia 4; IDSA 2014 Bảng 2 25–50 mg/kg/ngày chia 3–4; AWaRe 2022 tr. 197 500 mg mỗi 12 giờ cho 15–<20 kg)",
+      "duong": "Uống",
+      "thoi_diem": "4 lần/ngày, cách khoảng 6 giờ, trong hoặc sau ăn",
+      "so_ngay": "Đủ 7 ngày (IDSA 2014 I.2b); NICE NG153 Bảng 2: 5 ngày, tới 7 ngày tùy số tổn thương",
+      "ghi_chu": "Không phối hợp với mupirocin theo NICE NG153 mục 1.1.6; bé dung nạp tốt lần trước (nguồn: lời khai mẹ, lượt 3)."
+     },
+     {
+      "thuoc": "Mupirocin 2% mỡ (thay cho thuốc uống, nếu chọn cách bôi)",
+      "ham_luong": "Tuýp 5 g",
+      "lieu": "Bôi lớp mỏng tại tổn thương, 2 lần/ngày (IDSA 2014 I.2a; QĐ 4416 mục 3.2.1) hoặc 3 lần/ngày (NICE NG153 Bảng 2)",
+      "duong": "Bôi ngoài da; không bôi gần mắt",
+      "thoi_diem": "Sáng, tối sau khi rửa nhẹ và lau khô",
+      "so_ngay": "5 ngày (IDSA 2014; NICE NG153) hoặc thường 7 ngày (QĐ 4416 mục 3.2.1)",
+      "ghi_chu": "Thay acid fusidic vì bé từng bôi ngắt quãng (NICE NG153 Bảng 2, mục 1.1.4); không dùng kéo dài hay lặp lại vì nguy cơ kháng thuốc (NICE NG153 ghi chú Bảng 2). Liều, số ngày: IDSA 2014 I.2a, QĐ 4416 mục 3.2.1."
+     }
+    ],
+    "dan_do": [
+     "Bé bị chốc tái phát vì uống thuốc chưa đủ ngày, vi khuẩn còn ở mũi và lây qua khăn dùng chung với em gái. Không phải thuốc không hợp (QĐ 4416, Chốc mục 2.1).",
+     "Uống cephalexin 125 mg, 4 lần/ngày đủ 7 ngày dù da đã khô (IDSA 2014 I.2b); hoặc bôi mupirocin 2 lần/ngày 5–7 ngày nếu bác sĩ chọn thuốc bôi. Không dùng cả hai.",
+     "Đưa em gái 20 tháng đến khám trong ngày mai; không bôi thuốc của anh cho em, mỗi bé một khăn, giặt khăn riêng hằng ngày (NICE NG153 mục 1.1.1).",
+     "Bé nghỉ học ít nhất 24 giờ sau liều kháng sinh đầu, đi học lại khi che kín được các nốt (nguồn bổ sung: Colorado CDPHE). Chưa cấp giấy 'khỏe'.",
+     "Nếu đã dùng đủ thuốc mà không đỡ hoặc lại tái: quay lại giờ hành chính để lấy swab da và mũi, bác sĩ cân nhắc diệt khuẩn mũi (NICE NG153 mục 1.1.12–1.1.13).",
+     "Đưa bé đến ngay nếu sốt, vùng da đỏ nóng đau lan rộng, phù mặt, tiểu ít hoặc đỏ (QĐ 4416 mục 2.1; NICE NG153 mục 1.1.7)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sáng hôm sau mẹ đưa em gái đến khám, được điều trị riêng. Swab da của bé lấy giờ hành chính mọc tụ cầu vàng nhạy methicillin, nhạy cephalexin. Bé uống đủ 7 ngày, khăn mặt tách riêng, móng cắt ngắn, bé hết ngoáy mũi. Sau 2 tuần da lành, không để lại sẹo, theo dõi thêm 6 tuần không tái phát; bé đi học lại đủ điều kiện. Không phải diệt khuẩn mũi.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: không có nhiễu; khó khăn nằm ở việc hỏi đúng câu và từ chối cấp giấy 'khỏe' một cách nhẹ nhàng.",
+  "Ngoài giờ, không có kỹ thuật viên: không có Gram, cấy, Tzanck, PCR; chẩn đoán và điều trị phải quyết bằng lâm sàng.",
+  "Sổ cái ghép 'thuốc đang dùng: statin' cho bé 4 tuổi: ca hiểu là thuốc của ông nội sống chung (như ca HH-0466), không liên quan bệnh của bé, nhưng bác sĩ phải hỏi được thuốc đang uống của bé là gì."
+ ],
+ "bai_hoc_bien": [
+  "Lý do khám là xin giấy sức khỏe: bệnh thật nằm ở da; hỏi tại sao cô giáo cho nghỉ, nhìn da trước khi viết giấy.",
+  "Chốc không điển hình: nhiều bọng nước ở chi, bé chưa tiêm thủy đậu, cô giáo cho nghỉ như bệnh lây; điểm phân biệt là không sốt, tổn thương cùng giai đoạn, vỡ có viền vảy mật ong, ngứa không đau rát, không cụm vòng cung (QĐ 4416).",
+  "Tự ngưng thuốc: bôi acid fusidic 2 ngày rồi ngưng, rồi uống cephalexin 5 trên 7 ngày rồi ngưng; hỏi 'đã dùng thuốc gì, bao nhiêu ngày'.",
+  "Đỡ một phần ở lượt 2: nốt cũ khô, nốt mới do gãi; không đổi thuốc khi chưa hết liệu trình (NICE NG153 mục 1.1.8).",
+  "Tái phát: tìm nguồn lây trong nhà (em gái, khăn chung), mang tụ cầu ở mũi, điều trị chưa đủ; chưa đến mức 'tái phát thường xuyên' nên chưa cần diệt khuẩn.",
+  "Mâu thuẫn nguồn (liều, số ngày kháng sinh, phối hợp bôi và uống): ghi và chấp nhận cả hai cách."
+ ],
+ "diem_nho": [
+  "Chốc: bọng nước nông, vỡ để lại viền vảy, vảy vàng mật ong quanh hốc tự nhiên và chi, tự lây; chẩn đoán chủ yếu bằng lâm sàng (QĐ 4416, Chốc mục 2.1, 2.3).",
+  "Nhiều tổn thương hoặc nhiều người bị: kháng sinh uống (IDSA 2014 I.2; QĐ 4416 mục 3.2.2); chốc bọng nước: thuốc uống (NICE NG153 mục 1.1.5); ít tổn thương: mupirocin bôi 5–7 ngày (IDSA 2014 I.2a; QĐ 4416 mục 3.2.1).",
+  "Cephalexin trẻ em: 25 mg/kg/ngày chia 4 (QĐ 4416), 25–50 mg/kg/ngày chia 3–4 (IDSA 2014 Bảng 2), 25 mg/kg/lần mỗi 12 giờ (AWaRe 2022 tr. 197); 7 ngày (IDSA) hoặc 5 ngày, tới 7 ngày (NICE, AWaRe).",
+  "Không phối hợp bôi và uống (NICE NG153 mục 1.1.6) so với kết hợp (QĐ 4416 mục 3.1).",
+  "Tái phát thường xuyên: swab da, cân nhắc swab mũi và diệt khuẩn (NICE NG153 mục 1.1.13; IDSA 2014 III.10).",
+  "Đi học lại: bắt đầu kháng sinh và che kín được tổn thương, hoặc chờ 24 giờ nếu không che kín được (nguồn bổ sung: Colorado CDPHE)."
+ ],
+ "nguon": [
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị bệnh da liễu – TL-0397 – ĐÃ ĐỌC: Chốc (mục 1.1–1.3, 2.1–2.4, 3.1, 3.2.1, 3.2.2 kèm bảng kháng sinh, mục 4); Thủy đậu (mục 1–3.2.2); Bệnh do Herpes simplex (mục 2.1–2.4)",
+  "IDSA 2014 – Stevens DL và cs., Practice guidelines for the diagnosis and management of skin and soft tissue infections, Clin Infect Dis 2014;59(2):e10–52 – TL-0270 – ĐÃ ĐỌC: khuyến cáo I.1, I.2, I.2a–c (impetigo), Bảng 2 (tr. e14), khuyến cáo III.7–III.10 (tái diễn, diệt khuẩn)",
+  "NICE NG153 – Impetigo: antimicrobial prescribing, 2020 – TL-0428 – ĐÃ ĐỌC: mục 1.1.1–1.1.16, 1.2 (Bảng 1, Bảng 2 và ghi chú), thuật ngữ, rationale",
+  "WHO AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: chương 16 Skin and soft tissue infections – mild bacterial impetigo (tr. 193–197)",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella) – TL-0255 – ĐÃ ĐỌC: Clinical features, How it spreads",
+  "Nguồn bổ sung tự tìm: Colorado Department of Public Health and Environment, Impetigo – child care and school settings: https://cdphe.colorado.gov/child-care-school-settings/impetigo (quy định nghỉ học, che kín tổn thương, vệ sinh; truy cập 19/11/2026)"
+ ],
+ "ghi_chu_bien_tap": [
+  "19/11/2026: viết mới ca NH-1196 (chốc, bé trai 4 tuổi, 3 lượt). Tài liệu đã đọc: TL-0397 (QĐ 4416 Chốc, Thủy đậu, Herpes simplex), TL-0270 (IDSA 2014), TL-0428 (NICE NG153), TL-0018 (AWaRe 2022 chương 16), TL-0255 (CDC 2024). Bản chữ QĐ 4416 không có số trang rõ: trích theo mục.",
+  "Thiếu tài liệu: quy định nghỉ học và giấy chứng nhận sức khỏe của Việt Nam; lịch tái khám cụ thể; liều cho bé 20 tháng. Dùng nguồn bổ sung Colorado CDPHE cho việc nghỉ học.",
+  "Ảnh da: SCIN nhãn Impetigo, đã xem trước 4 ảnh (HA-DA-0324 đến 0327): 0324, 0327 người lớn lộ mặt một phần và chuỗi cổ; 0325 lộ cằm, tóc; 0326 lộ môi, một phần mặt: loại cả bốn, không đưa lên web. Ca dùng chữ.",
+  "Sổ cái ghép 'statin' cho bé 4 tuổi: hiểu là thuốc ông nội sống cùng nhà (su_that noi_o). 'Tự ngưng thuốc': mẹ ngưng acid fusidic sau 2 ngày, rồi ngưng cephalexin ở ngày 5. Mâu thuẫn nguồn: xem NH-1196_mau_thuan.md."
+ ]
+}
