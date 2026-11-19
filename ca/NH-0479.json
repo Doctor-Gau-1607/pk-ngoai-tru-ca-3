@@ -1,0 +1,719 @@
+{
+ "ma_ca": "NH-0479",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_tieu_chay_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Tiêu chảy cấp / rối loạn tiêu hóa (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lồng ruột",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Quân",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 15.2,
+  "chieu_cao": 102,
+  "xung_ho": "Bé 4 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hay xin nước ngọt. Mẹ kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Mẹ 33 tuổi, kế toán làm việc tại nhà, nói nhanh, mắt thâm, rất mệt vì mấy đêm liền thức chăm con và đo đường huyết lúc 2–3 giờ sáng. Chồng đi công tác. Mẹ lo con 'tiểu đường mà còn tiêu chảy', sợ bị bác sĩ trách. Bé mệt, bám mẹ, khát nước.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: hỏi chung mẹ chỉ nói 'cho bé uống ít thuốc tiêu hóa'; phải hỏi từng thứ (tên, liều, số ngày, thuốc còn thừa) mới khai berberin, kháng sinh thừa, Smecta. Mẹ ngại nói đã tự giảm insulin, chỉ khai khi hỏi cụ thể liều từng mũi những ngày bé ăn ít, hỏi nhẹ nhàng không trách. Mẹ không tự nói chuyện mệt mỏi, chỉ lộ khi được hỏi mẹ ngủ được mấy tiếng.",
+  "nguoi_nha": "Mẹ bé, chị Phương, 33 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); hỏi thẳng bé thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Phương)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#6fb3d9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#8f8f9e",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đi ngoài phân lỏng 5 ngày chưa hết, ăn kém",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 4 tuổi, 15,2 kg, mẹ đưa đến vì đi ngoài phân lỏng 5 ngày chưa hết, ăn kém, khát nước. Bé có đái tháo đường typ 1 đang tiêm insulin. Sinh hiệu: nhiệt 37,6 °C, mạch 124 l/p, nhịp thở 28 l/p, SpO₂ 99%. Bé tỉnh, hơi quấy, mệt.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho bé Quân về ngay với vài gói ORS khi bé còn mất nước (sụt khoảng 5% cân nặng), đường huyết 15,4 mmol/L, ceton niệu ++ và mẹ vừa tự giảm nửa liều insulin nền: tối đó mẹ vẫn sợ hạ đường huyết nên giảm tiếp, bé đòi nước ngọt làm đường huyết cao thêm (ISPAD 2022 mục 3). Giảm mạnh insulin lúc viêm dạ dày ruột thường dẫn đến DKA, và trẻ dưới 5 tuổi có nguy cơ tổn thương não cao hơn (ISPAD 2022 mục 3, Tóm tắt); nếu sáng sau bé nôn, thở sâu, li bì thì phải cấp cứu.",
+    "nhap_vien": "Nhập viện ngay cho bé Quân là quá mức: bé tỉnh, uống được, không nôn, bicarbonat 21 mmol/L, chưa có tiêu chí nhập viện cứng (ESPGHAN/ESPID 2014 mục 8.1), dù QĐ 3312 mục 5.1 cho phép khi có bệnh kèm theo. Bé nằm viện xa mẹ đang kiệt sức, tốn kém, trong khi điều cần làm ngay là bù ORS 4 giờ, gọi nhóm nội tiết nhi chỉnh insulin và dạy mẹ trực tiếp."
+   },
+   "loi_mo": "Bác sĩ ơi, con em đi ngoài mấy hôm rồi chưa hết, ăn không được, cứ đòi uống nước ngọt. Bé có tiểu đường nữa nên em lo lắm. Bác sĩ khám giúp em.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "37,6",
+    "nhip_tho": 28,
+    "spo2": 99,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng 5 ngày chưa hết, ăn kém, khát nước, tiểu ít hơn. Bé bị đái tháo đường typ 1 đang tiêm insulin; mẹ lo bé 'tiêu chảy mà tiểu đường thì nguy hiểm'. Sinh đủ tháng, tiêm chủng theo lịch, không dị ứng thuốc; bác sĩ nội tiết nhi theo dõi định kỳ, mẹ có số điện thoại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều thứ Bảy bé ngồi chơi máy tính của bố gần 4 tiếng, ăn bim bim, uống nước ngọt. Tối đó đau bụng quanh rốn rồi đi ngoài phân nước vàng 6–8 lần/ngày trong 2 ngày đầu; nôn 2 lần ngày đầu rồi hết. Từ ngày thứ 3 còn 5–6 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát, diễn tiến, số lần đi ngoài, nôn"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân vàng, lỏng, có bọt, không máu, không nhầy máu, không như nước vo gạo, không tanh. Đau bụng quặn nhẹ trước khi đi ngoài, hết đau thì chơi bình thường; không có cơn khóc thét từng cơn, không tái nhợt, không nôn mật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân, cơn đau (loại trừ lồng ruột, lỵ)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sốt nhẹ 37,5–37,8 °C hai ngày đầu, nay không sốt cao, không phát ban. Hai bạn cùng lớp mẫu giáo cũng đi ngoài tuần trước. Ăn cơm nấu chín, uống nước đun sôi; không ai về vùng có dịch tả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, dịch tễ (loại trừ nhiễm khuẩn huyết, tả)"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Bé khát, thấy nước là uống háo hức, mắt trũng hơn thường ngày, tiểu ít, nước tiểu vàng sẫm. Cân trước ốm theo sổ theo dõi tiểu đường là 16 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất nước"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Ngay từ ngày đầu mẹ tự cho bé uống: berberin 1 viên × 2 lần/ngày suốt 5 ngày; amoxicillin–clavulanat còn dư từ đợt viêm họng trước, 3 ngày (ngày 2–4); Smecta nửa gói × 2 lần, 2 ngày đầu. Sau đó cho uống nước ngọt, nước cam thay vì ORS vì bé không chịu uống ORS.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự uống 5 ngày, tên, liều, số ngày"
+    },
+    {
+     "id": "insulin",
+     "noi_dung": "Bé đái tháo đường typ 1 từ năm 2 tuổi 10 tháng. Insulin nền tối 5 đơn vị, insulin nhanh 1 đơn vị trước mỗi bữa. Từ ngày thứ 3 vì bé ăn ít, mẹ tự giảm insulin nền còn 3 đơn vị và bỏ 4 mũi insulin nhanh vì sợ hạ đường huyết. Hôm qua đo ngón tay máy báo 17,8 mmol/L, mẹ không dám tăng lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung mẹ nói 'vẫn tiêm đều'. Chỉ khai thật khi bác sĩ hỏi cụ thể liều từng mũi những ngày bé ăn ít, hoặc hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Tự giảm insulin ở trẻ đái tháo đường"
+    },
+    {
+     "id": "me_met",
+     "noi_dung": "Ba đêm nay mẹ chỉ ngủ khoảng 3 tiếng: bé dậy đi ngoài, mẹ lại thức đo đường huyết lúc 2–3 giờ sáng. Chồng đi công tác, mẹ vẫn phải làm kế toán tại nhà. Mẹ muốn bác sĩ 'cho bé chút thuốc ngủ' để bé ngủ một mạch, cả hai mẹ con được nghỉ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi mẹ ngủ được mấy tiếng, ai phụ đêm, hoặc 'chị đang lo nhất điều gì'; hỏi nhẹ nhàng thì mẹ mới nói đến chuyện thuốc ngủ.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: muốn thuốc ngủ cho bé"
+    },
+    {
+     "id": "may_tinh",
+     "noi_dung": "Mẹ cho rằng bé đau bụng, đi ngoài vì 'ngồi máy tính lâu bụng bị ép'. Bé ngồi chơi cuối tuần, không có chấn thương bụng, vẫn đi chơi bình thường những ngày trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát (ngồi máy tính lâu)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, hơi quấy, khát. Mắt trũng nhẹ, môi khô, khóc ít nước mắt. Nếp véo da ở bụng mất chậm (khoảng 2 giây). Mao mạch hồi sắc 2 giây, chân tay ấm. Thở không sâu, hơi thở không mùi ceton. Cân 15,2 kg (trước ốm 16 kg): sụt khoảng 5%. Có mất nước, chưa nặng.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 15,2 kg, chiều cao 102 cm, MUAC 15,0 cm. Dinh dưỡng bình thường.",
+     "k": 0,
+     "hien": "Cân 15,2 kg, cao 102 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng. Ấn quanh rốn bé nhăn nhẹ, không đau khu trú, không đề kháng, hố chậu phải không đau, không sờ thấy khối. Gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p, không co lõm lồng ngực, không thở sâu kiểu Kussmaul. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 28 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, không giả mạc. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 15,4 mmol/L.",
+     "n": "Cần làm: trẻ ĐTĐ đang bệnh cấp phải đo đường huyết và ceton khi glucose > 11,1 mmol/L (ADA 2026 mục 6, Hyperglycemic crises). Tần suất đo lại ở ngoại trú: không có trong tài liệu đã tải."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Que thử nước tiểu: glucose +++, ceton ++, tỉ trọng 1,030, protein vết, bạch cầu và nitrit âm tính.",
+     "n": "Cần làm: ceton niệu từ 2+ là mức vừa/nhiều và có thể đánh giá thấp ceton máu nên phải kèm bicarbonat (ISPAD 2022 mục 4)."
+    },
+    "bicarbonat": {
+     "v": "e",
+     "r": "Bicarbonat huyết thanh 21 mmol/L.",
+     "n": "Cần làm để loại DKA: bicarbonat < 18 mmol/L (ISPAD 2022 mục 4) hoặc < 15 mmol/L (QĐ 3312, Toan xeton mục 1, tr. 632); 21 mmol/L chưa đạt tiêu chuẩn nào."
+    },
+    "ctm": {
+     "r": "BC 11,8 G/L · Neutrophil 48% · Lymphocyte 42% · Hb 124 g/L · TC 330 G/L",
+     "n": "Không cần: không sốt cao, không nghi nhiễm khuẩn ngoài ruột (QĐ 3312 mục 3.2, tr. 320; ESPGHAN/ESPID 2014 mục 7.2)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Soi phân: bạch cầu 0–3/vi trường, không hồng cầu, không trứng, không ký sinh trùng.",
+     "n": "Chấp nhận, không bắt buộc: không soi, cấy phân thường quy khi tiêu chảy không máu (WHO 2013 mục 5.1, tr. 126; QĐ 3312 mục 3.2)."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Siêu âm bụng: không thấy hình bia, không dịch tự do, thành ruột không dày, ruột nhiều dịch.",
+     "n": "Chấp nhận, không bắt buộc: nguy cơ lồng ruột thấp (WHO 2013 Bảng 11, mục 9.4.4). Cơ sở không có X-quang nên loại trừ bằng lâm sàng; tiêu chuẩn siêu âm lồng ruột: không có trong tài liệu đã tải (TL-0056 chưa có toàn văn)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước ngày thứ 5, có mất nước (sụt khoảng 5% cân nặng), ở trẻ đái tháo đường typ 1 tự giảm insulin gây tăng đường huyết và ceton niệu, chưa nhiễm toan ceton",
+     "ok": 1,
+     "n": "Phân lỏng ≥ 3 lần/24 giờ, dưới 14 ngày (QĐ 3312 mục 1); không máu (WHO 2013 Bảng 11); có mất nước (mục 3.1c); glucose 15,4 mmol/L, ceton niệu ++, bicarbonat 21 mmol/L chưa đủ tiêu chuẩn DKA (ISPAD 2022 mục 4)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không nước vo gạo, không dịch tễ, không mất nước nặng (WHO 2013 Bảng 11; QĐ 3312 mục 4.2; QĐ 4068 ô [1])."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không phân máu nhầy, không cơn khóc kèm tái nhợt, không khối ở bụng; bé 4 tuổi, hiếm hơn dưới 2 tuổi (WHO 2013 Bảng 11, mục 9.4.4, tr. 284). Không có X-quang: loại trừ bằng lâm sàng ± siêu âm."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Nhiệt 37,6 °C, tỉnh, mao mạch hồi sắc 2 giây, không ban (QĐ 4068 ô [1]; QĐ 3312 mục 3.1b). Vẫn dặn quay lại nếu sốt."
+    },
+    {
+     "t": "Nhiễm toan ceton do đái tháo đường (DKA)",
+     "n": "Có glucose > 11 mmol/L và ceton niệu nhưng bicarbonat 21 mmol/L, không thở sâu, không li bì, không nôn: chưa đủ tiêu chuẩn (ISPAD 2022 mục 4; QĐ 3312 Toan xeton mục 1). Phải đo lại vì bé đang giảm insulin."
+    },
+    {
+     "t": "Tiêu chảy xâm nhập, lỵ (Shigella)",
+     "n": "Không máu trong phân, không sốt cao (WHO 2013 Bảng 11; WHO 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Tiêu chảy liên quan kháng sinh",
+     "n": "Bé tiêu chảy trước khi uống amoxicillin–clavulanat nên không phải căn nguyên (WHO 2013 Bảng 11); mức đóng góp vào kéo dài: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ lại phòng khám 4 giờ, bù ORS áp lực thẩm thấu thấp theo Phác đồ B: 75 ml/kg × 15,2 kg ≈ 1140 ml (chọn khoảng 1100–1200 ml), cho uống từng thìa hoặc ngụm nhỏ; nôn thì chờ 10 phút rồi cho chậm hơn",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1, tr. 321 (75 ml/kg trong 4 giờ, đánh giá lại sau 4 giờ); WHO 2013 Chart 14, tr. 135 (12–19 kg: 900–1400 ml); QĐ 4068 ô [4] (11–15,9 kg: 800–1200 ml); ORS áp lực thẩm thấu thấp: WHO 2024 khuyến cáo 5."
+    },
+    {
+     "t": "Gọi điện hội chẩn ngay với bác sĩ nội tiết nhi đang theo dõi; không giảm, không bỏ insulin nền dù bé ăn ít; liều insulin trong ngày ốm do nhóm nội tiết nhi chỉ định",
+     "v": "c",
+     "n": "ADA 2026 mục 6 (Hyperglycemic crises): không ngừng hay giữ insulin nền dù không ăn, cần hướng dẫn chỉnh liều khi ốm. ISPAD 2022 (Tóm tắt): cơ sở ít kinh nghiệm cần hỗ trợ qua điện thoại. Liều insulin ngày ốm cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi đường huyết và ceton niệu trong lúc bù dịch, đo lại trước khi cho về; đạt thì cho về, không đạt (nôn nhiều, thở sâu, li bì, bicarbonat < 18 mmol/L) thì nhập viện hoặc chuyển tuyến",
+     "v": "c",
+     "n": "ISPAD 2022 mục 6.2, tr. 841: tăng đường huyết và ceton không nôn, không mất nước nặng có thể xử trí ngoại trú khi cha mẹ được huấn luyện và có đội đái tháo đường giám sát. Tiêu chí nhập viện: ESPGHAN/ESPID 2014 mục 8.1; QĐ 3312 mục 5.1. Khoảng cách giữa các lần đo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng berberin, amoxicillin–clavulanat và Smecta mẹ tự cho; không kê kháng sinh, không thuốc cầm đi ngoài",
+     "v": "c",
+     "n": "Phân nước không kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2); không thuốc cầm đi ngoài, cầm nôn thường quy (QĐ 3312 mục 4.5). Berberin, Smecta: không có chỉ định trong tài liệu đã tải, chấm ngưng, không nói có hại."
+    },
+    {
+     "t": "Kẽm 5 mg/ngày (dạng gluconat nếu có) hoặc 20 mg/ngày, uống 10–14 ngày, bắt đầu khi bé hết nôn",
+     "v": "c",
+     "n": "WHO 2024 khuyến cáo 3a, 3c, Remarks: 5 mg/ngày ít nôn hơn (20 mg nôn nhiều hơn, RR 2,20); QĐ 3312 mục 4.3, tr. 323 và WHO 2013 tr. 134: trẻ ≥ 6 tháng 20 mg/ngày. 5 mg thận trọng hơn."
+    },
+    {
+     "t": "Cho ăn lại sau khi bù nước (khoảng 4–6 giờ), chia nhiều bữa nhỏ (ít nhất 6 bữa/ngày), không dùng nước ngọt, nước cam thay ORS; lượng tinh bột và insulin đi kèm theo nhóm nội tiết nhi",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4, tr. 323 (ăn sớm 4–6 giờ sau bù nước); WHO 2013 tr. 134 (ít nhất 6 lần/ngày). Nước ngọt, nước cam là dung dịch ưu trương (QĐ 3312 mục 3.1d) và làm tăng đường huyết (ISPAD 2022 mục 3). Lượng carbohydrate khi ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc ngủ; hỏi và hỗ trợ mẹ (ai phụ đêm, chia ca đo đường huyết), hẹn khám nội tiết nhi sớm để củng cố quy tắc ngày ốm",
+     "v": "c",
+     "n": "Không có chỉ định thuốc ngủ trong tài liệu đã tải. Giáo dục ngày ốm cho gia đình: ADA 2026 khuyến cáo 6.22. Hỗ trợ người chăm sóc: nhận xét của người soạn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày hoặc 5 ngày nếu không đỡ, gọi điện sau 24 giờ; đến ngay nếu ăn uống kém, sốt, đi ngoài nhiều hơn, nôn nhiều, có máu trong phân, thở sâu nhanh, li bì",
+     "v": "c",
+     "n": "Tái khám mỗi 1–2 ngày (QĐ 4068 ô [8]) hoặc 5 ngày nếu không đỡ (WHO 2013 Bảng 12, tr. 128). Dấu hiệu quay lại: QĐ 3312 mục 5.1–5.2, tr. 324; WHO 2013 tr. 137; thở sâu, nôn, li bì gợi ý DKA (ISPAD 2022 Tóm tắt)."
+    },
+    {
+     "t": "Nhập viện theo dõi ngay (do ĐTĐ kèm mất nước, mẹ tự giảm insulin)",
+     "v": "a",
+     "n": "QĐ 3312 mục 5.1: nhập viện khi có bệnh khác kèm theo hoặc người chăm sóc không bảo đảm; ESPGHAN/ESPID 2014 mục 6.1: trẻ có bệnh nền như đái tháo đường cần được thầy thuốc đánh giá. Chưa có tiêu chí nhập viện cứng (mục 8.1) nên theo dõi 4 giờ là đáp án chính."
+    },
+    {
+     "t": "Racecadotril, diosmectit hoặc men vi sinh (không cần, hoặc dùng chủng có bằng chứng)",
+     "v": "a",
+     "n": "QĐ 3312 mục 4.5 (racecadotril 1,5 mg/kg/lần × 3 lần/ngày, không quá 7 ngày; S. boulardii); WHO 2024 khuyến cáo 4a: không dùng men vi sinh ở phân nước; ESPGHAN 2023 (tóm tắt): L. rhamnosus GG hoặc S. boulardii (yếu). QĐ 4068 ô [7B]: dùng khi đến sớm, không phối hợp hai thuốc."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch thường quy",
+     "v": "w",
+     "n": "Bé uống được, không nôn nhiều: bù đường uống là đầu tay (ESPGHAN/ESPID 2014 mục 8.3; QĐ 3312 mục 4.1); chỉ truyền khi mất nước nặng, sốc hoặc thất bại bù dịch uống (ESPGHAN/ESPID 2014 mục 8.4)."
+    },
+    {
+     "t": "Tiếp tục kháng sinh amoxicillin–clavulanat hoặc đổi kháng sinh khác",
+     "v": "w",
+     "n": "Tiêu chảy phân nước không dùng kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2); không máu trong phân (WHO 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài khác",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.5; WHO 2013 tr. 126: thuốc chống tiêu chảy có tác dụng phụ nguy hiểm, đôi khi tử vong ở trẻ nhỏ."
+    },
+    {
+     "t": "Kê thuốc ngủ hoặc an thần cho bé theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải. Suy luận của người soạn (cùng cách xếp với sổ mâu thuẫn): thuốc an thần che dấu hiệu li bì, là dấu hiệu nặng (QĐ 3312 mục 3.1c, 5.1) và gợi ý DKA hoặc hạ đường huyết ở bé ĐTĐ. Không phải câu trong tài liệu."
+    },
+    {
+     "t": "Giảm hoặc ngưng insulin nền vì bé ăn ít (theo cách mẹ đã làm)",
+     "v": "h",
+     "n": "ISPAD 2022 mục 3: giảm mạnh insulin lúc viêm dạ dày ruột thường dẫn đến DKA; ADA 2026 mục 6: không ngừng hay giữ insulin nền. Trẻ dưới 5 tuổi nguy cơ tổn thương não cao hơn khi bị DKA (ISPAD 2022 Tóm tắt)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 5, nghĩ do virus (không xét nghiệm tác nhân)",
+     "Có mất nước vừa và nhẹ (sụt khoảng 5% cân nặng: 16 → 15,2 kg), còn uống được, không nôn: Phác đồ B",
+     "Đái tháo đường typ 1 đang dùng insulin, tự giảm insulin 3 ngày: đường huyết 15,4 mmol/L, ceton niệu ++, bicarbonat 21 mmol/L (nhiễm ceton, chưa nhiễm toan ceton)",
+     "Đã tự dùng berberin 5 ngày, amoxicillin–clavulanat 3 ngày, Smecta 2 ngày, nước ngọt thay ORS: không có chỉ định",
+     "Chưa có dấu hiệu tả, lồng ruột, nhiễm khuẩn huyết, lỵ, bụng ngoại khoa"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là tiêu chảy cấp phân nước: phân lỏng ≥ 3 lần/24 giờ, khởi phát cấp, mới 5 ngày (QĐ 3312 mục 1, tr. 316); không máu (WHO 2013 Bảng 11). Bạn cùng lớp bị, sốt nhẹ, nôn vài lần ngày đầu: nghĩ virus; không cần tìm tác nhân (ESPGHAN/ESPID 2014 mục 7.1). Ngồi máy tính lâu chỉ là mốc thời gian, không giải thích được tiêu chảy.",
+     "Vì sao có mất nước: quấy, mắt trũng, khát uống háo hức, nếp véo chậm (cần 2 dấu hiệu) theo QĐ 3312 mục 3.1c, tr. 318; không có 2 dấu hiệu nặng (li bì, không uống được). Sụt 0,8/16 kg = 5%: mất nước vừa và nhẹ (mục 3.1b).",
+     "Vì sao không phải tiêu chảy đơn thuần: mẹ giảm insulin nền từ 5 còn 3 đơn vị và bỏ 4 mũi nhanh. Glucose 15,4 mmol/L, ceton niệu ++ (ISPAD 2022 mục 4); bicarbonat 21 mmol/L chưa đủ tiêu chuẩn DKA (ISPAD: < 18; QĐ 3312 Toan xeton mục 1: < 15) nhưng sát nguy cơ. Giảm mạnh insulin lúc viêm dạ dày ruột là cách thường dẫn đến DKA (ISPAD 2022 mục 3, 5).",
+     "Vì sao loại tả: không nước vo gạo, không dịch tễ, không mất nước nặng (WHO 2013 Bảng 11; QĐ 4068 ô [1]). Vì sao loại lồng ruột: không phân máu nhầy, không cơn khóc kèm tái nhợt, không khối; giữa cơn bé chơi bình thường (WHO 2013 mục 9.4.4); không có X-quang nên dựa lâm sàng, nghi thì chuyển nơi có người tháo lồng.",
+     "Vì sao loại nhiễm khuẩn huyết: nhiệt 37,6 °C, tỉnh, mao mạch hồi sắc 2 giây, không ban (QĐ 4068 ô [1]). Công thức máu, CRP không cần (QĐ 3312 mục 3.2).",
+     "Thuốc tự mua: kháng sinh không có chỉ định ở phân nước (WHO 2024 khuyến cáo 1a), bắt đầu sau khởi phát nên không phải căn nguyên. Berberin, Smecta: không có trong tài liệu đã tải. Nước ngọt, nước cam: dung dịch ưu trương (QĐ 3312 mục 3.1d), làm tăng đường huyết (ISPAD 2022 mục 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ B: 75 ml/kg trong 4 giờ (QĐ 3312 mục 4.1, tr. 321); 15,2 kg × 75 ≈ 1140 ml, trong khoảng 900–1400 ml của WHO 2013 Chart 14 và 800–1200 ml của QĐ 4068 ô [4]. Sau 4 giờ: hết mất nước chuyển Phác đồ A; còn mất nước lặp lại; nặng lên chuyển Phác đồ C hoặc nhập viện (QĐ 3312 mục 4.1).",
+     "Insulin là điểm mấu chốt: không giảm, không giữ insulin nền (ADA 2026 mục 6); gọi nhóm nội tiết nhi (ISPAD 2022 Tóm tắt). Liều ngày ốm cho trẻ 4 tuổi: không có trong tài liệu đã tải nên đáp án không ghi con số.",
+     "Vì sao theo dõi 4 giờ chứ không về ngay hay nhập viện: ISPAD 2022 mục 6.2 cho xử trí ngoại trú khi không nôn, không mất nước nặng và cha mẹ được huấn luyện; mẹ vừa sai insulin nên cần dạy trực tiếp. Chưa có tiêu chí nhập viện cứng (ESPGHAN/ESPID 2014 mục 8.1); nhập viện ngay cũng chấp nhận được vì bệnh nền (QĐ 3312 mục 5.1). Nhập viện nếu nôn nhiều, thở sâu, li bì hoặc bicarbonat < 18 mmol/L (ISPAD 2022 mục 4).",
+     "Không kháng sinh, không cầm tiêu (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2, 4.5). Kẽm ghi cả 5 mg/ngày (WHO 2024 khuyến cáo 3c) và 20 mg/ngày (QĐ 3312 mục 4.3): hai nguồn khác năm và bằng chứng về nôn, 5 mg thận trọng hơn. Men vi sinh: không cần (WHO 2024 khuyến cáo 4a) hoặc chủng có bằng chứng (ESPGHAN 2023).",
+     "Dinh dưỡng: ăn lại sớm, ít nhất 6 bữa/ngày (QĐ 3312 mục 4.4; WHO 2013 tr. 134); thêm 1 bữa/ngày sau khi hết tiêu chảy trong 2 tuần (WHO 2013) hoặc 2–4 tuần (QĐ 3312 mục 4.4). Bỏ nước ngọt, nước cam.",
+     "Thuốc ngủ: không có chỉ định trong tài liệu đã tải; chấm w theo suy luận (an thần che dấu hiệu li bì), đã ghi rõ không phải câu của tài liệu. Việc cần làm là hỗ trợ mẹ. Tái khám 2 ngày (QĐ 4068 ô [8]) hoặc 5 ngày (WHO 2013 Bảng 12): chọn sớm vì bé ĐTĐ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS) áp lực thẩm thấu thấp",
+      "ham_luong": "Gói ORS theo dạng sẵn có tại cơ sở; thể tích nước pha mỗi gói: theo hướng dẫn trên bao bì (không có trong tài liệu đã tải)",
+      "lieu": "Phác đồ B: 75 ml/kg × 15,2 kg ≈ 1140 ml (làm tròn 1100–1200 ml) trong 4 giờ; nếu bé đòi thêm thì cho thêm. Sau đó Phác đồ A: 100–200 ml sau mỗi lần đi ngoài, mang về 1000 ml/ngày",
+      "duong": "Uống, từng thìa hoặc ngụm nhỏ bằng cốc",
+      "thoi_diem": "4 giờ đầu tại phòng khám; sau đó sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1, tr. 320–321; WHO 2013 Chart 14, tr. 135; WHO 2024 khuyến cáo 5."
+     },
+     {
+      "thuoc": "Kẽm (ưu tiên dạng gluconat nếu có)",
+      "ham_luong": "Tính theo kẽm nguyên tố; dạng viên hoặc gói sẵn có: không có trong tài liệu đã tải",
+      "lieu": "5 mg/ngày (WHO 2024 khuyến cáo 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 tr. 134), 1 lần/ngày",
+      "duong": "Uống, hòa vào nước hoặc ORS, trẻ lớn có thể nhai (WHO 2013 tr. 136–137)",
+      "thoi_diem": "Mỗi ngày một lần, cùng giờ, bắt đầu khi hết nôn",
+      "so_ngay": "10–14 ngày, uống đủ kể cả khi đã hết tiêu chảy",
+      "ghi_chu": "WHO 2024 khuyến cáo 3a, 3c và Remarks: 5 mg ít nôn hơn, thận trọng hơn; 20 mg nôn nhiều hơn (RR 2,20). QĐ 3312 mục 4.3, tr. 323."
+     },
+     {
+      "thuoc": "Insulin (loại và thiết bị đang dùng, không đổi)",
+      "ham_luong": "Theo đơn của bác sĩ nội tiết nhi đang theo dõi",
+      "lieu": "Không giảm tự ý insulin nền; liều ngày ốm do nhóm nội tiết nhi quyết định qua điện thoại: không có trong tài liệu đã tải",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Theo lịch hằng ngày (nền buổi tối, nhanh trước bữa theo lượng ăn thực tế)",
+      "so_ngay": "Liên tục; liên hệ lại nhóm nội tiết nhi nếu đường huyết cao hoặc ceton không giảm",
+      "ghi_chu": "ADA 2026 mục 6 (không ngừng hay giữ insulin nền, cần hướng dẫn điều chỉnh liều khi ốm); ISPAD 2022 mục 3, 6.2."
+     }
+    ],
+    "dan_do": [
+     "Ở đây bé uống ORS từng thìa nhỏ trong 4 giờ (khoảng 1100–1200 ml); nôn thì nghỉ 10 phút rồi cho chậm lại (QĐ 3312 mục 4.1). Trước khi về sẽ thử lại đường huyết và ceton nước tiểu.",
+     "Không tự giảm hoặc bỏ insulin nền khi bé ăn ít; chị không có lỗi, nhiều mẹ làm vậy vì sợ hạ đường huyết. Em gọi bác sĩ nội tiết nhi hôm nay để biết liều ngày bé ốm (ADA 2026; ISPAD 2022 mục 3).",
+     "Không cho nước ngọt, nước cam thay ORS: làm đường huyết cao hơn (ISPAD 2022 mục 3). Ăn lại sớm, chia nhiều bữa nhỏ, thêm 1 bữa/ngày sau khi hết tiêu chảy 2 tuần hoặc 2–4 tuần (WHO 2013; QĐ 3312 mục 4.4).",
+     "Ngưng berberin, kháng sinh còn thừa, Smecta; không tự mua thuốc cầm tiêu (QĐ 3312 mục 4.2, 4.5). Uống kẽm đủ 10–14 ngày (WHO 2024 khuyến cáo 3c; QĐ 3312 mục 4.3).",
+     "Chị mất ngủ như vậy là đáng lo. Không cho bé thuốc ngủ vì làm khó nhận ra bé li bì hoặc hạ đường huyết ban đêm. Nhờ người thân đỡ vài đêm; hẹn khám nội tiết nhi sớm để bàn cách theo dõi đường huyết đêm (ADA 2026 khuyến cáo 6.22).",
+     "Đưa bé đến ngay nếu thở nhanh sâu, nôn nhiều, đau bụng tăng, li bì, không uống được, sốt, phân có máu, đi ngoài nhiều hơn hoặc ăn uống kém hơn (QĐ 3312 mục 5.1–5.2; WHO 2013 tr. 137; ISPAD 2022 Tóm tắt). Tái khám sau 2 ngày (QĐ 4068 ô [8]; WHO 2013 Bảng 12)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Tái khám sau 2 ngày (ngày thứ 7 của bệnh). Bé đã uống ORS đủ ở phòng khám, hết dấu hiệu mất nước, về nhà theo Phác đồ A, uống kẽm; mẹ gọi bác sĩ nội tiết nhi nên tiêm lại insulin đều. Hôm nay bé ăn khá hơn nhưng còn đi ngoài. Cân 15,7 kg. Điều dưỡng Linh đo: nhiệt 36,9 °C, mạch 104 l/p, nhịp thở 22 l/p, SpO₂ 99%. Mẹ trông rất mệt, quầng thâm dưới mắt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bé Quân vì tiêu chảy sang ngày thứ 7 là quá tay: bé hết mất nước, uống ORS tốt, không nôn, ceton niệu âm tính, đi ngoài còn 3–4 lần/ngày, không có tiêu chí nhập viện (ESPGHAN/ESPID 2014 mục 8.1; QĐ 3312 mục 5.1). Bé nằm viện xa nhà, đặt đường truyền không cần, mẹ vẫn mất ngủ; vấn đề thật là kế hoạch ngày ốm và giấc ngủ của mẹ, giường bệnh không giải quyết được.",
+    "chuyen_tuyen": "Chuyển bé Quân lên tuyến trên ngay hôm nay vì 'tiểu đường mà tiêu chảy chưa hết' là chưa cần: bé tỉnh, ăn khá hơn, hết mất nước, ceton âm tính, chưa tới mốc 14 ngày của tiêu chảy kéo dài (QĐ 3312, Tiêu chảy kéo dài mục 1). Mẹ mất thêm một ngày công và chuyến đi mệt mỏi mà không có thêm xử trí nào; hẹn khám nội tiết nhi theo lịch và đặt mốc tái khám rõ ở đây là đủ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé đỡ hơn rồi mà vẫn còn đi lỏng, đêm nào cũng dậy hai ba lần. Em mệt quá. Bác sĩ cho bé chút thuốc ngủ để bé ngủ một mạch, cả nhà cũng được nghỉ được không?",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đi ngoài còn 3–4 lần/ngày, phân sệt vàng, không máu, không nôn, không sốt. Bé ăn cháo 4 bữa/ngày, uống ORS khoảng 1 lít/ngày, tiểu bình thường, chơi lại được. Kẽm uống đều từ hôm khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 2 ngày (đỡ một phần)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không máu trong phân, không nôn, không sốt, không thở sâu nhanh, không li bì, đau bụng nhẹ trước khi đi ngoài rồi hết. Bé khóc có nước mắt, miệng ướt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, mất nước"
+    },
+    {
+     "id": "insulin_hien",
+     "noi_dung": "Mẹ gọi bác sĩ nội tiết nhi hôm khám, được dặn tiêm lại insulin nền 5 đơn vị mỗi tối, insulin nhanh 1 đơn vị khi bé ăn đủ, đo ceton nước tiểu mỗi buổi sáng. Từ đó không bỏ mũi nào. Đường huyết ban ngày 7–10 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Insulin và đường huyết sau hướng dẫn"
+    },
+    {
+     "id": "ha_dh",
+     "noi_dung": "Rạng sáng hôm qua lúc 3 giờ đo được 3,4 mmol/L, bé hơi vã mồ hôi, quấy. Mẹ cho uống nửa ly nước cam, đo lại lên 6,2 mmol/L, bé ngủ lại. Mẹ rất sợ và sợ phải thức đo mỗi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạ đường huyết ban đêm"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Mẹ đã hỏi hiệu thuốc và được bán một siro 'giúp trẻ ngủ ngon' (mẹ nhớ ghi 'an thần, thảo dược'), chưa cho bé uống. Mẹ ngủ chừng 3–4 tiếng/đêm đã 5 đêm, chồng chưa về, bà ngoại ở xa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật: xin thuốc ngủ; mệt mỏi của mẹ"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Từ hôm khám mẹ ngưng berberin, kháng sinh thừa và Smecta; không cho nước ngọt nữa, nhưng thấy bé chê ORS nên tự thêm chút nước cam.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ sau lượt 1"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, chơi được, hơi mệt. Mắt không trũng, môi ướt, khóc có nước mắt. Nếp véo da mất nhanh. Mao mạch hồi sắc dưới 2 giây. Thở êm, không sâu. Không còn dấu hiệu mất nước.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân 15,7 kg (tăng 0,5 kg so với lượt 1; thấp hơn cân trước ốm 16 kg khoảng 0,3 kg).",
+     "k": 1,
+     "hien": "Cân 15,7 kg."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột hơi tăng, không đau khu trú, không khối, hố chậu phải không đau.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, không co lõm lồng ngực, không thở sâu. Phổi rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 8,2 mmol/L.",
+     "n": "Cần làm: bé ĐTĐ vừa có hạ đường huyết mức 1 (ADA 2026 Bảng 6.4) và đang ăn ít. Tần suất đo ở nhà cho trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử nước tiểu: glucose +, ceton âm tính, tỉ trọng 1,015.",
+     "n": "Nên làm: ceton âm tính xác nhận hết nguy cơ DKA (ISPAD 2022 mục 4); ADA 2026 khuyên đo ceton khi có bệnh."
+    },
+    "bicarbonat": {
+     "r": "Bicarbonat huyết thanh 23 mmol/L.",
+     "n": "Không cần: ceton âm tính, không nôn, không thở sâu (ISPAD 2022 mục 4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp ngày thứ 7, đỡ một phần, đã hết mất nước và hết ceton niệu; đái tháo đường typ 1 trở lại kiểm soát, có một cơn hạ đường huyết mức 1 ban đêm",
+     "ok": 1,
+     "n": "Đi ngoài giảm còn 3–4 lần/ngày, hết mất nước, cân tăng 0,5 kg, ceton âm tính, chưa quá 14 ngày (QĐ 3312 mục 1); hạ đường huyết mức 1 (ADA 2026 Bảng 6.4)."
+    },
+    {
+     "t": "Tiêu chảy kéo dài, thất bại điều trị",
+     "n": "Mới ngày thứ 7, đang giảm; kéo dài khi ≥ 14 ngày (WHO 2013 mục 5.3, tr. 137; QĐ 3312 Tiêu chảy kéo dài mục 1, tr. 325). Nghĩ lại nếu tới ngày 14 còn tiêu chảy, phân máu, sụt cân, mất nước tái phát."
+    },
+    {
+     "t": "Tả, lồng ruột, nhiễm khuẩn huyết",
+     "n": "Không nước vo gạo, không cơn khóc kèm tái nhợt, không phân máu nhầy, không khối, không sốt, tỉnh, ăn khá hơn, diễn tiến đỡ dần (WHO 2013 Bảng 11, mục 9.4.4; QĐ 4068 ô [1])."
+    },
+    {
+     "t": "Nhiễm toan ceton tái phát hoặc hạ đường huyết nặng",
+     "n": "Ceton âm tính, không nôn, không thở sâu (ISPAD 2022 mục 4). 3,4 mmol/L là mức 1, bé tỉnh, lên 6,2 mmol/L sau khi uống đường; mức 3 là biến cố nặng cần người khác giúp (ADA 2026 Bảng 6.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục Phác đồ A: ORS 100–200 ml sau mỗi lần đi ngoài (khoảng 1000 ml/ngày), ăn đủ bữa, không dùng nước ngọt hoặc nước cam đậm đặc thay ORS",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1, tr. 320–321; WHO 2013 tr. 136 (trẻ ≥ 2 tuổi 100–200 ml sau mỗi lần đi ngoài). Nước ngọt, nước cam làm tăng đường huyết (ISPAD 2022 mục 3). Thêm nước cam vào ORS: không có trong tài liệu đã tải, khuyên pha đúng hướng dẫn."
+    },
+    {
+     "t": "Kẽm 5 mg/ngày hoặc 20 mg/ngày, uống tiếp cho đủ 10–14 ngày kể cả khi hết tiêu chảy",
+     "v": "c",
+     "n": "WHO 2024 khuyến cáo 3a, 3c (5 mg/ngày); QĐ 3312 mục 4.3, tr. 323 (20 mg/ngày); WHO 2013 tr. 134: 10–14 ngày. Cách bù ngày bỏ sót: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục tiêm insulin nền và insulin nhanh đều theo hướng dẫn nhóm nội tiết nhi, không tự giảm; báo nhóm nội tiết nhi về cơn hạ đường huyết 3,4 mmol/L để rà liều trong lúc bé còn ăn ít; xử trí hạ đường huyết theo kế hoạch của nhóm nội tiết nhi",
+     "v": "c",
+     "n": "ADA 2026 mục 6: điều chỉnh điều trị khi bệnh cấp để phòng hạ đường huyết, không ngừng insulin nền (Hyperglycemic crises); hạ đường huyết mức 1: ADA 2026 Bảng 6.4. Lượng đường xử trí và liều điều chỉnh cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc ngủ; không cho siro 'an thần' mua ở hiệu thuốc; hỗ trợ mẹ ngủ (người thân đỡ đêm, hẹn khám nội tiết nhi sớm để bàn cách theo dõi đường huyết đêm)",
+     "v": "c",
+     "n": "Không có chỉ định thuốc ngủ trong tài liệu đã tải. Hạ đường huyết đêm vừa xảy ra: an thần làm khó nhận ra bé quấy, vã mồ hôi (suy luận của người soạn). Giáo dục gia đình: ADA 2026 khuyến cáo 6.22. Cách theo dõi đường huyết đêm cho trẻ nhỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn đủ, chia nhiều bữa nhỏ (ít nhất 6 bữa/ngày); sau khi hết tiêu chảy thêm 1 bữa/ngày trong 2 tuần hoặc 2–4 tuần",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4, tr. 323 (thêm 1 bữa trong 2–4 tuần); WHO 2013 tr. 134 (ít nhất 6 lần/ngày, thêm 1 bữa trong 2 tuần). Hai khoảng chồng lên nhau, đều đúng."
+    },
+    {
+     "t": "Giải thích 'đỡ một phần' là hồi phục chậm bình thường: hết mất nước, tăng cân, chưa tới 14 ngày; hẹn tái khám sau 2 ngày hoặc sau 5 ngày nếu không đỡ; đến ngay nếu sốt, phân máu, nôn, mất nước, thở sâu, li bì; đến ngày 14 còn tiêu chảy thì đánh giá lại",
+     "v": "c",
+     "n": "Mốc 14 ngày: WHO 2013 mục 5.3, tr. 137; QĐ 3312 Tiêu chảy kéo dài mục 1. Tái khám 1–2 ngày: QĐ 4068 ô [8]; 5 ngày nếu không đỡ: WHO 2013 Bảng 12, tr. 128. Dấu hiệu quay lại: QĐ 3312 mục 5.1–5.2, tr. 324; ISPAD 2022 Tóm tắt."
+    },
+    {
+     "t": "Hẹn khám nội tiết nhi sớm để củng cố quy tắc ngày ốm (insulin, ceton, ăn uống) cho cả gia đình",
+     "v": "c",
+     "n": "ADA 2026 khuyến cáo 6.22 (giáo dục có cấu trúc); ISPAD 2022 mục 6.2, tr. 841: cha mẹ phải được huấn luyện ngày ốm. Nội dung quy tắc ngày ốm chi tiết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men vi sinh (không cần hoặc dùng chủng có bằng chứng), racecadotril hoặc diosmectit",
+     "v": "a",
+     "n": "WHO 2024 khuyến cáo 4a không dùng men vi sinh ở phân nước; ESPGHAN 2023 cho phép L. rhamnosus GG hoặc S. boulardii (yếu); QĐ 3312 mục 4.5 (men vi sinh, racecadotril). Không bắt buộc ở ngày thứ 7 (QĐ 4068 ô [7B]: dùng khi đến sớm)."
+    },
+    {
+     "t": "Nhập viện hoặc truyền dịch tĩnh mạch để theo dõi",
+     "v": "w",
+     "n": "Bé hết mất nước, uống được, không nôn, ceton âm: không có tiêu chí nhập viện (ESPGHAN/ESPID 2014 mục 8.1; QĐ 3312 mục 5.1) hay chỉ định truyền dịch (mục 8.3, 8.4)."
+    },
+    {
+     "t": "Kê kháng sinh vì còn tiêu chảy 7 ngày",
+     "v": "w",
+     "n": "Phân nước không kháng sinh, kể cả khi kéo dài hơn (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2); không máu trong phân (WHO 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài để mẹ ngủ",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.5; WHO 2013 tr. 126: thuốc chống tiêu chảy có tác dụng phụ nguy hiểm ở trẻ nhỏ."
+    },
+    {
+     "t": "Kê thuốc ngủ hoặc an thần cho bé",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải. Suy luận của người soạn, như lượt 1: an thần che dấu hiệu li bì và hạ đường huyết ban đêm ở bé ĐTĐ (QĐ 3312 mục 3.1c, 5.1; ADA 2026 Bảng 6.4). Không phải câu trong tài liệu."
+    },
+    {
+     "t": "Giảm insulin nền xuống vì sợ hạ đường huyết đêm, không hỏi nhóm nội tiết nhi",
+     "v": "w",
+     "n": "ISPAD 2022 mục 3: giảm mạnh insulin lúc viêm dạ dày ruột thường dẫn đến DKA; ADA 2026 mục 6: không ngừng hay giữ insulin nền. Điều chỉnh liều do nhóm nội tiết nhi quyết định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước ngày thứ 7, đỡ một phần (3–4 lần/ngày), đã hết mất nước (cân 15,7 kg), chưa quá 14 ngày",
+     "Đái tháo đường typ 1 trở lại kiểm soát: glucose 8,2 mmol/L, ceton niệu âm tính sau khi mẹ tiêm lại insulin theo nhóm nội tiết nhi",
+     "Một cơn hạ đường huyết mức 1 (3,4 mmol/L) lúc 3 giờ sáng, đã tự xử trí",
+     "Mẹ thiếu ngủ nặng, xin thuốc ngủ cho bé",
+     "Đã loại tả, lồng ruột, nhiễm khuẩn huyết; chưa có tiêu chảy kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là 'đỡ một phần', không phải thất bại: đi ngoài giảm từ 5–6 còn 3–4 lần/ngày, hết mất nước, tăng 0,5 kg, không sốt, không máu, không nôn (QĐ 3312 mục 3.1; WHO 2013 Bảng 12). Tiêu chảy cấp tính tới 14 ngày (QĐ 3312 mục 1; WHO 2013 mục 5.3), bé mới ngày thứ 7 nên còn đi ngoài là bình thường.",
+     "Thất bại điều trị sẽ là: mất nước tái phát, nôn nhiều, phân máu, sốt, hoặc ngày 14 còn tiêu chảy (QĐ 3312 mục 5.1–5.2; WHO 2013 tr. 137). Bé chưa có dấu hiệu nào; đặt mốc ngày 14 trong dặn dò.",
+     "Đái tháo đường: ceton âm tính, glucose 8,2 mmol/L cho thấy đã thoát nguy cơ DKA (ISPAD 2022 mục 4). Cơn 3,4 mmol/L là mức 1 (ADA 2026 Bảng 6.4), xảy ra vì bé còn ăn ít trong khi insulin nền đã tiêm lại đủ.",
+     "Lý do thật: mẹ ngủ 3–4 tiếng/đêm đã 5 đêm, chồng đi công tác, thức đo đường huyết ban đêm. Xin thuốc ngủ cho bé thực ra là xin lối thoát cho cả hai mẹ con; bác sĩ cần hỏi giấc ngủ của mẹ thay vì chỉ trả lời có hay không."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục Phác đồ A, ORS pha đúng hướng dẫn, không trộn nước cam (QĐ 3312 mục 4.1; WHO 2013 tr. 136); ăn lại đủ bữa (QĐ 3312 mục 4.4). Kẽm ghi cả 5 mg/ngày (WHO 2024 khuyến cáo 3c) và 20 mg/ngày (QĐ 3312 mục 4.3), 5 mg thận trọng hơn.",
+     "Insulin: tiếp tục đều, không giảm một mình (ADA 2026 mục 6; ISPAD 2022 mục 3). Cơn hạ đường huyết mức 1 cần báo nhóm nội tiết nhi để rà liều khi bé ăn ít; liều và lượng đường xử trí cho trẻ 4 tuổi: không có trong tài liệu đã tải nên đáp án không ghi con số.",
+     "Không thuốc ngủ: không có chỉ định trong tài liệu đã tải; suy luận che dấu hiệu li bì và hạ đường huyết đã ghi rõ không phải câu của tài liệu. Giải quyết nguyên nhân: người thân đỡ đêm, khám nội tiết nhi sớm (ADA 2026 khuyến cáo 6.22; ISPAD 2022 mục 6.2).",
+     "Không kháng sinh, không cầm tiêu (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2, 4.5). Men vi sinh, racecadotril, diosmectit chấp nhận nhưng không bắt buộc (QĐ 3312 mục 4.5; ESPGHAN 2023; WHO 2024 khuyến cáo 4a).",
+     "Không nhập viện, không truyền dịch: bé hết mất nước (ESPGHAN/ESPID 2014 mục 8.1, 8.3). Tái khám 2 ngày (QĐ 4068 ô [8]) hoặc 5 ngày (WHO 2013 Bảng 12) – nên 2 ngày vì bé ĐTĐ và mẹ đang kiệt sức."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS) áp lực thẩm thấu thấp",
+      "ham_luong": "Gói ORS sẵn có; thể tích nước pha mỗi gói theo hướng dẫn trên bao bì (không có trong tài liệu đã tải)",
+      "lieu": "Phác đồ A: 100–200 ml sau mỗi lần đi ngoài, mang về khoảng 1000 ml/ngày",
+      "duong": "Uống, từng ngụm nhỏ bằng cốc",
+      "thoi_diem": "Sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1, tr. 320–321; WHO 2013 tr. 136; WHO 2024 khuyến cáo 5."
+     },
+     {
+      "thuoc": "Kẽm (ưu tiên dạng gluconat nếu có)",
+      "ham_luong": "Tính theo kẽm nguyên tố; dạng viên hoặc gói sẵn có: không có trong tài liệu đã tải",
+      "lieu": "5 mg/ngày (WHO 2024 khuyến cáo 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3), 1 lần/ngày",
+      "duong": "Uống, hòa vào nước hoặc ORS",
+      "thoi_diem": "Mỗi ngày một lần, cùng giờ",
+      "so_ngay": "Tiếp tục cho đủ 10–14 ngày kể từ ngày bắt đầu",
+      "ghi_chu": "WHO 2024 khuyến cáo 3a, 3c, Remarks; QĐ 3312 mục 4.3, tr. 323; WHO 2013 tr. 134."
+     },
+     {
+      "thuoc": "Insulin (loại đang dùng, không đổi)",
+      "ham_luong": "Theo đơn của bác sĩ nội tiết nhi đang theo dõi",
+      "lieu": "Giữ như nhóm nội tiết nhi đã hướng dẫn; điều chỉnh sau cơn hạ đường huyết do nhóm quyết định: không có trong tài liệu đã tải",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Theo lịch hằng ngày",
+      "so_ngay": "Liên tục",
+      "ghi_chu": "ADA 2026 mục 6; ISPAD 2022 mục 3, 6.2."
+     }
+    ],
+    "dan_do": [
+     "Tiếp tục ORS sau mỗi lần đi ngoài, ăn đủ bữa nhỏ chia nhiều lần; không pha nước cam vào ORS, không cho nước ngọt (QĐ 3312 mục 4.1, 4.4; ISPAD 2022 mục 3). Sau khi hết tiêu chảy thêm 1 bữa/ngày 2 tuần hoặc 2–4 tuần (WHO 2013; QĐ 3312 mục 4.4).",
+     "Uống kẽm đủ 10–14 ngày; tiêm insulin đều như nhóm nội tiết nhi dặn, không giảm một mình (ADA 2026 mục 6).",
+     "Cơn 3,4 mmol/L đêm qua là hạ đường huyết nhẹ, chị xử trí đúng hướng. Báo nhóm nội tiết nhi hôm nay để họ chỉnh liều khi bé còn ăn ít; khi bé lơ mơ, co giật, không uống được là hạ đường huyết nặng, gọi cấp cứu (ADA 2026 Bảng 6.4).",
+     "Không cho bé siro an thần hay thuốc ngủ: làm khó nhận ra bé li bì hoặc hạ đường huyết ban đêm. Chị mệt thật, nên nhờ bà ngoại hoặc người thân đỡ vài đêm, thay phiên đo đường huyết; hẹn khám nội tiết nhi sớm để bàn kế hoạch theo dõi đêm (ADA 2026 khuyến cáo 6.22).",
+     "Đưa bé đến ngay nếu sốt, phân có máu, nôn nhiều, không uống được, mắt trũng, thở sâu nhanh, li bì, đau bụng tăng hay khóc thét từng cơn (QĐ 3312 mục 5.1–5.2; WHO 2013 tr. 137; ISPAD 2022 Tóm tắt).",
+     "Tái khám sau 2 ngày hoặc 5 ngày nếu không đỡ (QĐ 4068 ô [8]; WHO 2013 Bảng 12); đến ngày thứ 14 còn tiêu chảy thì khám ngay để đánh giá tiêu chảy kéo dài (QĐ 3312, Tiêu chảy kéo dài mục 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: bé uống đủ ORS 4 giờ, hết mất nước, đường huyết còn 9,8 mmol/L, ceton niệu còn vết sau khi mẹ tiêm lại insulin nền theo nhóm nội tiết nhi; về nhà với Phác đồ A và kẽm. Lượt 2 (ngày 7): đi ngoài 3–4 lần/ngày, cân 15,7 kg, hết ceton, một cơn hạ đường huyết mức 1 ban đêm đã tự xử trí. Bé giảm dần, phân thành khuôn ngày 10 (chưa chạm mốc 14 ngày), uống đủ 14 ngày kẽm, cân 16,0 kg. Mẹ được huấn luyện lại quy tắc ngày ốm; bà ngoại và cô giáo đỡ vài đêm nên mẹ ngủ lại được, không cần thuốc ngủ.",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày: berberin, amoxicillin–clavulanat thừa, Smecta, nước ngọt thay ORS; mẹ khai từng bước khi được hỏi cụ thể và không bị trách.",
+  "Lý do thật đến khám: mẹ kiệt sức muốn xin thuốc ngủ cho bé; mẹ không tự nói, lộ khi hỏi mẹ ngủ được mấy tiếng và ai phụ đêm.",
+  "Insulin đang dùng: mẹ tự giảm insulin nền vì bé ăn ít; đây là yếu tố làm bệnh nặng thêm (tăng đường huyết, ceton), không phải bệnh tiêu hóa đơn thuần.",
+  "Ngồi máy tính lâu: mẹ nghĩ do 'ngồi lâu bị đau bụng'; chỉ là mốc thời gian, không giải thích được tiêu chảy.",
+  "Không có X-quang: lồng ruột được loại trừ bằng tiêu chí lâm sàng ± siêu âm; X-quang không cần cho chẩn đoán ca này."
+ ],
+ "bai_hoc_bien": [
+  "Trẻ ĐTĐ typ 1 bị tiêu chảy không phải tiêu chảy đơn thuần: đo đường huyết, ceton niệu, bicarbonat; không giảm hay bỏ insulin nền khi ăn ít (ADA 2026 mục 6; ISPAD 2022 mục 3).",
+  "Tự uống thuốc trước 5 ngày: hỏi từng thứ (tên, liều, số ngày, thuốc còn thừa); hỏi nhẹ nhàng thì mẹ mới khai cả việc tự giảm insulin.",
+  "Lý do thật là muốn thuốc ngủ: hỏi mẹ ngủ được mấy tiếng, ai phụ đêm; không kê thuốc ngủ cho bé mà giải quyết mệt mỏi của mẹ.",
+  "Đỡ một phần ở lượt 2: phân biệt hồi phục chậm bình thường (chưa tới 14 ngày, hết mất nước, tăng cân) với thất bại điều trị; đặt mốc ngày 14.",
+  "Không có X-quang: lồng ruột loại trừ bằng bệnh sử, khám bụng, tính chất phân; nghi thì chuyển (WHO 2013 mục 9.4.4)."
+ ],
+ "diem_nho": [
+  "Tiêu chảy cấp: phân lỏng ≥ 3 lần/24 giờ, khởi phát cấp, không quá 14 ngày (QĐ 3312, Tiêu chảy cấp mục 1, tr. 316). Kéo dài khi ≥ 14 ngày (WHO 2013 mục 5.3, tr. 137).",
+  "Có mất nước khi có 2 dấu hiệu: vật vã, mắt trũng, khát uống háo hức, nếp véo chậm; sụt 5–10% cân nặng là mất nước vừa và nhẹ (QĐ 3312 mục 3.1b–3.1c, tr. 317–318).",
+  "Phác đồ B: ORS 75 ml/kg trong 4 giờ, đánh giá lại sau 4 giờ; Phác đồ A: 100–200 ml sau mỗi lần đi ngoài cho trẻ 2–10 tuổi (QĐ 3312 mục 4.1, tr. 321; WHO 2013 Chart 14, tr. 135).",
+  "Tiêu chảy phân nước: không kháng sinh (WHO 2024 khuyến cáo 1a); kẽm 5 mg/ngày (WHO 2024 khuyến cáo 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3), 10–14 ngày; không thuốc cầm đi ngoài (QĐ 3312 mục 4.5).",
+  "Trẻ ĐTĐ đang dùng insulin: không ngừng hay giữ insulin nền dù ăn ít (ADA 2026 mục 6; ISPAD 2022 mục 3); DKA khi glucose > 11 mmol/L, bicarbonat < 18 mmol/L hoặc pH < 7,3, kèm ceton (ISPAD 2022 mục 4); QĐ 3312 (Toan xeton mục 1, tr. 632) dùng bicarbonat < 15 mmol/L.",
+  "Hạ đường huyết mức 1: glucose < 3,9 và ≥ 3,0 mmol/L; mức 2: < 3,0 mmol/L (ADA 2026 Bảng 6.4).",
+  "Lồng ruột: cơn khóc kèm tái nhợt, phân máu nhầy, khối ở bụng; thường dưới 2 tuổi nhưng có thể gặp ở trẻ lớn; không có X-quang hay người tháo lồng thì chuyển (WHO 2013 Bảng 11, mục 9.4.4)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015 – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp (mục 1, 3.1–3.2, 4.1–4.5, 5.1–5.2, tr. 316–324); Tiêu chảy kéo dài (mục 1, tr. 325); Toan xeton do đái tháo đường (mục 1, tr. 632)",
+  "QĐ 4068 – Bộ Y tế, QĐ 4068/QĐ-BYT, Quy trình chuyên môn điều trị bệnh tiêu chảy cấp ở trẻ em (phiên bản 1.0, năm chưa xác định) – tltk-10000-ca, 03 Nhi ngoại trú/BYT – ĐÃ ĐỌC: ô [1], [4], [7B], [8]",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 5.1–5.3 (tr. 125–137), Bảng 11–12, Chart 14 (tr. 135), mục 9.4.4 (tr. 284)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC: Bảng 2, khuyến cáo 1a, 2, 3a–3c, 4a, 5 và Remarks",
+  "ESPGHAN/ESPID 2014 – Guarino A et al., J Pediatr Gastroenterol Nutr 2014;59:132–52 – TL-0268 – ĐÃ ĐỌC: mục 6.1 (tr. 136), 7.1–7.4 (tr. 138), 8.1, 8.3, 8.4 (tr. 139)",
+  "ESPGHAN 2023 – Szajewska H et al., Probiotics for pediatric gastrointestinal disorders, J Pediatr Gastroenterol Nutr 2023;76:232–247 – TL-0258 – ĐÃ ĐỌC: Tóm tắt khuyến cáo, viêm dạ dày ruột cấp",
+  "ISPAD 2022 – Glaser N et al., DKA and HHS, Pediatr Diabetes 2022;23:835–856 – TL-0075 – ĐÃ ĐỌC: Tóm tắt, mục 3, 4, 5, 6.1–6.2 (tr. 841)",
+  "ADA 2026 – Standards of Care in Diabetes 2026, Diabetes Care 2026;49(Suppl 1) – TL-0296 – ĐÃ ĐỌC: mục 6, Bảng 6.4 và phần Hyperglycemic crises (khuyến cáo 6.21–6.22, tr. S144–S145)",
+  "Không có trong tài liệu đã tải: liều insulin ngày ốm cho trẻ 4 tuổi, tần suất thử ceton, lượng đường xử trí hạ đường huyết ở trẻ nhỏ, tác dụng của berberin, tiêu chuẩn siêu âm lồng ruột (TL-0056 chưa có toàn văn), thể tích nước pha mỗi gói ORS"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19): theo đặc tả sổ cái NH-0479. Tên nhân vật, chỉ số xét nghiệm, mức c/a/w/h do người soạn chọn theo guideline.",
+  "Tài liệu đã đọc: QĐ 3312 (Tiêu chảy cấp, Tiêu chảy kéo dài, Toan xeton), QĐ 4068, WHO 2013 chương 5 và mục 9.4.4, WHO 2024, ESPGHAN/ESPID 2014 mục 6–8, ESPGHAN 2023, ISPAD 2022, ADA 2026 mục 6.",
+  "Áp dụng đúng các mục sổ mâu thuẫn đã có: kẽm 5 mg hoặc 20 mg, men vi sinh, thuốc cầm nôn/cầm tiêu, mốc tái khám 2 hoặc 5 ngày, thêm bữa ăn 2 hoặc 2–4 tuần, tiêu chuẩn DKA (ISPAD 2022 hoặc QĐ 3312), thuốc ngủ w (suy luận), berberin c ngưng.",
+  "Chỗ thiếu tài liệu (không dùng chấm điểm): liều insulin ngày ốm cho trẻ, tần suất đo đường và ceton, lượng đường xử trí hạ đường huyết ở trẻ 4 tuổi, tác dụng berberin, tiêu chuẩn siêu âm lồng ruột, thể tích nước pha mỗi gói ORS.",
+  "Cân 15,2 kg là cân hôm khám (trước ốm 16 kg theo sổ ĐTĐ). Mạch ≥ 100 ở cả hai lượt nên dùng AT-TIM-NHANH-01; phổi AT-PHOI-BT-NL-01. Không có ảnh da."
+ ]
+}
