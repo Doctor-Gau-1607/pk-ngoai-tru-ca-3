@@ -1,0 +1,524 @@
+{
+ "ma_ca": "NH-0162",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_nhiem_khuan_ho_hap_tren_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Hồ Tuệ Lâm",
+  "tuoi": 11,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 36,
+  "chieu_cao": 142,
+  "xung_ho": "Bé 11 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hay nhìn xuống, ngồi sát mẹ. Mẹ là chị Diễm, 40 tuổi, nhân viên ngân hàng, xưng 'em' với bác sĩ, gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "Bé ngoan, kín đáo, học khá, không thích làm mẹ lo. Từ khi ông ngoại mất, bé ít nói hơn. Mẹ bận, thương con, tin thuốc mua ở hiệu thuốc là 'lành', muốn con đỡ nghẹt mũi để thứ Sáu đi kiểm tra.",
+  "kieu_nhieu": "Bé phủ nhận và giảm nhẹ: hỏi cảm giác ('em có sốt không, có mệt không, có sợ gì không') thì đáp 'không ạ, con không sao'. Chỉ khi bác sĩ hỏi theo chức năng (đêm tỉnh mấy lần, ăn mấy chén cơm, nghỉ học mấy ngày, leo cầu thang có phải dừng thở không) thì bé mới kể đúng, hoặc để mẹ bổ sung. Nỗi sợ ung thư giấu kỹ: chỉ nói khi bác sĩ hỏi riêng bé, nhẹ nhàng.",
+  "nguoi_nha": "Mẹ bé, chị Diễm, 40 tuổi, đi cùng. Mẹ kể mốc thời gian, nhiệt độ đã đo, thuốc đã cho (nguoi_noi = nguoi_nha). Bé tự trả lời khi bác sĩ hỏi thẳng cảm giác và nỗi lo của mình (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Diễm)",
+  "ngoai_hinh": {
+   "da": "#e6bb96",
+   "toc": "#1b1411",
+   "kieuToc": "buoc",
+   "ao": "#8fb8d8",
+   "aoKieu": "dong_phuc",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9a981",
+    "toc": "#2a1e18",
+    "kieuToc": "bui",
+    "ao": "#c9a0a0",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sổ mũi, nghẹt mũi, ho 4 ngày; xin thuốc nhỏ mũi mạnh hơn",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm (không siêu âm hạch cổ, vùng cổ, phổi)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 11 tuổi, 36 kg, mẹ đưa đến vì sổ mũi, nghẹt mũi, ho từ 4 ngày nay. Bé nói 'con không sao', chỉ xin thuốc nhỏ mũi mạnh hơn vì thuốc đang dùng nhỏ xong không còn thông. Sinh hiệu: nhiệt 37,9 °C, mạch 96 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhận bé Lâm vào viện để truyền dịch và theo dõi là quá tay: bé tỉnh, uống được, SpO₂ 98%, thở 22 l/p, không rút lõm, không dấu hiệu nguy hiểm nào (WHO 2013 mục 4.2.1); ho, cảm lạnh chỉ cần điều trị ngoại trú và uống thêm nước (mục 4.4). Bé đã sợ bệnh nặng; thấy mình nằm viện, bé càng tin điều mình lo là thật và vẫn không ai hỏi nỗi sợ ấy, còn thuốc nhỏ mũi co mạch ở nhà không ai nhắc ngưng. Chị Diễm mất thêm ngày công, bé lỡ bài kiểm tra thứ Sáu; tỉ lệ tai biến của truyền dịch ở trẻ không mất nước: không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chuyển bé Lâm lên bệnh viện lớn để siêu âm hạch, nội soi vòm hoặc sinh thiết vì lo ung thư là quá tay: hạch dưới hàm mềm, di động, hơi đau, cùng đợt viêm mũi họng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); bé ngạt hai bên, không chảy máu mũi, không ù tai một bên, chưa có triệu chứng một bên của ung thư vòm (Ung thư vòm mũi họng mục 3.1.1); sinh thiết chỉ khi có khối ở vòm (mục 3.1.2). Cả nhà mất nửa ngày, bé tận mắt thấy 'đi xét nghiệm ung thư' nên nỗi sợ nặng thêm, trong khi thuốc nhỏ mũi, nguyên nhân thật làm bé nghẹt mũi nặng hơn, vẫn chưa được ngưng."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Con chỉ hơi sổ mũi, nghẹt mũi thôi, không sao đâu ạ. Mẹ cứ bắt con đi khám. Bác sĩ cho con thuốc nhỏ mũi loại mạnh hơn được không, thuốc con đang nhỏ giờ nhỏ xong chỉ thông một lát.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sổ mũi, nghẹt mũi, ho đã 4 ngày. Bé xin thuốc nhỏ mũi mạnh hơn vì thuốc đang dùng nhỏ xong chỉ thông 1–2 tiếng. Bé nói 'con không sao'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tuần trước cả nhà đi xe khách khoảng 10 tiếng về Quảng Ngãi dự lễ 100 ngày của ông ngoại; bé ngồi gần cửa sổ, trong xe máy lạnh đóng kín, ít xuống xe, trên xe có người ho. Về đến nhà tối Chủ nhật; sáng thứ Hai bé bắt đầu hắt hơi, sổ mũi; hôm nay thứ Năm là ngày thứ 4 của bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chuyến xe dài (nguồn lây, mốc thời gian)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hỏi 'em có sốt không' bé đáp 'không ạ'. Mẹ đo ở nách tối qua 38,4 °C, bé uống 1 viên paracetamol 500 mg lúc 22 giờ; sáng nay 37,8 °C, chưa uống thêm. Chưa lần nào sốt ≥ 39 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Sốt thật dưới lời phủ nhận"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hỏi theo chức năng thì lộ ra: bé nghỉ học thứ Tư và hôm nay; đêm qua tỉnh 3–4 lần vì nghẹt mũi và ho; ăn nửa chén cơm mỗi bữa (thường 1,5 chén); chiều qua nằm xem điện thoại cả buổi, không chơi với em. Hỏi 'em có mệt không' bé vẫn đáp 'không mệt'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Mức độ thật qua câu hỏi chức năng (giấc ngủ, ăn, đi học)"
+    },
+    {
+     "id": "ho_hong",
+     "noi_dung": "Ho khan, từ hôm qua có chút đờm trong, vài cơn ban đêm, không ho thành cơn dài, không tím, không khò khè, không đau ngực. Đau họng nhẹ khi nuốt, vẫn ăn được cháo và uống nước; giọng hơi khàn nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, đau họng, khàn tiếng"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Không khó thở, không thở nhanh khi nghỉ; leo 3 tầng cầu thang lên lớp không phải dừng lại thở. Không nôn tất cả, không li bì, không co giật, uống nước được, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân, tìm viêm phổi (WHO 2013 mục 4.2.1)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Bé không đau tai, không chảy mủ tai, nghe rõ như bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai (loại trừ viêm tai giữa cấp)"
+    },
+    {
+     "id": "mui_xoang",
+     "noi_dung": "Nước mũi trong 3 ngày đầu, hôm nay hơi đục vàng nhạt. Không đau nhức má hay trán, không đau răng hàm trên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất nước mũi, đau mặt (loại trừ viêm xoang vi khuẩn)"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Khoảng 3 tuần nay bé hay nghẹt mũi buổi tối khi ngủ phòng máy lạnh, mẹ mua ở hiệu thuốc (không đơn) một lọ thuốc nhỏ mũi co mạch (naphazolin) cho bé nhỏ mỗi tối, thấy thông ngay. Từ lúc cảm 4 ngày nay bé nhỏ 4–5 lần mỗi ngày, mỗi bên 2–3 giọt; nhỏ xong chỉ thông 1–2 tiếng rồi nghẹt nặng hơn lúc đầu, nên bé xin thuốc mạnh hơn. Mẹ nghĩ thuốc nhỏ mũi là 'lành' nên không ngờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua dùng kéo dài (thuốc nhỏ mũi co mạch)"
+    },
+    {
+     "id": "hach",
+     "noi_dung": "Hai ngày nay bé tự sờ thấy một cục nhỏ dưới hàm bên phải, ấn hơi đau, không to lên; không thấy cục ở chỗ khác. Cân nặng vẫn 36 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạch dưới hàm"
+    },
+    {
+     "id": "dau_hieu_vom",
+     "noi_dung": "Không chảy máu mũi, không khạc đờm lẫn máu. Nghẹt mũi cả hai bên, đổi bên theo tư thế nằm; không đau nửa đầu, không ù tai, nghe hai tai như nhau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng một bên gợi ý ung thư vòm (QĐ 5643)"
+    },
+    {
+     "id": "so_ung_thu",
+     "noi_dung": "Bé sợ mình bị ung thư vòm họng như ông ngoại (mất cách đây 4 tháng; bệnh đầu tiên của ông là nghẹt mũi kéo dài rồi nổi hạch ở cổ). Bé đã đọc trên điện thoại rằng nghẹt mũi, sổ mũi và nổi hạch cổ là dấu hiệu ung thư vòm. Từ khi sờ thấy cục dưới hàm, bé không dám nói với mẹ nên cứ nhắc 'con không sao' và chỉ xin thuốc nhỏ mũi mạnh hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'em có lo gì không' bé đáp 'dạ không'. Chỉ nói khi bác sĩ hỏi riêng bé, nhẹ nhàng, không để mẹ cắt lời: hỏi người thân từng bị bệnh tương tự, hỏi bé đã đọc gì trên mạng, hoặc sờ hạch rồi hỏi bé có biết chỗ này không và bé nghĩ là gì.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ ung thư vòm họng"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ông ngoại mất vì ung thư vòm họng cách đây 4 tháng (mẹ biết, mẹ không biết bé sợ). Bố mẹ khỏe, không ai hút thuốc trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Bé khỏe, tiêm chủng đủ theo sổ, không hen, không dị ứng thuốc, không viêm tai giữa tái phát; mỗi năm cảm 3–4 lần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "me",
+     "noi_dung": "Chị Diễm đi làm, xin nghỉ nửa buổi để đưa bé đi khám; thứ Sáu bé có bài kiểm tra nên chị muốn bé hết nghẹt mũi nhanh. Chị không biết con đang lo chuyện gì.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bối cảnh của mẹ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng nói ít, hay nhìn xuống, ngồi sát mẹ. Hơi mệt, niêm hồng, môi ẩm, không mất nước. Cao 142 cm, nặng 36 kg.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng có nhầy trong chảy xuống, amidan không to, không xuất tiết, không giả mạc. Niêm mạc mũi hai bên sung huyết, phù nề, khô, ít dịch nhầy hơi đục; vách ngăn thẳng, không polyp. Màng nhĩ hai bên xám trong, thấy tam giác sáng, không phồng, di động tốt. Ấn vùng má, trán, xương chũm không đau.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Một hạch dưới hàm phải khoảng 1 cm, mềm, di động, ấn hơi đau, da trên hạch không đỏ. Không có hạch cổ khác, không hạch thượng đòn, hạch nách. Tuyến giáp không to.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, phổi không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết.",
+     "k": 0
+    },
+    "noi_soi_mui": {
+     "a": "Niêm mạc mũi hai bên sung huyết, phù nề, khe giữa có ít nhầy trong. Vòm họng: niêm mạc nhẵn, không thấy khối u, hai lỗ vòi nhĩ cân xứng, không có máu hay mủ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 5,2 G/L · Neutrophil 44% · Hb 128 g/L · TC 286 G/L",
+     "bang": {
+      "wbc": 5.2,
+      "neu_pct": 44.0,
+      "neu": 2.29,
+      "lym_pct": 46.0,
+      "lym": 2.39,
+      "mono_pct": 8.0,
+      "mono": 0.42,
+      "eos_pct": 1.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.6,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 83.0,
+      "mch": 27.8,
+      "mchc": 335,
+      "rdw": 12.9,
+      "plt": 286
+     },
+     "n": "Không cần: viêm mũi họng cấp thông thường không cần xét nghiệm; bạch cầu không tăng, nhiều lympho gợi nhiễm virus (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 5 mg/L",
+     "bang": {
+      "crp": 5.0
+     },
+     "n": "Không cần (như công thức máu); giá trị thấp không đổi xử trí."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Chấp nhận, không bắt buộc: có ho, sổ mũi, khàn tiếng là dấu hiệu virus rõ nên thường không test (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (chỉ có sốt), nguy cơ thấp (AWaRe 2022 tr. 49–50; IDSA 2025 Bảng 3). McIsaac 2 điểm (sốt, tuổi 3–14) là nguy cơ trung gian (IDSA 2025 Bảng 3) nên làm test không bị trừ điểm."
+    },
+    "flu": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không đổi xử trí; tài liệu đã tải không nêu chỉ định xét nghiệm virus thường quy cho trẻ ngoại trú nhẹ."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không làm vì không có giả mạc",
+     "n": "Chỉ bắt buộc khi nghi bệnh lây nguy hiểm như bạch hầu (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); bé không giả mạc, tiêm chủng đủ."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phổi hai bên sáng đều, không đám mờ, góc sườn hoành nhọn.",
+     "n": "Không cần: chẩn đoán viêm phổi ở trẻ em chủ yếu dựa lâm sàng; bé thở 22 l/p, dưới ngưỡng 30 l/p của trẻ > 5 tuổi, không rút lõm, phổi không ran (QĐ 101/2014 mục V.1; QĐ 3312 Viêm phổi do vi khuẩn ở trẻ em mục 1.1). X-quang không đổi xử trí."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Triệu chứng mới 4 ngày, chưa đủ tiêu chuẩn viêm xoang do vi khuẩn (IDSA ABRS 2012 khuyến cáo 1); không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cảm lạnh / viêm mũi họng cấp do virus, ngày thứ 4, chưa biến chứng, kèm hạch dưới hàm phản ứng và nghẹt mũi nặng thêm do dùng thuốc nhỏ mũi co mạch kéo dài",
+     "ok": 1,
+     "n": "Sốt vừa, ngạt mũi, chảy mũi nước rồi đục, ho, khàn nhẹ, họng đỏ, hạch góc hàm ấn đau nhẹ (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); nhiễm virus tự khỏi sau 3–5 ngày (mục 5.1); ho, cảm lạnh là bệnh virus tự giới hạn (WHO 2013 mục 4.4). Mốc thời gian: cảm lạnh dưới 10 ngày (EPOS 2020 mục 10.1, tr. 433)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 22 l/p, dưới ngưỡng thở nhanh của trẻ > 5 tuổi (30 l/p), không rút lõm lồng ngực, phổi không ran (QĐ 101/2014 mục V.1; QĐ 3312 Viêm phổi do vi khuẩn ở trẻ em mục 1.1); SpO₂ 98%, uống được, không dấu hiệu nguy hiểm (WHO 2013 mục 4.2.1)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ xám trong, thấy tam giác sáng, không phồng, không đỏ rực: chưa đủ tiêu chuẩn (AAP 2013 KAS 1A–1C; QĐ 5643, Viêm tai giữa cấp tính trẻ em mục 3.1.1). Viêm tai giữa là biến chứng gần có thể gặp của viêm mũi họng (QĐ 5643, Viêm mũi họng cấp tính mục 5.2): dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: có ho, sổ mũi, khàn nhẹ (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (AWaRe 2022 tr. 49–50); McIsaac 2 điểm (IDSA 2025 Bảng 3). QĐ 5643 (Viêm mũi họng cấp tính mục 4.1) điều trị như liên cầu khi chưa có xét nghiệm: xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Chưa đủ tiêu chuẩn: triệu chứng mới 4 ngày (chưa ≥ 10 ngày), không sốt ≥ 39 °C kèm mủ mũi hoặc đau mặt 3–4 ngày liên tiếp, chưa có đợt xấu lại sau khi đỡ (IDSA ABRS 2012 khuyến cáo 1). Nước mũi chuyển từ trong sang đục là diễn tiến thường gặp của viêm mũi họng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1)."
+    },
+    {
+     "t": "Ung thư vòm mũi họng",
+     "n": "Không nghĩ: bệnh khởi phát cấp 4 ngày sau chuyến xe, nghẹt mũi hai bên đổi theo tư thế, hạch mềm, di động, ấn đau nhẹ; triệu chứng cơ năng của ung thư vòm là triệu chứng một bên (đau nửa đầu, ngạt mũi, ù tai cùng bên, xì máu mũi, khịt khạc máu) và hạch cổ (QĐ 5643, Ung thư vòm mũi họng mục 3.1.1, tr. 284); bé chưa có. Chẩn đoán xác định bằng sinh thiết (mục 3.1.2). Tỉ lệ ung thư vòm ở trẻ em: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi bằng câu hỏi chức năng thay câu hỏi cảm giác (đêm tỉnh mấy lần, ăn mấy chén cơm, nghỉ học mấy ngày, leo cầu thang có phải dừng thở không, nhiệt độ mẹ đã đo); hỏi dấu hiệu nguy hiểm (không uống được, li bì, co giật)",
+     "v": "c",
+     "n": "Bé nói 'con không sao' nên phải hỏi theo chức năng: kỹ năng khai thác, không cần nguồn. Dấu hiệu nguy hiểm: không uống được, li bì, co giật (WHO 2013 mục 4.2.1, tr. 80); ho, cảm lạnh chỉ xếp 'không viêm phổi' khi các dấu hiệu này vắng (mục 4.4)."
+    },
+    {
+     "t": "Hỏi riêng bé, nhẹ nhàng, về nỗi lo (người thân từng bệnh tương tự, đã đọc gì trên mạng) và hỏi mọi thuốc tự mua, nhất là thuốc nhỏ mũi: loại, số lần mỗi ngày, bao lâu, nhỏ xong có thông được bao lâu",
+     "v": "c",
+     "n": "Hỏi thuốc nhỏ mũi vì dùng kéo dài làm nghẹt mũi nặng thêm (EPOS 2020 Bảng 10.1.1, tr. 434: câu hỏi 'Do you use OTC topical nasal decongestants?' để tìm viêm mũi do thuốc)."
+    },
+    {
+     "t": "Khám họng, mũi, tai (màng nhĩ), hạch cổ, phổi (đếm nhịp thở đủ 1 phút, tìm rút lõm, ran), tim, bụng",
+     "v": "c",
+     "n": "Khám mũi họng và hạch (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); màng nhĩ phồng là dấu hiệu quan trọng nhất của viêm tai giữa cấp (AAP 2013 KAS 1A–1C); thở nhanh, rút lõm, ran để loại viêm phổi (QĐ 101/2014 mục V.1)."
+    },
+    {
+     "t": "Kết luận cảm lạnh / viêm mũi họng cấp do virus ngày thứ 4, chưa biến chứng; hạch dưới hàm là hạch phản ứng; nghẹt mũi nặng thêm do thuốc nhỏ mũi co mạch kéo dài; điều trị ngoại trú, tự chăm sóc tại nhà",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi họng cấp tính mục 3.1.1, 3.1.2, 5.1); WHO 2013 mục 4.4 (điều trị ngoại trú, chăm sóc hỗ trợ); EPOS 2020 Bảng 1.4.1."
+    },
+    {
+     "t": "Nói với bé (và với mẹ nếu bé đồng ý) rằng hạch dưới hàm mềm, di động, hơi đau là hạch phản ứng của đợt viêm mũi họng; ung thư vòm thường có triệu chứng một bên kéo dài và hạch cổ, bé chưa có; hẹn khám lại nếu hạch còn khi đã hết cảm",
+     "v": "c",
+     "n": "Hạch góc hàm, ấn đau nhẹ gặp trong viêm mũi họng cấp (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1, tr. 134); triệu chứng ung thư vòm (QĐ 5643, Ung thư vòm mũi họng mục 3.1.1, tr. 284). Cơ sở không có siêu âm nên không đo được hạch. Bao lâu hạch còn thì phải siêu âm hoặc sinh thiết: không có trong tài liệu đã tải (sinh thiết khi có khối vòm, mục 3.1.2)."
+    },
+    {
+     "t": "Không kê kháng sinh, giải thích bệnh do virus tự khỏi sau 3–5 ngày HOẶC coi là viêm mũi họng đỏ cấp chưa có xét nghiệm và dùng penicillin V hoặc amoxicillin 10 ngày",
+     "v": "c",
+     "n": "Hai cách đều đúng theo sổ mâu thuẫn mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu'. Không kháng sinh: WHO 2013 mục 4.4; EPOS 2020 Bảng 1.4.1 (kháng sinh cho cảm lạnh 1a −); IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 49–50 (Centor 0–2 chỉ điều trị triệu chứng). Kháng sinh: QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) điều trị như liên cầu khi chưa có xét nghiệm. Khác nhau vì QĐ 5643 xử trí theo kinh nghiệm khi không có xét nghiệm, các nguồn kia dựa vào dấu hiệu virus và thang điểm. Ca theo hướng không kê."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch (đã dùng khoảng 3 tuần), không đổi sang thuốc 'mạnh hơn'; thay bằng nhỏ hoặc rửa mũi nước muối sinh lý 0,9%, hút dịch mũi",
+     "v": "c",
+     "n": "Mốc dùng co mạch: QĐ 5643 (Viêm mũi xoang cấp tính mục 4.2.1) xịt ngắn ngày, ví dụ 3 ngày, xịt kéo dài có thể làm bệnh nặng hơn; EPOS 2020 Hình 1.4.1 dùng dưới 10 ngày; mục 6.1.10.1 và 10.3.1.3 (tr. 438): dùng kéo dài có thể gây viêm mũi do thuốc, nghẹt nặng hơn khi ngừng. IDSA ABRS 2012 khuyến cáo 18 không khuyến cáo co mạch hỗ trợ; WHO 2013 mục 4.4 không dùng thuốc nhỏ mũi có hoạt chất. QĐ 5643 (Ngạt mũi mục 4.1, tr. 117) cho rỏ naphtazolin, không ghi thời hạn. Bé dùng gấp nhiều lần mọi mốc trên. Nước muối: QĐ 5643 Ngạt mũi mục 4.1; EPOS 2020 Bảng 1.4.1 (rửa mũi nước muối có thể có lợi ở trẻ, 1b). Cách ngưng (dừng ngay hay giảm dần), bao lâu hết nghẹt hồi ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol khi sốt hoặc đau họng, nhức đầu làm bé khó chịu; không dùng aspirin",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 49–50: 10–15 mg/kg mỗi 6 giờ, trẻ ≥ 30 kg 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; QĐ 3312 (Co giật do sốt mục 4.1) và QĐ 708 (Viêm màng não mủ mục 4.2): không quá 60 mg/kg/24 giờ, con số thận trọng hơn nên ca theo mức này. Ngưỡng dùng: QĐ 3312 (Viêm phổi do vi khuẩn ở trẻ em, mục 2.2) hạ sốt khi ≥ 38,5 °C; WHO 2013 mục 4.4 khi sốt ≥ 39 °C làm trẻ khó chịu: ghi cả hai. Aspirin tránh ở trẻ em (IDSA 2012 khuyến cáo IV.2)."
+    },
+    {
+     "t": "Uống đủ nước, ăn lỏng chia bữa nhỏ, nghỉ ngơi; ho thì uống nước ấm có đường hoặc mật",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: làm dịu họng, giảm ho bằng thức uống ấm ngọt, uống đủ nhu cầu cộng thêm khi sốt, uống ít một và nhiều lần. Dùng mật ong cho trẻ 11 tuổi: không có trong tài liệu đã tải (WHO chỉ nêu 'warm, sweet drink')."
+    },
+    {
+     "t": "Dặn quay lại ngay khi thở nhanh, rút lõm lồng ngực, không uống được, li bì, co giật; khi sốt trở lại sau khi đỡ, đau mặt, nước mũi mủ đặc; đau tai hoặc chảy mủ tai; nghẹt mũi chỉ một bên, chảy máu mũi, ù tai một bên, hạch cứng hoặc to dần. Hẹn tái khám sau 5 ngày nếu chưa đỡ",
+     "v": "c",
+     "n": "Tái khám sau 5 ngày nếu chưa đỡ; ho trên 14 ngày xếp vào ho mạn (WHO 2013 Bảng 7, tr. 81; mục 4.4). Thở nhanh > 30 l/p ở trẻ > 5 tuổi (QĐ 101/2014 mục V.1); dấu hiệu nguy hiểm (WHO 2013 mục 4.2.1). Sốt trở lại sau 5–6 ngày đỡ, mủ mũi, đau mặt: IDSA ABRS 2012 khuyến cáo 1. Viêm tai giữa cấp là biến chứng gần (QĐ 5643 Viêm mũi họng cấp tính mục 5.2; Viêm tai giữa cấp tính trẻ em mục 3.1.1). Triệu chứng một bên của ung thư vòm: QĐ 5643 Ung thư vòm mục 3.1.1."
+    },
+    {
+     "t": "Hỏi bé có đồng ý để bác sĩ nói với mẹ về nỗi lo không, rồi giải thích cho mẹ về thuốc nhỏ mũi và tâm trạng của bé sau khi ông mất; không tiết lộ khi bé chưa đồng ý",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp và bảo mật với trẻ vị thành niên, không cần nguồn; tài liệu đã tải không có hướng dẫn riêng."
+    },
+    {
+     "t": "Chuyển tuyến ngay để siêu âm hạch, nội soi vòm hoặc sinh thiết vì lo ung thư",
+     "v": "w",
+     "n": "Chưa có dấu hiệu gợi ý: triệu chứng hai bên, hạch mềm di động ấn đau nhẹ, khởi phát cấp (QĐ 5643, Ung thư vòm mục 3.1.1; Viêm mũi họng cấp tính mục 3.1.1); sinh thiết chỉ khi có khối vòm (mục 3.1.2). Chuyển ngay làm bé và mẹ lo thêm, tốn kém, không đổi xử trí hôm nay."
+    },
+    {
+     "t": "Nhập viện hoặc truyền dịch cho 'mau khỏe'",
+     "v": "w",
+     "n": "Bé uống được, SpO₂ 98%, không dấu hiệu nguy hiểm: ho, cảm lạnh chỉ cần điều trị ngoại trú, uống thêm nước (WHO 2013 mục 4.4; mục 4.2.1 cho tiêu chuẩn nhập viện)."
+    },
+    {
+     "t": "Đổi sang thuốc nhỏ mũi co mạch loại mạnh hơn hoặc nhỏ nhiều lần hơn theo ý bé",
+     "v": "w",
+     "n": "Dùng kéo dài làm nghẹt mũi nặng thêm (QĐ 5643, Viêm mũi xoang cấp tính mục 4.2.1; EPOS 2020 mục 6.1.10.1, 10.3.1.3); thuốc nhỏ mũi có hoạt chất không dùng cho ho, cảm lạnh (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (amoxicillin–clavulanat, cephalosporin thế hệ 3, macrolid) hoặc tiêm kháng sinh để 'khỏi nhanh và đỡ biến chứng'",
+     "v": "w",
+     "n": "Kháng sinh không hiệu quả cho cảm lạnh và không phòng được viêm phổi (WHO 2013 mục 4.4); EPOS 2020 Bảng 1.4.1: không khuyến cáo dùng thường quy, gây tác dụng phụ đáng kể."
+    },
+    {
+     "t": "Cho thuốc ho chứa codein, atropin hoặc thuốc tiêu đờm",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không dùng thuốc chứa atropin, codein hay dẫn xuất codein, cồn (có thể gây hại) hoặc thuốc tiêu đờm trong ho, cảm lạnh ở trẻ em."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cảm lạnh / viêm mũi họng cấp do virus, ngày thứ 4 của bệnh, mức nhẹ đến vừa (nghỉ học 2 ngày, ngủ chập chờn, ăn giảm)",
+     "Chưa biến chứng: không viêm phổi (thở 22 l/p, không rút lõm, phổi không ran), không viêm tai giữa cấp (màng nhĩ không phồng), chưa đủ tiêu chuẩn viêm xoang vi khuẩn",
+     "Hạch dưới hàm phải khoảng 1 cm, mềm, di động, hơi đau: hạch phản ứng của viêm mũi họng",
+     "Nghẹt mũi nặng thêm do dùng thuốc nhỏ mũi co mạch kéo dài khoảng 3 tuần (nguy cơ viêm mũi do thuốc)",
+     "Không có dấu hiệu nguy hiểm, không mất nước",
+     "Bé sợ ung thư vòm họng vì ông ngoại mất bệnh này: chưa có dấu hiệu gợi ý, cần giải thích và hẹn khám lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là cảm lạnh / viêm mũi họng cấp do virus: khởi phát 2 ngày sau chuyến xe khách dài có người ho; sốt vừa, ngạt mũi, chảy mũi nước rồi đục, ho khan rồi có ít đờm, khàn nhẹ, họng đỏ, hạch góc hàm ấn đau nhẹ (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1, tr. 134). Viêm mũi họng do virus chiếm 60–80% (mục 2.1.2) và tự khỏi sau 3–5 ngày (mục 5.1); EPOS 2020 mục 4.1.2 (tr. 53) ghi trẻ đi học có thể cảm 7–10 lần mỗi năm. Cận lâm sàng không cần; bạch cầu không tăng, lympho nhiều gợi virus (mục 3.1.2).",
+     "Vì sao không phải viêm phổi: thở 22 l/p, dưới ngưỡng thở nhanh của trẻ > 5 tuổi (30 l/p; QĐ 101/2014 mục V.1 ghi '> 30', QĐ 3312 Viêm phổi do vi khuẩn ở trẻ em mục 1.1 ghi '≥ 30'; bé đều dưới cả hai), không rút lõm lồng ngực, phổi không ran, SpO₂ 98%. Không có dấu hiệu nguy hiểm (không uống được, li bì, co giật; WHO 2013 mục 4.2.1). Không cần siêu âm: chẩn đoán dựa lâm sàng. Ho, cảm lạnh thường hết trong 14 ngày (WHO 2013 mục 4.4).",
+     "Vì sao không phải viêm tai giữa cấp: bé không đau tai, màng nhĩ xám, thấy tam giác sáng, không phồng, di động tốt; chẩn đoán cần màng nhĩ phồng hoặc chảy mủ tai, hoặc phồng nhẹ kèm đau tai dưới 48 giờ hay đỏ rực (AAP 2013 KAS 1A–1C). QĐ 5643 (Viêm tai giữa cấp tính trẻ em mục 3.1.1) mô tả đau tai tăng dần, màng nhĩ đỏ nề rồi phồng; bé chưa có. Viêm tai giữa cấp là biến chứng gần của viêm mũi họng (Viêm mũi họng cấp tính mục 5.2) nên phải dặn dấu hiệu quay lại.",
+     "Vì sao chưa nghĩ liên cầu và viêm xoang vi khuẩn: có ho, sổ mũi, khàn tiếng là dấu hiệu virus (IDSA 2012 khuyến cáo I.4); Centor 1 điểm, McIsaac 2 điểm (IDSA 2025 Bảng 3; AWaRe 2022 tr. 49–50). Viêm xoang vi khuẩn cần một trong ba hình thái: triệu chứng ≥ 10 ngày, khởi phát nặng (sốt ≥ 39 °C kèm mủ mũi hoặc đau mặt ≥ 3–4 ngày liên tiếp) hoặc xấu lại sau 5–6 ngày đỡ (IDSA ABRS 2012 khuyến cáo 1); bé mới ngày 4, chưa có hình thái nào. Nước mũi đục dần là diễn tiến thường gặp (QĐ 5643 mục 3.1.1).",
+     "Vì sao nghẹt mũi nặng thêm: bé nhỏ thuốc co mạch mỗi tối khoảng 3 tuần rồi 4–5 lần mỗi ngày trong 4 ngày cảm, nhỏ xong chỉ thông 1–2 tiếng. QĐ 5643 (Viêm mũi xoang cấp tính mục 4.2.1) chỉ nêu xịt ngắn ngày, ví dụ 3 ngày, xịt kéo dài có thể làm bệnh nặng hơn; EPOS 2020 cho co mạch dưới 10 ngày (Hình 1.4.1) và nói dùng kéo dài có thể gây viêm mũi do thuốc, nghẹt nặng hơn khi ngưng (mục 6.1.10.1; 10.3.1.3, tr. 438). EPOS 2020 (tr. 438): chỉ dùng ngắn ngày, chưa nghiên cứu đủ ở trẻ, nhất là dưới 6 tuổi.",
+     "Vì sao hạch không đáng lo hôm nay và vì sao bé sợ: hạch dưới hàm mềm, di động, ấn hơi đau, xuất hiện cùng đợt viêm mũi họng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1). Ung thư vòm có triệu chứng cơ năng một bên (đau nửa đầu bên bệnh, ngạt mũi, ù tai cùng bên, xì máu mũi, khịt khạc máu) và hạch cổ di căn (Ung thư vòm mũi họng mục 3.1.1, tr. 284); bé ngạt hai bên, không chảy máu, nghe tốt. Chẩn đoán xác định phải sinh thiết (mục 3.1.2). Tỉ lệ ung thư vòm ở trẻ em và mốc hạch tồn tại bao lâu thì phải siêu âm: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị ngoại trú, chăm sóc hỗ trợ: ho, cảm lạnh là bệnh virus tự giới hạn, chỉ cần chăm sóc hỗ trợ (WHO 2013 mục 4.4); virus tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1). Phần lớn triệu chứng hết vào ngày 7 nhưng chảy mũi và ho có thể kéo dài thêm 3–4 ngày (EPOS 2020 mục 4.1.2, tr. 53).",
+     "Kháng sinh, hai cách đều đúng theo sổ mâu thuẫn: không kê vì cảm lạnh do virus (WHO 2013 mục 4.4; EPOS 2020 Bảng 1.4.1; IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 49–50) HOẶC theo QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) điều trị như liên cầu khi chưa có xét nghiệm, penicillin V hoặc amoxicillin 10 ngày. Ca chọn không kê vì ho, sổ mũi, Centor 1, thở bình thường. Vẫn phải dặn dấu hiệu quay lại để không bỏ sót biến chứng nhiễm khuẩn.",
+     "Ngưng thuốc nhỏ mũi co mạch: bé đã dùng khoảng 3 tuần, gấp nhiều lần mốc 3 ngày (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1) và mốc dưới 10 ngày (EPOS 2020 Hình 1.4.1); IDSA ABRS 2012 khuyến cáo 18 không khuyến cáo co mạch hỗ trợ; WHO 2013 mục 4.4 không dùng thuốc nhỏ mũi có hoạt chất. QĐ 5643 (Ngạt mũi mục 4.1) cho rỏ naphtazolin nhưng không ghi thời hạn. Thay bằng nước muối sinh lý 0,9% và hút mũi (QĐ 5643 Ngạt mũi mục 4.1). Phải báo trước với bé và mẹ rằng vài ngày đầu có thể nghẹt hơn: số ngày cụ thể và cách ngưng (dừng ngay hay giảm dần): không có trong tài liệu đã tải.",
+     "Hạ sốt, giảm đau: paracetamol 10–15 mg/kg/lần mỗi 6 giờ (AWaRe 2022 tr. 49–50); bé 36 kg, 500 mg ≈ 13,9 mg/kg; tối đa 4 lần/24 giờ = 2 g ≈ 55,6 mg/kg/ngày, dưới 60 mg/kg/24 giờ (QĐ 3312 Co giật do sốt mục 4.1; QĐ 708 Viêm màng não mủ mục 4.2). AWaRe cho trẻ ≥ 30 kg dùng 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày: con số thận trọng hơn là 60 mg/kg/ngày. Chỉ dùng khi bé khó chịu; ngưỡng ≥ 38,5 °C (QĐ 3312 Viêm phổi do vi khuẩn ở trẻ em mục 2.2) hay ≥ 39 °C (WHO 2013 mục 4.4). Không aspirin (IDSA 2012 khuyến cáo IV.2).",
+     "Không chụp X-quang, không xét nghiệm máu: chẩn đoán cảm lạnh dựa lâm sàng (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2); viêm phổi chẩn đoán lâm sàng (QĐ 101/2014 mục V.1). Test nhanh liên cầu không bắt buộc; làm cũng chấp nhận.",
+     "Không chuyển tuyến siêu âm hạch hoặc nội soi vòm hôm nay: chưa có dấu hiệu một bên, hạch phản ứng (QĐ 5643 Ung thư vòm mục 3.1.1). Đây là quyết định chủ động, đi kèm dặn dấu hiệu cảnh báo và hẹn khám lại hạch khi hết cảm.",
+     "Hẹn và dặn: tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7); quay lại ngay khi thở nhanh, rút lõm, không uống được, li bì, co giật (WHO 2013 mục 4.2.1; QĐ 101/2014 mục V.1); sốt trở lại sau khi đỡ, đau mặt, mủ mũi (IDSA ABRS 2012 khuyến cáo 1); đau tai, chảy mủ tai (QĐ 5643). Tư vấn riêng cho bé về nỗi sợ ung thư, hỏi ý bé trước khi nói với mẹ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (viên 500 mg)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên (500 mg ≈ 13,9 mg/kg; khoảng cho phép 10–15 mg/kg = 360–540 mg) mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu hoặc đau họng, nhức đầu; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt hoặc đau; tối đa 4 viên/24 giờ (2 g ≈ 55,6 mg/kg/ngày, ≤ 60 mg/kg/ngày)",
+      "ghi_chu": "AWaRe 2022 tr. 49–50 (10–15 mg/kg mỗi 6 giờ; trẻ ≥ 30 kg 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); QĐ 3312 (Co giật do sốt mục 4.1) và QĐ 708 (Viêm màng não mủ mục 4.2): không quá 60 mg/kg/24 giờ, ca theo mức thận trọng hơn. Không dùng aspirin (IDSA 2012 khuyến cáo IV.2)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ hoặc rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc rửa mỗi bên mũi, sau đó xì nhẹ từng bên hoặc hút dịch mũi",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Khi nghẹt mũi, nhất là trước khi ngủ; thay hoàn toàn thuốc nhỏ mũi co mạch",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Ngạt mũi mục 4.1, tr. 117; Viêm mũi xoang cấp tính mục 4.2.1); EPOS 2020 Bảng 1.4.1 (rửa mũi nước muối có thể có lợi ở trẻ). Số lần mỗi ngày và thể tích: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh do virus, thường đỡ sau 3–5 ngày (QĐ 5643); chảy mũi và ho có thể kéo dài thêm 3–4 ngày sau ngày thứ 7 (EPOS 2020 mục 4.1.2). Không cần truyền dịch vì bé uống được.",
+     "Ngưng hẳn thuốc nhỏ mũi co mạch đang dùng, không mua loại 'mạnh hơn'. Vài ngày đầu mũi có thể nghẹt hơn; dùng nước muối sinh lý 0,9% nhỏ hoặc rửa mũi, xì nhẹ từng bên. Dùng kéo dài làm nghẹt mũi nặng thêm (QĐ 5643; EPOS 2020).",
+     "Paracetamol 500 mg một viên chỉ khi sốt hoặc đau làm bé khó chịu, cách nhau ít nhất 6 giờ, tối đa 4 viên trong 24 giờ (AWaRe 2022; QĐ 3312). Không cho aspirin. Không tự mua thuốc ho, thuốc cảm hoặc thuốc tiêu đờm (WHO 2013 mục 4.4).",
+     "Uống đủ nước, ăn lỏng chia bữa nhỏ, ngủ đủ giấc; nước ấm có đường làm dịu họng (WHO 2013 mục 4.4).",
+     "Cục dưới hàm là hạch phản ứng của viêm mũi họng, mềm, di động, thường nhỏ lại khi hết cảm. Nếu sau khi hết cảm hạch vẫn còn hoặc cứng, to dần, hoặc có nghẹt mũi chỉ một bên, chảy máu mũi, ù tai một bên, đau nửa đầu thì đưa bé khám lại (QĐ 5643, Ung thư vòm mục 3.1.1). Mốc số ngày: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay nếu thở nhanh khi nghỉ (trên 30 lần/phút), thở rút lõm ngực, không uống được, li bì khó đánh thức, co giật (WHO 2013 mục 4.2.1; QĐ 101/2014 mục V.1).",
+     "Quay lại sớm nếu bé đỡ vài ngày rồi sốt trở lại, đau vùng má hoặc trán, nước mũi vàng xanh đặc (IDSA ABRS 2012 khuyến cáo 1); đau tai, chảy mủ tai (QĐ 5643, Viêm mũi họng cấp tính mục 5.2).",
+     "Tái khám sau 5 ngày nếu chưa đỡ; ho kéo dài trên 14 ngày cần khám lại tìm nguyên nhân khác (WHO 2013 Bảng 7, mục 4.4).",
+     "Với bé: nghĩ gì, đọc gì trên mạng cứ hỏi bác sĩ; bé chưa có dấu hiệu nào của bệnh nặng. Bác sĩ sẽ hỏi bé có muốn nói với mẹ không."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được dặn kỹ, ngưng thuốc nhỏ mũi, rửa mũi nước muối; riêng với bé, bác sĩ nói về hạch và ung thư vòm, bé thở phào và đồng ý để mẹ biết. Hai ngày sau bé đỡ sốt, ăn ngủ khá hơn. Ngày thứ 8 của bệnh (4 ngày sau khám), khi đang đỡ, bé sốt trở lại 39 °C, nước mũi vàng đặc, đau vùng má phải. Mẹ nhớ tờ dặn nên đưa bé quay lại ngay: bác sĩ chẩn đoán viêm xoang cấp do vi khuẩn vì xấu lại sau đợt cảm đang đỡ (IDSA ABRS 2012 khuyến cáo 1, ý iii), cho amoxicillin–clavulanat (khuyến cáo 2–3; trẻ em điều trị 10–14 ngày, khuyến cáo 15). Bé hết sốt sau vài ngày, khỏi hẳn khi hết đợt thuốc; hạch dưới hàm nhỏ dần rồi biến mất. Khoảng 0,5–2% cảm lạnh do virus có bội nhiễm vi khuẩn (EPOS 2020 mục 4.1.2, tr. 53) và QĐ 5643 xếp viêm xoang cấp là biến chứng của viêm mũi họng (Viêm mũi họng cấp tính mục 5.2). Quyết định không kê kháng sinh hôm khám là đúng vì lúc đó chưa có dấu hiệu bội nhiễm; bé xấu đi sau đó không có nghĩa hôm khám sai (chống outcome bias). Phần liều amoxicillin–clavulanat chi tiết cho trẻ: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: bé đáp 'không' cho mọi câu hỏi cảm giác (sốt, mệt) để mẹ không phát hiện nỗi sợ; câu hỏi chức năng (ngủ, ăn, nghỉ học, leo cầu thang) mới lộ mức độ thật. Mức độ thật chỉ nhẹ đến vừa, không có dấu hiệu nguy hiểm.",
+  "Lý do thật (sợ ung thư vòm họng như ông ngoại) giấu kỹ: bé chỉ xin thuốc nhỏ mũi mạnh hơn; nỗi sợ chỉ hiện khi hỏi riêng bé, nhẹ nhàng.",
+  "Thuốc nhỏ mũi co mạch dùng kéo dài: tên thuốc, số lần, số tuần chỉ lộ khi hỏi cụ thể; chính thuốc làm nghẹt mũi nặng thêm và là lý do bé xin 'thuốc mạnh hơn'.",
+  "Không có siêu âm: không đo được hạch, không cần để chẩn đoán; quyết định dựa vào khám hạch và triệu chứng một bên."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng thay câu hỏi cảm giác (đêm tỉnh mấy lần, ăn mấy chén, nghỉ học mấy ngày, leo cầu thang có phải dừng thở không); vẫn hỏi dấu hiệu nguy hiểm (WHO 2013 mục 4.2.1).",
+  "Học sinh 11 tuổi tự khai được: hỏi riêng bé, nhẹ nhàng, về nỗi lo và việc bé đã đọc trên mạng; hỏi người thân từng bệnh tương tự. Hỏi chung 'em có lo gì không' sẽ nhận 'không'.",
+  "Thuốc nhỏ mũi co mạch: luôn hỏi thuốc tự mua. QĐ 5643 giới hạn ví dụ 3 ngày, EPOS 2020 dưới 10 ngày; dùng kéo dài làm nghẹt nặng thêm (EPOS 2020 mục 6.1.10.1; Bảng 10.1.1).",
+  "Hạch cổ trong cảm lạnh: hạch mềm, di động, ấn đau nhẹ là hạch phản ứng (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.1); ung thư vòm có triệu chứng một bên kéo dài (QĐ 5643 Ung thư vòm mục 3.1.1). Trấn an bằng dữ kiện khám, không trấn an suông.",
+  "Xử trí đúng nhưng diễn tiến xấu: không kê kháng sinh hôm đầu là đúng, bé vẫn có thể bội nhiễm xoang sau vài ngày (0,5–2%, EPOS 2020 mục 4.1.2); tờ dặn dấu hiệu quay lại giúp phát hiện sớm. Đánh giá quyết định theo thông tin lúc đó, không theo kết cục.",
+  "Mâu thuẫn kháng sinh trong viêm mũi họng đỏ cấp: ghi cả hai cách (QĐ 5643 điều trị như liên cầu khi chưa có xét nghiệm; WHO 2013, EPOS 2020, IDSA 2012, AWaRe 2022 dựa vào dấu hiệu virus)."
+ ],
+ "diem_nho": [
+  "Viêm mũi họng cấp do virus tự khỏi sau 3–5 ngày; biến chứng gần: viêm thanh khí phế quản, viêm phổi, viêm tai giữa cấp, viêm xoang cấp (QĐ 5643, Viêm mũi họng cấp tính mục 5.1–5.2).",
+  "Trẻ > 5 tuổi thở nhanh khi ≥ 30 l/p (QĐ 3312 Viêm phổi do vi khuẩn ở trẻ em mục 1.1; QĐ 101/2014 mục V.1 ghi '> 30'); không rút lõm, phổi không ran: không viêm phổi.",
+  "Viêm tai giữa cấp: màng nhĩ phồng vừa–nặng hoặc chảy mủ tai; phồng nhẹ kèm đau tai dưới 48 giờ hoặc đỏ rực; không chẩn đoán khi không có dịch tai giữa (AAP 2013 KAS 1A–1C).",
+  "Viêm xoang vi khuẩn: triệu chứng ≥ 10 ngày, hoặc sốt ≥ 39 °C kèm mủ mũi hay đau mặt ≥ 3–4 ngày liên tiếp, hoặc xấu lại sau 5–6 ngày đỡ (IDSA ABRS 2012 khuyến cáo 1); kháng sinh cho trẻ: amoxicillin–clavulanat, 10–14 ngày (khuyến cáo 3, 15).",
+  "Ung thư vòm mũi họng: triệu chứng mượn một bên (đau nửa đầu, ngạt mũi, ù tai cùng bên, xì máu mũi, khịt khạc máu), khám hạch cổ, chẩn đoán xác định bằng sinh thiết (QĐ 5643, Ung thư vòm mũi họng mục 3.1).",
+  "Ho, cảm lạnh trẻ em: không kháng sinh, không thuốc nhỏ mũi có hoạt chất, không thuốc ho codein/atropin, tái khám sau 5 ngày nếu chưa đỡ, ho ≥ 14 ngày nghĩ nguyên nhân khác (WHO 2013 mục 4.4, Bảng 7)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2–6, tr. 133–136); Ngạt mũi (mục 4.1, tr. 117); Viêm mũi xoang cấp tính (mục 4.2.1); Viêm tai giữa cấp tính trẻ em (mục 3.1.1, tr. 210–212); Ung thư vòm mũi họng (mục 3.1, tr. 284)",
+  "QĐ 101/2014 – Bộ Y tế, QĐ 101/QĐ-BYT 2014, Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: mục V.1 (chẩn đoán viêm phổi, ngưỡng thở nhanh); bản chữ OCR ghi '> 30 lần/phút' cho trẻ > 5 tuổi",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em (mục 1.1, 2.2, tr. 262–264); Co giật do sốt (mục 4.1, tr. 456)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ (mục 4.2, liều tối đa paracetamol)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.2.1 (tr. 80), Bảng 7 (tr. 81), mục 4.4 Cough or cold (tr. 90–91)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care, 6. Pharyngitis (tr. 49–50): Centor, liều paracetamol",
+  "EPOS 2020 – European Position Paper on Rhinosinusitis and Nasal Polyps – TL-0087 – ĐÃ ĐỌC: Bảng 1.4.1 (tr. 7), Hình 1.4.1, mục 4.1.2 (tr. 53), mục 6.1.10.1, mục 10.1 (tr. 433), Bảng 10.1.1 (tr. 434), mục 10.3.1.2–10.3.1.3 (tr. 437–438)",
+  "IDSA ABRS 2012 – IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults (tóm tắt điều hành) – TL-0159 – ĐÃ ĐỌC: khuyến cáo 1–3, 15, 18",
+  "IDSA 2012 – GAS pharyngitis guideline – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, IV.2, IV.3",
+  "IDSA 2025 – GAS pharyngitis update: clinical scoring systems – TL-0140 – ĐÃ ĐỌC: Bảng 3 (Centor, McIsaac)",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: cách ngưng thuốc nhỏ mũi co mạch (dừng ngay hay giảm dần) và thời gian hết nghẹt hồi ứng; tỉ lệ ung thư vòm ở trẻ em và mốc thời gian hạch tồn tại cần siêu âm hoặc sinh thiết; số lần nhỏ nước muối mỗi ngày; liều amoxicillin–clavulanat cho trẻ trong viêm xoang; tỉ lệ tai biến của truyền dịch ở trẻ không mất nước."
+ ],
+ "phien_ban_ca": "1 (2026-11-19)",
+ "ghi_chu_bien_tap": [
+  "19/11/2026: viết mới NH-0162 (đặc tả sổ cái: học sinh nữ 11 tuổi, nhiễm khuẩn hô hấp trên cấp; loại trừ viêm phổi, viêm tai giữa cấp; phủ nhận triệu chứng nặng; không siêu âm; sau đi xa ngồi lâu; thuốc nhỏ mũi kéo dài; lý do thật sợ ung thư; xử trí đúng nhưng diễn tiến xấu).",
+  "Tài liệu đã đọc: TL-0130 (QĐ 5643: Viêm mũi họng cấp tính, Ngạt mũi, Viêm mũi xoang cấp, Viêm tai giữa cấp trẻ em, Ung thư vòm); TL-0243 (QĐ 101/2014 mục V.1); TL-0037 (QĐ 3312); TL-0015 (QĐ 708); TL-0250 (WHO 2013); TL-0018 (AWaRe 2022); TL-0087 (EPOS 2020); TL-0159 (IDSA ABRS 2012); TL-0158 (IDSA 2012); TL-0140 (IDSA 2025); TL-0271 (AAP 2013).",
+  "Mâu thuẫn đã áp dụng theo sổ: kháng sinh trong viêm họng/mũi họng đỏ cấp (không kê HOẶC theo QĐ 5643); mốc thời gian thuốc xịt co mạch mũi (QĐ 5643 ví dụ 3 ngày, EPOS dưới 10 ngày, IDSA ABRS khuyến cáo 18); hạ sốt theo ngưỡng 38,5 hay 39 °C (QĐ 3312, WHO 2013); liều tối đa paracetamol (60 mg/kg/ngày thận trọng hơn 4 g/ngày). Chỗ mới: QĐ 5643 Ngạt mũi mục 4.1 cho rỏ naphtazolin không nêu thời hạn (xem báo cáo).",
+  "Âm thanh tim, phổi dùng AT-TIM-BT-NL-01 và AT-PHOI-BT-NL-01 (mạch 96 < 100); chữ trong ca ghi 96 l/p.",
+  "Cơ sở không có siêu âm: siêu âm hạch cổ, vùng cổ, phổi bị khóa; không khai báo thay thế vì khám hạch lâm sàng là đủ."
+ ]
+}
