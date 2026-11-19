@@ -1,0 +1,622 @@
+{
+ "ma_ca": "DL-0095",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_viem_da_tiep_xuc",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Viêm da tiếp xúc",
+  "chan_doan_phai_loai_tru": [
+   "Chàm",
+   "Nấm da",
+   "Zona"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi (bé 7 tháng, mẹ làm ca siêu thị nên có tối cha trông)",
+  "yeu_to_khoi_phat": "Sau uống rượu bia: cha tiếp bạn nhậu tối thứ Bảy, say ngủ quên, bé nằm cùng một tã suốt đêm",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ: siro amoxicillin–acid clavulanic còn thừa từ toa viêm tai giữa 3 tuần trước, mẹ tự cho uống lại 5 ngày",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự: con bạn thân của mẹ bị 'hăm nấm' phải nằm viện; hai bé chơi chung 3 ngày trước, mẹ sợ bé bị lây và sợ tốn tiền"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Gia Huy",
+  "tuoi": 0.58,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi 7 tháng, bú mẹ và ăn dặm bột 2 bữa/ngày, ở nhà với mẹ; mẹ làm ca siêu thị nên có tối cha trông",
+  "can_nang": 7.9,
+  "chieu_cao": 68,
+  "xung_ho": "Bé 7 tháng chưa nói được, chỉ khóc, đạp chân, cười khi được dỗ. Mẹ (chị Lương Thị Mai, 27 tuổi) kể bệnh: bác sĩ gọi mẹ là 'chị', chị xưng 'em' và gọi bé là 'bé Huy' hoặc 'con'.",
+  "tinh_cach": "Mẹ làm nhân viên siêu thị, nói nhanh, hay nhìn điện thoại vì sợ trễ ca, tiết kiệm từng đồng; thương con, hay tự trách nhưng cũng bênh chồng. Bé hiếu động, hay quấy khi bị đặt nằm thay tã, dỗ nín được.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mở đầu chị nói 'bác sĩ cho em xin thuốc bôi thôi, em không làm xét nghiệm đâu, em chỉ mang có 250 nghìn, cuối tháng mới có lương'. Chị chịu làm khi bác sĩ nói rõ xét nghiệm nào rẻ và đổi được cách điều trị, xét nghiệm nào bỏ được; bị ép làm cả loạt thì chị bỏ về mua thuốc theo lời bạn. Chị chỉ kể chuyện cha uống bia và kháng sinh thừa khi bác sĩ hỏi nhẹ nhàng, không trách.",
+  "nguoi_nha": "Mẹ bé, chị Mai, bế bé đi cả hai lượt và kể mọi bệnh sử (nguoi_noi = nguoi_nha); cha đi làm, không đi cùng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Mai)",
+  "ngoai_hinh": {
+   "da": "#f3cfa9",
+   "toc": "#1f1814",
+   "kieuToc": "tre",
+   "ao": "#9ec5e8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#ecc49c",
+    "toc": "#1b1411",
+    "kieuToc": "buoc",
+    "ao": "#d98ba0",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Hăm đỏ, trợt vùng mông – đùi – hạ vị khoảng 3 ngày, bé quấy khóc khi thay tã",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang (nên cũng không có CT, nội soi). Làm được xét nghiệm máu, soi tươi nấm, nhuộm Gram – cấy mủ (kết quả sau 2 ngày). Test áp không có ở cơ sở. Ca này không cần hình ảnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Đặng Gia Huy, 7 tháng, nam, mẹ bế đến vì hăm đỏ ở mông và đùi, quấy khóc khi thay tã, khoảng 3 ngày nay. Cân nặng 7,9 kg, chiều dài 68 cm. Sinh hiệu: mạch 128 l/p, nhiệt độ 36,9 °C, nhịp thở 34 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Huy lên bệnh viện Nhi tuyến trên ngay hôm nay là quá tay: bé tỉnh, bú tốt, không sốt, không mất nước, tổn thương khu trú vùng tã, chưa bội nhiễm; điều trị cốt lõi là bỏ chất kích ứng, lớp chắn và corticoid hiệu lực thấp (QĐ 4416, Viêm da tiếp xúc mục 3.1, 3.2.2; DDG 2022 mục 3.2, 3.3.4.1). Mẹ chỉ mang 250 nghìn, sợ cảnh nhập viện như con bạn, nên dễ bỏ về và tự mua thuốc theo lời bạn.",
+    "nhap_vien": "Giữ bé nằm viện lúc này là không cần: tiêu chảy chưa mất nước, bú được thì điều trị ngoại trú (WHO 2013 mục 5.2.3). Nằm viện làm bé thêm nguy cơ lây chéo, tốn kém quá khả năng gia đình, và củng cố nỗi sợ bé mắc bệnh nặng như con của bạn mẹ."
+   },
+   "loi_mo": "Chào bác sĩ. Bé nhà em hăm đỏ hết cả mông, đau lắm, thay tã là khóc thét. Bác sĩ cho em xin thuốc bôi thôi nha, em không làm xét nghiệm đâu, em chỉ mang có 250 nghìn, cuối tháng mới có lương.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mông, mặt trong đùi và bụng dưới bé đỏ rực, vài chỗ trợt rỉ nước, khoảng 3 ngày nay (thấy từ sáng Chủ nhật). Bé khóc thét khi thay tã, lau rửa, ngủ chập chờn, bú vẫn tốt, không sốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, vị trí, tính chất tổn thương"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sáng Chủ nhật hơi đỏ ở mông; thứ Hai đỏ rực lan ra đùi, bụng dưới; hôm nay có chỗ trợt chảy nước trong, không mủ. Má, cổ, tay, nếp khuỷu, nếp khoeo da mịn, chưa từng đỏ hay khô ráp. Cha mẹ không bị chàm, hen; bé sinh đủ tháng, tăng cân đều, tiêm chủng theo lịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến; chỉ vùng tã, không ở má/nếp gấp (loại chàm)"
+    },
+    {
+     "id": "dem_thu_bay",
+     "noi_dung": "Tối thứ Bảy mẹ đi ca siêu thị đến nửa đêm. Cha trông bé, rủ ba người bạn nhậu tại nhà, uống khoảng 6–7 lon bia, say ngủ gục. Bé ngủ trong nôi từ 8 giờ tối với tã mới. Mẹ về lúc nửa đêm thấy cả nhà ngủ say nên không thay tã. Đến 6 giờ 30 sáng mới thay: tã sũng, phân lỏng dính khắp mông, tức là bé nằm cùng một tã khoảng 10 giờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi đêm trước lúc bé bắt đầu đỏ ai trông bé, tã thay lần cuối lúc nào, hoặc hỏi nhẹ nhàng 'có đêm nào bé nằm tã lâu hơn thường không'. Hỏi chung 'có gì khác thường không' thì mẹ nói 'không có gì'.",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau cha uống rượu bia, bé nằm tã ướt phân suốt đêm"
+    },
+    {
+     "id": "khan_uot",
+     "noi_dung": "Sáng Chủ nhật cha lau mông bé bằng khăn ướt hương hoa hồng để lâu, có mùi cồn; bé khóc thét lúc lau. Từ đó mẹ vẫn dùng khăn đó mỗi lần thay tã, tắm bé bằng xà phòng cục thơm của cả nhà, rồi thoa phấn rôm. Chưa bôi kem hay thuốc gì lên vùng đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc có hệ thống: khăn ướt hương liệu, xà phòng, phấn rôm"
+    },
+    {
+     "id": "phan_long",
+     "noi_dung": "Từ thứ Sáu bé đi phân lỏng vàng, không máu, không nhầy, 4–5 lần/ngày; hôm nay 3–4 lần. Bú tốt, không nôn, tiểu 6–7 tã/ngày, thóp phẳng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân lỏng làm da ẩm ướt; không mất nước"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ba tuần trước bé viêm tai giữa, uống kháng sinh 7 ngày đủ liệu trình. Tối thứ Năm bé ho, sổ mũi nhẹ, mẹ lấy chai siro amoxicillin – acid clavulanic còn thừa (khoảng 1/3 chai) cho uống 2 lần/ngày, mỗi lần khoảng 2,5 mL, 5 ngày liên tục tới sáng nay; không nhớ liều bác sĩ dặn. Phân lỏng bắt đầu sau khi uống thuốc 1 ngày. Mẹ nghĩ 'hăm là nhiễm trùng nên cho thêm kháng sinh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ nói 'bé không uống thuốc gì'. Chỉ nhớ ra khi bác sĩ hỏi cụ thể có cho bé uống lại thuốc còn thừa của lần bệnh trước không; thuốc gì, mỗi lần bao nhiêu, mấy lần, từ khi nào, lần cuối khi nào.",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng sinh theo toa cũ, không có chỉ định"
+    },
+    {
+     "id": "nam_mieng",
+     "noi_dung": "Miệng bé không có đốm trắng. Không mụn mủ nhỏ rải rác quanh vùng đỏ; nếp bẹn không đỏ. Không ai trong nhà bị nấm da, ngứa hay ban xếp thành dải một bên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu Candida, nấm da, zona (loại trừ)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ lo nhất: bạn thân (chị Hạnh) có con 8 tháng bị 'hăm nấm', nằm viện Nhi 2 ngày, tốn khoảng 3 triệu. Ba ngày trước hai bé chơi chung, dùng chung chậu tắm và khăn. Bạn nhắn 'nấm lây lắm, đi khám sớm kẻo nằm viện như con chị'. Mẹ sợ bé bị lây và sợ tốn tiền nên không muốn xét nghiệm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hôm nay vì sao đưa bé đi ngay, hoặc quanh bé có ai bị bệnh giống không. Chỉ hỏi bệnh sử thì mẹ nói 'em thấy bé khóc nhiều nên đưa đi'.",
+     "k": 1,
+     "y": "Lý do thật: bạn bè có bệnh tương tự, sợ lây và sợ tốn tiền"
+    },
+    {
+     "id": "tien_xn",
+     "noi_dung": "Mẹ chỉ mang 250 nghìn; chồng làm thợ sửa xe, cuối tháng mới có lương. Chị đồng ý làm xét nghiệm rẻ nếu bác sĩ nói rõ nó đổi được cách điều trị, từ chối xét nghiệm 'làm cho chắc'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền xét nghiệm: buộc xếp ưu tiên"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Vùng tã: mảng đỏ tươi, bóng, lan tỏa ở mông hai bên, mặt trong đùi, hạ vị và quanh hậu môn, ranh giới khá rõ theo mép tã; 3–4 chỗ trợt nông 0,5–1,5 cm ở mông phải và quanh hậu môn, rỉ ít dịch trong, không mủ, không vảy tiết. Nếp bẹn và nếp lằn mông da lành (tổn thương ở mặt lồi, nơi tã chạm da). Không mụn mủ vệ tinh, không bọng nước. Dương vật và bìu không tổn thương. Má, cổ, thân, nếp khuỷu, nếp khoeo: không ban, không khô. Không tổn thương xếp theo dải một bên, không mảng tròn lành giữa.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, quấy khi thay tã nhưng dỗ nín. Da niêm hồng, môi ẩm, mắt không trũng, thóp phẳng, véo da trở lại ngay. Lưỡi và niêm mạc miệng hồng, không có mảng trắng. Không hạch bẹn to.",
+     "k": 1
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 7,9 kg, chiều dài 68 cm, phù hợp tuổi.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "soi_nam": {
+     "v": "u",
+     "r": "Nạo mép vùng trợt ở mông phải, soi KOH: không thấy bào tử nấm men, giả sợi hay sợi nấm.",
+     "n": "Nên làm: rẻ nhất, trả lời nỗi lo 'nấm' của mẹ, và đổi được quyết định bôi corticoid. QĐ 4416 (Candida mục 2.1, 2.2): Candida da là dát đỏ, trợt, mụn mủ vệ tinh, chẩn đoán bằng soi tươi KOH."
+    },
+    "ctm": {
+     "r": "Bạch cầu 11,2 G/L, Neu 38%, Lym 55%, Hb 118 g/L, TC 340 G/L",
+     "n": "Không cần: không sốt, không nghi nhiễm khuẩn toàn thân; chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.2.3). Mẹ chỉ có 250 nghìn."
+    },
+    "crp": {
+     "r": "2 mg/L",
+     "n": "Không cần: không sốt, không dấu nhiễm khuẩn; không đổi quyết định hôm nay."
+    },
+    "test_ap": {
+     "r": "Không làm ở cơ sở",
+     "n": "Không cần lúc này: chẩn đoán kích ứng dựa vào lâm sàng (QĐ 4416, Viêm da tiếp xúc mục 2.2.3). Test áp chỉ khi nghi dị ứng, da lành, ngưng corticoid bôi tại vùng thử 7–14 ngày (ESCD 2026 mục 8.1); cơ sở không có."
+    },
+    "cxr": {
+     "n": "Không cần: không ho, không thở nhanh; cơ sở không có X-quang."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc kích ứng vùng tã (hăm tã), mức vừa, chưa bội nhiễm; do tã ướt phân lỏng khoảng 10 giờ, khăn ướt hương liệu có cồn, xà phòng cục thơm; kèm tiêu chảy nhẹ sau kháng sinh tự dùng, không mất nước",
+     "ok": 1,
+     "n": "Mảng đỏ rõ theo mép tã ở mặt lồi, nếp gấp lành, không mủ, sau một đêm nằm tã ướt phân; chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.2.1, 2.2.3). Viêm da vùng tã là viêm da tiếp xúc kích ứng thường gặp nhất trong năm đầu đời (DDG 2022 mục 1.2.1, 2.4); nước, mồ hôi dưới lớp bịt là tác nhân kích ứng (mục 1.3.1.1). ICD-10 L22 (TL-0001)."
+    },
+    {
+     "t": "Viêm da cơ địa (chàm) nhũ nhi",
+     "n": "Chàm nhũ nhi khởi phát 2–3 tháng, hay ở hai má, không thấy tổn thương ở vùng tã lót (QĐ 4416, Viêm da cơ địa mục 2.1). Bé đợt đầu, má và nếp gấp sạch, khởi phát sau một đêm nằm tã ướt: không phải."
+    },
+    {
+     "t": "Nấm da: Candida vùng tã, nấm sợi",
+     "n": "Candida da: dát đỏ, trợt, mụn mủ vệ tinh; nguy cơ băng bịt, corticoid, kháng sinh phổ rộng (QĐ 4416, Candida mục 1.2, 2.1). Bé có nguy cơ nhưng không mụn mủ vệ tinh, nếp bẹn lành, không tưa miệng, KOH âm tính: chưa phải. Nấm sợi: mảng tròn, lành giữa (Bệnh da do nấm sợi mục 2.1): không có."
+    },
+    {
+     "t": "Zona",
+     "n": "Zona: mảng đỏ xếp dọc đường phân bố thần kinh, nối thành dải (QĐ 4416, Zona mục 2.1). Tổn thương bé hai bên theo mép tã, không theo dải."
+    },
+    {
+     "t": "Chốc, bội nhiễm vi khuẩn",
+     "n": "Chốc: bọng nước nông, hóa mủ, vảy tiết vàng mật ong, có thể quanh hậu môn trẻ sơ sinh (QĐ 4416, Bệnh chốc mục 2.1). Bé không bọng nước, mủ hay vảy tiết, không sốt: chưa bội nhiễm."
+    },
+    {
+     "t": "Viêm da tiếp xúc dị ứng (khăn ướt, phấn rôm); viêm da tiết bã, vảy nến vùng tã",
+     "n": "Thể dị ứng cần mẫn cảm 5–21 ngày rồi phản ứng 48–72 giờ sau tiếp xúc lại (QĐ 4416, Viêm da tiếp xúc mục 1.3); tổn thương xuất hiện trong ngày đầu nên kích ứng hợp lý hơn. Nếu da không lành khi đã tránh chất kích ứng thì nghĩ dị ứng (DDG 2022 mục 3.3.1.2). Tiết bã, vảy nến vùng tã cần phân biệt ở nhũ nhi (DDG 2022 mục 2.4): bé không có vảy dày hay vảy nhờn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: viêm da do chất kích ứng (nước tiểu, phân, khăn ướt hương liệu, xà phòng), không phải nấm, không lây từ con của bạn; không trách cha mẹ",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 1.1, 2.2.1, 3.1: tìm và loại bỏ căn nguyên); DDG 2022 mục 3.1 (giáo dục người bệnh về nguyên nhân và thay đổi cách chăm sóc da)."
+    },
+    {
+     "t": "Bỏ khăn ướt hương liệu, xà phòng cục, phấn rôm; rửa vùng tã bằng nước ấm chảy nhẹ, thấm khô, để thoáng rồi mới mặc tã; thay tã ngay khi ướt hoặc bẩn, ban đêm cũng thay",
+     "v": "c",
+     "n": "QĐ 4416 (mục 3.1, 4: tránh chất kích ứng); DDG 2022 mục 3.2, mục 3.3.4.1 (không dùng xà phòng kiềm trong viêm da vùng tã); QĐ 75/2015 (Viêm da cơ địa mục 6: vệ sinh vùng tã lót tránh chất tiết gây kích thích). Số lần thay tã cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bôi lớp chắn dày (mỡ kẽm oxid hoặc vaselin) sau mỗi lần thay tã",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.2: chất làm mềm như petrolatum là liệu pháp đầu tay, bôi nhiều lần trong ngày); WHO 2013 mục 7.5.3 (bài về da trong suy dinh dưỡng phù, dùng tham khảo: kẽm – dầu thầu dầu hoặc vaselin cho da trợt). Không dùng urê ở nhũ nhi (DDG 2022 mục 3.3.4.1)."
+    },
+    {
+     "t": "Hydrocortison 1% mỏng 1–2 lần/ngày lên vùng đỏ, tối đa 7 ngày, bôi trước rồi phủ lớp chắn",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1, 3.2.2: mặt gấp dùng corticoid trung bình tới nhẹ 1–2 lần/ngày, 1–2 tuần); DDG 2022 mục 3.3.1.2 (hiệu lực thấp ở vùng hậu môn – sinh dục), mục 3.3.4.1 (vùng tã bịt làm tăng thấm thuốc); AAD-NPF 2021 (hydrocortison 0,5–2,5% là Class 7). Tuổi tối thiểu và thời gian riêng cho nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng siro kháng sinh còn thừa; không kê kháng sinh uống hay bôi",
+     "v": "c",
+     "n": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1: kháng sinh chỉ khi bội nhiễm); DDG 2022 mục 3.3.4.1 (kháng sinh bôi: kháng thuốc, hấp thu nhiều ở vùng tã); WHO 2013 (chương 5, tr. 125: không kháng sinh cho tiêu chảy không máu). Kháng sinh phổ rộng là yếu tố nguy cơ Candida (QĐ 4416, Candida mục 1.2)."
+    },
+    {
+     "t": "Tiêu chảy chưa mất nước: tiếp tục bú; thêm oresol 50–100 mL sau mỗi lần phân lỏng; quay lại ngay khi sốt, bú kém, phân máu",
+     "v": "c",
+     "n": "WHO 2013 mục 5.2.3 (tr. 134, 136): điều trị ngoại trú, bù thêm nước, tiếp tục bú; quay lại ngay nếu sốt hoặc phân máu."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày; quay lại ngay nếu sốt, bú kém, mụn mủ, bọng nước hoặc đỏ lan rộng",
+     "v": "c",
+     "n": "Dấu hiệu bội nhiễm: QĐ 4416 (Bệnh chốc mục 2.1; Candida mục 2.1); WHO 2013 mục 5.2.3. Mốc 3 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kẽm uống 5 mg/ngày (WHO 2024) hoặc 20 mg/ngày (WHO 2013), 10–14 ngày",
+     "v": "a",
+     "n": "WHO 2024 (TL-0245) khuyến cáo 3a, 3c: 5 mg/ngày vì 20 mg nôn nhiều hơn (thận trọng hơn); WHO 2013 mục 5.2.3 (tr. 136): 20 mg/ngày cho trẻ từ 6 tháng. Không bắt buộc ở tiêu chảy nhẹ."
+    },
+    {
+     "t": "Kem trộn kháng nấm – corticoid – kháng sinh, hoặc corticoid bôi mạnh (betamethason, clobetasol)",
+     "v": "w",
+     "n": "Chưa có bằng chứng nấm hay bội nhiễm (QĐ 4416, Candida mục 3.2.1: điều trị khi có chẩn đoán); DDG 2022 mục 3.3.1.2, 3.3.4.1: hiệu lực thấp ở vùng hậu môn – sinh dục, tăng thấm dưới tã, kháng sinh bôi kháng thuốc."
+    },
+    {
+     "t": "Corticoid toàn thân (uống hoặc tiêm) cho hăm nặng",
+     "v": "w",
+     "n": "Chưa đạt tiêu chuẩn: vùng tã dưới 20% diện tích (ước tính), sinh dục không liên quan (QĐ 4416, Viêm da tiếp xúc mục 3.2.1); DDG 2022 mục 3.3.4.3: chỉ cho trường hợp rõ rệt, dai dẳng, tối đa 7 ngày (áp dụng mục 'Từ ca DL-0085')."
+    },
+    {
+     "t": "Thuốc cầm tiêu chảy (loperamid…) hoặc thuốc chống nôn",
+     "v": "h",
+     "n": "WHO 2013 (chương 5, tr. 125): không dùng cho trẻ nhỏ, một số có tác dụng phụ nguy hiểm, có thể gây tử vong."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc kích ứng vùng tã (hăm tã), ICD-10 L22, mức vừa (đỏ lan tỏa, vài chỗ trợt nông), chưa bội nhiễm",
+     "Vị trí: mông, mặt trong đùi, hạ vị, quanh hậu môn; nếp bẹn, nếp lằn mông, dương vật, bìu lành",
+     "Tác nhân: tã ướt phân lỏng khoảng 10 giờ ban đêm (cha uống bia, ngủ quên), khăn ướt hương liệu có cồn, xà phòng cục thơm, phấn rôm",
+     "Yếu tố thuận lợi: tiêu chảy nhẹ không mất nước sau 5 ngày tự dùng lại siro kháng sinh thừa, không có chỉ định",
+     "Đã loại trừ: chàm nhũ nhi, nhiễm Candida, nấm sợi, zona, chốc, viêm da tiếp xúc dị ứng, viêm da tiết bã – vảy nến vùng tã"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận mẹ lo tiền → diễn tiến, sốt, bú, tiểu → tiếp xúc (khăn ướt, xà phòng, phấn) VÀ 'đêm trước ai trông bé, tã thay lần cuối lúc nào' → thuốc đã cho uống đến tận tên, liều, ngày (kể cả thuốc thừa) → cơ địa, tưa miệng → mẹ lo nhất điều gì → khám toàn thân, mất nước, cân, miệng, da cả cơ thể → soi KOH → chẩn đoán → xử trí.",
+     "Vì sao kích ứng: viêm da vùng tã là viêm da tiếp xúc kích ứng thường gặp nhất trong năm đầu đời (DDG 2022 mục 1.2.1, 2.4); nước tiểu, phân, mồ hôi dưới lớp bịt gây kích ứng (mục 1.3.1.1). Đỏ, trợt, giới hạn rõ ở vùng tiếp xúc, lành nhanh khi ngưng tiếp xúc (QĐ 4416, Viêm da tiếp xúc mục 2.2.1); chẩn đoán dựa vào lâm sàng và yếu tố tiếp xúc (mục 2.2.3). Mẹ nói 'bé không uống thuốc gì'; chuyện đêm thứ Bảy và siro thừa chỉ ra khi hỏi cụ thể; 'hăm là nhiễm trùng' dễ dẫn tới kê thêm kháng sinh (không có chỉ định, QĐ 4416 mục 3.2.1).",
+     "Loại trừ: chàm nhũ nhi ở hai má, không ở vùng tã (QĐ 4416, Viêm da cơ địa mục 2.1); Candida có mụn mủ vệ tinh, nguy cơ bịt, corticoid, kháng sinh (Candida mục 1.2, 2.1); nấm sợi có mảng tròn lành giữa (Bệnh da do nấm sợi mục 2.1); zona xếp dải thần kinh (Zona mục 2.1); chốc có bọng nước, vảy tiết (Bệnh chốc mục 2.1). Bé không có nét nào; KOH âm tính trả lời nỗi lo 'nấm lây'.",
+     "Ưu tiên với 250 nghìn: soi KOH 60 nghìn (rẻ, trả lời nỗi lo nấm, đổi quyết định bôi corticoid); công thức máu, CRP, soi phân, cấy mủ, test áp không đổi quyết định hôm nay. Ca không cần hình ảnh dù không có X-quang.",
+     "Lý do thật: mẹ sợ bé bị 'hăm nấm' lây từ con bạn và phải nằm viện tốn 3 triệu; không hỏi ra thì mẹ chỉ nhận thuốc rồi mua thêm thuốc theo lời bạn. Trả lời cụ thể: không phải nấm, không lây, chăm sóc ở nhà được, dấu hiệu cần quay lại (giao tiếp, không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, chăm sóc tại nhà, tái khám sau 3 ngày (ve_hen); không chuyển tuyến, không nhập viện: bé tỉnh, bú tốt, không sốt, không mất nước, tổn thương khu trú, chưa bội nhiễm (QĐ 4416, Viêm da tiếp xúc mục 3.1, 3.2.2; WHO 2013 mục 5.2.3).",
+     "Gốc là bỏ tác nhân kích ứng (QĐ 4416 mục 3.1; DDG 2022 mục 3.2): thay tã ngay khi ướt kể cả ban đêm, rửa nước ấm, thấm khô, bỏ khăn ướt hương liệu, xà phòng kiềm, phấn rôm (DDG 2022 mục 3.3.4.1). Hàng rào da: chất làm mềm (petrolatum) là liệu pháp đầu tay (QĐ 4416 mục 3.2.2); kẽm – dầu thầu dầu hoặc vaselin (WHO 2013 mục 7.5.3, dùng tham khảo); không dùng urê ở nhũ nhi (DDG 2022 mục 3.3.4.1).",
+     "Corticoid bôi: vùng gấp dùng loại trung bình tới nhẹ 1–2 lần/ngày, 1–2 tuần (QĐ 4416 mục 3.2.1, 3.2.2); DDG 2022 mục 3.3.1.2: hiệu lực thấp ở vùng hậu môn – sinh dục; mục 3.3.4.1: vùng tã bịt làm tăng thấm thuốc. Chọn hydrocortison 1% (Class 7, AAD-NPF 2021), mỏng, tối đa 7 ngày. Tuổi tối thiểu cho nhũ nhi: không có trong tài liệu đã tải.",
+     "Kháng sinh: ngưng siro thừa vì không bội nhiễm (QĐ 4416 mục 3.2.1; WHO 2013, chương 5 tr. 125: không kháng sinh cho tiêu chảy không máu); kháng sinh bôi kháng thuốc, hấp thu nhiều ở vùng tã (DDG 2022 mục 3.3.4.1). Kháng sinh phổ rộng, corticoid, bịt tã làm tăng nguy cơ Candida (QĐ 4416, Candida mục 1.2) nên dặn quay lại ngay nếu thấy mụn mủ nhỏ, đỏ vào nếp gấp, sốt.",
+     "Tiêu chảy chưa mất nước: tiếp tục bú, thêm oresol 50–100 mL sau mỗi lần phân lỏng (WHO 2013 mục 5.2.3, tr. 134, 136). Kẽm chấp nhận cả hai liều: 5 mg/ngày (WHO 2024 khuyến cáo 3a, 3c, thận trọng hơn vì 20 mg nôn nhiều hơn) hoặc 20 mg/ngày (WHO 2013 mục 5.2.3), 10–14 ngày; không bắt buộc ở tiêu chảy nhẹ.",
+     "Không corticoid toàn thân: vùng tã dưới 20% diện tích (ước tính), sinh dục không liên quan (QĐ 4416 mục 3.2.1, ngưỡng dành cho thể dị ứng); DDG 2022 mục 3.3.4.3 chỉ ngắn hạn tối đa 7 ngày cho trường hợp rõ rệt, dai dẳng. Test áp: chỉ nếu tái phát không rõ nguyên nhân, làm khi da lành ở tuyến có kỹ thuật (ESCD 2026 mục 8.1, 9.1). Mốc tái khám 3 ngày: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortison acetat kem 1%",
+      "ham_luong": "Tuýp 15 g",
+      "lieu": "Một lớp mỏng lên vùng da đỏ, trợt nông ở mông, đùi, hạ vị; 1–2 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sau khi rửa nước ấm, thấm khô, mỗi lần thay tã sáng và tối; bôi thuốc trước, lớp chắn sau",
+      "so_ngay": "Tối đa 7 ngày, ngừng sớm khi hết đỏ",
+      "ghi_chu": "QĐ 4416 (Viêm da tiếp xúc mục 3.2.1, 3.2.2); DDG 2022 mục 3.3.1.2, 3.3.4.1; AAD-NPF 2021 (Class 7). Không bôi chỗ có mụn mủ, bọng nước. Tuổi tối thiểu cho nhũ nhi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Mỡ kẽm oxid hoặc vaselin (petrolatum)",
+      "ham_luong": "Hũ 50–100 g",
+      "lieu": "Một lớp dày phủ kín vùng da đỏ sau mỗi lần thay tã",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Mỗi lần thay tã, cả ban đêm",
+      "so_ngay": "Đến khi lành, thêm vài ngày để phòng tái phát",
+      "ghi_chu": "QĐ 4416 (mục 3.2.2: petrolatum đầu tay); WHO 2013 mục 7.5.3 (tham khảo). Nồng độ kẽm oxid: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Oresol (ORS); kẽm 5 mg/ngày hoặc 20 mg/ngày (không bắt buộc)",
+      "ham_luong": "Gói ORS pha theo hướng dẫn; kẽm viên 10 hoặc 20 mg",
+      "lieu": "ORS 50–100 mL sau mỗi lần phân lỏng, từng ngụm; tiếp tục bú; kẽm hòa vào sữa vắt hoặc ORS",
+      "duong": "Uống",
+      "thoi_diem": "ORS sau mỗi lần phân lỏng; kẽm 1 lần/ngày",
+      "so_ngay": "ORS đến hết phân lỏng; kẽm 10–14 ngày",
+      "ghi_chu": "WHO 2013 mục 5.2.3 (tr. 134, 136: ORS 50–100 mL, kẽm 20 mg/ngày từ 6 tháng); WHO 2024 (TL-0245) khuyến cáo 3a, 3c (kẽm 5 mg/ngày, ít nôn hơn, thận trọng hơn)."
+     },
+     {
+      "thuoc": "Ngưng siro amoxicillin – acid clavulanic còn thừa; ngưng khăn ướt hương liệu, xà phòng cục, phấn rôm",
+      "ham_luong": "—",
+      "lieu": "Không cho uống tiếp, cất bỏ chai thuốc cũ",
+      "duong": "—",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 4416 (mục 3.2.1: kháng sinh chỉ khi bội nhiễm); WHO 2013 (chương 5, tr. 125); DDG 2022 mục 3.2, 3.3.4.1."
+     }
+    ],
+    "dan_do": [
+     "Hăm của Huy do da bị kích ứng bởi nước tiểu, phân, khăn ướt thơm có cồn, xà phòng; không phải nấm, không lây từ con của chị Hạnh. Lần sau hai vợ chồng báo nhau thay tã trước khi ngủ, nhất là khi nhà có khách hay có người uống rượu bia (QĐ 4416, Viêm da tiếp xúc mục 3.1, 4; DDG 2022 mục 3.2).",
+     "Thay tã ngay khi ướt hoặc dính phân, kể cả ban đêm; rửa nước ấm, thấm khô, để thoáng vài phút rồi bôi thuốc, lớp chắn, mới mặc tã; bỏ khăn ướt, xà phòng cục, phấn rôm (DDG 2022 mục 3.2, 3.3.4.1). Số giờ giữa hai lần thay tã: không có trong tài liệu đã tải.",
+     "Hydrocortison chỉ bôi mỏng ở chỗ đỏ, tối đa 7 ngày, không bôi chỗ có mụn mủ hay bọng nước, không thêm kem trộn của người khác. Ngưng siro kháng sinh thừa (QĐ 4416 mục 3.2.1). Cho bú nhiều hơn, thêm oresol sau mỗi lần phân lỏng (WHO 2013 mục 5.2.3).",
+     "Quay lại NGAY khi: sốt, bú kém hoặc bỏ bú, quấy khóc li bì, mụn mủ nhỏ rải rác, bọng nước hay dịch vàng, đỏ lan lên bụng hoặc vào nếp gấp, phân có máu, nôn nhiều, tiểu ít (QĐ 4416, Bệnh chốc mục 2.1, Candida mục 2.1; WHO 2013 mục 5.2.3). Nếu ổn, tái khám sau 3 ngày. Chưa cần thêm xét nghiệm nên chị chưa phải tốn thêm."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 5 ngày (hẹn 3 ngày nhưng mẹ đến trễ vì kẹt ca). Mẹ ôm bé Huy đến, nói bé không đỡ, đêm qua còn sốt. Cân nặng 7,9 kg. Sinh hiệu: mạch 152 l/p, nhiệt độ 38,5 °C (nách), nhịp thở 40 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Huy về với kháng sinh uống và hẹn tái khám 2–3 ngày là bỏ sót dấu hiệu nhiễm khuẩn toàn thân: bé sốt, bú giảm, có bọng nước và mủ vùng tã, đỏ vào nếp bẹn. Hình ảnh này có thể là chốc bọng nước lan rộng hoặc thể lan tỏa của hội chứng bong vảy da do tụ cầu, tiến triển từ ban đỏ sang bọng nước trong 24–48 giờ (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 2.1) và có thể thành nhiễm khuẩn huyết nếu không điều trị (Bệnh chốc mục 2.1). Mẹ sợ tốn tiền nên dễ trì hoãn quay lại.",
+    "theo_doi": "Giữ bé theo dõi vài giờ tại phòng khám rồi cho về là không đủ: cơ sở không có kháng sinh tĩnh mạch, truyền dịch, cấy nhanh, mà thể lan tỏa cần kháng sinh toàn thân (cloxacillin, oxacillin, cefazolin hay ceftriaxon), bù dịch và dinh dưỡng (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 3.1, 3.2.2, 3.3). Giữ lại chỉ làm chậm việc đến nơi làm được và tốn thêm tiền khám tại chỗ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé không đỡ, còn nặng hơn, đêm qua còn nóng nữa. Em làm đúng như bác sĩ dặn mà sao vậy bác sĩ? Em còn có 150 nghìn thôi, bác sĩ kê thuốc uống cho em về nhà được không, đừng cho em chuyển viện như con của chị Hạnh.",
+   "sinh_hieu": {
+    "mach": 152,
+    "ha": "Không đo",
+    "nhiet": "38,5",
+    "nhip_tho": 40,
+    "spo2": 98,
+    "canh_bao": [
+     "Sốt 38,5 °C ở nhũ nhi, bú giảm"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé không đỡ: vùng đỏ lan lên bụng dưới và hai bên đùi, đêm qua sốt, hôm nay bú ít, quấy khóc nhiều, thay tã khóc thét. Mẹ đã làm đúng hướng dẫn mà bé còn nặng hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: không đỡ, nặng lên, có sốt"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai ngày đầu bé đỡ rõ, bớt đỏ, ngủ ngon. Từ tối thứ Bảy (khoảng 2 ngày nay) đỏ lại, lan rộng, nổi nhiều mụn mủ nhỏ quanh chỗ đỏ, vài bọng nước nhỏ vỡ chảy dịch vàng, đóng vảy vàng ở mông phải. Đêm qua sốt 38,2 °C (nách); sáng nay 38,5 °C. Không ban ở mặt, thân trên, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: đỡ rồi nặng lại, mụn mủ, bọng nước, sốt (bội nhiễm)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ làm đúng: ngưng siro kháng sinh từ hôm khám, bỏ khăn ướt, xà phòng, phấn; thay tã ngay khi ướt kể cả ban đêm (cha dậy thay); hydrocortison 1% ngày 2 lần 5 ngày, lớp kẽm sau mỗi lần thay tã. Phân thành khuôn từ ngày thứ 3. Hôm thứ Bảy mẹ bôi thêm 2 lần kem kháng nấm của chị Hạnh vì sợ nấm; không bôi gì khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ đúng, có bôi kem của bạn (loại trừ không tuân thủ)"
+    },
+    {
+     "id": "bu_kem",
+     "noi_dung": "Bé bú khoảng 2/3 lượng thường ngày, ăn bột rất ít, tiểu 4 tã/ngày. Không nôn, không tiêu chảy, không ho, không thở nhanh, không co giật. Bé quấy, vẫn nhận ra mẹ, cười khi mẹ dỗ, ngủ được, không li bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu toàn thân: sốt, bú giảm, tiểu giảm; chưa nguy kịch"
+    },
+    {
+     "id": "mieng",
+     "noi_dung": "Hai ngày nay mẹ thấy lưỡi bé có đốm trắng, bú hơi vướng; mẹ nghĩ do sữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tưa miệng (Candida niêm mạc)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mẹ còn 150 nghìn; chồng đã xin ứng lương nhưng chưa có. Mẹ sợ chuyển viện tốn 3 triệu như con chị Hạnh. Mẹ chịu đi nếu bác sĩ nói rõ vì sao bắt buộc, và hỏi thẻ bảo hiểm của bé có giúp được không. Chị Hạnh cho biết con chị đã ra viện, chẩn đoán nhiễm Candida kèm nhiễm khuẩn da.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu tiền; mẹ muốn kê thuốc uống cho về"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Vùng tã: nền đỏ tươi lan lên hạ vị và hai bên mặt trong đùi, nay vào cả nếp bẹn và nếp lằn mông (đỏ, có mụn mủ). Nhiều mụn mủ 1–2 mm và sẩn đỏ rải rác ngoài rìa vùng đỏ (tổn thương vệ tinh). Mông phải: mảng trợt 3 × 4 cm phủ vảy tiết vàng mật ong; hai bọng nước nông 5–8 mm, nhăn nheo, dịch vàng trong ở mông trái và đùi phải. Bìu, dương vật không tổn thương. Da quanh tổn thương nóng, đau khi ấn. Hạch bẹn hai bên 1 cm, mềm, di động. Thân trên, mặt, nách, nếp khuỷu: hồng bình thường, không bong da; dấu Nikolsky âm tính ở da lành quanh tổn thương.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, quấy nhưng dỗ nín, nhận ra mẹ. Môi hơi khô, mắt không trũng, thóp phẳng, véo da trở lại dưới 2 giây. Lưỡi có mảng trắng dễ gạt, nền đỏ. Không dấu xuất huyết da, không vàng da.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi. Mạch quay nảy rõ 152 l/p; đổ đầy mao mạch dưới 2 giây.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p, đều, không rút lõm lồng ngực, rì rào phế nang êm, không ran.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ. Màng nhĩ hai bên bình thường. Mũi hồng, không dịch mủ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "soi_nam": {
+     "v": "a",
+     "r": "Nạo mép vùng trợt vùng nếp bẹn, KOH: nhiều bào tử nấm men nẩy chồi kèm giả sợi.",
+     "n": "Chấp nhận: xác nhận Candida (QĐ 4416, Candida mục 2.1, 2.2) nhưng không đổi quyết định chuyển; 60 nghìn trong 150 nghìn của mẹ, nên ưu tiên đi sớm."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Bạch cầu 19,4 G/L, Neu 78%, Lym 15%, TC 410 G/L",
+     "bang": {
+      "wbc": 19.4,
+      "neu_pct": 78,
+      "lym_pct": 15,
+      "plt": 410
+     },
+     "n": "Chấp nhận: bạch cầu, Neu tăng gợi ý nhiễm khuẩn (QĐ 4416, Bệnh chốc mục 2.2) nhưng không đổi quyết định chuyển; tuyến trên sẽ làm lại. Không chờ."
+    },
+    "crp": {
+     "v": "a",
+     "r": "38 mg/L",
+     "bang": {
+      "crp": 38
+     },
+     "n": "Chấp nhận: CRP tăng củng cố nhiễm khuẩn (QĐ 4416, Bệnh chốc mục 2.2); không đổi quyết định chuyển."
+    },
+    "cay_dich_da": {
+     "r": "Sau 2 ngày: tụ cầu vàng nhạy methicillin",
+     "n": "Không làm trước chuyển: kết quả sau 2 ngày không giúp quyết định hôm nay; bệnh viện lấy mủ cấy khi cần (QĐ 4416, Bệnh chốc mục 2.2; Hội chứng bong vảy da do tụ cầu mục 2.2)."
+    },
+    "test_ap": {
+     "r": "Không làm ở cơ sở",
+     "n": "Không cần: đang nhiễm khuẩn, da chưa lành; nếu sau khi lành vẫn tái phát không rõ nguyên nhân thì làm ở tuyến có kỹ thuật (ESCD 2026 mục 8.1, 9.1)."
+    },
+    "cxr": {
+     "n": "Không cần: không ho, không thở nhanh, phổi sạch; cơ sở không có X-quang."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da tiếp xúc kích ứng vùng tã nặng lên do bội nhiễm Candida và vi khuẩn (chốc bọng nước), kèm tưa miệng, sốt 38,5 °C, bú giảm ở nhũ nhi 7 tháng; chưa loại trừ thể lan tỏa của hội chứng bong vảy da do tụ cầu; cần chuyển tuyến",
+     "ok": 1,
+     "n": "Mụn mủ vệ tinh, vào nếp gấp, tưa miệng: Candida (QĐ 4416, Candida mục 2.1; nguy cơ băng bịt, corticoid, kháng sinh phổ rộng, mục 1.2). Bọng nước vỡ, vảy tiết vàng mật ong: chốc bọng nước (Bệnh chốc mục 2.1). Sốt, bú kém, kích thích ở trẻ nhỏ là dấu toàn thân (Bệnh chốc mục 2.1; Hội chứng bong vảy da do tụ cầu mục 2.1). Biến chứng bội nhiễm, không do không tuân thủ. ICD-10 L22, B37.2, L01 (TL-0001)."
+    },
+    {
+     "t": "Viêm da tiếp xúc dị ứng (với hydrocortison, kẽm, kem của bạn)",
+     "n": "Da xấu đi dưới corticoid thì nghĩ dị ứng với corticoid hay thành phần chế phẩm (DDG 2022 mục 3.3.1.2). Bé đỡ 2 ngày đầu, nay có mủ, bọng nước, tưa miệng, sốt: nhiễm khuẩn, nấm giải thích đủ. Chưa loại hẳn: test áp ở tuyến có kỹ thuật khi da lành (ESCD 2026 mục 8.1, 9.1)."
+    },
+    {
+     "t": "Hội chứng bong vảy da do tụ cầu (thể lan tỏa)",
+     "n": "Trẻ sốt, bú kém, kích thích; ban đỏ ở nếp gấp, đáy chậu, bọng nước sau 24–48 giờ, Nikolsky dương tính (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 2.1). Bé: bọng nước khu trú, thân trên sạch, Nikolsky âm tính nên chưa phải, nhưng có thể tiến triển nhanh: cần nơi có kháng sinh tiêm."
+    },
+    {
+     "t": "Nguồn sốt khác: nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu",
+     "n": "Sốt ở nhũ nhi cần nghĩ ổ nhiễm khác (WHO 2013, Bảng 16–17, tr. 151–152); bé có ổ da rõ, tỉnh, thóp phẳng, không cổ cứng, không ban xuất huyết, tai họng phổi bình thường. Nhiễm khuẩn da có thể vào máu nếu không điều trị (QĐ 4416, Bệnh chốc mục 2.1): lý do chuyển sớm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay trong ngày lên bệnh viện Nhi tỉnh (có Nhi và Da liễu), không chờ xét nghiệm; giải thích vì sao phải đi, nói thẳng chuyện chi phí, hỏi thẻ bảo hiểm của bé; mẹ ôm bé đi cùng, có giấy chuyển",
+     "v": "c",
+     "n": "QĐ 4416: sốt, bú kém, kích thích kèm bọng nước vùng tã ở trẻ nhỏ là dấu toàn thân (Bệnh chốc mục 2.1; Hội chứng bong vảy da do tụ cầu mục 2.1, 3.1: đánh giá toàn trạng); thể lan tỏa cần kháng sinh toàn thân, bù dịch, dinh dưỡng (mục 3.2.2, 3.3); cơ sở không có kháng sinh tiêm. Nhiễm khuẩn huyết là biến chứng nếu không điều trị (Bệnh chốc mục 2.1). Ngưỡng chuyển riêng cho hăm tã bội nhiễm, quyền lợi bảo hiểm của trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol 10–15 mg/kg (khoảng 80–120 mg, siro 120 mg/5 mL: 3,5–5 mL) một liều nếu bé khó chịu vì sốt; không lau nước ấm; cho bú tiếp",
+     "v": "c",
+     "n": "QĐ 4416 (Hội chứng bong vảy da do tụ cầu mục 3.3: hạ sốt, bù dịch); NICE NG143 2021 mục 1.6.2, 1.6.4–1.6.5 (không lau nước ấm; paracetamol khi trẻ sốt có vẻ khó chịu) hoặc WHO 2013 mục 10.3 (tr. 304–305: từ 2 tháng tuổi, sốt ≥ 39 °C đo trực tràng, nách thấp hơn khoảng 0,8 °C, nên 38,5 °C ở nách ≈ 39,3 °C; 15 mg/kg mỗi 6 giờ). Áp dụng mục 'Từ ca NH-0199 › 3': hai cách đều chấp nhận."
+    },
+    {
+     "t": "Che vùng trợt bằng gạc vaselin hoặc gạc tẩm nước muối 0,9%; để tã lỏng; không bôi thêm corticoid hay kem trộn",
+     "v": "c",
+     "n": "QĐ 4416 (Bệnh chốc mục 3.2.1: nhiều vảy tiết đắp nước muối sinh lý hoặc gạc mỡ vaselin); WHO 2013 mục 7.5.3 (tham khảo: tránh tã để tầng sinh môn khô). Corticoid là yếu tố nguy cơ Candida (QĐ 4416, Candida mục 1.2); nguyên tắc tạm dừng corticoid khi bội nhiễm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo bệnh viện nhận, giấy chuyển và bàn giao SBAR: cân nặng, sinh hiệu, thời điểm khởi phát, thuốc đã dùng (siro amoxicillin – acid clavulanic 5 ngày, hydrocortison 1% 5 ngày, kem kháng nấm của bạn 2 lần), KOH",
+     "v": "c",
+     "n": "Kỹ năng bàn giao: không có trong tài liệu đã tải. Thuốc đã dùng giúp tuyến trên chọn kháng sinh, kháng nấm (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 3.2.2; Candida mục 3.2.1)."
+    },
+    {
+     "t": "Soi KOH tại chỗ và/hoặc công thức máu hoặc CRP nếu mẹ còn tiền và không làm chậm chuyển; kháng nấm bôi (clotrimazol) cho vùng Candida trước chuyển",
+     "v": "a",
+     "n": "QĐ 4416 (Candida mục 2.2, 3.2.1: imidazol bôi 2 lần/ngày × 4 tuần là lựa chọn thứ nhất; Bệnh chốc mục 2.2); không đổi quyết định chuyển. Tuổi tối thiểu cho nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ khi mẹ nhất quyết không đi: kháng sinh chống tụ cầu (cephalexin 25 mg/kg/ngày chia 4 lần, khoảng 50 mg/lần) uống hoặc uống kết hợp mupirocin/acid fusidic bôi 2 lần/ngày, hẹn lại trong 24 giờ",
+     "v": "a",
+     "n": "QĐ 4416 (Bệnh chốc mục 3.2.1: bôi 2 lần/ngày thường 7 ngày; mục 3.2.2: cephalexin trẻ em 25 mg/kg/ngày chia 4 lần, kết hợp thuốc bôi) hoặc chỉ uống, không phối hợp bôi (NICE NG153 2020 mục 1.1.6); hai nguồn khác nhau về phối hợp. Liều uống khác: IDSA 2014 25–50 mg/kg/ngày chia 3–4 lần, WHO AWaRe 2022 25 mg/kg mỗi 12 giờ. Không thay chuyển tuyến vì còn nghĩ tới thể lan tỏa (SSSS mục 2.1; NICE NG153 mục 1.1.15: gửi bệnh viện khi nghi bệnh nặng hơn)."
+    },
+    {
+     "t": "Cho về với siro kháng sinh cũ hoặc hẹn lại 3 ngày; tăng hiệu lực corticoid bôi hoặc bôi kem trộn; kê fluconazol uống",
+     "v": "w",
+     "n": "Kháng sinh cũ không phải thuốc chọn cho tụ cầu (QĐ 4416, Bệnh chốc mục 3.2.2: cephalexin, cloxacillin, oxacillin…); hẹn 3 ngày quá dài khi đang sốt, bú giảm. Corticoid, kháng sinh làm tăng nguy cơ Candida (Candida mục 1.2); DDG 2022 mục 3.3.4.1: tăng thấm dưới tã. Fluconazol trong QĐ 4416 (Candida mục 3.2.1: 150 mg/tuần × 4 tuần) là liều người lớn; liều nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid toàn thân (uống hoặc tiêm) vì 'không đỡ' hoặc 'có thể dị ứng'",
+     "v": "h",
+     "n": "Đang bội nhiễm Candida và vi khuẩn kèm sốt: corticoid toàn thân có thể làm nặng nhiễm khuẩn. Vùng tã dưới 20% diện tích (ước tính), sinh dục không liên quan (QĐ 4416, Viêm da tiếp xúc mục 3.2.1, thể dị ứng); DDG 2022 mục 3.3.4.3 chỉ ngắn hạn tối đa 7 ngày cho trường hợp rõ rệt, dai dẳng (áp dụng mục 'Từ ca DL-0085')."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da tiếp xúc kích ứng vùng tã (ICD-10 L22) nặng lên do bội nhiễm: Candida da – niêm mạc (B37.2: mụn mủ vệ tinh, vào nếp bẹn, tưa miệng) và chốc bọng nước (L01: bọng nước, vảy tiết vàng mật ong)",
+     "Toàn thân: sốt 38,5 °C (nách), bú còn 2/3, tiểu 4 tã/ngày, kích thích; chưa nguy kịch (tỉnh, thóp phẳng, thở không rút lõm, đổ đầy mao mạch dưới 2 giây)",
+     "Chưa loại trừ thể lan tỏa của hội chứng bong vảy da do tụ cầu: cần nơi có kháng sinh tiêm, bù dịch",
+     "Thất bại điều trị lượt 1 do biến chứng bội nhiễm (bịt tã, kháng sinh 5 ngày, corticoid bôi), không do không tuân thủ hay sai chẩn đoán gốc",
+     "Hướng xử trí: chuyển bệnh viện Nhi tỉnh trong ngày, không chờ xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: ghi nhận mẹ làm đúng, lo tiền → diễn tiến (đỡ rồi nặng lại, mốc sốt), tuân thủ từng việc, thuốc bôi thêm (kem của bạn) → bú, tiểu, nôn, ho, co giật, li bì → khám toàn thân, mất nước, miệng, da toàn thân (Nikolsky), hạch bẹn, tim phổi, bụng, tai họng → chẩn đoán → quyết định chuyển trước khi nghĩ tới xét nghiệm.",
+     "Vì sao 'không đỡ': mẹ làm đúng, đỡ 2 ngày rồi nặng lại kèm mụn mủ vệ tinh, vào nếp bẹn, tưa miệng, bọng nước, vảy vàng, sốt: biến chứng bội nhiễm. Candida da: dát đỏ, trợt, mụn mủ vệ tinh; nguy cơ băng bịt, corticoid, kháng sinh phổ rộng (QĐ 4416, Candida mục 1.2, 2.1). Chốc bọng nước: bọng nước nông, vỡ đóng vảy, quanh hậu môn trẻ sơ sinh; nặng thì sốt, hạch, kém ăn (Bệnh chốc mục 2.1).",
+     "Điều cốt lõi là nhận ra giới hạn của phòng khám: sốt, bú kém, kích thích ở trẻ nhỏ kèm bọng nước vùng tã là hình ảnh của thể lan tỏa hội chứng bong vảy da do tụ cầu (ban đỏ nếp gấp, đáy chậu, bọng nước sau 24–48 giờ; QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 2.1). Bé chưa có Nikolsky, thân trên sạch, nhưng có thể tiến triển nhanh; kháng sinh toàn thân, bù dịch, dinh dưỡng cần ở nơi làm được (mục 3.1, 3.2.2, 3.3). Tai, họng, phổi, bụng bình thường; sốt nhũ nhi vẫn cần nghĩ nhiễm khuẩn huyết, viêm màng não, nhiễm khuẩn tiết niệu (WHO 2013, Bảng 16–17, tr. 151–152).",
+     "Dị ứng với hydrocortison, kẽm, kem của bạn cũng làm da xấu đi (DDG 2022 mục 3.3.1.2) nhưng mủ, bọng nước, tưa miệng và sốt giải thích đủ bằng nhiễm khuẩn; test áp để sau khi da lành ở tuyến có kỹ thuật (ESCD 2026 mục 8.1, 9.1).",
+     "Ưu tiên xét nghiệm với 150 nghìn: không xét nghiệm nào đổi quyết định chuyển; KOH xác nhận Candida chỉ khi không làm chậm; công thức máu, CRP, cấy mủ để bệnh viện làm; tiền dành cho đường đi. Nỗi sợ tốn tiền giờ là rào cản chuyển tuyến: nói rõ nguy cơ, hỏi thẻ bảo hiểm, báo trước bệnh viện."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay trong ngày (chuyen_tuyen), không cho về, không giữ tại chỗ: sốt, bú giảm, kích thích kèm bọng nước và mủ vùng tã ở nhũ nhi (QĐ 4416, Bệnh chốc mục 2.1; Hội chứng bong vảy da do tụ cầu mục 2.1, 3.1); cơ sở không có kháng sinh tiêm, truyền dịch, cấy nhanh. Ngưỡng chuyển riêng cho hăm tã bội nhiễm: không có trong tài liệu đã tải; quyết định theo dấu hiệu toàn thân.",
+     "Chuẩn bị trước chuyển: đo lại sinh hiệu, hạ sốt nếu bé khó chịu, cho bú, che vùng trợt, gọi báo bệnh viện, giấy chuyển và SBAR, dặn dấu hiệu dừng xe. Paracetamol 10–15 mg/kg (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 3.3; WHO 2013 mục 10.3 và Annex 2; NICE NG143 2021 mục 1.6.4–1.6.5), 7,9 kg: khoảng 80–120 mg. Hai nguồn khác ngưỡng dùng (NICE: khi trẻ khó chịu; WHO 2013: ≥ 39 °C trực tràng và khó chịu, nách 38,5 °C ≈ 39,3 °C): bé đạt cả hai.",
+     "Tại chỗ: gạc vaselin hoặc nước muối 0,9% trên vùng nhiều vảy tiết (QĐ 4416, Bệnh chốc mục 3.2.1). Không bôi thêm corticoid. Kháng nấm bôi imidazol 2 lần/ngày × 4 tuần là lựa chọn thứ nhất cho Candida da (Candida mục 3.2.1); mupirocin hoặc acid fusidic 2 lần/ngày thường 7 ngày (Bệnh chốc mục 3.2.1). Tuổi tối thiểu cho nhũ nhi: không có trong tài liệu đã tải.",
+     "Điều trị toàn thân ở tuyến trên (để hiểu lý do chuyển): cloxacillin 50–100 mg/kg/ngày chia 3–4 lần, oxacillin, cefazolin 25–50 mg/kg/ngày hoặc ceftriaxon 20–80 mg/kg/ngày; vancomycin nếu tụ cầu kháng methicillin (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 3.2.2); bù dịch, hạ sốt, dinh dưỡng (mục 3.3). Chốc lan rộng: cephalexin 25 mg/kg/ngày chia 4 lần (Bệnh chốc mục 3.2.2), chỉ chấp nhận khi gia đình từ chối đi, kèm hẹn trong 24 giờ.",
+     "Không corticoid toàn thân: đang bội nhiễm, vùng tã dưới 20% diện tích (ước tính), sinh dục không liên quan; tiêu chuẩn QĐ 4416 mục 3.2.1 dành cho thể dị ứng; DDG 2022 mục 3.3.4.3 chỉ ngắn hạn tối đa 7 ngày (áp dụng mục 'Từ ca DL-0085'). Mẹ xin 'kê thuốc uống cho về': nói rõ vì sao không thể là hướng chính."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol siro 120 mg/5 mL – một liều trước chuyển khi bé khó chịu vì sốt",
+      "ham_luong": "Siro 120 mg/5 mL",
+      "lieu": "10–15 mg/kg/lần, bé 7,9 kg: 80–120 mg tức 3,5–5 mL; cách nhau ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Một liều trước khi lên xe; liều sau do bệnh viện quyết",
+      "so_ngay": "Một liều",
+      "ghi_chu": "QĐ 4416 (Hội chứng bong vảy da do tụ cầu mục 3.3); WHO 2013 mục 10.3 (tr. 304–305), Annex 2; NICE NG143 2021 mục 1.6.4–1.6.5. Không lau nước ấm."
+     },
+     {
+      "thuoc": "Gạc vaselin hoặc gạc tẩm nước muối sinh lý 0,9%",
+      "ham_luong": "—",
+      "lieu": "Đắp nhẹ lên vùng trợt, có vảy tiết trước khi đi; không dán băng kín",
+      "duong": "Tại chỗ",
+      "thoi_diem": "Trước khi chuyển",
+      "so_ngay": "Đến khi tuyến trên điều trị",
+      "ghi_chu": "QĐ 4416 (Bệnh chốc mục 3.2.1)."
+     },
+     {
+      "thuoc": "Không kê tại phòng khám: kháng sinh, kháng nấm, corticoid",
+      "ham_luong": "—",
+      "lieu": "Để tuyến trên chọn theo đánh giá toàn trạng và cấy mủ",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 4416 (Hội chứng bong vảy da do tụ cầu mục 3.1, 3.2.2; Candida mục 3.2.1). Mẹ nhất định từ chối: cephalexin 25 mg/kg/ngày chia 4 lần (Bệnh chốc mục 3.2.2) + mupirocin hoặc acid fusidic 2 lần/ngày (mục 3.2.1), hẹn 24 giờ (chỉ chấp nhận)."
+     }
+    ],
+    "dan_do": [
+     "Chị làm rất đúng, không phải lỗi của chị. Hăm của Huy giờ bị nhiễm nấm và vi khuẩn, kèm sốt, bé nhỏ nên phải đến bệnh viện Nhi trong hôm nay để dùng thuốc tiêm và bù nước nếu cần; ở nhà chờ không an toàn (QĐ 4416, Bệnh chốc mục 2.1; Hội chứng bong vảy da do tụ cầu mục 2.1, 3.1).",
+     "Chuyện tiền: em đã gọi báo và viết giấy chuyển để chị không phải kể lại, không phải làm lại xét nghiệm; mang theo thẻ bảo hiểm y tế của bé, hỏi nhân viên bệnh viện về quyền lợi (nội dung quyền lợi: không có trong tài liệu đã tải). Mang theo giấy chuyển, chai siro cũ, hai tuýp kem đã bôi. Đi ngay, không ghé nhà; nhờ chồng đi cùng.",
+     "Trên đường: cho bé bú đều, không lau nước ấm, không đắp kín; vùng trợt phủ gạc vaselin, tã để lỏng. Dừng xe gọi cấp cứu nếu bé li bì, bỏ bú, co giật, thở nhanh, tím, da bong từng mảng (WHO 2013, chương 6, Bảng 16–17). Không bôi thêm kem, không cho kháng sinh nào cho tới khi bác sĩ bệnh viện xem.",
+     "Sau khi lành, nếu hăm tái phát, quay lại để tuyến chuyên khoa cân nhắc test áp (ESCD 2026 mục 8.1, 9.1). Cha mẹ giữ nếp báo nhau thay tã đêm, cả khi có khách (DDG 2022 mục 3.2, 4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Mai gọi chồng, hai vợ chồng đưa bé đi taxi lên bệnh viện Nhi tỉnh ngay trong ngày với giấy chuyển. Bé nằm khoa Nhi 4 ngày: kháng sinh tĩnh mạch, kháng nấm bôi, bù dịch; cấy mủ ra tụ cầu vàng nhạy methicillin; không bong da lan rộng, không nhiễm khuẩn huyết. Ngày thứ 3 hết sốt, bú lại bình thường; ngày thứ 4 ra viện, lành hẳn sau khoảng 10 ngày. Chi phí khoảng 1,2 triệu, thấp hơn mẹ lo. Chồng chị hứa không để bé nằm tã cả đêm, cả nhà đổi sang khăn ướt không hương liệu; chị kể lại với chị Hạnh để hai nhà cùng cẩn thận. Quỹ đạo là biến chứng của viêm da kích ứng, không phải chẩn đoán sai hay không tuân thủ.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: lượt 1 chỉ soi KOH 60 nghìn đổi được quyết định bôi corticoid, còn công thức máu, CRP, soi phân, cấy, test áp bỏ được; lượt 2 không xét nghiệm nào đổi quyết định chuyển, tiền dành cho đường đi.",
+  "Kháng sinh theo toa cũ: mẹ nói 'bé không uống thuốc gì', chỉ ra siro khi hỏi cụ thể; thuốc không có chỉ định, gây phân lỏng, làm nặng hăm, tăng nguy cơ Candida.",
+  "Lý do thật: sợ bị lây 'hăm nấm' từ con bạn và sợ tốn tiền; chỉ lộ khi hỏi mẹ lo điều gì nhất; thành rào cản chuyển tuyến ở lượt 2.",
+  "Cha uống bia, bé nằm tã 10 giờ: chỉ lộ khi hỏi đêm trước ai trông, tã thay lúc nào; hỏi không trách.",
+  "Kem của bạn: mẹ bôi thêm kem kháng nấm ở lượt 2, chỉ lộ nếu hỏi 'đã bôi thêm gì'."
+ ],
+ "bai_hoc_bien": [
+  "Viêm da vùng tã là viêm da tiếp xúc kích ứng thường gặp nhất trong năm đầu đời (DDG 2022 mục 1.2.1, 2.4): hỏi ai trông bé, tã thay lúc nào, khăn ướt, xà phòng, phấn rôm; không cần xét nghiệm để chẩn đoán (QĐ 4416, Viêm da tiếp xúc mục 2.2.3).",
+  "Tương phản với chàm nhũ nhi: chàm ở hai má, không ở vùng tã (QĐ 4416, Viêm da cơ địa mục 2.1); kích ứng ở vùng tã, nếp gấp thường được tha.",
+  "Kháng sinh tự dùng lại không chữa hăm, gây tiêu chảy và là yếu tố nguy cơ Candida (QĐ 4416, Candida mục 1.2): hỏi thuốc đến tận tên, liều, ngày.",
+  "Thất bại điều trị: hỏi tuân thủ từng việc và thuốc bôi thêm, rồi tìm biến chứng. Sốt, bú kém, bọng nước ở nhũ nhi là giới hạn của phòng khám: chuyển sớm, báo trước, giấy chuyển, bàn giao (QĐ 4416, Hội chứng bong vảy da do tụ cầu mục 2.1, 3.1). Tiền hạn chế: chọn xét nghiệm rẻ đổi được quyết định (KOH), bỏ xét nghiệm \"cho chắc\"."
+ ],
+ "diem_nho": [
+  "Viêm da tiếp xúc kích ứng: tác nhân hóa học, lý học, sinh học; chẩn đoán lâm sàng và yếu tố tiếp xúc; bỏ căn nguyên, chất làm mềm đầu tay, corticoid mức thấp 1–2 lần/ngày, 1–2 tuần ở vùng gấp (QĐ 4416, Viêm da tiếp xúc mục 1.1, 2.2.1, 2.2.3, 3.1, 3.2.2).",
+  "Vùng tã bịt làm tăng thấm thuốc; chỉ corticoid hiệu lực thấp, không urê, không xà phòng kiềm, kháng sinh bôi kháng thuốc (DDG 2022 mục 3.3.1.2, 3.3.4.1). Hydrocortison 0,5–2,5% là Class 7 (AAD-NPF 2021).",
+  "Candida da: dát đỏ, trợt, mụn mủ vệ tinh; soi KOH; imidazol bôi 2 lần/ngày × 4 tuần (QĐ 4416, Candida mục 1.2, 2.1, 2.2, 3.2.1).",
+  "Chốc bọng nước và hội chứng bong vảy da do tụ cầu: sốt, bú kém, kích thích; bọng nước sau 24–48 giờ; Nikolsky; kháng sinh toàn thân, bù dịch (QĐ 4416, Bệnh chốc mục 2.1, 3.2; SSSS mục 2.1, 3.2.2, 3.3)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Viêm da tiếp xúc mục 1.1, 1.3, 2.2.1, 2.2.3, 3.1, 3.2.1, 3.2.2, 4; Viêm da cơ địa mục 2.1; Bệnh da do nấm sợi mục 2.1; Candida mục 1.2, 2.1, 2.2, 3.2.1; Bệnh chốc mục 2.1, 2.2, 3.2.1, 3.2.2; Hội chứng bong vảy da do tụ cầu mục 2.1, 2.2, 3.1, 3.2.2, 3.3; Zona mục 2.1.",
+  "DDG – German S1 guideline: Contact dermatitis 2022 (TL-0422) – mục 1.2.1, 1.3.1.1, 2.4, 3.1, 3.2, 3.3.1.2, 3.3.4.1, 3.3.4.3, 4.",
+  "ESCD – Guideline for diagnostic patch testing 2026 (TL-0401) – mục 8.1, 9.1. AAD-NPF 2021 (TL-0425) – bảng hiệu lực corticoid bôi. Bộ Y tế – QĐ 75/QĐ-BYT 2015 (TL-0241; kho cũ) – Viêm da cơ địa mục 6.",
+  "WHO – Pocket book of hospital care for children 2013 (TL-0250) – chương 5 tr. 125, mục 5.2.3; chương 6 Bảng 16–17; mục 7.5.3; mục 10.3; Annex 2. WHO 2024 (TL-0245) – khuyến cáo 3a, 3c. NICE NG143 2021 (TL-0262) – mục 1.6.1–1.6.5. ICD-10 (TL-0001) – L22, B37.2, L01.",
+  "Không có trong tài liệu đã tải: ngưỡng chuyển tuyến riêng cho hăm tã bội nhiễm; số giờ giữa hai lần thay tã; tuổi tối thiểu, thời gian dùng từng corticoid bôi và kháng nấm cho nhũ nhi; nồng độ kẽm oxid; quyền lợi bảo hiểm y tế của trẻ; mốc tái khám 3 ngày."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19, viết: Sonnet). Biến → tình huống: nhũ nhi + sau uống rượu bia = cha say ngủ quên, bé nằm tã ướt phân 10 giờ; kháng sinh theo toa cũ = mẹ tự cho uống lại siro thừa; bạn bè có bệnh tương tự = con bạn 'hăm nấm' nằm viện, mẹ sợ lây và sợ tốn tiền; không đủ tiền = xếp ưu tiên xét nghiệm (KOH); không có X-quang: khóa xquang, ca không cần hình ảnh; không đỡ = biến chứng bội nhiễm Candida và chốc; chuyển tuyến kịp thời ở lượt 2.",
+  "Tài liệu đã đọc và mở lại bản chữ: các mục ghi ở nguon (TL-0397, TL-0422, TL-0401, TL-0425, TL-0250, TL-0245, TL-0262, TL-0001, TL-0241).",
+  "Ảnh da: không dùng. SCIN chỉ có nhóm tuổi từ 18 trở lên hoặc không rõ (đã kiểm scin_cases.csv: không có ảnh nhũ nhi); không dùng ảnh người lớn thay vùng tã nhũ nhi; mô tả bằng chữ ở kham.da.",
+  "Đã áp dụng mục cũ trong sổ mâu thuẫn: 'Từ ca DL-0085' (corticoid toàn thân), 'Từ ca NH-0199 › 3' (hạ sốt ở trẻ: ghi cả hai cách), 'Từ ca TH-0630 và NH-0435' (kẽm: ghi cả 5 mg theo WHO 2024 và 20 mg theo WHO 2013). Mâu thuẫn mới: xem DL-0095_mau_thuan.md. Danh mục đủ id dùng trong ca; không cần đề xuất danh mục mới."
+ ]
+}
