@@ -1,0 +1,772 @@
+{
+ "ma_ca": "NH-1253",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_thieu_mau_thieu_sat",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Thiếu máu thiếu sắt / thiếu vi chất",
+  "chan_doan_phai_loai_tru": [
+   "Thalassemia",
+   "Suy dinh dưỡng"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Cơn trùng đợt: lớp mẫu giáo có nhiều bạn cùng ho, sốt trong tuần",
+  "thuoc_dang_dung": "Tự mua kháng sinh không rõ (gói bột ở tạp hóa, uống 2 ngày)",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám (bà nội bắt đưa bé đi)"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khang",
+  "tuoi": 3,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 12.3,
+  "chieu_cao": 93,
+  "xung_ho": "Bé 3 tuổi, tự xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ nói được câu ngắn khi mẹ giục. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và hay nhắc 'bà nội bắt đi'.",
+  "tinh_cach": "Mẹ 28 tuổi, làm nương rẫy, ít nói, ngại tốn kém, quen mua thuốc ở tạp hóa; thương con nhưng sợ mất ngày công và lỡ chuyến xe về. Bé nhút nhát, bám mẹ, ho khẽ, ít chơi.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám khoảng 40 km đường đèo, xe khách chỉ có chuyến sáng; mẹ liên tục xin 'cho thuốc uống một lần cho xong', ngại hẹn lại, hay nói 'để xem ở nhà đã'. Mẹ không tự kể ho, sốt vì nghĩ 'cảm xoàng'; chỉ kể kỹ khi bác sĩ hỏi thẳng ho, sốt, thuốc đã uống. Mẹ chỉ nhận bé uống sữa nhiều khi bác sĩ hỏi chi tiết một ngày bé ăn uống gì.",
+  "nguoi_nha": "Mẹ bé (chị Hương), 28 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Bé chỉ đáp ngắn khi bác sĩ hỏi thẳng (nguoi_noi = benh_nhan). Bà nội không đi nhưng gọi điện hối mẹ.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#f1d8c4",
+   "toc": "#1a1410",
+   "kieuToc": "tre",
+   "ao": "#7fb3d5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b894",
+    "toc": "#241a14",
+    "kieuToc": "dai",
+    "ao": "#8a6f9e",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé xanh xao, ăn kém, bà nội bắt đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 3 tuổi, 12,3 kg, cao 93 cm, mẹ đưa đến vì da xanh, ăn kém theo lời bà nội. Nhà cách phòng khám khoảng 40 km. Sinh hiệu: nhiệt 37,9 °C, mạch 124 l/p, nhịp thở 42 l/p, SpO₂ 96%. Bé tỉnh, hơi mệt, da xanh.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chỉ cho sắt và hẹn theo dõi vì cho rằng sốt, ho, thở nhanh của bé Khang là do thiếu máu thì bỏ sót viêm phổi. Bé có ho, sốt, thở 42 l/p (từ 40 l/p ở trẻ 1–5 tuổi) nên đã đủ tiêu chuẩn viêm phổi (QĐ 3312/2015, Viêm phổi do vi khuẩn mục 1, tr. 262), và mọi trẻ viêm phổi đều cần kháng sinh (QĐ 708/2015, Phụ lục 1 khuyến cáo 5.6, tr. 313). Thiếu sắt còn làm tăng nhiễm khuẩn (QĐ 3312, Thiếu máu thiếu sắt mục 3.1, tr. 540), nên bệnh dễ nặng lên ở nhà cách 40 km đường đèo.",
+    "nhap_vien": "Giữ bé Khang nhập viện ngay là quá tay: bé chỉ thở nhanh, không rút lõm, SpO₂ 96%, uống được, thuộc viêm phổi không nặng điều trị ngoại trú bằng amoxicillin uống (QĐ 3312 mục 4.1, tr. 263; QĐ 708 mục 4.2, 5.3b). QĐ 708 mục 5.2 (tr. 104) nêu kháng thuốc ở bệnh viện cao hơn ở cộng đồng. Mẹ mất thêm ngày công đúng mùa thu hoạch, bé bị đặt kim, ngủ xa nhà, dễ khiến mẹ bỏ về giữa chừng.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện tỉnh chỉ vì không có X-quang là không cần: QĐ 708 mục 3.2 (tr. 101) và Phụ lục 1 khuyến cáo 5.2 chỉ chụp X-quang khi cần thiết; viêm phổi chẩn đoán chủ yếu bằng lâm sàng (QĐ 3312 mục 1, tr. 262). Chuyến đi hơn 100 km tốn một ngày công, tiền xe, bé mệt thêm mà amoxicillin uống vẫn là điều trị đúng. Chỉ nên chuyển khi không đáp ứng sau 48 giờ hoặc có dấu hiệu nặng (QĐ 708, khuyến cáo 5.11, tr. 314)."
+   },
+   "loi_mo": "Chào bác sĩ. Bà nội bắt em đưa cháu lên khám vì cháu xanh xao, ăn ít lắm. Em thấy cháu cũng bình thường, chỉ hơi cảm thôi. Nhà em xa, bác sĩ khám giúp rồi cho thuốc bổ uống một lần cho xong nhé.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 42,
+    "spo2": 96,
+    "canh_bao": [
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé xanh xao nhiều tháng, ăn kém, hay mệt. Bà nội thấy cháu 'xanh như tàu lá' nên bắt mẹ đưa đi khám; mẹ định mua thuốc bổ ở tạp hóa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ho_sot",
+     "noi_dung": "Ho khụt khịt 5 ngày, nhiều hơn về đêm; sốt từng cơn 3 ngày, cao nhất 38,5 °C, sáng nay uống thuốc nên chỉ còn sốt nhẹ. Mẹ thấy bé thở 'hơi gấp' nhưng nghĩ do mệt vì thiếu máu. Không khò khè, không sặc, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, sốt, thở nhanh: dấu hiệu viêm phổi"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Hai ngày nay mẹ mua gói bột màu hồng ở tạp hóa, không rõ tên, pha cho bé uống ngày 2 lần; bé nôn trớ một lần. Sáng nay có cho paracetamol gói 150 mg. Mẹ đã bỏ vỏ gói. Bé không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua (kháng sinh không rõ)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé vẫn chơi nhẹ, uống nước được, không nôn mọi thứ, không co giật, không li bì, tiểu 4–5 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "xanh_xao",
+     "noi_dung": "Da bé xanh dần khoảng 4–5 tháng, hay mệt, chạy chơi một lát đã ngồi nghỉ, hay quấy. Không vàng da, không phân đen, không đi ngoài ra máu, không tiểu máu, không chảy máu cam hay chân răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến thiếu máu, loại mất máu"
+    },
+    {
+     "id": "che_do_an",
+     "noi_dung": "Bé bú mẹ đến 14 tháng, ăn dặm cháo loãng với rau từ 7 tháng, ít thịt, cá, trứng. Nay bé chê cơm, mỗi ngày uống sữa tươi hộp khoảng 4 hộp 180 mL (≈ 700 mL) thay bữa, ăn thêm bánh kẹo; chưa bao giờ được cho viên sắt hay vitamin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói 'bé ăn đủ'. Chỉ kể khi bác sĩ hỏi chi tiết bé ăn uống gì trong một ngày, loại sữa và lượng.",
+     "k": 1,
+     "y": "Khẩu phần thiếu sắt (nguyên nhân)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng 3,1 kg, không vàng da kéo dài, chưa từng truyền máu hay nằm viện. Bố mẹ và anh chị không ai bị thiếu máu bẩm sinh, vàng da, lách to hay phải truyền máu. Bé biết nói câu ngắn, vận động bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử và gia đình (loại trừ thalassemia)"
+    },
+    {
+     "id": "giun",
+     "noi_dung": "Nhà làm rẫy, bé hay chơi đất, hay đi chân đất; chưa từng uống thuốc tẩy giun. Không đau bụng, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ giun móc"
+    },
+    {
+     "id": "lop_hoc",
+     "noi_dung": "Tuần này lớp mẫu giáo của bé có nhiều bạn cùng ho, sốt. Vùng nhà bé không có sốt rét theo trạm y tế xã; bé không đi rừng ngủ rẫy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Cơn trùng đợt (khởi phát)"
+    },
+    {
+     "id": "xa_nha",
+     "noi_dung": "Nhà cách phòng khám khoảng 40 km đường đèo, xe máy hơn 1 giờ; xe khách chỉ có chuyến sáng, chiều không có xe. Trạm y tế xã cách nhà 3 km (y sĩ, không có X-quang, không có oxy). Mẹ có điện thoại, dùng được Zalo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Ở xa, khó tái khám"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ thấy bé 'cũng bình thường', định cho uống thuốc tạp hóa; bà nội gọi điện mỗi tối bắt đưa lên bác sĩ vì cháu 'xanh như người bệnh nặng'. Mẹ đi cho yên lòng bà và muốn về kịp chuyến xe.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: gia đình thúc ép"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, bám mẹ. Da xanh, niêm mạc mắt và môi nhợt, lòng bàn tay nhợt, chi ấm, không phù chân, không vàng da. Cân nặng theo chiều cao giữa −2 SD và −1 SD. MUAC 142 mm. Không teo cơ.",
+     "k": 1,
+     "hien": "Bé tỉnh, hơi mệt, da và niêm mạc xanh nhợt. Cân nặng 12,3 kg, cao 93 cm."
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, không u trán, không nhô xương hàm trên, không biến dạng sọ mặt. Hạch dưới hàm nhỏ, mềm, không đau; không hạch cổ to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không giả mạc. Mũi chảy dịch trong. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p. Không rút lõm lồng ngực, không phập phồng cánh mũi. Ran nổ nhỏ hạt khu trú ở đáy phổi phải phía sau, rì rào phế nang giảm nhẹ vùng đó; không ran rít; phổi trái trong.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở đáy phổi phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan không sờ thấy dưới bờ sườn, lách không to.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Móng tay, móng chân nhợt, khô, hơi dễ gãy; không móng lõm hình thìa. Tóc thưa, khô.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da nhợt; không ban, không chấm xuất huyết, không vàng da, không xạm da, không vết gãi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "BC 15,6 G/L · Neutrophil 68% · Hb 84 g/L · MCV 70 fL · TC 438 G/L",
+     "bang": {
+      "wbc": 15.6,
+      "neu_pct": 68.0,
+      "neu": 10.6,
+      "lym_pct": 24.0,
+      "lym": 3.74,
+      "mono_pct": 6.0,
+      "mono": 0.94,
+      "eos_pct": 1.5,
+      "eos": 0.23,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.0,
+      "hgb": 84,
+      "hct": 0.28,
+      "mcv": 70.0,
+      "mch": 21.0,
+      "mchc": 300,
+      "rdw": 18.6,
+      "plt": 438
+     },
+     "n": "Hb 84 g/L dưới ngưỡng thiếu máu < 110 g/L (WHO 2024, Bảng 2) và < 115 g/L (QĐ 3312, Thiếu máu thiếu sắt mục 1, tr. 539); mức vừa (QĐ 3312 tr. 535: 60 ≤ Hb < 90; WHO 2024 Bảng 3: 70–99). MCV 70 fL, MCH 21 pg thấp (QĐ 3312, Thalassemia mục 2.1c: < 78 fL, < 28 pg), RDW 18,6% cao (Thiếu máu thiếu sắt mục 3.2: > 14,5%). Bạch cầu, neutrophil, tiểu cầu tăng do nhiễm khuẩn kèm theo. Mức tham chiếu in trên phiếu là của người lớn."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "ab": 1,
+     "r": "Ferritin 7 ng/mL · sắt huyết thanh 3,6 µmol/L · bão hòa transferrin 6%",
+     "n": "Thiếu sắt khi ferritin < 12 ng/mL, sắt < 9 µmol/L, bão hòa < 16% (QĐ 3312, mục 3.2, tr. 540) hoặc ferritin < 30 ng/mL, bão hòa < 30% (QĐ 1832, mục 4.1, tr. 18); bé thấp hơn cả hai. Ngưỡng ferritin khi đang nhiễm trùng cấp: không có trong tài liệu đã tải (QĐ 1832 mục 4.3b chỉ nói ferritin tăng trong viêm mạn)."
+    },
+    "phet_mau": {
+     "v": "a",
+     "r": "Hồng cầu nhỏ, nhược sắc, kích thước không đều. Không thấy hồng cầu bia, hồng cầu nhân, hồng cầu đa sắc.",
+     "n": "Chấp nhận, không bắt buộc. Thalassemia thường có hồng cầu bia, đa sắc, hồng cầu nhân (QĐ 3312, Thalassemia mục 2.1c, tr. 543; bảng tr. 544); bé không có."
+    },
+    "hong_cau_luoi": {
+     "v": "a",
+     "r": "Hồng cầu lưới 0,7%",
+     "n": "Chấp nhận, làm mốc theo dõi: giá trị bình thường 0,5–1% (QĐ 3312, Tiếp cận chẩn đoán thiếu máu mục 3d, tr. 536); nếu đúng thiếu sắt, sau 5–10 ngày uống sắt hồng cầu lưới tăng (QĐ 3312, Thiếu máu thiếu sắt mục 4.2, tr. 541)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Không thấy trứng giun đũa, giun móc, giun tóc; không hồng cầu.",
+     "n": "Chấp nhận: giun móc chẩn đoán bằng soi phân thấy trứng (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1c, tr. 336; QĐ 1832 mục 3.2, tr. 17). Độ nhạy một mẫu: không có trong tài liệu đã tải; âm tính không bỏ tẩy giun."
+    },
+    "dien_di_hb": {
+     "v": "a",
+     "r": "HbA 97,2% · HbA2 2,6% · HbF < 1%. Không có Hb H, Hb E.",
+     "n": "Chấp nhận, không bắt buộc: sắt, ferritin giảm đã chỉ về thiếu sắt (QĐ 1832, Phụ lục, tr. 31); HbA2 2,6% dưới 3,5% (QĐ 3312, Thalassemia mục 2.2d, tr. 544). Thời điểm làm lại sau bù sắt: không có trong tài liệu đã tải."
+    },
+    "sa_phoi": {
+     "v": "a",
+     "ab": 1,
+     "r": "Vùng đông đặc dưới màng phổi đáy phải 1,6 × 1,2 cm, có khí phế quản đồ; vài đường B rải rác; không tràn dịch; trượt màng phổi còn. Phổi trái bình thường.",
+     "n": "Chấp nhận, làm mốc theo dõi vì không có X-quang. WHO 2024 (khuyến cáo 3): chưa có khuyến cáo về siêu âm phổi để chẩn đoán viêm phổi; QĐ 708 mục 3.2 (tr. 101): không nhất thiết X-quang ở mọi ca."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Đám mờ ranh giới không rõ ở đáy phổi phải; bóng tim không to; góc sườn hoành nhọn.",
+     "thay_the": "sa_phoi",
+     "n": "Cơ sở không có; chấp nhận, không bắt buộc ở viêm phổi không nặng (QĐ 708 mục 3.2, tr. 101; Phụ lục 1 khuyến cáo 5.2). Thay bằng siêu âm phổi tại giường."
+    },
+    "crp": {
+     "r": "CRP 34 mg/L",
+     "n": "Không cần: CRP không có ích trong viêm phổi không biến chứng (QĐ 708, Phụ lục 1 khuyến cáo 5.5, tr. 313); QĐ 3312 (Viêm phổi do vi khuẩn mục 2.2, tr. 263) nêu CRP thường tăng khi do vi khuẩn. Không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thiếu máu thiếu sắt mức vừa (Hb 84 g/L) do khẩu phần thiếu sắt (uống sữa thay bữa, ít thịt, cá), bé 3 tuổi",
+     "ok": 1,
+     "n": "Da, niêm, móng nhợt nhiều tháng; Hb 84 g/L, MCV 70 fL, MCH 21 pg, ferritin 7 ng/mL, sắt huyết thanh 3,6 µmol/L (QĐ 3312, Thiếu máu thiếu sắt mục 3.1–3.2, tr. 539–540; QĐ 1832 mục 4.1). Nguyên nhân: thức ăn nghèo sắt, sữa bò nhiều (QĐ 3312 mục 1); không mất máu, soi phân âm."
+    },
+    {
+     "t": "Viêm phổi cộng đồng không nặng (ho, sốt, thở 42 l/p, ran nổ đáy phải, không rút lõm, SpO₂ 96%) trên nền thiếu máu",
+     "ok": 1,
+     "n": "Ho, sốt, thở ≥ 40 l/p ở trẻ 1–5 tuổi và ran nổ khu trú (QĐ 3312, Viêm phổi do vi khuẩn mục 1, tr. 262; QĐ 708 mục 3.1, 4.2); siêu âm có đông đặc nhỏ. Sốt, ho, ran, đông đặc không do thiếu sắt gây ra (thiếu máu chỉ giải thích mạch nhanh, một phần thở nhanh: QĐ 3312 mục 3.1, tr. 540). Chưa nặng: không rút lõm, SpO₂ 96%, uống được (QĐ 708 mục 4.3–4.4)."
+    },
+    {
+     "t": "Thalassemia",
+     "n": "MCV, MCH thấp như thalassemia nhưng ferritin, sắt huyết thanh giảm (thalassemia: bình thường hay tăng; QĐ 3312, Thalassemia mục 2.1c, tr. 543; QĐ 1832 mục 4.3a, tr. 18); không gan lách to, biến dạng xương, vàng da, tiền sử gia đình; HbA2 2,6% (QĐ 3312 mục 2.2d: > 3,5% mới nghĩ thể nhẹ). Thể nhẹ có thể cùng tồn tại: thời điểm xem lại MCV sau bù sắt không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy dinh dưỡng cấp (gầy mòn, phù)",
+     "n": "Cân nặng 12,3 kg ở 93 cm nằm giữa −2 SD (11,6 kg) và −1 SD (12,6 kg) (WHO Pocket book 2013, bảng A5.2.3); MUAC 142 mm; không phù: không đạt tiêu chuẩn SDD cấp (MUAC < 125 mm hoặc CN/CC < −2 SD; QĐ 4487/2016 mục II; WHO 2023 mục 1.2.2). Thiếu máu do SDD đi kèm gầy yếu (QĐ 1832 mục 4.3c): bé không gầy."
+    },
+    {
+     "t": "Nhiễm giun móc, mất máu tiêu hóa mạn",
+     "n": "Vùng làm rẫy, đi chân đất là nguy cơ giun móc (QĐ 3312, Nhiễm ký sinh trùng đường ruột mục 3.1c, tr. 336), nhưng soi phân âm, bạch cầu ái toan 1,5%, phân không đen; vẫn tẩy giun liều đơn (WHO Pocket book 2013 mục 10.5, tr. 307)."
+    },
+    {
+     "t": "Thiếu máu do nhiễm trùng, bệnh mạn tính; hội chứng Loeffler do giun",
+     "n": "Thiếu máu viêm mạn có ferritin tăng (QĐ 1832 mục 4.3b, tr. 18); bé ferritin 7 ng/mL, bệnh cấp 5 ngày. Giun qua phổi gây ho, sốt (QĐ 3312 mục 3.1a, 3.1c) nhưng bạch cầu ái toan không tăng, soi phân âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Amoxicillin uống 5 ngày: 500 mg × 2 lần/ngày (≈ 80 mg/kg/ngày)",
+     "v": "c",
+     "n": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.1.1, tr. 263): 80 mg/kg/24 giờ chia 2 lần, 5 ngày; WHO 2024 (khuyến cáo 1, tr. 4–8): ≥ 40 mg/kg/liều × 2 lần/ngày; AWaRe 2022 (Bảng 12.5, tr. 160): 10–< 15 kg 500 mg mỗi 12 giờ; HOẶC QĐ 708 (mục 5.3b, tr. 105): 45 mg/kg/ngày chia 3 lần (≈ 185 mg/lần), ít nhất 5 ngày. Sổ mâu thuẫn mục liều amoxicillin trẻ 2–59 tháng. Gói tự mua không thay được liệu trình."
+    },
+    {
+     "t": "Bắt đầu sắt uống ngay, kèm vitamin C 50–100 mg/ngày: 50 mg sắt nguyên tố/ngày (≈ 4 mg/kg), cấp đủ 14 ngày",
+     "v": "c",
+     "n": "QĐ 3312 (Thiếu máu thiếu sắt mục 4.2, tr. 540–541): 4–6 mg Fe/kg/ngày × 6–8 tuần, thêm vitamin C 50–100 mg/ngày; HOẶC QĐ 1832 (mục 5.1–5.2, tr. 19): 2 mg Fe/kg/ngày (≈ 25 mg) × 6–12 tháng, thêm 3 tháng sau khi Hb bình thường; WHO Pocket book 2013 (mục 10.5, tr. 307), QĐ 2341/2024: sắt 14 ngày rồi khám lại, điều trị khoảng 3 tháng. Hoãn sắt khi đang nhiễm trùng: không có trong tài liệu đã tải. WHO 2016 (tr. 6) chỉ đặt điều kiện cho vùng sốt rét; vùng bé ở không có."
+    },
+    {
+     "t": "Tẩy giun mebendazol 500 mg liều đơn",
+     "v": "c",
+     "n": "WHO Pocket book 2013 (mục 10.5, tr. 307): trẻ ≥ 1 tuổi chưa tẩy giun trong 6 tháng cho mebendazol 500 mg một liều; QĐ 3312 (Nhiễm ký sinh trùng đường ruột mục 3.1c, tr. 337): Fugacar 500 mg 1 viên duy nhất."
+    },
+    {
+     "t": "Chỉnh khẩu phần: bớt sữa thay bữa chính, thêm thịt, cá, trứng, rau củ quả giàu vitamin C",
+     "v": "c",
+     "n": "QĐ 3312 (Thiếu máu thiếu sắt mục 4.2, tr. 541: điều chỉnh chế độ dinh dưỡng; mục 6, tr. 542: thức ăn giàu sắt và vitamin C); WHO Pocket book 2013 mục 10.5. Lượng sữa tối đa mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt paracetamol 150 mg/lần (10–15 mg/kg), cách ít nhất 6 giờ, khi sốt ≥ 38,5 °C hoặc bé khó chịu",
+     "v": "c",
+     "n": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.2.2, tr. 264): hạ sốt khi ≥ 38,5 °C, 10–15 mg/kg/lần mỗi 6 giờ; AWaRe 2022 (Viêm họng, tr. 49): 10–< 15 kg 150 mg mỗi 6 giờ; WHO Pocket book 2013 (mục 4.2.1): khi sốt ≥ 39 °C gây khó chịu. Liều mẹ cho sáng nay (150 mg) đúng."
+    },
+    {
+     "t": "Dặn bằng văn bản, ghi số điện thoại: đếm nhịp thở lúc bé nằm yên; đến ngay khi rút lõm ngực, thở gấp hơn, không uống được, nôn tất cả, li bì, co giật, tím tái, sốt không giảm",
+     "v": "c",
+     "n": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.1, tr. 263): hướng dẫn bà mẹ phát hiện dấu hiệu nặng; QĐ 708 (Phụ lục 1 khuyến cáo 5.3, tr. 312–313; mục 4.3–4.4); WHO Pocket book 2013 (Bảng 7, tr. 81). Nhà xa nên dặn bằng văn bản, cấp đủ thuốc cả đợt. Tờ dặn mẫu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn đánh giá lại sau 2–3 ngày (nếu không đi được thì đến trạm y tế xã 3 km và gọi điện); khám lại sau 14 ngày để xem đáp ứng sắt",
+     "v": "c",
+     "n": "Sau 2 ngày (QĐ 708, Phụ lục 1 khuyến cáo 5.3) HOẶC sau 3 ngày (QĐ 101/2014 mục VII.1.2; WHO Pocket book 2013 Bảng 7); không tốt lên sau 48 giờ thì đánh giá lại, chụp X-quang (QĐ 708, khuyến cáo 5.11, tr. 314). Sắt: khám lại sau 14 ngày (WHO Pocket book mục 10.5; QĐ 2341/2024). Sổ mâu thuẫn mục hẹn khám lại viêm phổi trẻ em."
+    },
+    {
+     "t": "Amoxicillin 3 ngày thay vì 5 ngày",
+     "v": "a",
+     "n": "WHO 2024 (khuyến cáo 1) và AWaRe 2022 (Bảng 12.5): 3 ngày nếu không rút lõm và nơi HIV thấp; QĐ 3312, QĐ 708: 5 ngày. Tỷ lệ HIV tại chỗ: không có trong tài liệu đã tải; nhà xa nên 5 ngày thận trọng hơn."
+    },
+    {
+     "t": "Sắt tiêm tĩnh mạch ngay vì đang nhiễm trùng",
+     "v": "a",
+     "n": "QĐ 1832 (mục 5.1, tr. 19): sắt tĩnh mạch cho thiếu máu thiếu sắt nặng, không hấp thu, hoặc thiếu máu khi có viêm nhiễm đang tiến triển; QĐ 3312 (mục 4.2, tr. 541): chỉ tiêm khi không uống được hoặc không hấp thu, 1–4 mg/kg/tuần tĩnh mạch. Bé uống được, Hb mức vừa: chấp nhận, không phải đáp án chính."
+    },
+    {
+     "t": "Chỉ cho sắt và vitamin, không kháng sinh vì cho rằng sốt, ho do thiếu máu",
+     "v": "w",
+     "n": "QĐ 708 (Phụ lục 1 khuyến cáo 5.6, tr. 313): kháng sinh cho mọi trẻ viêm phổi vì không phân biệt vi khuẩn với virus; WHO Pocket book 2013 (mục 4.2): kháng sinh trong hầu hết viêm phổi."
+    },
+    {
+     "t": "Truyền máu cho bé",
+     "v": "w",
+     "n": "Hb 84 g/L chưa đạt ngưỡng nào: QĐ 3312 (mục 4.2, tr. 541): Hb ≤ 40 g/L, hoặc nhiễm khuẩn nặng cần nâng nhanh, hoặc suy tim; WHO Pocket book 2013 (mục 10.6, tr. 308): Hb ≤ 4 g/dL, hoặc 4–6 g/dL kèm suy tim…; QĐ 1832 (mục 4.1, tr. 13): duy trì ≥ 80 g/L. Bé không suy tim. Sổ mâu thuẫn mục ngưỡng truyền khối hồng cầu."
+    },
+    {
+     "t": "Tiếp tục gói bột kháng sinh tạp hóa không rõ tên",
+     "v": "w",
+     "n": "Không rõ hoạt chất, liều, hạn dùng; liều kháng sinh phải tính theo cân nặng (QĐ 708 mục 5.3b, tr. 105)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thiếu máu thiếu sắt mức vừa (Hb 84 g/L, MCV 70 fL, ferritin 7 ng/mL) do khẩu phần thiếu sắt, bé 3 tuổi",
+     "Viêm phổi cộng đồng không nặng (thở 42 l/p, ran nổ đáy phổi phải, không rút lõm, SpO₂ 96%), không dấu hiệu nguy hiểm",
+     "Không thalassemia (ferritin thấp, điện di bình thường); không suy dinh dưỡng cấp (CN/CC giữa −2 và −1 SD, MUAC 142 mm)",
+     "Nguy cơ cao do ở xa 40 km, khó tái khám; đã uống kháng sinh tự mua không rõ tên 2 ngày"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (ho, sốt, thuốc đã uống, khẩu phần, mất máu, gia đình, giun) → khám (nhịp thở, rút lõm, SpO₂, phổi, gan lách, móng) → cận lâm sàng → chẩn đoán → xử trí.",
+     "Thiếu máu thiếu sắt: Hb 84 g/L (mức vừa), MCV 70 fL, MCH 21 pg, ferritin 7 ng/mL, sắt 3,6 µmol/L, bão hòa 6% (QĐ 3312 mục 3.2, tr. 540; QĐ 1832 mục 4.1, tr. 18). Nguyên nhân: sữa ≈ 700 mL thay bữa, ít thịt cá, chưa bổ sung sắt (QĐ 3312 mục 1); không mất máu, soi phân âm.",
+     "Dữ kiện KHÔNG được giải thích bởi thiếu sắt (chẩn đoán 1): sốt 3 ngày, ho cấp 5 ngày, ran nổ khu trú đáy phải, đông đặc trên siêu âm, bạch cầu 15,6 G/L, neutrophil 68%. QĐ 3312 (Thiếu máu thiếu sắt mục 3.1, tr. 540) ghi thở nhanh, nhịp nhanh là biểu hiện thiếu máu nên dễ dừng ở chẩn đoán 1 (premature closure); nhưng thiếu máu mạn không gây sốt, ho cấp, ran nổ. Thiếu sắt còn làm tăng nhiễm khuẩn (cùng mục): hai bệnh liên quan nhưng cần hai xử trí.",
+     "Viêm phổi: ho, sốt, thở 42 l/p (từ 40 l/p ở trẻ 1–5 tuổi), ran nổ (QĐ 3312 mục 1, tr. 262; QĐ 708 mục 3.1, 4.2; Phụ lục 1 khuyến cáo 5.1). Chưa nặng: không rút lõm, SpO₂ 96%, uống được (QĐ 708 mục 4.3–4.4). Kháng sinh uống 2 ngày không rõ tên không loại trừ được viêm phổi.",
+     "Không thalassemia: sắt, ferritin thấp (thalassemia bình thường hay tăng: QĐ 3312 mục 2.1c; QĐ 1832 mục 4.3a), không gan lách to, vàng da, biến dạng xương, tiền sử gia đình; HbA2 2,6% (QĐ 3312 mục 2.2d). QĐ 1832 Phụ lục (tr. 31): sắt, ferritin giảm → thiếu sắt, bổ sung sắt.",
+     "Không suy dinh dưỡng cấp: CN/CC giữa −2 và −1 SD (WHO Pocket book 2013, bảng A5.2.3), MUAC 142 mm, không phù (QĐ 4487/2016 mục II; WHO 2023 mục 1.2.2). Bé thiếu sắt vì sai khẩu phần, không phải thiếu năng lượng."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị ngoại trú, hẹn mốc (QĐ 708 mục 4.2, 5.3b). Nhà xa nên làm trọn gói: cấp đủ thuốc cả đợt (amoxicillin 5 ngày, sắt 14 ngày), dặn bằng văn bản, ghi số điện thoại, chỉ trạm y tế xã gần nhà.",
+     "Amoxicillin 5 ngày: QĐ 3312, WHO 2024, AWaRe 2022 cùng ≈ 80 mg/kg/ngày chia 2; QĐ 708 ghi 45 mg/kg/ngày chia 3: cả hai đúng. 3 ngày chấp nhận.",
+     "Sắt: 4–6 mg Fe/kg/ngày × 6–8 tuần (QĐ 3312) hoặc 2 mg Fe/kg/ngày × 6–12 tháng (QĐ 1832); WHO Pocket book cho 14 ngày rồi khám lại. Vitamin C 50–100 mg/ngày (QĐ 3312). Phân sẫm màu sau khi uống sắt là bình thường (QĐ 3312 mục 5, tr. 542).",
+     "Mebendazol 500 mg liều đơn (WHO Pocket book 2013 mục 10.5; QĐ 3312 mục 3.1c). Chỉnh khẩu phần là điều trị nguyên nhân (QĐ 3312 mục 4.2; QĐ 1832 mục 5.3).",
+     "Không truyền máu (Hb 84 g/L, không suy tim; ngưỡng QĐ 3312 mục 4.2, WHO Pocket book mục 10.6). Không sắt tiêm: bé uống được (QĐ 3312 mục 4.2).",
+     "Mốc theo dõi sau 2–3 ngày; không đỡ sau 48 giờ phải chuyển để chụp X-quang (QĐ 708, Phụ lục 1 khuyến cáo 5.11). Phòng khám không có X-quang nên mốc này là điểm hẹn chuyển tuyến."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Gói hoặc siro 250 mg/5 mL hoặc 500 mg tùy dạng sẵn có",
+      "lieu": "500 mg/lần (≈ 80 mg/kg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau 12 giờ",
+      "so_ngay": "5 ngày (10 liều)",
+      "ghi_chu": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.1.1, tr. 263); WHO 2024 khuyến cáo 1; AWaRe 2022 Bảng 12.5. HOẶC QĐ 708 mục 5.3b (tr. 105): 45 mg/kg/ngày chia 3 lần (≈ 185 mg/lần). Có thể 3 ngày theo WHO 2024/AWaRe 2022."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat (chứa 20% sắt nguyên tố)",
+      "ham_luong": "250 mg muối ≈ 50 mg sắt nguyên tố (dạng viên hoặc siro tùy sẵn có)",
+      "lieu": "50 mg sắt nguyên tố/ngày (≈ 4 mg/kg; khoảng cho phép 4–6 mg/kg = 49–74 mg); HOẶC 25 mg/ngày (2 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Hấp thu tốt nhất lúc đói; nếu kích ứng dạ dày thì uống trong bữa ăn",
+      "so_ngay": "Cấp 14 ngày rồi khám lại; tổng 6–8 tuần (QĐ 3312) hoặc 6–12 tháng (QĐ 1832), WHO Pocket book khoảng 3 tháng",
+      "ghi_chu": "QĐ 3312 (Thiếu máu thiếu sắt mục 4.2, tr. 540–541); QĐ 1832 (mục 5.1–5.2, tr. 19); WHO Pocket book 2013 mục 10.5. Số lần chia trong ngày: không có trong tài liệu đã tải. Phân sẫm màu khi uống sắt (QĐ 3312 mục 5)."
+     },
+     {
+      "thuoc": "Vitamin C",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "50 mg/ngày (khoảng 50–100 mg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với sắt",
+      "so_ngay": "Cùng thời gian dùng sắt",
+      "ghi_chu": "QĐ 3312 (Thiếu máu thiếu sắt mục 4.2, tr. 541); QĐ 1832 mục 5.2: vitamin C hoặc nước cam, chanh tăng hấp thu."
+     },
+     {
+      "thuoc": "Mebendazol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên duy nhất",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, ngày đầu",
+      "so_ngay": "1 ngày",
+      "ghi_chu": "QĐ 3312 (Nhiễm ký sinh trùng đường ruột mục 3.1c, tr. 337); WHO Pocket book 2013 mục 10.5, tr. 307 (chưa tẩy giun trong 6 tháng)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Gói hoặc siro theo dạng sẵn có",
+      "lieu": "150 mg/lần (10–15 mg/kg = 123–185 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C hoặc bé khó chịu; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt",
+      "ghi_chu": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.2.2, tr. 264); AWaRe 2022 (Viêm họng, tr. 49: 10–< 15 kg 150 mg mỗi 6 giờ)."
+     }
+    ],
+    "dan_do": [
+     "Bé bị hai bệnh cùng lúc: thiếu máu do thiếu sắt (ăn thiếu thịt cá trứng, uống sữa thay bữa) và viêm phổi; sắt chữa thiếu máu, kháng sinh chữa viêm phổi, không thay nhau được.",
+     "Uống đủ 5 ngày amoxicillin, sáng và tối, dù bé đã bớt sốt; không dùng thêm gói thuốc tạp hóa, không tự mua thuốc ho hay kháng sinh (QĐ 708 mục 5.3b: liều theo cân nặng).",
+     "Uống sắt mỗi ngày kèm vitamin C; phân sẫm màu là bình thường (QĐ 3312 mục 5). Phải dùng nhiều tuần, không dừng khi da đã hồng.",
+     "Giảm sữa hộp thay bữa, tăng thịt, cá, trứng, rau quả giàu vitamin C; cho bé đi giày dép ngoài rẫy.",
+     "Đếm nhịp thở lúc bé nằm yên đủ 1 phút; từ 40 lần/phút là thở nhanh (QĐ 708 mục 3.1, tr. 100–101). Ghi vào tờ dặn mỗi sáng, tối.",
+     "Đưa bé đến ngay trạm y tế xã hoặc phòng khám, gọi số ghi trên tờ dặn, nếu: thở gấp hơn, lõm lồng ngực, thở rên hoặc rít, không uống được, nôn tất cả, li bì, co giật, tím tái, vẫn sốt sau 2 ngày (QĐ 708 mục 4.3–4.4; Phụ lục 1 khuyến cáo 5.3, 5.11).",
+     "Hẹn khám lại sau 2–3 ngày; nếu không lên được thì ra trạm y tế xã (3 km) rồi gọi điện. Khám lại sau 14 ngày xem Hb và hồng cầu lưới (WHO Pocket book 2013 mục 10.5; QĐ 3312 mục 4.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám sau 3 ngày. Bé vẫn sốt, ho nhiều, thở gấp và lõm ngực từ đêm qua nên mẹ đưa lên sớm. Sinh hiệu: nhiệt 38,9 °C, mạch 142 l/p, nhịp thở 56 l/p, SpO₂ 89% khi thở khí trời. Bé mệt, quấy yếu.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Khang về uống tiếp amoxicillin hoặc đổi thuốc uống rồi hẹn lại là bỏ sót viêm phổi nặng: SpO₂ 89% dưới 90% (QĐ 3312, Viêm phổi do vi khuẩn mục 1, tr. 262; WHO Pocket book 2013 Bảng 7, tr. 81) và dưới 92% (QĐ 708, Phụ lục 1 khuyến cáo 5.3 nhập viện, 5.12 thở oxy), kèm rút lõm và vùng đục đáy phổi phải (khuyến cáo 5.3: gõ đục gợi tràn dịch, cần chuyển bệnh viện). Nhà cách 40 km đường đèo, chiều không có xe, ở nhà không có oxy: bé có thể suy hô hấp ngay trong đêm.",
+    "theo_doi": "Giữ bé ở phòng khám theo dõi thêm vài giờ và đổi kháng sinh uống là chậm trễ: phòng khám không có X-quang để tìm biến chứng như QĐ 708 (Phụ lục 1 khuyến cáo 5.11, tr. 314) yêu cầu khi sốt không giảm sau 48 giờ, không theo dõi oxy liên tục, không có kháng sinh tiêm. AWaRe 2022 (Bảng 12.5, tr. 160): trẻ không đáp ứng amoxicillin nên chuyển nơi có phác đồ bậc hai. Mỗi giờ chờ là thời gian bé thiếu oxy, trong khi thiếu máu làm khả năng tải oxy vốn đã giảm."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu uống thuốc ba hôm rồi mà không bớt, nó thở gấp lắm, lõm cả ngực. Bà nội cũng bảo phải đưa lên ngay.",
+   "sinh_hieu": {
+    "mach": 142,
+    "ha": "Không đo",
+    "nhiet": "38,9",
+    "nhip_tho": 56,
+    "spo2": 89,
+    "canh_bao": [
+     "mach",
+     "nhiet",
+     "nhip_tho",
+     "spo2"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Uống amoxicillin đủ 6 liều, sốt vẫn 38,5–39 °C, ho nhiều hơn, thở gấp và lõm ngực từ đêm qua; ăn uống rất ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 3 ngày điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ làm đúng đơn: amoxicillin ngày 2 lần, sắt mỗi ngày, mebendazol một viên, paracetamol khi sốt; không dùng gói tạp hóa nữa. Phân bé sẫm màu từ khi uống sắt, không có máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc (loại trừ thất bại do bỏ thuốc)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé còn uống được từng ngụm, không nôn mọi thứ, không co giật; ngủ nhiều hơn nhưng gọi thì tỉnh; tiểu 2–3 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "xa_nha",
+     "noi_dung": "Mẹ thuê xe ôm lên, nay không có xe về. Bệnh viện tỉnh cách nhà khoảng 110 km. Mẹ lo tiền xe và bỏ thu hoạch, nhưng đồng ý đi nếu bác sĩ bảo cần; bà nội sẵn sàng đi cùng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Ở xa: chuẩn bị chuyển tuyến"
+    },
+    {
+     "id": "khong_sac",
+     "noi_dung": "Không sặc, không có cơn nghẹn, không tiếp xúc người ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt, quấy yếu, gọi thì tỉnh. Môi và niêm mạc nhợt, không thấy rõ tím. Chi ấm, không phù. Cân nặng 12,0 kg.",
+     "k": 1,
+     "hien": "Bé mệt, quấy yếu, da niêm nhợt. Cân nặng 12,0 kg."
+    },
+    "phoi": {
+     "a": "Nhịp thở 56 l/p. Phập phồng cánh mũi, rút lõm lồng ngực rõ ở 1/3 dưới. Đáy phổi phải gõ đục, rì rào phế nang giảm, ran nổ nhỏ hạt và tiếng thở phế quản ở vùng trên chỗ đục; phổi trái ran nổ rải rác.",
+     "k": 1,
+     "hien": "Nhịp thở 56 l/p. Phập phồng cánh mũi, rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở đáy phổi phải."
+      },
+      {
+       "vi_tri": "Dưới xương bả vai phải (phía sau)",
+       "id": "AT-PHOI-PQ-01",
+       "chu": "Tiếng thở phế quản."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 142 l/p, T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 142 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Gan không to, không sờ thấy dưới bờ sườn; không phù.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "ab": 1,
+     "r": "Đông đặc thùy dưới phải có hình phế quản hơi, góc sườn hoành phải tù (tràn dịch ít); phổi trái tăng đậm rải rác; bóng tim không to.",
+     "thay_the": "sa_phoi",
+     "n": "Cơ sở không có. QĐ 708 (Phụ lục 1 khuyến cáo 5.11, tr. 314): sốt không giảm, không tốt lên sau 48 giờ phải đánh giá lại và chụp X-quang để tìm biến chứng: đây là lý do chuyển tuyến. Thay tạm bằng siêu âm phổi."
+    },
+    "sa_phoi": {
+     "v": "u",
+     "ab": 1,
+     "r": "Vùng đông đặc đáy phải lan rộng 4,2 × 3,0 cm, khí phế quản đồ động; ít dịch màng phổi dày 9 mm ở góc sườn hoành phải, dịch trong, không vách. Đường B nhiều ở phổi phải, rải rác ở phổi trái.",
+     "n": "Hữu ích khi không có X-quang để thấy tổn thương lan rộng và tràn dịch ít (QĐ 708, Phụ lục 1 khuyến cáo 5.3, 5.11: tràn dịch ít không cần can thiệp ngoại khoa). WHO 2024 (khuyến cáo 3): chưa có khuyến cáo về siêu âm phổi để chẩn đoán viêm phổi."
+    },
+    "ctm": {
+     "v": "a",
+     "ab": 1,
+     "r": "BC 19,8 G/L · Neutrophil 80% · Hb 82 g/L · MCV 70 fL · TC 502 G/L",
+     "bang": {
+      "wbc": 19.8,
+      "neu_pct": 80.0,
+      "neu": 15.84,
+      "lym_pct": 13.0,
+      "lym": 2.57,
+      "mono_pct": 6.0,
+      "mono": 1.19,
+      "eos_pct": 0.5,
+      "eos": 0.1,
+      "baso_pct": 0.5,
+      "baso": 0.1,
+      "rbc": 3.9,
+      "hgb": 82,
+      "hct": 0.273,
+      "mcv": 70.0,
+      "mch": 21.0,
+      "mchc": 300,
+      "rdw": 18.8,
+      "plt": 502
+     },
+     "n": "Chấp nhận: QĐ 708 (Phụ lục 1 khuyến cáo 5.5, tr. 313) làm công thức máu, CRP ở viêm phổi nặng để theo dõi. Hb 82 g/L còn mức vừa (QĐ 3312 tr. 535; WHO 2024 Bảng 3), chưa đạt ngưỡng truyền máu của QĐ 3312 (mục 4.2), WHO Pocket book 2013 (mục 10.6) hay QĐ 1832 (mục 4.1: duy trì ≥ 80 g/L). Hb chưa kịp tăng sau 3 ngày sắt (hồng cầu lưới tăng sau 5–10 ngày: QĐ 3312 mục 4.2)."
+    },
+    "crp": {
+     "v": "a",
+     "ab": 1,
+     "r": "CRP 118 mg/L",
+     "n": "Chấp nhận, làm mốc cho tuyến trên (QĐ 708, Phụ lục 1 khuyến cáo 5.5, tr. 313). Ngưỡng CRP ở trẻ: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm phổi nặng (SpO₂ 89%, rút lõm lồng ngực) không đáp ứng amoxicillin uống 3 ngày, nghi tràn dịch cận viêm lượng ít",
+     "ok": 1,
+     "n": "SpO₂ < 90% là tiêu chuẩn viêm phổi nặng (QĐ 3312 mục 1, tr. 262; WHO Pocket book 2013 Bảng 7); < 92% cần nhập viện (QĐ 708, Phụ lục 1 khuyến cáo 5.3). Còn sốt, thở nhanh hơn sau 48 giờ (khuyến cáo 5.3, 5.11). Gõ đục, rì rào giảm và siêu âm: tràn dịch ít. Đã uống đủ liều đúng cân nặng nên không phải do bỏ thuốc."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt mức vừa (Hb 82 g/L) đang điều trị sắt ngày thứ 4",
+     "ok": 1,
+     "n": "Hb 82 g/L, MCV 70 fL, ferritin 7 ng/mL ở lượt 1 (QĐ 3312 mục 3.2, tr. 540). Hb chưa tăng là bình thường sau 3 ngày; thiếu máu làm bé chịu thiếu oxy kém hơn. Chưa đạt ngưỡng truyền máu."
+    },
+    {
+     "t": "Suy tim do thiếu máu",
+     "n": "QĐ 3312 (Thiếu máu thiếu sắt mục 5, tr. 542): thiếu máu kéo dài có thể gây suy tim; bé gan không to, không phù, tim nhanh do sốt và thiếu oxy."
+    },
+    {
+     "t": "Viêm phổi do tụ cầu, tràn mủ màng phổi",
+     "n": "QĐ 3312 (mục 4.2.3, tr. 265) và QĐ 708 (mục 5.3b, tr. 106) nêu nghi tụ cầu khi có bằng chứng; dịch chỉ ít, trong, không vách. Cần X-quang, chọc dò ở tuyến trên: lý do chuyển."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay đến bệnh viện có X-quang, oxy và kháng sinh tiêm (bệnh viện nhi hoặc bệnh viện tỉnh), không cho về",
+     "v": "c",
+     "n": "Viêm phổi nặng điều trị tại bệnh viện (QĐ 3312, Viêm phổi do vi khuẩn mục 4.2, tr. 264; WHO Pocket book 2013 Bảng 7); SpO₂ < 92% nhập viện, gõ đục, rì rào giảm cần chuyển (QĐ 708, Phụ lục 1 khuyến cáo 5.3); không đỡ sau 48 giờ cần X-quang (khuyến cáo 5.11); AWaRe 2022 (Bảng 12.5): thất bại amoxicillin thì chuyển nơi có phác đồ bậc hai. WHO 2024 (khuyến cáo 2a) cho điều trị ngoại trú khi chỉ rút lõm; bé còn SpO₂ 89% nên không áp dụng."
+    },
+    {
+     "t": "Thở oxy gọng mũi 1–2 L/phút ngay tại phòng khám và trong khi chuyển, giữ SpO₂ trên 90%",
+     "v": "c",
+     "n": "Oxy khi SpO₂ < 92% (QĐ 708, Phụ lục 1 khuyến cáo 5.12, tr. 314) HOẶC < 90% (QĐ 3312, mục 4.2.1, tr. 264; WHO Pocket book 2013 mục 4.2.1, tr. 82); bé 89% dưới cả hai. Gọng mũi 1–2 L/phút, giữ SpO₂ > 90% (WHO Pocket book mục 10.7, tr. 312–313). Giả định phòng khám có bình oxy cấp cứu (thiết kế ca)."
+    },
+    {
+     "t": "Hạ sốt paracetamol 150 mg khi sốt ≥ 38,5 °C hoặc bé khó chịu",
+     "v": "c",
+     "n": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.2.2, tr. 264): hạ sốt khi ≥ 38,5 °C, 10–15 mg/kg/lần mỗi 6 giờ; AWaRe 2022 (Viêm họng, tr. 49): 10–< 15 kg 150 mg mỗi 6 giờ. Hỏi giờ liều cuối để tránh quá liều."
+    },
+    {
+     "t": "Chuẩn bị chuyển: gọi báo bệnh viện nhận, giấy chuyển (Hb 82, MCV 70, ferritin 7, BC 19,8, CRP 118, siêu âm phổi, thuốc đã dùng), người nhà đi cùng, ô tô có oxy, nằm đầu cao, đo SpO₂ trên đường",
+     "v": "c",
+     "n": "Giấy chuyển giúp tuyến trên không lặp lại xét nghiệm và quyết định kháng sinh, truyền máu (ngưỡng QĐ 3312 mục 4.2, WHO Pocket book mục 10.6). Mẫu giấy chuyển, bàn giao, phương tiện tối thiểu: không có trong tài liệu đã tải; đây là thực hành an toàn của ca. Nhà xa 110 km nên đi ngay trong ngày."
+    },
+    {
+     "t": "Cho liều amoxicillin tiếp theo nếu đến giờ, rồi chuyển, không chờ kết quả hay thêm xét nghiệm",
+     "v": "a",
+     "n": "WHO 2024 (sau khuyến cáo 2a, tr. 8): trẻ chuyển tuyến sau khi nhận liều kháng sinh đầu (amoxicillin uống ≥ 40 mg/kg/lần); sổ mâu thuẫn mục liều kháng sinh đầu trước chuyển. Bé đã thất bại amoxicillin nên tuyến trên đổi kháng sinh tiêm (QĐ 3312 mục 4.2.3; QĐ 708 mục 5.3b)."
+    },
+    {
+     "t": "Cho về nhà, đổi sang kháng sinh uống khác (amoxicillin–clavulanat hoặc macrolid), hẹn lại sau 2 ngày",
+     "v": "w",
+     "n": "Viêm phổi nặng có SpO₂ 89% cần nhập viện, thở oxy (QĐ 3312 tr. 262–264; QĐ 708 khuyến cáo 5.3, 5.12; WHO Pocket book Bảng 7). Kháng sinh uống thay thế chỉ cho viêm phổi không nặng (QĐ 708 mục 5.3b, tr. 105)."
+    },
+    {
+     "t": "Truyền khối hồng cầu ngay tại phòng khám trước khi chuyển",
+     "v": "w",
+     "n": "Hb 82 g/L chưa đạt ngưỡng nào (QĐ 3312 mục 4.2: Hb ≤ 40 g/L, hoặc nhiễm khuẩn nặng cần nâng nhanh, hoặc suy tim; WHO Pocket book mục 10.6: Hb ≤ 4 g/dL hoặc 4–6 g/dL kèm suy tim…; QĐ 1832 mục 4.1: duy trì ≥ 80 g/L); bé không suy tim. Để tuyến trên quyết (sổ mâu thuẫn mục ngưỡng truyền); chậm chuyển để truyền là sai."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm phổi nặng (SpO₂ 89%, rút lõm lồng ngực) không đáp ứng amoxicillin uống 3 ngày, ít dịch màng phổi phải trên siêu âm",
+     "Thiếu máu thiếu sắt mức vừa (Hb 82 g/L) đang điều trị sắt, chưa suy tim, chưa có chỉ định truyền máu",
+     "Không có dấu hiệu nguy hiểm toàn thân (uống được, gọi thì tỉnh, không co giật) nhưng có suy hô hấp thiếu oxy",
+     "Chỉ định chuyển tuyến ngay: cần oxy, X-quang, kháng sinh tiêm, theo dõi liên tục mà phòng khám không có"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (tuân thủ thuốc, dấu hiệu nguy hiểm, phương tiện về) → khám (SpO₂, rút lõm, gõ phổi, gan) → cận lâm sàng (siêu âm phổi, công thức máu, CRP) → chẩn đoán → xử trí.",
+     "Điều gì buộc mở lại hồ sơ: sau 3 ngày bé nặng hơn (sốt 38,9 °C, thở 56 l/p, rút lõm, SpO₂ 89%) dù mẹ uống thuốc đúng. QĐ 708 (Phụ lục 1 khuyến cáo 5.3, 5.11) đòi đánh giá lại toàn diện và X-quang khi còn sốt, thở nhanh hơn sau 48 giờ.",
+     "Vì sao nặng: SpO₂ < 90% là viêm phổi nặng (QĐ 3312 tr. 262; WHO Pocket book Bảng 7), dưới cả ngưỡng 92% của QĐ 708. Đục và rì rào giảm đáy phải, siêu âm đông đặc 4,2 × 3,0 cm kèm dịch 9 mm: tràn dịch cận viêm ít. Nguyên nhân thất bại amoxicillin: không có trong tài liệu đã tải; tuyến trên làm rõ.",
+     "Dữ kiện không giải thích bởi thiếu máu: sốt dai dẳng, bạch cầu 19,8 G/L, CRP 118 mg/L, đông đặc, tràn dịch (QĐ 708 khuyến cáo 5.3, 5.11). Thiếu máu vừa làm bé chịu thiếu oxy kém hơn nhưng không gây các dấu hiệu này; bỏ sót chẩn đoán thứ hai ở lượt 1 là đường dẫn đến ca nặng.",
+     "Hb 82 g/L chưa phải chỉ định truyền: chưa đạt ngưỡng QĐ 3312 (mục 4.2, tr. 541), WHO Pocket book (mục 10.6) hay QĐ 1832 (mục 4.1); bé không suy tim. QĐ 3312 có nêu nhiễm khuẩn nặng cần nâng nhanh Hb: tuyến trên cân nhắc."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển ngay, không về nhà, không giữ lại: phòng khám không có X-quang, oxy dài ngày, kháng sinh tiêm theo dõi liên tục (QĐ 708 khuyến cáo 5.3, 5.11; QĐ 3312 mục 4.2). WHO 2024 khuyến cáo 2a (rút lõm không dấu hiệu nguy hiểm: amoxicillin uống ngoại trú) không áp dụng vì SpO₂ 89% (WHO Pocket book Bảng 7).",
+     "Oxy ngay (< 92% theo QĐ 708 hoặc < 90% theo QĐ 3312, WHO Pocket book), gọng mũi 1–2 L/phút, giữ SpO₂ > 90% (WHO Pocket book mục 4.2.1, 10.7). Hạ sốt paracetamol 150 mg khi ≥ 38,5 °C (QĐ 3312 mục 4.2.2).",
+     "Kháng sinh tuyến trên (thông tin, tuyến trên quyết): ampicillin 200 mg/kg/24 giờ chia 4 kèm gentamicin 7,5 mg/kg một lần, hoặc ceftriaxon 80 mg/kg/24 giờ khi thất bại (QĐ 3312 mục 4.2.3, tr. 264–265); benzylpenicillin 50 mg/kg/lần tĩnh mạch (QĐ 708 mục 5.3b, tr. 106); ít nhất 5 ngày (QĐ 3312). Tràn dịch ít không cần can thiệp ngoại khoa (QĐ 708 khuyến cáo 5.11).",
+     "Chuẩn bị chuyển (thực hành an toàn của ca, không có mẫu trong tài liệu đã tải): gọi báo, giấy chuyển đủ kết quả và thuốc đã dùng, người nhà đi cùng, ô tô có oxy, nằm đầu cao, đo SpO₂ trên đường, đi ngay trong ngày.",
+     "Ghi thiếu máu thiếu sắt vào giấy chuyển để tuyến trên tiếp tục sắt (QĐ 3312 mục 4.2) và quyết định truyền máu; sau ra viện đo lại Hb, hồng cầu lưới."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oxy",
+      "ham_luong": "Bình oxy hoặc máy tạo oxy",
+      "lieu": "1–2 L/phút",
+      "duong": "Gọng mũi",
+      "thoi_diem": "Ngay khi đo SpO₂ 89%, liên tục trong khi chuyển",
+      "so_ngay": "Đến khi tuyến trên tiếp nhận",
+      "ghi_chu": "QĐ 708 Phụ lục 1 khuyến cáo 5.12; WHO Pocket book 2013 mục 4.2.1, 10.7 (giữ SpO₂ > 90%)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Gói hoặc siro theo dạng sẵn có",
+      "lieu": "150 mg/lần (10–15 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt ≥ 38,5 °C; cách liều trước ít nhất 6 giờ",
+      "so_ngay": "Đến khi có chỉ định khác của tuyến trên",
+      "ghi_chu": "QĐ 3312 (Viêm phổi do vi khuẩn mục 4.2.2, tr. 264); AWaRe 2022 (Viêm họng, tr. 49)."
+     },
+     {
+      "thuoc": "Amoxicillin (liều kế tiếp nếu đến giờ)",
+      "ham_luong": "Như lượt 1",
+      "lieu": "500 mg/lần (≥ 40 mg/kg/liều)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ nếu đến giờ liều tiếp theo, trước khi lên xe",
+      "so_ngay": "Tuyến trên đổi kháng sinh tiêm",
+      "ghi_chu": "WHO 2024 (sau khuyến cáo 2a, tr. 8). Kháng sinh tuyến trên: xem phân tích xử trí."
+     }
+    ],
+    "dan_do": [
+     "Bé viêm phổi nặng lên dù đã uống thuốc đúng: cần vào bệnh viện có oxy và X-quang ngay hôm nay, không về nhà (QĐ 708, Phụ lục 1 khuyến cáo 5.3).",
+     "Đi bằng ô tô, mẹ hoặc bà ôm bé nằm đầu cao; mang giấy chuyển, sổ khám, các thuốc đã uống (cả gói tạp hóa nếu còn), thuốc sắt và mebendazol.",
+     "Cho bé uống nước từng ngụm khi còn tỉnh; không ép ăn. Nếu bé tím môi, li bì khó đánh thức, co giật, thở rên: dừng xe gần nhất, gọi số ghi trên giấy.",
+     "Báo bác sĩ bệnh viện: bé thiếu máu thiếu sắt đang uống sắt, đã uống mebendazol, kèm kết quả xét nghiệm trên giấy chuyển.",
+     "Sau ra viện: tiếp tục sắt đủ thời gian (6–8 tuần theo QĐ 3312 hoặc lâu hơn theo QĐ 1832), đo lại Hb, chỉnh khẩu phần; ra trạm y tế xã nếu không về phòng khám được."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Kịch bản của ca: bé được ô tô chở đến bệnh viện nhi tỉnh trong ngày, thở oxy suốt chuyến đi. X-quang thấy đông đặc thùy dưới phải kèm tràn dịch ít; bé nằm viện, được kháng sinh tiêm, không cần truyền máu, tiếp tục sắt khi ăn uống lại. Ra viện hẹn khám lại tại trạm y tế xã, mẹ chỉnh khẩu phần và không mua kháng sinh ở tạp hóa.",
+ "nhieu": [
+  "Ở xa, khó tái khám: nhà cách 40 km đường đèo, xe chỉ có chuyến sáng; mẹ xin thuốc uống một lần cho xong. Phải xử trí trọn gói, dặn bằng văn bản, ghi số điện thoại, chỉ nơi khám lại gần nhà; lượt 2 chuẩn bị chuyển tuyến ngay trong ngày.",
+  "Không có X-quang: chẩn đoán viêm phổi dựa lâm sàng và siêu âm phổi tại giường (QĐ 708 mục 3.2); không đỡ sau 48 giờ là mốc chuyển để chụp X-quang (QĐ 708, Phụ lục 1 khuyến cáo 5.11).",
+  "Gia đình thúc ép đi khám, thuốc tự mua: mẹ chỉ kể chuyện xanh xao; ho, sốt và gói kháng sinh tạp hóa phải hỏi mới biết."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: thiếu máu thiếu sắt giải thích được da xanh, mạch nhanh, một phần thở nhanh (QĐ 3312, Thiếu máu thiếu sắt mục 3.1) nên dễ đóng hồ sơ ở đó (premature closure). Dữ kiện không được giải thích: sốt, ho cấp, ran nổ khu trú, đông đặc trên siêu âm, bạch cầu tăng. Dừng ở một chẩn đoán thì tự hỏi: còn dữ kiện nào chưa có chỗ đứng?",
+  "Ở xa, khó tái khám: ngưỡng an toàn thay đổi. Cấp đủ thuốc cả đợt, dặn dấu hiệu nguy hiểm bằng văn bản, ghi số điện thoại, hẹn mốc 2–3 ngày, chỉ trạm y tế xã gần nhà; không đỡ sau 48 giờ thì chuyển.",
+  "Thuốc kháng sinh tự mua không rõ tên: hỏi thẳng, ghi lại, không coi là đã điều trị; kê lại đúng liều theo cân nặng.",
+  "Chuyển tuyến kịp thời: SpO₂ < 90% hoặc < 92%, rút lõm kèm không đáp ứng, nghi biến chứng cần X-quang. Trước chuyển: oxy, hạ sốt, giấy chuyển đủ thông tin, người nhà đi cùng, phương tiện phù hợp; không chờ truyền máu hay xét nghiệm thêm.",
+  "Loại thalassemia và suy dinh dưỡng bằng dữ kiện: ferritin, sắt giảm; không gan lách to, gia đình sạch; CN/CC và MUAC trên ngưỡng. Thiếu sắt đơn thuần có thở nhanh nhẹ, mạch nhanh nhưng không sốt, phổi sạch; ca này khác ở sốt, ho, ran nổ khu trú."
+ ],
+ "diem_nho": [
+  "Hb thiếu máu trẻ 24–59 tháng: < 110 g/L (WHO 2024 Bảng 2) hoặc < 115 g/L cho 2–6 tuổi (QĐ 3312 mục 1). Mức vừa: 60 ≤ Hb < 90 (QĐ 3312 tr. 535) hoặc 70–99 g/L (WHO 2024 Bảng 3).",
+  "Thiếu sắt: ferritin < 12 ng/mL, sắt huyết thanh < 9 µmol/L, bão hòa < 16% (QĐ 3312) hoặc ferritin < 30 ng/mL, bão hòa < 30% (QĐ 1832). Sắt điều trị: 4–6 mg Fe/kg/ngày × 6–8 tuần (QĐ 3312) hoặc 2 mg/kg/ngày × 6–12 tháng (QĐ 1832).",
+  "Viêm phổi trẻ 1–5 tuổi: thở nhanh từ 40 l/p; SpO₂ < 90% (QĐ 3312, WHO Pocket book) hoặc < 92% (QĐ 708) là viêm phổi nặng. Amoxicillin ≈ 80 mg/kg/ngày chia 2 × 5 ngày (QĐ 3312, WHO 2024, AWaRe 2022) hoặc 45 mg/kg/ngày chia 3 (QĐ 708).",
+  "Truyền máu: Hb ≤ 40 g/L hoặc nhiễm khuẩn nặng cần nâng nhanh, suy tim (QĐ 3312); Hb ≤ 4 g/dL, hoặc 4–6 kèm suy tim… (WHO Pocket book); duy trì Hb ≥ 80 g/L (QĐ 1832)."
+ ],
+ "nguon": [
+  "QĐ 3312/2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiếp cận chẩn đoán thiếu máu (tr. 534–537), Thiếu máu thiếu sắt (mục 1–6, tr. 539–542), Thalassemia (mục 2, tr. 543–545), Viêm phổi do vi khuẩn ở trẻ em (tr. 262–265), Nhiễm ký sinh trùng đường ruột mục 3.1a, 3.1c (tr. 335–337)",
+  "QĐ 1832/2022 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh lý huyết học – kho cũ tltk-10000-ca – ĐÃ ĐỌC: Thiếu máu mục 4.1 (tr. 13), Thiếu máu thiếu sắt (mục 3.2, 4.1, 4.3, 5.1–5.3, tr. 17–19), Phụ lục sàng lọc thalassemia (tr. 31)",
+  "QĐ 708/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: viêm phổi cộng đồng ở trẻ em mục 3, 4, 5.1–5.3 (tr. 100–106), Phụ lục 1 khuyến cáo 5.1–5.12 (tr. 312–314)",
+  "QĐ 101/QĐ-KCB 2014 – Bộ Y tế, Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – theo sổ mâu thuẫn: mục VII.1.2 (khám lại sau 3 ngày)",
+  "QĐ 2341/2024 – Bộ Y tế, Hướng dẫn xử trí lồng ghép bệnh trẻ em (IMCI) – kho cũ tltk-10000-ca – ĐÃ ĐỌC: Phụ lục 4, Bảng kiểm 1 mục 10",
+  "QĐ 4487/QĐ-BYT 2016 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị bệnh suy dinh dưỡng cấp tính ở trẻ em từ 0 đến 72 tháng tuổi – TL-0240 – ĐÃ ĐỌC: mục II",
+  "WHO 2024 – Guideline on haemoglobin cutoffs to define anaemia – TL-0244 – ĐÃ ĐỌC: Bảng 2, 3 (24–59 tháng)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Bảng 1 khuyến cáo 1, 2a, 3; Remarks (tr. 4–8)",
+  "WHO 2023 – Guideline on the prevention and management of wasting and nutritional oedema – TL-0246 – ĐÃ ĐỌC: mục 1.2.2",
+  "WHO 2016 – Daily iron supplementation in infants and children – TL-0249 – ĐÃ ĐỌC: tr. 6 (vùng sốt rét lưu hành)",
+  "WHO Pocket book of hospital care for children 2013 – TL-0250 – ĐÃ ĐỌC: mục 4.2.1, Bảng 7 (tr. 80–82), mục 10.5–10.7 (tr. 307–308, 312–313), bảng A5.2.3 cân nặng theo chiều cao nam 2–5 tuổi",
+  "WHO AWaRe antibiotic book 2022 – TL-0018 – ĐÃ ĐỌC: Bảng 12.5 (tr. 160), Viêm họng (tr. 49, liều paracetamol)"
+ ],
+ "ghi_chu_bien_tap": [
+  "19/11/2026: viết ca bản 1 (thiếu máu thiếu sắt + viêm phổi ở bé 3 tuổi, 2 lượt, ở xa, không X-quang). Chẩn đoán đích không đổi; viêm phổi là chẩn đoán thứ hai (bẫy hai chẩn đoán cùng lúc). Tài liệu đã đọc: xem trường nguon.",
+  "Không có trong tài liệu đã tải: ngưỡng ferritin khi đang nhiễm trùng; độ nhạy soi phân với giun móc; thời điểm làm lại điện di Hb sau bù sắt; số lần chia sắt trong ngày; lượng sữa bò tối đa mỗi ngày; mẫu giấy chuyển tuyến, bàn giao; nguyên nhân viêm phổi thất bại amoxicillin; tỷ lệ HIV địa phương; ngưỡng CRP ở trẻ.",
+  "Mâu thuẫn dùng theo sổ: ngưỡng Hb 24–59 tháng (NH-0929), ngưỡng ferritin, liều và thời gian sắt, ngưỡng truyền khối hồng cầu (NH-1243, NH-1255, NH-1237), liều amoxicillin trẻ 2–59 tháng, 3 hay 5 ngày, hẹn khám lại 2 hay 3 ngày, SpO₂ < 90% hay < 92%, CRP trong viêm phổi (NH-0619). Mục mới đề xuất: sắt tĩnh mạch khi đang nhiễm trùng (QĐ 1832 mục 5.1 so với QĐ 3312 mục 4.2).",
+  "Thiết kế của ca (không từ tài liệu): nhà cách 40 km, bệnh viện tỉnh cách 110 km, phòng khám có bình oxy và siêu âm phổi tại giường, vùng không sốt rét, bé uống sữa hộp ≈ 700 mL/ngày; số liệu CTM, ferritin, siêu âm là mô phỏng nhất quán. Âm thanh: AT-TIM-NHANH-01, AT-PHOI-RAN-NO-01, AT-PHOI-BT-NL-01, AT-PHOI-PQ-01. Không có ảnh da."
+ ]
+}
