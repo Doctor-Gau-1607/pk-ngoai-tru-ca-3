@@ -1,0 +1,731 @@
+{
+ "ma_ca": "NH-0939",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_hen_phe_quan_tre_em_the_ho_hoc_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Hen phế quản trẻ em",
+  "chan_doan_phai_loai_tru": [
+   "Viêm tiểu phế quản",
+   "Dị vật đường thở"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hen"
+ },
+ "benh_nhan": {
+  "ten": "Trần Bảo Châu",
+  "tuoi": 10,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 5",
+  "can_nang": 30,
+  "chieu_cao": 138,
+  "xung_ho": "Bé 10 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ là chị Lụa, 36 tuổi, bán rau ở chợ: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Bé Châu nhút nhát, trả lời ngắn, sợ bạn trêu là 'yếu' nên giấu chuyện tức ngực khi chạy; nói nhiều hơn khi được hỏi riêng, nhẹ nhàng. Chị Lụa bán rau theo ngày, nói nhanh, thực tế, hay hỏi giá từng việc, hay tự mua thuốc ở nhà thuốc quen; thương con nhưng sợ tốn tiền.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mẹ chỉ mang 150.000 đồng, hỏi giá từng xét nghiệm và xin làm ít nhất; lần trước bỏ tái khám vì mất buổi chợ và tiền. Mẹ không coi thuốc nhỏ mũi là 'thuốc': hỏi chung 'bé dùng thuốc gì' thì nói 'chỉ có thuốc xịt với siro ho', chỉ kể khi bác sĩ hỏi cụ thể có nhỏ hoặc xịt mũi không. Lượt 2 mẹ nói 'xịt đều ạ' và chỉ thừa nhận hay bỏ liều tối khi được hỏi số ngày mỗi tuần hoặc xem bộ đếm liều trên bình.",
+  "nguoi_nha": "Mẹ bé, chị Lụa, 36 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng hoặc hỏi riêng bé (vd 'Châu chạy thì thấy sao?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Lụa)",
+  "ngoai_hinh": {
+   "da": "#e9bd98",
+   "toc": "#17110d",
+   "kieuToc": "tre",
+   "ao": "#7fb8d9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#dcab84",
+    "toc": "#2a1c15",
+    "kieuToc": "dai",
+    "ao": "#b98a9c",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn: bé ho đêm kéo dài, nặng hơn từ chuyến xe về quê",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám nhi tuyến huyện có xét nghiệm cơ bản, X-quang ngực, lưu lượng kế (PEF), hô hấp ký, buồng đệm, bình xịt salbutamol và corticoid hít. Không có máy siêu âm (không làm siêu âm phổi, bụng, tim)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – tái khám hẹn, ho đêm 3 tháng",
+   "tiep_don": "Bé gái 10 tuổi, 30 kg, mẹ đưa đến tái khám theo hẹn của một phòng khám tư gần nhà cách đây 5 tuần ('nghi hen, tái khám sau 2 tuần' nhưng mẹ chưa đưa đi được). Mẹ nói bé ho đêm nhiều hơn từ chuyến xe khách về quê. Mẹ mang theo 150.000 đồng. Sinh hiệu: nhiệt 36,8 °C, mạch 92 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, nhanh nhẹn, nói chuyện bình thường.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Châu vì ho 3 tháng: bé tỉnh, nói trọn câu, SpO₂ 98%, PEF tăng rõ sau salbutamol, không có dấu hiệu nào của chỉ định nhập viện (co kéo lồng ngực, rướn người, ngừng chơi, môi tím; QĐ 3312/2015, Hen mục 4.4, tr. 692). Chị Lụa bán rau theo ngày sẽ mất thêm các buổi chợ và viện phí (mức phí: không có trong tài liệu đã tải), trong khi bé cần thuốc kiểm soát có corticoid hít và buổi dạy dùng bình xịt, làm được ngoại trú. Chi phí và sự tuân thủ chính là yếu tố làm hỏng điều trị hen (QĐ 3312, Hen mục 4.6, tr. 692); trải nghiệm tốn kém khiến mẹ ngại quay lại.",
+    "chuyen_tuyen": "Chuyển Châu lên tuyến trên vì ho 'không điển hình': QĐ 3312 (Hen mục 4.5, tr. 692) có liệt kê dấu hiệu không điển hình trong các lý do chuyển chuyên khoa, nhưng nét lệch chuẩn ở bé chỉ là ho nổi trội, một kiểu hen đã được mô tả (GINA 2026, tr. 36), và PEF đã cho thấy tắc nghẽn hồi phục; bé chưa dùng thuốc kiểm soát ngày nào. Chuyến đi tốn tiền xe, mất ngày chợ, rồi nhiều khả năng quay về với đúng đơn corticoid hít mà phòng khám này kê được; gia đình ngại chi phí càng dễ bỏ tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, lần trước bác sĩ ở phòng khám gần nhà nói con em nghi hen rồi dặn tái khám mà em chưa đưa đi được. Mấy đêm nay bé ho dữ lắm, mới đi xe khách ở quê về. Em chỉ mang được một trăm rưỡi thôi, bác sĩ làm giúp em cái nào cần nhất nha.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé ho khan, húng hắng ban đêm khoảng 3 tháng nay, 3–4 đêm mỗi tuần phải thức giấc vì ho (thường lúc 2–4 giờ sáng); hai đêm gần đây ho nhiều hơn sau chuyến xe khách về quê. Lần trước bác sĩ phòng khám tư nói nghi hen, cho siro ho và bình xịt salbutamol, hẹn tái khám sau 2 tuần nhưng mẹ không đưa đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian, nhịp ho đêm"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan, không đờm, không sốt, không ho ra máu. Ban ngày hay đằng hắng, ngứa họng. Ho tăng khi cười nhiều, chạy nhảy, nhất là ngay sau khi vừa ngừng chạy; nghỉ vài phút thì đỡ. Không ho từng cơn rũ, không nôn sau ho. Mỗi lần cảm bé ho kéo dài 2–3 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm ho: khan, về đêm, liên quan gắng sức, nặng thêm khi nhiễm virus"
+    },
+    {
+     "id": "tuc_nguc",
+     "noi_dung": "Từ đầu năm học, bé chạy khoảng 2–3 phút là tức ngực, thở không sâu được, phải dừng (hầu như mỗi buổi chạy chơi hoặc thể dục, khoảng 3–4 buổi/tuần); bé thôi chơi đá cầu, đuổi bắt, nói với cô là 'mệt', bị bạn trêu là 'yếu'. Bé không nghe thấy tiếng khè.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không kể. Bé chỉ nói khi được hỏi riêng bé, nhẹ nhàng, về giờ thể dục hoặc chạy chơi ở trường.",
+     "k": 1,
+     "y": "Tức ngực và hạn chế vận động khi gắng sức"
+    },
+    {
+     "id": "khong_khe",
+     "noi_dung": "Mẹ chưa bao giờ nghe bé khò khè hay thở rít, bé không khó thở lúc nằm nghỉ, ngủ không phải kê cao gối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không khò khè, không khó thở khi nghỉ (nét không điển hình)"
+    },
+    {
+     "id": "mui",
+     "noi_dung": "Bé nghẹt mũi hầu như mỗi tối, ngứa mũi, hắt hơi nhiều buổi sáng; sáng nào cũng đằng hắng như 'có gì chảy xuống họng'. Không đau vùng mặt, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng mũi (ho do chảy dịch mũi sau, viêm mũi dị ứng)"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Khoảng 3 tháng nay mẹ tự mua naphazolin 0,05% ở nhà thuốc, nhỏ cho bé mỗi tối trước ngủ và thêm 1–2 lần ban ngày khi nghẹt. Nhỏ vào thì thông ngay, ngừng thì nghẹt nặng hơn nên mẹ nhỏ tiếp. Mẹ không coi đó là 'thuốc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé dùng thuốc gì' mẹ chỉ nói 'thuốc xịt với siro ho của bác sĩ'. Chỉ kể khi bác sĩ hỏi cụ thể có nhỏ hoặc xịt thuốc vào mũi không.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch kéo dài"
+    },
+    {
+     "id": "binh_xit",
+     "noi_dung": "Mẹ cho bé xịt salbutamol 2 nhát liền thẳng vào miệng, không buồng đệm, chỉ khi ho dữ hoặc tức ngực, khoảng 3 lần/tuần; xịt xong đỡ khoảng 3–4 giờ. Siro ho uống 2 tuần không đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc cắt cơn đang dùng, đáp ứng với giãn phế quản"
+    },
+    {
+     "id": "co_dia",
+     "noi_dung": "Hồi 2–3 tuổi bé bị chàm khô ở nếp khuỷu, bôi thuốc thì khỏi. Mẹ bị viêm mũi dị ứng. Ba hút thuốc, có hút trong nhà vào buổi tối. Không ai bị hen. Nhà có chiếu, nệm bông, không nuôi thú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơ địa dị ứng, khói thuốc lá"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hai ngày trước bé ngồi xe khách khoảng 11 giờ từ quê ngoại về: xe đóng kín, máy lạnh, mùi xăng và nước hoa. Đêm trên xe bé ho nhiều; về nhà hai đêm liền thức giấc vì ho. Ở quê 8 ngày, ho vẫn như trước khi đi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố khởi phát: đi xe đường dài (làm ho nặng thêm, không phải nguyên nhân)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không sốt, không sụt cân, không ra mồ hôi đêm. Không ai trong nhà ho kéo dài hay bị lao. Bé không ợ chua, không trớ, không đau thượng vị; ho không liên quan bữa ăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lao, trào ngược dạ dày thực quản"
+    },
+    {
+     "id": "xam_nhap",
+     "noi_dung": "Ho không bắt đầu đột ngột. Chưa lần nào bé bị sặc, hóc hạt, kẹo, đồ chơi, ho sặc sụa hay tím tái.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có hội chứng xâm nhập (dị vật đường thở)"
+    },
+    {
+     "id": "kinh_te",
+     "noi_dung": "Mẹ bán rau ở chợ, thu nhập theo ngày. Hôm nay mẹ nghỉ buổi chợ để đưa bé đi, chỉ mang 150.000 đồng, xin bác sĩ nói rõ cái nào cần làm. Lần trước không đưa bé tái khám vì tiền và mất buổi chợ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Hoàn cảnh kinh tế (xếp ưu tiên xét nghiệm)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, nhanh nhẹn, hồng hào, không tím, không ngón tay dùi trống. Cân nặng 30 kg, cao 138 cm, tăng trưởng không chậm.",
+     "k": 0
+    },
+    "da": {
+     "a": "Vài mảng da khô, ráp nhẹ ở nếp khuỷu hai tay (dấu vết chàm cũ). Không ban đỏ, không xước.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc cuốn mũi dưới hai bên đỏ sẫm, phù bóng, ít dịch trong; không polyp, không mủ. Thành sau họng có nhiều hạt lympho nhỏ và vệt nhầy trong chảy xuống. Họng không đỏ, amidan không to, không giả mạc. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ to. Ấn vùng xoang trán và xoang hàm không đau.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, lồng ngực cân đối, không co kéo cơ hô hấp. Rì rào phế nang rõ, đều hai bên, thì thở ra không kéo dài; không ran rít, ran ngáy, ran ẩm, ran nổ, kể cả khi bảo bé thở ra gắng sức. Gõ trong, hai bên như nhau.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, đều hai bên, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, đều hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "e",
+     "r": "PEF (cao nhất trong 3 lần thổi): trước xịt 230 L/phút; 15 phút sau 4 nhát salbutamol qua buồng đệm 280 L/phút, tăng 22%.",
+     "n": "Nên làm: rẻ (30.000 đồng) và đổi được quyết định. PEF tăng ≥ 15% sau giãn phế quản ở trẻ em là dương tính (GINA 2026 Box 1-2, tr. 28; dùng cùng lưu lượng kế, lấy giá trị cao nhất trong 3 lần). Hen thể ho thường có hô hấp ký bình thường nên kết quả dương tính ở ca này là điều may, không phải điều luôn có (GINA tr. 36). PEF dự đoán theo chiều cao: không có trong tài liệu đã tải."
+    },
+    "ho_hap_ky": {
+     "v": "a",
+     "r": "FEV1 trước 1,32 L (76% dự đoán 1,74 L); sau test hồi phục phế quản 1,55 L (tăng 0,23 L, +17% so với nền, +13% giá trị dự đoán).",
+     "n": "Chấp nhận, không bắt buộc: 250.000 đồng vượt số tiền mang và PEF đã dương tính. Kết quả thỏa cả ba tiêu chuẩn: FEV1 tăng ≥ 12% dự đoán ở trẻ (GINA 2026 Box 1-2, tr. 28), ≥ 12% so với nền hoặc ≥ 10% dự đoán (NICE NG245 1.2.6), ≥ 12% hay 200 ml (QĐ 3312/2015, Hen mục 3, tr. 687). Nên làm lúc 3–6 tháng để ghi mức tốt nhất cá nhân (GINA Box 2-2B, tr. 41)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Tim phổi bình thường",
+     "n": "Không cần hôm nay (100.000 đồng): không sốt, không hội chứng xâm nhập, phổi hai bên như nhau. X-quang trong hen thường bình thường ở giai đoạn đầu (QĐ 3312, Cơn hen cấp, tr. 695), chỉ giúp loại trừ dị vật (Hen mục 2.4, tr. 686) mà dị vật mới thì ít giá trị (Dị vật mục 3.3, tr. 280); GINA 2026 (tr. 185, bàn về đợt cấp) không chụp thường quy ở trẻ trừ khi có dấu hiệu khu trú. Chụp nếu ho không đổi sau 2–3 tháng điều trị đúng."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,4 G/L · Hb 128 g/L · TC 310 G/L · Bạch cầu ái toan 6%",
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 51,
+      "neu": 4.28,
+      "lym_pct": 36,
+      "lym": 3.02,
+      "mono_pct": 6.5,
+      "mono": 0.55,
+      "eos_pct": 6,
+      "eos": 0.5,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "hgb": 128,
+      "plt": 310
+     },
+     "n": "Không cần hôm nay (50.000 đồng): không đổi xử trí. Bạch cầu ái toan ≥ 4% chỉ là tiêu chuẩn phụ về nguy cơ hen (QĐ 3312, Hen mục 1, tr. 686) và cũng tăng trong viêm mũi dị ứng (GINA tr. 35). IgE toàn phần (150.000 đồng) và test lẩy da (400.000 đồng) cũng không cần: GINA tr. 34 nói cơ địa dị ứng không đặc hiệu cho hen."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hen phế quản trẻ em thể ho (ho là triệu chứng chủ yếu), chưa được kiểm soát, ở bé 10 tuổi có cơ địa dị ứng; chưa có dấu hiệu nặng",
+     "ok": 1,
+     "n": "Ho khan về đêm, khi gắng sức và nặng thêm ngay sau gắng sức, tức ngực khi chạy, nặng thêm khi nhiễm virus: triệu chứng biến thiên của hen (GINA 2026 Box 1-2, tr. 28); ho có thể là triệu chứng duy nhất hoặc nổi trội (tr. 26, 36). PEF tăng 22% sau salbutamol (trẻ em ≥ 15%). Cơ địa: chàm cũ, mẹ viêm mũi dị ứng, khói thuốc (QĐ 3312/2015, Hen mục 1, tr. 685–686). Phổi không ran không loại trừ hen (NICE NG245 1.1.4). Chưa kiểm soát: thức giấc đêm, hạn chế vận động, triệu chứng ban ngày khi gắng sức > 2 lần/tuần và dùng salbutamol > 2 lần/tuần = 3–4 trong 4 mục (GINA Box 2-2A, tr. 41)."
+    },
+    {
+     "t": "Viêm mũi do lạm dụng thuốc nhỏ mũi co mạch, chồng trên viêm mũi dị ứng nghi ngờ (đồng bệnh góp phần gây ho và nghẹt mũi đêm)",
+     "ok": 1,
+     "n": "Niêm mạc mũi đỏ sẫm, phù, dùng naphazolin 3 tháng; dùng kéo dài làm bệnh nặng hơn (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1, tr. 112); ARIA–EAACI 2025: co mạch dùng dài liên quan viêm mũi do thuốc (mục 5.1.4), tránh ở trẻ < 12 tuổi (mục 5.2.2). Viêm mũi dị ứng liên quan hen ở trẻ (QĐ 5643, Viêm mũi xoang trẻ em, tr. 81)."
+    },
+    {
+     "t": "Ho do chảy dịch mũi sau hoặc trào ngược dạ dày thực quản là nguyên nhân duy nhất",
+     "ok": 0,
+     "n": "Có góp phần (mũi) hoặc không có dấu hiệu (không ợ chua, trớ, đau thượng vị), nhưng một mình không giải thích ho sau gắng sức, tức ngực khi chạy và PEF tăng 22% (GINA Box 1-3, tr. 30; Box 2-3, tr. 44: ho đêm đơn độc thì nghĩ thêm viêm mũi, trào ngược; QĐ 3312 Hen mục 2.3, tr. 686). Xử trí song song viêm mũi."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "ok": 0,
+     "n": "Bệnh của trẻ còn bú, nguy cơ cao dưới 6 tháng (QĐ 3312, Viêm tiểu phế quản mục 1.2, tr. 275); NICE NG9 2021 (1.1.1): dưới 2 tuổi; AAP 2014: 1–23 tháng. Bé 10 tuổi, ho 3 tháng, không sốt, không thở nhanh, phổi không ran: không phù hợp; ở trẻ lớn bệnh cảnh tái diễn có đáp ứng giãn phế quản là hen (QĐ 3312, mục 3.3, tr. 276)."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "ok": 0,
+     "n": "Không hội chứng xâm nhập (QĐ 3312, Dị vật mục 3.1, tr. 279); dị vật phế quản gây tiếng rít và giảm thông khí một bên (mục 3.2, 4.1, tr. 280), phổi bé hai bên như nhau; GINA Box 1-3: khởi phát đột ngột, khò khè một bên. Ho gắng sức, về đêm, đáp ứng salbutamol hợp với hen. Không dấu hiệu khu trú nên chưa cần X-quang."
+    },
+    {
+     "t": "Lao hoặc ho gà",
+     "ok": 0,
+     "n": "Không sốt, sụt cân, mồ hôi đêm, tiếp xúc lao; không ho cơn rũ, không nôn sau ho; tiêm chủng theo chương trình. Tiêu chuẩn chẩn đoán lao, ho gà ở trẻ: không có trong tài liệu đã tải cho ca này. Ho không đổi sau 2–3 tháng điều trị hen đúng thì xét lại (QĐ 3312, Hen mục 4.6, tr. 693)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xếp ưu tiên xét nghiệm theo 150.000 đồng: chỉ đo PEF trước và sau salbutamol; hoãn hô hấp ký; bỏ X-quang ngực, công thức máu, IgE, test lẩy da; nói rõ lý do cho mẹ",
+     "v": "c",
+     "n": "Chỉ PEF đổi được quyết định (GINA 2026 Box 1-2, tr. 28); các xét nghiệm khác không cần cho chẩn đoán hen (QĐ 3312/2015, Hen mục 2.4, tr. 686) và không đổi thuốc hôm nay. Cách xếp theo ngân sách là thiết kế của người viết."
+    },
+    {
+     "t": "Ghi hồ sơ chẩn đoán hen thể ho kèm căn cứ (bệnh sử biến thiên, PEF +22%, cơ địa, đã loại trừ nguyên nhân khác), rồi khởi thuốc kiểm soát có corticoid hít ngay hôm nay",
+     "v": "c",
+     "n": "NICE NG245 (1.1.2–1.1.3): chỉ khẳng định hen khi có bệnh sử gợi ý và xét nghiệm khách quan, ghi căn cứ vào hồ sơ; GINA 2026 (tr. 26): sau khi dùng ICS rất khó xác nhận chẩn đoán."
+    },
+    {
+     "t": "Thuốc kiểm soát: bậc 3 theo GINA/QĐ 3312 (ICS liều trung bình, hoặc ICS-LABA liều thấp, hoặc MART budesonid–formoterol liều thấp) HOẶC ICS liều thấp 2 lần/ngày theo NICE, cộng salbutamol khi cần",
+     "v": "c",
+     "n": "GINA 2026 Box 4-10 (tr. 102): triệu chứng hầu hết các ngày hoặc thức giấc ≥ 1 lần/tuần → ICS-LABA liều thấp, ICS liều trung bình hoặc MART; QĐ 3312 (Hen mục 4.3, bảng tr. 691): thức giấc đêm ≥ 1 lần/tuần → ICS liều trung bình hoặc ICS/LABA liều thấp. NICE NG245 (1.8.1): trẻ 5–11 tuổi mới chẩn đoán → ICS liều thấp 2 lần/ngày + SABA khi cần. Hai mức khởi đầu khác nhau, cả hai đúng (sổ mâu thuẫn, mục NH-0963): GINA 2026 ưu tiên ICS-formoterol (CARE, Lancet 2025: RR 0,55), NICE 2024 khởi bậc thấp. Giá và sẵn có ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Salbutamol chỉ khi có triệu chứng hoặc trước khi vận động mạnh, qua buồng đệm; không dùng đều đặn; không bao giờ chỉ kê salbutamol",
+     "v": "c",
+     "n": "QĐ 3312 (Hen mục 4.3, tr. 690): SABA phòng co thắt do gắng sức; GINA 2026 (tr. 106) và NICE NG245 (1.6.3): không dùng SABA đơn độc."
+    },
+    {
+     "t": "Dạy lại bình xịt: lắc bình trước mỗi nhát, xịt từng nhát một vào buồng đệm, hít chậm rồi nín thở, súc miệng sau ICS; cho bé làm lại trước mặt bác sĩ; nếu không mua được buồng đệm thì dùng chai nhựa nước uống",
+     "v": "c",
+     "n": "GINA 2026 Box 5-2 (tr. 119): xem bé thao tác, sửa bằng làm mẫu, lắc mọi pMDI trước mỗi nhát; tr. 133: buồng đệm làm từ chai nhựa nước uống; WHO 2013 (mục 4.5.2, tr. 98–99); NICE NG245 (1.6.5, 1.6.7)."
+    },
+    {
+     "t": "Ngưng hẳn thuốc nhỏ mũi co mạch (báo trước nghẹt mũi có thể nặng hơn vài ngày); rửa mũi nước muối sinh lý đều đặn",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang cấp tính mục 4.2.1, tr. 112): co mạch chỉ ngắn ngày (ví dụ 3 ngày), dùng kéo dài làm bệnh nặng hơn; rửa mũi nước muối thường xuyên. ARIA–EAACI 2025 (mục 5.2.2): tránh ở trẻ < 12 tuổi. Thời gian nghẹt dội ngược: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm tiếp xúc: ba không hút thuốc trong nhà và xe; hạn chế khói, mùi nồng; ra khỏi nơi nhiều khói; không bỏ vận động thể lực",
+     "v": "c",
+     "n": "GINA 2026 (tr. 65): khói thuốc thụ động làm tăng nhập viện, giảm khói cải thiện kiểm soát ở trẻ; QĐ 3312 (Hen mục 1, tr. 685)."
+    },
+    {
+     "t": "Báo cô giáo bé bị hen; cho bé mang bình xịt đi học; kế hoạch cho từng bệnh nhân",
+     "v": "c",
+     "n": "QĐ 3312 (Hen mục 4.6, tr. 692–693): trao đổi với thầy cô, kế hoạch riêng, cho phép mang SABA."
+    },
+    {
+     "t": "Hẹn khám lại sau 4 tuần (mang theo bình xịt, bộ đếm liều, buồng đệm), đánh giá đáp ứng đầy đủ sau 2–3 tháng; đến ngay nếu nói ngắt quãng, rút lõm ngực, rướn người, ngừng chơi, môi tím, xịt không đỡ hoặc đỡ ngắn dần",
+     "v": "c",
+     "n": "GINA 2026 (tr. 110): khám 1–3 tháng sau khi bắt đầu; Box 4-10: đánh giá sau 2–3 tháng; Box 1-2: tăng chức năng phổi sau 4 tuần ICS hỗ trợ chẩn đoán; NICE (1.6.4): 8–12 tuần. Mốc 4 tuần là lựa chọn của người viết để kiểm tra kỹ thuật và tuân thủ (lỗi tái phát sau 4–6 tuần, GINA tr. 119). Dấu hiệu nhập viện: QĐ 3312 (Hen mục 4.4, tr. 692)."
+    },
+    {
+     "t": "Chỉ cho salbutamol, không thuốc kiểm soát (tiếp tục như đơn cũ)",
+     "v": "w",
+     "n": "GINA 2026 (tr. 106); NICE NG245 (1.6.3); QĐ 3312 (Hen mục 4.3, tr. 691)."
+    },
+    {
+     "t": "Kê kháng sinh, siro ho hoặc thuốc long đờm vì ho 3 tháng",
+     "v": "w",
+     "n": "Không sốt, không đờm mủ; siro ho 2 tuần không đỡ. WHO 2013 (mục 4.4, tr. 90–91): không dùng thuốc ho, long đờm; GINA 2026 (tr. 182): không dùng kháng sinh khi không có bằng chứng nhiễm trùng phổi (bàn về đợt cấp)."
+    },
+    {
+     "t": "Cho nhập viện hoặc chuyển bệnh viện nhi ngay hôm nay",
+     "v": "w",
+     "n": "Không có dấu hiệu nhập viện (QĐ 3312, Hen mục 4.4, tr. 692); chuyển chuyên khoa khi không kiểm soát sau 3–6 tháng (mục 4.5, tr. 692)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hen phế quản trẻ em thể ho, chưa kiểm soát (thức giấc vì ho 3–4 đêm/tuần, hạn chế vận động, salbutamol khoảng 3 lần/tuần), chưa có dấu hiệu nặng",
+     "Căn cứ: bệnh sử biến thiên (đêm, gắng sức, sau gắng sức), cơ địa dị ứng, PEF tăng 22% sau salbutamol",
+     "Đồng bệnh: viêm mũi do thuốc nhỏ mũi co mạch 3 tháng, chồng trên viêm mũi dị ứng nghi ngờ; yếu tố làm nặng: khói thuốc lá, chuyến xe đóng kín",
+     "Đã loại trừ: viêm tiểu phế quản, dị vật đường thở; ít nghĩ lao, ho gà, trào ngược"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ho khan 3 tháng nặng về đêm và sau gắng sức, tức ngực khi chạy, cảm thì ho 2–3 tuần, chàm cũ, mẹ viêm mũi dị ứng, ba hút thuốc: triệu chứng biến thiên của hen (GINA 2026 Box 1-2, tr. 28). Mẹ chỉ thấy ho đêm; hỏi thêm mới ra ho khi gắng sức, khi cười (tr. 36). Bé giấu tức ngực vì sợ bị trêu nên phải hỏi riêng bé.",
+     "Khám: phổi sạch là thường gặp và không loại trừ hen (NICE NG245 1.1.4). Mũi đỏ phù cộng thuốc nhỏ mũi 3 tháng là viêm mũi do thuốc; ho do mũi một mình không giải thích tức ngực gắng sức và đáp ứng PEF (GINA Box 1-3, tr. 30; Box 2-3, tr. 44).",
+     "Cận lâm sàng theo tiền: PEF trước–sau salbutamol +22% (≥ 15% ở trẻ, GINA Box 1-2); hô hấp ký đắt gấp 8 lần và không đổi quyết định hôm nay. NICE NG245 (1.2.5–1.2.7) ưu tiên FeNO rồi hô hấp ký hoặc PEF 2 tuần; FeNO không có ở đây.",
+     "Loại trừ: viêm tiểu phế quản không hợp tuổi (QĐ 3312 tr. 275; NICE NG9 1.1.1); dị vật không có hội chứng xâm nhập, phổi hai bên như nhau (QĐ 3312, Dị vật tr. 279–280). Chưa kiểm soát: 3–4 trong 4 mục của GINA Box 2-2A (tr. 41): triệu chứng ban ngày khi gắng sức, thức giấc đêm, salbutamol > 2 lần/tuần, hạn chế vận động.",
+     "Nét không điển hình suýt làm bỏ qua: không khò khè, phổi sạch, ho 'giống ho do mũi', bé giấu tức ngực, thuốc nhỏ mũi che khuôn mẫu; hen thể ho đã được GINA mô tả (tr. 26, 36). QĐ 3312 (Hen mục 4.5) xếp dấu hiệu không điển hình vào lý do chuyển chuyên khoa, nhưng ở đây chẩn đoán đã xác nhận khách quan bằng PEF nên xử trí tại chỗ."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn khám lại: không có dấu hiệu nhập viện (QĐ 3312, Hen mục 4.4, tr. 692). Ngân sách 150.000 đồng: PEF 30.000 đồng, phần còn lại dành cho thuốc; xét nghiệm khác chỉ làm khi đổi quyết định.",
+     "Khởi ICS ngay vì sau khi dùng rất khó xác nhận chẩn đoán (GINA tr. 26); GINA/QĐ 3312 khởi bậc cao hơn, NICE khởi ICS liều thấp, cả hai đúng (sổ mâu thuẫn, mục NH-0963). Salbutamol chỉ khi cần.",
+     "Ngưng thuốc nhỏ mũi (QĐ 5643 tr. 112; ARIA–EAACI 2025 mục 5.2.2), báo trước nghẹt dội ngược. Kỹ thuật bình xịt là trọng tâm: xịt thẳng vào miệng thì ICS gần như không vào phổi (GINA Box 5-2, tr. 119); buồng đệm chai nhựa là cách rẻ (tr. 133). Tái khám 4 tuần, đánh giá đủ sau 2–3 tháng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cách B (NICE): fluticason propionat bình xịt định liều 50 mcg/nhát (ICS liều thấp)",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát × 2 lần/ngày (100 mcg/ngày)",
+      "duong": "Xịt qua buồng đệm, lắc bình trước khi xịt, hít chậm rồi nín thở; súc miệng nhổ sau mỗi lần",
+      "thoi_diem": "Sáng và tối, hằng ngày kể cả khi hết ho",
+      "so_ngay": "Ít nhất 2–3 tháng rồi đánh giá; không tự ngưng",
+      "ghi_chu": "ICS liều thấp ở trẻ 6–11 tuổi: fluticason propionat 50–100 mcg/ngày, budesonid 100–200 mcg/ngày (GINA 2026 Box 4-2, tr. 77); 2 lần/ngày: NICE NG245 1.8.1. GINA/QĐ 3312 dùng liều trung bình (fluticason > 100–200 mcg/ngày) hoặc ICS-LABA liều thấp. Buồng đệm: thương mại hoặc chai nhựa nước uống (GINA 2026 Box 5-2, tr. 119; tr. 133; WHO 2013 tr. 98–99)."
+     },
+     {
+      "thuoc": "Cách A (GINA): budesonid–formoterol 80/4,5 mcg (100/6 mcg liều đo), MART liều thấp, nếu có",
+      "ham_luong": "80/4,5 mcg mỗi nhát hít",
+      "lieu": "Bậc 3: 1 nhát × 1 lần/ngày cộng 1 nhát mỗi khi có triệu chứng; đi khám nếu > 8 nhát/24 giờ",
+      "duong": "Hít (DPI hoặc pMDI qua buồng đệm)",
+      "thoi_diem": "Duy trì buổi sáng hoặc tối; thêm khi triệu chứng hoặc trước khi chạy",
+      "so_ngay": "Đánh giá lại sau 2–3 tháng",
+      "ghi_chu": "GINA 2026 Box 4-8B (tr. 91), Box 4-10 (tr. 102); dùng MART thì không cần thêm salbutamol. NICE NG245 1.8.2: MART khi chưa kiểm soát; ghi chú 11/2025: chỉ một DPI budesonid–formoterol 100/6 được cấp phép MART ở trẻ 6–11 tuổi. Sẵn có và giá ở Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Salbutamol bình xịt định liều 100 mcg/nhát (dùng tiếp bình cũ)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát (từng nhát một) khi có ho đêm, tức ngực, hoặc trước khi vận động mạnh",
+      "duong": "Xịt qua buồng đệm, thở bình thường 3–5 nhịp sau mỗi nhát",
+      "thoi_diem": "Chỉ khi có triệu chứng, không dùng đều đặn",
+      "so_ngay": "Theo nhu cầu; xịt nhiều hơn hoặc đỡ ngắn dần thì tái khám sớm",
+      "ghi_chu": "QĐ 3312 Hen mục 4.3 (tr. 690), 4.6 (tr. 693); GINA Box 9-4 (tr. 181). Số nhát tối đa mỗi ngày tại nhà: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi đều đặn; gợi ý 2–3 lần/ngày, nhất là trước khi ngủ (số lần: lựa chọn của người viết)",
+      "duong": "Rửa hoặc nhỏ mũi",
+      "thoi_diem": "Sáng, tối và khi nghẹt",
+      "so_ngay": "Đến khi mũi ổn định (ít nhất 2–4 tuần)",
+      "ghi_chu": "QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1 (tr. 112): rửa mũi thường xuyên bằng nước muối sinh lý; thay thuốc co mạch đã ngưng."
+     }
+    ],
+    "dan_do": [
+     "Châu bị hen thể ho: ho đêm, ho khi chạy, tức ngực chính là hen, không phải 'yếu' hay 'trúng gió vì ngồi xe'. Hen là bệnh viêm đường thở, có thuốc kiểm soát (QĐ 3312, Hen mục 1).",
+     "Thuốc kiểm soát dùng mỗi ngày kể cả khi hết ho; salbutamol chỉ khi cần. Bình xịt kèm buồng đệm: lắc bình, xịt từng nhát, thở chậm, nín thở, súc miệng. Cho bé thao tác lại trước mặt bác sĩ.",
+     "Ngưng hẳn thuốc nhỏ mũi; mũi nghẹt hơn vài ngày là do thuốc, không phải bệnh nặng thêm. Rửa nước muối. Ngưng siro ho. Ba không hút thuốc trong nhà, trong xe.",
+     "Đến ngay nếu bé nói ngắt quãng, rút lõm ngực, rướn người, ngừng chơi, môi tím, xịt không đỡ hoặc đỡ ngắn dần (QĐ 3312, Hen mục 4.4). Nói với cô giáo; bé được mang bình xịt, tiếp tục chạy chơi.",
+     "Tái khám sau 4 tuần, mang bình xịt và buồng đệm; khó khăn về tiền cứ nói, đừng tự bỏ liều: chi phí và sự đều đặn quyết định kết quả (QĐ 3312, Hen mục 4.6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – tái khám sau 4 tuần dùng thuốc",
+   "tiep_don": "Bé Châu tái khám đúng hẹn sau 4 tuần dùng thuốc theo hướng xử trí lượt 1 (fluticason 50 mcg 1 nhát × 2 lần/ngày qua buồng đệm làm từ chai nhựa, salbutamol khi cần, ngưng thuốc nhỏ mũi). Mẹ nói bé 'đỡ nhiều, gần hết ho', lọ thuốc sắp hết và mẹ muốn xin ngưng. Mẹ mang theo 100.000 đồng. Sinh hiệu: nhiệt 36,7 °C, mạch 88 l/p, nhịp thở 20 l/p, SpO₂ 98%. Bé tỉnh, vui, nói chuyện bình thường.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện Châu vì 'đỡ một phần': bé tỉnh, SpO₂ 98%, phổi sạch, PEF nền 275 L/phút (tăng 20% so với lượt trước), không có dấu hiệu nào của chỉ định nhập viện (QĐ 3312/2015, Hen mục 4.4, tr. 692). Nằm viện không sửa được những điều đang làm bé chưa kiểm soát hết: bỏ gần 4 liều tối mỗi tuần, kỹ thuật xịt qua chai chưa đúng, còn nhỏ thuốc mũi. Chị Lụa mất thêm buổi chợ, tốn viện phí (không có trong tài liệu đã tải) và lần sau càng ngại đưa bé đến; chi phí làm hỏng tuân thủ (QĐ 3312, Hen mục 4.6, tr. 692).",
+    "chuyen_tuyen": "Chuyển Châu đến chuyên khoa hen vì 'chưa hết ho hẳn sau 4 tuần': QĐ 3312 (Hen mục 4.5, tr. 692) chuyển khi không kiểm soát sau 3–6 tháng điều trị; GINA 2026 (tr. 110) cho biết lợi ích đầy đủ có thể chỉ đạt sau 3–4 tháng. Bé mới dùng khoảng 60% liều với kỹ thuật chưa đúng nên chưa gọi là thất bại điều trị. Chuyển tuyến tốn tiền xe, mất ngày chợ, và chuyên khoa cũng sẽ hỏi lại đúng câu hỏi về kỹ thuật và tuân thủ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé khá hơn nhiều rồi, ho đêm gần hết. Thuốc xịt sắp hết, em hỏi bác sĩ ngưng được chưa, mua lọ nữa tốn lắm. Hôm nay em chỉ mang được một trăm nghìn.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau khoảng 4 tuần dùng thuốc xịt, ho đêm đỡ nhiều: còn khoảng 1 đêm mỗi tuần phải thức giấc (trước 3–4 đêm). Ban ngày không ho. Khi chạy ở giờ thể dục vẫn còn tức ngực nhẹ 1–2 lần/tuần. Lọ thuốc sắp hết, mua lọ mới tốn nên mẹ hỏi có ngưng được không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần sau 4 tuần; ý định ngưng thuốc"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Thực tế mẹ cho xịt buổi sáng gần như mỗi ngày, buổi tối hay quên vì bé ngủ sớm: chỉ khoảng 3–4 tối/tuần mới xịt. Bộ đếm liều còn 86 nhát (bình 120 nhát; sau 4 tuần lẽ ra đã dùng 56 nhát, thực tế 34 nhát, khoảng 60%). Mẹ để dành thuốc vì sợ hết sớm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé xịt đều không' mẹ nói 'đều ạ'. Chỉ nói thật khi bác sĩ hỏi cụ thể số ngày mỗi tuần, buổi nào hay quên, hoặc xem bộ đếm liều trên bình, và hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Tuân thủ thuốc kiểm soát (60%)"
+    },
+    {
+     "id": "ky_thuat",
+     "noi_dung": "Mẹ tự cắt chai nước suối nhựa làm buồng đệm. Khi xịt, mẹ không lắc bình; bé hít một hơi nhanh qua miệng chai, không nín thở, thường quên súc miệng. Salbutamol đôi khi xịt thẳng vào miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kỹ thuật dùng bình xịt (cho bé thao tác lại)"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Mẹ đã giảm nhưng chưa bỏ: vẫn nhỏ naphazolin cho bé mỗi tối khi bé nghẹt mũi, khoảng 4–5 tối/tuần, vì sợ bé ngạt khi ngủ. Rửa nước muối mới ngày 1 lần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nhắc khi bác sĩ hỏi cụ thể còn nhỏ thuốc vào mũi không và mỗi tuần mấy tối.",
+     "k": 1,
+     "y": "Còn dùng thuốc nhỏ mũi co mạch"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Ban ngày bé không ho, không khò khè. Dùng salbutamol 2 lần trong tuần qua (một lần sau giờ thể dục, một lần lúc đêm ho). Chơi đuổi bắt được khoảng 5–6 phút rồi tức ngực nhẹ, ngồi nghỉ thì hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức kiểm soát theo 4 câu GINA"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Từ lần dặn trước, ba hút thuốc ngoài hiên, không hút trong nhà; riêng đêm qua có đứng hút ngay ở cửa ra vào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khói thuốc lá thụ động"
+    },
+    {
+     "id": "lop_hoc",
+     "noi_dung": "Tuần này lớp bé có 6 bạn nghỉ vì sốt, ho, sổ mũi (đang vào mùa cảm). Bé chưa sốt, chưa sổ mũi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguy cơ nhiễm virus (yếu tố khởi phát đợt cấp)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mẹ mang theo 100.000 đồng, nói thẳng sẽ ngưng nếu thuốc quá đắt, hỏi có cách nào rẻ hơn không. Nhà không mua nổi buồng đệm bán sẵn nên vẫn dùng chai nhựa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Chi phí là lý do ngưng thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, vui, hồng hào. Cân nặng 30 kg, cao 138 cm.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi vẫn hơi đỏ, phù nhẹ hơn lần trước, ít dịch trong; thành sau họng còn ít nhầy. Họng không đỏ, niêm mạc miệng không tưa.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co kéo. Rì rào phế nang rõ, đều hai bên, không ran, kể cả khi thở ra gắng sức.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, đều hai bên, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, đều hai bên, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "e",
+     "r": "PEF (cao nhất trong 3 lần thổi), cùng lưu lượng kế lượt 1: trước xịt 275 L/phút; 15 phút sau 4 nhát salbutamol 292 L/phút (tăng 6%).",
+     "n": "Nên làm lại (30.000 đồng) và đáng tiền: PEF nền tăng từ 230 lên 275 L/phút (+20%) sau 4 tuần ICS, vượt ngưỡng tăng ≥ 15% ở trẻ em của GINA 2026 (Box 1-2, tr. 28, tăng chức năng phổi sau 4 tuần điều trị có ICS): thêm bằng chứng khách quan cho chẩn đoán hen mà không tốn thêm. Đáp ứng giãn phế quản chỉ còn 6% là hợp lý khi tắc nghẽn đã bớt. Dùng cùng một lưu lượng kế."
+    },
+    "ho_hap_ky": {
+     "v": "u",
+     "r": "FEV1 trước 1,52 L (87% dự đoán); sau test hồi phục 1,61 L (+6% so với nền).",
+     "n": "Không cần hôm nay (250.000 đồng) và vượt tiền mang theo: PEF đủ để theo dõi. Nên làm lúc 3–6 tháng để ghi mức tốt nhất cá nhân (GINA 2026 Box 2-2B, tr. 41)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hen phế quản trẻ em thể ho, đã đáp ứng một phần sau 4 tuần ICS, kiểm soát một phần (còn thức giấc đêm, hạn chế vận động nhẹ)",
+     "ok": 1,
+     "n": "GINA 2026 Box 2-2A (tr. 41): 4 tuần qua có thức giấc đêm và hạn chế hoạt động; không có triệu chứng ban ngày > 2 lần/tuần, SABA ≤ 2 lần/tuần → 2 trong 4 mục = kiểm soát một phần. PEF nền tăng 20% sau 4 tuần ICS (Box 1-2, tr. 28) củng cố chẩn đoán."
+    },
+    {
+     "t": "Nguyên nhân chưa kiểm soát hoàn toàn: dùng thuốc không đều (~60%), kỹ thuật xịt sai, còn nhỏ thuốc mũi co mạch, khói thuốc lá thụ động",
+     "ok": 1,
+     "n": "GINA 2026 Box 2-2B (tr. 41): ICS không đủ, tuân thủ kém, kỹ thuật sai, khói thuốc thụ động là yếu tố nguy cơ; Box 5-3 (tr. 121): chi phí gây bỏ thuốc không chủ ý; QĐ 3312 (Hen mục 4.6, tr. 692); viêm mũi do thuốc dai dẳng: QĐ 5643 (tr. 112)."
+    },
+    {
+     "t": "Thất bại điều trị sớm, cần bậc lên ngay",
+     "ok": 0,
+     "n": "Chưa: mới 4 tuần (cần 2–3 tháng, lợi ích đầy đủ sau 3–4 tháng; GINA tr. 110), dùng khoảng 60% liều, kỹ thuật chưa đúng. GINA tr. 107, 110 và NICE NG245 (1.6.1): kiểm tra chẩn đoán, kỹ thuật, tuân thủ, yếu tố nguy cơ trước khi bậc lên."
+    },
+    {
+     "t": "Đợt cấp hoặc nhiễm virus hô hấp đang diễn ra",
+     "ok": 0,
+     "n": "Không sốt, không ho ban ngày, không khò khè, phổi sạch, SpO₂ 98%, PEF tăng so với lượt trước (QĐ 3312, Cơn hen cấp, tr. 695; GINA Box 9-4, tr. 181). Lớp có dịch cảm nên cần kế hoạch hành động."
+    },
+    {
+     "t": "Chẩn đoán hen sai vì chưa hết hẳn ho",
+     "ok": 0,
+     "n": "QĐ 3312 (Hen mục 4.6, tr. 693): khi không đáp ứng thì tự hỏi 'có phải hen không'; bé đáp ứng ICS (ho đêm 3–4 → 1 đêm/tuần), PEF +20%, dùng thuốc chỉ 60%: ủng hộ hen."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể, không phán xét: số ngày dùng mỗi tuần, buổi nào hay quên, còn thuốc nhỏ mũi không; xem bộ đếm liều (dùng 34/56 nhát dự kiến, khoảng 60%)",
+     "v": "c",
+     "n": "GINA 2026 Box 5-3 (tr. 121): hỏi cụ thể số ngày dùng, xem bộ đếm liều, không phán xét; NICE NG245 (1.11.1): kiểm tra tuân thủ và kỹ thuật mọi lần khám."
+    },
+    {
+     "t": "Cho bé thao tác lại bình xịt với buồng đệm chai nhựa: lắc bình, xịt từng nhát một, hít chậm và nín thở, súc miệng; sửa tại chỗ, kiểm tra lại lần sau",
+     "v": "c",
+     "n": "GINA 2026 Box 5-2 (tr. 119): cho bệnh nhân thao tác, sửa bằng làm mẫu, lắc bình trước mỗi nhát, lỗi hay tái phát sau 4–6 tuần; NICE NG245 (1.6.7)."
+    },
+    {
+     "t": "Đánh giá kiểm soát bằng 4 câu GINA (kiểm soát một phần) và đo lại PEF so với lượt 1",
+     "v": "c",
+     "n": "GINA 2026 Box 2-2A (tr. 41); Box 1-2 (tr. 28). Dùng cùng lưu lượng kế."
+    },
+    {
+     "t": "Chưa bậc lên: giữ nguyên fluticason 50 mcg 1 nhát × 2 lần/ngày nhưng dùng đủ và đúng kỹ thuật; đánh giá lại khi đủ 2–3 tháng điều trị (khoảng 4–8 tuần nữa); đỡ một phần ở tuần 4 là hồi phục chậm bình thường, chưa phải thất bại; chưa chuyển chuyên khoa",
+     "v": "c",
+     "n": "GINA 2026 (tr. 110): cải thiện bắt đầu sau vài ngày nhưng đầy đủ sau 3–4 tháng; chỉ bậc lên khi đã xác nhận do hen, kỹ thuật và tuân thủ ổn, yếu tố nguy cơ đã xử lý (tr. 107); thử bậc mới 2–3 tháng. NICE NG245 (1.6.1, 1.6.4); QĐ 3312 (Hen mục 4.6, tr. 693; mục 4.5, tr. 692: chuyển khi không kiểm soát sau 3–6 tháng)."
+    },
+    {
+     "t": "Không ngưng thuốc kiểm soát khi hết ho hoặc vì tiền; chỉ giảm bậc khi kiểm soát tốt được duy trì ≥ 3 tháng; nếu khó khăn về tiền thì nói với bác sĩ thay vì dùng ngắt quãng",
+     "v": "c",
+     "n": "GINA 2026 Box 4-10 (tr. 102): giảm bậc sau 3 tháng kiểm soát tốt; tr. 111: dùng ngắt quãng vì chi phí, khi thuốc cắt cơn là SABA thì rơi về SABA đơn độc; QĐ 3312 (Hen mục 4.3, tr. 691)."
+    },
+    {
+     "t": "Dừng hẳn thuốc nhỏ mũi co mạch; rửa mũi nước muối sinh lý đều đặn; ba hút thuốc hẳn ở ngoài nhà, không hút ở cửa ra vào",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang cấp tính mục 4.2.1, tr. 112); ARIA–EAACI 2025 (mục 5.2.2); GINA 2026 (tr. 65)."
+    },
+    {
+     "t": "Lập kế hoạch hành động bằng văn bản cho khi cảm hoặc nặng lên (lớp đang có dịch): xịt salbutamol 4 nhát từng nhát một qua buồng đệm hoặc 8–12 nhát theo QĐ 3312, đánh giá lại sau 15–20 phút; đi cấp cứu nếu nói ngắt quãng, rút lõm ngực, môi tím, không đỡ hoặc đỡ ngắn dần; khám lại trong 1 tuần sau mọi đợt",
+     "v": "c",
+     "n": "GINA 2026 Box 9-4 (tr. 181): 4 nhát đợt nhẹ; QĐ 3312 (Cơn hen cấp, tr. 696): 12 nhát cho trẻ > 6 tuổi, khám lại sau 20 phút (ghi cả hai, sổ mâu thuẫn mục NH-0963); GINA tr. 110: khám lại trong 1 tuần sau đợt cấp; QĐ 3312 (Hen mục 4.4, tr. 692). Số nhát tối đa tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa làm hô hấp ký hay X-quang hôm nay; hô hấp ký lúc 3–6 tháng khi có tiền để ghi mức tốt nhất cá nhân",
+     "v": "a",
+     "n": "GINA 2026 Box 2-2B (tr. 41): đo FEV1 sau 3–6 tháng ICS. Cách ưu tiên theo ngân sách là thiết kế của người viết."
+    },
+    {
+     "t": "Chuyển sang MART budesonid–formoterol liều thấp (ICS-formoterol vừa duy trì vừa cắt cơn) để có lưới an toàn khi hay quên liều, nếu mua được",
+     "v": "a",
+     "n": "GINA 2026 (tr. 111): với MART, ICS-formoterol cắt cơn vẫn cho ICS khi quên liều duy trì; NICE NG245 (1.8.2). Sẵn có và giá ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nâng ngay lên ICS liều trung bình hoặc thêm LABA vì chưa hết hẳn ho",
+     "v": "w",
+     "n": "GINA 2026 (tr. 107, 110): bậc lên sau khi kỹ thuật, tuân thủ ổn; bé dùng 60% liều và sai kỹ thuật."
+    },
+    {
+     "t": "Đồng ý ngưng thuốc xịt kiểm soát vì bé hết ho đêm",
+     "v": "w",
+     "n": "GINA 2026 (tr. 110–111); NICE NG245 (1.6.4); ngưng khi chưa kiểm soát làm tăng nguy cơ đợt cấp (GINA tr. 106)."
+    },
+    {
+     "t": "Cho nhập viện hoặc chuyển bệnh viện/chuyên khoa ngay",
+     "v": "w",
+     "n": "Không có dấu hiệu nhập viện (QĐ 3312, Hen mục 4.4, tr. 692); chuyển chuyên khoa khi không kiểm soát sau 3–6 tháng (mục 4.5, tr. 692)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hen phế quản trẻ em thể ho, đáp ứng một phần sau 4 tuần ICS, kiểm soát một phần (thức giấc đêm khoảng 1 lần/tuần, hạn chế vận động nhẹ); chẩn đoán được củng cố (PEF nền 230 → 275 L/phút)",
+     "Nguyên nhân chưa kiểm soát hoàn toàn: dùng thuốc ~60% liều, kỹ thuật xịt sai, còn nhỏ thuốc mũi co mạch, khói thuốc lá thụ động",
+     "Nguy cơ đợt cấp: mới bắt đầu điều trị, kiểm soát chưa đủ, lớp đang có dịch cảm"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi chung 'xịt đều không' cho câu 'đều ạ', còn hỏi số ngày và xem bộ đếm liều cho con số thật (34/56 nhát, ~60%; GINA 2026 Box 5-3, tr. 121). Còn nhỏ mũi 4–5 tối/tuần chỉ ra khi hỏi cụ thể.",
+     "Kiểm soát một phần (GINA Box 2-2A, tr. 41). 'Đỡ một phần' ở tuần 4 khi mới dùng ~60% liều là hồi phục chậm bình thường, chưa phải thất bại: lợi ích đầy đủ cần 3–4 tháng (GINA tr. 110). PEF +20% sau 4 tuần ICS (GINA Box 1-2) xác nhận chẩn đoán với 30.000 đồng.",
+     "Khám: phổi sạch, SpO₂ 98%, không đợt cấp; mũi còn đỏ phù do còn nhỏ thuốc mũi."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn khám lại: không có chỉ định nhập viện hay chuyển tuyến (QĐ 3312/2015, Hen mục 4.4, 4.5, tr. 692).",
+     "Sửa nguyên nhân trước khi bậc lên: tuân thủ, kỹ thuật, thuốc nhỏ mũi, khói thuốc (GINA tr. 107, 110; NICE NG245 1.6.1; QĐ 3312 Hen mục 4.6). Bậc lên ngay chỉ tốn thêm tiền.",
+     "Không ngưng ICS khi hết ho hoặc vì tiền: dùng ngắt quãng đẩy bé về SABA đơn độc, nguy cơ đợt cấp cao hơn (GINA tr. 106, 111); giảm bậc chỉ sau ≥ 3 tháng kiểm soát tốt (Box 4-10).",
+     "Kế hoạch hành động bằng văn bản vì lớp đang có dịch; hoãn hô hấp ký đến 3–6 tháng (GINA Box 2-2B)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fluticason propionat bình xịt định liều 50 mcg/nhát (tiếp tục)",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát × 2 lần/ngày (100 mcg/ngày), đủ cả sáng và tối",
+      "duong": "Xịt qua buồng đệm (chai nhựa hoặc buồng đệm thương mại), lắc bình trước khi xịt, hít chậm rồi nín thở; súc miệng nhổ",
+      "thoi_diem": "Sáng và tối, gắn với đánh răng; để bình nơi dễ thấy",
+      "so_ngay": "Ít nhất đến lúc đánh giá 2–3 tháng; không tự ngưng",
+      "ghi_chu": "GINA 2026 Box 4-2 (tr. 77): 50–100 mcg/ngày là liều thấp ở trẻ 6–11 tuổi; Box 2-3 (tr. 44): đặt thuốc nơi dễ thấy; Box 5-2 (tr. 119), tr. 133 (chai nhựa). Nếu lượt 1 chọn cách A (MART), tiếp tục MART."
+     },
+     {
+      "thuoc": "Salbutamol bình xịt định liều 100 mcg/nhát",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát (từng nhát một) khi có triệu chứng hoặc trước khi vận động mạnh; khi nặng lên xem kế hoạch hành động",
+      "duong": "Xịt qua buồng đệm, không xịt thẳng vào miệng",
+      "thoi_diem": "Chỉ khi cần",
+      "so_ngay": "Theo nhu cầu; cần nhiều hơn hoặc ngắn dần thì khám sớm",
+      "ghi_chu": "QĐ 3312 Hen mục 4.3 (tr. 690); GINA Box 9-4 (tr. 181). Số nhát tối đa mỗi ngày tại nhà: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Tăng lên 2–3 lần/ngày, nhất là trước khi ngủ (số lần: lựa chọn của người viết)",
+      "duong": "Rửa hoặc nhỏ mũi",
+      "thoi_diem": "Sáng, tối và khi nghẹt",
+      "so_ngay": "Đến khi mũi ổn định",
+      "ghi_chu": "QĐ 5643/2015 Viêm mũi xoang cấp tính mục 4.2.1 (tr. 112). Ngưng hẳn naphazolin (ARIA–EAACI 2025 mục 5.2.2)."
+     }
+    ],
+    "dan_do": [
+     "Bé đỡ là nhờ thuốc xịt đang có tác dụng; hết ho chưa phải khỏi. Dùng đủ sáng và tối ít nhất 2–3 tháng, kể cả khi hết ho; ngưng giữa chừng thì ho quay lại và dễ nặng khi cảm (GINA 2026 tr. 110–111).",
+     "Gắn thuốc xịt với đánh răng sáng và tối, để bình nơi dễ thấy, nhìn bộ đếm liều mỗi tuần. Khó khăn về tiền thì nói với bác sĩ, đừng tự bỏ liều tối. Lắc bình, xịt từng nhát, hít chậm, nín thở, súc miệng; cho bé làm lại trước mặt bác sĩ.",
+     "Ngưng hẳn thuốc nhỏ mũi (nghẹt thì chỉ rửa nước muối); ba hút thuốc hẳn ngoài nhà, cách xa cửa.",
+     "Lớp đang có dịch cảm: nếu bé ho, khò khè, tức ngực nhiều hơn thì làm theo tờ kế hoạch (xịt salbutamol từng nhát qua buồng đệm, xem lại sau 15–20 phút); đến cấp cứu ngay nếu nói ngắt quãng, rút lõm ngực, môi tím, xịt không đỡ hoặc đỡ ngắn dần (QĐ 3312, Hen mục 4.4, tr. 692).",
+     "Khám lại trong 1 tuần sau mọi đợt nặng lên (GINA tr. 110); khám đánh giá sau khoảng 4–8 tuần nữa, đủ 2–3 tháng điều trị (GINA Box 4-10), mang bình xịt, buồng đệm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Diễn biến sau lượt 2 (thiết kế của ca, không có trong tài liệu đã tải): chị Lụa mua lọ fluticason thứ hai, cho bé xịt đủ hai buổi mỗi ngày, bỏ hẳn thuốc nhỏ mũi; ho đêm gần hết sau 5 ngày. Mười ngày sau cả lớp có dịch cảm; Châu sốt nhẹ, sổ mũi, đêm thứ ba khò khè, tức ngực, nói ngắt quãng. Mẹ làm theo tờ kế hoạch, xịt salbutamol 4 nhát qua chai, lặp lại sau 20 phút nhưng chỉ đỡ chừng một giờ, rồi đưa bé đến bệnh viện huyện lúc nửa đêm. Đợt cấp mức trung bình (SpO₂ 92%, nói từng cụm từ): salbutamol, prednisolon uống, nằm viện 2 ngày; sau 2 tuần ho đêm hết và PEF về 285 L/phút. Xử trí ở cả hai lượt đều đúng chuẩn; đợt cấp do virus vẫn xảy ra vì corticoid hít liều thấp chỉ giảm khoảng 40% nguy cơ đợt cấp nặng (START, GINA 2026 tr. 106) chứ không loại bỏ, và bé mới dùng đủ liều đúng kỹ thuật được vài ngày. Kết cục xấu không chứng tỏ quyết định sai: quyết định được đánh giá bằng thông tin có lúc đó, không bằng kết quả.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: mẹ mang 150.000 đồng (lượt 1) và 100.000 đồng (lượt 2); PEF trước–sau giãn phế quản (30.000 đồng) là xét nghiệm duy nhất đổi được quyết định; hô hấp ký, X-quang, công thức máu, IgE, test lẩy da bỏ hoặc hoãn không làm hỏng chẩn đoán.",
+  "Lý do thật đến khám là tái khám theo hẹn 'nghi hen': mẹ chỉ kể ho đêm nặng hơn sau chuyến xe, không kể tức ngực khi chạy (bé giấu vì bị bạn trêu).",
+  "Thuốc nhỏ mũi naphazolin dùng kéo dài: mẹ không coi là thuốc nên không kể; niêm mạc mũi đỏ phù gây nghẹt đêm, dễ nhầm ho do mũi và che hen.",
+  "Chuyến xe khách đóng kín chỉ làm ho đêm nặng thêm, không phải nguyên nhân; tránh nhầm 'ngồi xe lâu, trúng gió'. Không có siêu âm: không liên quan chẩn đoán hen.",
+  "Lượt 2 'đỡ một phần': mẹ dùng 60% liều (hay bỏ liều tối), kỹ thuật chai nhựa sai, còn nhỏ mũi; phải hỏi cụ thể và xem bộ đếm liều mới thấy."
+ ],
+ "bai_hoc_bien": [
+  "Hen thể ho: ho đêm có thể là triệu chứng duy nhất mẹ để ý, phổi sạch và không khò khè vẫn có thể là hen; hỏi cụ thể ho khi chạy, khi cười, sau khi ngừng chạy, tức ngực, và hỏi riêng bé (GINA 2026 tr. 36; NICE NG245 1.1.4).",
+  "Ho đêm đơn độc thì nghĩ thêm viêm mũi và trào ngược nhưng không để mũi che hen; PEF trước–sau giãn phế quản rẻ và đổi được quyết định (GINA Box 1-3, 2-3, 1-2).",
+  "Thuốc nhỏ mũi co mạch mẹ không coi là thuốc: phải hỏi cụ thể; ngưng, rửa nước muối, báo trước nghẹt dội ngược (QĐ 5643; ARIA–EAACI 2025 mục 5.2.2).",
+  "Không đủ tiền: xếp xét nghiệm theo khả năng đổi quyết định, dùng buồng đệm chai nhựa, nói thẳng chi phí và dặn không bỏ liều (GINA tr. 133; Box 5-3).",
+  "Đỡ một phần ở tuần 4: phân biệt hồi phục chậm bình thường với thất bại điều trị bằng cách kiểm tra tuân thủ (đếm liều), kỹ thuật, thuốc nhỏ mũi, khói thuốc trước khi bậc lên; đánh giá đầy đủ sau 2–3 tháng (GINA tr. 107, 110).",
+  "Xử trí đúng vẫn có thể diễn tiến xấu (đợt cấp do virus): kế hoạch hành động và khám lại là phần của xử trí đúng; đánh giá quyết định bằng thông tin lúc đó, không bằng kết quả."
+ ],
+ "diem_nho": [
+  "Chẩn đoán hen ở trẻ 6–17 tuổi: PEF tăng ≥ 15% hoặc FEV1 tăng ≥ 12% giá trị dự đoán sau giãn phế quản (GINA 2026 Box 1-2, tr. 28); NICE NG245 1.2.6: FEV1 tăng ≥ 12% so với nền hoặc ≥ 10% dự đoán; QĐ 3312 Hen mục 3: FEV1 tăng ≥ 12% hay 200 ml.",
+  "Kiểm soát hen theo 4 câu 4 tuần qua: triệu chứng ban ngày > 2 lần/tuần, thức giấc đêm, SABA > 2 lần/tuần, hạn chế hoạt động; 0 = tốt, 1–2 = một phần, 3–4 = chưa kiểm soát (GINA Box 2-2A, tr. 41).",
+  "Triệu chứng hầu hết các ngày hoặc thức giấc ≥ 1 lần/tuần ở trẻ 6–11 tuổi: ICS-LABA liều thấp, ICS liều trung bình hoặc MART (GINA Box 4-10, tr. 102; QĐ 3312 Hen mục 4.3); NICE khởi ICS liều thấp 2 lần/ngày (1.8.1). ICS liều thấp: fluticason 50–100 mcg/ngày, budesonid 100–200 mcg/ngày (Box 4-2).",
+  "Không dùng SABA đơn độc cho trẻ có hen (GINA tr. 106; NICE NG245 1.6.3); chỉ bậc lên sau khi kiểm tra kỹ thuật, tuân thủ, yếu tố nguy cơ (GINA tr. 107, 110).",
+  "Thuốc co mạch mũi: ngắn ngày, ví dụ 3 ngày (QĐ 5643/2015 tr. 112); ARIA–EAACI 2025 (5.2.2): tránh ở trẻ < 12 tuổi, không quá 5 ngày."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Hen phế quản trẻ em (mục 1–4, tr. 685–693); Xử trí cơn hen cấp (tr. 694–699); Viêm tiểu phế quản (tr. 275–276); Dị vật đường thở (mục 3, 4.1, 7, tr. 279–280)",
+  "GINA 2026, Global Strategy for Asthma Management and Prevention – TL-0137 – ĐÃ ĐỌC: Box 1-2, 1-3, 2-2, 2-3, 4-2, 4-8B, 4-10, 5-2, 5-3, 9-4 và tr. 26, 34–36, 65, 105–111, 133, 182, 185",
+  "NICE NG245 2024, Asthma: diagnosis, monitoring and chronic asthma management – TL-0254 – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.7, 1.2.5–1.2.9, 1.6.1–1.6.8, 1.8.1–1.8.7, 1.11.1",
+  "QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi xoang cấp tính mục 4.2.1 (tr. 112); Viêm mũi xoang trẻ em mục 2 (tr. 81)",
+  "ARIA–EAACI 2025 (revision part I) – TL-0546 – ĐÃ ĐỌC: mục 5.1.4, 5.2.2 (thuốc co mạch mũi)",
+  "NICE NG9 2021 Bronchiolitis (TL-0260) khuyến cáo 1.1.1; AAP 2014 Bronchiolitis (TL-0267) phạm vi 1–23 tháng; WHO Pocket book 2013 (TL-0250) mục 4.4 (tr. 90–91), 4.5.2 (tr. 96–99); CARE, Lancet 2025 (TL-0275) tóm tắt"
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "2026-11-19 – viết: Sonnet. Đặc tả sổ cái NH-0939: học sinh nữ 10 tuổi, hen phế quản trẻ em thể ho (không điển hình), 2 lượt, đỡ một phần ở tái khám, không đủ tiền xét nghiệm, không siêu âm, xử trí đúng nhưng diễn tiến xấu, sau đi xa ngồi lâu, thuốc nhỏ mũi kéo dài, lý do thật tái khám theo hen.",
+  "Tài liệu đã đọc: TL-0037 (Hen trẻ em, Cơn hen cấp, Viêm tiểu phế quản, Dị vật), TL-0137 GINA 2026 (Box 1-2, 1-3, 2-2, 2-3, 4-2, 4-8B, 4-10, 5-2, 5-3, 9-4 và tr. 26, 34–36, 65, 105–111, 133, 182, 185), TL-0254 NICE NG245, TL-0130 (Viêm mũi xoang), TL-0546 ARIA–EAACI 2025 (5.1.4, 5.2.2), TL-0260, TL-0267, TL-0250, TL-0275.",
+  "Mâu thuẫn ghi cả hai cách theo sổ: khởi đầu thuốc kiểm soát trẻ 6–11 tuổi và liều salbutamol đợt nhẹ (NH-0963, MỚI 1–2); tiêu chuẩn đáp ứng giãn phế quản ở trẻ (ghi nhận NH-0963; ca đặt PEF +22%, FEV1 +17% nền, +13% dự đoán, +230 ml để thỏa cả ba nguồn); thuốc co mạch mũi (QĐ 5643 ngắn ngày, ARIA 2025 tránh ở trẻ < 12 tuổi, cùng hướng ngưng khi dùng kéo dài).",
+  "Chỗ thiếu tài liệu: PEF dự đoán theo chiều cao; số nhát salbutamol tối đa tại nhà; giá và sẵn có ở Việt Nam của budesonid–formoterol, fluticason, buồng đệm; viện phí; ngưỡng IgE theo tuổi; tiêu chuẩn chẩn đoán lao và ho gà ở trẻ; thời gian nghẹt dội ngược sau ngưng thuốc mũi; GINA tr. 185 viết cho đợt cấp, dùng để nói về X-quang. Diễn biến sau lượt 2 là thiết kế của ca.",
+  "Âm thanh: lượt 1 AT-TIM-BT-NL-01 (mạch 92), AT-PHOI-BT-NL-01; lượt 2 AT-TIM-BT-NL-01 (mạch 88), AT-PHOI-BT-NL-01. Không có ảnh da (chàm cũ chỉ mô tả bằng chữ)."
+ ]
+}
