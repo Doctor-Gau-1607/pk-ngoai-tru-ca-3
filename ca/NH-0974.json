@@ -1,0 +1,657 @@
+{
+ "ma_ca": "NH-0974",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-20)",
+ "benh": "NH_hen_phe_quan_tre_em",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Hen phế quản trẻ em",
+  "chan_doan_phai_loai_tru": [
+   "Viêm tiểu phế quản",
+   "Dị vật đường thở"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Trẻ mẫu giáo (lớp mầm)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát (không sốt, không sổ mũi, không tiếp xúc khói, hóa chất hay thú nuôi; mẹ không xác định được vì sao đợt này nặng lên)",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (amlodipin 5 mg của bà nội, bà ở cùng và trông bé ban ngày; bé không dùng thuốc hạ áp)",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình (bà nội không tin thuốc xịt, khí dung, cho rằng con 'ho gió'; mẹ đến để có bác sĩ nói rõ cho bà và chồng nghe, và vì tủi thân sau lần cãi nhau tối qua)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Gia Bảo",
+  "tuoi": 3,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo (lớp mầm)",
+  "can_nang": 15,
+  "chieu_cao": 97,
+  "xung_ho": "Bé 3 tuổi, nói câu ngắn 3–5 từ, tự xưng 'con' hoặc 'Bảo', gọi bác sĩ là 'bác', bám mẹ, sợ ống nghe, trả lời khi được dỗ ('Con ho ho', 'Con mệt'). Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 29 tuổi, nhân viên kế toán, nói nhanh, hay khóc, dễ hoảng; sợ con ngạt thở trong đêm, sợ bị 'viêm phổi tái đi tái lại'. Mang theo hai đơn thuốc cũ và ảnh chụp vỉ thuốc hạ áp của bà nội. Ở chung nhà với mẹ chồng, đang căng thẳng với bà về chuyện chữa cho cháu, chồng đi làm xa. Bé hiền, hơi mệt, bám mẹ.",
+  "kieu_nhieu": "Sợ hãi quá mức: mẹ khóc, nói gấp, nhắc lại nhiều lần đòi chụp phổi, xét nghiệm máu, nằm viện, hỏi 'nhỡ đêm nay cháu lên cơn nữa thì sao'; không né câu hỏi nhưng trả lời lan man, quay lại nỗi sợ. Dịu dần khi bác sĩ giải thích rõ vì sao không cần chụp, đưa kế hoạch cụ thể cho đêm nay và hỏi thăm chính mẹ. Chuyện mâu thuẫn với bà nội chỉ lộ khi được hỏi ai trông bé, ở nhà mọi người nghĩ sao.",
+  "nguoi_nha": "Mẹ bé, chị Ngọc, 29 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé thì bé trả lời rất ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Ngọc)",
+  "ngoai_hinh": {
+   "da": "#ecc09c",
+   "toc": "#17110d",
+   "kieuToc": "tre",
+   "ao": "#e0a03a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#e3b08a",
+    "toc": "#2a1b13",
+    "kieuToc": "dai",
+    "ao": "#8a5fa8",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "khoc"
+   }
+  }
+ },
+ "ly_do_kham": "Mẹ đưa bé đi khám vì đêm qua bé ho, thở khò khè từng cơn, mẹ rất sợ con ngạt thở",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám nhi tư nhân chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, tổng phân tích nước tiểu); không có X-quang, siêu âm (kéo theo không CT, nội soi), không có xét nghiệm dị ứng hay marker chuyên sâu. Còn dùng được: ống nghe, nhiệt kế, máy đo SpO₂, cân, thước đo, buồng đệm, bình xịt salbutamol, máy khí dung, ống khí dung budesonid, bình oxy. Bệnh viện Nhi cách khoảng 9 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 3 tuổi, 15 kg, mẹ đưa đến lúc 9 giờ sáng vì đêm qua bé ho và thở khè khè từng cơn; mẹ khóc, nói rất sợ con ngạt thở. Sinh hiệu: nhiệt 36,8 °C, mạch 108 l/p, nhịp thở 34 l/p, SpO₂ 95%. Bé tỉnh, bám chặt mẹ, nói được câu ngắn, thỉnh thoảng ho khan.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Bảo nhập viện ngay hôm nay là quá tay: bé nói được câu, thở 34 l/p, SpO₂ 95%, không rút lõm, đủ đặc điểm mức nhẹ (GINA 2026 Box 12-1, tr. 217), và sau salbutamol bé thở êm lại; QĐ 3312 (bảng tr. 698) ghi cơn nhẹ không cần nhập viện, cơn trung bình mới cần. Mẹ nghỉ việc nằm viện cùng con, bà nội ở nhà càng tin rằng bé 'nặng vì dùng thuốc tây', trong khi việc cần làm (thuốc kiểm soát hằng ngày, tập xịt, kế hoạch hành động) phòng khám làm được ngay.",
+    "chuyen_tuyen": "Chuyển bé Bảo lên bệnh viện Nhi để chụp phổi và làm thêm xét nghiệm là chưa có chỉ định: bé không có tiêu chí chuyển ngay nào của GINA 2026 Box 12-3 (tr. 219) (không tím, nói và uống được, thở ≤ 40 l/p, SpO₂ ≥ 92%, đáp ứng salbutamol); hen ≤ 5 tuổi chẩn đoán bằng lâm sàng, hình ảnh và xét nghiệm thường không cần (GINA Box 10-2, tr. 195; QĐ 3312 mục 2.4, tr. 686). Bé chưa từng nhập viện, bốn đợt trước đều điều trị ngoại trú nên chưa đủ tiêu chí gửi chuyên khoa (NICE NG245 mục 1.3.3; QĐ 3312 mục 4.5, tr. 692). Mẹ đưa con đi xa với nỗi sợ sẵn có, chờ cả buổi để nhận lại cùng loại thuốc xịt."
+   },
+   "loi_mo": "Bác sĩ ơi cứu con em với! Đêm qua cháu thở khè khè, rít rít như tiếng mèo kêu, em ôm cháu ngồi cả đêm không dám ngủ. Em sợ cháu lại viêm phổi nữa rồi! Bác sĩ chụp phổi, xét nghiệm máu ngay cho cháu đi, hay cho cháu nằm viện đi bác sĩ, em không dám đem cháu về đâu...",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 34,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đêm qua khoảng 2 giờ sáng bé ho, thở khè khè từng cơn kéo dài chừng hai tiếng; mẹ ôm bé ngồi dậy cả đêm. Sáng nay còn khè nhẹ, mẹ hoảng nên đưa đến ngay. Không sốt, ăn uống tạm được, không sổ mũi. Ở nhà mẹ chưa cho thuốc gì và không có bình xịt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và diễn tiến đợt này"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Trước đêm qua bé không cảm, không sổ mũi, không sốt; nhà không ai ốm, không hút thuốc, không xịt thuốc diệt côn trùng, không thú nuôi, bé không chạy nhiều hay ăn gì lạ. Mẹ nghĩ mãi cũng không biết vì sao tự nhiên bé lên cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: hỏi mà không xác định được"
+    },
+    {
+     "id": "giua_dot",
+     "noi_dung": "Khoảng 2 tháng nay, kể cả lúc không cảm, bé ho khan 2–3 đêm mỗi tuần và có đêm thức giấc vì ho; gần như ngày nào cũng ho hoặc khè vài lần khi cười lớn, khóc to hay chạy chơi, rồi ngồi nghỉ. Cô giáo lớp mầm nhắn 'bé hay ngồi nghỉ, ngủ trưa hay ho'. Mẹ và bà nội cho là 'ho gió'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không nghĩ đó là bệnh nên không tự kể. Chỉ nói khi bác sĩ hỏi lúc bé không cảm có ho khan, khè, thức giấc ban đêm, ho khi cười, khóc, chạy hoặc phải ngừng chơi không.",
+     "k": 1,
+     "y": "Triệu chứng giữa các đợt"
+    },
+    {
+     "id": "cac_dot",
+     "noi_dung": "Trong 8 tháng qua bé có 4 đợt ho khò khè, mỗi đợt 4–7 ngày; hai đợt khám ở trạm y tế phường, hai đợt ở phòng khám tư. Mẹ giữ hai tờ đơn cũ có ghi 'viêm phế quản, ran rít'; mỗi lần được khí dung salbutamol thì bé dễ thở hơn sau khoảng nửa giờ, rồi uống thêm kháng sinh và siro ho. Chưa lần nào nằm viện, chưa uống prednisolon, chưa dùng thuốc phòng cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số đợt trong 12 tháng, thuốc đã dùng, đáp ứng với thuốc giãn phế quản"
+    },
+    {
+     "id": "di_vat",
+     "noi_dung": "Không lần nào bé ho sặc sụa, tím tái hay khó thở đột ngột. Tuần trước bà cho bé ăn mấy hạt lạc rang, bé ho vài tiếng rồi uống ngụm nước là hết, vẫn ăn chơi như thường. Tiếng khè nghe cả hai bên, đã có từ các đợt trước đó, không đổi khi bé đổi tư thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sặc, hóc dị vật"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không sốt, uống được, không nôn, không tím, không li bì, nói được câu ngắn, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "co_dia",
+     "noi_dung": "Bé chàm ở nếp khuỷu từ lúc 6 tháng, hay hắt hơi, ngạt mũi buổi sáng. Mẹ bị viêm mũi dị ứng. Bé đủ tháng, chưa nằm viện, tiêm chủng đủ theo sổ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Cơ địa dị ứng, tiền sử gia đình"
+    },
+    {
+     "id": "thuoc_ba",
+     "noi_dung": "Bà nội 64 tuổi bị tăng huyết áp, uống amlodipin 5 mg mỗi sáng một viên đã 3 năm; vỉ thuốc để trong túi vải treo ở ghế, bé hay lục túi tìm kẹo. Hôm qua mẹ thấy vỉ thuốc rách mép nên hoảng, sợ bé nuốt viên nào. Bà nói mở vỉ mới 6 ngày trước, uống đủ mỗi sáng; mẹ đếm vỉ còn 4 viên, khớp 6 ngày; mẹ chụp ảnh vỉ thuốc để cho bác sĩ xem. Bé không nôn, không lả, không buồn ngủ bất thường, vẫn đòi chơi. Bé không dùng thuốc hạ áp nào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc hạ áp của người lớn trong nhà (bà nội)"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Nhà chung cư, dùng máy lạnh, giường nệm sạch, không ai hút thuốc, không nuôi chó mèo, không xông hương hay xịt hóa chất.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Môi trường sống"
+    },
+    {
+     "id": "mau_thuan",
+     "noi_dung": "Bà nội ở cùng, trông bé ban ngày. Bà không tin thuốc xịt và khí dung, bảo đó là 'thuốc steroid làm hại gan thận, nhờn thuốc', cho rằng cháu 'ho gió', trách mẹ bật máy lạnh và đi làm xa. Tối qua mẹ và bà to tiếng; bố bé làm công trình xa, chỉ nghe điện thoại, nói 'em lo cho con đi'. Mẹ vừa lo vừa tủi, đến khám để được bác sĩ nói rõ cho bà và chồng nghe, và để chắc mình không làm gì sai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể chuyện nhà. Chỉ nói khi bác sĩ hỏi ai trông bé ban ngày, ở nhà mọi người có đồng ý với cách chữa không, hoặc hỏi thăm chính mẹ vì sao mẹ lo lắng đến vậy.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình về cách chữa"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Mẹ nhắc lại nhiều lần đòi chụp phổi, xét nghiệm máu, nằm viện. Nếu bác sĩ giải thích rõ vì sao không cần và nói cụ thể đêm nay lỡ bé khè lại thì làm gì, mẹ sẽ dịu dần và hỏi: 'Vậy đêm nay cháu lên cơn nữa thì em làm sao?'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức, đòi xét nghiệm và nhập viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, sợ sệt, bám mẹ, nói được câu ngắn, ho khan thỉnh thoảng. Môi hồng, không tím, niêm mạc ẩm, thời gian đổ đầy mao mạch dưới 2 giây.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc nhợt, phù nhẹ, ít dịch trong. Họng không đỏ, amidan không to. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, thở ra hơi kéo dài, không rút lõm lồng ngực, không dùng cơ hô hấp phụ. Ran rít thì thở ra rải rác hai phế trường, thông khí hai bên đều; không ran nổ, không ran ẩm, không phổi im lặng.",
+     "k": 1,
+     "hien": "Nhịp thở 34 l/p. Không rút lõm lồng ngực; bé nói được câu ngắn.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, nghe cả hai bên."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, nghe cả hai bên."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "nhan_tram_tre": {
+     "a": "15 kg, 97 cm. Không tím, không ngón tay dùi trống, lồng ngực cân đối, không biến dạng.",
+     "k": 1
+    },
+    "da": {
+     "a": "Nếp khuỷu hai bên khô, vài vết gãi, không rịn dịch. Không mề đay, không ban.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,6 G/L · Neutrophil 41% · Lympho 46% · Bạch cầu ái toan 5,5% · Hb 118 g/L · TC 305 G/L",
+     "n": "Không cần để chẩn đoán hen (QĐ 3312, Hen mục 2.4, tr. 686); chấp nhận vì bạch cầu ái toan ≥ 4% là tiêu chuẩn phụ về nguy cơ hen (tr. 686). Không tăng bạch cầu ưu thế neutrophil: ít gợi ý nhiễm khuẩn.",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 41.0,
+      "neu": 3.94,
+      "lym_pct": 46.0,
+      "lym": 4.42,
+      "mono_pct": 7.0,
+      "mono": 0.67,
+      "eos_pct": 5.5,
+      "eos": 0.53,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "hgb": 118,
+      "plt": 305
+     }
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "n": "Không cần: bé không sốt, không ran nổ, không dấu hiệu nguy hiểm; kháng sinh chỉ khi có dấu viêm phổi (WHO 2013 mục 4.5.2, tr. 96; Bảng 8, tr. 93). Ngưỡng CRP riêng cho hen: không có trong tài liệu đã tải."
+    },
+    "pef": {
+     "v": "n",
+     "r": "Bé 3 tuổi chưa thổi được đúng kỹ thuật, không đo được.",
+     "n": "Đo chức năng hô hấp chỉ làm được ở trẻ ≥ 5 tuổi hợp tác (QĐ 3312, Hen mục 2.5, tr. 687); ở tuổi này chẩn đoán dựa vào tiêu chí lâm sàng (GINA 2026 Box 10-2, tr. 195)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hen phế quản ở trẻ 3 tuổi, chưa từng được chẩn đoán và chưa dùng thuốc kiểm soát, chưa kiểm soát, đang có đợt khò khè mức nhẹ",
+     "ok": 1,
+     "n": "Đủ ba tiêu chí hen ≤ 5 tuổi (GINA 2026 Box 10-2, tr. 195): 4 đợt khò khè kéo dài > 24 giờ trong 8 tháng kèm triệu chứng giữa các đợt, khò khè được nghe tại phòng khám và ghi trong đơn cũ; không nguyên nhân khác (các mục dưới); đỡ sau salbutamol. QĐ 3312 (Hen mục 3, tr. 687) cùng hướng. Chưa kiểm soát: 3/4 câu của GINA Box 11-1 (tr. 204). Mức nhẹ: Box 12-1 (tr. 217). Các đợt trước ghi 'viêm phế quản' là gọi chưa đúng tên."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Loại trừ: bệnh của trẻ còn bú, nguy cơ cao dưới 6 tháng, có sốt, thở nhanh, rút lõm (QĐ 3312, Viêm tiểu phế quản mục 1.2, 3.1, tr. 275–276); NICE NG9 mục 1.1.1: trẻ dưới 2 tuổi. Bé 3 tuổi, không sốt, tái diễn 4 đợt, đáp ứng salbutamol (WHO 2013 Bảng 8, tr. 93)."
+    },
+    {
+     "t": "Dị vật đường thở",
+     "n": "Loại trừ: không có hội chứng xâm nhập (ho sặc sụa, tím tái); mấy hạt lạc chỉ gây ho vài tiếng rồi hết; khè hai bên, đã có từ trước, không đổi theo tư thế. Dị vật điển hình khởi phát đột ngột, rít một bên, đổi theo tư thế (QĐ 3312 Dị vật mục 3.1–3.2, tr. 279–280; GINA Box 10-4, tr. 199). Nếu về sau khè lệch một bên hoặc không đáp ứng thuốc thì tìm lại (QĐ 3312 mục 4.1, tr. 280)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Ít nghĩ: không sốt, không ran nổ, không rút lõm, thở 34 l/p dưới ngưỡng 40 l/p (GINA Box 12-1, tr. 217; WHO 2013 Bảng 8, tr. 93: viêm phổi có sốt, ran nổ, thở rên)."
+    },
+    {
+     "t": "Khò khè do cảm virus đơn thuần, không phải hen",
+     "n": "Không phải: đợt này không có triệu chứng cảm trước; bé còn ho khè giữa các đợt, khi cười, chạy, ban đêm, có chàm, mẹ viêm mũi dị ứng; WHO 2013 Bảng 8 (tr. 93): khè đơn thuần do cảm luôn gắn với cảm và không có cơ địa dị ứng."
+    },
+    {
+     "t": "Uống nhầm thuốc hạ áp (amlodipin) của bà nội",
+     "n": "Không có phơi nhiễm: vỉ thuốc đủ số viên theo ngày, bé tỉnh, không nôn, không lả. Biểu hiện và xử trí ngộ độc amlodipin ở trẻ: không có trong tài liệu đã tải. Nguyên tắc chung khi nghi uống nhầm: hỏi tác nhân, số lượng, thời điểm, xem bao bì (WHO 2013 mục 1.6, tr. 26)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mức độ đợt khò khè: SpO₂, lời nói, nhịp thở, rút lõm, nghe phổi; xếp mức nhẹ",
+     "v": "c",
+     "n": "GINA 2026 Box 12-1 (tr. 217): nhẹ khi SpO₂ ≥ 94%, nói câu, thở ≤ 40 l/p, không dùng cơ phụ, khò khè nhẹ thì thở ra; QĐ 3312 (Hen Bảng 1, tr. 688) cùng xếp nhẹ."
+    },
+    {
+     "t": "Hỏi kỹ nguy cơ uống nhầm thuốc hạ áp của bà: tên thuốc, số viên, giờ, xem vỉ thuốc; khám tri giác, mạch; không gây nôn, không cho than hoạt khi chưa có bằng chứng uống nhầm",
+     "v": "c",
+     "n": "WHO 2013 mục 1.6 (tr. 26): hỏi đầy đủ tác nhân, số lượng, thời điểm, xem bao bì; khử nhiễm dạ dày chỉ khi cân nhắc lợi hại, hiệu quả nhất trong 1 giờ đầu (tr. 27). Xử trí cụ thể ngộ độc amlodipin ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Salbutamol 100 mcg/nhát xịt qua buồng đệm có mặt nạ, từng nhát một, mỗi nhát 5–6 nhịp thở: 4 nhát, lặp lại một lần sau 30–60 phút nếu cần; hoặc 6 nhát và khám lại sau 20 phút",
+     "v": "c",
+     "n": "4 nhát, lặp lại một lần sau 30–60 phút (GINA 2026 Box 12-4, tr. 220) hoặc 6 nhát cho trẻ dưới 6 tuổi, khám lại sau 20 phút (QĐ 3312, cơn nhẹ tr. 696; bảng tr. 698); GINA ít nhát hơn vì lo độc tính SABA (tr. 224). Trẻ 0–3 tuổi: pMDI và buồng đệm có mặt nạ (GINA Box 11-4, tr. 212)."
+    },
+    {
+     "t": "Giữ bé quan sát ít nhất 1 giờ, đánh giá lại nhịp thở, SpO₂, rút lõm, nghe phổi; chỉ cho về khi còn đủ đặc điểm mức nhẹ",
+     "v": "c",
+     "n": "GINA 2026 tr. 222: đánh giá lại lúc 1 giờ, cho về khi đủ đặc điểm mức nhẹ; QĐ 3312 tr. 696: khám lại ít nhất 20 phút sau liều SABA cuối. Bé đáp ứng trong khung 20–60 phút (GINA Box 10-2, tr. 195)."
+    },
+    {
+     "t": "Ghi chẩn đoán hen phế quản vào hồ sơ dựa trên lâm sàng, không cần X-quang, xét nghiệm hay đo chức năng hô hấp",
+     "v": "c",
+     "n": "Đã thấy khò khè, không nguyên nhân khác, có đáp ứng SABA (GINA tr. 222; Box 10-2, tr. 195). Xét nghiệm, hình ảnh không bắt buộc (QĐ 3312 mục 2.4, tr. 686; GINA tr. 195); đo chức năng hô hấp chỉ từ 5 tuổi (QĐ 3312 mục 2.5, tr. 687)."
+    },
+    {
+     "t": "Khởi thuốc kiểm soát hằng ngày: budesonid khí dung 500 mcg/ngày chia 2 lần (250 mcg sáng, 250 mcg tối) qua mặt nạ, kèm salbutamol khi cần; thử ít nhất 2–3 tháng rồi đánh giá lại",
+     "v": "c",
+     "n": "Chỉ định: triệu chứng chưa kiểm soát (GINA tr. 209, Evidence A; Box 12-6, tr. 223: triệu chứng giữa các đợt ≥ 2 ngày/tuần thì bắt đầu ICS trước khi về); NICE NG245 mục 1.9.1: thử 8–12 tuần khi có triệu chứng giữa các đợt kèm bệnh dị ứng khác (bé có chàm). Budesonid khí dung 500 mcg/ngày từ 1 tuổi (GINA Box 11-3, tr. 208). Thời gian thử: ≥ 2–3 tháng (GINA), 8–12 tuần (NICE) hoặc ≥ 3 tháng (QĐ 3312 mục 4.3, tr. 690); không chọn một bên (sổ NH-0958 mục 5). Lau da quanh mũi miệng sau khi dùng mặt nạ (GINA tr. 212)."
+    },
+    {
+     "t": "Tập mẹ xịt salbutamol qua buồng đệm mặt nạ tận tay và đưa bản kế hoạch hành động bằng văn bản; salbutamol khi cần ở nhà 2 nhát mỗi lần, lặp lại tối đa 2 lần cách 20 phút, không dùng đều đặn",
+     "v": "c",
+     "n": "Kế hoạch hành động bằng văn bản cho trẻ ≤ 5 tuổi (GINA tr. 214); 2 nhát, lặp lại tối đa 2 lần cách 20 phút (tr. 215); dùng khi cần, không đều đặn (Box 12-6, tr. 223); cần lại < 4 giờ hoặc > 3 lần trong 12 giờ thì khám cùng ngày (tr. 214). Số nhát tối đa mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói rõ bé đang ở mức nhẹ và đã đáp ứng thuốc, giải thích vì sao chưa cần chụp phổi, xét nghiệm thêm hay nhập viện, dặn cụ thể đêm nay lên cơn thì làm gì và khi nào đến ngay; hỏi thăm mẹ, tìm hiểu bà nội lo gì về thuốc",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.6 (tr. 692): phát hiện mối quan tâm của gia đình và làm dịu nỗi sợ hãi, trao đổi với người liên quan. GINA 2026 tr. 213: giáo dục cho cả người chăm sóc, quan hệ đối tác và đồng thuận về mục tiêu điều trị. Hình ảnh, xét nghiệm không cần cho chẩn đoán (QĐ 3312 mục 2.4, tr. 686; GINA tr. 195)."
+    },
+    {
+     "t": "Giải thích an toàn của corticoid hít liều thấp cho mẹ và bà nội (mời bà dự buổi hướng dẫn lần hẹn tới), tránh để mâu thuẫn trong nhà làm bé ngưng thuốc",
+     "v": "c",
+     "n": "GINA 2026 tr. 209: ICS liều thấp chỉ ảnh hưởng tốc độ lớn trong 1–2 năm đầu, không tích lũy, chênh chiều cao người lớn khoảng 0,7%; hen không kiểm soát cũng làm giảm chiều cao; dùng liều tối thiểu hiệu quả. Mâu thuẫn, căng thẳng gia đình là yếu tố nguy cơ đợt cấp (Box 11-1, tr. 204; Box 12-6, tr. 223)."
+    },
+    {
+     "t": "Dặn cất thuốc của người lớn (amlodipin của bà) ngoài tầm tay trẻ, trong hộp có khóa",
+     "v": "c",
+     "n": "WHO 2013 mục 1.6.5 (tr. 33): giữ thuốc trong bao bì đúng, ngoài tầm với của trẻ; đưa trẻ và bao bì đến cơ sở y tế ngay nếu nghi uống nhầm."
+    },
+    {
+     "t": "Hẹn khám lại: gọi điện hoặc khám sau 1–3 ngày, sau 2 tuần, sau 2–3 tháng; đo chiều cao mỗi năm",
+     "v": "c",
+     "n": "1–3 ngày và 2–3 tháng (GINA Box 12-6, tr. 223); 2 tuần (QĐ 3312, tr. 698); đo chiều cao mỗi năm (GINA tr. 211). Ba mốc khác mục đích, ghi cả ba (sổ NH-0958 mục 6)."
+    },
+    {
+     "t": "Prednisolon uống 1 mg/kg/ngày (15 mg) trong 3–5 ngày cho đợt khò khè nhẹ",
+     "v": "a",
+     "n": "QĐ 3312 (cơn nhẹ, tr. 696): 'xem xét' prednisolon 1 mg/kg; GINA 2026 (tr. 220–222) chỉ cho corticoid uống ở đợt trung bình hoặc nặng. Bé nhẹ, đã đỡ: không cần, chấp nhận (sổ NH-0958 mục 4)."
+    },
+    {
+     "t": "Montelukast uống thay cho corticoid hít",
+     "v": "a",
+     "n": "Lựa chọn phụ: GINA 2026 (tr. 209–210) ICS hiệu quả hơn LTRA, phải dặn nguy cơ giấc ngủ, hành vi; NICE NG245 mục 1.9.5: LTRA chỉ thêm khi đã dùng ICS liều trung bình. Bé có chàm, triệu chứng giữa các đợt: ICS là lựa chọn đầu (sổ NH-0958 mục 5)."
+    },
+    {
+     "t": "Nhập viện, truyền dịch hoặc tiêm kháng sinh theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Mức nhẹ, đã đáp ứng: không nhập viện (QĐ 3312 bảng tr. 698); không nguồn nào liệt kê truyền dịch hay kháng sinh trong xử trí cơn hen nhẹ; kháng sinh chỉ khi có dấu viêm phổi (WHO 2013 mục 4.5.2, tr. 96). Tác hại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ xịt salbutamol cho đỡ rồi cho về, không bắt đầu thuốc kiểm soát (hoặc chỉ cho kháng sinh, siro ho như các đợt trước)",
+     "v": "w",
+     "n": "Có triệu chứng giữa các đợt, chưa kiểm soát: ICS hằng ngày liều thấp là lựa chọn ưu tiên (GINA tr. 209, Evidence A; Box 12-6, tr. 223); SABA khi cần, không thay thuốc kiểm soát. Ho, cảm không dùng kháng sinh (WHO 2013 mục 4.4, tr. 90–91)."
+    },
+    {
+     "t": "Gây nôn hoặc cho than hoạt 'cho chắc' vì lo bé nuốt thuốc hạ áp của bà",
+     "v": "w",
+     "n": "Không có bằng chứng uống nhầm; WHO 2013 (tr. 27–28): khử nhiễm phải cân nhắc lợi hại; ipecacuanha gây nôn lặp lại, ngủ gà làm khó chẩn đoán; dùng muối gây nôn có thể gây tử vong. Tác hại trên bé đang khò khè: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê siro ho chứa codein, atropin hoặc cồn",
+     "v": "h",
+     "n": "WHO 2013 (mục 4.4, tr. 91): không dùng thuốc ho chứa atropin, codein hoặc cồn vì có thể gây hại. Tài liệu đã tải không nêu tỉ lệ biến cố cụ thể."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hen phế quản trẻ em (hen ≤ 5 tuổi), 3 tuổi: đủ ba tiêu chí, ghi chẩn đoán lần đầu (các đợt trước ghi 'viêm phế quản')",
+     "Chưa được kiểm soát (3/4 tiêu chí), chưa dùng thuốc kiểm soát, có cơ địa dị ứng (chàm, mẹ viêm mũi dị ứng, bạch cầu ái toan 5,5%)",
+     "Đang có đợt khò khè mức nhẹ (SpO₂ 95%, thở 34 l/p, nói câu, không rút lõm), đáp ứng salbutamol",
+     "Yếu tố khởi phát: không xác định được; yếu tố nguy cơ: mâu thuẫn trong gia đình về cách điều trị",
+     "Đã loại trừ: viêm tiểu phế quản, dị vật đường thở, viêm phổi, uống nhầm thuốc hạ áp của bà"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: mẹ hoảng nên chỉ kể đêm qua. Phải hỏi lúc không cảm (GINA Box 10-3, tr. 196): ho khan, khè khi cười, khóc, chạy; thức giấc; ngừng chơi sớm. Kết quả: 2–3 đêm ho/tuần, khè hằng ngày khi gắng sức. Hỏi các đợt trước và thuốc đã dùng (tr. 196): 4 đợt, đỡ sau khí dung. Hỏi yếu tố khởi phát (QĐ 3312 tr. 694: virus, dị nguyên, gắng sức, khói, thời tiết, tâm lý): không xác định được.",
+     "Ba tiêu chí hen ≤ 5 tuổi (GINA Box 10-2, tr. 195): ≥ 2 đợt hoặc ≥ 1 đợt kèm triệu chứng giữa các đợt (bé có 4 đợt, mỗi đợt > 24 giờ, đơn cũ ghi ran rít); không nguyên nhân khác; đáp ứng SABA trong 20–60 phút. QĐ 3312 (Hen mục 3, tr. 687) cùng hướng. Mức: nhẹ (Box 12-1, tr. 217). Kiểm soát: 3/4 câu GINA Box 11-1 (tr. 204); QĐ 3312 Bảng 3 (tr. 689) ngưỡng > 1 lần/tuần cho ≤ 5 tuổi cùng kết luận không kiểm soát (sổ NH-0982).",
+     "Loại trừ: viêm tiểu phế quản là bệnh trẻ nhỏ (QĐ 3312 mục 1.2, tr. 275; NICE NG9 mục 1.1.1: dưới 2 tuổi). Dị vật: không có hội chứng xâm nhập, khè hai bên, không đổi theo tư thế (QĐ 3312 Dị vật mục 3.1–3.2, tr. 279–280; GINA Box 10-4, tr. 199). Cận lâm sàng không cần cho chẩn đoán; phòng khám chỉ có xét nghiệm cơ bản, không có X-quang (GINA tr. 195; QĐ 3312 mục 2.4, tr. 686).",
+     "Thuốc hạ áp của bà là nhiễu: vỉ thuốc đủ số viên theo ngày, bé không triệu chứng; không có phơi nhiễm. Vẫn phải hỏi vì bé 3 tuổi hay lục túi; hỏi tác nhân, số lượng, thời điểm, xem bao bì (WHO 2013 mục 1.6, tr. 26). Xử trí ngộ độc amlodipin ở trẻ: không có trong tài liệu đã tải.",
+     "Mâu thuẫn gia đình là lý do ẩn: mẹ cần bác sĩ nói rõ trước bà và chồng. Xử trí tốt gồm trấn an, giáo dục cả người trông bé (QĐ 3312 mục 4.6, tr. 692; GINA tr. 213), vì căng thẳng gia đình làm tăng nguy cơ đợt cấp (GINA Box 11-1, tr. 204)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cắt cơn: salbutamol qua buồng đệm mặt nạ 4 nhát, lặp lại một lần sau 30–60 phút (GINA Box 12-4, tr. 220) hoặc 6 nhát, khám lại sau 20 phút (QĐ 3312 tr. 696); đánh giá lại lúc 1 giờ, cho về khi còn đủ đặc điểm mức nhẹ (GINA tr. 222).",
+     "Thuốc kiểm soát: budesonid khí dung 500 mcg/ngày chia 2 lần (GINA Box 11-3, tr. 208), thử ≥ 2–3 tháng (GINA tr. 209), 8–12 tuần (NICE mục 1.9.1) hoặc ≥ 3 tháng (QĐ 3312 mục 4.3, tr. 690); khởi trước khi về vì có triệu chứng giữa các đợt (GINA Box 12-6, tr. 223). Budesonid dạng xịt: GINA Box 11-3 ghi 'chưa có liều, đang chờ tổng quan hệ thống', nên dùng khí dung.",
+     "Không cần: X-quang, xét nghiệm thêm, nhập viện, chuyển viện, kháng sinh, thuốc long đờm, siro ho (GINA tr. 195; QĐ 3312 mục 2.4, tr. 686; WHO 2013 tr. 90–91, 96). Prednisolon uống đợt nhẹ chấp nhận không bắt buộc (QĐ 3312 tr. 696; GINA chỉ cho mức trung bình–nặng, tr. 220).",
+     "Cách nói với mẹ và bà: đây là bệnh của đường thở, không phải 'ho gió' hay viêm phổi tái đi tái lại; thuốc hít liều thấp là cách phòng cơn, chênh chiều cao người lớn khoảng 0,7% (GINA tr. 209). Mời bà dự buổi hướng dẫn kế tiếp. Lời khuyên cụ thể với bà nội: không có trong tài liệu đã tải, người soạn viết từ nguyên tắc giáo dục và đồng thuận mục tiêu (GINA tr. 213)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol bình xịt định liều",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Tại phòng khám: 4 nhát, lặp lại một lần sau 30–60 phút nếu cần (GINA) hoặc 6 nhát, khám lại sau 20 phút (QĐ 3312). Ở nhà: 2 nhát mỗi lần khi ho khè, lặp lại tối đa 2 lần cách 20 phút",
+      "duong": "Xịt qua buồng đệm có van và mặt nạ, từng nhát một, mỗi nhát 5–6 nhịp thở, lắc bình trước mỗi nhát",
+      "thoi_diem": "Chỉ khi có triệu chứng, không dùng đều đặn",
+      "so_ngay": "Khi cần; nếu cần lại trong 4 giờ hoặc quá 3 lần trong 12 giờ thì đến cơ sở y tế",
+      "ghi_chu": "GINA 2026 tr. 212, 214–215, 220, 223; QĐ 3312 tr. 696, 698. Số nhát tối đa mỗi ngày: không có trong tài liệu đã tải. Bé chưa có bình xịt và buồng đệm: cấp mới, tập tận tay."
+     },
+     {
+      "thuoc": "Budesonid hỗn dịch khí dung (corticoid hít liều thấp)",
+      "ham_luong": "Theo nhãn ống khí dung sẵn có; tổng liều 500 mcg/ngày",
+      "lieu": "500 mcg/ngày, chia 2 lần (250 mcg sáng, 250 mcg tối)",
+      "duong": "Khí dung qua máy, dùng mặt nạ vừa mặt; lau da quanh mũi miệng sau khi xong",
+      "thoi_diem": "Sáng và tối, hằng ngày kể cả khi hết ho",
+      "so_ngay": "Thử ít nhất 2–3 tháng (GINA) hoặc 8–12 tuần (NICE) hoặc ít nhất 3 tháng (QĐ 3312), rồi tái khám mới quyết định giảm hoặc ngưng",
+      "ghi_chu": "GINA 2026 Box 11-3 (tr. 208), tr. 209, 212; NICE NG245 mục 1.9.1; QĐ 3312 tr. 690–691. Hàm lượng ống thuốc và biệt dược: không có trong tài liệu đã tải. Cấp đủ thuốc cho ít nhất 8–12 tuần."
+     }
+    ],
+    "dan_do": [
+     "Bé bị hen: ho đêm, khè khi chạy, khi cười là triệu chứng của bệnh, không phải 'ho gió', và các đợt trước không phải viêm phổi tái đi tái lại. Bệnh kiểm soát được: bé vẫn đi học, chạy chơi bình thường (GINA tr. 209).",
+     "Thuốc khí dung budesonid sáng tối là thuốc phòng cơn, liều thấp, dùng đều kể cả khi hết ho; muốn ngưng thì báo bác sĩ trước (GINA tr. 211). Salbutamol xịt 2 nhát qua buồng đệm khi bé ho khè, lặp lại tối đa 2 lần cách 20 phút; không dùng đều; không tự cho prednisolon (GINA tr. 214–215).",
+     "Đến ngay nếu bé rất khó thở, rút lõm ngực, tím, li bì, không nói hay uống được, không đỡ nhanh sau thuốc xịt, hoặc cần xịt lại trong vòng 4 giờ (GINA tr. 215; Box 12-3, tr. 219). Đêm nay lên cơn: ôm bé ngồi, xịt như đã tập, theo dõi nhịp thở và môi.",
+     "Thuốc hạ áp của bà cất trong hộp có khóa, để cao; bé uống nhầm hoặc nghi nuốt thuốc thì đưa đến cơ sở y tế ngay kèm vỉ thuốc (WHO 2013 mục 1.6.5, tr. 33).",
+     "Đưa bản kế hoạch hành động cho cả bà nội, bố bé và cô giáo; mời bà dự buổi hướng dẫn lần hẹn tới (GINA tr. 213). Tái khám: 1–3 ngày (hoặc gọi điện), 2 tuần, 2–3 tháng (GINA Box 12-6, tr. 223; QĐ 3312 tr. 698); mang buồng đệm và máy khí dung.",
+     "Nếu về sau khè chỉ một bên phổi, ho sặc rũ rượi, không đáp ứng thuốc đúng cách sau 2–3 tháng hoặc bé có khó thở không giải thích: báo ngay để tìm nguyên nhân khác (QĐ 3312 Dị vật tr. 280; GINA Box 10-5, tr. 199)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 10 tuần theo hẹn 2–3 tháng. Mẹ mang sổ ghi chép ho đêm; bé khỏe, chạy chơi ở lớp, không còn ho đêm. Sinh hiệu: nhiệt 36,7 °C, mạch 94 l/p, nhịp thở 24 l/p, SpO₂ 99%. Bé tỉnh, vui, tự chạy vào phòng khám.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi bé Bảo lên chuyên khoa hô hấp–dị ứng nhi ngay lúc này là chưa cần: bé hết triệu chứng sau 10 tuần ICS liều thấp, chưa từng nhập viện hay cấp cứu vì khò khè (NICE NG245 mục 1.3.3), kiểm soát tốt 0/4 tiêu chí (GINA Box 11-1, tr. 204). QĐ 3312 mục 4.5 (tr. 692) chỉ chuyển khi không kiểm soát sau 3–6 tháng, dấu hiệu không điển hình, hen nặng dai dẳng hoặc cần 2 đợt corticoid uống mỗi năm; bé chưa có. Gia đình tốn thêm một buổi đi khám, còn câu hỏi 'bỏ thuốc được chưa' và bất đồng với bà nội vẫn chưa được trả lời ở nơi đang theo dõi bé."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu khỏe hẳn rồi, từ lâu không ho đêm nào luôn. Em hết sợ rồi, mà bà cứ bảo hết bệnh thì bỏ thuốc đi. Bác sĩ nói giúp em, mình ngưng thuốc được chưa ạ?",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 24,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "kiem_soat",
+     "noi_dung": "Trong 4 tuần qua bé không ho ban ngày, không thức giấc ban đêm, không phải xịt salbutamol lần nào, chạy chơi ở lớp như các bạn. Cả 10 tuần chỉ xịt salbutamol một lần (tuần thứ 3, khi bé sổ mũi nhẹ), đỡ sau xịt. Không đợt khò khè nào, không đi khám cấp cứu, không dùng prednisolon.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức kiểm soát 4 tuần qua và đợt cấp từ lần trước"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ khí dung budesonid sáng tối hằng ngày, quên khoảng 4 buổi tối trong 10 tuần. Mẹ làm lại kỹ thuật đúng: mặt nạ vừa, lau mặt sau khi xong, bình xịt có buồng đệm để ở phòng khách và một bình mang theo ở lớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và kỹ thuật dùng thuốc"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Thấy cháu khỏe, bà nội nói do 'cạo gió, cháo hành' chứ không phải thuốc, đòi mẹ cho bé ngưng khí dung ngay, hôm trước còn giấu bình xịt. Mẹ giờ vững hơn, bố đã về cuối tuần đọc bản kế hoạch hành động và đồng ý làm theo bác sĩ; mẹ muốn có lời bác sĩ để cả nhà thống nhất.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói thêm khi bác sĩ hỏi ở nhà mọi người nghĩ sao về việc dùng thuốc, hoặc hỏi vì sao mẹ muốn hỏi chuyện ngưng thuốc.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Mâu thuẫn gia đình còn lại: bà đòi ngưng thuốc"
+    },
+    {
+     "id": "thuoc_ba",
+     "noi_dung": "Sau lần khám trước, mẹ cất thuốc hạ áp của bà trong hộp có khóa, để ngăn cao; bà hơi phật ý nhưng làm theo. Bé không còn lục túi bà.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc hạ áp của bà đã cất an toàn chưa"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Bé đi học đủ; cô giáo báo bé ăn, ngủ, chơi bình thường. Vẫn không xác định được yếu tố nào từng khởi phát cơn; tuần thứ 3 bé sổ mũi 2 ngày rồi khỏi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đi học, yếu tố khởi phát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui, chạy nhảy trong phòng, nói thành câu. Môi hồng, niêm mạc ẩm, không dấu hiệu mất nước.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, thở êm, không rút lõm. Rì rào phế nang êm hai phế trường, không ran rít, không ran nổ, thông khí đều hai bên.",
+     "k": 1,
+     "hien": "Nhịp thở 24 l/p. Bé thở êm, không rút lõm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 94 l/p."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi khô, họng không đỏ, màng nhĩ bình thường.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "15,6 kg, 98,5 cm: tăng đều so với lượt 1 (15 kg, 97 cm). Không tím, không ngón tay dùi trống.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,8 G/L · Neutrophil 39% · Lympho 48% · Bạch cầu ái toan 3,0% · Hb 120 g/L · TC 290 G/L",
+     "n": "Không cần để xác nhận kiểm soát: kiểm soát hen ≤ 5 tuổi đánh giá bằng triệu chứng, thuốc cắt cơn, hoạt động và nguy cơ (GINA 2026 Box 11-1, tr. 204). Tài liệu đã tải không nêu xét nghiệm nào để xác nhận 'khỏi hen'."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hen phế quản trẻ em ≤ 5 tuổi, kiểm soát tốt sau khoảng 10 tuần budesonid khí dung liều thấp",
+     "ok": 1,
+     "n": "0/4 tiêu chí triệu chứng trong 4 tuần qua = kiểm soát tốt (GINA 2026 Box 11-1, tr. 204; QĐ 3312 Bảng 3, tr. 689 'không có bất kỳ triệu chứng nào'). Đáp ứng điều trị cũng là một tiêu chí của chẩn đoán (GINA Box 10-2, tr. 195), củng cố chẩn đoán lượt 1. Dùng chữ 'kiểm soát tốt', không ghi 'khỏi hẳn': nhiều trẻ ≤ 5 tuổi thuyên giảm nhưng cần xem lại định kỳ (GINA tr. 211); hen là bệnh mạn, tái diễn (WHO 2013 tr. 101)."
+    },
+    {
+     "t": "Hen đã khỏi hoàn toàn, không cần theo dõi nữa",
+     "n": "Không đúng: sau ngưng hoặc giảm thuốc phải hẹn khám 3–6 tuần để xem triệu chứng có tái phát (GINA tr. 211), và xem lại sau 3 tháng (NICE NG245 mục 1.9.3)."
+    },
+    {
+     "t": "Tác dụng phụ của corticoid hít (chậm lớn)",
+     "n": "Không: tăng trưởng đều (15 → 15,6 kg; 97 → 98,5 cm). ICS ảnh hưởng tốc độ lớn trong 1–2 năm đầu, không tích lũy, phụ thuộc liều (GINA tr. 209); đo chiều cao mỗi năm (tr. 211). Mức tăng chiều cao 'bình thường' cho tuổi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận kiểm soát: hỏi 4 câu trong 4 tuần qua, số lần dùng salbutamol, hoạt động ở lớp; nghe phổi, SpO₂, đo cân nặng, chiều cao; hỏi tuân thủ và kỹ thuật",
+     "v": "c",
+     "n": "GINA 2026 Box 11-1 (tr. 204): 0/4 = kiểm soát tốt; xem nguy cơ (tuân thủ ICS, kỹ thuật, căng thẳng gia đình). QĐ 3312 mục 4.6 (tr. 692): hỏi tuân thủ, kỹ thuật dùng thuốc. Đo chiều cao mỗi năm hoặc thường hơn (GINA tr. 211)."
+    },
+    {
+     "t": "Quyết định thuốc kiểm soát: tiếp tục budesonid cho đủ 3 tháng kiểm soát tốt rồi giảm liều hoặc thử ngưng; HOẶC thử ngưng ngay vì đã hết triệu chứng sau 8–12 tuần, hẹn xem lại sau 3 tháng",
+     "v": "c",
+     "n": "QĐ 3312 (bảng tr. 691): giảm liều khi kiểm soát tốt duy trì 3 tháng; GINA 2026 tr. 209, 211: thử ≥ 2–3 tháng, xét lại nhu cầu mỗi 3–6 tháng; NICE NG245 mục 1.9.3: cân nhắc ngưng sau 8–12 tuần nếu hết triệu chứng, xem lại sau 3 tháng. Khác do bối cảnh và năm; cả hai đúng (xem mau_thuan NH-0974)."
+    },
+    {
+     "t": "Nếu giảm hoặc ngưng: hẹn khám lại sau 3–6 tuần; tái phát thì dùng lại ICS; từ 5 tuổi còn triệu chứng thì làm kiểm tra khách quan",
+     "v": "c",
+     "n": "GINA tr. 211: ngưng hoặc giảm bậc thì hẹn 3–6 tuần để biết triệu chứng có quay lại; NICE NG245 mục 1.9.4: tái phát hoặc cần corticoid uống/nhập viện thì dùng lại ICS liều thấp; mục 1.3.1: còn triệu chứng đến 5 tuổi thì làm test khách quan (đo chức năng hô hấp chỉ từ 5 tuổi: QĐ 3312 mục 2.5, tr. 687)."
+    },
+    {
+     "t": "Không chụp X-quang, làm xét nghiệm hay đo chức năng để 'xác nhận khỏi'; nói rõ khi nào cần tìm nguyên nhân khác: sốt, khè một bên, không đáp ứng thuốc hen, SpO₂ < 95% lúc không cơn",
+     "v": "c",
+     "n": "GINA 2026 Box 10-5 (tr. 199): không đáp ứng thuốc hen, không liên quan yếu tố khởi phát, dấu hiệu khu trú, SpO₂ < 95% khi tỉnh là chỉ báo tìm nguyên nhân khác; QĐ 3312 mục 2.4 (tr. 686) xét nghiệm không cần cho chẩn đoán hen."
+    },
+    {
+     "t": "Giải thích cho mẹ để nói lại với bà và bố: đỡ là nhờ thuốc kiểm soát, bé chưa 'khỏi hẳn', vì sao chưa ngưng ngay hoặc ngưng có kế hoạch; mời bà dự buổi hướng dẫn, giữ bình xịt cắt cơn ở nhà và lớp",
+     "v": "c",
+     "n": "GINA 2026 tr. 213: giáo dục cả người chăm sóc, đồng thuận mục tiêu điều trị; QĐ 3312 mục 4.6 (tr. 692–693): trao đổi với thầy cô, trẻ được mang và dùng thuốc cắt cơn. Căng thẳng gia đình là yếu tố nguy cơ đợt cấp (GINA Box 11-1, tr. 204). Cách nói cụ thể với bà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ kế hoạch hành động và salbutamol khi cần; giữ thuốc của người lớn trong hộp khóa",
+     "v": "c",
+     "n": "GINA tr. 214–215: kế hoạch hành động và xử trí tại nhà; WHO 2013 mục 1.6.5 (tr. 33): giữ thuốc ngoài tầm tay trẻ."
+    },
+    {
+     "t": "Giảm nửa liều budesonid (250 mcg/ngày) trong vài tuần rồi ngưng",
+     "v": "a",
+     "n": "QĐ 3312 (tr. 691) nói giảm liều khi kiểm soát tốt 3 tháng, không nêu số liều giảm; GINA tr. 211 chỉ nói 'bước xuống' và hẹn 3–6 tuần. Mức giảm cụ thể: không có trong tài liệu đã tải; chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Ngưng ngay hoàn toàn thuốc kiểm soát theo ý bà nội, không hẹn khám lại, không giữ kế hoạch hành động",
+     "v": "w",
+     "n": "Trái với GINA tr. 211 (hẹn 3–6 tuần sau khi ngưng hoặc giảm) và NICE NG245 mục 1.9.3 (xem lại sau 3 tháng); mục 1.9.4 dùng lại ICS khi tái phát. Tác hại cụ thể của việc ngưng không theo dõi: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hen phế quản trẻ em ≤ 5 tuổi, 3 tuổi, kiểm soát tốt sau khoảng 10 tuần budesonid khí dung 500 mcg/ngày (0/4 tiêu chí), chưa gọi là 'khỏi hẳn'",
+     "Tăng trưởng bình thường, không tác dụng phụ rõ của ICS liều thấp; chưa có đợt cấp, chưa nhập viện hay dùng corticoid uống",
+     "Yếu tố nguy cơ còn lại: bất đồng trong gia đình về thuốc (bà nội đòi ngưng), không xác định được yếu tố khởi phát"
+    ],
+    "phan_tich_chan_doan": [
+     "Xác nhận kiểm soát bằng 4 câu của GINA Box 11-1 (tr. 204) và hỏi nguy cơ, không bằng xét nghiệm (tr. 204; QĐ 3312 Bảng 3, tr. 689). Đáp ứng với thuốc dự phòng củng cố chẩn đoán đã ghi ở lượt 1 (GINA Box 10-2, tr. 195).",
+     "Vì sao không ghi 'khỏi': triệu chứng thuyên giảm ở nhiều trẻ ≤ 5 tuổi, nên cần xét lại nhu cầu thuốc mỗi 3–6 tháng (GINA tr. 211); hen là bệnh mạn, tái diễn (WHO 2013 tr. 101). Đây là điều cần nói rõ với bà nội: bé đỡ nhờ thuốc.",
+     "Khi nào cần kiểm tra thêm dù đã đỡ: khi không đáp ứng thuốc, khè một bên, SpO₂ < 95% lúc không cơn (GINA Box 10-5, tr. 199); khi bé 5 tuổi còn triệu chứng thì làm kiểm tra khách quan (NICE NG245 mục 1.3.1). Chưa có chỉ định hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Hai hướng đều đúng về thời điểm: tiếp tục đến đủ 3 tháng kiểm soát tốt rồi giảm hoặc thử ngưng (QĐ 3312 tr. 691; GINA tr. 209) hoặc thử ngưng ngay vì đã 8–12 tuần hết triệu chứng (NICE mục 1.9.3). Khác nhau vì QĐ 3312 (2015) dựa GINA cũ nói 'giảm liều' sau 3 tháng, còn NICE NG245 (2024) cho trẻ < 5 tuổi nêu thử ngưng sớm hơn; GINA không nêu mốc cố định.",
+     "Sau khi giảm hoặc ngưng: khám lại 3–6 tuần (GINA tr. 211), xem lại sau 3 tháng (NICE mục 1.9.3); tái phát hoặc cần corticoid uống thì dùng lại ICS liều thấp (NICE mục 1.9.4). Nếu ngưng vào mùa nhiều cơn của bé, cần bản kế hoạch hành động viết sẵn (GINA tr. 211).",
+     "Không cần chuyên khoa hay xét nghiệm (QĐ 3312 mục 4.5, tr. 692; NICE mục 1.3.3). Giữ salbutamol xịt ở nhà và lớp, giữ thuốc của bà trong hộp khóa (WHO 2013 tr. 33).",
+     "Mâu thuẫn gia đình còn lại: trả lời trực tiếp câu hỏi mẹ mang theo (ngưng được chưa), giải thích với cả nhà, mời bà đến buổi hướng dẫn; đồng thuận mục tiêu điều trị giữa gia đình và thầy thuốc quyết định thành công (GINA tr. 213)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Budesonid hỗn dịch khí dung (corticoid hít liều thấp)",
+      "ham_luong": "Theo nhãn ống khí dung sẵn có; tổng liều 500 mcg/ngày",
+      "lieu": "500 mcg/ngày chia 2 lần (250 mcg sáng, 250 mcg tối) cho đến đủ 3 tháng kiểm soát tốt; sau đó giảm hoặc thử ngưng theo hẹn của bác sĩ",
+      "duong": "Khí dung qua máy, mặt nạ vừa mặt; lau da quanh mũi miệng sau khi xong",
+      "thoi_diem": "Sáng và tối, hằng ngày",
+      "so_ngay": "Thêm khoảng 2–3 tuần cho đủ 3 tháng, rồi khám lại để quyết định ngưng hoặc giảm",
+      "ghi_chu": "QĐ 3312 tr. 691; GINA 2026 tr. 209, 211; NICE NG245 mục 1.9.3. Mức và lịch giảm liều cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Salbutamol bình xịt định liều",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Giữ nguyên: 2 nhát mỗi lần khi ho khè, lặp lại tối đa 2 lần cách 20 phút",
+      "duong": "Xịt qua buồng đệm có mặt nạ, từng nhát một",
+      "thoi_diem": "Chỉ khi có triệu chứng",
+      "so_ngay": "Khi cần; cần lại trong 4 giờ hoặc quá 3 lần trong 12 giờ thì đến cơ sở y tế",
+      "ghi_chu": "Giữ nguyên đơn lượt 1 (GINA 2026 tr. 214–215, Box 12-6 tr. 223). Kiểm tra bình còn hạn, còn thuốc, một bình ở lớp."
+     }
+    ],
+    "dan_do": [
+     "Bé kiểm soát tốt nhờ thuốc dự phòng, chưa gọi là khỏi hẳn: tiếp tục khí dung sáng tối đến hết 3 tháng rồi bác sĩ giảm hoặc thử ngưng; không tự ngưng sớm hay giấu thuốc (GINA tr. 211; QĐ 3312 tr. 691).",
+     "Khám lại 3–6 tuần sau khi giảm hoặc ngưng, rồi sau 3 tháng (GINA tr. 211; NICE mục 1.9.3). Nếu ho đêm, khè khi chạy quay lại, hoặc cần xịt salbutamol: đưa bé tái khám sớm để dùng lại thuốc (NICE mục 1.9.4).",
+     "Giữ bản kế hoạch hành động cho cả nhà và cô giáo; đến ngay nếu bé rất khó thở, rút lõm, tím, li bì, không nói hay uống được, hoặc cần xịt lại trong vòng 4 giờ (GINA tr. 215; Box 12-3, tr. 219).",
+     "Đo chiều cao mỗi năm (GINA tr. 211). Khi bé 5 tuổi mà còn triệu chứng thì làm kiểm tra khách quan (NICE mục 1.3.1; đo chức năng hô hấp chỉ làm được từ 5 tuổi, QĐ 3312 mục 2.5, tr. 687).",
+     "Thuốc hạ áp của bà tiếp tục cất trong hộp khóa (WHO 2013 tr. 33). Mời bà dự lần khám sau để cả nhà thống nhất cách theo dõi bé."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Bảo được xịt 4 nhát salbutamol qua buồng đệm mặt nạ; 30 phút sau thở êm, nhịp thở 26 l/p, SpO₂ 98%. Mẹ về với budesonid khí dung sáng tối, salbutamol xịt khi cần, bản kế hoạch hành động; mẹ bớt khóc khi biết đêm nay phải làm gì. Hai tuần sau bé hết ho đêm; sau 10 tuần bé kiểm soát tốt, tăng cân, tăng chiều cao. Bác sĩ cho dùng thuốc thêm cho đủ 3 tháng (QĐ 3312 tr. 691), rồi thử giảm và ngưng, hẹn khám sau 3–6 tuần (GINA tr. 211); bé vẫn ổn. Bà nội dự buổi hướng dẫn, thôi giấu thuốc và đồng ý để bình xịt ở túi bà khi trông bé; thuốc hạ áp của bà cất trong hộp khóa. Bố về cuối tuần đọc kế hoạch hành động, mẹ và bà hòa dịu hơn.",
+ "nhieu": [
+  "Sợ hãi quá mức: mẹ khóc, đòi chụp phổi, xét nghiệm, nhập viện; dễ chiều theo bằng xét nghiệm không cần. Gỡ bằng trấn an có cấu trúc: mức độ hiện tại, đáp ứng thuốc, vì sao chưa cần chụp, đêm nay làm gì (QĐ 3312 mục 4.6).",
+  "Lý do thật là mâu thuẫn gia đình: mẹ cần bác sĩ nói rõ trước bà nội và chồng; lộ khi hỏi ai trông bé và ở nhà mọi người nghĩ sao.",
+  "Thuốc hạ áp của bà (amlodipin): mẹ sợ bé nuốt nhầm; không có phơi nhiễm, nhưng phải hỏi, xem vỉ thuốc và dặn cất thuốc.",
+  "Hạt lạc: kéo bác sĩ sang dị vật đường thở; không hội chứng xâm nhập, khè hai bên, tái diễn từ trước.",
+  "Không rõ yếu tố khởi phát: hỏi đủ mà không tìm ra, không nên bịa nguyên nhân (như cảm lạnh hay máy lạnh)."
+ ],
+ "bai_hoc_bien": [
+  "Bốn đợt 'viêm phế quản' điều trị kháng sinh trước đó thực chất là hen chưa gọi tên: hỏi triệu chứng lúc không cảm (GINA Box 10-3, tr. 196) và nhìn lại các đơn cũ (ran rít, đỡ sau khí dung).",
+  "Ba tiêu chí hen ≤ 5 tuổi + loại trừ dị vật, viêm tiểu phế quản bằng lâm sàng; không cần X-quang hay xét nghiệm để trấn an mẹ (GINA Box 10-2, tr. 195; QĐ 3312 mục 2.4, tr. 686). Dừng lại trước khi chốt: 'còn nguyên nhân nào khác, và mình đang chiều nỗi sợ hay trả lời câu hỏi chuyên môn?'.",
+  "Gặp mẹ hoảng sợ, việc đầu tiên là đánh giá mức độ và cho thuốc cắt cơn, sau đó mới trấn an có cấu trúc (QĐ 3312 mục 4.6, tr. 692); hỏi thăm cả mẹ vì mâu thuẫn trong nhà làm tăng nguy cơ đợt cấp (GINA Box 11-1, tr. 204).",
+  "Thuốc của người lớn trong nhà (hạ áp của bà): hỏi, kiểm vỉ thuốc, khám, dặn cất thuốc ngoài tầm tay trẻ (WHO 2013 mục 1.6, 1.6.5).",
+  "Khi bé đã đỡ hoàn toàn: xác nhận bằng 4 câu kiểm soát, không bằng xét nghiệm; gọi là 'kiểm soát tốt' chứ chưa 'khỏi'; ngưng hay giảm thuốc có kế hoạch, hẹn 3–6 tuần, có bản kế hoạch hành động (GINA tr. 211; NICE NG245 mục 1.9.3; QĐ 3312 tr. 691)."
+ ],
+ "diem_nho": [
+  "Hen ≤ 5 tuổi: ≥ 2 đợt khò khè (mỗi đợt > 24 giờ) hoặc ≥ 1 đợt kèm triệu chứng giữa các đợt + không nguyên nhân khác + đáp ứng thuốc hen; thiếu thì ghi 'nghi hen' (GINA 2026 Box 10-2, tr. 195).",
+  "Mức nhẹ ≤ 5 tuổi: SpO₂ ≥ 94%, nói câu, thở ≤ 40 l/p, không dùng cơ phụ (Box 12-1, tr. 217). Chuyển ngay khi tím, không nói/uống được, thở > 40 l/p, SpO₂ < 92%, phổi im lặng, không đáp ứng salbutamol (Box 12-3, tr. 219).",
+  "Salbutamol đợt nhẹ: 4 nhát qua buồng đệm, lặp lại một lần sau 30–60 phút (GINA Box 12-4, tr. 220) hoặc 6 nhát, khám lại sau 20 phút (QĐ 3312 tr. 696). ICS liều thấp: budesonid khí dung 500 mcg/ngày (GINA Box 11-3, tr. 208). Trẻ 0–3 tuổi: pMDI + buồng đệm mặt nạ (Box 11-4, tr. 212).",
+  "Kiểm soát tốt: 0/4 tiêu chí trong 4 tuần (GINA Box 11-1, tr. 204). Thử ngưng ICS: sau 8–12 tuần hết triệu chứng, xem lại sau 3 tháng (NICE NG245 mục 1.9.3) hoặc giảm liều khi kiểm soát 3 tháng (QĐ 3312 tr. 691); sau giảm hoặc ngưng hẹn 3–6 tuần (GINA tr. 211).",
+  "Gửi chuyên khoa: nhập viện hoặc ≥ 2 lần cấp cứu vì khò khè/12 tháng (NICE mục 1.3.3), không kiểm soát sau 3–6 tháng (QĐ 3312 mục 4.5, tr. 692)."
+ ],
+ "nguon": [
+  "GINA 2026 Strategy Report (TL-0137) – ĐÃ ĐỌC (số trang theo số in ở chân trang): Section 10 (Box 10-2 tr. 195, Box 10-3 tr. 196, Box 10-4 và 10-5 tr. 199), Section 11 (Box 11-1 tr. 204, Box 11-3 tr. 208, tr. 209–211, Box 11-4 tr. 212, giáo dục và kế hoạch hành động tr. 213–214), Section 12 (tr. 214–215 xử trí tại nhà, Box 12-1 tr. 217, Box 12-3 tr. 219, Box 12-4 tr. 220, tr. 222, Box 12-6 tr. 223, tr. 224 độc tính SABA)",
+  "QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em (TL-0037) – ĐÃ ĐỌC: Hen phế quản trẻ em (mục 1–4.6, tr. 685–693, Bảng 1–3, bảng khởi đầu tr. 691); Xử trí cơn hen phế quản cấp (tr. 694–699); Viêm tiểu phế quản cấp (mục 1.2, 3.1, tr. 275–276); Dị vật đường thở (mục 3.1–3.3, 4.1, tr. 279–280)",
+  "NICE/BTS/SIGN NG245 2024, Asthma: diagnosis, monitoring and chronic asthma management (TL-0254) – ĐÃ ĐỌC: mục 1.3.1–1.3.3, 1.9.1–1.9.6",
+  "WHO 2013, Pocket book of hospital care for children, 2nd ed. (TL-0250) – ĐÃ ĐỌC: mục 1.6 và 1.6.1, 1.6.5 (tr. 26–27, 33), mục 4.4 (tr. 90–91), Bảng 8 (tr. 93), mục 4.5.2 Asthma (tr. 96–97, 100)",
+  "NICE NG9 2021, Bronchiolitis in children (TL-0260) – ĐÃ ĐỌC: mục 1.1.1 (chỉ tra phạm vi tuổi)",
+  "Không dùng: CARE (Lancet 2025, TL-0275) nhóm 5–15 tuổi, không áp dụng cho trẻ 3 tuổi (GINA tr. 209: nghiên cứu 2–5 tuổi đang tiến hành)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-20. Đã đọc TL-0137 (GINA 2026 mục 10–12), TL-0037 (QĐ 3312: Hen, Xử trí cơn hen cấp, Viêm tiểu phế quản, Dị vật), TL-0254 (NG245 mục 1.3, 1.9), TL-0250 (WHO 2013 mục 1.6, 4.4, 4.5.2, Bảng 8), TL-0260 (NG9 mục 1.1.1).",
+  "Chỗ đứng của 'thuốc hạ áp đang dùng' ở trẻ mẫu giáo: không bịa chỉ định thuốc hạ áp cho trẻ 3 tuổi mà đặt là amlodipin của bà nội (tăng huyết áp, ở cùng, trông bé), để trong túi vải; mẹ hoảng nghi bé nuốt nhầm. Dùng ở ba chỗ: (1) nhiễu thêm nỗi sợ của mẹ, đúng biến 'sợ hãi quá mức'; (2) câu hỏi phơi nhiễm và dặn cất thuốc (WHO 2013 mục 1.6, 1.6.5), chấm c; (3) cầu nối đến mâu thuẫn gia đình (bà nội, mẹ, vỉ thuốc). Gây nôn hoặc than hoạt 'cho chắc' chấm w. Xử trí ngộ độc amlodipin ở trẻ: không có trong tài liệu đã tải.",
+  "Biến lạ khác: 'không rõ yếu tố khởi phát' = hỏi đủ (virus, khói, hóa chất, thú, dị nguyên, gắng sức, thời tiết, tâm lý) mà không tìm ra, không bịa; 'mâu thuẫn gia đình' = bà nội phản đối thuốc, mẹ đến để có bác sĩ nói rõ, giấu (che_do giau); 'chỉ có xét nghiệm cơ bản' = có CTM, CRP, không X-quang, siêu âm; 'đỡ hoàn toàn khi tái khám' = lượt 2 sau 10 tuần, trọng tâm xác nhận kiểm soát, khi nào giảm hoặc ngưng ICS, khi nào cần kiểm tra thêm. Da k:0, không dùng ảnh da.",
+  "Mâu thuẫn theo sổ: liều salbutamol đợt nhẹ ≤ 5 tuổi (NH-0958 mục 1), prednisolon đợt nhẹ (mục 4), thời gian thử ICS (mục 5), mốc tái khám (mục 6), ngưỡng kiểm soát (NH-0982). Ghi nhận mới: thời điểm giảm hoặc ngưng ICS khi trẻ ≤ 5 tuổi đã hết triệu chứng (QĐ 3312 tr. 691, GINA tr. 209–211, NICE mục 1.9.3), xem NH-0974_mau_thuan.md.",
+  "Thiếu tài liệu: hàm lượng ống budesonid, biệt dược; số nhát salbutamol tối đa mỗi ngày ở nhà; mức và lịch giảm liều ICS; xử trí ngộ độc amlodipin ở trẻ; cách nói với người thân phản đối thuốc. Âm thanh: ran rít AT-PHOI-RAN-RIT-01 hai đáy và tim AT-TIM-NHANH-01 (mạch 108 ≥ 100) ở lượt 1; lượt 2 phổi AT-PHOI-BT-NL-01, tim không dùng tệp (mạch 94, tệp bình thường khoảng 60 l/p không khớp)."
+ ]
+}
