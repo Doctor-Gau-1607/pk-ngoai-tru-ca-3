@@ -1,0 +1,784 @@
+{
+ "ma_ca": "NH-0216",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_viem_hong_va_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm họng / VA cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống (cả nhà ăn gỏi cá trong bữa giỗ; bé được nhiều người bồng, có cháu họ sổ mũi)",
+  "thuoc_dang_dung": "Đông y đắp ngoài da (bà nội hơ nóng lá trầu không đắp ngực, lưng bé)",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư (mẹ sợ bệnh gan mật dẫn đến ung thư sau khi ăn gỏi cá, sợ lây cho con, sợ hạch dưới hàm của con là ung thư)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thảo Nguyên",
+  "tuoi": 0.5,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.2,
+  "chieu_cao": 65,
+  "xung_ho": "Bé 6 tháng, chưa nói được, ê a, khóc khi bị khám, nín khi mẹ bế. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ, gọi bé là 'con' hoặc 'bé Nguyên'.",
+  "tinh_cach": "Mẹ 30 tuổi, bán hàng ở quán hải sản của nhà chồng, nói nhỏ nhưng dồn dập, mắt đỏ vì mất ngủ, tay run khi bế con. Hay ngắt lời hỏi 'bác sĩ nói thật đi, bé có nặng không'; nghe chữ 'theo dõi' thì hiểu thành 'bệnh nặng'. Đọc nhiều trên mạng, dịu lại khi được nghe rõ từng bước: bác sĩ thấy gì, nghĩ gì, sẽ làm gì, khi nào quay lại.",
+  "kieu_nhieu": "Sợ hãi quá mức: giải thích bình thường bị mẹ nghe thành tai họa, hỏi lặp một câu, đòi lấy máu, chụp phim, chuyển viện 'cho chắc'. Nỗi sợ thật (ung thư) chỉ nói khi bác sĩ hỏi nhẹ mẹ lo điều gì nhất hoặc hỏi thăm sức khỏe mẹ; lúc đó mẹ bật khóc.",
+  "nguoi_nha": "Mẹ bé, chị Diễm, 30 tuổi, bế bé đi cùng, trả lời mọi câu hỏi (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a. Chồng làm biển, đi vắng; bà nội ở nhà.",
+  "ten_nguoi_nha": "Mẹ bé (chị Diễm)",
+  "ngoai_hinh": {
+   "da": "#efc29c",
+   "toc": "#1c1411",
+   "kieuToc": "tre",
+   "ao": "#bfd9c4",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e2ab82",
+    "toc": "#2a1c15",
+    "kieuToc": "dai",
+    "ao": "#8a8fb8",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 6 tháng sốt 2 ngày, nghẹt mũi, sổ mũi; mẹ rất lo, sờ thấy cục dưới hàm",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi",
+   "ecg"
+  ],
+  "loi_bao": "Trạm y tế xã ven biển không có xét nghiệm nào (không công thức máu, CRP, test liên cầu, phết họng, nước tiểu), không X-quang, siêu âm, CT, nội soi, điện tim. Trung tâm Y tế huyện cách 30 km (khoảng 50 phút xe máy); quyết định bằng hỏi bệnh, khám và hẹn tái khám có tiêu chí."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 3 của bệnh",
+   "tiep_don": "Bé gái 6 tháng, 7,2 kg, mẹ bế đến trạm y tế xã vì sốt 2 ngày, nghẹt mũi, sổ mũi, bú ngắt quãng. Sinh hiệu: nhiệt 38,2 °C, mạch 128 l/p, nhịp thở 40 l/p, SpO₂ 98%. Bé tỉnh, quấy khi bị khám, nín khi mẹ bế. Mẹ mắt đỏ, tay run, hỏi liền 'bé có nặng không bác sĩ'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Nguyên sốt 38,2 °C nhưng tỉnh, nín khi mẹ bế, còn bú, thở 40 l/p, SpO₂ 98%: nhóm 'xanh' nguy cơ thấp, chăm sóc tại nhà (NICE NG143 mục 1.2.7, 1.4.5), không có chỉ định nhập viện. Nằm viện chỉ vì mẹ sợ khiến bé bị đặt kim, tiếp xúc thêm mầm bệnh, còn nỗi sợ thật của mẹ chưa ai hỏi nên mẹ về vẫn mất ngủ.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện huyện 30 km lấy máu, chụp phim 'cho mẹ yên tâm' là quá tay: không thở nhanh (dưới 50 l/p), không rút lõm, phổi không ran, không giả mạc (QĐ 708 mục 3.1; QĐ 5643, Viêm V.A cấp mục 3.1.1.1); NICE NG143 mục 1.4.6 không chụp phim thường quy khi không nhập viện. Kết quả không đổi xử trí, mẹ càng tin 'phải chụp mới biết'."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt hai hôm nay, mũi khụt khịt, bú một chút lại bỏ. Em sợ lắm, bác sĩ nói thật cho em biết con em bị sao với bác sĩ. Dưới hàm bé còn có cục nữa.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "38,2",
+    "nhip_tho": 40,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 2 ngày (cao nhất 38,5 °C), nghẹt mũi từ 3 ngày, sổ mũi trong rồi đục, bú ngắt quãng nhưng còn bú khoảng ba phần tư lượng. Mẹ rất sợ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bu_nuoc",
+     "noi_dung": "Bú mẹ là chính, mới tập ăn bột 2 tuần. Tã ướt 5–6 cái/ngày, khóc có nước mắt, miệng ẩm, không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt (mất nước)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Không co giật, không li bì, không thở rên, không tím, không ban, không nôn tất cả, bé vẫn nhìn theo mẹ và cười khi chơi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho ít, không khò khè, mẹ không thấy bé thở nhanh hay co lõm ngực; bé không kéo tai, không chảy mủ tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở, triệu chứng tai"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Sổ tiêm chủng mẹ mang theo: đủ 3 mũi 5 trong 1 và 3 liều bại liệt lúc 2, 3, 4 tháng tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêm chủng (bạch hầu)"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Hai hôm nay bà nội hơ nóng lá trầu không đắp lên ngực và lưng bé 'cho hạ sốt, thông mũi'; mẹ cũng cho 1 gói paracetamol 80 mg mỗi khi sốt (2 lần). Không cho kháng sinh hay thuốc ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (đông y đắp ngoài da, paracetamol)"
+    },
+    {
+     "id": "hach",
+     "noi_dung": "Tối qua mẹ sờ thấy 'cục' nhỏ dưới hàm hai bên, bằng hạt đậu; bé không quấy khi sờ. Mẹ đã đọc trên mạng 'nổi hạch ở cổ là ung thư'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Hạch dưới hàm"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Chủ nhật tuần trước giỗ ông ngoại, khoảng 25 người, bé được nhiều người bồng; cả nhà ăn gỏi cá, mẹ ăn nhiều, bé chưa ăn cá. Cháu họ 4 tuổi sổ mũi, ho; 3 ngày sau bé sốt. Không ai bị bạch hầu hay có mảng trắng trong họng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn lây, bối cảnh khởi phát (ăn đồ sống)"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Mẹ ngồi chưa yên đã xin lấy máu, chụp phim hoặc chuyển bé lên bệnh viện 'cho chắc', hỏi lặp 'bé có sao không' dù đã được trả lời.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông ngoại mất vì ung thư gan hai năm trước. Từ bữa gỏi cá mẹ đọc trên mạng 'sán lá gan nhỏ gây ung thư đường mật', 4 ngày nay đầy bụng, ợ hơi, sợ mình đã mắc bệnh, sợ lây cho con qua sữa, sợ 'cục' dưới hàm con là ung thư. Mẹ chưa dám nói với chồng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ lo điều gì nhất, hỏi trong nhà có ai mắc bệnh nặng, hoặc hỏi thăm sức khỏe của mẹ một cách nhẹ nhàng; lúc đó mẹ bật khóc.",
+     "y": "Lý do thật: sợ mắc ung thư"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 7,2 kg. Bé tỉnh, quấy khi khám, nín khi mẹ bế, nhìn theo mẹ, cười đáp. Môi hồng, niêm mạc ẩm, khóc có nước mắt, thóp phẳng, mao mạch hồi sắc dưới 2 giây: không mất nước (NICE NG143 mục 1.2.16). Không tím, không rên.",
+     "k": 1,
+     "hien": "Cân 7,2 kg. Tỉnh, nhìn theo mẹ, cười đáp; môi ẩm, khóc có nước mắt, thóp phẳng."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Hạch dưới hàm hai bên và rãnh cảnh 0,5–1 cm, mềm, di động, hơi đau khi ấn, da trên hạch không đỏ; không hạch sau cơ ức đòn chũm, thượng đòn, nách. Cổ mềm.",
+     "k": 1,
+     "hien": "Thóp phẳng. Hạch dưới hàm hai bên nhỏ, mềm, di động. Cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch nhầy trong lẫn đục, niêm mạc phù; hút mũi xong bé thở êm, bú dễ hơn. Họng đỏ nhẹ, nhầy chảy từ vòm xuống thành sau họng; amidan nhỏ, không giả mạc, không điểm trắng. Tai: màng nhĩ hai bên hơi đục, mất bóng nhẹ, không phồng, không đỏ rực.",
+     "k": 1,
+     "hien": "Mũi có dịch nhầy đục, họng đỏ nhẹ, không thấy giả mạc. Màng nhĩ không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p, dưới ngưỡng thở nhanh 50 l/p của trẻ 2–11 tháng. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 40 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 128 l/p, T1 T2 rõ, không âm thổi; trong giới hạn của trẻ dưới 12 tháng (NICE NG143 Bảng 1). Mao mạch hồi sắc dưới 2 giây.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "da": {
+     "a": "Ngực và lưng có vài vệt đỏ nhạt do hơ lá nóng, không phỏng nước, không rách da. Không ban, không chấm xuất huyết, không vàng da.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được tại trạm",
+     "n": "Không cần: viêm mũi họng cấp dựa vào triệu chứng và khám mũi họng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2). Cơ sở cũng không có."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Không làm được tại trạm",
+     "n": "Không chỉ định: dưới 3 tuổi không làm xét nghiệm liên cầu thường quy (IDSA 2012 khuyến cáo I.5); có sổ mũi, nghẹt mũi (khuyến cáo I.4). Cơ sở cũng không có."
+    },
+    "phet_hong": {
+     "v": "n",
+     "r": "Không có giả mạc để lấy bệnh phẩm",
+     "n": "Nghi bạch hầu phải có giả mạc, bệnh phẩm lấy ở rìa giả mạc (QĐ 2957 mục 4.1, 5.1); bé không giả mạc, đã tiêm đủ 3 mũi. Cơ sở không có."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không có máy X-quang",
+     "n": "Bé có ho nhưng không thở nhanh, không rút lõm, phổi không ran: không chụp (NICE NG143 mục 1.4.6: không chụp thường quy khi không nhập viện)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm V.A cấp (viêm mũi họng cấp do virus) ở nhũ nhi 6 tháng, chưa biến chứng, không dấu hiệu nguy hiểm, kèm hạch phản ứng",
+     "ok": 1,
+     "n": "Sốt, nghẹt mũi, bú ngắt quãng, nhầy từ vòm chảy xuống, màng nhĩ xám đục không phồng, hạch nhỏ ở góc hàm, rãnh cảnh, hơi đau, không viêm quanh hạch (QĐ 5643, Viêm V.A cấp mục 3.1.1.1, tr. 137–138); sưng hạch góc hàm ấn đau nhẹ cũng gặp trong viêm mũi họng (Viêm mũi họng cấp tính mục 3.1.1)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: dưới 3 tuổi hiếm, không làm xét nghiệm thường quy (IDSA 2012 I.5); sổ mũi, nghẹt mũi là dấu hiệu virus (I.4); Centor 1 điểm (AWaRe 2022)."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc, hạch không sưng đau ở góc hàm, đã tiêm đủ 3 mũi, không dịch tễ (QĐ 2957 mục 3.1.3, 5.1; TT 10/2024 Phụ lục). Khởi phát bạch hầu cũng sổ mũi, hạch cổ nhỏ không đau (mục 3.1.2): dặn quay lại nếu có mảng trắng bám chắc."
+    },
+    {
+     "t": "Viêm phổi, viêm tai giữa cấp",
+     "n": "Thở 40 l/p dưới ≥ 50 l/p của 2–11 tháng, không rút lõm, phổi không ran (QĐ 708 mục 3.1; WHO 2013 tr. 76, Bảng 7); không kéo tai, màng nhĩ không phồng (AAP 2013 KAS 1A–1B)."
+    },
+    {
+     "t": "Hạch cổ do bệnh ác tính (ung thư vòm, u lympho)",
+     "n": "Hạch nhỏ, mềm, di động, hơi đau, hai bên, đi cùng viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1); ung thư vòm có triệu chứng mượn một bên (đau nửa đầu, ngạt mũi, ù tai cùng bên, xì máu mũi) (Ung thư vòm mục 3.1.1, tr. 284). Tỉ lệ ung thư hạch ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích bệnh do virus, tự lui, hầu hết hết trong 14 ngày",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90): không cho kháng sinh, hầu hết hết trong 14 ngày; QĐ 5643 (Viêm V.A cấp mục 4.1, 4.2): kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng. Sốt virus thường hết sau 3–5 ngày (Viêm mũi họng cấp tính mục 5.1): xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Làm thông mũi trước mỗi cữ bú (nước muối sinh lý, hút hoặc lau mũi bằng khăn ẩm xoắn nhọn); tiếp tục bú mẹ, chia cữ nhỏ; dạy mẹ nhận dấu hiệu mất nước",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm V.A cấp mục 4.2); WHO 2013 mục 4.4 (lau mũi trước bú; thêm sữa mẹ khi sốt); NICE NG143 mục 1.7.2 (dấu hiệu mất nước). Số lần nhỏ mũi mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt chỉ khi bé khó chịu, chỉ MỘT thuốc: paracetamol 100 mg/lần, cách ít nhất 6 giờ, không quá 4 lần/24 giờ; không lau nước ấm",
+     "v": "c",
+     "n": "AWaRe 2022 (Pharyngitis): 10–15 mg/kg mỗi 6 giờ, 6–<10 kg 100 mg (13,9 mg/kg); NICE NG143 mục 1.6.2, 1.6.4–1.6.6; trần 60 mg/kg/24 giờ ≈ 432 mg (QĐ 708, Viêm màng não mủ mục 4.2). WHO 2013 mục 4.4 hẹp hơn: chỉ khi sốt ≥ 39 °C và khó chịu."
+    },
+    {
+     "t": "Hỏi mẹ lo điều gì nhất, ghi nhận, rồi trấn an có cấu trúc: bác sĩ thấy gì, nghĩ gì, sẽ làm gì, khi nào quay lại; giải thích 'cục' dưới hàm là hạch phản ứng của viêm V.A",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm V.A cấp mục 3.1.1.1; Viêm mũi họng cấp tính mục 3.1.1). NICE NG143 mục 1.7.3: cha mẹ lo hơn là lý do hỏi lại. Kỹ thuật trấn an: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn bà nội ngưng hơ nóng, đắp lá lên da bé; kiểm tra da mỗi ngày",
+     "v": "c",
+     "n": "Hiệu quả, an toàn của đắp lá: không có trong tài liệu đã tải, không có chỉ định trong QĐ 5643 hay WHO 2013 mục 4.4 (sổ mâu thuẫn, NH-0440 mục 3). Da bé đã đỏ nhẹ."
+    },
+    {
+     "t": "Khuyên mẹ khám riêng ở Trung tâm Y tế huyện về đầy bụng, ợ hơi sau bữa gỏi cá; không ăn gỏi cá",
+     "v": "c",
+     "n": "QĐ 1172/2022: mục 1 (nhiễm do ăn cá chưa nấu chín như gỏi cá), mục 4.1 (nghi ngờ: ăn gỏi cá VÀ có triệu chứng), mục 3.3–3.4, mục 8. Trạm không có xét nghiệm. Sàng lọc người không triệu chứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 5 ngày nếu chưa đỡ; đến ngay nếu thở nhanh (≥ 50 l/p), rút lõm ngực, thở rên, bú kém hẳn, li bì, co giật, nôn tất cả, ban không mất khi ấn, tím tái, đau hay chảy mủ tai, mảng trắng bám chắc trong họng; sốt từ 5 ngày; ho trên 14 ngày",
+     "v": "c",
+     "n": "WHO 2013 Bảng 7 (tr. 81; mục 4.4); QĐ 708 mục 3.1 (thở nhanh ≥ 50 l/p); NICE NG143 mục 1.7.3 (co giật, ban không mất khi ấn, sốt từ 5 ngày); giả mạc: QĐ 2957 mục 3.1.3."
+    },
+    {
+     "t": "Amoxicillin 10 ngày theo kinh nghiệm",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn (nhũ nhi): QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) – chấp nhận. Không phải đáp án chính: dấu hiệu virus rõ, dưới 3 tuổi (IDSA 2012 I.4–I.5), Centor 0–2 (AWaRe 2022), Viêm V.A cấp (QĐ 5643 mục 4.1) chỉ dùng khi nghi nhiễm khuẩn."
+    },
+    {
+     "t": "Chuyển lên bệnh viện huyện lấy máu, chụp phim, siêu âm hạch 'cho mẹ yên tâm'",
+     "v": "w",
+     "n": "Không chỉ định: nhóm 'xanh', không thở nhanh, phổi sạch (NICE NG143 mục 1.4.5–1.4.6; QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2). Mẹ cần được hỏi và trấn an, không cần xét nghiệm của con."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm V.A cấp / viêm mũi họng cấp, nghĩ do virus, nhũ nhi nữ 6 tháng, 7,2 kg; chưa biến chứng (thở 40 l/p, dưới 50)",
+     "Nguy cơ thấp (nhóm 'xanh' NICE), không dấu hiệu nguy hiểm, không mất nước",
+     "Hạch dưới hàm, rãnh cảnh nhỏ, mềm, di động: hạch phản ứng của viêm V.A",
+     "Không giả mạc, đã tiêm đủ 3 mũi: không nghĩ bạch hầu; dưới 3 tuổi, có sổ mũi: không nghĩ liên cầu",
+     "Mẹ sợ hãi quá mức (sợ ung thư sau bữa gỏi cá); bà nội đắp lá hơ nóng lên da bé"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám; diễn tiến sốt, mũi, ho; bú và tã ướt; dấu hiệu nguy hiểm; tai; tiêm chủng; nguồn lây (giỗ, cháu họ sổ mũi); thuốc và việc đã làm kèm liều; sau cùng hỏi mẹ lo điều gì nhất. Nhũ nhi không khai được: thông tin đến từ mẹ và quan sát cữ bú.",
+     "Diagnostic timeout: trước khi kết luận 'cảm virus' tự hỏi: có đặc điểm vàng/đỏ của NICE (thóp phồng, ban không mất khi ấn, li bì, thở rên, thở nhanh) không; có giả mạc không; có dấu hiệu viêm tai, viêm phổi không. Cả ba đều không (NICE NG143 mục 1.2.7, Bảng 1; QĐ 2957 mục 5.1).",
+     "Khám: tỉnh, thóp phẳng, có nước mắt, thở 40 l/p, SpO₂ 98%; mũi nhầy đục, nhầy từ vòm chảy xuống, màng nhĩ xám đục không phồng, hạch nhỏ góc hàm, rãnh cảnh: viêm V.A cấp (QĐ 5643, Viêm V.A cấp mục 3.1.1.1). CLS: cơ sở không có và không cần (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); không test liên cầu dưới 3 tuổi (IDSA 2012 I.5); không phết họng vì không giả mạc (QĐ 2957 mục 4.1, 5.1); không X-quang vì phổi sạch, không thở nhanh (NICE NG143 mục 1.4.6).",
+     "Không nghĩ liên cầu: dưới 3 tuổi hiếm, sổ mũi là dấu hiệu virus (IDSA 2012 I.4–I.5); Centor 0–2 chỉ điều trị triệu chứng (AWaRe 2022). Không nghĩ bạch hầu: toàn phát có giả mạc dính chặt, hạch góc hàm sưng đau (QĐ 2957 mục 3.1.3); bé đã tiêm 3 mũi lúc 2, 3, 4 tháng (TT 10/2024 Phụ lục, bản chữ OCR); khởi phát giống cảm (mục 3.1.2) nên dặn quay lại nếu có mảng trắng bám chắc.",
+     "Chưa biến chứng: thở 40 l/p dưới ≥ 50 l/p của 2–11 tháng (QĐ 708 mục 3.1; WHO 2013 tr. 76), không rút lõm, phổi sạch (Bảng 7); màng nhĩ không phồng (AAP 2013 KAS 1A–1B).",
+     "Vì sao mẹ sợ quá mức: con đầu lòng, nhiều người nói, tra mạng 'hạch là ung thư', và nỗi sợ chưa nói ra (ông ngoại mất vì ung thư gan, mẹ vừa ăn gỏi cá). Hỏi sớm 'chị lo điều gì nhất' tránh xét nghiệm chiều lòng. Sán lá gan nhỏ nhiễm do ăn cá chưa nấu chín, chu kỳ qua ốc và cá nước ngọt (QĐ 1172/2022 mục 1, 1.4); lây qua sữa mẹ: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, chăm sóc tại nhà, hẹn tái khám có tiêu chí (NICE NG143 mục 1.4.5; WHO 2013 Bảng 7). Không kháng sinh (QĐ 5643 Viêm V.A cấp mục 4.1–4.2; WHO 2013 mục 4.4); amoxicillin theo QĐ 5643 Viêm mũi họng cấp tính mục 4.1 chấm chấp nhận (sổ mâu thuẫn). Không thuốc ho, long đờm, nhỏ mũi có hoạt chất (WHO 2013 mục 4.4).",
+     "Mũi và nước: nước muối, hút hoặc lau mũi trước cữ bú (QĐ 5643 mục 4.2; WHO 2013 mục 4.4); bú mẹ thêm (NICE NG143 mục 1.7.2).",
+     "Hạ sốt: khi khó chịu, một thuốc, paracetamol 100 mg (AWaRe 2022, 6–<10 kg; 13,9 mg/kg trong khoảng 10–15), tối đa 60 mg/kg/24 giờ ≈ 432 mg nên không quá 4 lần (QĐ 708 Viêm màng não mủ mục 4.2). Mẹ cho 80 mg (11 mg/kg): vẫn đúng liều. Không lau nước ấm (NICE NG143 mục 1.6.2–1.6.3).",
+     "Đắp lá hơ nóng: da đã đỏ nhẹ, dặn ngưng (không có dữ liệu trong tài liệu đã tải); nói với bà nội không trách.",
+     "Với mẹ: hỏi lo điều gì nhất, ghi nhận, giải thích bằng tiêu chí cụ thể (còn nước mắt, bú được, thở không nhanh, hạch nhỏ mềm di động đi kèm viêm V.A), đưa kế hoạch ngắn; hướng mẹ khám riêng ở Trung tâm Y tế huyện vì đầy bụng sau gỏi cá (QĐ 1172/2022 mục 4.1–4.2).",
+     "Dặn dấu hiệu nguy hiểm, tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7, mục 4.4; QĐ 708 mục 3.1; NICE NG143 mục 1.7.3). Tiêm nhắc DPT lúc 18 tháng, sởi lúc 9 tháng (TT 10/2024 Phụ lục)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ nhỏ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "100 mg/lần (≈ 13,9 mg/kg; cho phép 10–15 mg/kg = 72–108 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, quấy; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày ≈ 432 mg)",
+      "ghi_chu": "AWaRe 2022 (Pharyngitis): 10–15 mg/kg mỗi 6 giờ, 6–<10 kg 100 mg; NICE NG143 mục 1.6.4–1.6.6; QĐ 708 (Viêm màng não mủ mục 4.2): không quá 60 mg/kg/24 giờ."
+     },
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút hoặc lau mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm V.A cấp mục 4.2); WHO 2013 mục 4.4. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm V.A / viêm mũi họng cấp do virus: không cần kháng sinh, không cần xét nghiệm. Sốt thường hết sau 3–5 ngày, sổ mũi, ho có thể kéo đến 14 ngày (QĐ 5643; WHO 2013 mục 4.4).",
+     "'Cục' dưới hàm là hạch nhỏ, mềm, di động, thường gặp khi viêm V.A, sẽ nhỏ dần khi bé khỏi (QĐ 5643, Viêm V.A cấp mục 3.1.1.1); bác sĩ sờ lại ở lần tái khám.",
+     "Ngưng hơ nóng, đắp lá lên người bé. Paracetamol 100 mg khi bé quấy vì sốt, cách ít nhất 6 giờ, không quá 4 lần/ngày; không lau nước ấm; không tự mua thuốc ho, thuốc cảm (AWaRe 2022; NICE NG143 mục 1.6.2–1.6.6).",
+     "Cho bú mẹ thêm; nhỏ nước muối, hút mũi trước cữ bú. Mỗi ngày kiểm tra tã ướt ít nhất 4–6 cái, nước mắt, miệng ẩm, thóp không lõm (NICE NG143 mục 1.7.2).",
+     "Đến ngay nếu thở nhanh (từ 50 lần/phút khi nằm yên), thở rên, rút lõm ngực, bú kém hẳn, li bì, co giật, nôn tất cả, ban không mất khi ấn, tím tái, đau hay chảy mủ tai, mảng trắng bám chắc trong họng, hoặc khi mẹ thấy bé kém hơn (WHO 2013 mục 4.4; QĐ 708; NICE NG143 mục 1.7.3). Sốt từ 5 ngày hoặc chưa đỡ sau 5 ngày: khám lại; ho trên 14 ngày: khám tìm nguyên nhân khác (WHO 2013 Bảng 7).",
+     "Với mẹ: chị đầy bụng, ợ hơi từ sau bữa gỏi cá nên đi khám ở Trung tâm Y tế huyện, có thể được thử phân tìm trứng sán (QĐ 1172/2022 mục 3.3, 4.1–4.2); không ăn gỏi cá (mục 8). Cứ cho bé bú. Tiêm nhắc DPT lúc 18 tháng, sởi lúc 9 tháng (TT 10/2024 Phụ lục)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày (ngày thứ 8 của bệnh)",
+   "tiep_don": "Tái khám theo hẹn. Bé hết sốt từ hai hôm trước, bú và ăn bột khá hơn nhưng còn nghẹt mũi, sổ mũi đục, ho vài tiếng. Mẹ vừa thấy 'cục' dưới hàm trái to hơn hạt đậu và rất hoảng. Sinh hiệu: nhiệt 36,9 °C, mạch 116 l/p, nhịp thở 36 l/p, SpO₂ 98%. Bé tỉnh, chơi.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Nguyên đi siêu âm, chọc hay sinh thiết hạch vì mẹ sợ ung thư là quá tay: bé hết sốt, bú chơi tốt, hạch nhỏ, mềm, di động đi cùng viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1), còn trong mốc hết trong 14 ngày (WHO 2013 mục 4.4). Chọc, sinh thiết hạch dành cho nghi di căn (QĐ 5643, Ung thư vòm mục 3.1.2). Mẹ đi 50 phút xe cho thủ thuật không cần, nỗi sợ thật vẫn không ai hỏi.",
+    "nhap_vien": "Nhập viện theo dõi hạch khi bé hết sốt hai ngày, thở 36 l/p, SpO₂ 98%, bú chơi tốt là không có chỉ định (WHO 2013 Bảng 7; NICE NG143 mục 1.4.5). Bé tiếp xúc thêm mầm bệnh, mẹ càng tin 'bác sĩ giấu bệnh nặng', việc mẹ cần đi khám riêng vì đầy bụng sau gỏi cá bị trì hoãn thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt rồi mà mũi vẫn đục, ho nữa, mà cục dưới hàm bên trái em thấy to hơn. Bác sĩ cho bé siêu âm hay chụp gì đi, em không ngủ được mấy đêm rồi.",
+   "sinh_hieu": {
+    "mach": 116,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 36,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_sot",
+     "noi_dung": "Hết sốt từ đêm thứ 6. Bú gần đủ cữ, ăn nửa chén bột, ngủ được. Còn sổ mũi đục, ho vài tiếng ban ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đợt cấp"
+    },
+    {
+     "id": "nguy_hiem2",
+     "noi_dung": "Không sốt lại, không khò khè, không thở nhanh, không kéo tai, không nôn, không ban; tã ướt 5–6 cái/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng, dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "hach2",
+     "noi_dung": "Mẹ sờ thấy cục dưới hàm trái hôm qua; hai hôm nay không thấy to hơn thực sự, bé không quấy khi sờ. Không có cục chỗ khác, bé không sụt cân, không đổ mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạch: kích thước, đặc điểm, dấu hiệu báo động"
+    },
+    {
+     "id": "me_kham",
+     "noi_dung": "Mẹ vẫn đầy bụng, ợ hơi, thỉnh thoảng nặng tức dưới sườn phải lúc đói; chưa đi khám vì sợ nghe kết quả. Hai đêm nay mẹ không ngủ, tra mạng 'ung thư đường mật'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi thăm sức khỏe mẹ, hỏi mẹ ăn ngủ thế nào, hoặc hỏi lần trước dặn đi khám riêng mẹ đã đi chưa.",
+     "y": "Triệu chứng của mẹ sau bữa gỏi cá (người nghi ngờ sán lá gan nhỏ)"
+    },
+    {
+     "id": "doi_xn",
+     "noi_dung": "Mẹ xin siêu âm hạch, chụp CT hoặc 'lấy hạch xem có phải ung thư không', và xin chuyển bé lên bệnh viện tỉnh.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 7,3 kg. Tỉnh, chơi, cười đáp. Môi hồng, niêm mạc ẩm, khóc có nước mắt, thóp phẳng.",
+     "k": 1,
+     "hien": "Cân 7,3 kg. Tỉnh, chơi, cười đáp; môi ẩm, thóp phẳng."
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm trái 1 cm, mềm, di động, không đau, da trên hạch bình thường, không dính; hạch dưới hàm phải 0,5 cm. Không hạch sau cơ ức đòn chũm, thượng đòn, nách, bẹn. Cổ mềm.",
+     "k": 1,
+     "hien": "Hạch dưới hàm trái khoảng 1 cm, mềm, di động; bên phải nhỏ hơn. Cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch nhầy đục ít, niêm mạc phù nhẹ. Họng đỏ nhẹ, nhầy chảy từ vòm xuống, không giả mạc, không điểm trắng. Tai: màng nhĩ hai bên bóng, không phồng, không đỏ rực.",
+     "k": 1,
+     "hien": "Mũi có dịch nhầy đục ít; họng đỏ nhẹ, không thấy giả mạc. Màng nhĩ không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 36 l/p. Không rút lõm lồng ngực, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 36 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 116 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 116 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to, không sờ thấy khối.",
+     "k": 1,
+     "hien": "Bụng mềm, gan lách không to."
+    }
+   },
+   "cls": {
+    "sa_giap": {
+     "v": "n",
+     "r": "Không có máy siêu âm",
+     "n": "Không chỉ định: hạch nhỏ, mềm, di động đi cùng viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1); siêu âm hạch dùng khi nghi di căn (Ung thư vòm mục 3.1.2). Cơ sở không có."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm V.A cấp do virus đang hồi phục chậm bình thường (ngày 8), kèm hạch phản ứng dưới hàm; chưa biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, ăn bú khá hơn; ho, sổ mũi hầu hết hết trong 14 ngày (WHO 2013 mục 4.4); hạch nhỏ, mềm, di động đi cùng viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1)."
+    },
+    {
+     "t": "Bội nhiễm vi khuẩn (viêm xoang, viêm tai giữa cấp), thất bại điều trị",
+     "n": "Chưa đủ tiêu chuẩn: nghĩ viêm xoang vi khuẩn khi xấu đi sau 5–7 ngày hoặc kéo dài hơn 10 ngày (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.1, tr. 108); AWaRe 2022 (viêm xoang trẻ em): ≥ 10 ngày không cải thiện hoặc nặng lên rõ. Bé ngày 8, đang đỡ; màng nhĩ bình thường (AAP 2013 KAS 1A–1B)."
+    },
+    {
+     "t": "Hạch cổ do bệnh ác tính (ung thư vòm, u lympho)",
+     "n": "Hạch nhỏ, mềm, di động, không đau, hai bên, không sụt cân, không hạch nơi khác; ung thư vòm có triệu chứng mượn một bên, khám hạch cổ, nội soi vòm (QĐ 5643, Ung thư vòm mục 3.1.1, tr. 284). Ngưỡng kích thước, thời gian theo dõi hạch ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích hồi phục chậm bình thường, không phải thất bại điều trị; không kháng sinh; ho, sổ mũi có thể kéo đến 14 ngày",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90); QĐ 5643 (Viêm V.A cấp mục 4.1); dưới 10 ngày và đang đỡ thì theo dõi không kháng sinh (AWaRe 2022, viêm xoang trẻ em)."
+    },
+    {
+     "t": "Giải thích hạch phản ứng; không siêu âm, chọc hay sinh thiết hạch; sờ lại hạch ở lần tái khám",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm V.A cấp mục 3.1.1.1): hạch nhỏ ở góc hàm, rãnh cảnh, hơi đau, không viêm quanh hạch. Chọc, sinh thiết hạch dành cho nghi di căn (Ung thư vòm mục 3.1.2). Cơ sở không có siêu âm."
+    },
+    {
+     "t": "Tiếp tục nước muối, hút mũi trước cữ bú, bú mẹ; paracetamol 100 mg chỉ khi bé khó chịu, cách ít nhất 6 giờ, không quá 4 lần/24 giờ",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm V.A cấp mục 4.2); WHO 2013 mục 4.4; AWaRe 2022 (6–<10 kg 100 mg); NICE NG143 mục 1.6.4–1.6.6; trần 60 mg/kg/24 giờ (QĐ 708, Viêm màng não mủ mục 4.2)."
+    },
+    {
+     "t": "Hỏi thăm mẹ (ngủ, ăn, lo gì); đưa giấy giới thiệu mẹ lên Trung tâm Y tế huyện: đầy bụng, nặng tức hạ sườn phải sau gỏi cá, cần khám và xét nghiệm phân tìm trứng sán lá gan nhỏ",
+     "v": "c",
+     "n": "QĐ 1172/2022: mục 2.1 (đau tức hạ sườn phải, đầy bụng; đa số không triệu chứng), mục 4.1, 3.3–3.4, 4.2. Trạm không có xét nghiệm. Thời điểm phát hiện trứng sau ăn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an có cấu trúc, cho mẹ dấu hiệu báo động hạch (to dần, cứng, dính, bé sụt cân, sốt kéo dài, hạch nơi khác) và hẹn tái khám sau 10 ngày",
+     "v": "c",
+     "n": "Dấu hiệu báo động: tiêu chí thận trọng của người viết, ngưỡng số không có trong tài liệu đã tải; khám hạch cổ, nội soi vòm tìm ung thư vòm (QĐ 5643, Ung thư vòm mục 3.1.1). Hẹn lại: NICE NG143 mục 1.7.3; ho trên 14 ngày: WHO 2013 Bảng 7."
+    },
+    {
+     "t": "Amoxicillin theo kinh nghiệm vì 'sổ mũi đục 8 ngày'",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn (nhũ nhi): QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) – chấp nhận. Không phải đáp án chính: dưới 10 ngày và đang đỡ (AWaRe 2022); Viêm V.A cấp chỉ dùng kháng sinh khi nghi nhiễm khuẩn (QĐ 5643 mục 4.1)."
+    },
+    {
+     "t": "Chuyển siêu âm, chọc hay sinh thiết hạch ngay, hoặc chuyển bệnh viện tỉnh",
+     "v": "w",
+     "n": "Không chỉ định ở hạch phản ứng nhỏ, mềm, di động đang cùng diễn tiến viêm (QĐ 5643, Viêm V.A cấp mục 3.1.1.1; Ung thư vòm mục 3.1.2); bé nhóm 'xanh' (NICE NG143 mục 1.4.5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm V.A cấp do virus đang hồi phục chậm bình thường (ngày 8), chưa biến chứng",
+     "Hạch phản ứng dưới hàm (trái 1 cm, phải 0,5 cm), mềm, di động, không báo động; không nghĩ bạch hầu",
+     "Mẹ sợ hãi quá mức, nặng tức hạ sườn phải sau bữa gỏi cá: cần khám riêng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hồi phục chậm bình thường, không phải thất bại điều trị: hết sốt từ đêm 6, bú ăn tốt hơn, tai bình thường, thở 36 l/p, phổi sạch; ho, sổ mũi hầu hết hết trong 14 ngày (WHO 2013 mục 4.4). Nghĩ viêm xoang vi khuẩn khi ≥ 10 ngày không đỡ hoặc nặng lên (QĐ 5643, Viêm mũi xoang cấp tính mục 3.1.1; AWaRe 2022); bé ngày 8, đang đỡ.",
+     "Hạch nhỏ, mềm, di động, không đau, hai bên, bé không sụt cân, không hạch nơi khác, gan lách không to: biểu hiện của viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1). Ung thư vòm khởi phát bằng triệu chứng mượn một bên (Ung thư vòm mục 3.1.1), không giống bé. Ngưỡng theo dõi hạch ở nhũ nhi: không có trong tài liệu đã tải.",
+     "Hỏi thăm mẹ lộ triệu chứng: đầy bụng, ợ hơi, nặng tức hạ sườn phải sau gỏi cá. Đa số nhiễm sán lá gan nhỏ không triệu chứng, khi có thì rối loạn tiêu hóa, mệt, đau tức hạ sườn phải (QĐ 1172/2022 mục 2.1); từng ăn gỏi cá và có triệu chứng là ca nghi ngờ, cần xét nghiệm phân hoặc ELISA (mục 4.1, 4.2); ung thư đường mật được nêu liên quan ở thể nặng, người không điều trị (mục 2.2). Mẹ cần khám người lớn, không dùng bé hay trạm để trấn an."
+    ],
+    "phan_tich_xu_tri": [
+     "Về nhà, tiếp tục chăm sóc, hẹn tái khám sau 10 ngày hoặc sớm hơn nếu có dấu hiệu nguy hiểm (WHO 2013 Bảng 7; NICE NG143 mục 1.7.3). Không kháng sinh (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A cấp mục 4.1); amoxicillin theo QĐ 5643 Viêm mũi họng cấp tính mục 4.1 chấm chấp nhận (sổ mâu thuẫn).",
+     "Không siêu âm, chọc hay sinh thiết hạch: không chỉ định, trạm cũng không có. Dùng khám lại (sờ hạch, hỏi sụt cân, sốt kéo dài) để theo dõi; dặn dấu hiệu báo động (tiêu chí thận trọng, ngưỡng số không có trong tài liệu đã tải).",
+     "Với mẹ: nêu thẳng, nhẹ nhàng 'chị còn đầy bụng sau bữa gỏi cá, chị cần được khám', làm giấy giới thiệu lên Trung tâm Y tế huyện, hỏi lại ở lần tái khám; trấn an có cấu trúc (nỗi sợ, điều bác sĩ thấy ở bé, kế hoạch, mốc quay lại)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút hoặc lau mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Đến khi hết sổ mũi",
+      "ghi_chu": "QĐ 5643 (Viêm V.A cấp mục 4.2); WHO 2013 mục 4.4. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ nhỏ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "100 mg/lần (≈ 13,7 mg/kg, bé 7,3 kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi bé khó chịu vì sốt hoặc đau; cách ít nhất 6 giờ",
+      "so_ngay": "Khi cần; tối đa 4 lần/24 giờ",
+      "ghi_chu": "AWaRe 2022 (Pharyngitis, 6–<10 kg 100 mg); NICE NG143 mục 1.6.4–1.6.6; QĐ 708 (Viêm màng não mủ mục 4.2)."
+     }
+    ],
+    "dan_do": [
+     "Bé đang khỏi dần; ho, sổ mũi có thể kéo đến 14 ngày; không cần kháng sinh (WHO 2013 mục 4.4; QĐ 5643).",
+     "Cục dưới hàm là hạch phản ứng, sẽ nhỏ dần; mẹ sờ một lần mỗi ngày, đến ngay nếu hạch to nhanh, cứng, dính, bé sụt cân, sốt kéo dài, có cục chỗ khác (tiêu chí thận trọng; ngưỡng cụ thể không có trong tài liệu đã tải).",
+     "Chị nên đi khám ở Trung tâm Y tế huyện trong tuần này vì đầy bụng, nặng tức dưới sườn phải sau bữa gỏi cá, mang theo giấy giới thiệu (QĐ 1172/2022 mục 4.1–4.2). Đa số người nhiễm sán không có triệu chứng và bệnh có điều trị (mục 2.1, 5); không ăn gỏi cá (mục 8).",
+     "Đến ngay nếu bé sốt lại, thở nhanh (từ 50 lần/phút), rút lõm ngực, bú kém hẳn, li bì, đau hay chảy mủ tai (WHO 2013 mục 4.4; QĐ 708; NICE NG143 mục 1.7.3). Tái khám sau 10 ngày, bác sĩ sờ lại hạch; paracetamol 100 mg chỉ khi bé khó chịu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 10 ngày (ngày thứ 18 của bệnh)",
+   "tiep_don": "Tái khám theo hẹn. Bé hết sổ mũi, còn ho khan vài tiếng, bú và ăn bột tốt. Mẹ cho biết đã đi khám ở Trung tâm Y tế huyện hôm trước. Sinh hiệu: nhiệt 36,8 °C, mạch 112 l/p, nhịp thở 34 l/p, SpO₂ 99%. Bé tỉnh, chơi, bi bô.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Nguyên đi siêu âm, sinh thiết hạch hay nội soi vòm 'cho chắc' là quá tay: hạch nhỏ dần từ 1 cm xuống 0,5 cm, mềm, di động, bé khỏe, tăng cân (QĐ 5643, Viêm V.A cấp mục 3.1.1.1). Nội soi vòm, chọc hay sinh thiết hạch là bước tìm ung thư vòm khi có triệu chứng một bên hoặc hạch di căn (QĐ 5643, Ung thư vòm mục 3.1.1–3.1.2), bé không có. Mẹ học rằng mỗi lần lo là phải làm thêm xét nghiệm.",
+    "nhap_vien": "Nhập viện theo dõi hạch khi bé khỏi bệnh, ăn bú chơi tốt, không dấu hiệu nguy hiểm là không có chỉ định (WHO 2013 Bảng 7; NICE NG143 mục 1.4.5). Bé tiếp xúc thêm mầm bệnh, nỗi sợ của mẹ bị củng cố thành 'con em có bệnh nặng mà bác sĩ chưa nói'."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết bệnh rồi, còn cục nhỏ dưới hàm. Em đi khám rồi, bác sĩ bên huyện nói em không sao, mà em vẫn thấp thỏm, lỡ sau này con em bị thì sao.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khoi",
+     "noi_dung": "Hết sổ mũi từ ngày thứ 14, còn ho khan vài tiếng ban ngày; không sốt lại; bú, ăn bột, ngủ đều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau đợt cấp"
+    },
+    {
+     "id": "hach3",
+     "noi_dung": "Cục dưới hàm trái nhỏ lại còn bằng hạt gạo to, mẹ sờ không đau; bên phải không còn sờ thấy; không có cục chỗ khác; bé không sụt cân, không sốt kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạch: diễn tiến theo thời gian"
+    },
+    {
+     "id": "me_da_kham",
+     "noi_dung": "Mẹ đã khám ở Trung tâm Y tế huyện: khám bụng không đau, gan không to, soi phân không thấy trứng sán, dặn quay lại nếu đau hạ sườn phải, vàng da, sụt cân. Mẹ ngủ được hơn nhưng sáng nào cũng sờ cổ con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả khám của mẹ, nỗi lo còn lại"
+    },
+    {
+     "id": "lo_tuong_lai",
+     "noi_dung": "Mẹ hỏi có nên cho bé siêu âm, thử máu 'mỗi vài tháng cho chắc' không, và hỏi gỏi cá có để lại bệnh cho con không.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Sợ hãi quá mức còn lại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 7,5 kg, tăng 0,3 kg từ lúc khám đầu. Tỉnh, chơi, bi bô. Da hồng, niêm mạc ẩm.",
+     "k": 1,
+     "hien": "Cân 7,5 kg. Tỉnh, chơi, bi bô."
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm trái 0,5 cm, mềm, di động, không đau; bên phải không sờ thấy. Không hạch sau cơ ức đòn chũm, thượng đòn, nách, bẹn. Cổ mềm.",
+     "k": 1,
+     "hien": "Hạch dưới hàm trái khoảng 0,5 cm, mềm, di động; bên phải không sờ thấy."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi khô, niêm mạc hồng. Họng hồng, không giả mạc. Tai: màng nhĩ hai bên bóng, không phồng.",
+     "k": 0,
+     "hien": "Mũi khô, họng hồng, màng nhĩ không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p. Không rút lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Viêm V.A cấp do virus đã khỏi, hạch phản ứng dưới hàm nhỏ dần; không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, hết sổ mũi trong 14 ngày (WHO 2013 mục 4.4); hạch đi cùng viêm V.A (QĐ 5643, Viêm V.A cấp mục 3.1.1.1), nhỏ dần cùng diễn tiến bệnh."
+    },
+    {
+     "t": "Hạch cổ bệnh lý cần nội soi vòm, chọc hoặc sinh thiết hạch",
+     "n": "Hạch nhỏ dần, mềm, di động, bé khỏe, tăng cân; chưa có triệu chứng một bên (QĐ 5643, Ung thư vòm mục 3.1.1). Ngưỡng thời gian, kích thước để chuyển chuyên khoa ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bé khỏi: không thuốc, không siêu âm hay sinh thiết hạch; hạch 0,5 cm đang nhỏ dần chỉ cần theo dõi",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm V.A cấp mục 3.1.1.1, 4.1); chọc, sinh thiết hạch dành cho nghi di căn (Ung thư vòm mục 3.1.2). Cơ sở không có siêu âm."
+    },
+    {
+     "t": "Trấn an có cấu trúc cho mẹ: ghi nhận mẹ đã đi khám, nói rõ hạch bé nhỏ dần, giải thích vì sao không cần siêu âm, thử máu 'mỗi vài tháng cho chắc'; nêu khi nào quay lại",
+     "v": "c",
+     "n": "Dựa trên khám lại và diễn tiến (QĐ 5643, Viêm V.A cấp mục 3.1.1.1); NICE NG143 mục 1.7.3: cha mẹ lo hơn thì hỏi lại. Tầm soát định kỳ ở bé khỏe: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn sờ lại hạch khi đưa bé đi tiêm sởi lúc 9 tháng, sớm hơn nếu hạch to dần, cứng, dính, bé sụt cân, sốt kéo dài, có cục chỗ khác hoặc triệu chứng mũi, tai một bên kéo dài",
+     "v": "c",
+     "n": "Mốc sởi 9 tháng: TT 10/2024 Phụ lục (bản chữ OCR). Dấu hiệu báo động: tiêu chí thận trọng; ung thư vòm có triệu chứng mượn một bên (QĐ 5643, Ung thư vòm mục 3.1.1); ngưỡng cụ thể ở nhũ nhi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn gia đình không ăn gỏi cá; mẹ khám lại nếu đau hạ sườn phải, vàng da, sụt cân; nhắc DPT lúc 18 tháng",
+     "v": "c",
+     "n": "QĐ 1172/2022 mục 8, mục 2.1; TT 10/2024 Phụ lục (bản chữ OCR). Sán lá gan nhỏ lây qua sữa mẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển Tai Mũi Họng nội soi vòm, siêu âm hoặc sinh thiết hạch ngay",
+     "v": "w",
+     "n": "Không chỉ định: hạch nhỏ dần, không triệu chứng một bên (QĐ 5643, Ung thư vòm mục 3.1.1–3.1.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm V.A cấp do virus đã khỏi (ngày 18), không biến chứng",
+     "Hạch phản ứng dưới hàm trái nhỏ dần (0,5 cm), hạch phải hết; không báo động",
+     "Mẹ đã khám ở huyện, còn lo lắng: cần trấn an có cấu trúc và kế hoạch cụ thể"
+    ],
+    "phan_tich_chan_doan": [
+     "Diễn tiến đúng của viêm virus: hết sốt từ ngày 6, hết sổ mũi ngày 14 (WHO 2013 mục 4.4). Tai, phổi bình thường, tăng cân 0,3 kg: không biến chứng.",
+     "Hạch: từ 1 cm xuống 0,5 cm bên trái, bên phải không sờ thấy, mềm, di động, không đau; nhỏ dần cùng bệnh (QĐ 5643, Viêm V.A cấp mục 3.1.1.1). Không có triệu chứng mượn một bên của ung thư vòm (QĐ 5643, Ung thư vòm mục 3.1.1). Ngưỡng thời gian, kích thước để chuyển chuyên khoa ở nhũ nhi: không có trong tài liệu đã tải.",
+     "Mẹ đã khám ở huyện, soi phân không thấy trứng sán. Bác sĩ nhi nhắc: chị làm theo lời bác sĩ khám cho chị, quay lại khi đau hạ sườn phải, vàng da, sụt cân (QĐ 1172/2022 mục 2.1). Nỗi lo còn lại cần kế hoạch, không cần thêm xét nghiệm."
+    ],
+    "phan_tich_xu_tri": [
+     "Về nhà, không thuốc, không xét nghiệm (QĐ 5643 Viêm V.A cấp mục 3.1.1.1, 4.1; WHO 2013 mục 4.4). Hẹn sờ lại hạch lúc tiêm sởi 9 tháng, sớm hơn khi có dấu hiệu báo động (tiêu chí thận trọng).",
+     "Trấn an có cấu trúc: ghi nhận ('chị đã làm đúng khi đi khám'), kết quả của bé (hạch nhỏ dần, cân tăng, tai phổi bình thường), điều không cần làm (siêu âm, thử máu định kỳ), điều cần làm (sờ lại hạch lúc tiêm sởi, quay lại khi báo động). Mẹ còn lo kéo dài: gợi ý nói thêm với bác sĩ của mẹ (không có nguồn trong tài liệu đã tải).",
+     "Phòng bệnh: không ăn gỏi cá (QĐ 1172/2022 mục 8); tiêm sởi 9 tháng, DPT nhắc 18 tháng (TT 10/2024 Phụ lục)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Bé đã khỏi viêm V.A; không cần thuốc (QĐ 5643, Viêm V.A cấp mục 4.1; WHO 2013 mục 4.4). Nước muối chỉ khi còn nghẹt mũi: không có số lần trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi viêm V.A; hạch nhỏ dưới hàm trái đang nhỏ dần và sẽ hết (QĐ 5643). Không cần siêu âm, thử máu hay sinh thiết.",
+     "Mẹ sờ hạch tối đa một lần mỗi ngày; đến ngay nếu hạch to nhanh, cứng, dính, bé sụt cân, sốt kéo dài, có cục chỗ khác (tiêu chí thận trọng).",
+     "Đưa bé đi tiêm sởi lúc 9 tháng, nhắc DPT lúc 18 tháng; bác sĩ sờ lại hạch lúc đó (TT 10/2024 Phụ lục). Không ăn gỏi cá (QĐ 1172/2022 mục 8); chị quay lại khám nếu đau hạ sườn phải, vàng da, sụt cân (mục 2.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé hết sốt từ đêm thứ 6, hết sổ mũi ngày 14, khỏi không cần kháng sinh; tai, phổi không biến chứng. Hạch dưới hàm nhỏ dần từ 1 cm xuống bằng hạt gạo rồi hết. Bà nội ngưng đắp lá. Ở lượt 2 mẹ bật khóc kể nỗi sợ sau bữa gỏi cá; chị đi khám ở Trung tâm Y tế huyện, soi phân không thấy trứng sán, ngủ được và nói với chồng. Mẹ không còn đòi chụp, thử máu; hẹn bác sĩ sờ lại hạch lúc tiêm sởi.",
+ "nhieu": [
+  "Sợ hãi quá mức: mẹ nghe 'theo dõi' thành 'nặng', hỏi lặp, đòi lấy máu, chụp phim, chuyển viện. Gỡ bằng trấn an có cấu trúc (ghi nhận, điều bác sĩ thấy, kế hoạch, mốc quay lại).",
+  "Lý do thật: mẹ sợ mắc ung thư gan mật sau bữa gỏi cá (ông ngoại mất vì ung thư gan) và sợ hạch dưới hàm của con là ung thư; chỉ lộ khi bác sĩ hỏi mẹ lo điều gì nhất.",
+  "Không có xét nghiệm nào: công thức máu, CRP, test liên cầu, phết họng, X-quang, siêu âm hạch đều không có và không cần.",
+  "Đông y đắp ngoài da: bà nội hơ nóng lá trầu không đắp ngực lưng bé; da đỏ nhẹ; dặn ngưng (không có dữ liệu trong tài liệu đã tải).",
+  "Bữa giỗ ăn gỏi cá: yếu tố khởi phát (đông người, cháu họ sổ mũi) và nguồn nỗi sợ của mẹ; bé chưa ăn cá."
+ ],
+ "bai_hoc_bien": [
+  "Nhũ nhi sốt kèm nghẹt mũi: dùng thông tin từ mẹ, quan sát cữ bú và dấu hiệu nguy hiểm; nhóm 'xanh' NICE chăm sóc tại nhà (NICE NG143 mục 1.2.7, 1.4.5).",
+  "Hạch nhỏ, mềm, di động ở góc hàm là phần của viêm V.A cấp (QĐ 5643, Viêm V.A cấp mục 3.1.1.1); không chạy theo siêu âm hay sinh thiết khi bé khỏe.",
+  "Hỏi 'chị lo điều gì nhất' sớm: nỗi sợ thật của mẹ mới là lý do khám; trấn an có cấu trúc thay cho xét nghiệm chiều lòng. Mẹ sợ cho chính mình thì chuyển mẹ khám riêng (QĐ 1172/2022 mục 4.1), không dùng bé để trấn an mẹ.",
+  "Đỡ một phần: phân biệt hồi phục chậm bình thường (đến 14 ngày) với bội nhiễm (≥ 10 ngày không đỡ hoặc nặng lên) (WHO 2013 mục 4.4; AWaRe 2022)."
+ ],
+ "diem_nho": [
+  "Viêm V.A cấp: hút mũi, rỏ mũi, nâng đỡ; kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643, Viêm V.A cấp mục 4.1–4.2); cảm lạnh hầu hết hết trong 14 ngày (WHO 2013 mục 4.4).",
+  "Dưới 3 tuổi không test liên cầu thường quy; sổ mũi, nghẹt mũi là dấu hiệu virus (IDSA 2012 I.4–I.5). Trẻ 2–11 tháng thở ≥ 50 l/p là thở nhanh (QĐ 708 mục 3.1; WHO 2013 tr. 76).",
+  "Paracetamol nhũ nhi 6–<10 kg: 100 mg mỗi 6 giờ khi khó chịu (AWaRe 2022); không quá 60 mg/kg/24 giờ (QĐ 708, Viêm màng não mủ mục 4.2).",
+  "Sán lá gan nhỏ: nghi ngờ khi từng ăn gỏi cá và có triệu chứng; xét nghiệm phân hoặc ELISA (QĐ 1172/2022 mục 4.1, 3.3, 3.4); phòng bằng không ăn cá chưa nấu chín (mục 8)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 3.1.1, 3.1.2, 4.1, 4.3.1, 5.1, tr. 133–136); Viêm V.A cấp và mạn tính (mục 3.1.1.1, 4.1, 4.2, tr. 137–139); Viêm mũi xoang cấp tính (mục 3.1.1, tr. 108); Ung thư vòm mũi họng (mục 3.1.1, 3.1.2, tr. 284)",
+  "QĐ 2957 – Bộ Y tế, QĐ 2957/QĐ-BYT 2020, Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu – TL-0129 – ĐÃ ĐỌC: mục 3.1.2, 3.1.3, 4.1, 5.1",
+  "TT 10/2024/TT-BYT – Bộ Y tế 2024, vắc xin bắt buộc – TL-0005 – ĐÃ ĐỌC: Phụ lục, bạch hầu, sởi (bản chữ OCR lẫn lỗi)",
+  "QĐ 1172/QĐ-BYT 2022 – Bộ Y tế, Hướng dẫn chẩn đoán, điều trị và phòng bệnh sán lá gan nhỏ – TL-0167 – ĐÃ ĐỌC: mục 1, 1.4, 2.1, 2.2, 3.3, 3.4, 4.1, 4.2, 5, 8",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm phổi cộng đồng ở trẻ em (mục 3.1); Viêm màng não mủ (mục 4.2)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: 6. Pharyngitis (Centor, paracetamol theo cân nặng); viêm xoang trẻ em (mốc 10 ngày)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 (tr. 90–91), Bảng 7 (tr. 81), tr. 76",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.7, 1.2.16, Bảng 1, 1.4.5–1.4.6, 1.6.2–1.6.6, 1.7.2–1.7.3",
+  "IDSA 2012 – GAS pharyngitis guideline – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, I.5",
+  "AAP 2013 – AAP/AAFP acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1B",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: số lần nhỏ nước muối mỗi ngày; hiệu quả, an toàn của đắp lá hơ nóng lên da nhũ nhi; ngưỡng kích thước, thời gian theo dõi hạch cổ và tỉ lệ ung thư hạch ở nhũ nhi; sán lá gan nhỏ lây qua sữa mẹ; thời điểm phát hiện trứng sán sau ăn gỏi cá; sàng lọc người ăn gỏi cá không triệu chứng; kỹ thuật trấn an."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-21)",
+ "ghi_chu_bien_tap": [
+  "21/11/2026 – viết: Sonnet. Đặc tả sổ cái NH-0216 khớp đủ: nhũ nhi nữ 6 tháng, 3 lượt, không xét nghiệm nào, mẹ sợ hãi quá mức, bà nội đắp lá trầu hơ nóng, khởi phát bữa giỗ ăn gỏi cá (bé chưa ăn cá; diễn giải cho nhũ nhi), lý do thật sợ ung thư, tái khám đỡ một phần, kết cục khỏi ổn định.",
+  "Theo sổ mâu thuẫn: viêm họng đỏ cấp không xét nghiệm (nhũ nhi: không kháng sinh c, amoxicillin a, 08/11/2026); lịch tiêm bạch hầu (TT 10/2024); hạ sốt NICE so với WHO 2013; thời gian khỏi 3–5 ngày so với 14 ngày; mốc 10 ngày viêm xoang trẻ em; đắp ngoài da (NH-0440 mục 3). Không có mâu thuẫn thật mới.",
+  "Chỗ thiếu: bản chữ TT 10/2024 là OCR lẫn lỗi; ngưỡng theo dõi hạch cổ ở nhũ nhi không có trong tài liệu (dấu hiệu báo động là tiêu chí thận trọng của người viết); gói paracetamol 80 mg là dạng giả định.",
+  "Âm thanh: tim AT-TIM-NHANH-01 (mạch 128, 116, 112); phổi AT-PHOI-BT-NL-01. Không dùng ảnh da vì vệt đỏ do hơ lá không phải khám then chốt."
+ ]
+}
