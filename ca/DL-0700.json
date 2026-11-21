@@ -1,0 +1,444 @@
+{
+ "ma_ca": "DL-0700",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "DL_may_day_man_tu_phat",
+ "so_cai": {
+  "chuyen_khoa": "Da liễu",
+  "chan_doan_dich": "Mày đay mạn",
+  "chan_doan_phai_loai_tru": [
+   "Viêm mạch",
+   "Bệnh hệ thống"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân (trồng lúa, rau màu; lái máy cày thuê cho hàng xóm)",
+  "yeu_to_khoi_phat": "Sau khi ăn hải sản (tôm càng nướng, ghẹ hấp ở đám cưới)",
+  "thuoc_dang_dung": "Không (không thuốc tây, không thực phẩm chức năng; chỉ tắm lá kinh giới)",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư (cậu ruột mất vì ung thư gan, lúc đầu cũng ngứa nổi mẩn)"
+ },
+ "benh_nhan": {
+  "ten": "Huỳnh Văn Tâm",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa và rau màu, ngoài vụ lái máy cày thuê cho hàng xóm; ruộng xa nhà, đi xe máy ra đồng",
+  "can_nang": 64,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'em', gọi 'bác sĩ'. Anh gọi mẹ là 'mẹ', người cậu đã mất là 'cậu Sáu'.",
+  "tinh_cach": "Ít nói nhưng lễ phép, trả lời đúng ý, làm theo lời dặn. Hay nghe lời mẹ nên kiêng khem nhiều. Không hỏi dồn, chỉ kể đủ khi được hỏi từng chuyện. Bề ngoài bình thản; bên trong lo, đêm nào cũng nghĩ tới cậu Sáu.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời rõ, chịu giải thích, chịu uống thuốc đều. Không nhiễu; chỉ nói điều anh cho là liên quan (ngứa, mất ngủ, chuyện đồ biển). Chuyện cậu Sáu bị ung thư gan và nỗi sợ của anh chỉ lộ khi bác sĩ hỏi gia đình có ai bệnh nặng hoặc hỏi anh lo điều gì. Nghe giải thích rõ thì anh nhẹ người ra mặt.",
+  "nguoi_nha": "Đi một mình, xe máy 25 km từ xã; mẹ ở nhà",
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#d9b08c",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#5d6b4a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nổi mẩn ngứa khắp người hơn 2 tháng, ngứa nhiều về tối; nghĩ do ăn hải sản ở đám cưới, kiêng gần 9 tuần mà không hết",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 – Khám lần đầu",
+   "tiep_don": "Anh Huỳnh Văn Tâm, 27 tuổi, nông dân, đi xe máy một mình từ xã đến khám vì nổi mẩn ngứa khắp người hơn 2 tháng, ngứa nhiều về tối. Sinh hiệu lúc tiếp đón: mạch 74 l/p, HA 118/72 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 64 kg, cao 168 cm. Anh tỉnh, trả lời rõ, lễ phép. Linh đưa anh vào phòng khám.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho anh Tâm là quá tay: anh không phù lưỡi, không đau bụng, không khó thở, sinh hiệu ổn (QĐ 4416 mục 3.2.1 chỉ nhập viện khi phù mạch lưỡi hoặc đau bụng). Nằm viện mấy ngày giữa lúc ruộng vào vụ, tốn công và tiền, anh càng tin mình mắc bệnh nặng, đúng điều anh đang sợ, trong khi bệnh vẫn phải uống kháng histamin hằng ngày mới kiểm soát được (TL-0405 mục 5.4).",
+    "chuyen_tuyen": "Chuyển anh lên tuyến trên là chưa cần: anh chưa dùng kháng histamin thế hệ 2 liều chuẩn, bậc đầu tiên, mà bước kế (tăng tới gấp 4 lần liều rồi omalizumab) chỉ đặt ra khi không đáp ứng sau 2–4 tuần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Anh mất thêm một ngày công và tiền đi lại, nhận giấy chuyển viện thì càng nghĩ bệnh hiểm nghèo, dễ không về uống thuốc đều.",
+    "theo_doi": "Giữ anh theo dõi 24 giờ như phản vệ độ I là không cần: anh chỉ có biểu hiện da, không hô hấp, tuần hoàn, tiêu hóa, không phải ngay sau một dị nguyên mới (TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2), bệnh đã kéo dài hơn 10 tuần. Một ngày nằm phòng theo dõi không thay đổi điều cần làm là uống thuốc đều, ghi sổ và hẹn tái khám."
+   },
+   "loi_mo": "Chào bác sĩ. Em nổi mề đay khắp người gần hai tháng rưỡi rồi, ngứa nhất là buổi tối, ngứa quá ngủ không yên. Em nghĩ do ăn đồ biển hồi đám cưới nên em với mẹ kiêng hết rồi mà vẫn không hết. Bác sĩ coi giùm em bị gì.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nổi mẩn ngứa khắp người, nhiều nhất là cẳng tay, đùi, lưng, bụng, hơn 2 tháng. Ngứa nhiều về tối, gãi, ngủ không yên. Anh đến khám vì ngứa và vì muốn biết 'bị gì mà kiêng hết rồi vẫn không hết'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Khoảng 10 tuần (70 ngày). Nổi lần đầu đêm hôm đám cưới em họ; từ đó gần như ngày nào cũng nổi, chỉ có 2–3 ngày yên rải rác rồi nổi lại. Hiện không sốt, không ho, không đau bụng, ăn ngủ được trừ lúc ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian trên 6 tuần, nổi hằng ngày hoặc gần như hằng ngày: mày đay mạn (không phải cấp)"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Đám cưới em họ: anh ăn tôm càng nướng và ghẹ hấp, khoảng 2 tiếng sau ngứa rần rần rồi nổi nốt khắp người. Không khó thở, không sưng môi mắt. Từ hôm đó mẹ bắt kiêng tôm, cua, ghẹ, cá biển, đồ tanh, thịt gà, thịt trâu bò, rau muống; anh kiêng gần 9 tuần mà vẫn nổi mỗi ngày. Tuần trước lỡ ăn canh có tôm khô, hôm sau không nổi nhiều hơn. Trước đám cưới anh ăn hải sản vài lần, chưa từng nổi mẩn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau hải sản nhưng kiêng 9 tuần vẫn nổi hằng ngày: hải sản không phải yếu tố duy trì; không phải dị ứng thức ăn"
+    },
+    {
+     "id": "tung_not",
+     "noi_dung": "Mỗi nốt nổi cao, màu hồng đỏ, ngứa, to nhỏ khác nhau, có cái liền thành mảng; tồn tại khoảng 2–6 giờ rồi xẹp hết, không để lại thâm hay vết bầm; nốt này xẹp thì chỗ khác nổi. Không đau, không rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mỗi sẩn phù dưới 24 giờ, không để lại thâm: loại mày đay viêm mạch"
+    },
+    {
+     "id": "so_luong",
+     "noi_dung": "Mỗi ngày nổi chừng 30–40 nốt, vài hôm liền thành mảng lớn ở đùi. Hay nổi nhiều từ chiều tối đến gần sáng. Ngứa làm anh thức dậy gãi 2–3 đêm mỗi tuần, ban ngày vẫn ra đồng được. Anh nhớ lại 7 ngày qua, mỗi ngày tự chấm số nốt (0–3) cộng mức ngứa (0–3): 5, 5, 4, 5, 4, 3, 3, tổng khoảng 29/42.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số sẩn phù/24 giờ và mức ngứa: UAS7 ước khoảng 29/42, mốc để theo dõi"
+    },
+    {
+     "id": "phu_mach",
+     "noi_dung": "Chưa bao giờ sưng môi, mi mắt, lưỡi, họng. Không khàn tiếng, khó thở, khò khè, đau bụng, nôn, tiêu chảy, chóng mặt, ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không phù mạch, không hô hấp, tiêu hóa, tuần hoàn: không phản vệ, không nhập viện"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không sụt cân (64 kg nhiều tháng nay), không đổ mồ hôi đêm, không đau sưng khớp, loét miệng, ban sau nắng, rụng tóc, tiểu bọt hay tiểu máu, vàng da. Không có lúc ngứa mà không thấy nốt nổi. Không nổi hạch hay cục ở đâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại viêm mạch và bệnh hệ thống (lupus, tuyến giáp, tế bào mast, bệnh tự viêm, ung thư tiềm ẩn)"
+    },
+    {
+     "id": "vat_ly",
+     "noi_dung": "Nốt nổi cả khi anh ngồi nghỉ buổi tối trong nhà mát, nổi cả chỗ áo rộng không đụng, cả chỗ không hề phơi nắng. Làm đồng đổ mồ hôi, tắm nước nóng, tắm nước lạnh, đeo ba lô, ngồi máy cày rung đều không làm nổi riêng một chỗ. Gãi thì chỗ đó đỏ, đôi khi nổi thêm nhưng nốt không nổi theo đường vạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không yếu tố vật lý đặc hiệu: không phải mày đay cảm ứng (cholinergic, nhiệt, lạnh, áp lực, rung, nước)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không uống thuốc tây, thực phẩm chức năng, thuốc nam. Hai tuần trước mẹ nấu lá kinh giới cho tắm, không đỡ. Không dùng thuốc giảm đau, kháng viêm (ibuprofen, diclofenac, meloxicam), không aspirin, không thuốc huyết áp hay tim mạch. Đau mỏi lưng sau cày thì tự xoa dầu, không uống thuốc. Chưa uống thuốc kháng histamin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc: không NSAID, không ức chế men chuyển; chưa dùng kháng histamin; tắm lá không ảnh hưởng"
+    },
+    {
+     "id": "nghe_nghiep",
+     "noi_dung": "Làm lúa, rau màu; xịt thuốc trừ sâu 2 tuần một lần, có mặc áo dài tay, đeo khẩu trang và găng, rửa tay tắm ngay sau khi xịt; những hôm không xịt vẫn nổi. Hay lội ruộng chân trần, ăn rau sống, thỉnh thoảng ăn ốc đồng. Lần tẩy giun cuối khoảng 3 năm trước. Phân bình thường, không đau bụng, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nông: mày đay tiếp xúc (thuốc trừ sâu) và ký sinh trùng đường ruột chỉ là nhiễu cần hỏi, không có dữ kiện ủng hộ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nổi mề đay trước đây. Không hen, viêm mũi dị ứng, chàm; không dị ứng thuốc. Cha mẹ, anh chị em không ai nổi mề đay. Trong nhà không ai ngứa hay nổi mẩn, không ai nằm chung giường. Không hút thuốc; uống bia cuối tuần 2–3 lon.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, loại ghẻ (không ai trong nhà ngứa)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Cậu Sáu (em ruột của mẹ) mất cách đây 6 tuần vì ung thư gan, được chẩn đoán 5 tháng trước. Mẹ kể cậu 'lúc đầu cũng ngứa khắp người, nổi mẩn, uống thuốc dị ứng hoài không hết rồi mới phát hiện bệnh'. Anh xem video trên mạng nói 'mề đay kéo dài không khỏi là dấu hiệu ung thư' nên mấy đêm nay không ngủ được vì sợ, chưa dám nói với mẹ vì mẹ vừa mất em. Anh đến khám là để nghe bác sĩ nói 'không phải ung thư'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi trong nhà, họ hàng có ai bệnh nặng hoặc ung thư không, hỏi anh đang lo điều gì, hoặc nhắc đến bệnh nặng, bệnh ác tính.",
+     "k": 0,
+     "y": "Lý do thật đến khám: sợ mắc ung thư vì cậu ruột mất do ung thư gan, lúc đầu cũng ngứa nổi mẩn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thể trạng tốt (64 kg, BMI 22,7). Da niêm hồng, không vàng da, không phù chi. Hạch cổ, nách, bẹn không sờ thấy.",
+     "k": 0,
+     "hien": "Tỉnh, tiếp xúc tốt, thể trạng tốt, da niêm hồng, không vàng da, không phù chi. Hạch cổ, nách, bẹn không sờ thấy."
+    },
+    "da": {
+     "a": "Cẳng tay, đùi, lưng, bụng: nhiều sẩn phù hồng nhạt, nổi gồ nhẹ, ranh giới rõ, hình tròn, bầu dục hoặc vòng cung, 1–8 cm, bờ đỏ hơn giữa; ở đùi nhiều sẩn liền thành mảng 10–15 cm, ấn vào nhợt đi. Khoảng 30 sẩn toàn thân. Không thâm, ban xuất huyết, mụn nước, bọng nước, vảy, loét. Xước nhẹ do gãi ở cẳng tay. Kẽ ngón, cổ tay, nách, bẹn: không đường hầm, không mụn nước. Vạch da (10 phút): chỉ ửng đỏ, không nổi sẩn theo đường vạch.",
+     "k": 1,
+     "hien": "Cẳng tay, đùi, lưng, bụng: nhiều sẩn nổi gồ màu hồng, ranh giới rõ, hình tròn hoặc vòng cung, một số liền thành mảng lớn ở đùi (ảnh). Khoảng 30 sẩn. Không thâm, ban xuất huyết, mụn nước, bọng nước, vảy. Kẽ ngón, cổ tay, nách, bẹn bình thường. Vạch da: chỉ ửng đỏ.",
+     "media": [
+      {
+       "vi_tri": "Cẳng tay",
+       "id": "HA-DA-0353",
+       "chu": "Cẳng tay: các mảng nổi gồ màu hồng, ranh giới rõ, hình tròn và vòng cung, vài chỗ nối thành dải. Không mụn nước, vảy, loét, thâm."
+      },
+      {
+       "vi_tri": "Đùi",
+       "id": "HA-DA-0354",
+       "chu": "Đùi: nhiều sẩn và mảng hồng, nổi gồ nhẹ, rải rác, vài chỗ liền thành mảng lớn; giữa nhợt hơn bờ. Không mụn nước, vảy, loét, ban xuất huyết."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Môi, mi mắt, lưỡi, lưỡi gà không sưng. Họng không đỏ, amiđan không to. Giọng bình thường, không rít thanh quản.",
+     "k": 1,
+     "hien": "Môi, mi mắt, lưỡi, lưỡi gà không sưng; họng không đỏ; giọng bình thường."
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp tay, chân, cột sống không sưng nóng đỏ, không đau khi vận động; không đau cơ.",
+     "k": 1,
+     "hien": "Các khớp không sưng nóng đỏ, không đau khi vận động; không đau cơ."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không chướng. Gan, lách không to, không khối u.",
+     "k": 0,
+     "hien": "Bụng mềm, không đau, gan lách không to, không sờ thấy khối."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,4 G/L · Neutrophil 56% · Eos 3% · Hb 148 g/L · TC 258 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 56.0,
+      "neu": 4.14,
+      "lym_pct": 34.0,
+      "lym": 2.52,
+      "mono_pct": 6.0,
+      "mono": 0.44,
+      "eos_pct": 3.0,
+      "eos": 0.22,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 13.1,
+      "plt": 258
+     },
+     "n": "Xét nghiệm cơ bản của mày đay mạn tự phát: công thức máu có công thức bạch cầu (TL-0405 mục 4.2, 4.2.2, Bảng 8; QĐ 4416 mục 2.2). Bình thường: không thiếu máu, bạch cầu ái toan không tăng (bớt nghĩ tới ký sinh trùng, bệnh máu), không có chỉ điểm viêm. 50.000 đồng."
+    },
+    "mau_lang": {
+     "v": "u",
+     "r": "Máu lắng giờ đầu 5 mm",
+     "n": "Máu lắng và/hoặc CRP (TL-0405 Bảng 8: 'ESR and/or CRP'); QĐ 4416 mục 2.2 có máu lắng. Chỉ cần một trong hai; cả hai đều bình thường. 30.000 đồng."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 1 mg/L",
+     "bang": {
+      "crp": 1
+     },
+     "n": "Dùng thay hoặc cùng máu lắng để loại viêm toàn thân (TL-0405 mục 4.2.2, Bảng 8); CRP cao gợi ý bệnh nặng hoặc bệnh tự miễn kéo dài (TL-0405 mục 4.2.2, 4.2.5). Bình thường. 80.000 đồng."
+    },
+    "ige_tong": {
+     "v": "a",
+     "r": "IgE toàn phần 74 IU/mL (trong giới hạn bình thường)",
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (mục 2.2) có định lượng IgE; TL-0405 (Bảng 8) chỉ làm ở người theo chuyên khoa vì dự đoán đáp ứng omalizumab. Không đổi xử trí hôm nay. 150.000 đồng."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,6 mUI/L; FT4 trong giới hạn bình thường",
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (mục 2.2) có hormon tuyến giáp; TL-0405 (Bảng 8) xếp bệnh tuyến giáp vào nhóm xét nghiệm mở rộng theo bệnh sử. Anh không có triệu chứng tuyến giáp. 180.000 đồng."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Soi phân: không thấy trứng giun, ký sinh trùng; không hồng cầu, bạch cầu",
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416 (mục 2.2) có tìm ký sinh trùng; TL-0405 (mục 5.2.3) chỉ loại ký sinh trùng đường ruột 'nếu có chỉ định', Bảng 8 chỉ làm khi bệnh sử gợi ý. Anh lội ruộng, ăn rau sống nên hỏi và làm soi phân là hợp lý; ELISA tìm giun sán đặc hiệu chưa cần vì không đau bụng, tiêu chảy, bạch cầu ái toan không tăng. 40.000 đồng."
+    },
+    "ana": {
+     "n": "Không cần: không đau khớp, loét miệng, ban sau nắng, rụng tóc, tiểu bất thường; sẩn phù dưới 24 giờ, không thâm (QĐ 4416 mục 2.5 nêu lupus; TL-0405 mục 4.2, Bảng 8 chỉ xét nghiệm cơ bản). 250.000 đồng."
+    },
+    "bo_the": {
+     "n": "Không cần: C4, C1-INH chỉ làm khi chỉ có phù mạch không kèm sẩn phù (TL-0405 Bảng 8, chú thích ở hàng mày đay mạn tự phát); anh chưa bao giờ phù mạch. 200.000 đồng."
+    },
+    "sinh_thiet_da": {
+     "n": "Không cần: chỉ khi nghi mày đay viêm mạch (TL-0405 Hình 1, chú thích 7); sẩn phù của anh dưới 24 giờ, không thâm (chú thích 4). 600.000 đồng."
+    },
+    "test_lay_da": {
+     "n": "Không cần hôm nay: TL-0405 (Bảng 8) chỉ làm test dị ứng trong nhóm mở rộng theo bệnh sử; dị ứng thức ăn rất hiếm là nguyên nhân của mày đay mạn (mục 5.2.6) và anh kiêng gần 9 tuần mà vẫn nổi. Phản ứng ở đám cưới nếu muốn làm rõ thì hẹn khám dị ứng sau, không trì hoãn điều trị. 400.000 đồng."
+    },
+    "hp_ubt": {
+     "n": "Không cần: QĐ 4416 (mục 2.2) chỉ nêu test H. pylori khi viêm loét dạ dày - tá tràng; TL-0405 (mục 5.2.3) đặt H. pylori trong nhóm mở rộng theo bệnh sử. Anh không đau thượng vị, ợ chua, nôn. 350.000 đồng."
+    },
+    "noi_soi": {
+     "n": "Không cần: không triệu chứng tiêu hóa; QĐ 4416 (mục 2.2) chỉ nêu nội soi dạ dày khi viêm loét; TL-0405 (mục 4.2.2) không khuyến cáo chương trình tầm soát nguyên nhân rộng, tốn kém. 250.000 đồng."
+    },
+    "abdus": {
+     "n": "Không cần: khám bụng bình thường, men gan không nghi ngờ; không có trong TL-0405 Bảng 8 hay QĐ 4416 mục 2.2 cho mày đay mạn. Nỗi sợ ung thư gan được giải quyết bằng khám, hỏi và giải thích, không bằng chụp tầm soát (TL-0405 mục 4.2.2: tầm soát nguyên nhân rộng, tốn kém không được khuyên). 150.000 đồng."
+    },
+    "afp": {
+     "n": "Không cần: AFP không nằm trong xét nghiệm mày đay mạn (TL-0405 Bảng 8; QĐ 4416 mục 2.2); chỉ số này tầm soát ung thư gan ở nhóm nguy cơ, không dùng để tìm nguyên nhân mày đay. Tầm soát viêm gan B cho người có họ hàng ung thư gan là việc khác, không có trong tài liệu đã tải cho ca này. 120.000 đồng."
+    },
+    "virus_mau": {
+     "n": "Không cần cho mày đay: không có trong TL-0405 Bảng 8, QĐ 4416 mục 2.2. Anh không vàng da, men gan không nghi ngờ. 250.000 đồng."
+    },
+    "elisa_giun_luon": {
+     "n": "Không cần: soi phân bình thường, bạch cầu ái toan không tăng, không triệu chứng tiêu hóa; TL-0405 (mục 5.2.3) chỉ loại ký sinh trùng khi có chỉ định. Làm sau nếu có bạch cầu ái toan tăng hoặc triệu chứng mới. 300.000 đồng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mày đay mạn tính tự phát (CSU): sẩn phù hằng ngày khoảng 10 tuần, không yếu tố khởi phát đặc hiệu, không phù mạch; UAS7 ước khoảng 29/42",
+     "ok": 1,
+     "n": "Mày đay mạn: sẩn phù hoặc phù mạch hằng ngày hoặc gần như hằng ngày trên 6 tuần (QĐ 4416 mục 1.1, 2.4.1; TL-0405 mục 3.2); tự phát khi không có yếu tố khởi phát đặc hiệu (QĐ 4416 mục 2.4.2; TL-0405 Hình 1). Mỗi sẩn dưới 24 giờ, không để lại dát thâm (QĐ 4416 mục 2.1). UAS7: TL-0405 mục 4.2.6, Bảng 11. Ăn tôm ghẹ là mốc khởi phát, không phải nguyên nhân duy trì (TL-0405 mục 5.2.6). Chẩn đoán dựa vào lâm sàng (QĐ 4416 mục 2.3)."
+    },
+    {
+     "t": "Mày đay viêm mạch",
+     "n": "Nghĩ khi mỗi sẩn phù tồn tại trên 24 giờ, đau rát hơn ngứa, để lại thâm hay xuất huyết, kèm sốt, đau khớp; chẩn đoán bằng sinh thiết (QĐ 4416 mục 2.5; TL-0405 Hình 1, chú thích 4, 7). Anh: nốt 2–6 giờ, không thâm, không đau, không sốt, không đau khớp; máu lắng, CRP bình thường."
+    },
+    {
+     "t": "Bệnh hệ thống (lupus ban đỏ hệ thống, bệnh tuyến giáp tự miễn, bệnh tế bào mast, bệnh tự viêm, ung thư tiềm ẩn)",
+     "n": "QĐ 4416 (mục 2.5) nêu bệnh tế bào mast, lupus; TL-0405 (Bảng 7, mục 4.2.1, 4.2.2) nêu bệnh tự viêm, hội chứng tăng bạch cầu ái toan; ung thư tiềm ẩn chỉ 'rất hiếm' được báo cáo (mục 4.2.2). Anh không sốt, sụt cân, đổ mồ hôi đêm, hạch, vàng da, đau khớp, loét miệng; công thức máu, máu lắng, CRP, TSH bình thường: loại trên lâm sàng và xét nghiệm cơ bản, không cần tầm soát rộng (TL-0405 mục 4.2.2)."
+    },
+    {
+     "t": "Mày đay cấp do dị ứng hải sản (tôm, ghẹ) hoặc dị ứng thức ăn đi kèm",
+     "n": "Dị ứng thức ăn qua IgE khởi phát nhanh, vài phút đến 2 giờ sau ăn (có thể 4–6 giờ); mày đay cấp thường nổi sau ăn vài phút đến 1 giờ; mày đay mạn do thức ăn rất hiếm (QĐ 3942/2014, bài Dị ứng thức ăn mục 2a). TL-0405 (mục 4.2.2, 5.2.6): dị ứng thức ăn qua IgE 'extremely rarely' là nguyên nhân CSU; nếu có thì tránh dị nguyên sẽ thuyên giảm trong vòng 24 giờ. Phản ứng đầu của anh (2 giờ sau ăn) hợp một đợt mày đay cấp sau ăn, nhưng kiêng gần 9 tuần vẫn nổi mỗi ngày; bệnh đã quá 6 tuần nên là mạn (QĐ 4416 mục 2.4.1)."
+    },
+    {
+     "t": "Mày đay cảm ứng (cholinergic, vạch da, áp lực, nhiệt, lạnh, rung, nước, ánh nắng) hoặc mày đay tiếp xúc (thuốc trừ sâu, nhựa cây)",
+     "n": "Mỗi loại có yếu tố khởi phát riêng, có nghiệm pháp (QĐ 4416 mục 2.2, 2.4.2; TL-0405 Hình 1, chú thích 8, 9). Anh nổi cả khi nghỉ trong nhà mát, cả chỗ không phơi nắng, không theo mồ hôi, tắm nóng, lạnh, ngồi máy cày; vạch da chỉ ửng đỏ; những hôm không xịt thuốc trừ sâu vẫn nổi và nổi cả chỗ che kín: loại."
+    },
+    {
+     "t": "Ghẻ, ký sinh trùng đường ruột (lội ruộng, ăn rau sống) hoặc phát ban do thuốc",
+     "n": "Ghẻ: ngứa đêm, đường hầm ở kẽ ngón, cổ tay, nách, bẹn, nhiều người trong nhà cùng ngứa (QĐ 4416, bệnh ghẻ mục 2.1); anh không có, cả nhà không ai ngứa. Ký sinh trùng đường ruột là nguyên nhân hiếm, loại bỏ nếu có chỉ định (TL-0405 mục 5.2.3): soi phân bình thường, bạch cầu ái toan không tăng. Phát ban do thuốc: anh không dùng thuốc gì (QĐ 4416 mục 2.5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán: mày đay mạn tự phát là nổi hằng ngày hơn 6 tuần không tìm thấy nguyên nhân rõ; hải sản chỉ là mốc khởi phát, không phải nguyên nhân (kiêng 9 tuần không bớt); không lây; thuốc uống hằng ngày để kiểm soát; bệnh có thể kéo dài nhiều tháng đến nhiều năm và có thể tự khỏi bất kỳ lúc nào",
+     "v": "c",
+     "n": "Mày đay mạn thường kéo dài nhiều tháng, nhiều năm, không rõ căn nguyên (QĐ 3942/2014, bài Mày đay – phù Quincke mục 2b); tế bào mast giải phóng histamin (QĐ 4416 mục 1.3); bệnh có thể thuyên giảm bất cứ lúc nào (TL-0405 mục 5.4); dị ứng thức ăn rất hiếm gây CSU (mục 5.2.6). Tỉ lệ và thời gian khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng histamin H1 thế hệ 2 liều chuẩn, uống hằng ngày (không chỉ khi nổi): fexofenadin 180 mg × 1 lần/ngày hoặc desloratadin 5 mg × 1 lần/ngày (không gây buồn ngủ, hợp người lái máy cày); hoặc cetirizin 10 mg, loratadin 10 mg, levocetirizin 5 mg × 1 lần/ngày",
+     "v": "c",
+     "n": "Lựa chọn thứ nhất (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4: khuyến cáo mạnh, dùng đều đặn hằng ngày). Liều: QĐ 3942/2014, bài Các thuốc kháng histamin H1, Bảng 3. Fexofenadin và desloratadin không gây an thần; cetirizin có thể gây an thần nhẹ (cùng bài, mục 2a). TL-0405 (mục 5.4): không khuyến cáo chọn thuốc cụ thể; chọn theo nghề lái máy là cách áp dụng cho ca này."
+    },
+    {
+     "t": "Xét nghiệm hạn chế: công thức máu, máu lắng hoặc CRP là đủ (TL-0405); mở rộng theo bệnh sử, kể cả IgE, TSH, soi phân (QĐ 4416); chẩn đoán dựa vào lâm sàng, không bắt buộc xét nghiệm, không tầm soát ung thư",
+     "v": "c",
+     "n": "TL-0405 (mục 4.2.2, Bảng 8): xét nghiệm cơ bản gồm công thức máu, CRP và/hoặc máu lắng; không khuyến cáo chương trình tầm soát rộng, tốn kém. QĐ 4416 (mục 2.2): danh mục rộng hơn; mục 2.3: chẩn đoán xác định dựa vào lâm sàng. Ghi cả hai theo mục sổ mâu thuẫn (DL-0714): khác nhau vì QĐ 4416 là danh mục chung cho mày đay cấp và mạn, còn TL-0405 tính hiệu quả chẩn đoán thấp của xét nghiệm."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần với sổ ghi điểm hằng ngày (số nốt 0–3, ngứa 0–3, cộng 7 ngày thành UAS7; làm thêm UCT lúc tái khám); chưa kiểm soát thì tăng liều kháng histamin tới gấp 4 lần, không quá 4 lần; chưa đáp ứng nữa thì chuyển chuyên khoa cân nhắc omalizumab; đến sớm nếu sưng môi, mắt, lưỡi, họng, khó thở, đau bụng",
+     "v": "c",
+     "n": "Ghi cả hai mốc: QĐ 4416 (mục 3.2.2): sau 2–4 tuần chưa đáp ứng cân nhắc tăng liều tới gấp 4 lần, rồi omalizumab 150–300 mg mỗi 4 tuần; TL-0405 (mục 5.4, Hình 3): thụ thể bão hòa sau 1 tuần, UCT dưới 12 sau 7–28 ngày thì tăng bậc; khuyến cáo mạnh không quá 4 lần và báo người bệnh là ngoài chỉ định. Ngày thứ 21 nằm trong cả hai mốc. UAS7: TL-0405 mục 4.2.6, Bảng 11. Phù mạch lưỡi hoặc đau bụng là chỉ định nhập viện (QĐ 4416 mục 3.2.1); khó thở cần cấp cứu (mục 2.1)."
+    },
+    {
+     "t": "Tránh yếu tố có thể làm nặng: không tự uống thuốc giảm đau kháng viêm (ibuprofen, diclofenac, meloxicam, aspirin); khi đau lưng dùng paracetamol; tránh cào gãi; giữ ngủ đủ; không cần kiêng tôm cua, gà, trâu bò, rau muống kéo dài vì không có bằng chứng giúp ích (nếu thấy món nào làm nổi nhiều rõ rệt thì ghi lại để bàn)",
+     "v": "c",
+     "n": "NSAID làm nặng mày đay mạn ở tới 1/4 người bệnh, ngoại trừ paracetamol (TL-0405 mục 4.2.3, 5.2.1: khuyến cáo mạnh ngưng thuốc nghi làm nặng); tránh cào gãi (QĐ 4416 mục 4). Chế độ ăn kiêng chẩn đoán (ít chất giả dị ứng, ít histamin) chỉ cân nhắc cho người chọn lọc, 2–3 tuần, không được trì hoãn điều trị hiệu quả (TL-0405 mục 4.2.2, 5.2.6). Kiêng khem rộng không có trong khuyến cáo nào đã tải."
+    },
+    {
+     "t": "Hỏi anh đang lo điều gì; khi anh kể chuyện cậu Sáu, nhắc lại đúng nỗi sợ, giải thích mày đay mạn rất hiếm do ung thư, anh không có dấu hiệu nào gợi ý (không sụt cân, sốt, hạch, vàng da, gan lách không to, xét nghiệm cơ bản bình thường); dặn các dấu hiệu cần khám lại; khuyến khích anh nói với mẹ",
+     "v": "a",
+     "n": "TL-0405 (mục 4.2.2): chỉ 'rất hiếm' có báo cáo bệnh ác tính tiềm ẩn; không khuyên tầm soát rộng, tốn kém. Việc trấn an và nhận ra lý do thật là kỹ năng giao tiếp, không có điều khoản cụ thể trong tài liệu đã tải; danh sách dấu hiệu cảnh báo ung thư riêng cho mày đay: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid uống đợt ngắn cho đợt bùng nặng: 0,3–0,5 mg/kg trong 10–14 ngày (QĐ 4416), hoặc tối đa 10 ngày, 20–50 mg/ngày prednison tương đương (TL-0405)",
+     "v": "a",
+     "n": "QĐ 4416 (mục 3.2.2): corticosteroid ngắn ngày cho mày đay nặng, liều 0,3–0,5 mg/kg trong 10–14 ngày; TL-0405 (mục 5.4): cân nhắc đợt ngắn cho đợt bùng cấp của mày đay mạn, tối đa 10 ngày, 20–50 mg/ngày, bằng chứng thấp. Hai nguồn khác liều và số ngày (ghi cả hai theo mục sổ). Không bắt buộc hôm nay: anh chưa dùng kháng histamin, không phù mạch, ban ngày vẫn làm việc; chấm a, không phạt."
+    },
+    {
+     "t": "Kê kháng histamin thế hệ 1 (chlorpheniramin, hydroxyzin, promethazin, diphenhydramin) buổi tối để anh ngủ được",
+     "v": "w",
+     "n": "TL-0405 (mục 5.4): khuyến cáo không dùng thế hệ 1 đầu tay cho mày đay mạn (an thần, kháng cholinergic, tương tác rượu, quá liều tử vong). QĐ 3942/2014 (bài Mày đay – phù Quincke mục 4.2a; bài H1 mục 4a) từng cho thế hệ 1 buổi tối: khác năm (2014 so với 2026) và khác bối cảnh. Anh lái máy cày, đi xe máy 25 km, uống bia cuối tuần: thế hệ 1 'gây buồn ngủ nên thường bị cấm dùng cho người vận hành máy móc' (QĐ 3942/2014, bài H1 mục 1b). Ghi cả hai nguồn; chấm w vì nghề của anh."
+    },
+    {
+     "t": "Tiêm hoặc truyền corticoid (dexamethason, depot), hay uống corticoid kéo dài để 'cắt nhanh'",
+     "v": "w",
+     "n": "Khuyến cáo mạnh không dùng corticoid toàn thân kéo dài hay dạng depot trong mày đay mạn (TL-0405 mục 5.4); dùng kéo dài không được khuyến cáo do nhiều tác dụng phụ (QĐ 4416 mục 3.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mày đay mạn tính tự phát (CSU), không phù mạch; ICD-10 L50.1 (TL-0001, Phụ lục ICD-10)",
+     "Khoảng 10 tuần, hầu như hằng ngày; mỗi sẩn phù 2–6 giờ, không thâm; 30–40 sẩn phù/ngày, ngứa mất ngủ 2–3 đêm/tuần; UAS7 ước khoảng 29/42; vạch da âm tính",
+     "Khởi phát sau tôm càng, ghẹ ở đám cưới (đợt đầu 2 giờ sau ăn) nhưng kiêng gần 9 tuần vẫn nổi hằng ngày; không NSAID, không thuốc đang dùng",
+     "Đã loại: mày đay viêm mạch, bệnh hệ thống (kể cả ung thư tiềm ẩn), dị ứng thức ăn, mày đay cảm ứng và tiếp xúc, ghẻ, ký sinh trùng đường ruột (soi phân âm), phát ban do thuốc",
+     "Xét nghiệm cơ bản bình thường: công thức máu (Eos 3%), máu lắng 5 mm, CRP 1 mg/L, IgE toàn phần, TSH, soi phân",
+     "Lý do thật: sợ ung thư vì cậu Sáu mất do ung thư gan, lúc đầu cũng ngứa nổi mẩn; nhiễu: không đáng kể, hợp tác tốt, kiêng khem nhiều theo lời mẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hợp lý: lý do khám → thời gian, khởi phát, chuyện hải sản (kiêng rồi còn nổi không) → mỗi nốt tồn tại bao lâu, số nốt, ngứa → phù mạch, hô hấp, tiêu hóa → triệu chứng toàn thân, khớp → yếu tố gây nổi (vật lý, thuốc, nghề) → người nhà có ngứa không, ai trong nhà bệnh nặng, anh lo điều gì → khám toàn thân, da (kẽ ngón, vạch da), môi họng, khớp, hạch, bụng → công thức máu, máu lắng hoặc CRP.",
+     "Mày đay mạn: sẩn phù ngứa, xuất hiện rồi biến mất trong 24 giờ không để lại dát thâm (QĐ 4416 mục 2.1, 2.3); hằng ngày hoặc gần như hằng ngày trên 6 tuần (mục 2.4.1; TL-0405 mục 3.2); tự phát khi không có yếu tố khởi phát đặc hiệu (QĐ 4416 mục 2.4.2). Hỏi 'mỗi nốt nổi bao lâu', 'có làm nổi lên được không' để loại viêm mạch và mày đay cảm ứng (TL-0405 Hình 1, chú thích 4, 8).",
+     "Dừng lại trước khi chốt (diagnostic timeout): (1) nốt có nằm lì quá 24 giờ, để lại thâm, đau rát? (2) có sốt, đau khớp, sụt cân, hạch, vàng da? (3) có yếu tố khởi phát duy nhất lặp lại chắc chắn? Cả ba đều không: mày đay mạn tự phát. Hải sản là điểm neo dễ gây lệch: ăn xong nổi nên tưởng dị ứng; nhưng dị ứng thức ăn qua IgE nổi sau vài phút đến 2 giờ và mày đay mạn do thức ăn rất hiếm (QĐ 3942/2014, bài Dị ứng thức ăn mục 2a); TL-0405 (mục 5.2.6) coi là nguyên nhân CSU 'cực hiếm', tránh được thì thuyên giảm trong 24 giờ. Anh kiêng gần 9 tuần vẫn nổi mỗi ngày.",
+     "Vì sao không làm thêm xét nghiệm: TL-0405 khuyến cáo xét nghiệm hạn chế vì hiệu quả chẩn đoán thấp, không tầm soát rộng (mục 4.2.2, Bảng 8). ANA, bổ thể, sinh thiết, test dị ứng, nội soi, H. pylori, siêu âm bụng, AFP, ELISA giun sán chưa có chỉ điểm (xem ghi chú từng xét nghiệm). QĐ 4416 (mục 2.2) có danh mục rộng hơn (IgE, hormon tuyến giáp, ký sinh trùng...), nên các xét nghiệm đó chấm a. Không có chỉ điểm thì xét nghiệm bình thường không thay đổi xử trí, chỉ tốn tiền anh nông dân."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về nhà, kháng histamin H1 thế hệ 2 liều chuẩn hằng ngày, ghi sổ UAS, tái khám sau 3 tuần. Không nhập viện (chỉ khi phù mạch lưỡi hoặc đau bụng, QĐ 4416 mục 3.2.1), không chuyển tuyến (chưa thử bậc đầu), không theo dõi 24 giờ (không đủ tiêu chuẩn phản vệ, TT 51/2017 Phụ lục I mục I.2; WAO 2020 Bảng 2).",
+     "Thuốc bậc 1: kháng histamin H1 thế hệ 2 liều chuẩn, hằng ngày, đánh giá sau 2–4 tuần (QĐ 4416 mục 3.2.2) hoặc 7–28 ngày (TL-0405 Hình 3, mục 5.4); fexofenadin 180 mg/ngày (QĐ 3942/2014 Bảng 3). Chưa đáp ứng: tăng tới gấp 4 lần (không quá 4 lần), rồi omalizumab ở chuyên khoa (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Hai thuốc kháng histamin khác nhau không phối hợp (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4).",
+     "Nghề nông: chọn thuốc không buồn ngủ vì lái máy cày và chạy xe máy (QĐ 3942/2014, bài H1 mục 1b, 2a); tránh thế hệ 1 buổi tối. Chống corticoid dài ngày, depot (TL-0405 mục 5.4). Đợt corticoid ngắn chỉ cho đợt bùng nặng, hôm nay chưa cần.",
+     "Quỹ đạo bình thường của bệnh (kết cục 'khỏi chậm hơn dự kiến'): kháng histamin không làm hết ngay; đáp ứng đánh giá sau vài tuần, nhiều người phải tăng bậc, bệnh có thể kéo dài tháng đến năm và có thể khỏi bất kỳ lúc nào (QĐ 3942/2014 mục 2b; TL-0405 mục 5.4). Hết triệu chứng chưa phải khỏi: giữ liều, đánh giá lại nhu cầu thuốc mỗi 3–6 tháng, hạ bậc sau 3–6 tháng hết triệu chứng (TL-0405 Hình 3, mục 5.4); QĐ 4416 (mục 3.2.2, 4) giữ liều vài tuần đến 1 tháng, không tự ý ngừng. Cần lo khi nổi nhiều hơn dù dùng thuốc đều, nốt nằm lì trên 24 giờ, thâm, sốt, đau khớp, sụt cân, hạch, vàng da, hoặc sưng môi, lưỡi, họng, khó thở, đau bụng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fexofenadin",
+      "ham_luong": "180 mg/viên",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Mỗi tối, cùng một giờ vì sẩn phù hay nổi chiều tối đến sáng sớm (QĐ 3942/2014, bài Mày đay – phù Quincke mục 2a); giờ uống tối ưu: không có trong tài liệu đã tải",
+      "so_ngay": "21 ngày, rồi tái khám; tổng thời gian theo đáp ứng, không tự ngưng (QĐ 4416 mục 3.2.2, mục 4)",
+      "ghi_chu": "Liều chuẩn: QĐ 3942/2014, bài H1, Bảng 3. Uống đều hằng ngày kể cả hôm không nổi (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4). Không gây an thần (QĐ 3942/2014, bài H1 mục 2a); không giảm liều theo tuổi, giảm khi tổn thương thận (Bảng 4; anh thận bình thường, mức giảm: không có trong tài liệu đã tải). Không dùng cùng thuốc kháng histamin khác. Thay thế: desloratadin 5 mg × 1 lần/ngày (cùng Bảng 3)."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi, không thuốc (hoặc bột talc xoa da khi ngứa)",
+      "ham_luong": "—",
+      "lieu": "Bôi mỏng 1–2 lần/ngày lên vùng da khô hay ngứa; bột talc xoa nhẹ khi ngứa, không gãi",
+      "duong": "bôi ngoài da",
+      "thoi_diem": "Sau tắm nước mát, không chà xát",
+      "so_ngay": "Theo nhu cầu",
+      "ghi_chu": "Điều trị hỗ trợ: dưỡng ẩm, làm dịu da; bột talc xoa da giảm ngứa, giảm cào gãi (QĐ 4416 mục 3.2.2). Vai trò corticoid bôi trong mày đay: không có trong tài liệu đã tải. Loại và lượng cụ thể: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống fexofenadin mỗi tối một viên, kể cả hôm không nổi, ít nhất đến ngày tái khám, không tự ngưng, không tự thêm thuốc khác (QĐ 4416 mục 3.2.2, mục 4; TL-0405 mục 5.4). Thuốc không gây buồn ngủ nên vẫn lái máy cày, đi xe máy được; nếu thấy buồn ngủ bất thường thì báo (QĐ 3942/2014, bài H1 mục 2a).",
+     "Ghi sổ mỗi tối (số nốt 0–3, ngứa 0–3), cộng 7 ngày thành UAS7, mang đi khi tái khám sau 3 tuần (TL-0405 mục 4.2.6, Bảng 11). Nếu chưa bớt, chưa phải thuốc không hợp: bác sĩ sẽ tăng liều từng bước, tăng liều là ngoài chỉ định ghi trên hộp thuốc nhưng được khuyến cáo (TL-0405 mục 5.4).",
+     "Không tự uống thuốc giảm đau, kháng viêm (ibuprofen, diclofenac, meloxicam, aspirin) vì có thể làm nổi nhiều hơn; đau lưng thì dùng paracetamol (TL-0405 mục 4.2.3). Không cần kiêng tôm cua, gà, trâu bò, rau muống kéo dài; nếu món nào ăn vào làm nổi nhiều rõ rệt thì ghi lại. Tránh gãi, tắm nước mát, mặc đồ rộng.",
+     "Anh không bị ung thư, mày đay mạn cũng không lây và rất hiếm do ung thư (TL-0405 mục 4.2.2); nên nói với mẹ để mẹ khỏi lo và không bắt kiêng nữa. Đến ngay nếu sưng môi, mắt, lưỡi, họng, khàn tiếng, khó thở, đau bụng, chóng mặt (QĐ 4416 mục 2.1, 3.2.1). Đến sớm nếu nốt nằm lì trên 1 ngày, thâm tím, sốt, đau khớp, sụt cân, nổi hạch, vàng da."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Tâm uống fexofenadin 180 mg mỗi tối, ghi sổ UAS đều. Sau 3 tuần anh bớt nổi nhưng chưa hết (UCT dưới 12), nên được tăng liều từng bước tới gấp 4 lần theo khuyến cáo; vài tháng sau mới hết hẳn. Anh hiểu bệnh không do hải sản, không lây, không phải ung thư; mẹ thôi bắt kiêng; anh không tự ngưng thuốc. Kế hoạch giữ liều rồi hạ bậc khi hết triệu chứng 3–6 tháng, đến sớm nếu nổi nhiều hơn hoặc có dấu mới. Không nhập viện, không chuyển tuyến.",
+ "nhieu": [
+  "Khởi phát sau hải sản: dễ kết luận dị ứng thức ăn và dặn kiêng thêm; nhưng anh kiêng gần 9 tuần vẫn nổi mỗi ngày, lỡ ăn tôm khô không nổi thêm; phải hỏi 'kiêng rồi còn nổi không'.",
+  "Lý lẽ kiêng khem của mẹ (kiêng cả gà, trâu bò, rau muống): dễ chấp nhận hoặc dặn kiêng tiếp; phải nhận ra không có bằng chứng, chỉ nên ghi món nào làm nổi nhiều rõ rệt.",
+  "Nghề nông: thuốc trừ sâu, lội ruộng, rau sống làm nghĩ tới mày đay tiếp xúc hay giun sán; nổi cả chỗ che kín, cả hôm không xịt, bạch cầu ái toan không tăng.",
+  "Lý do thật: sợ ung thư vì cậu ruột mất do ung thư gan, lúc đầu cũng ngứa nổi mẩn; chỉ lộ khi hỏi trong nhà ai bệnh nặng hoặc hỏi anh lo điều gì; không trấn an thì anh vẫn mất ngủ dù đã có thuốc.",
+  "Nguồn lực đầy đủ: dễ chỉ định cả loạt (ANA, bổ thể, siêu âm bụng, AFP, nội soi, test dị ứng) cho yên tâm; phải biện luận vì sao không chỉ định, chỉ làm công thức máu, máu lắng hoặc CRP."
+ ],
+ "bai_hoc_bien": [
+  "Mày đay mạn: sẩn phù hằng ngày hoặc gần như hằng ngày trên 6 tuần (QĐ 4416 mục 2.4.1; TL-0405 mục 3.2); mỗi sẩn dưới 24 giờ, không thâm là dấu loại viêm mạch (TL-0405 Hình 1, chú thích 4, 7); ghi UAS7 làm mốc (TL-0405 Bảng 11).",
+  "Khởi phát sau hải sản không đồng nghĩa nguyên nhân: dị ứng thức ăn qua IgE nổi sau vài phút đến 2 giờ, mày đay mạn do thức ăn rất hiếm (QĐ 3942/2014, bài Dị ứng thức ăn mục 2a); là nguyên nhân CSU 'cực hiếm', tránh được dị nguyên thì thuyên giảm trong 24 giờ (TL-0405 mục 5.2.6). Kiêng dài mà vẫn nổi là bằng chứng ngược.",
+  "Xét nghiệm hạn chế: công thức máu, máu lắng và/hoặc CRP (TL-0405 mục 4.2.2, Bảng 8); không tầm soát ung thư; ung thư tiềm ẩn chỉ 'rất hiếm' (TL-0405 mục 4.2.2). Khi người bệnh sợ ung thư, trấn an bằng khám, hỏi, giải thích.",
+  "Kháng histamin thế hệ 2 hằng ngày, đánh giá sau 2–4 tuần, tăng tới gấp 4 lần trước omalizumab (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4, Hình 3). Người lái máy: tránh thế hệ 1 (QĐ 3942/2014, bài H1 mục 1b). Hết nổi chưa phải khỏi: hạ bậc sau 3–6 tháng (TL-0405 Hình 3)."
+ ],
+ "diem_nho": [
+  "Mày đay mạn: sẩn phù hoặc phù mạch hằng ngày hoặc gần như hằng ngày trên 6 tuần; tự phát khi không có yếu tố khởi phát đặc hiệu (QĐ 4416 mục 2.4.1, 2.4.2).",
+  "UAS7 = tổng 7 ngày (mỗi ngày 0–3 sẩn phù + 0–3 ngứa), tối đa 42; UCT 4 câu, tối đa 16, từ 12 là kiểm soát tốt (TL-0405 Bảng 11, mục 4.2.6, Hình 3).",
+  "Kháng histamin thế hệ 2 liều chuẩn hằng ngày; không kiểm soát sau 2–4 tuần thì tăng tới gấp 4 lần, không quá 4 lần (QĐ 4416 mục 3.2.2; TL-0405 mục 5.4); fexofenadin 180 mg × 1/ngày (QĐ 3942/2014 Bảng 3).",
+  "Không phối hợp hai kháng histamin, không corticoid kéo dài hay depot; NSAID làm nặng mày đay mạn (TL-0405 mục 4.2.3, 5.4; QĐ 4416 mục 3.2.2); không tự ý ngừng thuốc (QĐ 4416 mục 4)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 4416/QĐ-BYT 2023, bệnh da liễu (TL-0397) – Bệnh mày đay mục 1.1, 1.3, 2.1, 2.2, 2.3, 2.4.1, 2.4.2, 2.5, 3.2.1, 3.2.2, 4; bệnh ghẻ mục 2.1.",
+  "GA²LEN/EAACI/EuroGuiDerm/APAAACI 2026, The International Guideline for Urticaria (TL-0405; Zuberbier T, et al. Allergy 2026;81(8):2582-2632) – mục 3.2, 4.2, 4.2.1–4.2.3, 4.2.5, 4.2.6, 5.1, 5.2.1, 5.2.3, 5.2.6, 5.4; Bảng 7, 8, 11; Hình 1 (chú thích 4, 7, 8, 9), Hình 3, Hình 4.",
+  "Bộ Y tế – QĐ 3942/QĐ-BYT 2014, bệnh dị ứng – miễn dịch lâm sàng (kho cũ tltk-10000-ca) – bài Mày đay – phù Quincke mục 2a, 2b, 4.2a; bài Các thuốc kháng histamin H1 mục 1b, 2a, 4a, Bảng 3, Bảng 4; bài Dị ứng thức ăn.",
+  "TT 51/2017/TT-BYT (TL-0014) Phụ lục I mục I.2; WAO 2020 Anaphylaxis Guidance (TL-0025) Bảng 2 – mày đay đơn thuần không phải phản vệ.",
+  "TL-0001 (Phụ lục ICD-10) – L50.1.",
+  "Không có toàn văn: TL-0440 (remibrutinib, 2025), TL-0441 (dupilumab CUPID, 2024); không dùng trong ca.",
+  "Ảnh: SCIN (Google Research & Stanford), case -1829868329489860851, dataset/images/8343761304166770754.png (HA-DA-0353); case -1571750243156555704, dataset/images/4257292375769197926.png (HA-DA-0354); SCIN Data Use License – ghi nguồn."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-21): mày đay mạn tự phát, nam 27 tuổi, nông dân, 1 lượt, nguồn lực đầy đủ (khoa_cls null); khởi phát sau tôm, ghẹ ở đám cưới; không thuốc đang dùng; lý do thật: sợ ung thư (cậu ruột mất do ung thư gan). ket_luan ve_hen. UAS7 ước 29 và các kết quả xét nghiệm là số liệu thiết kế.",
+  "Tài liệu đã đọc: QĐ 4416 (TL-0397) Bệnh mày đay mục 1–4; TL-0405 (mục 3.2, 4.2.1–4.2.3, 4.2.6, 5.1, 5.2.1, 5.2.3, 5.2.6, 5.4, Bảng 7, 8, 11, Hình 1, 3, 4); QĐ 3942/2014 bài Mày đay – phù Quincke và bài Các thuốc kháng histamin H1; TT 51/2017 Phụ lục I, II; sổ mâu thuẫn.",
+  "Không có trong tài liệu đã tải: phân bậc nặng nhẹ theo UAS7; giờ uống kháng histamin tối ưu; bước tăng liều đầu tiên (gấp 2 hay gấp 4); tỉ lệ, thời gian khỏi của mày đay mạn; danh sách dấu hiệu cảnh báo ung thư riêng cho mày đay; tầm soát viêm gan B/ung thư gan cho người có họ hàng bị ung thư gan; loại và lượng kem dưỡng ẩm; toàn văn TL-0440, TL-0441.",
+  "Mâu thuẫn ghi cả hai cách theo sổ (DL-0714, DL-0713, DL-0266): xét nghiệm trong mày đay mạn; mốc tăng liều và tái khám; kháng histamin thế hệ 1 (chấm w vì lái máy, theo DL-0276); corticoid đợt ngắn (a). Không có mâu thuẫn mới.",
+  "Ảnh SCIN: xem trước HA-DA-0351 đến 0354; dùng 0353 (cẳng tay, sẩn phù vòng cung rõ) và 0354 (đùi, mảng liền); loại 0351 (vùng nách – ngực lộ một phần cằm, tổn thương nhạt) và 0352 (bụng, hầu như không thấy tổn thương). Không mặt, hình xăm, chữ, trang sức."
+ ]
+}
