@@ -1,0 +1,714 @@
+{
+ "ma_ca": "NH-0139",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_nhiem_khuan_ho_hap_tren_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Quốc Khải",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 16,
+  "chieu_cao": 101,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', chỉ nói vài chữ khi được hỏi thẳng (vd 'Con ho'). Chị Phương (mẹ) gọi bé là 'con' hoặc 'bé Khải', xưng 'em' với bác sĩ; bác sĩ gọi chị Phương là 'chị'.",
+  "tinh_cach": "Chị Phương 31 tuổi, nhân viên ngân hàng, nói nhanh, sốt ruột, tin kháng sinh là cách chữa nhanh nhất và sợ 'để lâu xuống phổi'. Chị vừa chuyển nhà, mệt, dễ cáu nhưng nghe lời giải thích có tiêu chí cụ thể và nể bác sĩ nếu được lắng nghe. Bé Khải ngồi trong lòng mẹ, ho khụ khụ, bám mẹ, ôm xe đồ chơi.",
+  "kieu_nhieu": "Đòi kháng sinh: mở đầu bằng 'bác sĩ kê kháng sinh cho bé', lặp lại 'lần trước uống là hết', 'để lâu nó xuống phổi', dọa sang phòng khám khác mua. Nếu bác sĩ chỉ từ chối ngắn gọn thì chị càng gắt; dịu lại khi được giải thích bằng dấu hiệu của chính bé, được hứa mốc tái khám cụ thể và được hỏi chị đang lo điều gì nhất.",
+  "nguoi_nha": "Mẹ bé, chị Đặng Thị Phương, 31 tuổi, trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha). Chỉ khi bác sĩ hỏi thẳng bé (vd 'Khải đau tai không?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Phương)",
+  "ngoai_hinh": {
+   "da": "#ecc29c",
+   "toc": "#17110e",
+   "kieuToc": "tre",
+   "ao": "#7fb3d5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e4b58f",
+    "toc": "#241a14",
+    "kieuToc": "dai",
+    "ao": "#c9a0b4",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt, ho, sổ mũi 2 ngày; bé có hen",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (19 giờ 40 tối thứ Sáu), kỹ thuật viên đã về: phòng khám không làm được xét nghiệm máu, test nhanh, X-quang, siêu âm; mẫu gửi ngoài chỉ có kết quả sáng hôm sau, không kịp cho quyết định tối nay. Còn dùng được: ống nghe, nhiệt kế, máy đo SpO₂, cân (điều dưỡng Linh), đèn soi tai mũi họng, salbutamol xịt và buồng đệm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh thứ 2",
+   "tiep_don": "Bé trai 4 tuổi, 16 kg, mẹ (chị Phương) đưa đến lúc 19 giờ 40 tối thứ Sáu vì sốt, ho, sổ mũi từ sáng hôm qua; bé có hen, đang xịt thuốc hằng ngày. Sinh hiệu: nhiệt 38,6 °C, mạch 120 l/p, nhịp thở 28 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt, bám mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Khải nhập viện hoặc giữ lại phòng khám chờ xét nghiệm là quá tay: bé tỉnh, uống được, thở 28 l/p (dưới 40), SpO₂ 98%, phổi không ran, không dấu hiệu nguy hiểm, thuộc nhóm không viêm phổi chăm sóc tại nhà (WHO 2013 Bảng 7, tr. 81; QĐ 708/2015 mục 4.1) và không có tiêu chuẩn chuyển bệnh viện nào của GINA 2026 Box 12-3 (tr. 219). Bé 4 tuổi phải nằm phòng đông trẻ có thể đặt kim truyền, chị Phương càng tin con 'bệnh nặng, phải kháng sinh'; tỉ lệ biến chứng do nằm viện: không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi tuyến trên tối nay để chụp X-quang, xét nghiệm máu là chưa cần: không thở nhanh, không rút lõm, phổi không ran, viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2, tr. 134; WHO 2013 Bảng 7). Hai mẹ con đi xa vào buổi tối thứ Sáu, chờ đông, kết quả nhiều khả năng bình thường; nếu ở đó bé được kê kháng sinh hay corticoid thì thuốc không có chỉ định (WHO 2013 mục 4.4, tr. 90–91)."
+   },
+   "loi_mo": "Bác sĩ ơi, bé sốt từ hôm qua, ho với sổ mũi nữa. Bé nhà em có hen, lần nào bị cũng phải uống kháng sinh mới hết. Bác sĩ kê kháng sinh cho bé giùm em, để lâu nó xuống phổi.",
+   "sinh_hieu": {
+    "mach": 120,
+    "ha": "Không đo",
+    "nhiet": "38,6",
+    "nhip_tho": 28,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 38–38,7 °C từ sáng hôm qua, ho, sổ mũi trong rồi hơi đục, kêu hơi đau họng, ăn kém. Mẹ xin kháng sinh vì 'lần nào cũng phải kháng sinh mới hết'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian bệnh"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho khan, ho nhiều khi nằm; không khó thở, không khò khè, không thở rít, ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở, khò khè (loại viêm phổi, đợt cấp hen)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không kêu đau tai, không chảy mủ tai, không dụi tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Vẫn chơi, uống được, không nôn, không co giật, không li bì, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2024; QĐ 708)"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Hen từ 3 tuổi (khò khè mỗi khi cảm, chưa nằm viện). Xịt fluticasone 50 mcg 1 nhát mỗi sáng qua buồng đệm mặt nạ, đều 8 tháng nay. Có salbutamol xịt 100 mcg ở nhà, lần dùng gần nhất cách 5 tháng; khò khè lần cuối cũng 5 tháng trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử hen, thuốc xịt đang dùng"
+    },
+    {
+     "id": "thuoc_da_cho",
+     "noi_dung": "Mẹ cho paracetamol siro 160 mg hai lần từ hôm qua; không cho thuốc nào khác, không tự mua kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Tháng 5 bé sốt, ho, bác sĩ khác kê kháng sinh, 5 ngày sau bé khỏi nên mẹ tin 'có kháng sinh mới hết'; mẹ sợ để lâu bé khò khè nặng như lúc 3 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do đòi kháng sinh"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tuần trước cả nhà chuyển nhà; bé đòi khiêng thùng đồ chơi cùng bố, ra mồ hôi rồi ngồi thùng xe tải lúc trời gió. Ba ngày sau bé sốt. Mẹ nghĩ do 'khiêng nặng, bị gió'; lớp bé có 4 bạn sổ mũi, ho.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát (khiêng nặng là nhiễu), dịch tễ ở lớp"
+    },
+    {
+     "id": "lo_ung_thu",
+     "noi_dung": "Ông ngoại bé mất vì ung thư vòm họng 8 tháng trước; ông bắt đầu bằng nghẹt mũi và nổi hạch cổ. Hôm kia mẹ sờ thấy cục ở cổ bé nên sợ 'bé bị giống ông', không dám nói, chỉ đòi kháng sinh cho yên tâm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi chị đang lo điều gì nhất, hỏi trong nhà có ai bệnh nặng gần đây không, hoặc sau khi khám hạch cổ hỏi chị có thấy cục ở cổ bé không.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám (sợ ung thư)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi được, mệt nhẹ, môi hồng, niêm mạc ẩm, khóc có nước mắt: không mất nước. Không rút lõm lồng ngực.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ, amidan độ II không mủ, không giả mạc; nhầy trong hơi đục chảy xuống thành sau họng; niêm mạc mũi phù. Màng nhĩ hai bên hồng nhạt, bóng, không phồng, di động tốt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên khoảng 1 cm, mềm, di động, không dính, không đau; không hạch lớn khác ở cổ, nách; cổ không sưng bạnh.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 28 l/p đều, không rút lõm lồng ngực, không phập phồng cánh mũi, không thở rít. Rì rào phế nang êm hai bên, không ran ẩm, không ran rít, không khò khè.",
+     "k": 1,
+     "hien": "Nhịp thở 28 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 120 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 120 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 10,2 G/L · Neutrophil 41% · Lym 49% · Hb 121 g/L · TC 290 G/L",
+     "ab": 0,
+     "n": "Chấp nhận, không bắt buộc: viêm mũi họng cấp không cần cận lâm sàng (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2, tr. 134). Ngoài giờ không có kết quả tối nay và kết quả không đổi xử trí. Khoảng tham chiếu công thức máu trẻ 4 tuổi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 6 mg/L",
+     "ab": 0,
+     "n": "Không cần: cùng căn cứ công thức máu. Ngưỡng CRP phân biệt virus và vi khuẩn ở trẻ em: không có trong tài liệu đã tải."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "X-quang ngực thẳng: tim phổi bình thường, không thâm nhiễm",
+     "ab": 0,
+     "n": "Không cần: không thở nhanh, không rút lõm, phổi không ran (WHO 2013 Bảng 7; QĐ 708/2015 mục 3.1, 4.1). Ngoài giờ không chụp được."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Test nhanh liên cầu nhóm A: âm tính",
+     "ab": 0,
+     "n": "Không cần: có ho, sổ mũi, amidan không xuất tiết (IDSA 2012 khuyến cáo 4: thường không test khi có dấu hiệu virus rõ)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus) ở trẻ 4 tuổi có hen, chưa viêm phổi, không dấu hiệu nguy hiểm, chưa có đợt khò khè",
+     "ok": 1,
+     "n": "Sốt, ho, sổ mũi trong rồi đục, họng đỏ, nhầy từ vòm xuống, màng nhĩ bình thường (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1); ho, cảm lạnh tự giới hạn do virus (WHO 2013 mục 4.4); thở 28 l/p, không rút lõm."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 28 l/p dưới ngưỡng 40 l/p của trẻ 1–5 tuổi, không rút lõm, SpO₂ 98%, phổi không ran (QĐ 708/2015 mục 3.1, 4.1; WHO 2013 Bảng 7: không viêm phổi, ho hoặc cảm lạnh)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng (AAP 2013 KAS 1A–1B yêu cầu màng nhĩ phồng hoặc chảy mủ tai mới)."
+    },
+    {
+     "t": "Đợt cấp hen / khò khè do virus",
+     "n": "Chưa có: không khò khè, không ran rít, không co kéo (GINA 2026 Box 12-1, tr. 217). Nhiễm virus là yếu tố khởi phát thường gặp của đợt cấp (GINA 2026, tr. 198) nên phải dặn dấu hiệu."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: có ho, sổ mũi, amidan không xuất tiết (IDSA 2012 khuyến cáo 4). QĐ 5643 Viêm mũi họng cấp tính mục 4.1 điều trị như liên cầu khi chưa có xét nghiệm: xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Hạch cổ do bệnh ác tính (ung thư vòm mũi họng, u lympho)",
+     "n": "Hạch hai bên, nhỏ, mềm, di động, đau ít, xuất hiện cùng sốt: giống viêm hạch do virus (QĐ 5643/2015, mục 3.2.2.2, tr. 262). Ung thư vòm biểu hiện bằng triệu chứng một bên và hạch cổ (mục 3.1.1, tr. 284)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, chăm sóc tại nhà; không nhập viện, không chuyển tuyến",
+     "v": "c",
+     "n": "Không viêm phổi, không dấu hiệu nguy hiểm (WHO 2013 Bảng 7, tr. 81; QĐ 708/2015 mục 4.1; WHO 2024 khuyến cáo 1). Không có tiêu chuẩn chuyển bệnh viện của GINA 2026 Box 12-3 (tr. 219)."
+    },
+    {
+     "t": "Quyết định ngay tối nay bằng hỏi bệnh và khám, không chờ xét nghiệm hay X-quang",
+     "v": "c",
+     "n": "WHO 2013 Bảng 7 phân loại bằng dấu hiệu lâm sàng; viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.2, tr. 134). Ngoài giờ không có kết quả; kết quả không đổi hướng xử trí."
+    },
+    {
+     "t": "Không dùng kháng sinh, giải thích bệnh do virus; HOẶC amoxicillin/penicillin V 10 ngày theo QĐ 5643",
+     "v": "c",
+     "n": "Không kháng sinh: WHO 2013 mục 4.4 (tr. 90–91: kháng sinh không hiệu quả, không ngừa viêm phổi); QĐ 5643/2015, Viêm V.A cấp mục 4.1 (tr. 139); IDSA 2012 khuyến cáo 4. Cách thứ hai: QĐ 5643, Viêm mũi họng cấp tính mục 4.1, 4.3.1 (tr. 135) điều trị như liên cầu khi chưa có xét nghiệm; QĐ 5643 không nêu liều trẻ em, IDSA 2012 Bảng 2: amoxicillin 50 mg/kg 1 lần/ngày (tối đa 1000 mg) hoặc 25 mg/kg × 2 lần/ngày (tối đa 500 mg/lần), 10 ngày. Khác nhau do năm và đối tượng (sổ mâu thuẫn); ca này ho, sổ mũi, họng không mủ nên nghiêng về virus. Cả hai đều đúng."
+    },
+    {
+     "t": "Từ chối kháng sinh mà giữ lòng tin: nói điều dấu hiệu của bé cho thấy, nêu mốc tái khám cụ thể, hỏi chị đang lo điều gì nhất",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp do ca dạy, không có nguồn trực tiếp. Nội dung giải thích: WHO 2013 mục 4.4 (kháng sinh không ngừa viêm phổi); tái khám sau 5 ngày nếu không đỡ (WHO 2013 Bảng 7)."
+    },
+    {
+     "t": "Khám hạch cổ, trả lời nỗi lo ung thư bằng dữ kiện: hạch nhỏ hai bên, mềm, di động, cùng lúc với sốt là viêm hạch do virus; hẹn khám lại hạch",
+     "v": "c",
+     "n": "Viêm hạch cổ do siêu vi: hạch dưới hàm, dưới cằm, không đau, sốt ít (QĐ 5643/2015, mục 3.2.2.2, tr. 262); ung thư vòm thường một bên, cần khám vòm, sinh thiết (mục 3.1.1–3.1.2, tr. 284). Tuổi mắc của ung thư vòm, yếu tố gia đình, mốc hạch cần sinh thiết ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì thuốc xịt dự phòng đang dùng (fluticasone sáng qua buồng đệm), không tự ngưng, không tự tăng liều",
+     "v": "c",
+     "n": "QĐ 3312/2015, Hen trẻ em, tr. 696: trẻ đang dùng thuốc phòng cần tiếp tục dùng thuốc trong cơn hen cấp; GINA 2026 tr. 208–209 và tr. 222 (ICS để giảm nguy cơ đợt cấp). Tăng liều ICS ngắn hạn khi nhiễm virus cho trẻ ≤ 5 tuổi: không có trong tài liệu đã tải (GINA tr. 215 chỉ nói ICS liều cao dùng sớm khi thầy thuốc tin chắc dùng đúng)."
+    },
+    {
+     "t": "Kế hoạch khò khè: salbutamol 100 mcg 2 nhát từng nhát qua buồng đệm, lặp tối đa 2 lần cách 20 phút; đi khám ngay nếu không đỡ nhanh hoặc cần lại trong 4 giờ",
+     "v": "c",
+     "n": "GINA 2026, Initial home management (tr. 215) và tr. 222 (cần salbutamol trong 4 giờ sau liều trước thì đến cơ sở cấp cứu)."
+    },
+    {
+     "t": "Paracetamol 200 mg/lần chỉ khi sốt làm bé khó chịu, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ; hút mũi, nước muối sinh lý; uống nước đều, ăn lỏng",
+     "v": "c",
+     "n": "AWaRe 2022 (Viêm họng trẻ em, tr. 50): 10–15 mg/kg mỗi 6 giờ, 15–<20 kg: 200 mg; QĐ 3312/2015 Co giật do sốt mục 4.1 (tr. 457): ≤ 60 mg/kg/24 giờ; NICE NG143 mục 1.6.4–1.6.6; WHO 2013 mục 4.4 (tr. 91); QĐ 5643 Viêm V.A cấp mục 4.2 (tr. 139)."
+    },
+    {
+     "t": "Dặn đến ngay nếu thở nhanh (từ 40 l/p khi nằm yên), rút lõm ngực, thở rít, khò khè không đỡ, không uống được, nôn mọi thứ, li bì, co giật, tím; sốt từ 5 ngày; đau hoặc chảy mủ tai. Tái khám sau 5 ngày nếu chưa đỡ",
+     "v": "c",
+     "n": "WHO 2024 khuyến cáo 1 (chú thích dấu hiệu nguy hiểm); QĐ 708/2015 mục 3.1, 4.4; GINA 2026 tr. 215; NICE NG143 mục 1.7.3 (sốt ≥ 5 ngày); QĐ 5643 Viêm V.A cấp mục 5 (tr. 140: biến chứng tai); WHO 2013 Bảng 7 (tái khám sau 5 ngày nếu không đỡ)."
+    },
+    {
+     "t": "Làm công thức máu, CRP hoặc chụp X-quang ngực sáng mai cho yên tâm",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc: không đổi xử trí khi không có dấu hiệu viêm phổi (WHO 2013 Bảng 7; QĐ 5643/2015 mục 3.1.2)."
+    },
+    {
+     "t": "Tiêm hoặc uống kháng sinh phổ rộng (ceftriaxone, cefixime) 'cho chắc, khỏi xuống phổi'",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: kháng sinh không hiệu quả và không ngừa viêm phổi; QĐ 5643 chỉ nêu penicillin, amoxicillin, cephalosporin thế hệ 1 (mục 4.3.1); tỉ lệ tác dụng phụ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho prednisolon uống 'ngừa khò khè' khi bé chưa khò khè",
+     "v": "w",
+     "n": "Không có chỉ định: WHO 2013 mục 4.4 không có corticoid; GINA 2026 tr. 215: bằng chứng cho corticoid uống do người nhà tự khởi trị yếu, lo ngại tác hại cộng dồn."
+    },
+    {
+     "t": "Cho siro ho có codein, atropin hoặc cồn",
+     "v": "h",
+     "n": "WHO 2013 mục 4.4 (tr. 91): các thuốc chứa atropin, codein hoặc dẫn xuất, cồn có thể gây hại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus), ngày bệnh thứ 2, chưa biến chứng (QĐ 5643/2015, Viêm mũi họng cấp tính mục 3.1.1; WHO 2013 mục 4.4)",
+     "Không viêm phổi (thở 28 l/p, không rút lõm, SpO₂ 98%, phổi không ran), không dấu hiệu nguy hiểm, không mất nước (WHO 2013 Bảng 7)",
+     "Loại trừ: viêm tai giữa cấp (màng nhĩ không phồng), đợt cấp hen (chưa khò khè), viêm họng liên cầu, hạch cổ ác tính",
+     "Hen ở trẻ 4 tuổi đang dùng fluticasone hằng ngày: nhiễm virus là yếu tố khởi phát đợt cấp thường gặp (GINA 2026 tr. 198)",
+     "Lo lắng thật của mẹ: sợ bé bị ung thư như ông ngoại, thể hiện bằng việc đòi kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (thời gian sốt, ho, khò khè, đau tai, dấu hiệu nguy hiểm, tiền sử hen, thuốc xịt và thuốc đã cho, dịch tễ ở lớp, hỏi mẹ đang lo gì) → khám (nhịp thở, rút lõm, SpO₂, tai mũi họng, hạch, phổi) → cận lâm sàng không cần, tối nay cũng không làm được → chẩn đoán → xử trí và hẹn mốc quay lại.",
+     "Vì sao virus: sốt, ho, sổ mũi trong rồi đục, họng đỏ nhầy chảy từ vòm, lớp có bạn bệnh giống (QĐ 5643/2015, Viêm mũi họng cấp tính mục 2.1.2, 3.1.1); WHO 2013 mục 4.4: ho, cảm lạnh là nhiễm virus tự giới hạn, hầu hết hết trong 14 ngày.",
+     "Vì sao không viêm phổi: thở 28 l/p dưới 40 l/p, không rút lõm, SpO₂ 98%, phổi không ran (QĐ 708/2015 mục 3.1, 4.1; WHO 2013 Bảng 7). Vì sao chưa phải đợt cấp hen: không khò khè, không co kéo (GINA 2026 Box 12-1, tr. 217).",
+     "Về hạch: hạch dưới hàm hai bên nhỏ, mềm, di động xuất hiện cùng sốt là hạch phản ứng, thường gặp ở viêm hạch do virus (QĐ 5643/2015, mục 3.2.2.2, tr. 262). Ung thư vòm mũi họng có triệu chứng thường một bên, cần nội soi và sinh thiết để chẩn đoán (mục 3.1.1–3.1.2, tr. 284). Việc hỏi mẹ lo điều gì mới lộ ra nỗi sợ thật; chỉ kê kháng sinh thì nỗi sợ vẫn còn."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, chăm sóc tại nhà, hẹn tái khám (WHO 2013 Bảng 7, tr. 81). Quyết định phải đưa ra trước kết quả vì ngoài giờ không làm được, mà ca không cần kết quả (QĐ 5643/2015 mục 3.1.2).",
+     "Kháng sinh: không dùng (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A cấp mục 4.1; IDSA 2012 khuyến cáo 4) HOẶC amoxicillin/penicillin V 10 ngày theo QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 (sổ mâu thuẫn); cả hai đều đúng.",
+     "Hen: giữ thuốc dự phòng đang dùng; chuẩn bị salbutamol và buồng đệm sẵn; dặn dấu hiệu quay lại (QĐ 3312/2015 tr. 696; GINA 2026 tr. 215). Không cho corticoid uống khi chưa khò khè (GINA tr. 215)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ), chỉ khi sốt làm bé khó chịu",
+      "ham_luong": "Theo dạng sẵn có (vd siro 120 mg/5 mL)",
+      "lieu": "200 mg/lần (khoảng 12,5 mg/kg; cho phép 10–15 mg/kg = 160–240 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt làm bé mệt, quấy; các lần cách nhau ít nhất 6 giờ; tối đa 4 lần/24 giờ",
+      "so_ngay": "Những ngày sốt gây khó chịu",
+      "ghi_chu": "AWaRe 2022 tr. 50 (10–15 mg/kg mỗi 6 giờ; 15–<20 kg: 200 mg); QĐ 3312/2015 tr. 457 (≤ 60 mg/kg/24 giờ; 4 × 200 mg = 800 mg, bên thận trọng hơn); NICE NG143 mục 1.6.4–1.6.6."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi, kèm hút mũi nhẹ",
+      "ham_luong": "0,9%",
+      "lieu": "Vài giọt mỗi bên rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước bữa ăn và trước khi ngủ, khi nghẹt mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4 (tr. 91); QĐ 5643/2015 Viêm V.A cấp mục 4.2. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Fluticasone propionate xịt (pMDI) qua buồng đệm mặt nạ: giữ nguyên thuốc đang dùng",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát/ngày, đang dùng; không tự tăng liều",
+      "duong": "Hít qua buồng đệm",
+      "thoi_diem": "Mỗi sáng, kể cả khi đang bệnh",
+      "so_ngay": "Giữ nguyên theo toa bác sĩ điều trị hen",
+      "ghi_chu": "Đang dùng, giữ nguyên (QĐ 3312/2015 tr. 696); 50 mcg/ngày là liều thấp cho trẻ ≥ 4 tuổi (GINA 2026 Box 11-3, tr. 208)."
+     },
+     {
+      "thuoc": "Salbutamol xịt (pMDI) qua buồng đệm: chỉ khi khò khè (đã có ở nhà)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát, từng nhát một; lặp lại tối đa 2 lần cách 20 phút nếu cần",
+      "duong": "Hít qua buồng đệm",
+      "thoi_diem": "Khi khò khè, ho thành cơn; không dùng đều đặn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "GINA 2026 tr. 215 và tr. 222. Cần dùng lại trong vòng 4 giờ thì đến khám ngay."
+     },
+     {
+      "thuoc": "KHÔNG kê: kháng sinh (hoặc amoxicillin/penicillin V 10 ngày theo QĐ 5643), corticoid uống, thuốc ho codein/atropin/cồn",
+      "ham_luong": "—",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "WHO 2013 mục 4.4 (tr. 90–91); QĐ 5643/2015 Viêm V.A cấp mục 4.1–4.2; GINA 2026 tr. 215."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus. Sốt thường hết sau 3–5 ngày, ho và sổ mũi có thể kéo đến 14 ngày (QĐ 5643/2015 mục 5.1; WHO 2013 mục 4.4). Mẫu lời: 'Em hiểu chị lo bé xuống phổi. Em đã nghe phổi, bé thở 28 lần/phút, không lõm ngực, uống được, nên chưa phải viêm phổi. Kháng sinh không diệt virus và không ngừa được viêm phổi (WHO 2013 mục 4.4); em hẹn chị khám lại, và sẽ viết rõ dấu hiệu cần quay lại ngay.'",
+     "Hỏi chị đang lo điều gì nhất; nếu chị nói ông ngoại: hạch của bé nhỏ, mềm, hai bên, mọc cùng lúc sốt nên là hạch phản ứng; em sẽ khám lại hạch khi tái khám (QĐ 5643 mục 3.2.2.2, 3.1.1).",
+     "Giữ xịt fluticasone mỗi sáng như cũ; để salbutamol và buồng đệm sẵn. Nếu bé khò khè: xịt 2 nhát từng nhát một, lặp lại tối đa 2 lần cách 20 phút; đưa bé đi khám ngay nếu không đỡ nhanh hoặc cần xịt lại trong vòng 4 giờ (GINA 2026 tr. 215, 222).",
+     "Hút mũi, nhỏ nước muối sinh lý khi nghẹt mũi; cho uống nước đều, ăn lỏng chia nhiều bữa. Paracetamol 200 mg chỉ khi sốt làm bé mệt, cách ít nhất 6 giờ, tối đa 4 lần/24 giờ (AWaRe 2022; QĐ 3312). Không mua siro ho, thuốc tự ý.",
+     "Đưa bé đến ngay nếu thở nhanh (từ 40 lần/phút khi nằm yên), lõm ngực, thở rít, khò khè không đỡ, không uống được, nôn mọi thứ, li bì, co giật, tím (WHO 2024; QĐ 708; GINA 2026 tr. 215); sốt từ 5 ngày (NICE NG143 mục 1.7.3); đau, chảy mủ tai (QĐ 5643 Viêm V.A cấp mục 5).",
+     "Tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7), sớm hơn khi khò khè. Cho bé nghỉ học khi còn sốt (NICE NG143 mục 1.7.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 ngày",
+   "tiep_don": "Bé Khải tái khám lúc 19 giờ 30 tối thứ Hai, bệnh ngày thứ 6, sớm hơn hẹn vì khò khè từ đêm qua. Bé hết sốt từ ngày 4. Sinh hiệu: nhiệt 36,9 °C, mạch 112 l/p, nhịp thở 32 l/p, SpO₂ 96%. Bé tỉnh, nói được câu dài, ho khụ khụ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Khải ngay tối nay là quá tay: bé nói được câu dài, thở 32 l/p (≤ 40), SpO₂ 96%, không co kéo, hết ran rít sau 4 nhát salbutamol, thuộc mức nhẹ (GINA 2026 Box 12-1, tr. 217) và không có tiêu chuẩn chuyển bệnh viện nào ở Box 12-3 (tr. 219). Bé 4 tuổi bị tách khỏi nhà, nằm phòng đông trẻ để nhận thuốc không cần, trong khi điều bé thiếu là kế hoạch hành động bằng chữ và kỹ thuật dùng buồng đệm đúng (GINA Box 12-6, tr. 223). Chi phí nằm viện: không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên đêm nay là chưa cần: không có dấu hiệu nặng, đáp ứng tốt salbutamol (GINA 2026 Box 12-3, tr. 219). Tuyến trên sẽ lặp lại đúng việc đã làm (salbutamol rồi theo dõi 1 giờ, tr. 222), còn mẹ con đi xa buổi tối; nếu bé được kê kháng sinh hoặc corticoid uống thì không có chỉ định cho đợt nhẹ (WHO 2013 mục 4.4–4.5; GINA Box 12-4 chỉ nêu corticoid uống cho mức vừa–nặng)."
+   },
+   "loi_mo": "Bác sĩ ơi, em đã nói phải kháng sinh mà. Bé hết sốt rồi nhưng đêm qua khò khè, ho nhiều, em xịt thuốc cắt cơn thì đỡ. Có phải nó xuống phổi rồi không?",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 32,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hết sốt từ ngày 4, sổ mũi ít đi. Từ đêm qua ho nhiều về đêm, khò khè, ngủ trằn trọc; tối nay khò khè lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1"
+    },
+    {
+     "id": "thuoc_cat_con",
+     "noi_dung": "Đêm qua 23 giờ mẹ xịt salbutamol 2 nhát qua buồng đệm một lần, bé dễ thở sau 15 phút, sáng còn khò khè nhẹ. Tối nay 18 giờ 30 xịt 2 nhát lần nữa, đỡ sau 20 phút. Hai lần trong 24 giờ, cách nhau hơn 4 giờ; vẫn xịt fluticasone mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức dùng thuốc cắt cơn, đáp ứng (GINA tr. 215)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé nói thành câu, chơi, uống được, ăn cháo; không li bì, không tím, mẹ không thấy lõm ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ nặng, dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "sot_tai",
+     "noi_dung": "Không sốt lại, không đau tai, không chảy mủ tai, không đau mặt; nước mũi trong, ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại viêm tai, viêm xoang, viêm phổi"
+    },
+    {
+     "id": "ky_thuat",
+     "noi_dung": "Mẹ bóp liền 3 nhát vào buồng đệm rồi cho bé thở một lúc 'cho nhanh'; chưa ai chỉnh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Kỹ thuật dùng buồng đệm"
+    },
+    {
+     "id": "khang_sinh2",
+     "noi_dung": "Mẹ vẫn tin vì lần trước không kháng sinh nên bé 'xuống phổi', đòi kê kháng sinh cho đủ.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do đòi kháng sinh (lặp lại)"
+    },
+    {
+     "id": "lo_ung_thu2",
+     "noi_dung": "Cục ở cổ vẫn còn, mẹ sờ mỗi tối và thấp thỏm; nếu lần trước được giải thích rồi thì chị đỡ lo hơn nhưng muốn biết khi nào nó hết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Lý do thật (sợ ung thư)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, chơi, nói câu dài, môi hồng, không tím, không thở rên.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, ít nhầy thành sau họng; mũi dịch trong ít. Màng nhĩ hai bên bình thường, không phồng.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ lại, dưới 1 cm, mềm, di động, không đau.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, không rút lõm, không co kéo cơ hô hấp phụ, thở ra hơi kéo dài. Ran rít thì thở ra hai phế trường, thông khí tốt, không ran ẩm, không ran nổ. Sau 4 nhát salbutamol qua buồng đệm và nghỉ 1 giờ: hết ran rít, thở 26 l/p, SpO₂ 98%.",
+     "k": 1,
+     "hien": "Nhịp thở 32 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, không ran ẩm."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra, không ran ẩm."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, 112 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 8,9 G/L · Neutrophil 38% · Lym 52% · Hb 123 g/L · TC 305 G/L",
+     "ab": 0,
+     "n": "Không cần: không sốt, không có dấu hiệu nhiễm khuẩn mới; ngoài giờ không có kết quả tối nay."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "X-quang ngực thẳng: phổi sáng hơn, dày thành phế quản nhẹ, không thâm nhiễm",
+     "ab": 0,
+     "n": "Không cần: không sốt, không ran ẩm, không thở nhanh, hết ran rít sau salbutamol; không thường quy X-quang và kháng sinh cho đợt cấp hen (GINA 2026 mục 9, tr. 170, viết cho trẻ ≥ 6 tuổi; phần ≤ 5 tuổi không có điều riêng). Ngoài giờ không chụp được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus đang lui (hết sốt), kèm khò khè do virus trên nền hen: đợt cấp mức nhẹ, đáp ứng salbutamol, chưa biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, chỉ còn ho, sổ mũi ít; khò khè thì thở ra, hết sau salbutamol, SpO₂ 96%, nói câu dài, thở 32 l/p ≤ 40, không co kéo: mức nhẹ (GINA 2026 Box 12-1, tr. 217). Nhiễm virus là yếu tố khởi phát thường gặp (tr. 198, tr. 223)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không sốt, không ran ẩm, không rút lõm, thở 32 l/p dưới 40 (QĐ 708/2015 mục 3.1, 4.1); WHO 2013 mục 4.5: trẻ khò khè không sốt, không rút lõm, không dấu hiệu nguy hiểm ít khả năng viêm phổi."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không sốt lại, không đau tai, màng nhĩ bình thường, không phồng (AAP 2013 KAS 1A–1B)."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Mới ngày 6, đã hết sốt, đang đỡ, nước mũi trong: chưa đủ tiêu chuẩn ≥ 10 ngày không đỡ hoặc nặng lên sau khi đỡ (IDSA ABRS 2012 khuyến cáo 1; AWaRe 2022 tr. 64–65)."
+    },
+    {
+     "t": "Đợt cấp hen vừa – nặng cần nhập viện hoặc chuyển tuyến",
+     "n": "Không: SpO₂ ≥ 94%, nói câu, thở ≤ 40 l/p, không co kéo, đáp ứng salbutamol; không có tiêu chuẩn nào của GINA 2026 Box 12-3 (tr. 219)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mức độ khò khè (nói câu, nhịp thở, SpO₂, co kéo, thông khí): mức nhẹ",
+     "v": "c",
+     "n": "GINA 2026 Box 12-1 (tr. 217): mức nhẹ khi SpO₂ ≥ 94%, nói thành câu, thở ≤ 40 l/p, không co kéo, thông khí bình thường."
+    },
+    {
+     "t": "Salbutamol 100 mcg/nhát qua buồng đệm mặt nạ, từng nhát một: 4 nhát, đánh giá lại, lặp lại một lần sau 30–60 phút nếu cần (GINA 2026) HOẶC 6 nhát, nhắc lại sau 20 phút nếu cần (QĐ 3312; WHO 2013)",
+     "v": "c",
+     "n": "GINA 2026, tr. 220 (4 nhát từng nhát một, 5–6 nhịp thở sau mỗi nhát); QĐ 3312/2015, Hen trẻ em, tr. 696: cơn nhẹ trẻ < 6 tuổi 6 nhát, khám lại sau mỗi 20 phút; WHO 2013 tr. 98: 6 nhát cho trẻ < 5 tuổi. GINA 2026 ít nhát hơn do lo độc tính SABA (sổ mâu thuẫn NH-0958 mục 1)."
+    },
+    {
+     "t": "Quan sát 1 giờ rồi đánh giá lại; cho về, hẹn tái khám, khi đủ mọi dấu hiệu mức nhẹ và đang cải thiện (không nhập viện, không chuyển tuyến)",
+     "v": "c",
+     "n": "GINA 2026, tr. 222: đánh giá lại ở 1 giờ, cho về nếu đủ mọi đặc điểm mức nhẹ (Box 12-1); không có tiêu chuẩn chuyển bệnh viện (Box 12-3, tr. 219). Mẹ có buồng đệm, thuốc và biết dùng nên không rơi vào tiêu chí 'môi trường xã hội hạn chế'."
+    },
+    {
+     "t": "Giải thích và không dùng kháng sinh: không sốt, không ran ẩm, không rút lõm; khò khè do virus trên nền hen, kháng sinh không ngừa khò khè",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91), mục 4.5: trẻ khò khè không sốt, không rút lõm, không dấu hiệu nguy hiểm không dùng kháng sinh; GINA 2026 mục 9 (tr. 170, 188; viết cho trẻ ≥ 6 tuổi): không thường quy kháng sinh cho đợt cấp hen; phần ≤ 5 tuổi không có điều riêng."
+    },
+    {
+     "t": "Tiếp tục fluticasone mỗi sáng; salbutamol 2 nhát khi cần, không dùng đều đặn; đến khám ngay nếu cần lại trong vòng 4 giờ",
+     "v": "c",
+     "n": "QĐ 3312/2015 tr. 696 (tiếp tục thuốc phòng); GINA 2026 tr. 222: salbutamol khi cần, không đều đặn; ICS tiếp tục; cần lại trong 4 giờ thì đến cơ sở cấp cứu. Box 12-6 (tr. 223): SABA dùng đều có thể che lấp hen nặng lên."
+    },
+    {
+     "t": "Chỉnh kỹ thuật buồng đệm (từng nhát một, 5–6 nhịp thở sau mỗi nhát, lắc bình) và viết bản kế hoạch hành động",
+     "v": "c",
+     "n": "GINA 2026 Box 12-4 (tr. 220) và Box 12-6 (tr. 223): xem lại kỹ thuật, cung cấp hoặc xem lại bản kế hoạch hành động bằng chữ."
+    },
+    {
+     "t": "Hẹn tái khám 1–3 ngày; nhắc khám lại sau 2 tuần (QĐ 3312) và sau 2–3 tháng (GINA)",
+     "v": "c",
+     "n": "GINA 2026 Box 12-6 (tr. 223): 1–3 ngày để đánh giá tiến triển, tuân thủ ICS, kỹ thuật; 2–3 tháng vì một đợt cấp tăng nguy cơ đợt tiếp. QĐ 3312/2015 tr. 698: khám lại sau 2 tuần. Mục đích khác nhau, ghi cả ba (sổ mâu thuẫn NH-0958 mục 6)."
+    },
+    {
+     "t": "Dặn đến ngay: thở co lõm, tím, li bì, không uống được, thở > 40 l/p, salbutamol không đỡ nhanh hoặc chỉ đỡ dưới 4 giờ; sốt lại, đau hoặc chảy mủ tai",
+     "v": "c",
+     "n": "GINA 2026 tr. 215 và Box 12-3 (tr. 219); WHO 2024 khuyến cáo 1; NICE NG143 mục 1.7.3; QĐ 5643 Viêm V.A cấp mục 5 (tr. 140)."
+    },
+    {
+     "t": "Hẹn khám lại hạch cổ khi tái khám, giải thích hạch đang nhỏ lại; hạch to lên hoặc không nhỏ thì cần chẩn đoán thêm",
+     "v": "c",
+     "n": "QĐ 5643/2015, mục 3.2.2.2 (tr. 262) và hạch di căn cần chọc hút/sinh thiết (mục 3.1.2, tr. 284). Mốc thời gian hạch cần đánh giá thêm ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Prednisolon uống đợt ngắn cho đợt khò khè nhẹ",
+     "v": "a",
+     "n": "QĐ 3312/2015 tr. 696: cơn nhẹ 'xem xét' prednisolon 1 mg/kg; GINA 2026 Box 12-4 (tr. 220) chỉ nêu corticoid uống cho mức vừa–nặng. Chấp nhận, không bắt buộc (sổ mâu thuẫn NH-0958 mục 4)."
+    },
+    {
+     "t": "Công thức máu, CRP hoặc X-quang ngực sáng mai cho yên tâm",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc: không đổi xử trí khi không sốt, không ran ẩm, không thở nhanh (QĐ 708/2015 mục 4.1; GINA 2026 tr. 170)."
+    },
+    {
+     "t": "Tiêm hoặc uống kháng sinh phổ rộng 'cho chắc' vì khò khè",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: kháng sinh không hiệu quả, không ngừa viêm phổi; mục 4.5: không kháng sinh cho trẻ khò khè không sốt, không rút lõm; GINA 2026 tr. 170, 188: không thường quy kháng sinh cho đợt cấp hen (≥ 6 tuổi). Tỉ lệ tác dụng phụ: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus đang lui, ngày bệnh thứ 6, hết sốt từ ngày 4",
+     "Khò khè do virus trên nền hen: đợt cấp mức nhẹ, đáp ứng salbutamol (GINA 2026 Box 12-1, tr. 217)",
+     "Loại trừ: viêm phổi, viêm tai giữa cấp, viêm xoang vi khuẩn, đợt cấp vừa–nặng cần nhập viện",
+     "Còn vấn đề: kỹ thuật buồng đệm chưa đúng, mẹ vẫn tin kháng sinh ngừa khò khè, nỗi sợ ung thư chưa dứt hẳn"
+    ],
+    "phan_tich_chan_doan": [
+     "Đây là diễn tiến đỡ một phần: sốt hết, sổ mũi ít, nhưng ho và khò khè về đêm. Nhiễm virus hô hấp là yếu tố thường gặp gây đợt cấp hen (GINA 2026 tr. 198); khò khè lúc này là hen bị virus kích hoạt, không phải bệnh nhiễm khuẩn mới. Không sốt lại, không ran ẩm, không đau tai, nước mũi trong: không viêm phổi, viêm tai, viêm xoang (QĐ 708/2015; AAP 2013; IDSA ABRS 2012).",
+     "Mức độ: nói câu dài, thở 32 l/p, SpO₂ 96%, không co kéo, ran rít thì thở ra, hết sau 4 nhát salbutamol: mức nhẹ (GINA 2026 Box 12-1, tr. 217). Không có tiêu chuẩn chuyển bệnh viện (Box 12-3, tr. 219).",
+     "Đáp lại lời đòi kháng sinh: khò khè không phải do thiếu kháng sinh. WHO 2013 mục 4.4: kháng sinh không ngừa được viêm phổi; mục 4.5: trẻ khò khè không sốt, không rút lõm không cần kháng sinh. Mẫu lời: 'Chị đã làm đúng khi xịt thuốc cắt cơn; bé khò khè vì hen bị virus kích, thuốc xịt mới là thuốc chữa.'"
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: xử trí salbutamol tại phòng khám, quan sát 1 giờ, cho về với bản kế hoạch hành động và hẹn tái khám 1–3 ngày (GINA 2026 tr. 220, 222, 223). Quyết định đưa ra không cần xét nghiệm hay X-quang, đúng với ràng buộc ngoài giờ.",
+     "Liều salbutamol: 4 nhát từng nhát một, lặp lại một lần sau 30–60 phút nếu cần (GINA 2026) hoặc 6 nhát, nhắc lại sau 20 phút (QĐ 3312/2015 tr. 696; WHO 2013 tr. 98); GINA ít nhát hơn vì lo độc tính SABA.",
+     "Corticoid uống không bắt buộc cho đợt nhẹ (GINA Box 12-4; QĐ 3312 'xem xét'). Giữ fluticasone hằng ngày (QĐ 3312 tr. 696; GINA tr. 222). Salbutamol chỉ khi cần; dùng đều đặn có thể che lấp hen nặng lên (GINA Box 12-6, tr. 223)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Salbutamol xịt (pMDI) qua buồng đệm mặt nạ",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "2 nhát từng nhát một khi khò khè; lặp lại tối đa 2 lần cách 20 phút nếu cần",
+      "duong": "Hít qua buồng đệm",
+      "thoi_diem": "Khi khò khè, ho thành cơn; không dùng đều đặn",
+      "so_ngay": "Khi cần cho đến khi hết khò khè",
+      "ghi_chu": "GINA 2026 tr. 215, 222. Cần lại trong vòng 4 giờ thì đến khám ngay."
+     },
+     {
+      "thuoc": "Fluticasone propionate xịt (pMDI) qua buồng đệm mặt nạ: giữ nguyên thuốc đang dùng",
+      "ham_luong": "50 mcg/nhát",
+      "lieu": "1 nhát mỗi sáng; không tự tăng liều",
+      "duong": "Hít qua buồng đệm",
+      "thoi_diem": "Mỗi sáng, kể cả khi đang bệnh",
+      "so_ngay": "Giữ nguyên theo toa điều trị hen",
+      "ghi_chu": "Đang dùng, giữ nguyên (QĐ 3312/2015 tr. 696; GINA 2026 tr. 222). Không tăng liều ICS ngắn hạn: không có trong tài liệu đã tải cho trẻ ≤ 5 tuổi."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Vài giọt mỗi bên khi nghẹt mũi",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước bữa ăn và trước khi ngủ",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4 (tr. 91); QĐ 5643/2015 Viêm V.A cấp mục 4.2."
+     },
+     {
+      "thuoc": "KHÔNG kê: kháng sinh, siro ho codein/atropin/cồn; prednisolon uống không bắt buộc cho đợt nhẹ",
+      "ham_luong": "—",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "WHO 2013 mục 4.4–4.5; GINA 2026 Box 12-4 (tr. 220); QĐ 3312/2015 tr. 696."
+     }
+    ],
+    "dan_do": [
+     "Bé khò khè vì hen bị virus kích, hiện ở mức nhẹ và đã đỡ sau thuốc xịt. Chị đã làm đúng khi xịt thuốc cắt cơn, hết sốt là dấu hiệu tốt (GINA 2026 Box 12-1).",
+     "Cách xịt: từng nhát một vào buồng đệm, cho bé thở 5–6 nhịp rồi mới xịt nhát tiếp; lắc bình trước mỗi nhát; không bóp liền nhiều nhát (GINA 2026 Box 12-4, tr. 220).",
+     "Salbutamol 2 nhát khi khò khè, cách 20 phút, tối đa 3 đợt (2 lần lặp lại). Cần xịt lại trong vòng 4 giờ, bé thở co lõm, thở nhanh hơn 40 lần/phút, tím, li bì, không uống được: đưa đến cấp cứu nhi ngay (GINA 2026 tr. 215, Box 12-3). Giữ fluticasone mỗi sáng.",
+     "Hẹn tái khám 1–3 ngày (GINA 2026 tr. 223); xem lại hạch cổ và bản kế hoạch; tái khám 2–3 tháng; QĐ 3312 hẹn sau 2 tuần.",
+     "Hạch ở cổ đã nhỏ lại, đúng kiểu hạch phản ứng khi nhiễm virus (QĐ 5643 mục 3.2.2.2); chị mang bé khám lại nếu hạch to lên hoặc không nhỏ đi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Khải về nhà, mẹ xịt salbutamol đúng cách theo bản kế hoạch. Đêm thứ Ba (ngày bệnh thứ 7) bé khò khè nặng lên: xịt 2 nhát ba đợt cách 20 phút vẫn không đỡ, thở 44 l/p; mẹ đưa ngay đến khoa cấp cứu nhi (đúng dấu hiệu 'không đỡ nhanh sau salbutamol, thở > 40 l/p': GINA 2026 tr. 215, Box 12-3). Bé nhập viện 2 ngày, dùng salbutamol và prednisolon 3 ngày, ổn rồi xuất viện; tái khám 3 ngày sau ổn, hạch cổ nhỏ lại. Xử trí tối thứ Hai vẫn đúng: lúc đó bé đủ mọi tiêu chí mức nhẹ và đáp ứng tốt salbutamol (GINA tr. 222). Kết cục xấu không chứng minh quyết định sai, và kháng sinh không ngừa được diễn tiến này (WHO 2013 mục 4.4).",
+ "nhieu": [
+  "Đòi kháng sinh (lượt 1, lặp lại lượt 2): mẹ tin 'có kháng sinh mới hết' vì lần trước khỏi sau kháng sinh; bác sĩ phải giải thích bằng chính dấu hiệu của bé và hẹn mốc cụ thể.",
+  "Lý do thật là sợ ung thư (ông ngoại mất vì ung thư vòm họng, mẹ sờ thấy hạch cổ): không tự kể, lộ khi hỏi mẹ lo điều gì nhất hoặc khi khám hạch.",
+  "Khiêng vật nặng (chuyển nhà) là yếu tố nhiễu mẹ tin; nguồn lây thật là bạn cùng lớp. Ngoài giờ, không kỹ thuật viên: không xét nghiệm, X-quang; ca không cần chúng để quyết định."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: không chỉ từ chối, mà nói điều dấu hiệu của bé cho thấy (thở 28 l/p, không lõm ngực, uống được), nêu cụ thể điều gì sẽ khiến quay lại, hẹn mốc tái khám; rồi hỏi mẹ đang lo điều gì nhất.",
+  "Sợ mắc ung thư: nỗi sợ thật thường nằm sau yêu cầu 'kê kháng sinh'; khám hạch và giải thích bằng dữ kiện (nhỏ, mềm, di động, hai bên, cùng lúc sốt) là điều trị nỗi sợ.",
+  "Trẻ hen khi cảm: giữ thuốc dự phòng, chuẩn bị kế hoạch khò khè bằng chữ, dạy lại kỹ thuật buồng đệm; khò khè lúc này do virus kích hoạt hen, kháng sinh không ngừa được.",
+  "Xử trí đúng nhưng diễn tiến xấu: bé nhập viện đêm sau dù lượt 2 xử trí chuẩn. Đánh giá quyết định theo thông tin lúc đó, không theo kết cục (outcome bias).",
+  "Ngoài giờ không có kỹ thuật viên: quyết định bằng hỏi bệnh, khám, SpO₂ và đáp ứng salbutamol, không chờ kết quả."
+ ],
+ "diem_nho": [
+  "Không viêm phổi, ho/cảm lạnh: thở < 40 l/p (trẻ 1–5 tuổi), không rút lõm, không dấu hiệu nguy hiểm; chăm sóc tại nhà, tái khám sau 5 ngày nếu không đỡ (WHO 2013 Bảng 7; QĐ 708/2015 mục 3.1, 4.1).",
+  "Đợt khò khè ở trẻ ≤ 5 tuổi: mức nhẹ khi SpO₂ ≥ 94%, nói câu, thở ≤ 40 l/p, không co kéo (GINA 2026 Box 12-1); chuyển bệnh viện khi không nói/uống được, thở > 40 l/p, SpO₂ < 92%, lồng ngực im lặng, hoặc không đáp ứng salbutamol (Box 12-3).",
+  "Salbutamol ở nhà: 2 nhát từng nhát qua buồng đệm, lặp tối đa 2 lần cách 20 phút; cần lại trong 4 giờ thì đến cơ sở cấp cứu (GINA 2026 tr. 215, 222).",
+  "Hạch dưới hàm hai bên, mềm, di động, cùng lúc sốt: nghĩ viêm hạch do virus (QĐ 5643 mục 3.2.2.2); ung thư vòm thường triệu chứng một bên (mục 3.1.1).",
+  "Cặp tương phản với NH-0199 (viêm VA cấp, mẹ đòi truyền dịch) và NH-0163: cùng bệnh nền virus, khác bẫy hành vi và diễn tiến."
+ ],
+ "nguon": [
+  "TL-0250 · WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – ĐÃ ĐỌC: mục 4.4 Cough or cold (tr. 90–91), mục 4.5 (tr. 91–92), Bảng 7 (tr. 81), tr. 98 (salbutamol qua buồng đệm)",
+  "TL-0137 · GINA 2026 – Global Strategy for Asthma Management and Prevention – ĐÃ ĐỌC: mục 12 trẻ ≤ 5 tuổi: Box 12-1 (tr. 217), 12-3 (tr. 219), 12-4 (tr. 220), tr. 215 và 222, Box 12-6 (tr. 223); Box 11-3 (tr. 208); mục 9 (tr. 170, 188, người ≥ 6 tuổi); tr. 198",
+  "TL-0037 · QĐ 3312/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – ĐÃ ĐỌC: Hen trẻ em, điều trị cơn nhẹ (tr. 696), theo dõi sau cơn (tr. 698); Co giật do sốt mục 4.1 (tr. 457, paracetamol)",
+  "TL-0130 · QĐ 5643/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2.1.2, 3.1.1, 3.1.2, 4.1, 4.3.1, 5.1; tr. 133–136); Viêm V.A cấp (mục 4.1, 4.2, 5; tr. 139–140); các khối u vùng cổ do nhiễm trùng (mục 3.2.2.1–3.2.2.2, tr. 262); Ung thư vòm mũi họng (mục 3.1.1–3.1.2, tr. 284)",
+  "TL-0015 · QĐ 708/QĐ-BYT 2015 – Hướng dẫn sử dụng kháng sinh – ĐÃ ĐỌC: Viêm phổi cộng đồng ở trẻ em (mục 3.1, 4.1, 4.4; tr. 101–103)",
+  "TL-0245 · WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – ĐÃ ĐỌC: khuyến cáo 1 và chú thích dấu hiệu nguy hiểm",
+  "TL-0262 · NICE NG143 – Fever in under 5s (2021, bản 2025) – ĐÃ ĐỌC: mục 1.6.4–1.6.6, 1.7.2–1.7.3",
+  "TL-0018 · WHO AWaRe 2022 – ĐÃ ĐỌC: Viêm họng trẻ em, liều paracetamol (tr. 50); viêm xoang trẻ em (tr. 64–65)",
+  "TL-0158 · IDSA 2012 – GAS pharyngitis (Clin Infect Dis 2012;55:e86) – ĐÃ ĐỌC: khuyến cáo 4, Bảng 2; TL-0159 · IDSA ABRS 2012 – khuyến cáo 1",
+  "TL-0271 · AAP/AAFP 2013 – The diagnosis and management of acute otitis media – ĐÃ ĐỌC: Key Action Statement 1A–1B",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: tăng liều ICS ngắn hạn khi nhiễm virus ở trẻ ≤ 5 tuổi; tuổi mắc, yếu tố gia đình của ung thư vòm và mốc hạch cổ cần đánh giá thêm ở trẻ; ngưỡng CRP, khoảng tham chiếu công thức máu trẻ em; số lần nhỏ nước muối mỗi ngày; chi phí nằm viện."
+ ],
+ "phien_ban_ca": "1",
+ "ghi_chu_bien_tap": [
+  "27/11/2026: viết mới theo đặc tả sổ cái NH-0139 (nhiễm khuẩn hô hấp trên cấp trẻ em, 2 lượt, trẻ mẫu giáo có hen; đòi kháng sinh; ngoài giờ không kỹ thuật viên; sợ ung thư; kết cục xử trí đúng nhưng diễn tiến xấu). Tài liệu đã đọc: xem mục nguon.",
+  "Áp dụng đúng các mục sổ mâu thuẫn: viêm họng đỏ cấp trẻ > 3 tuổi (gộp một mục c không kháng sinh HOẶC amoxicillin theo QĐ 5643); thời gian cảm lạnh 3–5 ngày so với 14 ngày; NH-0958 (salbutamol cơn nhẹ ≤ 5 tuổi 4 nhát GINA hoặc 6 nhát QĐ 3312; prednisolon cơn nhẹ chấm a; mốc tái khám 1–3 ngày, 2 tuần, 2–3 tháng). Không có mâu thuẫn mới.",
+  "Lượt 2 xếp 've_hen' vì đủ mọi tiêu chí mức nhẹ sau salbutamol (GINA tr. 222); diễn tiến xấu nằm ở ket_cuc để dạy chống outcome bias, không lộ trong neu_sai lượt 1.",
+  "Chỗ thiếu tài liệu: xem dòng CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI ở mục nguon. Không dùng ảnh da, ca không có dấu hiệu da then chốt."
+ ]
+}
