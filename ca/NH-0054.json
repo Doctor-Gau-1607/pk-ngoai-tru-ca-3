@@ -1,0 +1,714 @@
+{
+ "ma_ca": "NH-0054",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_nkhh_tren_cap_hoc_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau sinh (mẹ mới sinh em bé 3 tuần, nhà có trẻ sơ sinh)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (của bà ngoại, bà cho cháu uống)",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Thảo Vy",
+  "tuoi": 12,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 7",
+  "can_nang": 38,
+  "chieu_cao": 149,
+  "xung_ho": "Bé 12 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hay nhìn bà trước khi nói. Bà ngoại (bà Sáu, 67 tuổi) xưng 'bà' hoặc 'tui' với bác sĩ, gọi Vy là 'cháu'; bác sĩ gọi bà là 'bà'.",
+  "tinh_cach": "Vy ngoan, hơi nhút nhát, sợ kim tiêm, đang căng thẳng vì kiểm tra giữa kỳ và thiếu ngủ do em sơ sinh khóc đêm. Bà Sáu hiền, nói giọng miền Nam, thương cháu, lo cháu bị trường 'phạt' nếu nghỉ không giấy, tiết kiệm từng đồng vì nhà đang túng sau khi mẹ sinh.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà nói ngay từ đầu 'thử máu thử me thì thôi', hỏi giá, từ chối nếu bác sĩ đề nghị xét nghiệm. Bà không tự kể thuốc đau khớp của mình đã cho cháu uống, và không tự nói muốn xin giấy nghỉ cả tuần; chỉ kể khi bác sĩ hỏi từng thuốc, hỏi nhà trường cần gì. Vy chỉ thổ lộ nỗi lo bài kiểm tra khi được hỏi riêng, nhẹ nhàng.",
+  "nguoi_nha": "Bà ngoại, bà Sáu, 67 tuổi, đi cùng vì mẹ ở nhà với em sơ sinh. Hầu hết câu hỏi do bà trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng Vy (vd 'Vy đau họng chỗ nào?') thì Vy trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Bà ngoại (bà Sáu)",
+  "ngoai_hinh": {
+   "da": "#f0c19b",
+   "toc": "#1a1310",
+   "kieuToc": "dai",
+   "ao": "#8fb8a0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a77c",
+    "toc": "#bdb7b0",
+    "kieuToc": "bui",
+    "ao": "#7a5c3e",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, đau họng, ho 2 ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 12 tuổi, 38 kg, bà ngoại đưa đến vì sốt, đau họng, ho 2 ngày. Sinh hiệu: nhiệt 37,9 °C, mạch 92 l/p, nhịp thở 20 l/p, SpO₂ 98%. Bé tỉnh, hơi mệt, nói chuyện được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Vy nhập viện vì sốt 2 ngày là quá tay: bé thở 20 l/p (ngưỡng thở nhanh ở trẻ trên 5 tuổi là trên 30 l/p), SpO₂ 98%, uống được, chơi được, phổi không ran (QĐ 101/2014 mục V.1; WHO 2013 mục 4.4: ho, cảm lạnh chăm sóc tại nhà). Nhà đang túng sau khi mẹ sinh em, viện phí và một người đi theo chăm bé làm gia đình thêm gánh nặng, trong khi em bé ba tuần tuổi ở nhà thiếu người trông. Việc cần làm là khám kỹ, hỏi thuốc đã dùng và dặn tiêu chí quay lại.",
+    "chuyen_tuyen": "Chuyển Vy lên tuyến trên để chụp phổi, thử máu là không cần: không thở nhanh, không rút lõm, phổi không ran nên chưa có dấu hiệu viêm phổi; chẩn đoán viêm phổi ở trẻ chủ yếu dựa lâm sàng (QĐ 101/2014 mục V), viêm mũi họng do virus thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1). Bà đã nói không có tiền cho xét nghiệm nên chuyến đi mất một ngày và tiền xe mà không đổi được xử trí, bà càng ngại quay lại khi bé thật sự cần. Thuốc đau khớp của bà vẫn nằm trong tay bé vì không ai hỏi tới."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà tui sốt, đau họng, ho mấy bữa nay, bác sĩ coi cho cháu uống thuốc gì cho mau hết nha. Mà thử máu thử me thì thôi nha bác sĩ, nhà tui đang túng lắm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt từ 2 hôm trước, tối qua đo nách 38,2 °C; đau họng nhẹ; ho khan ít; sổ mũi nước trong, hắt hơi, hơi nhức đầu. Ăn kém hơn thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Không khó thở, không thở nhanh, không đau ngực, không khò khè, không thở rít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở (loại trừ viêm phổi)"
+    },
+    {
+     "id": "tai_xoang",
+     "noi_dung": "Không đau tai, không chảy mủ tai, không dụi tai. Nghẹt mũi nhẹ, không đau nhức mặt, không nhức trán khi cúi, nước mũi chưa đục kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai, xoang"
+    },
+    {
+     "id": "nuot",
+     "noi_dung": "Đau họng nhẹ, nuốt cháo, nước, cơm mềm được; không chảy nước dãi, không há miệng khó, giọng hơi khàn nhẹ. Bà không thấy mảng trắng trong họng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau họng, nuốt (loại trừ áp xe, bạch hầu)"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Vy vẫn nói chuyện, uống nước được, không nôn, không co giật, không li bì, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không đau bụng, không nôn, không ợ chua, phân vàng, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiêu hóa (hậu quả thuốc chống viêm)"
+    },
+    {
+     "id": "thuoc_ba",
+     "noi_dung": "Bà cho Vy uống paracetamol 500 mg, 2 lần (mỗi lần 1 viên) khi sốt. Ngoài ra sáng hôm qua và sáng nay bà còn cho uống thêm 1 viên thuốc đau khớp của bà (vỉ ghi meloxicam 7,5 mg) sau ăn sáng, vì bà tin thuốc này 'hạ sốt, hết nhức' cho nhanh. Chính bà đang uống thuốc này mỗi ngày cho đầu gối.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có cho uống thuốc gì chưa' thì bà nói 'chỉ thuốc hạ sốt thôi'. Chỉ kể thuốc đau khớp khi bác sĩ hỏi từng thuốc, hỏi bà có cho cháu uống thuốc của người lớn/thuốc của bà không, hoặc xin xem vỉ thuốc.",
+     "k": 1,
+     "y": "Thuốc tự dùng (NSAID của người lớn)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mỗi năm Vy cảm 2–3 lần. Không hen, không dị ứng thuốc, không từng viêm khớp hay thấp tim, chưa đau dạ dày. Sinh đủ tháng, phát triển bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử dạ dày, dị ứng, thấp tim"
+    },
+    {
+     "id": "em_be",
+     "noi_dung": "Mẹ Vy mới sinh em trai cách đây 3 tuần; em bú mẹ, ngủ nhiều, chưa sốt, chưa ho. Vy ngủ chung phòng, hay bế em.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người trong nhà, em sơ sinh (khởi phát, nguy cơ lây)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mẹ vừa sinh nên nghỉ làm, nhà đang hết tiền; bà chỉ mang đủ tiền khám và thuốc, nói thẳng không đủ tiền thử máu hay chụp phổi và không đồng ý làm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Không đủ tiền xét nghiệm; từ chối xét nghiệm"
+    },
+    {
+     "id": "giay_nghi",
+     "noi_dung": "Vy đã nghỉ học 2 ngày. Cô chủ nhiệm dặn từ ngày thứ ba phải có giấy của bác sĩ. Bà muốn xin giấy nghỉ ốm cả tuần cho cháu 'khỏe hẳn', vì tuần này lớp có bài kiểm tra giữa kỳ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà không tự kể. Chỉ nói khi bác sĩ hỏi Vy đã nghỉ học mấy ngày, nhà trường yêu cầu gì, hoặc bà còn cần giúp gì ngoài thuốc.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: xin giấy nghỉ ốm"
+    },
+    {
+     "id": "vy_lo",
+     "noi_dung": "Vy nói nhỏ: thứ Năm có kiểm tra Toán, con chưa kịp học vì tối nào em cũng khóc đêm, con ngủ không đủ; con chỉ muốn nghỉ thêm vài hôm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng Vy về trường lớp, giấc ngủ, học hành, hỏi nhẹ nhàng không trách; bà ngồi cạnh thì Vy im.",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo thật của bé (kiểm tra, thiếu ngủ)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Lớp có vài bạn nghỉ vì sốt, ho. Không nghe có ai bị bạch hầu hay ho gà.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, thành sau họng có nhầy trong chảy xuống, amidan độ I hai bên, không xuất tiết, không giả mạc, không mảng trắng. Màng nhĩ hai bên xám hồng, sáng, không phồng, di động. Niêm mạc mũi hồng phù nhẹ, ít dịch trong. Không điểm đau xoang.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm nhỏ, di động, không đau. Không hạch cổ trước sưng đau, cổ không bạnh.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co lõm lồng ngực, rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, nói chuyện lưu loát, môi hồng, niêm mạc ẩm, không mất nước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_lien_cau": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà không đồng ý ngoáy họng vì không có tiền; đã giải thích một lần, bà vẫn từ chối; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: có ho, sổ mũi là dấu hiệu virus rõ nên thường không test (IDSA 2012 khuyến cáo 4). Thang điểm làm phương án B: Centor 1 điểm (chỉ có sốt; có ho, không hạch đau, không xuất tiết; AWaRe 2022 tr. 48–50: 0–2 điểm điều trị triệu chứng); McIsaac 2 điểm (sốt, tuổi 3–14) = nguy cơ trung gian 20,8–33,6% (IDSA 2025 Bảng 3). Test chỉ đáng tiền khi kết quả đổi quyết định kháng sinh; ở ca này không đổi nên bỏ được. Quy trình ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà không đồng ý lấy máu vì không có tiền, Vy cũng sợ kim; ghi nhận từ chối.)",
+     "n": "Không cần: viêm mũi họng cấp thường không cần cận lâm sàng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2, tr. 134); xét nghiệm máu thường không cần (AWaRe 2022 tr. 49). Không đổi xử trí nên bỏ được."
+    },
+    "crp": {
+     "v": "n",
+     "r": "(Không làm; bà từ chối lấy máu.)",
+     "n": "Không cần (như công thức máu)."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "(Không làm; bà từ chối lấy máu.)",
+     "n": "Kháng thể kháng liên cầu không dùng chẩn đoán đợt cấp (IDSA 2012 khuyến cáo 3: phản ánh sự kiện đã qua, không phải hiện tại)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phổi sáng đều hai bên, không đám mờ, góc sườn hoành nhọn, bóng tim bình thường.",
+     "n": "Không chỉ định: thở 20 l/p (ngưỡng thở nhanh trên 5 tuổi là trên 30 l/p), không rút lõm, phổi không ran; chẩn đoán viêm phổi trẻ em chủ yếu dựa lâm sàng (QĐ 101/2014 mục V), hình ảnh học thường không cần khi không nghi biến chứng (AWaRe 2022 tr. 49)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus), ngày thứ 3, không biến chứng",
+     "ok": 1,
+     "n": "Sốt vừa, đau họng nhẹ, ho khan, sổ mũi, ngạt nhẹ, họng đỏ nhẹ có nhầy chảy thành sau, amidan không xuất tiết (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1, tr. 134); virus chiếm 60–80% (mục 2.1.2, tr. 133). Không thở nhanh, không rút lõm, phổi không ran."
+    },
+    {
+     "t": "Dùng thuốc chống viêm không steroid của người lớn (meloxicam) không có chỉ định, chưa có biến chứng tiêu hóa",
+     "ok": 1,
+     "n": "Vy uống 1 viên meloxicam 7,5 mg × 2 ngày, không đau bụng, không nôn, phân vàng, bụng mềm. Thuốc giảm đau hạ sốt đều có nguy cơ chảy máu dạ dày – tiêu hóa nên phải hỏi tiền sử (QĐ 5643, Viêm mũi họng cấp tính mục 4.3.2, tr. 135); meloxicam trong tài liệu dành cho viêm khớp thiếu niên (QĐ 361/2014)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: có ho, sổ mũi (IDSA 2012 khuyến cáo 4); Centor 1 điểm (AWaRe 2022 tr. 50), McIsaac 2 điểm (IDSA 2025 Bảng 3); amidan không xuất tiết, hạch không đau. Không xét nghiệm được vì bà từ chối. QĐ 5643 mục 4.1 coi như liên cầu khi chưa xét nghiệm: xem xu_tri."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 20 l/p dưới ngưỡng thở nhanh trên 5 tuổi (trên 30 l/p), không rút lõm, phổi không ran, SpO₂ 98% (QĐ 101/2014 mục V.1)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng, không đỏ rực (AAP 2013 KAS 1A–1C)."
+    },
+    {
+     "t": "Viêm xoang cấp do vi khuẩn",
+     "n": "Chưa đủ tiêu chuẩn (IDSA ABRS 2012 khuyến cáo I.1): chưa 10 ngày, không sốt ≥ 39 °C kèm mủ 3–4 ngày, không đỡ rồi xấu lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi từng thuốc đã uống, kể cả thuốc của người lớn trong nhà; ngưng meloxicam của bà, không dùng thêm thuốc chống viêm của người lớn, dặn bà cất thuốc xa tầm tay trẻ",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi họng cấp tính mục 4.3.2, tr. 135): hỏi tiền sử dạ dày vì mọi thuốc giảm đau hạ sốt đều có nguy cơ chảy máu tiêu hóa. QĐ 361/2014, Phụ lục NSAID mục 2: không dùng đồng thời hai NSAID, dùng thời gian ngắn nhất; mục 3.2: nhiễm trùng đang tiến triển là chống chỉ định tương đối. Meloxicam ở trẻ chỉ thấy trong viêm khớp thiếu niên (QĐ 361, Viêm khớp vảy nến thiếu niên mục 4.1, tr. 82: từ 2 tuổi, 0,25 mg/kg/24 giờ, tối đa 7,5 mg), còn bài Viêm màng hoạt dịch khớp háng thoáng qua mục 4.2 (tr. 87–88) ghi trẻ em thường dùng ibuprofen vì ít tác dụng phụ, các NSAID khác cho trẻ trên 16 tuổi: hai bài khác bệnh, cùng cho thấy đây không phải thuốc dành cho cơn sốt, đau họng. Vy chưa có triệu chứng tiêu hóa nên không cần xử trí thêm."
+    },
+    {
+     "t": "Hỏi bà đã cho bé nghỉ học mấy ngày, nhà trường cần gì; hỏi riêng Vy về trường lớp, giấc ngủ, bài kiểm tra",
+     "v": "c",
+     "n": "Tìm lý do thật (xin giấy nghỉ ốm) và nỗi lo của bé (kiểm tra, thiếu ngủ vì em khóc đêm)."
+    },
+    {
+     "t": "Cấp giấy xác nhận khám bệnh và nghỉ ốm đúng số ngày bệnh thực tế (2–3 ngày, tới khi hết sốt), không ghi nghỉ cả tuần; hẹn tái khám để xác nhận đi học lại; giải thích bằng tiêu chí cụ thể",
+     "v": "c",
+     "n": "Viêm mũi họng do virus thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1, tr. 136); giữ trẻ nghỉ học trong lúc còn sốt và báo trường (NICE NG143 mục 1.7.2; phạm vi guideline là trẻ dưới 5 tuổi, dùng tham khảo). Số ngày nghỉ chuẩn cho học sinh và mẫu giấy nghỉ học: không có trong tài liệu đã tải. TT 56/2017/TT-BYT (nguồn bổ sung của sổ mâu thuẫn, chưa đối chiếu) là giấy nghỉ ốm hưởng bảo hiểm xã hội, chưa đối chiếu cho học sinh. Khám bệnh ngoại trú khác khám sức khỏe cấp giấy chứng nhận (TT 32/2023/TT-BYT, Điều 30 khoản 2a, Điều 32 khoản 3)."
+    },
+    {
+     "t": "Ghi nhận bà từ chối xét nghiệm (vì tiền), giải thích một lần, không ép; xếp ưu tiên: không có xét nghiệm nào đổi được xử trí hôm nay; phương án B: khám họng, thang điểm, tái khám",
+     "v": "c",
+     "n": "Viêm mũi họng cấp không cần cận lâm sàng (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2, tr. 134); Centor 0–2 chỉ điều trị triệu chứng (AWaRe 2022 tr. 50); test liên cầu không làm khi dấu hiệu virus rõ (IDSA 2012 khuyến cáo 4). Quyền từ chối và cách ghi nhận: không có trong tài liệu đã tải; nguyên tắc chung: giải thích một lần, tôn trọng, ghi hồ sơ, mời quay lại khi cần."
+    },
+    {
+     "t": "Không kê kháng sinh, điều trị triệu chứng và theo dõi (WHO AWaRe 2022 tr. 46, 49–50; IDSA 2012 khuyến cáo 4; WHO 2013 mục 4.4) HOẶC coi như viêm mũi họng đỏ cấp chưa có xét nghiệm: amoxicillin 500 mg × 3 lần/ngày × 10 ngày (QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1)",
+     "v": "c",
+     "n": "Hai cách đều đúng, theo sổ mâu thuẫn mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu': AWaRe 2022 (Centor 0–2 chỉ điều trị triệu chứng, kháng sinh giảm đau họng khoảng 1 ngày, tr. 46) và IDSA 2012 (không test khi có ho, sổ mũi) so với QĐ 5643/2015 (điều trị như liên cầu khi chưa có xét nghiệm, tr. 135). Liều AWaRe tr. 50 (≥ 20 kg: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ), thời gian 10 ngày (QĐ 5643; IDSA 2012 khuyến cáo 8) hoặc 5 ngày nơi nguy cơ thấp tim thấp (AWaRe tr. 50). Tỉ lệ thấp tim tại địa phương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt, giảm đau khi cần: paracetamol 500 mg/lần (13 mg/kg), cách ít nhất 6 giờ, tối đa 4 lần/24 giờ; ibuprofen 200–400 mg/lần là lựa chọn ngang nhau, không dùng cùng lúc hai thuốc",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50 (≥ 30 kg: paracetamol 500 mg–1 g mỗi 4–6 giờ, ibuprofen 200–400 mg mỗi 6–8 giờ, hai thuốc xếp ngang nhau). Trần paracetamol 60 mg/kg/24 giờ (QĐ 3312 Co giật do sốt mục 4.1; QĐ 708 Viêm màng não mủ mục 4.2) = 2.280 mg, thận trọng hơn 4 g của AWaRe; 4 × 500 mg = 2.000 mg. NICE NG143 mục 1.6.4–1.6.6: dùng khi trẻ khó chịu, không dùng hai thuốc đồng thời (phạm vi trẻ dưới 5 tuổi, tham khảo)."
+    },
+    {
+     "t": "Giải thích cách bảo vệ em bé 3 tuần tuổi: rửa tay trước khi bế em, tránh ho vào em; dặn đưa em đi khám ngay nếu sốt từ 38 °C; không cần xét nghiệm hay thuốc phòng cho em khi chưa có triệu chứng",
+     "v": "c",
+     "n": "Tránh tiếp xúc người đang nhiễm virus hô hấp trên, rửa tay thường xuyên (QĐ 5643, Viêm mũi xoang trẻ em mục 6, tr. 84). Trẻ dưới 3 tháng sốt từ 38 °C thuộc nhóm nguy cơ cao (NICE NG143 mục 1.2.12 và Bảng 1, mục 1.2.15). Không xét nghiệm hay điều trị dự phòng người nhà không triệu chứng (IDSA 2012 khuyến cáo 7). Cách ly cụ thể trong nhà, khẩu trang: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rửa mũi, hút mũi bằng nước muối sinh lý khi nghẹt; uống đủ nước, ăn lỏng",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi xoang trẻ em mục 4.2.1, tr. 83: nước muối sinh lý, rửa mũi, hút mũi); WHO 2013 mục 4.4 (tr. 90–91): chăm sóc hỗ trợ, bù nước; không dùng thuốc nhỏ mũi có hoạt chất."
+    },
+    {
+     "t": "Dặn đến ngay nếu thở nhanh trên 30 l/p hoặc khó thở, rút lõm ngực, sốt cao hoặc sốt lại, đau tai hoặc chảy mủ tai, đau họng nặng có mảng trắng, không uống được, li bì, đau bụng hoặc đi ngoài phân đen; hẹn tái khám sau 5 ngày (cấp giấy đi học lại)",
+     "v": "c",
+     "n": "Ngưỡng thở nhanh: QĐ 101/2014 mục V.1; biến chứng viêm tai giữa, viêm xoang, viêm phổi: QĐ 5643 Viêm mũi họng cấp tính mục 5.2 (tr. 136); viêm xoang vi khuẩn: IDSA ABRS 2012 khuyến cáo I.1; viêm tai: AAP 2013 KAS 1A–1B; tác dụng phụ tiêu hóa của NSAID: QĐ 361/2014 Phụ lục NSAID mục 2. Tái khám sau 5 ngày nếu chưa đỡ: WHO 2013 Bảng 7 (tr. 81), viết cho trẻ 2 tháng–5 tuổi, dùng tham khảo; mốc 5 ngày cho trẻ 12 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm cả tuần theo yêu cầu của bà, hoặc ghi bệnh nặng hơn thực tế để bé được nghỉ",
+     "v": "w",
+     "n": "Bệnh tự khỏi thường sau 3–5 ngày (QĐ 5643 mục 5.1); giấy không phản ánh đúng tình trạng khám là vi phạm trung thực nghề nghiệp, quy định cụ thể về giấy nghỉ học: không có trong tài liệu đã tải. Cần đồng cảm nỗi lo của bé và giải quyết đúng chỗ."
+    },
+    {
+     "t": "Cho dùng tiếp thuốc đau khớp của bà, hoặc kê thêm NSAID (ibuprofen, diclofenac) cùng lúc với thuốc đó",
+     "v": "w",
+     "n": "Không dùng đồng thời hai NSAID, tăng tác dụng không mong muốn mà không tăng hiệu quả (QĐ 361/2014 Phụ lục NSAID mục 2); thuốc giảm đau hạ sốt có nguy cơ chảy máu tiêu hóa (QĐ 5643 mục 4.3.2)."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng (amoxicillin–clavulanat, cephalosporin thế hệ 3) hoặc tiêm kháng sinh 'cho mau khỏi'",
+     "v": "w",
+     "n": "AWaRe 2022 tr. 50 chỉ liệt kê amoxicillin, penicillin V (đầu tay), cefalexin, clarithromycin cho viêm họng; Vy có dấu hiệu virus rõ, Centor 1 điểm."
+    },
+    {
+     "t": "Cho uống aspirin để hạ sốt",
+     "v": "h",
+     "n": "IDSA 2012 khuyến cáo 10(ii): tránh aspirin ở trẻ em (mạnh, trung bình); QĐ 5643 mục 4.3.2 có liệt kê aspirin, theo sổ mâu thuẫn chọn bên thận trọng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus), ngày thứ 3, không biến chứng, không có dấu hiệu nguy hiểm",
+     "Chưa có viêm phổi, viêm tai giữa cấp hay viêm xoang vi khuẩn; liên cầu nhóm A ít nghĩ (Centor 1, McIsaac 2), không xét nghiệm được",
+     "Tự dùng thuốc chống viêm không steroid của người lớn (meloxicam 7,5 mg × 2 ngày), chưa có triệu chứng tiêu hóa",
+     "Bà từ chối xét nghiệm vì không đủ tiền; ghi nhận từ chối, dùng phương án B",
+     "Lý do thật đến khám: xin giấy nghỉ ốm cả tuần; nỗi lo của bé: bài kiểm tra, thiếu ngủ vì em sơ sinh khóc đêm"
+    ],
+    "phan_tich_chan_doan": [
+     "Chẩn đoán chính: sốt 2 ngày, đau họng nhẹ, ho khan, sổ mũi, họng đỏ nhẹ, nhầy chảy thành sau, amidan không xuất tiết (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1, tr. 134). Virus chiếm 60–80% (mục 2.1.2, tr. 133) và thường tự khỏi sau 3–5 ngày (mục 5.1, tr. 136). Giá trị của ca nằm ở chỗ làm cho chặt: hỏi thuốc, hỏi lý do thật, hiểu nhà đang có em sơ sinh.",
+     "Vì sao ít nghĩ liên cầu: có ho, sổ mũi (IDSA 2012 khuyến cáo 4). Centor 1 điểm vì chỉ có sốt (AWaRe 2022 tr. 48–50: 0–2 điểm chỉ điều trị triệu chứng; ngay cả 4 điểm xác suất chỉ khoảng 50%). McIsaac 2 điểm (sốt, tuổi 3–14) là nguy cơ trung gian 20,8–33,6% (IDSA 2025 Bảng 3). Vì tuổi 5–15 là đỉnh thấp tim (AWaRe tr. 51), người học dễ muốn test; nhưng dấu hiệu virus rõ nên test không đổi xử trí. Tỉ lệ thấp tim tại địa phương: không có trong tài liệu đã tải.",
+     "Vì sao không viêm phổi: thở 20 l/p, ngưỡng thở nhanh trên 5 tuổi là trên 30 l/p; không rút lõm; phổi không ran; SpO₂ 98% (QĐ 101/2014 mục V.1). Chẩn đoán dựa lâm sàng, X-quang 2–3 ngày đầu có thể bình thường (mục VI.1). Vì sao không viêm tai giữa cấp: không đau tai, màng nhĩ không phồng, không đỏ rực (AAP 2013 KAS 1A–1C). Không viêm xoang vi khuẩn: chưa 10 ngày, không sốt cao kèm mủ, không đỡ rồi xấu lại (IDSA ABRS 2012 khuyến cáo I.1).",
+     "Thuốc tự dùng: hỏi chung bà chỉ nói 'thuốc hạ sốt'; hỏi từng thuốc mới ra meloxicam 7,5 mg của bà cho đầu gối. Meloxicam trong tài liệu dành cho viêm khớp thiếu niên (QĐ 361/2014, Viêm khớp vảy nến thiếu niên mục 4.1, tr. 82: từ 2 tuổi, 0,25 mg/kg/24 giờ, tối đa 7,5 mg), không phải cho sốt hay đau họng; liều 7,5 mg bằng trần ngày của bài đó nên không phải quá liều, nhưng không có chỉ định và chồng thêm nguy cơ tiêu hóa (QĐ 5643 mục 4.3.2; QĐ 361 Phụ lục NSAID mục 2, 3.2). Vy không đau bụng, không nôn, phân vàng, bụng mềm.",
+     "Bà từ chối xét nghiệm vì tiền: xếp ưu tiên xét nghiệm nào đổi được quyết định. Công thức máu, CRP, ASLO, X-quang không đổi; test liên cầu chỉ đổi nếu kết quả quyết định kháng sinh, mà dấu hiệu virus rõ nên cũng bỏ được. Quyền từ chối và cách ghi nhận: không có trong tài liệu đã tải; nguyên tắc chung giải thích một lần, tôn trọng, ghi hồ sơ, mời quay lại.",
+     "Lý do thật và bối cảnh: bà cần giấy cho cô chủ nhiệm, Vy sợ bài kiểm tra Toán vì mất ngủ do em bé khóc đêm. Đây là việc phải hỏi ra chứ không suy đoán. Nhà có em 3 tuần tuổi: trẻ dưới 3 tháng sốt từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12) nên dặn bà theo dõi em."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: hai cách đều đúng. Không kháng sinh (AWaRe 2022 tr. 46, 49–50; IDSA 2012 khuyến cáo 4; WHO 2013 mục 4.4) hoặc amoxicillin 10 ngày theo QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1, tr. 135; IDSA 2012 khuyến cáo 8). Khác nhau do năm và bối cảnh: QĐ 5643/2015 điều trị như liên cầu khi chưa có xét nghiệm vì nguy cơ biến chứng; AWaRe và IDSA dựa trên dấu hiệu virus và thang điểm, kháng sinh chỉ giảm đau họng khoảng 1 ngày (AWaRe tr. 46).",
+     "Giảm đau hạ sốt: paracetamol 500 mg/lần (13 mg/kg), tối đa 4 lần = 2 g (52,6 mg/kg), dưới trần 60 mg/kg/24 giờ của QĐ 3312/QĐ 708; AWaRe cho ≥ 30 kg tới 4 g/ngày chấp nhận được nhưng ở đây chọn mức thận trọng hơn. Ibuprofen 200–400 mg mỗi 6–8 giờ là lựa chọn ngang nhau (AWaRe tr. 50); không dùng hai thuốc cùng lúc (NICE NG143 mục 1.6.6).",
+     "Ngưng meloxicam của bà và giải thích vì sao thuốc người lớn không dùng cho cơn sốt của bé (QĐ 361 Phụ lục NSAID mục 2; QĐ 5643 mục 4.3.2); cất thuốc xa tầm tay trẻ. Hướng dẫn theo dõi: đau bụng, nôn, phân đen thì đến ngay.",
+     "Giấy: cấp giấy xác nhận khám bệnh và nghỉ ốm đúng số ngày thực tế, 2–3 ngày tới khi hết sốt, không ghi cả tuần. Giải thích bằng tiêu chí (3–5 ngày tự khỏi, nghỉ khi còn sốt), đồng cảm nỗi lo bài kiểm tra, gợi ý bà báo cô giáo xin dời hoặc làm bài bù. Quy định giấy nghỉ học: không có trong tài liệu đã tải.",
+     "Bảo vệ em bé: người chăm rửa tay trước khi bế em, tránh ho vào em, em sốt từ 38 °C đưa đi khám ngay (QĐ 5643 Viêm mũi xoang trẻ em mục 6, tr. 84; NICE NG143 mục 1.2.12, Bảng 1 mục 1.2.15). Không xét nghiệm, không dùng thuốc phòng cho em khi chưa triệu chứng (IDSA 2012 khuyến cáo 7).",
+     "Hẹn tái khám sau 5 ngày để đánh giá lại và cấp giấy đi học lại; dặn dấu hiệu quay lại sớm (QĐ 101/2014 mục V.1; QĐ 5643 mục 5.2; IDSA ABRS 2012 khuyến cáo I.1; AAP 2013 KAS 1A–1B)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg/lần (13 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt hoặc đau họng làm bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn khó chịu; tối đa 4 lần/24 giờ (2 g, dưới 60 mg/kg/ngày)",
+      "ghi_chu": "AWaRe 2022 tr. 50 (≥ 30 kg: 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày); trần 60 mg/kg/24 giờ theo QĐ 3312 (Co giật do sốt mục 4.1) và QĐ 708 (Viêm màng não mủ mục 4.2), thận trọng hơn. Thay thế: ibuprofen 200–400 mg mỗi 6–8 giờ sau ăn (AWaRe tr. 50), không dùng cùng lúc (NICE NG143 mục 1.6.6)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc nhỏ mỗi bên mũi, sau đó hút hoặc xì nhẹ",
+      "duong": "Rửa/nhỏ mũi",
+      "thoi_diem": "Khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm mũi xoang trẻ em mục 4.2.1, tr. 83). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amoxicillin (CHỈ nếu chọn hướng QĐ 5643)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 3 lần/ngày (hoặc 1 g × 2 lần/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách đều",
+      "so_ngay": "10 ngày (hoặc 5 ngày nếu nguy cơ thấp tim thấp, theo AWaRe)",
+      "ghi_chu": "QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1, tr. 135: 10 ngày); AWaRe 2022 tr. 50 (≥ 20 kg: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ). Hướng không kháng sinh cũng đúng (sổ mâu thuẫn); Vy có dấu hiệu virus rõ."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm mũi họng cấp do virus, thường khỏi sau 3–5 ngày, ho và sổ mũi có thể còn thêm vài ngày (QĐ 5643). Bé chưa có dấu hiệu viêm phổi: thở bình thường, phổi sạch. Không cần thử máu hay chụp phổi hôm nay nên không tốn thêm tiền.",
+     "Ngưng thuốc đau khớp của bà, không cho bé uống thuốc của người lớn; cất thuốc xa tầm tay (QĐ 361/2014 Phụ lục NSAID mục 2). Chỉ dùng paracetamol 500 mg khi bé sốt hay đau họng khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần trong 24 giờ (AWaRe 2022 tr. 50; QĐ 3312).",
+     "Rửa, hút mũi bằng nước muối sinh lý khi nghẹt; cho bé uống đủ nước, ăn cháo, súp.",
+     "Giấy nghỉ ốm ghi đúng số ngày bé cần nghỉ (còn sốt); bé nên báo cô giáo, xin làm bài kiểm tra bù. Mẹ và bà chia nhau trông em ban đêm để bé ngủ đủ.",
+     "Em bé 3 tuần tuổi: người bế em rửa tay trước, bé Vy không ho, hắt hơi vào em. Nếu em sốt từ 38 °C, bú kém hoặc li bì thì đưa đi khám ngay (NICE NG143).",
+     "Đưa bé đến ngay nếu thở nhanh (trên 30 lần/phút khi nằm yên; QĐ 101/2014 mục V.1), khó thở, rút lõm ngực, sốt cao hoặc sốt lại, đau hay chảy mủ tai (QĐ 5643 mục 5.2), đau họng nặng có mảng trắng, không uống được, li bì, đau bụng hoặc đi ngoài phân đen.",
+     "Tái khám sau 5 ngày để đánh giá lại và cấp giấy đi học lại (WHO 2013 Bảng 7, tham khảo)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Tái khám sau 5 ngày theo hẹn. Bé hết sốt, ăn ngủ bình thường, còn ho nhẹ; đã đi học lại 2 hôm. Sinh hiệu: nhiệt 36,7 °C, mạch 80 l/p, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển Vy lên tuyến trên chụp phổi, thử máu cho chắc là vô ích: bé đã hết sốt, thở 18 l/p, phổi không ran, chưa từng có chẩn đoán viêm phổi nên không có gì để chụp kiểm tra khỏi (QĐ 101/2014 mục V.1; AWaRe 2022 tr. 49: hình ảnh học thường không cần khi không nghi biến chứng). Gia đình vốn túng, nên chuyến đi mất thêm một ngày, tiền xe và viện phí, bé lỡ thêm buổi học và bà dè dặt hơn lần sau khi bé thật sự cần khám.",
+    "theo_doi": "Giữ Vy lại hẹn khám thêm nhiều lần, thêm kháng sinh 'để chắc' khi bé đã khỏi là không cần: ho cảm lạnh không dùng kháng sinh và hầu hết hết trong 14 ngày (WHO 2013 mục 4.4, tr. 90), đợt bệnh không có bằng chứng nhiễm khuẩn. Bé có thể gặp tác dụng phụ của kháng sinh, nhà tốn thêm tiền thuốc và công đi lại, còn nỗi lo thật của bé (thiếu ngủ, áp lực học) vẫn không ai hỏi tới."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỡ rồi, hết sốt từ hôm kia, còn ho chút chút. Cô giáo biểu xin tờ giấy cháu đã khỏi để nộp, mà bác sĩ coi có cần thử máu chụp phổi gì cho chắc không?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_benh",
+     "noi_dung": "Hết sốt từ đêm ngày thứ 3 của bệnh, không phải uống thuốc hạ sốt từ ngày thứ 4. Hết đau họng; còn ho nhẹ vài tiếng mỗi ngày, sổ mũi ít; ăn ngủ, chơi bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đợt cấp"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Vy đã dùng paracetamol tổng cộng 4 lần, không còn dùng từ khi hết sốt. Bà cất vỉ thuốc đau khớp vào tủ trên cao, không cho Vy uống nữa. Không đau bụng, không nôn, phân vàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, thuốc, tác dụng phụ"
+    },
+    {
+     "id": "tho",
+     "noi_dung": "Không thở nhanh, không khó thở, không đau ngực, không sốt lại, không đau tai, không chảy mủ mũi kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Vy nghỉ học 3 ngày theo giấy đã cấp, đi học lại 2 hôm. Cô giáo cần thêm giấy xác nhận bé đã khám và khỏi để lưu hồ sơ. Bà không xin nghỉ thêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: giấy"
+    },
+    {
+     "id": "vy_hoc",
+     "noi_dung": "Vy kể đã nói với mẹ, cô cho làm bài kiểm tra Toán bù hôm qua. Mẹ và bà thay phiên bế em ban đêm nên Vy ngủ đỡ hơn; Vy vẫn hơi mệt buổi chiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo của bé (học hành, giấc ngủ)"
+    },
+    {
+     "id": "em_be2",
+     "noi_dung": "Em bé 4 tuần tuổi vẫn bú tốt, ngủ bình thường, không sốt, không ho, không khò khè. Bà lo em bị lây từ chị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Em sơ sinh trong nhà"
+    },
+    {
+     "id": "tien2",
+     "noi_dung": "Bà vẫn không có tiền cho xét nghiệm; thấy cháu khỏi nên không dám thử, chỉ hỏi cho chắc vì cô giáo dặn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng hồng nhạt, amidan độ I không xuất tiết, không giả mạc. Màng nhĩ hai bên sáng, không phồng. Niêm mạc mũi hồng, không dịch mủ, không điểm đau xoang.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ sưng đau, hạch dưới hàm không sờ thấy.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, không co lõm lồng ngực, rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, tươi, môi hồng, niêm mạc ẩm, không mất nước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "(Không làm; bà không đồng ý lấy máu.)",
+     "n": "Không cần: đã khỏi lâm sàng, kết quả không đổi xử trí; bà cũng từ chối vì chi phí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "(Không làm; bà không đồng ý lấy máu.)",
+     "n": "Không cần (như công thức máu)."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "(Không làm; bà không đồng ý.)",
+     "n": "Không làm sau khi đã khỏi: không cấy hay test liên cầu kiểm tra thường quy (IDSA 2012 khuyến cáo 6: không khuyến cáo thường quy, chỉ cân nhắc ở hoàn cảnh đặc biệt); trước đó cũng chưa có chẩn đoán liên cầu."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Phổi sáng đều hai bên, không đám mờ, góc sườn hoành nhọn, bóng tim bình thường.",
+     "n": "Không chỉ định: chưa từng có chẩn đoán viêm phổi, hết sốt, thở 18 l/p, phổi không ran (QĐ 101/2014 mục V.1). Ho dưới 14 ngày sau cảm lạnh là thường gặp; ho từ 14 ngày trở lên mới nghĩ lao, hen, ho gà (WHO 2013 mục 4.4, tr. 90)."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "(Không làm; bà không đồng ý lấy máu.)",
+     "n": "Không giúp: không dùng ASLO để chẩn đoán hay kiểm tra sau đợt cấp (IDSA 2012 khuyến cáo 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus đã khỏi, không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, hết đau họng, còn ho nhẹ, họng hồng nhạt, tai bình thường, phổi sạch; thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1, tr. 136); hầu hết cảm lạnh hết trong 14 ngày (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Không thở nhanh (18 l/p, dưới 30 l/p), không rút lõm, phổi không ran, hết sốt (QĐ 101/2014 mục V.1)."
+    },
+    {
+     "t": "Viêm tai giữa cấp hoặc viêm xoang vi khuẩn (biến chứng muộn)",
+     "n": "Không đau tai, màng nhĩ bình thường (AAP 2013 KAS 1A–1C); không sốt lại, không nghẹt mũi kéo dài hay đỡ rồi xấu lại (IDSA ABRS 2012 khuyến cáo I.1)."
+    },
+    {
+     "t": "Ho kéo dài do nguyên nhân khác (lao, hen, ho gà)",
+     "n": "Ho mới 8 ngày, đang giảm; chỉ nghĩ tới khi ho từ 14 ngày trở lên (WHO 2013 mục 4.4, tr. 90)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng (hết sốt, hết đau họng, thở bình thường, phổi sạch, tai bình thường); không thử máu, không chụp phổi, không test liên cầu kiểm tra; giải thích bằng tiêu chí",
+     "v": "c",
+     "n": "IDSA 2012 khuyến cáo 6 (không cấy, test kiểm tra thường quy); QĐ 101/2014 mục V.1 (chẩn đoán viêm phổi dựa lâm sàng) và AWaRe 2022 tr. 49 (hình ảnh học không cần khi không nghi biến chứng). Ho nhẹ còn vài ngày là bình thường, hầu hết hết trong 14 ngày (WHO 2013 mục 4.4, tr. 90). Chi phí và việc bà từ chối xét nghiệm khớp với việc xét nghiệm không đổi xử trí."
+    },
+    {
+     "t": "Ngưng thuốc: không cần paracetamol khi đã hết sốt, hết đau; ngưng hẳn thuốc đau khớp của bà; nước muối chỉ khi nghẹt mũi",
+     "v": "c",
+     "n": "Dùng thuốc hạ sốt giảm đau chỉ trong lúc trẻ còn khó chịu, rồi dừng (NICE NG143 mục 1.6.6, phạm vi trẻ dưới 5 tuổi, tham khảo); không dùng NSAID người lớn khi không có chỉ định (QĐ 361/2014 Phụ lục NSAID mục 2). Thời gian dùng nước muối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy xác nhận đã khám và khỏi bệnh dựa trên khám hôm nay, ghi đúng ngày nghỉ thực tế; nói rõ đây là xác nhận khám bệnh, không phải giấy khám sức khỏe",
+     "v": "c",
+     "n": "Khám bệnh ngoại trú khác khám sức khỏe cấp giấy chứng nhận (TT 32/2023/TT-BYT, TL-0669, Điều 30 khoản 2a, Điều 32 khoản 3: khám theo yêu cầu không đủ chuyên khoa thì chỉ kết luận phần đã khám, không phân loại sức khỏe). Mẫu giấy xác nhận đi học lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lại nỗi lo của Vy (kiểm tra, giấc ngủ), khen mẹ và bà đã chia việc đêm; khuyên bà duy trì để bé ngủ đủ",
+     "v": "c",
+     "n": "Xử lý lý do thật đã lộ ở lượt 1.  Nhận xét lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhắc bảo vệ em bé: rửa tay trước khi bế em, em sốt từ 38 °C đưa đi khám ngay; không cần thuốc hay xét nghiệm phòng cho em",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi xoang trẻ em mục 6, tr. 84: rửa tay thường xuyên khi tiếp xúc người nhiễm virus hô hấp trên); NICE NG143 mục 1.2.12 (dưới 3 tháng sốt từ 38 °C: nhóm nguy cơ cao); IDSA 2012 khuyến cáo 7 (không xét nghiệm hay điều trị người nhà không triệu chứng)."
+    },
+    {
+     "t": "Dặn quay lại nếu ho từ 14 ngày trở lên, sốt lại, thở nhanh trên 30 l/p, đau tai hoặc chảy mủ tai, sổ mũi mủ từ 10 ngày hoặc đỡ rồi nặng lại; không cần hẹn khám nếu bé ổn",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (ho từ 14 ngày: nghĩ lao, hen, ho gà); QĐ 101/2014 mục V.1; IDSA ABRS 2012 khuyến cáo I.1; AAP 2013 KAS 1A–1B; QĐ 5643 mục 5.2 (biến chứng)."
+    },
+    {
+     "t": "Cấp giấy nghỉ thêm cả tuần 'cho khỏe hẳn' khi bé đã đi học lại bình thường",
+     "v": "w",
+     "n": "Giấy không đúng tình trạng thực tế (bé đã hết bệnh, đi học lại 2 hôm); quy định về giấy nghỉ học: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh hoặc thuốc ho 'cho hết ho' dù đã khỏi",
+     "v": "w",
+     "n": "Ho, cảm lạnh không dùng kháng sinh (WHO 2013 mục 4.4); không dùng thuốc chứa codein, atropin, thuốc tiêu nhầy (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Ép bà lấy máu hoặc chụp phổi mới cấp giấy, hoặc hứa 'xét nghiệm xong mới yên tâm'",
+     "v": "w",
+     "n": "Xét nghiệm không đổi xử trí (IDSA 2012 khuyến cáo 6; QĐ 101/2014 mục V); bà đã từ chối vì tiền. Quyền từ chối: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus đã khỏi (ngày thứ 8 của bệnh), không biến chứng",
+     "Còn ho nhẹ sau cảm, đang giảm, chưa đến mốc 14 ngày",
+     "Không viêm phổi, không viêm tai giữa, không viêm xoang vi khuẩn; không tác dụng phụ tiêu hóa của thuốc chống viêm đã dùng",
+     "Cần giấy xác nhận đã khám, khỏi bệnh để nộp trường",
+     "Em sơ sinh trong nhà chưa bị lây; bé đã ngủ đỡ hơn nhờ người nhà chia việc đêm"
+    ],
+    "phan_tich_chan_doan": [
+     "Khỏi: hết sốt từ đêm ngày thứ 3, hết đau họng, thở 18 l/p, phổi không ran, họng hồng nhạt, màng nhĩ bình thường. Thời gian khớp với viêm mũi họng do virus thường tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1, tr. 136); hầu hết cảm lạnh hết trong 14 ngày (WHO 2013 mục 4.4, tr. 90).",
+     "Tiêu chí xác nhận khỏi là lâm sàng: hết sốt không cần thuốc hạ sốt, hết đau họng, thở bình thường, phổi và tai khám bình thường, ăn ngủ chơi được. Ho nhẹ còn vài ngày không phải thất bại điều trị. Mốc ho từ 14 ngày trở lên mới nghĩ lao, hen, ho gà (WHO 2013 mục 4.4).",
+     "Không cần xét nghiệm kiểm tra dù đã khỏi: chưa từng có chẩn đoán viêm phổi hay liên cầu nên không có gì để 'kiểm tra khỏi'; IDSA 2012 khuyến cáo 6 không khuyến cáo cấy hay test lại thường quy; chẩn đoán viêm phổi trẻ em dựa lâm sàng (QĐ 101/2014 mục V).",
+     "Không tác dụng phụ của meloxicam đã dùng 2 ngày: không đau bụng, không nôn, phân vàng, bụng mềm (QĐ 5643 mục 4.3.2; QĐ 361 Phụ lục NSAID mục 2).",
+     "Nhà có em sơ sinh: em vẫn bú tốt, không sốt, ho; giữ dặn rửa tay và theo dõi sốt từ 38 °C ở trẻ dưới 3 tháng (NICE NG143 mục 1.2.12)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc: hết sốt, hết đau họng thì không cần paracetamol (NICE NG143 mục 1.6.6, tham khảo); thuốc đau khớp của bà đã ngưng, giữ cất xa tầm tay trẻ. Không cần kháng sinh (WHO 2013 mục 4.4).",
+     "Giấy xác nhận: ghi đúng ngày khám, ngày nghỉ theo giấy trước, tình trạng đã khỏi lâm sàng, đi học lại được. Đây là xác nhận khám bệnh ngoại trú, không phải giấy khám sức khỏe phân loại (TT 32/2023, Điều 30 khoản 2a, Điều 32 khoản 3). Không ghi nghỉ thêm vì không đúng thực tế.",
+     "Xử lý lý do thật: Vy đã nói với mẹ, được làm bài bù; khen cách mẹ và bà chia việc ban đêm, nhắc giữ để Vy ngủ đủ. Đây là nhận xét lâm sàng, không có trong tài liệu đã tải.",
+     "Dặn quay lại: ho từ 14 ngày, sốt lại, thở nhanh trên 30 l/p, đau hoặc chảy mủ tai, nghẹt mũi mủ từ 10 ngày hoặc đỡ rồi nặng lại (WHO 2013 mục 4.4; QĐ 101/2014 mục V.1; IDSA ABRS 2012 khuyến cáo I.1; AAP 2013 KAS 1A–1B). Không hẹn thêm lần nếu bé ổn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Bé đã khỏi: ngưng paracetamol, ngưng thuốc đau khớp của bà; không kháng sinh (WHO 2013 mục 4.4). Nước muối sinh lý chỉ khi nghẹt mũi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1, tr. 83); số lần dùng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bé đã khỏi cảm. Ho nhẹ còn vài ngày là bình thường; không cần thử máu, chụp phổi hay thuốc nữa.",
+     "Không cho bé uống thuốc của người lớn như thuốc đau khớp của bà; cất thuốc xa tầm tay.",
+     "Giấy xác nhận đã khám và khỏi bệnh cấp hôm nay; chúc bé thi tốt, nhớ ngủ đủ giấc.",
+     "Tiếp tục rửa tay khi bế em; em sốt từ 38 °C, bú kém, li bì thì đưa đi khám ngay.",
+     "Đưa bé quay lại nếu ho từ 14 ngày (WHO 2013 mục 4.4), sốt lại, thở nhanh hoặc khó thở (QĐ 101/2014 mục V.1), đau hay chảy mủ tai, nghẹt mũi mủ từ 10 ngày hoặc đỡ rồi nặng lại (IDSA ABRS 2012 khuyến cáo I.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Vy nghỉ 3 ngày theo giấy, đi học lại, làm bài kiểm tra Toán bù và đạt điểm khá. Bà cất thuốc đau khớp lên tủ cao, không còn cho cháu uống thuốc của người lớn. Em bé khỏe mạnh, không bị lây; mẹ và bà thay phiên bế em ban đêm nên cả nhà ngủ đỡ hơn. Hai tuần sau bà đưa Vy đi tiêm ngừa theo lịch ở trạm y tế và nói với trạm rằng nhà sẽ không tự dùng thuốc nữa.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: bà từ chối thử máu, ngoáy họng, chụp phổi vì chi phí; ca buộc xếp ưu tiên xét nghiệm nào đổi quyết định. Không xét nghiệm nào đổi xử trí nên bỏ được, bác sĩ dạy bằng tiêu chí chứ không bằng giá.",
+  "Thuốc tự mua (đau khớp của bà, meloxicam 7,5 mg) không được kể khi hỏi chung; phải hỏi từng thuốc và hỏi thuốc của người lớn trong nhà.",
+  "Lý do thật là xin giấy nghỉ ốm cả tuần cho kịp tuần kiểm tra; ẩn sau đó là nỗi lo của bé (thiếu ngủ vì em sơ sinh khóc đêm, chưa học bài)."
+ ],
+ "bai_hoc_bien": [
+  "Bệnh nhân từ chối xét nghiệm và không đủ tiền: giải thích một lần, tôn trọng, ghi hồ sơ, phương án B (khám họng, thang điểm Centor/McIsaac, tái khám). Xét nghiệm không đổi xử trí thì không phải mất mát, tránh ép bà.",
+  "Không đủ tiền xét nghiệm: hỏi 'xét nghiệm nào đổi được quyết định?'. Công thức máu, CRP, ASLO, X-quang đều không đổi; test liên cầu chỉ đáng tiền khi kết quả quyết định kháng sinh, mà dấu hiệu virus rõ nên bỏ được.",
+  "Thuốc đang dùng: 'chỉ thuốc hạ sốt thôi' chưa đủ; hỏi từng thuốc, hỏi thuốc của người lớn trong nhà. NSAID không phải thuốc cho cơn sốt của trẻ, không dùng đồng thời hai NSAID, hỏi tiền sử dạ dày (QĐ 5643 mục 4.3.2; QĐ 361/2014 Phụ lục NSAID mục 2).",
+  "Xin giấy nghỉ ốm: tìm lý do thật bằng câu hỏi nhà trường cần gì; cấp giấy đúng số ngày bệnh thực tế, không nghỉ thừa; hỏi riêng bé về nỗi lo, giải quyết đúng chỗ.",
+  "Sau sinh: nhà có em sơ sinh, trẻ dưới 3 tháng sốt từ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12); dặn rửa tay, theo dõi em; không xét nghiệm hay thuốc phòng cho người nhà không triệu chứng (IDSA 2012 khuyến cáo 7).",
+  "Đỡ hoàn toàn khi tái khám: khỏi là lâm sàng; không cần xét nghiệm hay chụp phổi 'kiểm tra khỏi'; ngưng thuốc khi hết triệu chứng; ho nhẹ còn vài ngày là bình thường, mốc 14 ngày mới tìm nguyên nhân khác (WHO 2013 mục 4.4)."
+ ],
+ "diem_nho": [
+  "Viêm mũi họng cấp: virus chiếm 60–80%, tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 2.1.2, 5.1).",
+  "Có ho, sổ mũi: thường không test liên cầu (IDSA 2012 khuyến cáo 4); Centor 0–2 chỉ điều trị triệu chứng (AWaRe 2022 tr. 48–50); McIsaac 2–3 điểm nguy cơ trung gian 20,8–33,6% (IDSA 2025 Bảng 3).",
+  "Ngưỡng thở nhanh trên 5 tuổi: trên 30 l/p (QĐ 101/2014 mục V.1); viêm phổi chẩn đoán dựa lâm sàng.",
+  "Paracetamol cho trẻ ≥ 30 kg: 500 mg–1 g mỗi 4–6 giờ (AWaRe 2022 tr. 50), trần thận trọng 60 mg/kg/24 giờ (QĐ 3312; QĐ 708); không dùng cùng lúc hai thuốc hạ sốt (NICE NG143 mục 1.6.6).",
+  "Không dùng đồng thời hai NSAID; thận trọng khi nhiễm trùng đang tiến triển (QĐ 361/2014 Phụ lục NSAID mục 2, 3.2); aspirin ở trẻ em: tránh (IDSA 2012 khuyến cáo 10(ii)).",
+  "Xét nghiệm kiểm tra sau khỏi không làm thường quy (IDSA 2012 khuyến cáo 6); ho từ 14 ngày mới nghĩ lao, hen, ho gà (WHO 2013 mục 4.4)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2.1.2, 3.1.1–3.1.2, 4.1, 4.3.1–4.3.2, 5.1–5.2, tr. 133–136); Viêm mũi xoang trẻ em (mục 3.2, 4.2.1, 6, tr. 82–84)",
+  "QĐ 101/QĐ-BYT 2014 – Hướng dẫn xử trí viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: mục V.1 (thở nhanh trên 5 tuổi trên 30 l/p), mục VI.1–VI.2",
+  "WHO AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 6 Pharyngitis (tr. 46–51), người lớn và trẻ em",
+  "IDSA 2012 – Clinical practice guideline for GAS pharyngitis (Clin Infect Dis 2012;55:e86) – TL-0158 – ĐÃ ĐỌC: khuyến cáo 1, 3, 4, 6, 7, 8, 10(ii)–(iii) (tr. e86–e87), phần Diagnosis (tr. e94)",
+  "IDSA 2025 – Update on clinical scoring systems for GAS pharyngitis (CID 2026;82 Suppl 3) – TL-0140 – ĐÃ ĐỌC: Bảng 3 (Centor, McIsaac, FeverPAIN)",
+  "IDSA ABRS 2012 – Acute bacterial rhinosinusitis in children and adults – TL-0159 – ĐÃ ĐỌC: khuyến cáo I.1",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media (Pediatrics 2013;131:e964) – TL-0271 – ĐÃ ĐỌC: Key Action Statements 1A–1C",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (tr. 90–91), Bảng 7 (tr. 81); chương 4 viết cho trẻ 2 tháng–5 tuổi, dùng tham khảo cho trẻ 12 tuổi",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.12, 1.2.15 (Bảng 1), 1.6.4–1.6.6, 1.7.2; phạm vi guideline là trẻ dưới 5 tuổi, dùng tham khảo",
+  "QĐ 361/QĐ-BYT 2014 – Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – ĐÃ ĐỌC: Viêm khớp thiếu niên tự phát thể viêm khớp vảy nến (mục 4.1, tr. 82); Viêm màng hoạt dịch khớp háng thoáng qua (mục 4.2, tr. 87–88); Phụ lục Hướng dẫn sử dụng NSAID (mục 2, 3.2)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Co giật do sốt mục 4.1 (paracetamol ≤ 60 mg/kg/24 giờ); QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2",
+  "TT 32/2023/TT-BYT – Quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh – TL-0669 – ĐÃ ĐỌC: Điều 30 khoản 2a, Điều 32 khoản 3",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: quy định và mẫu giấy nghỉ học cho học sinh, số ngày nghỉ chuẩn (TT 56/2017/TT-BYT là nguồn bổ sung của sổ cho giấy nghỉ ốm hưởng BHXH, chưa đối chiếu); quyền từ chối xét nghiệm và cách ghi nhận; tỉ lệ thấp tim tại địa phương; mốc tái khám 5 ngày cho trẻ 12 tuổi; số lần rửa mũi mỗi ngày; liều meloxicam cho cơn sốt/đau họng ở trẻ; cách ly em sơ sinh trong nhà; liên quan thiếu ngủ và học tập."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-27)",
+ "ghi_chu_bien_tap": [
+  "2026-11-27: ca viết mới theo đặc tả sổ cái NH-0054 (Nhiễm khuẩn hô hấp trên cấp trẻ em, học sinh nữ 12 tuổi, không cài bẫy cấu trúc, 2 lượt đỡ hoàn toàn khi tái khám, kết cục ổn định, khỏi bệnh).",
+  "Tài liệu đã đọc: QĐ 5643 (TL-0130), QĐ 101/2014 (TL-0243), AWaRe 2022 (TL-0018), IDSA 2012 (TL-0158), IDSA 2025 (TL-0140), IDSA ABRS 2012 (TL-0159), AAP 2013 (TL-0271), WHO 2013 (TL-0250), NICE NG143 (TL-0262), QĐ 361/2014 (TL-0286), QĐ 3312 (TL-0037), QĐ 708 (TL-0015), TT 32/2023 (TL-0669).",
+  "Mâu thuẫn: dùng lại mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu', mục liều paracetamol tối đa, mục aspirin ở trẻ em (chấm h) và mục NSAID tự dùng (meloxicam); không có mâu thuẫn mới thật (xem NH-0054_mau_thuan.md: chỉ ghi nhận nhỏ).",
+  "Âm thanh tim dùng AT-TIM-BT-NL-01 (khoảng 60 l/p) cho mạch 92 và 80 l/p (dưới 100), chữ ghi đúng tần số theo sinh hiệu; phổi AT-PHOI-BT-NL-01.",
+  "Số ngày nghỉ ốm 2–3 ngày và mốc tái khám 5 ngày là quyết định thiết kế (hết sốt, virus tự khỏi 3–5 ngày); không có nguồn quy định số ngày nghỉ học, đã ghi rõ trong ca.",
+  "Chỗ thiếu tài liệu: quy định giấy nghỉ học, quyền từ chối xét nghiệm, tỉ lệ thấp tim tại địa phương, tái khám 5 ngày ở trẻ 12 tuổi, số lần rửa mũi, liều meloxicam cho sốt, cách ly em sơ sinh."
+ ]
+}
