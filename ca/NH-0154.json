@@ -1,0 +1,790 @@
+{
+ "ma_ca": "NH-0154",
+ "phien_ban_kho": "0.3",
+ "benh": "NH_nkhh_tren_cap_hoc_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Thảo My",
+  "tuoi": 9,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 4",
+  "can_nang": 28,
+  "chieu_cao": 133,
+  "xung_ho": "Bé 9 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', nói nhỏ, run, hay chêm 'con sợ'. Mẹ xưng 'em' với bác sĩ; bác sĩ gọi mẹ là 'chị'.",
+  "tinh_cach": "My học giỏi, nhạy cảm, rất thương ông ngoại, hay nghĩ điều xấu khi thấy cơ thể có gì lạ. Mẹ là chị Hạnh, 36 tuổi, nhân viên ngân hàng, bận rộn, vừa trải qua chuyện ba nhập viện nên cũng hoang mang, hay đọc tin trên mạng.",
+  "kieu_nhieu": "Sợ hãi quá mức: My khóc, run tay, bịt miệng không cho khám họng lúc đầu, hỏi lặp 'con có bị như ông không bác sĩ', nhìn mặt bác sĩ dò phản ứng, đòi 'chụp đầu cho chắc'. Bé không tự nói nỗi sợ đột quỵ, chỉ nói 'con sợ'; chỉ kể khi bác sĩ hỏi nhẹ nhàng bé đang lo điều gì hoặc nhắc tới ông. Dịu lại khi bác sĩ giải thích từng bước, cho bé tự soi gương, khám thử trên tay mẹ trước. Mẹ chỉ nói 'sổ mũi', không kể hắt hơi từng tràng và con mèo.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh, 36 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng My (vd 'My đang lo điều gì?') thì My trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f1c5a3",
+   "toc": "#1a1411",
+   "kieuToc": "dai",
+   "ao": "#e58fb0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#6f8fb5",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Sốt, ho, sổ mũi 2 ngày sau chuyến du lịch; bé khóc, run, đòi chụp đầu",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 9 tuổi, 28 kg, mẹ đưa đến vì sốt 2 ngày, ho, sổ mũi, đau họng nhẹ, bắt đầu một ngày sau chuyến du lịch Sa Pa 5 ngày. Bé khóc, run, bám chặt mẹ, đòi được chụp đầu. Sinh hiệu: nhiệt 38,2 °C, mạch 104 l/p, nhịp thở 22 l/p, SpO₂ 98%. Bé tỉnh, trả lời được khi dỗ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển My lên tuyến trên chụp CT sọ não vì đau đầu và nỗi sợ đột quỵ là quá tay: bé tỉnh, mặt cân, nói rõ, sức cơ đều, cổ mềm, đau đầu chỉ khi sốt và đỡ sau hạ sốt; đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức hoặc dấu thần kinh khu trú (SNNOOP10 2019, mục Systemic symptoms including fever). Cả nhà mất một buổi, bé bị đưa vào phòng máy lạ khi đang sợ, nỗi sợ càng chắc thêm ('con phải chụp nghĩa là con bệnh nặng'); CT cũng không có ở cơ sở này.",
+    "nhap_vien": "Giữ My nhập viện để 'theo dõi thần kinh' cũng không có chỉ định: sốt 38,2 °C, thở 22 l/p (ngưỡng thở nhanh trên 5 tuổi là trên 30 l/p), không rút lõm, uống được, không dấu hiệu nguy hiểm (QĐ 101/2014 mục V.1–V.2, VII.1). Bé phải xa mẹ, bị đặt kim, nằm trong khung cảnh bệnh viện gợi lại đúng nơi ông ngoại đang điều trị nên nỗi sợ nặng thêm, trong khi mèo và thảm ở nhà vẫn không ai nhắc tới."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt hai hôm nay, ho, sổ mũi từ sau chuyến đi chơi về. Sáng nay bé cứ khóc, kêu đau đầu, đòi em đưa đi chụp đầu bằng được. Bác sĩ chụp cho bé đi bác sĩ.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "Không đo",
+    "nhiet": "38,2",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt 2 ngày 38–38,5 °C, ho, sổ mũi, đau họng nhẹ, bắt đầu một ngày sau khi về từ chuyến du lịch Sa Pa 5 ngày. Sáng nay bé khóc, kêu đau đầu và đòi chụp đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Ở Sa Pa nghe báo đang có dịch cúm, nhiều người trong khách sạn và trên xe ho sốt. Trong nhà chưa ai sốt cùng lúc. Không đến cơ sở y tế ở đó, không tiếp xúc ai đã được chẩn đoán bệnh nặng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố dịch tễ (khu vực có dịch cúm lưu hành)"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan lúc đầu, nay ho ít đờm trong. Không khó thở, không khò khè, không ho từng cơn kéo dài, không ho nhiều về đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở (loại trừ viêm phổi)"
+    },
+    {
+     "id": "dau_hong",
+     "noi_dung": "Đau họng nhẹ, nuốt nước và cháo được, không chảy nước dãi, giọng không khàn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau họng, nuốt được"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không kêu đau tai, không chảy mủ tai, không dụi tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "nguy_hiem_am",
+     "noi_dung": "Bé vẫn uống nước được, ăn ít hơn, không nôn tất cả mọi thứ, không co giật, không li bì, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Đau đầu âm ỉ hai bên thái dương, chỉ khi đang sốt, đỡ sau khi uống paracetamol. Không nôn vọt, không cứng cổ, không sợ ánh sáng, không yếu tay chân, không nói ngọng, không té ngã hay va đầu. Đôi lúc thoáng choáng khi đứng dậy nhanh lúc đang sốt, ăn ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu kèm sốt: dấu hiệu cảnh báo thần kinh (SNNOOP10)"
+    },
+    {
+     "id": "hat_hoi",
+     "noi_dung": "Hắt hơi từng tràng 5–10 cái vào buổi sáng và tối, ngứa mũi hay dụi mũi, ngứa mắt, chảy nước mũi trong, nghẹt mũi, kéo dài khoảng 6 tháng nay, ngay cả những ngày không sốt. Ở khách sạn Sa Pa có thảm, bé hắt hơi nhiều hơn. Sốt và ho chỉ mới 2 ngày.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói 'sổ mũi', tưởng bé bị cảm. Chỉ kể khi bác sĩ hỏi hắt hơi, ngứa mũi, ngứa mắt, chảy mũi lúc không sốt, hoặc hỏi các đợt trước đó.",
+     "k": 1,
+     "y": "Hắt hơi từng tràng, ngứa mũi – mắt kéo dài (không được cảm lạnh giải thích)"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Hồi nhỏ bé từng bị chàm ở má. Mẹ bị viêm mũi dị ứng. Bé chưa từng khò khè hay lên cơn khó thở, không dị ứng thuốc, không dị ứng thức ăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử dị ứng bản thân, gia đình"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Phòng ngủ có thảm len, giường nhiều thú nhồi bông, chăn bông. Nhà nuôi một con mèo từ 1 năm nay, mèo hay ngủ trên giường bé.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về phòng ngủ, giường chăn thú nhồi bông, hoặc vật nuôi trong nhà.",
+     "k": 1,
+     "y": "Dị nguyên trong phòng ngủ"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ hôm qua mẹ cho bé uống siro ho long đờm mua ở hiệu thuốc, 5 mL × 3 lần/ngày, hôm nay đã uống 2 lần; chai còn mang theo, mẹ không nhớ rõ thành phần. Có cho paracetamol gói 250 mg khi sốt, 2 lần hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua (thuốc ho long đờm)"
+    },
+    {
+     "id": "so_dot_quy",
+     "noi_dung": "Ông ngoại 68 tuổi bị đột quỵ cách đây 3 tuần, đang nằm viện, méo miệng, yếu nửa người phải, nói ngọng. My theo mẹ vào thăm và rất sợ. Sáng nay bé đau đầu, soi gương thấy miệng 'hơi lệch' lúc khóc nên nghĩ mình cũng bị đột quỵ như ông, muốn được chụp đầu để biết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bé chỉ nói 'con sợ', không nói sợ gì. Chỉ kể khi bác sĩ hỏi nhẹ nhàng bé đang lo điều gì, hỏi trong nhà có ai bệnh, hoặc nhắc tới ông; hỏi dồn hay vội thì bé khóc to hơn.",
+     "k": 1,
+     "y": "Lý do thật: sợ đột quỵ"
+    },
+    {
+     "id": "me_lo",
+     "noi_dung": "Mẹ vừa lo cho ba, đọc tin 'trẻ em cũng bị đột quỵ' trên mạng nên sợ bỏ sót, muốn chụp 'cho chắc'. Mẹ ngại nói trước mặt bé.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo của mẹ"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không xuất tiết, không giả mạc. Niêm mạc mũi nhợt, cuốn dưới phù nề, nhiều dịch trong; ít nhầy hơi đục chảy xuống thành sau họng. Màng nhĩ hai bên hồng nhạt, không phồng, còn di động.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ mềm, cúi cằm chạm ngực được, không cứng gáy.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt hồng nhẹ, hơi phù, chảy nước mắt trong, không ghèn mủ. Quầng thâm nhẹ dưới mi dưới. Đồng tử đều, phản xạ ánh sáng tốt.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Sức cơ 5/5 bốn chi, đứng một chân được, đi thẳng, ngón–mũi chính xác, phản xạ gân xương hai bên đều, Babinski âm tính. Kernig âm tính.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt cân xứng khi cười, nhăn trán, nhắm chặt mắt, nhe răng. Nói rõ, không ngọng, viết tên và đọc một câu bình thường. Khi đang khóc miệng hơi méo, hết ngay khi dỗ nín.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không co lõm lồng ngực, không thở rít. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 22 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt nhẹ, khóc nhiều, run tay. Niêm mạc ẩm, môi hồng, khóc có nước mắt: không mất nước.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da khô nhẹ, vài vết xước do gãi ở nếp khuỷu hai tay. Không ban, không chấm xuất huyết.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "flu": {
+     "v": "a",
+     "r": "Âm tính cúm A, cúm B và SARS-CoV-2",
+     "n": "Chấp nhận, không bắt buộc. Bé ở khu vực có dịch cúm lưu hành nên là ca nghi ngờ (QĐ 1840/2025 mục II.2.4.1); test nhanh dùng để sàng lọc khi nghi cúm (mục II.2.1). Bé khỏe, không yếu tố nguy cơ nặng: dương tính cũng không đổi thuốc vì kháng vi rút chỉ dùng cho cúm nhẹ có yếu tố nguy cơ (mục III.2.2). Độ nhạy của test nhanh: không có trong tài liệu đã tải."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Chấp nhận, không bắt buộc: có ho, sổ mũi nên thường không test (IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 49: Centor 0–2 thường không cần test). Centor 1 điểm (chỉ có sốt), McIsaac 2 điểm (sốt, tuổi 3–14; IDSA 2025 Bảng 3) là nguy cơ trung gian nên làm test không bị trừ điểm."
+    },
+    "ctm": {
+     "r": "BC 7,6 G/L · Neutrophil 50% · Lympho 37% · Eos 6,5% · Hb 126 g/L · TC 290 G/L",
+     "n": "Không cần: viêm mũi họng cấp không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); AWaRe 2022 tr. 49: xét nghiệm máu thường không cần.",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 50.0,
+      "neu": 3.8,
+      "lym_pct": 37.0,
+      "lym": 2.8,
+      "mono_pct": 6.0,
+      "mono": 0.46,
+      "eos_pct": 6.5,
+      "eos": 0.49,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.5,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 82.0,
+      "mch": 28.0,
+      "mchc": 330,
+      "rdw": 13.0,
+      "plt": 290
+     }
+    },
+    "crp": {
+     "n": "Không cần (như công thức máu).",
+     "bang": {
+      "crp": 4
+     }
+    },
+    "cxr": {
+     "n": "Không cần: thở 22 l/p, không rút lõm, phổi không ran nên không viêm phổi (QĐ 101/2014 mục V.1); chẩn đoán viêm phổi dựa lâm sàng, 2–3 ngày đầu X-quang có thể bình thường (mục VI.1). AWaRe 2022 tr. 49: hình ảnh học thường không cần khi không nghi biến chứng."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định: không dấu thần kinh khu trú, không cứng gáy, tỉnh táo (SNNOOP10 2019). Cơ sở này cũng không có máy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp, nghĩ do virus), ngày thứ 2, chưa biến chứng",
+     "ok": 1,
+     "n": "Sốt, đau họng, ho, sổ mũi, nhức đầu, họng đỏ, niêm mạc mũi xuất tiết (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); virus chiếm 60–80% (mục 2.1.2). Có ho, sổ mũi nên ít nghĩ liên cầu (IDSA 2012 khuyến cáo I.4)."
+    },
+    {
+     "t": "Viêm mũi dị ứng đi kèm (chẩn đoán thứ hai), nặng lên sau chuyến đi",
+     "ok": 1,
+     "n": "Hắt hơi từng tràng, ngứa mũi – mắt, chảy mũi trong 6 tháng; niêm mạc mũi nhợt, cuốn dưới phù nề, nhiều dịch trong; tiền sử chàm, mẹ bị viêm mũi dị ứng (QĐ 5643, Viêm mũi xoang dị ứng mục 3.1.1–3.1.2; QĐ 3942, mục 2a). Cảm lạnh tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1) không giải thích hắt hơi 6 tháng."
+    },
+    {
+     "t": "Cúm mùa",
+     "n": "Có yếu tố dịch tễ, nhưng test nhanh âm tính và bé nhẹ, không yếu tố nguy cơ nặng nên không đổi xử trí (QĐ 1840/2025 mục II.2.4.1, III.2.2)."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: có ho, sổ mũi, amidan không xuất tiết (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (AWaRe 2022 tr. 50); test nhanh âm tính."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 22 l/p dưới ngưỡng thở nhanh trên 5 tuổi là trên 30 l/p, không rút lõm, phổi không ran (QĐ 101/2014 mục V.1); SpO₂ 98%."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không đau tai, màng nhĩ không phồng, không đỏ rực (AAP 2013 KAS 1A–1C)."
+    },
+    {
+     "t": "Đột quỵ hoặc tổn thương thần kinh cấp",
+     "n": "Mặt cân, nói rõ, sức cơ đều, không dấu thần kinh khu trú. Đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức hoặc dấu thần kinh (SNNOOP10 2019). Nguy cơ đột quỵ ở trẻ em: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Tỉnh, cổ mềm, Kernig âm tính, không nôn vọt, không sợ ánh sáng (SNNOOP10 2019, mục Systemic symptoms including fever). Nhức đầu là triệu chứng thường gặp của viêm mũi họng cấp (QĐ 5643 mục 3.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nhẹ nhàng bé đang lo điều gì, nghe hết không ngắt; cho bé xem và tự soi gương khi khám nét mặt, tay chân, cổ; giải thích bằng kết quả cụ thể (mặt cân, nói rõ, tay chân khỏe, cổ mềm; đau đầu chỉ khi sốt và đỡ sau hạ sốt) vì sao không chụp đầu",
+     "v": "c",
+     "n": "Xử lý lý do thật (sợ đột quỵ như ông ngoại). Đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức, dấu thần kinh (SNNOOP10 2019); nhức đầu là triệu chứng của viêm mũi họng cấp (QĐ 5643 mục 3.1.1). Kỹ thuật trấn an trẻ sợ hãi: không có trong tài liệu đã tải; đây là nguyên tắc giao tiếp chung."
+    },
+    {
+     "t": "Hỏi và khám tiếp hắt hơi, ngứa mũi – mắt, các đợt trước, tiền sử dị ứng gia đình, phòng ngủ và vật nuôi; soi mũi",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi xoang dị ứng mục 3.1.1–3.1.2, tr. 94): ngứa mũi, hắt hơi từng tràng, ngạt, chảy mũi trong; niêm mạc nhợt, cuốn dưới phù nề, dịch trong. QĐ 3942 (Viêm mũi dị ứng mục 2a): khai thác tiền sử, môi trường."
+    },
+    {
+     "t": "Xem chai siro mẹ đã cho; ngưng thuốc ho long đờm và mọi thuốc ho; không kê thêm thuốc ho, thuốc long đờm, thuốc nhỏ mũi có hoạt chất",
+     "v": "c",
+     "n": "WHO 2013 (Pocket book, mục 4.4, tr. 90–91): cảm lạnh chỉ cần chăm sóc hỗ trợ; không cho thuốc chứa atropin, codein hoặc cồn (có thể có hại), thuốc long đờm, thuốc nhỏ mũi có hoạt chất."
+    },
+    {
+     "t": "Không kê kháng sinh, điều trị triệu chứng (WHO 2013 mục 4.4; IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 46–50) HOẶC amoxicillin 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ, 10 ngày (QĐ 5643)",
+     "v": "c",
+     "n": "Hai cách đều đúng, theo sổ mâu thuẫn mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu': QĐ 5643/2015 (Viêm mũi họng cấp tính mục 4.1, 4.3.1) điều trị như liên cầu khi chưa có xét nghiệm; WHO 2013, IDSA 2012, AWaRe 2022 (Centor 0–2 chỉ điều trị triệu chứng) không dùng kháng sinh khi dấu hiệu virus rõ. Liều: AWaRe 2022 tr. 50 (≥ 20 kg)."
+    },
+    {
+     "t": "Paracetamol 300 mg/lần (10,7 mg/kg), cách ít nhất 6 giờ, tối đa 4 lần/24 giờ, chỉ khi sốt hoặc đau đầu làm bé khó chịu",
+     "v": "c",
+     "n": "AWaRe 2022 tr. 50 (10–15 mg/kg mỗi 6 giờ; 20–<30 kg: 300 mg); WHO 2013 mục 4.4 (hạ sốt khi sốt làm trẻ khó chịu). Trần 60 mg/kg/24 giờ = 1.680 mg (QĐ 3312 Co giật do sốt mục 4.1; QĐ 708 Viêm màng não mủ mục 4.2); 4 × 300 mg = 1.200 mg. Mẹ cho 250 mg (8,9 mg/kg): dưới liều."
+    },
+    {
+     "t": "Điều trị viêm mũi dị ứng: kháng histamin thế hệ 2 uống (levocetirizin 5 mg × 1 lần/ngày) HOẶC corticoid xịt mũi hằng ngày; kèm rửa, xịt nước muối sinh lý",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, từ NH-0134): QĐ 3942/2014 (Viêm mũi dị ứng mục 4: kháng histamin không gây buồn ngủ ưu tiên hàng đầu; Bảng 3 tr. 119: levocetirizin 6–12 tuổi 5 mg/ngày) so với ARIA-EAACI 2024–2025 Phần II mục 6 (khuyến cáo mạnh dùng corticoid xịt mũi hơn kháng histamin uống, áp dụng cho trẻ học đường). Liều corticoid xịt cho trẻ 9 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đến ngay nếu thở nhanh trên 30 l/p, rút lõm ngực, thở rít, không uống được, nôn tất cả, li bì, co giật, tím tái, cổ cứng, đau đầu dữ dội, yếu hoặc méo một bên mặt, sốt từ 5 ngày; hẹn tái khám sau 2 tuần để đánh giá viêm mũi dị ứng",
+     "v": "c",
+     "n": "Dấu hiệu nguy hiểm và viêm phổi: QĐ 101/2014 mục V.1–V.2; tái khám sau 5 ngày nếu không đỡ: WHO 2013 Bảng 7. Dấu hiệu thần kinh, cứng cổ: SNNOOP10 2019. Đánh giá lại viêm mũi dị ứng sau 2–4 tuần: QĐ 3942 mục 5."
+    },
+    {
+     "t": "Chụp CT hoặc MRI sọ não 'cho bé yên tâm'",
+     "v": "w",
+     "n": "Không có chỉ định (SNNOOP10 2019: không cứng cổ, không rối loạn ý thức, không dấu thần kinh). Cơ sở không có máy; chuyển đi chỉ để chiều lòng sẽ củng cố nỗi sợ."
+    },
+    {
+     "t": "Chụp X-quang phổi, thử máu, CRP 'cho chắc' khi không có dấu hiệu viêm phổi",
+     "v": "w",
+     "n": "Chẩn đoán viêm phổi dựa lâm sàng, X-quang 2–3 ngày đầu có thể bình thường (QĐ 101/2014 mục V, VI.1); AWaRe 2022 tr. 49: xét nghiệm máu và hình ảnh thường không cần."
+    },
+    {
+     "t": "Tiếp tục cho siro ho long đờm hoặc kê thêm thuốc ho",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4: không cho thuốc long đờm, thuốc chứa codein, atropin hoặc cồn (có thể có hại)."
+    },
+    {
+     "t": "Oseltamivir 60 mg × 2 lần/ngày × 5 ngày",
+     "v": "w",
+     "n": "QĐ 1840/2025 mục III.2.2: cúm nhẹ chỉ dùng kháng vi rút khi có yếu tố nguy cơ diễn biến nặng; bé khỏe, test nhanh âm tính."
+    },
+    {
+     "t": "Aspirin hạ sốt, giảm đau đầu",
+     "v": "h",
+     "n": "IDSA 2012 khuyến cáo IV.2 tránh aspirin ở trẻ em; QĐ 1840/2025 mục III.2.2: aspirin ở người bệnh cúm có thể dẫn đến hội chứng Reye, nguy cơ đe dọa tính mạng. Bé ở vùng dịch cúm, cúm chưa loại trừ hẳn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp nghĩ do virus), ngày thứ 2, chưa biến chứng, không dấu hiệu nguy hiểm",
+     "Viêm mũi dị ứng quanh năm đi kèm, chưa được chẩn đoán trước đó; dị nguyên nghi ngờ: bụi nhà, lông mèo",
+     "Đau đầu do sốt, không có dấu hiệu thần kinh; không phải đột quỵ",
+     "Nỗi sợ quá mức vì ông ngoại vừa bị đột quỵ",
+     "Đang dùng thuốc ho long đờm tự mua, không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là nhiễm khuẩn hô hấp trên cấp: sốt 2 ngày, đau họng nhẹ, ho, sổ mũi, nhức đầu, họng đỏ nhẹ, mũi xuất tiết (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.1); virus 60–80% (mục 2.1.2). Có ho, sổ mũi, amidan không xuất tiết nên dấu hiệu virus rõ (IDSA 2012 khuyến cáo I.4); Centor 1 điểm (AWaRe 2022 tr. 50); McIsaac 2 điểm (IDSA 2025 Bảng 3). Đến từ vùng có dịch cúm: ca nghi ngờ (QĐ 1840/2025 mục II.2.4.1), test nhanh âm tính, bé khỏe nên không đổi xử trí (mục III.2.2).",
+     "Dữ kiện nào KHÔNG được giải thích bởi cảm lạnh: hắt hơi từng tràng, ngứa mũi – mắt, chảy mũi trong kéo dài 6 tháng ngay cả khi không sốt; niêm mạc mũi nhợt, cuốn dưới phù nề, nhiều dịch trong; bé từng bị chàm, mẹ bị viêm mũi dị ứng; phòng ngủ có thảm, thú nhồi bông, mèo. Đây là tam chứng viêm mũi dị ứng (QĐ 5643, Viêm mũi xoang dị ứng mục 3.1.1–3.1.2; QĐ 3942, Viêm mũi dị ứng mục 1, 2a). Cảm lạnh chỉ 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1). Dừng ở chẩn đoán cảm lạnh là đóng hồ sơ sớm.",
+     "Vì sao không viêm phổi, không viêm tai giữa cấp: thở 22 l/p dưới ngưỡng 30 l/p của trẻ trên 5 tuổi, không rút lõm, phổi không ran, SpO₂ 98% (QĐ 101/2014 mục V.1; WHO 2013 mục 4.4: không có dấu hiệu viêm phổi). Màng nhĩ không phồng, không đỏ rực (AAP 2013 KAS 1A–1C). Cơ sở không có siêu âm: lâm sàng đủ để loại trừ.",
+     "Vì sao không phải đột quỵ hay viêm màng não: bé tỉnh, mặt cân, nói rõ, sức cơ đều, cổ mềm, Kernig âm tính; đau đầu chỉ khi sốt và đỡ sau hạ sốt. Đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức hoặc dấu thần kinh (SNNOOP10 2019). Cái 'miệng lệch' là do khóc, hết khi dỗ nín. Tần suất đột quỵ ở trẻ em: không có trong tài liệu đã tải.",
+     "Vì sao phải hỏi ra lý do thật: bé khóc, đòi chụp đầu nhưng chỉ nói 'con sợ'; nỗi sợ đến từ ông ngoại vừa bị đột quỵ. Chỉ từ chối chụp thì bé và mẹ không được trấn an; để bé tự soi gương và thấy từng phần khám bình thường.",
+     "Lý do thật được giải bằng khám kỹ và giải thích; rào cản 'không có siêu âm' không ảnh hưởng vì lâm sàng đã loại trừ viêm phổi. Ngưng siro long đờm: cảm lạnh chỉ cần chăm sóc hỗ trợ (WHO 2013 mục 4.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: không kê (WHO 2013 mục 4.4; IDSA 2012 khuyến cáo I.4; AWaRe 2022 tr. 46–50) hoặc amoxicillin 10 ngày theo QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1); hai cách đều đúng vì QĐ 5643 điều trị như liên cầu khi chưa có xét nghiệm, còn WHO, IDSA, AWaRe không dùng kháng sinh khi dấu hiệu virus rõ (sổ mâu thuẫn).",
+     "Hạ sốt: paracetamol 300 mg mỗi 6 giờ khi cần (AWaRe 2022 tr. 50), không quá 60 mg/kg/24 giờ (QĐ 3312; QĐ 708). Không aspirin (IDSA 2012 khuyến cáo IV.2; QĐ 1840/2025 mục III.2.2). Không oseltamivir vì cúm nhẹ không yếu tố nguy cơ (QĐ 1840/2025 mục III.2.2).",
+     "Viêm mũi dị ứng: kháng histamin thế hệ 2 hoặc corticoid xịt mũi (QĐ 3942 mục 4 và Bảng 3; ARIA 2024–2025 Phần II mục 6); QĐ 3942 ghi corticoid xịt dùng hằng ngày và chỉ ngừng sau khi hết triệu chứng ít nhất 1 tháng. Nước muối sinh lý (QĐ 3942 mục 4.2: trẻ trên 2 tuổi). Đánh giá lại sau 2–4 tuần (QĐ 3942 mục 5).",
+     "Không CT, không X-quang, không thử máu: không chỉ định (SNNOOP10 2019; QĐ 101/2014 mục V, VI.1; AWaRe 2022 tr. 49).",
+     "Tái khám sớm sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7), chính thức sau 2 tuần để xem viêm mũi dị ứng (QĐ 3942 mục 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levocetirizin (kháng histamin thế hệ 2)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "5 mg (1 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "14 ngày đến khi tái khám",
+      "ghi_chu": "QĐ 3942/2014 (Bảng 3 tr. 119: 6–12 tuổi 1 viên/ngày); thay thế: corticoid xịt mũi hằng ngày (ARIA 2024–2025 Phần II mục 6), liều cho trẻ 9 tuổi không có trong tài liệu đã tải. Thời gian dùng kháng histamin: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc xịt mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc xịt mỗi bên mũi, sau đó xì nhẹ",
+      "duong": "Rửa/xịt mũi",
+      "thoi_diem": "Buổi sáng và khi nghẹt mũi",
+      "so_ngay": "Đến khi tái khám",
+      "ghi_chu": "QĐ 3942 (Viêm mũi dị ứng mục 4.2: trẻ trên 2 tuổi xịt nước muối). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Dạng sẵn có (viên 250 mg hoặc 500 mg, gói bột)",
+      "lieu": "300 mg/lần (10,7 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt hoặc đau đầu làm bé khó chịu, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt; tối đa 4 lần/24 giờ (1.200 mg, dưới 60 mg/kg/ngày)",
+      "ghi_chu": "AWaRe 2022 tr. 50 (20–<30 kg: 300 mg mỗi 6 giờ); QĐ 3312 Co giật do sốt mục 4.1 và QĐ 708 Viêm màng não mủ mục 4.2 (≤ 60 mg/kg/24 giờ)."
+     },
+     {
+      "thuoc": "Amoxicillin (CHỈ nếu chọn hướng QĐ 5643)",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 3 lần/ngày (hoặc 1 g × 2 lần/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách đều",
+      "so_ngay": "10 ngày (QĐ 5643) hoặc 5 ngày nếu nguy cơ thấp tim thấp (AWaRe)",
+      "ghi_chu": "QĐ 5643 (Viêm mũi họng cấp tính mục 4.1, 4.3.1); AWaRe 2022 tr. 50 (≥ 20 kg: 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ). Hướng không kháng sinh cũng đúng (sổ mâu thuẫn)."
+     }
+    ],
+    "dan_do": [
+     "My không bị đột quỵ: mặt cân, nói rõ, tay chân khỏe, cổ mềm. Đau đầu là do sốt, sẽ đỡ khi hết sốt (SNNOOP10 2019; QĐ 5643 mục 3.1.1). Khen bé đã dũng cảm nói ra nỗi sợ; mẹ và bé có thể cùng vào thăm ông khi bé hết sốt.",
+     "Viêm mũi họng do virus thường tự khỏi sau 3–5 ngày, ho có thể lâu hơn (QĐ 5643 mục 5.1; QĐ 1840/2025 mục II.1.1); đa số hết trong 14 ngày (WHO 2013 mục 4.4). Không cần kháng sinh, chụp phổi hay thử máu.",
+     "Ngưng siro ho long đờm, không tự mua thuốc ho, thuốc cảm (WHO 2013 mục 4.4). Cho bé uống nước đều, ăn lỏng; paracetamol 300 mg khi sốt hoặc đau đầu làm bé khó chịu, cách ít nhất 6 giờ, không quá 4 lần/24 giờ.",
+     "Hắt hơi, ngứa mũi, ngứa mắt kéo dài là bệnh viêm mũi dị ứng, cần dùng thuốc đều hằng ngày; bệnh hay tái phát, phải tuân thủ điều trị (QĐ 5643, Viêm mũi xoang dị ứng mục 5.1).",
+     "Giảm tiếp xúc dị nguyên ở phòng ngủ: bỏ thảm len, bớt thú nhồi bông, giặt chăn gối thường xuyên, không cho mèo lên giường (QĐ 5643 Viêm mũi xoang dị ứng mục 6; QĐ 3942 mục 4.2, 6). Tần suất giặt cụ thể: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay nếu thở nhanh trên 30 lần/phút, rút lõm ngực, không uống được, nôn tất cả, li bì, co giật, tím tái (QĐ 101/2014 mục V; WHO 2013); cổ cứng, đau đầu dữ dội, yếu hay méo một bên mặt, nói ngọng đột ngột (SNNOOP10 2019); sốt từ 5 ngày, đau tai, chảy mủ tai.",
+     "Tái khám sau 5 ngày nếu chưa hết sốt (WHO 2013 Bảng 7); tái khám sau 2 tuần để đánh giá viêm mũi dị ứng (QĐ 3942 mục 5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần. Bé hết sốt từ ngày thứ 3, hết đau họng và ho; còn vài cái hắt hơi buổi sáng. Bé vui hơn nhưng vẫn hỏi 'con hết bệnh chưa', mẹ lại đề nghị chụp đầu cho chắc. Sinh hiệu: nhiệt 36,8 °C, mạch 88 l/p, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển My đi chụp phổi, thử máu, chụp đầu 'cho chắc' khi bé đã khỏi hoàn toàn là không cần: hết sốt, hết ho, thở 18 l/p, phổi không ran; chưa từng có chẩn đoán viêm phổi nên không có gì để 'chụp kiểm tra khỏi' (QĐ 101/2014 mục V: chẩn đoán dựa lâm sàng; AWaRe 2022 tr. 49: hình ảnh học không cần khi không nghi biến chứng). Bé lại bị đưa tới nơi lạ, mẹ càng tin 'có máy mới chắc', lần sau bé đau đầu là đòi chụp, còn việc thật sự cần làm (duy trì thuốc viêm mũi dị ứng, đưa mèo ra khỏi giường) bị bỏ qua.",
+    "nhap_vien": "Giữ My nhập viện để 'theo dõi thêm' dù bé đã khỏi hoàn toàn, sinh hiệu bình thường, không dấu hiệu nguy hiểm là vô lý, bệnh điều trị ngoại trú (QĐ 101/2014 mục VII.1). Bé nghỉ học thêm, lại bị đặt vào môi trường bệnh viện đúng nỗi sợ ban đầu, thêm chi phí và nguy cơ lây chéo, trong khi hướng dẫn duy trì thuốc và giảm dị nguyên tại nhà (QĐ 5643, Viêm mũi xoang dị ứng mục 5.1, 6) không được ai nói rõ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé hết sốt, hết ho rồi, chỉ còn hắt hơi chút xíu buổi sáng. Nhưng em vẫn lo, bác sĩ chụp đầu cho bé một lần cho chắc đi, em đọc tin thấy trẻ em cũng bị đột quỵ.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khoi",
+     "noi_dung": "Hết sốt từ ngày thứ 3, hết đau họng ngày thứ 4, hết ho ngày thứ 7; ăn uống, đi học bình thường 5 ngày nay. Không đau tai, không khó thở.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến đợt cấp"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bé dùng thuốc viêm mũi dị ứng bác sĩ kê đều mỗi ngày, không quên. Không còn siro long đờm, không tự mua thêm thuốc khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc"
+    },
+    {
+     "id": "hat_hoi",
+     "noi_dung": "Hắt hơi giảm nhiều, còn 2–3 cái buổi sáng, ngứa mũi thoảng qua; ngứa mắt gần hết, không chảy mũi, không nghẹt. Ngủ ngon hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng điều trị viêm mũi dị ứng"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Không ho về đêm, không khò khè, không ho hay khó thở khi chạy nhảy ở trường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểm tra hen kèm theo (QĐ 3942)"
+    },
+    {
+     "id": "phong_ngu",
+     "noi_dung": "Mẹ đã bỏ thảm len, giặt chăn gối, cất bớt thú nhồi bông. Mèo vẫn ở trong phòng bé: bé ôm mèo ngủ vì 'ôm mèo thì đỡ sợ', mẹ ngại bắt bé xa mèo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói 'đã dọn phòng rồi'. Chỉ kể về mèo khi bác sĩ hỏi về mèo, giường ngủ, hoặc đã làm gì ở phòng ngủ.",
+     "k": 1,
+     "y": "Dị nguyên chưa xử lý hết (nguyên nhân nền của tái phát)"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Bé thỉnh thoảng còn hỏi 'con có bị như ông không'. Ông đang tập phục hồi chức năng, nói được vài từ; bé đã vào thăm ông một lần cùng mẹ và vui khi thấy ông cười. Bé ngủ ngon hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ còn lại"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Mẹ hỏi: 'Bé khỏi rồi thì cho ngưng thuốc được chưa bác sĩ?'",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khi nào ngưng thuốc"
+    },
+    {
+     "id": "me_chup_dau",
+     "noi_dung": "Mẹ vẫn muốn chụp đầu 'một lần cho chắc' vì đọc tin trên mạng; sẽ nghe giải thích nếu bác sĩ nói rõ tiêu chí.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nỗi lo của mẹ"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng hồng, amidan không to, không xuất tiết. Niêm mạc mũi còn hơi nhợt, cuốn dưới phù nhẹ, ít dịch trong. Màng nhĩ hai bên bình thường, di động.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, sức cơ 5/5 bốn chi, phản xạ gân xương đều, đi thẳng, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt cân xứng, nói rõ, không ngọng.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, không chảy nước mắt.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, cổ mềm.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui, ăn uống bình thường, niêm mạc ẩm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "n": "Không cần: bé khỏi lâm sàng, chưa từng có dấu hiệu viêm phổi nên không có gì để chụp kiểm tra (QĐ 101/2014 mục V; AWaRe 2022 tr. 49)."
+    },
+    "ctm": {
+     "n": "Không cần: bé đã khỏi hoàn toàn (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2)."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định: không dấu thần kinh, đau đầu đã hết cùng cơn sốt (SNNOOP10 2019). Cơ sở cũng không có máy."
+    },
+    "test_lay_da": {
+     "v": "a",
+     "r": "Sẩn dương tính với mạt bụi nhà và lông mèo; chứng âm tính không phản ứng, chứng dương tính có phản ứng",
+     "n": "Không bắt buộc khi bé đang đáp ứng thuốc (QĐ 5643, Viêm mũi xoang dị ứng mục 3.1.3; QĐ 3942 mục 2.2, 3.1): hẹn chuyên khoa dị ứng cũng được. Nếu làm, kết quả giúp thuyết phục mẹ về mèo."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp do virus) đã khỏi hoàn toàn, không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, đau họng, ho; họng, tai, phổi bình thường; virus tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1), hầu hết hết trong 14 ngày (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Viêm mũi dị ứng quanh năm, đáp ứng điều trị, cần duy trì thuốc và giảm dị nguyên",
+     "ok": 1,
+     "n": "Hắt hơi giảm nhiều nhưng niêm mạc mũi còn nhợt, cuốn dưới còn phù; dị nguyên (mèo, bụi nhà) còn ở phòng ngủ; bệnh hay tái phát (QĐ 5643, Viêm mũi xoang dị ứng mục 5.1; QĐ 3942 mục 5: đáp ứng thì duy trì thuốc đang dùng)."
+    },
+    {
+     "t": "Viêm phổi, viêm tai giữa cấp hay viêm xoang sau cảm",
+     "n": "Không: thở 18 l/p, phổi không ran, màng nhĩ bình thường, không đau tai, không sốt lại (QĐ 101/2014 mục V.1; AAP 2013 KAS 1A–1C; IDSA ABRS 2012 khuyến cáo I.1)."
+    },
+    {
+     "t": "Hen phế quản kèm theo",
+     "n": "Không ho đêm, không khò khè, không ho khi gắng sức; phổi không ran (QĐ 3942 mục 4 yêu cầu kiểm tra hen kèm theo; QĐ 5643, Viêm mũi xoang dị ứng mục 5.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi nhiễm khuẩn hô hấp trên bằng tiêu chí lâm sàng (hết sốt, đau họng, ho; thở 18 l/p; họng, tai, phổi, thần kinh bình thường, không dấu hiệu nguy hiểm); không kê kháng sinh, không X-quang, không thử máu",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi họng cấp tính mục 5.1: virus tự khỏi sau 3–5 ngày); QĐ 101/2014 mục V (chẩn đoán dựa lâm sàng); WHO 2013 mục 4.4 (hầu hết hết trong 14 ngày); AWaRe 2022 tr. 49 (xét nghiệm máu, hình ảnh thường không cần). Tiêu chí 'khỏi' là suy ra từ các nguồn trên."
+    },
+    {
+     "t": "Trả lời nỗi lo của mẹ và bé bằng tiêu chí: khám thần kinh bình thường, đau đầu hết khi hết sốt, không dấu hiệu nguy hiểm nên không chụp đầu; nhắc lại những dấu hiệu cần quay lại ngay; mời bé tự nói còn sợ gì",
+     "v": "c",
+     "n": "Xử lý lý do thật. Đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức, dấu thần kinh (SNNOOP10 2019). Kỹ thuật trấn an và tiêu chí chụp hình ở trẻ sợ hãi: không có trong tài liệu đã tải; nguyên tắc giao tiếp chung."
+    },
+    {
+     "t": "Duy trì thuốc viêm mũi dị ứng, KHÔNG ngưng ngay: tiếp thêm 4 tuần rồi đánh giá giảm bậc (kháng histamin thế hệ 2 hằng ngày HOẶC corticoid xịt mũi hằng ngày); trả lời mẹ 'chưa ngưng được'",
+     "v": "c",
+     "n": "QĐ 3942 mục 5 (tr. 49: đáp ứng thì duy trì thuốc đang dùng, đánh giá sau 2–4 tuần); mục 4 (corticoid xịt dùng hằng ngày, chỉ ngừng sau khi hết triệu chứng ít nhất 1 tháng); QĐ 5643 (Viêm mũi xoang dị ứng mục 5.1: hay tái phát, phải tuân thủ). ARIA 2024–2025 Phần II mục 6 ưu tiên corticoid xịt. Thời gian dùng kháng histamin, cách giảm bậc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm tiếp xúc dị nguyên: mèo không lên giường, không vào phòng ngủ ban đêm; tiếp tục bỏ thảm, giặt chăn gối, bớt thú nhồi bông; thương lượng với bé, không bắt bỏ mèo đột ngột",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm mũi xoang dị ứng mục 6: tránh, giảm tiếp xúc dị nguyên; mục 4.3.1: né tránh dị nguyên hoàn toàn khó thực hiện vì đảo lộn cuộc sống); QĐ 3942 mục 4.2, 6; lông súc vật là dị nguyên (QĐ 3942 mục 3.2). Tần suất giặt cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và khám kiểm tra hen kèm theo: ho đêm, khò khè, ho khi gắng sức, nghe phổi",
+     "v": "c",
+     "n": "QĐ 3942 (Viêm mũi dị ứng mục 4: kiểm tra có hen kèm theo hay không); QĐ 5643 (Viêm mũi xoang dị ứng mục 5.2: làm nặng thêm hen phế quản)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; đến sớm nếu hắt hơi, nghẹt mũi, ho, sốt quay lại hoặc có dấu hiệu nguy hiểm; không đáp ứng thì tăng bậc",
+     "v": "c",
+     "n": "QĐ 3942 mục 5 (đánh giá sau 2–4 tuần, không đáp ứng thì tăng bậc); dấu hiệu quay lại: QĐ 101/2014 mục V; SNNOOP10 2019."
+    },
+    {
+     "t": "Hẹn chuyên khoa dị ứng làm test lẩy da hoặc IgE đặc hiệu tìm dị nguyên",
+     "v": "a",
+     "n": "QĐ 5643 (Viêm mũi xoang dị ứng mục 3.1.3); QĐ 3942 mục 2.2, 3.1. Không bắt buộc khi bé đang đáp ứng."
+    },
+    {
+     "t": "Đưa mèo đi nơi khác hoàn toàn",
+     "v": "a",
+     "n": "QĐ 5643 mục 4.3.1: né tránh dị nguyên là biện pháp đặc hiệu nhưng khó thực hiện; ở đây mèo còn là chỗ dựa tinh thần của bé, nên giảm tiếp xúc là cách chọn."
+    },
+    {
+     "t": "Ngưng toàn bộ thuốc viêm mũi dị ứng ngay vì bé đã khỏi",
+     "v": "w",
+     "n": "QĐ 3942 mục 5 (đáp ứng thì duy trì), mục 4 (corticoid xịt ngừng sau hết triệu chứng ít nhất 1 tháng); QĐ 5643 mục 5.1 (bệnh hay tái phát). Bé còn hắt hơi sáng sớm, niêm mạc mũi còn nhợt."
+    },
+    {
+     "t": "Chụp CT/MRI sọ não hoặc X-quang phổi, thử máu 'cho mẹ yên tâm' dù bé đã khỏi",
+     "v": "w",
+     "n": "Không chỉ định (SNNOOP10 2019; QĐ 101/2014 mục V; AWaRe 2022 tr. 49). Cơ sở không có CT; chuyển đi chỉ để chiều lòng sẽ củng cố nỗi sợ."
+    },
+    {
+     "t": "Kê kháng sinh 'để phòng tái phát' hoặc 'cho chắc'",
+     "v": "w",
+     "n": "Kháng sinh không phòng được tái phát viêm mũi dị ứng; viêm mũi họng do virus đã khỏi (QĐ 5643 mục 5.1); chỉ dùng kháng sinh khi nghi nhiễm khuẩn (AWaRe 2022 tr. 46)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng cấp do virus) đã khỏi hoàn toàn, không biến chứng",
+     "Viêm mũi dị ứng quanh năm, đáp ứng điều trị nhưng chưa kiểm soát dị nguyên (mèo, bụi nhà)",
+     "Không hen kèm theo, không dấu hiệu thần kinh; nỗi sợ đột quỵ còn nhẹ, đang giảm"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao khỏi nhiễm khuẩn hô hấp trên: hết sốt từ ngày thứ 3, hết ho ngày thứ 7, họng hồng, màng nhĩ bình thường, phổi sạch, thở 18 l/p (QĐ 5643, Viêm mũi họng cấp tính mục 5.1; WHO 2013 mục 4.4). Không có gì cần chụp hay thử máu kiểm tra: chẩn đoán trước đó là lâm sàng và bé chưa từng nghi viêm phổi (QĐ 101/2014 mục V).",
+     "Vì sao viêm mũi dị ứng còn: dù hết sốt, niêm mạc mũi còn nhợt, cuốn dưới còn phù, còn hắt hơi sáng sớm; dị nguyên còn ở phòng ngủ (mèo ngủ cùng bé). Bệnh hay tái phát, cần tuân thủ điều trị (QĐ 5643, Viêm mũi xoang dị ứng mục 5.1). Khỏi cảm lạnh không có nghĩa khỏi viêm mũi dị ứng.",
+     "Vì sao không hen, không bệnh thần kinh: không ho đêm, không khò khè (QĐ 3942 mục 4); khám thần kinh bình thường, đau đầu hết cùng cơn sốt (SNNOOP10 2019). Viêm mũi dị ứng có thể làm nặng hen về sau (QĐ 5643 mục 5.2) nên hỏi lại mỗi lần tái khám.",
+     "Vì sao vẫn xử lý nỗi sợ: bé còn hỏi 'con có bị như ông không'; mẹ vẫn muốn chụp đầu. Trả lời bằng tiêu chí đã khám, ghi nhận nỗi lo, mời bé nói tiếp; không chụp để chiều lòng."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh, không X-quang, không thử máu: bé khỏi lâm sàng, không dấu hiệu biến chứng (QĐ 101/2014 mục V; AWaRe 2022 tr. 46, 49).",
+     "Duy trì thuốc viêm mũi dị ứng thêm 4 tuần rồi đánh giá giảm bậc; ngưng ngay là sai vì còn triệu chứng và bệnh hay tái phát (QĐ 3942 mục 4, 5; QĐ 5643 mục 5.1). Kháng histamin thế hệ 2 hoặc corticoid xịt mũi đều đúng (QĐ 3942 so với ARIA 2024–2025 Phần II mục 6; sổ mâu thuẫn).",
+     "Dị nguyên: giảm tiếp xúc với mèo (không lên giường, không vào phòng ngủ ban đêm) thay vì bỏ mèo đột ngột, vì mèo đang giúp bé đỡ sợ; thương lượng với bé và mẹ (QĐ 5643 mục 4.3.1, 6; QĐ 3942 mục 4.2, 6). Test lẩy da hẹn chuyên khoa là lựa chọn thêm (QĐ 3942 mục 2.2).",
+     "Trấn an: nhắc lại kết quả khám thần kinh, nói rõ đau đầu của bé đã hết cùng cơn sốt nên không chụp; cho mẹ biết những dấu hiệu cần quay lại ngay (SNNOOP10 2019).",
+     "Tái khám sau 4 tuần để đánh giá giảm bậc (QĐ 3942 mục 5); nếu hắt hơi quay lại trong lúc đó thì đến sớm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levocetirizin (tiếp tục, hoặc corticoid xịt mũi thay thế)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "5 mg (1 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "28 ngày đến lần tái khám",
+      "ghi_chu": "QĐ 3942 mục 5 (đáp ứng thì duy trì thuốc đang dùng); Bảng 3 tr. 119 (6–12 tuổi 1 viên/ngày). Corticoid xịt mũi thay thế (ARIA 2024–2025 Phần II mục 6): liều cho trẻ 9 tuổi không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc xịt mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc xịt mỗi bên mũi",
+      "duong": "Rửa/xịt mũi",
+      "thoi_diem": "Buổi sáng và khi nghẹt mũi",
+      "so_ngay": "Đến khi tái khám",
+      "ghi_chu": "QĐ 3942 mục 4.2 (trẻ trên 2 tuổi xịt nước muối). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "My đã khỏi cảm; đau đầu hết cùng cơn sốt, khám thần kinh bình thường nên không cần chụp đầu. Nhắc bé có thể kể cho mẹ hoặc bác sĩ bất cứ lúc nào bé sợ; khuyến khích bé tiếp tục thăm ông cùng mẹ.",
+     "Viêm mũi dị ứng chưa khỏi hẳn: cần dùng thuốc đều thêm 4 tuần, chưa ngưng khi bé chỉ vừa hết hắt hơi (QĐ 3942 mục 4, 5); bệnh hay tái phát nên phải tuân thủ (QĐ 5643 mục 5.1).",
+     "Giảm dị nguyên phòng ngủ: mèo không lên giường và không vào phòng ngủ ban đêm, giữ phòng không thảm len, giặt chăn gối, bớt thú nhồi bông (QĐ 5643 mục 6; QĐ 3942 mục 4.2, 6). Có thể hẹn khám chuyên khoa dị ứng.",
+     "Không tự mua thuốc ho, thuốc long đờm, thuốc cảm cho bé (WHO 2013 mục 4.4); không dùng kháng sinh khi không có chỉ định.",
+     "Đưa bé đến ngay nếu thở nhanh trên 30 lần/phút, khó thở, rút lõm ngực, không uống được, li bì, co giật (QĐ 101/2014 mục V); cổ cứng, đau đầu dữ dội, yếu hoặc méo một bên mặt, nói ngọng đột ngột (SNNOOP10 2019); sốt từ 5 ngày, đau tai, chảy mủ tai.",
+     "Tái khám sau 4 tuần (QĐ 3942 mục 5), sớm hơn nếu hắt hơi, nghẹt mũi, ho trở lại."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "My dùng thuốc viêm mũi dị ứng thêm 10 ngày rồi mẹ tự ngưng vì bé hết hắt hơi, không đến tái khám sau 4 tuần; mèo vẫn ngủ trong phòng bé. Năm tuần sau lượt 2, một đợt thời tiết lạnh, My lại hắt hơi từng tràng, nghẹt mũi, kèm sốt nhẹ và ho: lại một đợt viêm mũi họng cấp trên nền viêm mũi dị ứng chưa kiểm soát. Mẹ đưa đi sớm, không đòi chụp đầu; bé không còn sợ vì đã hiểu đau đầu là do sốt. Bác sĩ khám: không biến chứng, niêm mạc mũi nhợt; tái phát do dị nguyên (mèo, bụi nhà) chưa xử lý và ngưng thuốc sớm. Điều trị đủ thời gian, hẹn chuyên khoa dị ứng làm test lẩy da, thương lượng đưa mèo ra khỏi phòng ngủ.",
+ "nhieu": [
+  "Sợ hãi quá mức: bé khóc, run, hỏi lặp, đòi chụp đầu; là lý do để hỏi ra nỗi sợ đột quỵ của bé và trấn an bằng kết quả khám, không bằng xét nghiệm chiều lòng.",
+  "Không có siêu âm: không cần cho ca này; loại trừ viêm phổi bằng lâm sàng. CT sọ cũng không có tại cơ sở.",
+  "Du lịch vùng dịch: chỉ gợi cúm; test nhanh âm tính, bé khỏe, không đổi thuốc.",
+  "Thuốc ho long đờm tự mua: không có chỉ định, cần ngưng (WHO 2013 mục 4.4)."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: sau khi tìm ra cảm lạnh, hỏi tiếp 'dữ kiện nào cảm lạnh không giải thích?' (hắt hơi từng tràng 6 tháng, ngứa mũi – mắt, niêm mạc nhợt, chàm, mẹ bị viêm mũi dị ứng, mèo trong phòng ngủ). Đóng hồ sơ sớm sẽ bỏ sót viêm mũi dị ứng (QĐ 5643).",
+  "Sợ hãi quá mức: hỏi 'con đang lo điều gì?', để bé tự soi gương khi khám nét mặt, giải thích bằng tiêu chí (mặt cân, nói rõ, cổ mềm, đau đầu chỉ khi sốt); không chụp đầu chiều lòng, CT cũng không có (SNNOOP10 2019).",
+  "Lý do thật: khám vì 'sốt, ho' mà nỗi lo thật là bệnh của người thân; không hỏi thì không biết.",
+  "Du lịch vùng dịch: chỉ gợi nghĩ tới cúm; test nhanh, mức độ nhẹ, không yếu tố nguy cơ quyết định có dùng kháng vi rút hay không (QĐ 1840/2025).",
+  "Thuốc ho long đờm tự mua: xem chai, ngưng, giải thích vì sao không cần (WHO 2013 mục 4.4).",
+  "Đỡ hoàn toàn khi tái khám: tiêu chí khỏi là lâm sàng; không chụp, không thử máu kiểm tra. Khỏi cảm không đồng nghĩa khỏi viêm mũi dị ứng: duy trì thuốc, đánh giá sau 2–4 tuần (QĐ 3942).",
+  "Tái phát: nguyên nhân nền (mèo, thảm, ngưng thuốc sớm) chưa xử lý thì cảm lặp lại; thương lượng giảm tiếp xúc thay vì ra lệnh bỏ mèo."
+ ],
+ "diem_nho": [
+  "Viêm mũi họng cấp do virus tự khỏi sau 3–5 ngày (QĐ 5643, Viêm mũi họng cấp tính mục 5.1); hầu hết hết trong 14 ngày, ho từ 14 ngày mới xét nguyên nhân khác (WHO 2013 mục 4.4).",
+  "Trẻ trên 5 tuổi thở nhanh khi trên 30 l/p; dấu hiệu nặng: không uống được, rối loạn tri giác, co giật, tím tái, SpO₂ dưới 90% (QĐ 101/2014 mục V).",
+  "Đau đầu kèm sốt chỉ đáng lo khi có cứng cổ, rối loạn ý thức hoặc dấu thần kinh (SNNOOP10 2019).",
+  "Viêm mũi dị ứng: hắt hơi từng tràng, ngứa mũi, chảy mũi trong; niêm mạc nhợt, cuốn dưới phù nề (QĐ 5643, Viêm mũi xoang dị ứng mục 3.1). Điều trị: kháng histamin thế hệ 2 hoặc corticoid xịt mũi, đánh giá lại sau 2–4 tuần (QĐ 3942 mục 4, 5; ARIA 2024–2025 Phần II mục 6).",
+  "Paracetamol cho trẻ 20–<30 kg: 300 mg mỗi 6 giờ (AWaRe 2022 tr. 50), không quá 60 mg/kg/24 giờ (QĐ 3312; QĐ 708). Không aspirin cho trẻ (IDSA 2012 khuyến cáo IV.2; QĐ 1840/2025 mục III.2.2)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2–6, tr. 133–136); Viêm mũi xoang dị ứng (mục 1–6, tr. 94–97)",
+  "QĐ 3942 – Bộ Y tế, QĐ 3942/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị bệnh dị ứng – miễn dịch lâm sàng – kho cũ tltk-10000-ca, 06 Da liễu/BYT – ĐÃ ĐỌC: Viêm mũi dị ứng (mục 1–6, Bảng 1–2, tr. 45–49); bài Các thuốc kháng histamin H1 (Bảng 3, tr. 119)",
+  "ARIA-EAACI 2024–2025 – Allergic rhinitis and its impact on asthma – TL-0546 – ĐÃ ĐỌC: Phần II mục 6 (corticoid xịt mũi so với kháng histamin uống)",
+  "QĐ 101/QĐ-BYT 2014 – Hướng dẫn xử trí Viêm phổi cộng đồng ở trẻ em – TL-0243 – ĐÃ ĐỌC: mục V (chẩn đoán, ngưỡng thở nhanh), VI (X-quang), VII.1 (xử trí)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: Bảng 7 (tr. 80–81), mục 4.4 Cough or cold (tr. 90–91)",
+  "WHO AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: mục 6 Pharyngitis (tr. 46–50, trang trẻ em 49–50)",
+  "IDSA 2012 – GAS pharyngitis guideline – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, IV.2",
+  "IDSA 2025 – GAS pharyngitis update: clinical scoring systems – TL-0140 – ĐÃ ĐỌC: Bảng 3 (Centor, McIsaac)",
+  "IDSA ABRS 2012 – Acute bacterial rhinosinusitis in children and adults – TL-0159 – ĐÃ ĐỌC: khuyến cáo I.1",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: Key Action Statements 1A–1C",
+  "QĐ 1840/QĐ-BYT 2025 – Hướng dẫn chẩn đoán và điều trị cúm mùa – TL-0122 – ĐÃ ĐỌC: mục II.1.1, II.2.1, II.2.4.1, III.2.1–III.2.2",
+  "SNNOOP10 2019 – Red and orange flags for secondary headaches (Neurology 2019;92:134) – TL-0476 – ĐÃ ĐỌC: Table 1, mục Systemic symptoms including fever (key points)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015 – TL-0037 – ĐÃ ĐỌC: Co giật do sốt mục 4.1 (paracetamol ≤ 60 mg/kg/24 giờ)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm màng não mủ mục 4.2 (trần paracetamol)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: nguy cơ và dấu hiệu đột quỵ ở trẻ em; kỹ thuật trấn an trẻ sợ hãi; liều corticoid xịt mũi cho trẻ 9 tuổi; thời gian dùng kháng histamin và cách giảm bậc; độ nhạy test nhanh cúm; tần suất giặt chăn gối."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-27)",
+ "ghi_chu_bien_tap": [
+  "2026-11-27: ca viết mới theo đặc tả sổ cái NH-0154 (nhiễm khuẩn hô hấp trên cấp trẻ em, học sinh nữ 9 tuổi, bẫy hai chẩn đoán: cảm lạnh + viêm mũi dị ứng, 2 lượt, tái phát; nhiễu sợ hãi quá mức, lý do thật sợ đột quỵ).",
+  "Tài liệu đã đọc: QĐ 5643 (TL-0130), QĐ 3942/2014 (kho cũ), ARIA 2024–2025 (TL-0546), QĐ 101/2014 (TL-0243), WHO 2013 (TL-0250), AWaRe 2022 (TL-0018), IDSA 2012 (TL-0158), IDSA 2025 (TL-0140), IDSA ABRS 2012 (TL-0159), AAP 2013 (TL-0271), QĐ 1840/2025 (TL-0122), SNNOOP10 2019 (TL-0476), QĐ 3312 (TL-0037), QĐ 708 (TL-0015).",
+  "Mâu thuẫn: dùng lại mục 'Viêm họng đỏ cấp ở trẻ > 3 tuổi, không có xét nghiệm liên cầu', mục kháng histamin uống hay corticoid xịt mũi (NH-0134), mục thuốc ho long đờm (WHO 2013 mục 4.4) và mục paracetamol tối đa. Không có mâu thuẫn mới.",
+  "Âm thanh tim: lượt 1 mạch 104 dùng AT-TIM-NHANH-01; lượt 2 mạch 88 dùng AT-TIM-BT-NL-01 (khoảng 60 l/p), chữ ghi đúng tần số theo sinh hiệu.",
+  "Chỗ thiếu tài liệu: nguy cơ đột quỵ ở trẻ em, kỹ thuật trấn an, liều corticoid xịt mũi trẻ 9 tuổi, thời gian dùng kháng histamin, độ nhạy test nhanh cúm. Thành phần siro ho long đờm cố ý không xác định."
+ ]
+}
