@@ -1,0 +1,507 @@
+{
+ "ma_ca": "NH-0228",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới, soát nguồn với kho tài liệu (2026-11-27)",
+ "benh": "NH_viem_hong_va_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm họng / VA cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm họng liên cầu",
+   "Bạch hầu"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (bệnh viện nhi đổi thuốc tiêm enoxaparin sang warfarin uống cách đây 8 ngày)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (warfarin uống mỗi tối của chính bé, do bệnh viện nhi kê)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (cháu sơ sinh 19 ngày tuổi ở nhà bên cạnh và bà ngoại 70 tuổi bị đái tháo đường)"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Bảo Châu",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.8,
+  "chieu_cao": 69,
+  "xung_ho": "Bé 8 tháng, chưa nói được, bi bô, thấy người lạ thì mếu, nín khi mẹ bế. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'bé Châu' hoặc 'con'.",
+  "tinh_cach": "Mẹ là chị Hồng, 29 tuổi, bán hải sản khô ở xã đảo, chồng đi biển dài ngày. Hiền, nói nhanh khi lo, hay chen câu hỏi 'có lây không, bác sĩ'; sợ bị trách là chăm con không cẩn thận. Mấy hôm nay đọc tin trên điện thoại về bạch hầu nên cuống. Phải bắt chuyến ca nô chiều về đảo, hay nói 'em không lên lại được đâu bác sĩ'.",
+  "kieu_nhieu": "Ở xa, khó tái khám: chị hứa 'khỏi rồi em không lên lại' và muốn lấy thuốc về ngay; biển động thì không có chuyến. Chị giấu hai sai sót vì sợ bị trách: tối qua quên cho uống warfarin vì nghĩ 'thuốc mới nên bé sốt', và hai lần cho uống siro ibuprofen của anh trai. Hỏi chung 'bé uống thuốc gì' chị chỉ nói 'thuốc tim mạch bệnh viện cho, đủ ạ'; chỉ kể ra khi bác sĩ hỏi cụ thể từng buổi, từng thuốc, và có sổ theo dõi. Nỗi sợ lây cho cháu sơ sinh chỉ lộ khi hỏi 'chị lo nhất điều gì'.",
+  "nguoi_nha": "Mẹ bé, chị Hồng, 29 tuổi, bế bé đi cùng. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc, ê a. Bà ngoại ở nhà trông anh trai 4 tuổi; cháu 19 ngày tuổi là con của em gái chị, ở nhà bên cạnh.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hồng)",
+  "ngoai_hinh": {
+   "da": "#e9bf9a",
+   "toc": "#1c1411",
+   "kieuToc": "tre",
+   "ao": "#b9d7ea",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dba67f",
+    "toc": "#221812",
+    "kieuToc": "dai",
+    "ao": "#e0a57b",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sốt, sổ mũi, bú dở dang; mẹ lo bé bị bạch hầu",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 8 tháng, 7,8 kg, mẹ bế đến vì sốt 2 ngày, sổ mũi, nghẹt mũi, bú dở dang. Mẹ đi ca nô hơn một giờ từ xã đảo, cần về chuyến chiều. Sinh hiệu: nhiệt nách 38,4 °C, mạch 138 l/p, nhịp thở 42 l/p, SpO₂ 98%. Bé tỉnh, ngồi trong lòng mẹ, thở bằng miệng.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Châu tỉnh, cười, bú được sau hút mũi, thở 42 l/p, SpO₂ 98%, niêm mạc ẩm, không có dấu hiệu nguy hiểm nào để nhập viện (WHO 2013 Bảng 7; NICE NG143 mục 1.2.7, 1.4.5; WHO 2024). Nhập viện chỉ vì kháng đông và ở xa nghĩa là chị Hồng ở lại đất liền nhiều ngày, bé tiếp xúc thêm với trẻ bệnh hô hấp khác (nhận xét của người soạn), tốn tiền, mà bệnh viện vẫn chỉ hút mũi, hạ sốt khi khó chịu và chỉnh warfarin qua INR.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi vì sốt, nghẹt mũi và 'đang dùng kháng đông' là quá tay: không có dấu hiệu nguy cơ cao hay trung bình rõ nào (NICE NG143 mục 1.2.5–1.2.6), chỉ cần safety net (mục 1.4.4) và cho thuốc đúng. Chị Hồng lỡ chuyến ca nô chiều, phải ngủ lại với bé đang sốt, biển động thì không về được; bệnh viện nhi sẽ làm đúng những việc phòng khám đã làm. Chỉ chuyển ngay khi có giả mạc dính chảy máu, cổ bạnh (QĐ 2957 mục 3.1.3, 3.2), dấu hiệu nguy hiểm hay chảy máu đáng kể mà phòng khám xử trí không được.",
+    "theo_doi": "Giữ bé ở phòng khám vài giờ theo dõi là không cần: sau hút mũi bé bú liền được, thở 42 l/p, không dấu nguy hiểm (WHO 2013 mục 4.4; NICE NG143 mục 1.4.5). Chị Hồng lỡ chuyến ca nô 15 giờ 30, phải ở lại qua đêm, trong khi điều bé thật sự cần là cuộc gọi bệnh viện nhi, thuốc đúng, giấy dặn và y sĩ trạm xã xem lại sau 48 giờ. Kết quả theo dõi vài giờ cũng không thay đổi quyết định về nhà."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em sốt hai hôm nay, sổ mũi, bú dở dang. Em coi tin thấy nói bệnh bạch hầu nguy hiểm lắm, bác sĩ coi giùm bé có bị không, rồi cho em xin thuốc cho bé khỏi nhanh để em còn về kịp chuyến ca nô chiều.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "38,4",
+    "nhip_tho": 42,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé sốt 2 ngày 38–38,5 °C, sổ mũi, nghẹt mũi, bú dở dang rồi bỏ vú thở miệng. Mẹ nói tối qua xem tin trên điện thoại về bệnh bạch hầu, lo bé bị và muốn xin thuốc cho bé khỏi thật nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bu_tieu",
+     "noi_dung": "Bé bú mẹ và ăn bột 2 bữa. Hai ngày nay bú ngắt quãng 3–4 phút rồi bỏ vú vì nghẹt mũi, bù bằng nhiều cữ ngắn. Hôm qua thay 5 tã ướt, nước tiểu vàng nhạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, ăn, số tã ướt (mất nước)"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho ít, chủ yếu khi nằm, không thở rít, không khò khè, không tím, không thấy lõm ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khó thở, thở rít"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé vẫn cười, nhìn theo mẹ, chơi được lúc hết sốt, không nôn tất cả mọi thứ, không co giật, không li bì, ngủ được, dễ đánh thức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2024; IMCI 2014)"
+    },
+    {
+     "id": "hong_tai",
+     "noi_dung": "Bé không kéo tai, không quấy khi nằm, không chảy mủ tai. Không chảy nước dãi, không bỏ bú hoàn toàn, tiếng khóc bình thường, không khàn, cổ không cứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tai, họng, dấu hiệu khoang cổ sâu"
+    },
+    {
+     "id": "thuoc_kd",
+     "noi_dung": "Lúc 2 tháng tuổi bé bị huyết khối tĩnh mạch sâu chân phải sau thời gian nằm viện đặt catheter vì nhiễm khuẩn sơ sinh. Tám ngày trước bệnh viện nhi đổi thuốc tiêm enoxaparin dưới da sang warfarin uống mỗi tối (để mẹ khỏi đi tiêm mỗi ngày, xa đảo). Sổ ghi INR 2,3 sau 5 ngày đổi thuốc, hẹn đo lại sau 2 tuần. Mẹ mang theo sổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng đông mới đổi 8 ngày"
+    },
+    {
+     "id": "bo_lieu",
+     "noi_dung": "Tối qua chị quên không cho uống warfarin vì nghĩ 'thuốc mới nên bé mới sốt', hôm nay đã cho uống lại bình thường. Chưa gọi hỏi bệnh viện nhi vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể; hỏi chung 'bé uống thuốc gì' chỉ nói 'đủ ạ'. Chỉ nói khi bác sĩ hỏi cụ thể 'thuốc kháng đông uống đêm nào, có đêm nào quên không' (không trách).",
+     "k": 1,
+     "y": "Bỏ liều kháng đông"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Hôm kia và sáng nay chị cho bé uống siro ibuprofen của anh trai (nửa thìa cà phê, khoảng 50 mg mỗi lần) vì thấy bé nóng, không có paracetamol ở nhà. Không có thuốc hạ sốt nào khác. Chưa thấy bé bầm tím hay chảy máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể vì sợ bị trách. Chỉ nói khi bác sĩ hỏi cụ thể đã cho thuốc hạ sốt, giảm đau, thuốc của anh trai hay thuốc mua ở tiệm thuốc chưa.",
+     "k": 1,
+     "y": "Thuốc tự cho (ibuprofen, NSAID) khi đang dùng kháng đông"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu mũi, không chảy máu chân răng, không bầm tím mới, phân vàng không đen, tiểu không đỏ, không nôn ra máu, không sưng hay đổi màu chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chảy máu, huyết khối mới khi dùng kháng đông"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Mẹ có sổ tiêm chủng ở trạm y tế xã: viêm gan B sơ sinh, lao, 3 mũi 5 trong 1 lúc 2, 3, 4 tháng tuổi, uống bại liệt, đủ theo tuổi. Mũi nhắc lúc 18 tháng chưa tới hạn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tiêm chủng (bạch hầu)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Xã đảo không có ca bạch hầu nào, không ai có mảng trắng trong họng.  Chồng chị ho nhẹ, sổ mũi 4 ngày trước khi vào bờ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nguoi_than",
+     "noi_dung": "Em gái chị mới sinh, cháu 19 ngày tuổi ở nhà bên cạnh, mấy ngày nay chị sang phụ tắm cháu và bế cháu. Bà ngoại 70 tuổi bị đái tháo đường ở cùng nhà. Chị sợ bé lây bệnh nặng cho cháu và bà, và bà em gái đã dặn 'bé ốm thì đừng sang'. Chị thật sự cần biết khi nào được sang lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ lộ khi bác sĩ hỏi 'chị lo nhất điều gì', hoặc 'trong nhà, hàng xóm có em bé nhỏ hay người lớn tuổi, người đang bệnh không'.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ lây cho người thân"
+    },
+    {
+     "id": "xa_xoi",
+     "noi_dung": "Nhà ở xã đảo, đi ca nô khoảng 1 giờ 30 phút, chuyến cuối về là 15 giờ 30; biển động thì nghỉ chuyến. Trạm y tế xã có một y sĩ, có thể xem bé khi cần; nhà không có sóng điện thoại, chỉ có sóng ở trạm y tế xã và nhà hàng xóm. Chị nói 'khám xong em về luôn, hẹn mai em cũng không lên được'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ở xa, khả năng tái khám, liên lạc"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, 3,1 kg. Nhiễm khuẩn huyết sơ sinh nằm viện 3 tuần. Chưa từng viêm phổi hay viêm tai. Không dị ứng thuốc. Bé chưa mọc răng cửa trên, mọc 2 răng cửa dưới.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 7,8 kg. Bé tỉnh, cười khi được chọc, nhìn theo mẹ, nín khi mẹ bế. Môi hồng, niêm mạc miệng ẩm, khóc có nước mắt, nếp véo da bụng đàn hồi ngay, mao mạch hồi sắc dưới 2 giây. Không tím, không rên, không phập phồng cánh mũi.",
+     "k": 1,
+     "hien": "Cân 7,8 kg. Tỉnh, cười, nhìn theo mẹ, khóc có nước mắt, môi ẩm."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mắt không trũng. Hạch dưới hàm hai bên nhỏ, di động, không đau. Cổ mềm, không sưng, không nóng đỏ, không cứng gáy.",
+     "k": 1,
+     "hien": "Thóp phẳng. Hạch dưới hàm nhỏ, di động. Cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch nhầy trong lẫn đục, niêm mạc phù, nghẹt cả hai bên; hút mũi xong bé thở êm hơn. Họng: đỏ nhẹ, nhầy từ vòm chảy xuống thành sau; amidan nhỏ, không giả mạc, không mảng trắng bám chắc, thành sau họng không phồng. Tai: màng nhĩ hai bên hơi đục, mất bóng, không phồng, không đỏ rực; kéo vành tai bé không khóc thêm.",
+     "k": 1,
+     "hien": "Mũi nghẹt, dịch nhầy đục. Họng đỏ nhẹ, không thấy giả mạc."
+    },
+    "quan_sat_bu_me": {
+     "a": "Trước khi hút mũi: bé ngậm vú đúng, bú 3–4 phút rồi bỏ vú, há miệng thở, khóc. Sau khi hút mũi và nhỏ nước muối sinh lý: bé bú liền khoảng 8 phút, có tiếng nuốt, nghỉ ngắn rồi bú tiếp, không rút lõm ngực, SpO₂ 98%. Nghẹt mũi là lý do chính khiến bé bú ngắt quãng.",
+     "k": 1,
+     "hien": "Bé bú ngắt quãng, bỏ vú thở miệng. Sau hút mũi bú liền được lâu hơn."
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p, T1 T2 rõ, không âm thổi. Nhịp phù hợp nhũ nhi có sốt, dưới ngưỡng nhịp nhanh của trẻ dưới 12 tháng (NICE NG143 Bảng 1).",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p (đếm trọn 1 phút lúc bé nằm yên), dưới ngưỡng thở nhanh. Không rút lõm lồng ngực, không rên, không khò khè. Rì rào phế nang rõ hai bên, có tiếng khụt khịt từ mũi truyền xuống, không ran.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không chấm xuất huyết, không bầm tím mới, không tụ máu ở chỗ bế nắm hay chỗ tiêm cũ. Nướu quanh 2 răng cửa dưới không chảy máu, niêm mạc mũi không rỉ máu.",
+     "k": 1,
+     "hien": "Da hồng, không ban, không bầm tím, không chấm xuất huyết."
+    },
+    "chi_duoi": {
+     "a": "Hai chân cân đối, chân phải không sưng, không phù, màu da và nhiệt độ bằng chân trái, bắp chân mềm, mạch bẹn hai bên rõ, bé co duỗi hai chân đều. Không giãn tĩnh mạch nông mới.",
+     "k": 1,
+     "hien": "Hai chân cân đối, không sưng, màu da và nhiệt độ hai bên như nhau."
+    }
+   },
+   "cls": {
+    "inr": {
+     "v": "a",
+     "r": "INR 2,1 (sổ bệnh viện nhi: 2,3 sau 5 ngày đổi thuốc).",
+     "n": "Chấp nhận, không bắt buộc: bé bỏ một liều warfarin và uống ibuprofen hai lần nên đo INR giúp bác sĩ bệnh viện nhi quyết định, nhưng quyết định liều thuộc về nơi kê thuốc. INR đích và cách xử trí liều quên ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "test_lien_cau": {
+     "r": "Âm tính",
+     "n": "Không chỉ định: trẻ dưới 3 tuổi không làm xét nghiệm liên cầu thường quy (IDSA 2012 khuyến cáo I.5); bé có sổ mũi, nghẹt mũi nghiêng về virus (khuyến cáo I.4)."
+    },
+    "phet_hong": {
+     "r": "Không có giả mạc để lấy bệnh phẩm",
+     "n": "Chưa cần: nghi bạch hầu phải có giả mạc vùng hầu họng, lấy bệnh phẩm ở rìa giả mạc (QĐ 2957 mục 4.1, 5.1); bé không giả mạc, đủ 3 mũi 5 trong 1 theo sổ tiêm chủng. Quyết định bằng khám họng kỹ và hẹn quay lại nếu xuất hiện mảng trắng."
+    },
+    "ctm": {
+     "r": "BC 9,6 G/L · Lympho 58% · Hb 112 g/L · TC 310 G/L",
+     "n": "Không cần: viêm mũi họng cấp thông thường không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2; AWaRe 2022 tr. 50: xét nghiệm máu thường không cần)."
+    },
+    "crp": {
+     "r": "6 mg/L",
+     "n": "Không cần (như công thức máu); QĐ 5643 Viêm V.A mục 3.1.2: xét nghiệm thường không có gì đặc biệt."
+    },
+    "cxr": {
+     "r": "Tim phổi bình thường",
+     "n": "Không cần: không thở nhanh, không rút lõm, phổi không ran, SpO₂ 98% (WHO 2013 Bảng 7: không viêm phổi); NICE NG143 mục 1.4.6: không chụp X-quang thường quy ở trẻ nghi viêm phổi không nhập viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm V.A cấp (viêm mũi họng cấp, nghĩ do virus) ở nhũ nhi 8 tháng, chưa biến chứng, không dấu hiệu nguy hiểm; đang dùng kháng đông",
+     "ok": 1,
+     "n": "Sốt, nghẹt mũi, thở miệng, bú ngắt quãng, nhầy từ vòm chảy xuống thành sau họng, màng nhĩ mất bóng xám đục (QĐ 5643, Viêm V.A mục 3.1.1.1); không thở nhanh, không mất nước, không dấu nguy hiểm."
+    },
+    {
+     "t": "Viêm họng do liên cầu nhóm A",
+     "n": "Ít nghĩ: bé 8 tháng (IDSA 2012 khuyến cáo I.5: dưới 3 tuổi không làm xét nghiệm, thấp tim rất hiếm), có sổ mũi, nghẹt mũi (khuyến cáo I.4); amidan nhỏ, không xuất tiết. Không chắc nên QĐ 5643 (Viêm mũi họng cấp tính mục 4.1) vẫn cho phép điều trị như liên cầu: xem phần xử trí."
+    },
+    {
+     "t": "Bạch hầu",
+     "n": "Không giả mạc, hạch dưới hàm nhỏ di động, cổ không bạnh, đủ 3 mũi 5 trong 1, xã đảo không có ca (QĐ 2957 mục 3.1.3, 3.2, 5.1). Khởi phát bạch hầu có thể giống viêm mũi họng (sốt 37,5–38 °C, sổ mũi, hạch nhỏ, mục 3.1.2) nên phải khám họng kỹ, dặn quay lại nếu có mảng trắng dính."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không kéo tai, không quấy khi nằm, màng nhĩ không phồng, không đỏ rực: chưa đủ tiêu chuẩn (AAP 2013 KAS 1A–1B); viêm tai là biến chứng gần của viêm V.A (QĐ 5643, Viêm V.A mục 5) cần dặn dấu hiệu."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 42 l/p dưới cả hai ngưỡng thở nhanh ≥ 50 l/p (WHO 2013 Bảng 7; QĐ 708) và > 50 l/p (NICE NG143 mục 1.2.22, 6–12 tháng); không rút lõm, phổi không ran, SpO₂ 98%."
+    },
+    {
+     "t": "Áp xe thành sau họng, nhiễm trùng khoang cổ sâu",
+     "n": "Không chảy dãi, bú được sau hút mũi, cổ mềm không sưng nóng đỏ, thành sau họng không phồng (QĐ 5643, Viêm V.A mục 3.2; Nhiễm trùng khoang cổ sâu mục 4.1). Cơ sở không có CT (mục 4.2 dành CT cho ca khó chẩn đoán): thay bằng khám lâm sàng và dặn quay lại ngay nếu cổ sưng, chảy dãi, bỏ bú."
+    },
+    {
+     "t": "Chảy máu hoặc huyết khối mới do bỏ liều warfarin và uống ibuprofen",
+     "n": "Không bầm tím, không rỉ máu mũi hay nướu, phân vàng, chân phải không sưng; INR 2,1 gần mức 2,3 trong sổ. Không có triệu chứng nhưng phải ghi nhận hai sai sót và báo nơi kê thuốc (ESC AF 2024 Hình 9, 10: tránh NSAID khi dùng thuốc kháng vitamin K, người lớn; nhũ nhi: không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích bệnh do virus, sốt thường lui sau 3–5 ngày, ho sổ mũi có thể đến 14 ngày",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90): cảm lạnh tự khỏi, không dùng kháng sinh, hầu hết hết trong 14 ngày; QĐ 5643 Viêm V.A mục 4.1: kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng; Viêm mũi họng cấp tính mục 5.1: virus tự khỏi sau 3–5 ngày; IDSA 2012 I.4–I.5; AWaRe 2022 tr. 50."
+    },
+    {
+     "t": "Hút mũi, nhỏ nước muối sinh lý trước cữ bú; tiếp tục bú mẹ, chia nhiều cữ nhỏ, bú thêm khi sốt, ăn bột như thường",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4: làm sạch dịch mũi trước bữa bú, cho thêm sữa mẹ hoặc nước khi sốt; QĐ 5643 Viêm V.A mục 4.2: hút mũi, rỏ mũi; NICE NG143 mục 1.7.2: cho uống đều, sữa mẹ là chất lỏng thích hợp nhất."
+    },
+    {
+     "t": "Hạ sốt chỉ khi bé khó chịu: paracetamol 100 mg/lần (7,8 kg ≈ 12,8 mg/kg), cách ít nhất 6 giờ, tối đa 4 lần/24 giờ; không lau người bằng nước ấm",
+     "v": "c",
+     "n": "Theo mức khó chịu: NICE NG143 mục 1.6.4–1.6.5. Theo ngưỡng: WHO 2013 mục 10.3 (tr. 305) paracetamol 15 mg/kg mỗi 6 giờ cho sốt ≥ 39 °C kèm khó chịu (trẻ ≥ 2 tháng); AWaRe 2022 tr. 50: 10–15 mg/kg mỗi 6 giờ, 6–<10 kg: 100 mg; tối đa 60 mg/kg/24 giờ (QĐ 708 Viêm màng não mủ mục 4.2; QĐ 3312 Co giật do sốt mục 4.1) = 468 mg. Không lau ấm: NICE 1.6.2. Tương tác paracetamol–warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cho ibuprofen hoặc aspirin; ngưng siro ibuprofen của anh trai và báo cho mẹ biết đó là thuốc cần tránh khi đang dùng warfarin",
+     "v": "c",
+     "n": "ESC AF 2024 Hình 9 (tránh NSAID khi dùng thuốc kháng vitamin K khi có thể) và Hình 10 (tránh thuốc kháng viêm không cần thiết); WHO 2013 mục 10.3 (tr. 305): tránh aspirin ở trẻ rối loạn xuất huyết, Reye; IDSA 2012 IV.2: tránh aspirin ở trẻ. Nguồn cho người lớn, áp dụng cho nhũ nhi là suy luận của người soạn."
+    },
+    {
+     "t": "Gọi ngay bệnh viện nhi (nơi kê warfarin) trong lúc đang khám: báo bỏ một liều, hai lần ibuprofen, INR 2,1, đang ốm; hỏi cách xử trí và lịch INR; dặn mẹ tiếp tục warfarin đúng sổ, không tự bỏ, không gấp đôi liều",
+     "v": "c",
+     "n": "Thuốc do bệnh viện nhi kê và chỉnh theo INR; ESC AF 2024 mục 6.7.2 (người lớn): cần biết liều, giờ uống cuối, thuốc đồng thời, INR gần nhất. INR đích, xử trí liều quên ở nhũ nhi: không có trong tài liệu đã tải, không tự quyết ở phòng khám. Mẹ ở xa nên phải gọi khi còn ở đây."
+    },
+    {
+     "t": "Làm đủ 'safety net' trọn gói vì ở xa: giấy dặn viết tay dấu hiệu phải đi ngay, số điện thoại phòng khám và trạm y tế xã, nhờ y sĩ trạm y tế xã xem bé sau 48 giờ, hẹn tái khám trực tiếp sau 5 ngày nếu chưa đỡ",
+     "v": "c",
+     "n": "NICE NG143 mục 1.4.4: thông tin bằng lời và giấy, hẹn theo dõi đúng nơi và thời điểm, liên hệ nhân viên y tế khác để bé tiếp cận trực tiếp khi cần; WHO 2013 Bảng 7 (tr. 81): cảm lạnh tái khám sau 5 ngày nếu chưa đỡ; IMCI 2014 (Introduction tr. 39–41): dặn dấu hiệu phải quay lại ngay."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến ngay: bú hoặc uống không được, nôn tất cả, li bì, co giật, thở nhanh từ 50 lần/phút, rút lõm ngực, thở rít, tím tái, sốt từ 5 ngày, đau hoặc chảy mủ tai, mảng trắng trong họng, cổ sưng; chảy máu, huyết khối",
+     "v": "c",
+     "n": "WHO 2024 (khuyến cáo 1–2, chú thích dấu hiệu nguy hiểm); IMCI 2014 tr. 40–41; WHO 2013 Bảng 7 (≥ 50 l/p ở 2–11 tháng) và NICE NG143 mục 1.2.22 (> 50 l/p ở 6–12 tháng); NICE 1.7.3 (co giật, phát ban không biến mất khi ấn, mẹ thấy bé yếu hơn), sốt từ 5 ngày (1.2.14); viêm tai (QĐ 5643 Viêm V.A mục 5); giả mạc (QĐ 2957 mục 3.1.3). Dấu hiệu chảy máu và huyết khối: của người soạn, không trích từ tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an chuyện bạch hầu bằng khám họng và sổ tiêm chủng: không giả mạc, đủ 3 mũi 5 trong 1; dặn mũi nhắc lúc 18 tháng",
+     "v": "c",
+     "n": "QĐ 2957 mục 3.1.3, 5.1 (giả mạc dai dính, bóc chảy máu là dấu chính); lịch tiêm: TT 10/2024/TT-BYT Phụ lục (lần 1 lúc đủ 2 tháng, lần 2–3 cách ít nhất 1 tháng, nhắc lúc 18 tháng và 7 tuổi); QĐ 2957 mục 7 ghi lịch cũ (từ 2–3 tháng, nhắc mỗi năm đến 5 tuổi): cả hai đều chấp nhận."
+    },
+    {
+     "t": "Tư vấn nỗi lo lây: tạm không bế, không hôn, không để bé ở gần cháu 19 ngày tuổi cho đến khi hết sốt; rửa tay trước khi chạm cháu; bà ngoại nên tránh tiếp xúc gần; không cần kháng sinh dự phòng cho người nhà",
+     "v": "c",
+     "n": "NICE NG143 mục 1.7.2: trẻ đang sốt thì cách ly khỏi nhà trẻ, trường học; QĐ 5643 Viêm mũi họng cấp tính mục 2 (lây qua nước bọt, nước mũi) và mục 6; IDSA 2012 tr. e95: kháng sinh dự phòng cho người tiếp xúc trong gia đình chưa được chứng minh. Thời gian cách ly với trẻ sơ sinh: không có trong tài liệu đã tải; mốc 'hết sốt' là của người soạn."
+    },
+    {
+     "t": "Amoxicillin theo kinh nghiệm cho viêm mũi họng đỏ cấp (375 mg mỗi 12 giờ, 10 ngày)",
+     "v": "a",
+     "n": "Không phải đáp án chính: QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 không giới hạn tuổi và có kháng sinh nên chấp nhận (xem sổ mâu thuẫn 08/11/2026); đáp án chính không kháng sinh (WHO 2013 mục 4.4; IDSA 2012 I.4–I.5). Liều AWaRe 2022 tr. 50: 6–<10 kg 375 mg mỗi 12 giờ. Nếu dùng phải báo bệnh viện nhi và theo dõi INR (penicillin: theo dõi INR sát, ESC AF 2024 Hình 9, người lớn)."
+    },
+    {
+     "t": "Penicillin G benzathin tiêm bắp một liều (600.000 đơn vị cho trẻ dưới 30 kg)",
+     "v": "a",
+     "n": "QĐ 5643 Viêm mũi họng cấp tính mục 4.3.1 nêu liều này cho trẻ dưới 30 kg khi điều trị như liên cầu. Không phải đáp án chính (như amoxicillin). Tiêm bắp ở bé đang dùng warfarin có nguy cơ tụ máu tại chỗ: nhận xét của người soạn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé uống ibuprofen hoặc aspirin để hạ sốt",
+     "v": "h",
+     "n": "Tránh NSAID khi dùng thuốc kháng vitamin K (ESC AF 2024 Hình 9, 10); aspirin ở trẻ: IDSA 2012 IV.2 và WHO 2013 tr. 305 không khuyến cáo (QĐ 5643 mục 4.3.2 nêu aspirin nhưng dặn nguy cơ chảy máu). Sổ mâu thuẫn: aspirin, NSAID khi đang dùng warfarin chấm h."
+    },
+    {
+     "t": "Khuyên mẹ ngưng hoặc tự đổi liều warfarin vì cho rằng 'thuốc mới nên bé sốt'",
+     "v": "w",
+     "n": "Sốt có nguyên nhân là viêm V.A do virus, không do thuốc. Warfarin là thuốc điều trị huyết khối do bệnh viện nhi kê và chỉnh theo INR; quyết định ngưng hay đổi liều thuộc nơi kê đơn (tài liệu đã tải không có hướng dẫn kháng đông cho nhũ nhi)."
+    },
+    {
+     "t": "Cho thuốc ho, long đờm, thuốc chứa codein, atropin hoặc cồn, thuốc nhỏ mũi có hoạt chất",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): không dùng, có thể có hại; ephedrin, argyron theo QĐ 5643 Viêm V.A mục 4.2 xem sổ mâu thuẫn, không bắt buộc."
+    },
+    {
+     "t": "Truyền dịch hoặc nhập viện vì bé đang dùng kháng đông và ở xa",
+     "v": "w",
+     "n": "Bé uống được, niêm mạc ẩm, nguy cơ thấp: chăm sóc tại nhà kèm thông tin xử trí (NICE NG143 mục 1.2.7, 1.4.5; WHO 2013 mục 4.4); dặn đủ dấu hiệu quay lại giải quyết vấn đề ở xa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm V.A cấp / viêm mũi họng cấp, nghĩ do virus, ở nhũ nhi gái 8 tháng (7,8 kg)",
+     "Chưa biến chứng: không viêm tai giữa cấp, không viêm phổi (thở 42 l/p), không áp xe thành sau họng",
+     "Không có dấu hiệu nguy hiểm toàn thân, không mất nước; bú ngắt quãng do nghẹt mũi, cải thiện sau hút mũi",
+     "Chưa có dấu hiệu bạch hầu: không giả mạc, hạch nhỏ di động, đủ 3 mũi 5 trong 1",
+     "Bệnh nền: tiền sử huyết khối tĩnh mạch sâu chân phải, đang dùng warfarin (mới đổi từ enoxaparin 8 ngày), INR 2,1; chưa có dấu chảy máu hoặc huyết khối mới",
+     "Hai sai sót tại nhà may mắn chưa hậu quả: bỏ một liều warfarin tối qua và hai lần cho ibuprofen của anh trai",
+     "Yếu tố xã hội: ở xã đảo xa, khó tái khám, sợ lây cho cháu sơ sinh 19 ngày và bà ngoại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến sốt, bú và số tã ướt (nhũ nhi không khai được triệu chứng), ho thở, dấu hiệu nguy hiểm, tai họng, thuốc đang dùng từng buổi và thuốc tự cho, chảy máu, tiêm chủng, người nhà, lo lắng lớn nhất của mẹ, khả năng tái khám. Khám: tổng trạng, cân nặng, thóp, hạch, họng tai mũi, cữ bú trước và sau hút mũi, tim, phổi, da, chân phải. CLS: không cần CTM, CRP, test liên cầu, X-quang; INR chấp nhận.",
+     "Vì sao viêm V.A cấp do virus: sốt 2 ngày, nghẹt mũi, thở miệng, bú ngắt quãng (ở trẻ nhỏ bú bỏ cữ do ngạt mũi), nhầy từ vòm chảy xuống thành sau họng, màng nhĩ mất bóng xám đục do tắc vòi nhĩ, 'rất có giá trị để chẩn đoán V.A', hạch nhỏ không viêm quanh hạch (QĐ 5643, Viêm V.A mục 3.1.1.1). Dấu virus: chảy mũi (IDSA 2012 khuyến cáo I.4); dưới 3 tuổi không test liên cầu, thấp tim rất hiếm (khuyến cáo I.5, tr. e94).",
+     "Vì sao chưa biến chứng và nguy cơ thấp: thở 42 l/p dưới ngưỡng thở nhanh ≥ 50 l/p (WHO 2013 Bảng 7; QĐ 708) và > 50 l/p (NICE NG143 mục 1.2.22), SpO₂ 98% (NICE ≤ 95% mới nghi viêm phổi), mạch 138 l/p dưới ngưỡng nhịp nhanh > 160 l/p (NICE Bảng 1), tỉnh, cười, niêm mạc ẩm (NICE 1.2.7, 1.2.16). Bú ngắt quãng là đặc điểm mức trung gian (NICE 1.2.6) nhưng bé bú liền được sau hút mũi nên là nghẹt mũi; vẫn cần safety net (1.4.4). Ngưỡng 50 l/p của WHO (phân loại viêm phổi) và NICE (sàng lọc sốt) khác mục đích; 42 l/p dưới cả hai.",
+     "Vì sao phải nghĩ bạch hầu rồi loại trừ: mẹ lo vì tin tức, khởi phát bạch hầu cũng sốt nhẹ, sổ mũi, hạch cổ nhỏ không đau, amidan hơi đỏ (QĐ 2957 mục 3.1.2); toàn phát có giả mạc trắng ngà dai dính, bóc chảy máu, hạch góc hàm sưng đau, sổ mũi nhiều (mục 3.1.3), thể ác tính cổ bạnh (mục 3.2). Bé không giả mạc, đủ 3 mũi 5 trong 1 theo TT 10/2024, xã không có ca (mục 5.1 cần giả mạc và dịch tễ). 'Không bạch hầu' dựa trên khám họng kỹ, không phải lời trấn an.",
+     "Điểm dừng chẩn đoán: dữ kiện nào không khớp viêm V.A do virus? Không có, ngoài việc bé đang dùng warfarin. Kháng đông không giải thích sốt, không phải 'tác dụng phụ thuốc mới' như mẹ nghĩ, nhưng đổi cách chọn thuốc (tránh ibuprofen, aspirin, ngại tiêm bắp, thận trọng kháng sinh) và buộc kiểm tra chảy máu, huyết khối. Áp xe thành sau họng, khoang cổ sâu: không cần CT vì không chảy dãi, cổ mềm, thành sau không phồng (QĐ 5643 Viêm V.A mục 3.2; Khoang cổ sâu mục 4.1–4.2); dặn quay lại ngay nếu cổ sưng, chảy dãi, bỏ bú.",
+     "Hay bị bỏ sót: (1) hỏi chung 'bé uống thuốc gì' chỉ nhận 'thuốc bệnh viện cho'; phải hỏi từng buổi, từng thuốc, đêm nào quên, đã cho thuốc hạ sốt gì; (2) nỗi sợ thật là lây cho cháu sơ sinh và bà, chỉ lộ khi hỏi 'chị lo nhất điều gì'. Kết cục tốt sau khi bỏ liều và uống ibuprofen không hợp thức hóa cách làm đó.",
+     "Không có trong tài liệu đã tải: INR đích, xử trí liều quên, tương tác thuốc ở nhũ nhi dùng warfarin; thời gian cách ly với trẻ sơ sinh. Các điểm này chuyển cho bệnh viện nhi qua điện thoại."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh (đáp án chính): WHO 2013 mục 4.4 (tr. 90–91) cảm lạnh không dùng kháng sinh; QĐ 5643 Viêm V.A mục 4.1–4.2 điều trị triệu chứng, kháng sinh toàn thân chỉ cho ca nặng hoặc có biến chứng; IDSA 2012 I.4–I.5; AWaRe 2022 tr. 46, 50: hầu hết viêm họng do virus, tự giới hạn. QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 nói điều trị như liên cầu khi chưa có xét nghiệm (khác bối cảnh và năm; chấm kháng sinh là chấp nhận). Nếu dùng phải báo bệnh viện nhi và theo dõi INR (ESC AF 2024 Hình 9).",
+     "Chăm sóc mũi, bú, hạ sốt: hút mũi, rỏ muối sinh lý, bú nhiều cữ nhỏ (QĐ 5643; WHO 2013 mục 4.4; NICE mục 1.7.2). Hạ sốt theo mức khó chịu (NICE 1.6.4–1.6.5) hoặc sốt ≥ 39 °C kèm khó chịu (WHO 2013 tr. 305): cùng chọn paracetamol, khác ngưỡng bắt đầu; ghi cả hai. 100 mg ≈ 12,8 mg/kg, trong khoảng 10–15 mg/kg (AWaRe 2022 tr. 50); trần 400 mg/24 giờ dưới 60 mg/kg (QĐ 708, QĐ 3312). Không lau ấm (NICE 1.6.2).",
+     "Kháng đông: không ibuprofen, không aspirin (ESC AF 2024 Hình 9, 10; WHO 2013 tr. 305; IDSA 2012 IV.2). Ibuprofen mẹ cho 50 mg (≈ 6,4 mg/kg) nằm trong 5–10 mg/kg của AWaRe 2022 tr. 50: liều không quá tay, sai ở thuốc không hợp với người dùng warfarin. Warfarin tiếp tục, không bỏ, không gấp đôi; gọi bệnh viện nhi ngay vì nhà không có sóng, không thể 'hỏi lại sau'.",
+     "Xử trí ở xa: NICE 1.4.4 đưa ba cách safety net, ca làm cả ba vì mẹ không thể tái khám: giấy dặn có số điện thoại, y sĩ trạm xã xem bé sau 48 giờ, tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7), dặn dấu hiệu quay lại ngay (IMCI 2014; WHO 2024).",
+     "Nỗi sợ lây: virus lây qua nước mũi, nước bọt; hoãn bế, hôn cháu sơ sinh đến khi bé hết sốt, rửa tay, không kháng sinh dự phòng cho người nhà (IDSA 2012 tr. e95). Thời gian cách ly với trẻ sơ sinh: không có trong tài liệu đã tải.",
+     "Không truyền dịch, không nhập viện, không chuyển tuyến: bé nguy cơ thấp (NICE 1.2.7, 1.4.5); thuốc ho, long đờm, codein, atropin, cồn, nhỏ mũi hoạt chất là có hại hoặc không hiệu quả (WHO 2013 mục 4.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ)",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở (vd 120 mg/5 mL)",
+      "lieu": "100 mg/lần (≈ 12,8 mg/kg; cho phép 10–15 mg/kg = 78–117 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt làm bé khó chịu, quấy; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ (400 mg, dưới 60 mg/kg/ngày = 468 mg)",
+      "ghi_chu": "AWaRe 2022 tr. 50 (6–<10 kg: 100 mg mỗi 6 giờ; 10–15 mg/kg); NICE NG143 mục 1.6.4–1.6.6; trần 60 mg/kg/24 giờ: QĐ 708 (Viêm màng não mủ mục 4.2), QĐ 3312 (Co giật do sốt mục 4.1). WHO 2013 mục 10.3: 15 mg/kg khi sốt ≥ 39 °C kèm khó chịu. Tương tác với warfarin: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) nhỏ mũi, kèm hút mũi",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút nhẹ bằng bóng hút",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "QĐ 5643 (Viêm V.A mục 4.2); WHO 2013 mục 4.4 (làm sạch mũi trước bữa bú). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Warfarin (thuốc đang dùng của bé, không đổi)",
+      "ham_luong": "Theo sổ bệnh viện nhi",
+      "lieu": "Giữ nguyên liều bệnh viện nhi đã kê, không tự đổi, không gấp đôi liều",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối, giờ cố định như sổ",
+      "so_ngay": "Theo bệnh viện nhi; INR đo lại theo hẹn của bệnh viện nhi",
+      "ghi_chu": "Giữ nguyên, đang dùng theo bệnh viện nhi (kê và chỉnh theo INR). Liều, INR đích và xử trí liều quên ở nhũ nhi: không có trong tài liệu đã tải; phòng khám đã gọi bệnh viện nhi báo tình hình."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm mũi họng và V.A do virus: sốt thường lui sau 3–5 ngày, sổ mũi và ho có thể kéo dài đến 14 ngày (QĐ 5643 Viêm mũi họng cấp tính mục 5.1; WHO 2013 mục 4.4 tr. 90); không cần kháng sinh, không cần truyền nước. Bé không bị bạch hầu: họng không có mảng trắng dính, bé đã tiêm đủ 3 mũi 5 trong 1 (QĐ 2957 mục 3.1.3).",
+     "Hút mũi và nhỏ nước muối sinh lý trước mỗi cữ bú; cho bú nhiều cữ nhỏ, bú thêm khi sốt, ăn bột như thường (WHO 2013 mục 4.4; NICE NG143 mục 1.7.2)., đếm tã ướt: tã ít hơn mọi ngày hoặc bé bỏ bú là phải đến ngay (ngưỡng số tã: không có trong tài liệu đã tải).",
+     "Chỉ cho paracetamol 100 mg khi bé sốt làm khó chịu, cách nhau ít nhất 6 giờ, không quá 4 lần trong 24 giờ (AWaRe 2022 tr. 50; QĐ 708). Không lau người bằng nước ấm, không ủ quá kín (NICE 1.6.2–1.6.3). KHÔNG cho ibuprofen, aspirin hoặc bất kỳ thuốc nào của anh chị; hỏi bệnh viện nhi trước khi cho thuốc mới (ESC AF 2024 Hình 9, người lớn).",
+     "Tiếp tục warfarin mỗi tối đúng giờ, đúng liều trong sổ, không tự bỏ, không gấp đôi. Phòng khám đã gọi bệnh viện nhi; làm theo hướng dẫn họ, đo INR theo hẹn. Quên liều thì ghi vào sổ và gọi báo, không sợ bị trách.",
+     "Đưa bé đến ngay (nhờ ca nô cấp cứu hoặc trạm y tế xã nếu biển động) khi: không bú hoặc uống được, nôn tất cả, li bì khó đánh thức, co giật, thở nhanh từ 50 lần/phút khi nằm yên, rút lõm ngực, thở rít, tím tái (WHO 2013 Bảng 7; WHO 2024; IMCI 2014 tr. 40–41); sốt từ 5 ngày (NICE 1.2.14); đau hoặc chảy mủ tai (QĐ 5643 Viêm V.A mục 5); mảng trắng trong họng, cổ sưng, chảy dãi (QĐ 2957 mục 3.1.3); bầm tím lạ, chảy máu mũi hoặc nướu không cầm, phân đen, tiểu đỏ, nôn ra máu, chân sưng hoặc đổi màu (danh sách của người soạn, không trích từ tài liệu đã tải).",
+     "Giữ giấy có số điện thoại phòng khám và bệnh viện nhi. Ngày thứ hai ghé trạm y tế xã để y sĩ kiểm tra thở, bú, tã ướt; sau 5 ngày chưa đỡ thì gọi hoặc lên khám lại (WHO 2013 Bảng 7); bé đỡ thì không cần lên.",
+     "Về người thân: chưa bế, hôn hoặc để bé ở gần cháu 19 ngày tuổi cho đến khi bé hết sốt; rửa tay xà phòng trước khi chạm cháu; bà ngoại tránh ôm hôn bé. Không cần cho người nhà uống kháng sinh phòng (IDSA 2012 tr. e95). Thời gian cách ly cụ thể: không có trong tài liệu đã tải.",
+     "Mũi nhắc lúc 18 tháng tuổi ở trạm y tế xã (TT 10/2024). Bất kỳ thuốc nào mới cho bé, kể cả không kê đơn, hãy gọi hỏi bệnh viện nhi trước."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bác sĩ khám họng kỹ, cho chị Hồng nhìn họng bé và xem sổ tiêm, rồi hỏi cụ thể từng thuốc nên chị kể ra việc bỏ một liều warfarin và hai lần cho ibuprofen; phòng khám gọi bệnh viện nhi ngay tại chỗ, chị ghi lời dặn vào sổ. Bé hết sốt sau khoảng 3 ngày, nghẹt mũi và ho nhẹ đến ngày 12; y sĩ trạm y tế xã xem bé ngày thứ hai, INR đo theo hẹn ở bệnh viện nhi. Chị chờ bé hết sốt rồi mới sang bế cháu; cháu và bà ngoại không bị lây. Đây là ca 'xử trí ẩu nhưng may mắn không sao': sai sót tại nhà (bỏ một liều kháng đông, hai lần ibuprofen khi đang dùng warfarin) không gây chảy máu hay huyết khối mới, nhưng kết cục tốt không chứng tỏ cách làm đó đúng; nếu chị không được hỏi cụ thể, lần sau vẫn có thể lặp lại.",
+ "nhieu": [
+  "Ở xa, khó tái khám: chị hứa 'khỏi em không lên lại', biển động thì không có chuyến, nhà không có sóng. Vì vậy phải xử trí trọn gói: gọi bệnh viện nhi ngay trong buổi khám, giấy dặn viết có số điện thoại, nhờ y sĩ trạm y tế xã xem bé sau 48 giờ (NICE NG143 mục 1.4.4); không thể 'dặn sau' hay 'hẹn mai'.",
+  "Đổi thuốc điều trị: chị gắn cơn sốt với warfarin mới đổi nên tự bỏ một liều. Sốt do virus, không do thuốc; nhưng thuốc kháng đông là yếu tố thật sự đổi cách chọn thuốc (không ibuprofen, aspirin; thận trọng khi tiêm bắp và dùng kháng sinh).",
+  "Tin bạch hầu trên mạng và 'sợ bị trách': chị lo bạch hầu nhưng giấu chuyện ibuprofen và bỏ liều. Trấn an bạch hầu bằng khám họng và sổ tiêm, không bằng lời an ủi.",
+  "Lý do thật đến khám: sợ lây cho cháu 19 ngày tuổi và bà ngoại 70 tuổi, chỉ lộ khi hỏi 'chị lo nhất điều gì'; đây là chìa khóa để chị chấp nhận không kháng sinh vì chị thật sự cần biết khi nào được sang lại.",
+  "Không có CT: không cần để chẩn đoán ca này; áp xe thành sau họng, khoang cổ sâu loại trừ bằng khám (không chảy dãi, cổ mềm, thành sau không phồng) và dặn quay lại ngay."
+ ],
+ "bai_hoc_bien": [
+  "Thuốc đang dùng phải hỏi từng buổi, từng thuốc: hỏi chung 'thuốc gì' nhận 'đủ ạ'; hỏi 'đêm nào quên', 'đã cho thuốc hạ sốt gì, của ai' mới lộ bỏ liều warfarin và ibuprofen của anh trai. Hỏi nhẹ nhàng, không trách.",
+  "Nhũ nhi dùng kháng đông bị viêm V.A: không ibuprofen, không aspirin (ESC AF 2024 Hình 9, 10, người lớn; WHO 2013 tr. 305; IDSA 2012 IV.2); không tự đổi hay ngưng warfarin; liều, INR đích, xử trí liều quên ở nhũ nhi không có trong tài liệu đã tải nên gọi bệnh viện nhi ngay trong buổi khám.",
+  "Ở xa thì xử trí trọn gói: gọi nơi kê thuốc ngay, giấy dặn có số điện thoại, nhờ y sĩ trạm xã xem lại sau 48 giờ, hẹn tái khám 5 ngày nếu chưa đỡ (NICE NG143 mục 1.4.4; WHO 2013 Bảng 7).",
+  "Hỏi 'chị lo nhất điều gì' để tìm lý do thật: nỗi sợ lây cho cháu sơ sinh và bà. Cho mẹ biết khi nào an toàn (hết sốt, rửa tay), không cần kháng sinh dự phòng (IDSA 2012 tr. e95); thời gian cách ly cụ thể không có trong tài liệu đã tải.",
+  "Bạch hầu cần khám họng kỹ và sổ tiêm, không loại trừ bằng lời: khởi phát bạch hầu giống viêm mũi họng (QĐ 2957 mục 3.1.2), điểm phân biệt là giả mạc dai dính chảy máu khi bóc (mục 3.1.3).",
+  "Kết cục tốt không hợp thức hóa quy trình sai: bé không chảy máu sau khi bỏ một liều warfarin và uống ibuprofen là may mắn, không chứng minh việc đó an toàn."
+ ],
+ "diem_nho": [
+  "Viêm V.A cấp: hút mũi, rỏ mũi, nâng đỡ cơ thể; kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643, Viêm V.A mục 4.1–4.2); ngạt mũi, thở miệng, bỏ bú ở trẻ nhỏ, màng nhĩ mất bóng xám đục là triệu chứng 'rất có giá trị' (mục 3.1.1.1).",
+  "Cảm lạnh: không kháng sinh, thuốc ho codein, atropin, cồn, nhỏ mũi hoạt chất; hầu hết hết trong 14 ngày (WHO 2013 mục 4.4); virus tự khỏi sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp tính mục 5.1).",
+  "Trẻ dưới 3 tuổi không làm xét nghiệm liên cầu thường quy; ngoại lệ có anh chị em bị liên cầu (IDSA 2012 khuyến cáo I.5); có ho, chảy mũi thì không test (khuyến cáo I.4).",
+  "Thở nhanh: 2–11 tháng từ 50 l/p (WHO 2013 Bảng 7; QĐ 708) hoặc trên 50 l/p ở 6–12 tháng (NICE NG143 1.2.22); nhịp tim nhanh trên 160 l/p dưới 12 tháng (NICE Bảng 1). Dấu hiệu nguy hiểm: không bú hoặc uống được, nôn tất cả, co giật, li bì, thở rít (WHO 2024).",
+  "Hạ sốt: paracetamol 10–15 mg/kg mỗi 6 giờ, 6–<10 kg: 100 mg (AWaRe 2022 tr. 50), tối đa 60 mg/kg/24 giờ (QĐ 708; QĐ 3312); chỉ khi khó chịu (NICE NG143 mục 1.6.4–1.6.5) hoặc sốt ≥ 39 °C kèm khó chịu (WHO 2013 tr. 305); không lau ấm.",
+  "Thuốc kháng vitamin K: tránh NSAID; penicillin và macrolid cần theo dõi INR sát (ESC AF 2024 Hình 9, người lớn); aspirin ở trẻ không khuyến cáo (IDSA 2012 IV.2; WHO 2013 tr. 305). Không có trong tài liệu đã tải: INR đích và liều quên ở nhũ nhi.",
+  "Bạch hầu: khởi phát sốt 37,5–38 °C, sổ mũi, hạch nhỏ; toàn phát giả mạc trắng ngà dai dính bóc chảy máu, hạch góc hàm sưng đau; nghi bạch hầu phải vào viện cách ly (QĐ 2957 mục 3.1.2–3.1.3, 7). Lịch tiêm: 3 mũi lúc 2, 3, 4 tháng, nhắc lúc 18 tháng và 7 tuổi (TT 10/2024 Phụ lục).",
+  "Safety net khi có đặc điểm mức trung gian và khó tái khám: thông tin bằng lời và giấy, hẹn đúng nơi và thời điểm, liên hệ nhân viên y tế khác để bé tiếp cận khi cần (NICE NG143 mục 1.4.4; IMCI 2014 tr. 39–41)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm V.A cấp và mạn tính (tr. 137–140); Viêm mũi họng cấp tính (tr. 133–136); Nhiễm trùng khoang cổ sâu (mục 4, tr. 254)",
+  "QĐ 2957 – Bộ Y tế, QĐ 2957/QĐ-BYT 2020, Hướng dẫn chẩn đoán, điều trị bệnh bạch hầu – TL-0129 (bản chữ để trống số hiệu) – ĐÃ ĐỌC: toàn văn (mục 1–7)",
+  "TT 10/2024/TT-BYT – Bộ Y tế 2024, danh mục bệnh truyền nhiễm, đối tượng và phạm vi sử dụng vắc xin – TL-0005 – ĐÃ ĐỌC: Phụ lục, mục bệnh bạch hầu (bản chữ OCR lẫn lỗi, cần xác nhận lịch ở PDF gốc)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm phổi cộng đồng ở trẻ em (ngưỡng thở nhanh); Viêm màng não mủ (mục 4.2, paracetamol không quá 60 mg/kg/ngày)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Co giật do sốt (mục 4.1, paracetamol không quá 60 mg/kg/24 giờ); Thiếu máu thiếu sắt (mục 1, Hb dưới 105 g/L)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care, 6. Pharyngitis (tr. 46, 49–50): paracetamol, ibuprofen, amoxicillin theo cân nặng",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: Bảng 7 (tr. 81), mục 4.4 Cough or cold (tr. 90–91), mục 10.3 Management of fever (tr. 305), mục Pain control (ibuprofen, dưới 3 tháng)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years – TL-0245 – ĐÃ ĐỌC: khuyến cáo 1–2 và chú thích dấu hiệu nguy hiểm (tr. 4–8)",
+  "IMCI 2014 – WHO IMCI distance learning course – TL-0020 – ĐÃ ĐỌC: Introduction (dấu hiệu nguy hiểm tr. 23; khi nào trở lại ngay tr. 39–41)",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.5–1.2.7, 1.2.13–1.2.16, 1.2.22, 1.4.3–1.4.6, 1.6.1–1.6.6, 1.7.1–1.7.3, Bảng 1",
+  "IDSA 2012 – GAS pharyngitis guideline – TL-0158 – ĐÃ ĐỌC: khuyến cáo I.4, I.5, IV.2 (aspirin) và phần giải thích trẻ dưới 3 tuổi, người tiếp xúc trong gia đình (tr. e87, e94–e95)",
+  "ESC AF 2024 – 2024 ESC Guidelines for the management of atrial fibrillation – TL-0303 – ĐÃ ĐỌC: Hình 9 (tương tác thuốc), Hình 10, mục 6.7.1–6.7.2 (nguy cơ chảy máu); hướng dẫn cho người lớn, áp dụng cho nhũ nhi là suy luận của người soạn",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1B",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: liều, INR đích, xử trí liều quên và tương tác thuốc ở nhũ nhi dùng warfarin; thời gian cách ly với trẻ sơ sinh sau tiếp xúc người nhiễm virus hô hấp; tương tác paracetamol–warfarin ở nhũ nhi; ngưỡng số tã ướt tối thiểu; số lần nhỏ nước muối mỗi ngày; mốc 48 giờ nhờ y sĩ trạm xã xem lại; tình tiết kết cục sau khám."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-27: viết mới theo đặc tả sổ cái NH-0228 (nhũ nhi 8 tháng, ở xa khó tái khám, không có CT, thuốc kháng đông của chính bé, đổi thuốc điều trị, sợ lây cho người thân, xử trí ẩu nhưng may mắn không sao). 1 lượt, kết luận ve_hen; neu_sai cho nhap_vien, chuyen_tuyen, theo_doi.",
+  "Tài liệu đã đọc lại bằng rg: TL-0130 (Viêm V.A cấp mục 3–5; Viêm mũi họng cấp tính mục 3.1.2, 4.1, 4.3, 5.1, 6; Khoang cổ sâu mục 4), TL-0129 (mục 3, 5.1, 7), TL-0005 (Phụ lục bạch hầu), TL-0018 (tr. 46, 50), TL-0250 (Bảng 7, mục 4.4, 10.3), TL-0262 (mục 1.2, 1.4.4, 1.6, 1.7), TL-0158 (I.4, I.5, IV.2, tr. e94–e95), TL-0303 (Hình 9, 10, mục 6.7), TL-0015, TL-0037, TL-0245, TL-0020.",
+  "Mâu thuẫn dùng lại sổ: viêm họng đỏ cấp, kháng sinh nhũ nhi (chốt 08/11/2026: không kháng sinh là c, amoxicillin a); hạ sốt theo khó chịu hay ngưỡng (NH-0199 mục 3); ngưỡng thở nhanh nhũ nhi (NH-0152); lịch tiêm bạch hầu (NH-0256); aspirin và NSAID khi dùng warfarin chấm h (HH-1045); 3–5 ngày so với 14 ngày (HH-0136). Không có mâu thuẫn mới.",
+  "Thiếu tài liệu: kháng đông nhũ nhi, thời gian cách ly với trẻ sơ sinh (đã ghi trong ca). INR 2,1, bỏ một liều, kết cục là thiết kế của ca. Âm thanh: AT-TIM-NHANH-01 (mạch 138 l/p), AT-PHOI-BT-NL-01. Không có ảnh da."
+ ]
+}
