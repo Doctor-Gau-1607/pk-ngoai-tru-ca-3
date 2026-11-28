@@ -1,0 +1,667 @@
+{
+ "ma_ca": "NH-0072",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_nhiem_khuan_ho_hap_tren_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Nhiễm khuẩn hô hấp trên cấp (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm phổi",
+   "Viêm tai giữa cấp"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau chơi thể thao (bố đá bóng chiều Chủ nhật; mẹ bế bé ngồi sát sân gần 3 giờ)",
+  "thuoc_dang_dung": "NSAID tự mua (siro ibuprofen mẹ tự cho từ tối thứ Ba)",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ (mẹ kiệt sức vì thiếu ngủ, muốn bé ngủ một mạch)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Khánh An",
+  "tuoi": 0.42,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 6.6,
+  "chieu_cao": 63,
+  "xung_ho": "Bé gái 5 tháng, chưa nói, chỉ khóc, ê a, nhìn theo mẹ. Mẹ là chị Như, 29 tuổi, nhân viên bán hàng ở siêu thị, xưng 'em' với bác sĩ và gọi bác sĩ là 'bác sĩ'; gọi con là 'bé An' hoặc 'con'.",
+  "tinh_cach": "Chị Như nói nhỏ, mắt thâm quầng, hay ngáp, xoa trán. Mới đi làm lại một tháng, chồng đi ca tối, mẹ chồng ở xa nên đêm nào chị cũng một mình dỗ con. Rất thương con, sợ bị coi là 'mẹ vụng' nên hay nói giảm, tránh kể chuyện thuốc. Biết nghe khi bác sĩ hỏi nhẹ nhàng, không trách, và khi được hướng dẫn việc làm được ngay (hút mũi, đếm nhịp thở).",
+  "kieu_nhieu": "Mẹ giấu tiền sử dùng thuốc: hỏi chung 'bé có uống thuốc gì chưa' thì nói 'chưa ạ, chỉ nhỏ nước muối'. Chị đã tự cho bé uống siro ibuprofen ba ngày nay, mỗi lần 5 ml, ngày 3 lần, nhưng không kể vì sợ bị mắng 'cho thuốc bậy' và nghĩ 'thuốc hạ sốt thì không đáng nói'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể thuốc hạ sốt, giảm đau, tên thuốc, liều, số lần, hoặc hỏi lại nhẹ nhàng không trách. Mẹ cũng không tự nói điều thật sự muốn: xin thuốc cho bé ngủ một mạch để chị ngủ được; chỉ lộ khi bác sĩ hỏi chị ngủ nghỉ ra sao hoặc chị mong gì hôm nay.",
+  "nguoi_nha": "Mẹ bé, chị Như, 29 tuổi, bế con đến khám; hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Bé không nói được, chỉ khóc, ê a, nhìn theo mẹ.",
+  "ten_nguoi_nha": "Mẹ bé (chị Như)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#2a1d16",
+   "kieuToc": "tre",
+   "ao": "#fbe3a6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#ecbf98",
+    "toc": "#1d1512",
+    "kieuToc": "dai",
+    "ao": "#7fa6a0",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé sổ mũi, đêm quấy khóc, ngủ chập chờn, bú dở",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám nhi nhỏ không làm được xét nghiệm nào (không công thức máu, CRP, test nhanh, PCR), nên cũng không có X-quang, siêu âm, CT, nội soi. Còn dùng được: nhiệt kế, ống nghe nhi, đồng hồ đếm nhịp thở, cân và thước đo trẻ em, đèn soi tai, máy đo SpO₂ đầu dò nhi, dụng cụ hút mũi. Bệnh viện Nhi tỉnh cách khoảng 20 km (30 phút xe). Quyết định bằng hỏi bệnh, khám và hẹn tái khám có mốc."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 4 của bệnh",
+   "tiep_don": "Bé gái 5 tháng, 6,6 kg, mẹ bế đến vì 4 ngày nay sổ mũi, khụt khịt, đêm quấy khóc, ngủ chập chờn, bú dở rồi nhả vú. Sinh hiệu: nhiệt 37,3 °C (nách), mạch 138 l/p, nhịp thở 44 l/p (điều dưỡng đếm đủ 1 phút khi bé nằm yên), SpO₂ 98%. Bé tỉnh khi gọi, nhìn theo mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nằm viện cho bé An chỉ vì mẹ sợ và bé quấy đêm là quá tay: bé tỉnh, cười, bú liên tục sau hút mũi, thở 44 l/p dưới ngưỡng 50 l/p, SpO₂ 98%, không rút lõm, không mất nước (WHO 2013 Bảng 7; NICE NG9 mục 1.2.2 chỉ cân nhắc khi thở trên 60 l/p, bú 50–75% hoặc ít hơn, mất nước, SpO₂ dưới 92%). Bé bị thêm thủ thuật, tiếp xúc mầm bệnh mới; mẹ ở viện vẫn một mình thức đêm, càng kiệt sức, mà chuyện ibuprofen quá liều và mong muốn thuốc ngủ chưa ai hỏi ra.",
+    "chuyen_tuyen": "Chuyển bé An lên Bệnh viện Nhi tỉnh là không cần: không có dấu hiệu nguy hiểm, không viêm phổi, không suy hô hấp (WHO 2024; QĐ 708 mục 4.1). Gia đình mất một ngày, bé chờ ở nơi đông người bệnh, có thể bị xét nghiệm, đặt kim không cần (NICE NG9 mục 1.3.6–1.3.7), trong khi nguyên nhân quấy đêm là nghẹt mũi, việc hút mũi và ngưng ibuprofen mới là điều cần làm ngay."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy hôm nay bé nhà em sổ mũi, đêm nào cũng khóc, ngủ không được, bú cũng không ngon. Em mệt quá, bác sĩ xem giúp bé với.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "37,3",
+    "nhip_tho": 44,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bốn ngày nay bé sổ mũi, khụt khịt, đêm quấy khóc, ngủ chập chờn, mỗi giấc chỉ 30–45 phút rồi thức khóc. Ban ngày bú nửa chừng thì nhả vú, thở bằng miệng. Mẹ thức gần như cả đêm, mệt rã rời, sợ bé bệnh nặng hơn nên đưa đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều Chủ nhật tuần trước bố bé đá bóng giải khu phố. Mẹ bế bé ngồi sát sân gần 3 giờ, có gió, bé được vài người bế. Một bé khoảng 2 tuổi ngồi cạnh ho và sổ mũi. Tối hôm đó bé quấy; sáng thứ Hai bắt đầu sổ mũi. Mẹ nghĩ bé bị 'trúng gió ở sân bóng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc người ho sau buổi ngồi ở sân thể thao"
+    },
+    {
+     "id": "ho_tho",
+     "noi_dung": "Ho rất ít, mỗi ngày chỉ một hai tiếng, không thành cơn. Nghe bé thở 'khè khè' ở mũi và cổ, nhất là lúc nằm ngửa và khi bú; bế dựng lên hoặc sau khi hút mũi thì êm hơn. Không tím môi, không rên, không có lúc ngưng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho, khò khè, khó thở"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối thứ Ba mẹ đo nách được 38,4 °C một lần. Từ đó mẹ không đo lại, chỉ sờ trán thấy không nóng, nên nghĩ bé đã hết sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt trong những ngày qua"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Từ tối thứ Ba mẹ tự mua siro ibuprofen ở nhà thuốc đầu ngõ (chai 100 mg/5 ml, hộp ghi 'từ 3 tháng tuổi') cho bé uống: mỗi lần 5 ml (100 mg), ngày 3 lần, đã được 3 ngày; lần gần nhất 7 giờ sáng nay, khoảng 4 giờ trước. Chai thuốc mẹ để trong túi. Không cho paracetamol. Mẹ không kể vì sợ bị mắng 'cho thuốc bậy' và nghĩ thuốc hạ sốt không đáng nói.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé có uống thuốc gì chưa' thì mẹ nói 'chưa ạ, chỉ nhỏ nước muối'. Chỉ kể khi bác sĩ hỏi cụ thể đã cho thuốc hạ sốt hay giảm đau chưa, tên thuốc, liều, số lần, lần cuối, xin xem chai thuốc, hoặc hỏi lại nhẹ nhàng, không trách.",
+     "k": 1,
+     "y": "Thuốc tự mua: ibuprofen vượt liều, che sốt"
+    },
+    {
+     "id": "bu",
+     "noi_dung": "Bé bú mẹ hoàn toàn, thêm một cữ sữa công thức buổi tối. Mấy ngày nay chỉ bú khoảng ba phần tư lượng thường ngày, vẫn thay 5 tã ướt mỗi ngày, đi ngoài vàng mềm, không có máu. Nôn trớ 1–2 lần/ngày sau bú như trước, không nôn vọt, không nôn ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú, tã ướt, nôn trớ"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Khi tỉnh bé vẫn cười, nhìn theo mẹ, đạp chân; gọi là tỉnh ngay. Không co giật, không li bì, không bỏ bú hoàn toàn, không nôn hết mọi thứ, không tím, không rên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm toàn thân (WHO 2024; QĐ 708)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Bé không chảy mủ tai, không dụi hay kéo tai. Khóc nhiều nhất lúc nằm ngửa ban đêm vì nghẹt mũi, bế dựng lên là dịu dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ đi làm lại một tháng nay, chồng đi ca tối, mẹ chồng ở xa. Hơn một tuần nay mẹ ngủ chắp vá 2–3 tiếng mỗi đêm. Mẹ thấy trên mạng có người cho bé uống 'siro ngủ ngon', và muốn xin bác sĩ thuốc cho bé ngủ một mạch để mẹ ngủ được; mẹ ngại nói vì sợ bị chê là 'mẹ lười'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi mẹ ngủ nghỉ ra sao, ai chăm bé ban đêm, hoặc hỏi nhẹ nhàng 'hôm nay mẹ mong bác sĩ giúp điều gì nhất'.",
+     "k": 1,
+     "y": "Lý do thật: muốn thuốc cho bé ngủ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh đủ tháng, 3,1 kg, bú mẹ, chưa nằm viện, chưa khò khè bao giờ. Tiêm chủng theo lịch, mũi gần nhất cách đây một tháng. Không dị ứng thuốc. Trong nhà không ai hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh khi gọi, nhìn theo mẹ, cười khi được chọc. Môi hồng, niêm mạc miệng ẩm, khóc có nước mắt, thóp phẳng, da đàn hồi tốt: không mất nước. Mao mạch hồi sắc dưới 2 giây.",
+     "k": 1,
+     "hien": "Tỉnh, cười khi được chọc, niêm mạc ẩm, thóp phẳng."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch nhầy trong lẫn đục ở hai lỗ mũi, niêm mạc phù nề; sau khi hút mũi bé thở êm hơn rõ rệt. Họng đỏ nhẹ, nhầy từ vòm chảy xuống thành sau, không giả mạc. Tai: màng nhĩ hai bên hồng nhạt, bóng, không phồng, không chảy mủ; kéo nhẹ vành tai bé không khóc thêm.",
+     "k": 1,
+     "hien": "Mũi có dịch nhầy; sau hút mũi bé thở êm hơn. Họng đỏ nhẹ. Màng nhĩ hai bên không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đếm đủ 1 phút khi bé nằm yên. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không thở rít. Có tiếng ran ngáy thô truyền từ mũi họng, nghe đều hai bên và giảm sau hút mũi; không ran ẩm, không ran nổ, không khò khè thật sự.",
+     "k": 1,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thô truyền từ mũi họng, nghe cả hai bên."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thô truyền từ mũi họng, nghe cả hai bên."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 138 l/p lúc bé nằm yên, T1 T2 rõ, không âm thổi, không ngựa phi. Mạch bẹn bắt rõ hai bên, không tím.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi, không ngựa phi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan bờ dưới sát bờ sườn, lách không sờ thấy.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da hồng, không ban, không chấm xuất huyết, không vàng da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, kích thước bình thường. Hạch dưới hàm nhỏ, di động; cổ mềm.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 6,6 kg, chiều dài 63 cm. Tài liệu đã tải không có bảng tăng trưởng để so; bé nhìn đều đặn, không gầy mòn.",
+     "k": 0,
+     "hien": "Cân 6,6 kg, dài 63 cm."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú đúng, bú 3–4 phút thì nhả ra, thở bằng miệng, khóc. Sau khi nhỏ nước muối sinh lý và hút mũi, bé bú liên tục 8–10 phút, nuốt tốt, không sặc, không tím.",
+     "k": 1,
+     "hien": "Trước hút mũi bé bú dở rồi nhả; sau hút mũi bú liên tục khoảng 8–10 phút."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Phòng khám không làm được. Cũng không cần: viêm mũi họng cấp thông thường không cần xét nghiệm (QĐ 5643, Viêm mũi họng cấp tính mục 3.1.2); NICE NG9 mục 1.3.6 không làm xét nghiệm máu thường quy. Khoảng tham chiếu công thức máu nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "n": "Phòng khám không làm được; không đổi xử trí. Tài liệu đã tải không nêu ngưỡng CRP để quyết định kháng sinh ở nhũ nhi."
+    },
+    "cxr": {
+     "n": "Không có X-quang và cũng không có chỉ định: thở 44 l/p, không rút lõm, phổi không ran ẩm (WHO 2013 Bảng 7; QĐ 708 mục 3.1); NICE NG9 mục 1.3.7 không chụp thường quy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng/V.A cấp do virus) ở nhũ nhi 5 tháng, biểu hiện không điển hình (ít ho, quấy đêm, bú dở); sốt đã bị ibuprofen tự mua che; chưa biến chứng, không dấu hiệu nguy hiểm",
+     "ok": 1,
+     "n": "Ngạt mũi, thở miệng, bỏ bú dở, nhầy từ vòm chảy xuống thành sau họng; ở trẻ nhỏ viêm V.A cấp có thể chỉ ngạt mũi hoàn toàn, thở nhanh, bỏ bú, không nhất thiết sốt cao hay ho (QĐ 5643, Viêm V.A mục 3.1.1.1). Tiếp xúc người ho (QĐ 5643, Viêm mũi họng cấp tính mục 2: lây qua nước bọt, nước mũi khi ho, hắt hơi). Thở 44 l/p dưới ngưỡng thở nhanh, không rút lõm, tỉnh, bú được sau hút mũi."
+    },
+    {
+     "t": "Viêm phổi",
+     "n": "Thở 44 l/p dưới ngưỡng 50 l/p của trẻ 2–11 tháng (WHO 2013 mục 4.1, tr. 76; QĐ 708 mục 3.1) và dưới ngưỡng 60 l/p của NICE NG143 mục 1.2.22 (0–5 tháng); không rút lõm, không phập phồng cánh mũi, không rên, phổi không ran ẩm; SpO₂ 98%. Ho chỉ 1–2 tiếng/ngày: không phải 'ho kèm thở nhanh' (WHO 2013 Bảng 7: no pneumonia, cough or cold)."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Không dụi kéo tai, không chảy mủ, màng nhĩ hồng nhạt, bóng, không phồng. Bé 5 tháng dưới tuổi áp dụng của AAP 2013 (6 tháng–12 tuổi), nên dựa tiêu chuẩn thực thể của QĐ 5643 (Viêm tai giữa cấp tính trẻ em mục 3.1.1: đau tai, sốt, màng nhĩ đỏ, phồng): bé không có. Quấy đêm ở bé này là do nghẹt mũi (bế dựng lên thì dịu)."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Cần ho dai dẳng, thở nhanh hoặc rút lõm, và khò khè hoặc ran (NICE NG9 mục 1.1.3); tuổi 3–6 tháng là đỉnh (mục 1.1.1) nên phải nghĩ tới. Bé gần như không ho, thở 44 l/p, không rút lõm, tiếng ran ngáy giảm sau hút mũi nên là tiếng truyền từ mũi."
+    },
+    {
+     "t": "Nhiễm khuẩn nặng (nhiễm khuẩn huyết, viêm màng não) bị che bởi thuốc hạ sốt",
+     "n": "Bé tỉnh, cười, đáp ứng bình thường, niêm mạc ẩm, mao mạch hồi sắc dưới 2 giây, thóp phẳng: đủ tiêu chí nhóm nguy cơ thấp (NICE NG143 mục 1.2.7). Đã dùng hạ sốt thì không dựa vào nhiệt độ để phân biệt nặng nhẹ (mục 1.4.8); sốt 38,4 °C của bé dưới ngưỡng 39 °C của nhóm trung bình ở 3–6 tháng (mục 1.2.13); tim 138 l/p dưới 160 l/p (Bảng 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích đây là cảm do virus, sốt nếu có thường lui sau 3–5 ngày, nghẹt mũi và ho có thể kéo dài tới khoảng 14 ngày",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90): cảm lạnh là bệnh virus tự giới hạn, không kháng sinh, đa số hết trong 14 ngày; QĐ 5643 Viêm V.A mục 4.1 (điều trị triệu chứng) và Viêm mũi họng cấp tính mục 5.1 (virus tự khỏi sau 3–5 ngày). Hai mốc khác đối tượng (triệu chứng cấp so với cả đợt kể cả ho, sổ mũi), ghi cả hai (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Hút mũi và nhỏ hoặc rửa mũi bằng nước muối sinh lý trước mỗi cữ bú; dạy mẹ cách hút mũi và cho mẹ tự làm một lần tại phòng khám",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 91): lau sạch dịch mũi trước cữ bú; QĐ 5643 Viêm V.A mục 4.2 và Viêm mũi xoang trẻ em mục 4.2.1 (nước muối sinh lý, hút mũi); NICE NG9 mục 1.4.7. Số lần mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục bú mẹ, chia nhiều cữ nhỏ; theo dõi số tã ướt và dấu hiệu mất nước",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 91): thêm sữa mẹ, uống ít một và nhiều lần; NICE NG143 mục 1.7.2 (dấu hiệu mất nước: thóp lõm, miệng khô, mắt trũng, không nước mắt); NICE NG9 mục 1.6.1 (bú 50–75% hoặc không tã ướt 12 giờ là dấu hiệu cần khám lại)."
+    },
+    {
+     "t": "Hỏi ra và ngưng siro ibuprofen mẹ tự cho: bé không cần hạ sốt thường quy, liều mẹ cho vượt liều khuyến cáo (100 mg/lần ≈ 15 mg/kg, 300 mg/ngày ≈ 45 mg/kg); nói nhẹ nhàng, không trách",
+     "v": "c",
+     "n": "Ibuprofen chỉ cho trẻ > 3 tháng, 5–10 mg/kg mỗi 6–8 giờ, tối đa 40 mg/kg/ngày (WHO 2013 mục 8.7.1 tr. 251; trần ngày: QĐ 3312/2015, Tay chân miệng mục 4.2.2.1; AWaRe 2022 Bảng 6.4: 6–<10 kg 50 mg mỗi 8 giờ): 6,6 kg là 33–66 mg/lần, tối đa khoảng 264 mg/ngày. Chỉ dùng khi sốt làm trẻ khó chịu, không để hạ con số (NICE NG143 mục 1.6.4–1.6.5); có thể gây viêm dạ dày (WHO 2013 mục 10.3). Dấu hiệu tác dụng phụ cụ thể ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ sốt đúng cách khi cần: không dùng thường quy; chỉ paracetamol khi sốt ≥ 39 °C và bé khó chịu, 10–15 mg/kg (6,6 kg: 66–99 mg, khoảng 100 mg) mỗi 6 giờ, tối đa 4 lần/24 giờ; không cho hai thuốc hạ sốt cùng lúc; đo nhiệt độ nách bằng nhiệt kế điện tử",
+     "v": "c",
+     "n": "WHO 2013 mục 10.3 (tr. 305): paracetamol cho trẻ ≥ 2 tháng sốt ≥ 39 °C và khó chịu, 15 mg/kg mỗi 6 giờ; AWaRe 2022 Bảng 6.4: 10–15 mg/kg, 6–<10 kg: 100 mg; NICE NG143 mục 1.6.4–1.6.6 (khi khó chịu; không dùng hai thuốc cùng lúc), mục 1.1.3 (nhiệt kế điện tử đo nách), mục 1.1.5 (sờ trán không đáng tin). Mốc ≥ 38,5 °C của QĐ 3312 (Viêm phổi do vi khuẩn mục 2.2) chấm a; trần 60 mg/kg/24 giờ theo QĐ 708 (Viêm màng não mủ mục 4.2)."
+    },
+    {
+     "t": "Không cho thuốc ngủ, thuốc an thần, kháng histamin (siro 'ngủ ngon'), thuốc ho cho bé; giải thích vì sao quấy đêm là do nghẹt mũi và sẽ đỡ khi hút mũi trước cữ bú",
+     "v": "c",
+     "n": "Tài liệu đã tải không có chỉ định thuốc ngủ hay an thần cho nhũ nhi bị cảm (WHO 2013 mục 4.4 chỉ nêu điều trị hỗ trợ). Li bì là dấu hiệu nguy hiểm, thuốc an thần làm mất khả năng nhận ra (QĐ 708 mục 4.4; NICE NG143 mục 1.2.7); kháng histamin thận trọng dưới 2 tuổi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1); an thần là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2). Phần 'che dấu hiệu' là suy luận từ các nguồn này."
+    },
+    {
+     "t": "Hỏi mẹ ngủ nghỉ thế nào, ghi nhận mệt mỏi của mẹ, bàn cách chia ca ban đêm (bố hoặc người thân) và cho mẹ ngủ khi bé ngủ ban ngày",
+     "v": "c",
+     "n": "NICE NG143 mục 1.7.3: cha mẹ đau khổ hoặc lo không chăm nổi con cần được giúp. Cách chia ca cụ thể và thời lượng ngủ nhũ nhi bình thường: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dạy mẹ đếm nhịp thở đúng (đủ 1 phút khi bé nằm yên, thở nhanh khi từ 50 l/p), dấu hiệu phải đưa đến ngay, và hẹn tái khám sau 5 ngày nếu chưa đỡ",
+     "v": "c",
+     "n": "WHO 2013 mục 4.1 (tr. 76), QĐ 708 mục 3.1: đếm 1 phút khi trẻ yên, 2–11 tháng nhanh khi ≥ 50 l/p; WHO 2013 Bảng 7: cảm lạnh tái khám sau 5 ngày nếu chưa đỡ; NICE NG9 mục 1.6.1 (rút lõm, phập phồng cánh mũi, rên, bú 50–75% hoặc không tã ướt 12 giờ, ngưng thở, chỉ tỉnh khi kích thích kéo dài); WHO 2024 chú thích 2 (không bú được, nôn hết, co giật, li bì, thở rít)."
+    },
+    {
+     "t": "Amoxicillin theo kinh nghiệm",
+     "v": "a",
+     "n": "QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 không giới hạn tuổi, có kháng sinh (sổ mâu thuẫn 08/11/2026: nhũ nhi chấm a); liều AWaRe 2022: 6–<10 kg 375 mg mỗi 12 giờ. Không phải đáp án chính (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A mục 4.1)."
+    },
+    {
+     "t": "Ibuprofen đúng liều (khoảng 50 mg mỗi 8 giờ) khi sốt làm bé khó chịu",
+     "v": "a",
+     "n": "Bé > 3 tháng được phép (WHO 2013 mục 8.7.1, 10.3; AWaRe 2022 Bảng 6.4: 50 mg mỗi 8 giờ); NICE NG143 mục 1.6.4–1.6.6 coi paracetamol hoặc ibuprofen như nhau. Chưa cần vì bé chưa sốt khó chịu."
+    },
+    {
+     "t": "Cho siro 'ngủ ngon' hoặc kê thuốc ngủ, an thần, kháng histamin cho bé",
+     "v": "w",
+     "n": "Che dấu hiệu li bì (QĐ 708 mục 4.4; NICE NG143 mục 1.2.7), là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2), thận trọng dưới 2 tuổi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1). Mức w là suy luận từ các nguồn này (sổ mâu thuẫn, mục thuốc an thần ngoại trú)."
+    },
+    {
+     "t": "Cho thuốc ho, long đờm hoặc thuốc có codein, atropin",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 (tr. 91): thuốc có atropin, codein, cồn có thể gây hại; không dùng thuốc tiêu nhầy."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến để làm xét nghiệm, chụp phổi",
+     "v": "h",
+     "n": "Không có chỉ định: không dấu hiệu nguy hiểm, không mất nước, thở 44 l/p (WHO 2013 Bảng 7; NICE NG9 mục 1.2.2). Tỉ lệ tai biến cụ thể: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp (viêm mũi họng/V.A cấp) nghĩ do virus ở nhũ nhi nữ 5 tháng, ngày thứ 4, tiếp xúc người ho ngoài sân thể thao",
+     "Biểu hiện không điển hình: ít ho, quấy đêm và bú dở do nghẹt mũi; sốt 38,4 °C ngày thứ 2 bị che bởi ibuprofen",
+     "Chưa biến chứng: không viêm phổi (thở 44 l/p), không viêm tai giữa cấp, không viêm tiểu phế quản",
+     "Không dấu hiệu nguy hiểm, không mất nước",
+     "Tự dùng ibuprofen vượt liều (100 mg/lần, 3 lần/ngày, 3 ngày) khi bé không có chỉ định",
+     "Mẹ kiệt sức vì thiếu ngủ, muốn thuốc ngủ cho bé"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bé ít ho, không sốt lúc khám nên dễ bỏ qua; phải hỏi cụ thể sốt, thuốc đã cho (kể cả thuốc hạ sốt), bú, tã ướt, tiếp xúc, tai. Bé khè khè ở mũi, nằm ngửa thì quấy, bế dựng lên dịu; khởi phát sau buổi ngồi sát sân bóng cạnh một bé ho (QĐ 5643 Viêm mũi họng cấp tính mục 2: lây qua nước bọt, nước mũi). Tài liệu đã tải không nêu gió là nguyên nhân.",
+     "Khám: màng nhĩ không phồng; phổi chỉ ran ngáy truyền từ mũi, giảm sau hút mũi; nhịp thở 44 l/p đếm 1 phút khi nằm yên, không rút lõm; quan sát cữ bú trước và sau hút mũi cho thấy bú dở là do nghẹt mũi (QĐ 5643 Viêm V.A mục 3.1.1.1). Cận lâm sàng không làm được và không cần (QĐ 5643 Viêm mũi họng cấp tính mục 3.1.2; NICE NG9 mục 1.3.6–1.3.7).",
+     "Không phải viêm phổi: thở 44 l/p dưới 50 l/p (WHO 2013 mục 4.1; QĐ 708 mục 3.1) và dưới 60 l/p (NICE NG143 mục 1.2.22), không rút lõm, SpO₂ 98% (WHO 2013 Bảng 7). Không phải viêm tai giữa cấp: không đau tai, màng nhĩ bóng, không phồng (QĐ 5643 Viêm tai giữa cấp tính trẻ em mục 3.1.1; AAP 2013 KAS 1A–1C chỉ áp dụng từ 6 tháng). Không phải tiểu phế quản: không ho dai dẳng, không rút lõm (NICE NG9 mục 1.1.3).",
+     "Không yên tâm chỉ vì 37,3 °C: bé uống ibuprofen 4 giờ trước nên nhiệt độ không còn giá trị phân biệt nặng nhẹ (NICE NG143 mục 1.4.8); dựa vào dáng vẻ, đáp ứng, bú, mất nước: nhóm nguy cơ thấp (mục 1.2.7), sốt 38,4 °C dưới 39 °C (mục 1.2.13).",
+     "Thuốc đã dùng: ibuprofen cho bé > 3 tháng được phép (WHO 2013 mục 8.7.1) nhưng 100 mg/lần ≈ 15 mg/kg vượt 5–10 mg/kg, 300 mg/ngày ≈ 45 mg/kg vượt trần 40 mg/kg/ngày (QĐ 3312/2015, Tay chân miệng mục 4.2.2.1; AWaRe 2022 Bảng 6.4: 50 mg mỗi 8 giờ). Bé không nôn máu, phân vàng không máu."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh (WHO 2013 mục 4.4; QĐ 5643 Viêm V.A mục 4.1); amoxicillin theo QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 chấm chấp nhận (sổ mâu thuẫn). Hút mũi, nước muối trước cữ bú là điều trị chính vì nghẹt mũi làm bé bú dở và quấy đêm.",
+     "Ngưng ibuprofen, nói rõ liều; nếu cần hạ sốt thì paracetamol khi sốt ≥ 39 °C và bé khó chịu (WHO 2013 mục 10.3), 10–15 mg/kg mỗi 6 giờ (AWaRe 2022; 6,6 kg: 66–99 mg), không cho hai thuốc cùng lúc (NICE NG143 mục 1.6.6).",
+     "Không thuốc ngủ: không có chỉ định trong tài liệu đã tải, che dấu hiệu li bì (QĐ 708 mục 4.4), an thần là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2). Điều mẹ cần thật sự là được ngủ: hỏi ra, chia ca, hướng dẫn hút mũi để bé ngủ liền hơn (NICE NG143 mục 1.7.3). Tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 Bảng 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý nhỏ mũi) và dụng cụ hút mũi",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và khi nghẹt mũi",
+      "so_ngay": "Trong đợt bệnh",
+      "ghi_chu": "WHO 2013 mục 4.4 (tr. 91); QĐ 5643 Viêm V.A mục 4.2, Viêm mũi xoang trẻ em mục 4.2.1; NICE NG9 mục 1.4.7. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ), chỉ dùng khi cần",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở (nồng độ ghi theo nhãn, không có trong tài liệu đã tải)",
+      "lieu": "66–99 mg/lần (10–15 mg/kg; bảng cân nặng AWaRe 2022: khoảng 100 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt ≥ 39 °C và bé khó chịu; các lần cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ, tổng không quá 60 mg/kg/24 giờ (khoảng 396 mg)",
+      "ghi_chu": "WHO 2013 mục 10.3 (tr. 305): ≥ 2 tháng, 15 mg/kg mỗi 6 giờ; AWaRe 2022 Bảng 6.4: 10–15 mg/kg, 6–<10 kg: 100 mg; QĐ 708 (Viêm màng não mủ mục 4.2): ≤ 60 mg/kg/ngày; NICE NG143 mục 1.6.4–1.6.6. Ngưng ibuprofen khi dùng paracetamol."
+     }
+    ],
+    "dan_do": [
+     "Bé bị cảm do virus; không cần kháng sinh. Sốt (nếu có) thường lui sau 3–5 ngày, nghẹt mũi và ho có thể kéo dài tới khoảng 14 ngày (QĐ 5643; WHO 2013 mục 4.4).",
+     "Bé quấy đêm chủ yếu vì nghẹt mũi: nhỏ nước muối sinh lý rồi hút mũi trước mỗi cữ bú và trước khi đặt bé ngủ; bế dựng bé lên cho thở dễ.",
+     "Ngưng siro ibuprofen. Từ nay chỉ cho thuốc hạ sốt khi sốt ≥ 39 °C và bé khó chịu: paracetamol khoảng 100 mg mỗi lần, cách nhau ít nhất 6 giờ, không quá 4 lần/ngày (WHO 2013 mục 10.3; AWaRe 2022); không cho hai loại thuốc hạ sốt cùng lúc; hỏi bác sĩ trước khi cho bất kỳ thuốc nào.",
+     "Không cho bé uống siro 'ngủ ngon', thuốc an thần, thuốc ho, thuốc dị ứng: không giúp bé khỏi và làm khó nhận ra khi bé bệnh nặng. Mẹ cần ngủ: nhờ bố hoặc người thân chia ca đêm, ngủ khi bé ngủ ban ngày; nếu mẹ thấy không chăm nổi con, đến gặp bác sĩ sớm (NICE NG143 mục 1.7.3).",
+     "Tự đếm nhịp thở khi bé nằm yên, đủ 1 phút: từ 50 lần/phút là thở nhanh (WHO 2013 mục 4.1; QĐ 708 mục 3.1).",
+     "Đưa bé đến ngay nếu thở nhanh, rút lõm ngực, phập phồng cánh mũi, thở rên hoặc thở rít, bú dưới nửa lượng thường ngày hoặc không có tã ướt trong 12 giờ, nôn hết mọi thứ, li bì khó đánh thức, tím, ngưng thở, co giật, sốt từ 5 ngày (NICE NG9 mục 1.6.1; NICE NG143 mục 1.7.3; WHO 2024).",
+     "Tái khám sau 5 ngày nếu bé chưa đỡ (WHO 2013 Bảng 7). Không hút thuốc trong nhà (NICE NG9 mục 1.6.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày (ngày thứ 9 của bệnh)",
+   "tiep_don": "Tái khám sau 5 ngày. Bé hết sốt, ban ngày thông mũi hơn và bú khá hơn, nhưng đêm vẫn thức 3–4 lần, hai hôm nay có ho nhẹ; mẹ vẫn mệt, lo 'bệnh chưa dứt'. Sinh hiệu: nhiệt 36,9 °C (nách), mạch 126 l/p, nhịp thở 42 l/p (đếm đủ 1 phút khi bé nằm yên), SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nằm viện cho bé An vì ho mới và thức đêm là quá tay: không sốt, thở 42 l/p, không rút lõm, bú gần đủ, cân tăng, tỉnh và cười (WHO 2013 Bảng 7; NICE NG9 mục 1.2.2). Bé bị tiếp xúc thêm mầm bệnh và thủ thuật không cần, còn mẹ vẫn thiếu ngủ, thêm lo, càng tin 'bé bệnh nặng' và càng muốn thuốc ngủ thay vì học cách chia ca đêm.",
+    "chuyen_tuyen": "Chuyển bé An lên bệnh viện Nhi tỉnh vì 'ho 2 ngày' là quá sớm: đa số đợt cảm hết trong 14 ngày, chỉ ho từ 14 ngày mới chuyển sang đánh giá ho kéo dài (WHO 2013 mục 4.4, Bảng 7). Gia đình mất một ngày, bé bị chụp phim và xét nghiệm không cần (NICE NG9 mục 1.3.6–1.3.7), mà việc cần làm vẫn là hút mũi, dặn dấu hiệu nặng và giúp mẹ ngủ."
+   },
+   "loi_mo": "Bác sĩ ơi, bé đỡ nhiều rồi, hết nóng rồi. Nhưng đêm vẫn thức dậy khóc, mà hai hôm nay lại ho. Em sợ bệnh chưa hết.",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 42,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ hôm khám mẹ ngưng ibuprofen, hút mũi và nhỏ nước muối trước mỗi cữ bú. Ban ngày mũi thông hơn nhiều, bé bú khoảng chín phần mười lượng thường ngày, thay 5–6 tã ướt mỗi ngày, cười và đạp chân khi được chọc. Ban đêm bé vẫn thức 3–4 lần, khóc một lúc rồi bú lại thì ngủ tiếp. Bố đã đổi ca, chia đêm với mẹ được hai đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Không sốt từ sau lượt khám trước. Mẹ đo nách mỗi tối bằng nhiệt kế điện tử, ghi trong điện thoại: 36,8 đến 37,2 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Hai hôm nay bé ho nhẹ, khoảng 5–6 tiếng mỗi ngày, ho ngắn từng tiếng, không thành cơn, không tím khi ho, không ho đến nôn, không có tiếng hú. Vẫn còn khụt khịt nhẹ, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho mới xuất hiện"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Không rên, không rút lõm, không thở rít, không tím, không ngưng thở, không nôn hết mọi thứ, không co giật, không li bì. Bé không dụi hay kéo tai, không chảy mủ tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nguy hiểm, tai"
+    },
+    {
+     "id": "ibu_lai",
+     "noi_dung": "Hai giờ sáng đêm hôm kia bé khóc dữ, dỗ không nín; mẹ cuống nên cho bé uống 2,5 ml siro ibuprofen (50 mg), nhớ 'con số bác sĩ nói', mong bé dịu và ngủ lại được. Lúc đó bé không sốt. Bé quấy thêm một lúc rồi bú ngủ lại. Mẹ không kể vì sợ bác sĩ nghĩ mình không nghe lời.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'mẹ có làm khác chỉ dẫn không' thì mẹ nói 'dạ không'. Chỉ kể khi bác sĩ hỏi cụ thể đêm khó nhất mẹ làm gì, có cho thêm thuốc nào lần nào nữa không, hoặc hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Lại dùng ibuprofen khi bé không sốt"
+    },
+    {
+     "id": "me_ngu",
+     "noi_dung": "Mẹ ngủ được khoảng 4–5 tiếng mỗi đêm nhờ bố chia ca, vẫn mệt. Mẹ chồng hứa ra giúp cuối tuần. Mẹ hỏi nhỏ có thể cho bé một chút thuốc ngủ 'vài hôm thôi' cho bé ngủ liền giấc không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mong muốn thuốc ngủ vẫn còn"
+    },
+    {
+     "id": "tra_mang2",
+     "noi_dung": "Mẹ vừa đọc 'ho sau cảm là bệnh chuyển xuống phổi, phải dùng kháng sinh' và hỏi có nên cho kháng sinh cho chắc.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 6,7 kg (tăng 100 g so với lượt 1). Tỉnh, cười, chơi với tay mẹ. Môi hồng, niêm mạc ẩm, khóc có nước mắt, thóp phẳng, da đàn hồi tốt.",
+     "k": 1,
+     "hien": "Cân 6,7 kg. Tỉnh, cười, niêm mạc ẩm, thóp phẳng."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi còn ít dịch nhầy đặc, niêm mạc hồng, đỡ phù nề. Họng hồng nhạt, nhầy thành sau ít hơn, không giả mạc. Tai: màng nhĩ hai bên hồng nhạt, bóng, không phồng, không dịch chảy; kéo vành tai không đau.",
+     "k": 1,
+     "hien": "Mũi còn ít dịch đặc, họng hồng nhạt. Màng nhĩ hai bên không phồng."
+    },
+    "phoi": {
+     "a": "Nhịp thở 42 l/p, đếm đủ 1 phút khi bé nằm yên. Không rút lõm lồng ngực, không phập phồng cánh mũi, không rên, không khò khè. Ran ngáy thưa truyền từ mũi họng, giảm sau hút mũi; không ran ẩm, không ran nổ.",
+     "k": 1,
+     "hien": "Nhịp thở 42 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thô thưa truyền từ mũi họng, nghe cả hai bên."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-RAN-NGAY-01",
+       "chu": "Ran ngáy thô thưa truyền từ mũi họng, nghe cả hai bên."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 126 l/p, T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm vú đúng, bú liên tục khoảng 10 phút sau khi hút mũi, nuốt tốt, không sặc, không tím.",
+     "k": 0,
+     "hien": "Bú liên tục khoảng 10 phút sau khi hút mũi."
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "a",
+     "n": "Không có máy và không có chỉ định: thở 42 l/p, không rút lõm, không sốt (WHO 2013 mục 4.1; QĐ 708 mục 3.2; NICE NG9 mục 1.3.7). Nếu mẹ vẫn lo sau khi đã giải thích, đề nghị tuyến trên chụp để trấn an chấm a; nguồn nào cũng không nói là có hại."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nhiễm khuẩn hô hấp trên cấp do virus ở nhũ nhi 5 tháng, ngày thứ 9, đang hồi phục chậm bình thường (nghẹt mũi đỡ nhiều, ho nhẹ mới xuất hiện ở giai đoạn muộn của cảm); chưa biến chứng; mẹ vẫn thiếu ngủ",
+     "ok": 1,
+     "n": "So với lượt 1: bé hết sốt, bú gần đủ, thở 42 l/p (trước 44), cân tăng, không rút lõm, mũi ít dịch hơn. Hồi phục chậm bình thường: cảm lạnh hết trong 14 ngày, ho có thể còn (WHO 2013 mục 4.4); sốt và triệu chứng cấp lui sau 3–5 ngày (QĐ 5643 Viêm mũi họng cấp tính mục 5.1)."
+    },
+    {
+     "t": "Viêm phổi (thất bại điều trị sớm)",
+     "n": "Không sốt trở lại, thở 42 l/p dưới 50 l/p, không rút lõm, phổi không ran ẩm, SpO₂ 98%: chưa có dấu hiệu phân loại viêm phổi (WHO 2013 Bảng 7; QĐ 708 mục 3.1). Ho nhẹ mới xuất hiện không kèm thở nhanh."
+    },
+    {
+     "t": "Viêm tai giữa cấp",
+     "n": "Quấy đêm nhưng không dụi tai, không chảy mủ, màng nhĩ hồng nhạt, bóng, không phồng (QĐ 5643 Viêm tai giữa cấp tính trẻ em mục 3.1.1). Viêm tai giữa là biến chứng gần của viêm mũi họng nên vẫn phải soi lại (QĐ 5643 Viêm mũi họng cấp tính mục 5.2)."
+    },
+    {
+     "t": "Viêm tiểu phế quản",
+     "n": "Không rút lõm, không khò khè, không thở nhanh, ho nhẹ; ran ngáy truyền từ mũi (NICE NG9 mục 1.1.3). Triệu chứng tiểu phế quản đỉnh ngày 3–5 rồi giảm (mục 1.1.2), bé đã ngày 9 và đỡ dần."
+    },
+    {
+     "t": "Ho gà",
+     "n": "Ho từng tiếng ngắn, không thành cơn, không tím, không nôn, không tiếng hú (WHO 2013 Bảng 6: cơn ho, hú, nôn). Tiêu chuẩn chẩn đoán ho gà ở nhũ nhi dưới 6 tháng: không có trong tài liệu đã tải; ho từ 14 ngày mới đánh giá ho kéo dài gồm ho gà (WHO 2013 mục 4.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không dùng kháng sinh; giải thích đây là hồi phục chậm bình thường: nghẹt mũi đỡ, bú hơn, ho nhẹ xuất hiện ở giai đoạn muộn có thể còn tới khoảng 14 ngày kể từ khởi phát",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90): đa số đợt hết trong 14 ngày, không kháng sinh; QĐ 5643 Viêm mũi họng cấp tính mục 5.1 (3–5 ngày cho sốt và triệu chứng cấp), Viêm V.A mục 4.1. Ghi cả hai mốc (sổ mâu thuẫn, thời gian cảm lạnh)."
+    },
+    {
+     "t": "Phân biệt hồi phục chậm với thất bại điều trị bằng tiêu chí: so với lượt 1 bé tỉnh hơn, bú hơn, hết sốt, thở dưới 50 l/p; thất bại là thở ≥ 50 l/p, rút lõm, bú dưới 50–75% hoặc không tã ướt 12 giờ, sốt trở lại kèm li bì",
+     "v": "c",
+     "n": "WHO 2013 Bảng 7 (tr. 81), mục 4.1 (tr. 76); NICE NG9 mục 1.2.2, 1.6.1; QĐ 708 mục 3.1, 4.1–4.4; WHO 2024 chú thích 2. Ngưỡng NICE (60 l/p, chuyển nơi điều trị) và WHO (50 l/p, phân loại viêm phổi) dùng cho mục đích khác nhau (sổ mâu thuẫn, ngưỡng thở nhanh nhũ nhi)."
+    },
+    {
+     "t": "Tiếp tục hút mũi và nước muối sinh lý trước mỗi cữ bú và trước khi đặt bé ngủ; công nhận mẹ làm đúng",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 91); QĐ 5643 Viêm V.A mục 4.2 và Viêm mũi xoang trẻ em mục 4.2.1; NICE NG9 mục 1.4.7."
+    },
+    {
+     "t": "Hỏi ra việc mẹ lại cho ibuprofen đêm hôm kia; giải thích bé không sốt, khóc không phải chỉ định hạ sốt; liều 50 mg lần đó (khoảng 7,5 mg/kg) nằm trong khoảng cho phép nên không nguy hiểm, nhưng không dùng để dỗ bé ngủ; nói nhẹ nhàng không trách",
+     "v": "c",
+     "n": "NICE NG143 mục 1.6.4–1.6.5: chỉ khi sốt làm trẻ khó chịu, không để hạ nhiệt; WHO 2013 mục 10.3: trẻ tỉnh, hoạt động ít được lợi; mục 8.7.1 và AWaRe 2022 Bảng 6.4: 5–10 mg/kg mỗi 6–8 giờ, 6–<10 kg 50 mg. Tài liệu đã tải không nói ibuprofen giúp bé ngủ."
+    },
+    {
+     "t": "Không thuốc ngủ, an thần, kháng histamin cho bé dù mẹ xin lần nữa; lắng nghe mẹ, xác nhận mẹ thiếu ngủ thật, bàn kế hoạch: bố chia ca đêm, mẹ ngủ khi bé ngủ ban ngày, mẹ chồng ra giúp cuối tuần; hẹn khám lại sớm nếu mẹ không chịu nổi",
+     "v": "c",
+     "n": "Không có chỉ định trong tài liệu đã tải; che dấu hiệu li bì (QĐ 708 mục 4.4; NICE NG143 mục 1.2.7); thận trọng kháng histamin dưới 2 tuổi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1); an thần là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2); cha mẹ không chăm nổi con cần được giúp (NICE NG143 mục 1.7.3). Thời lượng ngủ nhũ nhi bình thường và lịch chia ca: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám khi đủ 14 ngày kể từ khởi phát (khoảng 5 ngày nữa) nếu bé còn ho, sớm hơn nếu có dấu hiệu nguy hiểm; dặn lại dấu hiệu phải đưa đến ngay",
+     "v": "c",
+     "n": "WHO 2013 Bảng 7: ho từ 14 ngày chuyển sang đánh giá ho kéo dài; mục 4.4: lao, hen, ho gà, HIV; NICE NG9 mục 1.6.1; WHO 2024 chú thích 2. Khoảng cách tái khám sau ngày 14: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Amoxicillin theo kinh nghiệm vì ho mới",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn (08/11/2026): QĐ 5643 Viêm mũi họng cấp tính mục 4.1, 4.3.1 không giới hạn tuổi; liều AWaRe 2022: 6–<10 kg 375 mg mỗi 12 giờ. Đáp án chính không kháng sinh (WHO 2013 mục 4.4)."
+    },
+    {
+     "t": "Cho thuốc ngủ, siro an thần, kháng histamin 'vài hôm' để mẹ ngủ được",
+     "v": "w",
+     "n": "Che dấu hiệu li bì (QĐ 708 mục 4.4), yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2), thận trọng dưới 2 tuổi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1). Mức w là suy luận từ các nguồn này (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Cho thuốc ho, long đờm hoặc thuốc có codein, atropin vì ho mới",
+     "v": "w",
+     "n": "WHO 2013 mục 4.4 (tr. 91): thuốc có atropin, codein, cồn có thể gây hại; không dùng thuốc tiêu nhầy."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến vì ho mới và đêm còn thức",
+     "v": "h",
+     "n": "Không có chỉ định: không sốt, thở 42 l/p, không rút lõm, bú gần đủ (WHO 2013 Bảng 7; NICE NG9 mục 1.2.2). Tỉ lệ tai biến cụ thể: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nhiễm khuẩn hô hấp trên cấp do virus ở nhũ nhi nữ 5 tháng, ngày thứ 9, hồi phục chậm bình thường",
+     "Ho nhẹ mới xuất hiện ở giai đoạn muộn của cảm; chưa viêm phổi, chưa viêm tai giữa cấp, không tiểu phế quản, không nghĩ ho gà",
+     "Không dấu hiệu nguy hiểm, không mất nước, tăng cân",
+     "Mẹ lại dùng ibuprofen khi bé không sốt (50 mg, một lần) vì muốn bé dịu và ngủ",
+     "Mẹ thiếu ngủ nặng, vẫn muốn thuốc ngủ cho bé"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: so với lượt 1, hết sốt, bú gần đủ, tã đủ, ban ngày thông mũi; đêm còn thức và hai hôm nay ho nhẹ. Phải hỏi lại thuốc cụ thể (đêm khó nhất mẹ làm gì): mẹ đã dùng lại ibuprofen mà không kể.",
+     "Khám: nhịp thở 42 l/p (trước 44, WHO 2013 mục 4.1: dưới 50 l/p), không rút lõm, ran ngáy thưa giảm sau hút mũi, màng nhĩ không phồng, cân tăng 100 g, bú liên tục 10 phút sau hút mũi. Cận lâm sàng không làm được và không cần (NICE NG9 mục 1.3.6–1.3.7).",
+     "Hồi phục chậm bình thường: cảm lạnh có thể kéo dài tới 14 ngày (WHO 2013 mục 4.4); thất bại là thở ≥ 50 l/p, rút lõm, bú kém, li bì, sốt lại (WHO 2013 Bảng 7; NICE NG9 mục 1.2.2): bé không có dấu hiệu nào.",
+     "Ho mới ở ngày 7–9 không kèm thở nhanh hay rút lõm không phải viêm phổi (WHO 2013 Bảng 7); viêm tai giữa là biến chứng gần của viêm mũi họng nên soi lại tai (QĐ 5643 Viêm mũi họng cấp tính mục 5.2); ho gà chỉ đánh giá khi ho từ 14 ngày (WHO 2013 mục 4.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh, duy trì hút mũi, nước muối trước cữ bú; không thuốc ho, long đờm (WHO 2013 mục 4.4); amoxicillin theo QĐ 5643 chấm chấp nhận (sổ mâu thuẫn).",
+     "Ibuprofen đêm hôm kia 50 mg (≈ 7,5 mg/kg) nằm trong 5–10 mg/kg (WHO 2013 mục 8.7.1) nên không gây hại, nhưng bé không sốt, không khó chịu vì sốt nên không có chỉ định (NICE NG143 mục 1.6.4–1.6.5).",
+     "Thuốc ngủ: không có chỉ định, che dấu hiệu li bì (QĐ 708 mục 4.4), an thần là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2); giải quyết nhu cầu thật của mẹ là được ngủ (NICE NG143 mục 1.7.3). Tái khám khi ho đủ 14 ngày (WHO 2013 Bảng 7) hoặc sớm khi có dấu hiệu nguy hiểm (NICE NG9 mục 1.6.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý nhỏ mũi) và dụng cụ hút mũi",
+      "ham_luong": "Natri clorid 0,9%",
+      "lieu": "Nhỏ mỗi bên mũi rồi hút nhẹ",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Trước mỗi cữ bú và trước khi đặt bé ngủ",
+      "so_ngay": "Cho đến khi hết nghẹt mũi",
+      "ghi_chu": "WHO 2013 mục 4.4 (tr. 91); QĐ 5643 Viêm V.A mục 4.2, Viêm mũi xoang trẻ em mục 4.2.1. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (siro hoặc gói bột cho trẻ), chỉ dùng khi cần",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở (nồng độ ghi theo nhãn, không có trong tài liệu đã tải)",
+      "lieu": "67–100 mg/lần (10–15 mg/kg; 6,7 kg; AWaRe 2022: khoảng 100 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi sốt ≥ 39 °C và bé khó chịu; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt gây khó chịu; tối đa 4 lần/24 giờ, ≤ 60 mg/kg/24 giờ",
+      "ghi_chu": "WHO 2013 mục 10.3 (tr. 305); AWaRe 2022 Bảng 6.4; QĐ 708 (Viêm màng não mủ mục 4.2); NICE NG143 mục 1.6.4–1.6.6. Hiện bé không sốt: chỉ dự phòng."
+     }
+    ],
+    "dan_do": [
+     "Bé đang hồi phục chậm bình thường: hết sốt, bú hơn, nghẹt mũi đỡ. Ho nhẹ và khụt khịt có thể còn đến khoảng 14 ngày kể từ lúc bắt đầu bệnh (WHO 2013 mục 4.4).",
+     "Tiếp tục nhỏ nước muối sinh lý và hút mũi trước mỗi cữ bú và trước khi đặt bé ngủ; mẹ làm rất tốt.",
+     "Không cho ibuprofen hay thuốc hạ sốt khi bé không sốt; khóc quấy không phải lý do cho thuốc. Cảm ơn mẹ đã kể: từ nay có gì lo thì gọi hoặc đến hỏi trước khi cho thuốc.",
+     "Không cho thuốc ngủ, siro an thần, thuốc ho. Mẹ cần ngủ: tiếp tục bố mẹ chia ca đêm, mẹ ngủ khi bé ngủ ban ngày, nhờ mẹ chồng ra giúp; nếu mẹ thấy không chịu nổi, đến gặp bác sĩ sớm (NICE NG143 mục 1.7.3).",
+     "Tự đếm nhịp thở khi bé nằm yên: từ 50 lần/phút là thở nhanh (WHO 2013 mục 4.1; QĐ 708 mục 3.1).",
+     "Đưa bé đến ngay nếu thở nhanh, rút lõm ngực, rên, thở rít, bú dưới nửa lượng thường ngày hoặc không có tã ướt 12 giờ, nôn hết mọi thứ, li bì, tím, ngưng thở, co giật, sốt trở lại từ 5 ngày (NICE NG9 mục 1.6.1; NICE NG143 mục 1.7.3; WHO 2024).",
+     "Tái khám khi ho đủ 14 ngày nếu còn ho (WHO 2013 Bảng 7)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé không nhập viện, không dùng kháng sinh. Ngày thứ 12 hết ho đêm, ban đêm bé thức 1–2 lần rồi ngủ lại; ngày thứ 14 mẹ đưa bé quay lại như hẹn: không ho, thở 38 l/p, cân 6,9 kg, phổi sạch, màng nhĩ bình thường. Mẹ ngưng ibuprofen khi bé không sốt, biết hút mũi, đếm nhịp thở lúc bé nằm yên và nhớ các dấu hiệu phải quay lại. Bố chia ca đêm, mẹ chồng ra giúp cuối tuần, chị Như ngủ được 5–6 tiếng mỗi đêm và không còn đòi thuốc ngủ; chị nhận lời hẹn nói chuyện thêm nếu mệt trở lại.",
+ "nhieu": [
+  "Giấu tiền sử: mẹ không kể việc tự cho ibuprofen (vượt liều, ba ngày) vì sợ bị mắng; thuốc hạ sốt che sốt nên nhiệt độ lúc khám 37,3 °C không còn giá trị (NICE NG143 mục 1.4.8). Chỉ lộ khi hỏi cụ thể tên thuốc, liều, lần cuối, hoặc hỏi nhẹ nhàng; lượt 2 mẹ lại giấu lần cho ibuprofen đêm hôm kia.",
+  "Lý do thật muốn thuốc ngủ: mẹ thiếu ngủ nhiều tuần, đã thấy trên mạng người cho bé uống siro ngủ; mẹ không tự nói vì ngại bị coi là mẹ lười. Lộ khi hỏi mẹ ngủ nghỉ ra sao, ai chăm đêm, hoặc 'mẹ mong gì hôm nay'.",
+  "Không có xét nghiệm nào: không cần ở ca này; quyết định bằng hỏi, khám, đếm nhịp thở, quan sát cữ bú và hẹn có mốc."
+ ],
+ "bai_hoc_bien": [
+  "Nhiễm khuẩn hô hấp trên không điển hình ở nhũ nhi: ít ho, không sốt lúc khám, biểu hiện chính là quấy đêm, bú dở do nghẹt mũi; quan sát cữ bú trước và sau hút mũi cho thấy nguyên nhân (QĐ 5643 Viêm V.A mục 3.1.1.1).",
+  "Hỏi thuốc phải hỏi cụ thể từng loại (hạ sốt, giảm đau), tên, liều, số lần, lần cuối; xin xem chai thuốc; hỏi nhẹ nhàng, không trách. Ibuprofen cho bé > 3 tháng được phép, 5–10 mg/kg mỗi 6–8 giờ, tối đa 40 mg/kg/ngày (WHO 2013 mục 8.7.1; trần ngày: QĐ 3312/2015, Tay chân miệng mục 4.2.2.1); mẹ cho khoảng 15 mg/kg/lần.",
+  "Đã dùng thuốc hạ sốt thì nhiệt độ lúc khám không còn phân biệt được nặng nhẹ; dựa vào dáng vẻ, bú, tã ướt, nhịp thở (NICE NG143 mục 1.4.8, 1.2.7).",
+  "Lý do thật nằm sau lời xin thuốc: mẹ kiệt sức. Hỏi mẹ ngủ nghỉ, đồng cảm, bàn chia ca; từ chối thuốc ngủ cho nhũ nhi bằng lý do cụ thể (che dấu hiệu li bì; an thần là yếu tố nguy cơ ngưng thở khi ngủ).",
+  "Đỡ một phần: phân biệt hồi phục chậm bình thường (hết sốt, bú hơn, tăng cân, thở dưới 50 l/p, ho nhẹ ở giai đoạn muộn) với thất bại điều trị (thở ≥ 50 l/p, rút lõm, bú kém, sốt lại, li bì); mốc 14 ngày cho ho (WHO 2013 mục 4.4).",
+  "Không có xét nghiệm: bài học là đếm nhịp thở đúng cách (1 phút, nằm yên), quan sát, và dặn dấu hiệu quay lại cụ thể."
+ ],
+ "diem_nho": [
+  "Cảm lạnh virus ở trẻ: tự giới hạn, không kháng sinh, đa số hết trong 14 ngày; không dùng thuốc có atropin, codein, cồn, thuốc tiêu nhầy, thuốc nhỏ mũi có hoạt chất; tái khám sau 5 ngày nếu chưa đỡ (WHO 2013 mục 4.4, Bảng 7).",
+  "Ngưỡng thở nhanh: dưới 2 tháng ≥ 60, 2–11 tháng ≥ 50, 1–5 tuổi ≥ 40 l/p; đếm đủ 1 phút khi trẻ nằm yên (WHO 2013 mục 4.1; QĐ 708 mục 3.1). NICE NG143 mục 1.2.22: > 60 l/p ở 0–5 tháng.",
+  "Ibuprofen: chỉ > 3 tháng, 5–10 mg/kg mỗi 6–8 giờ, tối đa 40 mg/kg/ngày; 6–<10 kg 50 mg mỗi 8 giờ (WHO 2013 mục 8.7.1; trần 40 mg/kg/ngày: QĐ 3312/2015, Tay chân miệng mục 4.2.2.1; AWaRe 2022 Bảng 6.4). Paracetamol 10–15 mg/kg mỗi 6 giờ, từ 2 tháng, sốt ≥ 39 °C và khó chịu (WHO 2013 mục 10.3). Không dùng hai thuốc cùng lúc (NICE NG143 mục 1.6.6).",
+  "Dấu hiệu cần cứu giúp ở nhũ nhi: rút lõm, phập phồng cánh mũi, rên, bú 50–75% hoặc không tã ướt 12 giờ, ngưng thở, tím, chỉ tỉnh khi kích thích kéo dài (NICE NG9 mục 1.6.1); không bú được, nôn hết, co giật, li bì, thở rít (WHO 2024 chú thích 2).",
+  "Viêm tai giữa cấp: đau tai, sốt, màng nhĩ đỏ, phồng, chảy mủ (QĐ 5643 Viêm tai giữa cấp tính trẻ em mục 3.1.1); AAP 2013 chỉ áp dụng 6 tháng–12 tuổi (KAS 1A–1C). Màng nhĩ xám đục, hơi lõm gặp trong viêm V.A (QĐ 5643 Viêm V.A mục 3.1.1.1).",
+  "Thuốc an thần, kháng histamin cho nhũ nhi cảm lạnh: không có chỉ định trong tài liệu đã tải; thận trọng dưới 2 tuổi (QĐ 5643 Viêm mũi xoang trẻ em mục 4.2.1); an thần là yếu tố nguy cơ ngưng thở khi ngủ (QĐ 5643 Ngủ ngáy mục 2.2); che dấu hiệu li bì (QĐ 708 mục 4.4)."
+ ],
+ "nguon": [
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.1 (tr. 76), Bảng 7 (tr. 81), 4.4 (tr. 90–91), 8.7.1 (tr. 250–251), 10.3 (tr. 305), Annex 2 (tr. 364, ibuprofen)",
+  "QĐ 708 – Bộ Y tế, QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm phổi cộng đồng ở trẻ em (mục 3.1, 3.2, 4.2–4.4); Viêm màng não mủ (mục 4.2, paracetamol ≤ 60 mg/kg/ngày)",
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm mũi họng cấp tính (mục 2, 3.1.2, 4.1, 4.3.1, 5.1, 5.2); Viêm V.A cấp và mạn tính (mục 3.1.1.1, 4.1, 4.2); Viêm mũi xoang trẻ em (mục 4.2.1); Viêm tai giữa cấp tính trẻ em (mục 3.1.1, 3.2); Ngủ ngáy (mục 2.2)",
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Viêm phổi do vi khuẩn ở trẻ em (mục 2.2: hạ sốt khi ≥ 38,5 °C, paracetamol 10–15 mg/kg) · Tay chân miệng mục 4.2.2.1 (ibuprofen tối đa 40 mg/kg/ngày – trưởng nhóm bổ sung)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: khuyến cáo 1 và chú thích dấu hiệu nguy hiểm",
+  "NICE NG143 – Fever in under 5s (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.1.3, 1.1.5, 1.2.7, 1.2.13, 1.2.15 (Bảng 1), 1.2.22, 1.4.8, 1.6.2–1.6.6, 1.7.2–1.7.3",
+  "NICE NG9 – Bronchiolitis in children (2015, bản 2026) – TL-0260 – ĐÃ ĐỌC: mục 1.1.1–1.1.4, 1.2.1–1.2.2, 1.3.6–1.3.7, 1.4.7, 1.6.1",
+  "AAP 2013 – AAP/AAFP Diagnosis and management of acute otitis media – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C (phạm vi 6 tháng–12 tuổi)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Pharyngitis, Bảng 6.4 (ibuprofen, paracetamol theo cân nặng, tr. 49–50) và sơ đồ điều trị trẻ em (amoxicillin 80–90 mg/kg/ngày)",
+  "KHÔNG CÓ trong tài liệu đã tải: nồng độ siro chuẩn ở Việt Nam; dấu hiệu tác dụng phụ ibuprofen ở nhũ nhi; thời lượng ngủ và cách chia ca cho nhũ nhi; an toàn giấc ngủ (tư thế nằm); khoảng cách tái khám sau ngày 14."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (28/11/2026). Đặc tả sổ cái khớp: 2 lượt; nhũ nhi nữ 5 tháng; không điển hình; không bẫy; đỡ một phần; giấu tiền sử (ibuprofen tự mua, lượt 2 lại dùng); không có xét nghiệm nào; khởi phát sau buổi ngồi sân bóng; NSAID tự mua; lý do thật muốn thuốc ngủ; kết cục ổn định.",
+  "Tài liệu đã đọc: TL-0250 (WHO 2013 mục 4.1, 4.4, 8.7.1, 10.3, Bảng 6–7, Annex 2), TL-0015 (QĐ 708 mục 3.1, 4.2–4.4; Viêm màng não mủ mục 4.2), TL-0130 (QĐ 5643: Viêm mũi họng cấp tính, Viêm V.A, Viêm mũi xoang trẻ em, Viêm tai giữa cấp tính trẻ em, Ngủ ngáy), TL-0037 (QĐ 3312 mục 2.2), TL-0245, TL-0262, TL-0260, TL-0271, TL-0018 (Bảng 6.4).",
+  "Sổ mâu thuẫn đã tra và áp dụng, không thêm mục mới: kháng sinh viêm mũi họng nhũ nhi (c không kháng sinh, a amoxicillin); hạ sốt theo mức khó chịu hay ngưỡng nhiệt độ; thời gian cảm lạnh 3–5 ngày so với 14 ngày; ngưỡng thở nhanh nhũ nhi; thuốc nhỏ mũi có hoạt chất; thuốc an thần ngoại trú chấm w (suy luận, ghi rõ trong ca).",
+  "Chỗ thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): nồng độ siro chuẩn, tác dụng phụ ibuprofen ở nhũ nhi, ngủ nhũ nhi bình thường, an toàn giấc ngủ, khoảng cách tái khám sau ngày 14. Không dùng web.",
+  "28/11/2026 trưởng nhóm: trần ibuprofen 40 mg/kg/ngày không tìm thấy trong bản chữ WHO 2013 (chỉ có 5–10 mg/kg mỗi 6–8 giờ) → dẫn lại theo QĐ 3312/2015, Tay chân miệng mục 4.2.2.1."
+ ]
+}
