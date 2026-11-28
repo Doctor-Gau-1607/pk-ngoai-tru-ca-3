@@ -1,0 +1,654 @@
+{
+ "ma_ca": "NH-0299",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Ngọc Thảo",
+  "tuoi": 11,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 29,
+  "chieu_cao": 140,
+  "xung_ho": "Bé xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ xưng 'em', gọi bác sĩ là 'bác sĩ', hay nói 'cháu' khi kể về bé.",
+  "tinh_cach": "Thảo hiền, ít nói, quen chịu đựng, nghĩ nhức tai chút xíu là chuyện nhỏ nên không kể. Mẹ (chị Hạnh, 37 tuổi, buôn rau ngoài chợ, chồng đi làm công trình) tần tiện, lo tiền, nghe nói 'xét nghiệm' là hỏi giá trước.",
+  "kieu_nhieu": "Mẹ không đủ tiền làm xét nghiệm: chỉ mang khoảng 300.000 đồng, còn phải mua thuốc. Hễ bác sĩ nhắc xét nghiệm hay chụp phim thì hỏi 'bao nhiêu tiền', xin 'khám kỹ thôi, cái nào thật cần mới làm'. Mẹ không từ chối điều trị, chỉ từ chối thứ không đổi được quyết định; bác sĩ phải xếp ưu tiên và giải thích rõ.",
+  "nguoi_nha": "Mẹ bé (chị Hạnh) đi cùng; mẹ kể phần lớn, bé chỉ trả lời ngắn khi được hỏi thẳng (nguoi_noi = nguoi_nha; hỏi thẳng Thảo về tai thì nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e8b590",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#8fb8d8",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9a47c",
+    "toc": "#2b1e17",
+    "kieuToc": "buoc",
+    "ao": "#c9856b",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn: vẫn nghẹt mũi, nói nghe hơi lùng bùng",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 11 tuổi, 29 kg, mẹ đưa đến tái khám theo hẹn của trạm y tế (hẹn sau 5 ngày) vì còn nghẹt mũi. Sinh hiệu: nhiệt 37,3 °C, mạch 88 l/p, nhịp thở 20 l/p, HA 100/65 mmHg, SpO₂ 99%. Bé tỉnh, nói chuyện bình thường, không quấy khóc.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Thảo tỉnh, không sốt, uống ăn được, không chảy mủ tai, không sưng đau sau tai, không dấu màng não: không thuộc nhóm nhiễm khuẩn toàn thân hay biến chứng cần vào viện (NICE NG91 2018 khuyến cáo 1.1.14; WHO 2013 mục 6.7.2: điều trị ngoại trú). Nhập viện truyền thuốc làm mẹ nghỉ bán ở chợ nhiều ngày, hết số tiền ít ỏi mang theo mà không thêm lợi ích so với amoxicillin uống tại nhà; bé còn bị cắt ngang việc học.",
+    "chuyen_tuyen": "Chuyển Thảo lên tuyến trên ngay lượt này là quá tay: màng nhĩ phồng, chưa thủng, xương chũm sạch, bé không sốt; viêm tai giữa cấp không biến chứng điều trị được ngoại trú với amoxicillin (AAP 2013 Table 4, Table 5; WHO 2013 mục 6.7.2). Mẹ phải đi xe xa, chờ hàng giờ và trả phí khám, có thể bị chỉ định chụp CT tốn kém ngay lần đầu, trong khi kháng sinh uống mới là điều bé cần. Chuyển tuyến chỉ khi có biến chứng như viêm xương chũm hoặc viêm màng não (NICE NG91 2018 khuyến cáo 1.1.14)."
+   },
+   "loi_mo": "Bác sĩ ơi, trạm hẹn em đưa cháu lại khám lần nữa. Cháu vẫn nghẹt mũi, nghe nói chuyện hơi lùng bùng. Bác sĩ khám kỹ giùm em, em đem ít tiền lắm.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "100/65",
+    "nhiet": "37,3",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn của trạm y tế (hẹn khám lại sau 5 ngày nếu còn ngạt mũi). Bé còn ngạt mũi, sổ mũi đục; mẹ chỉ hỏi chuyện mũi, không nghĩ tới tai.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, lý do thật"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mười ngày trước cả nhà đi xe khách 9 giờ về quê dự giỗ, bé ngồi sát cửa gió, ngủ gục dưới máy lạnh. Tối hôm đó bắt đầu sổ mũi, ngạt mũi, hắt hơi; không sốt cao, không ho nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau đi xa ngồi lâu"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Mẹ mua lọ naphazolin 0,05% ở tiệm thuốc, nhỏ mũi cho bé 3–4 lần/ngày đã khoảng 8 ngày. Nhỏ xong thông mũi 2–3 giờ rồi ngạt lại, có hôm ngạt nặng hơn lúc chưa nhỏ nên mẹ nhỏ thêm. Trạm y tế dặn rửa mũi nước muối nhưng mẹ ít rửa. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi dùng kéo dài"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Ba ngày nay bé thấy tai phải đầy, nghe lùng bùng, có tiếng ù nhẹ. Hỏi thẳng thì bé nói: 'hơi nhức bên trong tai phải, nhất là buổi tối', mức 3/10; tối qua thức giấc một lần vì nhức tai. Bé không tự kể vì nghĩ chuyện nhỏ. Tai trái bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai: đau nhẹ kéo dài trên 48 giờ, đầy tai, nghe kém"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Không sốt (đo 37,0–37,3 °C), không nôn, ăn ngủ gần bình thường, vẫn đi học nhưng phải ngồi bàn đầu để nghe cô giảng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, toàn trạng"
+    },
+    {
+     "id": "chay_tai",
+     "noi_dung": "Không chảy mủ, không chảy máu tai. Bé không ngoáy tai, không bơi, không dính nước vào tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chảy dịch tai (loại trừ thủng màng nhĩ, viêm ống tai ngoài)"
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Không sưng hay đau sau tai, không nhức đầu, không nôn, không chóng mặt, không cứng cổ, không sợ ánh sáng, mắt miệng cân đối, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng (xương chũm, màng não, liệt mặt)"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Một tháng qua bé chưa uống kháng sinh nào. Không dị ứng thuốc. Chưa từng bị viêm tai, chưa từng đặt ống tai, chưa phẫu thuật tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh 30 ngày qua, dị ứng, tiền sử tai"
+    },
+    {
+     "id": "tai_kham",
+     "noi_dung": "Nhà mẹ cách phòng khám khoảng 3 km, mẹ có điện thoại. Cả nhà ở lại nhà bà ngoại gần đây đến hết tuần nên đưa bé quay lại được trong 2–3 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám trong 72 giờ (AAP 2013 Table 4 chú thích b)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mẹ chỉ mang khoảng 300.000 đồng, còn phải mua thuốc. Nghe nhắc xét nghiệm thì mẹ hỏi giá trước, xin chỉ làm cái nào thật cần. Bé có thẻ bảo hiểm y tế học sinh nhưng mẹ không rõ có dùng được cho xét nghiệm hay không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Rào cản chi phí xét nghiệm",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai ngoài sạch, không chảy mủ, ấn bình tai và kéo vành tai không đau. Màng nhĩ đỏ lan tỏa, phồng rõ ra ngoài, mất tam giác sáng, không thấy cán búa, kém di động khi bơm hơi; chưa thủng. Tai trái: màng nhĩ xám trong, tam giác sáng rõ. Mũi: niêm mạc phù đỏ sẫm, dịch nhầy đục ít ở khe giữa hai bên. Họng đỏ nhẹ, amidan độ I, không giả mạc.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Rãnh sau tai hai bên cân đối, da sau tai bình thường. Ấn xương chũm phải không đau. Hạch dưới hàm vài hạch nhỏ, di động, không đau. Cổ mềm.",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Weber lệch về tai phải. Rinne tai phải âm tính (dẫn truyền khí kém hơn dẫn truyền xương), tai trái dương tính: nghe kém dẫn truyền tai phải.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt. Cổ mềm, Kernig và Brudzinski âm tính, không sợ ánh sáng. Mặt cân đối, mắt nhắm kín hai bên, không rung giật nhãn cầu.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi được, niêm mạc ẩm, không vẻ nhiễm trùng. Thể trạng hơi gầy so với tuổi (29 kg, 140 cm).",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không co lõm lồng ngực, rì rào phế nang rõ, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực."
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 8,9 G/L · Neutrophil 58% · Hb 126 g/L · TC 290 G/L",
+     "n": "Không đổi quyết định: chẩn đoán viêm tai giữa cấp dựa vào soi tai (AAP 2013 KAS 1A–1C), vi sinh và xét nghiệm máu không cần trừ khi nghi biến chứng (AWaRe 2022 mục 5, tr. 37–38). Tiết kiệm 50.000 đồng."
+    },
+    "crp": {
+     "r": "6 mg/L",
+     "n": "Không đổi quyết định (như công thức máu); AWaRe 2022 mục 5, tr. 37–38: xét nghiệm không cần trừ khi nghi biến chứng."
+    },
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai phải: nhĩ đồ dạng B (đường phẳng), thể tích ống tai bình thường. Tai trái: dạng A.",
+     "n": "Chấp nhận, không bắt buộc: màng nhĩ phồng rõ đã đủ chẩn đoán (AAP 2013 KAS 1A); nhĩ lượng chỉ giúp xác nhận có dịch tai giữa khi soi không chắc (KAS 1C). Tốn 120.000 đồng trong khi mẹ chỉ mang 300.000 đồng."
+    },
+    "xq_schuller": {
+     "v": "a",
+     "r": "Hai bên thông bào chũm dạng tổ ong rõ, vách ngăn mỏng, đối xứng; chưa có hình ảnh viêm xương chũm.",
+     "n": "Chấp nhận (QĐ 5643, Viêm tai giữa cấp mục 4.3.3, tr. 214: nên chụp khi đang dùng kháng sinh); không bắt buộc: AWaRe 2022 mục 5, tr. 37–38 chỉ chụp khi nghi biến chứng, chưa có dấu sau tai. Xem sổ mâu thuẫn."
+    },
+    "cho_dich_nao_tuy": {
+     "n": "Không có dấu màng não (cổ mềm, Kernig và Brudzinski âm tính): không chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải, màng nhĩ chưa thủng, thể nặng theo tiêu chuẩn đau trên 48 giờ; khởi phát sau viêm mũi họng, có dùng thuốc nhỏ mũi co mạch kéo dài",
+     "ok": 1,
+     "n": "Khởi phát cấp sau viêm mũi, đầy tai, nghe kém dẫn truyền (Rinne âm tính, Weber lệch phải; QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211), màng nhĩ đỏ, phồng rõ (AAP 2013 KAS 1A; WHO 2013 mục 6.7.2). Không điển hình: không sốt, đau nhẹ nên bé không kể. Đau từ 48 giờ trở lên xếp thể nặng (AAP 2013 KAS 3A)."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Chưa có: không sốt, không sưng nề đỏ sau tai, không đẩy vành tai, ấn xương chũm không đau (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1: sốt cao và sưng đau sau tai). Viêm xương chũm luôn kèm viêm tai giữa cấp nên phải kiểm lại ở lần sau."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Không nhức đầu, nôn, cứng cổ; Kernig và Brudzinski âm tính (WHO 2013 mục 6.3.1, tr. 167). Là biến chứng của viêm tai giữa (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214) nên vẫn dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm tai giữa ứ dịch (không có dấu nhiễm trùng cấp)",
+     "n": "Màng nhĩ phồng đỏ kèm đau là dấu nhiễm trùng cấp; ứ dịch đơn thuần thì màng nhĩ đục, kém di động, không đỏ phồng, không đau (AAP 2013 KAS 1A–1C)."
+    },
+    {
+     "t": "Viêm ống tai ngoài",
+     "n": "Ống tai sạch, ấn bình tai và kéo vành tai không đau (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212); nhìn thấy màng nhĩ rõ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Amoxicillin 80–90 mg/kg/ngày (29 kg: 2.320–2.610 mg/ngày, chọn 1.250 mg × 2 lần/ngày) uống ngay, 10 ngày; HOẶC theo dõi chờ 48–72 giờ chỉ giảm đau, có hẹn tái khám chắc chắn, kê kháng sinh nếu không đỡ",
+     "v": "c",
+     "n": "Hai cách đều đúng (nguồn khác nhau, xem sổ mâu thuẫn). Kháng sinh ngay: AAP 2013 KAS 3A (khuyến cáo mạnh) xếp đau từ 48 giờ trở lên là nặng; amoxicillin 80–90 mg/kg/ngày chia 2 lần (KAS 4A, Table 5, tr. e983); thể nặng 10 ngày (AAP 2013 tr. e985; Italian Consensus 2025 khuyến cáo 4.1 cho 7 hoặc 10 ngày). Theo dõi chờ: Italian Consensus 2025 khuyến cáo 2.2 và 1.4 cho trẻ trên 24 tháng, kể cả viêm một bên nặng khi không có triệu chứng toàn thân, chỉ khi theo dõi được trong 72 giờ (khuyến cáo 1.5); NICE NG91 2018 khuyến cáo 1.1.8 cho không kê hoặc kê dự phòng. Thảo tái khám được (3 km, có điện thoại): chọn cách nào cũng cần hẹn 48–72 giờ (AAP 2013 Table 4 chú thích b). Ca lượt 2 tiếp từ nhánh gia đình chọn amoxicillin ngay."
+    },
+    {
+     "t": "Amoxicillin liều thấp hơn: 500 mg × 3 lần/ngày hoặc 1 g × 2 lần/ngày, 5–7 ngày",
+     "v": "a",
+     "n": "NICE NG91 2018 Table 1 (tr. 9): 5–17 tuổi 500 mg × 3 lần/ngày, 5–7 ngày; AWaRe 2022 mục 5 (tr. 39): ≥ 20 kg 500 mg mỗi 8 giờ hoặc 1 g mỗi 12 giờ, 5 ngày. Chấp nhận, không phải đáp án chính (xem sổ mâu thuẫn mục liều amoxicillin)."
+    },
+    {
+     "t": "Giảm đau: paracetamol 10–15 mg/kg/lần (29 kg: 300 mg) mỗi 6 giờ khi nhức tai; có thể thay bằng ibuprofen 200 mg mỗi 8 giờ, dùng một thuốc là đủ",
+     "v": "c",
+     "n": "Đánh giá và điều trị đau là bắt buộc (AAP 2013 KAS 2, khuyến cáo mạnh); NICE NG91 2018 khuyến cáo 1.1.4. Liều theo cân nặng: AWaRe 2022 mục 5 (tr. 39): paracetamol 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; ibuprofen 5–10 mg/kg, 20–< 30 kg 200 mg mỗi 8 giờ."
+    },
+    {
+     "t": "Ngưng hẳn thuốc nhỏ mũi naphazolin, thay bằng rửa mũi nước muối sinh lý, xì mũi nhẹ từng bên",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1 (tr. 112): chỉ xịt co mạch thời gian ngắn (ví dụ 3 ngày), xịt kéo dài có thể làm bệnh nặng hơn; EPOS 2020 mục 6.1.10.1: dùng kéo dài gây viêm mũi do thuốc và ngạt nặng hơn khi ngưng; NICE NG91 2018 khuyến cáo 1.1.6: thuốc co mạch và kháng histamin không giúp triệu chứng viêm tai giữa. QĐ 5643 Ngạt mũi mục 4.1 (tr. 117) vẫn có rỏ mũi co mạch ngắn ngày. Dặn ngạt có thể nặng 1–2 ngày sau ngưng: ngưỡng chính xác không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không xét nghiệm máu, CRP; chọn nhĩ lượng hoặc X-quang xương chũm chỉ khi mẹ đồng ý trả tiền",
+     "v": "c",
+     "n": "Chẩn đoán lâm sàng bằng soi tai (AAP 2013 KAS 1A–1C); xét nghiệm và hình ảnh không cần trừ khi nghi biến chứng (AWaRe 2022 mục 5, tr. 37–38). Xếp ưu tiên theo ngân sách 300.000 đồng: khám kỹ + thuốc đủ; xét nghiệm nào không đổi được quyết định thì bỏ. QĐ 5643 mục 4.3.3 (tr. 214) chụp X-quang xương chũm thường quy: xem sổ mâu thuẫn, chấm a."
+    },
+    {
+     "t": "Hẹn tái khám sau 48–72 giờ dù đỡ hay không; đưa bé đến ngay nếu sốt, đau tăng, sưng đau sau tai, chảy mủ tai, nhức đầu, nôn, cứng cổ, li bì, co giật, méo miệng",
+     "v": "c",
+     "n": "Đánh giá lại khi nặng lên hoặc không đáp ứng trong 48–72 giờ (AAP 2013 KAS 4C, tr. e984; Table 4 chú thích b). NICE NG91 2018 khuyến cáo 1.1.12 và 1.1.14 (biến chứng mastoiditis, meningitis, liệt dây VII phải chuyển bệnh viện); WHO 2013 mục 6.7.1 (sưng đau sau tai), mục 6.3.1 (dấu màng não)."
+    },
+    {
+     "t": "Chích rạch màng nhĩ ngay tại phòng khám",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.1 (tr. 213): chỉ định khi màng nhĩ căng phồng, nghe kém, nhức nửa đầu; AAP 2013 Table 3 (tr. e973): thủ thuật cần kỹ năng, chỉ khi thất bại điều trị. Chấp nhận, không bắt buộc ở lượt đầu."
+    },
+    {
+     "t": "Kê thuốc co mạch hoặc kháng histamin uống 'để thông vòi tai'",
+     "v": "w",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.6 và tóm tắt bằng chứng (tr. 13): không giúp triệu chứng, thuốc co mạch tăng tác dụng phụ."
+    },
+    {
+     "t": "Bảo bé xì mũi thật mạnh, bịt cả hai lỗ mũi để 'thông tai'",
+     "v": "h",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 6 (tr. 214): tuyệt đối không xì mũi bằng cách bịt cả hai lỗ mũi vì đẩy dịch mũi vào tai giữa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải, màng nhĩ phồng chưa thủng, thể nặng theo tiêu chuẩn đau trên 48 giờ (AAP 2013 KAS 3A)",
+     "Không điển hình: không sốt, đau nhẹ 3/10, bé không tự kể; lý do đến khám là tái khám theo hẹn vì ngạt mũi",
+     "Nguyên nhân khởi phát: viêm mũi họng sau chuyến xe khách 9 giờ, nặng thêm vì nhỏ naphazolin kéo dài 8 ngày",
+     "Nghe kém dẫn truyền tai phải (Rinne âm tính, Weber lệch phải)",
+     "Chưa có biến chứng: không viêm xương chũm, không dấu màng não, không liệt mặt",
+     "Rào cản chi phí xét nghiệm: ngân sách khoảng 300.000 đồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: sau tái khám mũi nên hỏi triệu chứng tai (đau, đầy, nghe kém, chảy mủ), sốt, kháng sinh 30 ngày qua, thuốc tự dùng, dấu hiệu biến chứng. (2) Khám: soi hai tai, ấn xương chũm và rãnh sau tai, âm thoa, dấu màng não, mũi họng. (3) Cận lâm sàng: không cần để chẩn đoán. (4) Chẩn đoán và loại trừ biến chứng. (5) Xử trí, hẹn, dặn (AAP 2013 KAS 1A–1C, 2, 3A, 4A–4C).",
+     "Vì sao là viêm tai giữa cấp: chẩn đoán dựa vào màng nhĩ phồng rõ hoặc đỏ rực kèm khởi phát cấp (AAP 2013 KAS 1A–1B; WHO 2013 mục 6.7.2: màng nhĩ đỏ, viêm, phồng, đục). Thảo có màng nhĩ phải đỏ lan tỏa, phồng, kém di động, kèm đầy tai và nghe kém dẫn truyền (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Không điển hình ở chỗ không sốt, đau nhẹ, bé không kể: điển hình theo QĐ 5643 là đau nhiều, sốt cao (mục 3.1.1, tr. 210). Bài học: bé đến vì mũi nhưng vẫn phải soi tai.",
+     "Vì sao xếp thể nặng dù đau nhẹ: AAP 2013 KAS 3A và Table 4 chú thích b định nghĩa nặng là đau tai vừa hoặc nặng, hoặc đau từ 48 giờ trở lên, hoặc sốt từ 39 °C. Thảo đau 3 ngày. Theo thang Italian Consensus 2025 (Table 1) màng nhĩ phồng rõ tính 4 điểm, đủ ngưỡng nặng (từ 4 điểm). Đây là chỗ hai nguồn khác nhau (xem xu_tri).",
+     "Vì sao chưa phải viêm xương chũm: viêm xương chũm có sốt, chảy mủ tai, sưng nề viêm tấy đỏ sau tai, đẩy vành tai ra trước, dấu phập phều (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1). Thảo chưa có, xương chũm ấn không đau. Cơ sở không có siêu âm (và CT bị khóa theo): dựa vào lâm sàng; hình ảnh chỉ cần khi nghi biến chứng (AWaRe 2022 mục 5, tr. 37–38).",
+     "Vì sao chưa phải viêm màng não: không nhức đầu, nôn, cứng cổ, li bì, co giật; cổ mềm, Kernig và Brudzinski âm tính (WHO 2013 mục 6.3.1, tr. 167). Viêm màng não là biến chứng nội sọ của viêm tai giữa (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214).",
+     "Vì sao phải hỏi thuốc nhỏ mũi và giá: naphazolin 8 ngày là yếu tố làm ngạt mũi dai dẳng, vòi nhĩ không thông (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1, tr. 112; EPOS 2020 mục 6.1.10.1). Mẹ chỉ mang 300.000 đồng: nếu bác sĩ chỉ định hàng loạt xét nghiệm mẹ sẽ không mua đủ thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay hay chờ 48–72 giờ: hai nguồn khác nhau, đều đúng. AAP 2013 KAS 3A (mạnh): đau từ 48 giờ trở lên là nặng, kê kháng sinh. Italian Consensus 2025 khuyến cáo 2.2 (yếu): trẻ trên 24 tháng viêm một bên nặng không có triệu chứng toàn thân, không chảy tai thì nên theo dõi chờ; khuyến cáo 1.5 chỉ khi theo dõi được trong 72 giờ. NICE NG91 2018 khuyến cáo 1.1.8: cân nhắc không kê hoặc kê dự phòng vì kháng sinh ít đổi triệu chứng. Khác nhau do năm (2013 và 2025), cách định nghĩa nặng và cách cân lợi hại; Thảo theo dõi được nên chọn nào cũng hợp lý.",
+     "Thuốc và liều (nếu dùng kháng sinh): amoxicillin là đầu tay (AAP 2013 KAS 4A), 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian Consensus 2025 khuyến cáo 3.2). Thảo 29 kg: 2.320–2.610 mg/ngày, chọn 1.250 mg × 2 lần/ngày vì đi học khó uống buổi trưa (Italian 2025 khuyến cáo 3.3 khuyên 3 lần nhưng cho phép 2 lần để tăng tuân thủ). Thể nặng 10 ngày (AAP 2013 tr. e985); Italian 2025 khuyến cáo 4.1: 7 hoặc 10 ngày. Liều thấp hơn 500 mg × 3 lần/ngày, 5–7 ngày (NICE NG91 2018; AWaRe 2022) chấm chấp nhận. Liều tối đa mỗi ngày cho trẻ lớn: không có trong tài liệu đã tải.",
+     "Giảm đau bắt buộc (AAP 2013 KAS 2; NICE NG91 2018 khuyến cáo 1.1.4): paracetamol 300 mg mỗi 6 giờ hoặc ibuprofen 200 mg mỗi 8 giờ (AWaRe 2022 tr. 39).",
+     "Xếp ưu tiên chi phí: không chỉ định công thức máu, CRP vì không đổi quyết định (AWaRe 2022 mục 5, tr. 37–38). Nhĩ lượng và X-quang xương chũm chấp nhận được nhưng không bắt buộc; ngân sách ưu tiên mua thuốc. Giải thích rõ để mẹ yên tâm không phải 'làm thiếu'.",
+     "Ngưng naphazolin, rửa mũi nước muối: xem xu_tri; xì mũi từng bên (QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214).",
+     "Hẹn 48–72 giờ: là mốc đánh giá đáp ứng (AAP 2013 KAS 4C; tr. e984: sau 48–72 giờ phải đỡ). Nếu không đỡ hoặc nặng lên thì đổi kháng sinh hoặc tìm biến chứng; xương chũm luôn phải được khám lại (NICE NG91 2018 khuyến cáo 1.1.14)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin (dạng uống, chọn dạng bào chế có sẵn ở nhà thuốc)",
+      "ham_luong": "Tổng 2.500 mg/ngày (≈ 86 mg/kg/ngày)",
+      "lieu": "1.250 mg/lần × 2 lần/ngày (làm tròn theo dạng bào chế)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, cách nhau khoảng 12 giờ, trong bữa ăn",
+      "so_ngay": "10 ngày (7 ngày hoặc 5–7 ngày: chấp nhận theo Italian 2025 khuyến cáo 4.1 và NICE/AWaRe)",
+      "ghi_chu": "AAP 2013 KAS 4A, Table 5 (80–90 mg/kg/ngày chia 2 lần), tr. e985 (10 ngày thể nặng); Italian Consensus 2025 khuyến cáo 3.2, 4.1. Dạng bào chế sẵn có ở Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "300 mg/liều (10 mg/kg)",
+      "lieu": "1 liều khi nhức tai, cách nhau ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, nhất là buổi tối",
+      "so_ngay": "Trong 2–3 ngày đầu hoặc khi còn đau",
+      "ghi_chu": "Theo nguồn AWaRe 2022 mục 5, tr. 39 (10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg); NICE NG91 2018 khuyến cáo 1.1.4. Thay bằng ibuprofen 200 mg mỗi 8 giờ (AWaRe 2022), không dùng cả hai cùng lúc."
+     },
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "Dung dịch rửa mũi",
+      "lieu": "Rửa mỗi bên mũi, 3 lần/ngày",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Sáng, chiều, trước khi ngủ",
+      "so_ngay": "Đến khi hết ngạt",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1 (tr. 117): rửa mũi natri clorid 0,9%, xì nhẹ từng bên. Số lần/ngày: không có trong tài liệu đã tải, bác sĩ chọn."
+     },
+     {
+      "thuoc": "Naphazolin 0,05% nhỏ mũi (thuốc bé đang dùng)",
+      "ham_luong": "Không kê",
+      "lieu": "Ngưng",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng nữa",
+      "ghi_chu": "QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1 (tr. 112); EPOS 2020 mục 6.1.10.1: dùng kéo dài làm nặng; NICE NG91 2018 khuyến cáo 1.1.6."
+     }
+    ],
+    "dan_do": [
+     "Giải thích cho mẹ: ngạt mũi và nhức tai cùng một bệnh; không cần xét nghiệm máu, tiền dùng mua đủ thuốc (AWaRe 2022 mục 5, tr. 37–38).",
+     "Nếu chờ không kháng sinh: hẹn chắc 48–72 giờ và kê kháng sinh nếu không đỡ (AAP 2013 KAS 3D); nếu uống amoxicillin: uống đủ 10 ngày, cữ sáng và tối.",
+     "Quay lại sau 48–72 giờ dù đỡ hay không (AAP 2013 KAS 4C). Đến ngay nếu sốt, đau tăng, sưng đau hoặc đỏ sau tai, chảy mủ tai, nhức đầu, nôn, cứng cổ, li bì, co giật, méo miệng (NICE NG91 2018 khuyến cáo 1.1.12, 1.1.14; WHO 2013 mục 6.7.1).",
+     "Không nhỏ naphazolin nữa; ngạt mũi có thể nặng thêm 1–2 ngày rồi đỡ khi ngưng thuốc. Không xì mũi bịt cả hai lỗ (QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214). Tránh nước vào tai."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám theo hẹn sau 3 ngày. Bé đã uống amoxicillin đúng toa, ngưng nhỏ naphazolin, rửa mũi nước muối. Mẹ nói tai đỡ nhức hơn nhưng sáng nay bé kêu đau khi chải tóc phía sau tai phải. Sinh hiệu: nhiệt 37,9 °C, mạch 96 l/p, nhịp thở 20 l/p, HA 100/65 mmHg, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho Thảo về, đổi sang amoxicillin-clavulanate uống và hẹn tái khám 2–3 ngày là phác đồ của viêm tai giữa không biến chứng thất bại (AAP 2013 KAS 4C, Table 5); nhưng sau tai phải đã đầy, ấn đau, bé sốt lại 37,9 °C, X-quang thông bào chũm phải mờ vách. Nếu chờ thêm, ổ viêm có thể thành áp xe dưới màng xương, liệt dây VII hoặc lan vào sọ (QĐ 5643 Viêm xương chũm mục 5, tr. 197; WHO 2013 mục 6.7.1: không đáp ứng sau 48 giờ phải chuyển chuyên khoa phẫu thuật). Mẹ ngại tiền nên dễ không quay lại đúng hẹn, và khi quay lại đã nặng hơn nhiều, tốn kém hơn.",
+    "theo_doi": "Để Thảo ở nhà tiếp tục amoxicillin thêm vài ngày vì đau tai đã giảm là bỏ qua dấu hiệu mới: đau và đầy sau tai phải, sốt nhẹ lại sau khi đã hết sốt. Đau tai đỡ có thể che đi tổn thương xương chũm đang tiến triển; không có CT ở cơ sở nên không loại trừ được ở đây. NICE NG91 2018 khuyến cáo 1.1.7 và 1.1.14: nghi mastoiditis thì không theo dõi tại nhà, phải chuyển bệnh viện."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu đỡ nhức tai nhiều rồi, nhưng sáng nay chải đầu cháu kêu đau sau tai. Em sợ lắm mà em hết tiền rồi, bác sĩ coi cần làm gì thôi nha.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "100/65",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn sau 3 ngày uống thuốc. Mẹ thấy tai đỡ nhức nhưng bé kêu đau khi chải tóc phía sau tai phải.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, diễn tiến"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bé uống amoxicillin 1.250 mg mỗi sáng tối, đủ 6 cữ, không bỏ cữ, không nôn, đi ngoài bình thường. Đã ngưng naphazolin từ hôm khám trước; ngạt mũi nặng 1 ngày rồi đỡ. Rửa mũi nước muối ngày 3 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, đã ngưng thuốc nhỏ mũi"
+    },
+    {
+     "id": "dau_tai",
+     "noi_dung": "Nhức tai phải giảm từ 3/10 còn 1–2/10, ban đêm không thức giấc. Nhưng tai vẫn đầy, nghe lùng bùng như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần sau 72 giờ (AAP 2013 KAS 4C)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hôm trước hết hẳn sốt. Chiều qua đo 37,6 °C, sáng nay 37,9 °C; mẹ không để ý vì bé vẫn ăn chơi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt trở lại sau khi đã hết"
+    },
+    {
+     "id": "sau_tai",
+     "noi_dung": "Từ sáng qua mẹ thấy sau tai phải hơi đầy hơn tai trái, bé kêu đau khi chạm hoặc chải tóc vùng đó. Không chảy mủ, không chảy máu tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau, đầy sau tai: dấu gợi ý viêm xương chũm (QĐ 5643 Viêm xương chũm mục 3.1.1)"
+    },
+    {
+     "id": "bien_chung",
+     "noi_dung": "Không nhức đầu dữ dội, không nôn, không cứng cổ, không li bì, không co giật, không méo miệng, không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nội sọ (loại trừ viêm màng não)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Sau khi mua thuốc, mẹ còn khoảng 200.000 đồng. Mẹ hỏi có phải chụp CT không, tốn bao nhiêu, nghỉ bán rau có sao không. Bé có thẻ bảo hiểm y tế học sinh. Mẹ sẽ đi nếu bác sĩ nói thật sự cần, và nhờ bác sĩ chỉ chỗ đi, đi bằng gì.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Rào cản chi phí",
+     "nhieu": 1
+    },
+    {
+     "id": "di_chuyen",
+     "noi_dung": "Bệnh viện có khoa Tai Mũi Họng và CT cách khoảng 40 km; mẹ chở con bằng xe máy hoặc đi xe buýt, mất khoảng 1 giờ. Bà ngoại ở nhà giữ bé còn lại hai em nhỏ nếu cần.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai ngoài sạch, không chảy mủ, ấn bình tai không đau. Màng nhĩ vẫn đỏ, phồng nhẹ, mất mốc, chưa thủng. Tai trái bình thường. Mũi: niêm mạc phù, dịch nhầy ít hơn lượt trước. Họng đỏ nhẹ.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Sau tai phải: rãnh sau tai đầy hơn bên trái, da hồng nhạt, hơi nề; ấn vào xương chũm bé nhăn mặt kêu đau rõ. Vành tai chưa bị đẩy ra trước rõ rệt, chưa có dấu phập phều. Hạch sau tai phải nhỏ, đau nhẹ. Sau tai trái bình thường.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không sợ ánh sáng. Mặt cân đối, nhắm mắt kín hai bên, nếp mũi má đều. Không rung giật nhãn cầu.",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Rinne tai phải vẫn âm tính, Weber lệch phải: nghe kém dẫn truyền như lượt trước.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, niêm mạc ẩm, môi hồng. Không vẻ nhiễm trùng nặng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không co lõm lồng ngực, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực."
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p."
+    }
+   },
+   "cls": {
+    "xq_schuller": {
+     "v": "u",
+     "r": "Tai phải: thông bào chũm mờ đục hơn bên trái, vách thông bào dày, không rõ nét, chưa thấy hốc rỗng lớn. Tai trái: thông bào dạng tổ ong rõ.",
+     "n": "Hữu ích, không bắt buộc: QĐ 5643 Viêm xương chũm mục 3.1.2, 4.2 (tr. 195–196) mô tả vách thông bào dày không rõ; AWaRe 2022 mục 5 (tr. 37–38): hình ảnh khi nghi biến chứng. Chụp xong chuyển ngay, không chờ kết quả để quyết định; CT xương thái dương (xác định) làm ở tuyến trên vì cơ sở này không có CT."
+    },
+    "ctm": {
+     "n": "Không đổi quyết định chuyển tuyến; tuyến trên sẽ làm khi cần (QĐ 5643 Viêm xương chũm mục 3.1.2, tr. 195 liệt kê công thức máu). Bỏ ở đây để giữ tiền cho chuyến đi."
+    },
+    "crp": {
+     "n": "Không đổi quyết định chuyển tuyến (như công thức máu)."
+    },
+    "ct_xuong_thai_duong": {
+     "v": "e",
+     "r": "Tai phải: đọng dịch tai giữa và thông bào chũm, mất một số vách ngăn, chưa có ổ áp xe dưới màng xương, không thấy tổn thương nội sọ.",
+     "thay_the": "xq_schuller",
+     "n": "CT xương thái dương là chẩn đoán hình ảnh chuẩn (QĐ 5643 Viêm xương chũm mục 3.1.2, 4.2, tr. 195–196) nhưng cơ sở không có; thay thế cơ sở này bằng khám lâm sàng và X-quang Schuller, rồi chuyển tuyến để chụp CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai phải chưa đáp ứng đủ sau 72 giờ amoxicillin, nghi viêm xương chũm cấp giai đoạn sớm (chưa khẳng định được ở tuyến này)",
+     "ok": 1,
+     "n": "Đỡ một phần: đau tai giảm nhưng màng nhĩ vẫn đỏ phồng, sốt trở lại 37,9 °C, rãnh sau tai đầy, ấn xương chũm đau rõ. Sau 48–72 giờ kháng sinh phải đỡ rõ (AAP 2013 tr. e984). Viêm xương chũm luôn kèm viêm tai giữa cấp, biểu hiện sưng nề đỏ sau tai, đau, nghe kém (QĐ 5643 Viêm xương chũm mục 1, 3.1.1, tr. 195); chưa có đẩy vành tai và phập phều nên chưa kết luận chắc. X-quang vách thông bào dày không rõ (mục 3.1.2)."
+    },
+    {
+     "t": "Viêm xương chũm cấp đã rõ (áp xe dưới màng xương hoặc biến chứng nội sọ)",
+     "n": "Chưa: không đẩy vành tai ra trước, không phập phều, không sốt cao, không dấu thần kinh (QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195). Nhưng không loại trừ được nếu không có CT (cơ sở không có): đó là lý do chuyển."
+    },
+    {
+     "t": "Phản ứng xương chũm đơn thuần (không đáng ngại)",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 3.1.1 (tr. 211) coi ấn đau xương chũm là phản ứng không đáng ngại; Viêm xương chũm mục 3.2a (tr. 195): viêm tai giữa thường đơn giản thì đến cuối tuần đầu ấn xương chũm không còn đau. Thảo ngày thứ 6–7 vẫn đau rõ kèm sốt lại và đầy sau tai: không còn xếp phản ứng đơn thuần."
+    },
+    {
+     "t": "Viêm màng não",
+     "n": "Không nhức đầu, nôn, cứng cổ, li bì; Kernig và Brudzinski âm tính (WHO 2013 mục 6.3.1, tr. 167). Là biến chứng đe dọa nếu để chậm (QĐ 5643 Viêm xương chũm mục 5, tr. 197) nên dặn dấu hiệu khi đi đường."
+    },
+    {
+     "t": "Viêm ống tai ngoài hoặc viêm hạch sau tai",
+     "n": "Ống tai sạch, ấn nắp tai và kéo vành tai không đau, màng nhĩ vẫn phồng đỏ (QĐ 5643 Viêm xương chũm mục 3.2c, tr. 196)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển Thảo trong ngày lên bệnh viện có khoa Tai Mũi Họng và CT để chụp CT xương thái dương, điều trị kháng sinh phổ rộng và chuyên khoa quyết định chích rạch hoặc mổ",
+     "v": "c",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.14: viêm tai giữa kèm biến chứng mastoiditis phải chuyển bệnh viện; WHO 2013 mục 6.7.1 (tr. 182): mastoiditis cần kháng sinh tiêm, không đáp ứng sau 48 giờ chuyển chuyên khoa phẫu thuật; QĐ 5643 Viêm xương chũm mục 4.2, 4.3.1, 4.3.2 (tr. 196–197): khám, soi tai, X-quang hoặc CT, điều trị nội cephalosporin thế hệ 2, 3, mổ sào bào khi cần. Bàn giao bằng thư và gọi điện. CT không có ở cơ sở (khóa theo không có siêu âm)."
+    },
+    {
+     "t": "Viết thư chuyển: tuổi, cân nặng, ngày khởi phát, amoxicillin 1.250 mg × 2 lần/ngày từ hôm khám trước, sốt trở lại, dấu sau tai, kết quả X-quang; dặn mẹ mang thẻ bảo hiểm y tế và sổ",
+     "v": "c",
+     "n": "Bàn giao đủ thông tin (dữ kiện ca); NICE NG91 2018 khuyến cáo 1.1.7 yêu cầu cân nhắc kháng sinh đã dùng khi đánh giá lại. Thủ tục bảo hiểm y tế khi chuyển tuyến và mức chi trả: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau, hạ sốt: paracetamol 300 mg (10 mg/kg) mỗi 6 giờ khi đau hoặc sốt",
+     "v": "c",
+     "n": "AWaRe 2022 mục 5 (tr. 39): 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; WHO 2013 mục 6.7.1: dùng paracetamol khi sốt cao gây khó chịu."
+    },
+    {
+     "t": "Giải thích cho mẹ vì sao phải chuyển và xếp ưu tiên chi phí: CT là xét nghiệm duy nhất đổi được quyết định và chỉ làm ở tuyến trên; không làm công thức máu, CRP ở đây để khỏi làm hai lần; cho biết số tiền cần mang và đường đi",
+     "v": "c",
+     "n": "Giao tiếp; lý do: QĐ 5643 Viêm xương chũm mục 4.2 (tr. 196): CT xác định chẩn đoán; chi phí cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm trên đường đi và khi chờ: nhức đầu dữ dội, nôn, cứng cổ, li bì, co giật, méo miệng, sưng đẩy vành tai → gọi cấp cứu hoặc đến cấp cứu gần nhất",
+     "v": "c",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.14 (meningitis, intracranial abscess, facial nerve paralysis); WHO 2013 mục 6.3.1 (tr. 167) và mục 6.7.1 (biến chứng màng não, áp xe não); QĐ 5643 Viêm xương chũm mục 5 (tr. 197: liệt VII, viêm màng não, áp xe não)."
+    },
+    {
+     "t": "Tiêm ceftriaxone 50 mg/kg (29 kg: 1.450 mg) bắp hoặc tĩnh mạch một liều trước khi chuyển nếu có sẵn",
+     "v": "a",
+     "n": "AAP 2013 Table 5 (tr. e983): ceftriaxone 50 mg IM hoặc IV mỗi ngày cho thất bại điều trị; WHO 2013 mục 6.7.1 (tr. 182): ceftriaxone cho mastoiditis. Chấp nhận, không bắt buộc: không được làm chậm chuyển; liều tối đa và tồn kho cơ sở: không có trong tài liệu đã tải. Chuyển tuyến vẫn là việc chính."
+    },
+    {
+     "t": "Chụp X-quang Schuller trước khi chuyển (nếu mẹ đồng ý trả tiền và không làm chậm)",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.3 (tr. 214) và Viêm xương chũm mục 3.1.2 (tr. 195); không thay thế được CT; tuyến trên sẽ chụp lại. Xem sổ mâu thuẫn: nghi biến chứng thì chụp hoặc chuyển đều đúng."
+    },
+    {
+     "t": "Đổi sang amoxicillin-clavulanate uống 90 mg/kg/ngày hoặc tiếp tục amoxicillin, hẹn tái khám 2–3 ngày, không chuyển",
+     "v": "w",
+     "n": "AAP 2013 KAS 4C và Table 5 (tr. e983–e984) là xử trí thất bại ở viêm tai giữa chưa biến chứng; ở đây có đau và đầy sau tai, sốt lại, X-quang nghi ngờ: NICE NG91 2018 khuyến cáo 1.1.14 và WHO 2013 mục 6.7.1 yêu cầu chuyển. Không chấm chấp nhận được vì cơ sở không có CT để loại trừ."
+    },
+    {
+     "t": "Hoãn chuyển tuyến vì mẹ hết tiền, hẹn xem thêm 1 tuần",
+     "v": "h",
+     "n": "Không điều trị kịp thời, viêm xương chũm dẫn đến cốt tủy viêm xương thái dương, liệt VII, viêm màng não, áp xe não, có thể tử vong (QĐ 5643 Viêm xương chũm mục 5, tr. 197); WHO 2013 mục 6.7.1: không điều trị có thể dẫn tới viêm màng não và áp xe não."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai phải, đỡ một phần sau 72 giờ amoxicillin: còn màng nhĩ đỏ phồng, sốt trở lại 37,9 °C",
+     "Nghi viêm xương chũm cấp giai đoạn sớm: đau và đầy sau tai phải, ấn xương chũm đau rõ, X-quang thông bào chũm phải mờ vách (chưa khẳng định)",
+     "Chưa dấu hiệu nội sọ: không viêm màng não, không liệt VII",
+     "Cơ sở không có CT: không xác định được tại chỗ, phải chuyển tuyến để chụp CT xương thái dương",
+     "Rào cản chi phí: mẹ còn khoảng 200.000 đồng",
+     "Đã ngưng naphazolin và rửa mũi: đúng hướng của lượt 1"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: đáp ứng sau 72 giờ (đau, sốt, nghe), tuân thủ thuốc, dấu hiệu mới ở sau tai và thần kinh. (2) Khám: soi tai, rãnh sau tai và xương chũm, vành tai, dấu màng não, dây VII. (3) Cận lâm sàng chọn lọc theo tiền: X-quang Schuller hữu ích; CTM, CRP không đổi quyết định. (4) Chẩn đoán và đánh giá biến chứng. (5) Quyết định chuyển, bàn giao, dặn dò (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.14).",
+     "Vì sao đây là 'đỡ một phần', không phải khỏi và không phải thất bại hoàn toàn: đau tai giảm 3/10 xuống 1–2/10 và ban đêm ngủ được, nhưng tai còn đầy, nghe kém, màng nhĩ còn đỏ phồng nhẹ; sau 48–72 giờ kháng sinh phải đỡ rõ (AAP 2013 tr. e984, KAS 4C). Dấu mới là sốt trở lại 37,9 °C và đau, đầy sau tai: không phải diễn tiến bình thường.",
+     "Vì sao nghi viêm xương chũm: viêm xương chũm luôn kèm viêm tai giữa cấp; triệu chứng gồm sốt, đau tai, sưng nề viêm tấy đỏ sau tai, đẩy vành tai ra trước, phập phều (QĐ 5643 Viêm xương chũm mục 1, 3.1.1, tr. 195); WHO 2013 mục 6.7.1: sốt và sưng đau sau tai. Thảo mới có đầy, hồng nhạt, đau rõ khi ấn: chỉ dấu sớm. QĐ 5643 Viêm tai giữa cấp mục 4.3.3 (tr. 214): đang dùng kháng sinh nên chụp X-quang xương chũm để phát hiện viêm xương chũm tiềm tàng; phim Thảo có vách thông bào dày không rõ (Viêm xương chũm mục 3.1.2).",
+     "Vì sao chưa thể kết luận hoặc loại trừ tại đây: chẩn đoán xác định cần CT xương thái dương (hình ảnh đọng dịch và mất thông bào, QĐ 5643 Viêm xương chũm mục 3.1.2, tr. 195); cơ sở không có CT (khóa theo không có siêu âm). Cách thay thế: khám lâm sàng + X-quang Schuller rồi chuyển. Thiếu CT là lý do chuyển, không phải lý do chờ.",
+     "Phản ứng xương chũm hay viêm xương chũm: QĐ 5643 Viêm tai giữa cấp mục 3.1.1 (tr. 211) nói ấn đau xương chũm là phản ứng không đáng ngại; viêm tai giữa đơn thuần thì đến cuối tuần đầu ấn xương chũm không đau nữa (Viêm xương chũm mục 3.2a, tr. 195). Thảo qua một tuần mà đau rõ hơn kèm sốt lại nên không an tâm.",
+     "Vì sao loại trừ viêm màng não: không nhức đầu, nôn, cứng cổ, li bì; Kernig và Brudzinski âm tính (WHO 2013 mục 6.3.1, tr. 167). Nhưng viêm màng não, áp xe não, liệt dây VII là biến chứng của viêm xương chũm chưa điều trị (QĐ 5643 Viêm xương chũm mục 5, tr. 197): dặn dấu hiệu trên đường đi."
+    ],
+    "phan_tich_xu_tri": [
+     "Vì sao chuyển tuyến, không đổi thuốc uống: viêm xương chũm cần chẩn đoán hình ảnh (CT), kháng sinh tiêm và chuyên khoa quyết định chích rạch hoặc mổ (QĐ 5643 Viêm xương chũm mục 4.2–4.3, tr. 196–197; WHO 2013 mục 6.7.1; NICE NG91 2018 khuyến cáo 1.1.14). AAP 2013 Table 5 (đổi amoxicillin-clavulanate hoặc ceftriaxone) là cho viêm tai giữa chưa biến chứng, nên đổi thuốc uống rồi hẹn lại không đủ khi đã có dấu sau tai.",
+     "Kịp thời: chuyển ngay trong ngày, không chờ thêm 2–3 ngày vì biến chứng nội sọ và liệt VII có thể xuất hiện nhanh (QĐ 5643 Viêm xương chũm mục 5, tr. 197); chi tiết tốc độ tiến triển: không có trong tài liệu đã tải.",
+     "Xếp ưu tiên chi phí: CT là xét nghiệm duy nhất đổi được xử trí và chỉ làm ở tuyến trên; CTM, CRP bỏ ở đây (QĐ 5643 Viêm xương chũm mục 3.1.2 có liệt kê nhưng không đổi quyết định chuyển). X-quang Schuller tại chỗ chấp nhận được, không bắt buộc.",
+     "Trước khi chuyển: giảm đau, hạ sốt bằng paracetamol (AWaRe 2022 tr. 39); ceftriaxone một liều nếu có (AAP 2013 Table 5; WHO 2013 mục 6.7.1) là chấp nhận. Thư chuyển nêu thuốc đã dùng và thời gian (NICE NG91 2018 khuyến cáo 1.1.7).",
+     "An toàn vận chuyển: bé tỉnh, ổn định, đi cùng mẹ; quy trình vận chuyển, SBAR chi tiết: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "300 mg/liều (10 mg/kg)",
+      "lieu": "1 liều khi đau hoặc sốt, cách nhau ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau, kể cả trên đường đi",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "AWaRe 2022 mục 5 (tr. 39): 10–15 mg/kg mỗi 6 giờ, 20–< 30 kg 300 mg; WHO 2013 mục 6.7.1."
+     },
+     {
+      "thuoc": "Ceftriaxone (nếu có sẵn, trước khi chuyển)",
+      "ham_luong": "50 mg/kg ≈ 1.450 mg",
+      "lieu": "1 liều",
+      "duong": "Tiêm bắp hoặc tĩnh mạch",
+      "thoi_diem": "Trước khi lên xe, không làm chậm chuyển",
+      "so_ngay": "1 liều; tuyến trên quyết định tiếp",
+      "ghi_chu": "AAP 2013 Table 5 (tr. e983); WHO 2013 mục 6.7.1 (tr. 182). Liều tối đa: không có trong tài liệu đã tải. Chấp nhận, không bắt buộc."
+     },
+     {
+      "thuoc": "Amoxicillin (đang uống từ lượt 1)",
+      "ham_luong": "1.250 mg/lần",
+      "lieu": "Giữ nguyên cho đến khi bệnh viện quyết định",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Tuyến trên quyết định",
+      "ghi_chu": "Giữ nguyên theo lượt 1 (AAP 2013 Table 5); tuyến trên có thể đổi cephalosporin thế hệ 2, 3 (QĐ 5643 Viêm xương chũm mục 4.3.1, tr. 196)."
+     }
+    ],
+    "dan_do": [
+     "Đưa bé đến bệnh viện có khoa Tai Mũi Họng và CT ngay trong ngày hôm nay, mang theo thư chuyển, thẻ bảo hiểm y tế và hộp thuốc đang uống (QĐ 5643 Viêm xương chũm mục 4.2, tr. 196; NICE NG91 2018 khuyến cáo 1.1.14).",
+     "Nói rõ với mẹ vì sao CT cần làm một lần ở tuyến trên và việc bỏ xét nghiệm khác ở đây để khỏi tốn hai lần.",
+     "Gọi cấp cứu hoặc đến cấp cứu gần nhất nếu bé nhức đầu dữ dội, nôn, cứng cổ, li bì, co giật, méo miệng hoặc sưng đẩy vành tai (NICE NG91 2018 khuyến cáo 1.1.14; WHO 2013 mục 6.3.1, 6.7.1).",
+     "Không tự nhỏ thuốc vào tai, không nhỏ lại naphazolin, không xì mũi bịt cả hai lỗ (QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tại bệnh viện tuyến trên, CT xương thái dương: đọng dịch tai giữa và thông bào chũm phải, mất một số vách ngăn, chưa ổ áp xe dưới màng xương, chưa tổn thương nội sọ: viêm xương chũm cấp giai đoạn sớm. Thảo được điều trị nội khoa kháng sinh cephalosporin thế hệ 3 đường tiêm (QĐ 5643 Viêm xương chũm mục 4.3.1) và chích rạch màng nhĩ, không phải mổ. Hết sốt sau 2 ngày, hết đau sau tai, sau đó chuyển kháng sinh uống và tái khám tai mũi họng.  Số ngày nằm viện, thời gian kháng sinh tuyến trên: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: lượt 1 bỏ công thức máu, CRP vì không đổi quyết định (AWaRe 2022 mục 5, tr. 37–38); lượt 2 CT là xét nghiệm duy nhất đổi quyết định, mẹ cần được giải thích và hướng dẫn chuyển tuyến chứ không phải bị bỏ rơi.",
+  "Không có siêu âm (kéo theo không có CT, nội soi): không chẩn đoán xác định được viêm xương chũm tại chỗ; thay thế bằng khám lâm sàng, X-quang Schuller và chuyển tuyến.",
+  "Lý do thật đến khám là tái khám theo hẹn của trạm y tế vì ngạt mũi; mẹ không nghĩ tới tai nên bé phải được hỏi thẳng về tai.",
+  "Thuốc nhỏ mũi naphazolin kéo dài 8 ngày: yếu tố làm ngạt dai dẳng, khởi phát viêm tai giữa; phải hỏi ra và ngưng."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: bé đến vì mũi, không sốt, đau tai 3/10 nên không kể. Chẩn đoán nhờ soi tai thấy màng nhĩ phồng (AAP 2013 KAS 1A). Thấy bệnh nhi ngạt mũi kéo dài hoặc 'lùng bùng' thì phải soi tai.",
+  "Đau từ 48 giờ trở lên đã xếp thể nặng dù mức đau thấp (AAP 2013 KAS 3A). Hai nguồn khác nhau về kháng sinh ngay hay chờ 48–72 giờ ở trẻ trên 24 tháng viêm một bên (AAP 2013 và Italian Consensus 2025): ghi cả hai, luôn kèm hẹn 48–72 giờ.",
+  "Đỡ một phần: phân biệt đỡ bình thường với thất bại sớm bằng dấu mới (sốt lại, đau và đầy sau tai) chứ không chỉ bằng mức đau. Sau 48–72 giờ kháng sinh phải đỡ rõ (AAP 2013 tr. e984).",
+  "Phản ứng xương chũm (ấn đau, không đáng ngại ở tuần đầu) khác với viêm xương chũm (đau tăng, sưng nề, sốt lại): mốc là cuối tuần đầu (QĐ 5643).",
+  "Xếp ưu tiên xét nghiệm khi ít tiền: chọn cái đổi được quyết định (CT ở tuyến trên), bỏ cái không đổi (CTM, CRP); giải thích rõ để gia đình không cảm thấy bị làm thiếu.",
+  "Chuyển tuyến kịp thời: khi nghi biến chứng mà cơ sở không có CT thì chuyển trong ngày, kèm thư chuyển, dặn dấu hiệu nội sọ (NICE NG91 2018 khuyến cáo 1.1.14).",
+  "Cặp tương phản P-0200 với NH-0294 (viêm họng/VA cấp; chưa viết khi soạn ca này): cùng mở đầu ngạt mũi, tái khám theo hẹn; điểm phân biệt then chốt là tai (đầy tai, nghe kém, màng nhĩ phồng) chứ không phải họng."
+ ],
+ "diem_nho": [
+  "Viêm tai giữa cấp: màng nhĩ phồng vừa đến nặng, hoặc mới chảy tai không do viêm ống tai ngoài, hoặc phồng nhẹ kèm đau dưới 48 giờ hay đỏ rực (AAP 2013 KAS 1A–1B); không chẩn đoán khi không có dịch tai giữa (KAS 1C).",
+  "Nặng: đau tai vừa/nặng, đau ≥ 48 giờ, hoặc sốt ≥ 39 °C (AAP 2013 KAS 3A). Trẻ ≥ 24 tháng không nặng: kháng sinh hoặc theo dõi chờ 48–72 giờ nếu chắc tái khám (AAP 2013 KAS 3D).",
+  "Amoxicillin 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian Consensus 2025 khuyến cáo 3.2); 5–7 ngày (NICE NG91 2018, AWaRe 2022) hoặc 10 ngày thể nặng (AAP 2013). Thất bại sau 48–72 giờ: amoxicillin-clavulanate hoặc ceftriaxone 50 mg/kg (AAP 2013 Table 5).",
+  "Viêm xương chũm: sốt, sưng nề đỏ sau tai, đẩy vành tai ra trước, phập phều; X-quang Schuller vách thông bào dày không rõ; CT mất thông bào; điều trị cephalosporin thế hệ 2, 3 ± mở sào bào (QĐ 5643 Viêm xương chũm mục 3.1, 4). Chuyển bệnh viện khi nghi mastoiditis, meningitis, liệt VII (NICE NG91 2018 khuyến cáo 1.1.14).",
+  "Thuốc co mạch nhỏ mũi chỉ ngắn ngày (QĐ 5643 Viêm mũi xoang cấp tính mục 4.2.1: ví dụ 3 ngày); dùng kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10.1) và không giúp triệu chứng viêm tai giữa (NICE NG91 2018 khuyến cáo 1.1.6)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1–6, tr. 195–197); Viêm mũi xoang cấp tính (mục 4.2.1, tr. 112); Ngạt mũi (mục 4.1, tr. 117)",
+  "AAP 2013 – AAP/AAFP The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C, 2, 3A–3D, 4A–4C (tr. e965), Table 3 (tr. e973), Table 4 (tr. e976), Table 5 (tr. e983), điều trị thất bại (tr. e984), thời gian điều trị (tr. e985)",
+  "NICE NG91 2018 – NICE Otitis media (acute): antimicrobial prescribing, 2018 (cập nhật 2022, 2025) – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.14, Table 1 (tr. 5–10)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children: an Italian intersociety consensus. Ital J Pediatr 2025 – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Table 1 (thang nặng), khuyến cáo 1.1–1.5, 2.1–2.2, 3.x, 4.1–4.2",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 6.7.1 Mastoiditis (tr. 182), 6.7.2 Acute otitis media (tr. 183–184), 6.3.1 Bacterial meningitis (tr. 167)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care mục 5 Acute otitis media (tr. 36–39: xét nghiệm và hình ảnh, liều paracetamol, ibuprofen, amoxicillin)",
+  "EPOS 2020 – European Position Paper on Rhinosinusitis and Nasal Polyps 2020 – TL-0087 – ĐÃ ĐỌC: mục 6.1.10.1 (thuốc co mạch tại chỗ, viêm mũi do thuốc)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: chi phí cụ thể từng xét nghiệm và quy định bảo hiểm y tế khi chuyển tuyến, liều tối đa amoxicillin và ceftriaxone cho trẻ lớn, dạng bào chế sẵn có ở Việt Nam, số ngày nằm viện và thời gian kháng sinh tuyến trên trong viêm xương chũm. QĐ 2341/2024 (IMCI) bản chữ trong kho chỉ có trang quyết định ban hành, không dùng làm nguồn."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết bản 1. Đặc tả sổ cái: Viêm tai giữa cấp, học sinh 11 tuổi nữ, không điển hình, đỡ một phần, không đủ tiền xét nghiệm, không có siêu âm, chuyển tuyến kịp thời; mọi biến có chỗ đứng (nghề, khởi phát sau xe khách 9 giờ, thuốc nhỏ mũi kéo dài, lý do thật là tái khám theo hẹn).",
+  "Tài liệu đã đọc: QĐ 5643 (Viêm tai giữa cấp, Viêm xương chũm, Viêm mũi xoang cấp mục 4.2.1, Ngạt mũi mục 4.1), AAP 2013 (KAS, Table 4–5), NICE NG91 2018, Italian Consensus 2025, WHO 2013 (6.7.1, 6.7.2), AWaRe 2022 mục 5, EPOS 2020 mục 6.1.10.1.",
+  "Mâu thuẫn: kháng sinh ngay hay chờ ở viêm một bên nặng (đau ≥ 48 giờ) không toàn thân ở trẻ ≥ 24 tháng (AAP 2013 KAS 3A và Italian 2025 khuyến cáo 2.2): ghi cả hai, đề xuất mục mới. Các mục NH-0355 (liều, thời gian amoxicillin, chích rạch, X-quang xương chũm) và thuốc xịt co mạch (HH-0007) áp dụng lại.",
+  "Giả định thiết kế lượt 2: gia đình chọn amoxicillin ngay ở lượt 1. Nếu chọn theo dõi chờ thì đến mốc 72 giờ vẫn đau và có kháng sinh sau đó; ca không mô phỏng nhánh này."
+ ]
+}
