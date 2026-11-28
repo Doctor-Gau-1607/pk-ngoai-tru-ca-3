@@ -1,0 +1,727 @@
+{
+ "ma_ca": "TQ-0014",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-28 theo kho tài liệu, mọi ngưỡng/liều ghi kèm vị trí",
+ "benh": "TQ_ksk_binh_thuong_rat_cao_tuoi_nuoc_khong_sach_tu_truyen_dich_tu_choi_xn",
+ "so_cai": {
+  "chuyen_khoa": "Tư vấn kết quả khám tổng quát",
+  "chan_doan_dich": "Tư vấn kết quả khám sức khỏe bình thường",
+  "chan_doan_phai_loai_tru": [
+   "(đảm bảo không bỏ sót bất thường)"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân đã nghỉ hưu (nay chỉ làm vườn rau quanh nhà)",
+  "yeu_to_khoi_phat": "Sau uống nước không sạch",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Lụa",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Nông dân đã nghỉ hưu: nay chỉ chăm vườn rau quanh nhà",
+  "can_nang": 48,
+  "chieu_cao": 151,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ', gọi con trai là 'thằng Hiếu', con dâu là 'con Nhung'.",
+  "tinh_cach": "Làm ruộng cả đời, hiền, nói chậm, tiết kiệm, ngại làm phiền con cháu. Gọi thử máu là 'rút sức', truyền nước là 'bồi bổ'. Hay giấu nỗi buồn trong lòng, chỉ nói khi được hỏi riêng, nhẹ nhàng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đủ, thật khi được hỏi; không cài nhiễu cố ý. Hai điểm lưu ý: (1) chuyện gia đình chỉ nói khi được hỏi riêng, không có anh Hiếu bên cạnh; (2) nghe thử máu, nước tiểu, đo xương thì từ chối ('sợ kim, tốn tiền'), được giải thích một lần vẫn không đổi ý nhưng không gắt gỏng, vẫn cho khám, đo, làm điện tim.",
+  "nguoi_nha": "Con trai, anh Hiếu, 51 tuổi, chở bà đi (lượt 2 có thêm con dâu, chị Nhung, 47 tuổi). Bà tự trả lời về triệu chứng (nguoi_noi = benh_nhan); anh Hiếu trả lời về chai dịch truyền, ảnh vỏ chai, chuyện ở nhà (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Con trai (anh Hiếu)",
+  "ngoai_hinh": {
+   "da": "#c99a6e",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#8a6f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c9996f",
+    "toc": "#241c17",
+    "kieuToc": "ngan",
+    "ao": "#4f6b86",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Con trai đưa đến 'khám tổng quát cho yên tâm' sau mấy ngày đi ngoài lỏng vì uống nước không sạch; bà nói đã gần hết, chỉ hơi mệt",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 5 của đợt tiêu chảy",
+   "tiep_don": "Bà Trần Thị Lụa, 78 tuổi, nông dân đã nghỉ hưu, con trai (anh Hiếu) chở đến 'khám tổng quát cho yên tâm' sau mấy ngày đi ngoài lỏng. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 128/76 mmHg, nhiệt 36,7°C, nhịp thở 18 l/p, SpO₂ 97%; cân nặng 48 kg, cao 151 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa bị giữ lại bệnh viện 'truyền dịch cho chắc' dù mạch 78, HA 128/76, không hạ HA tư thế, niêm mạc ẩm, tiểu đủ: mất nước đã hết và bà uống được, nên không có chỉ định truyền tĩnh mạch (QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 4.2.3a; IDSA 2017 khuyến cáo 41). Bà lạ giường, thêm hóa đơn đúng lúc nhà đang cãi nhau vì tiền nên càng tin mình là gánh nặng, dễ bỏ về giữa chừng; việc cần làm là dặn nước đun sôi và nói riêng với bà thì bị bỏ lỡ (ICOPE 2025 mục 3.5).",
+    "chuyen_tuyen": "Gửi bà Lụa lên bệnh viện tuyến trên 'khám tổng quát lại' là chưa cần: tiêu chảy nhẹ đang hết, không sốt, không phân nhầy máu, khám không thấy bất thường (IDSA 2017 khuyến cáo 8, 36). Bà đi xa, mất một ngày, tốn tiền đúng chuyện đang gây xích mích trong nhà; ở đó vẫn không thể bắt bà thử máu (Luật KBCB 15/2023 Điều 10 khoản 4) nên chuyến đi không thêm thông tin, còn lời dặn về nước sạch và theo dõi tại nhà vẫn chưa ai nói."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ngoài mấy bữa nay, giờ gần hết rồi. Thằng Hiếu nó cứ bắt tôi đi khám tổng quát, thôi thì khám cho nó yên bụng.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/76",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Anh Hiếu đưa bà đi 'khám tổng quát cho yên tâm' sau mấy ngày đi ngoài lỏng. Bà nói đã gần hết, không đau chỗ nào, chỉ hơi mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám: khám tổng quát sau tiêu chảy"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Đêm ngày thứ nhất bắt đầu đau quặn quanh rốn, đi ngoài phân lỏng toàn nước vàng, 5–6 lần/ngày trong 3 ngày; nôn một lần buổi sáng ngày đầu rồi hết. Không sốt (con sờ trán không nóng), không phân nhầy, máu hay đen, không mót rặn, phân không trắng đục như nước vo gạo. Ngày thứ 4 chỉ 2 lần phân sệt; sáng nay 1 lần phân sệt, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến tiêu chảy: số lần, tính chất phân, sốt, máu"
+    },
+    {
+     "id": "nguon_nuoc",
+     "noi_dung": "Sáng hôm trước ngày bệnh, bình nước đun sôi trong nhà hết, bà đang làm vườn khát nên múc nước mưa chứa trong chum ngoài hiên (không nắp, có lăng quăng) uống hai ca lớn. Chỉ mình bà uống nước đó; cả nhà ăn chung bữa cơm, không ai đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn nước và người cùng ăn uống (dịch tễ)"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Ngày thứ hai khô miệng, khát, chóng mặt khi đứng dậy, tiểu ít vàng sậm. Nay hết chóng mặt, tiểu 4–5 lần/ngày màu vàng nhạt, ăn lại cháo và cơm mềm, uống nước đun sôi để nguội thêm muối đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất nước và đã hồi phục chưa"
+    },
+    {
+     "id": "tu_truyen",
+     "noi_dung": "Ngày thứ hai anh Hiếu mua 2 chai ở nhà thuốc (NaCl 0,9% 500 mL và glucose 5% 500 mL) nhờ cô Bảy, y tá về hưu hàng xóm, truyền tại nhà: chai NaCl chạy khoảng 2 giờ chiều ngày thứ hai (mu bàn tay trái), chai glucose sáng ngày thứ ba (cẳng tay trái). Không pha thêm thuốc nào. Sau truyền bà thấy khỏe hơn, không khó thở, không phù, không rét run; chỗ chọc kim hơi bầm, đau nhẹ. Anh Hiếu chụp ảnh vỏ chai nên còn nhãn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự truyền dịch tại nhà: loại dịch, lượng, ai làm, biến chứng"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống kháng sinh, thuốc cầm tiêu chảy, thuốc giảm đau, thuốc bổ hay thuốc nam. Không bệnh nào đang điều trị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc khác (kháng sinh, thuốc cầm, thuốc bổ)"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không sốt, không khó thở, không đau ngực, không phù chân, không lú lẫn, không đau bụng dữ dội, không sụt cân nhiều từ trước. Trước đợt này đại tiện đều mỗi ngày một lần, không có thay đổi thói quen đại tiện hay phân có máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng và dấu hiệu bệnh đại tràng nền"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa nghe bác sĩ nói bị cao huyết áp, tiểu đường, tim, thận, phổi. Chưa nằm viện, chưa mổ. Không hút thuốc, không rượu. Mãn kinh từ 50 tuổi. Cân nặng thường 49 kg (cân ở nhà thuốc tháng trước).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, cân nặng thường ngày"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tự đi lại, tự ăn, tắm, đi vệ sinh. Năm nay không té ngã. Ăn uống bình thường trước đợt này, ngủ khoảng 6 tiếng. Hai tuần qua không buồn chán, không mất hứng thú với vườn rau. Không phàn nàn thị lực hay nghe kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chức năng, ăn uống, té ngã, tâm trạng (ICOPE)"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Tra điện thoại anh Hiếu: Sổ sức khỏe điện tử và BHYT chưa có kết quả xét nghiệm hay chẩn đoán hình ảnh nào trong năm; trạm y tế mời khám định kỳ nhưng bà chưa đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tra kết quả cũ trước khi chỉ định"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Lý do thật: tối hôm qua anh Hiếu và chị Nhung (con dâu) cãi nhau chuyện tiền; chị Nhung nói 'tiền thuốc tiền truyền của mẹ tốn kém, nhà còn hai đứa nhỏ đi học'. Bà nghe được, buồn, sợ là gánh nặng, nên bảo con đưa đi khám để biết bệnh nặng hay không mà thôi lo tiền. Không ai đánh, bỏ đói hay bỏ mặc bà; chị Nhung vẫn nấu ăn, chỉ lo chuyện tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có lo gì không' thì bà đáp 'không lo gì, con nó bắt đi thì đi'. Chỉ nói khi bác sĩ hỏi riêng bà (anh Hiếu ra ngoài) vì sao muốn khám đúng lúc này, điều bà lo nhất, ở nhà có chuyện buồn không, hoặc có ai nặng lời, bỏ mặc bà không.",
+     "k": 1,
+     "y": "Động cơ thật: mâu thuẫn gia đình về tiền chăm sóc; sàng lọc bỏ mặc/lạm dụng"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Khi nghe thử máu, nước tiểu, bà từ chối: 'rút máu làm chi, tôi sợ kim, mà tốn tiền nữa'. Nếu bác sĩ giải thích một lần lợi và hại, nói rõ giá, nói trạm y tế khám định kỳ miễn phí và có thể khám tại nhà, bà vẫn không làm hôm nay: 'để tôi nghĩ, hỏi thằng Hiếu'. Bà đồng ý nhìn, nghe, sờ, đo huyết áp, cân, đi lại và làm điện tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: quyền tự quyết, ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "loi_khuyen",
+     "noi_dung": "Cô Bảy khuyên: 'người già mất nước phải truyền thêm một chai nữa, uống kháng sinh cho sạch ruột'. Bà hỏi bác sĩ có nên không.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0,
+     "y": "Nhiễu: lời khuyên truyền thêm, uống kháng sinh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thể trạng nhỏ nhắn. Cao 151 cm, nặng 48 kg (thường 49 kg), BMI 21,1. Da véo lên xẹp ngay, môi và lưỡi ẩm, mắt không trũng, không phù.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 128/76 mmHg, mạch 78 l/p. Đứng 1 phút: 124/74, mạch 84. Đứng 3 phút: 122/74, mạch 86. Giảm tối đa 6/2 mmHg, không giảm ≥ 20/10, không chóng mặt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi khi ngồi 45 độ. Tuyến giáp không to, không hạch cổ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Nhịp thở 18 l/p, không co kéo cơ hô hấp. Gõ trong.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong, rung thanh đều hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột hơi tăng nhẹ. Ấn đau nhẹ không rõ vị trí quanh rốn, không điểm đau khu trú; McBurney không đau, không phản ứng thành bụng, không phản ứng dội. Gan lách không to, không khối u.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù hai chân, cẳng chân mềm. Mạch mu chân bắt được hai bên.",
+     "k": 1
+    },
+    "da": {
+     "a": "Hai vết chọc tĩnh mạch: mu bàn tay trái bầm vàng tím 2 cm, cẳng tay trái bầm tím nhỏ 1 cm. Không đỏ, không nóng, không sưng, không đường đỏ dọc tĩnh mạch, không cứng như dây, không mủ. Bầm do chọc kim, không viêm.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT = 0: tỉnh táo, nói đúng ngày tháng năm và nơi ở, đếm ngược các tháng được, không rối loạn ý thức diễn tiến.",
+     "k": 0
+    },
+    "nhan_thuc_moca": {
+     "a": "Không làm MoCA đầy đủ; nhớ lại đủ ba từ (hoa, cửa, gạo) sau vài phút, đúng định hướng, trả lời mạch lạc.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không chống tay; đi thẳng 5 m bước đều, quay người ổn. Ngồi–đứng 5 lần không dùng tay mất 12 giây.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Gọn gàng, khí sắc ổn nhưng hơi trầm khi nhắc chuyện con cái. Hai câu hỏi trong hai tuần qua (buồn chán, tuyệt vọng; ít hứng thú): đều 'không'. Không ý tưởng tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Lụa từ chối: 'Rút máu làm chi, tôi sợ kim, mà tốn tiền.' Đã giải thích và nói giá; ghi hồ sơ.)",
+     "n": "Không dấu thiếu máu hay nhiễm trùng toàn thân; công thức máu không phải xét nghiệm bắt buộc khi khám (CV 7311 mục 1.2). Từ chối: ghi hồ sơ (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "creat": {
+     "v": "u",
+     "ab": 0,
+     "r": "(Bà Lụa từ chối: 'Rút máu làm chi, tôi sợ kim, mà tốn tiền.' Đã giải thích và nói giá; ghi hồ sơ.)",
+     "n": "Hữu ích nhưng không bắt buộc: người cao tuổi dễ mất nước nặng (IDSA 2017 khuyến cáo 5), biến chứng suy thận, rối loạn điện giải (QĐ 5642/2015 mục 5). Bà hết mất nước trên lâm sàng nên thay bằng theo dõi lâm sàng. Từ chối: ghi hồ sơ (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "lyte": {
+     "v": "u",
+     "ab": 0,
+     "r": "(Bà Lụa từ chối: 'Rút máu làm chi, tôi sợ kim, mà tốn tiền.' Đã giải thích và nói giá; ghi hồ sơ.)",
+     "n": "Như creatinin: hạ kali, rối loạn natri là biến chứng (QĐ 5642/2015 mục 5), sau 2 chai tự truyền cũng chưa biết natri. Lâm sàng không phù, không khó thở; điện tim làm thay một phần. Từ chối: ghi hồ sơ (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Chưa làm.",
+     "n": "Không chỉ định: không sốt, phân không nhầy máu, không đau quặn nặng, không dấu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8); bệnh nhẹ, chưa quá 7 ngày, đang hết (ACG 2016 khuyến cáo 2). Cấy phân cũng không cần."
+    },
+    "cdiff": {
+     "v": "n",
+     "r": "Chưa làm.",
+     "n": "Không dùng kháng sinh, không nằm viện gần đây (IDSA 2017 khuyến cáo 18: chỉ cân nhắc khi tiêu chảy sau dùng kháng sinh hoặc liên quan cơ sở y tế)."
+    },
+    "test_nhanh_virus": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Lụa từ chối: 'Rút máu làm chi, tôi sợ kim, mà tốn tiền.' Đã giải thích và nói giá; ghi hồ sơ.)",
+     "n": "HBsAg (USPSTF 2020, B, TL-0685); anti-HCV 18–79 tuổi (USPSTF 2020, B, TL-0686), bà 78 tuổi còn trong khoảng. Không bắt buộc hôm nay; hướng dẫn BYT về sàng lọc miễn phí còn hoàn thiện (CV 7311 mục 1.1 điểm 4). Từ chối: ghi hồ sơ (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 78 l/p, trục trung gian, PR, QRS, QT bình thường, không sóng U, không bất thường ST–T.",
+     "n": "Không có chỉ định thường quy ở người không triệu chứng tim mạch (USPSTF 2018, TL-0689: nguy cơ thấp mức D, trung bình–cao mức I). Bà đồng ý làm; điện tim bình thường không loại trừ hạ kali nhẹ nên không thay điện giải đồ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khám sức khỏe tổng quát bình thường ở nữ 78 tuổi (tư vấn kết quả: không phát hiện bất thường trên lâm sàng, ICOPE 6 lĩnh vực đạt; chưa có cận lâm sàng do người bệnh từ chối, đã ghi hồ sơ), kèm tiêu chảy cấp phân nước mức nhẹ sau uống nước mưa chum không sạch, đang hồi phục (ngày thứ 5), hiện không mất nước",
+     "ok": 1,
+     "n": "Đi ngoài phân nước, nôn, nguồn nước uống (QĐ 5642/2015 mục 3.1, 3.4); mất nước độ 1 chỉ còn mạch < 100, HA bình thường (mục 3.1 bảng); nay mạch 78, HA 128/76, không hạ HA tư thế (VSH/VNHA 2024 Đ1.2.1). Tiêu chuẩn phân loại sức khỏe (TT 25/2026 Mẫu số 03 mục IV): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tả",
+     "n": "Không phân nước vo gạo, 5–6 lần/ngày chứ không 20–50 lần, có đau quặn, không mất nước nhanh (QĐ 5642/2015 mục 3.2). Chưa cấy phân nên dựa vào lâm sàng; dặn quay lại nếu phân trắng đục."
+    },
+    {
+     "t": "Lỵ hoặc tiêu chảy xâm nhập (Shigella, Salmonella, E. coli xâm nhập, Campylobacter)",
+     "n": "Không sốt, không phân nhầy máu, không mót rặn (QĐ 5642/2015 mục 3.2); không có chỉ định xét nghiệm phân (IDSA 2017 khuyến cáo 8). Dặn quay lại khi sốt hoặc phân có máu."
+    },
+    {
+     "t": "Mất nước còn tồn tại, tổn thương thận cấp, rối loạn điện giải (hạ kali, rối loạn natri)",
+     "n": "Lâm sàng không còn: da đàn hồi, niêm mạc ẩm, HA tư thế ổn, tiểu đủ, cân 48 so với 49 kg (QĐ 5642/2015 mục 3.1, 5). Chưa loại trừ bằng xét nghiệm vì bà từ chối: ghi hồ sơ, theo dõi lâm sàng, hẹn tái khám."
+    },
+    {
+     "t": "Biến chứng của tự truyền dịch (quá tải tuần hoàn, viêm tĩnh mạch, nhiễm khuẩn chỗ chọc)",
+     "n": "Sau 1 lít dịch: không phù, phổi sạch, tĩnh mạch cổ không nổi, SpO₂ 97%; chỗ chọc chỉ bầm, không đỏ nóng. Nguy cơ cụ thể của truyền dịch tự ý tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu chảy do thuốc hoặc C. difficile",
+     "n": "Không dùng kháng sinh, thuốc bổ, thuốc nam, không nằm viện (IDSA 2017 khuyến cáo 18)."
+    },
+    {
+     "t": "Bệnh đại tràng nền (viêm đại tràng mạn, ung thư đại tràng)",
+     "n": "Đây là chẩn đoán phân biệt của tiêu chảy kéo dài (QĐ 5642/2015 mục 3.5): bà hết sau 5 ngày, trước đó đại tiện đều, không máu, không sụt cân. Dặn quay lại nếu tái phát hoặc kéo dài ≥ 14 ngày (IDSA 2017 khuyến cáo 36)."
+    },
+    {
+     "t": "Sảng, suy giảm chức năng, trầm cảm, bị bỏ mặc hoặc lạm dụng",
+     "n": "4AT = 0, ngồi–đứng 5 lần 12 giây (< 14 giây là đạt, ICOPE 2025 Bảng 3.1), hai câu tâm trạng đều không; hỏi riêng bà: không ai đánh, bỏ đói hay bỏ mặc (ICOPE 2025 mục 3.5, 11.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả khám: tiêu chảy nhẹ đang hết, nay không còn mất nước, không dấu hiệu nguy hiểm; nói rõ 'bình thường' là trên lâm sàng, chưa có xét nghiệm",
+     "v": "c",
+     "n": "Quyền được giải thích tình trạng sức khỏe (Luật KBCB 15/2023 Điều 9 khoản 1); kết luận theo Mẫu số 03 mục IV (TT 25/2026); tiêu chuẩn phân loại sức khỏe: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng bà vì sao muốn khám đúng lúc này, lắng nghe chuyện trong nhà, hỏi có ai nặng lời, bỏ mặc, bỏ đói bà không; nói bà bệnh nhẹ và không phải gánh nặng",
+     "v": "c",
+     "n": "Cân bằng riêng tư và tự chủ của người cao tuổi với ý kiến người chăm sóc, để ý dấu hiệu lạm dụng, bỏ mặc (ICOPE 2025 mục 3.5, 11.4); giữ bí mật thông tin bà kể (Luật KBCB 15/2023 Điều 10 khoản 2)."
+    },
+    {
+     "t": "Tra Sổ sức khỏe điện tử, VNeID, dữ liệu BHYT trước khi bàn xét nghiệm: chưa có kết quả nào trong năm",
+     "v": "c",
+     "n": "CV 7311 mục 1.3: xem kết quả sẵn có, còn giá trị thì không chỉ định lại. Ở đây không có kết quả."
+    },
+    {
+     "t": "Bù dịch đường uống: Oresol pha 1 lít nước đun sôi để nguội (hoặc nước cháo muối), uống theo nhu cầu, thêm sau mỗi lần phân lỏng, ngưng khi hết tiêu chảy; ăn lại bình thường; chỉ uống nước đun sôi, rửa tay xà phòng",
+     "v": "c",
+     "n": "Mất nước độ 1 uống được thì bù bằng Oresol (QĐ 5642/2015 mục 4.2.3a); thành phần, uống theo nhu cầu (QĐ 4178/2007 mục III.2a); ORS đầu tay, thay phần mất qua phân đến khi hết (IDSA 2017 khuyến cáo 39, 43); ăn lại sớm (khuyến cáo 45). Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải. Nước đun sôi, rửa tay: QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52, Bảng 1."
+    },
+    {
+     "t": "Giải thích bà không cần truyền thêm và dặn nhà ngưng tự truyền dịch tại nhà; truyền tĩnh mạch do cơ sở y tế chỉ định khi mất nước từ độ 2 hoặc không uống được",
+     "v": "c",
+     "n": "Truyền tĩnh mạch cho mất nước từ độ II, không uống được (QĐ 5642/2015 mục 4.2.3a); mất nước nặng, sốc, ORS thất bại (IDSA 2017 khuyến cáo 41); truyền phải theo dõi sinh hiệu để chỉnh tốc độ (bài bệnh tả, QĐ 4178/2007 mục III.2a). Nguy cơ cụ thể của truyền tự ý: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao chưa cần",
+     "v": "c",
+     "n": "Phân nước, không sốt, không nhầy máu, đang hết: IDSA 2017 khuyến cáo 36 không dùng kháng sinh kinh nghiệm; ACG 2016 khuyến cáo 9, 10 không khuyến khích; QĐ 5642/2015 mục 4.2.1 liệt kê người già trong yếu tố cần cân nhắc, nhưng cân nhắc ở ca này cho kết quả không kê vì bà đã gần hết (sổ mâu thuẫn TH-0717)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: sốt, phân nhầy máu, đau bụng tăng, nôn không uống được, tiểu rất ít, chóng mặt, lú lẫn, phân trắng đục như nước vo gạo; tiêu chảy tái phát hoặc còn ≥ 14 ngày",
+     "v": "c",
+     "n": "Biến chứng mất nước, rối loạn điện giải, suy thận (QĐ 5642/2015 mục 5); xét nghiệm khi sốt, phân nhầy máu, đau quặn nặng, dấu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8); người cao tuổi dễ mất nước nặng (khuyến cáo 5); tiêu chảy ≥ 14 ngày là kéo dài (khuyến cáo 36). Dấu 'chóng mặt, lú lẫn, tiểu rất ít': người viết chọn."
+    },
+    {
+     "t": "Tư vấn một lần lợi và hại xét nghiệm (creatinin, điện giải) kèm giá; nói trạm y tế khám định kỳ miễn phí, có thể khám tại nhà; tôn trọng quyết định không làm hôm nay, ghi từ chối vào hồ sơ",
+     "v": "c",
+     "n": "Luật KBCB 15/2023 Điều 9 khoản 1 (được biết giá dịch vụ), Điều 11 khoản 1, Điều 13 khoản 1 (cam kết bằng văn bản sau tư vấn); CV 7311 mục 1.2 điểm 1 (cận lâm sàng theo chỉ định, không bắt buộc), mục 3.2 (khám tại nhà cho người cao tuổi). Cách áp dụng cam kết văn bản cho xét nghiệm tùy chọn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Với sự đồng ý của bà, nói với anh Hiếu (mời cả chị Nhung): bệnh nhẹ, chi phí chủ yếu do hai chai dịch không cần, bà đã khỏe dần; bà cần được nghe nói rõ chứ không phải đoán",
+     "v": "c",
+     "n": "Giao tiếp rõ ràng với người cao tuổi và người chăm sóc, chỉ nói thay khi mất năng lực (ICOPE 2025 mục 3.5); hỗ trợ người chăm sóc (ICOPE 2025 mục 11). Phần giao tiếp, không cần nguồn khác."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần, mang vỏ chai và toa; đến sớm nếu có dấu hiệu quay lại",
+     "v": "c",
+     "n": "ICOPE 2025 chương 3 (kế hoạch chăm sóc có ngày hẹn). Mốc 1 tuần do người viết chọn (nhỏ hơn mốc 14 ngày của tiêu chảy kéo dài, IDSA 2017 khuyến cáo 36); khoảng tái khám riêng cho tiêu chảy người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê ciprofloxacin hoặc azithromycin 'cho sạch ruột' theo lời cô Bảy",
+     "v": "w",
+     "n": "Không có chỉ định ở tiêu chảy phân nước, không sốt, đang hết (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10); QĐ 5642/2015 mục 4.2.1 chỉ nói cân nhắc, không bắt buộc. Fluoroquinolon liên quan nhiễm C. difficile và bệnh gân (ACG 2016, phần bàn luận kháng sinh)."
+    },
+    {
+     "t": "Men vi sinh, loperamid liều thấp, Smecta: dùng hay không đều chấp nhận",
+     "v": "a",
+     "n": "Men vi sinh: có thể dùng (IDSA 2017 khuyến cáo 49, yếu) hoặc không khuyến cáo (ACG 2016 khuyến cáo 6). Loperamid sau khi bù dịch, tránh khi sốt (IDSA 2017 khuyến cáo 46, 47) so với không lạm dụng (QĐ 5642/2015 mục 4.2.3b). Smecta: QĐ 5642/2015 mục 4.2.3b, liều không có trong tài liệu đã tải. Bà gần hết nên không cần (sổ mâu thuẫn TH-0717, TH-0624)."
+    },
+    {
+     "t": "Đồng ý để cô Bảy truyền thêm một chai tại nhà 'cho chắc' hoặc truyền dịch tại phòng khám",
+     "v": "w",
+     "n": "Mất nước độ 1 đã bù, uống được thì không có chỉ định truyền (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41, 42); truyền cần theo dõi sinh hiệu (QĐ 4178/2007 mục III.2a)."
+    },
+    {
+     "t": "Ép làm xét nghiệm: 'không thử máu thì không khám tiếp', hoặc bắt ký cam kết trước khi tư vấn",
+     "v": "w",
+     "n": "Luật KBCB 15/2023 Điều 10 khoản 4: không bị ép buộc khám bệnh, chữa bệnh; Điều 13 khoản 1: cam kết bằng văn bản sau khi được tư vấn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khám sức khỏe tổng quát nữ 78 tuổi: không bất thường khác trên lâm sàng (BMI 21,1, ICOPE 6 lĩnh vực đạt); chưa có cận lâm sàng do bà từ chối, đã ghi hồ sơ; chưa loại trừ bằng xét nghiệm rối loạn creatinin, điện giải",
+     "Tiêu chảy cấp phân nước mức nhẹ, nghi nhiễm trùng đường ruột sau uống nước mưa chum không sạch, đang hồi phục (ngày thứ 5); chưa biết căn nguyên (không có chỉ định xét nghiệm phân)",
+     "Mất nước độ 1 hai ngày đầu, nay đã bù: da đàn hồi, niêm mạc ẩm, HA tư thế bình thường, tiểu đủ, cân 48 kg (thường 49 kg)",
+     "Đã tự truyền 2 chai (NaCl 0,9% 500 mL, glucose 5% 500 mL) khi chưa đủ chỉ định; chưa thấy biến chứng (không phù, phổi sạch, tĩnh mạch cổ không nổi)",
+     "Nỗi lo thật: mâu thuẫn trong nhà về chi phí chăm sóc bà, bà sợ thành gánh nặng; không có dấu hiệu bị bỏ mặc hay lạm dụng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (diễn tiến tiêu chảy, nguồn nước, mất nước, tự truyền dịch, thuốc, dấu hiệu nặng, chức năng, kết quả cũ, lý do thật) → khám (sinh hiệu, cân, da niêm, HA tư thế, tĩnh mạch cổ, tim, phổi, bụng, phù, chỗ chọc kim, 4AT, ngồi–đứng, tâm trạng) → cận lâm sàng (bà từ chối xét nghiệm; điện tim) → chẩn đoán → xử trí. Dừng lại kiểm: có dữ kiện nào chưa được nước bẩn giải thích; đã nhìn chỗ chọc kim và nghe phổi sau 1 lít dịch chưa; vì sao bà đến đúng hôm nay.",
+     "Mất nước độ 1 chỉ còn mạch < 100, HA bình thường, nước tiểu ít; độ 2 mạch 100–120, HA < 90, thiểu niệu (QĐ 5642/2015 mục 3.1). Người cao tuổi phải đánh giá mất nước dù đã đỡ (IDSA 2017 khuyến cáo 5; ACG 2016 khuyến cáo 5: hơn 80% ca tử vong do tiêu chảy ở Hoa Kỳ là người cao tuổi). Bà: mạch 78, HA 128/76, đứng 3 phút giảm 6/2 mmHg (ngưỡng ≥ 20/10, VSH/VNHA 2024 Đ1.2.1), da đàn hồi, tiểu đủ: không còn mất nước.",
+     "Phân biệt: tả 20–50 lần/ngày, nước vo gạo, không sốt; lỵ sốt cao, mót rặn, nhầy máu; E. coli sinh độc tố ruột phân lỏng không nhầy máu, không sốt, thường tự khỏi (QĐ 5642/2015 mục 3.2). Bà hợp thể phân nước. Xét nghiệm phân khi sốt, nhầy máu, đau quặn nặng, dấu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8), bệnh nặng vừa hoặc > 7 ngày (ACG 2016 khuyến cáo 2): bà không có nên không làm.",
+     "Tự truyền dịch: truyền tĩnh mạch dành cho mất nước từ độ II hoặc không uống được (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41). Kiểm biến chứng bằng khám: phù, ran phổi, tĩnh mạch cổ, SpO₂, chỗ chọc kim. Natri, creatinin chưa biết vì bà từ chối. Nguy cơ cụ thể của truyền tự ý tại nhà: không có trong tài liệu đã tải.",
+     "Lưu ý áp dụng ≥ 75 tuổi: IDSA 2017 và ACG 2016 không có mục riêng cho người rất cao tuổi; ngưỡng sàng lọc đều có tuổi trên (HCV 18–79, đại trực tràng 50–75; USPSTF trang A&B, TL-0686), quyết định sau 75 tuổi không có trong tài liệu đã tải. Dùng đánh giá chức năng ICOPE 2025 Bảng 3.1 thay xét nghiệm hàng loạt.",
+     "Từ chối xét nghiệm: có quyền được giải thích, từ chối, không bị ép (Luật KBCB 15/2023 Điều 9 khoản 1, Điều 11 khoản 1, Điều 13 khoản 1, Điều 10 khoản 4). Bà sợ kim và sợ tốn tiền chứ không phải không hợp tác; nói rõ giá, nói khám định kỳ miễn phí (CV 7311). Phương án B: khám đầy đủ, cân, HA tư thế, điện tim, hẹn tái khám có mốc, ghi 'chưa loại trừ bằng xét nghiệm'."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch bằng đường uống là xử trí đúng cho mất nước độ 1: Oresol hoặc nước cháo muối (QĐ 4178/2007 mục III.2a; QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43). ACG 2016 khuyến cáo 5: đa số người tiêu chảy bù đủ bằng nước, nước ép, súp.",
+     "Không kháng sinh: IDSA 2017 khuyến cáo 36, ACG 2016 khuyến cáo 9, 10; QĐ 5642/2015 mục 4.2.1 nêu người già là yếu tố cần cân nhắc nhưng bà không sốt, không nhầy máu, đang hết, nên cả ba nguồn cùng cho kết quả không kê (sổ mâu thuẫn TH-0717). Thuốc cầm và men vi sinh: các nguồn khác nhau nên dùng hay không đều chấp nhận.",
+     "Ngưng truyền dịch tự ý vì chỉ định truyền chưa có (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41); không nói quá nguy cơ vì tài liệu đã tải không nêu, chỉ giải thích hiện không cần và nếu cần thì truyền ở cơ sở có theo dõi (QĐ 4178/2007 mục III.2a).",
+     "Hỏi riêng khi anh Hiếu ra ngoài (ICOPE 2025 mục 3.5, 11.4). Bà không bị bỏ mặc; vấn đề là tiền và lời nói vô tình. Nói rõ bà bệnh nhẹ, hai chai dịch là khoản chi không cần, giúp gia đình bớt căng. Tầm soát DXA, HBsAg, anti-HCV chỉ đề nghị mềm, hẹn khi khám định kỳ miễn phí hoặc khám tại nhà (CV 7311 mục 3.2; Luật KBCB 15/2023 Điều 10 khoản 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha 1 lít (mỗi lít: NaCl 3,5 g, NaHCO₃ 2,5 g, KCl 1,5 g, glucose 20 g)",
+      "lieu": "Uống theo nhu cầu, ngụm nhỏ nếu buồn nôn; thêm sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 4178/2007 mục III.2a (thành phần, pha với nước đun sôi để nguội, uống theo nhu cầu); QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43. Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê",
+      "lieu": "Không có chỉ định hôm nay",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10; QĐ 5642/2015 mục 4.2.1 (cân nhắc, bà không có sốt, nhầy máu)."
+     },
+     {
+      "thuoc": "Loperamid, men vi sinh, Smecta",
+      "ham_luong": "Không bắt buộc",
+      "lieu": "Không cần vì bà đã gần hết; dùng hay không đều chấp nhận",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "IDSA 2017 khuyến cáo 46–47, 49; ACG 2016 khuyến cáo 6; QĐ 5642/2015 mục 4.2.3b (liều Smecta: không có trong tài liệu đã tải)."
+     },
+     {
+      "thuoc": "Truyền dịch tại nhà",
+      "ham_luong": "Ngưng",
+      "lieu": "Không truyền thêm",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Truyền tĩnh mạch khi mất nước từ độ II hoặc không uống được (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41)."
+     }
+    ],
+    "dan_do": [
+     "Nói giản dị: 'Hôm nay bác sĩ nghe tim phổi, đo huyết áp, khám bụng, thử đứng lên ngồi xuống, hỏi trí nhớ và tâm trạng, tất cả ổn; bà gần hết tiêu chảy và không còn thiếu nước. Chưa có xét nghiệm nên chưa dám nói khỏe hoàn toàn.'",
+     "Uống Oresol pha 1 lít nước đun sôi để nguội, uống theo nhu cầu và thêm sau mỗi lần đi ngoài lỏng; hết tiêu chảy thì ngưng. Ăn cháo, cơm mềm bình thường (QĐ 4178/2007 mục III.2a; IDSA 2017 khuyến cáo 43, 45).",
+     "Chỉ uống nước đã đun sôi; không uống nước mưa chum chưa đun; rửa tay xà phòng sau đi vệ sinh và trước khi ăn (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52).",
+     "Quay lại ngay hoặc đến cơ sở y tế gần nhất nếu sốt, phân có nhầy hoặc máu, đau bụng tăng, nôn không uống được, tiểu rất ít, chóng mặt, lú lẫn, phân trắng đục như nước vo gạo, hoặc còn tiêu chảy sau 14 ngày (QĐ 5642/2015 mục 5; IDSA 2017 khuyến cáo 8, 36; chóng mặt, lú lẫn, tiểu rất ít do người viết chọn).",
+     "Tái khám sau 1 tuần, mang vỏ chai dịch và toa (mốc người viết chọn). Xét nghiệm là quyền của bà; trạm y tế khám định kỳ miễn phí, có thể khám tại nhà nếu khó đi (CV 7311 mục 3.2).",
+     "Với gia đình (khi bà đồng ý): bà bệnh nhẹ, đã khỏe dần; chi phí lớn nhất là hai chai dịch không cần. Chuyện tiền nên nói trực tiếp với nhau, không nói trước mặt bà; lời nói trong nhà ảnh hưởng đến người già (người viết khuyến nghị, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 1 tuần",
+   "tiep_don": "Bà Lụa tái khám đúng hẹn sau một tuần, anh Hiếu chở đến, lần này chị Nhung (con dâu) đi cùng. Từ lần trước bà uống nước đun sôi, dùng Oresol, không truyền dịch nữa. Sinh hiệu: mạch 74 l/p, HA 126/76 mmHg, nhiệt 36,6°C, nhịp thở 18 l/p, SpO₂ 97%; cân nặng 49 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện 'kiểm tra lại cho chắc' cho bà Lụa là quá tay: đã hết tiêu chảy, ăn uống đủ, cân 49 kg, HA tư thế bình thường, không triệu chứng nào còn lại, trong khi xét nghiệm phân chỉ làm khi sốt, phân nhầy máu hoặc kéo dài (IDSA 2017 khuyến cáo 8, 36). Bà lạ giường, thêm hóa đơn, gia đình vừa dịu lại vì chuyện tiền thì nay căng thêm và bà càng tin mình là gánh nặng.",
+    "chuyen_tuyen": "Chuyển bà Lụa lên tuyến trên 'soi đại tràng cho yên tâm' khi tiêu chảy đã khỏi là không có chỉ định: ngay cả khi kéo dài 14–30 ngày mà xét nghiệm phân âm tính, ACG 2016 khuyến cáo 12 cũng không khuyến cáo nội soi. Bà 78 tuổi đi xa, tốn một ngày và tiền, không thêm thông tin nào, trong lúc phương án đúng là hẹn quay lại khi có dấu hiệu."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi hết đi ngoài rồi, ăn được hai chén cơm. Hôm nay thằng Hiếu với con Nhung cùng đưa tôi đi, tôi đỡ lo hơn.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "126/76",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "het_tieu_chay",
+     "noi_dung": "Từ ngày thứ 7 của bệnh hết đi ngoài lỏng; mỗi sáng một lần phân khuôn vàng nâu, không máu, không nhầy, không đau bụng, không sốt. Ăn ngon, ngày ba bữa, không nôn, tiểu 5–6 lần/ngày vàng nhạt. Hôm nay là ngày bệnh thứ 12, đã 5 ngày phân thành khuôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận khỏi: số ngày phân thành khuôn, ăn uống, tiểu, sốt, đau bụng"
+    },
+    {
+     "id": "tuan_qua",
+     "noi_dung": "Cả nhà làm theo dặn: mỗi sáng đun một bình nước sôi, chum nước mưa đã đậy nắp và chỉ dùng tưới vườn. Bà uống Oresol 2 ngày đầu rồi ngưng khi hết tiêu chảy. Không truyền dịch nữa, cô Bảy hỏi có truyền bổ không thì bà từ chối. Không uống kháng sinh, thuốc cầm hay thuốc bổ. Chỗ bầm ở tay đã hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuần qua làm gì: nước sôi, Oresol, ngưng tự truyền, thuốc"
+    },
+    {
+     "id": "dau_hieu_con",
+     "noi_dung": "Không còn mệt, không chóng mặt khi đứng, không phù chân, không khó thở, không sụt cân (49 kg như thường ngày). Không té ngã. Trong nhà không ai bị tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu còn sót, biến chứng muộn, người khác trong nhà"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Sau lần khám trước, anh Hiếu và chị Nhung nói chuyện lại: chị Nhung xin lỗi vì lỡ lời chuyện tiền, anh Hiếu nhận lo khoản thuốc men của mẹ. Hỏi riêng bà (chị Nhung ra ngoài): bà còn hơi lo tiền nhưng ngủ được, thấy được con dâu hỏi han, nấu cháo cho. Không ai bỏ mặc hay nặng lời với bà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chuyện gia đình sau một tuần; hỏi riêng lại dấu hiệu bỏ mặc, lạm dụng"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Bà vẫn không thử máu, thử nước tiểu: 'để tháng sau ra trạm khám định kỳ miễn phí rồi tính, giờ tôi khỏe rồi'. Bà nhận lời nói với con để cùng đi hoặc nhờ trạm khám tại nhà. Chị Nhung bảo sẽ đưa bà đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm lần 2: tôn trọng, ghi hồ sơ, hẹn khám định kỳ miễn phí"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tự sinh hoạt, đi lại, làm vườn nhẹ buổi sáng; ngủ 6 tiếng; không buồn chán, không mất hứng thú; nghe và nhìn như cũ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chức năng, tâm trạng (ICOPE)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, thể trạng nhỏ nhắn. Cao 151 cm, nặng 49 kg, BMI 21,5. Da véo xẹp ngay, môi lưỡi ẩm, niêm mạc mắt hồng, không phù.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 126/76 mmHg, mạch 74 l/p. Đứng 1 phút: 124/76, mạch 78. Đứng 3 phút: 122/74, mạch 80. Giảm tối đa 4/2 mmHg, không chóng mặt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột bình thường, không điểm đau, gan lách không to, không khối u.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi–đứng 5 lần không dùng tay mất 11 giây (< 14 giây là đạt). Đi thẳng 5 m ổn, quay người không loạng choạng.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Gọn gàng, khí sắc tươi hơn lần trước. Hai câu hỏi tâm trạng hai tuần qua: đều 'không'. Không ý tưởng tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Lụa vẫn từ chối: 'Để tháng sau ra trạm khám miễn phí rồi tính.' Đã giải thích lại; ghi hồ sơ.)",
+     "n": "Đã khỏi lâm sàng (cân 49 kg, HA tư thế ổn, tiểu đủ) nên không cần kiểm tra lại; nếu bà đồng ý làm cũng chấp nhận. Từ chối: ghi hồ sơ (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "Chưa làm.",
+     "n": "Không có chỉ định: tiêu chảy đã khỏi; ngay cả khi kéo dài 14–30 ngày và xét nghiệm phân âm tính cũng không khuyến cáo nội soi (ACG 2016 khuyến cáo 12)."
+    },
+    "test_nhanh_virus": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Lụa vẫn từ chối: 'Để tháng sau ra trạm khám miễn phí rồi tính.' Đã giải thích lại; ghi hồ sơ.)",
+     "n": "Anti-HCV 18–79 tuổi, bà 78 tuổi còn trong khoảng (USPSTF 2020, B, TL-0686); HBsAg (USPSTF 2020, B, TL-0685). Gợi ý lại, không ép (Luật KBCB 15/2023 Điều 13 khoản 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khám sức khỏe tổng quát bình thường ở nữ 78 tuổi (tư vấn kết quả: không phát hiện bất thường trên lâm sàng; chưa có cận lâm sàng do người bệnh từ chối); tiêu chảy cấp phân nước sau uống nước không sạch đã khỏi hoàn toàn (hết tiêu chảy từ ngày thứ 7, nay ngày thứ 12)",
+     "ok": 1,
+     "n": "Tiêu chảy cấp là dưới 14 ngày (ACG 2016, Phần mở đầu); 5 ngày phân khuôn, ăn đủ, cân về 49 kg, không hạ HA tư thế (VSH/VNHA 2024 Đ1.2.1), ICOPE 6 lĩnh vực đạt (Bảng 3.1). Số ngày phân khuôn đủ để coi là khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu chảy kéo dài hoặc tái phát",
+     "n": "Phân khuôn 5 ngày, tổng bệnh 12 ngày < 14 ngày (IDSA 2017 khuyến cáo 36; ACG 2016, Phần mở đầu). Dặn quay lại nếu tái phát hoặc ≥ 14 ngày."
+    },
+    {
+     "t": "Bệnh đại tràng nền hoặc ung thư đại tràng gây tiêu chảy",
+     "n": "Đã hết sau 7 ngày, không máu, không sụt cân, đại tiện đều trước bệnh (QĐ 5642/2015 mục 3.5). Soi đại tràng khi hết bệnh: không chỉ định (ACG 2016 khuyến cáo 12). Quyết định sàng lọc đại trực tràng sau 75 tuổi: không có trong tài liệu đã tải (USPSTF trang A&B: 50–75 tuổi)."
+    },
+    {
+     "t": "Trầm cảm hoặc bị bỏ mặc, lạm dụng trong gia đình",
+     "n": "Hai câu tâm trạng đều không; hỏi riêng bà: không ai bỏ mặc hay nặng lời, hai vợ chồng đã làm lành (ICOPE 2025 Bảng 3.1, mục 3.5, 11.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng và nói cho bà biết tiêu chí: hết đi ngoài lỏng, phân thành khuôn mỗi ngày, ăn uống bình thường, cân về như cũ, huyết áp tư thế bình thường",
+     "v": "c",
+     "n": "Bù ORS đến khi hết tiêu chảy, ăn lại bình thường (IDSA 2017 khuyến cáo 43, 45); tiêu chảy cấp < 14 ngày (ACG 2016, Phần mở đầu). Số ngày phân khuôn cần để coi là khỏi: không có trong tài liệu đã tải; mốc 5 ngày do người viết chọn."
+    },
+    {
+     "t": "Không cần thuốc nào nữa; ngưng Oresol (đã ngưng), không kháng sinh, thuốc cầm, men vi sinh; không tự truyền dịch lại",
+     "v": "c",
+     "n": "Oresol dùng đến khi hết tiêu chảy (IDSA 2017 khuyến cáo 43); không kháng sinh cho tiêu chảy cộng đồng (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 10); truyền tĩnh mạch chỉ khi mất nước từ độ II hoặc không uống được (QĐ 5642/2015 mục 4.2.3a)."
+    },
+    {
+     "t": "Giải thích không cần xét nghiệm phân, máu hay nội soi để kiểm tra sau khi đã khỏi; nói rõ khi nào mới cần: tiêu chảy tái phát, còn ≥ 14 ngày, sốt, phân nhầy máu, sụt cân",
+     "v": "c",
+     "n": "Xét nghiệm phân khi sốt, nhầy máu, đau quặn nặng, dấu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8); tiêu chảy ≥ 14 ngày là kéo dài (khuyến cáo 36); khi kéo dài 14–30 ngày: không khuyến cáo xét nghiệm huyết thanh, không khuyến cáo nội soi nếu xét nghiệm phân âm tính (ACG 2016 khuyến cáo 11, 12). Xét nghiệm kiểm tra sau khi khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kết luận khám sức khỏe: không phát hiện bệnh thực thể trên lâm sàng; cận lâm sàng bà từ chối sau tư vấn; ghi hồ sơ",
+     "v": "c",
+     "n": "Mẫu số 03 mục III.2 (cận lâm sàng theo chỉ định bác sĩ) và mục IV (kết luận) của TT 25/2026 (CV 7311 mục 1.2 điểm 1). Tiêu chuẩn phân loại sức khỏe: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn lại, không ép, tầm soát phù hợp tuổi: DXA, HBsAg, anti-HCV; khám định kỳ miễn phí tại trạm y tế hoặc khám tại nhà; ghi nhận bà vẫn từ chối hôm nay, hẹn hỏi lại",
+     "v": "c",
+     "n": "USPSTF 2025, B (TL-0351); USPSTF 2020, B (TL-0685, TL-0686); CV 7311 mục 3.2; Luật KBCB 15/2023 Điều 11 khoản 1, Điều 13 khoản 1. Sàng lọc ung thư đại trực tràng 50–75 tuổi (USPSTF trang A&B): bà ngoài khoảng, quyết định sau 75 tuổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khen cả nhà đã làm đúng (nước sôi, Oresol, ngưng truyền), giữ thói quen đó; hỏi riêng bà lại về dấu hiệu bỏ mặc, lạm dụng; khuyến khích cả nhà nói chuyện cùng nhau, hỗ trợ người chăm sóc",
+     "v": "c",
+     "n": "Để ý dấu hiệu lạm dụng, bỏ mặc (ICOPE 2025 mục 3.5, 11.4); hỗ trợ người chăm sóc (ICOPE 2025 mục 11); giữ bí mật điều bà kể riêng (Luật KBCB 15/2023 Điều 10 khoản 2). Phần giao tiếp, không cần nguồn khác. Nước đun sôi, rửa tay (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52); cách xử lý nước mưa chứa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ép bà làm xét nghiệm hoặc cấy phân, soi đại tràng 'kiểm tra sau bệnh'",
+     "v": "w",
+     "n": "Không có chỉ định (IDSA 2017 khuyến cáo 8; ACG 2016 khuyến cáo 12); không bị ép buộc khám bệnh, chữa bệnh (Luật KBCB 15/2023 Điều 10 khoản 4)."
+    },
+    {
+     "t": "Kê kháng sinh, thuốc bổ hoặc truyền dịch 'bồi bổ sau bệnh'",
+     "v": "w",
+     "n": "Đã khỏi, ăn uống đủ: không có chỉ định kháng sinh (IDSA 2017 khuyến cáo 36); truyền tĩnh mạch chỉ khi mất nước từ độ II hoặc không uống được (QĐ 5642/2015 mục 4.2.3a); thuốc bổ không rà thuốc trước (ICOPE 2025 mục 4.2.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khám sức khỏe tổng quát ở nữ 78 tuổi: bình thường trên lâm sàng (cân 49 kg, BMI 21,5, HA tư thế ổn, tim, phổi, bụng, ICOPE 6 lĩnh vực đạt); cận lâm sàng: bà từ chối sau tư vấn lần 2, đã ghi hồ sơ",
+     "Tiêu chảy cấp phân nước sau uống nước không sạch đã khỏi hoàn toàn (hết từ ngày thứ 7, nay ngày thứ 12, đã 5 ngày phân khuôn); không còn mất nước, không biến chứng lâm sàng",
+     "Mâu thuẫn gia đình về chi phí chăm sóc đã dịu; không có dấu hiệu bị bỏ mặc hay lạm dụng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (đã hết lỏng bao lâu, ăn uống, nước sôi, ngưng truyền, thuốc, chuyện gia đình hỏi riêng) → khám (cân, da niêm, HA tư thế, bụng, ngồi–đứng, tâm trạng) → cận lâm sàng (bà vẫn từ chối; không có chỉ định kiểm tra sau khỏi) → chẩn đoán → xử trí.",
+     "Tiêu chí khỏi: tiêu chảy cấp là dưới 14 ngày (ACG 2016); hết lỏng, phân thành khuôn, ăn lại bình thường (IDSA 2017 khuyến cáo 43, 45); thêm cân về như cũ, HA tư thế bình thường. Số ngày phân khuôn cần để kết luận khỏi: không có trong tài liệu đã tải, mốc 5 ngày do người viết chọn.",
+     "Khi nào làm xét nghiệm dù đã khỏi: không làm xét nghiệm kiểm tra khi không triệu chứng. Chỉ xét nghiệm phân khi sốt, nhầy máu, đau quặn nặng (IDSA 2017 khuyến cáo 8), bệnh nặng vừa hoặc > 7 ngày (ACG 2016 khuyến cáo 2); tiêu chảy ≥ 14 ngày là kéo dài cần đánh giá lại (IDSA 2017 khuyến cáo 36); nội soi không khuyến cáo khi kéo dài 14–30 ngày mà xét nghiệm phân âm tính (ACG 2016 khuyến cáo 12).",
+     "Lưu ý áp dụng ≥ 75 tuổi: ngưỡng sàng lọc có tuổi trên (HCV 18–79, đại trực tràng 50–75; USPSTF trang A&B, TL-0686); chỉ loãng xương nữ ≥ 65 (USPSTF 2025) và HBsAg (USPSTF 2020) áp được; quyết định sàng lọc sau 75 tuổi: không có trong tài liệu đã tải. Dùng đánh giá chức năng ICOPE 2025 Bảng 3.1.",
+     "Gia đình: hai vợ chồng đã làm lành. Vẫn hỏi riêng bà lại về bỏ mặc, lạm dụng (ICOPE 2025 mục 3.5, 11.4) và nhắc hỗ trợ người chăm sóc (mục 11); không đoán, hỏi trực tiếp."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê thuốc: không dùng kháng sinh, thuốc cầm, men vi sinh, thuốc bổ; Oresol đã ngưng đúng lúc hết tiêu chảy (IDSA 2017 khuyến cáo 36, 43; ACG 2016 khuyến cáo 9, 10).",
+     "Không xét nghiệm hay nội soi sau khỏi: không chỉ định (IDSA 2017 khuyến cáo 8; ACG 2016 khuyến cáo 12). Nói rõ mốc quay lại: tái phát, ≥ 14 ngày, sốt, nhầy máu, sụt cân (IDSA 2017 khuyến cáo 8, 36).",
+     "Kết luận khám theo Mẫu số 03 mục IV (TT 25/2026): không phát hiện bệnh thực thể trên lâm sàng; cận lâm sàng bà từ chối; phân loại sức khỏe theo quy định BYT (tiêu chuẩn không có trong tài liệu đã tải).",
+     "Tầm soát DXA, HBsAg, anti-HCV: gợi ý mềm, không ép; hẹn khi khám định kỳ miễn phí hoặc khám tại nhà (CV 7311 mục 3.2; USPSTF 2025, 2020). Giữ vệ sinh nước và tay (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52); quay lại khi có dấu hiệu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "—",
+      "lieu": "Không có chỉ định",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Đã khỏi: không kháng sinh (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 10), ngưng Oresol khi hết tiêu chảy (IDSA 2017 khuyến cáo 43), không truyền dịch (QĐ 5642/2015 mục 4.2.3a)."
+     }
+    ],
+    "dan_do": [
+     "Nói giản dị: 'Bà đã khỏi hẳn: hết tiêu chảy, ăn được, cân về như cũ, huyết áp bình thường. Bác sĩ không thấy bệnh gì khác qua khám. Chưa thử máu nên bác sĩ chỉ nói được là bình thường trên khám, không nói chắc 100%.'",
+     "Quay lại ngay nếu tiêu chảy trở lại, sốt, phân có nhầy hoặc máu, sụt cân, hoặc còn tiêu chảy sau 14 ngày (IDSA 2017 khuyến cáo 8, 36).",
+     "Tiếp tục uống nước đun sôi, đậy kín nước mưa, rửa tay xà phòng (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52).",
+     "Xét nghiệm là quyền của bà. Trạm y tế khám định kỳ miễn phí, có thể khám tại nhà; lúc đó hỏi lại về đo xương, thử viêm gan B và C (CV 7311 mục 3.2; USPSTF 2025, 2020). Chị Nhung và anh Hiếu có thể đưa bà đi cùng.",
+     "Với gia đình: cảm ơn cả hai đã đưa bà đi và làm theo dặn; nếu thấy bà buồn, lo, ngủ kém hoặc ai đó thấy quá sức khi chăm bà thì quay lại nói với bác sĩ (ICOPE 2025 mục 11)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ổn định, khỏi bệnh. Nhánh đúng: bà Lụa uống Oresol hai ngày, hết tiêu chảy từ ngày thứ 7, cân về 49 kg, không truyền dịch nữa; cả nhà đun nước sôi mỗi sáng, hai vợ chồng làm lành vì được nghe rõ rằng bệnh nhẹ và chi phí chính là hai chai dịch không cần. Tái khám bà vẫn từ chối xét nghiệm nhưng nhận lời đi khám định kỳ miễn phí, được ghi hồ sơ. Ca không có biến cố; bài học là quy trình.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: không nhiễu lời kể. Chỗ dễ sai là thấy 'gần hết bệnh' rồi bỏ qua khám mất nước, chỗ chọc kim và phổi sau 1 lít dịch.",
+  "Từ chối xét nghiệm: vì sợ kim và sợ tốn tiền, không phải không hợp tác; tư vấn một lần, ghi hồ sơ, phương án B lâm sàng; lượt 2 vẫn từ chối, hẹn khám định kỳ miễn phí.",
+  "Tự truyền dịch tại nhà: vết bầm và lời cô Bảy 'truyền thêm, uống kháng sinh cho sạch ruột' là nhiễu; không có chỉ định truyền hay kháng sinh.",
+  "Lý do thật là mâu thuẫn gia đình về tiền: chỉ lộ khi hỏi riêng; không có dấu hiệu bỏ mặc hay lạm dụng.",
+  "Nước mưa chum không nắp là yếu tố khởi phát (nghề làm vườn); chỉ mình bà uống nên không phải ổ dịch."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi bị tiêu chảy: đánh giá mất nước kể cả khi đã đỡ (IDSA 2017 khuyến cáo 5; ACG 2016 khuyến cáo 5).",
+  "Mất nước độ 1 uống được thì bù bằng Oresol; truyền tĩnh mạch khi từ độ II hoặc không uống được (QĐ 5642/2015 mục 4.2.3a); không kháng sinh cho tiêu chảy phân nước không sốt (IDSA 2017 khuyến cáo 36).",
+  "Từ chối xét nghiệm: tôn trọng, tư vấn một lần, ghi hồ sơ, theo dõi lâm sàng (Luật KBCB 15/2023 Điều 10 khoản 4, Điều 13 khoản 1).",
+  "Hỏi riêng người cao tuổi lý do thật; để ý dấu hiệu bỏ mặc, lạm dụng (ICOPE 2025 mục 3.5, 11.4).",
+  "Đã khỏi thì không xét nghiệm kiểm tra; nói rõ mốc quay lại (tái phát, ≥ 14 ngày, sốt, nhầy máu, sụt cân)."
+ ],
+ "diem_nho": [
+  "Mất nước: độ 1 mạch < 100, HA bình thường, nước tiểu ít; độ 2 mạch 100–120, HA < 90, thiểu niệu (QĐ 5642/2015 mục 3.1).",
+  "Tiêu chảy cấp < 14 ngày; ≥ 14 ngày là kéo dài (ACG 2016; IDSA 2017 khuyến cáo 36). Xét nghiệm phân khi sốt, nhầy máu, đau quặn nặng, nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8).",
+  "Không kháng sinh kinh nghiệm cho tiêu chảy phân nước người miễn dịch bình thường (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10).",
+  "Hạ HA tư thế: giảm ≥ 20/10 mmHg sau đứng (VSH/VNHA 2024 Đ1.2.1). Ngồi–đứng 5 lần < 14 giây là đạt (ICOPE 2025 Bảng 3.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5642/2015 – TL-0038 – bài Tiêu chảy do vi khuẩn, mục 3.1, 3.2, 3.5, 4.2.1, 4.2.3, 5, 6.",
+  "BYT – QĐ 4178/2007, hướng dẫn bệnh tả – TL-0176 – mục III.2a.",
+  "IDSA 2017 Infectious Diarrhea – TL-0230 – Bảng 1; khuyến cáo 5, 8, 10, 18, 36, 39, 41–43, 45–47, 49, 52.",
+  "ACG 2016 Acute Diarrheal Infections – TL-0233 – khuyến cáo 2, 5, 6, 9–12; phần bàn luận kháng sinh.",
+  "WHO ICOPE 2025 – TL-0016 – Bảng 3.1, mục 3.5, 4.2.4, 11, 11.4.",
+  "BYT – CV 5008/BYT-KCB (TL-0666); CV 7311/BYT-KCB (TL-0667) mục 1.1–1.3, 3.2; TT 25/2026/TT-BYT (TL-0668) Phụ lục XXIV Mẫu số 03 mục III.2, IV.",
+  "Luật Khám bệnh, chữa bệnh 15/2023/QH15 – TL-0007 – Điều 9 khoản 1, Điều 10 khoản 2 và 4, Điều 11 khoản 1, Điều 13 khoản 1.",
+  "VSH/VNHA 2024 – TL-0288 – Đ1.2.1. USPSTF 2025 (TL-0351), 2020 (TL-0685, TL-0686), 2018 (TL-0689), trang A&B (kho cũ mục 13)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết bản 1 (viết: Sonnet). Đã đọc QĐ 5642/2015 bài Tiêu chảy do vi khuẩn (mục 1–6); QĐ 4178/2007 mục III.2; IDSA 2017 Bảng 1, khuyến cáo 5, 8, 10, 18, 30–50, 52; ACG 2016 khuyến cáo 1–12; ICOPE 2025 Bảng 3.1, mục 3.5, 11.4; CV 7311 mục 1.1–1.3, 3.2; Mẫu số 03 Phụ lục XXIV TT 25/2026; Luật KBCB 15/2023 Điều 9–13; VSH/VNHA 2024 Đ1.2.1; USPSTF 2025, 2020, 2018, trang A&B.",
+  "Không có trong tài liệu đã tải: nguy cơ cụ thể của truyền dịch tự ý; lượng Oresol mL/ngày cho người lớn; liều Smecta; số ngày phân khuôn để kết luận khỏi (mốc 5 ngày) và mốc tái khám 1 tuần do người viết chọn; xét nghiệm kiểm tra sau khỏi; cách xử lý nước mưa chứa; tiêu chuẩn phân loại sức khỏe; sàng lọc ung thư sau 75 tuổi; cam kết văn bản khi từ chối xét nghiệm tùy chọn; dấu hiệu quay lại ngoài ngưỡng sinh hiệu.",
+  "Mâu thuẫn: dùng sổ TH-0717 (kháng sinh kinh nghiệm, loperamid) và TH-0624 (men vi sinh); ca có thêm điểm nhỏ mới: QĐ 5642 mục 4.2.1 liệt kê 'người già' trong yếu tố cần cân nhắc kháng sinh, xem TQ-0014_mau_thuan.md. Không có ảnh da."
+ ]
+}
