@@ -1,0 +1,844 @@
+{
+ "ma_ca": "NH-1016",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_viem_da_co_dia_khong_dien_hinh",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Viêm da cơ địa / chàm (trẻ em)",
+  "chan_doan_phai_loai_tru": [
+   "Ghẻ",
+   "Viêm da tiếp xúc"
+  ],
+  "nhom_tuoi": "Mẫu giáo (1–5 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Trẻ mẫu giáo",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng (kem corticoid và dưỡng ẩm)",
+  "thuoc_dang_dung": "Statin đang dùng (của ông nội sống cùng nhà, bé không uống)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (trường mẫu giáo cho nghỉ, đòi giấy bác sĩ mới cho đi học lại)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Minh Khang",
+  "tuoi": 4,
+  "gioi": "Nam",
+  "nghe": "Trẻ mẫu giáo",
+  "can_nang": 17,
+  "chieu_cao": 103,
+  "xung_ho": "Bé 4 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ', trả lời ngắn, hiền, hay đưa tay gãi cẳng chân. Mẹ kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ.",
+  "tinh_cach": "Mẹ 33 tuổi (chị Hạnh), kế toán, điềm tĩnh, nói rõ ràng, đi khám sau giờ làm, mang tuýp thuốc cũ, sổ khám và túi thuốc cả nhà. Bé ngoan, ngồi yên cho khám.",
+  "kieu_nhieu": "Hợp tác tốt: mẹ trả lời đủ và thật, không đòi thuốc hay xét nghiệm, đưa thuốc ra khi được hỏi. Hai việc mẹ chỉ nói khi được hỏi: chuyện mẹ tự ngưng kem và dưỡng ẩm (mẹ ngại nói vì sợ bị trách), và mục đích thật là lấy giấy cho bé đi học lại. Bé thật thà: hỏi thẳng 'con có ngứa không' thì nói 'con nhột'.",
+  "nguoi_nha": "Mẹ bé (chị Hạnh, 33 tuổi) đi cùng. Hầu hết câu hỏi mẹ trả lời (nguoi_noi = nguoi_nha); hỏi thẳng bé (vd 'Khang có nhột không?') thì bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e6b48a",
+   "toc": "#1d1512",
+   "kieuToc": "tre",
+   "ao": "#5b8def",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e0ad86",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#8fb8a6",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 4 tuổi nổi mảng đỏ khô ở tay chân 2 tuần; trường cho nghỉ học, mẹ cần giấy bác sĩ",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: tối nay phòng khám không làm được xét nghiệm máu, soi cạo da, soi nấm, cấy; X-quang, siêu âm, CT, nội soi cũng không có. Cũng không làm được test áp, test lẩy da, điện tim, đường huyết mao mạch, que thử nước tiểu, đo PEF. Còn dùng được: nhiệt kế, ống nghe nhi, cân thước, đèn khám, kính soi da cầm tay, máy đo SpO₂, tủ thuốc của phòng khám."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Tối thứ Tư, 19 giờ 40. Bé trai 4 tuổi, 17 kg, mẹ đưa đến vì nổi mảng đỏ khô ở tay, chân, thân khoảng 2 tuần. Điều dưỡng Linh đo: nhiệt độ 36,8 °C, mạch 98 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, chơi được, ngồi trong lòng mẹ. Mẹ mang theo sổ khám và một túi thuốc của cả nhà.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khang không sốt, ăn chơi bình thường, tổn thương rải rác không rỉ mủ: nhập viện không có chỉ định. Phần điều trị cốt lõi là dưỡng ẩm và corticoid bôi, làm được tại nhà (JTF 2023, Khuyến cáo 1, tr. 284; Khuyến cáo 3, tr. 286). Bé phải xa mẹ, tiếp xúc người bệnh khác, chi phí tăng, còn mẹ vẫn chưa hiểu vì sao da bùng lại khi ngưng thuốc nên về nhà dễ tái phát.",
+    "chuyen_tuyen": "Chuyển lên khoa da liễu nhi chỉ vì mảng đồng xu ở chân là quá tay: bé chưa dùng bậc thuốc bôi đầy đủ nào, chưa nhiễm khuẩn, chưa có dấu hiệu nặng (QĐ 4416/2023, Viêm da cơ địa mục 3.2.1). Mẹ nghỉ làm một ngày chờ đợi, tuyến trên cũng khởi đầu bằng dưỡng ẩm và corticoid bôi (JTF 2023, Khuyến cáo 3). Bé vẫn chưa có giấy cho đi học lại."
+   },
+   "loi_mo": "Bác sĩ ơi, bé nhà em nổi mảng đỏ khô ở tay với chân hai tuần rồi, đêm hay cào. Hôm thứ Hai cô giáo cho nghỉ, nói chờ khám xem có phải ghẻ không.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai tuần nay bé nổi sẩn đỏ khô ở cẳng tay, vài mảng tròn đỏ ở đùi và cẳng chân, vài mảng ở lưng. Bé ít kêu ngứa nhưng hay cào chân, ban đêm cựa quậy, trở mình nhiều. Không sốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, ngứa"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước nếp khuỷu bé đỏ ngứa, bác sĩ phòng khác cho kem hydrocortison 1% và dặn dưỡng ẩm. Mẹ bôi 4 ngày, thấy da êm thì ngưng cả kem lẫn dưỡng ẩm vì sợ corticoid làm mỏng da. Khoảng 5 ngày sau da nổi lại, lan ra chân tay và thân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự ngưng thuốc đang dùng (yếu tố khởi phát)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Bé đỏ má, khô da từ 8 tháng tuổi, nếp khuỷu hay đỏ từng đợt. Mẹ viêm mũi dị ứng, bố hồi nhỏ bị hen. Bé chưa khò khè, tiêm chủng đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử cá nhân và gia đình dị ứng, khô da, khởi phát sớm"
+    },
+    {
+     "id": "ngua_dem",
+     "noi_dung": "Bé hay nói 'con nhột', cào cả ngày lúc xem tivi lẫn ban đêm, không nặng hơn hẳn về đêm. Ngủ chập chờn nhưng ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ngứa (phân biệt ghẻ)"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Bố, mẹ, ông nội, bà nội ở cùng nhà không ai ngứa hay nổi mụn nước ở kẽ tay. Cô giáo nói có hai bạn trong lớp hay gãi, chưa biết khám chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người sống chung ngứa (loại trừ ghẻ)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Hai tuần nay không đổi sữa tắm, nước giặt, không mặc đồ len, không dính cây cỏ, nhựa, hóa chất, không nuôi thú. Tổn thương không nằm theo vùng nào bị che hay chạm vào một thứ cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố tiếp xúc (loại trừ viêm da tiếp xúc)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không sốt, không đau, không rỉ mủ, ăn uống bình thường, chơi như thường, đi tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nhiễm khuẩn, dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Cô giáo sợ ghẻ lây nên cho bé nghỉ từ thứ Hai; hiệu trưởng nói chỉ cho đi học lại khi có giấy bác sĩ xác nhận. Mẹ phải đi làm nên mong lấy giấy tối nay để mai bé đi học. Mẹ không nói ngay vì nghĩ bác sĩ chỉ lo chữa bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Lý do thật đến khám: giấy cho đi học lại"
+    },
+    {
+     "id": "thuoc_nha",
+     "noi_dung": "Bé không uống thuốc nào. Trong túi mẹ có vỉ atorvastatin của ông nội (ông uống mỗi tối); mẹ hỏi ông nội muốn cho bé uống ké cho 'bổ' thì có được không. Mẹ để thuốc ông trong ngăn kéo thấp ở phòng khách.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Statin trong nhà: thuốc người lớn, bé không dùng"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn uống bình thường, không dị ứng thức ăn rõ, mẹ chưa kiêng gì.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Hai cẳng tay mặt duỗi: đám sẩn đỏ nhỏ khô, tụm lại, phủ vảy mỏng, vài vết xước. Mặt ngoài cánh tay: dày sừng quanh nang lông. Mặt trước hai đùi và cẳng chân: năm mảng tròn hoặc bầu dục 2–3 cm, ranh giới khá rõ, đỏ hồng, vảy mỏng nứt nhẹ; một mảng cẳng chân phải rỉ dịch trong ít do cào; không vảy mật ong, không mụn mủ, không bọng nước. Lưng: ba mảng 1,5–2 cm cùng kiểu. Nếp khuỷu hai bên: hồng nhạt, khô, hơi dày, rãnh da hơi rõ. Nếp khoeo, hai má, cổ: sạch. Da toàn thân khô. Kẽ ngón tay, mặt trước cổ tay, quanh rốn, thắt lưng, kẽ mông, bìu và dương vật, lòng bàn tay, bàn chân: không mụn nước, không luống ghẻ, không sẩn cục ở nách, bẹn, bìu.",
+     "k": 1,
+     "hien": "Cẳng tay hai bên mặt duỗi: sẩn đỏ khô tụm lại. Đùi, cẳng chân, lưng: vài mảng tròn 2–3 cm đỏ hồng, vảy mỏng. Nếp khuỷu hồng nhạt, khô. Nhiều vết xước.",
+     "media": [
+      {
+       "vi_tri": "Cẳng tay phải, mặt duỗi",
+       "id": "HA-DA-0471",
+       "chu": "Đám sẩn đỏ nhỏ khô tụm lại trên da cẳng tay, không mụn nước, không vảy tiết."
+      },
+      {
+       "vi_tri": "Mặt trước đùi phải",
+       "id": "HA-DA-0470",
+       "chu": "Một mảng tròn 2–3 cm, đỏ, vảy mỏng nứt, bờ rõ."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, không sốt, niêm mạc ẩm, không xanh xao, không phù. Cân nặng 17 kg, cao 103 cm.",
+     "k": 0,
+     "hien": "Tỉnh, chơi được, hay gãi."
+    },
+    "dau_mat_co": {
+     "a": "Hạch bẹn hai bên nhỏ dưới 0,5 cm, di động, không đau; không hạch nách, không hạch cổ sưng đau. Cổ mềm.",
+     "k": 0
+    },
+    "da_dau_mong": {
+     "a": "Da đầu khô, vảy ít, không chấy rận. Móng tay ngắn, vết xước dọc hai cẳng tay do gãi, dưới móng có cặn bẩn.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Không rút lõm, không khò khè, phổi thông khí rõ hai bên.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p. Không rút lõm lồng ngực."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần và tối nay không làm được: chẩn đoán viêm da cơ địa dựa vào lâm sàng (QĐ 4416/2023, Viêm da cơ địa mục 2.3)."
+    },
+    "soi_ghe": {
+     "v": "u",
+     "r": "Nếu làm ở nơi có kỹ thuật viên: cạo vảy cẳng tay và kẽ ngón không thấy cái ghẻ, trứng hay phân ghẻ.",
+     "n": "Tối nay không làm được; âm tính không loại trừ hẳn ghẻ (BASHH 2025, Diagnosis; QĐ 4416/2023, Ghẻ mục 2.2). Thay bằng hỏi người chung nhà, khám đúng vị trí và soi da cầm tay."
+    },
+    "soi_nam": {
+     "v": "u",
+     "r": "Nếu làm ở nơi có kỹ thuật viên: KOH không thấy sợi nấm.",
+     "n": "Loại nấm da khi mảng tròn, tối nay không làm được (QĐ 4416/2023, Viêm da cơ địa mục 2.2, 2.4); nghiêng về chàm, làm nếu không đáp ứng."
+    },
+    "soi_da": {
+     "v": "u",
+     "r": "Soi da cầm tay kẽ ngón tay, mặt trước cổ tay, quanh rốn, thắt lưng, kẽ mông: không thấy đường hầm ghẻ, không thấy hình 'vệt khói máy bay'.",
+     "n": "Không bắt buộc: 'vệt khói máy bay' là cận lâm sàng của ghẻ (QĐ 4416/2023, Ghẻ mục 2.2); phối hợp bệnh sử để loại ghẻ."
+    },
+    "test_ap": {
+     "r": "Cơ sở không làm được: test áp cần kỹ thuật viên dán và đọc ở ngày 3–4.",
+     "n": "Test áp tìm dị nguyên của viêm da tiếp xúc dị ứng (QĐ 4416/2023, Viêm da tiếp xúc mục 2.1.2); không phải xét nghiệm của viêm da cơ địa."
+    },
+    "test_lay_da": {
+     "r": "Cơ sở không làm được: test lẩy da cần kỹ thuật viên và dị nguyên chuẩn.",
+     "n": "Chỉ để xác định dị nguyên, không cần chẩn đoán hay xử trí hôm nay (QĐ 4416/2023, Viêm da cơ địa mục 2.2)."
+    },
+    "ecg": {
+     "r": "Cơ sở không làm được: máy điện tim do kỹ thuật viên vận hành, đã nghỉ."
+    },
+    "que_nt": {
+     "r": "Cơ sở không làm được: tối nay không có que thử nước tiểu."
+    },
+    "glu_mm": {
+     "r": "Cơ sở không làm được: tối nay không có máy đo đường huyết mao mạch."
+    },
+    "pef": {
+     "r": "Cơ sở không làm được: không có lưu lượng kế đỉnh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa ở trẻ 4 tuổi, đợt bùng phát sau tự ngưng điều trị, thể không điển hình (đám sẩn khô và mảng đồng xu ở mặt duỗi cẳng tay, đùi, cẳng chân; nếp gấp ít), chưa nhiễm khuẩn",
+     "ok": 1,
+     "n": "Hanifin–Rajka (QĐ 4416/2023, Viêm da cơ địa mục 2.3.1): ≥ 3 chính (ngứa; vị trí gồm mặt duỗi ở trẻ em; mạn, tái phát từ 8 tháng tuổi; tiền sử cá nhân và gia đình dị ứng) và ≥ 3 phụ (khô da, khởi phát sớm, dày sừng quanh nang lông); tiêu chuẩn Anh (mục 2.3.2) cũng đủ. Lệch chuẩn: mục 2.1 nói trẻ em hay ở khoeo, nếp khuỷu, cổ, ít khi ở mặt duỗi, còn mục 2.3.1 và QĐ 75/2015 (mục 3c) kể mặt duỗi là điển hình (ghi cả hai, xem NH-1016_mau_thuan.md)."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Ít nghĩ: không ai sống chung ngứa, ngứa không nặng về đêm, không mụn nước kẽ ngón, cổ tay, rốn, bìu, không luống, soi da không thấy (QĐ 4416/2023, Ghẻ mục 2.1, 2.2; BASHH 2025, Clinical history). Corticoid bôi trước đó có thể làm biến dạng ghẻ (BASHH 2025, Scabies incognito, viết cho người lớn): dặn tái khám."
+    },
+    {
+     "t": "Viêm da tiếp xúc (kích ứng hoặc dị ứng)",
+     "n": "Ít nghĩ: không tiếp xúc chất mới, tổn thương không theo vùng tiếp xúc, có tiền sử chàm (QĐ 4416/2023, Viêm da tiếp xúc mục 2.1.1, 2.1.3: dựa lâm sàng và yếu tố tiếp xúc). Test áp tối nay không làm được; JTF 2023, Khuyến cáo 1 (tr. 284) xếp viêm da tiếp xúc là bệnh giống chàm cần loại."
+    },
+    {
+     "t": "Nấm da thân (chàm đồng tiền dễ nhầm nấm thân)",
+     "n": "Ít nghĩ: nhiều mảng đối xứng, nếp khuỷu cùng viêm, tiền sử chàm; nấm da là chẩn đoán phân biệt (QĐ 4416/2023, Viêm da cơ địa mục 2.4). Soi nấm tối nay không làm được: làm nếu không đáp ứng."
+    },
+    {
+     "t": "Chàm bội nhiễm (chốc hóa)",
+     "n": "Không có: không vảy mật ong, không mụn mủ, không sốt; một mảng rỉ dịch trong ít do cào (JTF 2023, Khuyến cáo 9, tr. 292: nhiễm khuẩn nặng gồm rỉ dịch nhiều, đóng vảy tiết, mụn mủ, đau)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ bé đã dùng thuốc gì, vì sao ngưng; giải thích đợt này bùng lại vì ngưng sớm (da êm chưa phải hết viêm), ghi nhận nỗi lo corticoid làm mỏng da, dặn bằng văn bản cách bôi",
+     "v": "c",
+     "n": "JTF 2023 (TL-0256), Khuyến cáo 1 (tr. 284): giáo dục, kế hoạch hành động, bảo đảm dùng thuốc đúng; hình 2 (tr. 286): ngưng khi da mới nhìn như đỡ thì viêm dưới da còn, dễ tái phát. Mỏng da, teo da là tác dụng phụ có thật (QĐ 4416/2023, mục 3.2.1)."
+    },
+    {
+     "t": "Dưỡng ẩm không mùi, ít nhất 1 lần/ngày và thường nhiều lần; 2–3 lần/ngày khi hanh khô; thoa ngay sau tắm, cả khi da đã êm",
+     "v": "c",
+     "n": "JTF 2023, Khuyến cáo 1 (tr. 284) và 2 (tr. 286: loại thông thường không mùi); QĐ 4416/2023 (Viêm da cơ địa mục 3.2.3, 4: 2–3 lần/ngày); QĐ 75/2015 (mục 4b)."
+    },
+    {
+     "t": "Corticoid bôi hiệu lực thấp–trung bình, 1 lần/ngày lên sẩn và mảng: hydrocortison 1–2,5% (QĐ 75) hoặc nhóm 3–5 như betamethason valerat 0,1% kem (JTF); bôi đến khi da phẳng, hết ngứa rồi giảm dần, không ngưng đột ngột",
+     "v": "c",
+     "n": "QĐ 75/2015 (mục 4b): trẻ nhỏ hydrocortison 1–2,5%; QĐ 4416/2023 (mục 3.2.1): 1 lần/ngày, giảm dần để tránh tái phát; JTF 2023, Khuyến cáo 3, 6 (tr. 286, 290), Bảng 4 (tr. 288: betamethason valerat 0,1% kem là nhóm 5). Hydrocortison thận trọng hơn (sổ mâu thuẫn NH-1028). Số ngày cố định cho thân: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tắm nước ấm, không quá nóng, sữa tắm dịu nhẹ không mùi, mặc cotton, cắt ngắn móng tay; không cần kiêng ăn",
+     "v": "c",
+     "n": "QĐ 4416/2023 (mục 3.2.3, 4: tắm nước ấm không quá nóng, cotton; kiêng chỉ khi nặng và đã xác định thức ăn); QĐ 75/2015 (mục 4b); JTF 2023, Khuyến cáo 13 (tr. 294): không kiêng ăn."
+    },
+    {
+     "t": "Hỏi 'chị còn mong muốn gì hôm nay'; nói rõ giấy cấp tối nay là giấy khám bệnh ghi chẩn đoán và tình trạng đã khám thấy, không phải giấy khám sức khỏe phân loại; không ghi điều chưa khám hay chưa xét nghiệm được",
+     "v": "c",
+     "n": "Giao tiếp. TT 32/2023/TT-BYT (TL-0669), Điều 30 khoản 2a: khám bệnh ngoại trú không thuộc khám sức khỏe cấp giấy; Điều 32 khoản 3: thiếu chuyên khoa thì không phân loại. Tiêu chuẩn đi học lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn không cho bé uống thuốc của người lớn (atorvastatin của ông), cất thuốc xa tầm tay",
+     "v": "c",
+     "n": "Giao tiếp an toàn thuốc. Liều và chỉ định statin ở trẻ 4 tuổi: không có trong tài liệu đã tải; bé không có chỉ định."
+    },
+    {
+     "t": "Hẹn tái khám sau 7–10 ngày (hoặc sớm nếu sốt, rỉ mủ, vảy mật ong, mụn nước chùm, lan nhanh, đau); báo ngay nếu người nhà bắt đầu ngứa",
+     "v": "c",
+     "n": "Mốc 7–10 ngày là thiết kế của ca (không có mốc trong tài liệu đã tải). Dấu hiệu nhiễm khuẩn: JTF 2023, Khuyến cáo 9 (tr. 292); ghẻ: QĐ 4416/2023 (Ghẻ mục 3.1)."
+    },
+    {
+     "t": "Kháng histamin uống khi ngứa nhiều làm mất ngủ",
+     "v": "a",
+     "n": "QĐ 4416/2023 (mục 3.2.2): dùng khi ngứa; liều cho trẻ 4 tuổi: không có trong tài liệu đã tải. Nguồn quốc tế không khuyến cáo thường quy (sổ mâu thuẫn NH-0995, mục kháng histamin)."
+    },
+    {
+     "t": "Corticoid bôi hiệu lực mạnh hơn (betamethason dipropionat 0,05%) ngắn ngày ở mảng; hoặc tacrolimus 0,03% bôi",
+     "v": "a",
+     "n": "QĐ 4416/2023 (mục 3.2.1): trên 2 tuổi dùng loại mạnh hơn; tacrolimus 0,03% cho trẻ 2–16 tuổi, thường sau đợt corticoid; JTF 2023, Khuyến cáo 4 (tr. 287). Chưa cần ở lượt đầu."
+    },
+    {
+     "t": "Corticoid rất mạnh (clobetasol) lên thân và chi của bé 4 tuổi",
+     "v": "w",
+     "n": "QĐ 4416/2023 (mục 3.2.1): loại mạnh cho vùng da dày, lichen hóa; JTF 2023 (tr. 287): tránh nhóm 1–2 quá 4 tuần. Tổn thương mỏng (sổ mâu thuẫn DL-0085)."
+    },
+    {
+     "t": "Prednisolon uống hoặc tiêm corticoid",
+     "v": "w",
+     "n": "QĐ 4416/2023 (mục 3.2.2): chỉ khi bùng phát nặng, ngắn hạn; JTF 2023, Khuyến cáo 25 (tr. 303): gợi ý không dùng. Bé không nặng (sổ mâu thuẫn NH-0995, NH-1028)."
+    },
+    {
+     "t": "Kháng sinh uống hoặc bôi",
+     "v": "w",
+     "n": "Chưa nhiễm khuẩn: JTF 2023, Khuyến cáo 9 (tr. 292) gợi ý không thêm kháng khuẩn khi không có nhiễm khuẩn nặng."
+    },
+    {
+     "t": "Điều trị ghẻ thử (permethrin) cho bé và cả nhà",
+     "v": "w",
+     "n": "Chưa đủ tiêu chuẩn chẩn đoán ghẻ (QĐ 4416/2023, Ghẻ mục 2.1–2.3); điều trị cả người tiếp xúc áp dụng khi đã chẩn đoán (mục 3.1). Không có nguồn nào nói thuốc gây hại trong ca này."
+    },
+    {
+     "t": "Kiêng sữa, trứng, hải sản",
+     "v": "w",
+     "n": "JTF 2023, Khuyến cáo 13 (tr. 294); QĐ 4416/2023 (mục 4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa ở trẻ 4 tuổi, đợt bùng phát sau tự ngưng kem corticoid và dưỡng ẩm",
+     "Thể không điển hình: sẩn khô ở mặt duỗi cẳng tay, mảng đồng xu ở đùi, cẳng chân, lưng; nếp gấp ít",
+     "Chưa nhiễm khuẩn; chưa dấu hiệu nặng",
+     "Loại trừ lâm sàng: ghẻ, viêm da tiếp xúc, nấm da (xét nghiệm không làm được tối nay)",
+     "Lý do thật đến khám: giấy cho bé đi học lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: lý do và ngứa; khởi phát, thuốc đã dùng; tiền sử bản thân và gia đình; người chung nhà ngứa; tiếp xúc; nhiễm khuẩn; mong muốn thật của mẹ. Khám da toàn thân (kẽ ngón, cổ tay, rốn, bìu, nếp gấp), soi da.",
+     "Đủ Hanifin–Rajka (QĐ 4416/2023, mục 2.3.1; QĐ 75/2015, mục 3c). Lệch: tổn thương ở mặt duỗi, nếp gấp ít (QĐ 4416 mục 2.1 nói trẻ em ít khi ở mặt duỗi, mục 2.3.1 coi là điển hình). Vẫn nghĩ tới nhờ tiền sử chàm má 8 tháng, khô da, mẹ viêm mũi dị ứng, bố hen, nếp khuỷu còn hồng khô. Suýt bỏ sót: bé 'ít kêu ngứa', trường lo ghẻ dễ làm chệch hướng.",
+     "Yếu tố khởi phát là mẹ ngưng kem và dưỡng ẩm khi da mới nhìn êm; viêm dưới da còn nên tái phát (JTF 2023, hình 2, tr. 286).",
+     "Ghẻ: người chung nhà không ngứa, ngứa không tăng rõ về đêm, không tổn thương kẽ ngón, cổ tay, rốn, bìu, không luống ghẻ (QĐ 4416/2023, Ghẻ mục 2.1, 2.2). Viêm da tiếp xúc: không tiếp xúc mới, phân bố không theo vùng tiếp xúc (QĐ 4416/2023, Viêm da tiếp xúc mục 2.1.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám; không nhập viện, không chuyển tuyến (không nặng, không nhiễm khuẩn).",
+     "Cốt lõi: dưỡng ẩm đều + corticoid bôi 1 lần/ngày đủ lâu rồi giảm dần; giáo dục mẹ về nỗi sợ corticoid (JTF 2023, Khuyến cáo 1, 3, 6).",
+     "Không kháng sinh, không corticoid uống, không điều trị ghẻ thử, không kiêng ăn.",
+     "Giấy: giấy khám bệnh ghi những gì khám thấy, không phải giấy khám sức khỏe (TT 32/2023/TT-BYT, Điều 30 khoản 2a)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi, không hương liệu",
+      "ham_luong": "Loại thông thường sẵn có",
+      "lieu": "Thoa phủ toàn thân ít nhất 1 lần, thường 2–3 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Ngay sau tắm và khi da khô",
+      "so_ngay": "Hằng ngày, dài hạn, kể cả khi da đã êm",
+      "ghi_chu": "JTF 2023, Khuyến cáo 1, 2 (tr. 284, 286); QĐ 4416/2023 (mục 3.2.3, 4). Lượng gam mỗi tuần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Hydrocortison 1% kem (QĐ 75) hoặc betamethason valerat 0,1% kem (nhóm 5, JTF 2023)",
+      "ham_luong": "Hydrocortison 1–2,5%; betamethason valerat 0,1%",
+      "lieu": "Một lớp mỏng lên sẩn và mảng (không bôi lên da lành), 1 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối sau tắm, trước khi thoa dưỡng ẩm",
+      "so_ngay": "Đến khi da phẳng và hết ngứa rồi giảm dần; tái khám 7–10 ngày",
+      "ghi_chu": "QĐ 75/2015 (mục 4b); QĐ 4416/2023 (mục 3.2.1: 1 lần/ngày, giảm dần); JTF 2023, Khuyến cáo 3, 6, Bảng 4. Hydrocortison thận trọng hơn. Số ngày tối đa cho thân: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Da 'êm' chưa phải hết viêm: ngưng kem sớm là lý do bé nổi lại. Bôi đủ lâu rồi giảm dần theo hẹn; kem bôi đúng cách, đúng thời gian ít gây mỏng da.",
+     "Dưỡng ẩm mỗi ngày, kể cả khi da đẹp; tắm nước ấm, ngắn, sữa tắm dịu nhẹ; cắt móng; mặc cotton.",
+     "Giấy tối nay là giấy khám bệnh ghi chẩn đoán và tình trạng hôm nay; bác sĩ sẽ khám lại ở lượt hẹn trước khi nhận định thêm về ghẻ.",
+     "Cất thuốc của ông (atorvastatin) cao, xa tầm tay bé; không cho bé uống thuốc người lớn.",
+     "Quay lại ngay nếu sốt, mảng rỉ mủ hoặc vảy mật ong, mụn nước chùm, lan nhanh, bé đau; báo nếu người nhà bắt đầu ngứa."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 10 ngày, 19 giờ 15 (tối thứ Bảy). Bé Khang cùng mẹ. Điều dưỡng Linh đo: nhiệt độ 36,7 °C, mạch 96 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, chơi bình thường. Mẹ nói bé đã đi học lại từ hôm sau lượt khám trước, da đỡ nhiều chỗ nhưng còn hai mảng ở cẳng chân.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bé Khang vì 'đỡ một phần' sau 10 ngày là quá tay: da đã phẳng ở tay, thân, đùi, không sốt, không nhiễm khuẩn, ăn chơi bình thường. Hai mảng cẳng chân còn đỏ dày là phần việc chỉnh bậc thuốc bôi và cách chăm da tại nhà (QĐ 4416/2023, Viêm da cơ địa mục 3.2.1). Bé nghỉ học lại, mẹ nghỉ làm, tốn kém mà không có thuốc nào khác.",
+    "chuyen_tuyen": "Chuyển da liễu ngay khi mới dùng thuốc nhẹ 7 ngày, chưa chỉnh bậc thuốc, chưa kiểm tra cách bôi và tắm là sớm: JTF 2023 (Khuyến cáo 1, tr. 284; Khuyến cáo 5, tr. 289–290) yêu cầu bảo đảm chẩn đoán, giáo dục, tránh yếu tố kích thích, bôi đúng trước khi tăng bậc. Mẹ mất thêm một buổi chờ, bé vẫn có thể đạt kết quả ở tuyến này."
+   },
+   "loi_mo": "Bác sĩ ơi, bé đỡ nhiều rồi, tay với bụng hết hẳn, nhưng hai chỗ ở cẳng chân vẫn đỏ, dày, đêm vẫn gãi. Em bôi hết tuýp rồi mà không hết hẳn, không biết thuốc có hợp không.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tay, thân, đùi hết đỏ, còn hai mảng ở cẳng chân đỏ, dày, bé còn gãi 2–3 đêm mỗi tuần. Không sốt, không rỉ mủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, đáp ứng"
+    },
+    {
+     "id": "cach_boi",
+     "noi_dung": "Mẹ bôi hydrocortison 1% mỗi tối đủ 10 ngày, hết tuýp 15 g, bôi đúng chỗ đỏ, dùng đầu ngón tay. Dưỡng ẩm bôi 1 lần buổi sáng, thấy bé 'sạch' ở nhiều chỗ nên giảm dần. Mẹ ghi lại từng ngày trong sổ tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ: thuốc, lượng, số lần, dưỡng ẩm"
+    },
+    {
+     "id": "tam",
+     "noi_dung": "Mẹ tắm cho bé mỗi sáng và tối bằng nước khá nóng 10–15 phút, xà phòng thơm của cả nhà, vì nghĩ tắm nóng cho 'chết vi trùng'. Bé gãi nhiều sau tắm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố kích thích còn tồn tại"
+    },
+    {
+     "id": "nhiem_khuan",
+     "noi_dung": "Không rỉ dịch, không vảy mật ong, không mụn mủ, không đau; bé ăn chơi bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm khuẩn thứ phát"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Cả nhà vẫn không ai ngứa hay nổi mụn nước ở kẽ tay. Hai bạn trong lớp đã được trạm y tế khám, cô nói không phải ghẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người chung nhà ngứa (loại trừ ghẻ)"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Giấy khám bệnh lần trước trường đã nhận, bé đi học lại được. Cô hiệu phó nói cuối tháng cần thêm 'giấy chứng nhận sức khỏe' của cả lớp; mẹ hỏi có lấy được ngay hôm nay không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Giấy chứng nhận sức khỏe (lý do thật còn dở)"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng tay, thân, đùi: da phẳng, sạm màu nhẹ sau viêm, không còn sẩn đỏ, còn khô. Nếp khuỷu: sạch. Hai mảng cẳng chân (phải 3 × 3 cm, trái 2,5 × 2 cm): đỏ nâu, dày, rãnh da nổi rõ (lichen hóa nhẹ), vài vết xước, không rỉ dịch, không vảy tiết. Không mụn mủ. Kẽ ngón, cổ tay, rốn, bìu: vẫn sạch, không luống ghẻ.",
+     "k": 1,
+     "hien": "Tay, thân, đùi: da phẳng, sạm nhẹ. Hai mảng cẳng chân 3 cm và 2,5 cm: đỏ nâu, dày, rãnh da nổi, vài vết xước. Không rỉ dịch."
+    },
+    "toan_than": {
+     "a": "Tỉnh, chơi, không sốt, không mất nước. Cân nặng 17 kg.",
+     "k": 0,
+     "hien": "Tỉnh, chơi bình thường."
+    },
+    "dau_mat_co": {
+     "a": "Không hạch lớn, không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần và tối nay không làm được."
+    },
+    "soi_nam": {
+     "v": "u",
+     "r": "Nếu làm ở nơi có kỹ thuật viên: KOH không thấy sợi nấm.",
+     "n": "Chưa cần: mảng đã đỡ sau 10 ngày dùng corticoid. Nếu mảng cẳng chân không đáp ứng sau khi chỉnh bậc thuốc và cách chăm, soi nấm ở nơi có kỹ thuật viên (QĐ 4416/2023, Viêm da cơ địa mục 2.2, 2.4)."
+    },
+    "soi_da": {
+     "v": "a",
+     "r": "Soi da cầm tay kẽ ngón, cổ tay, rốn, thắt lưng: không thấy đường hầm ghẻ, không có 'vệt khói máy bay'.",
+     "n": "Chấp nhận, không bắt buộc: đã soi ở lượt 1, lâm sàng không đổi (QĐ 4416/2023, Ghẻ mục 2.2)."
+    },
+    "test_ap": {
+     "r": "Cơ sở không làm được: test áp cần kỹ thuật viên dán và đọc ở ngày 3–4."
+    },
+    "test_lay_da": {
+     "r": "Cơ sở không làm được: test lẩy da cần kỹ thuật viên và dị nguyên chuẩn."
+    },
+    "ecg": {
+     "r": "Cơ sở không làm được: máy điện tim do kỹ thuật viên vận hành, đã nghỉ."
+    },
+    "que_nt": {
+     "r": "Cơ sở không làm được: tối nay không có que thử nước tiểu."
+    },
+    "glu_mm": {
+     "r": "Cơ sở không làm được: tối nay không có máy đo đường huyết mao mạch."
+    },
+    "pef": {
+     "r": "Cơ sở không làm được: không có lưu lượng kế đỉnh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa đang đáp ứng một phần: tay, thân, đùi đã phẳng; hai mảng lichen hóa ở cẳng chân còn viêm; chưa nhiễm khuẩn; còn yếu tố kích thích (tắm nóng, xà phòng thơm)",
+     "ok": 1,
+     "n": "Đáp ứng chậm bình thường, chưa phải thất bại: thuốc nhẹ trên vùng da dày, lichen hóa (QĐ 4416/2023, mục 3.2.1: vùng da dày dùng loại mạnh hơn). Tiêu chí định lượng 'thất bại điều trị' ở trẻ em: không có trong tài liệu đã tải. Trước khi tăng bậc: đúng chẩn đoán, giáo dục, tránh yếu tố kích thích, dùng thuốc đúng (JTF 2023, Khuyến cáo 1, tr. 284)."
+    },
+    {
+     "t": "Thất bại điều trị, nghĩ chẩn đoán sai (ghẻ, nấm, viêm da tiếp xúc)",
+     "n": "Chưa: phần lớn da đã sạch dưới điều trị đúng hướng, không người chung nhà ngứa, không tiếp xúc mới (QĐ 4416/2023, Ghẻ mục 2.1; Viêm da tiếp xúc mục 2.1.3). Nếu mảng chân không đáp ứng sau khi chỉnh bậc thuốc và bỏ tắm nóng thì xét soi nấm và gửi chuyên khoa."
+    },
+    {
+     "t": "Chàm bội nhiễm (chốc hóa)",
+     "n": "Không: không rỉ dịch, không vảy tiết, không mụn mủ, không đau (JTF 2023, Khuyến cáo 9, tr. 292)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Soát cách dùng thuốc và yếu tố kích thích: lượng thuốc, số lần, tắm nước ấm ngắn, bỏ xà phòng thơm, dưỡng ẩm đều ít nhất 1 lần và thường 2–3 lần/ngày, kể cả khi da đẹp",
+     "v": "c",
+     "n": "JTF 2023, Khuyến cáo 1 (tr. 284); QĐ 4416/2023 (mục 3.2.3, 4: tắm nước ấm, dịu nhẹ, dưỡng ẩm 2–3 lần/ngày)."
+    },
+    {
+     "t": "Tiếp tục corticoid bôi 1 lần/ngày tại hai mảng còn viêm đến khi phẳng rồi giảm dần: nhóm 3–5 như betamethason valerat 0,1% kem cho mảng dày (QĐ 4416, JTF) hoặc hydrocortison 1–2,5% dùng thêm thời gian (QĐ 75); tay, thân, đùi: chỉ dưỡng ẩm, bôi lại khi đỏ",
+     "v": "c",
+     "n": "QĐ 4416/2023 (mục 3.2.1): vùng da dày bôi đến khi ổn định rồi giảm dần, dùng loại mạnh hơn; JTF 2023, Khuyến cáo 3, 6, Bảng 4 (nhóm 5); QĐ 75/2015 (mục 4b: hydrocortison 1–2,5% ở trẻ nhỏ). Hai cách cùng được (sổ mâu thuẫn NH-1028)."
+    },
+    {
+     "t": "Giải thích 'đỡ một phần' sau 10 ngày là bình thường, chưa phải thất bại; hẹn tái khám 2–3 tuần; nếu hai mảng chân không phẳng thì xét bậc cao hơn hoặc gửi chuyên khoa",
+     "v": "c",
+     "n": "Mốc 2–3 tuần là thiết kế của ca (không có mốc cố định trong tài liệu đã tải). Bước sau khi mảng khu trú kháng thuốc trung bình–mạnh: JTF 2023, Khuyến cáo 5 (tr. 289–290: bít corticoid nhẹ–vừa có giới hạn 4–7 ngày, wet wrap) sau khi đã làm đủ 5 bước Khuyến cáo 1."
+    },
+    {
+     "t": "Trả lời việc giấy: giấy khám bệnh lần trước đủ cho đi học lại; giấy chứng nhận sức khỏe cho lớp thuộc khám sức khỏe cho học sinh, cần khám theo mẫu, làm khi da ổn",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT (TL-0669), Điều 30 khoản 1a (khám sức khỏe cho học sinh), khoản 2a (khám bệnh ngoại trú không thuộc phạm vi), Điều 32 khoản 3. Mẫu giấy khám sức khỏe: không có trong tài liệu đã tải ngoài thông tư này."
+    },
+    {
+     "t": "Tacrolimus 0,03% bôi hoặc băng ướt/bít ngắn ngày ở hai mảng",
+     "v": "a",
+     "n": "QĐ 4416/2023 (mục 3.2.1): tacrolimus 0,03% từ 2 đến 16 tuổi, 2 lần/ngày, thường sau đợt corticoid; JTF 2023, Khuyến cáo 4 (tr. 287), Khuyến cáo 5 (tr. 289–290). Chưa bắt buộc ở lượt này."
+    },
+    {
+     "t": "Corticoid rất mạnh (clobetasol) ngắn ngày ở hai mảng lichen hóa",
+     "v": "a",
+     "n": "QĐ 75/2015 (mục 4b) và QĐ 4416/2023 (mục 3.2.1): lichen hóa dùng loại mạnh hơn, ví dụ clobetasol; số ngày tối đa ở trẻ 4 tuổi: không có trong tài liệu đã tải; cẳng chân không phải nếp gấp (sổ mâu thuẫn NH-0999)."
+    },
+    {
+     "t": "Prednisolon uống",
+     "v": "w",
+     "n": "Bé không nặng (QĐ 4416/2023, mục 3.2.2: chỉ khi bùng phát nặng); JTF 2023, Khuyến cáo 25 (tr. 303)."
+    },
+    {
+     "t": "Kháng sinh uống hoặc bôi",
+     "v": "w",
+     "n": "Không nhiễm khuẩn (JTF 2023, Khuyến cáo 9, tr. 292)."
+    },
+    {
+     "t": "Đổi chẩn đoán sang ghẻ và điều trị permethrin",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn (QĐ 4416/2023, Ghẻ mục 2.1–2.3), da đã đáp ứng điều trị chàm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa đáp ứng một phần sau 10 ngày hydrocortison 1%",
+     "Hai mảng lichen hóa ở cẳng chân còn viêm",
+     "Chưa nhiễm khuẩn",
+     "Yếu tố kích thích còn: tắm nước nóng, xà phòng thơm; dưỡng ẩm chưa đủ",
+     "Ghẻ vẫn ít nghĩ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: tuân thủ (thuốc, lượng, dưỡng ẩm) → yếu tố kích thích (tắm) → nhiễm khuẩn → người chung nhà ngứa → khám da → giấy. Mẹ bôi đủ; thuốc nhẹ chưa đủ cho vùng da dày và tắm nóng còn gây viêm.",
+     "Đỡ một phần ở đây là hồi phục chậm bình thường: phần lớn da đã phẳng, không tổn thương mới, không nhiễm khuẩn. Nghĩ thất bại hoặc sai chẩn đoán khi: tổn thương mới lan rộng, không đáp ứng sau khi chỉnh thuốc và cách chăm, người chung nhà ngứa. Mốc số ngày: không có trong tài liệu đã tải.",
+     "Ghẻ ít nghĩ và không cần làm thêm: da đáp ứng điều trị chàm, không người chung nhà ngứa (QĐ 4416/2023, Ghẻ mục 2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chỉnh bậc thuốc chỉ ở mảng dày: QĐ 4416/2023 (mục 3.2.1) vùng da dày, lichen hóa dùng loại mạnh hơn; JTF 2023 (Khuyến cáo 3, Bảng 4) nhóm 5.",
+     "Da đã sạch: dưỡng ẩm, bôi lại khi đỏ; sau đó chuyển sang duy trì.",
+     "Giấy: giấy khám bệnh đã đủ; giấy khám sức khỏe học sinh khám theo mẫu, làm khi da ổn (TT 32/2023/TT-BYT, Điều 30, 32)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Betamethason valerat 0,1% kem (nhóm 5, JTF 2023) hoặc tiếp tục hydrocortison 1–2,5% kem (QĐ 75)",
+      "ham_luong": "Betamethason valerat 0,1%; hydrocortison 1–2,5%",
+      "lieu": "Một lớp mỏng chỉ lên hai mảng cẳng chân, 1 lần/ngày",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối, sau tắm, trước dưỡng ẩm",
+      "so_ngay": "Đến khi mảng phẳng rồi giảm dần; không quá 4 tuần nhóm 1–2 (không dùng nhóm này ở ca)",
+      "ghi_chu": "QĐ 4416/2023 (mục 3.2.1); QĐ 75/2015 (mục 4b); JTF 2023 (Khuyến cáo 3, 6, Bảng 4). Số ngày cụ thể cho trẻ 4 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi",
+      "ham_luong": "Loại thông thường sẵn có",
+      "lieu": "Toàn thân ít nhất 1 lần, thường 2–3 lần/ngày, sáng và sau tắm",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sau tắm, khi da khô",
+      "so_ngay": "Hằng ngày, dài hạn",
+      "ghi_chu": "JTF 2023 (Khuyến cáo 1, 2); QĐ 4416/2023 (mục 3.2.3, 4); giữ nguyên như lượt trước."
+     }
+    ],
+    "dan_do": [
+     "Tắm một lần mỗi ngày nước ấm, không quá nóng, ngắn, không xà phòng thơm; thoa dưỡng ẩm ngay sau tắm (QĐ 4416/2023, mục 3.2.3, 4).",
+     "Chỉ bôi kem corticoid lên hai mảng ở chân, mỗi tối một lần cho đến khi phẳng (QĐ 4416/2023, mục 3.2.1); đừng ngưng đột ngột.",
+     "Đỡ chậm một chút là bình thường; quay lại sớm nếu có tổn thương mới lan nhanh, rỉ mủ, vảy mật ong, sốt.",
+     "Giấy chứng nhận sức khỏe cho cả lớp làm khi da bé ổn, theo mẫu khám sức khỏe học sinh."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau 3 tuần, 19 giờ 20. Bé Khang cùng mẹ. Điều dưỡng Linh đo: nhiệt độ 36,7 °C, mạch 92 l/p, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, nhanh nhẹn. Mẹ nói da bé gần như sạch, bé ngủ yên, và hỏi giấy chứng nhận sức khỏe để nộp cho trường.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Khang đi da liễu khi da đã gần sạch, ngủ yên, đang dùng thuốc bôi đúng là quá tay: đây là giai đoạn duy trì, bác sĩ phòng khám làm được (QĐ 4416/2023, Viêm da cơ địa mục 3.2.1, 4; JTF 2023, Khuyến cáo 10, tr. 293). Mẹ mất thêm một buổi, giấy của trường vẫn chưa có, và mẹ dễ hiểu là bệnh nặng hơn thực tế nên lại sợ thuốc.",
+    "nhap_vien": "Nhập viện để 'làm sạch hẳn' da bé đã gần sạch là không có chỉ định: không sốt, không nhiễm khuẩn, ăn ngủ bình thường (QĐ 4416/2023, Viêm da cơ địa mục 3.2). Bé xa mẹ và nghỉ học thêm, chi phí tăng, còn kế hoạch chăm da tại nhà vẫn chưa được dạy nên dễ tái phát khi về."
+   },
+   "loi_mo": "Bác sĩ ơi, da bé gần sạch rồi, ngủ ngon hẳn. Em xin cái giấy chứng nhận sức khỏe cho trường, cô nói tuần sau phải nộp. Với lại bây giờ em ngưng kem được chưa ạ?",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Da gần sạch, bé ngủ yên, không còn gãi đêm. Mẹ muốn giấy chứng nhận sức khỏe nộp cho trường và hỏi ngưng kem được chưa.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám, giấy"
+    },
+    {
+     "id": "cach_boi",
+     "noi_dung": "Mẹ bôi betamethason valerat 0,1% mỗi tối ở hai mảng chân 18 ngày, giảm còn cách ngày 3 ngày nay; dưỡng ẩm sáng và sau tắm hằng ngày; tắm nước ấm ngắn, bỏ xà phòng thơm. Không còn gãi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và tác dụng phụ"
+    },
+    {
+     "id": "lo",
+     "noi_dung": "Mẹ vẫn hơi sợ ngưng kem là nổi lại như lần trước, nhưng cũng chưa dám bôi nhiều. Mẹ chưa thấy da bé mỏng đi hay có vệt rạn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo corticoid, nguy cơ tái phát"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Cả nhà không ai ngứa. Trường chưa nhận thêm ca ngứa nào.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "mau_giay",
+     "noi_dung": "Trường gửi mẫu 'Giấy khám sức khỏe học sinh' của thông tư: có nhiều mục (nội, ngoại, mắt, tai mũi họng, răng hàm mặt, da liễu...) và ô phân loại sức khỏe. Phòng khám tối nay khám nhi tổng quát và da liễu, không có chuyên khoa mắt, răng hàm mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Mẫu giấy yêu cầu và khả năng khám của phòng khám"
+    }
+   ],
+   "kham": {
+    "da": {
+     "a": "Cẳng tay, thân, đùi: da phẳng, hơi khô, sạm nhẹ. Hai mảng cẳng chân: phẳng hẳn, còn vết sạm 3 cm và 2,5 cm, không đỏ, không dày, không rãnh da, không xước mới; không teo da, không rạn, không giãn mạch, không viêm nang lông. Nếp khuỷu, khoeo: sạch. Kẽ ngón, cổ tay, rốn, bìu: sạch, không luống ghẻ.",
+     "k": 1,
+     "hien": "Da phẳng, khô nhẹ. Hai vết sạm ở cẳng chân (3 và 2,5 cm), không đỏ, không dày. Không vết xước mới."
+    },
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, cân nặng 17,3 kg, cao 103,5 cm. Biểu đồ tăng trưởng chuẩn: không có trong tài liệu đã tải.",
+     "k": 0,
+     "hien": "Tỉnh, nhanh nhẹn."
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Phổi thông khí rõ, không khò khè.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần và tối nay không làm được."
+    },
+    "soi_da": {
+     "v": "a",
+     "r": "Soi da cầm tay kẽ ngón, cổ tay, rốn, thắt lưng: không thấy đường hầm ghẻ, không 'vệt khói máy bay'.",
+     "n": "Chấp nhận, hỗ trợ ghi 'không có dấu hiệu ghẻ' trong giấy (QĐ 4416/2023, Ghẻ mục 2.2)."
+    },
+    "test_ap": {
+     "r": "Cơ sở không làm được: test áp cần kỹ thuật viên dán và đọc ở ngày 3–4."
+    },
+    "test_lay_da": {
+     "r": "Cơ sở không làm được: test lẩy da cần kỹ thuật viên và dị nguyên chuẩn."
+    },
+    "ecg": {
+     "r": "Cơ sở không làm được: máy điện tim do kỹ thuật viên vận hành, đã nghỉ."
+    },
+    "que_nt": {
+     "r": "Cơ sở không làm được: tối nay không có que thử nước tiểu."
+    },
+    "glu_mm": {
+     "r": "Cơ sở không làm được: tối nay không có máy đo đường huyết mao mạch."
+    },
+    "pef": {
+     "r": "Cơ sở không làm được: không có lưu lượng kế đỉnh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm da cơ địa đã kiểm soát, không còn tổn thương viêm; sạm sau viêm cẳng chân; chưa tác dụng phụ của corticoid bôi",
+     "ok": 1,
+     "n": "Da phẳng, không ngứa, không xước mới; không teo da, rạn, giãn mạch, viêm nang lông (QĐ 4416/2023, Viêm da cơ địa mục 3.2.1: các tác dụng phụ cần theo dõi). Bệnh mạn tính, hay tái phát, 70% trẻ khỏi khi lớn lên (mục 2.1), nên 'đã kiểm soát' chưa phải 'khỏi hẳn'."
+    },
+    {
+     "t": "Ghẻ",
+     "n": "Không có: ba lượt không người chung nhà ngứa, không tổn thương vị trí đặc hiệu, soi da không thấy (QĐ 4416/2023, Ghẻ mục 2.1, 2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không ngưng đột ngột: giảm corticoid dần rồi chuyển sang duy trì (proactive) ở vùng hay tái phát: nhóm 3–5 hoặc ức chế calcineurin, 2 ngày liên tiếp mỗi tuần (hình 2) hoặc 2–3 lần/tuần (Khuyến cáo 10); hoặc theo QĐ 4416 giảm dần, tacrolimus 0,03% 2 lần/ngày tới ổn định rồi duy trì thêm ít nhất 4–8 tuần",
+     "v": "c",
+     "n": "JTF 2023 (TL-0256), hình 2 (tr. 286), Khuyến cáo 10 (tr. 293, mạnh); QĐ 4416/2023 (mục 3.2.1: giảm liều từ từ; tacrolimus 0,03% cho trẻ 2–16 tuổi, duy trì ≥ 4–8 tuần). Khác chế độ duy trì, không nguồn nào nói cách kia gây hại."
+    },
+    {
+     "t": "Dưỡng ẩm dài hạn mỗi ngày, ít nhất 1 lần, 2–3 lần khi hanh khô; tắm nước ấm ngắn, dịu nhẹ; kế hoạch hành động bằng chữ: đỏ hoặc ngứa lại thì bôi corticoid sớm 1 lần/ngày và gọi tái khám",
+     "v": "c",
+     "n": "JTF 2023, Khuyến cáo 1 (tr. 284: kế hoạch hành động, dưỡng ẩm); QĐ 4416/2023 (mục 4: 2–3 lần/ngày khi hanh khô, tắm ấm, giáo dục gia đình)."
+    },
+    {
+     "t": "Giải đáp nỗi lo mỏng da: chưa có tác dụng phụ ở bé, bôi đúng vùng, đúng thời gian; nhắc ngưng đột ngột là lý do tái phát",
+     "v": "c",
+     "n": "QĐ 4416/2023 (mục 3.2.1, tác dụng phụ trên da và cách giảm dần); JTF 2023 (tr. 287: tránh nhóm 1–2 kéo dài quá 4 tuần; nhóm 3–5 dùng duy trì, Khuyến cáo 10)."
+    },
+    {
+     "t": "Giấy: ghi trung thực những gì khám hôm nay (tổng quát, da liễu: không còn tổn thương viêm, không dấu hiệu ghẻ; tiền sử viêm da cơ địa đang kiểm soát nếu mẹ đồng ý ghi); không phân loại sức khỏe vì không khám đủ chuyên khoa; chuyển nơi có đủ chuyên khoa cho các mục còn lại",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT (TL-0669), Điều 32 khoản 3: khám theo yêu cầu thiếu chuyên khoa thì chỉ kết luận từng chuyên khoa và không phân loại sức khỏe; Điều 30 khoản 1a. Quy định cụ thể về cơ sở được cấp giấy khám sức khỏe: không có trong tài liệu đã tải ngoài thông tư này."
+    },
+    {
+     "t": "Tái khám khi tái phát hoặc 4–8 tuần để xét giảm duy trì; báo nếu có hen, khò khè, viêm mũi (bệnh dị ứng kèm theo)",
+     "v": "c",
+     "n": "Mốc 4–8 tuần theo QĐ 4416/2023 (mục 3.2.1) và thiết kế của ca. 30–50% người viêm da cơ địa có thêm viêm mũi dị ứng, hen (mục 2.1)."
+    },
+    {
+     "t": "Ngưng hẳn mọi thuốc và dưỡng ẩm vì da đã sạch",
+     "v": "w",
+     "n": "Đúng lỗi khởi phát của ca: ngưng khi da mới nhìn như đỡ làm bệnh tái phát (JTF 2023, hình 2, tr. 286; Khuyến cáo 10, tr. 293); dưỡng ẩm cần duy trì (Khuyến cáo 1, tr. 284)."
+    },
+    {
+     "t": "Cấp giấy khám sức khỏe phân loại 'sức khỏe tốt' cho học sinh khi chỉ khám nhi tổng quát và da",
+     "v": "w",
+     "n": "TT 32/2023/TT-BYT, Điều 32 khoản 3: không khám đủ chuyên khoa thì không phân loại sức khỏe."
+    },
+    {
+     "t": "Ghi trong giấy rằng bé 'khỏi hẳn, không tái phát'",
+     "v": "w",
+     "n": "Bệnh mạn tính, hay tái phát (QĐ 4416/2023, Viêm da cơ địa mục 1.1, 2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm da cơ địa ở trẻ 4 tuổi, đã kiểm soát sau 3 tuần điều trị đúng",
+     "Sạm sau viêm ở hai vị trí cẳng chân; không teo da, rạn, giãn mạch",
+     "Không có dấu hiệu ghẻ, không viêm da tiếp xúc",
+     "Giai đoạn duy trì, phòng tái phát",
+     "Lý do thật được giải quyết: giấy theo đúng phạm vi khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: da và giấc ngủ → tuân thủ → tác dụng phụ corticoid → nỗi lo của mẹ → yêu cầu giấy và mẫu giấy. Khám da toàn thân, kẽ ngón, cổ tay, rốn; soi da; đo cân, chiều cao.",
+     "Ổn định, khỏi bệnh theo nghĩa kiểm soát: da phẳng, ngủ yên, không tác dụng phụ; vẫn là bệnh mạn tính hay tái phát (QĐ 4416/2023, mục 1.1, 2.1).",
+     "Bài học xuyên ca: lần bùng đầu do mẹ ngưng sớm vì sợ corticoid; giải quyết bằng giáo dục và kế hoạch duy trì, không phải bằng thêm thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Duy trì: giảm dần rồi proactive 2 ngày liên tiếp/tuần hoặc 2–3 lần/tuần ở vùng hay tái phát (JTF 2023, hình 2, Khuyến cáo 10), hoặc theo QĐ 4416 (tacrolimus 0,03% duy trì ≥ 4–8 tuần).",
+     "Giấy: ghi những gì đã khám; mẫu khám sức khỏe học sinh nhiều chuyên khoa, phòng khám không đủ nên không phân loại; hướng dẫn mẹ đưa bé tới nơi đủ chuyên khoa cho các mục còn lại (TT 32/2023/TT-BYT, Điều 32 khoản 3).",
+     "Không ngưng hẳn thuốc và dưỡng ẩm; không hứa khỏi hẳn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Betamethason valerat 0,1% kem (nhóm 5) hoặc tacrolimus 0,03% mỡ (trẻ 2–16 tuổi)",
+      "ham_luong": "Betamethason valerat 0,1%; tacrolimus 0,03%",
+      "lieu": "Giảm dần; sau đó duy trì lên vùng hay tái phát (cẳng chân, nếp khuỷu): 2 ngày liên tiếp mỗi tuần hoặc 2–3 lần/tuần (JTF); tacrolimus 2 lần/ngày tới ổn định rồi duy trì thêm ≥ 4–8 tuần (QĐ 4416)",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Buổi tối sau tắm, trước dưỡng ẩm",
+      "so_ngay": "Duy trì 4–8 tuần rồi xét lại",
+      "ghi_chu": "JTF 2023, hình 2 (tr. 286), Khuyến cáo 10 (tr. 293); QĐ 4416/2023 (mục 3.2.1). Số tuần tối đa của proactive ở trẻ 4 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kem dưỡng ẩm không mùi",
+      "ham_luong": "Loại thông thường sẵn có",
+      "lieu": "Toàn thân ít nhất 1 lần/ngày, 2–3 lần khi hanh khô",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Sau tắm, khi da khô",
+      "so_ngay": "Dài hạn, kể cả khi da sạch",
+      "ghi_chu": "JTF 2023, Khuyến cáo 1 (tr. 284); QĐ 4416/2023 (mục 4); giữ nguyên như lượt trước."
+     }
+    ],
+    "dan_do": [
+     "Đừng ngưng kem đột ngột: giảm dần theo hẹn, rồi bôi 2 ngày liên tiếp mỗi tuần ở chỗ hay đỏ (JTF 2023, hình 2); dưỡng ẩm mỗi ngày.",
+     "Đỏ, ngứa trở lại thì bôi kem sớm và gọi tái khám; ngưng sớm là lý do bé nổi lại lần trước.",
+     "Giấy tối nay ghi phần đã khám (tổng quát và da); mẫu khám sức khỏe học sinh đủ chuyên khoa cần làm thêm ở nơi có mắt, răng hàm mặt.",
+     "Bệnh hay tái phát, nhiều trẻ khỏi khi lớn; báo bác sĩ nếu bé khò khè, nghẹt mũi kéo dài.",
+     "Tiếp tục cất thuốc người lớn (atorvastatin của ông) xa tầm tay."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: viêm da cơ địa bùng lại sau khi mẹ tự ngưng kem hydrocortison và dưỡng ẩm; bé được dạy cách bôi, giấy khám bệnh cho đi học lại. Lượt 2: đỡ một phần (hai mảng cẳng chân lichen hóa còn viêm); mẹ bôi đúng nhưng thuốc nhẹ và tắm nóng; chỉnh sang nhóm 5 ở hai mảng, bỏ tắm nóng. Lượt 3 (sau 3 tuần): da phẳng, ngủ yên, không teo da; chuyển sang duy trì proactive; mẹ nhận giấy ghi đúng phạm vi đã khám, không phân loại sức khỏe. Bé ổn định, không tái phát trong thời gian theo dõi.",
+ "nhieu": [
+  "Lý do thật (giấy cho đi học lại): mẹ hợp tác nhưng chỉ nói khi được hỏi 'chị còn mong muốn gì'.",
+  "Statin trong nhà là thuốc của ông nội, bé không dùng: chỉ để kiểm an toàn thuốc.",
+  "Ngoài giờ, không kỹ thuật viên: ghẻ, nấm loại bằng lâm sàng và kính soi da; thời gian và đáp ứng điều trị là 'xét nghiệm'."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: mặt duỗi, mảng đồng xu, nếp gấp ít, bé 'ít kêu ngứa'; vẫn nghĩ chàm nhờ Hanifin–Rajka (QĐ 4416/2023, mục 2.3.1).",
+  "Tự ngưng thuốc: da 'êm' chưa hết viêm; hỏi cụ thể đã bôi gì, vì sao ngưng; giáo dục nỗi sợ corticoid (JTF 2023, Khuyến cáo 1; hình 2).",
+  "Đỡ một phần: kiểm tra tuân thủ, cách tắm, nhiễm khuẩn, chẩn đoán trước khi tăng bậc; chỉnh bậc chỉ ở vùng dày; chưa chuyển tuyến (JTF 2023, Khuyến cáo 1, 5).",
+  "Giấy: khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; thiếu chuyên khoa thì không phân loại (TT 32/2023/TT-BYT, Điều 30 khoản 2a, Điều 32 khoản 3).",
+  "Ghẻ loại bằng khám đúng vị trí, hỏi người chung nhà, soi da; corticoid trước đó có thể làm biến dạng ghẻ (BASHH 2025, Scabies incognito)."
+ ],
+ "diem_nho": [
+  "Hanifin–Rajka: ≥ 3 chính và ≥ 3 phụ (QĐ 4416/2023, Viêm da cơ địa mục 2.3.1; QĐ 75/2015, mục 3c).",
+  "Corticoid bôi 1 lần/ngày, giảm dần để tránh tái phát; da dày, lichen hóa dùng loại mạnh hơn (QĐ 4416/2023, mục 3.2.1; JTF 2023, Khuyến cáo 3, 6).",
+  "Proactive: nhóm 3–5 hoặc ức chế calcineurin, 2 ngày liên tiếp/tuần (hình 2) hoặc 2–3 lần/tuần (JTF 2023, Khuyến cáo 10).",
+  "Không kháng sinh khi không nhiễm khuẩn nặng (JTF 2023, Khuyến cáo 9); không corticoid uống thường quy (Khuyến cáo 25); không kiêng ăn (Khuyến cáo 13).",
+  "Ghẻ: người chung nhà ngứa, mụn nước kẽ ngón, cổ tay, rốn, bìu, luống ghẻ (QĐ 4416/2023, Ghẻ mục 2.1)."
+ ],
+ "nguon": [
+  "JTF 2023 – Chu DK, et al. Ann Allergy Asthma Immunol 2024;132(3):274-312 – TL-0256 – ĐÃ ĐỌC: Khuyến cáo 1 (tr. 284), 2, 3 (tr. 286–287), 4 (tr. 287), 5 (tr. 289–290), 6 (tr. 290), 9 (tr. 292), 10 (tr. 293), 13 (tr. 294), 25 (tr. 303), hình 2 (tr. 286), Bảng 4 (tr. 288)",
+  "QĐ 4416/QĐ-BYT 2023 – Hướng dẫn chẩn đoán và điều trị bệnh da liễu – TL-0397 (kho cũ tltk-10000-ca) – ĐÃ ĐỌC: Viêm da cơ địa mục 1.1, 2.1–2.4, 3.1–3.2.3, 4; Ghẻ mục 1–3.1; Viêm da tiếp xúc mục 2.1.1–2.1.4",
+  "QĐ 75/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị các bệnh da liễu (kho cũ) – ĐÃ ĐỌC: Viêm da cơ địa mục 3a, 3c, 4b",
+  "BASHH 2025 – British Association for Sexual Health and HIV national guideline on scabies in adults – TL-0407 – ĐÃ ĐỌC: Clinical history, Scabies incognito, Diagnosis (viết cho người lớn, dùng bổ sung)",
+  "TT 32/2023/TT-BYT – Quy định chi tiết một số điều của Luật khám bệnh, chữa bệnh – TL-0669 – ĐÃ ĐỌC: Điều 30 khoản 1a, 2a; Điều 32 khoản 3",
+  "Chưa có toàn văn, không dùng: AAD 2026 nhi (TL-0402), IACS 2020 (TL-0429). Không có trong tài liệu đã tải: liều kháng histamin trẻ 4 tuổi; số ngày tối đa corticoid bôi ở thân, chân trẻ 4 tuổi; số tuần tối đa proactive; tiêu chí định lượng 'thất bại điều trị'; tiêu chuẩn đi học lại; điều kiện cơ sở cấp giấy khám sức khỏe học sinh ngoài thông tư; statin ở trẻ.",
+  "Ảnh da: SCIN (Google Research & Stanford), case 334358841782839450 (dataset/images/2508530986946553819.png) và case 3131320081296493845 (dataset/images/7810546855565179160.png)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết mới. Đã đọc: JTF 2023 (Khuyến cáo 1–6, 9, 10, 13, 25, hình 2, Bảng 4); QĐ 4416/2023 và QĐ 75/2015 (Viêm da cơ địa); QĐ 4416/2023 (Ghẻ, Viêm da tiếp xúc); BASHH 2025 (Clinical history, Scabies incognito); TT 32/2023/TT-BYT (Điều 30, 32).",
+  "Thiết kế: không điển hình (mặt duỗi, mảng đồng xu, ít kêu ngứa). Lượt 2 đỡ một phần do thuốc nhẹ ở vùng da dày và tắm nóng, mẹ tuân thủ tốt, không chuyển tuyến. Lượt 3 duy trì proactive. Statin là thuốc của ông nội, bé không dùng. Ngoài giờ: khoa_cls xn; test áp, test lẩy, điện tim, que nước tiểu, đường mao mạch, PEF khai 'Cơ sở không làm được' ở cả 3 lượt.",
+  "Áp dụng sổ mâu thuẫn: corticoid bôi trẻ nhỏ (NH-1028), kháng histamin và corticoid toàn thân (NH-0995), hiệu lực corticoid bôi (DL-0085), giấy khám sức khỏe (NH-0050). Mục mới: NH-1016_mau_thuan.md.",
+  "Ảnh da: HA-DA-0470, HA-DA-0471 đạt; HA-DA-0468 (lông dày kiểu người lớn) và HA-DA-0469 (không rõ tuổi) bị loại."
+ ]
+}
