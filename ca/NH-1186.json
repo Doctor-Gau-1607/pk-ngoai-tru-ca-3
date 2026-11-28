@@ -1,0 +1,487 @@
+{
+ "ma_ca": "NH-1186",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "NH_choc",
+ "so_cai": {
+  "chuyen_khoa": "Nhi ngoại trú",
+  "chan_doan_dich": "Chốc (impetigo)",
+  "chan_doan_phai_loai_tru": [
+   "Thủy đậu",
+   "Herpes"
+  ],
+  "nhom_tuoi": "Sơ sinh (0–28 ngày)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ sơ sinh (nghề của mẹ: kế toán, đang nghỉ thai sản)",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (nước tẩy ngâm tã vải)",
+  "thuoc_dang_dung": "Vitamin D3K2 dạng giọt, thực phẩm chức năng mới đổi hãng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc (mẹ sợ giọt vitamin mới gây dị ứng)"
+ },
+ "benh_nhan": {
+  "ten": "Võ Gia Huy",
+  "tuoi": 0.06,
+  "gioi": "Nam",
+  "nghe": "Trẻ sơ sinh (22 ngày tuổi; nghề của mẹ: kế toán, đang nghỉ thai sản)",
+  "can_nang": 3.9,
+  "chieu_cao": 54,
+  "xung_ho": "Bé trai 22 ngày tuổi, chỉ khóc, ngủ, bú. Mẹ bé (chị Diễm, 29 tuổi) ẵm bé và trả lời mọi câu hỏi: gọi bác sĩ là 'bác sĩ', xưng 'em', gọi bé là 'bé' hoặc 'con'.",
+  "tinh_cach": "Chị Diễm: con thứ hai, đang nghỉ thai sản, cẩn thận, hay tra mạng và nhóm mẹ bỉm, lo bé dị ứng vì từng nghe 'vitamin không rõ hãng gây nổi mẩn'. Hay xin lỗi, sợ bị bác sĩ trách là 'tự ý cho thuốc'. Nghe và làm theo khi được giải thích nhẹ nhàng, từng bước.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mẹ mở đầu chỉ nói 'chưa cho bé thuốc gì, chỉ có giọt vitamin mới'. Chỉ khai ra amoxicillin siro của anh trai (còn lại sau đợt viêm tai tháng trước) cho bé uống 5 ngày khi bác sĩ hỏi thẳng 'chị có cho bé uống thuốc kháng sinh, siro nào của người khác trong nhà không', hoặc hỏi nhẹ 'chị đã thử cách gì để giúp bé trong mấy ngày qua'. Khi khai, mẹ nói ngay tên thuốc, hàm lượng, cách đong và số ngày.",
+  "nguoi_nha": "Mẹ bé (chị Diễm) ẵm bé đến khám; mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Diễm)",
+  "ngoai_hinh": {
+   "da": "#f0c4a0",
+   "toc": "#1c1410",
+   "kieuToc": "tre",
+   "ao": "#cfe3f0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e6b891",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#e8b4b8",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé nổi mấy bóng nước nhỏ ở mông, mẹ sợ do giọt vitamin mới",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 22 ngày tuổi, 3,9 kg, mẹ ẵm đến vì mấy nốt bóng nước nhỏ ở mông và bẹn, mẹ nghi do giọt vitamin mới đổi hãng. Sinh hiệu: nách 36,8 °C, mạch 140 l/p, nhịp thở 44 l/p, SpO₂ 99%. Bé tỉnh, mút mạnh.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho Huy về với toa thuốc uống rồi 'tái khám sau 2–3 ngày' bỏ qua việc đây là chốc bọng nước ở bé 22 ngày tuổi: NICE NG153 (mục 1.1.16) cân nhắc chuyển hoặc xin tư vấn chuyên khoa với chốc bọng nước ở bé ≤ 1 tuổi, bảng liều của NICE bắt đầu từ 1 tháng tuổi (Bảng 2) và bé đã dùng 5 ngày amoxicillin không khỏi. Ở sơ sinh, nhiễm khuẩn nặng có thể chỉ biểu hiện bằng bú kém, li bì hoặc hạ thân nhiệt (WHO Pocket book 2013, mục 3.6), chị Diễm ở nhà khó nhận ra; nếu tổn thương lan, bệnh có thể thành viêm mô bào, nhiễm khuẩn huyết (QĐ 4416/2023, Chốc mục 2.1). Chị Diễm đã từng tự cho thuốc của anh trai nên dễ tự thêm thuốc ở nhà.",
+    "cap_cuu": "Gọi xe cấp cứu hoặc chuyển khẩn cấp lên bệnh viện nhi tuyến trên cho Huy là quá tay: bé tỉnh, mút mạnh, nách 36,8 °C, thở 44 l/p (dưới ngưỡng 60 l/p), mạch 140 l/p (dưới ngưỡng 160 l/p), không có dấu hiệu nguy hiểm nào ở sơ sinh (WHO Pocket book 2013, mục 3.6; NICE NG143 2021, Bảng 1–2). Chỉ có khoảng sáu tổn thương nhỏ, không có tổn thương da lan rộng (WHO Pocket book 2013, mục 3.8 chỉ nêu 'nhiều hoặc nặng mụn mủ da'). Chuyển cấp cứu làm bé và mẹ phải đi xa, thêm phơi nhiễm, trong khi cơ sở này đủ nguồn lực cấy và theo dõi nội trú."
+   },
+   "loi_mo": "Bác sĩ ơi, con em mới hơn ba tuần mà nổi mấy cái bóng nước nhỏ ở mông với bẹn, vỡ ra đỏ ướt. Em nghĩ do giọt vitamin em mới đổi hãng, bác sĩ coi có phải bé dị ứng thuốc không?",
+   "sinh_hieu": {
+    "mach": 140,
+    "ha": "Không đo",
+    "nhiet": "36,8 (nách)",
+    "nhip_tho": 44,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bảy ngày nay bé nổi mấy bóng nước nhỏ ở mông trái, vỡ ra đỏ ướt, mấy hôm nay thêm ở bẹn phải và quanh hậu môn. Mẹ nghĩ do giọt vitamin D3K2 mới đổi hãng nên đưa đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đầu tiên chỉ là một chỗ đỏ ở mông trái, 1–2 ngày sau mọc bóng nước nhỏ chứa nước vàng nhạt, dễ vỡ, vỡ ra để lại chỗ đỏ ướt có viền mỏng. Mấy tổn thương cũ khô vảy mỏng, hai ngày nay thêm tổn thương mới ở bẹn phải và quanh hậu môn. Bé không gãi được, chỉ quấy khi thay tã. Không có tổn thương ở mặt, thân, miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến bọng nước vùng tã (Chốc mục 2.1)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Bé không sốt, bú mẹ hoàn toàn mỗi 2–3 giờ, bú mạnh như mấy tuần trước, không nôn trớ nhiều, tiểu 7–8 tã ướt/ngày, đi phân vàng mềm 2–3 lần. Không li bì, không khóc yếu, không tím, không thở nhanh, không vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu toàn thân sơ sinh (Pocket book 2013, mục 3.6)"
+    },
+    {
+     "id": "tien_su_me",
+     "noi_dung": "Mẹ sinh thường đủ tháng 39 tuần, bé 3,3 kg, Apgar tốt, xuất viện sau 2 ngày. Mẹ khỏe suốt thai kỳ, không sốt cuối thai kỳ, không mụn nước ở môi hay vùng sinh dục, không bị thủy đậu hay zona gần ngày sinh. Bé bú mẹ hoàn toàn, đã tiêm viêm gan B và lao sơ sinh, chưa nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh nở, mẹ có mụn rộp hay thủy đậu (loại trừ herpes, thủy đậu sơ sinh)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Trong nhà không ai bị thủy đậu, zona, mụn rộp quanh môi hay sinh dục. Bố, mẹ, anh trai không ai có mụn mủ, nhọt. Anh trai 4 tuổi đi mẫu giáo, tháng trước bị viêm tai giữa, uống amoxicillin, chưa có mụn nước hay ngứa da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc thủy đậu, herpes, người nhà có tổn thương da"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Khoảng 8 ngày trước, chị ngâm tã vải cho bé qua đêm trong chậu nước pha nước tẩy (javel) đậm hơn thường, giặt thêm nước giặt mới, xả hai lần rồi phơi. Hôm sau mông bé đỏ rát, khóc khi thay tã, rồi mới nổi bóng nước. Gần đây vẫn dùng loại tã đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc hóa chất"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ 5 ngày trước, chị lấy siro amoxicillin 250 mg/5 ml còn lại của anh trai, cho bé uống nửa thìa cà phê (khoảng 2,5 ml) hai lần mỗi ngày, uống đủ 5 ngày, cữ cuối sáng nay. Tổn thương cũ khô bớt nhưng tổn thương mới vẫn mọc. Bé không nôn, không tiêu chảy, không nổi ban thêm. Chị không dám nói vì sợ bác sĩ trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói 'chưa cho thuốc gì ngoài vitamin'. Khai khi bác sĩ hỏi thẳng có cho bé uống kháng sinh, siro của người khác trong nhà, hoặc hỏi nhẹ đã thử cách gì giúp bé mấy ngày qua và không trách.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Tự dùng thuốc 5 ngày (amoxicillin của anh trai)"
+    },
+    {
+     "id": "vitamin",
+     "noi_dung": "Từ khi bé 13 ngày tuổi, chị đổi sang giọt vitamin D3K2 hãng khác (thực phẩm chức năng, mua mạng), nhỏ 1 lần/ngày theo lọ. Bé không dùng thuốc nào khác, không bôi kem hay phấn lên mông ngoài kem chống hăm thông thường tuần đầu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: vitamin thực phẩm chức năng"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Chị nhớ bé nổi mẩn sau khi đổi giọt vitamin, đọc trên mạng 'vitamin không rõ nguồn gây dị ứng, tổn thương da', và nghĩ nổi bóng nước là dị ứng thuốc. Chị lo nhất là mình làm hại con, nên không dám kể chuyện cho amoxicillin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ chỉ nói thật khi bác sĩ hỏi nhẹ 'chị đang lo nhất điều gì' hoặc 'chị nghĩ nguyên nhân là gì'.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Nỗi lo thật: nghi tác dụng phụ của thuốc"
+    },
+    {
+     "id": "bu_me",
+     "noi_dung": "Bé bú mẹ hoàn toàn, mẹ đủ sữa, bé tăng cân tốt theo sổ khám sức khỏe trẻ. Mẹ không dùng thuốc hay thảo dược nào đặc biệt.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, mắt nhìn theo âm thanh, khóc to khi khám, dỗ nín được, vận động đều bốn chi, trương lực bình thường. Môi hồng, da hồng, không vàng da, niêm mạc ẩm, tay chân ấm, mao mạch hồi sắc dưới 2 giây. Nách 36,8 °C. Không có dấu hiệu nguy hiểm ở sơ sinh.",
+     "k": 1,
+     "hien": "Tỉnh, khóc to, dỗ nín được, môi hồng, tay chân ấm, nách 36,8 °C."
+    },
+    "da": {
+     "a": "Sáu tổn thương tròn 0,5–1,5 cm ở mông trái (3), bẹn phải (2) và quanh hậu môn (1): vài chỗ còn bọng nước xẹp nhăn nheo chứa dịch vàng nhạt, phần lớn đã vỡ thành vùng trợt nền đỏ ướt, viền vảy mỏng quanh rìa; hai tổn thương cũ ở mông trái phủ vảy mỏng vàng nâu. Da vùng tã quanh đó đỏ nhẹ, không nóng, không sưng cứng, không đường đỏ lan. Không mụn nước đầu đinh ghim xếp cụm, không có bọng nước ở thân, mặt, da đầu, nách, cổ. Nikolsky âm tính. Bìu, dương vật không tổn thương.",
+     "k": 1,
+     "hien": "Mông trái, bẹn phải và quanh hậu môn: vài tổn thương tròn 0,5–1,5 cm, nền đỏ ướt, viền vảy mỏng, vài chỗ vảy mỏng vàng nâu; da vùng tã đỏ nhẹ. Thân, mặt, da đầu, nách, cổ không có tổn thương."
+    },
+    "quan_sat_hau_mon": {
+     "a": "Quanh hậu môn 1 tổn thương trợt tròn 0,8 cm nền đỏ ướt, viền vảy mỏng, nếp hậu môn không nứt, không rò, không thấy giun.",
+     "k": 0,
+     "hien": "Quanh hậu môn: một vùng trợt nhỏ nền đỏ ướt, nếp hậu môn không nứt."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, gan lách không to. Rốn khô, đã rụng cuống, không đỏ, không chảy mủ, da quanh rốn bình thường.",
+     "k": 1,
+     "hien": "Bụng mềm. Rốn khô, không đỏ, không chảy mủ."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm. Không sờ thấy hạch bẹn, hạch cổ. Cổ mềm.",
+     "k": 0,
+     "hien": "Thóp phẳng, cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng hồng, không tưa, không bọng nước hay loét ở lưỡi, vòm miệng. Mũi ít dịch trong, không rỉ tai.",
+     "k": 0,
+     "hien": "Niêm mạc miệng hồng, không loét."
+    },
+    "mat": {
+     "a": "Hai mắt không ghèn, không đỏ, kết mạc hồng, không bọng nước ở mi.",
+     "k": 0,
+     "hien": "Hai mắt không đỏ, không ghèn."
+    },
+    "tim": {
+     "a": "Tim đều nhanh 140 l/p, T1 T2 rõ, không âm thổi. Mạch bẹn hai bên bắt rõ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 140 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 44 l/p, đều, không rút lõm lồng ngực, không rên, không phập phồng cánh mũi. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 44 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "quan_sat_bu_me": {
+     "a": "Ngậm bắt vú đúng, mút nuốt đều khoảng 12 phút, bú một bên no rồi tự nhả, không sặc, không ngừng giữa chừng để thở.",
+     "k": 1,
+     "hien": "Ngậm bắt vú đúng, mút nuốt mạnh, đều."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 3,9 kg (sinh 3,3 kg), dài 54 cm.",
+     "k": 0,
+     "hien": "3,9 kg, dài 54 cm."
+    }
+   },
+   "cls": {
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Nhuộm Gram dịch đáy bọng nước và rìa vùng trợt: nhiều bạch cầu đa nhân trung tính, cầu khuẩn Gram dương xếp đám. Cấy và kháng sinh đồ: trả sau vài ngày, chưa có kết quả hôm nay.",
+     "ab": 1,
+     "n": "Hữu ích, không bắt buộc: chẩn đoán chủ yếu lâm sàng (QĐ 4416/2023, Chốc mục 2.3) và ca điển hình điều trị không cần Gram, cấy (IDSA 2014 khuyến cáo I.1; AWaRe 2022 chương 16 tr. 195: không cần ở ca nhẹ). Nhưng bé đã dùng 5 ngày kháng sinh uống mà tổn thương mới vẫn mọc: NICE NG153 mục 1.1.9, 1.1.12 nhắc tới kháng sinh đã dùng và cân nhắc gửi phết da. Lấy dịch đáy bọng nước, trước khi dùng kháng sinh mới."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 13,6 G/L · Neutrophil 48% · Lymphocyte 40% · Hb 150 g/L · TC 350 G/L",
+     "ghi_chu_mau": "Tham chiếu in trên phiếu là của người lớn; tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Chấp nhận, không bắt buộc: bạch cầu, máu lắng, CRP, procalcitonin có thể tăng trong chốc nhưng không quyết định chẩn đoán (QĐ 4416/2023, Chốc mục 2.2, 2.3). Kết quả bình thường không loại trừ nhiễm khuẩn nặng ở sơ sinh (Pocket book 2013, mục 3.6: dấu hiệu không đặc hiệu)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "n": "Chấp nhận, không bắt buộc (như công thức máu). Bình thường không loại trừ."
+    },
+    "pct": {
+     "v": "a",
+     "r": "Procalcitonin 0,12 ng/mL",
+     "ghi_chu_mau": "Tham chiếu sơ sinh: không có trong tài liệu đã tải.",
+     "n": "Chấp nhận, không bắt buộc: QĐ 4416/2023 (Chốc mục 2.2) nêu procalcitonin có thể tăng; bé không dấu hiệu toàn thân nên không đổi hướng xử trí."
+    },
+    "tzanck": {
+     "v": "a",
+     "r": "Tế bào gai lệch hình, nhiều bạch cầu đa nhân trung tính, không thấy tế bào đa nhân khổng lồ.",
+     "n": "Chấp nhận, không bắt buộc: tế bào gai lệch hình và bạch cầu đa nhân trung tính gặp trong chốc, tế bào đa nhân khổng lồ ở nền bọng nước gặp trong thủy đậu (QĐ 4416/2023, Chốc mục 2.2; Thủy đậu mục 2.2). Làm để loại trừ virus khi chưa chắc."
+    },
+    "pcr_hsv": {
+     "v": "a",
+     "r": "PCR HSV-1, HSV-2 dịch đáy bọng nước: âm tính (trả sau vài giờ).",
+     "n": "Chấp nhận, không bắt buộc: bé không có cụm mụn nước, không sốt, mẹ không mụn rộp (QĐ 4416/2023, Herpes simplex mục 2.1). Herpes ở sơ sinh (nguy cơ, xét nghiệm, điều trị): không có trong tài liệu đã tải, nên làm PCR là hợp lý khi khoa Nhi còn băn khoăn."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Cấy máu: chờ kết quả, không có trong ngày.",
+     "n": "Chấp nhận, không bắt buộc: cấy máu, CRP, công thức máu, nước tiểu là bộ xét nghiệm cho trẻ dưới 3 tháng SỐT (NICE NG143, mục 1.5.3); bé không sốt, không dấu hiệu toàn thân. Nếu nhập khoa Nhi thấy cần thì làm khi lấy đường truyền."
+    },
+    "ua": {
+     "n": "Không cần: không sốt, không triệu chứng tiết niệu; tổng phân tích nước tiểu nằm trong bộ xét nghiệm trẻ < 3 tháng có sốt (NICE NG143 mục 1.5.3)."
+    },
+    "cxr": {
+     "n": "Không cần: nhịp thở 44 l/p, không rút lõm, không ran; NICE NG143 mục 1.5.3 chỉ chụp X-quang ngực khi có dấu hô hấp."
+    },
+    "soi_nam": {
+     "n": "Không cần: tổn thương là bọng nước, trợt có viền vảy; nấm da chỉ là chẩn đoán phân biệt (QĐ 4416/2023, Chốc mục 2.4), chẩn đoán chốc chủ yếu lâm sàng (mục 2.3)."
+    },
+    "cho_dich_nao_tuy": {
+     "n": "Không cần: bé tỉnh, mút mạnh, thóp phẳng, không co giật, không sốt; chọc dò tủy được nêu khi nghi viêm màng não (WHO Pocket book 2013, mục 3.9)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chốc bọng nước vùng tã – bẹn – quanh hậu môn ở sơ sinh 22 ngày tuổi, một phần đã vỡ, điều trị dở bằng amoxicillin tự cho; chưa có dấu hiệu nhiễm khuẩn toàn thân",
+     "ok": 1,
+     "n": "Bọng nước nông nhăn nheo chứa dịch vàng nhạt, vỡ để lại viền vảy quanh vùng trợt đỏ ướt, thường ở quanh hậu môn của trẻ sơ sinh (QĐ 4416/2023, Chốc mục 2.1); S. aureus tiết độc tố tạo bọng nước mỏng, vỡ thành vùng trợt có viền vảy (IDSA 2014, Evidence Summary tr. e21). Chẩn đoán chủ yếu lâm sàng (mục 2.3). Amoxicillin đơn thuần không có trong phác đồ chốc (QĐ 4416 mục 3.2.2 và AWaRe 2022 chương 16 chỉ ghi amoxicillin + clavulanic acid), nên uống 5 ngày không khỏi là hợp lý."
+    },
+    {
+     "t": "Thủy đậu",
+     "n": "Thủy đậu: ủ bệnh khoảng 14 ngày (10–23 ngày), mụn nước 2–3 mm lõm giữa, cùng lúc có sẩn, mụn nước, mụn mủ, vảy tiết ở nhiều vùng (QĐ 4416/2023, Thủy đậu mục 2.1). Bé chỉ có tổn thương vùng tã, không ai trong nhà bị thủy đậu, zona; mẹ không bị thủy đậu quanh sinh (CDC 2024: sơ sinh có mẹ mắc thủy đậu từ 5 ngày trước đến 2 ngày sau sinh có nguy cơ nặng). Thủy đậu ở sơ sinh có thể tiến triển nặng (QĐ 5642/2015, Bệnh thủy đậu mục 1)."
+    },
+    {
+     "t": "Herpes simplex (kể cả herpes sơ sinh)",
+     "n": "Herpes: mụn nước đầu đinh ghim căng, xếp cụm 2–10 trên nền dát đỏ, vỡ để lại vết trợt đa cung, có thể sốt, bỏ ăn (QĐ 4416/2023, Herpes simplex mục 2.1). Bé có bọng nước đơn lẻ, không thành cụm, không sốt, bú mạnh; mẹ không mụn rộp. Herpes sơ sinh: xét nghiệm và điều trị không có trong tài liệu đã tải, nên chưa thể loại tuyệt đối tại phòng khám, là một lý do theo dõi tại khoa Nhi."
+    },
+    {
+     "t": "Hội chứng bong vảy da do tụ cầu",
+     "n": "Nằm trong chẩn đoán phân biệt chốc (QĐ 4416/2023, Chốc mục 2.4). Bé chỉ có sáu tổn thương khu trú, không sốt, không bong da lan rộng, Nikolsky âm tính, nách, cổ, quanh miệng không tổn thương."
+    },
+    {
+     "t": "Viêm da kích ứng vùng tã do nước tẩy",
+     "n": "Có góp phần: mông đỏ rát ngay sau khi ngâm tã bằng nước tẩy, rồi mới mọc bọng nước. Liên hệ viêm da kích ứng hóa chất với chốc: không có trong tài liệu đã tải (QĐ 4416/2023, Chốc mục 1.2 chỉ nêu bệnh da phối hợp, vệ sinh kém là yếu tố thuận lợi). Chỉ kích ứng thì không giải thích bọng nước nhăn nheo và vùng trợt có viền vảy."
+    },
+    {
+     "t": "Ban do thuốc hoặc vitamin thực phẩm chức năng (nỗi lo của mẹ)",
+     "n": "Ít nghĩ: tổn thương chỉ khu trú vùng tã, không ban lan toàn thân, không loét niêm mạc, không sốt; Gram thấy cầu khuẩn và bạch cầu đa nhân. Bé không nổi ban thêm sau 5 ngày amoxicillin. Thông tin về giọt vitamin D3K2 (thành phần, tác dụng phụ ở sơ sinh): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết sơ sinh có ổ ở da",
+     "n": "Dấu hiệu nặng ở sơ sinh kín đáo: bú kém, li bì, thở ≥ 60 l/p, sốt > 38 °C, hạ thân nhiệt < 35,5 °C, tím; tại chỗ có 'nhiều hoặc nặng mụn mủ da', đỏ rốn (WHO Pocket book 2013, mục 3.6, 3.8). Bé không có: bú mạnh, tỉnh, thở 44 l/p, nách 36,8 °C, rốn khô, chỉ sáu tổn thương nhỏ. Vẫn phải theo dõi vì sơ sinh biểu hiện nghèo nàn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khai thác kỹ thuốc đã dùng (tên, hàm lượng, cách đong, số ngày), nói rõ không trách mẹ, và ngưng amoxicillin tự cho",
+     "v": "c",
+     "n": "NICE NG153 mục 1.1.9: khi đánh giá lại, tính tới kháng sinh đã dùng (có thể làm vi khuẩn kháng). Amoxicillin đơn thuần không nằm trong phác đồ chốc (QĐ 4416/2023 mục 3.2.2; AWaRe 2022 chương 16 tr. 195–197). Liều amoxicillin đường uống cho bé dưới 1 tháng: không có trong tài liệu đã tải. Phần không trách mẹ: kỹ năng giao tiếp."
+    },
+    {
+     "t": "Khám toàn thân sơ sinh có hệ thống để tìm dấu hiệu nặng kín đáo: bú, tỉnh táo, nhiệt độ, nhịp thở, màu da, rốn, thóp",
+     "v": "c",
+     "n": "WHO Pocket book 2013 mục 3.6, 3.8: sơ sinh nhiễm khuẩn nặng thường có dấu hiệu không đặc hiệu; dấu hiệu tại chỗ gồm nhiều mụn mủ da nặng, rốn đỏ lan, rốn chảy mủ. NICE NG143 2021 mục 1.2.12: dưới 3 tháng, sốt ≥ 38 °C là nhóm nguy cơ cao."
+    },
+    {
+     "t": "Lấy dịch đáy bọng nước nhuộm Gram và cấy trước khi dùng kháng sinh mới",
+     "v": "c",
+     "n": "NICE NG153 mục 1.1.12: chốc chưa cải thiện sau kháng sinh uống thì cân nhắc gửi phết da; IDSA 2014 khuyến cáo I.1: Gram, cấy giúp xác định S. aureus hoặc liên cầu β-tan huyết, điều trị không cần ở ca điển hình. Bé đã dùng 5 ngày kháng sinh uống nên được chấm c."
+    },
+    {
+     "t": "Nhập viện khoa Nhi, theo dõi sơ sinh, bắt đầu kháng sinh toàn thân phủ tụ cầu nhạy methicillin và liên cầu theo cân nặng, do bác sĩ Nhi quyết định",
+     "v": "c",
+     "n": "Chốc bọng nước: NICE NG153 mục 1.1.5 (kháng sinh uống cho mọi chốc bọng nước), mục 1.1.16 (cân nhắc chuyển hoặc xin tư vấn khi chốc bọng nước ở bé ≤ 1 tuổi). Bảng liều của NICE bắt đầu từ 1 tháng (Bảng 2), QĐ 4416 không có mục riêng cho sơ sinh: liều cho bé 22 ngày tuổi cần bác sĩ Nhi quyết. Không nguồn nào viết thẳng 'nhập viện mọi sơ sinh bị chốc bọng nước': đây là quyết định phối hợp các mục trên, xem phần phân tích xử trí và sổ mâu thuẫn."
+    },
+    {
+     "t": "Kháng sinh uống phủ tụ cầu, liên cầu: cephalexin hoặc cloxacillin (liều theo QĐ 4416, IDSA 2014 hoặc AWaRe 2022 như trong đơn thuốc), 5–7 ngày",
+     "v": "c",
+     "n": "QĐ 4416/2023 (Chốc mục 3.2.2): cephalexin 25 mg/kg/ngày chia 4 lần, cloxacillin 50–100 mg/kg/ngày chia 3–4 lần; IDSA 2014 (khuyến cáo I.2b, Bảng 2): 7 ngày, dicloxacillin hoặc cephalexin 25–50 mg/kg/ngày chia 3–4 lần; AWaRe 2022 (chương 16 tr. 197): 5 ngày, cefalexin 125 mg mỗi 12 giờ cho 3–< 6 kg, cloxacillin 62,5 mg mỗi 6 giờ. Hai cách khác nhau về mức liều, số ngày, năm (2014, 2022, 2023) và bối cảnh; cả hai đều đúng. Khác nhau cho sơ sinh: không nguồn nào nêu liều riêng."
+    },
+    {
+     "t": "Chăm sóc tại chỗ: đắp gạc nước muối sinh lý 0,9% hoặc dung dịch Jarish lên vảy, để vùng da thoáng, thay tã thường xuyên",
+     "v": "c",
+     "n": "QĐ 4416/2023 (Chốc mục 3.2.1): trường hợp nhiều vảy tiết thì đắp nước muối sinh lý 9‰, dung dịch Jarish hoặc gạc mỡ vaselin đến khi bong vảy; mục 4: tắm rửa vệ sinh ngoài da. Thay tã thường xuyên: lời dặn thực hành, không có trong tài liệu đã tải. Ngâm thuốc tím 1/10.000 (mục 3.2.1) cho sơ sinh: không có trong tài liệu đã tải, không nên tự pha tại nhà."
+    },
+    {
+     "t": "Ngưng ngâm tã bằng nước tẩy; giặt tã bằng nước giặt dịu nhẹ, xả thật sạch; mang lọ vitamin D3K2 và chai amoxicillin đến cho bác sĩ Nhi xem",
+     "v": "c",
+     "n": "Lời dặn thực hành giải quyết yếu tố khởi phát (nước tẩy) và nỗi lo của mẹ; liên hệ nước tẩy và chốc, tác dụng phụ giọt vitamin D3K2: không có trong tài liệu đã tải. Chăm sóc phòng tái nhiễm: QĐ 4416/2023 (Chốc mục 4)."
+    },
+    {
+     "t": "Dặn vệ sinh tay, giặt riêng khăn, quần áo; kiểm tra anh trai 4 tuổi và người nhà",
+     "v": "a",
+     "n": "Chốc dễ lây qua tiếp xúc, dai dẳng do tự lây (QĐ 4416/2023, Chốc mục 2.1); NICE NG153 mục 1.1.1: hướng dẫn vệ sinh để giảm lây. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Cho về với kháng sinh uống (cephalexin theo cân nặng) kèm tái khám sớm 24–48 giờ",
+     "v": "a",
+     "n": "Chấp nhận được nhưng chưa tối ưu: NICE NG153 mục 1.1.5 đồng ý kháng sinh uống, nhưng mục 1.1.16 cân nhắc chuyển hoặc xin tư vấn ở bé ≤ 1 tuổi; bé 22 ngày tuổi, đã thất bại với một kháng sinh. Số giờ tái khám 24–48 giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh bôi tại chỗ (mupirocin 2% hoặc acid fusidic) thay cho kháng sinh uống, cho về",
+     "v": "a",
+     "n": "IDSA 2014 khuyến cáo I.2a: chốc bọng nước và không bọng nước có thể bôi mupirocin hoặc retapamulin 2 lần/ngày × 5 ngày; QĐ 4416/2023 (mục 3.2.1) bôi 2 lần/ngày, thường 7 ngày cho thể khu trú. Nhưng NICE NG153 mục 1.1.5 chỉ định thuốc uống cho mọi chốc bọng nước (bọng nước làm thuốc bôi khó thấm); giấy phép mupirocin ở nhũ nhi khác nhau theo chế phẩm (NICE Bảng 2). Chấp nhận, không tối ưu."
+    },
+    {
+     "t": "Truyền kháng sinh tĩnh mạch, cấy máu và chọc dò tủy ngay như sơ sinh nhiễm khuẩn huyết",
+     "v": "a",
+     "n": "WHO Pocket book 2013 mục 3.8: kháng sinh kinh nghiệm cho sơ sinh có bất kỳ dấu hiệu nhiễm khuẩn nặng; bé không có dấu hiệu nguy hiểm nào (mục 3.6). Chưa cần, nhưng khoa Nhi có thể chọn nếu bé xấu đi trong lúc theo dõi."
+    },
+    {
+     "t": "Cho bé tiếp tục uống amoxicillin đơn thuần cho đủ liệu trình hoặc đổi sang kháng sinh tự mua khác",
+     "v": "w",
+     "n": "Amoxicillin đơn thuần không nằm trong phác đồ chốc (QĐ 4416/2023, Chốc mục 3.2.2; AWaRe 2022 chương 16 tr. 195–197: phối hợp clavulanic acid); đã uống 5 ngày mà tổn thương mới vẫn mọc (NICE NG153 mục 1.1.12). Liều cho sơ sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kem corticoid hoặc kem phối hợp corticoid – kháng sinh lên vùng tã",
+     "v": "w",
+     "n": "Không có trong phác đồ chốc của QĐ 4416/2023, IDSA 2014, NICE NG153, AWaRe 2022; không nguồn nào nói an toàn cho sơ sinh trên tổn thương nhiễm khuẩn."
+    },
+    {
+     "t": "Aciclovir toàn thân hoặc bôi cho nghi herpes hoặc thủy đậu",
+     "v": "w",
+     "n": "Bé không có cụm mụn nước, không sốt, mẹ không mụn rộp; aciclovir không điều trị chốc. Chỉ định aciclovir tĩnh mạch ở sơ sinh nghi herpes: không có trong tài liệu đã tải (NICE NG143 mục 1.5.20 chỉ nêu khi nghi viêm não HSV, bé không có)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chốc bọng nước vùng tã – bẹn – quanh hậu môn ở sơ sinh nam 22 ngày tuổi, 3,9 kg; một phần đã vỡ thành vùng trợt có viền vảy; chưa có dấu hiệu nhiễm khuẩn toàn thân",
+     "Điều trị dở: mẹ tự cho amoxicillin siro của anh trai 5 ngày (khoảng 2,5 ml × 2 lần/ngày), không hiệu quả",
+     "Yếu tố khởi phát: da vùng tã kích ứng sau ngâm tã bằng nước tẩy đậm",
+     "Đã loại trừ: thủy đậu, herpes simplex, hội chứng bong vảy da do tụ cầu, ban do thuốc hoặc vitamin; chưa thấy dấu hiệu nhiễm khuẩn huyết sơ sinh",
+     "Mẹ lo giọt vitamin D3K2 gây dị ứng (lý do thật đến khám), không có bằng chứng; hướng xử trí: nhập viện khoa Nhi"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: một chỗ đỏ ở mông trái sau ngâm tã nước tẩy, 1–2 ngày sau mọc bọng nước nhỏ, dễ vỡ, để lại vùng đỏ ướt có viền mỏng; tổn thương lan sang bẹn và quanh hậu môn, không sốt, bú mạnh (QĐ 4416/2023, Chốc mục 2.1: bọng nước nhăn nheo, vỡ để lại viền vảy, hay ở quanh hậu môn của trẻ sơ sinh). Hỏi thêm: mẹ có mụn rộp hay thủy đậu quanh sinh, tiếp xúc trong nhà, thuốc đã cho (kể cả của người khác trong nhà).",
+     "Khám: sáu tổn thương khu trú vùng tã, bọng nước xẹp và vùng trợt có viền vảy, Nikolsky âm tính; không cụm mụn nước đầu đinh ghim (Herpes simplex mục 2.1), không sẩn – mụn nước – mụn mủ – vảy cùng lúc ở nhiều vùng (Thủy đậu mục 2.1). Rốn khô, thóp phẳng, tỉnh, bú mạnh, nách 36,8 °C, thở 44 l/p, mạch 140 l/p: dưới ngưỡng thở 60 l/p của sơ sinh bệnh nặng (WHO Pocket book 2013, mục 3.6) và dưới ngưỡng nhịp nhanh 160 l/p ở trẻ < 12 tháng (NICE NG143 2021, Bảng 1).",
+     "Cận lâm sàng (nguồn lực đầy đủ nhưng chọn lọc): Gram và cấy dịch đáy bọng nước có lý do vì đã dùng kháng sinh 5 ngày không đỡ (NICE NG153 mục 1.1.12), còn công thức máu, CRP, procalcitonin, Tzanck, PCR HSV, cấy máu chỉ chấp nhận, không bắt buộc. Không cần: nước tiểu, X-quang ngực, soi nấm, chọc dò tủy vì không sốt, không dấu hô hấp, không dấu thần kinh (NICE NG143 mục 1.5.3; WHO Pocket book 2013, mục 3.9).",
+     "Vì sao 'không điển hình': bọng nước ở sơ sinh nằm ở vùng tã, không có vảy mật ong dày, đã vỡ nên trông giống trợt, và bị làm lệch bởi nước tẩy cùng 5 ngày amoxicillin; tuổi 22 ngày nên phải loại trừ herpes, thủy đậu sơ sinh (CDC 2024; QĐ 5642/2015, Bệnh thủy đậu mục 1). Điều suýt làm bỏ qua: tổn thương nhỏ, bé khỏe, mẹ nói 'chỉ do vitamin'.",
+     "Vì sao điều trị amoxicillin không khỏi: amoxicillin đơn thuần không có trong phác đồ chốc (QĐ 4416/2023 mục 3.2.2; AWaRe 2022 chương 16 tr. 195–197). Phác đồ cần phủ cả S. aureus nhạy methicillin và liên cầu nhóm A (AWaRe 2022 chương 16, tr. 195). Ý nghĩa kết quả Gram, cấy: xác định vi khuẩn (QĐ 4416 mục 2.2).",
+     "Vì sao không nghĩ ban do thuốc: bọng nước chỉ ở vùng tã, không ban lan, không loét niêm mạc, không sốt, tổn thương mới mọc cả khi mới dùng thuốc; không có trong tài liệu đã tải thông tin về giọt D3K2. Lý do thật mẹ đến khám (sợ thuốc gây dị ứng) và việc mẹ giấu amoxicillin chỉ lộ khi hỏi nhẹ, không trách."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí chuẩn: nhập viện khoa Nhi để theo dõi sơ sinh và dùng kháng sinh toàn thân theo cân nặng. Căn cứ: NICE NG153 mục 1.1.5 (chốc bọng nước: kháng sinh uống), mục 1.1.16 (cân nhắc chuyển hoặc xin tư vấn khi chốc bọng nước ở bé ≤ 1 tuổi); bảng liều NICE bắt đầu từ 1 tháng tuổi (Bảng 2); bằng chứng chốc bọng nước sơ sinh chỉ là một nghiên cứu nhỏ ở bé 3–14 ngày tuổi dùng erythromycin uống (NICE NG153, tóm tắt bằng chứng); sơ sinh nhiễm khuẩn nặng biểu hiện kín đáo (WHO Pocket book 2013, mục 3.6). Không nguồn nào viết thẳng 'nhập viện mọi sơ sinh chốc bọng nước'; nên chọn ngưỡng thấp ở sơ sinh là quyết định lâm sàng kết hợp các mục này, không phải khuyến cáo trực tiếp.",
+     "Vì sao không chuyển cấp cứu: không dấu hiệu nguy hiểm (WHO Pocket book 2013, mục 3.6; NICE NG143 Bảng 1–2), không nhiều hay nặng mụn mủ da (mục 3.8); cơ sở có đủ cấy và theo dõi nội trú nên nhập viện tại chỗ.",
+     "Lấy dịch đáy bọng nước nhuộm Gram và cấy trước khi dùng kháng sinh mới (NICE NG153 mục 1.1.12, 1.1.14). Hai nguồn khác nhau về việc có cần cấy hay không: IDSA 2014 khuyến cáo I.1 và AWaRe 2022 (chương 16) không cần ở ca điển hình; NICE cân nhắc khi đã thất bại; ca này thuộc nhóm thứ hai.",
+     "Kháng sinh: uống phủ tụ cầu và liên cầu (QĐ 4416/2023 mục 3.2.2; IDSA 2014 khuyến cáo I.2b; AWaRe 2022 chương 16). Liều cephalexin: QĐ 4416 25 mg/kg/ngày chia 4 lần; IDSA 25–50 mg/kg/ngày chia 3–4 lần; AWaRe 125 mg mỗi 12 giờ cho 3–< 6 kg (cao nhất). Số ngày: 7 (IDSA) hoặc 5, tăng tới 7 theo số tổn thương (NICE Bảng 2, AWaRe). Không nguồn nào nêu liều riêng cho sơ sinh. Phối hợp thuốc bôi với thuốc uống: QĐ 4416 mục 3.1 kết hợp, NICE mục 1.1.6 không phối hợp (cả hai đúng, sổ mâu thuẫn).",
+     "Tại chỗ: gạc nước muối sinh lý 0,9% hoặc Jarish đến bong vảy (QĐ 4416 mục 3.2.1). Không dùng corticoid, aciclovir; không tiếp tục amoxicillin đơn thuần.",
+     "Nhận lỗi giúp mẹ: nói rõ mẹ lo cho con nên mới tự cho thuốc, kể cả nỗi sợ về vitamin; giải thích bé cần theo dõi vì còn nhỏ, không phải vì mẹ làm sai nặng. Kết cục tốt ở lần này không có nghĩa tự cho thuốc cho sơ sinh là an toàn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước muối sinh lý 0,9% (hoặc dung dịch Jarish)",
+      "ham_luong": "Dung dịch 0,9% đóng chai sẵn (Jarish theo chế phẩm bệnh viện)",
+      "lieu": "Tẩm gạc, đắp lên vùng có vảy, không chà",
+      "duong": "Dùng ngoài da",
+      "thoi_diem": "1–2 lần/ngày, mỗi lần khoảng 30 phút nếu dùng Jarish; làm trước khi thay tã",
+      "so_ngay": "Đến khi bong hết vảy",
+      "ghi_chu": "QĐ 4416/2023 (Chốc mục 3.2.1): đắp nước muối sinh lý 9‰, Jarish hoặc gạc mỡ vaselin đến khi bong vảy; Jarish ngày 2 lần, mỗi lần 30 phút. Dùng Jarish ở sơ sinh: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Cephalexin (cốm hoặc siro pha theo cân nặng), do bác sĩ Nhi quyết khi nhập viện",
+      "ham_luong": "Hàm lượng chế phẩm cho sơ sinh: không có trong tài liệu đã tải",
+      "lieu": "3,9 kg: QĐ 4416 25 mg/kg/ngày chia 4 lần ≈ 24 mg × 4 lần; hoặc IDSA 25–50 mg/kg/ngày chia 3–4 lần ≈ 98–195 mg/ngày; hoặc AWaRe 125 mg mỗi 12 giờ (≈ 64 mg/kg/ngày, cao nhất)",
+      "duong": "Uống",
+      "thoi_diem": "Chia 2–4 lần/ngày tùy nguồn, cách đều, sau khi lấy dịch cấy",
+      "so_ngay": "7 ngày (IDSA 2014) hoặc 5 ngày, tăng tới 7 tùy số tổn thương (NICE NG153, AWaRe 2022)",
+      "ghi_chu": "QĐ 4416/2023 (Chốc mục 3.2.2), IDSA 2014 (khuyến cáo I.2b, Bảng 2), AWaRe 2022 (chương 16 tr. 197). Thay thế: cloxacillin QĐ 4416 50–100 mg/kg/ngày chia 3–4 (≈ 195–390 mg/ngày) hoặc AWaRe 62,5 mg mỗi 6 giờ cho 3–< 6 kg. Liều cho sơ sinh dưới 1 tháng: không có trong tài liệu đã tải, bác sĩ Nhi quyết. Nếu có dấu hiệu nhiễm khuẩn huyết: ampicillin hoặc penicillin + gentamicin, hoặc cloxacillin tĩnh mạch + gentamicin khi nhiều mụn mủ da (WHO Pocket book 2013, mục 3.8)."
+     }
+    ],
+    "dan_do": [
+     "Nhập viện khoa Nhi hôm nay, mang theo lọ giọt vitamin D3K2, chai amoxicillin siro và tã đang dùng để bác sĩ Nhi xem.",
+     "Không tự cho bé uống thuốc của anh hay của người khác; thuốc kháng sinh cho sơ sinh phải do bác sĩ tính liều theo cân nặng (liều amoxicillin cho sơ sinh: không có trong tài liệu đã tải).",
+     "Ngưng ngâm tã bằng nước tẩy; giặt bằng nước giặt dịu nhẹ, xả thật sạch, phơi khô (lời dặn thực hành, không có trong tài liệu đã tải).",
+     "Rửa tay trước và sau khi thay tã; giặt riêng khăn, quần áo, khăn tắm của bé (QĐ 4416/2023, Chốc mục 4; NICE NG153 mục 1.1.1); kiểm tra anh trai 4 tuổi và người nhà có mụn mủ không.",
+     "Nói ngay với điều dưỡng, bác sĩ nếu bé bú kém, ngủ li bì, khóc yếu, sốt hoặc lạnh người, thở nhanh, tím tái, thêm nhiều bọng nước mới (WHO Pocket book 2013, mục 3.6).",
+     "Chốc bọng nước lành sau 1–2 tuần nếu điều trị đúng (QĐ 4416/2023, Chốc mục 2.1). Giọt vitamin: tiếp tục hay đổi do bác sĩ Nhi quyết sau khi xem lọ; chưa có bằng chứng giọt vitamin gây tổn thương này."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé nhập khoa Nhi 4 ngày. Gram dịch bọng nước thấy cầu khuẩn Gram dương xếp đám, cấy mọc tụ cầu vàng nhạy methicillin; PCR HSV âm tính. Sau khi dùng kháng sinh uống phủ tụ cầu, tổn thương khô vảy trong 2–3 ngày, không mọc tổn thương mới, bé bú tốt, không sốt, ra viện, hết hẳn sau khoảng 1 tuần. Đây là near miss: 5 ngày tự cho amoxicillin của anh trai (liều ước chừng, không đúng loại thuốc) may mắn không gây nôn, tiêu chảy hay ban, và nhập viện kịp lúc, nhưng kết cục tốt không hợp thức hóa việc tự dùng thuốc cho sơ sinh. Mẹ hiểu giọt vitamin không phải nguyên nhân rõ ràng, ngưng ngâm tã bằng nước tẩy, nhớ hỏi bác sĩ trước khi dùng thuốc cho con.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày (amoxicillin của anh trai): mẹ không tự kể vì sợ bị trách; làm tổn thương cũ khô một phần, tổn thương mới vẫn mọc, và làm kết quả cấy có thể sai lệch; phải hỏi tên thuốc, hàm lượng, cách đong, số ngày.",
+  "Nghi ngờ tác dụng phụ của thuốc (giọt vitamin D3K2 mới): là lý do thật đến khám, không phải triệu chứng của bé; cần hỏi ra nỗi lo và trả lời thẳng.",
+  "Tiếp xúc hóa chất (nước tẩy ngâm tã): làm da vùng tã đỏ rát trước khi nổi bọng nước, vừa là yếu tố thuận lợi vừa che lấp tổn thương.",
+  "Thuốc đang dùng là thực phẩm chức năng: mẹ không coi là 'thuốc' khi bác sĩ hỏi chung về thuốc.",
+  "Nguồn lực đầy đủ: vẫn phải biện luận vì sao không làm nước tiểu, X-quang ngực, soi nấm, chọc dò tủy, và vì sao cấy dịch da là xét nghiệm có lý do."
+ ],
+ "bai_hoc_bien": [
+  "Sơ sinh có tổn thương da: đánh giá toàn thân trước khi nhìn tổn thương, vì dấu hiệu nặng kín đáo (bú kém, li bì, hạ thân nhiệt) (WHO Pocket book 2013, mục 3.6).",
+  "Hỏi thuốc theo kiểu cụ thể và không trách: 'có cho bé uống kháng sinh hay siro của ai trong nhà không'; thực phẩm chức năng, thuốc của anh chị là nơi hay bị bỏ sót.",
+  "Chốc bọng nước ở bé ≤ 1 tuổi: NICE NG153 mục 1.1.5 (kháng sinh uống), mục 1.1.16 (cân nhắc chuyển hoặc xin tư vấn); sơ sinh dưới 1 tháng không có bảng liều riêng trong NICE, QĐ 4416, IDSA, AWaRe.",
+  "Amoxicillin đơn thuần không phải thuốc điều trị chốc (QĐ 4416 mục 3.2.2; AWaRe 2022 chương 16): thuốc đúng phủ S. aureus nhạy methicillin và liên cầu.",
+  "Kết cục tốt không hợp thức hóa quy trình sai: bé may mắn không có phản ứng với 5 ngày thuốc tự cho; lần sau cùng thói quen đó có thể gây hại.",
+  "Nghi ngờ thuốc gây dị ứng: đối chiếu thời gian mọc tổn thương, vị trí, toàn thân; ở đây tổn thương khu trú vùng tã, Gram thấy cầu khuẩn nên nghĩ nhiễm khuẩn hơn dị ứng.",
+  "Hai nguồn khác nhau về kết hợp thuốc bôi với thuốc uống, về liều cephalexin, về số ngày: ghi cả hai (sổ mâu thuẫn DL-0416, NH-1179, NH-1196)."
+ ],
+ "diem_nho": [
+  "Chốc bọng nước: bọng nước nông nhăn nheo, vỡ để lại viền vảy quanh vùng trợt đỏ ướt; hay ở mặt, chi, thân, nách và quanh hậu môn trẻ sơ sinh (QĐ 4416/2023, Chốc mục 2.1).",
+  "Chẩn đoán phân biệt: nấm da, thủy đậu, herpes simplex, hội chứng bong vảy da do tụ cầu, zona, pemphigus, pemphigoid (QĐ 4416 mục 2.4).",
+  "Chốc bọng nước: S. aureus tiết độc tố làm bọng nước mỏng, vỡ thành vùng trợt có viền vảy (IDSA 2014, Evidence Summary tr. e21).",
+  "Sơ sinh nặng thường chỉ có dấu hiệu không đặc hiệu: bú kém, li bì, thở ≥ 60 l/p, sốt > 38 °C, hạ nhiệt < 35,5 °C, tím (WHO Pocket book 2013, mục 3.6); dưới 3 tháng, sốt ≥ 38 °C là nhóm nguy cơ cao (NICE NG143 mục 1.2.12).",
+  "Gram và cấy chốc: không cần ở ca điển hình (IDSA 2014 khuyến cáo I.1); cân nhắc khi không đỡ sau thuốc uống (NICE NG153 mục 1.1.12).",
+  "Thuốc uống: cephalexin, cloxacillin, dicloxacillin (QĐ 4416 mục 3.2.2; IDSA 2014 khuyến cáo I.2b); 5 ngày, tăng 7 ngày tùy số tổn thương (NICE Bảng 2).",
+  "Chốc lành sau 1–2 tuần; có thể thành viêm mô bào, viêm bạch mạch, nhiễm khuẩn huyết, viêm phổi do tụ cầu nếu không điều trị (QĐ 4416 mục 2.1)."
+ ],
+ "nguon": [
+  "QĐ 4416 – Bộ Y tế, QĐ 4416/QĐ-BYT 2023, Hướng dẫn chẩn đoán và điều trị các bệnh da liễu – TL-0397 – ĐÃ ĐỌC: Chốc mục 1.2, 1.3, 2.1–2.4, 3.1, 3.2.1, 3.2.2, 4; Herpes simplex mục 2.1; Thủy đậu mục 2.1, 2.2",
+  "IDSA 2014 – Stevens DL et al., Practice guidelines for the diagnosis and management of skin and soft tissue infections, Clin Infect Dis 2014;59(2):e10–52 – TL-0270 – ĐÃ ĐỌC: khuyến cáo I.1, I.2 (a–c), Bảng 2 (chốc), Evidence Summary (chốc bọng nước, tr. e21)",
+  "NICE NG153 – Impetigo: antimicrobial prescribing, 2020 – TL-0428 – ĐÃ ĐỌC: mục 1.1.1, 1.1.5–1.1.9, 1.1.12, 1.1.14–1.1.16, 1.2.1, Bảng 2; Rationale (chốc bọng nước, kết hợp thuốc, chuyển tuyến); Summary of evidence (bé 3–14 ngày tuổi, erythromycin uống)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: chương 16 (impetigo, erysipelas, cellulitis) tr. 193–197: định nghĩa, xét nghiệm, 5 ngày, cefalexin và cloxacillin theo dải cân nặng 3–< 6 kg",
+  "WHO Pocket book 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 3.6 Danger signs in newborns and young infants (tr. 52), mục 3.8 Serious bacterial infection (tr. 54–55), mục 3.9 Meningitis (tr. 55)",
+  "NICE NG143 2021 – Fever in under 5s: assessment and initial management – TL-0262 – ĐÃ ĐỌC: mục 1.2.12, 1.5.3, 1.5.20, Bảng 1–2",
+  "CDC 2024 – Clinical Overview of Chickenpox (Varicella), cập nhật 15/07/2024 – TL-0255 – ĐÃ ĐỌC: Who is at risk",
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh thủy đậu, mục 1 (sơ sinh)",
+  "Không có trong tài liệu đã tải: liều amoxicillin, cephalexin, cloxacillin riêng cho sơ sinh dưới 1 tháng và hàm lượng chế phẩm; hướng dẫn herpes sơ sinh (xét nghiệm, aciclovir); liên hệ giữa nước tẩy, viêm da kích ứng vùng tã và chốc; tác dụng phụ của giọt vitamin D3K2 ở sơ sinh; thời gian tái khám cụ thể sau ra viện; giá trị bình thường xét nghiệm máu sơ sinh."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-28 (bản 1). Đặc tả sổ cái khớp: sơ sinh nam 22 ngày, 1 lượt, không điển hình (chốc bọng nước vùng tã, đã vỡ, không vảy mật ong), tự cho amoxicillin 5 ngày, nguồn lực đầy đủ, khởi phát do nước tẩy ngâm tã, thuốc đang dùng giọt vitamin D3K2, lý do thật nghi tác dụng phụ của thuốc, kết cục near miss.",
+  "Tài liệu đã đọc: TL-0397 (Chốc mục 1–4; Herpes simplex mục 2.1; Thủy đậu mục 2.1–2.2), TL-0270 (I.1, I.2, Bảng 2, Evidence Summary), TL-0428 (1.1.1–1.1.16, Bảng 2, Rationale), TL-0018 (chương 16), TL-0250 (mục 3.6, 3.8, 3.9), TL-0262 (1.2.12, 1.5.3, 1.5.20, Bảng 1–2), TL-0255, TL-0038 (thủy đậu).",
+  "Hướng xử trí nhập viện là quyết định tổng hợp của người viết (NICE 1.1.5, 1.1.16, Bảng 2 từ 1 tháng, bằng chứng sơ sinh nhỏ, Pocket book 3.6); không nguồn nào nêu thẳng. Cần bác sĩ duyệt.",
+  "Ảnh da: thử SCIN nhãn Impetigo, xin 4 mã HA-DA-0385 đến 0388, xem trước và loại cả 4 (người lớn, lộ mặt một phần, dây chuyền, không phải vùng tã sơ sinh); không đưa lên web, dùng chữ.",
+  "Mâu thuẫn: theo mục sổ DL-0416, NH-1179, NH-1196 (bôi + uống; liều cephalexin; số ngày). Đề xuất mục mới nhỏ trong NH-1186_mau_thuan.md.",
+  "Chỗ thiếu tài liệu: ghi ở mục nguon."
+ ]
+}
